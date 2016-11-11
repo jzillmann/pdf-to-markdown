@@ -1,0 +1,34 @@
+{
+  "name": "pdf-to-markdown",
+  "version": "0.0.1",
+  "description": "A PDF to Markdown converter",
+  "main": "main.js",
+  "scripts": {
+    "watch": "webpack -d --watch",
+    "build": "webpack"
+  },
+  "keywords": [
+    "PDF",
+    "Markdown",
+    "Converter"
+  ],
+  "author": "Johannes Zillmann",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.0.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-eslint": "^7.1.0",
+    "babel-loader": "^6.2.7",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.24.1",
+    "url-loader": "^0.5.7",
+    "vue-loader": "^9.8.1",
+    "webpack": "^1.13.3"
+  }
+}
