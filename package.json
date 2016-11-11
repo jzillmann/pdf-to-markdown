@@ -19,6 +19,7 @@
     "url": "https://github.com/jzillmann/pdf-to-markdown"
   },
   "dependencies": {
+    "pdfjs-dist": "^1.6.317",
     "vue": "^2.0.5"
   },
   "devDependencies": {

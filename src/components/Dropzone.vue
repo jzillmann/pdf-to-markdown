@@ -14,6 +14,7 @@
 </template>
 
 <script>
+import pdfjs from 'pdfjs-dist';
 export default {
     props : {
             multiple : {
@@ -58,6 +59,18 @@ export default {
           var files = e.target.files || e.dataTransfer.files;
           console.debug(files);
           if (!files.length) return;
+
+          var reader = new FileReader();
+          reader.onload = (evt) => {
+            console.debug("Loaded");
+            var buffer = evt.target.result;
+            PDFJS.getDocument(buffer).then(function (pdfDocument) {
+              console.log('Number of pages: ' + pdfDocument.numPages);
+            });
+          };
+          reader.readAsDataURL(files[0]);
+
+
           this.createImage(files[0]);
       },
       createImage(file) {
