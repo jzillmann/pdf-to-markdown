@@ -14,6 +14,10 @@
   ],
   "author": "Johannes Zillmann",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jzillmann/pdf-to-markdown"
+  },
   "dependencies": {
     "vue": "^2.0.5"
   },
@@ -27,6 +31,7 @@
     "css-loader": "^0.25.0",
     "file-loader": "^0.9.0",
     "html-webpack-plugin": "^2.24.1",
+    "sass-loader": "^4.0.2",
     "url-loader": "^0.5.7",
     "vue-loader": "^9.8.1",
     "webpack": "^1.13.3"

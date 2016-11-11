@@ -40,6 +40,10 @@ module.exports = {
                 loader: 'vue'
             },
             {
+                test: /\.scss$/,
+                loaders: ["style", "css", "sass"]
+            },
+            {
                 test: /\.png$/,
                 loader: "url-loader?limit=100000"
             },
