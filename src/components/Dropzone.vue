@@ -14,6 +14,7 @@
 </template>
 
 <script>
+import store from '../store.js'
 import pdfjs from 'pdfjs-dist';
 export default {
     props : {
@@ -45,7 +46,7 @@ export default {
     data() {
         return {
             hovering : false,
-            image: null
+            image: null,
         }
     },
     computed: {
@@ -60,28 +61,70 @@ export default {
           console.debug(files);
           if (!files.length) return;
 
-          var reader = new FileReader();
+          const reader = new FileReader();
           reader.onload = (evt) => {
             console.debug("Loaded");
-            var buffer = evt.target.result;
+            const buffer = evt.target.result;
+            // const lines = []
+            const pages= []
             PDFJS.getDocument(buffer).then(function (pdfDocument) {
-              console.log('Number of pages: ' + pdfDocument.numPages);
+              //console.log('Number of pages: ' + pdfDocument.numPages);
+              // console.debug(pdfDocument);
+              for (var i = 0; i <= 3; i++) {
+                pdfDocument.getPage(i).then(function(page){
+                  page.getTextContent().then(function(textContent) {
+                          var text = '';
+                          var line;
+                          var lineY;
+                          //console.debug(textContent);
+                          const pageTextContents = []
+                          textContent.items.map(function(item) {
+                            const transform = item.transform;
+                            const x = transform[4];
+                            const y = transform[5];
+                            const width = item.width;
+                            const height = item.height;
+                            pageTextContents.push({
+                              text: item.str,
+                              x: x,
+                              y: y,
+                              width: item.width,
+                              height: item.height
+                            });
+                            if(!line){
+                              console.debug("First line: "+item.str);
+                              lineY = y;
+                              line = item.str;
+                            } else {
+                              if (y === lineY){
+                                console.debug("Add to line: "+line +" / "+ item.str);
+                                line += item.str;
+                              } else {
+                                console.debug("Start line: "+line+ " / " +item.str);
+                                text += line + '\n';
+                                line = item.str;
+                                lineY = y;
+                              }
+                            }
+                            // console.debug('|'+item.str+'|');
+                            // lines.push(item.str);
+                            // lines.push(text)
+                          });
+                          text += line ;
+                          console.debug("Push Page ");
+                          console.debug(text);
+                          pages.push(text)
+                          console.debug(pageTextContents);
+                  });
+                });
+              }
             });
+            console.debug("Store all");
+            console.debug(pages);
+            store.upload(pages);
+            console.debug("now:"+store.state.uploaded);
           };
-          reader.readAsDataURL(files[0]);
-
-
-          this.createImage(files[0]);
-      },
-      createImage(file) {
-          var image = new Image();
-          var reader = new FileReader();
-          var vm = this;
-
-          reader.onload = (e) => {
-              vm.image = e.target.result;
-          };
-          reader.readAsDataURL(file);
+          reader.readAsArrayBuffer(files[0]);
       },
       removeImage: function (e) {
           this.image = '';

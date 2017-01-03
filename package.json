@@ -19,8 +19,10 @@
     "url": "https://github.com/jzillmann/pdf-to-markdown"
   },
   "dependencies": {
+    "keen-ui": "^0.8.9",
     "pdfjs-dist": "^1.6.317",
-    "vue": "^2.0.5"
+    "vue": "^2.0.5",
+    "vue-material": "^0.3.3"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",

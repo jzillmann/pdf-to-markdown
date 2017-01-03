@@ -1,18 +1,26 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-     <dropzone id="myVueDropzone" url="https://httpbin.org/post" v-on:vdropzone-success="showSuccess" v-on:vdropzone-fileAdded="fileAdded"></dropzone>
+    <hello v-if="state.uploaded"/>
+    <!--img src="./assets/logo.png"-->
+     <dropzone v-else id="myVueDropzone" url="https://httpbin.org/post" v-on:vdropzone-success="showSuccess" v-on:vdropzone-fileAdded="fileAdded"></dropzone>
   </div>
 </template>
 
 <script>
+import store from './store.js'
 import Hello from './components/Hello'
 import Dropzone from './components/Dropzone'
 
 export default {
   name: 'app',
   components: {
-    Dropzone
+    Hello,
+    Dropzone,
+  },
+  data() {
+    return {
+      state: store.state
+    }
   },
   methods: {
       'fileAdded': function (file) {
