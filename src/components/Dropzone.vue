@@ -16,6 +16,9 @@
 <script>
 import store from '../store.js'
 import pdfjs from 'pdfjs-dist';
+import Page from '../models/Page.js';
+import TextItem from '../models/TextItem.js';
+
 export default {
     props : {
             multiple : {
@@ -65,64 +68,31 @@ export default {
           reader.onload = (evt) => {
             console.debug("Loaded");
             const buffer = evt.target.result;
-            // const lines = []
-            const pages= []
             PDFJS.getDocument(buffer).then(function (pdfDocument) {
-              //console.log('Number of pages: ' + pdfDocument.numPages);
+              console.log('Number of pages: ' + pdfDocument.numPages);
               // console.debug(pdfDocument);
-              for (var i = 0; i <= 3; i++) {
+              const numPages = pdfDocument.numPages;
+              // const numPages = 3;
+              store.preparePageUpload(numPages);
+              for (var i = 0; i <= numPages; i++) {
                 pdfDocument.getPage(i).then(function(page){
                   page.getTextContent().then(function(textContent) {
-                          var text = '';
-                          var line;
-                          var lineY;
                           //console.debug(textContent);
-                          const pageTextContents = []
-                          textContent.items.map(function(item) {
+                          const textItems = textContent.items.map(function(item) {
                             const transform = item.transform;
-                            const x = transform[4];
-                            const y = transform[5];
-                            const width = item.width;
-                            const height = item.height;
-                            pageTextContents.push({
-                              text: item.str,
-                              x: x,
-                              y: y,
+                            return new TextItem({
+                              x: transform[4],
+                              y: transform[5],
                               width: item.width,
-                              height: item.height
+                              height: item.height,
+                              text: item.str
                             });
-                            if(!line){
-                              console.debug("First line: "+item.str);
-                              lineY = y;
-                              line = item.str;
-                            } else {
-                              if (y === lineY){
-                                console.debug("Add to line: "+line +" / "+ item.str);
-                                line += item.str;
-                              } else {
-                                console.debug("Start line: "+line+ " / " +item.str);
-                                text += line + '\n';
-                                line = item.str;
-                                lineY = y;
-                              }
-                            }
-                            // console.debug('|'+item.str+'|');
-                            // lines.push(item.str);
-                            // lines.push(text)
                           });
-                          text += line ;
-                          console.debug("Push Page ");
-                          console.debug(text);
-                          pages.push(text)
-                          console.debug(pageTextContents);
+                          store.uploadPage(page.pageIndex, textItems);
                   });
                 });
               }
             });
-            console.debug("Store all");
-            console.debug(pages);
-            store.upload(pages);
-            console.debug("now:"+store.state.uploaded);
           };
           reader.readAsArrayBuffer(files[0]);
       },
