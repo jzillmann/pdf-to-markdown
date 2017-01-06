@@ -28,20 +28,23 @@ export default {
                 var text = '';
                 var line;
                 var lineY;
+                // console.debug("Page " + rawPage.index + "-------");
                 rawPage.textItems.forEach(textItem => {
+                    console.debug(textItem);
+                    const yRounded = Math.round(textItem.y);
                     if (!line) {
-                        // console.debug("First line: "+item.str);
-                        lineY = textItem.y;
+                        // console.debug("First line: " + textItem.text);
+                        lineY = yRounded;
                         line = textItem.text;
                     } else {
-                        if (textItem.y === lineY) {
-                            //console.debug("Add to line: "+line +" / "+ item.str);
+                        if (yRounded === lineY) {
+                            // console.debug("Add to line: " + line + " / " + textItem.text);
                             line += textItem.text;
                         } else {
-                            // console.debug("Start line: "+line+ " / " +item.str);
+                            // console.debug("Start line: " + line + " / " + textItem.text);
                             text += line + '\n';
                             line = textItem.text;
-                            lineY = textItem.y;
+                            lineY = yRounded;
                         }
                     }
                 });

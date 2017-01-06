@@ -29,6 +29,8 @@ h1, h2 {
   font-weight: normal;
 }
 
+textarea { font-size: 18px; }
+
 ul {
   list-style-type: none;
   padding: 0;
