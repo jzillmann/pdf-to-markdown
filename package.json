@@ -1,11 +1,12 @@
 {
   "name": "pdf-to-markdown",
   "version": "0.0.1",
-  "description": "A PDF to Markdown converter",
+  "description": "A PDF to Markdown Converter",
   "main": "main.js",
   "scripts": {
     "watch": "webpack -d --watch",
-    "build": "webpack"
+    "build": "webpack",
+    "lint": "eslint . --ext .js --ext .jsx --cache"
   },
   "keywords": [
     "PDF",
@@ -13,15 +14,20 @@
     "Converter"
   ],
   "author": "Johannes Zillmann",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/jzillmann/pdf-to-markdown"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
+    "enumify": "^1.0.4",
     "pdfjs-dist": "^1.6.317",
-    "vue": "^2.0.5",
-    "vue-material": "^0.3.3"
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.3",
+    "react-dom": "^15.3.2",
+    "react-dropzone": "^3.6.0",
+    "react-icons": "^2.2.1"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
@@ -29,13 +35,18 @@
     "babel-loader": "^6.2.7",
     "babel-plugin-transform-runtime": "^6.15.0",
     "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
     "babel-preset-stage-0": "^6.16.0",
+    "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.25.0",
+    "esformatter-jsx": "^7.0.1",
+    "eslint": "^3.7.0",
+    "eslint-plugin-react": "^6.3.0",
+    "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.9.0",
     "html-webpack-plugin": "^2.24.1",
-    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
-    "vue-loader": "^9.8.1",
     "webpack": "^1.13.3"
   }
 }

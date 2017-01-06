@@ -1,15 +1,18 @@
-var path = require('path')
-var sourceDir = path.resolve(__dirname, 'src');
-
+var path = require('path');
+var webpack = require('webpack');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
+var CopyWebpackPlugin = require('copy-webpack-plugin');
+
+var SOURCE_DIR = path.resolve(__dirname, 'src');
+var BUILD_DIR = path.resolve(__dirname, 'build');
+var NODEMODULES_DIR = path.resolve(__dirname, 'node_modules');
+var JAVASCRIPT_DIR = SOURCE_DIR + '/javascript';
 
 module.exports = {
-    entry: './src/main.js',
+    entry: JAVASCRIPT_DIR + '/index.jsx',
     output: {
-        // To the `dist` folder
-        path: './dist',
-        // With the filename `build.js` so it's dist/build.js
-        filename: 'build.js'
+        path: BUILD_DIR,
+        filename: 'bundle.js'
     },
     resolve: {
         extensions: ['', '.js', '.vue'],
@@ -29,34 +32,55 @@ module.exports = {
         loaders: [
             {
                 // Ask webpack to check: If this file ends with .js, then apply some transforms
-                test: /\.js$/,
+                test: /\.jsx?$/,
                 // Transform it with babel
                 loader: 'babel',
                 // don't transform node_modules folder (which don't need to be compiled)
-                exclude: /node_modules/
+                include: [JAVASCRIPT_DIR],
+                query: {
+                    plugins: ['transform-runtime'],
+                    presets: ['es2015', 'stage-0', 'react'],
+                }
             },
             {
-                test: /\.vue$/,
-                loader: 'vue'
-            },
-            {
-                test: /\.scss$/,
-                loaders: ["style", "css", "sass"]
+                test: /\.css$/,
+                loader: "style-loader!css-loader"
             },
             {
                 test: /\.png$/,
                 loader: "url-loader?limit=100000"
             },
+            {
+                test: /\.jpg$/,
+                loader: "file-loader"
+            },
+            {
+                test: /\.(woff|woff2)(\?v=\d+\.\d+\.\d+)?$/,
+                loader: 'url?limit=10000&mimetype=application/font-woff'
+            },
+            {
+                test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/,
+                loader: 'url?limit=10000&mimetype=application/octet-stream'
+            },
+            {
+                test: /\.eot(\?v=\d+\.\d+\.\d+)?$/,
+                loader: 'file'
+            },
+            {
+                test: /\.svg(\?v=\d+\.\d+\.\d+)?$/,
+                loader: 'url?limit=10000&mimetype=image/svg+xml'
+            }
         ]
-    },
-    vue: {
-        loaders: {
-            js: 'babel'
-        }
     },
     plugins: [
         new HtmlWebpackPlugin({
-            template: sourceDir + '/index.html'
-        })
+            template: SOURCE_DIR + '/index.html'
+        }),
+        new CopyWebpackPlugin([
+            {
+                from: NODEMODULES_DIR + '/pdfjs-dist/build/pdf.worker.js',
+                to: 'bundle.worker.js'
+            },
+        ])
     ]
 }
