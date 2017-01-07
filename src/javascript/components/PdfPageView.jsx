@@ -9,7 +9,7 @@ export default class PdfPageView extends React.Component {
     };
 
     render() {
-        const header = "Page " + this.props.pdfPage.index;
+        const header = "Page " + (this.props.pdfPage.index + 1);
         return (
             <div>
               <h2>{ header }</h2>

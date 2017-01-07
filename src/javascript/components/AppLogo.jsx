@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import FaFilePdfO from 'react-icons/lib/fa/file-pdf-o'
 
-export default class AppLogo extends Component {
+export default class AppLogo extends React.Component {
 
     static propTypes = {
         onClick: React.PropTypes.func,

@@ -1,6 +1,11 @@
 import React from 'react';
 
 import Badge from 'react-bootstrap/lib/Badge'
+import ButtonToolbar from 'react-bootstrap/lib/ButtonToolbar'
+import ButtonGroup from 'react-bootstrap/lib/ButtonGroup'
+import Button from 'react-bootstrap/lib/Button'
+import DropdownButton from 'react-bootstrap/lib/DropdownButton'
+import MenuItem from 'react-bootstrap/lib/MenuItem'
 
 import PdfPageView from './PdfPageView.jsx';
 
@@ -24,7 +29,12 @@ export default class PdfView extends React.Component {
         this.setState({
             pageNr: pageNr
         });
+    }
 
+    selectTransformation(currentTransformation) {
+        this.setState({
+            currentTransformation: currentTransformation
+        });
     }
 
     nextTransformation() {
@@ -46,19 +56,7 @@ export default class PdfView extends React.Component {
 
         const header = "Parsed " + pdfPages.length + " pages!"
 
-        var pageLinks = [];
-        pageLinks.push(<a key={ -1 } onClick={ this.selectPage.bind(this, -1) } style={ { fontSize: '1.20em' } }>All</a>);
-        pdfPages.forEach((pdfPage, i) => pageLinks.push(<a key={ i } onClick={ this.selectPage.bind(this, i) } style={ { fontSize: '1.10em' } }>
-                                                          { " " + i }
-                                                        </a>));
-
         const currentTransformationName = transformations[currentTransformation].name;
-        const prevLink = <a onClick={ this.prevTransformation.bind(this) } className={ currentTransformation > 0 ? '' : 'disabled' }>
-                           { '<==' }
-                         </a>;
-        const nextLink = <a onClick={ this.nextTransformation.bind(this) } className={ currentTransformation < transformations.length - 1 ? '' : 'disabled' }>
-                           { '==>' }
-                         </a>;
 
         const transformedPdfPages = pdfPages.filter((elem, i) => pageNr == -1 || i == pageNr).map(pdfPage => {
             for (var i = 0; i <= currentTransformation; i++) {
@@ -72,25 +70,56 @@ export default class PdfView extends React.Component {
         return (
             <div>
               <div>
-                <Badge>
-                  { pdfPages.length }
-                </Badge> pages!
-              </div>
-              <div style={ { textAlign: 'center' } }>
-                <div>
-                  <b>Pages:</b>
-                </div>
-                <div>
-                  { pageLinks }
-                </div>
-                <div>
-                  <b>Current Transformation:</b>
-                </div>
-                <div>
-                  { prevLink }
-                  { " " + currentTransformationName + " " }
-                  { nextLink }
-                </div>
+                <table style={ { width: '100%' } }>
+                  <caption>
+                    Pages
+                  </caption>
+                  <tbody>
+                    <tr>
+                      <td>
+                        <ButtonToolbar>
+                          <ButtonGroup>
+                            <Button onClick={ this.selectPage.bind(this, -1) } className={ pageNr == -1 ? 'active' : '' }>
+                              All
+                            </Button>
+                            { pdfPages.map((pdfPage, i) => <Button key={ i } onClick={ this.selectPage.bind(this, i) } className={ pageNr == i ? 'active' : '' }>
+                                                             { i + 1 }
+                                                           </Button>) }
+                          </ButtonGroup>
+                        </ButtonToolbar>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <br/>
+                <table>
+                  <caption>
+                    Current Transformation
+                  </caption>
+                  <tbody>
+                    <tr>
+                      <td>
+                        <DropdownButton title={ currentTransformationName } id="dropdown-size-medium">
+                          { transformations.map((transformation, i) => <MenuItem key={ i } eventKey={ i } onSelect={ this.selectTransformation.bind(this, i) }>
+                                                                       { transformation.name }
+                                                                       </MenuItem>) }
+                        </DropdownButton>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <br/>
+                        <Button className={ currentTransformation > 0 ? 'btn-round' : 'btn-round disabled' } onClick={ this.prevTransformation.bind(this) }>
+                          ← Previous
+                        </Button>
+                        { ' ' }
+                        <Button className={ currentTransformation < transformations.length - 1 ? 'btn-round' : 'btn-round disabled' } onClick={ this.nextTransformation.bind(this) }>
+                          Next →
+                        </Button>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
               </div>
               <hr/>
               { pageComponents }
