@@ -3,6 +3,9 @@ import { Enum } from 'enumify';
 import { pdfToTextItemsAsync } from '../functions/pdfToTextItems.jsx'
 import PdfPage from './PdfPage.jsx';
 
+import NoOpTransformation from './transformations/NoOpTransformation.jsx';
+import RoundYTransformation from './transformations/RoundYTransformation.jsx';
+
 // Holds the state of the Application
 export default class AppState {
 
@@ -12,6 +15,7 @@ export default class AppState {
         this.pagesToUpload = 0;
         this.uploadedPages = 0;
         this.pdfPages = [];
+        this.transformations = [new NoOpTransformation(), new RoundYTransformation()];
 
         //bind functions
         this.render = this.render.bind(this);

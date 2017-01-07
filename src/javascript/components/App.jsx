@@ -26,7 +26,7 @@ export default class App extends React.Component {
             mainView = <LoadingView/>
             break;
         case View.PDF_VIEW:
-            mainView = <PdfView pdfPages={ this.props.appState.pdfPages } />
+            mainView = <PdfView pdfPages={ this.props.appState.pdfPages } transformations={ this.props.appState.transformations } />
             break;
         }
 
