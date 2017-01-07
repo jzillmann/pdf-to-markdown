@@ -15,7 +15,6 @@ export default class PdfView extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            transformations: this.props.transformations,
             currentTransformation: 0,
             pageNr: -1
         };
@@ -29,25 +28,21 @@ export default class PdfView extends React.Component {
     }
 
     nextTransformation() {
-        console.debug("nextTransformation");
         this.setState({
             currentTransformation: this.state.currentTransformation + 1
         });
-        console.debug(this.state.currentTransformation);
     }
 
     prevTransformation() {
-        console.debug("prevTransformation");
         this.setState({
             currentTransformation: this.state.currentTransformation - 1
         });
-        console.debug(this.state.currentTransformation);
     }
 
 
     render() {
-        const {transformations, currentTransformation, pageNr} = this.state;
-        const {pdfPages} = this.props;
+        const {currentTransformation, pageNr} = this.state;
+        const {pdfPages, transformations} = this.props;
 
         const header = "Parsed " + pdfPages.length + " pages!"
 
@@ -65,21 +60,14 @@ export default class PdfView extends React.Component {
                            { '==>' }
                          </a>;
 
-
-        //TODO only transform selected page ?
-        const transformedPdfPages = pdfPages.map(pdfPage => {
+        const transformedPdfPages = pdfPages.filter((elem, i) => pageNr == -1 || i == pageNr).map(pdfPage => {
             for (var i = 0; i <= currentTransformation; i++) {
                 pdfPage = transformations[i].transform(pdfPage);
             }
             return pdfPage;
         });
 
-        var pageComponents;
-        if (pageNr >= 0) {
-            pageComponents = <PdfPageView key={ pageNr } pdfPage={ transformedPdfPages[pageNr] } />;
-        } else {
-            pageComponents = transformedPdfPages.map((page) => <PdfPageView key={ page.index } pdfPage={ page } />);
-        }
+        var pageComponents = transformedPdfPages.map(page => <PdfPageView key={ page.index } pdfPage={ page } />);
 
         return (
             <div>

@@ -1,9 +1,9 @@
 import Transformation from './Transformation.jsx';
 
-export default class RoundYTransformation extends Transformation {
+export default class RoundCoordinatesTransformation extends Transformation {
 
     constructor() {
-        super("Round all Y");
+        super("Round coordinates");
     }
 
     transform(pdfPage:PdfPage) {
@@ -12,7 +12,10 @@ export default class RoundYTransformation extends Transformation {
             textItems: pdfPage.textItems.map(textItem => {
                 return {
                     ...textItem,
-                    y: Math.round(textItem.y)
+                    x: Math.round(textItem.x),
+                    y: Math.round(textItem.y),
+                    width: Math.round(textItem.width),
+                    height: Math.round(textItem.height)
                 }
             })
         };
