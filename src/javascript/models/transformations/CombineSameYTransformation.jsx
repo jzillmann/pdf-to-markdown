@@ -1,5 +1,6 @@
 import Transformation from './Transformation.jsx';
 import TextItem from '../TextItem.jsx';
+import PdfPage from '../PdfPage.jsx';
 
 export default class CombineSameYTransformation extends Transformation {
 
@@ -18,9 +19,9 @@ export default class CombineSameYTransformation extends Transformation {
                 if (textItem.y == lastTextItem.y) {
                     //combine
 
-                    console.debug("last=" + lastTextItem.text + ", x=" + lastTextItem.x + ", width=" + lastTextItem.width);
-                    console.debug("new=" + textItem.text + ", x=" + textItem.x + ", width=" + textItem.width);
-                    console.debug("diff=" + (textItem.x - lastTextItem.x - lastTextItem.width));
+                    // console.debug("last=" + lastTextItem.text + ", x=" + lastTextItem.x + ", width=" + lastTextItem.width);
+                    // console.debug("new=" + textItem.text + ", x=" + textItem.x + ", width=" + textItem.width);
+                    // console.debug("diff=" + (textItem.x - lastTextItem.x - lastTextItem.width));
 
                     var combinedText = lastTextItem.text;
                     //TODO make 5 dependent on text size or biggest gap?

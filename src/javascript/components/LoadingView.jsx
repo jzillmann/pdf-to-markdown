@@ -1,6 +1,6 @@
 import React from 'react';
 
-import pdfjs from 'pdfjs-dist';
+import pdfjs from 'pdfjs-dist'; // eslint-disable-line no-unused-vars
 import { Line } from 'rc-progress';
 
 import PdfPage from '../models/PdfPage.jsx';
@@ -29,7 +29,7 @@ export default class LoadingView extends React.Component {
 
     anouncePageParsed(index, textItems) {
         //TODO might make problems.. concat unordered and order at the end ?
-        this.state.pdfPages[index].textItems = textItems;
+        this.state.pdfPages[index].textItems = textItems; // eslint-disable-line react/no-direct-mutation-state
         this.setState({
             parsedPages: this.state.parsedPages + 1
         });
@@ -39,8 +39,8 @@ export default class LoadingView extends React.Component {
     componentWillMount() {
         const anounceInitialParseFunction = this.anounceInitialParse.bind(this);
         const anouncePageParsedFunction = this.anouncePageParsed.bind(this);
-        PDFJS.getDocument(this.props.fileBuffer).then(function(pdfDocument) {
-            console.log('Number of pages: ' + pdfDocument.numPages);
+        PDFJS.getDocument(this.props.fileBuffer).then(function(pdfDocument) { // eslint-disable-line no-undef
+            // console.log('Number of pages: ' + pdfDocument.numPages);
             // console.debug(pdfDocument);
             const numPages = pdfDocument.numPages;
             // const numPages = 4; // hack
@@ -51,8 +51,8 @@ export default class LoadingView extends React.Component {
                 }));
             }
             anounceInitialParseFunction(pdfPages);
-            for (var i = 1; i <= numPages; i++) {
-                pdfDocument.getPage(i).then(function(page) {
+            for (var j = 1; j <= numPages; j++) {
+                pdfDocument.getPage(j).then(function(page) {
                     page.getTextContent().then(function(textContent) {
                         // console.debug(textContent);
                         const textItems = textContent.items.map(function(item) {

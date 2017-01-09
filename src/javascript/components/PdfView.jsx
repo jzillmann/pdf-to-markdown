@@ -1,6 +1,5 @@
 import React from 'react';
 
-import Badge from 'react-bootstrap/lib/Badge'
 import ButtonToolbar from 'react-bootstrap/lib/ButtonToolbar'
 import ButtonGroup from 'react-bootstrap/lib/ButtonGroup'
 import Button from 'react-bootstrap/lib/Button'
@@ -53,8 +52,6 @@ export default class PdfView extends React.Component {
     render() {
         const {currentTransformation, pageNr} = this.state;
         const {pdfPages, transformations} = this.props;
-
-        const header = "Parsed " + pdfPages.length + " pages!"
 
         const currentTransformationName = transformations[currentTransformation].name;
 

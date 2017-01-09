@@ -17,7 +17,6 @@ export default class PdfUploadView extends React.Component {
     }
 
     onDrop(files) {
-        console.debug(files.length);
         if (files.length > 1) {
             alert(`Maximum one file allowed to upload, but not ${files.length}!`)
             return

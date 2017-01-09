@@ -30,7 +30,7 @@ export default {
                 var lineY;
                 // console.debug("Page " + rawPage.index + "-------");
                 rawPage.textItems.forEach(textItem => {
-                    console.debug(textItem);
+                    // console.debug(textItem);
                     const yRounded = Math.round(textItem.y);
                     if (!line) {
                         // console.debug("First line: " + textItem.text);
@@ -57,7 +57,7 @@ export default {
     },
 
     upload: function(pages) {
-        console.debug("Store: upload");
+        // console.debug("Store: upload");
         this.state.uploaded = true;
         this.state.pages = pages;
     },

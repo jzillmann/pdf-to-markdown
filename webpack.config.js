@@ -76,6 +76,12 @@ module.exports = {
         new HtmlWebpackPlugin({
             template: SOURCE_DIR + '/index.html'
         }),
+        new webpack.DefinePlugin({
+            'process.env': {
+                'version': JSON.stringify(process.env.npm_package_version),
+                NODE_ENV: JSON.stringify(process.env.NODE_ENV || 'development')
+            }
+        }),
         new CopyWebpackPlugin([
             {
                 from: NODEMODULES_DIR + '/pdfjs-dist/build/pdf.worker.js',

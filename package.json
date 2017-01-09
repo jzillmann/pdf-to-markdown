@@ -6,7 +6,9 @@
   "scripts": {
     "watch": "webpack -d --watch",
     "build": "webpack",
-    "lint": "eslint . --ext .js --ext .jsx --cache"
+    "lint": "eslint src --ext .js --ext .jsx --cache",
+    "release": "npm run lint && rm -rf build/* && NODE_ENV=production webpack -p",
+    "deploy": "npm run release && cp -r build/* docs/"
   },
   "keywords": [
     "PDF",
