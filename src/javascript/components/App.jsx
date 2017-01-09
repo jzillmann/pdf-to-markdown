@@ -15,18 +15,19 @@ export default class App extends React.Component {
     };
 
     render() {
-        console.debug(this.props.appState);
+        // console.debug(this.props.appState);
+        const appState = this.props.appState;
 
         var mainView;
         switch (this.props.appState.mainView) {
         case View.UPLOAD:
-            mainView = <PdfUploadView uploadPdfFunction={ this.props.appState.uploadPdf } />
+            mainView = <PdfUploadView uploadPdfFunction={ appState.storeFileBuffer } />
             break;
         case View.LOADING:
-            mainView = <LoadingView/>
+            mainView = <LoadingView fileBuffer={ appState.fileBuffer } storePdfPagesFunction={ appState.storePdfPages } />
             break;
         case View.PDF_VIEW:
-            mainView = <PdfView pdfPages={ this.props.appState.pdfPages } transformations={ this.props.appState.transformations } />
+            mainView = <PdfView pdfPages={ appState.pdfPages } transformations={ appState.transformations } />
             break;
         }
 

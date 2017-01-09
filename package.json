@@ -23,6 +23,7 @@
     "bootstrap": "^3.3.7",
     "enumify": "^1.0.4",
     "pdfjs-dist": "^1.6.317",
+    "rc-progress": "^2.0.5",
     "react": "^15.3.2",
     "react-bootstrap": "^0.30.3",
     "react-dom": "^15.3.2",
