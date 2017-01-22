@@ -1,5 +1,3 @@
-import PdfPage from '../PdfPage.jsx';
-
 // A transformation from an PdfPage to an PdfPage
 export default class Transformation {
 
@@ -13,7 +11,19 @@ export default class Transformation {
         this.name = name;
     }
 
-    transform(pdfPage:PdfPage) { // eslint-disable-line no-unused-vars
+    showPageSelection() {
+        return true;
+    }
+
+    // Returns with which type the transformed pages can be viewed
+    contentView() {
         throw new TypeError("Do not call abstract method foo from child.");
     }
+
+    // Transform incoming pages (like PdfPage[]) into different pages (either PdfPages[] or TextPages[])
+    transform(pages) { // eslint-disable-line no-unused-vars
+        throw new TypeError("Do not call abstract method foo from child.");
+    }
+
+
 }

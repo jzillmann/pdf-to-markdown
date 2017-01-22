@@ -3,6 +3,8 @@ import { Enum } from 'enumify';
 import NoOpTransformation from './transformations/NoOpTransformation.jsx';
 import RoundCoordinatesTransformation from './transformations/RoundCoordinatesTransformation.jsx';
 import CombineSameYTransformation from './transformations/CombineSameYTransformation.jsx';
+import ToTextPagesTransformation from './transformations/ToTextPagesTransformation.jsx';
+import ToSingleTextPageTransformation from './transformations/ToSingleTextPageTransformation.jsx'
 
 // Holds the state of the Application
 export default class AppState {
@@ -12,7 +14,7 @@ export default class AppState {
         this.mainView = View.UPLOAD;
         this.fileBuffer;
         this.pdfPages = [];
-        this.transformations = [new NoOpTransformation(), new RoundCoordinatesTransformation(), new CombineSameYTransformation()];
+        this.transformations = [new NoOpTransformation(), new RoundCoordinatesTransformation(), new CombineSameYTransformation(), new ToTextPagesTransformation(), new ToSingleTextPageTransformation()];
 
         //bind functions
         this.render = this.render.bind(this);
@@ -34,7 +36,7 @@ export default class AppState {
     storePdfPages(pdfPages) {
         this.pdfPages = pdfPages;
         this.fileBuffer = null;
-        this.mainView = View.PDF_VIEW;
+        this.mainView = View.DEBUG;
         this.render();
     }
 
@@ -42,4 +44,4 @@ export default class AppState {
 
 export class View extends Enum {
 }
-View.initEnum(['UPLOAD', 'LOADING', 'PDF_VIEW'])
+View.initEnum(['UPLOAD', 'LOADING', 'DEBUG'])

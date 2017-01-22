@@ -6,7 +6,7 @@ import TopBar from './TopBar.jsx';
 import { View } from '../models/AppState.jsx';
 import PdfUploadView from './PdfUploadView.jsx';
 import LoadingView from './LoadingView.jsx';
-import PdfView from './PdfView.jsx';
+import DebugView from './DebugView.jsx';
 
 export default class App extends React.Component {
 
@@ -26,8 +26,8 @@ export default class App extends React.Component {
         case View.LOADING:
             mainView = <LoadingView fileBuffer={ appState.fileBuffer } storePdfPagesFunction={ appState.storePdfPages } />
             break;
-        case View.PDF_VIEW:
-            mainView = <PdfView pdfPages={ appState.pdfPages } transformations={ appState.transformations } />
+        case View.DEBUG:
+            mainView = <DebugView pdfPages={ appState.pdfPages } transformations={ appState.transformations } />
             break;
         }
 

@@ -1,5 +1,6 @@
 import Transformation from './Transformation.jsx';
 import PdfPage from '../PdfPage.jsx';
+import ContentView from '../ContentView.jsx';
 
 export default class NoOpTransformation extends Transformation {
 
@@ -7,8 +8,12 @@ export default class NoOpTransformation extends Transformation {
         super("Original");
     }
 
-    transform(pdfPage:PdfPage) {
-        return pdfPage;
+    contentView() {
+        return ContentView.PDF;
+    }
+
+    transform(pdfPages:PdfPage[]) {
+        return pdfPages;
     }
 
 }

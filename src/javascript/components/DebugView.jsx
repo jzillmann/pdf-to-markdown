@@ -6,10 +6,12 @@ import Button from 'react-bootstrap/lib/Button'
 import DropdownButton from 'react-bootstrap/lib/DropdownButton'
 import MenuItem from 'react-bootstrap/lib/MenuItem'
 
+import ContentView from '../models/ContentView.jsx';
 import PdfPageView from './PdfPageView.jsx';
+import TextPageView from './TextPageView.jsx';
 
-// A view which displays the TextItems of multiple PdfPages
-export default class PdfView extends React.Component {
+// A view which displays the content of the given pages transformed by the given transformations
+export default class DebugView extends React.Component {
 
     static propTypes = {
         pdfPages: React.PropTypes.array.isRequired,
@@ -55,39 +57,51 @@ export default class PdfView extends React.Component {
 
         const currentTransformationName = transformations[currentTransformation].name;
 
-        const transformedPdfPages = pdfPages.filter((elem, i) => pageNr == -1 || i == pageNr).map(pdfPage => {
-            for (var i = 0; i <= currentTransformation; i++) {
-                pdfPage = transformations[i].transform(pdfPage);
-            }
-            return pdfPage;
-        });
+        var transformedPages = pdfPages.filter((elem, i) => pageNr == -1 || i == pageNr);
+        var contentView;
+        var lastTransformation;
+        for (var i = 0; i <= currentTransformation; i++) {
+            transformedPages = transformations[i].transform(transformedPages);
+            lastTransformation = transformations[i];
+            contentView = transformations[i].contentView();
+        }
 
-        var pageComponents = transformedPdfPages.map(page => <PdfPageView key={ page.index } pdfPage={ page } />);
+        var pageComponents;
+        switch (contentView) {
+        case ContentView.PDF:
+            pageComponents = transformedPages.map(page => <PdfPageView key={ page.index } pdfPage={ page } />);
+            break;
+        case ContentView.TEXT:
+            //transformedPages.forEach(p => console.debug(p));
+            pageComponents = transformedPages.map(page => <TextPageView key={ page.index } page={ page } />);
+            break;
+        }
 
         return (
             <div>
               <div>
-                <table style={ { width: '100%' } }>
-                  <caption>
-                    Pages
-                  </caption>
-                  <tbody>
-                    <tr>
-                      <td>
-                        <ButtonToolbar>
-                          <ButtonGroup>
-                            <Button onClick={ this.selectPage.bind(this, -1) } className={ pageNr == -1 ? 'active' : '' }>
-                              All
-                            </Button>
-                            { pdfPages.map((pdfPage, i) => <Button key={ i } onClick={ this.selectPage.bind(this, i) } className={ pageNr == i ? 'active' : '' }>
-                                                             { i + 1 }
-                                                           </Button>) }
-                          </ButtonGroup>
-                        </ButtonToolbar>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
+                { lastTransformation.showPageSelection() &&
+                  <table style={ { width: '100%' } }>
+                    <caption>
+                      Pages
+                    </caption>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <ButtonToolbar>
+                            <ButtonGroup>
+                              <Button onClick={ this.selectPage.bind(this, -1) } className={ pageNr == -1 ? 'active' : '' }>
+                                All
+                              </Button>
+                              { pdfPages.map((pdfPage, i) => <Button key={ i } onClick={ this.selectPage.bind(this, i) } className={ pageNr == i ? 'active' : '' }>
+                                                               { i + 1 }
+                                                             </Button>) }
+                            </ButtonGroup>
+                          </ButtonToolbar>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table> }
                 <br/>
                 <table>
                   <caption>
