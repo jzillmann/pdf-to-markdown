@@ -34,10 +34,15 @@ export default class PdfPageView extends React.Component {
                     <th>
                       Height
                     </th>
+                    <th>
+                      Annotation
+                    </th>
                   </tr>
                 </thead>
                 <tbody>
-                  { this.props.pdfPage.textItems.map((textItem, i) => <tr key={ i }>
+                  { this.props.pdfPage.textItems.map((textItem, i) => <tr key={ i } style={ textItem.annotation ? {
+                                              color: textItem.annotation.color
+                                          } : null }>
                                                                         <td>
                                                                           { i }
                                                                         </td>
@@ -55,6 +60,9 @@ export default class PdfPageView extends React.Component {
                                                                         </td>
                                                                         <td>
                                                                           { textItem.height }
+                                                                        </td>
+                                                                        <td>
+                                                                          { textItem.annotation ? textItem.annotation.category : '' }
                                                                         </td>
                                                                       </tr>
                     ) }

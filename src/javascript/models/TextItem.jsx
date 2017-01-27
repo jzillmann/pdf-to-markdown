@@ -1,4 +1,4 @@
-//Holds individual text items of a page
+//A text iteme, i.e. a line, within a page
 export default class TextItem {
 
     constructor(options) {
@@ -7,6 +7,7 @@ export default class TextItem {
         this.width = options.width;
         this.height = options.height;
         this.text = options.text;
+        this.annotation = options.annotation;
     }
 
 }

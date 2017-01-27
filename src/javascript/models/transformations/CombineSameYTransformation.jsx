@@ -6,7 +6,7 @@ import ContentView from '../ContentView.jsx';
 export default class CombineSameYTransformation extends Transformation {
 
     constructor() {
-        super("Combine text on same Y");
+        super("Combine Text On Same Y");
     }
 
     contentView() {

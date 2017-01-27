@@ -25,5 +25,10 @@ export default class Transformation {
         throw new TypeError("Do not call abstract method foo from child.");
     }
 
+    // Annotations which have been added during transform() can now be cleaned-up / handled
+    processAnnotations(pages) { // eslint-disable-line no-unused-vars
+        return pages;
+    }
+
 
 }

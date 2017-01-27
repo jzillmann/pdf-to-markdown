@@ -61,9 +61,12 @@ export default class DebugView extends React.Component {
         var contentView;
         var lastTransformation;
         for (var i = 0; i <= currentTransformation; i++) {
+            if (lastTransformation) {
+                transformedPages = lastTransformation.processAnnotations(transformedPages);
+            }
             transformedPages = transformations[i].transform(transformedPages);
-            lastTransformation = transformations[i];
             contentView = transformations[i].contentView();
+            lastTransformation = transformations[i];
         }
 
         var pageComponents;

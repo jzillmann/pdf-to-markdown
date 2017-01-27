@@ -5,7 +5,7 @@ import ContentView from '../ContentView.jsx';
 export default class RoundCoordinatesTransformation extends Transformation {
 
     constructor() {
-        super("Round coordinates");
+        super("Round Coordinates");
     }
 
     contentView() {
