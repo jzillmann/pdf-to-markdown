@@ -1,7 +1,7 @@
 import Transformation from './Transformation.jsx';
-import Annotation from '../Annotation.jsx';
 import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
+import Annotation from '../Annotation.jsx';
 
 
 function hashCodeIgnoringNumbers(string) {

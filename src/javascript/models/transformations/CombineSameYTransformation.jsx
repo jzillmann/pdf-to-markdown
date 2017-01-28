@@ -2,6 +2,7 @@ import Transformation from './Transformation.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
+import Annotation from '../Annotation.jsx';
 
 export default class CombineSameYTransformation extends Transformation {
 
@@ -14,6 +15,16 @@ export default class CombineSameYTransformation extends Transformation {
     }
 
     transform(pages:PdfPage[]) {
+
+        const removedAnnotation = new Annotation({
+            category: 'removed',
+            color: 'red'
+        });
+        const combinedAnnotation = new Annotation({
+            category: 'combined',
+            color: 'green'
+        });
+
         return pages.map(pdfPage => {
             const newTextItems = [];
             var lastTextItem;
@@ -21,12 +32,14 @@ export default class CombineSameYTransformation extends Transformation {
                 if (!lastTextItem) {
                     lastTextItem = textItem;
                 } else {
-                    if (textItem.y == lastTextItem.y) {
-                        //combine
+                    if (textItem.y == lastTextItem.y) { //combine
 
-                        // console.debug("last=" + lastTextItem.text + ", x=" + lastTextItem.x + ", width=" + lastTextItem.width);
-                        // console.debug("new=" + textItem.text + ", x=" + textItem.x + ", width=" + textItem.width);
-                        // console.debug("diff=" + (textItem.x - lastTextItem.x - lastTextItem.width));
+                        if (!lastTextItem.annotation) {
+                            lastTextItem.annotation = removedAnnotation;
+                            newTextItems.push(lastTextItem);
+                        }
+                        textItem.annotation = removedAnnotation;
+                        newTextItems.push(textItem);
 
                         var combinedText = lastTextItem.text;
                         //TODO make 5 dependent on text size or biggest gap?
@@ -40,10 +53,10 @@ export default class CombineSameYTransformation extends Transformation {
                             y: lastTextItem.y,
                             width: textItem.x - lastTextItem.x + textItem.width,
                             height: lastTextItem.height, //might this cause problems ?
-                            text: combinedText
+                            text: combinedText,
+                            annotation: combinedAnnotation
                         });
-                    } else {
-                        //rotate
+                    } else { //rotate
                         newTextItems.push(lastTextItem);
                         lastTextItem = textItem;
                     }
@@ -58,6 +71,14 @@ export default class CombineSameYTransformation extends Transformation {
                 textItems: newTextItems
             };
         });
+    }
+
+    processAnnotations(pages:PdfPage[]) {
+        pages.forEach(page => {
+            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation.category !== 'removed');
+            page.textItems.forEach(textItem => textItem.annotation = null)
+        });
+        return pages;
     }
 
 }
