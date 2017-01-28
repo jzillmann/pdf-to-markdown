@@ -4,6 +4,47 @@ import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
 import Annotation from '../Annotation.jsx';
 
+function combineTextItems(textItems:TextItem[]) {
+    var numChars = 0;
+    var sumWidth = 0;
+    var maxHeight = 0;
+    textItems.forEach(textItem => {
+        if (textItem.width > 0) {
+            numChars += textItem.text.length;
+            sumWidth += textItem.width;
+        }
+        maxHeight = Math.max(textItem.height, maxHeight);
+    });
+    const avgCharacterWidth = Math.round(sumWidth / numChars);
+
+    var combinedText = '';
+    var sumWidthWithWhitespaces = sumWidth;
+    var lastItemX;
+    var lastItemWidth;
+    textItems.forEach(textItem => {
+        if (lastItemX && textItem.x - lastItemX - lastItemWidth > avgCharacterWidth) {
+            combinedText += ' ';
+            sumWidthWithWhitespaces += avgCharacterWidth;
+        }
+        combinedText += textItem.text;
+        lastItemX = textItem.x;
+        lastItemWidth = textItem.width > 0 ? textItem.width : avgCharacterWidth / 2 * textItem.text.length;
+    });
+
+    return new TextItem({
+        x: textItems[0].x,
+        y: textItems[0].y,
+        width: sumWidthWithWhitespaces,
+        height: maxHeight,
+        text: combinedText,
+        annotation: new Annotation({
+            category: 'combined',
+            color: 'green'
+        })
+
+    });
+}
+
 export default class CombineSameYTransformation extends Transformation {
 
     constructor() {
@@ -20,50 +61,36 @@ export default class CombineSameYTransformation extends Transformation {
             category: 'removed',
             color: 'red'
         });
-        const combinedAnnotation = new Annotation({
-            category: 'combined',
-            color: 'green'
-        });
 
         return pages.map(pdfPage => {
             const newTextItems = [];
-            var lastTextItem;
-            pdfPage.textItems.forEach(textItem => {
-                if (!lastTextItem) {
-                    lastTextItem = textItem;
-                } else {
-                    if (textItem.y == lastTextItem.y) { //combine
+            var textItemsWithSameY = [];
 
-                        if (!lastTextItem.annotation) {
-                            lastTextItem.annotation = removedAnnotation;
-                            newTextItems.push(lastTextItem);
-                        }
+            var completeTextItemsWithSameY = function(textItemsWithSameY) {
+                if (textItemsWithSameY.length == 1) {
+                    newTextItems.push(textItemsWithSameY[0]);
+                } else {
+                    // add removed text-items
+                    textItemsWithSameY.forEach(textItem => {
                         textItem.annotation = removedAnnotation;
                         newTextItems.push(textItem);
+                    });
+                    newTextItems.push(combineTextItems(textItemsWithSameY));
+                }
+            }
 
-                        var combinedText = lastTextItem.text;
-                        //TODO make 5 dependent on text size or biggest gap?
-                        if (textItem.x - lastTextItem.x - lastTextItem.width > 7) {
-                            combinedText += ' ';
-                        }
-                        combinedText += textItem.text;
-
-                        lastTextItem = new TextItem({
-                            x: lastTextItem.x,
-                            y: lastTextItem.y,
-                            width: textItem.x - lastTextItem.x + textItem.width,
-                            height: lastTextItem.height, //might this cause problems ?
-                            text: combinedText,
-                            annotation: combinedAnnotation
-                        });
-                    } else { //rotate
-                        newTextItems.push(lastTextItem);
-                        lastTextItem = textItem;
-                    }
+            pdfPage.textItems.forEach(textItem => {
+                if (textItemsWithSameY.length == 0 || textItem.y == textItemsWithSameY[textItemsWithSameY.length - 1].y) {
+                    //fill array
+                    textItemsWithSameY.push(textItem);
+                } else {
+                    //rotate
+                    completeTextItemsWithSameY(textItemsWithSameY);
+                    textItemsWithSameY = [textItem];
                 }
             });
-            if (lastTextItem) {
-                newTextItems.push(lastTextItem);
+            if (textItemsWithSameY.length > 0) {
+                completeTextItemsWithSameY(textItemsWithSameY);
             }
 
             return {
