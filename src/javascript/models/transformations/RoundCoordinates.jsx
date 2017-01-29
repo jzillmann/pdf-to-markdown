@@ -2,7 +2,7 @@ import Transformation from './Transformation.jsx';
 import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
 
-export default class RoundCoordinatesTransformation extends Transformation {
+export default class RoundCoordinates extends Transformation {
 
     constructor() {
         super("Round Coordinates");

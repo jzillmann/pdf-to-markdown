@@ -2,7 +2,7 @@ import Transformation from './Transformation.jsx';
 import TextPage from '../TextPage.jsx';
 import ContentView from '../ContentView.jsx';
 
-export default class ToSingleTextPageTransformation extends Transformation {
+export default class ToSingleTextPage extends Transformation {
 
     constructor() {
         super("To Single Text Page");

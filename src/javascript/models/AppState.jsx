@@ -1,11 +1,11 @@
 import { Enum } from 'enumify';
 
-import NoOpTransformation from './transformations/NoOpTransformation.jsx';
-import RoundCoordinatesTransformation from './transformations/RoundCoordinatesTransformation.jsx';
-import CombineSameYTransformation from './transformations/CombineSameYTransformation.jsx';
+import NoOp from './transformations/NoOp.jsx';
+import RoundCoordinates from './transformations/RoundCoordinates.jsx';
+import CombineSameY from './transformations/CombineSameY.jsx';
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
-import ToTextPagesTransformation from './transformations/ToTextPagesTransformation.jsx';
-import ToSingleTextPageTransformation from './transformations/ToSingleTextPageTransformation.jsx'
+import ToTextPages from './transformations/ToTextPages.jsx';
+import ToSingleTextPage from './transformations/ToSingleTextPage.jsx'
 
 // Holds the state of the Application
 export default class AppState {
@@ -16,12 +16,12 @@ export default class AppState {
         this.fileBuffer;
         this.pdfPages = [];
         this.transformations = [
-            new NoOpTransformation(),
-            new RoundCoordinatesTransformation(),
-            new CombineSameYTransformation(),
+            new NoOp,
+            new RoundCoordinates(),
+            new CombineSameY(),
             new RemoveRepetitiveElements(),
-            new ToTextPagesTransformation(),
-            new ToSingleTextPageTransformation()];
+            new ToTextPages(),
+            new ToSingleTextPage()];
 
         //bind functions
         this.render = this.render.bind(this);

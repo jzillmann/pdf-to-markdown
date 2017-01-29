@@ -3,7 +3,7 @@ import PdfPage from '../PdfPage.jsx';
 import TextPage from '../TextPage.jsx';
 import ContentView from '../ContentView.jsx';
 
-export default class ToTextPagesTransformation extends Transformation {
+export default class ToTextPages extends Transformation {
 
     constructor() {
         super("To Text Pages");

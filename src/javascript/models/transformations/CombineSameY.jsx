@@ -45,7 +45,7 @@ function combineTextItems(textItems:TextItem[]) {
     });
 }
 
-export default class CombineSameYTransformation extends Transformation {
+export default class CombineSameY extends Transformation {
 
     constructor() {
         super("Combine Text On Same Y");
