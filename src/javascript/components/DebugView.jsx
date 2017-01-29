@@ -57,7 +57,7 @@ export default class DebugView extends React.Component {
 
         const currentTransformationName = transformations[currentTransformation].name;
 
-        var transformedPages = pdfPages.filter((elem, i) => pageNr == -1 || i == pageNr);
+        var transformedPages = pdfPages;
         var contentView;
         var lastTransformation;
         for (var i = 0; i <= currentTransformation; i++) {
@@ -69,6 +69,7 @@ export default class DebugView extends React.Component {
             lastTransformation = transformations[i];
         }
 
+        transformedPages = transformedPages.filter((elem, i) => pageNr == -1 || i == pageNr);
         var pageComponents;
         switch (contentView) {
         case ContentView.PDF:
