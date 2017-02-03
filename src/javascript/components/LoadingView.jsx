@@ -57,17 +57,18 @@ export default class LoadingView extends React.Component {
                     var viewport = page.getViewport(scale);
                     page.getTextContent().then(function(textContent) {
                         const textItems = textContent.items.map(function(item) {
-                            var tx = PDFJS.Util.transform( // eslint-disable-line no-undef
+                            const tx = PDFJS.Util.transform( // eslint-disable-line no-undef
                                 viewport.transform,
                                 item.transform
                             );
-                            var fontHeight = Math.sqrt((tx[2] * tx[2]) + (tx[3] * tx[3]));
 
+                            const fontHeight = Math.sqrt((tx[2] * tx[2]) + (tx[3] * tx[3]));
+                            const dividedHeight = item.height / fontHeight;
                             return new TextItem({
                                 x: item.transform[4],
                                 y: item.transform[5],
                                 width: item.width,
-                                height: item.height / fontHeight,
+                                height: dividedHeight <= 1 ? item.height : dividedHeight,
                                 text: item.str
                             });
                         });
