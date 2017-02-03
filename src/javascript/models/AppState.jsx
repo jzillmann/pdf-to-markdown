@@ -3,6 +3,7 @@ import { Enum } from 'enumify';
 import NoOp from './transformations/NoOp.jsx';
 import RoundCoordinates from './transformations/RoundCoordinates.jsx';
 import CombineSameY from './transformations/CombineSameY.jsx';
+import DetectFootnotes from './transformations/DetectFootnotes.jsx'
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import ToTextPages from './transformations/ToTextPages.jsx';
 import ToSingleTextPage from './transformations/ToSingleTextPage.jsx'
@@ -19,6 +20,7 @@ export default class AppState {
             new NoOp,
             new RoundCoordinates(),
             new CombineSameY(),
+            new DetectFootnotes(),
             new RemoveRepetitiveElements(),
             new ToTextPages(),
             new ToSingleTextPage()];

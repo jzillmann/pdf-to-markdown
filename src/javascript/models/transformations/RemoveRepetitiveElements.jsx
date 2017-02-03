@@ -3,14 +3,15 @@ import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
 import Annotation from '../Annotation.jsx';
 
+import { isDigit } from '../../functions.jsx'
+
 
 function hashCodeIgnoringNumbers(string) {
-    var hash = 0, i, charCode, len, isNumber;
+    var hash = 0, i, charCode, len;
     if (string.length === 0) return hash;
     for (i = 0, len = string.length; i < len; i++) {
         charCode = string.charCodeAt(i);
-        isNumber = charCode >= 48 && charCode <= 57;
-        if (!isNumber) {
+        if (!isDigit(charCode)) {
             hash = ((hash << 5) - hash) + charCode;
             hash |= 0; // Convert to 32bit integer
         }
