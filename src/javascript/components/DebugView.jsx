@@ -1,10 +1,11 @@
 import React from 'react';
 
 import ButtonToolbar from 'react-bootstrap/lib/ButtonToolbar'
-import ButtonGroup from 'react-bootstrap/lib/ButtonGroup'
 import Button from 'react-bootstrap/lib/Button'
 import DropdownButton from 'react-bootstrap/lib/DropdownButton'
+import Pagination from 'react-bootstrap/lib/Pagination'
 import MenuItem from 'react-bootstrap/lib/MenuItem'
+import Label from 'react-bootstrap/lib/Label'
 
 import ContentView from '../models/ContentView.jsx';
 import PdfPageView from './PdfPageView.jsx';
@@ -28,7 +29,7 @@ export default class DebugView extends React.Component {
 
     selectPage(pageNr) {
         this.setState({
-            pageNr: pageNr
+            pageNr: pageNr - 1
         });
     }
 
@@ -83,47 +84,39 @@ export default class DebugView extends React.Component {
 
         return (
             <div>
-              <div>
-                { lastTransformation.showPageSelection() &&
-                  <table style={ { width: '100%' } }>
-                    <caption>
-                      Pages
-                    </caption>
-                    <tbody>
-                      <tr>
-                        <td>
-                          <ButtonToolbar>
-                            <ButtonGroup>
-                              <Button onClick={ this.selectPage.bind(this, -1) } className={ pageNr == -1 ? 'active' : '' }>
-                                All
-                              </Button>
-                              { pdfPages.map((pdfPage, i) => <Button key={ i } onClick={ this.selectPage.bind(this, i) } className={ pageNr == i ? 'active' : '' }>
-                                                               { i + 1 }
-                                                             </Button>) }
-                            </ButtonGroup>
-                          </ButtonToolbar>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table> }
-                <br/>
-                <table>
-                  <caption>
-                    Current Transformation
-                  </caption>
-                  <tbody>
+              <table>
+                <tbody>
+                  { lastTransformation.showPageSelection() &&
                     <tr>
                       <td>
-                        <DropdownButton title={ currentTransformationName } id="dropdown-size-medium">
-                          { transformations.map((transformation, i) => <MenuItem key={ i } eventKey={ i } onSelect={ this.selectTransformation.bind(this, i) }>
-                                                                       { transformation.name }
-                                                                       </MenuItem>) }
-                        </DropdownButton>
+                        <div>
+                          <ul className='pagination'>
+                            <li className={ pageNr == -1 ? 'active' : '' }>
+                              <a role='button' onClick={ this.selectPage.bind(this, 0) }>ALL</a>
+                            </li>
+                          </ul>
+                          <Pagination
+                                      prev
+                                      next
+                                      first
+                                      last
+                                      ellipsis
+                                      boundaryLinks
+                                      items={ pdfPages.length }
+                                      maxButtons={ 18 }
+                                      activePage={ this.state.pageNr + 1 }
+                                      onSelect={ this.selectPage.bind(this) } />
+                        </div>
                       </td>
-                    </tr>
-                    <tr>
-                      <td>
-                        <br/>
+                      <td style={ { padding: '5px', textAlign: 'left' } }>
+                        <Label bsStyle="info">
+                          Pages
+                        </Label>
+                      </td>
+                    </tr> }
+                  <tr>
+                    <td>
+                      <ButtonToolbar>
                         <Button className={ currentTransformation > 0 ? 'btn-round' : 'btn-round disabled' } onClick={ this.prevTransformation.bind(this) }>
                           ← Previous
                         </Button>
@@ -131,11 +124,22 @@ export default class DebugView extends React.Component {
                         <Button className={ currentTransformation < transformations.length - 1 ? 'btn-round' : 'btn-round disabled' } onClick={ this.nextTransformation.bind(this) }>
                           Next →
                         </Button>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
+                        <DropdownButton title={ currentTransformationName } id="dropdown-size-medium">
+                          { transformations.map((transformation, i) => <MenuItem key={ i } eventKey={ i } onSelect={ this.selectTransformation.bind(this, i) }>
+                                                                       { transformation.name }
+                                                                       </MenuItem>) }
+                        </DropdownButton>
+                      </ButtonToolbar>
+                    </td>
+                    <td style={ { padding: '5px' } }>
+                      <Label bsStyle="info">
+                        Transformations
+                        { ' - ' + currentTransformation + ' / ' + (transformations.length - 1) }
+                      </Label>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
               <hr/>
               { pageComponents }
             </div>
