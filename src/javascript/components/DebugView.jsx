@@ -1,11 +1,13 @@
 import React from 'react';
 
 import ButtonToolbar from 'react-bootstrap/lib/ButtonToolbar'
+import ButtonGroup from 'react-bootstrap/lib/ButtonGroup'
 import Button from 'react-bootstrap/lib/Button'
 import DropdownButton from 'react-bootstrap/lib/DropdownButton'
 import Pagination from 'react-bootstrap/lib/Pagination'
 import MenuItem from 'react-bootstrap/lib/MenuItem'
 import Label from 'react-bootstrap/lib/Label'
+import Checkbox from 'react-bootstrap/lib/Checkbox'
 
 import ContentView from '../models/ContentView.jsx';
 import PdfPageView from './PdfPageView.jsx';
@@ -23,7 +25,8 @@ export default class DebugView extends React.Component {
         super(props);
         this.state = {
             currentTransformation: 0,
-            pageNr: -1
+            pageNr: -1,
+            modificationsOnly: false
         };
     }
 
@@ -51,6 +54,12 @@ export default class DebugView extends React.Component {
         });
     }
 
+    showModifications() {
+        this.setState({
+            modificationsOnly: !this.state.modificationsOnly
+        });
+    }
+
 
     render() {
         const {currentTransformation, pageNr} = this.state;
@@ -72,9 +81,11 @@ export default class DebugView extends React.Component {
 
         transformedPages = transformedPages.filter((elem, i) => pageNr == -1 || i == pageNr);
         var pageComponents;
+        var showModificationCheckbox = false;
         switch (contentView) {
         case ContentView.PDF:
-            pageComponents = transformedPages.map(page => <PdfPageView key={ page.index } pdfPage={ page } />);
+            pageComponents = transformedPages.map(page => <PdfPageView key={ page.index } pdfPage={ page } modificationsOnly={ this.state.modificationsOnly } />);
+            showModificationCheckbox = true;
             break;
         case ContentView.TEXT:
             //transformedPages.forEach(p => console.debug(p));
@@ -117,18 +128,30 @@ export default class DebugView extends React.Component {
                   <tr>
                     <td>
                       <ButtonToolbar>
-                        <Button className={ currentTransformation > 0 ? 'btn-round' : 'btn-round disabled' } onClick={ this.prevTransformation.bind(this) }>
-                          ← Previous
-                        </Button>
-                        { ' ' }
-                        <Button className={ currentTransformation < transformations.length - 1 ? 'btn-round' : 'btn-round disabled' } onClick={ this.nextTransformation.bind(this) }>
-                          Next →
-                        </Button>
-                        <DropdownButton title={ currentTransformationName } id="dropdown-size-medium">
-                          { transformations.map((transformation, i) => <MenuItem key={ i } eventKey={ i } onSelect={ this.selectTransformation.bind(this, i) }>
-                                                                       { transformation.name }
-                                                                       </MenuItem>) }
-                        </DropdownButton>
+                        <ButtonGroup>
+                          <Button className={ currentTransformation > 0 ? 'btn-round' : 'btn-round disabled' } onClick={ this.prevTransformation.bind(this) }>
+                            ← Previous
+                          </Button>
+                        </ButtonGroup>
+                        <ButtonGroup>
+                          { ' ' }
+                          <Button className={ currentTransformation < transformations.length - 1 ? 'btn-round' : 'btn-round disabled' } onClick={ this.nextTransformation.bind(this) }>
+                            Next →
+                          </Button>
+                        </ButtonGroup>
+                        <ButtonGroup>
+                          <DropdownButton title={ currentTransformationName } id="dropdown-size-medium">
+                            { transformations.map((transformation, i) => <MenuItem key={ i } eventKey={ i } onSelect={ this.selectTransformation.bind(this, i) }>
+                                                                         { transformation.name }
+                                                                         </MenuItem>) }
+                          </DropdownButton>
+                        </ButtonGroup>
+                        <ButtonGroup>
+                          { showModificationCheckbox &&
+                            <Checkbox onClick={ this.showModifications.bind(this) }>
+                              Show only modifications
+                            </Checkbox> }
+                        </ButtonGroup>
                       </ButtonToolbar>
                     </td>
                     <td style={ { padding: '5px' } }>
