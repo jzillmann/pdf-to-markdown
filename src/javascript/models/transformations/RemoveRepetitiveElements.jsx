@@ -21,7 +21,7 @@ function hashCodeIgnoringNumbers(string) {
 
 function combineCoordinates(textItem) {
     var hashCode = hashCodeIgnoringNumbers(textItem.text);
-    return `${textItem.x}-${textItem.y}-${textItem.width}-${textItem.height}-${hashCode}`;
+    return `${textItem.x}-${textItem.y}-${hashCode}`;
 }
 
 // Remove elements with similar content on same page positions, like page numbers, licenes information, etc...
@@ -37,7 +37,7 @@ export default class RemoveRepetitiveElements extends Transformation {
 
     transform(pages:PdfPage[]) {
         //build repetition counts for every element
-        var repetitionCounts = {};
+        const repetitionCounts = {};
         pages.forEach(pdfPage => {
             pdfPage.textItems.forEach(textItem => {
                 var combinedCoordinates = combineCoordinates(textItem);
