@@ -8,6 +8,7 @@ export default class TextItem {
         this.height = options.height;
         this.text = options.text;
         this.annotation = options.annotation;
+        this.markdownElement = options.markdownElement;
     }
 
 }

@@ -6,6 +6,7 @@ import CombineSameY from './transformations/CombineSameY.jsx';
 import DetectFootnotes from './transformations/DetectFootnotes.jsx'
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import HeadlineDetector from './transformations/HeadlineDetector.jsx'
+import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
 import ToTextPages from './transformations/ToTextPages.jsx';
 import ToSingleTextPage from './transformations/ToSingleTextPage.jsx'
 
@@ -24,6 +25,7 @@ export default class AppState {
             new DetectFootnotes(),
             new RemoveRepetitiveElements(),
             new HeadlineDetector(),
+            new HeadlineToUppercase(),
             new ToTextPages(),
             new ToSingleTextPage()];
 

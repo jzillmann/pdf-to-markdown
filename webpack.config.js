@@ -15,10 +15,9 @@ module.exports = {
         filename: 'bundle.js'
     },
     resolve: {
-        extensions: ['', '.js', '.vue'],
+        extensions: ['', '.js'],
         fallback: [path.join(__dirname, '../node_modules')],
         alias: {
-            'vue$': 'vue/dist/vue',
             'src': path.resolve(__dirname, '../src'),
             'assets': path.resolve(__dirname, '../src/assets'),
             'components': path.resolve(__dirname, '../src/components')

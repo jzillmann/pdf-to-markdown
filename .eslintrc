@@ -18,11 +18,13 @@
   "env": {
     "browser": true,
     "node": true,
-    "es6": true
+    "es6": true,
+    "jasmine": true
   },
   // Enable custom plugin known as eslint-plugin-react
   "plugins": [
-    "react"
+    "react",
+    "jasmine"
   ],
   "rules": {
     // Disable `no-console` rule

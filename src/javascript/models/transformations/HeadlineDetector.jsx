@@ -4,6 +4,8 @@ import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
 import Annotation from '../Annotation.jsx';
 
+import Headline from '../markdown/Headline.jsx';
+
 
 function analyzeHeigths(pages) {
     const analyzationResult = {
@@ -47,13 +49,13 @@ function analyzeHeigths(pages) {
     return analyzationResult;
 }
 
-function findNextMajorHeight(heights, currentHeight, headlineMap) {
+function findNextMajorHeight(heights, currentHeight, headlineLevels) {
     for (var i = currentHeight; i < heights.length; i++) {
-        if (headlineMap[heights[i]]) {
+        if (headlineLevels[heights[i]]) {
             return heights[i];
         }
     }
-    throw `Shouldn't happen! heights=${heights}, currentHeight=${currentHeight}, headlineMap=${headlineMap}`;
+    throw `Shouldn't happen! heights=${heights}, currentHeight=${currentHeight}, headlineLevels=${headlineLevels}`;
 }
 
 
@@ -95,26 +97,26 @@ export default class HeadlineDetector extends Transformation {
         });
 
 
-        const headlineMap = {};
-        headlineHeights.reverse().forEach((height, i) => headlineMap[height] = '#'.repeat(i + 1));
+        const headlineLevels = {};
+        headlineHeights.reverse().forEach((height, i) => headlineLevels[height] = i + 1);
         var lastMajorHeight = paragraphHeight;
         var heights = heightAnalyzation.heights;
         for (var i = 0; i < heights.length; i++) {
-            if (heights[i] > paragraphHeight && !headlineMap[heights[i]]) {
-                const nextMajorHeight = findNextMajorHeight(heights, i + 1, headlineMap);
+            if (heights[i] > paragraphHeight && !headlineLevels[heights[i]]) {
+                const nextMajorHeight = findNextMajorHeight(heights, i + 1, headlineLevels);
                 const distanceToLower = heights[i] - lastMajorHeight;
                 const distanceToHigher = nextMajorHeight - heights[i];
                 if (distanceToLower <= distanceToHigher) {
                     if (lastMajorHeight == paragraphHeight) {
                         paragraphHeight++;
                     } else {
-                        headlineMap[heights[i]] = headlineMap[lastMajorHeight];
+                        headlineLevels[heights[i]] = headlineLevels[lastMajorHeight];
                     }
                 } else {
-                    headlineMap[heights[i]] = headlineMap[nextMajorHeight];
+                    headlineLevels[heights[i]] = headlineLevels[nextMajorHeight];
                 }
             }
-            if (headlineMap[heights[i]]) {
+            if (headlineLevels[heights[i]]) {
                 lastMajorHeight = heights[i];
             }
         }
@@ -125,12 +127,16 @@ export default class HeadlineDetector extends Transformation {
                 if (item.height <= paragraphHeight) {
                     newTextItems.push(item);
                 } else {
+                    const headlineLevel = headlineLevels[item.height];
                     newTextItems.push(new TextItem({
                         ...item,
                         text: item.text,
                         annotation: new Annotation({
-                            category: headlineMap[item.height],
+                            category: "Headline " + headlineLevel,
                             color: 'green'
+                        }),
+                        markdownElement: new Headline({
+                            level: headlineLevel
                         })
                     }));
                 }
@@ -144,11 +150,7 @@ export default class HeadlineDetector extends Transformation {
 
     processAnnotations(pages:PdfPage[]) {
         pages.forEach(page => {
-            page.textItems.forEach(item => {
-                if (item.annotation) {
-                    item.text = item.annotation.category + ' ' + item.text;
-                }
-            });
+            page.textItems.forEach(textItem => textItem.annotation = null)
         });
         return pages;
     }
