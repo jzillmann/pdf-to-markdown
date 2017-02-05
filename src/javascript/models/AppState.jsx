@@ -5,6 +5,7 @@ import RoundCoordinates from './transformations/RoundCoordinates.jsx';
 import CombineSameY from './transformations/CombineSameY.jsx';
 import DetectFootnotes from './transformations/DetectFootnotes.jsx'
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
+import HeadlineDetector from './transformations/HeadlineDetector.jsx'
 import ToTextPages from './transformations/ToTextPages.jsx';
 import ToSingleTextPage from './transformations/ToSingleTextPage.jsx'
 
@@ -22,6 +23,7 @@ export default class AppState {
             new CombineSameY(),
             new DetectFootnotes(),
             new RemoveRepetitiveElements(),
+            new HeadlineDetector(),
             new ToTextPages(),
             new ToSingleTextPage()];
 
