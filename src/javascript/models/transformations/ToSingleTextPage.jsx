@@ -13,7 +13,7 @@ export default class ToSingleTextPage extends Transformation {
     }
 
     contentView() {
-        return ContentView.TEXT;
+        return ContentView.MARKDOWN;
     }
 
     transform(pages:TextPage[]) {

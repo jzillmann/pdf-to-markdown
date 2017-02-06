@@ -31,7 +31,8 @@
     "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2",
     "react-dropzone": "^3.9.2",
-    "react-icons": "^2.2.3"
+    "react-icons": "^2.2.3",
+    "remarkable": "^1.7.1"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
