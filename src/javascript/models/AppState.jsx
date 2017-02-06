@@ -8,7 +8,7 @@ import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements
 import HeadlineDetector from './transformations/HeadlineDetector.jsx'
 import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
 import ToTextPages from './transformations/ToTextPages.jsx';
-import ToSingleTextPage from './transformations/ToSingleTextPage.jsx'
+import ToMarkdown from './transformations/ToMarkdown.jsx'
 
 // Holds the state of the Application
 export default class AppState {
@@ -27,12 +27,13 @@ export default class AppState {
             new HeadlineDetector(),
             new HeadlineToUppercase(),
             new ToTextPages(),
-            new ToSingleTextPage()];
+            new ToMarkdown()];
 
         //bind functions
         this.render = this.render.bind(this);
         this.storeFileBuffer = this.storeFileBuffer.bind(this);
         this.storePdfPages = this.storePdfPages.bind(this);
+        this.switchMainView = this.switchMainView.bind(this);
     }
 
     render() {
@@ -49,7 +50,12 @@ export default class AppState {
     storePdfPages(pdfPages) {
         this.pdfPages = pdfPages;
         this.fileBuffer = null;
-        this.mainView = View.DEBUG;
+        this.mainView = View.RESULT;
+        this.render();
+    }
+
+    switchMainView(view) {
+        this.mainView = view;
         this.render();
     }
 
@@ -57,4 +63,4 @@ export default class AppState {
 
 export class View extends Enum {
 }
-View.initEnum(['UPLOAD', 'LOADING', 'DEBUG'])
+View.initEnum(['UPLOAD', 'LOADING', 'RESULT', 'DEBUG'])

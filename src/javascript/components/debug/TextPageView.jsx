@@ -11,7 +11,11 @@ export default class TextPageView extends React.Component {
         return (
             <div>
               <h2>{ header }</h2>
-              <textarea rows="45" cols="150" value={ this.props.page.text }>
+              <textarea
+                        rows="45"
+                        cols="150"
+                        value={ this.props.page.text }
+                        readOnly="readonly">
               </textarea>
             </div>
             );

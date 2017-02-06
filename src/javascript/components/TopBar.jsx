@@ -1,17 +1,25 @@
 import React from 'react';
 
 import Navbar from 'react-bootstrap/lib/Navbar'
+import Nav from 'react-bootstrap/lib/Nav'
+import NavItem from 'react-bootstrap/lib/NavItem'
 import MenuItem from 'react-bootstrap/lib/MenuItem'
 import Dropdown from 'react-bootstrap/lib/Dropdown'
 import Popover from 'react-bootstrap/lib/Popover'
 import OverlayTrigger from 'react-bootstrap/lib/OverlayTrigger'
 
 import AppLogo from './AppLogo.jsx';
+import { View } from '../models/AppState.jsx';
 
 export default class TopBar extends React.Component {
 
-    render() {
+    static propTypes = {
+        mainView: React.PropTypes.object.isRequired,
+        switchMainViewFunction: React.PropTypes.func.isRequired,
+    };
 
+    render() {
+        const {mainView, switchMainViewFunction} = this.props;
         const aboutPopover = (
         <Popover id="popover-trigger-click-root-close" title={ `About PDF to Markdown Converter - ${ process.env.version }` }>
           <p>
@@ -19,6 +27,8 @@ export default class TopBar extends React.Component {
           </p>
         </Popover>
         );
+
+        const showTabs = mainView == View.RESULT || mainView == View.DEBUG;
 
         return (
             <Navbar inverse>
@@ -41,6 +51,15 @@ export default class TopBar extends React.Component {
                     </Dropdown.Menu>
                   </Dropdown>
                 </Navbar.Brand>
+                { showTabs &&
+                  <Nav bsStyle="tabs" activeKey={ mainView } pullRight>
+                    <NavItem eventKey={ View.RESULT } activeKey={ mainView } onSelect={ switchMainViewFunction }>
+                      Result View
+                    </NavItem>
+                    <NavItem eventKey={ View.DEBUG } activeKey={ mainView } onSelect={ switchMainViewFunction }>
+                      Debug View
+                    </NavItem>
+                  </Nav> }
               </Navbar.Header>
             </Navbar>
             );

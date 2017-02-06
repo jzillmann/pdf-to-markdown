@@ -5,17 +5,33 @@ import ButtonToolbar from 'react-bootstrap/lib/ButtonToolbar'
 import ButtonGroup from 'react-bootstrap/lib/ButtonGroup'
 import Button from 'react-bootstrap/lib/Button'
 
-export default class MarkdownView extends React.Component {
+export default class ResultView extends React.Component {
 
     static propTypes = {
-        page: React.PropTypes.object.isRequired,
+        pdfPages: React.PropTypes.array.isRequired,
+        transformations: React.PropTypes.array.isRequired,
     };
 
     constructor(props) {
         super(props);
+    }
+
+    componentWillMount() {
+        const {pdfPages, transformations} = this.props;
+        var transformedPages = pdfPages;
+        var lastTransformation;
+        transformations.forEach(transformation => {
+            if (lastTransformation) {
+                transformedPages = lastTransformation.processAnnotations(transformedPages);
+            }
+            transformedPages = transformation.transform(transformedPages);
+            lastTransformation = transformation;
+        });
+
         this.state = {
             preview: true,
-            text: props.page.text
+            text: transformedPages[0].text
+
         };
     }
 

@@ -6,6 +6,7 @@ import TopBar from './TopBar.jsx';
 import { View } from '../models/AppState.jsx';
 import PdfUploadView from './PdfUploadView.jsx';
 import LoadingView from './LoadingView.jsx';
+import ResultView from './ResultView.jsx';
 import DebugView from './DebugView.jsx';
 
 export default class App extends React.Component {
@@ -26,14 +27,19 @@ export default class App extends React.Component {
         case View.LOADING:
             mainView = <LoadingView fileBuffer={ appState.fileBuffer } storePdfPagesFunction={ appState.storePdfPages } />
             break;
+        case View.RESULT:
+            mainView = <ResultView pdfPages={ appState.pdfPages } transformations={ appState.transformations } />
+            break;
         case View.DEBUG:
             mainView = <DebugView pdfPages={ appState.pdfPages } transformations={ appState.transformations } />
             break;
+        default:
+            throw `View ${this.props.appState.mainView} not supported!`;
         }
 
         return (
             <div>
-              <TopBar/>
+              <TopBar mainView={ appState.mainView } switchMainViewFunction={ appState.switchMainView } />
               <Grid>
                 <div>
                   { mainView }

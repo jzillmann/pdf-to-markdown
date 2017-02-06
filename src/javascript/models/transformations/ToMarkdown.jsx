@@ -2,10 +2,10 @@ import Transformation from './Transformation.jsx';
 import TextPage from '../TextPage.jsx';
 import ContentView from '../ContentView.jsx';
 
-export default class ToSingleTextPage extends Transformation {
+export default class ToMarkdown extends Transformation {
 
     constructor() {
-        super("To Single Text Page");
+        super("To Markdown");
     }
 
     showPageSelection() {
