@@ -3,7 +3,9 @@ import { Enum } from 'enumify';
 import NoOp from './transformations/NoOp.jsx';
 import RoundCoordinates from './transformations/RoundCoordinates.jsx';
 import CombineSameY from './transformations/CombineSameY.jsx';
+import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
 import DetectFootnotes from './transformations/DetectFootnotes.jsx'
+import DetectLinks from './transformations/DetectLinks.jsx'
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import HeadlineDetector from './transformations/HeadlineDetector.jsx'
 import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
@@ -22,7 +24,9 @@ export default class AppState {
             new NoOp,
             new RoundCoordinates(),
             new CombineSameY(),
+            new RemoveWhitespaces(),
             new DetectFootnotes(),
+            new DetectLinks(),
             new RemoveRepetitiveElements(),
             new HeadlineDetector(),
             new HeadlineToUppercase(),
