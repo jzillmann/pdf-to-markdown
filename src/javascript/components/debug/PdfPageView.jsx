@@ -41,9 +41,6 @@ export default class PdfPageView extends React.Component {
                               <th>
                                 Height
                               </th>
-                              <th>
-                                Annotation
-                              </th>
                             </tr>
                           </thead>
                           <tbody>
@@ -51,10 +48,20 @@ export default class PdfPageView extends React.Component {
                                                         color: textItem.annotation.color
                                                     } : null }>
                                                                <td>
-                                                                 { i }
+                                                                 <div style={ { textAlign: 'center' } }>
+                                                                   { i }
+                                                                 </div>
+                                                                 <div style={ { textAlign: 'center' } }>
+                                                                   { textItem.annotation ? textItem.annotation.category : '' }
+                                                                 </div>
                                                                </td>
                                                                <td>
-                                                                 { textItem.text }
+                                                                 <pre style={ textItem.annotation ? {
+                                                                                  color: textItem.annotation.color,
+                                                                                  display: 'inline-block',
+                                                                              } : {
+                                                                                  display: 'inline-block'
+                                                                              } }>{ textItem.text }</pre>
                                                                </td>
                                                                <td>
                                                                  { textItem.x }
@@ -67,9 +74,6 @@ export default class PdfPageView extends React.Component {
                                                                </td>
                                                                <td>
                                                                  { textItem.height }
-                                                               </td>
-                                                               <td>
-                                                                 { textItem.annotation ? textItem.annotation.category : '' }
                                                                </td>
                                                              </tr>
                               ) }
