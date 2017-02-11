@@ -3,7 +3,7 @@ import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
 
-import Annotation from '../Annotation.jsx';
+import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 export default class RemoveWhitespaces extends Transformation {
 
@@ -16,15 +16,6 @@ export default class RemoveWhitespaces extends Transformation {
     }
 
     transform(pages:PdfPage[]) {
-        const addedAnnotation = new Annotation({
-            category: 'added',
-            color: 'green'
-        });
-        const removedAnnotation = new Annotation({
-            category: 'removed',
-            color: 'red'
-        });
-
         pages.forEach(page => {
             const newTextItems = [];
             page.textItems.forEach(item => {
@@ -43,9 +34,9 @@ export default class RemoveWhitespaces extends Transformation {
                     newTextItems.push(new TextItem({
                         ...item,
                         text: changedWords.join(' '),
-                        annotation: addedAnnotation,
+                        annotation: ADDED_ANNOTATION,
                     }));
-                    item.annotation = removedAnnotation;
+                    item.annotation = REMOVED_ANNOTATION;
                 }
             });
             page.textItems = newTextItems;
@@ -55,7 +46,7 @@ export default class RemoveWhitespaces extends Transformation {
 
     processAnnotations(pages:PdfPage[]) {
         pages.forEach(page => {
-            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation.category !== 'removed');
+            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
             page.textItems.forEach(textItem => textItem.annotation = null)
         });
         return pages;

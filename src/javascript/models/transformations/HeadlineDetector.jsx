@@ -132,7 +132,7 @@ export default class HeadlineDetector extends Transformation {
                         ...item,
                         text: item.text,
                         annotation: new Annotation({
-                            category: "Headline " + headlineLevel,
+                            category: "Headline-" + headlineLevel,
                             color: 'green'
                         }),
                         markdownElement: new Headline({

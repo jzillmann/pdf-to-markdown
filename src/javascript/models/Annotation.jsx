@@ -7,3 +7,18 @@ export default class Annotation {
     }
 
 }
+
+export const ADDED_ANNOTATION = new Annotation({
+    category: 'Added',
+    color: 'green'
+});
+
+export const REMOVED_ANNOTATION = new Annotation({
+    category: 'Removed',
+    color: 'red'
+});
+
+export const UNCHANGED_ANNOTATION = new Annotation({
+    category: 'Unchanged',
+    color: 'brown'
+})

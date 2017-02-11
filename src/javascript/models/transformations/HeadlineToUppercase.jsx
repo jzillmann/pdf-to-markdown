@@ -2,7 +2,7 @@ import Transformation from './Transformation.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
-import Annotation from '../Annotation.jsx';
+import { ADDED_ANNOTATION, REMOVED_ANNOTATION, UNCHANGED_ANNOTATION } from '../Annotation.jsx';
 
 import { hasUpperCaseCharacterInMiddleOfWord } from '../../functions.jsx'
 
@@ -27,24 +27,15 @@ export default class HeadlineToUppercase extends Transformation {
                 if (item.markdownElement && item.markdownElement.constructor.name === 'Headline') {
                     const headline = item.text.trim();
                     if (hasUpperCaseCharacterInMiddleOfWord(headline)) {
-                        item.annotation = new Annotation({
-                            category: 'removed',
-                            color: 'red'
-                        });
+                        item.annotation = REMOVED_ANNOTATION;
                         newTextItems.push(item);
                         newTextItems.push(new TextItem({
                             ...item,
                             text: item.text.toUpperCase(),
-                            annotation: new Annotation({
-                                category: "Uppercased",
-                                color: 'green'
-                            })
+                            annotation: ADDED_ANNOTATION
                         }));
                     } else {
-                        item.annotation = new Annotation({
-                            category: 'Untouched',
-                            color: 'brown'
-                        });
+                        item.annotation = UNCHANGED_ANNOTATION;
                         newTextItems.push(item);
                     }
                 } else {
@@ -60,7 +51,7 @@ export default class HeadlineToUppercase extends Transformation {
 
     processAnnotations(pages:PdfPage[]) {
         pages.forEach(page => {
-            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation.category !== 'removed');
+            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
             page.textItems.forEach(textItem => textItem.annotation = null)
         });
         return pages;

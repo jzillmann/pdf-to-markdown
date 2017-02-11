@@ -1,7 +1,7 @@
 import Transformation from './Transformation.jsx';
 import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
-import Annotation from '../Annotation.jsx';
+import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 import { isDigit } from '../../functions.jsx'
 
@@ -51,10 +51,7 @@ export default class RemoveRepetitiveElements extends Transformation {
                 var combinedCoordinates = combineCoordinates(textItem);
                 if (repetitionCounts[combinedCoordinates] > 1) {
                     // console.debug("page " + pdfPage.index + " removed :" + repetitionCounts[combinedCoordinates] + " :" + textItem.text);
-                    textItem.annotation = new Annotation({
-                        category: 'removed',
-                        color: 'red'
-                    });
+                    textItem.annotation = REMOVED_ANNOTATION;
                 }
             });
         });
@@ -63,7 +60,7 @@ export default class RemoveRepetitiveElements extends Transformation {
 
     processAnnotations(pages:PdfPage[]) {
         pages.forEach(page => {
-            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation.category !== 'removed');
+            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
         });
         return pages;
     }

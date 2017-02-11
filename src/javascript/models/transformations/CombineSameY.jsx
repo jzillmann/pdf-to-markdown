@@ -2,7 +2,7 @@ import Transformation from './Transformation.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
-import Annotation from '../Annotation.jsx';
+import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 function combineTextItems(textItems:TextItem[]) {
     var numChars = 0;
@@ -37,11 +37,7 @@ function combineTextItems(textItems:TextItem[]) {
         width: sumWidthWithWhitespaces,
         height: maxHeight,
         text: combinedText,
-        annotation: new Annotation({
-            category: 'combined',
-            color: 'green'
-        })
-
+        annotation: ADDED_ANNOTATION
     });
 }
 
@@ -57,11 +53,6 @@ export default class CombineSameY extends Transformation {
 
     transform(pages:PdfPage[]) {
 
-        const removedAnnotation = new Annotation({
-            category: 'removed',
-            color: 'red'
-        });
-
         return pages.map(pdfPage => {
             const newTextItems = [];
             var textItemsWithSameY = [];
@@ -72,7 +63,7 @@ export default class CombineSameY extends Transformation {
                 } else {
                     // add removed text-items
                     textItemsWithSameY.forEach(textItem => {
-                        textItem.annotation = removedAnnotation;
+                        textItem.annotation = REMOVED_ANNOTATION;
                         newTextItems.push(textItem);
                     });
                     newTextItems.push(combineTextItems(textItemsWithSameY));
@@ -102,7 +93,7 @@ export default class CombineSameY extends Transformation {
 
     processAnnotations(pages:PdfPage[]) {
         pages.forEach(page => {
-            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation.category !== 'removed');
+            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
             page.textItems.forEach(textItem => textItem.annotation = null)
         });
         return pages;

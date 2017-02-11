@@ -2,7 +2,7 @@ import Transformation from './Transformation.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
 import ContentView from '../ContentView.jsx';
-import Annotation from '../Annotation.jsx';
+import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 import { isNumber } from '../../functions.jsx'
 
@@ -21,19 +21,14 @@ export default class DetectFootnotes extends Transformation {
         var nextFooterNumber = 1;
         var potentialFootnoteItem;
 
-        const removedAnnotation = new Annotation({
-            category: 'removed',
-            color: 'red'
-        });
-
         return pages.map(page => {
             const newTextItems = [];
             for (var i = 0; i < page.textItems.length; i++) {
                 const item = page.textItems[i];
                 if (potentialFootnoteItem) {
                     if (potentialFootnoteItem.y - item.y < item.height) {
-                        potentialFootnoteItem.annotation = removedAnnotation;
-                        item.annotation = removedAnnotation;
+                        potentialFootnoteItem.annotation = REMOVED_ANNOTATION;
+                        item.annotation = REMOVED_ANNOTATION;
                         newTextItems.push(potentialFootnoteItem);
                         newTextItems.push(item);
                         newTextItems.push(new TextItem({
@@ -42,10 +37,7 @@ export default class DetectFootnotes extends Transformation {
                             width: potentialFootnoteItem.width + item.width,
                             height: item.height,
                             text: '[' + potentialFootnoteItem.text + '] ' + item.text,
-                            annotation: new Annotation({
-                                category: 'footnote',
-                                color: 'green'
-                            })
+                            annotation: ADDED_ANNOTATION
                         }));
                         //TODO repsect multiline!!
                         nextFooterNumber++;
@@ -66,7 +58,7 @@ export default class DetectFootnotes extends Transformation {
 
     processAnnotations(pages:PdfPage[]) {
         pages.forEach(page => {
-            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation.category !== 'removed');
+            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
             page.textItems.forEach(textItem => textItem.annotation = null)
         });
         return pages;
