@@ -18,7 +18,11 @@ export default class ToMarkdown extends Transformation {
 
     transform(pages:TextPage[]) {
         var text = '';
-        pages.forEach(page => text += page.text + '\n');
+        pages.forEach(page => {
+            page.blocks.forEach((block) => {
+                text += block.text + '\n\n';
+            });
+        });
         return [new TextPage({
             index: 0,
             text: text

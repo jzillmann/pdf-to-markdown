@@ -9,7 +9,7 @@ import DetectLinks from './transformations/DetectLinks.jsx'
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import HeadlineDetector from './transformations/HeadlineDetector.jsx'
 import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
-import ToTextPages from './transformations/ToTextPages.jsx';
+import ToBlockSystem from './transformations/ToBlockSystem.jsx';
 import ToMarkdown from './transformations/ToMarkdown.jsx'
 
 // Holds the state of the Application
@@ -30,7 +30,7 @@ export default class AppState {
             new RemoveRepetitiveElements(),
             new HeadlineDetector(),
             new HeadlineToUppercase(),
-            new ToTextPages(),
+            new ToBlockSystem(),
             new ToMarkdown()];
 
         //bind functions

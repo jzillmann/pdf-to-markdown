@@ -11,7 +11,7 @@ import Checkbox from 'react-bootstrap/lib/Checkbox'
 
 import ContentView from '../models/ContentView.jsx';
 import PdfPageView from './debug/PdfPageView.jsx';
-import TextPageView from './debug/TextPageView.jsx';
+import BlockPageView from './debug/BlockPageView.jsx';
 import MarkdownPageView from './debug/MarkdownPageView.jsx';
 
 // A view which displays the content of the given pages transformed by the given transformations
@@ -88,8 +88,8 @@ export default class DebugView extends React.Component {
             pageComponents = transformedPages.map(page => <PdfPageView key={ page.index } pdfPage={ page } modificationsOnly={ this.state.modificationsOnly } />);
             showModificationCheckbox = true;
             break;
-        case ContentView.TEXT:
-            pageComponents = transformedPages.map(page => <TextPageView key={ page.index } page={ page } />);
+        case ContentView.BLOCK:
+            pageComponents = transformedPages.map(page => <BlockPageView key={ page.index } page={ page } />);
             break;
         case ContentView.MARKDOWN:
             pageComponents = transformedPages.map(page => <MarkdownPageView key={ page.index } page={ page } />);
