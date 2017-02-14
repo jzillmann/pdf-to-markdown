@@ -1,15 +1,10 @@
-import Transformation from './Transformation.jsx';
+import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import PdfPage from '../PdfPage.jsx';
-import ContentView from '../ContentView.jsx';
 
-export default class RoundCoordinates extends Transformation {
+export default class RoundCoordinates extends ToPdfViewTransformation {
 
     constructor() {
         super("Round Coordinates");
-    }
-
-    contentView() {
-        return ContentView.PDF;
     }
 
     transform(pdfPages:PdfPage[]) {

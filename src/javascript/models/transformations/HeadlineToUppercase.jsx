@@ -1,21 +1,16 @@
-import Transformation from './Transformation.jsx';
+import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
-import ContentView from '../ContentView.jsx';
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION, UNCHANGED_ANNOTATION } from '../Annotation.jsx';
 
 import { hasUpperCaseCharacterInMiddleOfWord } from '../../functions.jsx'
 
 // Uppercase headlines are often parsed with very mixed character with pdf.js, like 'A heAdLine'.
 // This tries to detect them and make them all uppercase.
-export default class HeadlineToUppercase extends Transformation {
+export default class HeadlineToUppercase extends ToPdfViewTransformation {
 
     constructor() {
         super("Headlines Uppercase");
-    }
-
-    contentView() {
-        return ContentView.PDF;
     }
 
     transform(pages:PdfPage[]) {

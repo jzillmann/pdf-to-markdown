@@ -1,7 +1,8 @@
+import React from 'react';
 import Transformation from './Transformation.jsx';
+import BlockPageView from '../../components/debug/BlockPageView.jsx';
 import PdfPage from '../PdfPage.jsx';
 import BlockPage from '../BlockPage.jsx';
-import ContentView from '../ContentView.jsx';
 
 export default class ToBlockSystem extends Transformation {
 
@@ -9,12 +10,8 @@ export default class ToBlockSystem extends Transformation {
         super("To Block System");
     }
 
-    contentView() {
-        return ContentView.BLOCK;
-    }
-
-    showPageSelection() {
-        return false;
+    createPageView(page, modificationsOnly) { // eslint-disable-line no-unused-vars
+        return <BlockPageView key={ page.index } page={ page } />;
     }
 
     transform(pages:PdfPage[]) {

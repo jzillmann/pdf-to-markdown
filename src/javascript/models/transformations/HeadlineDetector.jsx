@@ -1,7 +1,6 @@
-import Transformation from './Transformation.jsx';
+import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
-import ContentView from '../ContentView.jsx';
 import Annotation from '../Annotation.jsx';
 
 import Headline from '../markdown/Headline.jsx';
@@ -59,14 +58,10 @@ function findNextMajorHeight(heights, currentHeight, headlineLevels) {
 }
 
 
-export default class HeadlineDetector extends Transformation {
+export default class HeadlineDetector extends ToPdfViewTransformation {
 
     constructor() {
         super("Detect Headlines");
-    }
-
-    contentView() {
-        return ContentView.PDF;
     }
 
     // Strategy:

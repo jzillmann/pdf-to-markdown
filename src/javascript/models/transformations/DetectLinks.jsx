@@ -1,18 +1,13 @@
-import Transformation from './Transformation.jsx';
+import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
-import ContentView from '../ContentView.jsx';
 
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
 
-export default class DetectLinks extends Transformation {
+export default class DetectLinks extends ToPdfViewTransformation {
 
     constructor() {
         super("Detect Links");
-    }
-
-    contentView() {
-        return ContentView.PDF;
     }
 
     transform(pages:PdfPage[]) {

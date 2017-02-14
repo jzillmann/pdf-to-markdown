@@ -1,19 +1,14 @@
-import Transformation from './Transformation.jsx';
+import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
-import ContentView from '../ContentView.jsx';
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 import { isNumber } from '../../functions.jsx'
 
-export default class DetectFootnotes extends Transformation {
+export default class DetectFootnotes extends ToPdfViewTransformation {
 
     constructor() {
         super("Detect Footnotes");
-    }
-
-    contentView() {
-        return ContentView.PDF;
     }
 
     transform(pages:PdfPage[]) {

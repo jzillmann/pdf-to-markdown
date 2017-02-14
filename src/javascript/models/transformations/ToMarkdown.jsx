@@ -1,6 +1,7 @@
+import React from 'react';
+import MarkdownPageView from '../../components/debug/MarkdownPageView.jsx';
 import Transformation from './Transformation.jsx';
 import TextPage from '../TextPage.jsx';
-import ContentView from '../ContentView.jsx';
 
 export default class ToMarkdown extends Transformation {
 
@@ -8,12 +9,8 @@ export default class ToMarkdown extends Transformation {
         super("To Markdown");
     }
 
-    showPageSelection() {
-        return false;
-    }
-
-    contentView() {
-        return ContentView.MARKDOWN;
+    createPageView(page, modificationsOnly) { // eslint-disable-line no-unused-vars
+        return <MarkdownPageView key={ page.index } page={ page } />;
     }
 
     transform(pages:TextPage[]) {

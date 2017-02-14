@@ -9,11 +9,6 @@ import MenuItem from 'react-bootstrap/lib/MenuItem'
 import Label from 'react-bootstrap/lib/Label'
 import Checkbox from 'react-bootstrap/lib/Checkbox'
 
-import ContentView from '../models/ContentView.jsx';
-import PdfPageView from './debug/PdfPageView.jsx';
-import BlockPageView from './debug/BlockPageView.jsx';
-import MarkdownPageView from './debug/MarkdownPageView.jsx';
-
 // A view which displays the content of the given pages transformed by the given transformations
 export default class DebugView extends React.Component {
 
@@ -69,32 +64,18 @@ export default class DebugView extends React.Component {
         const currentTransformationName = transformations[currentTransformation].name;
 
         var transformedPages = pdfPages;
-        var contentView;
         var lastTransformation;
         for (var i = 0; i <= currentTransformation; i++) {
             if (lastTransformation) {
                 transformedPages = lastTransformation.processAnnotations(transformedPages);
             }
             transformedPages = transformations[i].transform(transformedPages);
-            contentView = transformations[i].contentView();
             lastTransformation = transformations[i];
         }
 
         transformedPages = transformedPages.filter((elem, i) => pageNr == -1 || i == pageNr);
-        var pageComponents;
-        var showModificationCheckbox = false;
-        switch (contentView) {
-        case ContentView.PDF:
-            pageComponents = transformedPages.map(page => <PdfPageView key={ page.index } pdfPage={ page } modificationsOnly={ this.state.modificationsOnly } />);
-            showModificationCheckbox = true;
-            break;
-        case ContentView.BLOCK:
-            pageComponents = transformedPages.map(page => <BlockPageView key={ page.index } page={ page } />);
-            break;
-        case ContentView.MARKDOWN:
-            pageComponents = transformedPages.map(page => <MarkdownPageView key={ page.index } page={ page } />);
-            break;
-        }
+        const pageComponents = transformedPages.map(page => lastTransformation.createPageView(page, this.state.modificationsOnly));
+        const showModificationCheckbox = lastTransformation.showModificationCheckbox();
 
         return (
             <div>

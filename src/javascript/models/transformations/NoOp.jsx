@@ -1,15 +1,10 @@
-import Transformation from './Transformation.jsx';
+import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import PdfPage from '../PdfPage.jsx';
-import ContentView from '../ContentView.jsx';
 
-export default class NoOp extends Transformation {
+export default class NoOp extends ToPdfViewTransformation {
 
     constructor() {
         super("Original");
-    }
-
-    contentView() {
-        return ContentView.PDF;
     }
 
     transform(pdfPages:PdfPage[]) {

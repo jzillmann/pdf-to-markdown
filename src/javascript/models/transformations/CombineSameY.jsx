@@ -1,7 +1,6 @@
-import Transformation from './Transformation.jsx';
+import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfPage from '../PdfPage.jsx';
-import ContentView from '../ContentView.jsx';
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 function combineTextItems(textItems:TextItem[]) {
@@ -41,14 +40,10 @@ function combineTextItems(textItems:TextItem[]) {
     });
 }
 
-export default class CombineSameY extends Transformation {
+export default class CombineSameY extends ToPdfViewTransformation {
 
     constructor() {
         super("Combine Text On Same Y");
-    }
-
-    contentView() {
-        return ContentView.PDF;
     }
 
     transform(pages:PdfPage[]) {

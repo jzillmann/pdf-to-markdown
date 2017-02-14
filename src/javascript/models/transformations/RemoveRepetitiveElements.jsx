@@ -1,6 +1,5 @@
-import Transformation from './Transformation.jsx';
+import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import PdfPage from '../PdfPage.jsx';
-import ContentView from '../ContentView.jsx';
 import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 import { isDigit } from '../../functions.jsx'
@@ -25,14 +24,10 @@ function combineCoordinates(textItem) {
 }
 
 // Remove elements with similar content on same page positions, like page numbers, licenes information, etc...
-export default class RemoveRepetitiveElements extends Transformation {
+export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
 
     constructor() {
         super("Remove Repetitive Elements");
-    }
-
-    contentView() {
-        return ContentView.PDF;
     }
 
     transform(pages:PdfPage[]) {
