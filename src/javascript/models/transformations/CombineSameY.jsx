@@ -71,7 +71,7 @@ export default class CombineSameY extends Transformation {
             }
 
             pdfPage.textItems.forEach(textItem => {
-                if (textItemsWithSameY.length == 0 || textItem.y == textItemsWithSameY[textItemsWithSameY.length - 1].y) {
+                if (textItemsWithSameY.length == 0 || Math.abs(textItem.y - textItemsWithSameY[textItemsWithSameY.length - 1].y) < 2) {
                     //fill array
                     textItemsWithSameY.push(textItem);
                 } else {
