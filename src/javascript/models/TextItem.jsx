@@ -7,6 +7,9 @@ export default class TextItem {
         this.width = options.width;
         this.height = options.height;
         this.text = options.text;
+        this.font = options.font;
+        this.fontAscent = options.fontAscent;
+        this.fontDescent = options.fontDescent;
         this.annotation = options.annotation;
         this.markdownElement = options.markdownElement;
     }

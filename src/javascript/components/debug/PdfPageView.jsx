@@ -41,6 +41,10 @@ export default class PdfPageView extends React.Component {
                               <th>
                                 Height
                               </th>
+                              <th>
+                                Font
+                                <br/>(asc/desc)
+                              </th>
                             </tr>
                           </thead>
                           <tbody>
@@ -74,6 +78,11 @@ export default class PdfPageView extends React.Component {
                                                                </td>
                                                                <td>
                                                                  { textItem.height }
+                                                               </td>
+                                                               <td>
+                                                                 { textItem.font }
+                                                                 <br/>
+                                                                 { textItem.fontAscent + ' / ' + textItem.fontDescent }
                                                                </td>
                                                              </tr>
                               ) }

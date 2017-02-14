@@ -55,6 +55,17 @@ export default class LoadingView extends React.Component {
                 pdfDocument.getPage(j).then(function(page) {
                     var scale = 1.0;
                     var viewport = page.getViewport(scale);
+
+                    // pdfDocument.getMetadata().then(function(data) {
+                    //     console.debug(data);
+                    // });
+                    // page.getOperatorList().then(function(opList) {
+                    //     console.debug(opList);
+                    // // var svgGfx = new svgLib.SVGGraphics(page.commonObjs, page.objs);
+                    // // return svgGfx.getSVG(opList, viewport).then(function (svg) {
+                    // //   container.appendChild(svg);
+                    // // });
+                    // });
                     page.getTextContent().then(function(textContent) {
                         const textItems = textContent.items.map(function(item) {
                             const tx = PDFJS.Util.transform( // eslint-disable-line no-undef
@@ -64,12 +75,17 @@ export default class LoadingView extends React.Component {
 
                             const fontHeight = Math.sqrt((tx[2] * tx[2]) + (tx[3] * tx[3]));
                             const dividedHeight = item.height / fontHeight;
+
+                            const style = textContent.styles[item.fontName];
                             return new TextItem({
                                 x: item.transform[4],
                                 y: item.transform[5],
                                 width: item.width,
                                 height: dividedHeight <= 1 ? item.height : dividedHeight,
-                                text: item.str
+                                text: item.str,
+                                font: item.fontName,
+                                fontAscent: style.ascent,
+                                fontDescent: style.descent
                             });
                         });
                         anouncePageParsedFunction(page.pageIndex, textItems);
@@ -78,9 +94,6 @@ export default class LoadingView extends React.Component {
             }
         });
     }
-
-
-
 
     render() {
         const {parsedPages, pdfPages} = this.state;
