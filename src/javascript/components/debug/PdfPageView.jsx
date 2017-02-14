@@ -7,17 +7,19 @@ export default class PdfPageView extends React.Component {
     static propTypes = {
         pdfPage: React.PropTypes.object.isRequired,
         modificationsOnly: React.PropTypes.bool.isRequired,
+        showWhitespaces: React.PropTypes.bool
     };
 
     render() {
         const header = "Page " + (this.props.pdfPage.index + 1);
+        const {modificationsOnly, showWhitespaces} = this.props;
         var textItems = this.props.pdfPage.textItems;
-        var content = <div/>
-        if (this.props.modificationsOnly) {
+        if (modificationsOnly) {
             textItems = textItems.filter(item => item.annotation);
         }
 
-        if (!this.props.modificationsOnly || textItems.length > 0) {
+        var content = <div/>
+        if (!modificationsOnly || textItems.length > 0) {
             content = <div>
                         <h2>{ header }</h2>
                         <Table responsive>
@@ -60,12 +62,14 @@ export default class PdfPageView extends React.Component {
                                                                  </div>
                                                                </td>
                                                                <td>
-                                                                 <pre style={ textItem.annotation ? {
-                                                                                  color: textItem.annotation.color,
-                                                                                  display: 'inline-block',
-                                                                              } : {
-                                                                                  display: 'inline-block'
-                                                                              } }>{ textItem.text }</pre>
+                                                                 { showWhitespaces ? (
+                                                                   <pre style={ textItem.annotation ? {
+                                                                                    color: textItem.annotation.color,
+                                                                                    display: 'inline-block',
+                                                                                } : {
+                                                                                    display: 'inline-block'
+                                                                                } }>{ textItem.text }</pre>
+                                                                   ) : (textItem.text) }
                                                                </td>
                                                                <td>
                                                                  { textItem.x }

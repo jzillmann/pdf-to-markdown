@@ -8,6 +8,7 @@ export default class RemoveWhitespaces extends ToPdfViewTransformation {
 
     constructor() {
         super("Remove Whitespaces");
+        this.showWhitespaces = true;
     }
 
     transform(pages:PdfPage[]) {

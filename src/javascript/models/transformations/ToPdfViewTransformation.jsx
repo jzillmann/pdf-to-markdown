@@ -11,6 +11,7 @@ export default class ToPdfViewTransformation extends Transformation {
         if (this.constructor === ToPdfViewTransformation) {
             throw new TypeError("Can not construct abstract class.");
         }
+        this.showWhitespaces = false;
     }
 
     showPageSelection() {
@@ -22,7 +23,11 @@ export default class ToPdfViewTransformation extends Transformation {
     }
 
     createPageView(page, modificationsOnly) {
-        return <PdfPageView key={ page.index } pdfPage={ page } modificationsOnly={ modificationsOnly } />;
+        return <PdfPageView
+                            key={ page.index }
+                            pdfPage={ page }
+                            modificationsOnly={ modificationsOnly }
+                            showWhitespaces={ this.showWhitespaces } />;
     }
 
     transform(pdfPages:PdfPage[]) {
