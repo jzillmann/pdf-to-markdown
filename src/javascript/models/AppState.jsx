@@ -1,6 +1,6 @@
 import { Enum } from 'enumify';
 
-import NoOp from './transformations/NoOp.jsx';
+import CalculateGlobalStats from './transformations/CalculateGlobalStats.jsx';
 import RoundCoordinates from './transformations/RoundCoordinates.jsx';
 import CombineSameY from './transformations/CombineSameY.jsx';
 import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
@@ -21,7 +21,7 @@ export default class AppState {
         this.fileBuffer;
         this.pdfPages = [];
         this.transformations = [
-            new NoOp,
+            new CalculateGlobalStats(),
             new RoundCoordinates(),
             new CombineSameY(),
             new RemoveWhitespaces(),

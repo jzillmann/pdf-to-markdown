@@ -21,7 +21,7 @@ export default class Transformation {
         return false;
     }
 
-    createSummaryView(summary) { // eslint-disable-line no-unused-vars
+    createSummaryView(parseResult:ParseResult) { // eslint-disable-line no-unused-vars
         return null;
     }
 

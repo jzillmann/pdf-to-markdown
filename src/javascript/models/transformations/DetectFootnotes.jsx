@@ -12,10 +12,10 @@ export default class DetectFootnotes extends ToPdfViewTransformation {
         super("Detect Footnotes");
     }
 
-    createSummaryView(summary) {
+    createSummaryView(parseResult:ParseResult) {
         return <div>
                  Detected
-                 { ' ' + summary.footnotes + ' ' } footnotes.
+                 { ' ' + parseResult.summary.footnotes + ' ' } footnotes.
                </div>;
     }
 
