@@ -1,5 +1,5 @@
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
-import PdfPage from '../PdfPage.jsx';
+import ParseResult from '../ParseResult.jsx';
 
 export default class RoundCoordinates extends ToPdfViewTransformation {
 
@@ -7,8 +7,8 @@ export default class RoundCoordinates extends ToPdfViewTransformation {
         super("Round Coordinates");
     }
 
-    transform(pdfPages:PdfPage[]) {
-        return pdfPages.map(pdfPage => {
+    transform(parseResult:ParseResult) {
+        const newContent = parseResult.content.map(pdfPage => {
             return {
                 ...pdfPage,
                 textItems: pdfPage.textItems.map(textItem => {
@@ -21,6 +21,10 @@ export default class RoundCoordinates extends ToPdfViewTransformation {
                     }
                 })
             };
+        });
+        return new ParseResult({
+            ...parseResult,
+            content: newContent,
         });
     }
 

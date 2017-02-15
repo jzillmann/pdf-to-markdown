@@ -1,6 +1,6 @@
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
-import PdfPage from '../PdfPage.jsx';
+import ParseResult from '../ParseResult.jsx';
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 function combineTextItems(textItems:TextItem[]) {
@@ -46,9 +46,8 @@ export default class CombineSameY extends ToPdfViewTransformation {
         super("Combine Text On Same Y");
     }
 
-    transform(pages:PdfPage[]) {
-
-        return pages.map(pdfPage => {
+    transform(parseResult:ParseResult) {
+        const newContent = parseResult.content.map(pdfPage => {
             const newTextItems = [];
             var textItemsWithSameY = [];
 
@@ -84,14 +83,19 @@ export default class CombineSameY extends ToPdfViewTransformation {
                 textItems: newTextItems
             };
         });
+
+        return new ParseResult({
+            ...parseResult,
+            content: newContent
+        });
     }
 
-    processAnnotations(pages:PdfPage[]) {
-        pages.forEach(page => {
+    completeTransform(parseResult:ParseResult) {
+        parseResult.content.forEach(page => {
             page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
             page.textItems.forEach(textItem => textItem.annotation = null)
         });
-        return pages;
+        return parseResult;
     }
 
 }

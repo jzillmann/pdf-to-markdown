@@ -9,6 +9,8 @@ import MenuItem from 'react-bootstrap/lib/MenuItem'
 import Label from 'react-bootstrap/lib/Label'
 import Checkbox from 'react-bootstrap/lib/Checkbox'
 
+import ParseResult from '../models/ParseResult.jsx';
+
 // A view which displays the content of the given pages transformed by the given transformations
 export default class DebugView extends React.Component {
 
@@ -63,18 +65,20 @@ export default class DebugView extends React.Component {
 
         const currentTransformationName = transformations[currentTransformation].name;
 
-        var transformedPages = pdfPages;
+        var parseResult = new ParseResult({
+            content: pdfPages
+        });
         var lastTransformation;
         for (var i = 0; i <= currentTransformation; i++) {
             if (lastTransformation) {
-                transformedPages = lastTransformation.processAnnotations(transformedPages);
+                parseResult = lastTransformation.completeTransform(parseResult);
             }
-            transformedPages = transformations[i].transform(transformedPages);
+            parseResult = transformations[i].transform(parseResult);
             lastTransformation = transformations[i];
         }
 
-        transformedPages = transformedPages.filter((elem, i) => pageNr == -1 || i == pageNr);
-        const pageComponents = transformedPages.map(page => lastTransformation.createPageView(page, this.state.modificationsOnly));
+        parseResult.content = parseResult.content.filter((elem, i) => pageNr == -1 || i == pageNr);
+        const pageComponents = parseResult.content.map(page => lastTransformation.createPageView(page, this.state.modificationsOnly));
         const showModificationCheckbox = lastTransformation.showModificationCheckbox();
 
         return (

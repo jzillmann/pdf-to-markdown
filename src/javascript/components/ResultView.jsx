@@ -5,6 +5,8 @@ import ButtonToolbar from 'react-bootstrap/lib/ButtonToolbar'
 import ButtonGroup from 'react-bootstrap/lib/ButtonGroup'
 import Button from 'react-bootstrap/lib/Button'
 
+import ParseResult from '../models/ParseResult.jsx';
+
 export default class ResultView extends React.Component {
 
     static propTypes = {
@@ -18,19 +20,21 @@ export default class ResultView extends React.Component {
 
     componentWillMount() {
         const {pdfPages, transformations} = this.props;
-        var transformedPages = pdfPages;
+        var parseResult = new ParseResult({
+            content: pdfPages
+        });
         var lastTransformation;
         transformations.forEach(transformation => {
             if (lastTransformation) {
-                transformedPages = lastTransformation.processAnnotations(transformedPages);
+                parseResult = lastTransformation.completeTransform(parseResult);
             }
-            transformedPages = transformation.transform(transformedPages);
+            parseResult = transformation.transform(parseResult);
             lastTransformation = transformation;
         });
 
         this.state = {
             preview: true,
-            text: transformedPages[0].text
+            text: parseResult.content[0].text
 
         };
     }

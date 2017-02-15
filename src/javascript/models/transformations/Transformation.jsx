@@ -1,3 +1,5 @@
+import ParseResult from '../ParseResult.jsx';
+
 // A transformation from an PdfPage to an PdfPage
 export default class Transformation {
 
@@ -23,14 +25,14 @@ export default class Transformation {
         throw new TypeError("Do not call abstract method foo from child.");
     }
 
-    // Transform incoming pages (like PdfPage[]) into different pages (either PdfPages[] or TextPages[])
-    transform(pages) { // eslint-disable-line no-unused-vars
+    // Transform an incoming ParseResult into an outgoing ParseResult
+    transform(parseResult: ParseResult) { // eslint-disable-line no-unused-vars
         throw new TypeError("Do not call abstract method foo from child.");
     }
 
-    // Annotations which have been added during transform() can now be cleaned-up / handled
-    processAnnotations(pages) { // eslint-disable-line no-unused-vars
-        return pages;
+    // Sometimes the transform() does only visualize a change. This methods then does the actual change.
+    completeTransform(parseResult: ParseResult) { // eslint-disable-line no-unused-vars
+        return parseResult;
     }
 
 

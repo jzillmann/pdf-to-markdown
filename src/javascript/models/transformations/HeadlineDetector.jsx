@@ -1,6 +1,6 @@
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
-import PdfPage from '../PdfPage.jsx';
+import ParseResult from '../ParseResult.jsx';
 import Annotation from '../Annotation.jsx';
 
 import Headline from '../markdown/Headline.jsx';
@@ -69,14 +69,14 @@ export default class HeadlineDetector extends ToPdfViewTransformation {
     // - heights which start a page are likely to be headlines
     // - maxHeigth is likely a headline
     // - heights which occur on more then one page are likely to be headlines
-    transform(pages:PdfPage[]) {
-        const heightAnalyzation = analyzeHeigths(pages);
+    transform(parseResult:ParseResult) {
+        const heightAnalyzation = analyzeHeigths(parseResult.content);
 
         var paragraphHeight = heightAnalyzation.mostUsedHeight + 1;
 
         // text with more hight then the paragraph height which are on the top of the page are likely to be headlines
         const likelyHeadingHeights = new Set();
-        pages.forEach(page => {
+        parseResult.content.forEach(page => {
             page.textItems.forEach(item => {
                 if (item.height > paragraphHeight && heightAnalyzation.maxYPerPage[page.index] == item.y) {
                     likelyHeadingHeights.add(item.height);
@@ -116,7 +116,7 @@ export default class HeadlineDetector extends ToPdfViewTransformation {
             }
         }
 
-        return pages.map(page => {
+        const newContent = parseResult.content.map(page => {
             const newTextItems = [];
             page.textItems.forEach(item => {
                 if (item.height <= paragraphHeight) {
@@ -141,13 +141,18 @@ export default class HeadlineDetector extends ToPdfViewTransformation {
                 textItems: newTextItems
             };
         });
+
+        return new ParseResult({
+            ...parseResult,
+            content: newContent,
+        });
     }
 
-    processAnnotations(pages:PdfPage[]) {
-        pages.forEach(page => {
+    completeTransform(parseResult:ParseResult) {
+        parseResult.content.forEach(page => {
             page.textItems.forEach(textItem => textItem.annotation = null)
         });
-        return pages;
+        return parseResult;
     }
 
 }

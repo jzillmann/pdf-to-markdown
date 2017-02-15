@@ -1,5 +1,5 @@
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
-import PdfPage from '../PdfPage.jsx';
+import ParseResult from '../ParseResult.jsx';
 import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 import { isDigit } from '../../functions.jsx'
@@ -30,10 +30,10 @@ export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
         super("Remove Repetitive Elements");
     }
 
-    transform(pages:PdfPage[]) {
+    transform(parseResult:ParseResult) {
         //build repetition counts for every element
         const repetitionCounts = {};
-        pages.forEach(pdfPage => {
+        parseResult.content.forEach(pdfPage => {
             pdfPage.textItems.forEach(textItem => {
                 var combinedCoordinates = combineCoordinates(textItem);
                 repetitionCounts[combinedCoordinates] = repetitionCounts[combinedCoordinates] ? repetitionCounts[combinedCoordinates] + 1 : 1;
@@ -41,7 +41,7 @@ export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
         });
 
         // annotate elements with repetition as removed
-        pages.forEach(pdfPage => {
+        parseResult.content.forEach(pdfPage => {
             pdfPage.textItems.forEach(textItem => {
                 var combinedCoordinates = combineCoordinates(textItem);
                 if (repetitionCounts[combinedCoordinates] > 1) {
@@ -50,14 +50,14 @@ export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
                 }
             });
         });
-        return pages;
+        return parseResult;
     }
 
-    processAnnotations(pages:PdfPage[]) {
-        pages.forEach(page => {
+    completeTransform(parseResult:ParseResult) {
+        parseResult.content.forEach(page => {
             page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
         });
-        return pages;
+        return parseResult;
     }
 
 }

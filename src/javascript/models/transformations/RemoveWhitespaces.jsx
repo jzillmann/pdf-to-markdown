@@ -1,6 +1,6 @@
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
-import PdfPage from '../PdfPage.jsx';
+import ParseResult from '../ParseResult.jsx';
 
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
 
@@ -11,8 +11,8 @@ export default class RemoveWhitespaces extends ToPdfViewTransformation {
         this.showWhitespaces = true;
     }
 
-    transform(pages:PdfPage[]) {
-        pages.forEach(page => {
+    transform(parseResult:ParseResult) {
+        parseResult.content.forEach(page => {
             const newTextItems = [];
             page.textItems.forEach(item => {
                 newTextItems.push(item);
@@ -37,15 +37,15 @@ export default class RemoveWhitespaces extends ToPdfViewTransformation {
             });
             page.textItems = newTextItems;
         });
-        return pages;
+        return parseResult;
     }
 
-    processAnnotations(pages:PdfPage[]) {
-        pages.forEach(page => {
+    completeTransform(parseResult:ParseResult) {
+        parseResult.content.forEach(page => {
             page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
             page.textItems.forEach(textItem => textItem.annotation = null)
         });
-        return pages;
+        return parseResult;
     }
 
 }

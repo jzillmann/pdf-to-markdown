@@ -1,6 +1,6 @@
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
-import PdfPage from '../PdfPage.jsx';
+import ParseResult from '../ParseResult.jsx';
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION, UNCHANGED_ANNOTATION } from '../Annotation.jsx';
 
 import { hasUpperCaseCharacterInMiddleOfWord } from '../../functions.jsx'
@@ -13,10 +13,8 @@ export default class HeadlineToUppercase extends ToPdfViewTransformation {
         super("Headlines Uppercase");
     }
 
-    transform(pages:PdfPage[]) {
-
-
-        return pages.map(page => {
+    transform(parseResult:ParseResult) {
+        const newContent = parseResult.content.map(page => {
             const newTextItems = [];
             page.textItems.forEach(item => {
                 if (item.markdownElement && item.markdownElement.constructor.name === 'Headline') {
@@ -42,14 +40,19 @@ export default class HeadlineToUppercase extends ToPdfViewTransformation {
                 textItems: newTextItems
             };
         });
+
+        return new ParseResult({
+            ...parseResult,
+            content: newContent,
+        });
     }
 
-    processAnnotations(pages:PdfPage[]) {
-        pages.forEach(page => {
+    completeTransform(parseResult:ParseResult) {
+        parseResult.content.forEach(page => {
             page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
             page.textItems.forEach(textItem => textItem.annotation = null)
         });
-        return pages;
+        return parseResult;
     }
 
 }

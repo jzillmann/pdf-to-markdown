@@ -1,5 +1,5 @@
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
-import PdfPage from '../PdfPage.jsx';
+import ParseResult from '../ParseResult.jsx';
 
 export default class NoOp extends ToPdfViewTransformation {
 
@@ -7,8 +7,8 @@ export default class NoOp extends ToPdfViewTransformation {
         super("Original");
     }
 
-    transform(pdfPages:PdfPage[]) {
-        return pdfPages;
+    transform(parseResult:ParseResult) {
+        return parseResult;
     }
 
 }

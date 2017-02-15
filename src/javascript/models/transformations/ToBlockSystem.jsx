@@ -1,7 +1,7 @@
 import React from 'react';
 import Transformation from './Transformation.jsx';
 import BlockPageView from '../../components/debug/BlockPageView.jsx';
-import PdfPage from '../PdfPage.jsx';
+import ParseResult from '../ParseResult.jsx';
 import BlockPage from '../BlockPage.jsx';
 
 export default class ToBlockSystem extends Transformation {
@@ -14,9 +14,9 @@ export default class ToBlockSystem extends Transformation {
         return <BlockPageView key={ page.index } page={ page } />;
     }
 
-    transform(pages:PdfPage[]) {
+    transform(parseResult:ParseResult) {
         const blocks = [];
-        pages.forEach(page => {
+        parseResult.content.forEach(page => {
             var minDiff = 99;
             var lastY = 0;
             page.textItems.forEach(item => {
@@ -62,14 +62,13 @@ export default class ToBlockSystem extends Transformation {
             });
             rollup("Block")
         });
-        return [new BlockPage({
-            index: 0,
-            blocks: blocks
-        })];
-    }
-
-    processAnnotations(pages) {
-        return pages;
+        return new ParseResult({
+            ...parseResult,
+            content: [new BlockPage({
+                index: 0,
+                blocks: blocks
+            })],
+        });
     }
 
 }

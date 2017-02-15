@@ -1,6 +1,6 @@
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
-import PdfPage from '../PdfPage.jsx';
+import ParseResult from '../ParseResult.jsx';
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 import { isNumber } from '../../functions.jsx'
@@ -11,12 +11,13 @@ export default class DetectFootnotes extends ToPdfViewTransformation {
         super("Detect Footnotes");
     }
 
-    transform(pages:PdfPage[]) {
+    transform(parseResult:ParseResult) {
 
         var nextFooterNumber = 1;
         var potentialFootnoteItem;
+        var foundFootnotes = 0;
 
-        return pages.map(page => {
+        const newContent = parseResult.content.map(page => {
             const newTextItems = [];
             for (var i = 0; i < page.textItems.length; i++) {
                 const item = page.textItems[i];
@@ -36,6 +37,7 @@ export default class DetectFootnotes extends ToPdfViewTransformation {
                         }));
                         //TODO repsect multiline!!
                         nextFooterNumber++;
+                        foundFootnotes++;
                     }
                     potentialFootnoteItem = null;
                 } else if (isNumber(item.text) && parseInt(item.text) == nextFooterNumber && i > 0 && i < page.textItems.length - 1 && page.textItems[i - 1].y !== page.textItems[i + 1].y) {
@@ -49,14 +51,21 @@ export default class DetectFootnotes extends ToPdfViewTransformation {
                 textItems: newTextItems
             };
         });
+        return new ParseResult({
+            ...parseResult,
+            content: newContent,
+            summary: {
+                footnotes: foundFootnotes
+            }
+        });
     }
 
-    processAnnotations(pages:PdfPage[]) {
-        pages.forEach(page => {
+    completeTransform(parseResult:ParseResult) {
+        parseResult.content.forEach(page => {
             page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
             page.textItems.forEach(textItem => textItem.annotation = null)
         });
-        return pages;
+        return parseResult;
     }
 
 }
