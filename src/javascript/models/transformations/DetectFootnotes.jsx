@@ -1,3 +1,4 @@
+import React from 'react';
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import TextItem from '../TextItem.jsx';
 import ParseResult from '../ParseResult.jsx';
@@ -10,6 +11,14 @@ export default class DetectFootnotes extends ToPdfViewTransformation {
     constructor() {
         super("Detect Footnotes");
     }
+
+    createSummaryView(summary) {
+        return <div>
+                 Detected
+                 { ' ' + summary.footnotes + ' ' } footnotes.
+               </div>;
+    }
+
 
     transform(parseResult:ParseResult) {
 

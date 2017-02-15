@@ -78,6 +78,7 @@ export default class DebugView extends React.Component {
         }
 
         parseResult.content = parseResult.content.filter((elem, i) => pageNr == -1 || i == pageNr);
+        const summaryComponent = lastTransformation.createSummaryView(parseResult.summary);
         const pageComponents = parseResult.content.map(page => lastTransformation.createPageView(page, this.state.modificationsOnly));
         const showModificationCheckbox = lastTransformation.showModificationCheckbox();
 
@@ -152,6 +153,7 @@ export default class DebugView extends React.Component {
                 </tbody>
               </table>
               <hr/>
+              { summaryComponent }
               { pageComponents }
             </div>
             );

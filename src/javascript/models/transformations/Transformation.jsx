@@ -21,6 +21,10 @@ export default class Transformation {
         return false;
     }
 
+    createSummaryView(summary) { // eslint-disable-line no-unused-vars
+        return null;
+    }
+
     createPageView(page, modificationsOnly) { // eslint-disable-line no-unused-vars
         throw new TypeError("Do not call abstract method foo from child.");
     }
