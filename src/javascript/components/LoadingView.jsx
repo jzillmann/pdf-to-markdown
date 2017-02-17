@@ -78,10 +78,10 @@ export default class LoadingView extends React.Component {
 
                             const style = textContent.styles[item.fontName];
                             return new TextItem({
-                                x: item.transform[4],
-                                y: item.transform[5],
-                                width: item.width,
-                                height: dividedHeight <= 1 ? item.height : dividedHeight,
+                                x: Math.round(item.transform[4]),
+                                y: Math.round(item.transform[5]),
+                                width: Math.round(item.width),
+                                height: Math.round(dividedHeight <= 1 ? item.height : dividedHeight),
                                 text: item.str,
                                 font: item.fontName,
                                 fontAscent: style.ascent,

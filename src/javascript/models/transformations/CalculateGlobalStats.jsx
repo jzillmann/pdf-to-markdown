@@ -18,6 +18,9 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
                      { 'Most-used font: ' + parseResult.globals.mostUsedFont + ' ' }
                    </li>
                    <li>
+                     { 'Most-used distance: ' + parseResult.globals.mostUsedDistance + ' ' }
+                   </li>
+                   <li>
                      { 'Max height: ' + parseResult.globals.maxHeight + ' ' }
                    </li>
                    <li>
@@ -30,11 +33,16 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
                    <li>
                      { 'Items per font: ' + JSON.stringify(parseResult.summary.fontToOccurrence) + ' ' }
                    </li>
+                   <li>
+                     { 'Items per distance: ' + JSON.stringify(parseResult.summary.distanceToOccurrence) + ' ' }
+                   </li>
                  </ul>
                </div>;
     }
 
     transform(parseResult:ParseResult) {
+
+        // Parse heights
         const heightToOccurrence = {};
         const fontToOccurrence = {};
         var maxHeight = 0;
@@ -51,15 +59,39 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
         });
         const mostUsedHeight = parseInt(getMostUsedKey(heightToOccurrence));
         const mostUsedFont = getMostUsedKey(fontToOccurrence);
+
+        // Parse line distances
+        const distanceToOccurrence = {};
+        parseResult.content.forEach(page => {
+            var lastItemOfMostUsedHeight;
+            page.textItems.forEach(item => {
+                if (item.height == mostUsedHeight) {
+                    if (lastItemOfMostUsedHeight && item.y != lastItemOfMostUsedHeight.y) {
+                        const distance = lastItemOfMostUsedHeight.y - item.y;
+                        if (distance > 0) {
+                            distanceToOccurrence[distance] = distanceToOccurrence[distance] ? distanceToOccurrence[distance] + 1 : 1;
+                        }
+                    }
+                    lastItemOfMostUsedHeight = item;
+                } else {
+                    lastItemOfMostUsedHeight = null;
+                }
+            });
+        });
+        const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
+
+
         parseResult.globals = {
             mostUsedHeight: mostUsedHeight,
             mostUsedFont: mostUsedFont,
+            mostUsedDistance: mostUsedDistance,
             maxHeight: maxHeight,
             maxHeightFont: maxHeightFont
         }
         parseResult.summary = {
             heightToOccurrence: heightToOccurrence,
-            fontToOccurrence: fontToOccurrence
+            fontToOccurrence: fontToOccurrence,
+            distanceToOccurrence: distanceToOccurrence,
         }
         return parseResult;
     }
