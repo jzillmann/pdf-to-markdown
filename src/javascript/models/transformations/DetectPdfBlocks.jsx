@@ -4,10 +4,10 @@ import ParseResult from '../ParseResult.jsx';
 import PdfBlockPage from '../PdfBlockPage.jsx';
 import PdfBlock from '../PdfBlock.jsx';
 
-export default class SplitInBlocks extends ToPdfBlockViewTransformation {
+export default class DetectPdfBlocks extends ToPdfBlockViewTransformation {
 
     constructor() {
-        super("Split Into Blocks");
+        super("Detect Blocks");
     }
 
     showModificationCheckbox() {

@@ -3,7 +3,7 @@ import { Enum } from 'enumify';
 import CalculateGlobalStats from './transformations/CalculateGlobalStats.jsx';
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import VerticalToHorizontal from './transformations/VerticalToHorizontal.jsx';
-import SplitInBlocks from './transformations/SplitInBlocks.jsx'
+import DetectPdfBlocks from './transformations/DetectPdfBlocks.jsx'
 import DetectCodeBlocks from './transformations/DetectCodeBlocks.jsx'
 import DetectFormats from './transformations/DetectFormats.jsx'
 import CombineSameY from './transformations/CombineSameY.jsx';
@@ -28,7 +28,7 @@ export default class AppState {
             new CalculateGlobalStats(),
             new RemoveRepetitiveElements(),
             new VerticalToHorizontal(),
-            new SplitInBlocks(),
+            new DetectPdfBlocks(),
             // new DetectCodeBlocks(),
             // new DetectFormats(),
             // new CombineSameY(),
