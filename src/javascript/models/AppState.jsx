@@ -2,6 +2,7 @@ import { Enum } from 'enumify';
 
 import CalculateGlobalStats from './transformations/CalculateGlobalStats.jsx';
 import RoundCoordinates from './transformations/RoundCoordinates.jsx';
+import DetectFormats from './transformations/DetectFormats.jsx'
 import CombineSameY from './transformations/CombineSameY.jsx';
 import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
 import DetectFootnotes from './transformations/DetectFootnotes.jsx'
@@ -23,6 +24,7 @@ export default class AppState {
         this.transformations = [
             new CalculateGlobalStats(),
             new RoundCoordinates(),
+            new DetectFormats(),
             new CombineSameY(),
             new RemoveWhitespaces(),
             new DetectFootnotes(),
