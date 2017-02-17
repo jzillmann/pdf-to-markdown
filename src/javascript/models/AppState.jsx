@@ -1,15 +1,19 @@
 import { Enum } from 'enumify';
 
 import CalculateGlobalStats from './transformations/CalculateGlobalStats.jsx';
+import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
+import VerticalToHorizontal from './transformations/VerticalToHorizontal.jsx';
+import SplitInBlocks from './transformations/SplitInBlocks.jsx'
+import DetectCodeBlocks from './transformations/DetectCodeBlocks.jsx'
 import DetectFormats from './transformations/DetectFormats.jsx'
 import CombineSameY from './transformations/CombineSameY.jsx';
 import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
 import DetectFootnotes from './transformations/DetectFootnotes.jsx'
 import DetectLinks from './transformations/DetectLinks.jsx'
-import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import HeadlineDetector from './transformations/HeadlineDetector.jsx'
 import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
 import ToBlockSystem from './transformations/ToBlockSystem.jsx';
+import ToTextBlocks from './transformations/ToTextBlocks.jsx';
 import ToMarkdown from './transformations/ToMarkdown.jsx'
 
 // Holds the state of the Application
@@ -22,15 +26,19 @@ export default class AppState {
         this.pdfPages = [];
         this.transformations = [
             new CalculateGlobalStats(),
-            new DetectFormats(),
-            new CombineSameY(),
-            new RemoveWhitespaces(),
-            new DetectFootnotes(),
-            new DetectLinks(),
             new RemoveRepetitiveElements(),
-            new HeadlineDetector(),
-            new HeadlineToUppercase(),
-            new ToBlockSystem(),
+            new VerticalToHorizontal(),
+            new SplitInBlocks(),
+            // new DetectCodeBlocks(),
+            // new DetectFormats(),
+            // new CombineSameY(),
+            // new RemoveWhitespaces(),
+            // new DetectFootnotes(),
+            // new DetectLinks(),
+            // new HeadlineDetector(),
+            // new HeadlineToUppercase(),
+            // new ToBlockSystem(),
+            new ToTextBlocks(),
             new ToMarkdown()];
 
         //bind functions

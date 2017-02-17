@@ -1,3 +1,4 @@
+import React from 'react';
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import { REMOVED_ANNOTATION } from '../Annotation.jsx';
@@ -5,12 +6,12 @@ import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 import { isDigit } from '../../functions.jsx'
 
 
-function hashCodeIgnoringNumbers(string) {
-    var hash = 0, i, charCode, len;
-    if (string.length === 0) return hash;
-    for (i = 0, len = string.length; i < len; i++) {
-        charCode = string.charCodeAt(i);
-        if (!isDigit(charCode)) {
+function hashCodeIgnoringSpacesAndNumbers(string) {
+    var hash = 0;
+    if (string.trim().length === 0) return hash;
+    for (var i = 0; i < string.length; i++) {
+        const charCode = string.charCodeAt(i);
+        if (!isDigit(charCode) && charCode != 32 && charCode != 160) {
             hash = ((hash << 5) - hash) + charCode;
             hash |= 0; // Convert to 32bit integer
         }
@@ -18,10 +19,6 @@ function hashCodeIgnoringNumbers(string) {
     return hash;
 }
 
-function combineCoordinates(textItem) {
-    var hashCode = hashCodeIgnoringNumbers(textItem.text);
-    return `${textItem.x}-${textItem.y}-${hashCode}`;
-}
 
 // Remove elements with similar content on same page positions, like page numbers, licenes information, etc...
 export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
@@ -30,27 +27,88 @@ export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
         super("Remove Repetitive Elements");
     }
 
+    createSummaryView(parseResult:ParseResult) {
+        return <div>
+                 <ul>
+                   <li>
+                     { 'Removed Header: ' + parseResult.summary.removedHeader + ' ' }
+                   </li>
+                   <li>
+                     { 'Removed Footers: ' + parseResult.summary.removedFooter + ' ' }
+                   </li>
+                 </ul>
+               </div>;
+    }
+
+    // The idea is the following:
+    // - For each page, collect all items of the first, and all items of the last line
+    // - Calculate how often these items occur accros all pages (hash ignoring numbers, whitespace, upper/lowercase)
+    // - Delete items occuring on more then 2/3 of all pages
     transform(parseResult:ParseResult) {
-        //build repetition counts for every element
-        const repetitionCounts = {};
+
+        // find first and last lines per page
+        const pageStore = [];
+        const minLineHashRepetitions = {};
+        const maxLineHashRepetitions = {};
         parseResult.content.forEach(pdfPage => {
-            pdfPage.textItems.forEach(textItem => {
-                var combinedCoordinates = combineCoordinates(textItem);
-                repetitionCounts[combinedCoordinates] = repetitionCounts[combinedCoordinates] ? repetitionCounts[combinedCoordinates] + 1 : 1;
+            const minMaxItems = pdfPage.textItems.reduce((itemStore, item) => {
+                if (item.y < itemStore.minY) {
+                    itemStore.minElements = [item];
+                    itemStore.minY = item.y;
+                } else if (item.y == itemStore.minY) {
+                    itemStore.minElements.push(item);
+                }
+                if (item.y > itemStore.maxY) {
+                    itemStore.maxElements = [item];
+                    itemStore.maxY = item.y;
+                } else if (item.y == itemStore.maxY) {
+                    itemStore.maxElements.push(item);
+                }
+                return itemStore;
+            }, {
+                minY: 999,
+                maxY: 0,
+                minElements: [],
+                maxElements: []
             });
+
+            const minLineHash = hashCodeIgnoringSpacesAndNumbers(minMaxItems.minElements.reduce((combinedString, item) => combinedString + item.text.trim().toUpperCase(), ''));
+            const maxLineHash = hashCodeIgnoringSpacesAndNumbers(minMaxItems.maxElements.reduce((combinedString, item) => combinedString + item.text.trim().toUpperCase(), ''));
+            pageStore.push({
+                minElements: minMaxItems.minElements,
+                maxElements: minMaxItems.maxElements,
+                minLineHash: minLineHash,
+                maxLineHash: maxLineHash
+            });
+            minLineHashRepetitions[minLineHash] = minLineHashRepetitions[minLineHash] ? minLineHashRepetitions[minLineHash] + 1 : 1;
+            maxLineHashRepetitions[maxLineHash] = maxLineHashRepetitions[maxLineHash] ? maxLineHashRepetitions[maxLineHash] + 1 : 1;
         });
 
-        // annotate elements with repetition as removed
-        parseResult.content.forEach(pdfPage => {
-            pdfPage.textItems.forEach(textItem => {
-                var combinedCoordinates = combineCoordinates(textItem);
-                if (repetitionCounts[combinedCoordinates] > 1) {
-                    // console.debug("page " + pdfPage.index + " removed :" + repetitionCounts[combinedCoordinates] + " :" + textItem.text);
-                    textItem.annotation = REMOVED_ANNOTATION;
-                }
-            });
+        // now annoate all removed items
+        var removedHeader = 0;
+        var removedFooter = 0;
+        parseResult.content.forEach((pdfPage, i) => {
+            if (minLineHashRepetitions[pageStore[i].minLineHash] >= Math.max(3, parseResult.content.length * 2 / 3)) {
+                pageStore[i].minElements.forEach(item => {
+                    item.annotation = REMOVED_ANNOTATION;
+                });
+                removedFooter++;
+            }
+            if (maxLineHashRepetitions[pageStore[i].maxLineHash] >= Math.max(3, parseResult.content.length * 2 / 3)) {
+                pageStore[i].maxElements.forEach(item => {
+                    item.annotation = REMOVED_ANNOTATION;
+                });
+                removedHeader++;
+            }
         });
-        return parseResult;
+
+        return new ParseResult({
+            ...parseResult,
+            summary: {
+                removedHeader: removedHeader,
+                removedFooter: removedFooter,
+            }
+        });
     }
 
     completeTransform(parseResult:ParseResult) {

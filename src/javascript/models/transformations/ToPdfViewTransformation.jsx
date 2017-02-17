@@ -2,7 +2,7 @@ import React from 'react';
 import Transformation from './Transformation.jsx';
 import PdfPageView from '../../components/debug/PdfPageView.jsx';
 
-// Abstract pdfView transformation
+// Abstract class for transformations producing a PdfPage to be shown in the PdfView
 export default class ToPdfViewTransformation extends Transformation {
 
     constructor(name) {

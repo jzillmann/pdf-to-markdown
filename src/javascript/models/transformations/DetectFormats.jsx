@@ -1,6 +1,5 @@
 import React from 'react';
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
-import TextItem from '../TextItem.jsx';
 import ParseResult from '../ParseResult.jsx';
 import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 import Annotation from '../Annotation.jsx';

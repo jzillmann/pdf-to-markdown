@@ -81,19 +81,33 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
         const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
 
 
-        parseResult.globals = {
-            mostUsedHeight: mostUsedHeight,
-            mostUsedFont: mostUsedFont,
-            mostUsedDistance: mostUsedDistance,
-            maxHeight: maxHeight,
-            maxHeightFont: maxHeightFont
-        }
-        parseResult.summary = {
-            heightToOccurrence: heightToOccurrence,
-            fontToOccurrence: fontToOccurrence,
-            distanceToOccurrence: distanceToOccurrence,
-        }
-        return parseResult;
+        //Make a copy of the originals so all following transformation don't modify them
+        const newContent = parseResult.content.map(pdfPage => {
+            return {
+                ...pdfPage,
+                textItems: pdfPage.textItems.map(textItem => {
+                    return {
+                        ...textItem,
+                    }
+                })
+            };
+        });
+        return new ParseResult({
+            ...parseResult,
+            content: newContent,
+            globals: {
+                mostUsedHeight: mostUsedHeight,
+                mostUsedFont: mostUsedFont,
+                mostUsedDistance: mostUsedDistance,
+                maxHeight: maxHeight,
+                maxHeightFont: maxHeightFont,
+            },
+            summary: {
+                heightToOccurrence: heightToOccurrence,
+                fontToOccurrence: fontToOccurrence,
+                distanceToOccurrence: distanceToOccurrence,
+            }
+        });
     }
 
 
