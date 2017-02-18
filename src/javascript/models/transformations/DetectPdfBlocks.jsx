@@ -10,10 +10,6 @@ export default class DetectPdfBlocks extends ToPdfBlockViewTransformation {
         super("Detect Blocks");
     }
 
-    showModificationCheckbox() {
-        return false;
-    }
-
     createSummaryView(parseResult:ParseResult) {
         return <div>
                  Splitted into

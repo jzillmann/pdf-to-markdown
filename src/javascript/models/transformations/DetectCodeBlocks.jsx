@@ -23,7 +23,7 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
     // TODO ==> combine quotes follow each other
 
     transform(parseResult:ParseResult) {
-        const {mostUsedHeight} = parseResult.globals;
+        const {mostUsedHeight, mostUsedDistance} = parseResult.globals;
 
         var foundBlocks = 0;
         const textCombiner = new TextItemCombiner({});
@@ -49,20 +49,32 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
                     return true;
                 };
                 const newBlocks = [];
+                var preceedingCodeBlock;
                 page.blocks.forEach(block => {
                     if (block.type) {
                         newBlocks.push(block);
+                        preceedingCodeBlock = null;
                     } else {
                         if (itemAreSuitable(block.textItems)) {
+                            const mergeWithPreceedingCodeBlock = preceedingCodeBlock && preceedingCodeBlock.textItems[preceedingCodeBlock.textItems.length - 1].y - block.textItems[0].y < mostUsedDistance * 2;
+                            if (mergeWithPreceedingCodeBlock) {
+                                newBlocks.pop();
+                            }
                             block.annotation = REMOVED_ANNOTATION;
                             newBlocks.push(block);
-                            newBlocks.push(new PdfBlock({
-                                type: CODE_BLOCK,
-                                annotation: ADDED_ANNOTATION,
-                                textItems: textCombiner.combine(block.textItems)
-                            }));
+                            if (mergeWithPreceedingCodeBlock) {
+                                preceedingCodeBlock.textItems = preceedingCodeBlock.textItems.concat(textCombiner.combine(block.textItems));
+                            } else {
+                                preceedingCodeBlock = new PdfBlock({
+                                    type: CODE_BLOCK,
+                                    annotation: ADDED_ANNOTATION,
+                                    textItems: textCombiner.combine(block.textItems)
+                                });
+                            }
+                            newBlocks.push(preceedingCodeBlock);
                         } else {
                             newBlocks.push(block);
+                            preceedingCodeBlock = null;
                         }
                     }
                 });
