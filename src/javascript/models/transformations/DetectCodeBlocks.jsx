@@ -4,6 +4,7 @@ import ParseResult from '../ParseResult.jsx';
 import PdfBlock from '../PdfBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
+import { CODE_BLOCK } from '../MarkdownElements.jsx';
 
 //Detect quotes, code etc.. which is transformed to markdown code syntax
 export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
@@ -56,7 +57,7 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
                             block.annotation = REMOVED_ANNOTATION;
                             newBlocks.push(block);
                             newBlocks.push(new PdfBlock({
-                                type: 'Code/Quote',
+                                type: CODE_BLOCK,
                                 annotation: ADDED_ANNOTATION,
                                 textItems: textCombiner.combine(block.textItems)
                             }));

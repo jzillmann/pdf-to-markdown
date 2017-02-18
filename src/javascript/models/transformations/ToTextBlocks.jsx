@@ -3,6 +3,7 @@ import Transformation from './Transformation.jsx';
 import BlockPageView from '../../components/debug/BlockPageView.jsx';
 import ParseResult from '../ParseResult.jsx';
 import BlockPage from '../BlockPage.jsx';
+import { blockToText } from '../MarkdownElements.jsx';
 
 export default class ToTextBlocks extends Transformation {
 
@@ -18,17 +19,10 @@ export default class ToTextBlocks extends Transformation {
         const blocks = [];
         parseResult.content.forEach(page => {
             page.blocks.forEach(block => {
-                var text = '';
-                block.textItems.forEach(item => {
-                    // if (item.markdownElement) {
-                    // text = item.markdownElement.transformText(item.text);
-                    // }
-                    text += '\n' + item.text;
-                });
                 const category = block.type ? block.type : 'Unknown';
                 blocks.push({
                     category: category,
-                    text: text
+                    text: blockToText(block)
                 });
             });
 
