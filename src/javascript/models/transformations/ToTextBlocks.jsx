@@ -25,8 +25,9 @@ export default class ToTextBlocks extends Transformation {
                     // }
                     text += '\n' + item.text;
                 });
+                const category = block.type ? block.type : 'Unknown';
                 blocks.push({
-                    category: 'Unknown',
+                    category: category,
                     text: text
                 });
             });

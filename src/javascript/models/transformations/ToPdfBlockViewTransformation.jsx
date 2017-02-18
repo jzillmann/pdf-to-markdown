@@ -1,6 +1,8 @@
 import React from 'react';
 import Transformation from './Transformation.jsx';
+import ParseResult from '../ParseResult.jsx';
 import PdfBlockPageView from '../../components/debug/PdfBlockPageView.jsx';
+import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 
 // Abstract class for transformations producing a PdfBlockPage to be shown in the PdfBlockView
 export default class ToPdfBlockViewTransformation extends Transformation {
@@ -27,6 +29,15 @@ export default class ToPdfBlockViewTransformation extends Transformation {
                                  pdfPage={ page }
                                  modificationsOnly={ modificationsOnly }
                                  showWhitespaces={ this.showWhitespaces } />;
+    }
+
+    completeTransform(parseResult:ParseResult) {
+        // The usual cleanup
+        parseResult.content.forEach(page => {
+            page.blocks = page.blocks.filter(block => !block.annotation || block.annotation !== REMOVED_ANNOTATION);
+            page.blocks.forEach(block => block.annotation = null);
+        });
+        return parseResult;
     }
 
 }

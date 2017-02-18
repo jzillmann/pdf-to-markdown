@@ -29,7 +29,7 @@ export default class AppState {
             new RemoveRepetitiveElements(),
             new VerticalToHorizontal(),
             new DetectPdfBlocks(),
-            // new DetectCodeBlocks(),
+            new DetectCodeBlocks(),
             // new DetectFormats(),
             // new CombineSameY(),
             // new RemoveWhitespaces(),

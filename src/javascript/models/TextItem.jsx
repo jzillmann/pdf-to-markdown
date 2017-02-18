@@ -1,4 +1,4 @@
-//A text iteme, i.e. a line, within a page
+//A text item, i.e. a line or a word within a page
 export default class TextItem {
 
     constructor(options) {

@@ -12,25 +12,36 @@ export default class PdfBlockPageView extends React.Component {
 
     render() {
         const {pdfPage, modificationsOnly, showWhitespaces} = this.props;
-        var numberOfNonEmptyBlocks = 0;
-        const blockTables = pdfPage.blocks.map((block, i) => {
+
+        var blocks = pdfPage.blocks;
+        if (modificationsOnly) {
+            blocks = blocks.filter(block => block.annotation);
+        }
+
+        const blockTables = blocks.map((block, i) => {
             var textItems = block.textItems;
-            if (modificationsOnly) {
-                textItems = textItems.filter(item => item.annotation);
-            }
-            if (textItems.length == 0 && modificationsOnly) {
-                return <div key={ i } />
-            } else {
-                numberOfNonEmptyBlocks++;
-                return <div key={ i }>
-                         <h4>Block { i + i }</h4>
-                         <TextItemTable textItems={ textItems } showWhitespaces={ showWhitespaces } />
-                       </div>
-            }
+            const blockType = block.type ? ' - ' + block.type : null;
+            const blockAnnotation = block.annotation ? <span>{ ' - ' + block.annotation.category }</span>
+                : null;
+            const borderStyle = block.annotation ? {
+                marginBottom: "20px",
+                border: "solid thin " + block.annotation.color
+            } : null;
+            const colorStyle = block.annotation ? {
+                color: block.annotation.color
+            } : null;
+            return <div key={ i }>
+                     <div style={ colorStyle }>
+                       <b>Block { i + 1 }</b><i>{ blockType } { blockAnnotation }</i>
+                     </div>
+                     <div style={ borderStyle }>
+                       <TextItemTable textItems={ textItems } showWhitespaces={ showWhitespaces } />
+                     </div>
+                   </div>
         });
 
         var content;
-        if (numberOfNonEmptyBlocks == 0 && modificationsOnly) {
+        if (blocks.length == 0 && modificationsOnly) {
             content = <div/>
         } else {
             const header = "Page " + (pdfPage.index + 1);
