@@ -18,7 +18,7 @@ export default class ToMarkdown extends Transformation {
         var text = '';
         parseResult.content.forEach(page => {
             page.blocks.forEach((block) => {
-                text += block.text + '\n\n';
+                text += block.text + '\n';
             });
         });
         return new ParseResult({

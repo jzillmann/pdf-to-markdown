@@ -1,6 +1,8 @@
 import PdfBlock from './BlockPage.jsx';
 
 export const HEADLINE1 = "Headline 1";
+export const PARAGRAPH = "Paragraph";
+export const LIST_BLOCK = "List";
 export const CODE_BLOCK = "Code/Quote";
 export const TOC_BLOCK = "TOC";
 

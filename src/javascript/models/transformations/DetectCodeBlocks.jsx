@@ -5,18 +5,19 @@ import PdfBlock from '../PdfBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
 import { CODE_BLOCK } from '../MarkdownElements.jsx';
+import { minXFromBlocks } from '../../textItemFunctions.jsx';
 
 //Detect quotes, code etc.. which is transformed to markdown code syntax
 export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
 
     constructor() {
-        super("Detect Code Blocks");
+        super("Detect Code/Quotes");
     }
 
     createSummaryView(parseResult:ParseResult) {
         return <div>
                  Detected
-                 { ' ' + parseResult.summary.foundBlocks + ' ' } blocks.
+                 { ' ' + parseResult.summary.foundBlocks + ' ' } code/quote blocks.
                </div>;
     }
 
@@ -27,14 +28,8 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
         const textCombiner = new TextItemCombiner({});
 
         parseResult.content.forEach(page => {
-            var minX = 999;
-            page.blocks.forEach(block => {
-                block.textItems.forEach(item => {
-                    minX = Math.min(minX, item.x)
-                });
-            });
-
-            if (minX < 999) {
+            var minX = minXFromBlocks(page.blocks);
+            if (minX) {
                 const itemAreSuitable = (items) => {
                     for ( let item of items ) {
                         if (item.x == minX) {

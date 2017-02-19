@@ -20,11 +20,19 @@ export default class TextItemCombiner {
                 var text = '';
                 var maxHeight = 0;
                 var widthSum = 0;
+                var lastItem;
                 itemGroup.forEach(item => {
                     // item.annotation = REMOVED_ANNOTATION;
                     // resultItems.push(item);
+                    if (lastItem && !text.endsWith(' ') && !item.text.startsWith(' ')) {
+                        const xDistance = item.x - lastItem.x - lastItem.width;
+                        if (xDistance >= 5) {
+                            text += ' ';
+                        }
+                    }
                     text += item.text;
                     widthSum += item.width;
+                    lastItem = item;
                 });
                 //TODO set other elements
                 resultItems.push(new TextItem({
