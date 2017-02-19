@@ -4,6 +4,7 @@ import CalculateGlobalStats from './transformations/CalculateGlobalStats.jsx';
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import VerticalToHorizontal from './transformations/VerticalToHorizontal.jsx';
 import DetectPdfBlocks from './transformations/DetectPdfBlocks.jsx'
+import DetectTOC from './transformations/DetectTOC.jsx'
 import DetectCodeBlocks from './transformations/DetectCodeBlocks.jsx'
 import DetectFormats from './transformations/DetectFormats.jsx'
 import CombineSameY from './transformations/CombineSameY.jsx';
@@ -29,6 +30,7 @@ export default class AppState {
             new RemoveRepetitiveElements(),
             new VerticalToHorizontal(),
             new DetectPdfBlocks(),
+            new DetectTOC(),
             new DetectCodeBlocks(),
             // new DetectFormats(),
             // new CombineSameY(),

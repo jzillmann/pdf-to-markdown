@@ -20,8 +20,6 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
                </div>;
     }
 
-    // TODO ==> combine quotes follow each other
-
     transform(parseResult:ParseResult) {
         const {mostUsedHeight, mostUsedDistance} = parseResult.globals;
 
