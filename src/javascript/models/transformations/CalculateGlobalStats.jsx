@@ -65,7 +65,7 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
         parseResult.content.forEach(page => {
             var lastItemOfMostUsedHeight;
             page.textItems.forEach(item => {
-                if (item.height == mostUsedHeight) {
+                if (item.height == mostUsedHeight && item.text.trim().length > 0) {
                     if (lastItemOfMostUsedHeight && item.y != lastItemOfMostUsedHeight.y) {
                         const distance = lastItemOfMostUsedHeight.y - item.y;
                         if (distance > 0) {

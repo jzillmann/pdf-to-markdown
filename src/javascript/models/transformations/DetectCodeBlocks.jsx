@@ -68,6 +68,7 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
                                     annotation: ADDED_ANNOTATION,
                                     textItems: textCombiner.combine(block.textItems)
                                 });
+                                foundBlocks++;
                             }
                             newBlocks.push(preceedingCodeBlock);
                         } else {
