@@ -23,8 +23,11 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
     }
 
     transform(parseResult:ParseResult) {
+        const {mostUsedDistance} = parseResult.globals;
         var foundBlocks = 0;
-        const textCombiner = new TextItemCombiner({});
+        const textCombiner = new TextItemCombiner({
+            mostUsedDistance: mostUsedDistance
+        });
 
         parseResult.content.forEach(page => {
             var minX = minXFromBlocks(page.blocks);
@@ -33,8 +36,8 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
                 page.blocks.forEach(block => {
                     newBlocks.push(block);
                     if (!block.type) {
-                        const yGroupedItems = textCombiner.combine(block.textItems);
-                        if (hasMoreThan2LineItems(yGroupedItems)) {
+                        const combineResult = textCombiner.combine(block.textItems);
+                        if (hasMoreThan2LineItems(combineResult.textItems)) {
                             block.annotation = REMOVED_ANNOTATION;
                             foundBlocks++;
 
@@ -65,7 +68,7 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
 
                             };
 
-                            yGroupedItems.forEach(lineItem => {
+                            combineResult.textItems.forEach(lineItem => {
                                 if (isPlainListItem(lineItem.text)) {
                                     var text = lineItem.text;
                                     text = text.substring(1, text.length).trim();
@@ -96,7 +99,8 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
                             newBlocks.push(new PdfBlock({
                                 textItems: listBlockItems,
                                 type: LIST_BLOCK,
-                                annotation: ADDED_ANNOTATION
+                                annotation: ADDED_ANNOTATION,
+                                parsedElements: combineResult.parsedElements
                             }));
                         }
                     }

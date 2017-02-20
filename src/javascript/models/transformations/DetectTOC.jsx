@@ -6,9 +6,7 @@ import PdfBlock from '../PdfBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
 import { TOC_BLOCK } from '../MarkdownElements.jsx';
-import Annotation from '../Annotation.jsx';
-import { groupByFollowingY } from '../TextItemCombiner.jsx';
-import { isNumber, isDigit } from '../../functions.jsx'
+import { isDigit } from '../../functions.jsx'
 
 //Detect table of contents pages
 export default class DetectTOC extends ToPdfBlockViewTransformation {
@@ -26,10 +24,14 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
 
 
     transform(parseResult:ParseResult) {
-
+        const {mostUsedDistance} = parseResult.globals;
         var foundTocPages = 0;
         var x = Math.min(12, parseResult.content.length);
-        const textCombiner = new TextItemCombiner({});
+        const textCombiner = new TextItemCombiner({
+            mostUsedDistance: mostUsedDistance
+        });
+
+
         parseResult.content.slice(0, x).forEach(page => {
             var linesCount = 0;
             var linesWithDigitsCount = 0;
@@ -37,7 +39,7 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
             var headlineBlock;
             page.blocks.forEach(block => {
                 var blockHasLinesWithDigits = false;
-                const itemsGroupedByY = textCombiner.combine(block.textItems);
+                const itemsGroupedByY = textCombiner.combine(block.textItems).textItems;
                 itemsGroupedByY.forEach(lineItem => {
                     linesCount++
                     var lineText = lineItem.text.replace(/\./g, '').trim();

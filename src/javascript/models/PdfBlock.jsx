@@ -5,6 +5,7 @@ export default class PdfBlock {
         this.textItems = options.textItems;
         this.type = options.type;
         this.annotation = options.annotation;
+        this.parsedElements = options.parsedElements;
     }
 
 }

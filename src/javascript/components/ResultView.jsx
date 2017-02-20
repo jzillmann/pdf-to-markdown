@@ -59,7 +59,8 @@ export default class ResultView extends React.Component {
 
     render() {
         const remarkable = new Remarkable({
-            breaks: true
+            breaks: true,
+            html: true
         });
         const {preview, text} = this.state;
 

@@ -25,7 +25,9 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
         const {mostUsedHeight, mostUsedDistance} = parseResult.globals;
 
         var foundBlocks = 0;
-        const textCombiner = new TextItemCombiner({});
+        const textCombiner = new TextItemCombiner({
+            mostUsedDistance: mostUsedDistance
+        });
 
         parseResult.content.forEach(page => {
             var minX = minXFromBlocks(page.blocks);
@@ -55,13 +57,16 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
                             }
                             block.annotation = REMOVED_ANNOTATION;
                             newBlocks.push(block);
+                            const combineResult = textCombiner.combine(block.textItems);
                             if (mergeWithPreceedingCodeBlock) {
-                                preceedingCodeBlock.textItems = preceedingCodeBlock.textItems.concat(textCombiner.combine(block.textItems));
+                                preceedingCodeBlock.textItems = preceedingCodeBlock.textItems.concat(combineResult.textItems);
+                                preceedingCodeBlock.parsedElements.add(combineResult.parsedElements);
                             } else {
                                 preceedingCodeBlock = new PdfBlock({
                                     type: CODE_BLOCK,
                                     annotation: ADDED_ANNOTATION,
-                                    textItems: textCombiner.combine(block.textItems)
+                                    textItems: combineResult.textItems,
+                                    parsedElements: combineResult.parsedElements
                                 });
                                 foundBlocks++;
                             }

@@ -30,12 +30,20 @@ export default class PdfBlockPageView extends React.Component {
             const colorStyle = block.annotation ? {
                 color: block.annotation.color
             } : null;
+            var footnotesElement;
+            if (block.parsedElements) {
+                if (block.parsedElements.footnotes.length > 0) {
+                    footnotesElement = 'Footnotes: ' + block.parsedElements.footnotes;
+                }
+            }
+
             return <div key={ i }>
                      <div style={ colorStyle }>
                        <b>Block { i + 1 }</b><i>{ blockType } { blockAnnotation }</i>
                      </div>
                      <div style={ borderStyle }>
                        <TextItemTable textItems={ textItems } showWhitespaces={ showWhitespaces } />
+                       { footnotesElement }
                      </div>
                    </div>
         });

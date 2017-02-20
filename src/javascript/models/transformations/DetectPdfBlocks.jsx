@@ -26,10 +26,12 @@ export default class DetectPdfBlocks extends ToPdfBlockViewTransformation {
             const blocks = [];
             var textItemsInBlock = [];
             const completBlock = () => {
-                blocks.push(new PdfBlock({
-                    textItems: textItemsInBlock
-                }));
-                textItemsInBlock = [];
+                if (textItemsInBlock.length > 0) { //can happen on empty page
+                    blocks.push(new PdfBlock({
+                        textItems: textItemsInBlock
+                    }));
+                    textItemsInBlock = [];
+                }
             };
             var lastItem;
             page.textItems.forEach(item => {
