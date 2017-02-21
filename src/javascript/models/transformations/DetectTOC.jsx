@@ -1,4 +1,3 @@
-import React from 'react';
 import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import TextItem from '../TextItem.jsx';
@@ -14,14 +13,6 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
     constructor() {
         super("Detect Table of Contents");
     }
-
-    createSummaryView(parseResult:ParseResult) {
-        return <div>
-                 Detected
-                 { ' ' + parseResult.summary.foundTocPages + ' ' } table of content pages.
-               </div>;
-    }
-
 
     transform(parseResult:ParseResult) {
         const {mostUsedDistance} = parseResult.globals;
@@ -82,9 +73,7 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
 
         return new ParseResult({
             ...parseResult,
-            summary: {
-                foundTocPages: foundTocPages
-            }
+            messages: ['Detected ' + foundTocPages + ' table of content pages']
         });
     }
 

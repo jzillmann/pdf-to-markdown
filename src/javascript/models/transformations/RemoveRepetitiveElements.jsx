@@ -1,4 +1,3 @@
-import React from 'react';
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import { REMOVED_ANNOTATION } from '../Annotation.jsx';
@@ -25,19 +24,6 @@ export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
 
     constructor() {
         super("Remove Repetitive Elements");
-    }
-
-    createSummaryView(parseResult:ParseResult) {
-        return <div>
-                 <ul>
-                   <li>
-                     { 'Removed Header: ' + parseResult.summary.removedHeader + ' ' }
-                   </li>
-                   <li>
-                     { 'Removed Footers: ' + parseResult.summary.removedFooter + ' ' }
-                   </li>
-                 </ul>
-               </div>;
     }
 
     // The idea is the following:
@@ -104,18 +90,11 @@ export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
 
         return new ParseResult({
             ...parseResult,
-            summary: {
-                removedHeader: removedHeader,
-                removedFooter: removedFooter,
-            }
+            messages: [
+                'Removed Header: ' + removedHeader,
+                'Removed Footers: ' + removedFooter
+            ]
         });
-    }
-
-    completeTransform(parseResult:ParseResult) {
-        parseResult.content.forEach(page => {
-            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
-        });
-        return parseResult;
     }
 
 }

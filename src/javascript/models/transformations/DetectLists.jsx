@@ -1,4 +1,3 @@
-import React from 'react';
 import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import TextItem from '../TextItem.jsx';
@@ -13,13 +12,6 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
 
     constructor() {
         super("Detect Lists");
-    }
-
-    createSummaryView(parseResult:ParseResult) {
-        return <div>
-                 Detected
-                 { ' ' + parseResult.summary.foundBlocks + ' ' } list blocks.
-               </div>;
     }
 
     transform(parseResult:ParseResult) {
@@ -111,9 +103,7 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
 
         return new ParseResult({
             ...parseResult,
-            summary: {
-                foundBlocks: foundBlocks
-            }
+            messages: ['Detected ' + foundBlocks + ' list blocks.']
         });
 
     }

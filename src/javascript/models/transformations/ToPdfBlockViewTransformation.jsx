@@ -33,6 +33,7 @@ export default class ToPdfBlockViewTransformation extends Transformation {
 
     completeTransform(parseResult:ParseResult) {
         // The usual cleanup
+        parseResult.messages = [];
         parseResult.content.forEach(page => {
             page.blocks = page.blocks.filter(block => !block.annotation || block.annotation !== REMOVED_ANNOTATION);
             page.blocks.forEach(block => block.annotation = null);

@@ -1,4 +1,3 @@
-import React from 'react';
 import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import PdfBlockPage from '../PdfBlockPage.jsx';
@@ -9,13 +8,6 @@ export default class DetectPdfBlocks extends ToPdfBlockViewTransformation {
 
     constructor() {
         super("Detect Blocks");
-    }
-
-    createSummaryView(parseResult:ParseResult) {
-        return <div>
-                 Splitted into
-                 { ' ' + parseResult.summary.createdBlocks + ' ' } blocks.
-               </div>;
     }
 
     transform(parseResult:ParseResult) {
@@ -53,12 +45,11 @@ export default class DetectPdfBlocks extends ToPdfBlockViewTransformation {
             });
 
         });
+
         return new ParseResult({
             ...parseResult,
             content: newContent,
-            summary: {
-                createdBlocks: createdBlocks
-            }
+            messages: ['Splitted into ' + createdBlocks + ' blocks']
         });
     }
 

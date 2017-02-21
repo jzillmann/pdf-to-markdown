@@ -34,6 +34,7 @@ export default class AppState {
             new DetectTOC(),
             new DetectLists(),
             new DetectCodeBlocks(),
+
             // new DetectFormats(),
             // new CombineSameY(),
             // new RemoveWhitespaces(),

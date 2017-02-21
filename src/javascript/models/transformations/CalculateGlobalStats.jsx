@@ -1,4 +1,3 @@
-import React from 'react';
 import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 
@@ -6,38 +5,6 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
 
     constructor() {
         super("Calculate Statistics");
-    }
-
-    createSummaryView(parseResult:ParseResult) {
-        return <div>
-                 <ul>
-                   <li>
-                     { 'Most-used height: ' + parseResult.globals.mostUsedHeight + ' ' }
-                   </li>
-                   <li>
-                     { 'Most-used font: ' + parseResult.globals.mostUsedFont + ' ' }
-                   </li>
-                   <li>
-                     { 'Most-used distance: ' + parseResult.globals.mostUsedDistance + ' ' }
-                   </li>
-                   <li>
-                     { 'Max height: ' + parseResult.globals.maxHeight + ' ' }
-                   </li>
-                   <li>
-                     { 'Max height font: ' + parseResult.globals.maxHeightFont + ' ' }
-                   </li>
-                   <hr/>
-                   <li>
-                     { 'Items per height: ' + JSON.stringify(parseResult.summary.heightToOccurrence) + ' ' }
-                   </li>
-                   <li>
-                     { 'Items per font: ' + JSON.stringify(parseResult.summary.fontToOccurrence) + ' ' }
-                   </li>
-                   <li>
-                     { 'Items per distance: ' + JSON.stringify(parseResult.summary.distanceToOccurrence) + ' ' }
-                   </li>
-                 </ul>
-               </div>;
     }
 
     transform(parseResult:ParseResult) {
@@ -102,11 +69,11 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
                 maxHeight: maxHeight,
                 maxHeightFont: maxHeightFont,
             },
-            summary: {
-                heightToOccurrence: heightToOccurrence,
-                fontToOccurrence: fontToOccurrence,
-                distanceToOccurrence: distanceToOccurrence,
-            }
+            messages: [
+                'Items per height: ' + JSON.stringify(heightToOccurrence),
+                'Items per font: ' + JSON.stringify(fontToOccurrence),
+                'Items per distance: ' + JSON.stringify(distanceToOccurrence)
+            ]
         });
     }
 

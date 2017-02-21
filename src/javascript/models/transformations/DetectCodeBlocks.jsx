@@ -1,4 +1,3 @@
-import React from 'react';
 import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import PdfBlock from '../PdfBlock.jsx';
@@ -12,13 +11,6 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
 
     constructor() {
         super("Detect Code/Quotes");
-    }
-
-    createSummaryView(parseResult:ParseResult) {
-        return <div>
-                 Detected
-                 { ' ' + parseResult.summary.foundBlocks + ' ' } code/quote blocks.
-               </div>;
     }
 
     transform(parseResult:ParseResult) {
@@ -83,9 +75,7 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
 
         return new ParseResult({
             ...parseResult,
-            summary: {
-                foundBlocks: foundBlocks
-            }
+            messages: ['Detected ' + foundBlocks + ' code/quote blocks.']
         });
 
     }

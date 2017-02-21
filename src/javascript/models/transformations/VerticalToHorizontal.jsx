@@ -11,6 +11,7 @@ export default class VerticalToHorizontal extends ToPdfViewTransformation {
     }
 
     transform(parseResult:ParseResult) {
+        var foundVerticals = 0;
         const newContent = parseResult.content.map(page => {
             const newTextItems = [];
             // var oneCharacterItems = [];
@@ -65,6 +66,7 @@ export default class VerticalToHorizontal extends ToPdfViewTransformation {
                                     text: combinedText,
                                     annotation: ADDED_ANNOTATION
                                 }));
+                                foundVerticals++;
                             } else {
                                 oneCharacterItems.forEach(oneCharacterItem => newTextItems.push(oneCharacterItem));
                             }
@@ -87,15 +89,9 @@ export default class VerticalToHorizontal extends ToPdfViewTransformation {
         return new ParseResult({
             ...parseResult,
             content: newContent,
+            messages: ["Converted " + foundVerticals + " verticals"]
         });
     }
 
-    completeTransform(parseResult:ParseResult) {
-        parseResult.content.forEach(page => {
-            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
-            page.textItems.forEach(textItem => textItem.annotation = null)
-        });
-        return parseResult;
-    }
 
 }

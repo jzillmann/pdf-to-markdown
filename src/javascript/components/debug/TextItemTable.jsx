@@ -81,7 +81,7 @@ export default class TextItemTable extends React.Component {
         )
 
         return (
-            <Table responsive bordered>
+            <Table responsive condensed bordered>
               { tableHeader }
               <tbody>
                 { textItemRows }

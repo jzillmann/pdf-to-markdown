@@ -8,6 +8,8 @@ import Pagination from 'react-bootstrap/lib/Pagination'
 import MenuItem from 'react-bootstrap/lib/MenuItem'
 import Label from 'react-bootstrap/lib/Label'
 import Checkbox from 'react-bootstrap/lib/Checkbox'
+import Collapse from 'react-bootstrap/lib/Collapse'
+import Panel from 'react-bootstrap/lib/Panel'
 
 import ParseResult from '../models/ParseResult.jsx';
 
@@ -24,7 +26,8 @@ export default class DebugView extends React.Component {
         this.state = {
             currentTransformation: 0,
             pageNr: -1,
-            modificationsOnly: false
+            modificationsOnly: false,
+            showStatistics: false
         };
     }
 
@@ -58,6 +61,13 @@ export default class DebugView extends React.Component {
         });
     }
 
+    showStatistics() {
+        this.setState({
+            showStatistics: !this.state.showStatistics
+        });
+
+    }
+
 
     render() {
         const {currentTransformation, pageNr} = this.state;
@@ -78,9 +88,18 @@ export default class DebugView extends React.Component {
         }
 
         parseResult.content = parseResult.content.filter((elem, i) => pageNr == -1 || i == pageNr);
-        const summaryComponent = lastTransformation.createSummaryView(parseResult);
         const pageComponents = parseResult.content.map(page => lastTransformation.createPageView(page, this.state.modificationsOnly));
         const showModificationCheckbox = lastTransformation.showModificationCheckbox();
+        const statisticsAsList = Object.keys(parseResult.globals).map((key, i) => {
+            return <li key={ i }>
+                     { key + ': ' + parseResult.globals[key] }
+                   </li>
+        });
+        const messagesAsList = parseResult.messages.map((message, i) => {
+            return <li key={ i }>
+                     { message }
+                   </li>
+        });
 
         return (
             <div>
@@ -103,7 +122,7 @@ export default class DebugView extends React.Component {
                                       ellipsis
                                       boundaryLinks
                                       items={ pdfPages.length }
-                                      maxButtons={ 18 }
+                                      maxButtons={ 17 }
                                       activePage={ this.state.pageNr + 1 }
                                       onSelect={ this.selectPage.bind(this) } />
                         </div>
@@ -141,6 +160,11 @@ export default class DebugView extends React.Component {
                               Show only modifications
                             </Checkbox> }
                         </ButtonGroup>
+                        <ButtonGroup>
+                          <Checkbox onClick={ ::this.showStatistics }>
+                            Show Statistics
+                          </Checkbox>
+                        </ButtonGroup>
                       </ButtonToolbar>
                     </td>
                     <td style={ { padding: '5px' } }>
@@ -150,10 +174,24 @@ export default class DebugView extends React.Component {
                       </Label>
                     </td>
                   </tr>
+                  <tr>
+                    <td>
+                      <Collapse in={ this.state.showStatistics }>
+                        <Panel bsStyle="default">
+                          <ul>
+                            { statisticsAsList }
+                          </ul>
+                        </Panel>
+                      </Collapse>
+                    </td>
+                  </tr>
                 </tbody>
               </table>
-              <hr/>
-              { summaryComponent }
+              { !this.state.showStatistics &&
+                <hr style={ { marginTop: '5px' } } /> }
+              <ul>
+                { messagesAsList }
+              </ul>
               { pageComponents }
             </div>
             );
