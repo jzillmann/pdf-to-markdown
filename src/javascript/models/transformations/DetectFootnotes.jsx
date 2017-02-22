@@ -1,70 +1,67 @@
-import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
-import TextItem from '../TextItem.jsx';
+import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
-import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
+import PdfBlock from '../PdfBlock.jsx';
+import TextItemCombiner from '../TextItemCombiner.jsx';
+import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
+import { FOOTNOTE_BLOCK } from '../MarkdownElements.jsx';
 
-import { isNumber } from '../../functions.jsx'
-
-export default class DetectFootnotes extends ToPdfViewTransformation {
+//Detect quotes, code etc.. which is transformed to markdown code syntax
+export default class DetectFootnotes extends ToPdfBlockViewTransformation {
 
     constructor() {
         super("Detect Footnotes");
     }
 
     transform(parseResult:ParseResult) {
+        const {mostUsedDistance} = parseResult.globals;
+        var foundFootnotes = [];
+        const textCombiner = new TextItemCombiner({
+            mostUsedDistance: mostUsedDistance,
+        });
 
-        var nextFooterNumber = 1;
-        var potentialFootnoteItem;
-        var foundFootnotes = 0;
-
-        const newContent = parseResult.content.map(page => {
-            const newTextItems = [];
-            for (var i = 0; i < page.textItems.length; i++) {
-                const item = page.textItems[i];
-                if (potentialFootnoteItem) {
-                    if (potentialFootnoteItem.y - item.y < item.height) {
-                        potentialFootnoteItem.annotation = REMOVED_ANNOTATION;
-                        item.annotation = REMOVED_ANNOTATION;
-                        newTextItems.push(potentialFootnoteItem);
-                        newTextItems.push(item);
-                        newTextItems.push(new TextItem({
-                            x: potentialFootnoteItem.x,
-                            y: item.y,
-                            width: potentialFootnoteItem.width + item.width,
-                            height: item.height,
-                            text: '[' + potentialFootnoteItem.text + '] ' + item.text,
-                            annotation: ADDED_ANNOTATION
-                        }));
-                        //TODO repsect multiline!!
-                        nextFooterNumber++;
-                        foundFootnotes++;
+        parseResult.content.forEach(page => {
+            const newBlocks = [];
+            var lastFootnote;
+            page.blocks.forEach(block => {
+                newBlocks.push(block);
+                if (!block.type && block.textItems[0].y < 200) {
+                    const combineResult = textCombiner.combine(block.textItems);
+                    if (combineResult.parsedElements.footnotes.length > 0) {
+                        block.annotation = REMOVED_ANNOTATION;
+                        foundFootnotes.push.apply(foundFootnotes, combineResult.parsedElements.footnotes);
+                        lastFootnote = new PdfBlock({
+                            textItems: combineResult.textItems,
+                            type: FOOTNOTE_BLOCK,
+                            annotation: ADDED_ANNOTATION,
+                            parsedElements: combineResult.parsedElements
+                        })
+                        newBlocks.push(lastFootnote);
+                    } else if (lastFootnote) {
+                        // likely to be the second line of aboves footnote
+                        block.annotation = REMOVED_ANNOTATION;
+                        lastFootnote.textItems = lastFootnote.textItems.concat(combineResult.textItems);
+                        lastFootnote.parsedElements.add(combineResult.parsedElements);
+                        newBlocks[newBlocks.length - 2] = block;
+                        newBlocks[newBlocks.length - 1] = lastFootnote;
                     }
-                    potentialFootnoteItem = null;
-                } else if (isNumber(item.text) && parseInt(item.text) == nextFooterNumber && i > 0 && i < page.textItems.length - 1 && page.textItems[i - 1].y !== page.textItems[i + 1].y) {
-                    potentialFootnoteItem = item;
                 } else {
-                    newTextItems.push(item);
+                    lastFootnote = null;
                 }
-            }
-            return {
-                ...page,
-                textItems: newTextItems
-            };
+            });
+            page.blocks = newBlocks;
         });
 
         return new ParseResult({
             ...parseResult,
-            content: newContent,
-            messages: ['Detected ' + foundFootnotes + ' footnotes']
+            messages: [
+                'Detected ' + foundFootnotes.length + ' footnotes:',
+                foundFootnotes.join(', ')
+            ]
         });
-    }
 
-    completeTransform(parseResult:ParseResult) {
-        parseResult.content.forEach(page => {
-            page.textItems = page.textItems.filter(textItem => !textItem.annotation || textItem.annotation !== REMOVED_ANNOTATION);
-            page.textItems.forEach(textItem => textItem.annotation = null)
-        });
-        return parseResult;
     }
 
 }
+
+
+

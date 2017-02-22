@@ -30,10 +30,18 @@ export default class PdfBlockPageView extends React.Component {
             const colorStyle = block.annotation ? {
                 color: block.annotation.color
             } : null;
-            var footnotesElement;
+            var footnoteLinks;
+            var footnotes;
             if (block.parsedElements) {
+                if (block.parsedElements.footnoteLinks.length > 0) {
+                    footnoteLinks = <div>
+                                      { 'Footnote-Links: ' + block.parsedElements.footnoteLinks }
+                                    </div>;
+                }
                 if (block.parsedElements.footnotes.length > 0) {
-                    footnotesElement = 'Footnotes: ' + block.parsedElements.footnotes;
+                    footnotes = <div>
+                                  { 'Footnotes: ' + block.parsedElements.footnotes }
+                                </div>;
                 }
             }
 
@@ -43,7 +51,8 @@ export default class PdfBlockPageView extends React.Component {
                      </div>
                      <div style={ borderStyle }>
                        <TextItemTable textItems={ textItems } showWhitespaces={ showWhitespaces } />
-                       { footnotesElement }
+                       { footnoteLinks }
+                       { footnotes }
                      </div>
                    </div>
         });

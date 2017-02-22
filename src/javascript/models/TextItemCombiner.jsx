@@ -1,5 +1,6 @@
 import TextItem from './TextItem.jsx';
-import { isNumber } from '../functions.jsx'
+import { isNumber, isDigit } from '../functions.jsx'
+import { sortByX } from '../textItemFunctions.jsx'
 
 //Combines text items which are on the same Y at the same time doing inline transformations like 
 //'whitespace removal', bold/emphasis annotation, link-detection, etc..
@@ -58,66 +59,88 @@ export default class TextItemCombiner {
     }
 
     groupByFollowingY(textItems) {
-        const yArrays = [];
+        const footnoteLinks = [];
         const footnotes = [];
-        var itemsWithSameY = [];
-        var lastItem;
 
 
-        const wrapUpLine = () => {
-            // we can't trust order of occurence, esp. footnotes like to come last
-            itemsWithSameY.sort((a, b) => {
-                return a.x - b.x;
-            });
-            const finalArray = [];
-            const basicY = itemsWithSameY[0].y;
-            var savedFootnoteItems = [];
-            const commitSavedFootnotes = () => {
-                if (savedFootnoteItems.length > 0) {
-                    const footnoteNumber = savedFootnoteItems.map(footnoteItem => footnoteItem.text).join('');
-                    finalArray.push(new TextItem({
-                        ...savedFootnoteItems[0],
-                        //TODO make fomatting configurable
-                        // text: `<sup>[${footnoteNumber}](#${footnoteNumber})</sup>`
-                        text: `*${footnoteNumber}`
-                    }));
-                    savedFootnoteItems = [];
-                    footnotes.push(parseInt(footnoteNumber));
+        var lines = this.groupItemsByLine(textItems);
+        lines = lines.map(lineItems => {
+            const basicY = lineItems[0].y;
+            const newLineItems = [];
+            var stashedNumberItems = [];
+
+
+            const commitStashedNumbers = (nextItem) => {
+                if (stashedNumberItems.length > 0) {
+                    const joinedNumber = stashedNumberItems.map(footnoteLinkItem => footnoteLinkItem.text).join('');
+                    if (stashedNumberItems[0].y > basicY) { // footnote link
+                        newLineItems.push(new TextItem({
+                            ...stashedNumberItems[0],
+                            //TODO make fomatting configurable
+                            // text: `<sup>[${joinedNumber}](#${joinedNumber})</sup>`
+                            text: `^${joinedNumber}`
+                        }));
+                        footnoteLinks.push(parseInt(joinedNumber));
+                    } else if (nextItem && nextItem.y < stashedNumberItems[0].y) { // footnote
+                        //TODO womb comp [29] => ydiff == 0
+                        newLineItems.push(new TextItem({
+                            ...stashedNumberItems[0],
+                            text: `(^${ joinedNumber}):`
+                        }));
+                        footnotes.push(joinedNumber);
+                    } else {
+                        stashedNumberItems.forEach(number => newLineItems.push(number));
+                    }
+
+                    stashedNumberItems = [];
                 }
             };
 
-            itemsWithSameY.forEach(item => {
-                const isFootnote = item.y > basicY && isNumber(item.text);
-                if (isFootnote) {
-                    savedFootnoteItems.push(item);
+            lineItems.forEach(item => {
+                if (newLineItems.length == 0 && item.text.trim().length == 0) {
+                    // skip whitespace on the beginning of a line
                 } else {
-                    if (savedFootnoteItems.length > 0) {
-                        commitSavedFootnotes();
+                    const isANumber = isNumber(item.text);
+                    if (isANumber) {
+                        stashedNumberItems.push(item);
+                    } else {
+                        if (stashedNumberItems.length > 0) {
+                            commitStashedNumbers(item);
+                        }
+                        newLineItems.push(item);
                     }
-                    finalArray.push(item);
                 }
             });
-            commitSavedFootnotes();
-            yArrays.push(finalArray);
-            itemsWithSameY = [];
-        };
-
-        textItems.forEach(item => {
-            if (lastItem) {
-                if (Math.abs(lastItem.y - item.y) > this.mostUsedDistance / 2) {
-                    wrapUpLine();
-                }
-            }
-            itemsWithSameY.push(item);
-            lastItem = item;
-        // }
+            commitStashedNumbers();
+            return newLineItems;
         });
-        wrapUpLine();
 
-        return [yArrays, new ParsedElements({
+
+        return [lines, new ParsedElements({
+            footnoteLinks: footnoteLinks,
             footnotes: footnotes
         })];
     }
+
+    groupItemsByLine(textItems:TextItem[]) {
+        const lines = [];
+        var currentLine = [];
+        textItems.forEach(item => {
+            if (currentLine.length > 0 && Math.abs(currentLine[0].y - item.y) >= this.mostUsedDistance / 2) {
+                lines.push(currentLine);
+                currentLine = [];
+            }
+            currentLine.push(item);
+        });
+        lines.push(currentLine);
+
+        lines.forEach(lineItems => {
+            // we can't trust order of occurence, esp. footnoteLinks like to come last
+            sortByX(lineItems);
+        });
+        return lines;
+    }
+
 }
 
 //Result of the TextItemCombiner#combine()
@@ -125,7 +148,6 @@ export class CombineResult {
 
     constructor(options) {
         this.textItems = options.textItems;
-        this.footnotes = options.footnotes;
         this.parsedElements = options.parsedElements;
     }
 
@@ -134,10 +156,12 @@ export class CombineResult {
 export class ParsedElements {
 
     constructor(options) {
+        this.footnoteLinks = options.footnoteLinks;
         this.footnotes = options.footnotes;
     }
 
     add(parsedElements:ParsedElements) {
+        this.footnoteLinks = this.footnoteLinks.concat(parsedElements.footnoteLinks);
         this.footnotes = this.footnotes.concat(parsedElements.footnotes);
     }
 

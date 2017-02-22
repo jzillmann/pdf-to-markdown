@@ -33,7 +33,7 @@ export default class VerticalToHorizontal extends ToPdfViewTransformation {
 
             //TODO generic state machine code ?
 
-            page.textItems.reduce((oneCharacterItems, item) => {
+            const leftOver = page.textItems.reduce((oneCharacterItems, item) => {
                 if (item.text.trim().length == 1) {
                     if (oneCharacterItems.length == 0) {
                         oneCharacterItems.push(item);
@@ -80,6 +80,7 @@ export default class VerticalToHorizontal extends ToPdfViewTransformation {
                 }
                 return oneCharacterItems;
             }, []);
+            leftOver.forEach(oneCharacterItem => newTextItems.push(oneCharacterItem));
 
             return {
                 ...page,

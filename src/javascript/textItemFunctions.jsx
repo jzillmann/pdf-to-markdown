@@ -24,3 +24,15 @@ export function minXFromTextItems(items:TextItem) {
     }
     return minX;
 }
+
+export function sortByX(items:TextItem) {
+    items.sort((a, b) => {
+        return a.x - b.x;
+    });
+}
+
+export function sortCopyByX(items:TextItem) {
+    const copy = items.concat();
+    sortByX(copy);
+    return copy;
+}

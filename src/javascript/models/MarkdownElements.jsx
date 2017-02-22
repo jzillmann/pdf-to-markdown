@@ -7,6 +7,7 @@ export const PARAGRAPH = "Paragraph";
 export const LIST_BLOCK = "List";
 export const CODE_BLOCK = "Code/Quote";
 export const TOC_BLOCK = "TOC";
+export const FOOTNOTE_BLOCK = "Footnotes"
 
 export function blockToText(block: PdfBlock) {
     switch (block.type) {

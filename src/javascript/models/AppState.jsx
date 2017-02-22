@@ -4,17 +4,17 @@ import CalculateGlobalStats from './transformations/CalculateGlobalStats.jsx';
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import VerticalToHorizontal from './transformations/VerticalToHorizontal.jsx';
 import DetectPdfBlocks from './transformations/DetectPdfBlocks.jsx'
+import DetectFootnotes from './transformations/DetectFootnotes.jsx'
 import DetectTOC from './transformations/DetectTOC.jsx'
 import DetectLists from './transformations/DetectLists.jsx'
 import DetectCodeBlocks from './transformations/DetectCodeBlocks.jsx'
-import DetectFormats from './transformations/DetectFormats.jsx'
-import CombineSameY from './transformations/CombineSameY.jsx';
-import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
-import DetectFootnotes from './transformations/DetectFootnotes.jsx'
-import DetectLinks from './transformations/DetectLinks.jsx'
-import HeadlineDetector from './transformations/HeadlineDetector.jsx'
-import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
-import ToBlockSystem from './transformations/ToBlockSystem.jsx';
+// import DetectFormats from './transformations/DetectFormats.jsx'
+// import CombineSameY from './transformations/CombineSameY.jsx';
+// import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
+// import DetectLinks from './transformations/DetectLinks.jsx'
+// import HeadlineDetector from './transformations/HeadlineDetector.jsx'
+// import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
+// import ToBlockSystem from './transformations/ToBlockSystem.jsx';
 import ToTextBlocks from './transformations/ToTextBlocks.jsx';
 import ToMarkdown from './transformations/ToMarkdown.jsx'
 
@@ -31,6 +31,7 @@ export default class AppState {
             new RemoveRepetitiveElements(),
             new VerticalToHorizontal(),
             new DetectPdfBlocks(),
+            new DetectFootnotes(),
             new DetectTOC(),
             new DetectLists(),
             new DetectCodeBlocks(),
@@ -38,7 +39,6 @@ export default class AppState {
             // new DetectFormats(),
             // new CombineSameY(),
             // new RemoveWhitespaces(),
-            // new DetectFootnotes(),
             // new DetectLinks(),
             // new HeadlineDetector(),
             // new HeadlineToUppercase(),
