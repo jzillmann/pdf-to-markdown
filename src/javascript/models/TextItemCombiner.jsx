@@ -1,5 +1,5 @@
 import TextItem from './TextItem.jsx';
-import { isNumber, isDigit } from '../functions.jsx'
+import { isNumber } from '../functions.jsx'
 import { sortByX } from '../textItemFunctions.jsx'
 
 //Combines text items which are on the same Y at the same time doing inline transformations like 
@@ -39,6 +39,7 @@ export default class TextItemCombiner {
                     text += item.text;
                     widthSum += item.width;
                     lastItem = item;
+                    maxHeight = Math.max(maxHeight, item.height);
                 });
                 resultItems.push(new TextItem({
                     ...itemGroup[0],

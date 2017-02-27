@@ -4,7 +4,7 @@ import TextItem from '../TextItem.jsx';
 import PdfBlock from '../PdfBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
-import { TOC_BLOCK } from '../MarkdownElements.jsx';
+import { TOC_BLOCK, HEADLINE2 } from '../MarkdownElements.jsx';
 import { isDigit } from '../../functions.jsx'
 
 //Detect table of contents pages
@@ -17,13 +17,13 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
     transform(parseResult:ParseResult) {
         const {mostUsedDistance} = parseResult.globals;
         var foundTocPages = 0;
-        var x = Math.min(12, parseResult.content.length);
+        const maxPagesToEvaluate = Math.min(20, parseResult.content.length);
         const textCombiner = new TextItemCombiner({
             mostUsedDistance: mostUsedDistance
         });
 
 
-        parseResult.content.slice(0, x).forEach(page => {
+        parseResult.content.slice(0, maxPagesToEvaluate).forEach(page => {
             var linesCount = 0;
             var linesWithDigitsCount = 0;
             var lineItemsWithDigits = [];
@@ -49,25 +49,32 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
                         }));
                     }
                 });
-                if (!blockHasLinesWithDigits) {
-                    if (!headlineBlock) {
-                        headlineBlock = block;
-                    }
+                if (!headlineBlock && !blockHasLinesWithDigits) {
+                    headlineBlock = block;
                 }
             });
 
             if (linesWithDigitsCount * 100 / linesCount > 75) {
                 foundTocPages++;
-                page.blocks.forEach(block => {
-                    if (block !== headlineBlock) {
-                        block.annotation = REMOVED_ANNOTATION;
+                const newBlocks = [];
+                page.blocks.forEach((block) => {
+                    block.annotation = REMOVED_ANNOTATION;
+                    newBlocks.push(block);
+
+                    if (block === headlineBlock) {
+                        newBlocks.push(new PdfBlock({
+                            textItems: textCombiner.combine(block.textItems).textItems,
+                            type: HEADLINE2,
+                            annotation: ADDED_ANNOTATION
+                        }));
                     }
                 });
-                page.blocks.push(new PdfBlock({
+                newBlocks.push(new PdfBlock({
                     textItems: lineItemsWithDigits,
                     type: TOC_BLOCK,
                     annotation: ADDED_ANNOTATION
                 }));
+                page.blocks = newBlocks;
             }
         });
 

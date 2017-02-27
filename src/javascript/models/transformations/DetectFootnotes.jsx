@@ -34,7 +34,7 @@ export default class DetectFootnotes extends ToPdfBlockViewTransformation {
                             type: FOOTNOTE_BLOCK,
                             annotation: ADDED_ANNOTATION,
                             parsedElements: combineResult.parsedElements
-                        })
+                        });
                         newBlocks.push(lastFootnote);
                     } else if (lastFootnote) {
                         // likely to be the second line of aboves footnote
