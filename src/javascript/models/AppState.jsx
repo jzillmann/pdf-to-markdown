@@ -26,7 +26,7 @@ export default class AppState {
         this.renderFunction = options.renderFunction;
         this.mainView = View.UPLOAD;
         this.fileBuffer;
-        this.pdfPages = [];
+        this.pages = [];
         this.transformations = [
             new CalculateGlobalStats(),
             new RemoveRepetitiveElements(),
@@ -66,8 +66,8 @@ export default class AppState {
         this.render()
     }
 
-    storePdfPages(pdfPages) {
-        this.pdfPages = pdfPages;
+    storePdfPages(pages) {
+        this.pages = pages;
         this.fileBuffer = null;
         this.mainView = View.RESULT;
         this.render();

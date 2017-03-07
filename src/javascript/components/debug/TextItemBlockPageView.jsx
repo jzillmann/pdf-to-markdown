@@ -1,24 +1,12 @@
 import React from 'react';
+import PageView from './PageView.jsx';
 import TextItemTable from './TextItemTable.jsx';
 
-// View for a PdfBlockPage
-export default class PdfBlockPageView extends React.Component {
+// View for a Page which items are of kind TextItemBlock
+export default class TextItemBlockPageView extends PageView {
 
-    static propTypes = {
-        pdfPage: React.PropTypes.object.isRequired,
-        modificationsOnly: React.PropTypes.bool.isRequired,
-        showWhitespaces: React.PropTypes.bool
-    };
-
-    render() {
-        const {pdfPage, modificationsOnly, showWhitespaces} = this.props;
-
-        var blocks = pdfPage.blocks;
-        if (modificationsOnly) {
-            blocks = blocks.filter(block => block.annotation);
-        }
-
-        const blockTables = blocks.map((block, i) => {
+    createItemViews(items, showWhitespaces) {
+        const blockTables = items.map((block, i) => {
             var textItems = block.textItems;
             const blockType = block.type ? ' - ' + block.type : null;
             const blockAnnotation = block.annotation ? <span>{ ' - ' + block.annotation.category }</span>
@@ -56,19 +44,7 @@ export default class PdfBlockPageView extends React.Component {
                      </div>
                    </div>
         });
-
-        var content;
-        if (blocks.length == 0 && modificationsOnly) {
-            content = <div/>
-        } else {
-            const header = "Page " + (pdfPage.index + 1);
-            content = <div>
-                        <h2>{ header }</h2>
-                        { blockTables }
-                      </div>
-        }
-        return (
-            content
-            );
+        return blockTables;
     }
+
 }

@@ -17,7 +17,7 @@ import ParseResult from '../models/ParseResult.jsx';
 export default class DebugView extends React.Component {
 
     static propTypes = {
-        pdfPages: React.PropTypes.array.isRequired,
+        pages: React.PropTypes.array.isRequired,
         transformations: React.PropTypes.array.isRequired,
     };
 
@@ -71,12 +71,12 @@ export default class DebugView extends React.Component {
 
     render() {
         const {currentTransformation, pageNr} = this.state;
-        const {pdfPages, transformations} = this.props;
+        const {pages, transformations} = this.props;
 
         const currentTransformationName = transformations[currentTransformation].name;
 
         var parseResult = new ParseResult({
-            content: pdfPages
+            pages: pages
         });
         var lastTransformation;
         for (var i = 0; i <= currentTransformation; i++) {
@@ -87,8 +87,8 @@ export default class DebugView extends React.Component {
             lastTransformation = transformations[i];
         }
 
-        parseResult.content = parseResult.content.filter((elem, i) => pageNr == -1 || i == pageNr);
-        const pageComponents = parseResult.content.map(page => lastTransformation.createPageView(page, this.state.modificationsOnly));
+        parseResult.pages = parseResult.pages.filter((elem, i) => pageNr == -1 || i == pageNr);
+        const pageComponents = parseResult.pages.map(page => lastTransformation.createPageView(page, this.state.modificationsOnly));
         const showModificationCheckbox = lastTransformation.showModificationCheckbox();
         const statisticsAsList = Object.keys(parseResult.globals).map((key, i) => {
             return <li key={ i }>
@@ -121,7 +121,7 @@ export default class DebugView extends React.Component {
                                       last
                                       ellipsis
                                       boundaryLinks
-                                      items={ pdfPages.length }
+                                      items={ pages.length }
                                       maxButtons={ 17 }
                                       activePage={ this.state.pageNr + 1 }
                                       onSelect={ this.selectPage.bind(this) } />
@@ -194,6 +194,6 @@ export default class DebugView extends React.Component {
               </ul>
               { pageComponents }
             </div>
-            );
+        );
     }
 }

@@ -1,7 +1,7 @@
-import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
+import ToTextItemTransformation from './ToTextItemTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 
-export default class CalculateGlobalStats extends ToPdfViewTransformation {
+export default class CalculateGlobalStats extends ToTextItemTransformation {
 
     constructor() {
         super("Calculate Statistics");
@@ -14,8 +14,8 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
         const fontToOccurrence = {};
         var maxHeight = 0;
         var maxHeightFont;
-        parseResult.content.forEach(page => {
-            page.textItems.forEach(item => {
+        parseResult.pages.forEach(page => {
+            page.items.forEach(item => {
                 heightToOccurrence[item.height] = heightToOccurrence[item.height] ? heightToOccurrence[item.height] + 1 : 1;
                 fontToOccurrence[item.font] = fontToOccurrence[item.font] ? fontToOccurrence[item.font] + 1 : 1;
                 if (item.height > maxHeight) {
@@ -29,9 +29,9 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
 
         // Parse line distances
         const distanceToOccurrence = {};
-        parseResult.content.forEach(page => {
+        parseResult.pages.forEach(page => {
             var lastItemOfMostUsedHeight;
-            page.textItems.forEach(item => {
+            page.items.forEach(item => {
                 if (item.height == mostUsedHeight && item.text.trim().length > 0) {
                     if (lastItemOfMostUsedHeight && item.y != lastItemOfMostUsedHeight.y) {
                         const distance = lastItemOfMostUsedHeight.y - item.y;
@@ -49,10 +49,10 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
 
 
         //Make a copy of the originals so all following transformation don't modify them
-        const newContent = parseResult.content.map(pdfPage => {
+        const newPages = parseResult.pages.map(page => {
             return {
-                ...pdfPage,
-                textItems: pdfPage.textItems.map(textItem => {
+                ...page,
+                items: page.items.map(textItem => {
                     return {
                         ...textItem,
                     }
@@ -61,7 +61,7 @@ export default class CalculateGlobalStats extends ToPdfViewTransformation {
         });
         return new ParseResult({
             ...parseResult,
-            content: newContent,
+            pages: newPages,
             globals: {
                 mostUsedHeight: mostUsedHeight,
                 mostUsedFont: mostUsedFont,

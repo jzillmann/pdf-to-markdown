@@ -14,7 +14,7 @@ export default class Transformation {
     }
 
     showPageSelection() {
-        return false;
+        return true;
     }
 
     showModificationCheckbox() {

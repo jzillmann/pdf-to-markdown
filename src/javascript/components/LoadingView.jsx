@@ -3,7 +3,7 @@ import React from 'react';
 import pdfjs from 'pdfjs-dist'; // eslint-disable-line no-unused-vars
 import { Line } from 'rc-progress';
 
-import PdfPage from '../models/PdfPage.jsx';
+import Page from '../models/Page.jsx';
 import TextItem from '../models/TextItem.jsx';
 
 export default class LoadingView extends React.Component {
@@ -17,19 +17,19 @@ export default class LoadingView extends React.Component {
         super(props);
         this.state = {
             parsedPages: 0,
-            pdfPages: []
+            pages: []
         };
     }
 
-    anounceInitialParse(pdfPages) {
+    anounceInitialParse(pages) {
         this.setState({
-            pdfPages: pdfPages
+            pages: pages
         });
     }
 
     anouncePageParsed(index, textItems) {
         //TODO might make problems.. concat unordered and order at the end ?
-        this.state.pdfPages[index].textItems = textItems; // eslint-disable-line react/no-direct-mutation-state
+        this.state.pages[index].items = textItems; // eslint-disable-line react/no-direct-mutation-state
         this.setState({
             parsedPages: this.state.parsedPages + 1
         });
@@ -44,13 +44,13 @@ export default class LoadingView extends React.Component {
             // console.debug(pdfDocument);
             const numPages = pdfDocument.numPages;
             // const numPages = 4; // hack
-            var pdfPages = [];
+            var pages = [];
             for (var i = 0; i < numPages; i++) {
-                pdfPages.push(new PdfPage({
+                pages.push(new Page({
                     index: i
                 }));
             }
-            anounceInitialParseFunction(pdfPages);
+            anounceInitialParseFunction(pages);
             for (var j = 1; j <= numPages; j++) {
                 pdfDocument.getPage(j).then(function(page) {
                     var scale = 1.0;
@@ -96,14 +96,14 @@ export default class LoadingView extends React.Component {
     }
 
     render() {
-        const {parsedPages, pdfPages} = this.state;
+        const {parsedPages, pages} = this.state;
         var percentDone = 0;
         var details = '';
-        if (pdfPages.length > 0) {
-            percentDone = parsedPages / pdfPages.length * 100;
-            details = parsedPages + ' / ' + pdfPages.length
-            if (parsedPages == pdfPages.length) {
-                this.props.storePdfPagesFunction(this.state.pdfPages);
+        if (pages.length > 0) {
+            percentDone = parsedPages / pages.length * 100;
+            details = parsedPages + ' / ' + pages.length
+            if (parsedPages == pages.length) {
+                this.props.storePdfPagesFunction(this.state.pages);
             }
         }
         return (

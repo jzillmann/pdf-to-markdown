@@ -2,7 +2,6 @@ import React from 'react';
 import MarkdownPageView from '../../components/debug/MarkdownPageView.jsx';
 import Transformation from './Transformation.jsx';
 import ParseResult from '../ParseResult.jsx';
-import TextPage from '../TextPage.jsx';
 
 export default class ToMarkdown extends Transformation {
 
@@ -15,18 +14,15 @@ export default class ToMarkdown extends Transformation {
     }
 
     transform(parseResult:ParseResult) {
-        var text = '';
-        parseResult.content.forEach(page => {
-            page.blocks.forEach((block) => {
+        parseResult.pages.forEach(page => {
+            var text = '';
+            page.items.forEach(block => {
                 text += block.text + '\n';
             });
+            page.items = [text];
         });
         return new ParseResult({
             ...parseResult,
-            content: [new TextPage({
-                index: 0,
-                text: text
-            })],
         });
     }
 

@@ -1,12 +1,12 @@
-import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
+import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
-import PdfBlock from '../PdfBlock.jsx';
+import TextItemBlock from '../TextItemBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
 import { FOOTNOTE_BLOCK } from '../MarkdownElements.jsx';
 
 //Detect quotes, code etc.. which is transformed to markdown code syntax
-export default class DetectFootnotes extends ToPdfBlockViewTransformation {
+export default class DetectFootnotes extends ToTextItemBlockTransformation {
 
     constructor() {
         super("Detect Footnotes");
@@ -19,17 +19,17 @@ export default class DetectFootnotes extends ToPdfBlockViewTransformation {
             mostUsedDistance: mostUsedDistance,
         });
 
-        parseResult.content.forEach(page => {
+        parseResult.pages.forEach(page => {
             const newBlocks = [];
             var lastFootnote;
-            page.blocks.forEach(block => {
+            page.items.forEach(block => {
                 newBlocks.push(block);
                 if (!block.type && block.textItems[0].y < 200) {
                     const combineResult = textCombiner.combine(block.textItems);
                     if (combineResult.parsedElements.footnotes.length > 0) {
                         block.annotation = REMOVED_ANNOTATION;
                         foundFootnotes.push.apply(foundFootnotes, combineResult.parsedElements.footnotes);
-                        lastFootnote = new PdfBlock({
+                        lastFootnote = new TextItemBlock({
                             textItems: combineResult.textItems,
                             type: FOOTNOTE_BLOCK,
                             annotation: ADDED_ANNOTATION,
@@ -48,7 +48,7 @@ export default class DetectFootnotes extends ToPdfBlockViewTransformation {
                     lastFootnote = null;
                 }
             });
-            page.blocks = newBlocks;
+            page.items = newBlocks;
         });
 
         return new ParseResult({

@@ -28,10 +28,10 @@ export default class App extends React.Component {
             mainView = <LoadingView fileBuffer={ appState.fileBuffer } storePdfPagesFunction={ appState.storePdfPages } />
             break;
         case View.RESULT:
-            mainView = <ResultView pdfPages={ appState.pdfPages } transformations={ appState.transformations } />
+            mainView = <ResultView pages={ appState.pages } transformations={ appState.transformations } />
             break;
         case View.DEBUG:
-            mainView = <DebugView pdfPages={ appState.pdfPages } transformations={ appState.transformations } />
+            mainView = <DebugView pages={ appState.pages } transformations={ appState.transformations } />
             break;
         default:
             throw `View ${this.props.appState.mainView} not supported!`;
@@ -46,7 +46,7 @@ export default class App extends React.Component {
                 </div>
               </Grid>
             </div>
-            );
+        );
     }
 }
 

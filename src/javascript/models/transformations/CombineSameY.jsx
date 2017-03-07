@@ -1,4 +1,4 @@
-import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
+import ToTextItemTransformation from './ToTextItemTransformation.jsx';
 import TextItem from '../TextItem.jsx';
 import ParseResult from '../ParseResult.jsx';
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
@@ -40,7 +40,7 @@ function combineTextItems(textItems:TextItem[]) {
     });
 }
 
-export default class CombineSameY extends ToPdfViewTransformation {
+export default class CombineSameY extends ToTextItemTransformation {
 
     constructor() {
         super("Combine Text On Same Y");

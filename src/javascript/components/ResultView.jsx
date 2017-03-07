@@ -10,7 +10,7 @@ import ParseResult from '../models/ParseResult.jsx';
 export default class ResultView extends React.Component {
 
     static propTypes = {
-        pdfPages: React.PropTypes.array.isRequired,
+        pages: React.PropTypes.array.isRequired,
         transformations: React.PropTypes.array.isRequired,
     };
 
@@ -19,9 +19,9 @@ export default class ResultView extends React.Component {
     }
 
     componentWillMount() {
-        const {pdfPages, transformations} = this.props;
+        const {pages, transformations} = this.props;
         var parseResult = new ParseResult({
-            content: pdfPages
+            pages: pages
         });
         var lastTransformation;
         transformations.forEach(transformation => {
@@ -32,10 +32,15 @@ export default class ResultView extends React.Component {
             lastTransformation = transformation;
         });
 
+        var text = '';
+        parseResult.pages.forEach(page => {
+            page.items.forEach(item => {
+                text += item + '\n';
+            });
+        });
         this.state = {
             preview: true,
-            text: parseResult.content[0].text
-
+            text: text
         };
     }
 
@@ -90,7 +95,7 @@ export default class ResultView extends React.Component {
               <hr/>
               { textComponent }
             </div>
-            );
+        );
     }
 
 }

@@ -1,10 +1,10 @@
-import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
+import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
+import Page from '../Page.jsx';
 import ParseResult from '../ParseResult.jsx';
-import PdfBlockPage from '../PdfBlockPage.jsx';
-import PdfBlock from '../PdfBlock.jsx';
+import TextItemBlock from '../TextItemBlock.jsx';
 import { minXFromTextItems } from '../../textItemFunctions.jsx';
 
-export default class DetectPdfBlocks extends ToPdfBlockViewTransformation {
+export default class DetectPdfBlocks extends ToTextItemBlockTransformation {
 
     constructor() {
         super("Detect Blocks");
@@ -13,20 +13,20 @@ export default class DetectPdfBlocks extends ToPdfBlockViewTransformation {
     transform(parseResult:ParseResult) {
         const {mostUsedDistance} = parseResult.globals;
         var createdBlocks = 0;
-        const newContent = parseResult.content.map(page => {
-            var minX = minXFromTextItems(page.textItems);
+        const newPages = parseResult.pages.map(page => {
+            var minX = minXFromTextItems(page.items);
             const blocks = [];
             var textItemsInBlock = [];
             const completBlock = () => {
                 if (textItemsInBlock.length > 0) { //can happen on empty page
-                    blocks.push(new PdfBlock({
+                    blocks.push(new TextItemBlock({
                         textItems: textItemsInBlock
                     }));
                     textItemsInBlock = [];
                 }
             };
             var lastItem;
-            page.textItems.forEach(item => {
+            page.items.forEach(item => {
 
                 if (lastItem) {
                     if (shouldSplit(lastItem, item, minX, mostUsedDistance)) {
@@ -39,16 +39,16 @@ export default class DetectPdfBlocks extends ToPdfBlockViewTransformation {
             completBlock();
 
             createdBlocks += blocks.length;
-            return new PdfBlockPage({
+            return new Page({
                 ...page,
-                blocks: blocks
+                items: blocks
             });
 
         });
 
         return new ParseResult({
             ...parseResult,
-            content: newContent,
+            pages: newPages,
             messages: ['Splitted into ' + createdBlocks + ' blocks']
         });
     }

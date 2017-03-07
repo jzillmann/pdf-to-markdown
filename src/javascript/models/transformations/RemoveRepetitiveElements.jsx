@@ -1,4 +1,4 @@
-import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
+import ToTextItemTransformation from './ToTextItemTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 
@@ -20,7 +20,7 @@ function hashCodeIgnoringSpacesAndNumbers(string) {
 
 
 // Remove elements with similar content on same page positions, like page numbers, licenes information, etc...
-export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
+export default class RemoveRepetitiveElements extends ToTextItemTransformation {
 
     constructor() {
         super("Remove Repetitive Elements");
@@ -36,8 +36,8 @@ export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
         const pageStore = [];
         const minLineHashRepetitions = {};
         const maxLineHashRepetitions = {};
-        parseResult.content.forEach(pdfPage => {
-            const minMaxItems = pdfPage.textItems.reduce((itemStore, item) => {
+        parseResult.pages.forEach(page => {
+            const minMaxItems = page.items.reduce((itemStore, item) => {
                 if (item.y < itemStore.minY) {
                     itemStore.minElements = [item];
                     itemStore.minY = item.y;
@@ -73,14 +73,14 @@ export default class RemoveRepetitiveElements extends ToPdfViewTransformation {
         // now annoate all removed items
         var removedHeader = 0;
         var removedFooter = 0;
-        parseResult.content.forEach((pdfPage, i) => {
-            if (minLineHashRepetitions[pageStore[i].minLineHash] >= Math.max(3, parseResult.content.length * 2 / 3)) {
+        parseResult.pages.forEach((page, i) => {
+            if (minLineHashRepetitions[pageStore[i].minLineHash] >= Math.max(3, parseResult.pages.length * 2 / 3)) {
                 pageStore[i].minElements.forEach(item => {
                     item.annotation = REMOVED_ANNOTATION;
                 });
                 removedFooter++;
             }
-            if (maxLineHashRepetitions[pageStore[i].maxLineHash] >= Math.max(3, parseResult.content.length * 2 / 3)) {
+            if (maxLineHashRepetitions[pageStore[i].maxLineHash] >= Math.max(3, parseResult.pages.length * 2 / 3)) {
                 pageStore[i].maxElements.forEach(item => {
                     item.annotation = REMOVED_ANNOTATION;
                 });

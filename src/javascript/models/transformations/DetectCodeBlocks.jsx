@@ -1,13 +1,13 @@
-import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
+import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
-import PdfBlock from '../PdfBlock.jsx';
+import TextItemBlock from '../TextItemBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
 import { CODE_BLOCK } from '../MarkdownElements.jsx';
 import { minXFromBlocks } from '../../textItemFunctions.jsx';
 
 //Detect quotes, code etc.. which is transformed to markdown code syntax
-export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
+export default class DetectCodeBlocks extends ToTextItemBlockTransformation {
 
     constructor() {
         super("Detect Code/Quotes");
@@ -21,8 +21,8 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
             mostUsedDistance: mostUsedDistance
         });
 
-        parseResult.content.forEach(page => {
-            var minX = minXFromBlocks(page.blocks);
+        parseResult.pages.forEach(page => {
+            var minX = minXFromBlocks(page.items);
             if (minX) {
                 const itemAreSuitable = (items) => {
                     for ( let item of items ) {
@@ -37,7 +37,7 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
                 };
                 const newBlocks = [];
                 var preceedingCodeBlock;
-                page.blocks.forEach(block => {
+                page.items.forEach(block => {
                     if (block.type) {
                         newBlocks.push(block);
                         preceedingCodeBlock = null;
@@ -54,7 +54,7 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
                                 preceedingCodeBlock.textItems = preceedingCodeBlock.textItems.concat(combineResult.textItems);
                                 preceedingCodeBlock.parsedElements.add(combineResult.parsedElements);
                             } else {
-                                preceedingCodeBlock = new PdfBlock({
+                                preceedingCodeBlock = new TextItemBlock({
                                     type: CODE_BLOCK,
                                     annotation: ADDED_ANNOTATION,
                                     textItems: combineResult.textItems,
@@ -69,7 +69,7 @@ export default class DetectCodeBlocks extends ToPdfBlockViewTransformation {
                         }
                     }
                 });
-                page.blocks = newBlocks;
+                page.items = newBlocks;
             }
         });
 

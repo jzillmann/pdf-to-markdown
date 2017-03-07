@@ -1,23 +1,17 @@
 import React from 'react';
+import PageView from './PageView.jsx';
 import Remarkable from 'remarkable';
 
-export default class MarkdownPageView extends React.Component {
+export default class MarkdownPageView extends PageView {
 
-    static propTypes = {
-        page: React.PropTypes.object.isRequired,
-    };
-
-    render() {
+    createItemViews(items, showWhitespaces) { // eslint-disable-line no-unused-vars
         const remarkable = new Remarkable({
             breaks: true
         });
-
-        const html = remarkable.render(this.props.page.text);
-        return (
-            <div>
-              <div dangerouslySetInnerHTML={ { __html: html } } />
-            </div>
-            );
+        const html = remarkable.render(items[0]);
+        return <div>
+                 <div dangerouslySetInnerHTML={ { __html: html } } />
+               </div>
     }
 
 }

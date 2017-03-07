@@ -1,4 +1,4 @@
-import PdfBlock from './BlockPage.jsx';
+import TextItemBlock from './TextItemBlock.jsx';
 import TextItemCombiner from './TextItemCombiner.jsx';
 import TextItem from './TextItem.jsx';
 
@@ -31,7 +31,7 @@ export function headlineByLevel(level) {
     throw "Unsupported headline level: " + level;
 }
 
-export function blockToText(block: PdfBlock) {
+export function blockToText(block: TextItemBlock) {
     switch (block.type) {
     case CODE_BLOCK:
         return '```\n' + concatTextItems(block.textItems) + '```'

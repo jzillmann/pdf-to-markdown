@@ -1,7 +1,7 @@
-import PdfBlock from './models/PdfBlock.jsx';
+import TextItemBlock from './models/TextItemBlock.jsx';
 import TextItem from './models/TextItem.jsx';
 
-export function minXFromBlocks(blocks:PdfBlock[]) {
+export function minXFromBlocks(blocks:TextItemBlock[]) {
     var minX = 999;
     blocks.forEach(block => {
         block.textItems.forEach(item => {

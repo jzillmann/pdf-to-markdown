@@ -1,7 +1,7 @@
-import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
+import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import TextItem from '../TextItem.jsx';
-import PdfBlock from '../PdfBlock.jsx';
+import TextItemBlock from '../TextItemBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import HeadlineFinder from '../HeadlineFinder.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
@@ -9,16 +9,16 @@ import { TOC_BLOCK, HEADLINE2, headlineByLevel } from '../MarkdownElements.jsx';
 import { isDigit } from '../../functions.jsx'
 
 //Detect table of contents pages
-export default class DetectTOC extends ToPdfBlockViewTransformation {
+export default class DetectTOC extends ToTextItemBlockTransformation {
 
     constructor() {
-        super("Detect Table of Contents");
+        super("Detect TOC");
     }
 
     transform(parseResult:ParseResult) {
         const {mostUsedDistance} = parseResult.globals;
         const tocPages = [];
-        const maxPagesToEvaluate = Math.min(20, parseResult.content.length);
+        const maxPagesToEvaluate = Math.min(20, parseResult.pages.length);
         const textCombiner = new TextItemCombiner({
             mostUsedDistance: mostUsedDistance
         });
@@ -26,14 +26,14 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
         const linkLeveler = new LinkLeveler();
         var tocLinks = [];
         var lastTocPage;
-        parseResult.content.slice(0, maxPagesToEvaluate).forEach(page => {
+        parseResult.pages.slice(0, maxPagesToEvaluate).forEach(page => {
             var linesCount = 0;
             var linesWithDigitsCount = 0;
             var lineItemsWithDigits = [];
             const unknownBlocks = new Set();
             var headlineBlock;
             const pageTocLinks = [];
-            page.blocks.forEach(block => {
+            page.items.forEach(block => {
                 var blockHasLinesWithDigits = false;
                 const itemsGroupedByY = textCombiner.combine(block.textItems).textItems;
                 var lastLineTextWithoutNumber;
@@ -87,20 +87,20 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
                 tocLinks = tocLinks.concat(pageTocLinks);
 
                 const newBlocks = [];
-                page.blocks.forEach((block) => {
+                page.items.forEach((block) => {
                     if (!unknownBlocks.has(block)) {
                         block.annotation = REMOVED_ANNOTATION;
                     }
                     newBlocks.push(block);
                     if (block === headlineBlock) {
-                        newBlocks.push(new PdfBlock({
+                        newBlocks.push(new TextItemBlock({
                             textItems: textCombiner.combine(block.textItems).textItems,
                             type: HEADLINE2,
                             annotation: ADDED_ANNOTATION
                         }));
                     }
                 });
-                page.blocks = newBlocks;
+                page.items = newBlocks;
             }
         });
 
@@ -109,12 +109,12 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
         const notFoundHeadlines = [];
         if (tocPages.length > 0) {
             tocLinks.forEach(tocLink => {
-                var linkedPage = parseResult.content[tocLink.pageNumber - 1];
+                var linkedPage = parseResult.pages[tocLink.pageNumber - 1];
                 var foundHeadline = false;
                 if (linkedPage) {
                     foundHeadline = findHeadline(linkedPage, tocLink, textCombiner);
                     if (!foundHeadline) { // pages are off by 1 ?
-                        linkedPage = parseResult.content[tocLink.pageNumber];
+                        linkedPage = parseResult.pages[tocLink.pageNumber];
                         if (linkedPage) {
                             foundHeadline = findHeadline(linkedPage, tocLink, textCombiner);
                         }
@@ -126,7 +126,7 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
                     notFoundHeadlines.push(tocLink);
                 }
             });
-            lastTocPage.blocks.push(new PdfBlock({
+            lastTocPage.items.push(new TextItemBlock({
                 textItems: tocLinks.map(tocLink => {
                     tocLink.textItem.text = ' '.repeat(tocLink.level * 3) + '- ' + tocLink.textItem.text;
                     return tocLink.textItem
@@ -164,7 +164,7 @@ function findHeadline(page, tocLink, textCombiner) {
     });
     var blockIndex = 0;
     var lastBlock;
-    for ( var block of page.blocks ) {
+    for ( var block of page.items ) {
         const itemsGroupedByY = textCombiner.combine(block.textItems).textItems;
         for ( var item of itemsGroupedByY ) {
             const headlineItems = headlineFinder.consume(item);
@@ -175,7 +175,7 @@ function findHeadline(page, tocLink, textCombiner) {
                     // 2 line headline
                     lastBlock.annotation = REMOVED_ANNOTATION;
                 }
-                page.blocks.splice(blockIndex + 1, 0, new PdfBlock({
+                page.items.splice(blockIndex + 1, 0, new TextItemBlock({
                     textItems: [new TextItem({
                         ...usedItems[0],
                         text: headline

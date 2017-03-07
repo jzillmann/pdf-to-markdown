@@ -1,14 +1,14 @@
-import ToPdfBlockViewTransformation from './ToPdfBlockViewTransformation.jsx';
+import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import TextItem from '../TextItem.jsx';
-import PdfBlock from '../PdfBlock.jsx';
+import TextItemBlock from '../TextItemBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
 import { PARAGRAPH, LIST_BLOCK } from '../MarkdownElements.jsx';
 import { minXFromBlocks } from '../../textItemFunctions.jsx';
 
 //Detect quotes, code etc.. which is transformed to markdown code syntax
-export default class DetectLists extends ToPdfBlockViewTransformation {
+export default class DetectLists extends ToTextItemBlockTransformation {
 
     constructor() {
         super("Detect Lists");
@@ -21,11 +21,11 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
             mostUsedDistance: mostUsedDistance
         });
 
-        parseResult.content.forEach(page => {
-            var minX = minXFromBlocks(page.blocks);
+        parseResult.pages.forEach(page => {
+            var minX = minXFromBlocks(page.items);
             if (minX) {
                 const newBlocks = [];
-                page.blocks.forEach(block => {
+                page.items.forEach(block => {
                     newBlocks.push(block);
                     if (!block.type) {
                         const combineResult = textCombiner.combine(block.textItems);
@@ -81,14 +81,14 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
                             });
 
                             if (itemsBeforeFirstLineItem.length > 0) {
-                                newBlocks.push(new PdfBlock({
+                                newBlocks.push(new TextItemBlock({
                                     textItems: itemsBeforeFirstLineItem,
                                     type: PARAGRAPH,
                                     annotation: ADDED_ANNOTATION
                                 }));
                             }
                             //TODO display with whitespace pre support
-                            newBlocks.push(new PdfBlock({
+                            newBlocks.push(new TextItemBlock({
                                 textItems: listBlockItems,
                                 type: LIST_BLOCK,
                                 annotation: ADDED_ANNOTATION,
@@ -97,7 +97,7 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
                         }
                     }
                 });
-                page.blocks = newBlocks;
+                page.items = newBlocks;
             }
         });
 

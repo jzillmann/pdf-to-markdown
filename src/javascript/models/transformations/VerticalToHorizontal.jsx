@@ -1,10 +1,10 @@
-import ToPdfViewTransformation from './ToPdfViewTransformation.jsx';
+import ToTextItemTransformation from './ToTextItemTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import TextItem from '../TextItem.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
 
 // Converts vertical text to horizontal
-export default class VerticalToHorizontal extends ToPdfViewTransformation {
+export default class VerticalToHorizontal extends ToTextItemTransformation {
 
     constructor() {
         super("Vertical to Horizontal Text");
@@ -12,7 +12,7 @@ export default class VerticalToHorizontal extends ToPdfViewTransformation {
 
     transform(parseResult:ParseResult) {
         var foundVerticals = 0;
-        const newContent = parseResult.content.map(page => {
+        const newPages = parseResult.pages.map(page => {
             const newTextItems = [];
             // var oneCharacterItems = [];
 
@@ -33,7 +33,7 @@ export default class VerticalToHorizontal extends ToPdfViewTransformation {
 
             //TODO generic state machine code ?
 
-            const leftOver = page.textItems.reduce((oneCharacterItems, item) => {
+            const leftOver = page.items.reduce((oneCharacterItems, item) => {
                 if (item.text.trim().length == 1) {
                     if (oneCharacterItems.length == 0) {
                         oneCharacterItems.push(item);
@@ -84,12 +84,12 @@ export default class VerticalToHorizontal extends ToPdfViewTransformation {
 
             return {
                 ...page,
-                textItems: newTextItems
+                items: newTextItems
             };
         });
         return new ParseResult({
             ...parseResult,
-            content: newContent,
+            pages: newPages,
             messages: ["Converted " + foundVerticals + " verticals"]
         });
     }
