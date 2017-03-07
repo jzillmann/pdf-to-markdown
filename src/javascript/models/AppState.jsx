@@ -8,6 +8,7 @@ import DetectFootnotes from './transformations/DetectFootnotes.jsx'
 import DetectTOC from './transformations/DetectTOC.jsx'
 import DetectLists from './transformations/DetectLists.jsx'
 import DetectCodeBlocks from './transformations/DetectCodeBlocks.jsx'
+import DetectHeadlines from './transformations/DetectHeadlines.jsx'
 // import DetectFormats from './transformations/DetectFormats.jsx'
 // import CombineSameY from './transformations/CombineSameY.jsx';
 // import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
@@ -35,6 +36,7 @@ export default class AppState {
             new DetectTOC(),
             new DetectLists(),
             new DetectCodeBlocks(),
+            new DetectHeadlines(),
 
             // new DetectFormats(),
             // new CombineSameY(),

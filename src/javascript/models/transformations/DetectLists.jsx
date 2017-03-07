@@ -35,9 +35,9 @@ export default class DetectLists extends ToPdfBlockViewTransformation {
 
                             var lastItemX;
                             var currentLevel = 0;
+                            var xByLevel = {};
                             var itemsBeforeFirstLineItem = [];
                             var listBlockItems = [];
-                            var xByLevel = {};
 
                             const pushLineItem = (originalItem, text, setLevel) => {
                                 if (lastItemX && setLevel) {

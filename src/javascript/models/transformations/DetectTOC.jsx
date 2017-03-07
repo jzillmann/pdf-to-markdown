@@ -3,8 +3,9 @@ import ParseResult from '../ParseResult.jsx';
 import TextItem from '../TextItem.jsx';
 import PdfBlock from '../PdfBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
+import HeadlineFinder from '../HeadlineFinder.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
-import { TOC_BLOCK, HEADLINE2 } from '../MarkdownElements.jsx';
+import { TOC_BLOCK, HEADLINE2, headlineByLevel } from '../MarkdownElements.jsx';
 import { isDigit } from '../../functions.jsx'
 
 //Detect table of contents pages
@@ -22,14 +23,16 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
             mostUsedDistance: mostUsedDistance
         });
 
-        var lastLevel = 0;
-        const itemLeveler = new ItemLeveler();
+        const linkLeveler = new LinkLeveler();
+        var tocLinks = [];
+        var lastTocPage;
         parseResult.content.slice(0, maxPagesToEvaluate).forEach(page => {
             var linesCount = 0;
             var linesWithDigitsCount = 0;
             var lineItemsWithDigits = [];
             const unknownBlocks = new Set();
             var headlineBlock;
+            const pageTocLinks = [];
             page.blocks.forEach(block => {
                 var blockHasLinesWithDigits = false;
                 const itemsGroupedByY = textCombiner.combine(block.textItems).textItems;
@@ -38,8 +41,10 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
                     linesCount++
                     var lineText = lineItem.text.replace(/\./g, '').trim();
                     var endsWithDigit = false;
+                    var digits = [];
                     while (isDigit(lineText.charCodeAt(lineText.length - 1))) {
-                        lineText = lineText.substring(0, lineText.length - 2);
+                        digits.unshift(lineText.charAt(lineText.length - 1));
+                        lineText = lineText.substring(0, lineText.length - 1);
                         endsWithDigit = true;
                     }
                     lineText = lineText.trim();
@@ -50,6 +55,13 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
                         }
                         linesWithDigitsCount++;
                         blockHasLinesWithDigits = true;
+                        pageTocLinks.push(new TocLink({
+                            pageNumber: parseInt(digits.join('')),
+                            textItem: new TextItem({
+                                ...lineItem,
+                                text: lineText
+                            })
+                        }));
                         lineItemsWithDigits.push(new TextItem({
                             ...lineItem,
                             text: lineText
@@ -67,8 +79,13 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
                 }
             });
 
+            // page has been processed
             if (linesWithDigitsCount * 100 / linesCount > 75) {
                 tocPages.push(page.index + 1);
+                lastTocPage = page;
+                linkLeveler.levelPageItems(pageTocLinks);
+                tocLinks = tocLinks.concat(pageTocLinks);
+
                 const newBlocks = [];
                 page.blocks.forEach((block) => {
                     if (!unknownBlocks.has(block)) {
@@ -83,17 +100,50 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
                         }));
                     }
                 });
-                // lastLevel = processLevels(lineItemsWithDigits, lastLevel);
-                itemLeveler.level(lineItemsWithDigits);
-                newBlocks.push(new PdfBlock({
-                    textItems: lineItemsWithDigits,
-                    type: TOC_BLOCK,
-                    annotation: ADDED_ANNOTATION
-                }));
                 page.blocks = newBlocks;
             }
         });
 
+        //all  pages have been processed
+        var foundHeadlines = tocLinks.length;
+        const notFoundHeadlines = [];
+        if (tocPages.length > 0) {
+            tocLinks.forEach(tocLink => {
+                var linkedPage = parseResult.content[tocLink.pageNumber - 1];
+                var foundHeadline = false;
+                if (linkedPage) {
+                    foundHeadline = findHeadline(linkedPage, tocLink, textCombiner);
+                    if (!foundHeadline) { // pages are off by 1 ?
+                        linkedPage = parseResult.content[tocLink.pageNumber];
+                        if (linkedPage) {
+                            foundHeadline = findHeadline(linkedPage, tocLink, textCombiner);
+                        }
+                    }
+                } else {
+                    //TODO sometimes pages are off. We could try the page range from pre to next ...
+                }
+                if (!foundHeadline) {
+                    notFoundHeadlines.push(tocLink);
+                }
+            });
+            lastTocPage.blocks.push(new PdfBlock({
+                textItems: tocLinks.map(tocLink => {
+                    tocLink.textItem.text = ' '.repeat(tocLink.level * 3) + '- ' + tocLink.textItem.text;
+                    return tocLink.textItem
+                }),
+                type: TOC_BLOCK,
+                annotation: ADDED_ANNOTATION
+            }));
+        }
+
+        const messages = [];
+        messages.push('Detected ' + tocPages.length + ' table of content pages');
+        if (foundHeadlines > 0) {
+            messages.push('Found TOC headlines: ' + (foundHeadlines - notFoundHeadlines.length) + '/' + foundHeadlines);
+        }
+        if (notFoundHeadlines.length > 0) {
+            messages.push('Missing TOC headlines: ' + notFoundHeadlines.map(tocLink => tocLink.textItem.text + '=>' + tocLink.pageNumber));
+        }
         return new ParseResult({
             ...parseResult,
             globals: {
@@ -101,27 +151,61 @@ export default class DetectTOC extends ToPdfBlockViewTransformation {
                 tocPages: tocPages
 
             },
-            messages: ['Detected ' + tocPages.length + ' table of content pages']
+            messages: messages
         });
     }
 
 }
 
+function findHeadline(page, tocLink, textCombiner) {
+    const headline = tocLink.textItem.text;
+    const headlineFinder = new HeadlineFinder({
+        headline: headline
+    });
+    var blockIndex = 0;
+    var lastBlock;
+    for ( var block of page.blocks ) {
+        const itemsGroupedByY = textCombiner.combine(block.textItems).textItems;
+        for ( var item of itemsGroupedByY ) {
+            const headlineItems = headlineFinder.consume(item);
+            if (headlineItems) {
+                const usedItems = headlineFinder.stackedTextItems;
+                block.annotation = REMOVED_ANNOTATION;
+                if (usedItems.length > itemsGroupedByY.length) {
+                    // 2 line headline
+                    lastBlock.annotation = REMOVED_ANNOTATION;
+                }
+                page.blocks.splice(blockIndex + 1, 0, new PdfBlock({
+                    textItems: [new TextItem({
+                        ...usedItems[0],
+                        text: headline
+                    })],
+                    type: headlineByLevel(tocLink.level + 2),
+                    annotation: ADDED_ANNOTATION
+                }));
+                return true;
+            }
+        }
+        blockIndex++;
+        lastBlock = block;
+    }
+    return false;
+}
 
-class ItemLeveler {
+
+class LinkLeveler {
     constructor() {
         this.levelByMethod = null;
         this.uniqueFonts = [];
-        this.headlines = [];
     }
 
-    level(lineItemsWithDigits) {
+    levelPageItems(tocLinks:TocLink[]) {
         if (!this.levelByMethod) {
-            const uniqueX = this.calculateUniqueX(lineItemsWithDigits);
+            const uniqueX = this.calculateUniqueX(tocLinks);
             if (uniqueX.length > 1) {
                 this.levelByMethod = this.levelByXDiff;
             } else {
-                const uniqueFonts = this.calculateUniqueFonts(lineItemsWithDigits);
+                const uniqueFonts = this.calculateUniqueFonts(tocLinks);
                 if (uniqueFonts.length > 1) {
                     this.uniqueFonts = uniqueFonts;
                     this.levelByMethod = this.levelByFont;
@@ -130,46 +214,31 @@ class ItemLeveler {
                 }
             }
         }
-        this.levelByMethod(lineItemsWithDigits);
+        this.levelByMethod(tocLinks);
     }
 
-    levelByXDiff(lineItemsWithDigits) {
-        const uniqueX = this.calculateUniqueX(lineItemsWithDigits);
-        lineItemsWithDigits.forEach(item => {
-            const level = uniqueX.indexOf(item.x);
-            this.headlines.push(new Headline({
-                level: level,
-                text: item.text
-            }));
-            item.text = ' '.repeat(level * 3) + '- ' + item.text;
+    levelByXDiff(tocLinks) {
+        const uniqueX = this.calculateUniqueX(tocLinks);
+        tocLinks.forEach(link => {
+            link.level = uniqueX.indexOf(link.textItem.x);
         });
     }
 
-    levelByFont(lineItemsWithDigits) {
-        lineItemsWithDigits.forEach(item => {
-            const level = this.uniqueFonts.indexOf(item.font);
-            this.headlines.push(new Headline({
-                level: level,
-                text: item.text
-            }));
-            item.text = ' '.repeat(level * 3) + '- ' + item.text;
+    levelByFont(tocLinks) {
+        tocLinks.forEach(link => {
+            link.level = this.uniqueFonts.indexOf(link.textItem.font);
         });
     }
 
-    levelToZero(lineItemsWithDigits) {
-        lineItemsWithDigits.forEach(item => {
-            const level = 0;
-            this.headlines.push(new Headline({
-                level: level,
-                text: item.text
-            }));
-            item.text = ' '.repeat(level * 3) + '- ' + item.text;
+    levelToZero(tocLinks) {
+        tocLinks.forEach(link => {
+            link.level = 0;
         });
     }
 
-    calculateUniqueX(lineItemsWithDigits) {
-        var uniqueX = lineItemsWithDigits.reduce(function(uniquesArray, lineItem) {
-            if (uniquesArray.indexOf(lineItem.x) < 0) uniquesArray.push(lineItem.x);
+    calculateUniqueX(tocLinks) {
+        var uniqueX = tocLinks.reduce(function(uniquesArray, link) {
+            if (uniquesArray.indexOf(link.textItem.x) < 0) uniquesArray.push(link.textItem.x);
             return uniquesArray;
         }, []);
 
@@ -180,9 +249,9 @@ class ItemLeveler {
         return uniqueX;
     }
 
-    calculateUniqueFonts(lineItemsWithDigits) {
-        var uniqueFont = lineItemsWithDigits.reduce(function(uniquesArray, lineItem) {
-            if (uniquesArray.indexOf(lineItem.font) < 0) uniquesArray.push(lineItem.font);
+    calculateUniqueFonts(tocLinks) {
+        var uniqueFont = tocLinks.reduce(function(uniquesArray, link) {
+            if (uniquesArray.indexOf(link.textItem.font) < 0) uniquesArray.push(link.textItem.font);
             return uniquesArray;
         }, []);
 
@@ -191,9 +260,10 @@ class ItemLeveler {
 
 }
 
-class Headline {
+class TocLink {
     constructor(options) {
-        this.level = options.level;
-        this.text = options.text;
+        this.textItem = options.textItem;
+        this.pageNumber = options.pageNumber;
+        this.level = 0;
     }
 }

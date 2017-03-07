@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { hasUpperCaseCharacterInMiddleOfWord } from '../src/javascript/functions.jsx'
+import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, charCodeArray } from '../src/javascript/functions.jsx'
 
 describe('hasUpperCaseCharacterInMiddleOfWord', () => {
 
@@ -36,4 +36,43 @@ describe('hasUpperCaseCharacterInMiddleOfWord', () => {
         expect(hasUpperCaseCharacterInMiddleOfWord("High 5 or tWo down")).to.equal(true);
         expect(hasUpperCaseCharacterInMiddleOfWord("High 5'Sec")).to.equal(true);
     });
+});
+
+describe('charCodeArray', () => {
+    it('Charcodes', () => {
+        expect(charCodeArray(".")).to.have.lengthOf(1).to.contain(46);
+    });
+
+    it('Convert Back', () => {
+        expect(String.fromCharCode.apply(null, charCodeArray("word"))).to.equal("word");
+        expect(String.fromCharCode.apply(null, charCodeArray("WORD"))).to.equal("WORD");
+        expect(String.fromCharCode.apply(null, charCodeArray("a word"))).to.equal("a word");
+    });
+
+});
+
+describe('normalizedCharCodeArray', () => {
+
+    it('No Change', () => {
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("WORD"))).to.equal("WORD");
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("WORD23"))).to.equal("WORD23");
+    });
+
+    it('lowecaseToUpperCase', () => {
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("word"))).to.equal("WORD");
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("WoRd"))).to.equal("WORD");
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("word23"))).to.equal("WORD23");
+    });
+
+    it('RemoveWhiteSpace', () => {
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("A WORD"))).to.equal("AWORD");
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("SOME LITTLE SENTENCE."))).to.equal("SOMELITTLESENTENCE");
+    });
+
+    it('All', () => {
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("a word"))).to.equal("AWORD");
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("WoRd 4 u"))).to.equal("WORD4U");
+        expect(String.fromCharCode.apply(null, normalizedCharCodeArray("Some little sentence."))).to.equal("SOMELITTLESENTENCE");
+    });
+
 });
