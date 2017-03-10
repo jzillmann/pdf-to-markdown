@@ -3,7 +3,7 @@ import ParseResult from '../ParseResult.jsx';
 import TextItemBlock from '../TextItemBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
-import { CODE_BLOCK } from '../MarkdownElements.jsx';
+import ElementType from '../ElementType.jsx';
 import { minXFromBlocks } from '../../textItemFunctions.jsx';
 
 //Detect quotes, code etc.. which is transformed to markdown code syntax
@@ -55,7 +55,7 @@ export default class DetectCodeBlocks extends ToTextItemBlockTransformation {
                                 preceedingCodeBlock.parsedElements.add(combineResult.parsedElements);
                             } else {
                                 preceedingCodeBlock = new TextItemBlock({
-                                    type: CODE_BLOCK,
+                                    type: ElementType.CODE,
                                     annotation: ADDED_ANNOTATION,
                                     textItems: combineResult.textItems,
                                     parsedElements: combineResult.parsedElements

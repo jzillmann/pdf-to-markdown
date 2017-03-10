@@ -60,7 +60,6 @@ function shouldFlushBlock(stashedBlock, item, minX, mostUsedDistance) {
     if (item.type) {
         return !item.type.mergeToBlock;
     } else {
-        console.debug(item);
         const lastItem = stashedBlock.textItems[stashedBlock.textItems.length - 1];
         return shouldSplit(lastItem, item, minX, mostUsedDistance);
     }

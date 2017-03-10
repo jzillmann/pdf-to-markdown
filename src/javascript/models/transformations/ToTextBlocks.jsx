@@ -2,7 +2,7 @@ import React from 'react';
 import Transformation from './Transformation.jsx';
 import TextPageView from '../../components/debug/TextPageView.jsx';
 import ParseResult from '../ParseResult.jsx';
-import { blockToText } from '../MarkdownElements.jsx';
+import { blockToText } from '../ElementType.jsx';
 
 export default class ToTextBlocks extends Transformation {
 
@@ -18,7 +18,8 @@ export default class ToTextBlocks extends Transformation {
         parseResult.pages.forEach(page => {
             const textItems = [];
             page.items.forEach(block => {
-                const category = block.type ? block.type : 'Unknown';
+                //TODO category to type (before have no unknowns, have paragraph)
+                const category = block.type ? block.type.name : 'Unknown';
                 textItems.push({
                     category: category,
                     text: blockToText(block)

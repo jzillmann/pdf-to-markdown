@@ -3,7 +3,8 @@ import ParseResult from '../ParseResult.jsx';
 import TextItemBlock from '../TextItemBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
-import { HEADLINE1, HEADLINE2, headlineByLevel } from '../MarkdownElements.jsx';
+import ElementType from '../ElementType.jsx';
+import { headlineByLevel } from '../ElementType.jsx';
 
 //Detect headlines
 export default class DetectHeadlines extends ToTextItemBlockTransformation {
@@ -157,9 +158,9 @@ function convertMaxHeaders(pages, maxHeight, mostUsedHeight, textCombiner) {
                 block.annotation = REMOVED_ANNOTATION;
                 const combineResult = textCombiner.combine(block.textItems);
                 if (height == maxHeight) {
-                    addNewBlock(newBlocks, combineResult, HEADLINE1);
+                    addNewBlock(newBlocks, combineResult, ElementType.H1);
                 } else if (combineResult.textItems.length == 1) {
-                    addNewBlock(newBlocks, combineResult, HEADLINE2);
+                    addNewBlock(newBlocks, combineResult, ElementType.H2);
                 }
             }
         });

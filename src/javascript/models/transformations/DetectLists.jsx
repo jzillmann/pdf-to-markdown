@@ -4,7 +4,7 @@ import TextItem from '../TextItem.jsx';
 import TextItemBlock from '../TextItemBlock.jsx';
 import TextItemCombiner from '../TextItemCombiner.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
-import { PARAGRAPH, LIST_BLOCK } from '../MarkdownElements.jsx';
+import ElementType from '../ElementType.jsx';
 import { minXFromBlocks } from '../../textItemFunctions.jsx';
 
 //Detect quotes, code etc.. which is transformed to markdown code syntax
@@ -83,14 +83,14 @@ export default class DetectLists extends ToTextItemBlockTransformation {
                             if (itemsBeforeFirstLineItem.length > 0) {
                                 newBlocks.push(new TextItemBlock({
                                     textItems: itemsBeforeFirstLineItem,
-                                    type: PARAGRAPH,
+                                    type: ElementType.PARAGRAPH,
                                     annotation: ADDED_ANNOTATION
                                 }));
                             }
                             //TODO display with whitespace pre support
                             newBlocks.push(new TextItemBlock({
                                 textItems: listBlockItems,
-                                type: LIST_BLOCK,
+                                type: ElementType.LIST,
                                 annotation: ADDED_ANNOTATION,
                                 parsedElements: combineResult.parsedElements
                             }));
