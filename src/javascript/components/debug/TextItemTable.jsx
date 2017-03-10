@@ -49,6 +49,9 @@ export default class TextItemTable extends React.Component {
                                                                 <div style={ { textAlign: 'center' } }>
                                                                   { textItem.annotation ? textItem.annotation.category : '' }
                                                                 </div>
+                                                                <div style={ { textAlign: 'center', color: 'brown' } }>
+                                                                  { textItem.type ? textItem.type : '' }
+                                                                </div>
                                                                 <div style={ { textAlign: 'center', color: 'orange' } }>
                                                                   { textItem.parsedElements && textItem.parsedElements.footnoteLinks.length > 0 ? 'Footnote-Link' : '' }
                                                                   { textItem.parsedElements && textItem.parsedElements.footnotes.length > 0 ? 'Footnote' : '' }

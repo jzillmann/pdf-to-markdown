@@ -1,106 +1,97 @@
-import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
+import ToTextItemTransformation from './ToTextItemTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import TextItem from '../TextItem.jsx';
-import TextItemBlock from '../TextItemBlock.jsx';
-import TextItemCombiner from '../TextItemCombiner.jsx';
 import HeadlineFinder from '../HeadlineFinder.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
 import { TOC_BLOCK, HEADLINE2, headlineByLevel } from '../MarkdownElements.jsx';
 import { isDigit } from '../../functions.jsx'
 
 //Detect table of contents pages
-export default class DetectTOC extends ToTextItemBlockTransformation {
+export default class DetectTOC extends ToTextItemTransformation {
 
     constructor() {
         super("Detect TOC");
     }
 
     transform(parseResult:ParseResult) {
-        const {mostUsedDistance} = parseResult.globals;
         const tocPages = [];
         const maxPagesToEvaluate = Math.min(20, parseResult.pages.length);
-        const textCombiner = new TextItemCombiner({
-            mostUsedDistance: mostUsedDistance
-        });
 
         const linkLeveler = new LinkLeveler();
         var tocLinks = [];
         var lastTocPage;
+        var headlineItem;
         parseResult.pages.slice(0, maxPagesToEvaluate).forEach(page => {
-            var linesCount = 0;
-            var linesWithDigitsCount = 0;
-            var lineItemsWithDigits = [];
-            const unknownBlocks = new Set();
-            var headlineBlock;
+            const lineItemsWithDigits = [];
+            const unknownLines = new Set();
             const pageTocLinks = [];
-            page.items.forEach(block => {
-                var blockHasLinesWithDigits = false;
-                const itemsGroupedByY = textCombiner.combine(block.textItems).textItems;
-                var lastLineTextWithoutNumber;
-                itemsGroupedByY.forEach(lineItem => {
-                    linesCount++
-                    var lineText = lineItem.text.replace(/\./g, '').trim();
-                    var endsWithDigit = false;
-                    var digits = [];
-                    while (isDigit(lineText.charCodeAt(lineText.length - 1))) {
-                        digits.unshift(lineText.charAt(lineText.length - 1));
-                        lineText = lineText.substring(0, lineText.length - 1);
-                        endsWithDigit = true;
+            var lastLineTextWithoutNumber;
+            var lastLine;
+            page.items.forEach(line => {
+                var lineText = line.text.replace(/\./g, '').trim();
+                var endsWithDigit = false;
+                var digits = [];
+                while (isDigit(lineText.charCodeAt(lineText.length - 1))) {
+                    digits.unshift(lineText.charAt(lineText.length - 1));
+                    lineText = lineText.substring(0, lineText.length - 1);
+                    endsWithDigit = true;
+                }
+                lineText = lineText.trim();
+                if (endsWithDigit) {
+                    endsWithDigit = true;
+                    if (lastLineTextWithoutNumber) { // 2-line item ?
+                        lineText = lastLineTextWithoutNumber + ' ' + lineText;
+                        lastLineTextWithoutNumber = null;
                     }
-                    lineText = lineText.trim();
-                    if (endsWithDigit) {
-                        if (lastLineTextWithoutNumber) { // 2-line item ?
-                            lineText = lastLineTextWithoutNumber + ' ' + lineText;
-                            lastLineTextWithoutNumber = null;
-                        }
-                        linesWithDigitsCount++;
-                        blockHasLinesWithDigits = true;
-                        pageTocLinks.push(new TocLink({
-                            pageNumber: parseInt(digits.join('')),
-                            textItem: new TextItem({
-                                ...lineItem,
-                                text: lineText
-                            })
-                        }));
-                        lineItemsWithDigits.push(new TextItem({
-                            ...lineItem,
+                    pageTocLinks.push(new TocLink({
+                        pageNumber: parseInt(digits.join('')),
+                        textItem: new TextItem({
+                            ...line,
                             text: lineText
-                        }));
+                        })
+                    }));
+                    lineItemsWithDigits.push(new TextItem({
+                        ...line,
+                        text: lineText
+                    }));
+                    lastLineTextWithoutNumber = null;
+                } else {
+                    if (!headlineItem) {
+                        headlineItem = line;
                     } else {
+                        if (lastLineTextWithoutNumber) {
+                            unknownLines.add(lastLine);
+                        }
                         lastLineTextWithoutNumber = lineText;
-                    }
-                });
-                if (!blockHasLinesWithDigits) {
-                    if (!headlineBlock) {
-                        headlineBlock = block;
-                    } else {
-                        unknownBlocks.add(block);
+                        lastLine = line;
                     }
                 }
             });
 
             // page has been processed
-            if (linesWithDigitsCount * 100 / linesCount > 75) {
+            if (lineItemsWithDigits.length * 100 / page.items.length > 75) {
                 tocPages.push(page.index + 1);
                 lastTocPage = page;
                 linkLeveler.levelPageItems(pageTocLinks);
                 tocLinks = tocLinks.concat(pageTocLinks);
 
                 const newBlocks = [];
-                page.items.forEach((block) => {
-                    if (!unknownBlocks.has(block)) {
-                        block.annotation = REMOVED_ANNOTATION;
+                page.items.forEach((line) => {
+                    if (!unknownLines.has(line)) {
+                        line.annotation = REMOVED_ANNOTATION;
                     }
-                    newBlocks.push(block);
-                    if (block === headlineBlock) {
-                        newBlocks.push(new TextItemBlock({
-                            textItems: textCombiner.combine(block.textItems).textItems,
+                    newBlocks.push(line);
+                    if (line === headlineItem) {
+                        newBlocks.push(new TextItem({
+                            ...line,
                             type: HEADLINE2,
                             annotation: ADDED_ANNOTATION
                         }));
                     }
                 });
                 page.items = newBlocks;
+            } else {
+                headlineItem = null;
             }
         });
 
@@ -112,11 +103,11 @@ export default class DetectTOC extends ToTextItemBlockTransformation {
                 var linkedPage = parseResult.pages[tocLink.pageNumber - 1];
                 var foundHeadline = false;
                 if (linkedPage) {
-                    foundHeadline = findHeadline(linkedPage, tocLink, textCombiner);
+                    foundHeadline = findHeadline(linkedPage, tocLink);
                     if (!foundHeadline) { // pages are off by 1 ?
                         linkedPage = parseResult.pages[tocLink.pageNumber];
                         if (linkedPage) {
-                            foundHeadline = findHeadline(linkedPage, tocLink, textCombiner);
+                            foundHeadline = findHeadline(linkedPage, tocLink);
                         }
                     }
                 } else {
@@ -126,14 +117,13 @@ export default class DetectTOC extends ToTextItemBlockTransformation {
                     notFoundHeadlines.push(tocLink);
                 }
             });
-            lastTocPage.items.push(new TextItemBlock({
-                textItems: tocLinks.map(tocLink => {
-                    tocLink.textItem.text = ' '.repeat(tocLink.level * 3) + '- ' + tocLink.textItem.text;
-                    return tocLink.textItem
-                }),
-                type: TOC_BLOCK,
-                annotation: ADDED_ANNOTATION
-            }));
+            tocLinks.forEach(tocLink => {
+                lastTocPage.items.push(new TextItem({
+                    text: ' '.repeat(tocLink.level * 3) + '- ' + tocLink.textItem.text,
+                    type: TOC_BLOCK,
+                    annotation: ADDED_ANNOTATION
+                }));
+            });
         }
 
         const messages = [];
@@ -157,37 +147,25 @@ export default class DetectTOC extends ToTextItemBlockTransformation {
 
 }
 
-function findHeadline(page, tocLink, textCombiner) {
+function findHeadline(page, tocLink) {
     const headline = tocLink.textItem.text;
     const headlineFinder = new HeadlineFinder({
         headline: headline
     });
-    var blockIndex = 0;
-    var lastBlock;
-    for ( var block of page.items ) {
-        const itemsGroupedByY = textCombiner.combine(block.textItems).textItems;
-        for ( var item of itemsGroupedByY ) {
-            const headlineItems = headlineFinder.consume(item);
-            if (headlineItems) {
-                const usedItems = headlineFinder.stackedTextItems;
-                block.annotation = REMOVED_ANNOTATION;
-                if (usedItems.length > itemsGroupedByY.length) {
-                    // 2 line headline
-                    lastBlock.annotation = REMOVED_ANNOTATION;
-                }
-                page.items.splice(blockIndex + 1, 0, new TextItemBlock({
-                    textItems: [new TextItem({
-                        ...usedItems[0],
-                        text: headline
-                    })],
-                    type: headlineByLevel(tocLink.level + 2),
-                    annotation: ADDED_ANNOTATION
-                }));
-                return true;
-            }
+    var lineIndex = 0;
+    for ( var line of page.items ) {
+        const headlineItems = headlineFinder.consume(line);
+        if (headlineItems) {
+            headlineItems.forEach(item => item.annotation = REMOVED_ANNOTATION);
+            page.items.splice(lineIndex + 1, 0, new TextItem({
+                ...headlineItems[0],
+                text: headline,
+                type: headlineByLevel(tocLink.level + 2),
+                annotation: ADDED_ANNOTATION
+            }));
+            return true;
         }
-        blockIndex++;
-        lastBlock = block;
+        lineIndex++;
     }
     return false;
 }
