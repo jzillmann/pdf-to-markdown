@@ -3,6 +3,8 @@ import { Enum } from 'enumify';
 import CalculateGlobalStats from './transformations/CalculateGlobalStats.jsx';
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import VerticalToHorizontal from './transformations/VerticalToHorizontal.jsx';
+import CompactLines from './transformations/CompactLines.jsx';
+
 import DetectPdfBlocks from './transformations/DetectPdfBlocks.jsx'
 import DetectFootnotes from './transformations/DetectFootnotes.jsx'
 import DetectTOC from './transformations/DetectTOC.jsx'
@@ -29,8 +31,10 @@ export default class AppState {
         this.pages = [];
         this.transformations = [
             new CalculateGlobalStats(),
+            new CompactLines(),
             new RemoveRepetitiveElements(),
             new VerticalToHorizontal(),
+
             new DetectPdfBlocks(),
             new DetectFootnotes(),
             new DetectTOC(),

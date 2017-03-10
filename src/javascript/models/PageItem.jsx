@@ -11,3 +11,17 @@ export default class PageItem {
     }
 
 }
+
+export class ParsedElements {
+
+    constructor(options) {
+        this.footnoteLinks = options.footnoteLinks;
+        this.footnotes = options.footnotes;
+    }
+
+    add(parsedElements:ParsedElements) {
+        this.footnoteLinks = this.footnoteLinks.concat(parsedElements.footnoteLinks);
+        this.footnotes = this.footnotes.concat(parsedElements.footnotes);
+    }
+
+}

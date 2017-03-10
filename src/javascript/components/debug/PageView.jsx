@@ -29,7 +29,7 @@ export default class PageView extends React.Component {
             const itemViews = this.createItemViews(items, showWhitespaces);
             const header = "Page " + (page.index + 1);
             content = <div>
-                        <h2>{ header }</h2>
+                        <h2 id={ header }>{ header }</h2>
                         <hr/>
                         { itemViews }
                       </div>
