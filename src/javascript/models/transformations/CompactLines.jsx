@@ -4,7 +4,9 @@ import ToTextItemTransformation from './ToTextItemTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import TextItemLineGrouper from '../TextItemLineGrouper.jsx';
 import TextItemLineCompactor from '../TextItemLineCompactor.jsx';
+import ElementType from '../ElementType.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
+
 
 // gathers text items on the same y line to one text item
 export default class CompactLines extends ToTextItemTransformation {
@@ -44,6 +46,7 @@ export default class CompactLines extends ToTextItemTransformation {
                             foundFootnoteLinks.push.apply(foundFootnoteLinks, footnoteLinks);
                         }
                         if (combinedItem.parsedElements.footnotes.length > 0) {
+                            combinedItem.type = ElementType.FOOTNOTES;
                             const footnotes = combinedItem.parsedElements.footnotes.map(footnote => <span key={ footnote }><a href={ "#Page " + (page.index + 1) }>{ footnote }</a>,</span>);
                             foundFootnotes.push.apply(foundFootnotes, footnotes);
                         }

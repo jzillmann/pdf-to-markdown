@@ -8,7 +8,7 @@ export default class TextItemBlockPageView extends PageView {
     createItemViews(items, showWhitespaces) {
         const blockTables = items.map((block, i) => {
             var textItems = block.textItems;
-            const blockType = block.type ? ' - ' + block.type : null;
+            const blockType = block.type ? ' - ' + block.type.name : null;
             const blockAnnotation = block.annotation ? <span>{ ' - ' + block.annotation.category }</span>
                 : null;
             const borderStyle = block.annotation ? {

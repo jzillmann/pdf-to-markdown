@@ -3,7 +3,8 @@ import ParseResult from '../ParseResult.jsx';
 import TextItem from '../TextItem.jsx';
 import HeadlineFinder from '../HeadlineFinder.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
-import { TOC_BLOCK, HEADLINE2, headlineByLevel } from '../MarkdownElements.jsx';
+import ElementType from '../ElementType.jsx';
+import { headlineByLevel } from '../ElementType.jsx';
 import { isDigit } from '../../functions.jsx'
 
 //Detect table of contents pages
@@ -84,7 +85,7 @@ export default class DetectTOC extends ToTextItemTransformation {
                     if (line === headlineItem) {
                         newBlocks.push(new TextItem({
                             ...line,
-                            type: HEADLINE2,
+                            type: ElementType.H2,
                             annotation: ADDED_ANNOTATION
                         }));
                     }
@@ -120,7 +121,7 @@ export default class DetectTOC extends ToTextItemTransformation {
             tocLinks.forEach(tocLink => {
                 lastTocPage.items.push(new TextItem({
                     text: ' '.repeat(tocLink.level * 3) + '- ' + tocLink.textItem.text,
-                    type: TOC_BLOCK,
+                    type: ElementType.TOC,
                     annotation: ADDED_ANNOTATION
                 }));
             });

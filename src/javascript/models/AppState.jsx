@@ -6,7 +6,7 @@ import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements
 import VerticalToHorizontal from './transformations/VerticalToHorizontal.jsx';
 import DetectTOC from './transformations/DetectTOC.jsx'
 
-import DetectPdfBlocks from './transformations/DetectPdfBlocks.jsx'
+import GatherBlocks from './transformations/GatherBlocks.jsx'
 import DetectFootnotes from './transformations/DetectFootnotes.jsx'
 import DetectLists from './transformations/DetectLists.jsx'
 import DetectCodeBlocks from './transformations/DetectCodeBlocks.jsx'
@@ -36,7 +36,7 @@ export default class AppState {
             new VerticalToHorizontal(),
             new DetectTOC(),
 
-            new DetectPdfBlocks(),
+            new GatherBlocks(),
             new DetectFootnotes(),
             new DetectLists(),
             new DetectCodeBlocks(),
