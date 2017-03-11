@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, charCodeArray } from '../src/javascript/functions.jsx'
+import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, removeLeadingWhitespaces, charCodeArray, isListItem, isNumberedListItem } from '../src/javascript/functions.jsx'
 
 describe('hasUpperCaseCharacterInMiddleOfWord', () => {
 
@@ -38,6 +38,23 @@ describe('hasUpperCaseCharacterInMiddleOfWord', () => {
     });
 });
 
+describe('removeLeadingWhitespaces', () => {
+    it('No Removes', () => {
+        expect(removeLeadingWhitespaces(".")).to.be.equal(".");
+        expect(removeLeadingWhitespaces(". ")).to.be.equal(". ");
+        expect(removeLeadingWhitespaces(". . ")).to.be.equal(". . ");
+    });
+
+    it('Removes', () => {
+        expect(removeLeadingWhitespaces(" .")).to.be.equal(".");
+        expect(removeLeadingWhitespaces("  .")).to.be.equal(".");
+        expect(removeLeadingWhitespaces("  . ")).to.be.equal(". ");
+        expect(removeLeadingWhitespaces("  . . ")).to.be.equal(". . ");
+    });
+
+});
+
+
 describe('charCodeArray', () => {
     it('Charcodes', () => {
         expect(charCodeArray(".")).to.have.lengthOf(1).to.contain(46);
@@ -73,6 +90,48 @@ describe('normalizedCharCodeArray', () => {
         expect(String.fromCharCode.apply(null, normalizedCharCodeArray("a word"))).to.equal("AWORD");
         expect(String.fromCharCode.apply(null, normalizedCharCodeArray("WoRd 4 u"))).to.equal("WORD4U");
         expect(String.fromCharCode.apply(null, normalizedCharCodeArray("Some little sentence."))).to.equal("SOMELITTLESENTENCE");
+    });
+
+});
+
+describe('isListItem', () => {
+
+    it('Match', () => {
+        expect(isListItem('- my text')).to.equal(true);
+        expect(isListItem(' - my text')).to.equal(true);
+        expect(isListItem('  - my text')).to.equal(true);
+
+        expect(isListItem('• my text')).to.equal(true);
+        expect(isListItem(' • my text')).to.equal(true);
+        expect(isListItem('  • my text')).to.equal(true);
+    });
+
+    it('No Match', () => {
+        expect(isListItem('my text')).to.equal(false);
+        expect(isListItem('-my text')).to.equal(false);
+        expect(isListItem('•my text')).to.equal(false);
+        expect(isListItem(' -my text')).to.equal(false);
+        expect(isListItem('- my text -')).to.equal(false);
+        expect(isListItem('• my text •')).to.equal(false);
+    });
+
+});
+
+describe('isNumberedListItem', () => {
+
+    it('Match', () => {
+        expect(isNumberedListItem('1. my text')).to.equal(true);
+        expect(isNumberedListItem('2. my text')).to.equal(true);
+        expect(isNumberedListItem('23. my text')).to.equal(true);
+        expect(isNumberedListItem('23.   my text')).to.equal(true);
+        expect(isNumberedListItem(' 23.   my text')).to.equal(true);
+        expect(isNumberedListItem('  23.   my text')).to.equal(true);
+    });
+
+    it('No Match', () => {
+        expect(isNumberedListItem('1two')).to.equal(false);
+        expect(isNumberedListItem('1 two')).to.equal(false);
+        expect(isNumberedListItem('1.two')).to.equal(false);
     });
 
 });

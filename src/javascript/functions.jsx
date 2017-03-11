@@ -47,3 +47,18 @@ export function charCodeArray(string) {
     }
     return charCodes;
 }
+
+export function removeLeadingWhitespaces(string) {
+    while (string.charCodeAt(0) === WHITESPACE_CHAR_CODE) {
+        string = string.substring(1, string.length);
+    }
+    return string;
+}
+
+export function isListItem(string) {
+    return /^[\s]*[-•][\s].*[^-•]$/g.test(string);
+}
+
+export function isNumberedListItem(string) {
+    return /^[\s]*[\d]*[\.][\s].*$/g.test(string);
+}

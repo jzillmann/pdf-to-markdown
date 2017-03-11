@@ -22,3 +22,13 @@ export const UNCHANGED_ANNOTATION = new Annotation({
     category: 'Unchanged',
     color: 'brown'
 })
+
+export const DETECTED_ANNOTATION = new Annotation({
+    category: 'Detected',
+    color: 'green'
+});
+
+export const MODIFIED_ANNOTATION = new Annotation({
+    category: 'Modified',
+    color: 'green'
+});

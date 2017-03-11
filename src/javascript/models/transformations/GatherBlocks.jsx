@@ -1,7 +1,7 @@
 import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import TextItemBlock from '../TextItemBlock.jsx';
-import { ADDED_ANNOTATION } from '../Annotation.jsx';
+import { DETECTED_ANNOTATION } from '../Annotation.jsx';
 import { minXFromTextItems } from '../../textItemFunctions.jsx';
 
 // Gathers lines to blocks
@@ -21,7 +21,7 @@ export default class GatherBlocks extends ToTextItemBlockTransformation {
             var stashedBlock = new TextItemBlock({});
             const flushStashedItems = () => {
                 if (stashedBlock.textItems.length > 1) {
-                    stashedBlock.annotation = ADDED_ANNOTATION;
+                    stashedBlock.annotation = DETECTED_ANNOTATION;
                 }
 
                 blocks.push(stashedBlock);
@@ -54,19 +54,23 @@ function shouldFlushBlock(stashedBlock, item, minX, mostUsedDistance) {
     if (stashedBlock.type && stashedBlock.type.mergeFollowingNonTypedItems && !item.type) {
         return false;
     }
+    const lastItem = stashedBlock.textItems[stashedBlock.textItems.length - 1];
+    const hasBigDistance = bigDistance(lastItem, item, minX, mostUsedDistance);
+    if (stashedBlock.type && stashedBlock.type.mergeFollowingNonTypedItemsWithSmallDistance && !item.type && !hasBigDistance) {
+        return false;
+    }
     if (item.type !== stashedBlock.type) {
         return true;
     }
     if (item.type) {
         return !item.type.mergeToBlock;
     } else {
-        const lastItem = stashedBlock.textItems[stashedBlock.textItems.length - 1];
-        return shouldSplit(lastItem, item, minX, mostUsedDistance);
+        return hasBigDistance;
     }
 }
 
 
-function shouldSplit(lastItem, item, minX, mostUsedDistance) {
+function bigDistance(lastItem, item, minX, mostUsedDistance) {
     const distance = lastItem.y - item.y;
     if (distance < 0 - mostUsedDistance / 2) {
         //distance is negative - and not only a bit

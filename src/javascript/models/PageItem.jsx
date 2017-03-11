@@ -19,7 +19,7 @@ export class ParsedElements {
         this.footnotes = options.footnotes;
     }
 
-    add(parsedElements:ParsedElements) {
+    add(parsedElements) {
         this.footnoteLinks = this.footnoteLinks.concat(parsedElements.footnoteLinks);
         this.footnotes = this.footnotes.concat(parsedElements.footnotes);
     }

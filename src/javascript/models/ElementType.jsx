@@ -55,6 +55,8 @@ ElementType.initEnum({
         }
     },
     LIST: {
+        mergeToBlock: true,
+        mergeFollowingNonTypedItemsWithSmallDistance: true,
         toText(block:TextItemBlock) {
             return concatTextItems(block.textItems);
         }
@@ -70,7 +72,6 @@ export function blockToText(block: TextItemBlock) {
     if (!block.type) {
         return concatTextItems(block.textItems);
     }
-    console.debug(block.type);
     return block.type.toText(block);
 }
 

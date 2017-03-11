@@ -5,9 +5,10 @@ import CompactLines from './transformations/CompactLines.jsx';
 import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
 import VerticalToHorizontal from './transformations/VerticalToHorizontal.jsx';
 import DetectTOC from './transformations/DetectTOC.jsx'
+import DetectListItems from './transformations/DetectListItems.jsx'
 
 import GatherBlocks from './transformations/GatherBlocks.jsx'
-import DetectLists from './transformations/DetectLists.jsx'
+import DetectListLevels from './transformations/DetectListLevels.jsx'
 import DetectCodeBlocks from './transformations/DetectCodeBlocks.jsx'
 import DetectHeadlines from './transformations/DetectHeadlines.jsx'
 // import DetectFormats from './transformations/DetectFormats.jsx'
@@ -34,9 +35,10 @@ export default class AppState {
             new RemoveRepetitiveElements(),
             new VerticalToHorizontal(),
             new DetectTOC(),
+            new DetectListItems(),
 
             new GatherBlocks(),
-            new DetectLists(),
+            new DetectListLevels(),
             new DetectCodeBlocks(),
             new DetectHeadlines(),
 
