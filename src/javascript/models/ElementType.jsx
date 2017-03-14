@@ -50,6 +50,7 @@ ElementType.initEnum({
         }
     },
     CODE: {
+        mergeToBlock: true,
         toText(block:TextItemBlock) {
             return '```\n' + concatTextItems(block.textItems) + '```'
         }

@@ -98,8 +98,10 @@ describe('isListItem', () => {
 
     it('Match', () => {
         expect(isListItem('- my text')).to.equal(true);
+        expect(isListItem('- my text -')).to.equal(true);
         expect(isListItem(' - my text')).to.equal(true);
         expect(isListItem('  - my text')).to.equal(true);
+        expect(isListItem(' -  my text')).to.equal(true);
 
         expect(isListItem('• my text')).to.equal(true);
         expect(isListItem(' • my text')).to.equal(true);
@@ -111,8 +113,6 @@ describe('isListItem', () => {
         expect(isListItem('-my text')).to.equal(false);
         expect(isListItem('•my text')).to.equal(false);
         expect(isListItem(' -my text')).to.equal(false);
-        expect(isListItem('- my text -')).to.equal(false);
-        expect(isListItem('• my text •')).to.equal(false);
     });
 
 });

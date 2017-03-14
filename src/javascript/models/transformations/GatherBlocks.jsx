@@ -77,7 +77,7 @@ function bigDistance(lastItem, item, minX, mostUsedDistance) {
         return true;
     }
     var allowedDisctance = mostUsedDistance + 1;
-    if (lastItem.x == item.x && item.x > minX) {
+    if (lastItem.x > minX && item.x > minX) {
         //intended elements like lists often have greater spacing
         allowedDisctance = mostUsedDistance + mostUsedDistance / 2;
     }

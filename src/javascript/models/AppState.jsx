@@ -8,16 +8,14 @@ import DetectTOC from './transformations/DetectTOC.jsx'
 import DetectListItems from './transformations/DetectListItems.jsx'
 
 import GatherBlocks from './transformations/GatherBlocks.jsx'
+import DetectCodeQuoteBlocks from './transformations/DetectCodeQuoteBlocks.jsx'
 import DetectListLevels from './transformations/DetectListLevels.jsx'
-import DetectCodeBlocks from './transformations/DetectCodeBlocks.jsx'
 import DetectHeadlines from './transformations/DetectHeadlines.jsx'
 // import DetectFormats from './transformations/DetectFormats.jsx'
-// import CombineSameY from './transformations/CombineSameY.jsx';
 // import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
 // import DetectLinks from './transformations/DetectLinks.jsx'
 // import HeadlineDetector from './transformations/HeadlineDetector.jsx'
 // import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
-// import ToBlockSystem from './transformations/ToBlockSystem.jsx';
 import ToTextBlocks from './transformations/ToTextBlocks.jsx';
 import ToMarkdown from './transformations/ToMarkdown.jsx'
 
@@ -38,17 +36,15 @@ export default class AppState {
             new DetectListItems(),
 
             new GatherBlocks(),
+            new DetectCodeQuoteBlocks(),
             new DetectListLevels(),
-            new DetectCodeBlocks(),
             new DetectHeadlines(),
 
             // new DetectFormats(),
-            // new CombineSameY(),
             // new RemoveWhitespaces(),
             // new DetectLinks(),
             // new HeadlineDetector(),
             // new HeadlineToUppercase(),
-            // new ToBlockSystem(),
             new ToTextBlocks(),
             new ToMarkdown()];
 

@@ -56,7 +56,7 @@ export function removeLeadingWhitespaces(string) {
 }
 
 export function isListItem(string) {
-    return /^[\s]*[-•][\s].*[^-•]$/g.test(string);
+    return /^[\s]*[-•][\s].*$/g.test(string);
 }
 
 export function isNumberedListItem(string) {
