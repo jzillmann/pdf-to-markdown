@@ -1,8 +1,7 @@
 import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
 import ParseResult from '../ParseResult.jsx';
 import TextItemBlock from '../TextItemBlock.jsx';
-import TextItemCombiner from '../TextItemCombiner.jsx';
-import { ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../Annotation.jsx';
+import { ADDED_ANNOTATION, DETECTED_ANNOTATION } from '../Annotation.jsx';
 import ElementType from '../ElementType.jsx';
 import { headlineByLevel } from '../ElementType.jsx';
 
@@ -17,22 +16,19 @@ export default class DetectHeadlines extends ToTextItemBlockTransformation {
         var foundHeadlines = 0;
         const {mostUsedHeight, mostUsedDistance, maxHeight, tocPages} = parseResult.globals;
 
-        const textCombiner = new TextItemCombiner({
-            mostUsedDistance: mostUsedDistance,
-        });
-
         //Set max headlines (all headers on the same page are max level 2)
-        const maxHeaderPages = convertMaxHeaders(parseResult.pages, maxHeight, mostUsedHeight, textCombiner);
+        const maxHeaderPages = convertMaxHeaders(parseResult.pages, maxHeight, mostUsedHeight);
+
 
         var headlineHeightFlowBeforeToc = [];
         var headlineHeightsOccurenceBeforeToc = {};
         var firstPageAfterToc = 0;
         if (tocPages && tocPages.length > 0) {
-            [headlineHeightFlowBeforeToc, headlineHeightsOccurenceBeforeToc] = calculateHeadlineHeigthFlow(parseResult.pages, 0, tocPages[0], textCombiner, mostUsedHeight, maxHeaderPages);
+            [headlineHeightFlowBeforeToc, headlineHeightsOccurenceBeforeToc] = calculateHeadlineHeigthFlow(parseResult.pages, 0, tocPages[0], mostUsedHeight, maxHeaderPages);
             firstPageAfterToc = tocPages[tocPages.length - 1] + 1;
         }
 
-        const [headlineHeightFlowAfterToc, headlineHeightsOccurenceAfterToc] = calculateHeadlineHeigthFlow(parseResult.pages, firstPageAfterToc, parseResult.pages.length, textCombiner, mostUsedHeight, maxHeaderPages);
+        const [headlineHeightFlowAfterToc, headlineHeightsOccurenceAfterToc] = calculateHeadlineHeigthFlow(parseResult.pages, firstPageAfterToc, parseResult.pages.length, mostUsedHeight, maxHeaderPages);
 
 
         // TODO ==> do flow analysis (remove out of flow or snap, start with 2nd)
@@ -49,15 +45,15 @@ export default class DetectHeadlines extends ToTextItemBlockTransformation {
             page.items.forEach(block => {
                 newBlocks.push(block);
                 if (!block.type && !block.annotation && block.textItems[0].height > mostUsedHeight) {
-                    const combineResult = textCombiner.combine(block.textItems);
-                    if (combineResult.textItems.length == 1) {
-                        const height = combineResult.textItems[0].height;
-                        if (height == maxHeight) {
-                            block.annotation = REMOVED_ANNOTATION;
-                            currentHeadlineLevel = 1;
-                            headlineSizePerLevel[currentHeadlineLevel] = height
-                            addNewBlock(newBlocks, combineResult, headlineByLevel(currentHeadlineLevel));
-                        }
+                    // const combineResult = textCombiner.combine(block.textItems);
+                    // if (combineResult.textItems.length == 1) {
+                    //     const height = combineResult.textItems[0].height;
+                    //     if (height == maxHeight) {
+                    //         // block.annotation = REMOVED_ANNOTATION;
+                    //         currentHeadlineLevel = 1;
+                    //         headlineSizePerLevel[currentHeadlineLevel] = height
+                    //         addNewBlock(newBlocks, combineResult, headlineByLevel(currentHeadlineLevel));
+                    //     }
                     // else if (currentHeadlineLevel) {
                     //     const currentLevelSize = headlineSizePerLevel[currentHeadlineLevel];
                     //     if (height < currentLevelSize) {
@@ -79,7 +75,7 @@ export default class DetectHeadlines extends ToTextItemBlockTransformation {
                     //         addNewBlock(newBlocks, combineResult, headlineByLevel(currentHeadlineLevel));
                     //     }
                     // }
-                    }
+                    // }
                 }
             });
             page.items = newBlocks;
@@ -127,16 +123,7 @@ export default class DetectHeadlines extends ToTextItemBlockTransformation {
 
 }
 
-function addNewBlock(newBlocks, combineResult, headlineLevel) {
-    newBlocks.push(new TextItemBlock({
-        textItems: combineResult.textItems,
-        type: headlineLevel,
-        annotation: ADDED_ANNOTATION,
-        parsedElements: combineResult.parsedElements
-    }));
-}
-
-function convertMaxHeaders(pages, maxHeight, mostUsedHeight, textCombiner) {
+function convertMaxHeaders(pages, maxHeight, mostUsedHeight) {
     // Find pages with max height
     const maxHeaderPagesSet = new Set();
     pages.forEach(page => {
@@ -150,27 +137,24 @@ function convertMaxHeaders(pages, maxHeight, mostUsedHeight, textCombiner) {
     // Now convert those pages to headlines
     const min2ndLevelHeaderHeigthOnMaxPage = mostUsedHeight + ((maxHeight - mostUsedHeight) / 4);
     maxHeaderPagesSet.forEach(pageWithMaxHeader => {
-        const newBlocks = [];
         pageWithMaxHeader.items.forEach(block => {
-            newBlocks.push(block);
-            const height = block.textItems[0].height;
-            if (!block.type && height > min2ndLevelHeaderHeigthOnMaxPage) {
-                block.annotation = REMOVED_ANNOTATION;
-                const combineResult = textCombiner.combine(block.textItems);
-                if (height == maxHeight) {
-                    addNewBlock(newBlocks, combineResult, ElementType.H1);
-                } else if (combineResult.textItems.length == 1) {
-                    addNewBlock(newBlocks, combineResult, ElementType.H2);
+            if (block.textItems.length == 1) {
+                const height = block.textItems[0].height;
+                if (!block.type && height > min2ndLevelHeaderHeigthOnMaxPage) {
+                    block.annotation = DETECTED_ANNOTATION;
+                    if (height == maxHeight) {
+                        block.type = ElementType.H1;
+                    } else {
+                        block.type = ElementType.H2;
+                    }
                 }
             }
         });
-        pageWithMaxHeader.items = newBlocks;
     });
-
     return Array.from(maxHeaderPagesSet).map(page => page.index + 1);
 }
 
-function calculateHeadlineHeigthFlow(pages, from, to, textCombiner, mostUsedHeight, maxHeaderPages) {
+function calculateHeadlineHeigthFlow(pages, from, to, mostUsedHeight, maxHeaderPages) {
     const headlineHeightFlow = [];
     const headlineHeightsOccurences = {};
     var lastHeadlineHeight;
@@ -179,9 +163,8 @@ function calculateHeadlineHeigthFlow(pages, from, to, textCombiner, mostUsedHeig
         if (!maxHeaderPages.includes(page.index + 1)) {
             page.items.forEach(block => {
                 if (!block.type && !block.annotation && block.textItems[0].height > mostUsedHeight) {
-                    const combineResult = textCombiner.combine(block.textItems);
-                    if (combineResult.textItems.length == 1) {
-                        const height = combineResult.textItems[0].height;
+                    if (block.textItems.length == 1) {
+                        const height = block.textItems[0].height;
                         headlineHeightsOccurences[height] = headlineHeightsOccurences[height] ? headlineHeightsOccurences[height] + 1 : 1 ;
                         if (!lastHeadlineHeight || height != lastHeadlineHeight) {
                             headlineHeightFlow.push(height);
