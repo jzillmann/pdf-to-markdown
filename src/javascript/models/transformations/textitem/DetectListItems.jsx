@@ -1,9 +1,9 @@
-import ToTextItemTransformation from './ToTextItemTransformation.jsx';
-import ParseResult from '../ParseResult.jsx';
-import TextItem from '../TextItem.jsx';
-import { REMOVED_ANNOTATION, ADDED_ANNOTATION, DETECTED_ANNOTATION } from '../Annotation.jsx';
-import ElementType from '../ElementType.jsx';
-import { isListItem, isNumberedListItem, removeLeadingWhitespaces } from '../../functions.jsx';
+import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
+import ParseResult from '../../ParseResult.jsx';
+import TextItem from '../../TextItem.jsx';
+import { REMOVED_ANNOTATION, ADDED_ANNOTATION, DETECTED_ANNOTATION } from '../../Annotation.jsx';
+import ElementType from '../../ElementType.jsx';
+import { isListItem, isNumberedListItem, removeLeadingWhitespaces } from '../../../functions.jsx';
 
 //Detect items starting with -, •, etc...
 export default class DetectListItems extends ToTextItemTransformation {

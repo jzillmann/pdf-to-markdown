@@ -1,11 +1,11 @@
-import ToTextItemTransformation from './ToTextItemTransformation.jsx';
-import ParseResult from '../ParseResult.jsx';
-import TextItem from '../TextItem.jsx';
-import HeadlineFinder from '../HeadlineFinder.jsx';
-import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
-import ElementType from '../ElementType.jsx';
-import { headlineByLevel } from '../ElementType.jsx';
-import { isDigit } from '../../functions.jsx'
+import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
+import ParseResult from '../../ParseResult.jsx';
+import TextItem from '../../TextItem.jsx';
+import HeadlineFinder from '../../HeadlineFinder.jsx';
+import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../../Annotation.jsx';
+import ElementType from '../../ElementType.jsx';
+import { headlineByLevel } from '../../ElementType.jsx';
+import { isDigit } from '../../../functions.jsx'
 
 //Detect table of contents pages
 export default class DetectTOC extends ToTextItemTransformation {

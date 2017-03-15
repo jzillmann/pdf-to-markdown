@@ -7,7 +7,7 @@ import { blockToText } from '../ElementType.jsx';
 export default class ToTextBlocks extends Transformation {
 
     constructor() {
-        super("To Text Blocks");
+        super("To Text Blocks", "TextBlock");
     }
 
     createPageView(page, modificationsOnly) { // eslint-disable-line no-unused-vars

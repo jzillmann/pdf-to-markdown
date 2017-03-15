@@ -1,8 +1,8 @@
-import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
-import ParseResult from '../ParseResult.jsx';
-import TextItemBlock from '../TextItemBlock.jsx';
-import { DETECTED_ANNOTATION } from '../Annotation.jsx';
-import { minXFromTextItems } from '../../textItemFunctions.jsx';
+import ToTextItemBlockTransformation from '../ToTextItemBlockTransformation.jsx';
+import ParseResult from '../../ParseResult.jsx';
+import TextItemBlock from '../../TextItemBlock.jsx';
+import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
+import { minXFromTextItems } from '../../../textItemFunctions.jsx';
 
 // Gathers lines to blocks
 export default class GatherBlocks extends ToTextItemBlockTransformation {

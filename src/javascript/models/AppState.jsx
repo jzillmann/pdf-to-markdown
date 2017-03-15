@@ -1,16 +1,17 @@
 import { Enum } from 'enumify';
 
-import CalculateGlobalStats from './transformations/CalculateGlobalStats.jsx';
-import CompactLines from './transformations/CompactLines.jsx';
-import RemoveRepetitiveElements from './transformations/RemoveRepetitiveElements.jsx'
-import VerticalToHorizontal from './transformations/VerticalToHorizontal.jsx';
-import DetectTOC from './transformations/DetectTOC.jsx'
-import DetectListItems from './transformations/DetectListItems.jsx'
+import CalculateGlobalStats from './transformations/textitem/CalculateGlobalStats.jsx';
+import CompactLines from './transformations/textitem/CompactLines.jsx';
+import RemoveRepetitiveElements from './transformations/textitem/RemoveRepetitiveElements.jsx'
+import VerticalToHorizontal from './transformations/textitem/VerticalToHorizontal.jsx';
+import DetectTOC from './transformations/textitem/DetectTOC.jsx'
+import DetectListItems from './transformations/textitem/DetectListItems.jsx'
+// import DetectHeaders from './transformations/textitem/DetectHeaders.jsx'
 
-import GatherBlocks from './transformations/GatherBlocks.jsx'
-import DetectCodeQuoteBlocks from './transformations/DetectCodeQuoteBlocks.jsx'
-import DetectListLevels from './transformations/DetectListLevels.jsx'
-import DetectHeadlines from './transformations/DetectHeadlines.jsx'
+import GatherBlocks from './transformations/textitemblock/GatherBlocks.jsx'
+import DetectCodeQuoteBlocks from './transformations/textitemblock/DetectCodeQuoteBlocks.jsx'
+import DetectListLevels from './transformations/textitemblock/DetectListLevels.jsx'
+// import DetectHeadlines from './transformations/textitemblock/DetectHeadlines.jsx'
 // import DetectFormats from './transformations/DetectFormats.jsx'
 // import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
 // import DetectLinks from './transformations/DetectLinks.jsx'
@@ -34,11 +35,12 @@ export default class AppState {
             new VerticalToHorizontal(),
             new DetectTOC(),
             new DetectListItems(),
+            new DetectHeaders(),
 
             new GatherBlocks(),
             new DetectCodeQuoteBlocks(),
             new DetectListLevels(),
-            new DetectHeadlines(),
+            // new DetectHeadlines(),
 
             // new DetectFormats(),
             // new RemoveWhitespaces(),

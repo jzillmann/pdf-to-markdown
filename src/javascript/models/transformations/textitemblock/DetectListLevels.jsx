@@ -1,7 +1,7 @@
-import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
-import ParseResult from '../ParseResult.jsx';
-import { MODIFIED_ANNOTATION, UNCHANGED_ANNOTATION } from '../Annotation.jsx';
-import ElementType from '../ElementType.jsx';
+import ToTextItemBlockTransformation from '..//ToTextItemBlockTransformation.jsx';
+import ParseResult from '../../ParseResult.jsx';
+import { MODIFIED_ANNOTATION, UNCHANGED_ANNOTATION } from '../../Annotation.jsx';
+import ElementType from '../../ElementType.jsx';
 
 // Cares for proper sub-item spacing/leveling
 export default class DetectListLevels extends ToTextItemBlockTransformation {

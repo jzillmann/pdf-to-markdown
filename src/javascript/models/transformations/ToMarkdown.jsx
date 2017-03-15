@@ -6,7 +6,7 @@ import ParseResult from '../ParseResult.jsx';
 export default class ToMarkdown extends Transformation {
 
     constructor() {
-        super("To Markdown");
+        super("To Markdown", "String");
     }
 
     createPageView(page, modificationsOnly) { // eslint-disable-line no-unused-vars

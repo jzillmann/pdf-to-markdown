@@ -3,7 +3,7 @@ import ParseResult from '../ParseResult.jsx';
 // A transformation from an PdfPage to an PdfPage
 export default class Transformation {
 
-    constructor(name) {
+    constructor(name, itemType) {
         if (this.constructor === Transformation) {
             throw new TypeError("Can not construct abstract class.");
         }
@@ -11,6 +11,7 @@ export default class Transformation {
             throw new TypeError("Please implement abstract method 'transform()'.");
         }
         this.name = name;
+        this.itemType = itemType;
     }
 
     showPageSelection() {

@@ -1,6 +1,7 @@
 import React from 'react';
 import Transformation from './Transformation.jsx';
 import ParseResult from '../ParseResult.jsx';
+import TextItemBlock from '../TextItemBlock.jsx';
 import TextItemBlockPageView from '../../components/debug/TextItemBlockPageView.jsx';
 import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 
@@ -8,7 +9,7 @@ import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 export default class ToTextItemBlockTransformation extends Transformation {
 
     constructor(name) {
-        super(name);
+        super(name, TextItemBlock.name);
         if (this.constructor === ToTextItemBlockTransformation) {
             throw new TypeError("Can not construct abstract class.");
         }

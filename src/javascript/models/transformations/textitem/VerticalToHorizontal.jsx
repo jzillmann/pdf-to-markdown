@@ -1,7 +1,7 @@
-import ToTextItemTransformation from './ToTextItemTransformation.jsx';
-import ParseResult from '../ParseResult.jsx';
-import TextItem from '../TextItem.jsx';
-import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
+import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
+import ParseResult from '../../ParseResult.jsx';
+import TextItem from '../../TextItem.jsx';
+import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../../Annotation.jsx';
 
 // Converts vertical text to horizontal
 export default class VerticalToHorizontal extends ToTextItemTransformation {

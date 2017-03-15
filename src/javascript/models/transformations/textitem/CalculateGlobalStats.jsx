@@ -1,5 +1,5 @@
-import ToTextItemTransformation from './ToTextItemTransformation.jsx';
-import ParseResult from '../ParseResult.jsx';
+import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
+import ParseResult from '../../ParseResult.jsx';
 
 export default class CalculateGlobalStats extends ToTextItemTransformation {
 

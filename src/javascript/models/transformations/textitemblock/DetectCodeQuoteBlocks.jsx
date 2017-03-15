@@ -1,8 +1,8 @@
-import ToTextItemBlockTransformation from './ToTextItemBlockTransformation.jsx';
-import ParseResult from '../ParseResult.jsx';
-import { DETECTED_ANNOTATION } from '../Annotation.jsx';
-import ElementType from '../ElementType.jsx';
-import { minXFromBlocks } from '../../textItemFunctions.jsx';
+import ToTextItemBlockTransformation from '..//ToTextItemBlockTransformation.jsx';
+import ParseResult from '../../ParseResult.jsx';
+import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
+import ElementType from '../../ElementType.jsx';
+import { minXFromBlocks } from '../../../textItemFunctions.jsx';
 
 //Detect items which are code/quote blocks
 export default class DetectCodeQuoteBlocks extends ToTextItemBlockTransformation {

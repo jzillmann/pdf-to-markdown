@@ -1,11 +1,11 @@
 import React from 'react';
 
-import ToTextItemTransformation from './ToTextItemTransformation.jsx';
-import ParseResult from '../ParseResult.jsx';
-import TextItemLineGrouper from '../TextItemLineGrouper.jsx';
-import TextItemLineCompactor from '../TextItemLineCompactor.jsx';
-import ElementType from '../ElementType.jsx';
-import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../Annotation.jsx';
+import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
+import ParseResult from '../../ParseResult.jsx';
+import TextItemLineGrouper from '../../TextItemLineGrouper.jsx';
+import TextItemLineCompactor from '../../TextItemLineCompactor.jsx';
+import ElementType from '../../ElementType.jsx';
+import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../../Annotation.jsx';
 
 
 // gathers text items on the same y line to one text item

@@ -101,6 +101,18 @@ export default class DebugView extends React.Component {
                    </li>
         });
 
+        const transformationMenuItems = [];
+        var lastItemType;
+        transformations.forEach((transformation, i) => {
+            if (lastItemType && transformation.itemType !== lastItemType) {
+                transformationMenuItems.push(<MenuItem key={ i + '-divider' } divider />);
+            }
+            transformationMenuItems.push(<MenuItem key={ i } eventKey={ i } onSelect={ this.selectTransformation.bind(this, i) }>
+                                         { transformation.name }
+                                         </MenuItem>);
+            lastItemType = transformation.itemType;
+        });
+
         return (
             <div>
               <table>
@@ -149,9 +161,7 @@ export default class DebugView extends React.Component {
                         </ButtonGroup>
                         <ButtonGroup>
                           <DropdownButton title={ currentTransformationName } id="dropdown-size-medium">
-                            { transformations.map((transformation, i) => <MenuItem key={ i } eventKey={ i } onSelect={ this.selectTransformation.bind(this, i) }>
-                                                                         { transformation.name }
-                                                                         </MenuItem>) }
+                            { transformationMenuItems }
                           </DropdownButton>
                         </ButtonGroup>
                         <ButtonGroup>
