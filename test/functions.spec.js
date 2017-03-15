@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, removeLeadingWhitespaces, charCodeArray, isListItem, isNumberedListItem } from '../src/javascript/functions.jsx'
+import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, removeLeadingWhitespaces, charCodeArray, isListItem, isNumberedListItem, wordMatch } from '../src/javascript/functions.jsx'
 
 describe('hasUpperCaseCharacterInMiddleOfWord', () => {
 
@@ -132,6 +132,23 @@ describe('isNumberedListItem', () => {
         expect(isNumberedListItem('1two')).to.equal(false);
         expect(isNumberedListItem('1 two')).to.equal(false);
         expect(isNumberedListItem('1.two')).to.equal(false);
+    });
+
+});
+
+describe('wordsMatch', () => {
+
+    it('Match', () => {
+        expect(wordMatch('text 1', 'text 1')).to.equal(1.0);
+        expect(wordMatch('text 1', 'text 2')).to.equal(0.5);
+        expect(wordMatch('text 1', 'text 1 2')).to.equal(0.6666666666666666);
+        expect(wordMatch('text 1 2 3', 'text 1 4 5')).to.equal(0.5);
+        expect(wordMatch('text 1 2 3', '5 1 4 text')).to.equal(0.5);
+        expect(wordMatch('text 1 2 3', 'text')).to.equal(0.25);
+
+        expect(wordMatch('text', 'test')).to.equal(0.0);
+
+        expect(wordMatch('inStruCtionS for the full Moon proCeSS', 'Instructions for the Full Moon Process')).to.equal(1.0);
     });
 
 });

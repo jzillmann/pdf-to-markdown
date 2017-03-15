@@ -6,7 +6,7 @@ import RemoveRepetitiveElements from './transformations/textitem/RemoveRepetitiv
 import VerticalToHorizontal from './transformations/textitem/VerticalToHorizontal.jsx';
 import DetectTOC from './transformations/textitem/DetectTOC.jsx'
 import DetectListItems from './transformations/textitem/DetectListItems.jsx'
-// import DetectHeaders from './transformations/textitem/DetectHeaders.jsx'
+import DetectHeaders from './transformations/textitem/DetectHeaders.jsx'
 
 import GatherBlocks from './transformations/textitemblock/GatherBlocks.jsx'
 import DetectCodeQuoteBlocks from './transformations/textitemblock/DetectCodeQuoteBlocks.jsx'

@@ -69,6 +69,10 @@ ElementType.initEnum({
     }
 });
 
+export function isHeadline(elementType: ElementType) {
+    return elementType && elementType.name.length == 2 && elementType.name[0] === 'H'
+}
+
 export function blockToText(block: TextItemBlock) {
     if (!block.type) {
         return concatTextItems(block.textItems);
