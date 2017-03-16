@@ -140,7 +140,7 @@ export default class DetectTOC extends ToTextItemTransformation {
                 if (lastNotFound.length > 0) {
                     lastNotFound.forEach(notFoundTocLink => {
                         const headlineType = headlineByLevel(notFoundTocLink.level + 2);
-                        const heightRange = headlineTypeToHeightRange[headlineType];
+                        const heightRange = headlineTypeToHeightRange[headlineType.name];
                         if (heightRange) {
                             const textItem = findHeadlinesBySize(parseResult.pages, notFoundTocLink, heightRange, fromPage, currentPageNumber);
                             if (textItem) {
@@ -184,8 +184,8 @@ export default class DetectTOC extends ToTextItemTransformation {
             ...parseResult,
             globals: {
                 ...parseResult.globals,
-                tocPages: tocPages
-
+                tocPages: tocPages,
+                headlineTypeToHeightRange: headlineTypeToHeightRange
             },
             messages: messages
         });
@@ -242,7 +242,7 @@ function addHeadlineItems(page, tocLink, foundItems, headlineTypeToHeightRange) 
         type: headlineType,
         annotation: ADDED_ANNOTATION
     }));
-    var range = headlineTypeToHeightRange[headlineType];
+    var range = headlineTypeToHeightRange[headlineType.name];
     if (range) {
         range.min = Math.min(range.min, headlineHeight);
         range.max = Math.max(range.max, headlineHeight);
@@ -251,7 +251,7 @@ function addHeadlineItems(page, tocLink, foundItems, headlineTypeToHeightRange) 
             min: headlineHeight,
             max: headlineHeight
         };
-        headlineTypeToHeightRange[headlineType] = range;
+        headlineTypeToHeightRange[headlineType.name] = range;
     }
 }
 

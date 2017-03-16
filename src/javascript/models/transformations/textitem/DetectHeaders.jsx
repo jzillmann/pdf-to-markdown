@@ -14,70 +14,37 @@ export default class DetectListItems extends ToTextItemTransformation {
     }
 
     transform(parseResult:ParseResult) {
-        // analyse existing headers from TOC detection
-        const headlineTypeToHeightRange = {}; //H1={min:23, max:25}
-        parseResult.pages.forEach(page => {
-            page.items.forEach(textItem => {
-                if (isHeadline(textItem.type)) {
-                    var range = headlineTypeToHeightRange[textItem.type];
-                    if (range) {
-                        range.min = Math.min(range.min, textItem.height);
-                        range.max = Math.max(range.max, textItem.height);
-                    } else {
-                        range = {
-                            min: textItem.height,
-                            max: textItem.height
-                        };
-                        headlineTypeToHeightRange[textItem.type] = range;
-                    }
+        const {tocPages, headlineTypeToHeightRange, mostUsedHeight} = parseResult.globals;
+
+        var detectedHeaders = 0;
+
+        if (tocPages.length > 0) {
+
+            //apply existing headline heights to find additional headlines
+            const headlineTypes = Object.keys(headlineTypeToHeightRange);
+            headlineTypes.forEach(headlineType => {
+                var range = headlineTypeToHeightRange[headlineType];
+                // if (range.min > mostUsedHeight && range.max - range.min <= 1) { //use only very clear headlines
+                if (range.max > mostUsedHeight) { //use only very clear headlines, only use max
+                    parseResult.pages.forEach(page => {
+                        page.items.forEach(textItem => {
+                            if (!textItem.type && textItem.height == range.max) {
+                                textItem.annotation = DETECTED_ANNOTATION;
+                                textItem.type = ElementType.enumValueOf(headlineType);
+                                detectedHeaders++
+                            }
+                        });
+                    });
                 }
+
             });
-        });
-
-        const existingHeadlineTypes = Object.keys(headlineTypeToHeightRange);
-        if (existingHeadlineTypes.length > 0) {
-
         }
-
-
-        var foundListItems = 0;
-        var foundNumberedItems = 0;
-        // parseResult.pages.forEach(page => {
-        //     const newTextItems = [];
-        //     page.items.forEach(textItem => {
-        //         newTextItems.push(textItem);
-        //         if (!textItem.type) {
-        //             var text = textItem.text;
-        //             if (isListItem(text)) {
-        //                 foundListItems++
-        //                 const textWithDash = '-' + removeLeadingWhitespaces(text).substring(1, text.length);
-        //                 if (textWithDash === text) {
-        //                     textItem.annotation = DETECTED_ANNOTATION;
-        //                     textItem.type = ElementType.LIST;
-        //                 } else {
-        //                     textItem.annotation = REMOVED_ANNOTATION;
-        //                     newTextItems.push(new TextItem({
-        //                         ...textItem,
-        //                         text: textWithDash,
-        //                         annotation: ADDED_ANNOTATION,
-        //                         type: ElementType.LIST
-        //                     }));
-        //                 }
-        //             } else if (isNumberedListItem(text)) {
-        //                 foundNumberedItems++;
-        //                 textItem.annotation = DETECTED_ANNOTATION;
-        //                 textItem.type = ElementType.LIST;
-        //             }
-        //         }
-        //     });
-        //     page.items = newTextItems;
-        // });
 
         return new ParseResult({
             ...parseResult,
             messages: [
                 'Existing headline heights: ' + JSON.stringify(headlineTypeToHeightRange),
-                'Detected ' + foundNumberedItems + ' numbered list items.'
+                'Detected ' + detectedHeaders + ' headlines.'
             ]
         });
 
