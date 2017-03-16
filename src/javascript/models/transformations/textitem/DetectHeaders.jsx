@@ -14,17 +14,16 @@ export default class DetectListItems extends ToTextItemTransformation {
     }
 
     transform(parseResult:ParseResult) {
-        const {tocPages, headlineTypeToHeightRange, mostUsedHeight} = parseResult.globals;
+        const {tocPages, headlineTypeToHeightRange, mostUsedHeight, maxHeight} = parseResult.globals;
 
         var detectedHeaders = 0;
 
         if (tocPages.length > 0) {
 
-            //apply existing headline heights to find additional headlines
+            //Use existing headline heights to find additional headlines
             const headlineTypes = Object.keys(headlineTypeToHeightRange);
             headlineTypes.forEach(headlineType => {
                 var range = headlineTypeToHeightRange[headlineType];
-                // if (range.min > mostUsedHeight && range.max - range.min <= 1) { //use only very clear headlines
                 if (range.max > mostUsedHeight) { //use only very clear headlines, only use max
                     parseResult.pages.forEach(page => {
                         page.items.forEach(textItem => {
@@ -40,6 +39,24 @@ export default class DetectListItems extends ToTextItemTransformation {
             });
         }
 
+        // Handle title pages
+        const pagesWithMaxHeight = findPagesWithMaxHeight(parseResult.pages, maxHeight);
+        const min2ndLevelHeaderHeigthOnMaxPage = mostUsedHeight + ((maxHeight - mostUsedHeight) / 4);
+        pagesWithMaxHeight.forEach(titlePage => {
+            titlePage.items.forEach(textItem => {
+                const height = textItem.height;
+                if (!textItem.type && height > min2ndLevelHeaderHeigthOnMaxPage) {
+                    if (height == maxHeight) {
+                        textItem.type = ElementType.H1;
+                    } else {
+                        textItem.type = ElementType.H2;
+                    }
+                    textItem.annotation = DETECTED_ANNOTATION;
+                    detectedHeaders++;
+                }
+            });
+        });
+
         return new ParseResult({
             ...parseResult,
             messages: [
@@ -51,3 +68,16 @@ export default class DetectListItems extends ToTextItemTransformation {
     }
 
 }
+
+function findPagesWithMaxHeight(pages, maxHeight) {
+    const maxHeaderPagesSet = new Set();
+    pages.forEach(page => {
+        page.items.forEach(textItem => {
+            if (!textItem.type && textItem.height == maxHeight) {
+                maxHeaderPagesSet.add(page);
+            }
+        });
+    });
+    return maxHeaderPagesSet;
+}
+

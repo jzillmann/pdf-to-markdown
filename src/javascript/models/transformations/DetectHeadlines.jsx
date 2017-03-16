@@ -123,6 +123,17 @@ export default class DetectHeadlines extends ToTextItemBlockTransformation {
 
 }
 
+function findPagesWithMaxHeight(pages, maxHeight) {
+    const maxHeaderPagesSet = new Set();
+    pages.forEach(page => {
+        page.items.forEach(block => {
+            if (!block.type && block.textItems[0].height == maxHeight) {
+                maxHeaderPagesSet.add(page);
+            }
+        });
+    });
+    return maxHeaderPagesSet;
+}
 function convertMaxHeaders(pages, maxHeight, mostUsedHeight) {
     // Find pages with max height
     const maxHeaderPagesSet = new Set();
