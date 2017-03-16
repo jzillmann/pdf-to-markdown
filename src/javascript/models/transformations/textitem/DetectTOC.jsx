@@ -113,21 +113,22 @@ export default class DetectTOC extends ToTextItemTransformation {
             });
 
             // Add linked headers
+            const pageMapping = detectPageMappingNumber(parseResult.pages.filter(page => page.index > lastTocPage.index), tocLinks);
             tocLinks.forEach(tocLink => {
-                var linkedPage = parseResult.pages[tocLink.pageNumber - 1];
-                var foundHeadline = false;
+                var linkedPage = parseResult.pages[tocLink.pageNumber + pageMapping];
+                var foundHealineItems;
                 if (linkedPage) {
-                    foundHeadline = findAndAddHeadline(linkedPage, tocLink, headlineTypeToHeightRange);
-                    if (!foundHeadline) { // pages are off by 1 ?
-                        linkedPage = parseResult.pages[tocLink.pageNumber];
+                    foundHealineItems = findHeadlineItems(linkedPage, tocLink.textItem.text);
+                    if (!foundHealineItems) { // pages are off by 1 ?
+                        linkedPage = parseResult.pages[tocLink.pageNumber + pageMapping + 1];
                         if (linkedPage) {
-                            foundHeadline = findAndAddHeadline(linkedPage, tocLink, headlineTypeToHeightRange);
+                            foundHealineItems = findHeadlineItems(linkedPage, tocLink.textItem.text);
                         }
                     }
-                } else {
-                    //TODO sometimes pages are off. We could try the page range from pre to next ...
                 }
-                if (!foundHeadline) {
+                if (foundHealineItems) {
+                    addHeadlineItems(linkedPage, tocLink, foundHealineItems, headlineTypeToHeightRange)
+                } else {
                     notFoundHeadlines.push(tocLink);
                 }
             });
@@ -192,8 +193,27 @@ export default class DetectTOC extends ToTextItemTransformation {
 
 }
 
-function findAndAddHeadline(page, tocLink, headlineTypeToHeightRange) {
-    const headline = tocLink.textItem.text;
+//Find out how the TOC page link actualy translates to the page.index
+function detectPageMappingNumber(pages, tocLinks) {
+    for ( var tocLink of tocLinks ) {
+        const page = findPageWithHeadline(pages, tocLink.textItem.text);
+        if (page) {
+            return page.index - tocLink.pageNumber;
+        }
+    }
+    return null;
+}
+
+function findPageWithHeadline(pages, headline) {
+    for ( var page of pages ) {
+        if (findHeadlineItems(page, headline)) {
+            return page;
+        }
+    }
+    return null;
+}
+
+function findHeadlineItems(page, headline) {
     const headlineFinder = new HeadlineFinder({
         headline: headline
     });
@@ -201,32 +221,38 @@ function findAndAddHeadline(page, tocLink, headlineTypeToHeightRange) {
     for ( var line of page.items ) {
         const headlineItems = headlineFinder.consume(line);
         if (headlineItems) {
-            headlineItems.forEach(item => item.annotation = REMOVED_ANNOTATION);
-            const headlineType = headlineByLevel(tocLink.level + 2);
-            const headlineHeight = headlineItems.reduce((max, item) => Math.max(max, item.height), 0);
-            page.items.splice(lineIndex + 1, 0, new TextItem({
-                ...headlineItems[0],
-                text: headline,
-                height: headlineHeight,
-                type: headlineType,
-                annotation: ADDED_ANNOTATION
-            }));
-            var range = headlineTypeToHeightRange[headlineType];
-            if (range) {
-                range.min = Math.min(range.min, headlineHeight);
-                range.max = Math.max(range.max, headlineHeight);
-            } else {
-                range = {
-                    min: headlineHeight,
-                    max: headlineHeight
-                };
-                headlineTypeToHeightRange[headlineType] = range;
-            }
-            return true;
+            return {
+                lineIndex: lineIndex,
+                headlineItems: headlineItems
+            };
         }
         lineIndex++;
     }
-    return false;
+    return null;
+}
+
+function addHeadlineItems(page, tocLink, foundItems, headlineTypeToHeightRange) {
+    foundItems.headlineItems.forEach(item => item.annotation = REMOVED_ANNOTATION);
+    const headlineType = headlineByLevel(tocLink.level + 2);
+    const headlineHeight = foundItems.headlineItems.reduce((max, item) => Math.max(max, item.height), 0);
+    page.items.splice(foundItems.lineIndex + 1, 0, new TextItem({
+        ...foundItems.headlineItems[0],
+        text: tocLink.textItem.text,
+        height: headlineHeight,
+        type: headlineType,
+        annotation: ADDED_ANNOTATION
+    }));
+    var range = headlineTypeToHeightRange[headlineType];
+    if (range) {
+        range.min = Math.min(range.min, headlineHeight);
+        range.max = Math.max(range.max, headlineHeight);
+    } else {
+        range = {
+            min: headlineHeight,
+            max: headlineHeight
+        };
+        headlineTypeToHeightRange[headlineType] = range;
+    }
 }
 
 function findHeadlinesBySize(pages, tocLink, heightRange, fromPage, toPage) {
