@@ -1,13 +1,11 @@
 import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
-import TextItem from '../../TextItem.jsx';
-import { REMOVED_ANNOTATION, ADDED_ANNOTATION, DETECTED_ANNOTATION } from '../../Annotation.jsx';
+import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
 import ElementType from '../../ElementType.jsx';
-import { isHeadline, headlineByLevel } from '../../ElementType.jsx';
-import { isListItem, isNumberedListItem, removeLeadingWhitespaces } from '../../../functions.jsx';
+import { headlineByLevel } from '../../ElementType.jsx';
 
 //Detect items starting with -, •, etc...
-export default class DetectListItems extends ToTextItemTransformation {
+export default class DetectHeaders extends ToTextItemTransformation {
 
     constructor() {
         super("Detect Headers");
@@ -15,29 +13,8 @@ export default class DetectListItems extends ToTextItemTransformation {
 
     transform(parseResult:ParseResult) {
         const {tocPages, headlineTypeToHeightRange, mostUsedHeight, maxHeight} = parseResult.globals;
-
+        const hasToc = tocPages.length > 0;
         var detectedHeaders = 0;
-
-        if (tocPages.length > 0) {
-
-            //Use existing headline heights to find additional headlines
-            const headlineTypes = Object.keys(headlineTypeToHeightRange);
-            headlineTypes.forEach(headlineType => {
-                var range = headlineTypeToHeightRange[headlineType];
-                if (range.max > mostUsedHeight) { //use only very clear headlines, only use max
-                    parseResult.pages.forEach(page => {
-                        page.items.forEach(textItem => {
-                            if (!textItem.type && textItem.height == range.max) {
-                                textItem.annotation = DETECTED_ANNOTATION;
-                                textItem.type = ElementType.enumValueOf(headlineType);
-                                detectedHeaders++
-                            }
-                        });
-                    });
-                }
-
-            });
-        }
 
         // Handle title pages
         const pagesWithMaxHeight = findPagesWithMaxHeight(parseResult.pages, maxHeight);
@@ -57,11 +34,58 @@ export default class DetectListItems extends ToTextItemTransformation {
             });
         });
 
+        if (hasToc) {
+            //Use existing headline heights to find additional headlines
+            const headlineTypes = Object.keys(headlineTypeToHeightRange);
+            headlineTypes.forEach(headlineType => {
+                var range = headlineTypeToHeightRange[headlineType];
+                if (range.max > mostUsedHeight) { //use only very clear headlines, only use max
+                    parseResult.pages.forEach(page => {
+                        page.items.forEach(textItem => {
+                            if (!textItem.type && textItem.height == range.max) {
+                                textItem.annotation = DETECTED_ANNOTATION;
+                                textItem.type = ElementType.enumValueOf(headlineType);
+                                detectedHeaders++
+                            }
+                        });
+                    });
+                }
+
+            });
+        } else {
+            const heights = [];
+            var lastHeight;
+            parseResult.pages.forEach(page => {
+                page.items.forEach(textItem => {
+                    if (!textItem.type && textItem.height > mostUsedHeight) {
+                        if (!heights.includes(textItem.height) && (!lastHeight || lastHeight > textItem.height)) {
+                            heights.push(textItem.height);
+                        }
+                    }
+                });
+            });
+            heights.sort((a, b) => b - a);
+
+            heights.forEach((height, i) => {
+                const headlineType = headlineByLevel(2 + i);
+                parseResult.pages.forEach(page => {
+                    page.items.forEach(textItem => {
+                        if (!textItem.type && textItem.height == height) {
+                            detectedHeaders++;
+                            textItem.annotation = DETECTED_ANNOTATION;
+                            textItem.type = headlineType;
+                        }
+                    });
+                });
+            });
+        }
+
+
+
         return new ParseResult({
             ...parseResult,
             messages: [
-                'Existing headline heights: ' + JSON.stringify(headlineTypeToHeightRange),
-                'Detected ' + detectedHeaders + ' headlines.'
+                'Detected ' + detectedHeaders + ' headlines.',
             ]
         });
 
