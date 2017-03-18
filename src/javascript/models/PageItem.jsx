@@ -15,13 +15,15 @@ export default class PageItem {
 export class ParsedElements {
 
     constructor(options) {
-        this.footnoteLinks = options.footnoteLinks;
-        this.footnotes = options.footnotes;
+        this.footnoteLinks = options.footnoteLinks || [];
+        this.footnotes = options.footnotes || [];
+        this.containLinks = options.containLinks;
     }
 
     add(parsedElements) {
         this.footnoteLinks = this.footnoteLinks.concat(parsedElements.footnoteLinks);
         this.footnotes = this.footnotes.concat(parsedElements.footnotes);
+        this.containLinks = this.containLinks || parsedElements.containLinks;
     }
 
 }

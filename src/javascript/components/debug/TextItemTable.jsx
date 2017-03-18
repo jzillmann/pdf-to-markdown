@@ -54,7 +54,7 @@ export default class TextItemTable extends React.Component {
                                                                 </div>
                                                                 <div style={ { textAlign: 'center', color: 'orange' } }>
                                                                   { textItem.parsedElements && textItem.parsedElements.footnoteLinks.length > 0 ? 'Footnote-Link' : '' }
-                                                                  { textItem.parsedElements && textItem.parsedElements.footnotes.length > 0 ? 'Footnote' : '' }
+                                                                  { textItem.parsedElements && textItem.parsedElements.containLinks ? 'Link' : '' }
                                                                 </div>
                                                               </td>
                                                               <td>

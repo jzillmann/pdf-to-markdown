@@ -12,7 +12,7 @@ import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../../Annotation.jsx';
 export default class CompactLines extends ToTextItemTransformation {
 
     constructor() {
-        super("Compact Lines");
+        super("Compact To Lines");
     }
 
     transform(parseResult:ParseResult) {
@@ -29,28 +29,30 @@ export default class CompactLines extends ToTextItemTransformation {
                 const newItems = [];
                 const textItemsGroupedByLine = lineGrouper.group(page.items);
                 textItemsGroupedByLine.forEach(textItemsOfLine => {
+                    var lineItem;
                     if (textItemsOfLine.length == 1) {
-                        newItems.push(textItemsOfLine[0]);
+                        lineItem = textItemsOfLine[0];
                     } else {
                         textItemsOfLine.forEach(item => {
                             item.annotation = REMOVED_ANNOTATION;
                             newItems.push(item);
                         });
 
-                        const combinedItem = lineCompactor.compact(textItemsOfLine);
-                        combinedItem.annotation = ADDED_ANNOTATION;
-                        newItems.push(combinedItem);
+                        lineItem = lineCompactor.compact(textItemsOfLine);
+                        lineItem.annotation = ADDED_ANNOTATION;
 
-                        if (combinedItem.parsedElements.footnoteLinks.length > 0) {
-                            const footnoteLinks = combinedItem.parsedElements.footnoteLinks.map(footnoteLink => <span key={ footnoteLink }><a href={ "#Page " + (page.index + 1) }>{ footnoteLink }</a>,</span>);
+                        if (lineItem.parsedElements.footnoteLinks.length > 0) {
+                            const footnoteLinks = lineItem.parsedElements.footnoteLinks.map(footnoteLink => <span key={ footnoteLink }><a href={ "#Page " + (page.index + 1) }>{ footnoteLink }</a>,</span>);
                             foundFootnoteLinks.push.apply(foundFootnoteLinks, footnoteLinks);
                         }
-                        if (combinedItem.parsedElements.footnotes.length > 0) {
-                            combinedItem.type = ElementType.FOOTNOTES;
-                            const footnotes = combinedItem.parsedElements.footnotes.map(footnote => <span key={ footnote }><a href={ "#Page " + (page.index + 1) }>{ footnote }</a>,</span>);
+                        if (lineItem.parsedElements.footnotes.length > 0) {
+                            lineItem.type = ElementType.FOOTNOTES;
+                            const footnotes = lineItem.parsedElements.footnotes.map(footnote => <span key={ footnote }><a href={ "#Page " + (page.index + 1) }>{ footnote }</a>,</span>);
                             foundFootnotes.push.apply(foundFootnotes, footnotes);
                         }
                     }
+                    lineItem.text = lineItem.text.trim();
+                    newItems.push(lineItem);
                 });
                 page.items = newItems;
             }

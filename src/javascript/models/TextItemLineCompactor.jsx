@@ -51,10 +51,6 @@ export default class TextItemLineCompactor {
             });
         }
         combinedItem.parsedElements = parsedElements;
-
-        //TODO whitespace removal
-        //TODO bold/emphasis
-
         return combinedItem;
     }
 
@@ -80,7 +76,7 @@ export default class TextItemLineCompactor {
                     //TODO womb comp [29] => ydiff == 0
                     newLineItems.push(new TextItem({
                         ...stashedNumberItems[0],
-                        text: `(^${ joinedNumber}):`
+                        text: `(^${ joinedNumber}): `
                     }));
                     footnotes.push(joinedNumber);
                 } else {

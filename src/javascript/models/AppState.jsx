@@ -4,6 +4,7 @@ import CalculateGlobalStats from './transformations/textitem/CalculateGlobalStat
 import CompactLines from './transformations/textitem/CompactLines.jsx';
 import RemoveRepetitiveElements from './transformations/textitem/RemoveRepetitiveElements.jsx'
 import VerticalToHorizontal from './transformations/textitem/VerticalToHorizontal.jsx';
+import PostprocessLines from './transformations/textitem/PostprocessLines.jsx';
 import DetectTOC from './transformations/textitem/DetectTOC.jsx'
 import DetectListItems from './transformations/textitem/DetectListItems.jsx'
 import DetectHeaders from './transformations/textitem/DetectHeaders.jsx'
@@ -11,11 +12,7 @@ import DetectHeaders from './transformations/textitem/DetectHeaders.jsx'
 import GatherBlocks from './transformations/textitemblock/GatherBlocks.jsx'
 import DetectCodeQuoteBlocks from './transformations/textitemblock/DetectCodeQuoteBlocks.jsx'
 import DetectListLevels from './transformations/textitemblock/DetectListLevels.jsx'
-// import DetectHeadlines from './transformations/textitemblock/DetectHeadlines.jsx'
 // import DetectFormats from './transformations/DetectFormats.jsx'
-// import RemoveWhitespaces from './transformations/RemoveWhitespaces.jsx'
-// import DetectLinks from './transformations/DetectLinks.jsx'
-// import HeadlineDetector from './transformations/HeadlineDetector.jsx'
 // import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
 import ToTextBlocks from './transformations/ToTextBlocks.jsx';
 import ToMarkdown from './transformations/ToMarkdown.jsx'
@@ -33,6 +30,7 @@ export default class AppState {
             new CompactLines(),
             new RemoveRepetitiveElements(),
             new VerticalToHorizontal(),
+            new PostprocessLines(),
             new DetectTOC(),
             new DetectListItems(),
             new DetectHeaders(),
@@ -40,12 +38,8 @@ export default class AppState {
             new GatherBlocks(),
             new DetectCodeQuoteBlocks(),
             new DetectListLevels(),
-            // new DetectHeadlines(),
 
             // new DetectFormats(),
-            // new RemoveWhitespaces(),
-            // new DetectLinks(),
-            // new HeadlineDetector(),
             // new HeadlineToUppercase(),
             new ToTextBlocks(),
             new ToMarkdown()];
