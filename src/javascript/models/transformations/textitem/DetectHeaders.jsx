@@ -12,7 +12,7 @@ export default class DetectHeaders extends ToTextItemTransformation {
     }
 
     transform(parseResult:ParseResult) {
-        const {tocPages, headlineTypeToHeightRange, mostUsedHeight, maxHeight} = parseResult.globals;
+        const {tocPages, headlineTypeToHeightRange, mostUsedHeight, mostUsedDistance, mostUsedFont, maxHeight} = parseResult.globals;
         const hasToc = tocPages.length > 0;
         var detectedHeaders = 0;
 
@@ -34,8 +34,7 @@ export default class DetectHeaders extends ToTextItemTransformation {
             });
         });
 
-        if (hasToc) {
-            //Use existing headline heights to find additional headlines
+        if (hasToc) { //Use existing headline heights to find additional headlines
             const headlineTypes = Object.keys(headlineTypeToHeightRange);
             headlineTypes.forEach(headlineType => {
                 var range = headlineTypeToHeightRange[headlineType];
@@ -52,7 +51,7 @@ export default class DetectHeaders extends ToTextItemTransformation {
                 }
 
             });
-        } else {
+        } else { //Categorize headlines by the text heights
             const heights = [];
             var lastHeight;
             parseResult.pages.forEach(page => {
@@ -80,6 +79,31 @@ export default class DetectHeaders extends ToTextItemTransformation {
             });
         }
 
+        //find headlines which have paragraph height
+        var smallesHeadlineLevel = 1;
+        parseResult.pages.forEach(page => {
+            page.items.forEach(textItem => {
+                if (textItem.type && textItem.type.headline) {
+                    smallesHeadlineLevel = Math.max(smallesHeadlineLevel, textItem.type.headlineLevel);
+                }
+            });
+        });
+        if (smallesHeadlineLevel < 6) {
+            const nextHeadlineType = headlineByLevel(smallesHeadlineLevel + 1);
+            parseResult.pages.forEach(page => {
+                page.items.forEach(textItem => {
+                    if (!textItem.type
+                            && textItem.height == mostUsedHeight
+                            && textItem.font !== mostUsedFont
+                            && textItem.text === textItem.text.toUpperCase()
+                    ) {
+                        detectedHeaders++;
+                        textItem.annotation = DETECTED_ANNOTATION;
+                        textItem.type = nextHeadlineType;
+                    }
+                });
+            });
+        }
 
 
         return new ParseResult({

@@ -7,31 +7,43 @@ export default class ElementType extends Enum {
 
 ElementType.initEnum({
     H1: {
+        headline: true,
+        headlineLevel: 1,
         toText(block:TextItemBlock) {
             return '# ' + concatTextItems(block.textItems);
         }
     },
     H2: {
+        headline: true,
+        headlineLevel: 2,
         toText(block:TextItemBlock) {
             return '## ' + concatTextItems(block.textItems);
         }
     },
     H3: {
+        headline: true,
+        headlineLevel: 3,
         toText(block:TextItemBlock) {
             return '### ' + concatTextItems(block.textItems);
         }
     },
     H4: {
+        headline: true,
+        headlineLevel: 4,
         toText(block:TextItemBlock) {
             return '#### ' + concatTextItems(block.textItems);
         }
     },
     H5: {
+        headline: true,
+        headlineLevel: 5,
         toText(block:TextItemBlock) {
             return '##### ' + concatTextItems(block.textItems);
         }
     },
     H6: {
+        headline: true,
+        headlineLevel: 6,
         toText(block:TextItemBlock) {
             return '###### ' + concatTextItems(block.textItems);
         }
