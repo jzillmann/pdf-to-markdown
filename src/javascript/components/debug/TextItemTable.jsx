@@ -34,7 +34,6 @@ export default class TextItemTable extends React.Component {
                                 </th>
                                 <th>
                                   Font
-                                  <br/>(asc/desc)
                                 </th>
                               </tr>
                             </thead>
@@ -81,8 +80,6 @@ export default class TextItemTable extends React.Component {
                                                               </td>
                                                               <td>
                                                                 { textItem.font }
-                                                                <br/>
-                                                                { textItem.fontAscent + ' / ' + textItem.fontDescent }
                                                               </td>
                                                             </tr>
         )

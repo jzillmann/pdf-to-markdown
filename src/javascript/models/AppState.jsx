@@ -25,6 +25,7 @@ export default class AppState {
         this.mainView = View.UPLOAD;
         this.fileBuffer;
         this.pages = [];
+        this.fontMap;
         this.transformations = [
             new CalculateGlobalStats(),
             new CompactLines(),
@@ -62,8 +63,9 @@ export default class AppState {
         this.render()
     }
 
-    storePdfPages(pages) {
+    storePdfPages(pages, fontMap) {
         this.pages = pages;
+        this.fontMap = fontMap;
         this.fileBuffer = null;
         this.mainView = View.RESULT;
         this.render();
