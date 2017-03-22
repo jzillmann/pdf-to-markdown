@@ -4,6 +4,7 @@ import FaCheck from 'react-icons/lib/fa/check'
 import pdfjs from 'pdfjs-dist'; // eslint-disable-line no-unused-vars
 import { Line } from 'rc-progress';
 
+import Metadata from '../models/Metadata.jsx';
 import Page from '../models/Page.jsx';
 import TextItem from '../models/TextItem.jsx';
 
@@ -17,21 +18,38 @@ export default class LoadingView extends React.Component {
 
     constructor(props) {
         super(props);
+
+        const progress = new Progress({
+            stages: [
+                new ProgressStage('Parsing Metadata', 2),
+                new ProgressStage('Parsing Pages'),
+                new ProgressStage('Parsing Fonts')
+            ]
+        });
+        Progress.prototype.metadataStage = () => {
+            return progress.stages[0]
+        };
+        Progress.prototype.pageStage = () => {
+            return progress.stages[1]
+        };
+        Progress.prototype.fontStage = () => {
+            return progress.stages[2]
+        };
         this.state = {
+            document: null,
+            metadata: null,
             pages: [],
             fontIds: new Set(),
             fontMap: new Map(),
-            progress: new Progress({
-                stages: [
-                    new ProgressStage('Parsing PDF Pages'),
-                    new ProgressStage('Parsing Fonts')
-                ]
-            }),
+            progress: progress,
         };
     }
 
-    announceInitialParse(document) {
-        const pageStage = this.state.progress.stages[0];
+    documentParsed(document) {
+        const metadataStage = this.state.progress.metadataStage();
+        const pageStage = this.state.progress.pageStage();
+        metadataStage.stepsDone++;
+
         const numPages = document.numPages;
         pageStage.steps = numPages;
         pageStage.stepsDone;
@@ -49,15 +67,24 @@ export default class LoadingView extends React.Component {
         });
     }
 
-    announcePageParsed(index, textItems) {
-        const pageStage = this.state.progress.stages[0];
-        const fontStage = this.state.progress.stages[1];
+    metadataParsed(metadata) {
+        const metadataStage = this.state.progress.metadataStage();
+        metadataStage.stepsDone++;
+        // console.debug(new Metadata(metadata));
+        this.setState({
+            metadata: new Metadata(metadata),
+        });
+    }
+
+    pageParsed(index, textItems) {
+        const pageStage = this.state.progress.pageStage();
+        const fontStage = this.state.progress.fontStage();
+        const self = this;
         textItems.forEach(item => {
             const fontId = item.font;
             if (!this.state.fontIds.has(fontId)) {
-                const announceFontFunction = this.announceFontParsed.bind(this);
                 this.state.document.transport.commonObjs.get(fontId, function(font) {
-                    announceFontFunction(fontId, font);
+                    self.fontParsed(fontId, font);
                 });
                 this.state.fontIds.add(fontId);
                 fontStage.steps = this.state.fontIds.size;
@@ -71,11 +98,11 @@ export default class LoadingView extends React.Component {
         });
     }
 
-    announceFontParsed(fontId, font) {
-        const fontStage = this.state.progress.stages[1];
+    fontParsed(fontId, font) {
+        const fontStage = this.state.progress.fontStage();
         this.state.fontMap.set(fontId, font); // eslint-disable-line react/no-direct-mutation-state
-        fontStage.stepsDone = fontStage.stepsDone + 1;
-        if (this.state.progress.currentStage == 1) {
+        fontStage.stepsDone++;
+        if (this.state.progress.activeStage() === fontStage) {
             this.setState({ //force rendering
                 fontMap: this.state.fontMap,
             });
@@ -83,20 +110,20 @@ export default class LoadingView extends React.Component {
     }
 
     componentWillMount() {
-        const announceInitialParseFunction = this.announceInitialParse.bind(this);
-        const announcePageParsedFunction = this.announcePageParsed.bind(this);
-
+        const self = this;
         PDFJS.getDocument(this.props.fileBuffer).then(function(pdfDocument) { // eslint-disable-line no-undef
             // console.debug(pdfDocument);
-            announceInitialParseFunction(pdfDocument);
+            pdfDocument.getMetadata().then(function(metadata) {
+                // console.debug(metadata);
+                self.metadataParsed(metadata);
+            });
+            self.documentParsed(pdfDocument);
             for (var j = 1; j <= pdfDocument.numPages; j++) {
                 pdfDocument.getPage(j).then(function(page) {
+                    // console.debug(page);
                     var scale = 1.0;
                     var viewport = page.getViewport(scale);
 
-                    // pdfDocument.getMetadata().then(function(data) {
-                    //     console.debug(data);
-                    // });
                     page.getTextContent().then(function(textContent) {
                         // console.debug(textContent);
                         const textItems = textContent.items.map(function(item) {
@@ -116,7 +143,7 @@ export default class LoadingView extends React.Component {
                                 font: item.fontName
                             });
                         });
-                        announcePageParsedFunction(page.pageIndex, textItems);
+                        self.pageParsed(page.pageIndex, textItems);
                     });
                     page.getOperatorList().then(function() {
                         // do nothing... this is only for triggering the font retrieval
@@ -127,10 +154,10 @@ export default class LoadingView extends React.Component {
     }
 
     render() {
-        const {pages, progress} = this.state;
+        const {pages, fontMap, metadata, progress} = this.state;
         const percentDone = getPercentDone(progress);
         if (percentDone == 100) {
-            this.props.storePdfPagesFunction(pages, this.state.fontMap);
+            this.props.storePdfPagesFunction(metadata, fontMap, pages);
         }
         const stageItems = progress.stages.filter((elem, i) => i <= progress.currentStage).map((stage, i) => {
             const progressDetails = stage.steps ? stage.stepsDone + ' / ' + stage.steps : '';
@@ -193,10 +220,10 @@ class Progress {
 
 class ProgressStage {
 
-    constructor(name) {
+    constructor(name, steps) {
         this.name = name;
+        this.steps = steps ;
         this.stepsDone = 0;
-        this.steps;
     }
 
     isComplete() {

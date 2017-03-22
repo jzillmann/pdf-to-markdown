@@ -16,10 +16,11 @@ export default class TopBar extends React.Component {
     static propTypes = {
         mainView: React.PropTypes.object.isRequired,
         switchMainViewFunction: React.PropTypes.func.isRequired,
+        title: React.PropTypes.string.isRequired,
     };
 
     render() {
-        const {mainView, switchMainViewFunction} = this.props;
+        const {mainView, switchMainViewFunction, title} = this.props;
         const aboutPopover = (
         <Popover id="popover-trigger-click-root-close" title={ `About PDF to Markdown Converter - ${ process.env.version }` }>
           <p>
@@ -61,8 +62,13 @@ export default class TopBar extends React.Component {
                     </NavItem>
                   </Nav> }
               </Navbar.Header>
+              <Navbar.Collapse>
+                <Navbar.Text pullRight={ true }>
+                  { title }
+                </Navbar.Text>
+              </Navbar.Collapse>
             </Navbar>
-            );
+        );
     }
 
 }

@@ -37,9 +37,10 @@ export default class App extends React.Component {
             throw `View ${this.props.appState.mainView} not supported!`;
         }
 
+        const title = appState.metadata ? appState.metadata.title : '';
         return (
             <div>
-              <TopBar mainView={ appState.mainView } switchMainViewFunction={ appState.switchMainView } />
+              <TopBar mainView={ appState.mainView } switchMainViewFunction={ appState.switchMainView } title={ title } />
               <Grid>
                 <div>
                   { mainView }
