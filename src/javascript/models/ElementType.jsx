@@ -2,6 +2,7 @@ import { Enum } from 'enumify';
 import TextItem from './TextItem.jsx';
 import TextItemBlock from './TextItemBlock.jsx';
 
+// An Markdown element
 export default class ElementType extends Enum {
 }
 

@@ -92,7 +92,7 @@ export default class DebugView extends React.Component {
         const showModificationCheckbox = lastTransformation.showModificationCheckbox();
         const statisticsAsList = Object.keys(parseResult.globals).map((key, i) => {
             return <li key={ i }>
-                     { key + ': ' + parseResult.globals[key] }
+                     { key + ': ' + JSON.stringify(parseResult.globals[key]) }
                    </li>
         });
         const messagesAsList = parseResult.messages.map((message, i) => {

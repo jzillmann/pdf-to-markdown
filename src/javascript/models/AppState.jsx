@@ -25,26 +25,8 @@ export default class AppState {
         this.mainView = View.UPLOAD;
         this.fileBuffer;
         this.metadata;
-        this.fontMap;
         this.pages = [];
-        this.transformations = [
-            new CalculateGlobalStats(),
-            new CompactLines(),
-            new RemoveRepetitiveElements(),
-            new VerticalToHorizontal(),
-            new PostprocessLines(),
-            new DetectTOC(),
-            new DetectListItems(),
-            new DetectHeaders(),
-
-            new GatherBlocks(),
-            new DetectCodeQuoteBlocks(),
-            new DetectListLevels(),
-
-            // new DetectFormats(),
-            // new HeadlineToUppercase(),
-            new ToTextBlocks(),
-            new ToMarkdown()];
+        this.transformations ;
 
         //bind functions
         this.render = this.render.bind(this);
@@ -66,11 +48,31 @@ export default class AppState {
 
     storePdfPages(metadata, fontMap, pages) {
         this.metadata = metadata;
-        this.fontMap = fontMap;
         this.pages = pages;
         this.fileBuffer = null;
         this.mainView = View.RESULT;
+
+        this.transformations = [
+            new CalculateGlobalStats(fontMap),
+            new CompactLines(),
+            new RemoveRepetitiveElements(),
+            new VerticalToHorizontal(),
+            new PostprocessLines(),
+            new DetectTOC(),
+            new DetectListItems(),
+            new DetectHeaders(),
+
+            new GatherBlocks(),
+            new DetectCodeQuoteBlocks(),
+            new DetectListLevels(),
+
+            // new DetectFormats(),
+            // new HeadlineToUppercase(),
+            new ToTextBlocks(),
+            new ToMarkdown()];
+
         this.render();
+
     }
 
     switchMainView(view) {

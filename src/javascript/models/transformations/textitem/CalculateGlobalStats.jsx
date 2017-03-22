@@ -1,14 +1,15 @@
 import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
+import StringFormat from '../../StringFormat.jsx';
 
 export default class CalculateGlobalStats extends ToTextItemTransformation {
 
-    constructor() {
+    constructor(fontMap) {
         super("Calculate Statistics");
+        this.fontMap = fontMap;
     }
 
     transform(parseResult:ParseResult) {
-
         // Parse heights
         const heightToOccurrence = {};
         const fontToOccurrence = {};
@@ -48,6 +49,31 @@ export default class CalculateGlobalStats extends ToTextItemTransformation {
         const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
 
 
+        const fontIdToName = [];
+        const fontToFormats = new Map();
+        this.fontMap.forEach(function(value, key) {
+            fontIdToName.push(key + " = " + value.name)
+            const fontName = value.name.toLowerCase();
+            var format;
+            if (key == mostUsedFont) {
+                format = StringFormat.STANDARD;
+            } else if (fontName.includes('bold') && fontName.includes('bold')) {
+                format = StringFormat.BOLD_OBLIQUE;
+            } else if (fontName.includes('bold')) {
+                format = StringFormat.BOLD;
+            } else if (fontName.includes('oblique')) {
+                format = StringFormat.OBLIQUE;
+            } else if (fontName === maxHeightFont) {
+                format = StringFormat.BOLD;
+            } else {
+                format = StringFormat.STANDARD;
+            }
+            fontToFormats.set(key, format);
+        });
+        fontIdToName.sort();
+
+
+
         //Make a copy of the originals so all following transformation don't modify them
         const newPages = parseResult.pages.map(page => {
             return {
@@ -68,11 +94,13 @@ export default class CalculateGlobalStats extends ToTextItemTransformation {
                 mostUsedDistance: mostUsedDistance,
                 maxHeight: maxHeight,
                 maxHeightFont: maxHeightFont,
+                fontToFormats: fontToFormats
             },
             messages: [
                 'Items per height: ' + JSON.stringify(heightToOccurrence),
                 'Items per font: ' + JSON.stringify(fontToOccurrence),
-                'Items per distance: ' + JSON.stringify(distanceToOccurrence)
+                'Items per distance: ' + JSON.stringify(distanceToOccurrence),
+                'Fonts:' + JSON.stringify(fontIdToName)
             ]
         });
     }
