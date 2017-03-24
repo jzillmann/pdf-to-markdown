@@ -55,6 +55,32 @@ export function removeLeadingWhitespaces(string) {
     return string;
 }
 
+export function removeTrailingWhitespaces(string) {
+    while (string.charCodeAt(string.length - 1) === WHITESPACE_CHAR_CODE) {
+        string = string.substring(0, string.length - 1);
+    }
+    return string;
+}
+
+
+export function prefixAfterWhitespace(prefix, string) {
+    if (string.charCodeAt(0) == WHITESPACE_CHAR_CODE) {
+        string = removeLeadingWhitespaces(string);
+        return ' ' + prefix + string;
+    } else {
+        return prefix + string;
+    }
+}
+
+export function suffixBeforeWhitespace(string, suffix) {
+    if (string.charCodeAt(string.length - 1) == WHITESPACE_CHAR_CODE) {
+        string = removeTrailingWhitespaces(string);
+        return string + suffix + ' ';
+    } else {
+        return string + suffix;
+    }
+}
+
 export function isListItem(string) {
     return /^[\s]*[-•][\s].*$/g.test(string);
 }

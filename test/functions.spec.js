@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, removeLeadingWhitespaces, charCodeArray, isListItem, isNumberedListItem, wordMatch } from '../src/javascript/functions.jsx'
+import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, removeLeadingWhitespaces, removeTrailingWhitespaces, prefixAfterWhitespace, suffixBeforeWhitespace, charCodeArray, isListItem, isNumberedListItem, wordMatch } from '../src/javascript/functions.jsx'
 
 describe('hasUpperCaseCharacterInMiddleOfWord', () => {
 
@@ -52,6 +52,43 @@ describe('removeLeadingWhitespaces', () => {
         expect(removeLeadingWhitespaces("  . . ")).to.be.equal(". . ");
     });
 
+});
+
+describe('removeTrailingWhitespaces', () => {
+    it('No Removes', () => {
+        expect(removeTrailingWhitespaces(".")).to.be.equal(".");
+        expect(removeTrailingWhitespaces(" .")).to.be.equal(" .");
+        expect(removeTrailingWhitespaces(" . .")).to.be.equal(" . .");
+    });
+
+    it('Removes', () => {
+        expect(removeTrailingWhitespaces(". ")).to.be.equal(".");
+        expect(removeTrailingWhitespaces(".  ")).to.be.equal(".");
+        expect(removeTrailingWhitespaces(" . ")).to.be.equal(" .");
+        expect(removeTrailingWhitespaces(" . .  ")).to.be.equal(" . .");
+    });
+
+});
+
+
+describe('prefixAfterWhitespace', () => {
+    it('Basic', () => {
+        expect(prefixAfterWhitespace('1', '2')).to.be.equal('12');
+        expect(prefixAfterWhitespace(' 1', '2')).to.be.equal(' 12');
+        expect(prefixAfterWhitespace(' 1', ' 2')).to.be.equal('  12');
+        expect(prefixAfterWhitespace('1', ' 2')).to.be.equal(' 12');
+        expect(prefixAfterWhitespace('1', '  2')).to.be.equal(' 12');
+    });
+});
+
+describe('suffixBeforeWhitespace', () => {
+    it('Basic', () => {
+        expect(suffixBeforeWhitespace('A ', '.')).to.be.equal('A. ');
+        expect(suffixBeforeWhitespace(' A', '.')).to.be.equal(' A.');
+        expect(suffixBeforeWhitespace(' A ', ' .')).to.be.equal(' A . ');
+        expect(suffixBeforeWhitespace('A', ' .')).to.be.equal('A .');
+        expect(suffixBeforeWhitespace('A  ', '.')).to.be.equal('A. ');
+    });
 });
 
 

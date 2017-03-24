@@ -9,17 +9,17 @@ StringFormat.initEnum({
     },
     BOLD: {
         needFormat: true,
-        startSymbol: '**',
-        endSymbol: '**'
+        startSymbol: ' **',
+        endSymbol: '** '
     },
     OBLIQUE: {
         needFormat: true,
-        startSymbol: '_',
-        endSymbol: '_'
+        startSymbol: ' _',
+        endSymbol: '_ '
     },
     BOLD_OBLIQUE: {
         needFormat: true,
-        startSymbol: '**_',
-        endSymbol: '_**'
+        startSymbol: ' **_',
+        endSymbol: '_** '
     }
 })

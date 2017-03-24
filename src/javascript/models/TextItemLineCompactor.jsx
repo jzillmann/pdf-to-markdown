@@ -2,6 +2,7 @@ import TextItem from './TextItem.jsx';
 import { ParsedElements } from './PageItem.jsx';
 import { isNumber } from '../functions.jsx'
 import { sortByX } from '../textItemFunctions.jsx'
+import { prefixAfterWhitespace, suffixBeforeWhitespace } from '../functions.jsx';
 
 // Compact text items which have been grouped to a line (through TextItemLineCompactor) to a single TextItem doing inline transformations like 
 //'whitespace removal', bold/emphasis annotation, link-detection, etc..
@@ -71,19 +72,19 @@ export default class TextItemLineCompactor {
         const addStartSymbol = () => {
             resolvedLineItems.splice(openFormatIndex, 1, new TextItem({
                 ...openFormatItem,
-                text: openFormatType.startSymbol + openFormatItem.text
+                text: prefixAfterWhitespace(openFormatType.startSymbol, openFormatItem.text)
             }));
         }
         const addEndSymbol = (index) => {
             resolvedLineItems.splice(index, 1, new TextItem({
                 ...lastItem,
-                text: lastItem.text + openFormatType.endSymbol
+                text: suffixBeforeWhitespace(lastItem.text, openFormatType.endSymbol)
             }));
         }
         const addCompleteSymbol = () => {
             resolvedLineItems.splice(openFormatIndex, 1, new TextItem({
                 ...openFormatItem,
-                text: openFormatType.startSymbol + openFormatItem.text + openFormatType.endSymbol
+                text: suffixBeforeWhitespace(prefixAfterWhitespace(openFormatType.startSymbol, openFormatItem.text), openFormatType.endSymbol)
             }));
         }
 
