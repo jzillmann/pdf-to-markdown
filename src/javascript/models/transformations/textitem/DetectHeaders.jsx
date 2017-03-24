@@ -91,16 +91,19 @@ export default class DetectHeaders extends ToTextItemTransformation {
         if (smallesHeadlineLevel < 6) {
             const nextHeadlineType = headlineByLevel(smallesHeadlineLevel + 1);
             parseResult.pages.forEach(page => {
+                var lastItem;
                 page.items.forEach(textItem => {
                     if (!textItem.type
                             && textItem.height == mostUsedHeight
                             && textItem.font !== mostUsedFont
+                            && (!lastItem || lastItem.y < textItem.y || (lastItem.type && lastItem.type.headline) || (lastItem.y - textItem.y > mostUsedDistance * 2))
                             && textItem.text === textItem.text.toUpperCase()
                     ) {
                         detectedHeaders++;
                         textItem.annotation = DETECTED_ANNOTATION;
                         textItem.type = nextHeadlineType;
                     }
+                    lastItem = textItem;
                 });
             });
         }
