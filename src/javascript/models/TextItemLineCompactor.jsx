@@ -21,8 +21,12 @@ export default class TextItemLineCompactor {
         // we can't trust order of occurence, esp. footnoteLinks like to come last
         sortByX(lineItems);
 
-        const [resolvedLineItems, parsedElements] = this.resolveSpecialElements(lineItems);
-        const [lineFormat, unopenedFormat, unclosedFormat] = this.addFormats(resolvedLineItems, parsedElements);
+        const formatter = new Formatter(this.fontToFormats);
+        var [resolvedLineItems, parsedElements] = this.resolveSpecialElements(lineItems);
+        resolvedLineItems.forEach(item => formatter.consume(item));
+        resolvedLineItems = formatter.getResults();
+        parsedElements.inlineFormats = formatter.inlineFormats;
+        // const [lineFormat, unopenedFormat, unclosedFormat] = this.addFormats(resolvedLineItems, parsedElements);
 
         var combinedItem;
         if (resolvedLineItems.length == 1) {
@@ -52,92 +56,12 @@ export default class TextItemLineCompactor {
             });
         }
         combinedItem.parsedElements = parsedElements;
-        combinedItem.lineFormat = lineFormat;
-        combinedItem.unopenedFormat = unopenedFormat;
-        combinedItem.unclosedFormat = unclosedFormat;
+        combinedItem.lineFormat = formatter.lineFormat;
+        combinedItem.unopenedFormat = formatter.unopenedFormat;
+        combinedItem.unclosedFormat = formatter.unclosedFormat;
         return combinedItem;
     }
 
-    addFormats(resolvedLineItems, parsedElements) {
-        var inlineFormats = 0;
-        var openFormatType;
-        var openFormatItem;
-        var openFormatIndex;
-        var lastItem;
-
-        var lineFormat;
-        var unopenedFormat;
-        var unclosedFormat;
-
-        const addStartSymbol = () => {
-            resolvedLineItems.splice(openFormatIndex, 1, new TextItem({
-                ...openFormatItem,
-                text: prefixAfterWhitespace(openFormatType.startSymbol, openFormatItem.text)
-            }));
-        }
-        const addEndSymbol = (index) => {
-            resolvedLineItems.splice(index, 1, new TextItem({
-                ...lastItem,
-                text: suffixBeforeWhitespace(lastItem.text, openFormatType.endSymbol)
-            }));
-        }
-        const addCompleteSymbol = () => {
-            resolvedLineItems.splice(openFormatIndex, 1, new TextItem({
-                ...openFormatItem,
-                text: suffixBeforeWhitespace(prefixAfterWhitespace(openFormatType.startSymbol, openFormatItem.text), openFormatType.endSymbol)
-            }));
-        }
-
-        const rollupOpenFormat = (endIndex) => {
-            const formatFromBeginningOfLine = openFormatIndex == 0;
-            const formatToEndOfLine = endIndex == resolvedLineItems.length - 1;
-            if (formatFromBeginningOfLine) {
-                if (formatToEndOfLine) {
-                    lineFormat = openFormatType;
-                } else {
-                    unopenedFormat = openFormatType;
-                    addEndSymbol(endIndex);
-                }
-            } else {
-                if (formatToEndOfLine) {
-                    unclosedFormat = openFormatType;
-                    addStartSymbol();
-                } else {
-                    inlineFormats++;
-                    if (lastItem === openFormatItem) {
-                        addCompleteSymbol();
-                    } else {
-                        addStartSymbol();
-                        addEndSymbol();
-                    }
-                }
-            }
-        };
-
-        resolvedLineItems.slice().forEach((item, i) => {
-            const formatType = this.fontToFormats.get(item.font);
-            if (openFormatType) {
-                if (formatType !== openFormatType) { //closin existing format
-                    rollupOpenFormat(i - 1);
-                    openFormatType = formatType.needFormat ? formatType : null;
-                    openFormatItem = formatType.needFormat ? item : null;
-                    openFormatIndex = formatType.needFormat ? i : null;
-                }
-            } else {
-                if (formatType.needFormat) {
-                    openFormatType = formatType;
-                    openFormatItem = item;
-                    openFormatIndex = i;
-                }
-            }
-            lastItem = item;
-        });
-        if (openFormatType) {
-            rollupOpenFormat(resolvedLineItems.length - 1);
-        }
-        parsedElements.inlineFormats = inlineFormats;
-        return [lineFormat, unopenedFormat, unclosedFormat];
-    }
 
     resolveSpecialElements(lineItems) {
         const footnoteLinks = [];
@@ -195,4 +119,109 @@ export default class TextItemLineCompactor {
             footnotes: footnotes
         })];
     }
+
+}
+
+class Formatter {
+
+    constructor(fontToFormats) {
+        this.fontToFormats = fontToFormats;
+
+        this.resultItems = [];
+        this.lineFormat;
+        this.unopenedFormat;
+        this.unclosedFormat;
+
+        this.openFormat;
+        this.stashedItems = [];
+        this.inlineFormats = 0;
+        this.lastItem;
+    }
+
+
+    consume(item) {
+        const formatType = this.fontToFormats.get(item.font);
+        if (this.openFormat && formatType !== this.openFormat) {
+            this.flushStash(false);
+        }
+        if (formatType.needFormat) {
+            this.openFormat = formatType;
+            this.stashedItems.push(item);
+        } else {
+            this.resultItems.push(item);
+        }
+    }
+
+    getResults() {
+        if (this.openFormat) {
+            this.flushStash(true);
+        }
+        return this.resultItems;
+    }
+
+    flushStash(formatToEndOfLine) {
+        const formatFromBeginningOfLine = this.resultItems == 0;
+        if (formatFromBeginningOfLine) {
+            if (formatToEndOfLine) {
+                this.lineFormat = this.openFormat;
+                this.moveStashItemsToResult();
+            } else {
+                this.unopenedFormat = this.openFormat;
+                const newLastItem = this.newClosingItem(this.stashedItems.pop());
+                this.moveStashItemsToResult();
+                this.resultItems.push(newLastItem);
+            }
+        } else {
+            if (formatToEndOfLine) {
+                this.unclosedFormat = this.openFormat;
+                const newFirstItem = this.newOpeningItem(this.stashedItems.shift());
+                this.resultItems.push(newFirstItem);
+                this.moveStashItemsToResult();
+            } else {
+                this.inlineFormats++;
+                if (this.stashedItems.length == 1) {
+                    const onlyItem = this.stashedItems.pop();
+                    if (onlyItem.text.trim().length > 0) {
+                        const onlyItemFormatted = this.newCompleteItem(onlyItem);
+                        this.resultItems.push(onlyItemFormatted);
+                    }
+                    this.moveStashItemsToResult();
+                } else {
+                    const firstItem = this.newOpeningItem(this.stashedItems.shift());
+                    const lastItem = this.newClosingItem(this.stashedItems.pop());
+                    this.resultItems.push(firstItem);
+                    this.moveStashItemsToResult();
+                    this.resultItems.push(lastItem);
+                }
+            }
+        }
+    }
+
+    moveStashItemsToResult() {
+        this.resultItems.push(...this.stashedItems);
+        this.stashedItems = [];
+        this.openFormat = null;
+    }
+
+    newOpeningItem(item) {
+        return new TextItem({
+            ...item,
+            text: prefixAfterWhitespace(this.openFormat.startSymbol, item.text)
+        });
+    }
+
+    newClosingItem(item) {
+        return new TextItem({
+            ...item,
+            text: suffixBeforeWhitespace(item.text, this.openFormat.endSymbol)
+        });
+    }
+
+    newCompleteItem(item) {
+        return new TextItem({
+            ...item,
+            text: suffixBeforeWhitespace(prefixAfterWhitespace(this.openFormat.startSymbol, item.text), this.openFormat.endSymbol)
+        });
+    }
+
 }
