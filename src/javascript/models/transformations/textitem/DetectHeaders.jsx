@@ -3,6 +3,7 @@ import ParseResult from '../../ParseResult.jsx';
 import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
 import ElementType from '../../ElementType.jsx';
 import { headlineByLevel } from '../../ElementType.jsx';
+import { isListItem } from '../../../functions.jsx';
 
 //Detect items starting with -, •, etc...
 export default class DetectHeaders extends ToTextItemTransformation {
@@ -56,7 +57,7 @@ export default class DetectHeaders extends ToTextItemTransformation {
             var lastHeight;
             parseResult.pages.forEach(page => {
                 page.items.forEach(textItem => {
-                    if (!textItem.type && textItem.height > mostUsedHeight) {
+                    if (!textItem.type && textItem.height > mostUsedHeight && !isListItem(textItem.text)) {
                         if (!heights.includes(textItem.height) && (!lastHeight || lastHeight > textItem.height)) {
                             heights.push(textItem.height);
                         }
@@ -69,7 +70,7 @@ export default class DetectHeaders extends ToTextItemTransformation {
                 const headlineType = headlineByLevel(2 + i);
                 parseResult.pages.forEach(page => {
                     page.items.forEach(textItem => {
-                        if (!textItem.type && textItem.height == height) {
+                        if (!textItem.type && textItem.height == height && !isListItem(textItem.text)) {
                             detectedHeaders++;
                             textItem.annotation = DETECTED_ANNOTATION;
                             textItem.type = headlineType;

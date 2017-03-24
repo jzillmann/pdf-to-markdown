@@ -8,12 +8,11 @@ import PostprocessLines from './transformations/textitem/PostprocessLines.jsx';
 import DetectTOC from './transformations/textitem/DetectTOC.jsx'
 import DetectListItems from './transformations/textitem/DetectListItems.jsx'
 import DetectHeaders from './transformations/textitem/DetectHeaders.jsx'
+import CompleteFormats from './transformations/textitem/CompleteFormats.jsx'
 
 import GatherBlocks from './transformations/textitemblock/GatherBlocks.jsx'
 import DetectCodeQuoteBlocks from './transformations/textitemblock/DetectCodeQuoteBlocks.jsx'
 import DetectListLevels from './transformations/textitemblock/DetectListLevels.jsx'
-// import DetectFormats from './transformations/DetectFormats.jsx'
-// import HeadlineToUppercase from './transformations/HeadlineToUppercase.jsx'
 import ToTextBlocks from './transformations/ToTextBlocks.jsx';
 import ToMarkdown from './transformations/ToMarkdown.jsx'
 
@@ -59,15 +58,14 @@ export default class AppState {
             new VerticalToHorizontal(),
             new PostprocessLines(),
             new DetectTOC(),
-            new DetectListItems(),
             new DetectHeaders(),
+            new CompleteFormats(),
+            new DetectListItems(),
 
             new GatherBlocks(),
             new DetectCodeQuoteBlocks(),
             new DetectListLevels(),
 
-            // new DetectFormats(),
-            // new HeadlineToUppercase(),
             new ToTextBlocks(),
             new ToMarkdown()];
 

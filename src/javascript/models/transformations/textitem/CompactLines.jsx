@@ -2,6 +2,7 @@ import React from 'react';
 
 import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
+import { ParsedElements } from '../../PageItem.jsx';
 import TextItemLineGrouper from '../../TextItemLineGrouper.jsx';
 import TextItemLineCompactor from '../../TextItemLineCompactor.jsx';
 import ElementType from '../../ElementType.jsx';
@@ -16,13 +17,18 @@ export default class CompactLines extends ToTextItemTransformation {
     }
 
     transform(parseResult:ParseResult) {
-        const {mostUsedDistance} = parseResult.globals;
+        const {mostUsedDistance, fontToFormats} = parseResult.globals;
         const foundFootnotes = [];
         const foundFootnoteLinks = [];
+        var inlineFormats = 0;
+        var lineFormats = 0;
+        var unopenedFormats = 0;
+        var unclosedFormats = 0;
+
         const lineGrouper = new TextItemLineGrouper({
             mostUsedDistance: mostUsedDistance,
         });
-        const lineCompactor = new TextItemLineCompactor();
+        const lineCompactor = new TextItemLineCompactor(fontToFormats);
 
         parseResult.pages.forEach(page => {
             if (page.items.length > 0) {
@@ -32,6 +38,13 @@ export default class CompactLines extends ToTextItemTransformation {
                     var lineItem;
                     if (textItemsOfLine.length == 1) {
                         lineItem = textItemsOfLine[0];
+                        const formatType = fontToFormats.get(lineItem.font);
+                        if (formatType.needFormat) {
+                            lineItem.lineFormat = formatType;
+                            lineItem.parsedElements = new ParsedElements({
+                                completeLineFormats: 1
+                            });
+                        }
                     } else {
                         textItemsOfLine.forEach(item => {
                             item.annotation = REMOVED_ANNOTATION;
@@ -50,7 +63,11 @@ export default class CompactLines extends ToTextItemTransformation {
                             const footnotes = lineItem.parsedElements.footnotes.map(footnote => <span key={ footnote }><a href={ "#Page " + (page.index + 1) }>{ footnote }</a>,</span>);
                             foundFootnotes.push.apply(foundFootnotes, footnotes);
                         }
+                        inlineFormats += lineItem.parsedElements.inlineFormats;
                     }
+                    if (lineItem.lineFormat) lineFormats++;
+                    if (lineItem.unopenedFormat) unopenedFormats++;
+                    if (lineItem.unclosedFormat) unclosedFormats++;
                     lineItem.text = lineItem.text.trim();
                     newItems.push(lineItem);
                 });
@@ -62,9 +79,10 @@ export default class CompactLines extends ToTextItemTransformation {
         return new ParseResult({
             ...parseResult,
             messages: [
-                // 'Detected ' + foundFootnoteLinks.length + ' footnote links: [' + foundFootnoteLinks.join(', ') + ']',
-                //'Detected ' + foundFootnotes.length + ' footnotes: [' + foundFootnotes.join(', ') + ']',
-                // 'Detected ' + foundFootnotes.length + ' footnotes: [' + foundFootnotes + ']',
+                'Detected ' + lineFormats + ' line formats',
+                'Detected ' + inlineFormats + ' inline formats',
+                'Detected ' + unclosedFormats + ' opened un-closed formats',
+                'Detected ' + unopenedFormats + ' un-opened closed formats',
                 <span>Detected { foundFootnoteLinks.length } footnotes: [{ foundFootnoteLinks }]</span>,
                 <span>Detected { foundFootnotes.length } footnotes: [{ foundFootnotes }]</span>,
             ]

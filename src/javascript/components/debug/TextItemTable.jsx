@@ -52,8 +52,26 @@ export default class TextItemTable extends React.Component {
                                                                   { textItem.type ? textItem.type.name : '' }
                                                                 </div>
                                                                 <div style={ { textAlign: 'center', color: 'orange' } }>
-                                                                  { textItem.parsedElements && textItem.parsedElements.footnoteLinks.length > 0 ? 'Footnote-Link' : '' }
-                                                                  { textItem.parsedElements && textItem.parsedElements.containLinks ? 'Link' : '' }
+                                                                  { textItem.parsedElements && textItem.parsedElements.footnoteLinks.length > 0 ? <div>
+                                                                                                                                                    Footnote-Link
+                                                                                                                                                  </div> : '' }
+                                                                  { textItem.parsedElements && textItem.parsedElements.containLinks ? <div>
+                                                                                                                                        Link
+                                                                                                                                      </div> : '' }
+                                                                  { textItem.lineFormat ? <div>
+                                                                                            { textItem.lineFormat.name }
+                                                                                          </div> : '' }
+                                                                  { textItem.unopenedFormat ? <div>
+                                                                                                Unopened
+                                                                                                { ' ' + textItem.unopenedFormat.name }
+                                                                                              </div> : '' }
+                                                                  { textItem.parsedElements && textItem.parsedElements.inlineFormats > 0 ? <div>
+                                                                                                                                             { textItem.parsedElements.inlineFormats + 'x Bold/Italic' }
+                                                                                                                                           </div> : '' }
+                                                                  { textItem.unclosedFormat ? <div>
+                                                                                                Unclosed
+                                                                                                { ' ' + textItem.unclosedFormat.name }
+                                                                                              </div> : '' }
                                                                 </div>
                                                               </td>
                                                               <td>

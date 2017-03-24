@@ -57,11 +57,11 @@ export default class CalculateGlobalStats extends ToTextItemTransformation {
             var format;
             if (key == mostUsedFont) {
                 format = StringFormat.STANDARD;
-            } else if (fontName.includes('bold') && fontName.includes('bold')) {
+            } else if (fontName.includes('bold') && (fontName.includes('oblique') || fontName.includes('italic'))) {
                 format = StringFormat.BOLD_OBLIQUE;
             } else if (fontName.includes('bold')) {
                 format = StringFormat.BOLD;
-            } else if (fontName.includes('oblique')) {
+            } else if (fontName.includes('oblique') || fontName.includes('italic')) {
                 format = StringFormat.OBLIQUE;
             } else if (fontName === maxHeightFont) {
                 format = StringFormat.BOLD;

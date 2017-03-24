@@ -7,10 +7,8 @@ import { sortByX } from '../textItemFunctions.jsx'
 //'whitespace removal', bold/emphasis annotation, link-detection, etc..
 export default class TextItemLineCompactor {
 
-    constructor(options) {
-        if (options) {
-            this.transformEmphasis = options.transformEmphasis || true;
-        }
+    constructor(fontToFormats) {
+        this.fontToFormats = fontToFormats;
     }
 
     // returns a CombineResult 
@@ -22,8 +20,10 @@ export default class TextItemLineCompactor {
         // we can't trust order of occurence, esp. footnoteLinks like to come last
         sortByX(lineItems);
 
-        var combinedItem;
         const [resolvedLineItems, parsedElements] = this.resolveSpecialElements(lineItems);
+        const [lineFormat, unopenedFormat, unclosedFormat] = this.addFormats(resolvedLineItems, parsedElements);
+
+        var combinedItem;
         if (resolvedLineItems.length == 1) {
             combinedItem = resolvedLineItems[0];
         } else {
@@ -51,7 +51,91 @@ export default class TextItemLineCompactor {
             });
         }
         combinedItem.parsedElements = parsedElements;
+        combinedItem.lineFormat = lineFormat;
+        combinedItem.unopenedFormat = unopenedFormat;
+        combinedItem.unclosedFormat = unclosedFormat;
         return combinedItem;
+    }
+
+    addFormats(resolvedLineItems, parsedElements) {
+        var inlineFormats = 0;
+        var openFormatType;
+        var openFormatItem;
+        var openFormatIndex;
+        var lastItem;
+
+        var lineFormat;
+        var unopenedFormat;
+        var unclosedFormat;
+
+        const addStartSymbol = () => {
+            resolvedLineItems.splice(openFormatIndex, 1, new TextItem({
+                ...openFormatItem,
+                text: openFormatType.startSymbol + openFormatItem.text
+            }));
+        }
+        const addEndSymbol = (index) => {
+            resolvedLineItems.splice(index, 1, new TextItem({
+                ...lastItem,
+                text: lastItem.text + openFormatType.endSymbol
+            }));
+        }
+        const addCompleteSymbol = () => {
+            resolvedLineItems.splice(openFormatIndex, 1, new TextItem({
+                ...openFormatItem,
+                text: openFormatType.startSymbol + openFormatItem.text + openFormatType.endSymbol
+            }));
+        }
+
+        const rollupOpenFormat = (endIndex) => {
+            const formatFromBeginningOfLine = openFormatIndex == 0;
+            const formatToEndOfLine = endIndex == resolvedLineItems.length - 1;
+            if (formatFromBeginningOfLine) {
+                if (formatToEndOfLine) {
+                    lineFormat = openFormatType;
+                } else {
+                    unopenedFormat = openFormatType;
+                    addEndSymbol(endIndex);
+                }
+            } else {
+                if (formatToEndOfLine) {
+                    unclosedFormat = openFormatType;
+                    addStartSymbol();
+                } else {
+                    inlineFormats++;
+                    if (lastItem === openFormatItem) {
+                        addCompleteSymbol();
+                    } else {
+                        addStartSymbol();
+                        addEndSymbol();
+                    }
+                }
+            }
+        };
+
+        resolvedLineItems.slice().forEach((item, i) => {
+            const formatType = this.fontToFormats.get(item.font);
+            if (openFormatType) {
+                if (formatType !== openFormatType) { //closin existing format
+                    rollupOpenFormat(i - 1);
+                    openFormatType = formatType.needFormat ? formatType : null;
+                    openFormatItem = formatType.needFormat ? item : null;
+                    openFormatIndex = formatType.needFormat ? i : null;
+                }
+            } else {
+                if (formatType.needFormat) {
+                    openFormatType = formatType;
+                    openFormatItem = item;
+                    openFormatIndex = i;
+                }
+            }
+            lastItem = item;
+        });
+        if (openFormatType) {
+            rollupOpenFormat(resolvedLineItems.length - 1);
+        }
+        parsedElements.inlineFormats = inlineFormats;
+        return [lineFormat, unopenedFormat, unclosedFormat];
     }
 
     resolveSpecialElements(lineItems) {
