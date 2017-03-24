@@ -54,11 +54,11 @@ export default class TopBar extends React.Component {
                 </Navbar.Brand>
                 { showTabs &&
                   <Nav bsStyle="tabs" activeKey={ mainView } pullRight>
-                    <NavItem eventKey={ View.RESULT } activeKey={ mainView } onSelect={ switchMainViewFunction }>
-                      Result View
-                    </NavItem>
                     <NavItem eventKey={ View.DEBUG } activeKey={ mainView } onSelect={ switchMainViewFunction }>
                       Debug View
+                    </NavItem>
+                    <NavItem eventKey={ View.RESULT } activeKey={ mainView } onSelect={ switchMainViewFunction }>
+                      Result View
                     </NavItem>
                   </Nav> }
               </Navbar.Header>
