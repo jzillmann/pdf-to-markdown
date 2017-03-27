@@ -1,10 +1,11 @@
-import ToTextItemBlockTransformation from '..//ToTextItemBlockTransformation.jsx';
+import ToLineItemBlockTransformation from '../ToLineItemBlockTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
+import Word from '../../Word.jsx';
 import { MODIFIED_ANNOTATION, UNCHANGED_ANNOTATION } from '../../Annotation.jsx';
 import ElementType from '../../ElementType.jsx';
 
 // Cares for proper sub-item spacing/leveling
-export default class DetectListLevels extends ToTextItemBlockTransformation {
+export default class DetectListLevels extends ToLineItemBlockTransformation {
 
     constructor() {
         super("Level Lists");
@@ -21,23 +22,25 @@ export default class DetectListLevels extends ToTextItemBlockTransformation {
                 var currentLevel = 0;
                 const xByLevel = {};
                 var modifiedBlock = false;
-                listBlock.textItems.forEach(textItem => {
+                listBlock.items.forEach(item => {
                     const isListItem = true;
                     if (lastItemX && isListItem) {
-                        if (textItem.x > lastItemX) {
+                        if (item.x > lastItemX) {
                             currentLevel++;
-                            xByLevel[textItem.x] = currentLevel;
-                        } else if (textItem.x < lastItemX) {
-                            currentLevel = xByLevel[textItem.x];
+                            xByLevel[item.x] = currentLevel;
+                        } else if (item.x < lastItemX) {
+                            currentLevel = xByLevel[item.x];
                         }
                     } else {
-                        xByLevel[textItem.x] = 0;
+                        xByLevel[item.x] = 0;
                     }
                     if (currentLevel > 0) {
-                        textItem.text = ' '.repeat(currentLevel * 3) + textItem.text;
+                        item.words = [new Word({
+                            string: ' '.repeat(currentLevel * 3)
+                        })].concat(item.words);
                         modifiedBlock = true;
                     }
-                    lastItemX = textItem.x;
+                    lastItemX = item.x;
                 });
                 listBlocks++;
                 if (modifiedBlock) {

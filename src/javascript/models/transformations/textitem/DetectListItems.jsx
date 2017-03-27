@@ -1,12 +1,12 @@
-import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
+import ToLineItemTransformation from '../ToLineItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
-import TextItem from '../../TextItem.jsx';
+import LineItem from '../../LineItem.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION, DETECTED_ANNOTATION } from '../../Annotation.jsx';
 import ElementType from '../../ElementType.jsx';
 import { isListItem, isNumberedListItem, removeLeadingWhitespaces } from '../../../functions.jsx';
 
 //Detect items starting with -, •, etc...
-export default class DetectListItems extends ToTextItemTransformation {
+export default class DetectListItems extends ToLineItemTransformation {
 
     constructor() {
         super("Detect List Items");
@@ -16,34 +16,34 @@ export default class DetectListItems extends ToTextItemTransformation {
         var foundListItems = 0;
         var foundNumberedItems = 0;
         parseResult.pages.forEach(page => {
-            const newTextItems = [];
-            page.items.forEach(textItem => {
-                newTextItems.push(textItem);
-                if (!textItem.type) {
-                    var text = textItem.text;
+            const newItems = [];
+            page.items.forEach(item => {
+                newItems.push(item);
+                if (!item.type) {
+                    var text = item.text();
                     if (isListItem(text)) {
                         foundListItems++
                         const textWithDash = '-' + removeLeadingWhitespaces(text).substring(1, text.length);
                         if (textWithDash === text) {
-                            textItem.annotation = DETECTED_ANNOTATION;
-                            textItem.type = ElementType.LIST;
+                            item.annotation = DETECTED_ANNOTATION;
+                            item.type = ElementType.LIST;
                         } else {
-                            textItem.annotation = REMOVED_ANNOTATION;
-                            newTextItems.push(new TextItem({
-                                ...textItem,
+                            item.annotation = REMOVED_ANNOTATION;
+                            newItems.push(new LineItem({
+                                ...item,
                                 text: textWithDash,
                                 annotation: ADDED_ANNOTATION,
                                 type: ElementType.LIST
                             }));
                         }
-                    } else if (isNumberedListItem(text)) {
+                    } else if (isNumberedListItem(text)) { //TODO check that starts with 1 (kala chakra)
                         foundNumberedItems++;
-                        textItem.annotation = DETECTED_ANNOTATION;
-                        textItem.type = ElementType.LIST;
+                        item.annotation = DETECTED_ANNOTATION;
+                        item.type = ElementType.LIST;
                     }
                 }
             });
-            page.items = newTextItems;
+            page.items = newItems;
         });
 
         return new ParseResult({

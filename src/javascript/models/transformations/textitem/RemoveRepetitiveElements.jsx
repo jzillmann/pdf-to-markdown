@@ -1,4 +1,4 @@
-import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
+import ToLineItemTransformation from '../ToLineItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
 import { REMOVED_ANNOTATION } from '../../Annotation.jsx';
 
@@ -20,7 +20,7 @@ function hashCodeIgnoringSpacesAndNumbers(string) {
 
 
 // Remove elements with similar content on same page positions, like page numbers, licenes information, etc...
-export default class RemoveRepetitiveElements extends ToTextItemTransformation {
+export default class RemoveRepetitiveElements extends ToLineItemTransformation {
 
     constructor() {
         super("Remove Repetitive Elements");
@@ -58,8 +58,8 @@ export default class RemoveRepetitiveElements extends ToTextItemTransformation {
                 maxElements: []
             });
 
-            const minLineHash = hashCodeIgnoringSpacesAndNumbers(minMaxItems.minElements.reduce((combinedString, item) => combinedString + item.text.trim().toUpperCase(), ''));
-            const maxLineHash = hashCodeIgnoringSpacesAndNumbers(minMaxItems.maxElements.reduce((combinedString, item) => combinedString + item.text.trim().toUpperCase(), ''));
+            const minLineHash = hashCodeIgnoringSpacesAndNumbers(minMaxItems.minElements.reduce((combinedString, item) => combinedString + item.text().toUpperCase(), ''));
+            const maxLineHash = hashCodeIgnoringSpacesAndNumbers(minMaxItems.maxElements.reduce((combinedString, item) => combinedString + item.text().toUpperCase(), ''));
             pageStore.push({
                 minElements: minMaxItems.minElements,
                 maxElements: minMaxItems.maxElements,

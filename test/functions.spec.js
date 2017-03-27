@@ -2,9 +2,10 @@ import { expect } from 'chai';
 
 import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, removeLeadingWhitespaces, removeTrailingWhitespaces, prefixAfterWhitespace, suffixBeforeWhitespace, charCodeArray, isListItem, isNumberedListItem, wordMatch } from '../src/javascript/functions.jsx'
 
-describe('hasUpperCaseCharacterInMiddleOfWord', () => {
+describe('functions: hasUpperCaseCharacterInMiddleOfWord', () => {
 
     it('single word', () => {
+
         expect(hasUpperCaseCharacterInMiddleOfWord("word")).to.equal(false);
         expect(hasUpperCaseCharacterInMiddleOfWord("Word")).to.equal(false);
 
@@ -38,7 +39,7 @@ describe('hasUpperCaseCharacterInMiddleOfWord', () => {
     });
 });
 
-describe('removeLeadingWhitespaces', () => {
+describe('functions: removeLeadingWhitespaces', () => {
     it('No Removes', () => {
         expect(removeLeadingWhitespaces(".")).to.be.equal(".");
         expect(removeLeadingWhitespaces(". ")).to.be.equal(". ");
@@ -54,7 +55,7 @@ describe('removeLeadingWhitespaces', () => {
 
 });
 
-describe('removeTrailingWhitespaces', () => {
+describe('functions: removeTrailingWhitespaces', () => {
     it('No Removes', () => {
         expect(removeTrailingWhitespaces(".")).to.be.equal(".");
         expect(removeTrailingWhitespaces(" .")).to.be.equal(" .");
@@ -71,7 +72,7 @@ describe('removeTrailingWhitespaces', () => {
 });
 
 
-describe('prefixAfterWhitespace', () => {
+describe('functions: prefixAfterWhitespace', () => {
     it('Basic', () => {
         expect(prefixAfterWhitespace('1', '2')).to.be.equal('12');
         expect(prefixAfterWhitespace(' 1', '2')).to.be.equal(' 12');
@@ -81,7 +82,7 @@ describe('prefixAfterWhitespace', () => {
     });
 });
 
-describe('suffixBeforeWhitespace', () => {
+describe('functions: suffixBeforeWhitespace', () => {
     it('Basic', () => {
         expect(suffixBeforeWhitespace('A ', '.')).to.be.equal('A. ');
         expect(suffixBeforeWhitespace(' A', '.')).to.be.equal(' A.');
@@ -92,7 +93,7 @@ describe('suffixBeforeWhitespace', () => {
 });
 
 
-describe('charCodeArray', () => {
+describe('functions: charCodeArray', () => {
     it('Charcodes', () => {
         expect(charCodeArray(".")).to.have.lengthOf(1).to.contain(46);
     });
@@ -105,7 +106,7 @@ describe('charCodeArray', () => {
 
 });
 
-describe('normalizedCharCodeArray', () => {
+describe('functions: normalizedCharCodeArray', () => {
 
     it('No Change', () => {
         expect(String.fromCharCode.apply(null, normalizedCharCodeArray("WORD"))).to.equal("WORD");
@@ -131,7 +132,7 @@ describe('normalizedCharCodeArray', () => {
 
 });
 
-describe('isListItem', () => {
+describe('functions: isListItem', () => {
 
     it('Match', () => {
         expect(isListItem('- my text')).to.equal(true);
@@ -154,7 +155,7 @@ describe('isListItem', () => {
 
 });
 
-describe('isNumberedListItem', () => {
+describe('functions: isNumberedListItem', () => {
 
     it('Match', () => {
         expect(isNumberedListItem('1. my text')).to.equal(true);
@@ -173,7 +174,7 @@ describe('isNumberedListItem', () => {
 
 });
 
-describe('wordsMatch', () => {
+describe('functions: wordsMatch', () => {
 
     it('Match', () => {
         expect(wordMatch('text 1', 'text 1')).to.equal(1.0);

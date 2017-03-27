@@ -1,10 +1,10 @@
-import TextItemBlock from './models/TextItemBlock.jsx';
-import TextItem from './models/TextItem.jsx';
+import PageItem from './models/PageItem.jsx';
+import LineItemBlock from './models/LineItemBlock.jsx';
 
-export function minXFromBlocks(blocks:TextItemBlock[]) {
+export function minXFromBlocks(blocks:LineItemBlock[]) {
     var minX = 999;
     blocks.forEach(block => {
-        block.textItems.forEach(item => {
+        block.items.forEach(item => {
             minX = Math.min(minX, item.x)
         });
     });
@@ -14,7 +14,7 @@ export function minXFromBlocks(blocks:TextItemBlock[]) {
     return minX;
 }
 
-export function minXFromTextItems(items:TextItem) {
+export function minXFromPageItems(items:PageItem) {
     var minX = 999;
     items.forEach(item => {
         minX = Math.min(minX, item.x)
@@ -25,13 +25,13 @@ export function minXFromTextItems(items:TextItem) {
     return minX;
 }
 
-export function sortByX(items:TextItem) {
+export function sortByX(items:PageItem) {
     items.sort((a, b) => {
         return a.x - b.x;
     });
 }
 
-export function sortCopyByX(items:TextItem) {
+export function sortCopyByX(items:PageItem) {
     const copy = items.concat();
     sortByX(copy);
     return copy;

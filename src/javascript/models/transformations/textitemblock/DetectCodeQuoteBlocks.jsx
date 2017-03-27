@@ -1,11 +1,11 @@
-import ToTextItemBlockTransformation from '..//ToTextItemBlockTransformation.jsx';
+import ToLineItemBlockTransformation from '../ToLineItemBlockTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
 import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
 import ElementType from '../../ElementType.jsx';
-import { minXFromBlocks } from '../../../textItemFunctions.jsx';
+import { minXFromBlocks } from '../../../pageItemFunctions.jsx';
 
 //Detect items which are code/quote blocks
-export default class DetectCodeQuoteBlocks extends ToTextItemBlockTransformation {
+export default class DetectCodeQuoteBlocks extends ToLineItemBlockTransformation {
 
     constructor() {
         super("Detect Code/Quote Blocks");
@@ -17,7 +17,7 @@ export default class DetectCodeQuoteBlocks extends ToTextItemBlockTransformation
         parseResult.pages.forEach(page => {
             var minX = minXFromBlocks(page.items);
             page.items.forEach(block => {
-                if (!block.type && looksLikeCodeBlock(minX, block.textItems, mostUsedHeight)) {
+                if (!block.type && looksLikeCodeBlock(minX, block.items, mostUsedHeight)) {
                     block.annotation = DETECTED_ANNOTATION;
                     block.type = ElementType.CODE;
                     foundCodeItems++;
@@ -36,14 +36,14 @@ export default class DetectCodeQuoteBlocks extends ToTextItemBlockTransformation
 
 }
 
-function looksLikeCodeBlock(minX, textItems, mostUsedHeight) {
-    if (textItems.length == 0) {
+function looksLikeCodeBlock(minX, items, mostUsedHeight) {
+    if (items.length == 0) {
         return false;
     }
-    if (textItems.length == 1) {
-        return textItems[0].x > minX && textItems[0].height <= mostUsedHeight + 1;
+    if (items.length == 1) {
+        return items[0].x > minX && items[0].height <= mostUsedHeight + 1;
     }
-    for ( var item of textItems ) {
+    for ( var item of items ) {
         if (item.x == minX) {
             return false;
         }

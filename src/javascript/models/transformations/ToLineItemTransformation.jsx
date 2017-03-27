@@ -1,16 +1,16 @@
 import React from 'react';
 import Transformation from './Transformation.jsx';
 import ParseResult from '../ParseResult.jsx';
-import TextItemBlock from '../TextItemBlock.jsx';
-import TextItemBlockPageView from '../../components/debug/TextItemBlockPageView.jsx';
+import LineItem from '../LineItem.jsx';
+import LineItemPageView from '../../components/debug/LineItemPageView.jsx';
 import { REMOVED_ANNOTATION } from '../Annotation.jsx';
 
-// Abstract class for transformations producing TextItemBlock(s) to be shown in the TextItemBlockPageView
-export default class ToTextItemBlockTransformation extends Transformation {
+// Abstract class for transformations producing LineItem(s) to be shown in the LineItemPageView
+export default class ToLineItemTransformation extends Transformation {
 
     constructor(name) {
-        super(name, TextItemBlock.name);
-        if (this.constructor === ToTextItemBlockTransformation) {
+        super(name, LineItem.name);
+        if (this.constructor === ToLineItemTransformation) {
             throw new TypeError("Can not construct abstract class.");
         }
         this.showWhitespaces = false;
@@ -25,11 +25,11 @@ export default class ToTextItemBlockTransformation extends Transformation {
     }
 
     createPageView(page, modificationsOnly) {
-        return <TextItemBlockPageView
-                                      key={ page.index }
-                                      page={ page }
-                                      modificationsOnly={ modificationsOnly }
-                                      showWhitespaces={ this.showWhitespaces } />;
+        return <LineItemPageView
+                                 key={ page.index }
+                                 page={ page }
+                                 modificationsOnly={ modificationsOnly }
+                                 showWhitespaces={ this.showWhitespaces } />;
     }
 
     completeTransform(parseResult:ParseResult) {
@@ -41,5 +41,6 @@ export default class ToTextItemBlockTransformation extends Transformation {
         });
         return parseResult;
     }
+
 
 }

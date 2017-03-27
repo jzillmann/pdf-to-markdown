@@ -1,6 +1,7 @@
 import { Enum } from 'enumify';
 
 import CalculateGlobalStats from './transformations/textitem/CalculateGlobalStats.jsx';
+
 import CompactLines from './transformations/textitem/CompactLines.jsx';
 import RemoveRepetitiveElements from './transformations/textitem/RemoveRepetitiveElements.jsx'
 import VerticalToHorizontal from './transformations/textitem/VerticalToHorizontal.jsx';
@@ -56,10 +57,10 @@ export default class AppState {
             new CompactLines(),
             new RemoveRepetitiveElements(),
             new VerticalToHorizontal(),
-            new PostprocessLines(),
+            // new PostprocessLines(),
             new DetectTOC(),
             new DetectHeaders(),
-            new CompleteFormats(),
+            // new CompleteFormats(),
             new DetectListItems(),
 
             new GatherBlocks(),

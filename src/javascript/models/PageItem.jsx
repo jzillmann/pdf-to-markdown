@@ -1,4 +1,4 @@
-// A abstract PageItem class, can be TextItem, or TextItemBlock
+// A abstract PageItem class, can be TextItem, LineItem or LineItemBlock
 export default class PageItem {
 
     constructor(options) {

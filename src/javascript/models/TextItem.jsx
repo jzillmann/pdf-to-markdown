@@ -11,8 +11,6 @@ export default class TextItem extends PageItem {
         this.height = options.height;
         this.text = options.text;
         this.font = options.font;
-        this.fontAscent = options.fontAscent;
-        this.fontDescent = options.fontDescent;
 
         this.lineFormat = options.lineFormat;
         this.unopenedFormat = options.unopenedFormat;

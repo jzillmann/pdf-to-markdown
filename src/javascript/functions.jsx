@@ -18,6 +18,17 @@ export function isNumber(string) {
     return true;
 }
 
+export function hasOnly(string, char) {
+    const charCode = char.charCodeAt(0);
+    for (var i = 0; i < string.length; i++) {
+        const aCharCode = string.charCodeAt(i);
+        if (aCharCode != charCode) {
+            return false;
+        }
+    }
+    return true;
+}
+
 export function hasUpperCaseCharacterInMiddleOfWord(text) {
     var beginningOfWord = true;
     for (var i = 0; i < text.length; i++) {

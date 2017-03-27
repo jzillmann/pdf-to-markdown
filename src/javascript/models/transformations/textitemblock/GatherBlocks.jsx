@@ -1,11 +1,11 @@
-import ToTextItemBlockTransformation from '../ToTextItemBlockTransformation.jsx';
+import ToLineItemBlockTransformation from '../ToLineItemBlockTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
-import TextItemBlock from '../../TextItemBlock.jsx';
+import LineItemBlock from '../../LineItemBlock.jsx';
 import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
-import { minXFromTextItems } from '../../../textItemFunctions.jsx';
+import { minXFromPageItems } from '../../../pageItemFunctions.jsx';
 
 // Gathers lines to blocks
-export default class GatherBlocks extends ToTextItemBlockTransformation {
+export default class GatherBlocks extends ToLineItemBlockTransformation {
 
     constructor() {
         super("Gather Blocks");
@@ -14,29 +14,29 @@ export default class GatherBlocks extends ToTextItemBlockTransformation {
     transform(parseResult:ParseResult) {
         const {mostUsedDistance} = parseResult.globals;
         var createdBlocks = 0;
-        var textItems = 0;
+        var lineItemCount = 0;
         parseResult.pages.map(page => {
-            textItems += page.items.length;
+            lineItemCount += page.items.length;
             const blocks = [];
-            var stashedBlock = new TextItemBlock({});
+            var stashedBlock = new LineItemBlock({});
             const flushStashedItems = () => {
-                if (stashedBlock.textItems.length > 1) {
+                if (stashedBlock.items.length > 1) {
                     stashedBlock.annotation = DETECTED_ANNOTATION;
                 }
 
                 blocks.push(stashedBlock);
-                stashedBlock = new TextItemBlock({});
+                stashedBlock = new LineItemBlock({});
                 createdBlocks++;
             };
 
-            var minX = minXFromTextItems(page.items);
+            var minX = minXFromPageItems(page.items);
             page.items.forEach(item => {
-                if (stashedBlock.textItems.length > 0 && shouldFlushBlock(stashedBlock, item, minX, mostUsedDistance)) {
+                if (stashedBlock.items.length > 0 && shouldFlushBlock(stashedBlock, item, minX, mostUsedDistance)) {
                     flushStashedItems();
                 }
-                stashedBlock.addTextItem(item);
+                stashedBlock.addItem(item);
             });
-            if (stashedBlock.textItems.length > 0) {
+            if (stashedBlock.items.length > 0) {
                 flushStashedItems();
             }
             page.items = blocks;
@@ -44,7 +44,7 @@ export default class GatherBlocks extends ToTextItemBlockTransformation {
 
         return new ParseResult({
             ...parseResult,
-            messages: ['Gathered ' + createdBlocks + ' blocks out of ' + textItems + ' text items']
+            messages: ['Gathered ' + createdBlocks + ' blocks out of ' + lineItemCount + ' line items']
         });
     }
 
@@ -54,7 +54,7 @@ function shouldFlushBlock(stashedBlock, item, minX, mostUsedDistance) {
     if (stashedBlock.type && stashedBlock.type.mergeFollowingNonTypedItems && !item.type) {
         return false;
     }
-    const lastItem = stashedBlock.textItems[stashedBlock.textItems.length - 1];
+    const lastItem = stashedBlock.items[stashedBlock.items.length - 1];
     const hasBigDistance = bigDistance(lastItem, item, minX, mostUsedDistance);
     if (stashedBlock.type && stashedBlock.type.mergeFollowingNonTypedItemsWithSmallDistance && !item.type && !hasBigDistance) {
         return false;

@@ -1,13 +1,12 @@
 import React from 'react';
 import PageView from './PageView.jsx';
-import TextItemTable from './TextItemTable.jsx';
+import LineItemTable from './LineItemTable.jsx';
 
-// View for a Page which items are of kind TextItemBlock
-export default class TextItemBlockPageView extends PageView {
+// View for a Page which items are of kind LineItemBlock
+export default class LineItemBlockPageView extends PageView {
 
     createItemViews(items, showWhitespaces) {
         const blockTables = items.map((block, i) => {
-            var textItems = block.textItems;
             const blockType = block.type ? ' - ' + block.type.name : null;
             const blockAnnotation = block.annotation ? <span>{ ' - ' + block.annotation.category }</span>
                 : null;
@@ -38,7 +37,7 @@ export default class TextItemBlockPageView extends PageView {
                        <b>Block { i + 1 }</b><i>{ blockType } { blockAnnotation }</i>
                      </div>
                      <div style={ borderStyle }>
-                       <TextItemTable textItems={ textItems } showWhitespaces={ showWhitespaces } />
+                       <LineItemTable items={ block.items } showWhitespaces={ showWhitespaces } />
                        { footnoteLinks }
                        { footnotes }
                      </div>

@@ -1,4 +1,4 @@
-import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
+import ToLineItemTransformation from '../ToLineItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
 import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
 import ElementType from '../../ElementType.jsx';
@@ -6,7 +6,7 @@ import { headlineByLevel } from '../../ElementType.jsx';
 import { isListItem } from '../../../functions.jsx';
 
 //Detect items starting with -, •, etc...
-export default class DetectHeaders extends ToTextItemTransformation {
+export default class DetectHeaders extends ToLineItemTransformation {
 
     constructor() {
         super("Detect Headers");
@@ -21,15 +21,15 @@ export default class DetectHeaders extends ToTextItemTransformation {
         const pagesWithMaxHeight = findPagesWithMaxHeight(parseResult.pages, maxHeight);
         const min2ndLevelHeaderHeigthOnMaxPage = mostUsedHeight + ((maxHeight - mostUsedHeight) / 4);
         pagesWithMaxHeight.forEach(titlePage => {
-            titlePage.items.forEach(textItem => {
-                const height = textItem.height;
-                if (!textItem.type && height > min2ndLevelHeaderHeigthOnMaxPage) {
+            titlePage.items.forEach(item => {
+                const height = item.height;
+                if (!item.type && height > min2ndLevelHeaderHeigthOnMaxPage) {
                     if (height == maxHeight) {
-                        textItem.type = ElementType.H1;
+                        item.type = ElementType.H1;
                     } else {
-                        textItem.type = ElementType.H2;
+                        item.type = ElementType.H2;
                     }
-                    textItem.annotation = DETECTED_ANNOTATION;
+                    item.annotation = DETECTED_ANNOTATION;
                     detectedHeaders++;
                 }
             });
@@ -41,10 +41,10 @@ export default class DetectHeaders extends ToTextItemTransformation {
                 var range = headlineTypeToHeightRange[headlineType];
                 if (range.max > mostUsedHeight) { //use only very clear headlines, only use max
                     parseResult.pages.forEach(page => {
-                        page.items.forEach(textItem => {
-                            if (!textItem.type && textItem.height == range.max) {
-                                textItem.annotation = DETECTED_ANNOTATION;
-                                textItem.type = ElementType.enumValueOf(headlineType);
+                        page.items.forEach(item => {
+                            if (!item.type && item.height == range.max) {
+                                item.annotation = DETECTED_ANNOTATION;
+                                item.type = ElementType.enumValueOf(headlineType);
                                 detectedHeaders++
                             }
                         });
@@ -56,10 +56,10 @@ export default class DetectHeaders extends ToTextItemTransformation {
             const heights = [];
             var lastHeight;
             parseResult.pages.forEach(page => {
-                page.items.forEach(textItem => {
-                    if (!textItem.type && textItem.height > mostUsedHeight && !isListItem(textItem.text)) {
-                        if (!heights.includes(textItem.height) && (!lastHeight || lastHeight > textItem.height)) {
-                            heights.push(textItem.height);
+                page.items.forEach(item => {
+                    if (!item.type && item.height > mostUsedHeight && !isListItem(item.text())) {
+                        if (!heights.includes(item.height) && (!lastHeight || lastHeight > item.height)) {
+                            heights.push(item.height);
                         }
                     }
                 });
@@ -69,11 +69,11 @@ export default class DetectHeaders extends ToTextItemTransformation {
             heights.forEach((height, i) => {
                 const headlineType = headlineByLevel(2 + i);
                 parseResult.pages.forEach(page => {
-                    page.items.forEach(textItem => {
-                        if (!textItem.type && textItem.height == height && !isListItem(textItem.text)) {
+                    page.items.forEach(item => {
+                        if (!item.type && item.height == height && !isListItem(item.text())) {
                             detectedHeaders++;
-                            textItem.annotation = DETECTED_ANNOTATION;
-                            textItem.type = headlineType;
+                            item.annotation = DETECTED_ANNOTATION;
+                            item.type = headlineType;
                         }
                     });
                 });
@@ -83,9 +83,9 @@ export default class DetectHeaders extends ToTextItemTransformation {
         //find headlines which have paragraph height
         var smallesHeadlineLevel = 1;
         parseResult.pages.forEach(page => {
-            page.items.forEach(textItem => {
-                if (textItem.type && textItem.type.headline) {
-                    smallesHeadlineLevel = Math.max(smallesHeadlineLevel, textItem.type.headlineLevel);
+            page.items.forEach(item => {
+                if (item.type && item.type.headline) {
+                    smallesHeadlineLevel = Math.max(smallesHeadlineLevel, item.type.headlineLevel);
                 }
             });
         });
@@ -93,18 +93,18 @@ export default class DetectHeaders extends ToTextItemTransformation {
             const nextHeadlineType = headlineByLevel(smallesHeadlineLevel + 1);
             parseResult.pages.forEach(page => {
                 var lastItem;
-                page.items.forEach(textItem => {
-                    if (!textItem.type
-                            && textItem.height == mostUsedHeight
-                            && textItem.font !== mostUsedFont
-                            && (!lastItem || lastItem.y < textItem.y || (lastItem.type && lastItem.type.headline) || (lastItem.y - textItem.y > mostUsedDistance * 2))
-                            && textItem.text === textItem.text.toUpperCase()
+                page.items.forEach(item => {
+                    if (!item.type
+                            && item.height == mostUsedHeight
+                            && item.font !== mostUsedFont
+                            && (!lastItem || lastItem.y < item.y || (lastItem.type && lastItem.type.headline) || (lastItem.y - item.y > mostUsedDistance * 2))
+                            && item.text() === item.text().toUpperCase()
                     ) {
                         detectedHeaders++;
-                        textItem.annotation = DETECTED_ANNOTATION;
-                        textItem.type = nextHeadlineType;
+                        item.annotation = DETECTED_ANNOTATION;
+                        item.type = nextHeadlineType;
                     }
-                    lastItem = textItem;
+                    lastItem = item;
                 });
             });
         }
@@ -124,8 +124,8 @@ export default class DetectHeaders extends ToTextItemTransformation {
 function findPagesWithMaxHeight(pages, maxHeight) {
     const maxHeaderPagesSet = new Set();
     pages.forEach(page => {
-        page.items.forEach(textItem => {
-            if (!textItem.type && textItem.height == maxHeight) {
+        page.items.forEach(item => {
+            if (!item.type && item.height == maxHeight) {
                 maxHeaderPagesSet.add(page);
             }
         });

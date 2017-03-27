@@ -6,6 +6,8 @@ import { UNCHANGED_ANNOTATION, ADDED_ANNOTATION, REMOVED_ANNOTATION } from '../.
 //Complete unopened/unclosed bold/italic formats
 export default class CompleteFormats extends ToTextItemTransformation {
 
+    //TODO move to block and ignore quotes
+
     constructor() {
         super("Complete Bold/Italics");
     }
@@ -81,7 +83,6 @@ class ItemStack {
     }
 
     consume(item) {
-        const te = item.text;
         var newItem;
 
         const handleFreshUnopened = () => {

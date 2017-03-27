@@ -4,24 +4,25 @@ export default class HeadlineFinder {
 
     constructor(options) {
         this.headlineCharCodes = normalizedCharCodeArray(options.headline);
-        this.stackedTextItems = [];
+        this.stackedLineItems = [];
         this.stackedChars = 0;
     }
 
-    consume(textItem) {
-        const normalizedCharCodes = normalizedCharCodeArray(textItem.text);
+    consume(lineItem) {
+        //TODO avoid join
+        const normalizedCharCodes = normalizedCharCodeArray(lineItem.text());
         const matchAll = this.matchAll(normalizedCharCodes);
         if (matchAll) {
-            this.stackedTextItems.push(textItem);
+            this.stackedLineItems.push(lineItem);
             this.stackedChars += normalizedCharCodes.length;
             if (this.stackedChars == this.headlineCharCodes.length) {
-                return this.stackedTextItems;
+                return this.stackedLineItems;
             }
         } else {
             if (this.stackedChars > 0) {
                 this.stackedChars = 0;
-                this.stackedTextItems = [];
-                this.consume(textItem); // test again without stack
+                this.stackedLineItems = [];
+                this.consume(lineItem); // test again without stack
             }
         }
         return null;
