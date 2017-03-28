@@ -5,7 +5,7 @@ import ParseResult from '../../ParseResult.jsx';
 import LineItem from '../../LineItem.jsx';
 import TextItemLineGrouper from '../../TextItemLineGrouper.jsx';
 import LineConverter from '../../LineConverter.jsx';
-import ElementType from '../../ElementType.jsx';
+import BlockType from '../../markdown/BlockType.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../../Annotation.jsx';
 
 
@@ -59,7 +59,7 @@ export default class CompactLines extends ToLineItemTransformation {
                         foundFootnoteLinks.push.apply(foundFootnoteLinks, footnoteLinks);
                     }
                     if (lineItem.parsedElements.footnotes.length > 0) {
-                        lineItem.type = ElementType.FOOTNOTES;
+                        lineItem.type = BlockType.FOOTNOTES;
                         const footnotes = lineItem.parsedElements.footnotes.map(footnote => <span key={ footnote }><a href={ "#Page " + (page.index + 1) }>{ footnote }</a>,</span>);
                         foundFootnotes.push.apply(foundFootnotes, footnotes);
                     }

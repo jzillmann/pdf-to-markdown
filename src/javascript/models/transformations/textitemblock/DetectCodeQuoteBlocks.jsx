@@ -1,7 +1,7 @@
 import ToLineItemBlockTransformation from '../ToLineItemBlockTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
 import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
-import ElementType from '../../ElementType.jsx';
+import BlockType from '../../markdown/BlockType.jsx';
 import { minXFromBlocks } from '../../../pageItemFunctions.jsx';
 
 //Detect items which are code/quote blocks
@@ -19,7 +19,7 @@ export default class DetectCodeQuoteBlocks extends ToLineItemBlockTransformation
             page.items.forEach(block => {
                 if (!block.type && looksLikeCodeBlock(minX, block.items, mostUsedHeight)) {
                     block.annotation = DETECTED_ANNOTATION;
-                    block.type = ElementType.CODE;
+                    block.type = BlockType.CODE;
                     foundCodeItems++;
                 }
             });

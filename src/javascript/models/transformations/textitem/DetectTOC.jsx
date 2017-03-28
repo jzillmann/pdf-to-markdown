@@ -4,8 +4,8 @@ import LineItem from '../../LineItem.jsx';
 import Word from '../../Word.jsx';
 import HeadlineFinder from '../../HeadlineFinder.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../../Annotation.jsx';
-import ElementType from '../../ElementType.jsx';
-import { headlineByLevel } from '../../ElementType.jsx';
+import BlockType from '../../markdown/BlockType.jsx';
+import { headlineByLevel } from '../../markdown/BlockType.jsx';
 import { isDigit, isNumber, wordMatch, hasOnly } from '../../../stringFunctions.jsx'
 
 //Detect table of contents pages plus linked headlines
@@ -90,7 +90,7 @@ export default class DetectTOC extends ToLineItemTransformation {
                     if (line === headlineItem) {
                         newBlocks.push(new LineItem({
                             ...line,
-                            type: ElementType.H2,
+                            type: BlockType.H2,
                             annotation: ADDED_ANNOTATION
                         }));
                     }
@@ -114,7 +114,7 @@ export default class DetectTOC extends ToLineItemTransformation {
                     words: [new Word({
                         string: ' '.repeat(tocLink.level * 3) + '-'
                     })].concat(tocLink.lineItem.words),
-                    type: ElementType.TOC,
+                    type: BlockType.TOC,
                     annotation: ADDED_ANNOTATION
                 }));
             });

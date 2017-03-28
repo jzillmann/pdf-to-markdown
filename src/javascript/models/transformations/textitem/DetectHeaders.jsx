@@ -1,8 +1,8 @@
 import ToLineItemTransformation from '../ToLineItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
 import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
-import ElementType from '../../ElementType.jsx';
-import { headlineByLevel } from '../../ElementType.jsx';
+import BlockType from '../../markdown/BlockType.jsx';
+import { headlineByLevel } from '../../markdown/BlockType.jsx';
 import { isListItem } from '../../../stringFunctions.jsx';
 
 //Detect headlines based on heights
@@ -25,9 +25,9 @@ export default class DetectHeaders extends ToLineItemTransformation {
                 const height = item.height;
                 if (!item.type && height > min2ndLevelHeaderHeigthOnMaxPage) {
                     if (height == maxHeight) {
-                        item.type = ElementType.H1;
+                        item.type = BlockType.H1;
                     } else {
-                        item.type = ElementType.H2;
+                        item.type = BlockType.H2;
                     }
                     item.annotation = DETECTED_ANNOTATION;
                     detectedHeaders++;
@@ -44,7 +44,7 @@ export default class DetectHeaders extends ToLineItemTransformation {
                         page.items.forEach(item => {
                             if (!item.type && item.height == range.max) {
                                 item.annotation = DETECTED_ANNOTATION;
-                                item.type = ElementType.enumValueOf(headlineType);
+                                item.type = BlockType.enumValueOf(headlineType);
                                 detectedHeaders++
                             }
                         });

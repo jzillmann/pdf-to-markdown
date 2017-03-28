@@ -3,7 +3,7 @@ import ParseResult from '../../ParseResult.jsx';
 import LineItem from '../../LineItem.jsx';
 import Word from '../../Word.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION, DETECTED_ANNOTATION } from '../../Annotation.jsx';
-import ElementType from '../../ElementType.jsx';
+import BlockType from '../../markdown/BlockType.jsx';
 import { isListItemCharacter, isNumberedListItem } from '../../../stringFunctions.jsx';
 
 //Detect items starting with -, •, etc...
@@ -26,7 +26,7 @@ export default class DetectListItems extends ToLineItemTransformation {
                         foundListItems++
                         if (item.words[0].string === '-') {
                             item.annotation = DETECTED_ANNOTATION;
-                            item.type = ElementType.LIST;
+                            item.type = BlockType.LIST;
                         } else {
                             item.annotation = REMOVED_ANNOTATION;
                             const newWords = item.words.map(word => new Word({
@@ -37,13 +37,13 @@ export default class DetectListItems extends ToLineItemTransformation {
                                 ...item,
                                 words: newWords,
                                 annotation: ADDED_ANNOTATION,
-                                type: ElementType.LIST
+                                type: BlockType.LIST
                             }));
                         }
                     } else if (isNumberedListItem(text)) { //TODO check that starts with 1 (kala chakra)
                         foundNumberedItems++;
                         item.annotation = DETECTED_ANNOTATION;
-                        item.type = ElementType.LIST;
+                        item.type = BlockType.LIST;
                     }
                 }
             });

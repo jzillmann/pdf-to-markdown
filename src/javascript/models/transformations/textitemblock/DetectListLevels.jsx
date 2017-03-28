@@ -2,7 +2,7 @@ import ToLineItemBlockTransformation from '../ToLineItemBlockTransformation.jsx'
 import ParseResult from '../../ParseResult.jsx';
 import Word from '../../Word.jsx';
 import { MODIFIED_ANNOTATION, UNCHANGED_ANNOTATION } from '../../Annotation.jsx';
-import ElementType from '../../ElementType.jsx';
+import BlockType from '../../markdown/BlockType.jsx';
 
 // Cares for proper sub-item spacing/leveling
 export default class DetectListLevels extends ToLineItemBlockTransformation {
@@ -17,7 +17,7 @@ export default class DetectListLevels extends ToLineItemBlockTransformation {
         var modifiedBlocks = 0;
         parseResult.pages.forEach(page => {
 
-            page.items.filter(block => block.type === ElementType.LIST).forEach(listBlock => {
+            page.items.filter(block => block.type === BlockType.LIST).forEach(listBlock => {
                 var lastItemX;
                 var currentLevel = 0;
                 const xByLevel = {};

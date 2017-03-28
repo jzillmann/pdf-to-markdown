@@ -1,14 +1,14 @@
 import { Enum } from 'enumify';
-import { linesToText } from './markdown/WordType.jsx';
-import LineItemBlock from './LineItemBlock.jsx';
+import { linesToText } from './WordType.jsx';
+import LineItemBlock from '../LineItemBlock.jsx';
 
-// An Markdown element
-export default class ElementType extends Enum {
+// An Markdown block
+export default class BlockType extends Enum {
 }
 
 //TODO rename to BlockType
 
-ElementType.initEnum({
+BlockType.initEnum({
     H1: {
         headline: true,
         headlineLevel: 1,
@@ -84,8 +84,8 @@ ElementType.initEnum({
     }
 });
 
-export function isHeadline(elementType: ElementType) {
-    return elementType && elementType.name.length == 2 && elementType.name[0] === 'H'
+export function isHeadline(type: BlockType) {
+    return type && type.name.length == 2 && type.name[0] === 'H'
 }
 
 export function blockToText(block: LineItemBlock) {
@@ -97,17 +97,17 @@ export function blockToText(block: LineItemBlock) {
 
 export function headlineByLevel(level) {
     if (level == 1) {
-        return ElementType.H1;
+        return BlockType.H1;
     } else if (level == 2) {
-        return ElementType.H2;
+        return BlockType.H2;
     } else if (level == 3) {
-        return ElementType.H3;
+        return BlockType.H3;
     } else if (level == 4) {
-        return ElementType.H4;
+        return BlockType.H4;
     } else if (level == 5) {
-        return ElementType.H5;
+        return BlockType.H5;
     } else if (level == 6) {
-        return ElementType.H6;
+        return BlockType.H6;
     }
     throw "Unsupported headline level: " + level + " (supported are 1-6)";
 }
