@@ -20,6 +20,7 @@ export default class CompactLines extends ToLineItemTransformation {
         const {mostUsedDistance, fontToFormats} = parseResult.globals;
         const foundFootnotes = [];
         const foundFootnoteLinks = [];
+        var linkCount = 0;
         var formattedWords = 0;
 
         const lineGrouper = new TextItemLineGrouper({
@@ -47,6 +48,9 @@ export default class CompactLines extends ToLineItemTransformation {
                     }
                     lineItems.push(lineItem);
 
+                    if (lineItem.parsedElements.containLinks > 0) {
+                        linkCount++;
+                    }
                     if (lineItem.parsedElements.footnoteLinks.length > 0) {
                         const footnoteLinks = lineItem.parsedElements.footnoteLinks.map(footnoteLink => <span key={ footnoteLink }><a href={ "#Page " + (page.index + 1) }>{ footnoteLink }</a>,</span>);
                         foundFootnoteLinks.push.apply(foundFootnoteLinks, footnoteLinks);
@@ -66,6 +70,7 @@ export default class CompactLines extends ToLineItemTransformation {
             ...parseResult,
             messages: [
                 'Detected ' + formattedWords + ' formatted words',
+                'Found ' + linkCount + ' links',
                 <span>Detected { foundFootnoteLinks.length } footnotes links: [{ foundFootnoteLinks }]</span>,
                 <span>Detected { foundFootnotes.length } footnotes: [{ foundFootnotes }]</span>,
             ]

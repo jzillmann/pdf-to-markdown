@@ -18,14 +18,12 @@ export class ParsedElements {
         this.footnoteLinks = options.footnoteLinks || [];
         this.footnotes = options.footnotes || [];
         this.containLinks = options.containLinks;
-        this.inlineFormats = options.inlineFormats || 0;
     }
 
     add(parsedElements) {
         this.footnoteLinks = this.footnoteLinks.concat(parsedElements.footnoteLinks);
         this.footnotes = this.footnotes.concat(parsedElements.footnotes);
         this.containLinks = this.containLinks || parsedElements.containLinks;
-        this.inlineFormats = this.inlineFormats + parsedElements.inlineFormats;
     }
 
 }

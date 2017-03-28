@@ -1,5 +1,5 @@
 import { Enum } from 'enumify';
-import LineItem from './LineItem.jsx';
+import { linesToText } from './markdown/WordType.jsx';
 import LineItemBlock from './LineItemBlock.jsx';
 
 // An Markdown element
@@ -13,73 +13,73 @@ ElementType.initEnum({
         headline: true,
         headlineLevel: 1,
         toText(block:LineItemBlock) {
-            return '# ' + concatLineItems(block.items);
+            return '# ' + linesToText(block.items, true);
         }
     },
     H2: {
         headline: true,
         headlineLevel: 2,
         toText(block:LineItemBlock) {
-            return '## ' + concatLineItems(block.items);
+            return '## ' + linesToText(block.items, true);
         }
     },
     H3: {
         headline: true,
         headlineLevel: 3,
         toText(block:LineItemBlock) {
-            return '### ' + concatLineItems(block.items);
+            return '### ' + linesToText(block.items, true);
         }
     },
     H4: {
         headline: true,
         headlineLevel: 4,
         toText(block:LineItemBlock) {
-            return '#### ' + concatLineItems(block.items);
+            return '#### ' + linesToText(block.items, true);
         }
     },
     H5: {
         headline: true,
         headlineLevel: 5,
         toText(block:LineItemBlock) {
-            return '##### ' + concatLineItems(block.items);
+            return '##### ' + linesToText(block.items, true);
         }
     },
     H6: {
         headline: true,
         headlineLevel: 6,
         toText(block:LineItemBlock) {
-            return '###### ' + concatLineItems(block.items);
+            return '###### ' + linesToText(block.items, true);
         }
     },
     TOC: {
         mergeToBlock: true,
         toText(block:LineItemBlock) {
-            return concatLineItems(block.items);
+            return linesToText(block.items, true);
         }
     },
     FOOTNOTES: {
         mergeToBlock: true,
         mergeFollowingNonTypedItems: true,
         toText(block:LineItemBlock) {
-            return concatLineItems(block.items);
+            return linesToText(block.items, false);
         }
     },
     CODE: {
         mergeToBlock: true,
         toText(block:LineItemBlock) {
-            return '```\n' + concatLineItems(block.items) + '```'
+            return '```\n' + linesToText(block.items, true) + '```'
         }
     },
     LIST: {
         mergeToBlock: true,
         mergeFollowingNonTypedItemsWithSmallDistance: true,
         toText(block:LineItemBlock) {
-            return concatLineItems(block.items);
+            return linesToText(block.items, false);
         }
     },
     PARAGRAPH: {
         toText(block:LineItemBlock) {
-            return concatLineItems(block.items);
+            return linesToText(block.items, false);
         }
     }
 });
@@ -90,17 +90,9 @@ export function isHeadline(elementType: ElementType) {
 
 export function blockToText(block: LineItemBlock) {
     if (!block.type) {
-        return concatLineItems(block.items);
+        return linesToText(block.items, false);
     }
     return block.type.toText(block);
-}
-
-function concatLineItems(lineItems: LineItem[]) {
-    var text = '';
-    lineItems.forEach(item => {
-        text += item.text() + '\n';
-    });
-    return text;
 }
 
 export function headlineByLevel(level) {

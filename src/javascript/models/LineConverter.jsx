@@ -40,40 +40,13 @@ export default class LineConverter {
             words: words,
             parsedElements: new ParsedElements({
                 footnoteLinks: wordStream.footnoteLinks,
-                footnotes: wordStream.footnotes
+                footnotes: wordStream.footnotes,
+                containLinks: wordStream.containLinks
             })
         });
 
     }
 
-}
-
-function itemsToWords(items, format) {
-    const combinedText = combineText(items);
-    // const combinedText = items.map(textItem => textItem.text).join('');
-    const words = combinedText.split(' ');
-    return words.filter(w => w.trim().length > 0).map(word => {
-        return new Word({
-            string: word,
-            type: format
-        });
-    });
-}
-
-function combineText(textItems) {
-    var text = '';
-    var lastItem;
-    textItems.forEach(textItem => {
-        if (lastItem && !text.endsWith(' ') && !textItem.text.startsWith(' ')) {
-            const xDistance = textItem.x - lastItem.x - lastItem.width;
-            if (xDistance > 5) {
-                text += ' ';
-            }
-        }
-        text += textItem.text;
-        lastItem = textItem;
-    });
-    return text;
 }
 
 class WordDetectionStream extends StashingStream {
@@ -83,6 +56,8 @@ class WordDetectionStream extends StashingStream {
         this.fontToFormats = fontToFormats;
         this.footnoteLinks = [];
         this.footnotes = [];
+        this.formattedWords = 0
+        this.containLinks = false;
 
         this.firstY;
         this.stashedNumber = false;
@@ -113,21 +88,17 @@ class WordDetectionStream extends StashingStream {
 
     doFlushStash(stash, results) {
         if (this.stashedNumber) {
-            const joinedNumber = stash.map(item => item.text).join('');
+            const joinedNumber = stash.map(item => item.text).join('').trim();
             if (stash[0].y > this.firstY) { // footnote link
                 results.push(new Word({
                     string: `${joinedNumber}`,
                     type: WordType.FOOTNOTE_LINK
-                //TODO format to
-                //^
-                //`<sup>[${joinedNumber}](#${joinedNumber})</sup>`
                 }));
                 this.footnoteLinks.push(parseInt(joinedNumber));
             } else if (this.currentItem && this.currentItem.y < stash[0].y) { // footnote
                 results.push(new Word({
                     string: `${joinedNumber}`,
                     type: WordType.FOOTNOTE
-                //TODO format to (^${ joinedNumber}): 
                 }));
                 this.footnotes.push(joinedNumber);
             } else {
@@ -140,6 +111,50 @@ class WordDetectionStream extends StashingStream {
 
     copyStashItemsAsText(stash, results) {
         const format = this.fontToFormats.get(stash[0].font);
-        results.push(...itemsToWords(stash, format));
+        results.push(...this.itemsToWords(stash, format));
     }
+
+    itemsToWords(items, format) {
+        const combinedText = combineText(items);
+        // const combinedText = items.map(textItem => textItem.text).join('');
+        const words = combinedText.split(' ');
+        return words.filter(w => w.trim().length > 0).map(word => {
+            if (word.startsWith('http:')) {
+                this.containLinks = true;
+                return new Word({
+                    string: word,
+                    type: WordType.LINK
+                });
+            } else if (word.startsWith('www.')) {
+                this.containLinks = true;
+                word = `http://${word}`
+                return new Word({
+                    string: word,
+                    type: WordType.LINK
+                });
+            }
+
+            return new Word({
+                string: word,
+                type: format
+            });
+        });
+    }
+}
+
+
+function combineText(textItems) {
+    var text = '';
+    var lastItem;
+    textItems.forEach(textItem => {
+        if (lastItem && !text.endsWith(' ') && !textItem.text.startsWith(' ')) {
+            const xDistance = textItem.x - lastItem.x - lastItem.width;
+            if (xDistance > 5) {
+                text += ' ';
+            }
+        }
+        text += textItem.text;
+        lastItem = textItem;
+    });
+    return text;
 }

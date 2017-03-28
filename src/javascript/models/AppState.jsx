@@ -9,7 +9,6 @@ import PostprocessLines from './transformations/textitem/PostprocessLines.jsx';
 import DetectTOC from './transformations/textitem/DetectTOC.jsx'
 import DetectListItems from './transformations/textitem/DetectListItems.jsx'
 import DetectHeaders from './transformations/textitem/DetectHeaders.jsx'
-import CompleteFormats from './transformations/textitem/CompleteFormats.jsx'
 
 import GatherBlocks from './transformations/textitemblock/GatherBlocks.jsx'
 import DetectCodeQuoteBlocks from './transformations/textitemblock/DetectCodeQuoteBlocks.jsx'
@@ -60,7 +59,6 @@ export default class AppState {
             // new PostprocessLines(),
             new DetectTOC(),
             new DetectHeaders(),
-            // new CompleteFormats(),
             new DetectListItems(),
 
             new GatherBlocks(),
