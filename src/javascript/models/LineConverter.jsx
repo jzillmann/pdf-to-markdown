@@ -4,7 +4,7 @@ import WordType from './markdown/WordType.jsx';
 import LineItem from './LineItem.jsx';
 import StashingStream from './StashingStream.jsx';
 import { ParsedElements } from './PageItem.jsx';
-import { isNumber } from '../functions.jsx'
+import { isNumber, isListItemCharacter } from '../stringFunctions.jsx'
 import { sortByX } from '../pageItemFunctions.jsx'
 
 // Converts text items which have been grouped to a line (through TextItemLineGrouper) to a single LineItem doing inline transformations like 
@@ -146,13 +146,20 @@ function combineText(textItems) {
     var text = '';
     var lastItem;
     textItems.forEach(textItem => {
-        if (lastItem && !text.endsWith(' ') && !textItem.text.startsWith(' ')) {
-            const xDistance = textItem.x - lastItem.x - lastItem.width;
-            if (xDistance > 5) {
-                text += ' ';
+        var textToAdd = textItem.text;
+        if (!text.endsWith(' ') && !textToAdd.startsWith(' ')) {
+            if (lastItem) {
+                const xDistance = textItem.x - lastItem.x - lastItem.width;
+                if (xDistance > 5) {
+                    text += ' ';
+                }
+            } else {
+                if (isListItemCharacter(textItem.text)) {
+                    textToAdd += ' ';
+                }
             }
         }
-        text += textItem.text;
+        text += textToAdd;
         lastItem = textItem;
     });
     return text;

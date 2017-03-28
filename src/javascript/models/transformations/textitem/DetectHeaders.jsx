@@ -3,9 +3,9 @@ import ParseResult from '../../ParseResult.jsx';
 import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
 import ElementType from '../../ElementType.jsx';
 import { headlineByLevel } from '../../ElementType.jsx';
-import { isListItem } from '../../../functions.jsx';
+import { isListItem } from '../../../stringFunctions.jsx';
 
-//Detect items starting with -, •, etc...
+//Detect headlines based on heights
 export default class DetectHeaders extends ToLineItemTransformation {
 
     constructor() {

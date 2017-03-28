@@ -1,9 +1,10 @@
 import ToLineItemTransformation from '../ToLineItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
 import LineItem from '../../LineItem.jsx';
+import Word from '../../Word.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION, DETECTED_ANNOTATION } from '../../Annotation.jsx';
 import ElementType from '../../ElementType.jsx';
-import { isListItem, isNumberedListItem, removeLeadingWhitespaces } from '../../../functions.jsx';
+import { isListItemCharacter, isNumberedListItem } from '../../../stringFunctions.jsx';
 
 //Detect items starting with -, •, etc...
 export default class DetectListItems extends ToLineItemTransformation {
@@ -21,17 +22,20 @@ export default class DetectListItems extends ToLineItemTransformation {
                 newItems.push(item);
                 if (!item.type) {
                     var text = item.text();
-                    if (isListItem(text)) {
+                    if (isListItemCharacter(item.words[0].string)) {
                         foundListItems++
-                        const textWithDash = '-' + removeLeadingWhitespaces(text).substring(1, text.length);
-                        if (textWithDash === text) {
+                        if (item.words[0].string === '-') {
                             item.annotation = DETECTED_ANNOTATION;
                             item.type = ElementType.LIST;
                         } else {
                             item.annotation = REMOVED_ANNOTATION;
+                            const newWords = item.words.map(word => new Word({
+                                ...word
+                            }));
+                            newWords[0].string = '-';
                             newItems.push(new LineItem({
                                 ...item,
-                                text: textWithDash,
+                                words: newWords,
                                 annotation: ADDED_ANNOTATION,
                                 type: ElementType.LIST
                             }));

@@ -92,8 +92,17 @@ export function suffixBeforeWhitespace(string, suffix) {
     }
 }
 
+export function isListItemCharacter(string) {
+    if (string.length > 1) {
+        return false
+    }
+    const char = string.charAt(0);
+    return char === '-' || char === '•' || char === '–';
+}
+
+
 export function isListItem(string) {
-    return /^[\s]*[-•][\s].*$/g.test(string);
+    return /^[\s]*[-•–][\s].*$/g.test(string);
 }
 
 export function isNumberedListItem(string) {

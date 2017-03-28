@@ -2,7 +2,7 @@ import ToLineItemTransformation from '../ToLineItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
 import { REMOVED_ANNOTATION } from '../../Annotation.jsx';
 
-import { isDigit } from '../../../functions.jsx'
+import { isDigit } from '../../../stringFunctions.jsx'
 
 
 function hashCodeIgnoringSpacesAndNumbers(string) {

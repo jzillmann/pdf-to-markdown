@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, removeLeadingWhitespaces, removeTrailingWhitespaces, prefixAfterWhitespace, suffixBeforeWhitespace, charCodeArray, isListItem, isNumberedListItem, wordMatch } from '../src/javascript/functions.jsx'
+import { hasUpperCaseCharacterInMiddleOfWord, normalizedCharCodeArray, removeLeadingWhitespaces, removeTrailingWhitespaces, prefixAfterWhitespace, suffixBeforeWhitespace, charCodeArray, isListItem, isNumberedListItem, wordMatch } from '../src/javascript/stringFunctions.jsx'
 
 describe('functions: hasUpperCaseCharacterInMiddleOfWord', () => {
 
@@ -144,6 +144,9 @@ describe('functions: isListItem', () => {
         expect(isListItem('• my text')).to.equal(true);
         expect(isListItem(' • my text')).to.equal(true);
         expect(isListItem('  • my text')).to.equal(true);
+
+        expect(isListItem('– my text')).to.equal(true);
+        expect(isListItem(' – my text')).to.equal(true);
     });
 
     it('No Match', () => {
