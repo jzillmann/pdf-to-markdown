@@ -41,7 +41,8 @@ export default class LineConverter {
             parsedElements: new ParsedElements({
                 footnoteLinks: wordStream.footnoteLinks,
                 footnotes: wordStream.footnotes,
-                containLinks: wordStream.containLinks
+                containLinks: wordStream.containLinks,
+                formattedWords: wordStream.formattedWords
             })
         });
 
@@ -116,27 +117,25 @@ class WordDetectionStream extends StashingStream {
 
     itemsToWords(items, format) {
         const combinedText = combineText(items);
-        // const combinedText = items.map(textItem => textItem.text).join('');
         const words = combinedText.split(' ');
         return words.filter(w => w.trim().length > 0).map(word => {
+            var type = null;
             if (word.startsWith('http:')) {
                 this.containLinks = true;
-                return new Word({
-                    string: word,
-                    type: WordType.LINK
-                });
+                type = WordType.LINK;
             } else if (word.startsWith('www.')) {
                 this.containLinks = true;
                 word = `http://${word}`
-                return new Word({
-                    string: word,
-                    type: WordType.LINK
-                });
+                type = WordType.LINK;
             }
 
+            if (format) {
+                this.formattedWords++;
+            }
             return new Word({
                 string: word,
-                type: format
+                type: type,
+                format: format
             });
         });
     }

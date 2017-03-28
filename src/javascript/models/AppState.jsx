@@ -5,7 +5,6 @@ import CalculateGlobalStats from './transformations/textitem/CalculateGlobalStat
 import CompactLines from './transformations/textitem/CompactLines.jsx';
 import RemoveRepetitiveElements from './transformations/textitem/RemoveRepetitiveElements.jsx'
 import VerticalToHorizontal from './transformations/textitem/VerticalToHorizontal.jsx';
-import PostprocessLines from './transformations/textitem/PostprocessLines.jsx';
 import DetectTOC from './transformations/textitem/DetectTOC.jsx'
 import DetectListItems from './transformations/textitem/DetectListItems.jsx'
 import DetectHeaders from './transformations/textitem/DetectHeaders.jsx'
@@ -56,7 +55,6 @@ export default class AppState {
             new CompactLines(),
             new RemoveRepetitiveElements(),
             new VerticalToHorizontal(),
-            // new PostprocessLines(),
             new DetectTOC(),
             new DetectHeaders(),
             new DetectListItems(),

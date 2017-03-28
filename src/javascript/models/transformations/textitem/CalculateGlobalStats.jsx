@@ -1,6 +1,6 @@
 import ToTextItemTransformation from '../ToTextItemTransformation.jsx';
 import ParseResult from '../../ParseResult.jsx';
-import WordType from '../../markdown/WordType.jsx';
+import WordFormat from '../../markdown/WordFormat.jsx';
 
 export default class CalculateGlobalStats extends ToTextItemTransformation {
 
@@ -54,20 +54,20 @@ export default class CalculateGlobalStats extends ToTextItemTransformation {
         this.fontMap.forEach(function(value, key) {
             fontIdToName.push(key + " = " + value.name)
             const fontName = value.name.toLowerCase();
-            var type;
+            var format;
             if (key == mostUsedFont) {
-                type = null;
+                format = null;
             } else if (fontName.includes('bold') && (fontName.includes('oblique') || fontName.includes('italic'))) {
-                type = WordType.BOLD_OBLIQUE;
+                format = WordFormat.BOLD_OBLIQUE;
             } else if (fontName.includes('bold')) {
-                type = WordType.BOLD;
+                format = WordFormat.BOLD;
             } else if (fontName.includes('oblique') || fontName.includes('italic')) {
-                type = WordType.OBLIQUE;
+                format = WordFormat.OBLIQUE;
             } else if (fontName === maxHeightFont) {
-                type = WordType.BOLD;
+                format = WordFormat.BOLD;
             }
-            if (type) {
-                fontToFormats.set(key, type);
+            if (format) {
+                fontToFormats.set(key, format);
             }
         });
         fontIdToName.sort();

@@ -23,21 +23,6 @@ WordType.initEnum({
         toText(string) {
             return `(^${string})`
         }
-    },
-    BOLD: {
-        format: true,
-        startSymbol: '**',
-        endSymbol: '**',
-    },
-    OBLIQUE: {
-        format: true,
-        startSymbol: '_',
-        endSymbol: '_',
-    },
-    BOLD_OBLIQUE: {
-        format: true,
-        startSymbol: '**_',
-        endSymbol: '_**',
     }
 });
 
@@ -53,23 +38,22 @@ export function linesToText(lineItems, disableInlineFormats) {
     lineItems.forEach((line, lineIndex) => {
         line.words.forEach((word, i) => {
             const wordType = word.type;
-            if (openFormat && (!wordType || wordType !== openFormat)) {
+            const wordFormat = word.format;
+            if (openFormat && (!wordFormat || wordFormat !== openFormat)) {
                 closeFormat();
             }
 
             if (i > 0 && !(wordType && wordType.attachWithoutWhitespace) && !isPunctationCharacter(word.string)) {
                 text += ' ';
             }
+
+            if (wordFormat && !openFormat && (!disableInlineFormats)) {
+                openFormat = wordFormat;
+                text += openFormat.startSymbol;
+            }
+
             if (wordType && (!disableInlineFormats || wordType.plainTextFormat)) {
-                if (wordType.format) {
-                    if (!openFormat) {
-                        openFormat = wordType;
-                        text += openFormat.startSymbol;
-                    }
-                    text += word.string;
-                } else {
-                    text += wordType.toText(word.string);
-                }
+                text += wordType.toText(word.string);
             } else {
                 text += word.string;
             }
@@ -86,7 +70,7 @@ function firstFormat(lineItem) {
     if (lineItem.words.length == 0) {
         return null;
     }
-    return lineItem.words[0].type;
+    return lineItem.words[0].format;
 }
 
 function isPunctationCharacter(string) {

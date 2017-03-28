@@ -48,6 +48,9 @@ export default class CompactLines extends ToLineItemTransformation {
                     }
                     lineItems.push(lineItem);
 
+                    if (lineItem.parsedElements.formattedWords) {
+                        formattedWords += lineItem.parsedElements.formattedWords;
+                    }
                     if (lineItem.parsedElements.containLinks > 0) {
                         linkCount++;
                     }
