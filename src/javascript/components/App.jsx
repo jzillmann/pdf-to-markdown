@@ -3,6 +3,7 @@ import React from 'react';
 import Grid from 'react-bootstrap/lib/Grid'
 
 import TopBar from './TopBar.jsx';
+import FooterBar from './FooterBar.jsx'
 import { View } from '../models/AppState.jsx';
 import PdfUploadView from './PdfUploadView.jsx';
 import LoadingView from './LoadingView.jsx';
@@ -46,6 +47,7 @@ export default class App extends React.Component {
                   { mainView }
                 </div>
               </Grid>
+              <FooterBar/>
             </div>
         );
     }
