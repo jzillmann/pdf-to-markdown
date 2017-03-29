@@ -10,6 +10,7 @@ import Label from 'react-bootstrap/lib/Label'
 import Checkbox from 'react-bootstrap/lib/Checkbox'
 import Collapse from 'react-bootstrap/lib/Collapse'
 import Panel from 'react-bootstrap/lib/Panel'
+import AutoAffix from 'react-overlays/lib/AutoAffix';
 
 import ParseResult from '../models/ParseResult.jsx';
 
@@ -115,88 +116,90 @@ export default class DebugView extends React.Component {
 
         return (
             <div>
-              <table>
-                <tbody>
-                  { lastTransformation.showPageSelection() &&
+              <AutoAffix viewportOffsetTop={ 15 } container={ this }>
+                <table>
+                  <tbody>
+                    { lastTransformation.showPageSelection() &&
+                      <tr>
+                        <td>
+                          <div>
+                            <ul className='pagination'>
+                              <li className={ pageNr == -1 ? 'active' : '' }>
+                                <a role='button' onClick={ this.selectPage.bind(this, 0) }>ALL</a>
+                              </li>
+                            </ul>
+                            <Pagination
+                                        prev
+                                        next
+                                        first
+                                        last
+                                        ellipsis
+                                        boundaryLinks
+                                        items={ pages.length }
+                                        maxButtons={ 17 }
+                                        activePage={ this.state.pageNr + 1 }
+                                        onSelect={ this.selectPage.bind(this) } />
+                          </div>
+                        </td>
+                        <td style={ { padding: '5px', textAlign: 'left' } }>
+                          <Label bsStyle="info">
+                            Pages
+                          </Label>
+                        </td>
+                      </tr> }
                     <tr>
                       <td>
-                        <div>
-                          <ul className='pagination'>
-                            <li className={ pageNr == -1 ? 'active' : '' }>
-                              <a role='button' onClick={ this.selectPage.bind(this, 0) }>ALL</a>
-                            </li>
-                          </ul>
-                          <Pagination
-                                      prev
-                                      next
-                                      first
-                                      last
-                                      ellipsis
-                                      boundaryLinks
-                                      items={ pages.length }
-                                      maxButtons={ 17 }
-                                      activePage={ this.state.pageNr + 1 }
-                                      onSelect={ this.selectPage.bind(this) } />
-                        </div>
+                        <ButtonToolbar>
+                          <ButtonGroup>
+                            <Button className={ currentTransformation > 0 ? 'btn-round' : 'btn-round disabled' } onClick={ this.prevTransformation.bind(this) }>
+                              ← Previous
+                            </Button>
+                          </ButtonGroup>
+                          <ButtonGroup>
+                            { ' ' }
+                            <Button className={ currentTransformation < transformations.length - 1 ? 'btn-round' : 'btn-round disabled' } onClick={ this.nextTransformation.bind(this) }>
+                              Next →
+                            </Button>
+                          </ButtonGroup>
+                          <ButtonGroup>
+                            <DropdownButton title={ currentTransformationName } id="dropdown-size-medium">
+                              { transformationMenuItems }
+                            </DropdownButton>
+                          </ButtonGroup>
+                          <ButtonGroup>
+                            { showModificationCheckbox &&
+                              <Checkbox onClick={ this.showModifications.bind(this) }>
+                                Show only modifications
+                              </Checkbox> }
+                          </ButtonGroup>
+                          <ButtonGroup>
+                            <Checkbox onClick={ ::this.showStatistics }>
+                              Show Statistics
+                            </Checkbox>
+                          </ButtonGroup>
+                        </ButtonToolbar>
                       </td>
-                      <td style={ { padding: '5px', textAlign: 'left' } }>
+                      <td style={ { padding: '5px' } }>
                         <Label bsStyle="info">
-                          Pages
+                          Transformations
+                          { ' - ' + currentTransformation + ' / ' + (transformations.length - 1) }
                         </Label>
                       </td>
-                    </tr> }
-                  <tr>
-                    <td>
-                      <ButtonToolbar>
-                        <ButtonGroup>
-                          <Button className={ currentTransformation > 0 ? 'btn-round' : 'btn-round disabled' } onClick={ this.prevTransformation.bind(this) }>
-                            ← Previous
-                          </Button>
-                        </ButtonGroup>
-                        <ButtonGroup>
-                          { ' ' }
-                          <Button className={ currentTransformation < transformations.length - 1 ? 'btn-round' : 'btn-round disabled' } onClick={ this.nextTransformation.bind(this) }>
-                            Next →
-                          </Button>
-                        </ButtonGroup>
-                        <ButtonGroup>
-                          <DropdownButton title={ currentTransformationName } id="dropdown-size-medium">
-                            { transformationMenuItems }
-                          </DropdownButton>
-                        </ButtonGroup>
-                        <ButtonGroup>
-                          { showModificationCheckbox &&
-                            <Checkbox onClick={ this.showModifications.bind(this) }>
-                              Show only modifications
-                            </Checkbox> }
-                        </ButtonGroup>
-                        <ButtonGroup>
-                          <Checkbox onClick={ ::this.showStatistics }>
-                            Show Statistics
-                          </Checkbox>
-                        </ButtonGroup>
-                      </ButtonToolbar>
-                    </td>
-                    <td style={ { padding: '5px' } }>
-                      <Label bsStyle="info">
-                        Transformations
-                        { ' - ' + currentTransformation + ' / ' + (transformations.length - 1) }
-                      </Label>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <Collapse in={ this.state.showStatistics }>
-                        <Panel bsStyle="default">
-                          <ul>
-                            { statisticsAsList }
-                          </ul>
-                        </Panel>
-                      </Collapse>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
+                    </tr>
+                    <tr>
+                      <td>
+                        <Collapse in={ this.state.showStatistics }>
+                          <Panel bsStyle="default">
+                            <ul>
+                              { statisticsAsList }
+                            </ul>
+                          </Panel>
+                        </Collapse>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </AutoAffix>
               { !this.state.showStatistics &&
                 <hr style={ { marginTop: '5px' } } /> }
               <ul>

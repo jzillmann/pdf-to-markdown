@@ -32,6 +32,7 @@
     "react-dom": "^15.4.2",
     "react-dropzone": "^3.9.2",
     "react-icons": "^2.2.3",
+    "react-overlays": "^0.6.12",
     "remarkable": "^1.7.1"
   },
   "devDependencies": {
