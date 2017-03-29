@@ -23,7 +23,7 @@ export default class LoadingView extends React.Component {
             stages: [
                 new ProgressStage('Parsing Metadata', 2),
                 new ProgressStage('Parsing Pages'),
-                new ProgressStage('Parsing Fonts')
+                new ProgressStage('Parsing Fonts', 0)
             ]
         });
         Progress.prototype.metadataStage = () => {
@@ -78,18 +78,6 @@ export default class LoadingView extends React.Component {
 
     pageParsed(index, textItems) {
         const pageStage = this.state.progress.pageStage();
-        const fontStage = this.state.progress.fontStage();
-        const self = this;
-        textItems.forEach(item => {
-            const fontId = item.font;
-            if (!this.state.fontIds.has(fontId)) {
-                this.state.document.transport.commonObjs.get(fontId, function(font) {
-                    self.fontParsed(fontId, font);
-                });
-                this.state.fontIds.add(fontId);
-                fontStage.steps = this.state.fontIds.size;
-            }
-        });
 
         pageStage.stepsDone = pageStage.stepsDone + 1;
         this.state.pages[index].items = textItems; // eslint-disable-line react/no-direct-mutation-state
@@ -111,6 +99,8 @@ export default class LoadingView extends React.Component {
 
     componentWillMount() {
         const self = this;
+        const fontStage = this.state.progress.fontStage();
+
         PDFJS.getDocument(this.props.fileBuffer).then(function(pdfDocument) { // eslint-disable-line no-undef
             // console.debug(pdfDocument);
             pdfDocument.getMetadata().then(function(metadata) {
@@ -127,6 +117,16 @@ export default class LoadingView extends React.Component {
                     page.getTextContent().then(function(textContent) {
                         // console.debug(textContent);
                         const textItems = textContent.items.map(function(item) {
+                            //trigger resolving of fonts
+                            const fontId = item.fontName;
+                            if (!self.state.fontIds.has(fontId) && fontId.startsWith('g_d0')) {
+                                self.state.document.transport.commonObjs.get(fontId, function(font) {
+                                    self.fontParsed(fontId, font);
+                                });
+                                self.state.fontIds.add(fontId);
+                                fontStage.steps = self.state.fontIds.size;
+                            }
+
                             const tx = PDFJS.Util.transform( // eslint-disable-line no-undef
                                 viewport.transform,
                                 item.transform
@@ -179,6 +179,12 @@ export default class LoadingView extends React.Component {
               <div>
                 { stageItems }
               </div>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
             </div>);
     }
 }
@@ -231,9 +237,14 @@ class ProgressStage {
     }
 
     percentDone() {
-        if (!this.steps) {
+        if (typeof this.steps === 'undefined') {
+            // if (!this.steps) {
             return 0;
         }
+        if (this.steps == 0) {
+            return 100;
+        }
+
         return this.stepsDone / this.steps * 100;
     }
 }
