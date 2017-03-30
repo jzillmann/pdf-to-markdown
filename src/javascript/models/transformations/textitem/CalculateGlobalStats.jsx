@@ -67,7 +67,7 @@ export default class CalculateGlobalStats extends ToTextItemTransformation {
                 format = WordFormat.BOLD;
             }
             if (format) {
-                fontToFormats.set(key, format);
+                fontToFormats.set(key, format.name);
             }
         });
         fontIdToName.sort();

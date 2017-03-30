@@ -2,12 +2,12 @@ import { Enum } from 'enumify';
 
 import CalculateGlobalStats from './transformations/textitem/CalculateGlobalStats.jsx';
 
-import CompactLines from './transformations/textitem/CompactLines.jsx';
-import RemoveRepetitiveElements from './transformations/textitem/RemoveRepetitiveElements.jsx'
-import VerticalToHorizontal from './transformations/textitem/VerticalToHorizontal.jsx';
-import DetectTOC from './transformations/textitem/DetectTOC.jsx'
-import DetectListItems from './transformations/textitem/DetectListItems.jsx'
-import DetectHeaders from './transformations/textitem/DetectHeaders.jsx'
+import CompactLines from './transformations/lineitem/CompactLines.jsx';
+import RemoveRepetitiveElements from './transformations/lineitem/RemoveRepetitiveElements.jsx'
+import VerticalToHorizontal from './transformations/lineitem/VerticalToHorizontal.jsx';
+import DetectTOC from './transformations/lineitem/DetectTOC.jsx'
+import DetectListItems from './transformations/lineitem/DetectListItems.jsx'
+import DetectHeaders from './transformations/lineitem/DetectHeaders.jsx'
 
 import GatherBlocks from './transformations/textitemblock/GatherBlocks.jsx'
 import DetectCodeQuoteBlocks from './transformations/textitemblock/DetectCodeQuoteBlocks.jsx'

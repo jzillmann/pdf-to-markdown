@@ -8,6 +8,7 @@
     "build": "webpack",
     "lint": "eslint src --ext .js --ext .jsx --cache",
     "test": "mocha --compilers js:babel-core/register test --recursive",
+    "check": "npm run lint && npm run test",
     "release": "npm run lint && rm -rf build/* && NODE_ENV=production webpack -p",
     "deploy": "npm run release && cp -r build/* docs/"
   },
@@ -17,7 +18,7 @@
     "Converter"
   ],
   "author": "Johannes Zillmann",
-  "license": "Apache-2.0",
+  "license": "AGPL-3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/jzillmann/pdf-to-markdown"

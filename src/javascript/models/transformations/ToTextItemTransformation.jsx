@@ -16,10 +16,6 @@ export default class ToTextItemTransformation extends Transformation {
         this.showWhitespaces = false;
     }
 
-    showPageSelection() {
-        return true;
-    }
-
     showModificationCheckbox() {
         return true;
     }

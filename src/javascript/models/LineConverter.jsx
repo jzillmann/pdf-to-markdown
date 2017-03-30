@@ -1,6 +1,7 @@
 import TextItem from './TextItem.jsx';
 import Word from './Word.jsx';
 import WordType from './markdown/WordType.jsx';
+import WordFormat from './markdown/WordFormat.jsx';
 import LineItem from './LineItem.jsx';
 import StashingStream from './StashingStream.jsx';
 import { ParsedElements } from './PageItem.jsx';
@@ -115,9 +116,10 @@ class WordDetectionStream extends StashingStream {
         results.push(...this.itemsToWords(stash, format));
     }
 
-    itemsToWords(items, format) {
+    itemsToWords(items, formatName) {
         const combinedText = combineText(items);
         const words = combinedText.split(' ');
+        const format = formatName ? WordFormat.enumValueOf(formatName) : null;
         return words.filter(w => w.trim().length > 0).map(word => {
             var type = null;
             if (word.startsWith('http:')) {

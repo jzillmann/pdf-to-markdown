@@ -14,10 +14,6 @@ export default class Transformation {
         this.itemType = itemType;
     }
 
-    showPageSelection() {
-        return true;
-    }
-
     showModificationCheckbox() {
         return false;
     }

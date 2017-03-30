@@ -116,37 +116,36 @@ export default class DebugView extends React.Component {
 
         return (
             <div>
-              <AutoAffix viewportOffsetTop={ 15 } container={ this }>
+              <AutoAffix viewportOffsetTop={ 0 } offsetTop={ 0 } container={ this }>
                 <table>
                   <tbody>
-                    { lastTransformation.showPageSelection() &&
-                      <tr>
-                        <td>
-                          <div>
-                            <ul className='pagination'>
-                              <li className={ pageNr == -1 ? 'active' : '' }>
-                                <a role='button' onClick={ this.selectPage.bind(this, 0) }>ALL</a>
-                              </li>
-                            </ul>
-                            <Pagination
-                                        prev
-                                        next
-                                        first
-                                        last
-                                        ellipsis
-                                        boundaryLinks
-                                        items={ pages.length }
-                                        maxButtons={ 17 }
-                                        activePage={ this.state.pageNr + 1 }
-                                        onSelect={ this.selectPage.bind(this) } />
-                          </div>
-                        </td>
-                        <td style={ { padding: '5px', textAlign: 'left' } }>
-                          <Label bsStyle="info">
-                            Pages
-                          </Label>
-                        </td>
-                      </tr> }
+                    <tr>
+                      <td>
+                        <div>
+                          <ul className='pagination'>
+                            <li className={ pageNr == -1 ? 'active' : '' }>
+                              <a role='button' onClick={ this.selectPage.bind(this, 0) }>ALL</a>
+                            </li>
+                          </ul>
+                          <Pagination
+                                      prev
+                                      next
+                                      first
+                                      last
+                                      ellipsis
+                                      boundaryLinks
+                                      items={ pages.length }
+                                      maxButtons={ 17 }
+                                      activePage={ this.state.pageNr + 1 }
+                                      onSelect={ this.selectPage.bind(this) } />
+                        </div>
+                      </td>
+                      <td style={ { padding: '5px', textAlign: 'left' } }>
+                        <Label bsStyle="info">
+                          Pages
+                        </Label>
+                      </td>
+                    </tr>
                     <tr>
                       <td>
                         <ButtonToolbar>

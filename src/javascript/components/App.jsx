@@ -5,7 +5,7 @@ import Grid from 'react-bootstrap/lib/Grid'
 import TopBar from './TopBar.jsx';
 import FooterBar from './FooterBar.jsx'
 import { View } from '../models/AppState.jsx';
-import PdfUploadView from './PdfUploadView.jsx';
+import UploadView from './UploadView.jsx';
 import LoadingView from './LoadingView.jsx';
 import ResultView from './ResultView.jsx';
 import DebugView from './DebugView.jsx';
@@ -23,7 +23,7 @@ export default class App extends React.Component {
         var mainView;
         switch (this.props.appState.mainView) {
         case View.UPLOAD:
-            mainView = <PdfUploadView uploadPdfFunction={ appState.storeFileBuffer } />
+            mainView = <UploadView uploadPdfFunction={ appState.storeFileBuffer } />
             break;
         case View.LOADING:
             mainView = <LoadingView fileBuffer={ appState.fileBuffer } storePdfPagesFunction={ appState.storePdfPages } />
