@@ -23,8 +23,8 @@
  }
 }(this, function (exports) {
  'use strict';
- var pdfjsVersion = '1.6.422';
- var pdfjsBuild = 'aabfb77';
+ var pdfjsVersion = '1.7.246';
+ var pdfjsBuild = 'cae8d97c';
  var pdfjsFilePath = typeof document !== 'undefined' && document.currentScript ? document.currentScript.src : null;
  var pdfjsLibs = {};
  (function pdfjsWrapper() {
@@ -4363,7 +4363,7 @@
      this._isInvalid = true;
     }
     function IDNAToASCII(h) {
-     if ('' === h) {
+     if (h === '') {
       invalid.call(this);
      }
      return h.toLowerCase();
@@ -4421,7 +4421,7 @@
        case 'scheme':
         if (c && ALPHANUMERIC.test(c)) {
          buffer += c.toLowerCase();
-        } else if (':' === c) {
+        } else if (c === ':') {
          this._scheme = buffer;
          buffer = '';
          if (stateOverride) {
@@ -4430,7 +4430,7 @@
          if (isRelativeScheme(this._scheme)) {
           this._isRelative = true;
          }
-         if ('file' === this._scheme) {
+         if (this._scheme === 'file') {
           state = 'relative';
          } else if (this._isRelative && base && base._scheme === this._scheme) {
           state = 'relative or authority';
@@ -4452,10 +4452,10 @@
         }
         break;
        case 'scheme data':
-        if ('?' === c) {
+        if (c === '?') {
          this._query = '?';
          state = 'query';
-        } else if ('#' === c) {
+        } else if (c === '#') {
          this._fragment = '#';
          state = 'fragment';
         } else {
@@ -4474,7 +4474,7 @@
         }
         break;
        case 'relative or authority':
-        if ('/' === c && '/' === input[cursor + 1]) {
+        if (c === '/' && input[cursor + 1] === '/') {
          state = 'authority ignore slashes';
         } else {
          err('Expected /, got: ' + c);
@@ -4495,12 +4495,12 @@
          this._username = base._username;
          this._password = base._password;
          break loop;
-        } else if ('/' === c || '\\' === c) {
-         if ('\\' === c) {
+        } else if (c === '/' || c === '\\') {
+         if (c === '\\') {
           err('\\ is an invalid code point.');
          }
          state = 'relative slash';
-        } else if ('?' === c) {
+        } else if (c === '?') {
          this._host = base._host;
          this._port = base._port;
          this._path = base._path.slice();
@@ -4508,7 +4508,7 @@
          this._username = base._username;
          this._password = base._password;
          state = 'query';
-        } else if ('#' === c) {
+        } else if (c === '#') {
          this._host = base._host;
          this._port = base._port;
          this._path = base._path.slice();
@@ -4533,11 +4533,11 @@
         }
         break;
        case 'relative slash':
-        if ('/' === c || '\\' === c) {
-         if ('\\' === c) {
+        if (c === '/' || c === '\\') {
+         if (c === '\\') {
           err('\\ is an invalid code point.');
          }
-         if ('file' === this._scheme) {
+         if (this._scheme === 'file') {
           state = 'file host';
          } else {
           state = 'authority ignore slashes';
@@ -4554,7 +4554,7 @@
         }
         break;
        case 'authority first slash':
-        if ('/' === c) {
+        if (c === '/') {
          state = 'authority second slash';
         } else {
          err('Expected \'/\', got: ' + c);
@@ -4578,7 +4578,7 @@
         }
         break;
        case 'authority':
-        if ('@' === c) {
+        if (c === '@') {
          if (seenAt) {
           err('@ already seen.');
           buffer += '%40';
@@ -4586,11 +4586,11 @@
          seenAt = true;
          for (var i = 0; i < buffer.length; i++) {
           var cp = buffer[i];
-          if ('\t' === cp || '\n' === cp || '\r' === cp) {
+          if (cp === '\t' || cp === '\n' || cp === '\r') {
            err('Invalid whitespace in authority.');
            continue;
           }
-          if (':' === cp && null === this._password) {
+          if (cp === ':' && this._password === null) {
            this._password = '';
            continue;
           }
@@ -4602,7 +4602,7 @@
           }
          }
          buffer = '';
-        } else if (EOF === c || '/' === c || '\\' === c || '?' === c || '#' === c) {
+        } else if (c === EOF || c === '/' || c === '\\' || c === '?' || c === '#') {
          cursor -= buffer.length;
          buffer = '';
          state = 'host';
@@ -4612,7 +4612,7 @@
         }
         break;
        case 'file host':
-        if (EOF === c || '/' === c || '\\' === c || '?' === c || '#' === c) {
+        if (c === EOF || c === '/' || c === '\\' || c === '?' || c === '#') {
          if (buffer.length === 2 && ALPHA.test(buffer[0]) && (buffer[1] === ':' || buffer[1] === '|')) {
           state = 'relative path';
          } else if (buffer.length === 0) {
@@ -4623,7 +4623,7 @@
           state = 'relative path start';
          }
          continue;
-        } else if ('\t' === c || '\n' === c || '\r' === c) {
+        } else if (c === '\t' || c === '\n' || c === '\r') {
          err('Invalid whitespace in file host.');
         } else {
          buffer += c;
@@ -4631,14 +4631,14 @@
         break;
        case 'host':
        case 'hostname':
-        if (':' === c && !seenBracket) {
+        if (c === ':' && !seenBracket) {
          this._host = IDNAToASCII.call(this, buffer);
          buffer = '';
          state = 'port';
-         if ('hostname' === stateOverride) {
+         if (stateOverride === 'hostname') {
           break loop;
          }
-        } else if (EOF === c || '/' === c || '\\' === c || '?' === c || '#' === c) {
+        } else if (c === EOF || c === '/' || c === '\\' || c === '?' || c === '#') {
          this._host = IDNAToASCII.call(this, buffer);
          buffer = '';
          state = 'relative path start';
@@ -4647,9 +4647,9 @@
          }
          continue;
         } else if ('\t' !== c && '\n' !== c && '\r' !== c) {
-         if ('[' === c) {
+         if (c === '[') {
           seenBracket = true;
-         } else if (']' === c) {
+         } else if (c === ']') {
           seenBracket = false;
          }
          buffer += c;
@@ -4660,7 +4660,7 @@
        case 'port':
         if (/[0-9]/.test(c)) {
          buffer += c;
-        } else if (EOF === c || '/' === c || '\\' === c || '?' === c || '#' === c || stateOverride) {
+        } else if (c === EOF || c === '/' || c === '\\' || c === '?' || c === '#' || stateOverride) {
          if ('' !== buffer) {
           var temp = parseInt(buffer, 10);
           if (temp !== relative[this._scheme]) {
@@ -4673,14 +4673,14 @@
          }
          state = 'relative path start';
          continue;
-        } else if ('\t' === c || '\n' === c || '\r' === c) {
+        } else if (c === '\t' || c === '\n' || c === '\r') {
          err('Invalid code point in port: ' + c);
         } else {
          invalid.call(this);
         }
         break;
        case 'relative path start':
-        if ('\\' === c) {
+        if (c === '\\') {
          err('\'\\\' not allowed in path.');
         }
         state = 'relative path';
@@ -4689,32 +4689,32 @@
         }
         break;
        case 'relative path':
-        if (EOF === c || '/' === c || '\\' === c || !stateOverride && ('?' === c || '#' === c)) {
-         if ('\\' === c) {
+        if (c === EOF || c === '/' || c === '\\' || !stateOverride && (c === '?' || c === '#')) {
+         if (c === '\\') {
           err('\\ not allowed in relative path.');
          }
          var tmp;
          if (tmp = relativePathDotMapping[buffer.toLowerCase()]) {
           buffer = tmp;
          }
-         if ('..' === buffer) {
+         if (buffer === '..') {
           this._path.pop();
           if ('/' !== c && '\\' !== c) {
            this._path.push('');
           }
-         } else if ('.' === buffer && '/' !== c && '\\' !== c) {
+         } else if (buffer === '.' && '/' !== c && '\\' !== c) {
           this._path.push('');
          } else if ('.' !== buffer) {
-          if ('file' === this._scheme && this._path.length === 0 && buffer.length === 2 && ALPHA.test(buffer[0]) && buffer[1] === '|') {
+          if (this._scheme === 'file' && this._path.length === 0 && buffer.length === 2 && ALPHA.test(buffer[0]) && buffer[1] === '|') {
            buffer = buffer[0] + ':';
           }
           this._path.push(buffer);
          }
          buffer = '';
-         if ('?' === c) {
+         if (c === '?') {
           this._query = '?';
           state = 'query';
-         } else if ('#' === c) {
+         } else if (c === '#') {
           this._fragment = '#';
           state = 'fragment';
          }
@@ -4723,7 +4723,7 @@
         }
         break;
        case 'query':
-        if (!stateOverride && '#' === c) {
+        if (!stateOverride && c === '#') {
          this._fragment = '#';
          state = 'fragment';
         } else if (EOF !== c && '\t' !== c && '\n' !== c && '\r' !== c) {
@@ -4827,27 +4827,27 @@
       parse.call(this, pathname, 'relative path start');
      },
      get search() {
-      return this._isInvalid || !this._query || '?' === this._query ? '' : this._query;
+      return this._isInvalid || !this._query || this._query === '?' ? '' : this._query;
      },
      set search(search) {
       if (this._isInvalid || !this._isRelative) {
        return;
       }
       this._query = '?';
-      if ('?' === search[0]) {
+      if (search[0] === '?') {
        search = search.slice(1);
       }
       parse.call(this, search, 'query');
      },
      get hash() {
-      return this._isInvalid || !this._fragment || '#' === this._fragment ? '' : this._fragment;
+      return this._isInvalid || !this._fragment || this._fragment === '#' ? '' : this._fragment;
      },
      set hash(hash) {
       if (this._isInvalid) {
        return;
       }
       this._fragment = '#';
-      if ('#' === hash[0]) {
+      if (hash[0] === '#') {
        hash = hash.slice(1);
       }
       parse.call(this, hash, 'fragment');
@@ -5538,7 +5538,7 @@
      return createBidiText(str, isLTR);
     }
     if (startLevel === -1) {
-     if (strLength / numBidi < 0.3) {
+     if (numBidi / strLength < 0.3) {
       isLTR = true;
       startLevel = 0;
      } else {
@@ -6495,10 +6495,9 @@
         return (value - 247) * 256 + dict[pos++] + 108;
        } else if (value >= 251 && value <= 254) {
         return -((value - 251) * 256) - dict[pos++] - 108;
-       } else {
-        warn('CFFParser_parseDict: "' + value + '" is a reserved command.');
-        return NaN;
        }
+       warn('CFFParser_parseDict: "' + value + '" is a reserved command.');
+       return NaN;
       }
       function parseFloatOperand() {
        var str = '';
@@ -6902,7 +6901,6 @@
       var encoding = Object.create(null);
       var bytes = this.bytes;
       var predefined = false;
-      var hasSupplement = false;
       var format, i, ii;
       var raw = null;
       function readSupplement() {
@@ -6952,7 +6950,6 @@
        if (format & 0x80) {
         bytes[dataStart] &= 0x7f;
         readSupplement();
-        hasSupplement = true;
        }
        raw = bytes.subarray(dataStart, dataEnd);
       }
@@ -7780,9 +7777,8 @@
      encodeNumber: function CFFCompiler_encodeNumber(value) {
       if (parseFloat(value) === parseInt(value, 10) && !isNaN(value)) {
        return this.encodeInteger(value);
-      } else {
-       return this.encodeFloat(value);
       }
+      return this.encodeFloat(value);
      },
      encodeFloat: function CFFCompiler_encodeFloat(num) {
       var value = num.toString();
@@ -8267,8 +8263,7 @@
       subStream.end = start + length || this.end;
       subStream.dict = dict;
       return subStream;
-     },
-     isStream: true
+     }
     };
     return ChunkedStream;
    }();
@@ -13671,14 +13666,12 @@
       var deltaHeight = decodeInteger(contextCache, 'IADH', decoder);
       currentHeight += deltaHeight;
       var currentWidth = 0;
-      var totalWidth = 0;
       while (true) {
        var deltaWidth = decodeInteger(contextCache, 'IADW', decoder);
        if (deltaWidth === null) {
         break;
        }
        currentWidth += deltaWidth;
-       totalWidth += currentWidth;
        var bitmap;
        if (refinement) {
         var numberOfInstances = decodeInteger(contextCache, 'IAAI', decoder);
@@ -14088,7 +14081,7 @@
        delete pageInfo.height;
       }
       var pageSegmentFlags = data[position + 16];
-      var pageStripingInformation = readUint16(data, position + 17);
+      readUint16(data, position + 17);
       pageInfo.lossless = !!(pageSegmentFlags & 1);
       pageInfo.refinement = !!(pageSegmentFlags & 2);
       pageInfo.defaultPixelValue = pageSegmentFlags >> 2 & 1;
@@ -14131,7 +14124,7 @@
       header.numberOfPages = readUint32(data, position);
       position += 4;
      }
-     var segments = readSegments(header, data, position, end);
+     readSegments(header, data, position, end);
      error('Not implemented');
     }
     function parseJbig2Chunks(chunks) {
@@ -14968,7 +14961,7 @@
         resetInterval = readUint16();
         break;
        case 0xFFDA:
-        var scanLength = readUint16();
+        readUint16();
         var selectorsCount = data[offset++];
         var components = [], component;
         for (i = 0; i < selectorsCount; i++) {
@@ -15070,12 +15063,11 @@
         return false;
        }
        return true;
-      } else {
-       if (!this.adobe && this.colorTransform === 1) {
-        return true;
-       }
-       return false;
       }
+      if (!this.adobe && this.colorTransform === 1) {
+       return true;
+      }
+      return false;
      },
      _convertYccToRgb: function convertYccToRgb(data) {
       var Y, Cb, Cr;
@@ -15159,9 +15151,8 @@
        if (this._isColorConversionNeeded()) {
         if (forceRGBoutput) {
          return this._convertYcckToRgb(data);
-        } else {
-         return this._convertYcckToCmyk(data);
         }
+        return this._convertYcckToCmyk(data);
        } else if (forceRGBoutput) {
         return this._convertCmykToRgb(data);
        }
@@ -20350,6 +20341,7 @@
    factory(root.pdfjsCorePrimitives = {}, root.pdfjsSharedUtil);
   }(this, function (exports, sharedUtil) {
    var isArray = sharedUtil.isArray;
+   var EOF = {};
    var Name = function NameClosure() {
     function Name(name) {
      this.name = name;
@@ -20535,6 +20527,9 @@
     };
     return RefSetCache;
    }();
+   function isEOF(v) {
+    return v === EOF;
+   }
    function isName(v, name) {
     return v instanceof Name && (name === undefined || v.name === name);
    }
@@ -20553,12 +20548,14 @@
    function isStream(v) {
     return typeof v === 'object' && v !== null && v.getBytes !== undefined;
    }
+   exports.EOF = EOF;
    exports.Cmd = Cmd;
    exports.Dict = Dict;
    exports.Name = Name;
    exports.Ref = Ref;
    exports.RefSet = RefSet;
    exports.RefSetCache = RefSetCache;
+   exports.isEOF = isEOF;
    exports.isCmd = isCmd;
    exports.isDict = isDict;
    exports.isName = isName;
@@ -23181,6 +23178,200 @@
    exports.getUnicodeForGlyph = getUnicodeForGlyph;
   }));
   (function (root, factory) {
+   factory(root.pdfjsCorePsParser = {}, root.pdfjsSharedUtil, root.pdfjsCorePrimitives);
+  }(this, function (exports, sharedUtil, corePrimitives) {
+   var error = sharedUtil.error;
+   var isSpace = sharedUtil.isSpace;
+   var EOF = corePrimitives.EOF;
+   var PostScriptParser = function PostScriptParserClosure() {
+    function PostScriptParser(lexer) {
+     this.lexer = lexer;
+     this.operators = [];
+     this.token = null;
+     this.prev = null;
+    }
+    PostScriptParser.prototype = {
+     nextToken: function PostScriptParser_nextToken() {
+      this.prev = this.token;
+      this.token = this.lexer.getToken();
+     },
+     accept: function PostScriptParser_accept(type) {
+      if (this.token.type === type) {
+       this.nextToken();
+       return true;
+      }
+      return false;
+     },
+     expect: function PostScriptParser_expect(type) {
+      if (this.accept(type)) {
+       return true;
+      }
+      error('Unexpected symbol: found ' + this.token.type + ' expected ' + type + '.');
+     },
+     parse: function PostScriptParser_parse() {
+      this.nextToken();
+      this.expect(PostScriptTokenTypes.LBRACE);
+      this.parseBlock();
+      this.expect(PostScriptTokenTypes.RBRACE);
+      return this.operators;
+     },
+     parseBlock: function PostScriptParser_parseBlock() {
+      while (true) {
+       if (this.accept(PostScriptTokenTypes.NUMBER)) {
+        this.operators.push(this.prev.value);
+       } else if (this.accept(PostScriptTokenTypes.OPERATOR)) {
+        this.operators.push(this.prev.value);
+       } else if (this.accept(PostScriptTokenTypes.LBRACE)) {
+        this.parseCondition();
+       } else {
+        return;
+       }
+      }
+     },
+     parseCondition: function PostScriptParser_parseCondition() {
+      var conditionLocation = this.operators.length;
+      this.operators.push(null, null);
+      this.parseBlock();
+      this.expect(PostScriptTokenTypes.RBRACE);
+      if (this.accept(PostScriptTokenTypes.IF)) {
+       this.operators[conditionLocation] = this.operators.length;
+       this.operators[conditionLocation + 1] = 'jz';
+      } else if (this.accept(PostScriptTokenTypes.LBRACE)) {
+       var jumpLocation = this.operators.length;
+       this.operators.push(null, null);
+       var endOfTrue = this.operators.length;
+       this.parseBlock();
+       this.expect(PostScriptTokenTypes.RBRACE);
+       this.expect(PostScriptTokenTypes.IFELSE);
+       this.operators[jumpLocation] = this.operators.length;
+       this.operators[jumpLocation + 1] = 'j';
+       this.operators[conditionLocation] = endOfTrue;
+       this.operators[conditionLocation + 1] = 'jz';
+      } else {
+       error('PS Function: error parsing conditional.');
+      }
+     }
+    };
+    return PostScriptParser;
+   }();
+   var PostScriptTokenTypes = {
+    LBRACE: 0,
+    RBRACE: 1,
+    NUMBER: 2,
+    OPERATOR: 3,
+    IF: 4,
+    IFELSE: 5
+   };
+   var PostScriptToken = function PostScriptTokenClosure() {
+    function PostScriptToken(type, value) {
+     this.type = type;
+     this.value = value;
+    }
+    var opCache = Object.create(null);
+    PostScriptToken.getOperator = function PostScriptToken_getOperator(op) {
+     var opValue = opCache[op];
+     if (opValue) {
+      return opValue;
+     }
+     return opCache[op] = new PostScriptToken(PostScriptTokenTypes.OPERATOR, op);
+    };
+    PostScriptToken.LBRACE = new PostScriptToken(PostScriptTokenTypes.LBRACE, '{');
+    PostScriptToken.RBRACE = new PostScriptToken(PostScriptTokenTypes.RBRACE, '}');
+    PostScriptToken.IF = new PostScriptToken(PostScriptTokenTypes.IF, 'IF');
+    PostScriptToken.IFELSE = new PostScriptToken(PostScriptTokenTypes.IFELSE, 'IFELSE');
+    return PostScriptToken;
+   }();
+   var PostScriptLexer = function PostScriptLexerClosure() {
+    function PostScriptLexer(stream) {
+     this.stream = stream;
+     this.nextChar();
+     this.strBuf = [];
+    }
+    PostScriptLexer.prototype = {
+     nextChar: function PostScriptLexer_nextChar() {
+      return this.currentChar = this.stream.getByte();
+     },
+     getToken: function PostScriptLexer_getToken() {
+      var comment = false;
+      var ch = this.currentChar;
+      while (true) {
+       if (ch < 0) {
+        return EOF;
+       }
+       if (comment) {
+        if (ch === 0x0A || ch === 0x0D) {
+         comment = false;
+        }
+       } else if (ch === 0x25) {
+        comment = true;
+       } else if (!isSpace(ch)) {
+        break;
+       }
+       ch = this.nextChar();
+      }
+      switch (ch | 0) {
+      case 0x30:
+      case 0x31:
+      case 0x32:
+      case 0x33:
+      case 0x34:
+      case 0x35:
+      case 0x36:
+      case 0x37:
+      case 0x38:
+      case 0x39:
+      case 0x2B:
+      case 0x2D:
+      case 0x2E:
+       return new PostScriptToken(PostScriptTokenTypes.NUMBER, this.getNumber());
+      case 0x7B:
+       this.nextChar();
+       return PostScriptToken.LBRACE;
+      case 0x7D:
+       this.nextChar();
+       return PostScriptToken.RBRACE;
+      }
+      var strBuf = this.strBuf;
+      strBuf.length = 0;
+      strBuf[0] = String.fromCharCode(ch);
+      while ((ch = this.nextChar()) >= 0 && (ch >= 0x41 && ch <= 0x5A || ch >= 0x61 && ch <= 0x7A)) {
+       strBuf.push(String.fromCharCode(ch));
+      }
+      var str = strBuf.join('');
+      switch (str.toLowerCase()) {
+      case 'if':
+       return PostScriptToken.IF;
+      case 'ifelse':
+       return PostScriptToken.IFELSE;
+      default:
+       return PostScriptToken.getOperator(str);
+      }
+     },
+     getNumber: function PostScriptLexer_getNumber() {
+      var ch = this.currentChar;
+      var strBuf = this.strBuf;
+      strBuf.length = 0;
+      strBuf[0] = String.fromCharCode(ch);
+      while ((ch = this.nextChar()) >= 0) {
+       if (ch >= 0x30 && ch <= 0x39 || ch === 0x2D || ch === 0x2E) {
+        strBuf.push(String.fromCharCode(ch));
+       } else {
+        break;
+       }
+      }
+      var value = parseFloat(strBuf.join(''));
+      if (isNaN(value)) {
+       error('Invalid floating point number: ' + value);
+      }
+      return value;
+     }
+    };
+    return PostScriptLexer;
+   }();
+   exports.PostScriptLexer = PostScriptLexer;
+   exports.PostScriptParser = PostScriptParser;
+  }));
+  (function (root, factory) {
    factory(root.pdfjsCoreStream = {}, root.pdfjsSharedUtil, root.pdfjsCorePrimitives, root.pdfjsCoreJbig2, root.pdfjsCoreJpg, root.pdfjsCoreJpx);
   }(this, function (exports, sharedUtil, corePrimitives, coreJbig2, coreJpg, coreJpx) {
    var Util = sharedUtil.Util;
@@ -23190,7 +23381,6 @@
    var isArray = sharedUtil.isArray;
    var createObjectURL = sharedUtil.createObjectURL;
    var shadow = sharedUtil.shadow;
-   var warn = sharedUtil.warn;
    var isSpace = sharedUtil.isSpace;
    var Dict = corePrimitives.Dict;
    var isDict = corePrimitives.isDict;
@@ -23272,8 +23462,7 @@
      },
      makeSubStream: function Stream_makeSubStream(start, length, dict) {
       return new Stream(this.bytes.buffer, start, length, dict);
-     },
-     isStream: true
+     }
     };
     return Stream;
    }();
@@ -24355,12 +24544,14 @@
      var inbits = 0, outbits = 0;
      var pos = bufferLength;
      var i;
-     if (bits === 1) {
+     if (bits === 1 && colors === 1) {
       for (i = 0; i < rowBytes; ++i) {
-       var c = rawBytes[i];
-       inbuf = inbuf << 8 | c;
-       buffer[pos++] = (c ^ inbuf >> colors) & 0xFF;
-       inbuf &= 0xFFFF;
+       var c = rawBytes[i] ^ inbuf;
+       c ^= c >> 1;
+       c ^= c >> 2;
+       c ^= c >> 4;
+       inbuf = (c & 1) << 7;
+       buffer[pos++] = c;
       }
      } else if (bits === 8) {
       for (i = 0; i < colors; ++i) {
@@ -31848,264 +32039,6 @@
     return AES128Cipher;
    }();
    var AES256Cipher = function AES256CipherClosure() {
-    var rcon = new Uint8Array([
-     0x8d,
-     0x01,
-     0x02,
-     0x04,
-     0x08,
-     0x10,
-     0x20,
-     0x40,
-     0x80,
-     0x1b,
-     0x36,
-     0x6c,
-     0xd8,
-     0xab,
-     0x4d,
-     0x9a,
-     0x2f,
-     0x5e,
-     0xbc,
-     0x63,
-     0xc6,
-     0x97,
-     0x35,
-     0x6a,
-     0xd4,
-     0xb3,
-     0x7d,
-     0xfa,
-     0xef,
-     0xc5,
-     0x91,
-     0x39,
-     0x72,
-     0xe4,
-     0xd3,
-     0xbd,
-     0x61,
-     0xc2,
-     0x9f,
-     0x25,
-     0x4a,
-     0x94,
-     0x33,
-     0x66,
-     0xcc,
-     0x83,
-     0x1d,
-     0x3a,
-     0x74,
-     0xe8,
-     0xcb,
-     0x8d,
-     0x01,
-     0x02,
-     0x04,
-     0x08,
-     0x10,
-     0x20,
-     0x40,
-     0x80,
-     0x1b,
-     0x36,
-     0x6c,
-     0xd8,
-     0xab,
-     0x4d,
-     0x9a,
-     0x2f,
-     0x5e,
-     0xbc,
-     0x63,
-     0xc6,
-     0x97,
-     0x35,
-     0x6a,
-     0xd4,
-     0xb3,
-     0x7d,
-     0xfa,
-     0xef,
-     0xc5,
-     0x91,
-     0x39,
-     0x72,
-     0xe4,
-     0xd3,
-     0xbd,
-     0x61,
-     0xc2,
-     0x9f,
-     0x25,
-     0x4a,
-     0x94,
-     0x33,
-     0x66,
-     0xcc,
-     0x83,
-     0x1d,
-     0x3a,
-     0x74,
-     0xe8,
-     0xcb,
-     0x8d,
-     0x01,
-     0x02,
-     0x04,
-     0x08,
-     0x10,
-     0x20,
-     0x40,
-     0x80,
-     0x1b,
-     0x36,
-     0x6c,
-     0xd8,
-     0xab,
-     0x4d,
-     0x9a,
-     0x2f,
-     0x5e,
-     0xbc,
-     0x63,
-     0xc6,
-     0x97,
-     0x35,
-     0x6a,
-     0xd4,
-     0xb3,
-     0x7d,
-     0xfa,
-     0xef,
-     0xc5,
-     0x91,
-     0x39,
-     0x72,
-     0xe4,
-     0xd3,
-     0xbd,
-     0x61,
-     0xc2,
-     0x9f,
-     0x25,
-     0x4a,
-     0x94,
-     0x33,
-     0x66,
-     0xcc,
-     0x83,
-     0x1d,
-     0x3a,
-     0x74,
-     0xe8,
-     0xcb,
-     0x8d,
-     0x01,
-     0x02,
-     0x04,
-     0x08,
-     0x10,
-     0x20,
-     0x40,
-     0x80,
-     0x1b,
-     0x36,
-     0x6c,
-     0xd8,
-     0xab,
-     0x4d,
-     0x9a,
-     0x2f,
-     0x5e,
-     0xbc,
-     0x63,
-     0xc6,
-     0x97,
-     0x35,
-     0x6a,
-     0xd4,
-     0xb3,
-     0x7d,
-     0xfa,
-     0xef,
-     0xc5,
-     0x91,
-     0x39,
-     0x72,
-     0xe4,
-     0xd3,
-     0xbd,
-     0x61,
-     0xc2,
-     0x9f,
-     0x25,
-     0x4a,
-     0x94,
-     0x33,
-     0x66,
-     0xcc,
-     0x83,
-     0x1d,
-     0x3a,
-     0x74,
-     0xe8,
-     0xcb,
-     0x8d,
-     0x01,
-     0x02,
-     0x04,
-     0x08,
-     0x10,
-     0x20,
-     0x40,
-     0x80,
-     0x1b,
-     0x36,
-     0x6c,
-     0xd8,
-     0xab,
-     0x4d,
-     0x9a,
-     0x2f,
-     0x5e,
-     0xbc,
-     0x63,
-     0xc6,
-     0x97,
-     0x35,
-     0x6a,
-     0xd4,
-     0xb3,
-     0x7d,
-     0xfa,
-     0xef,
-     0xc5,
-     0x91,
-     0x39,
-     0x72,
-     0xe4,
-     0xd3,
-     0xbd,
-     0x61,
-     0xc2,
-     0x9f,
-     0x25,
-     0x4a,
-     0x94,
-     0x33,
-     0x66,
-     0xcc,
-     0x83,
-     0x1d,
-     0x3a,
-     0x74,
-     0xe8,
-     0xcb,
-     0x8d
-    ]);
     var s = new Uint8Array([
      0x63,
      0x7c,
@@ -33664,9 +33597,9 @@
     function parseCmap(data, start, end) {
      var offset = getUshort(data, start + 2) === 1 ? getLong(data, start + 8) : getLong(data, start + 16);
      var format = getUshort(data, start + offset);
-     var length, ranges, p, i;
+     var ranges, p, i;
      if (format === 4) {
-      length = getUshort(data, start + offset + 2);
+      getUshort(data, start + offset + 2);
       var segCount = getUshort(data, start + offset + 6) >> 1;
       p = start + offset + 14;
       ranges = [];
@@ -33693,7 +33626,7 @@
       }
       return ranges;
      } else if (format === 12) {
-      length = getLong(data, start + offset + 4);
+      getLong(data, start + offset + 4);
       var groups = getLong(data, start + offset + 12);
       p = start + offset + 16;
       ranges = [];
@@ -34415,13 +34348,1007 @@
         0
        ];
        return new TrueTypeCompiled(parseGlyfTable(glyf, loca, indexToLocFormat), cmap, fontMatrix);
-      } else {
-       return new Type2Compiled(cff, cmap, font.fontMatrix, font.glyphNameMap);
       }
+      return new Type2Compiled(cff, cmap, font.fontMatrix, font.glyphNameMap);
      }
     };
    }();
    exports.FontRendererFactory = FontRendererFactory;
+  }));
+  (function (root, factory) {
+   factory(root.pdfjsCoreFunction = {}, root.pdfjsSharedUtil, root.pdfjsCorePrimitives, root.pdfjsCorePsParser);
+  }(this, function (exports, sharedUtil, corePrimitives, corePsParser) {
+   var error = sharedUtil.error;
+   var info = sharedUtil.info;
+   var isArray = sharedUtil.isArray;
+   var isBool = sharedUtil.isBool;
+   var isDict = corePrimitives.isDict;
+   var isStream = corePrimitives.isStream;
+   var PostScriptLexer = corePsParser.PostScriptLexer;
+   var PostScriptParser = corePsParser.PostScriptParser;
+   var PDFFunction = function PDFFunctionClosure() {
+    var CONSTRUCT_SAMPLED = 0;
+    var CONSTRUCT_INTERPOLATED = 2;
+    var CONSTRUCT_STICHED = 3;
+    var CONSTRUCT_POSTSCRIPT = 4;
+    return {
+     getSampleArray: function PDFFunction_getSampleArray(size, outputSize, bps, str) {
+      var i, ii;
+      var length = 1;
+      for (i = 0, ii = size.length; i < ii; i++) {
+       length *= size[i];
+      }
+      length *= outputSize;
+      var array = new Array(length);
+      var codeSize = 0;
+      var codeBuf = 0;
+      var sampleMul = 1.0 / (Math.pow(2.0, bps) - 1);
+      var strBytes = str.getBytes((length * bps + 7) / 8);
+      var strIdx = 0;
+      for (i = 0; i < length; i++) {
+       while (codeSize < bps) {
+        codeBuf <<= 8;
+        codeBuf |= strBytes[strIdx++];
+        codeSize += 8;
+       }
+       codeSize -= bps;
+       array[i] = (codeBuf >> codeSize) * sampleMul;
+       codeBuf &= (1 << codeSize) - 1;
+      }
+      return array;
+     },
+     getIR: function PDFFunction_getIR(xref, fn) {
+      var dict = fn.dict;
+      if (!dict) {
+       dict = fn;
+      }
+      var types = [
+       this.constructSampled,
+       null,
+       this.constructInterpolated,
+       this.constructStiched,
+       this.constructPostScript
+      ];
+      var typeNum = dict.get('FunctionType');
+      var typeFn = types[typeNum];
+      if (!typeFn) {
+       error('Unknown type of function');
+      }
+      return typeFn.call(this, fn, dict, xref);
+     },
+     fromIR: function PDFFunction_fromIR(IR) {
+      var type = IR[0];
+      switch (type) {
+      case CONSTRUCT_SAMPLED:
+       return this.constructSampledFromIR(IR);
+      case CONSTRUCT_INTERPOLATED:
+       return this.constructInterpolatedFromIR(IR);
+      case CONSTRUCT_STICHED:
+       return this.constructStichedFromIR(IR);
+      default:
+       return this.constructPostScriptFromIR(IR);
+      }
+     },
+     parse: function PDFFunction_parse(xref, fn) {
+      var IR = this.getIR(xref, fn);
+      return this.fromIR(IR);
+     },
+     parseArray: function PDFFunction_parseArray(xref, fnObj) {
+      if (!isArray(fnObj)) {
+       return this.parse(xref, fnObj);
+      }
+      var fnArray = [];
+      for (var j = 0, jj = fnObj.length; j < jj; j++) {
+       var obj = xref.fetchIfRef(fnObj[j]);
+       fnArray.push(PDFFunction.parse(xref, obj));
+      }
+      return function (src, srcOffset, dest, destOffset) {
+       for (var i = 0, ii = fnArray.length; i < ii; i++) {
+        fnArray[i](src, srcOffset, dest, destOffset + i);
+       }
+      };
+     },
+     constructSampled: function PDFFunction_constructSampled(str, dict) {
+      function toMultiArray(arr) {
+       var inputLength = arr.length;
+       var out = [];
+       var index = 0;
+       for (var i = 0; i < inputLength; i += 2) {
+        out[index] = [
+         arr[i],
+         arr[i + 1]
+        ];
+        ++index;
+       }
+       return out;
+      }
+      var domain = dict.getArray('Domain');
+      var range = dict.getArray('Range');
+      if (!domain || !range) {
+       error('No domain or range');
+      }
+      var inputSize = domain.length / 2;
+      var outputSize = range.length / 2;
+      domain = toMultiArray(domain);
+      range = toMultiArray(range);
+      var size = dict.get('Size');
+      var bps = dict.get('BitsPerSample');
+      var order = dict.get('Order') || 1;
+      if (order !== 1) {
+       info('No support for cubic spline interpolation: ' + order);
+      }
+      var encode = dict.getArray('Encode');
+      if (!encode) {
+       encode = [];
+       for (var i = 0; i < inputSize; ++i) {
+        encode.push(0);
+        encode.push(size[i] - 1);
+       }
+      }
+      encode = toMultiArray(encode);
+      var decode = dict.getArray('Decode');
+      if (!decode) {
+       decode = range;
+      } else {
+       decode = toMultiArray(decode);
+      }
+      var samples = this.getSampleArray(size, outputSize, bps, str);
+      return [
+       CONSTRUCT_SAMPLED,
+       inputSize,
+       domain,
+       encode,
+       decode,
+       samples,
+       size,
+       outputSize,
+       Math.pow(2, bps) - 1,
+       range
+      ];
+     },
+     constructSampledFromIR: function PDFFunction_constructSampledFromIR(IR) {
+      function interpolate(x, xmin, xmax, ymin, ymax) {
+       return ymin + (x - xmin) * ((ymax - ymin) / (xmax - xmin));
+      }
+      return function constructSampledFromIRResult(src, srcOffset, dest, destOffset) {
+       var m = IR[1];
+       var domain = IR[2];
+       var encode = IR[3];
+       var decode = IR[4];
+       var samples = IR[5];
+       var size = IR[6];
+       var n = IR[7];
+       var range = IR[9];
+       var cubeVertices = 1 << m;
+       var cubeN = new Float64Array(cubeVertices);
+       var cubeVertex = new Uint32Array(cubeVertices);
+       var i, j;
+       for (j = 0; j < cubeVertices; j++) {
+        cubeN[j] = 1;
+       }
+       var k = n, pos = 1;
+       for (i = 0; i < m; ++i) {
+        var domain_2i = domain[i][0];
+        var domain_2i_1 = domain[i][1];
+        var xi = Math.min(Math.max(src[srcOffset + i], domain_2i), domain_2i_1);
+        var e = interpolate(xi, domain_2i, domain_2i_1, encode[i][0], encode[i][1]);
+        var size_i = size[i];
+        e = Math.min(Math.max(e, 0), size_i - 1);
+        var e0 = e < size_i - 1 ? Math.floor(e) : e - 1;
+        var n0 = e0 + 1 - e;
+        var n1 = e - e0;
+        var offset0 = e0 * k;
+        var offset1 = offset0 + k;
+        for (j = 0; j < cubeVertices; j++) {
+         if (j & pos) {
+          cubeN[j] *= n1;
+          cubeVertex[j] += offset1;
+         } else {
+          cubeN[j] *= n0;
+          cubeVertex[j] += offset0;
+         }
+        }
+        k *= size_i;
+        pos <<= 1;
+       }
+       for (j = 0; j < n; ++j) {
+        var rj = 0;
+        for (i = 0; i < cubeVertices; i++) {
+         rj += samples[cubeVertex[i] + j] * cubeN[i];
+        }
+        rj = interpolate(rj, 0, 1, decode[j][0], decode[j][1]);
+        dest[destOffset + j] = Math.min(Math.max(rj, range[j][0]), range[j][1]);
+       }
+      };
+     },
+     constructInterpolated: function PDFFunction_constructInterpolated(str, dict) {
+      var c0 = dict.getArray('C0') || [0];
+      var c1 = dict.getArray('C1') || [1];
+      var n = dict.get('N');
+      if (!isArray(c0) || !isArray(c1)) {
+       error('Illegal dictionary for interpolated function');
+      }
+      var length = c0.length;
+      var diff = [];
+      for (var i = 0; i < length; ++i) {
+       diff.push(c1[i] - c0[i]);
+      }
+      return [
+       CONSTRUCT_INTERPOLATED,
+       c0,
+       diff,
+       n
+      ];
+     },
+     constructInterpolatedFromIR: function PDFFunction_constructInterpolatedFromIR(IR) {
+      var c0 = IR[1];
+      var diff = IR[2];
+      var n = IR[3];
+      var length = diff.length;
+      return function constructInterpolatedFromIRResult(src, srcOffset, dest, destOffset) {
+       var x = n === 1 ? src[srcOffset] : Math.pow(src[srcOffset], n);
+       for (var j = 0; j < length; ++j) {
+        dest[destOffset + j] = c0[j] + x * diff[j];
+       }
+      };
+     },
+     constructStiched: function PDFFunction_constructStiched(fn, dict, xref) {
+      var domain = dict.getArray('Domain');
+      if (!domain) {
+       error('No domain');
+      }
+      var inputSize = domain.length / 2;
+      if (inputSize !== 1) {
+       error('Bad domain for stiched function');
+      }
+      var fnRefs = dict.get('Functions');
+      var fns = [];
+      for (var i = 0, ii = fnRefs.length; i < ii; ++i) {
+       fns.push(PDFFunction.getIR(xref, xref.fetchIfRef(fnRefs[i])));
+      }
+      var bounds = dict.getArray('Bounds');
+      var encode = dict.getArray('Encode');
+      return [
+       CONSTRUCT_STICHED,
+       domain,
+       bounds,
+       encode,
+       fns
+      ];
+     },
+     constructStichedFromIR: function PDFFunction_constructStichedFromIR(IR) {
+      var domain = IR[1];
+      var bounds = IR[2];
+      var encode = IR[3];
+      var fnsIR = IR[4];
+      var fns = [];
+      var tmpBuf = new Float32Array(1);
+      for (var i = 0, ii = fnsIR.length; i < ii; i++) {
+       fns.push(PDFFunction.fromIR(fnsIR[i]));
+      }
+      return function constructStichedFromIRResult(src, srcOffset, dest, destOffset) {
+       var clip = function constructStichedFromIRClip(v, min, max) {
+        if (v > max) {
+         v = max;
+        } else if (v < min) {
+         v = min;
+        }
+        return v;
+       };
+       var v = clip(src[srcOffset], domain[0], domain[1]);
+       for (var i = 0, ii = bounds.length; i < ii; ++i) {
+        if (v < bounds[i]) {
+         break;
+        }
+       }
+       var dmin = domain[0];
+       if (i > 0) {
+        dmin = bounds[i - 1];
+       }
+       var dmax = domain[1];
+       if (i < bounds.length) {
+        dmax = bounds[i];
+       }
+       var rmin = encode[2 * i];
+       var rmax = encode[2 * i + 1];
+       tmpBuf[0] = dmin === dmax ? rmin : rmin + (v - dmin) * (rmax - rmin) / (dmax - dmin);
+       fns[i](tmpBuf, 0, dest, destOffset);
+      };
+     },
+     constructPostScript: function PDFFunction_constructPostScript(fn, dict, xref) {
+      var domain = dict.getArray('Domain');
+      var range = dict.getArray('Range');
+      if (!domain) {
+       error('No domain.');
+      }
+      if (!range) {
+       error('No range.');
+      }
+      var lexer = new PostScriptLexer(fn);
+      var parser = new PostScriptParser(lexer);
+      var code = parser.parse();
+      return [
+       CONSTRUCT_POSTSCRIPT,
+       domain,
+       range,
+       code
+      ];
+     },
+     constructPostScriptFromIR: function PDFFunction_constructPostScriptFromIR(IR) {
+      var domain = IR[1];
+      var range = IR[2];
+      var code = IR[3];
+      var compiled = new PostScriptCompiler().compile(code, domain, range);
+      if (compiled) {
+       return new Function('src', 'srcOffset', 'dest', 'destOffset', compiled);
+      }
+      info('Unable to compile PS function');
+      var numOutputs = range.length >> 1;
+      var numInputs = domain.length >> 1;
+      var evaluator = new PostScriptEvaluator(code);
+      var cache = Object.create(null);
+      var MAX_CACHE_SIZE = 2048 * 4;
+      var cache_available = MAX_CACHE_SIZE;
+      var tmpBuf = new Float32Array(numInputs);
+      return function constructPostScriptFromIRResult(src, srcOffset, dest, destOffset) {
+       var i, value;
+       var key = '';
+       var input = tmpBuf;
+       for (i = 0; i < numInputs; i++) {
+        value = src[srcOffset + i];
+        input[i] = value;
+        key += value + '_';
+       }
+       var cachedValue = cache[key];
+       if (cachedValue !== undefined) {
+        dest.set(cachedValue, destOffset);
+        return;
+       }
+       var output = new Float32Array(numOutputs);
+       var stack = evaluator.execute(input);
+       var stackIndex = stack.length - numOutputs;
+       for (i = 0; i < numOutputs; i++) {
+        value = stack[stackIndex + i];
+        var bound = range[i * 2];
+        if (value < bound) {
+         value = bound;
+        } else {
+         bound = range[i * 2 + 1];
+         if (value > bound) {
+          value = bound;
+         }
+        }
+        output[i] = value;
+       }
+       if (cache_available > 0) {
+        cache_available--;
+        cache[key] = output;
+       }
+       dest.set(output, destOffset);
+      };
+     }
+    };
+   }();
+   function isPDFFunction(v) {
+    var fnDict;
+    if (typeof v !== 'object') {
+     return false;
+    } else if (isDict(v)) {
+     fnDict = v;
+    } else if (isStream(v)) {
+     fnDict = v.dict;
+    } else {
+     return false;
+    }
+    return fnDict.has('FunctionType');
+   }
+   var PostScriptStack = function PostScriptStackClosure() {
+    var MAX_STACK_SIZE = 100;
+    function PostScriptStack(initialStack) {
+     this.stack = !initialStack ? [] : Array.prototype.slice.call(initialStack, 0);
+    }
+    PostScriptStack.prototype = {
+     push: function PostScriptStack_push(value) {
+      if (this.stack.length >= MAX_STACK_SIZE) {
+       error('PostScript function stack overflow.');
+      }
+      this.stack.push(value);
+     },
+     pop: function PostScriptStack_pop() {
+      if (this.stack.length <= 0) {
+       error('PostScript function stack underflow.');
+      }
+      return this.stack.pop();
+     },
+     copy: function PostScriptStack_copy(n) {
+      if (this.stack.length + n >= MAX_STACK_SIZE) {
+       error('PostScript function stack overflow.');
+      }
+      var stack = this.stack;
+      for (var i = stack.length - n, j = n - 1; j >= 0; j--, i++) {
+       stack.push(stack[i]);
+      }
+     },
+     index: function PostScriptStack_index(n) {
+      this.push(this.stack[this.stack.length - n - 1]);
+     },
+     roll: function PostScriptStack_roll(n, p) {
+      var stack = this.stack;
+      var l = stack.length - n;
+      var r = stack.length - 1, c = l + (p - Math.floor(p / n) * n), i, j, t;
+      for (i = l, j = r; i < j; i++, j--) {
+       t = stack[i];
+       stack[i] = stack[j];
+       stack[j] = t;
+      }
+      for (i = l, j = c - 1; i < j; i++, j--) {
+       t = stack[i];
+       stack[i] = stack[j];
+       stack[j] = t;
+      }
+      for (i = c, j = r; i < j; i++, j--) {
+       t = stack[i];
+       stack[i] = stack[j];
+       stack[j] = t;
+      }
+     }
+    };
+    return PostScriptStack;
+   }();
+   var PostScriptEvaluator = function PostScriptEvaluatorClosure() {
+    function PostScriptEvaluator(operators) {
+     this.operators = operators;
+    }
+    PostScriptEvaluator.prototype = {
+     execute: function PostScriptEvaluator_execute(initialStack) {
+      var stack = new PostScriptStack(initialStack);
+      var counter = 0;
+      var operators = this.operators;
+      var length = operators.length;
+      var operator, a, b;
+      while (counter < length) {
+       operator = operators[counter++];
+       if (typeof operator === 'number') {
+        stack.push(operator);
+        continue;
+       }
+       switch (operator) {
+       case 'jz':
+        b = stack.pop();
+        a = stack.pop();
+        if (!a) {
+         counter = b;
+        }
+        break;
+       case 'j':
+        a = stack.pop();
+        counter = a;
+        break;
+       case 'abs':
+        a = stack.pop();
+        stack.push(Math.abs(a));
+        break;
+       case 'add':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a + b);
+        break;
+       case 'and':
+        b = stack.pop();
+        a = stack.pop();
+        if (isBool(a) && isBool(b)) {
+         stack.push(a && b);
+        } else {
+         stack.push(a & b);
+        }
+        break;
+       case 'atan':
+        a = stack.pop();
+        stack.push(Math.atan(a));
+        break;
+       case 'bitshift':
+        b = stack.pop();
+        a = stack.pop();
+        if (a > 0) {
+         stack.push(a << b);
+        } else {
+         stack.push(a >> b);
+        }
+        break;
+       case 'ceiling':
+        a = stack.pop();
+        stack.push(Math.ceil(a));
+        break;
+       case 'copy':
+        a = stack.pop();
+        stack.copy(a);
+        break;
+       case 'cos':
+        a = stack.pop();
+        stack.push(Math.cos(a));
+        break;
+       case 'cvi':
+        a = stack.pop() | 0;
+        stack.push(a);
+        break;
+       case 'cvr':
+        break;
+       case 'div':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a / b);
+        break;
+       case 'dup':
+        stack.copy(1);
+        break;
+       case 'eq':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a === b);
+        break;
+       case 'exch':
+        stack.roll(2, 1);
+        break;
+       case 'exp':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(Math.pow(a, b));
+        break;
+       case 'false':
+        stack.push(false);
+        break;
+       case 'floor':
+        a = stack.pop();
+        stack.push(Math.floor(a));
+        break;
+       case 'ge':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a >= b);
+        break;
+       case 'gt':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a > b);
+        break;
+       case 'idiv':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a / b | 0);
+        break;
+       case 'index':
+        a = stack.pop();
+        stack.index(a);
+        break;
+       case 'le':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a <= b);
+        break;
+       case 'ln':
+        a = stack.pop();
+        stack.push(Math.log(a));
+        break;
+       case 'log':
+        a = stack.pop();
+        stack.push(Math.log(a) / Math.LN10);
+        break;
+       case 'lt':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a < b);
+        break;
+       case 'mod':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a % b);
+        break;
+       case 'mul':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a * b);
+        break;
+       case 'ne':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a !== b);
+        break;
+       case 'neg':
+        a = stack.pop();
+        stack.push(-a);
+        break;
+       case 'not':
+        a = stack.pop();
+        if (isBool(a)) {
+         stack.push(!a);
+        } else {
+         stack.push(~a);
+        }
+        break;
+       case 'or':
+        b = stack.pop();
+        a = stack.pop();
+        if (isBool(a) && isBool(b)) {
+         stack.push(a || b);
+        } else {
+         stack.push(a | b);
+        }
+        break;
+       case 'pop':
+        stack.pop();
+        break;
+       case 'roll':
+        b = stack.pop();
+        a = stack.pop();
+        stack.roll(a, b);
+        break;
+       case 'round':
+        a = stack.pop();
+        stack.push(Math.round(a));
+        break;
+       case 'sin':
+        a = stack.pop();
+        stack.push(Math.sin(a));
+        break;
+       case 'sqrt':
+        a = stack.pop();
+        stack.push(Math.sqrt(a));
+        break;
+       case 'sub':
+        b = stack.pop();
+        a = stack.pop();
+        stack.push(a - b);
+        break;
+       case 'true':
+        stack.push(true);
+        break;
+       case 'truncate':
+        a = stack.pop();
+        a = a < 0 ? Math.ceil(a) : Math.floor(a);
+        stack.push(a);
+        break;
+       case 'xor':
+        b = stack.pop();
+        a = stack.pop();
+        if (isBool(a) && isBool(b)) {
+         stack.push(a !== b);
+        } else {
+         stack.push(a ^ b);
+        }
+        break;
+       default:
+        error('Unknown operator ' + operator);
+        break;
+       }
+      }
+      return stack.stack;
+     }
+    };
+    return PostScriptEvaluator;
+   }();
+   var PostScriptCompiler = function PostScriptCompilerClosure() {
+    function AstNode(type) {
+     this.type = type;
+    }
+    AstNode.prototype.visit = function (visitor) {
+     throw new Error('abstract method');
+    };
+    function AstArgument(index, min, max) {
+     AstNode.call(this, 'args');
+     this.index = index;
+     this.min = min;
+     this.max = max;
+    }
+    AstArgument.prototype = Object.create(AstNode.prototype);
+    AstArgument.prototype.visit = function (visitor) {
+     visitor.visitArgument(this);
+    };
+    function AstLiteral(number) {
+     AstNode.call(this, 'literal');
+     this.number = number;
+     this.min = number;
+     this.max = number;
+    }
+    AstLiteral.prototype = Object.create(AstNode.prototype);
+    AstLiteral.prototype.visit = function (visitor) {
+     visitor.visitLiteral(this);
+    };
+    function AstBinaryOperation(op, arg1, arg2, min, max) {
+     AstNode.call(this, 'binary');
+     this.op = op;
+     this.arg1 = arg1;
+     this.arg2 = arg2;
+     this.min = min;
+     this.max = max;
+    }
+    AstBinaryOperation.prototype = Object.create(AstNode.prototype);
+    AstBinaryOperation.prototype.visit = function (visitor) {
+     visitor.visitBinaryOperation(this);
+    };
+    function AstMin(arg, max) {
+     AstNode.call(this, 'max');
+     this.arg = arg;
+     this.min = arg.min;
+     this.max = max;
+    }
+    AstMin.prototype = Object.create(AstNode.prototype);
+    AstMin.prototype.visit = function (visitor) {
+     visitor.visitMin(this);
+    };
+    function AstVariable(index, min, max) {
+     AstNode.call(this, 'var');
+     this.index = index;
+     this.min = min;
+     this.max = max;
+    }
+    AstVariable.prototype = Object.create(AstNode.prototype);
+    AstVariable.prototype.visit = function (visitor) {
+     visitor.visitVariable(this);
+    };
+    function AstVariableDefinition(variable, arg) {
+     AstNode.call(this, 'definition');
+     this.variable = variable;
+     this.arg = arg;
+    }
+    AstVariableDefinition.prototype = Object.create(AstNode.prototype);
+    AstVariableDefinition.prototype.visit = function (visitor) {
+     visitor.visitVariableDefinition(this);
+    };
+    function ExpressionBuilderVisitor() {
+     this.parts = [];
+    }
+    ExpressionBuilderVisitor.prototype = {
+     visitArgument: function (arg) {
+      this.parts.push('Math.max(', arg.min, ', Math.min(', arg.max, ', src[srcOffset + ', arg.index, ']))');
+     },
+     visitVariable: function (variable) {
+      this.parts.push('v', variable.index);
+     },
+     visitLiteral: function (literal) {
+      this.parts.push(literal.number);
+     },
+     visitBinaryOperation: function (operation) {
+      this.parts.push('(');
+      operation.arg1.visit(this);
+      this.parts.push(' ', operation.op, ' ');
+      operation.arg2.visit(this);
+      this.parts.push(')');
+     },
+     visitVariableDefinition: function (definition) {
+      this.parts.push('var ');
+      definition.variable.visit(this);
+      this.parts.push(' = ');
+      definition.arg.visit(this);
+      this.parts.push(';');
+     },
+     visitMin: function (max) {
+      this.parts.push('Math.min(');
+      max.arg.visit(this);
+      this.parts.push(', ', max.max, ')');
+     },
+     toString: function () {
+      return this.parts.join('');
+     }
+    };
+    function buildAddOperation(num1, num2) {
+     if (num2.type === 'literal' && num2.number === 0) {
+      return num1;
+     }
+     if (num1.type === 'literal' && num1.number === 0) {
+      return num2;
+     }
+     if (num2.type === 'literal' && num1.type === 'literal') {
+      return new AstLiteral(num1.number + num2.number);
+     }
+     return new AstBinaryOperation('+', num1, num2, num1.min + num2.min, num1.max + num2.max);
+    }
+    function buildMulOperation(num1, num2) {
+     if (num2.type === 'literal') {
+      if (num2.number === 0) {
+       return new AstLiteral(0);
+      } else if (num2.number === 1) {
+       return num1;
+      } else if (num1.type === 'literal') {
+       return new AstLiteral(num1.number * num2.number);
+      }
+     }
+     if (num1.type === 'literal') {
+      if (num1.number === 0) {
+       return new AstLiteral(0);
+      } else if (num1.number === 1) {
+       return num2;
+      }
+     }
+     var min = Math.min(num1.min * num2.min, num1.min * num2.max, num1.max * num2.min, num1.max * num2.max);
+     var max = Math.max(num1.min * num2.min, num1.min * num2.max, num1.max * num2.min, num1.max * num2.max);
+     return new AstBinaryOperation('*', num1, num2, min, max);
+    }
+    function buildSubOperation(num1, num2) {
+     if (num2.type === 'literal') {
+      if (num2.number === 0) {
+       return num1;
+      } else if (num1.type === 'literal') {
+       return new AstLiteral(num1.number - num2.number);
+      }
+     }
+     if (num2.type === 'binary' && num2.op === '-' && num1.type === 'literal' && num1.number === 1 && num2.arg1.type === 'literal' && num2.arg1.number === 1) {
+      return num2.arg2;
+     }
+     return new AstBinaryOperation('-', num1, num2, num1.min - num2.max, num1.max - num2.min);
+    }
+    function buildMinOperation(num1, max) {
+     if (num1.min >= max) {
+      return new AstLiteral(max);
+     } else if (num1.max <= max) {
+      return num1;
+     }
+     return new AstMin(num1, max);
+    }
+    function PostScriptCompiler() {
+    }
+    PostScriptCompiler.prototype = {
+     compile: function PostScriptCompiler_compile(code, domain, range) {
+      var stack = [];
+      var i, ii;
+      var instructions = [];
+      var inputSize = domain.length >> 1, outputSize = range.length >> 1;
+      var lastRegister = 0;
+      var n, j;
+      var num1, num2, ast1, ast2, tmpVar, item;
+      for (i = 0; i < inputSize; i++) {
+       stack.push(new AstArgument(i, domain[i * 2], domain[i * 2 + 1]));
+      }
+      for (i = 0, ii = code.length; i < ii; i++) {
+       item = code[i];
+       if (typeof item === 'number') {
+        stack.push(new AstLiteral(item));
+        continue;
+       }
+       switch (item) {
+       case 'add':
+        if (stack.length < 2) {
+         return null;
+        }
+        num2 = stack.pop();
+        num1 = stack.pop();
+        stack.push(buildAddOperation(num1, num2));
+        break;
+       case 'cvr':
+        if (stack.length < 1) {
+         return null;
+        }
+        break;
+       case 'mul':
+        if (stack.length < 2) {
+         return null;
+        }
+        num2 = stack.pop();
+        num1 = stack.pop();
+        stack.push(buildMulOperation(num1, num2));
+        break;
+       case 'sub':
+        if (stack.length < 2) {
+         return null;
+        }
+        num2 = stack.pop();
+        num1 = stack.pop();
+        stack.push(buildSubOperation(num1, num2));
+        break;
+       case 'exch':
+        if (stack.length < 2) {
+         return null;
+        }
+        ast1 = stack.pop();
+        ast2 = stack.pop();
+        stack.push(ast1, ast2);
+        break;
+       case 'pop':
+        if (stack.length < 1) {
+         return null;
+        }
+        stack.pop();
+        break;
+       case 'index':
+        if (stack.length < 1) {
+         return null;
+        }
+        num1 = stack.pop();
+        if (num1.type !== 'literal') {
+         return null;
+        }
+        n = num1.number;
+        if (n < 0 || (n | 0) !== n || stack.length < n) {
+         return null;
+        }
+        ast1 = stack[stack.length - n - 1];
+        if (ast1.type === 'literal' || ast1.type === 'var') {
+         stack.push(ast1);
+         break;
+        }
+        tmpVar = new AstVariable(lastRegister++, ast1.min, ast1.max);
+        stack[stack.length - n - 1] = tmpVar;
+        stack.push(tmpVar);
+        instructions.push(new AstVariableDefinition(tmpVar, ast1));
+        break;
+       case 'dup':
+        if (stack.length < 1) {
+         return null;
+        }
+        if (typeof code[i + 1] === 'number' && code[i + 2] === 'gt' && code[i + 3] === i + 7 && code[i + 4] === 'jz' && code[i + 5] === 'pop' && code[i + 6] === code[i + 1]) {
+         num1 = stack.pop();
+         stack.push(buildMinOperation(num1, code[i + 1]));
+         i += 6;
+         break;
+        }
+        ast1 = stack[stack.length - 1];
+        if (ast1.type === 'literal' || ast1.type === 'var') {
+         stack.push(ast1);
+         break;
+        }
+        tmpVar = new AstVariable(lastRegister++, ast1.min, ast1.max);
+        stack[stack.length - 1] = tmpVar;
+        stack.push(tmpVar);
+        instructions.push(new AstVariableDefinition(tmpVar, ast1));
+        break;
+       case 'roll':
+        if (stack.length < 2) {
+         return null;
+        }
+        num2 = stack.pop();
+        num1 = stack.pop();
+        if (num2.type !== 'literal' || num1.type !== 'literal') {
+         return null;
+        }
+        j = num2.number;
+        n = num1.number;
+        if (n <= 0 || (n | 0) !== n || (j | 0) !== j || stack.length < n) {
+         return null;
+        }
+        j = (j % n + n) % n;
+        if (j === 0) {
+         break;
+        }
+        Array.prototype.push.apply(stack, stack.splice(stack.length - n, n - j));
+        break;
+       default:
+        return null;
+       }
+      }
+      if (stack.length !== outputSize) {
+       return null;
+      }
+      var result = [];
+      instructions.forEach(function (instruction) {
+       var statementBuilder = new ExpressionBuilderVisitor();
+       instruction.visit(statementBuilder);
+       result.push(statementBuilder.toString());
+      });
+      stack.forEach(function (expr, i) {
+       var statementBuilder = new ExpressionBuilderVisitor();
+       expr.visit(statementBuilder);
+       var min = range[i * 2], max = range[i * 2 + 1];
+       var out = [statementBuilder.toString()];
+       if (min > expr.min) {
+        out.unshift('Math.max(', min, ', ');
+        out.push(')');
+       }
+       if (max < expr.max) {
+        out.unshift('Math.min(', max, ', ');
+        out.push(')');
+       }
+       out.unshift('dest[destOffset + ', i, '] = ');
+       out.push(';');
+       result.push(out.join(''));
+      });
+      return result.join('\n');
+     }
+    };
+    return PostScriptCompiler;
+   }();
+   exports.isPDFFunction = isPDFFunction;
+   exports.PDFFunction = PDFFunction;
+   exports.PostScriptEvaluator = PostScriptEvaluator;
+   exports.PostScriptCompiler = PostScriptCompiler;
   }));
   (function (root, factory) {
    factory(root.pdfjsCoreParser = {}, root.pdfjsSharedUtil, root.pdfjsCorePrimitives, root.pdfjsCoreStream);
@@ -34436,10 +35363,12 @@
    var isNum = sharedUtil.isNum;
    var isString = sharedUtil.isString;
    var warn = sharedUtil.warn;
+   var EOF = corePrimitives.EOF;
    var Cmd = corePrimitives.Cmd;
    var Dict = corePrimitives.Dict;
    var Name = corePrimitives.Name;
    var Ref = corePrimitives.Ref;
+   var isEOF = corePrimitives.isEOF;
    var isCmd = corePrimitives.isCmd;
    var isDict = corePrimitives.isDict;
    var isName = corePrimitives.isName;
@@ -34454,10 +35383,6 @@
    var NullStream = coreStream.NullStream;
    var PredictorStream = coreStream.PredictorStream;
    var RunLengthStream = coreStream.RunLengthStream;
-   var EOF = {};
-   function isEOF(v) {
-    return v === EOF;
-   }
    var MAX_LENGTH_TO_CACHE = 1000;
    var Parser = function ParserClosure() {
     function Parser(lexer, allowStreams, xref, recoveryMode) {
@@ -35628,11 +36553,9 @@
      };
     }
    };
-   exports.EOF = EOF;
    exports.Lexer = Lexer;
    exports.Linearization = Linearization;
    exports.Parser = Parser;
-   exports.isEOF = isEOF;
   }));
   (function (root, factory) {
    factory(root.pdfjsCoreType1Parser = {}, root.pdfjsSharedUtil, root.pdfjsCoreStream, root.pdfjsCoreEncodings);
@@ -35800,7 +36723,7 @@
           error = true;
           break;
          }
-         var wy = this.stack.pop();
+         this.stack.pop();
          wx = this.stack.pop();
          var sby = this.stack.pop();
          sbx = this.stack.pop();
@@ -36052,7 +36975,7 @@
         }
         break;
        case 'Subrs':
-        var num = this.readInt();
+        this.readInt();
         this.getToken();
         while ((token = this.getToken()) === 'dup') {
          var index = this.readInt();
@@ -36184,12 +37107,12 @@
    var isInt = sharedUtil.isInt;
    var isString = sharedUtil.isString;
    var MissingDataException = sharedUtil.MissingDataException;
+   var isEOF = corePrimitives.isEOF;
    var isName = corePrimitives.isName;
    var isCmd = corePrimitives.isCmd;
    var isStream = corePrimitives.isStream;
    var StringStream = coreStream.StringStream;
    var Lexer = coreParser.Lexer;
-   var isEOF = coreParser.isEOF;
    var BUILT_IN_CMAPS = [
     'Adobe-GB1-UCS2',
     'Adobe-CNS1-UCS2',
@@ -37071,4151 +37994,6 @@
    exports.CMap = CMap;
    exports.CMapFactory = CMapFactory;
    exports.IdentityCMap = IdentityCMap;
-  }));
-  (function (root, factory) {
-   factory(root.pdfjsCoreFonts = {}, root.pdfjsSharedUtil, root.pdfjsCorePrimitives, root.pdfjsCoreStream, root.pdfjsCoreGlyphList, root.pdfjsCoreFontRenderer, root.pdfjsCoreEncodings, root.pdfjsCoreStandardFonts, root.pdfjsCoreUnicode, root.pdfjsCoreType1Parser, root.pdfjsCoreCFFParser);
-  }(this, function (exports, sharedUtil, corePrimitives, coreStream, coreGlyphList, coreFontRenderer, coreEncodings, coreStandardFonts, coreUnicode, coreType1Parser, coreCFFParser) {
-   var FONT_IDENTITY_MATRIX = sharedUtil.FONT_IDENTITY_MATRIX;
-   var FontType = sharedUtil.FontType;
-   var assert = sharedUtil.assert;
-   var bytesToString = sharedUtil.bytesToString;
-   var error = sharedUtil.error;
-   var info = sharedUtil.info;
-   var isArray = sharedUtil.isArray;
-   var isInt = sharedUtil.isInt;
-   var isNum = sharedUtil.isNum;
-   var readUint32 = sharedUtil.readUint32;
-   var shadow = sharedUtil.shadow;
-   var string32 = sharedUtil.string32;
-   var warn = sharedUtil.warn;
-   var MissingDataException = sharedUtil.MissingDataException;
-   var isSpace = sharedUtil.isSpace;
-   var Stream = coreStream.Stream;
-   var getGlyphsUnicode = coreGlyphList.getGlyphsUnicode;
-   var getDingbatsGlyphsUnicode = coreGlyphList.getDingbatsGlyphsUnicode;
-   var FontRendererFactory = coreFontRenderer.FontRendererFactory;
-   var StandardEncoding = coreEncodings.StandardEncoding;
-   var MacRomanEncoding = coreEncodings.MacRomanEncoding;
-   var SymbolSetEncoding = coreEncodings.SymbolSetEncoding;
-   var ZapfDingbatsEncoding = coreEncodings.ZapfDingbatsEncoding;
-   var getEncoding = coreEncodings.getEncoding;
-   var getStdFontMap = coreStandardFonts.getStdFontMap;
-   var getNonStdFontMap = coreStandardFonts.getNonStdFontMap;
-   var getGlyphMapForStandardFonts = coreStandardFonts.getGlyphMapForStandardFonts;
-   var getSupplementalGlyphMapForArialBlack = coreStandardFonts.getSupplementalGlyphMapForArialBlack;
-   var getUnicodeRangeFor = coreUnicode.getUnicodeRangeFor;
-   var mapSpecialUnicodeValues = coreUnicode.mapSpecialUnicodeValues;
-   var getUnicodeForGlyph = coreUnicode.getUnicodeForGlyph;
-   var Type1Parser = coreType1Parser.Type1Parser;
-   var CFFStandardStrings = coreCFFParser.CFFStandardStrings;
-   var CFFParser = coreCFFParser.CFFParser;
-   var CFFCompiler = coreCFFParser.CFFCompiler;
-   var CFF = coreCFFParser.CFF;
-   var CFFHeader = coreCFFParser.CFFHeader;
-   var CFFTopDict = coreCFFParser.CFFTopDict;
-   var CFFPrivateDict = coreCFFParser.CFFPrivateDict;
-   var CFFStrings = coreCFFParser.CFFStrings;
-   var CFFIndex = coreCFFParser.CFFIndex;
-   var CFFCharset = coreCFFParser.CFFCharset;
-   var PRIVATE_USE_OFFSET_START = 0xE000;
-   var PRIVATE_USE_OFFSET_END = 0xF8FF;
-   var SKIP_PRIVATE_USE_RANGE_F000_TO_F01F = false;
-   var PDF_GLYPH_SPACE_UNITS = 1000;
-   var SEAC_ANALYSIS_ENABLED = false;
-   var FontFlags = {
-    FixedPitch: 1,
-    Serif: 2,
-    Symbolic: 4,
-    Script: 8,
-    Nonsymbolic: 32,
-    Italic: 64,
-    AllCap: 65536,
-    SmallCap: 131072,
-    ForceBold: 262144
-   };
-   var MacStandardGlyphOrdering = [
-    '.notdef',
-    '.null',
-    'nonmarkingreturn',
-    'space',
-    'exclam',
-    'quotedbl',
-    'numbersign',
-    'dollar',
-    'percent',
-    'ampersand',
-    'quotesingle',
-    'parenleft',
-    'parenright',
-    'asterisk',
-    'plus',
-    'comma',
-    'hyphen',
-    'period',
-    'slash',
-    'zero',
-    'one',
-    'two',
-    'three',
-    'four',
-    'five',
-    'six',
-    'seven',
-    'eight',
-    'nine',
-    'colon',
-    'semicolon',
-    'less',
-    'equal',
-    'greater',
-    'question',
-    'at',
-    'A',
-    'B',
-    'C',
-    'D',
-    'E',
-    'F',
-    'G',
-    'H',
-    'I',
-    'J',
-    'K',
-    'L',
-    'M',
-    'N',
-    'O',
-    'P',
-    'Q',
-    'R',
-    'S',
-    'T',
-    'U',
-    'V',
-    'W',
-    'X',
-    'Y',
-    'Z',
-    'bracketleft',
-    'backslash',
-    'bracketright',
-    'asciicircum',
-    'underscore',
-    'grave',
-    'a',
-    'b',
-    'c',
-    'd',
-    'e',
-    'f',
-    'g',
-    'h',
-    'i',
-    'j',
-    'k',
-    'l',
-    'm',
-    'n',
-    'o',
-    'p',
-    'q',
-    'r',
-    's',
-    't',
-    'u',
-    'v',
-    'w',
-    'x',
-    'y',
-    'z',
-    'braceleft',
-    'bar',
-    'braceright',
-    'asciitilde',
-    'Adieresis',
-    'Aring',
-    'Ccedilla',
-    'Eacute',
-    'Ntilde',
-    'Odieresis',
-    'Udieresis',
-    'aacute',
-    'agrave',
-    'acircumflex',
-    'adieresis',
-    'atilde',
-    'aring',
-    'ccedilla',
-    'eacute',
-    'egrave',
-    'ecircumflex',
-    'edieresis',
-    'iacute',
-    'igrave',
-    'icircumflex',
-    'idieresis',
-    'ntilde',
-    'oacute',
-    'ograve',
-    'ocircumflex',
-    'odieresis',
-    'otilde',
-    'uacute',
-    'ugrave',
-    'ucircumflex',
-    'udieresis',
-    'dagger',
-    'degree',
-    'cent',
-    'sterling',
-    'section',
-    'bullet',
-    'paragraph',
-    'germandbls',
-    'registered',
-    'copyright',
-    'trademark',
-    'acute',
-    'dieresis',
-    'notequal',
-    'AE',
-    'Oslash',
-    'infinity',
-    'plusminus',
-    'lessequal',
-    'greaterequal',
-    'yen',
-    'mu',
-    'partialdiff',
-    'summation',
-    'product',
-    'pi',
-    'integral',
-    'ordfeminine',
-    'ordmasculine',
-    'Omega',
-    'ae',
-    'oslash',
-    'questiondown',
-    'exclamdown',
-    'logicalnot',
-    'radical',
-    'florin',
-    'approxequal',
-    'Delta',
-    'guillemotleft',
-    'guillemotright',
-    'ellipsis',
-    'nonbreakingspace',
-    'Agrave',
-    'Atilde',
-    'Otilde',
-    'OE',
-    'oe',
-    'endash',
-    'emdash',
-    'quotedblleft',
-    'quotedblright',
-    'quoteleft',
-    'quoteright',
-    'divide',
-    'lozenge',
-    'ydieresis',
-    'Ydieresis',
-    'fraction',
-    'currency',
-    'guilsinglleft',
-    'guilsinglright',
-    'fi',
-    'fl',
-    'daggerdbl',
-    'periodcentered',
-    'quotesinglbase',
-    'quotedblbase',
-    'perthousand',
-    'Acircumflex',
-    'Ecircumflex',
-    'Aacute',
-    'Edieresis',
-    'Egrave',
-    'Iacute',
-    'Icircumflex',
-    'Idieresis',
-    'Igrave',
-    'Oacute',
-    'Ocircumflex',
-    'apple',
-    'Ograve',
-    'Uacute',
-    'Ucircumflex',
-    'Ugrave',
-    'dotlessi',
-    'circumflex',
-    'tilde',
-    'macron',
-    'breve',
-    'dotaccent',
-    'ring',
-    'cedilla',
-    'hungarumlaut',
-    'ogonek',
-    'caron',
-    'Lslash',
-    'lslash',
-    'Scaron',
-    'scaron',
-    'Zcaron',
-    'zcaron',
-    'brokenbar',
-    'Eth',
-    'eth',
-    'Yacute',
-    'yacute',
-    'Thorn',
-    'thorn',
-    'minus',
-    'multiply',
-    'onesuperior',
-    'twosuperior',
-    'threesuperior',
-    'onehalf',
-    'onequarter',
-    'threequarters',
-    'franc',
-    'Gbreve',
-    'gbreve',
-    'Idotaccent',
-    'Scedilla',
-    'scedilla',
-    'Cacute',
-    'cacute',
-    'Ccaron',
-    'ccaron',
-    'dcroat'
-   ];
-   function adjustWidths(properties) {
-    if (!properties.fontMatrix) {
-     return;
-    }
-    if (properties.fontMatrix[0] === FONT_IDENTITY_MATRIX[0]) {
-     return;
-    }
-    var scale = 0.001 / properties.fontMatrix[0];
-    var glyphsWidths = properties.widths;
-    for (var glyph in glyphsWidths) {
-     glyphsWidths[glyph] *= scale;
-    }
-    properties.defaultWidth *= scale;
-   }
-   function adjustToUnicode(properties, builtInEncoding) {
-    if (properties.hasIncludedToUnicodeMap) {
-     return;
-    }
-    if (properties.hasEncoding) {
-     return;
-    }
-    if (builtInEncoding === properties.defaultEncoding) {
-     return;
-    }
-    if (properties.toUnicode instanceof IdentityToUnicodeMap) {
-     return;
-    }
-    var toUnicode = [], glyphsUnicodeMap = getGlyphsUnicode();
-    for (var charCode in builtInEncoding) {
-     var glyphName = builtInEncoding[charCode];
-     var unicode = getUnicodeForGlyph(glyphName, glyphsUnicodeMap);
-     if (unicode !== -1) {
-      toUnicode[charCode] = String.fromCharCode(unicode);
-     }
-    }
-    properties.toUnicode.amend(toUnicode);
-   }
-   function getFontType(type, subtype) {
-    switch (type) {
-    case 'Type1':
-     return subtype === 'Type1C' ? FontType.TYPE1C : FontType.TYPE1;
-    case 'CIDFontType0':
-     return subtype === 'CIDFontType0C' ? FontType.CIDFONTTYPE0C : FontType.CIDFONTTYPE0;
-    case 'OpenType':
-     return FontType.OPENTYPE;
-    case 'TrueType':
-     return FontType.TRUETYPE;
-    case 'CIDFontType2':
-     return FontType.CIDFONTTYPE2;
-    case 'MMType1':
-     return FontType.MMTYPE1;
-    case 'Type0':
-     return FontType.TYPE0;
-    default:
-     return FontType.UNKNOWN;
-    }
-   }
-   function recoverGlyphName(name, glyphsUnicodeMap) {
-    if (glyphsUnicodeMap[name] !== undefined) {
-     return name;
-    }
-    var unicode = getUnicodeForGlyph(name, glyphsUnicodeMap);
-    if (unicode !== -1) {
-     for (var key in glyphsUnicodeMap) {
-      if (glyphsUnicodeMap[key] === unicode) {
-       return key;
-      }
-     }
-    }
-    info('Unable to recover a standard glyph name for: ' + name);
-    return name;
-   }
-   var Glyph = function GlyphClosure() {
-    function Glyph(fontChar, unicode, accent, width, vmetric, operatorListId, isSpace, isInFont) {
-     this.fontChar = fontChar;
-     this.unicode = unicode;
-     this.accent = accent;
-     this.width = width;
-     this.vmetric = vmetric;
-     this.operatorListId = operatorListId;
-     this.isSpace = isSpace;
-     this.isInFont = isInFont;
-    }
-    Glyph.prototype.matchesForCache = function (fontChar, unicode, accent, width, vmetric, operatorListId, isSpace, isInFont) {
-     return this.fontChar === fontChar && this.unicode === unicode && this.accent === accent && this.width === width && this.vmetric === vmetric && this.operatorListId === operatorListId && this.isSpace === isSpace && this.isInFont === isInFont;
-    };
-    return Glyph;
-   }();
-   var ToUnicodeMap = function ToUnicodeMapClosure() {
-    function ToUnicodeMap(cmap) {
-     this._map = cmap;
-    }
-    ToUnicodeMap.prototype = {
-     get length() {
-      return this._map.length;
-     },
-     forEach: function (callback) {
-      for (var charCode in this._map) {
-       callback(charCode, this._map[charCode].charCodeAt(0));
-      }
-     },
-     has: function (i) {
-      return this._map[i] !== undefined;
-     },
-     get: function (i) {
-      return this._map[i];
-     },
-     charCodeOf: function (v) {
-      return this._map.indexOf(v);
-     },
-     amend: function (map) {
-      for (var charCode in map) {
-       this._map[charCode] = map[charCode];
-      }
-     }
-    };
-    return ToUnicodeMap;
-   }();
-   var IdentityToUnicodeMap = function IdentityToUnicodeMapClosure() {
-    function IdentityToUnicodeMap(firstChar, lastChar) {
-     this.firstChar = firstChar;
-     this.lastChar = lastChar;
-    }
-    IdentityToUnicodeMap.prototype = {
-     get length() {
-      return this.lastChar + 1 - this.firstChar;
-     },
-     forEach: function (callback) {
-      for (var i = this.firstChar, ii = this.lastChar; i <= ii; i++) {
-       callback(i, i);
-      }
-     },
-     has: function (i) {
-      return this.firstChar <= i && i <= this.lastChar;
-     },
-     get: function (i) {
-      if (this.firstChar <= i && i <= this.lastChar) {
-       return String.fromCharCode(i);
-      }
-      return undefined;
-     },
-     charCodeOf: function (v) {
-      return isInt(v) && v >= this.firstChar && v <= this.lastChar ? v : -1;
-     },
-     amend: function (map) {
-      error('Should not call amend()');
-     }
-    };
-    return IdentityToUnicodeMap;
-   }();
-   var OpenTypeFileBuilder = function OpenTypeFileBuilderClosure() {
-    function writeInt16(dest, offset, num) {
-     dest[offset] = num >> 8 & 0xFF;
-     dest[offset + 1] = num & 0xFF;
-    }
-    function writeInt32(dest, offset, num) {
-     dest[offset] = num >> 24 & 0xFF;
-     dest[offset + 1] = num >> 16 & 0xFF;
-     dest[offset + 2] = num >> 8 & 0xFF;
-     dest[offset + 3] = num & 0xFF;
-    }
-    function writeData(dest, offset, data) {
-     var i, ii;
-     if (data instanceof Uint8Array) {
-      dest.set(data, offset);
-     } else if (typeof data === 'string') {
-      for (i = 0, ii = data.length; i < ii; i++) {
-       dest[offset++] = data.charCodeAt(i) & 0xFF;
-      }
-     } else {
-      for (i = 0, ii = data.length; i < ii; i++) {
-       dest[offset++] = data[i] & 0xFF;
-      }
-     }
-    }
-    function OpenTypeFileBuilder(sfnt) {
-     this.sfnt = sfnt;
-     this.tables = Object.create(null);
-    }
-    OpenTypeFileBuilder.getSearchParams = function OpenTypeFileBuilder_getSearchParams(entriesCount, entrySize) {
-     var maxPower2 = 1, log2 = 0;
-     while ((maxPower2 ^ entriesCount) > maxPower2) {
-      maxPower2 <<= 1;
-      log2++;
-     }
-     var searchRange = maxPower2 * entrySize;
-     return {
-      range: searchRange,
-      entry: log2,
-      rangeShift: entrySize * entriesCount - searchRange
-     };
-    };
-    var OTF_HEADER_SIZE = 12;
-    var OTF_TABLE_ENTRY_SIZE = 16;
-    OpenTypeFileBuilder.prototype = {
-     toArray: function OpenTypeFileBuilder_toArray() {
-      var sfnt = this.sfnt;
-      var tables = this.tables;
-      var tablesNames = Object.keys(tables);
-      tablesNames.sort();
-      var numTables = tablesNames.length;
-      var i, j, jj, table, tableName;
-      var offset = OTF_HEADER_SIZE + numTables * OTF_TABLE_ENTRY_SIZE;
-      var tableOffsets = [offset];
-      for (i = 0; i < numTables; i++) {
-       table = tables[tablesNames[i]];
-       var paddedLength = (table.length + 3 & ~3) >>> 0;
-       offset += paddedLength;
-       tableOffsets.push(offset);
-      }
-      var file = new Uint8Array(offset);
-      for (i = 0; i < numTables; i++) {
-       table = tables[tablesNames[i]];
-       writeData(file, tableOffsets[i], table);
-      }
-      if (sfnt === 'true') {
-       sfnt = string32(0x00010000);
-      }
-      file[0] = sfnt.charCodeAt(0) & 0xFF;
-      file[1] = sfnt.charCodeAt(1) & 0xFF;
-      file[2] = sfnt.charCodeAt(2) & 0xFF;
-      file[3] = sfnt.charCodeAt(3) & 0xFF;
-      writeInt16(file, 4, numTables);
-      var searchParams = OpenTypeFileBuilder.getSearchParams(numTables, 16);
-      writeInt16(file, 6, searchParams.range);
-      writeInt16(file, 8, searchParams.entry);
-      writeInt16(file, 10, searchParams.rangeShift);
-      offset = OTF_HEADER_SIZE;
-      for (i = 0; i < numTables; i++) {
-       tableName = tablesNames[i];
-       file[offset] = tableName.charCodeAt(0) & 0xFF;
-       file[offset + 1] = tableName.charCodeAt(1) & 0xFF;
-       file[offset + 2] = tableName.charCodeAt(2) & 0xFF;
-       file[offset + 3] = tableName.charCodeAt(3) & 0xFF;
-       var checksum = 0;
-       for (j = tableOffsets[i], jj = tableOffsets[i + 1]; j < jj; j += 4) {
-        var quad = readUint32(file, j);
-        checksum = checksum + quad >>> 0;
-       }
-       writeInt32(file, offset + 4, checksum);
-       writeInt32(file, offset + 8, tableOffsets[i]);
-       writeInt32(file, offset + 12, tables[tableName].length);
-       offset += OTF_TABLE_ENTRY_SIZE;
-      }
-      return file;
-     },
-     addTable: function OpenTypeFileBuilder_addTable(tag, data) {
-      if (tag in this.tables) {
-       throw new Error('Table ' + tag + ' already exists');
-      }
-      this.tables[tag] = data;
-     }
-    };
-    return OpenTypeFileBuilder;
-   }();
-   var ProblematicCharRanges = new Int32Array([
-    0x0000,
-    0x0020,
-    0x007F,
-    0x00A1,
-    0x00AD,
-    0x00AE,
-    0x0600,
-    0x0780,
-    0x08A0,
-    0x10A0,
-    0x1780,
-    0x1800,
-    0x1C00,
-    0x1C50,
-    0x2000,
-    0x2010,
-    0x2011,
-    0x2012,
-    0x2028,
-    0x2030,
-    0x205F,
-    0x2070,
-    0x25CC,
-    0x25CD,
-    0x3000,
-    0x3001,
-    0xAA60,
-    0xAA80,
-    0xFFF0,
-    0x10000
-   ]);
-   var Font = function FontClosure() {
-    function Font(name, file, properties) {
-     var charCode, glyphName, unicode;
-     this.name = name;
-     this.loadedName = properties.loadedName;
-     this.isType3Font = properties.isType3Font;
-     this.sizes = [];
-     this.missingFile = false;
-     this.glyphCache = Object.create(null);
-     var names = name.split('+');
-     names = names.length > 1 ? names[1] : names[0];
-     names = names.split(/[-,_]/g)[0];
-     this.isSerifFont = !!(properties.flags & FontFlags.Serif);
-     this.isSymbolicFont = !!(properties.flags & FontFlags.Symbolic);
-     this.isMonospace = !!(properties.flags & FontFlags.FixedPitch);
-     var type = properties.type;
-     var subtype = properties.subtype;
-     this.type = type;
-     this.fallbackName = this.isMonospace ? 'monospace' : this.isSerifFont ? 'serif' : 'sans-serif';
-     this.differences = properties.differences;
-     this.widths = properties.widths;
-     this.defaultWidth = properties.defaultWidth;
-     this.composite = properties.composite;
-     this.wideChars = properties.wideChars;
-     this.cMap = properties.cMap;
-     this.ascent = properties.ascent / PDF_GLYPH_SPACE_UNITS;
-     this.descent = properties.descent / PDF_GLYPH_SPACE_UNITS;
-     this.fontMatrix = properties.fontMatrix;
-     this.bbox = properties.bbox;
-     this.toUnicode = properties.toUnicode;
-     this.toFontChar = [];
-     if (properties.type === 'Type3') {
-      for (charCode = 0; charCode < 256; charCode++) {
-       this.toFontChar[charCode] = this.differences[charCode] || properties.defaultEncoding[charCode];
-      }
-      this.fontType = FontType.TYPE3;
-      return;
-     }
-     this.cidEncoding = properties.cidEncoding;
-     this.vertical = properties.vertical;
-     if (this.vertical) {
-      this.vmetrics = properties.vmetrics;
-      this.defaultVMetrics = properties.defaultVMetrics;
-     }
-     var glyphsUnicodeMap;
-     if (!file || file.isEmpty) {
-      if (file) {
-       warn('Font file is empty in "' + name + '" (' + this.loadedName + ')');
-      }
-      this.missingFile = true;
-      var fontName = name.replace(/[,_]/g, '-');
-      var stdFontMap = getStdFontMap(), nonStdFontMap = getNonStdFontMap();
-      var isStandardFont = !!stdFontMap[fontName] || !!(nonStdFontMap[fontName] && stdFontMap[nonStdFontMap[fontName]]);
-      fontName = stdFontMap[fontName] || nonStdFontMap[fontName] || fontName;
-      this.bold = fontName.search(/bold/gi) !== -1;
-      this.italic = fontName.search(/oblique/gi) !== -1 || fontName.search(/italic/gi) !== -1;
-      this.black = name.search(/Black/g) !== -1;
-      this.remeasure = Object.keys(this.widths).length > 0;
-      if (isStandardFont && type === 'CIDFontType2' && properties.cidEncoding.indexOf('Identity-') === 0) {
-       var GlyphMapForStandardFonts = getGlyphMapForStandardFonts();
-       var map = [];
-       for (charCode in GlyphMapForStandardFonts) {
-        map[+charCode] = GlyphMapForStandardFonts[charCode];
-       }
-       if (/Arial-?Black/i.test(name)) {
-        var SupplementalGlyphMapForArialBlack = getSupplementalGlyphMapForArialBlack();
-        for (charCode in SupplementalGlyphMapForArialBlack) {
-         map[+charCode] = SupplementalGlyphMapForArialBlack[charCode];
-        }
-       }
-       var isIdentityUnicode = this.toUnicode instanceof IdentityToUnicodeMap;
-       if (!isIdentityUnicode) {
-        this.toUnicode.forEach(function (charCode, unicodeCharCode) {
-         map[+charCode] = unicodeCharCode;
-        });
-       }
-       this.toFontChar = map;
-       this.toUnicode = new ToUnicodeMap(map);
-      } else if (/Symbol/i.test(fontName)) {
-       this.toFontChar = buildToFontChar(SymbolSetEncoding, getGlyphsUnicode(), properties.differences);
-      } else if (/Dingbats/i.test(fontName)) {
-       if (/Wingdings/i.test(name)) {
-        warn('Non-embedded Wingdings font, falling back to ZapfDingbats.');
-       }
-       this.toFontChar = buildToFontChar(ZapfDingbatsEncoding, getDingbatsGlyphsUnicode(), properties.differences);
-      } else if (isStandardFont) {
-       this.toFontChar = buildToFontChar(properties.defaultEncoding, getGlyphsUnicode(), properties.differences);
-      } else {
-       glyphsUnicodeMap = getGlyphsUnicode();
-       this.toUnicode.forEach(function (charCode, unicodeCharCode) {
-        if (!this.composite) {
-         glyphName = properties.differences[charCode] || properties.defaultEncoding[charCode];
-         unicode = getUnicodeForGlyph(glyphName, glyphsUnicodeMap);
-         if (unicode !== -1) {
-          unicodeCharCode = unicode;
-         }
-        }
-        this.toFontChar[charCode] = unicodeCharCode;
-       }.bind(this));
-      }
-      this.loadedName = fontName.split('-')[0];
-      this.loading = false;
-      this.fontType = getFontType(type, subtype);
-      return;
-     }
-     if (subtype === 'Type1C') {
-      if (type !== 'Type1' && type !== 'MMType1') {
-       if (isTrueTypeFile(file)) {
-        subtype = 'TrueType';
-       } else {
-        type = 'Type1';
-       }
-      } else if (isOpenTypeFile(file)) {
-       type = subtype = 'OpenType';
-      }
-     }
-     if (subtype === 'CIDFontType0C' && type !== 'CIDFontType0') {
-      type = 'CIDFontType0';
-     }
-     if (subtype === 'OpenType') {
-      type = 'OpenType';
-     }
-     if (type === 'CIDFontType0') {
-      if (isType1File(file)) {
-       subtype = 'CIDFontType0';
-      } else if (isOpenTypeFile(file)) {
-       type = subtype = 'OpenType';
-      } else {
-       subtype = 'CIDFontType0C';
-      }
-     }
-     var data;
-     switch (type) {
-     case 'MMType1':
-      info('MMType1 font (' + name + '), falling back to Type1.');
-     case 'Type1':
-     case 'CIDFontType0':
-      this.mimetype = 'font/opentype';
-      var cff = subtype === 'Type1C' || subtype === 'CIDFontType0C' ? new CFFFont(file, properties) : new Type1Font(name, file, properties);
-      adjustWidths(properties);
-      data = this.convert(name, cff, properties);
-      break;
-     case 'OpenType':
-     case 'TrueType':
-     case 'CIDFontType2':
-      this.mimetype = 'font/opentype';
-      data = this.checkAndRepair(name, file, properties);
-      if (this.isOpenType) {
-       adjustWidths(properties);
-       type = 'OpenType';
-      }
-      break;
-     default:
-      error('Font ' + type + ' is not supported');
-      break;
-     }
-     this.data = data;
-     this.fontType = getFontType(type, subtype);
-     this.fontMatrix = properties.fontMatrix;
-     this.widths = properties.widths;
-     this.defaultWidth = properties.defaultWidth;
-     this.toUnicode = properties.toUnicode;
-     this.encoding = properties.baseEncoding;
-     this.seacMap = properties.seacMap;
-     this.loading = true;
-    }
-    Font.getFontID = function () {
-     var ID = 1;
-     return function Font_getFontID() {
-      return String(ID++);
-     };
-    }();
-    function int16(b0, b1) {
-     return (b0 << 8) + b1;
-    }
-    function signedInt16(b0, b1) {
-     var value = (b0 << 8) + b1;
-     return value & 1 << 15 ? value - 0x10000 : value;
-    }
-    function int32(b0, b1, b2, b3) {
-     return (b0 << 24) + (b1 << 16) + (b2 << 8) + b3;
-    }
-    function string16(value) {
-     return String.fromCharCode(value >> 8 & 0xff, value & 0xff);
-    }
-    function safeString16(value) {
-     value = value > 0x7FFF ? 0x7FFF : value < -0x8000 ? -0x8000 : value;
-     return String.fromCharCode(value >> 8 & 0xff, value & 0xff);
-    }
-    function isTrueTypeFile(file) {
-     var header = file.peekBytes(4);
-     return readUint32(header, 0) === 0x00010000;
-    }
-    function isOpenTypeFile(file) {
-     var header = file.peekBytes(4);
-     return bytesToString(header) === 'OTTO';
-    }
-    function isType1File(file) {
-     var header = file.peekBytes(2);
-     if (header[0] === 0x25 && header[1] === 0x21) {
-      return true;
-     }
-     if (header[0] === 0x80 && header[1] === 0x01) {
-      return true;
-     }
-     return false;
-    }
-    function buildToFontChar(encoding, glyphsUnicodeMap, differences) {
-     var toFontChar = [], unicode;
-     for (var i = 0, ii = encoding.length; i < ii; i++) {
-      unicode = getUnicodeForGlyph(encoding[i], glyphsUnicodeMap);
-      if (unicode !== -1) {
-       toFontChar[i] = unicode;
-      }
-     }
-     for (var charCode in differences) {
-      unicode = getUnicodeForGlyph(differences[charCode], glyphsUnicodeMap);
-      if (unicode !== -1) {
-       toFontChar[+charCode] = unicode;
-      }
-     }
-     return toFontChar;
-    }
-    function isProblematicUnicodeLocation(code) {
-     var i = 0, j = ProblematicCharRanges.length - 1;
-     while (i < j) {
-      var c = i + j + 1 >> 1;
-      if (code < ProblematicCharRanges[c]) {
-       j = c - 1;
-      } else {
-       i = c;
-      }
-     }
-     return !(i & 1);
-    }
-    function adjustMapping(charCodeToGlyphId, properties) {
-     var toUnicode = properties.toUnicode;
-     var isSymbolic = !!(properties.flags & FontFlags.Symbolic);
-     var isIdentityUnicode = properties.toUnicode instanceof IdentityToUnicodeMap;
-     var newMap = Object.create(null);
-     var toFontChar = [];
-     var usedFontCharCodes = [];
-     var nextAvailableFontCharCode = PRIVATE_USE_OFFSET_START;
-     for (var originalCharCode in charCodeToGlyphId) {
-      originalCharCode |= 0;
-      var glyphId = charCodeToGlyphId[originalCharCode];
-      var fontCharCode = originalCharCode;
-      var hasUnicodeValue = false;
-      if (!isIdentityUnicode && toUnicode.has(originalCharCode)) {
-       hasUnicodeValue = true;
-       var unicode = toUnicode.get(fontCharCode);
-       if (unicode.length === 1) {
-        fontCharCode = unicode.charCodeAt(0);
-       }
-      }
-      if ((usedFontCharCodes[fontCharCode] !== undefined || isProblematicUnicodeLocation(fontCharCode) || isSymbolic && !hasUnicodeValue) && nextAvailableFontCharCode <= PRIVATE_USE_OFFSET_END) {
-       do {
-        fontCharCode = nextAvailableFontCharCode++;
-        if (SKIP_PRIVATE_USE_RANGE_F000_TO_F01F && fontCharCode === 0xF000) {
-         fontCharCode = 0xF020;
-         nextAvailableFontCharCode = fontCharCode + 1;
-        }
-       } while (usedFontCharCodes[fontCharCode] !== undefined && nextAvailableFontCharCode <= PRIVATE_USE_OFFSET_END);
-      }
-      newMap[fontCharCode] = glyphId;
-      toFontChar[originalCharCode] = fontCharCode;
-      usedFontCharCodes[fontCharCode] = true;
-     }
-     return {
-      toFontChar: toFontChar,
-      charCodeToGlyphId: newMap,
-      nextAvailableFontCharCode: nextAvailableFontCharCode
-     };
-    }
-    function getRanges(glyphs, numGlyphs) {
-     var codes = [];
-     for (var charCode in glyphs) {
-      if (glyphs[charCode] >= numGlyphs) {
-       continue;
-      }
-      codes.push({
-       fontCharCode: charCode | 0,
-       glyphId: glyphs[charCode]
-      });
-     }
-     codes.sort(function fontGetRangesSort(a, b) {
-      return a.fontCharCode - b.fontCharCode;
-     });
-     var ranges = [];
-     var length = codes.length;
-     for (var n = 0; n < length;) {
-      var start = codes[n].fontCharCode;
-      var codeIndices = [codes[n].glyphId];
-      ++n;
-      var end = start;
-      while (n < length && end + 1 === codes[n].fontCharCode) {
-       codeIndices.push(codes[n].glyphId);
-       ++end;
-       ++n;
-       if (end === 0xFFFF) {
-        break;
-       }
-      }
-      ranges.push([
-       start,
-       end,
-       codeIndices
-      ]);
-     }
-     return ranges;
-    }
-    function createCmapTable(glyphs, numGlyphs) {
-     var ranges = getRanges(glyphs, numGlyphs);
-     var numTables = ranges[ranges.length - 1][1] > 0xFFFF ? 2 : 1;
-     var cmap = '\x00\x00' + string16(numTables) + '\x00\x03' + '\x00\x01' + string32(4 + numTables * 8);
-     var i, ii, j, jj;
-     for (i = ranges.length - 1; i >= 0; --i) {
-      if (ranges[i][0] <= 0xFFFF) {
-       break;
-      }
-     }
-     var bmpLength = i + 1;
-     if (ranges[i][0] < 0xFFFF && ranges[i][1] === 0xFFFF) {
-      ranges[i][1] = 0xFFFE;
-     }
-     var trailingRangesCount = ranges[i][1] < 0xFFFF ? 1 : 0;
-     var segCount = bmpLength + trailingRangesCount;
-     var searchParams = OpenTypeFileBuilder.getSearchParams(segCount, 2);
-     var startCount = '';
-     var endCount = '';
-     var idDeltas = '';
-     var idRangeOffsets = '';
-     var glyphsIds = '';
-     var bias = 0;
-     var range, start, end, codes;
-     for (i = 0, ii = bmpLength; i < ii; i++) {
-      range = ranges[i];
-      start = range[0];
-      end = range[1];
-      startCount += string16(start);
-      endCount += string16(end);
-      codes = range[2];
-      var contiguous = true;
-      for (j = 1, jj = codes.length; j < jj; ++j) {
-       if (codes[j] !== codes[j - 1] + 1) {
-        contiguous = false;
-        break;
-       }
-      }
-      if (!contiguous) {
-       var offset = (segCount - i) * 2 + bias * 2;
-       bias += end - start + 1;
-       idDeltas += string16(0);
-       idRangeOffsets += string16(offset);
-       for (j = 0, jj = codes.length; j < jj; ++j) {
-        glyphsIds += string16(codes[j]);
-       }
-      } else {
-       var startCode = codes[0];
-       idDeltas += string16(startCode - start & 0xFFFF);
-       idRangeOffsets += string16(0);
-      }
-     }
-     if (trailingRangesCount > 0) {
-      endCount += '\xFF\xFF';
-      startCount += '\xFF\xFF';
-      idDeltas += '\x00\x01';
-      idRangeOffsets += '\x00\x00';
-     }
-     var format314 = '\x00\x00' + string16(2 * segCount) + string16(searchParams.range) + string16(searchParams.entry) + string16(searchParams.rangeShift) + endCount + '\x00\x00' + startCount + idDeltas + idRangeOffsets + glyphsIds;
-     var format31012 = '';
-     var header31012 = '';
-     if (numTables > 1) {
-      cmap += '\x00\x03' + '\x00\x0A' + string32(4 + numTables * 8 + 4 + format314.length);
-      format31012 = '';
-      for (i = 0, ii = ranges.length; i < ii; i++) {
-       range = ranges[i];
-       start = range[0];
-       codes = range[2];
-       var code = codes[0];
-       for (j = 1, jj = codes.length; j < jj; ++j) {
-        if (codes[j] !== codes[j - 1] + 1) {
-         end = range[0] + j - 1;
-         format31012 += string32(start) + string32(end) + string32(code);
-         start = end + 1;
-         code = codes[j];
-        }
-       }
-       format31012 += string32(start) + string32(range[1]) + string32(code);
-      }
-      header31012 = '\x00\x0C' + '\x00\x00' + string32(format31012.length + 16) + '\x00\x00\x00\x00' + string32(format31012.length / 12);
-     }
-     return cmap + '\x00\x04' + string16(format314.length + 4) + format314 + header31012 + format31012;
-    }
-    function validateOS2Table(os2) {
-     var stream = new Stream(os2.data);
-     var version = stream.getUint16();
-     stream.getBytes(60);
-     var selection = stream.getUint16();
-     if (version < 4 && selection & 0x0300) {
-      return false;
-     }
-     var firstChar = stream.getUint16();
-     var lastChar = stream.getUint16();
-     if (firstChar > lastChar) {
-      return false;
-     }
-     stream.getBytes(6);
-     var usWinAscent = stream.getUint16();
-     if (usWinAscent === 0) {
-      return false;
-     }
-     os2.data[8] = os2.data[9] = 0;
-     return true;
-    }
-    function createOS2Table(properties, charstrings, override) {
-     override = override || {
-      unitsPerEm: 0,
-      yMax: 0,
-      yMin: 0,
-      ascent: 0,
-      descent: 0
-     };
-     var ulUnicodeRange1 = 0;
-     var ulUnicodeRange2 = 0;
-     var ulUnicodeRange3 = 0;
-     var ulUnicodeRange4 = 0;
-     var firstCharIndex = null;
-     var lastCharIndex = 0;
-     if (charstrings) {
-      for (var code in charstrings) {
-       code |= 0;
-       if (firstCharIndex > code || !firstCharIndex) {
-        firstCharIndex = code;
-       }
-       if (lastCharIndex < code) {
-        lastCharIndex = code;
-       }
-       var position = getUnicodeRangeFor(code);
-       if (position < 32) {
-        ulUnicodeRange1 |= 1 << position;
-       } else if (position < 64) {
-        ulUnicodeRange2 |= 1 << position - 32;
-       } else if (position < 96) {
-        ulUnicodeRange3 |= 1 << position - 64;
-       } else if (position < 123) {
-        ulUnicodeRange4 |= 1 << position - 96;
-       } else {
-        error('Unicode ranges Bits > 123 are reserved for internal usage');
-       }
-      }
-     } else {
-      firstCharIndex = 0;
-      lastCharIndex = 255;
-     }
-     var bbox = properties.bbox || [
-      0,
-      0,
-      0,
-      0
-     ];
-     var unitsPerEm = override.unitsPerEm || 1 / (properties.fontMatrix || FONT_IDENTITY_MATRIX)[0];
-     var scale = properties.ascentScaled ? 1.0 : unitsPerEm / PDF_GLYPH_SPACE_UNITS;
-     var typoAscent = override.ascent || Math.round(scale * (properties.ascent || bbox[3]));
-     var typoDescent = override.descent || Math.round(scale * (properties.descent || bbox[1]));
-     if (typoDescent > 0 && properties.descent > 0 && bbox[1] < 0) {
-      typoDescent = -typoDescent;
-     }
-     var winAscent = override.yMax || typoAscent;
-     var winDescent = -override.yMin || -typoDescent;
-     return '\x00\x03' + '\x02\x24' + '\x01\xF4' + '\x00\x05' + '\x00\x00' + '\x02\x8A' + '\x02\xBB' + '\x00\x00' + '\x00\x8C' + '\x02\x8A' + '\x02\xBB' + '\x00\x00' + '\x01\xDF' + '\x00\x31' + '\x01\x02' + '\x00\x00' + '\x00\x00\x06' + String.fromCharCode(properties.fixedPitch ? 0x09 : 0x00) + '\x00\x00\x00\x00\x00\x00' + string32(ulUnicodeRange1) + string32(ulUnicodeRange2) + string32(ulUnicodeRange3) + string32(ulUnicodeRange4) + '\x2A\x32\x31\x2A' + string16(properties.italicAngle ? 1 : 0) + string16(firstCharIndex || properties.firstChar) + string16(lastCharIndex || properties.lastChar) + string16(typoAscent) + string16(typoDescent) + '\x00\x64' + string16(winAscent) + string16(winDescent) + '\x00\x00\x00\x00' + '\x00\x00\x00\x00' + string16(properties.xHeight) + string16(properties.capHeight) + string16(0) + string16(firstCharIndex || properties.firstChar) + '\x00\x03';
-    }
-    function createPostTable(properties) {
-     var angle = Math.floor(properties.italicAngle * Math.pow(2, 16));
-     return '\x00\x03\x00\x00' + string32(angle) + '\x00\x00' + '\x00\x00' + string32(properties.fixedPitch) + '\x00\x00\x00\x00' + '\x00\x00\x00\x00' + '\x00\x00\x00\x00' + '\x00\x00\x00\x00';
-    }
-    function createNameTable(name, proto) {
-     if (!proto) {
-      proto = [
-       [],
-       []
-      ];
-     }
-     var strings = [
-      proto[0][0] || 'Original licence',
-      proto[0][1] || name,
-      proto[0][2] || 'Unknown',
-      proto[0][3] || 'uniqueID',
-      proto[0][4] || name,
-      proto[0][5] || 'Version 0.11',
-      proto[0][6] || '',
-      proto[0][7] || 'Unknown',
-      proto[0][8] || 'Unknown',
-      proto[0][9] || 'Unknown'
-     ];
-     var stringsUnicode = [];
-     var i, ii, j, jj, str;
-     for (i = 0, ii = strings.length; i < ii; i++) {
-      str = proto[1][i] || strings[i];
-      var strBufUnicode = [];
-      for (j = 0, jj = str.length; j < jj; j++) {
-       strBufUnicode.push(string16(str.charCodeAt(j)));
-      }
-      stringsUnicode.push(strBufUnicode.join(''));
-     }
-     var names = [
-      strings,
-      stringsUnicode
-     ];
-     var platforms = [
-      '\x00\x01',
-      '\x00\x03'
-     ];
-     var encodings = [
-      '\x00\x00',
-      '\x00\x01'
-     ];
-     var languages = [
-      '\x00\x00',
-      '\x04\x09'
-     ];
-     var namesRecordCount = strings.length * platforms.length;
-     var nameTable = '\x00\x00' + string16(namesRecordCount) + string16(namesRecordCount * 12 + 6);
-     var strOffset = 0;
-     for (i = 0, ii = platforms.length; i < ii; i++) {
-      var strs = names[i];
-      for (j = 0, jj = strs.length; j < jj; j++) {
-       str = strs[j];
-       var nameRecord = platforms[i] + encodings[i] + languages[i] + string16(j) + string16(str.length) + string16(strOffset);
-       nameTable += nameRecord;
-       strOffset += str.length;
-      }
-     }
-     nameTable += strings.join('') + stringsUnicode.join('');
-     return nameTable;
-    }
-    Font.prototype = {
-     name: null,
-     font: null,
-     mimetype: null,
-     encoding: null,
-     get renderer() {
-      var renderer = FontRendererFactory.create(this, SEAC_ANALYSIS_ENABLED);
-      return shadow(this, 'renderer', renderer);
-     },
-     exportData: function Font_exportData() {
-      var data = {};
-      for (var i in this) {
-       if (this.hasOwnProperty(i)) {
-        data[i] = this[i];
-       }
-      }
-      return data;
-     },
-     checkAndRepair: function Font_checkAndRepair(name, font, properties) {
-      function readTableEntry(file) {
-       var tag = bytesToString(file.getBytes(4));
-       var checksum = file.getInt32() >>> 0;
-       var offset = file.getInt32() >>> 0;
-       var length = file.getInt32() >>> 0;
-       var previousPosition = file.pos;
-       file.pos = file.start ? file.start : 0;
-       file.skip(offset);
-       var data = file.getBytes(length);
-       file.pos = previousPosition;
-       if (tag === 'head') {
-        data[8] = data[9] = data[10] = data[11] = 0;
-        data[17] |= 0x20;
-       }
-       return {
-        tag: tag,
-        checksum: checksum,
-        length: length,
-        offset: offset,
-        data: data
-       };
-      }
-      function readOpenTypeHeader(ttf) {
-       return {
-        version: bytesToString(ttf.getBytes(4)),
-        numTables: ttf.getUint16(),
-        searchRange: ttf.getUint16(),
-        entrySelector: ttf.getUint16(),
-        rangeShift: ttf.getUint16()
-       };
-      }
-      function readCmapTable(cmap, font, isSymbolicFont, hasEncoding) {
-       if (!cmap) {
-        warn('No cmap table available.');
-        return {
-         platformId: -1,
-         encodingId: -1,
-         mappings: [],
-         hasShortCmap: false
-        };
-       }
-       var segment;
-       var start = (font.start ? font.start : 0) + cmap.offset;
-       font.pos = start;
-       var version = font.getUint16();
-       var numTables = font.getUint16();
-       var potentialTable;
-       var canBreak = false;
-       for (var i = 0; i < numTables; i++) {
-        var platformId = font.getUint16();
-        var encodingId = font.getUint16();
-        var offset = font.getInt32() >>> 0;
-        var useTable = false;
-        if (platformId === 0 && encodingId === 0) {
-         useTable = true;
-        } else if (platformId === 1 && encodingId === 0) {
-         useTable = true;
-        } else if (platformId === 3 && encodingId === 1 && (!isSymbolicFont && hasEncoding || !potentialTable)) {
-         useTable = true;
-         if (!isSymbolicFont) {
-          canBreak = true;
-         }
-        } else if (isSymbolicFont && platformId === 3 && encodingId === 0) {
-         useTable = true;
-         canBreak = true;
-        }
-        if (useTable) {
-         potentialTable = {
-          platformId: platformId,
-          encodingId: encodingId,
-          offset: offset
-         };
-        }
-        if (canBreak) {
-         break;
-        }
-       }
-       if (potentialTable) {
-        font.pos = start + potentialTable.offset;
-       }
-       if (!potentialTable || font.peekByte() === -1) {
-        warn('Could not find a preferred cmap table.');
-        return {
-         platformId: -1,
-         encodingId: -1,
-         mappings: [],
-         hasShortCmap: false
-        };
-       }
-       var format = font.getUint16();
-       var length = font.getUint16();
-       var language = font.getUint16();
-       var hasShortCmap = false;
-       var mappings = [];
-       var j, glyphId;
-       if (format === 0) {
-        for (j = 0; j < 256; j++) {
-         var index = font.getByte();
-         if (!index) {
-          continue;
-         }
-         mappings.push({
-          charCode: j,
-          glyphId: index
-         });
-        }
-        hasShortCmap = true;
-       } else if (format === 4) {
-        var segCount = font.getUint16() >> 1;
-        font.getBytes(6);
-        var segIndex, segments = [];
-        for (segIndex = 0; segIndex < segCount; segIndex++) {
-         segments.push({ end: font.getUint16() });
-        }
-        font.getUint16();
-        for (segIndex = 0; segIndex < segCount; segIndex++) {
-         segments[segIndex].start = font.getUint16();
-        }
-        for (segIndex = 0; segIndex < segCount; segIndex++) {
-         segments[segIndex].delta = font.getUint16();
-        }
-        var offsetsCount = 0;
-        for (segIndex = 0; segIndex < segCount; segIndex++) {
-         segment = segments[segIndex];
-         var rangeOffset = font.getUint16();
-         if (!rangeOffset) {
-          segment.offsetIndex = -1;
-          continue;
-         }
-         var offsetIndex = (rangeOffset >> 1) - (segCount - segIndex);
-         segment.offsetIndex = offsetIndex;
-         offsetsCount = Math.max(offsetsCount, offsetIndex + segment.end - segment.start + 1);
-        }
-        var offsets = [];
-        for (j = 0; j < offsetsCount; j++) {
-         offsets.push(font.getUint16());
-        }
-        for (segIndex = 0; segIndex < segCount; segIndex++) {
-         segment = segments[segIndex];
-         start = segment.start;
-         var end = segment.end;
-         var delta = segment.delta;
-         offsetIndex = segment.offsetIndex;
-         for (j = start; j <= end; j++) {
-          if (j === 0xFFFF) {
-           continue;
-          }
-          glyphId = offsetIndex < 0 ? j : offsets[offsetIndex + j - start];
-          glyphId = glyphId + delta & 0xFFFF;
-          if (glyphId === 0) {
-           continue;
-          }
-          mappings.push({
-           charCode: j,
-           glyphId: glyphId
-          });
-         }
-        }
-       } else if (format === 6) {
-        var firstCode = font.getUint16();
-        var entryCount = font.getUint16();
-        for (j = 0; j < entryCount; j++) {
-         glyphId = font.getUint16();
-         var charCode = firstCode + j;
-         mappings.push({
-          charCode: charCode,
-          glyphId: glyphId
-         });
-        }
-       } else {
-        warn('cmap table has unsupported format: ' + format);
-        return {
-         platformId: -1,
-         encodingId: -1,
-         mappings: [],
-         hasShortCmap: false
-        };
-       }
-       mappings.sort(function (a, b) {
-        return a.charCode - b.charCode;
-       });
-       for (i = 1; i < mappings.length; i++) {
-        if (mappings[i - 1].charCode === mappings[i].charCode) {
-         mappings.splice(i, 1);
-         i--;
-        }
-       }
-       return {
-        platformId: potentialTable.platformId,
-        encodingId: potentialTable.encodingId,
-        mappings: mappings,
-        hasShortCmap: hasShortCmap
-       };
-      }
-      function sanitizeMetrics(font, header, metrics, numGlyphs) {
-       if (!header) {
-        if (metrics) {
-         metrics.data = null;
-        }
-        return;
-       }
-       font.pos = (font.start ? font.start : 0) + header.offset;
-       font.pos += header.length - 2;
-       var numOfMetrics = font.getUint16();
-       if (numOfMetrics > numGlyphs) {
-        info('The numOfMetrics (' + numOfMetrics + ') should not be ' + 'greater than the numGlyphs (' + numGlyphs + ')');
-        numOfMetrics = numGlyphs;
-        header.data[34] = (numOfMetrics & 0xff00) >> 8;
-        header.data[35] = numOfMetrics & 0x00ff;
-       }
-       var numOfSidebearings = numGlyphs - numOfMetrics;
-       var numMissing = numOfSidebearings - (metrics.length - numOfMetrics * 4 >> 1);
-       if (numMissing > 0) {
-        var entries = new Uint8Array(metrics.length + numMissing * 2);
-        entries.set(metrics.data);
-        metrics.data = entries;
-       }
-      }
-      function sanitizeGlyph(source, sourceStart, sourceEnd, dest, destStart, hintsValid) {
-       if (sourceEnd - sourceStart <= 12) {
-        return 0;
-       }
-       var glyf = source.subarray(sourceStart, sourceEnd);
-       var contoursCount = glyf[0] << 8 | glyf[1];
-       if (contoursCount & 0x8000) {
-        dest.set(glyf, destStart);
-        return glyf.length;
-       }
-       var i, j = 10, flagsCount = 0;
-       for (i = 0; i < contoursCount; i++) {
-        var endPoint = glyf[j] << 8 | glyf[j + 1];
-        flagsCount = endPoint + 1;
-        j += 2;
-       }
-       var instructionsStart = j;
-       var instructionsLength = glyf[j] << 8 | glyf[j + 1];
-       j += 2 + instructionsLength;
-       var instructionsEnd = j;
-       var coordinatesLength = 0;
-       for (i = 0; i < flagsCount; i++) {
-        var flag = glyf[j++];
-        if (flag & 0xC0) {
-         glyf[j - 1] = flag & 0x3F;
-        }
-        var xyLength = (flag & 2 ? 1 : flag & 16 ? 0 : 2) + (flag & 4 ? 1 : flag & 32 ? 0 : 2);
-        coordinatesLength += xyLength;
-        if (flag & 8) {
-         var repeat = glyf[j++];
-         i += repeat;
-         coordinatesLength += repeat * xyLength;
-        }
-       }
-       if (coordinatesLength === 0) {
-        return 0;
-       }
-       var glyphDataLength = j + coordinatesLength;
-       if (glyphDataLength > glyf.length) {
-        return 0;
-       }
-       if (!hintsValid && instructionsLength > 0) {
-        dest.set(glyf.subarray(0, instructionsStart), destStart);
-        dest.set([
-         0,
-         0
-        ], destStart + instructionsStart);
-        dest.set(glyf.subarray(instructionsEnd, glyphDataLength), destStart + instructionsStart + 2);
-        glyphDataLength -= instructionsLength;
-        if (glyf.length - glyphDataLength > 3) {
-         glyphDataLength = glyphDataLength + 3 & ~3;
-        }
-        return glyphDataLength;
-       }
-       if (glyf.length - glyphDataLength > 3) {
-        glyphDataLength = glyphDataLength + 3 & ~3;
-        dest.set(glyf.subarray(0, glyphDataLength), destStart);
-        return glyphDataLength;
-       }
-       dest.set(glyf, destStart);
-       return glyf.length;
-      }
-      function sanitizeHead(head, numGlyphs, locaLength) {
-       var data = head.data;
-       var version = int32(data[0], data[1], data[2], data[3]);
-       if (version >> 16 !== 1) {
-        info('Attempting to fix invalid version in head table: ' + version);
-        data[0] = 0;
-        data[1] = 1;
-        data[2] = 0;
-        data[3] = 0;
-       }
-       var indexToLocFormat = int16(data[50], data[51]);
-       if (indexToLocFormat < 0 || indexToLocFormat > 1) {
-        info('Attempting to fix invalid indexToLocFormat in head table: ' + indexToLocFormat);
-        var numGlyphsPlusOne = numGlyphs + 1;
-        if (locaLength === numGlyphsPlusOne << 1) {
-         data[50] = 0;
-         data[51] = 0;
-        } else if (locaLength === numGlyphsPlusOne << 2) {
-         data[50] = 0;
-         data[51] = 1;
-        } else {
-         warn('Could not fix indexToLocFormat: ' + indexToLocFormat);
-        }
-       }
-      }
-      function sanitizeGlyphLocations(loca, glyf, numGlyphs, isGlyphLocationsLong, hintsValid, dupFirstEntry) {
-       var itemSize, itemDecode, itemEncode;
-       if (isGlyphLocationsLong) {
-        itemSize = 4;
-        itemDecode = function fontItemDecodeLong(data, offset) {
-         return data[offset] << 24 | data[offset + 1] << 16 | data[offset + 2] << 8 | data[offset + 3];
-        };
-        itemEncode = function fontItemEncodeLong(data, offset, value) {
-         data[offset] = value >>> 24 & 0xFF;
-         data[offset + 1] = value >> 16 & 0xFF;
-         data[offset + 2] = value >> 8 & 0xFF;
-         data[offset + 3] = value & 0xFF;
-        };
-       } else {
-        itemSize = 2;
-        itemDecode = function fontItemDecode(data, offset) {
-         return data[offset] << 9 | data[offset + 1] << 1;
-        };
-        itemEncode = function fontItemEncode(data, offset, value) {
-         data[offset] = value >> 9 & 0xFF;
-         data[offset + 1] = value >> 1 & 0xFF;
-        };
-       }
-       var locaData = loca.data;
-       var locaDataSize = itemSize * (1 + numGlyphs);
-       if (locaData.length !== locaDataSize) {
-        locaData = new Uint8Array(locaDataSize);
-        locaData.set(loca.data.subarray(0, locaDataSize));
-        loca.data = locaData;
-       }
-       var oldGlyfData = glyf.data;
-       var oldGlyfDataLength = oldGlyfData.length;
-       var newGlyfData = new Uint8Array(oldGlyfDataLength);
-       var startOffset = itemDecode(locaData, 0);
-       var writeOffset = 0;
-       var missingGlyphData = Object.create(null);
-       itemEncode(locaData, 0, writeOffset);
-       var i, j;
-       for (i = 0, j = itemSize; i < numGlyphs; i++, j += itemSize) {
-        var endOffset = itemDecode(locaData, j);
-        if (endOffset > oldGlyfDataLength && (oldGlyfDataLength + 3 & ~3) === endOffset) {
-         endOffset = oldGlyfDataLength;
-        }
-        if (endOffset > oldGlyfDataLength) {
-         itemEncode(locaData, j, writeOffset);
-         startOffset = endOffset;
-         continue;
-        }
-        if (startOffset === endOffset) {
-         missingGlyphData[i] = true;
-        }
-        var newLength = sanitizeGlyph(oldGlyfData, startOffset, endOffset, newGlyfData, writeOffset, hintsValid);
-        writeOffset += newLength;
-        itemEncode(locaData, j, writeOffset);
-        startOffset = endOffset;
-       }
-       if (writeOffset === 0) {
-        var simpleGlyph = new Uint8Array([
-         0,
-         1,
-         0,
-         0,
-         0,
-         0,
-         0,
-         0,
-         0,
-         0,
-         0,
-         0,
-         0,
-         0,
-         49,
-         0
-        ]);
-        for (i = 0, j = itemSize; i < numGlyphs; i++, j += itemSize) {
-         itemEncode(locaData, j, simpleGlyph.length);
-        }
-        glyf.data = simpleGlyph;
-        return missingGlyphData;
-       }
-       if (dupFirstEntry) {
-        var firstEntryLength = itemDecode(locaData, itemSize);
-        if (newGlyfData.length > firstEntryLength + writeOffset) {
-         glyf.data = newGlyfData.subarray(0, firstEntryLength + writeOffset);
-        } else {
-         glyf.data = new Uint8Array(firstEntryLength + writeOffset);
-         glyf.data.set(newGlyfData.subarray(0, writeOffset));
-        }
-        glyf.data.set(newGlyfData.subarray(0, firstEntryLength), writeOffset);
-        itemEncode(loca.data, locaData.length - itemSize, writeOffset + firstEntryLength);
-       } else {
-        glyf.data = newGlyfData.subarray(0, writeOffset);
-       }
-       return missingGlyphData;
-      }
-      function readPostScriptTable(post, properties, maxpNumGlyphs) {
-       var start = (font.start ? font.start : 0) + post.offset;
-       font.pos = start;
-       var length = post.length, end = start + length;
-       var version = font.getInt32();
-       font.getBytes(28);
-       var glyphNames;
-       var valid = true;
-       var i;
-       switch (version) {
-       case 0x00010000:
-        glyphNames = MacStandardGlyphOrdering;
-        break;
-       case 0x00020000:
-        var numGlyphs = font.getUint16();
-        if (numGlyphs !== maxpNumGlyphs) {
-         valid = false;
-         break;
-        }
-        var glyphNameIndexes = [];
-        for (i = 0; i < numGlyphs; ++i) {
-         var index = font.getUint16();
-         if (index >= 32768) {
-          valid = false;
-          break;
-         }
-         glyphNameIndexes.push(index);
-        }
-        if (!valid) {
-         break;
-        }
-        var customNames = [];
-        var strBuf = [];
-        while (font.pos < end) {
-         var stringLength = font.getByte();
-         strBuf.length = stringLength;
-         for (i = 0; i < stringLength; ++i) {
-          strBuf[i] = String.fromCharCode(font.getByte());
-         }
-         customNames.push(strBuf.join(''));
-        }
-        glyphNames = [];
-        for (i = 0; i < numGlyphs; ++i) {
-         var j = glyphNameIndexes[i];
-         if (j < 258) {
-          glyphNames.push(MacStandardGlyphOrdering[j]);
-          continue;
-         }
-         glyphNames.push(customNames[j - 258]);
-        }
-        break;
-       case 0x00030000:
-        break;
-       default:
-        warn('Unknown/unsupported post table version ' + version);
-        valid = false;
-        if (properties.defaultEncoding) {
-         glyphNames = properties.defaultEncoding;
-        }
-        break;
-       }
-       properties.glyphNames = glyphNames;
-       return valid;
-      }
-      function readNameTable(nameTable) {
-       var start = (font.start ? font.start : 0) + nameTable.offset;
-       font.pos = start;
-       var names = [
-        [],
-        []
-       ];
-       var length = nameTable.length, end = start + length;
-       var format = font.getUint16();
-       var FORMAT_0_HEADER_LENGTH = 6;
-       if (format !== 0 || length < FORMAT_0_HEADER_LENGTH) {
-        return names;
-       }
-       var numRecords = font.getUint16();
-       var stringsStart = font.getUint16();
-       var records = [];
-       var NAME_RECORD_LENGTH = 12;
-       var i, ii;
-       for (i = 0; i < numRecords && font.pos + NAME_RECORD_LENGTH <= end; i++) {
-        var r = {
-         platform: font.getUint16(),
-         encoding: font.getUint16(),
-         language: font.getUint16(),
-         name: font.getUint16(),
-         length: font.getUint16(),
-         offset: font.getUint16()
-        };
-        if (r.platform === 1 && r.encoding === 0 && r.language === 0 || r.platform === 3 && r.encoding === 1 && r.language === 0x409) {
-         records.push(r);
-        }
-       }
-       for (i = 0, ii = records.length; i < ii; i++) {
-        var record = records[i];
-        if (record.length <= 0) {
-         continue;
-        }
-        var pos = start + stringsStart + record.offset;
-        if (pos + record.length > end) {
-         continue;
-        }
-        font.pos = pos;
-        var nameIndex = record.name;
-        if (record.encoding) {
-         var str = '';
-         for (var j = 0, jj = record.length; j < jj; j += 2) {
-          str += String.fromCharCode(font.getUint16());
-         }
-         names[1][nameIndex] = str;
-        } else {
-         names[0][nameIndex] = bytesToString(font.getBytes(record.length));
-        }
-       }
-       return names;
-      }
-      var TTOpsStackDeltas = [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       -2,
-       -2,
-       -2,
-       -2,
-       0,
-       0,
-       -2,
-       -5,
-       -1,
-       -1,
-       -1,
-       -1,
-       -1,
-       -1,
-       -1,
-       -1,
-       0,
-       0,
-       -1,
-       0,
-       -1,
-       -1,
-       -1,
-       -1,
-       1,
-       -1,
-       -999,
-       0,
-       1,
-       0,
-       -1,
-       -2,
-       0,
-       -1,
-       -2,
-       -1,
-       -1,
-       0,
-       -1,
-       -1,
-       0,
-       0,
-       -999,
-       -999,
-       -1,
-       -1,
-       -1,
-       -1,
-       -2,
-       -999,
-       -2,
-       -2,
-       -999,
-       0,
-       -2,
-       -2,
-       0,
-       0,
-       -2,
-       0,
-       -2,
-       0,
-       0,
-       0,
-       -2,
-       -1,
-       -1,
-       1,
-       1,
-       0,
-       0,
-       -1,
-       -1,
-       -1,
-       -1,
-       -1,
-       -1,
-       -1,
-       0,
-       0,
-       -1,
-       0,
-       -1,
-       -1,
-       0,
-       -999,
-       -1,
-       -1,
-       -1,
-       -1,
-       -1,
-       -1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       -2,
-       -999,
-       -999,
-       -999,
-       -999,
-       -999,
-       -1,
-       -1,
-       -2,
-       -2,
-       0,
-       0,
-       0,
-       0,
-       -1,
-       -1,
-       -999,
-       -2,
-       -2,
-       0,
-       0,
-       -1,
-       -2,
-       -2,
-       0,
-       0,
-       0,
-       -1,
-       -1,
-       -1,
-       -2
-      ];
-      function sanitizeTTProgram(table, ttContext) {
-       var data = table.data;
-       var i = 0, j, n, b, funcId, pc, lastEndf = 0, lastDeff = 0;
-       var stack = [];
-       var callstack = [];
-       var functionsCalled = [];
-       var tooComplexToFollowFunctions = ttContext.tooComplexToFollowFunctions;
-       var inFDEF = false, ifLevel = 0, inELSE = 0;
-       for (var ii = data.length; i < ii;) {
-        var op = data[i++];
-        if (op === 0x40) {
-         n = data[i++];
-         if (inFDEF || inELSE) {
-          i += n;
-         } else {
-          for (j = 0; j < n; j++) {
-           stack.push(data[i++]);
-          }
-         }
-        } else if (op === 0x41) {
-         n = data[i++];
-         if (inFDEF || inELSE) {
-          i += n * 2;
-         } else {
-          for (j = 0; j < n; j++) {
-           b = data[i++];
-           stack.push(b << 8 | data[i++]);
-          }
-         }
-        } else if ((op & 0xF8) === 0xB0) {
-         n = op - 0xB0 + 1;
-         if (inFDEF || inELSE) {
-          i += n;
-         } else {
-          for (j = 0; j < n; j++) {
-           stack.push(data[i++]);
-          }
-         }
-        } else if ((op & 0xF8) === 0xB8) {
-         n = op - 0xB8 + 1;
-         if (inFDEF || inELSE) {
-          i += n * 2;
-         } else {
-          for (j = 0; j < n; j++) {
-           b = data[i++];
-           stack.push(b << 8 | data[i++]);
-          }
-         }
-        } else if (op === 0x2B && !tooComplexToFollowFunctions) {
-         if (!inFDEF && !inELSE) {
-          funcId = stack[stack.length - 1];
-          ttContext.functionsUsed[funcId] = true;
-          if (funcId in ttContext.functionsStackDeltas) {
-           stack.length += ttContext.functionsStackDeltas[funcId];
-          } else if (funcId in ttContext.functionsDefined && functionsCalled.indexOf(funcId) < 0) {
-           callstack.push({
-            data: data,
-            i: i,
-            stackTop: stack.length - 1
-           });
-           functionsCalled.push(funcId);
-           pc = ttContext.functionsDefined[funcId];
-           if (!pc) {
-            warn('TT: CALL non-existent function');
-            ttContext.hintsValid = false;
-            return;
-           }
-           data = pc.data;
-           i = pc.i;
-          }
-         }
-        } else if (op === 0x2C && !tooComplexToFollowFunctions) {
-         if (inFDEF || inELSE) {
-          warn('TT: nested FDEFs not allowed');
-          tooComplexToFollowFunctions = true;
-         }
-         inFDEF = true;
-         lastDeff = i;
-         funcId = stack.pop();
-         ttContext.functionsDefined[funcId] = {
-          data: data,
-          i: i
-         };
-        } else if (op === 0x2D) {
-         if (inFDEF) {
-          inFDEF = false;
-          lastEndf = i;
-         } else {
-          pc = callstack.pop();
-          if (!pc) {
-           warn('TT: ENDF bad stack');
-           ttContext.hintsValid = false;
-           return;
-          }
-          funcId = functionsCalled.pop();
-          data = pc.data;
-          i = pc.i;
-          ttContext.functionsStackDeltas[funcId] = stack.length - pc.stackTop;
-         }
-        } else if (op === 0x89) {
-         if (inFDEF || inELSE) {
-          warn('TT: nested IDEFs not allowed');
-          tooComplexToFollowFunctions = true;
-         }
-         inFDEF = true;
-         lastDeff = i;
-        } else if (op === 0x58) {
-         ++ifLevel;
-        } else if (op === 0x1B) {
-         inELSE = ifLevel;
-        } else if (op === 0x59) {
-         if (inELSE === ifLevel) {
-          inELSE = 0;
-         }
-         --ifLevel;
-        } else if (op === 0x1C) {
-         if (!inFDEF && !inELSE) {
-          var offset = stack[stack.length - 1];
-          if (offset > 0) {
-           i += offset - 1;
-          }
-         }
-        }
-        if (!inFDEF && !inELSE) {
-         var stackDelta = op <= 0x8E ? TTOpsStackDeltas[op] : op >= 0xC0 && op <= 0xDF ? -1 : op >= 0xE0 ? -2 : 0;
-         if (op >= 0x71 && op <= 0x75) {
-          n = stack.pop();
-          if (n === n) {
-           stackDelta = -n * 2;
-          }
-         }
-         while (stackDelta < 0 && stack.length > 0) {
-          stack.pop();
-          stackDelta++;
-         }
-         while (stackDelta > 0) {
-          stack.push(NaN);
-          stackDelta--;
-         }
-        }
-       }
-       ttContext.tooComplexToFollowFunctions = tooComplexToFollowFunctions;
-       var content = [data];
-       if (i > data.length) {
-        content.push(new Uint8Array(i - data.length));
-       }
-       if (lastDeff > lastEndf) {
-        warn('TT: complementing a missing function tail');
-        content.push(new Uint8Array([
-         0x22,
-         0x2D
-        ]));
-       }
-       foldTTTable(table, content);
-      }
-      function checkInvalidFunctions(ttContext, maxFunctionDefs) {
-       if (ttContext.tooComplexToFollowFunctions) {
-        return;
-       }
-       if (ttContext.functionsDefined.length > maxFunctionDefs) {
-        warn('TT: more functions defined than expected');
-        ttContext.hintsValid = false;
-        return;
-       }
-       for (var j = 0, jj = ttContext.functionsUsed.length; j < jj; j++) {
-        if (j > maxFunctionDefs) {
-         warn('TT: invalid function id: ' + j);
-         ttContext.hintsValid = false;
-         return;
-        }
-        if (ttContext.functionsUsed[j] && !ttContext.functionsDefined[j]) {
-         warn('TT: undefined function: ' + j);
-         ttContext.hintsValid = false;
-         return;
-        }
-       }
-      }
-      function foldTTTable(table, content) {
-       if (content.length > 1) {
-        var newLength = 0;
-        var j, jj;
-        for (j = 0, jj = content.length; j < jj; j++) {
-         newLength += content[j].length;
-        }
-        newLength = newLength + 3 & ~3;
-        var result = new Uint8Array(newLength);
-        var pos = 0;
-        for (j = 0, jj = content.length; j < jj; j++) {
-         result.set(content[j], pos);
-         pos += content[j].length;
-        }
-        table.data = result;
-        table.length = newLength;
-       }
-      }
-      function sanitizeTTPrograms(fpgm, prep, cvt, maxFunctionDefs) {
-       var ttContext = {
-        functionsDefined: [],
-        functionsUsed: [],
-        functionsStackDeltas: [],
-        tooComplexToFollowFunctions: false,
-        hintsValid: true
-       };
-       if (fpgm) {
-        sanitizeTTProgram(fpgm, ttContext);
-       }
-       if (prep) {
-        sanitizeTTProgram(prep, ttContext);
-       }
-       if (fpgm) {
-        checkInvalidFunctions(ttContext, maxFunctionDefs);
-       }
-       if (cvt && cvt.length & 1) {
-        var cvtData = new Uint8Array(cvt.length + 1);
-        cvtData.set(cvt.data);
-        cvt.data = cvtData;
-       }
-       return ttContext.hintsValid;
-      }
-      font = new Stream(new Uint8Array(font.getBytes()));
-      var VALID_TABLES = [
-       'OS/2',
-       'cmap',
-       'head',
-       'hhea',
-       'hmtx',
-       'maxp',
-       'name',
-       'post',
-       'loca',
-       'glyf',
-       'fpgm',
-       'prep',
-       'cvt ',
-       'CFF '
-      ];
-      var header = readOpenTypeHeader(font);
-      var numTables = header.numTables;
-      var cff, cffFile;
-      var tables = Object.create(null);
-      tables['OS/2'] = null;
-      tables['cmap'] = null;
-      tables['head'] = null;
-      tables['hhea'] = null;
-      tables['hmtx'] = null;
-      tables['maxp'] = null;
-      tables['name'] = null;
-      tables['post'] = null;
-      var table;
-      for (var i = 0; i < numTables; i++) {
-       table = readTableEntry(font);
-       if (VALID_TABLES.indexOf(table.tag) < 0) {
-        continue;
-       }
-       if (table.length === 0) {
-        continue;
-       }
-       tables[table.tag] = table;
-      }
-      var isTrueType = !tables['CFF '];
-      if (!isTrueType) {
-       if (header.version === 'OTTO' && properties.type !== 'CIDFontType2' || !tables['head'] || !tables['hhea'] || !tables['maxp'] || !tables['post']) {
-        cffFile = new Stream(tables['CFF '].data);
-        cff = new CFFFont(cffFile, properties);
-        adjustWidths(properties);
-        return this.convert(name, cff, properties);
-       }
-       delete tables['glyf'];
-       delete tables['loca'];
-       delete tables['fpgm'];
-       delete tables['prep'];
-       delete tables['cvt '];
-       this.isOpenType = true;
-      } else {
-       if (!tables['loca']) {
-        error('Required "loca" table is not found');
-       }
-       if (!tables['glyf']) {
-        warn('Required "glyf" table is not found -- trying to recover.');
-        tables['glyf'] = {
-         tag: 'glyf',
-         data: new Uint8Array(0)
-        };
-       }
-       this.isOpenType = false;
-      }
-      if (!tables['maxp']) {
-       error('Required "maxp" table is not found');
-      }
-      font.pos = (font.start || 0) + tables['maxp'].offset;
-      var version = font.getInt32();
-      var numGlyphs = font.getUint16();
-      var maxFunctionDefs = 0;
-      if (version >= 0x00010000 && tables['maxp'].length >= 22) {
-       font.pos += 8;
-       var maxZones = font.getUint16();
-       if (maxZones > 2) {
-        tables['maxp'].data[14] = 0;
-        tables['maxp'].data[15] = 2;
-       }
-       font.pos += 4;
-       maxFunctionDefs = font.getUint16();
-      }
-      var dupFirstEntry = false;
-      if (properties.type === 'CIDFontType2' && properties.toUnicode && properties.toUnicode.get(0) > '\u0000') {
-       dupFirstEntry = true;
-       numGlyphs++;
-       tables['maxp'].data[4] = numGlyphs >> 8;
-       tables['maxp'].data[5] = numGlyphs & 255;
-      }
-      var hintsValid = sanitizeTTPrograms(tables['fpgm'], tables['prep'], tables['cvt '], maxFunctionDefs);
-      if (!hintsValid) {
-       delete tables['fpgm'];
-       delete tables['prep'];
-       delete tables['cvt '];
-      }
-      sanitizeMetrics(font, tables['hhea'], tables['hmtx'], numGlyphs);
-      if (!tables['head']) {
-       error('Required "head" table is not found');
-      }
-      sanitizeHead(tables['head'], numGlyphs, isTrueType ? tables['loca'].length : 0);
-      var missingGlyphs = Object.create(null);
-      if (isTrueType) {
-       var isGlyphLocationsLong = int16(tables['head'].data[50], tables['head'].data[51]);
-       missingGlyphs = sanitizeGlyphLocations(tables['loca'], tables['glyf'], numGlyphs, isGlyphLocationsLong, hintsValid, dupFirstEntry);
-      }
-      if (!tables['hhea']) {
-       error('Required "hhea" table is not found');
-      }
-      if (tables['hhea'].data[10] === 0 && tables['hhea'].data[11] === 0) {
-       tables['hhea'].data[10] = 0xFF;
-       tables['hhea'].data[11] = 0xFF;
-      }
-      var metricsOverride = {
-       unitsPerEm: int16(tables['head'].data[18], tables['head'].data[19]),
-       yMax: int16(tables['head'].data[42], tables['head'].data[43]),
-       yMin: signedInt16(tables['head'].data[38], tables['head'].data[39]),
-       ascent: int16(tables['hhea'].data[4], tables['hhea'].data[5]),
-       descent: signedInt16(tables['hhea'].data[6], tables['hhea'].data[7])
-      };
-      this.ascent = metricsOverride.ascent / metricsOverride.unitsPerEm;
-      this.descent = metricsOverride.descent / metricsOverride.unitsPerEm;
-      if (tables['post']) {
-       var valid = readPostScriptTable(tables['post'], properties, numGlyphs);
-       if (!valid) {
-        tables['post'] = null;
-       }
-      }
-      var charCodeToGlyphId = [], charCode;
-      var toUnicode = properties.toUnicode, widths = properties.widths;
-      var skipToUnicode = toUnicode instanceof IdentityToUnicodeMap || toUnicode.length === 0x10000;
-      function hasGlyph(glyphId, charCode, widthCode) {
-       if (!missingGlyphs[glyphId]) {
-        return true;
-       }
-       if (!skipToUnicode && charCode >= 0 && toUnicode.has(charCode)) {
-        return true;
-       }
-       if (widths && widthCode >= 0 && isNum(widths[widthCode])) {
-        return true;
-       }
-       return false;
-      }
-      if (properties.type === 'CIDFontType2') {
-       var cidToGidMap = properties.cidToGidMap || [];
-       var isCidToGidMapEmpty = cidToGidMap.length === 0;
-       properties.cMap.forEach(function (charCode, cid) {
-        assert(cid <= 0xffff, 'Max size of CID is 65,535');
-        var glyphId = -1;
-        if (isCidToGidMapEmpty) {
-         glyphId = cid;
-        } else if (cidToGidMap[cid] !== undefined) {
-         glyphId = cidToGidMap[cid];
-        }
-        if (glyphId >= 0 && glyphId < numGlyphs && hasGlyph(glyphId, charCode, cid)) {
-         charCodeToGlyphId[charCode] = glyphId;
-        }
-       });
-       if (dupFirstEntry && (isCidToGidMapEmpty || !charCodeToGlyphId[0])) {
-        charCodeToGlyphId[0] = numGlyphs - 1;
-       }
-      } else {
-       var cmapTable = readCmapTable(tables['cmap'], font, this.isSymbolicFont, properties.hasEncoding);
-       var cmapPlatformId = cmapTable.platformId;
-       var cmapEncodingId = cmapTable.encodingId;
-       var cmapMappings = cmapTable.mappings;
-       var cmapMappingsLength = cmapMappings.length;
-       if (properties.hasEncoding && (cmapPlatformId === 3 && cmapEncodingId === 1 || cmapPlatformId === 1 && cmapEncodingId === 0) || cmapPlatformId === -1 && cmapEncodingId === -1 && !!getEncoding(properties.baseEncodingName)) {
-        var baseEncoding = [];
-        if (properties.baseEncodingName === 'MacRomanEncoding' || properties.baseEncodingName === 'WinAnsiEncoding') {
-         baseEncoding = getEncoding(properties.baseEncodingName);
-        }
-        var glyphsUnicodeMap = getGlyphsUnicode();
-        for (charCode = 0; charCode < 256; charCode++) {
-         var glyphName, standardGlyphName;
-         if (this.differences && charCode in this.differences) {
-          glyphName = this.differences[charCode];
-         } else if (charCode in baseEncoding && baseEncoding[charCode] !== '') {
-          glyphName = baseEncoding[charCode];
-         } else {
-          glyphName = StandardEncoding[charCode];
-         }
-         if (!glyphName) {
-          continue;
-         }
-         standardGlyphName = recoverGlyphName(glyphName, glyphsUnicodeMap);
-         var unicodeOrCharCode, isUnicode = false;
-         if (cmapPlatformId === 3 && cmapEncodingId === 1) {
-          unicodeOrCharCode = glyphsUnicodeMap[standardGlyphName];
-          isUnicode = true;
-         } else if (cmapPlatformId === 1 && cmapEncodingId === 0) {
-          unicodeOrCharCode = MacRomanEncoding.indexOf(standardGlyphName);
-         }
-         var found = false;
-         for (i = 0; i < cmapMappingsLength; ++i) {
-          if (cmapMappings[i].charCode !== unicodeOrCharCode) {
-           continue;
-          }
-          var code = isUnicode ? charCode : unicodeOrCharCode;
-          if (hasGlyph(cmapMappings[i].glyphId, code, -1)) {
-           charCodeToGlyphId[charCode] = cmapMappings[i].glyphId;
-           found = true;
-           break;
-          }
-         }
-         if (!found && properties.glyphNames) {
-          var glyphId = properties.glyphNames.indexOf(glyphName);
-          if (glyphId === -1 && standardGlyphName !== glyphName) {
-           glyphId = properties.glyphNames.indexOf(standardGlyphName);
-          }
-          if (glyphId > 0 && hasGlyph(glyphId, -1, -1)) {
-           charCodeToGlyphId[charCode] = glyphId;
-           found = true;
-          }
-         }
-         if (!found) {
-          charCodeToGlyphId[charCode] = 0;
-         }
-        }
-       } else if (cmapPlatformId === 0 && cmapEncodingId === 0) {
-        for (i = 0; i < cmapMappingsLength; ++i) {
-         charCodeToGlyphId[cmapMappings[i].charCode] = cmapMappings[i].glyphId;
-        }
-       } else {
-        for (i = 0; i < cmapMappingsLength; ++i) {
-         charCode = cmapMappings[i].charCode & 0xFF;
-         charCodeToGlyphId[charCode] = cmapMappings[i].glyphId;
-        }
-       }
-      }
-      if (charCodeToGlyphId.length === 0) {
-       charCodeToGlyphId[0] = 0;
-      }
-      var newMapping = adjustMapping(charCodeToGlyphId, properties);
-      this.toFontChar = newMapping.toFontChar;
-      tables['cmap'] = {
-       tag: 'cmap',
-       data: createCmapTable(newMapping.charCodeToGlyphId, numGlyphs)
-      };
-      if (!tables['OS/2'] || !validateOS2Table(tables['OS/2'])) {
-       tables['OS/2'] = {
-        tag: 'OS/2',
-        data: createOS2Table(properties, newMapping.charCodeToGlyphId, metricsOverride)
-       };
-      }
-      if (!tables['post']) {
-       tables['post'] = {
-        tag: 'post',
-        data: createPostTable(properties)
-       };
-      }
-      if (!isTrueType) {
-       try {
-        cffFile = new Stream(tables['CFF '].data);
-        var parser = new CFFParser(cffFile, properties, SEAC_ANALYSIS_ENABLED);
-        cff = parser.parse();
-        var compiler = new CFFCompiler(cff);
-        tables['CFF '].data = compiler.compile();
-       } catch (e) {
-        warn('Failed to compile font ' + properties.loadedName);
-       }
-      }
-      if (!tables['name']) {
-       tables['name'] = {
-        tag: 'name',
-        data: createNameTable(this.name)
-       };
-      } else {
-       var namePrototype = readNameTable(tables['name']);
-       tables['name'].data = createNameTable(name, namePrototype);
-      }
-      var builder = new OpenTypeFileBuilder(header.version);
-      for (var tableTag in tables) {
-       builder.addTable(tableTag, tables[tableTag].data);
-      }
-      return builder.toArray();
-     },
-     convert: function Font_convert(fontName, font, properties) {
-      properties.fixedPitch = false;
-      if (properties.builtInEncoding) {
-       adjustToUnicode(properties, properties.builtInEncoding);
-      }
-      var mapping = font.getGlyphMapping(properties);
-      var newMapping = adjustMapping(mapping, properties);
-      this.toFontChar = newMapping.toFontChar;
-      var numGlyphs = font.numGlyphs;
-      function getCharCodes(charCodeToGlyphId, glyphId) {
-       var charCodes = null;
-       for (var charCode in charCodeToGlyphId) {
-        if (glyphId === charCodeToGlyphId[charCode]) {
-         if (!charCodes) {
-          charCodes = [];
-         }
-         charCodes.push(charCode | 0);
-        }
-       }
-       return charCodes;
-      }
-      function createCharCode(charCodeToGlyphId, glyphId) {
-       for (var charCode in charCodeToGlyphId) {
-        if (glyphId === charCodeToGlyphId[charCode]) {
-         return charCode | 0;
-        }
-       }
-       newMapping.charCodeToGlyphId[newMapping.nextAvailableFontCharCode] = glyphId;
-       return newMapping.nextAvailableFontCharCode++;
-      }
-      var seacs = font.seacs;
-      if (SEAC_ANALYSIS_ENABLED && seacs && seacs.length) {
-       var matrix = properties.fontMatrix || FONT_IDENTITY_MATRIX;
-       var charset = font.getCharset();
-       var seacMap = Object.create(null);
-       for (var glyphId in seacs) {
-        glyphId |= 0;
-        var seac = seacs[glyphId];
-        var baseGlyphName = StandardEncoding[seac[2]];
-        var accentGlyphName = StandardEncoding[seac[3]];
-        var baseGlyphId = charset.indexOf(baseGlyphName);
-        var accentGlyphId = charset.indexOf(accentGlyphName);
-        if (baseGlyphId < 0 || accentGlyphId < 0) {
-         continue;
-        }
-        var accentOffset = {
-         x: seac[0] * matrix[0] + seac[1] * matrix[2] + matrix[4],
-         y: seac[0] * matrix[1] + seac[1] * matrix[3] + matrix[5]
-        };
-        var charCodes = getCharCodes(mapping, glyphId);
-        if (!charCodes) {
-         continue;
-        }
-        for (var i = 0, ii = charCodes.length; i < ii; i++) {
-         var charCode = charCodes[i];
-         var charCodeToGlyphId = newMapping.charCodeToGlyphId;
-         var baseFontCharCode = createCharCode(charCodeToGlyphId, baseGlyphId);
-         var accentFontCharCode = createCharCode(charCodeToGlyphId, accentGlyphId);
-         seacMap[charCode] = {
-          baseFontCharCode: baseFontCharCode,
-          accentFontCharCode: accentFontCharCode,
-          accentOffset: accentOffset
-         };
-        }
-       }
-       properties.seacMap = seacMap;
-      }
-      var unitsPerEm = 1 / (properties.fontMatrix || FONT_IDENTITY_MATRIX)[0];
-      var builder = new OpenTypeFileBuilder('\x4F\x54\x54\x4F');
-      builder.addTable('CFF ', font.data);
-      builder.addTable('OS/2', createOS2Table(properties, newMapping.charCodeToGlyphId));
-      builder.addTable('cmap', createCmapTable(newMapping.charCodeToGlyphId, numGlyphs));
-      builder.addTable('head', '\x00\x01\x00\x00' + '\x00\x00\x10\x00' + '\x00\x00\x00\x00' + '\x5F\x0F\x3C\xF5' + '\x00\x00' + safeString16(unitsPerEm) + '\x00\x00\x00\x00\x9e\x0b\x7e\x27' + '\x00\x00\x00\x00\x9e\x0b\x7e\x27' + '\x00\x00' + safeString16(properties.descent) + '\x0F\xFF' + safeString16(properties.ascent) + string16(properties.italicAngle ? 2 : 0) + '\x00\x11' + '\x00\x00' + '\x00\x00' + '\x00\x00');
-      builder.addTable('hhea', '\x00\x01\x00\x00' + safeString16(properties.ascent) + safeString16(properties.descent) + '\x00\x00' + '\xFF\xFF' + '\x00\x00' + '\x00\x00' + '\x00\x00' + safeString16(properties.capHeight) + safeString16(Math.tan(properties.italicAngle) * properties.xHeight) + '\x00\x00' + '\x00\x00' + '\x00\x00' + '\x00\x00' + '\x00\x00' + '\x00\x00' + string16(numGlyphs));
-      builder.addTable('hmtx', function fontFieldsHmtx() {
-       var charstrings = font.charstrings;
-       var cffWidths = font.cff ? font.cff.widths : null;
-       var hmtx = '\x00\x00\x00\x00';
-       for (var i = 1, ii = numGlyphs; i < ii; i++) {
-        var width = 0;
-        if (charstrings) {
-         var charstring = charstrings[i - 1];
-         width = 'width' in charstring ? charstring.width : 0;
-        } else if (cffWidths) {
-         width = Math.ceil(cffWidths[i] || 0);
-        }
-        hmtx += string16(width) + string16(0);
-       }
-       return hmtx;
-      }());
-      builder.addTable('maxp', '\x00\x00\x50\x00' + string16(numGlyphs));
-      builder.addTable('name', createNameTable(fontName));
-      builder.addTable('post', createPostTable(properties));
-      return builder.toArray();
-     },
-     get spaceWidth() {
-      if ('_shadowWidth' in this) {
-       return this._shadowWidth;
-      }
-      var possibleSpaceReplacements = [
-       'space',
-       'minus',
-       'one',
-       'i',
-       'I'
-      ];
-      var width;
-      for (var i = 0, ii = possibleSpaceReplacements.length; i < ii; i++) {
-       var glyphName = possibleSpaceReplacements[i];
-       if (glyphName in this.widths) {
-        width = this.widths[glyphName];
-        break;
-       }
-       var glyphsUnicodeMap = getGlyphsUnicode();
-       var glyphUnicode = glyphsUnicodeMap[glyphName];
-       var charcode = 0;
-       if (this.composite) {
-        if (this.cMap.contains(glyphUnicode)) {
-         charcode = this.cMap.lookup(glyphUnicode);
-        }
-       }
-       if (!charcode && this.toUnicode) {
-        charcode = this.toUnicode.charCodeOf(glyphUnicode);
-       }
-       if (charcode <= 0) {
-        charcode = glyphUnicode;
-       }
-       width = this.widths[charcode];
-       if (width) {
-        break;
-       }
-      }
-      width = width || this.defaultWidth;
-      this._shadowWidth = width;
-      return width;
-     },
-     charToGlyph: function Font_charToGlyph(charcode, isSpace) {
-      var fontCharCode, width, operatorListId;
-      var widthCode = charcode;
-      if (this.cMap && this.cMap.contains(charcode)) {
-       widthCode = this.cMap.lookup(charcode);
-      }
-      width = this.widths[widthCode];
-      width = isNum(width) ? width : this.defaultWidth;
-      var vmetric = this.vmetrics && this.vmetrics[widthCode];
-      var unicode = this.toUnicode.get(charcode) || charcode;
-      if (typeof unicode === 'number') {
-       unicode = String.fromCharCode(unicode);
-      }
-      var isInFont = charcode in this.toFontChar;
-      fontCharCode = this.toFontChar[charcode] || charcode;
-      if (this.missingFile) {
-       fontCharCode = mapSpecialUnicodeValues(fontCharCode);
-      }
-      if (this.isType3Font) {
-       operatorListId = fontCharCode;
-      }
-      var accent = null;
-      if (this.seacMap && this.seacMap[charcode]) {
-       isInFont = true;
-       var seac = this.seacMap[charcode];
-       fontCharCode = seac.baseFontCharCode;
-       accent = {
-        fontChar: String.fromCharCode(seac.accentFontCharCode),
-        offset: seac.accentOffset
-       };
-      }
-      var fontChar = String.fromCharCode(fontCharCode);
-      var glyph = this.glyphCache[charcode];
-      if (!glyph || !glyph.matchesForCache(fontChar, unicode, accent, width, vmetric, operatorListId, isSpace, isInFont)) {
-       glyph = new Glyph(fontChar, unicode, accent, width, vmetric, operatorListId, isSpace, isInFont);
-       this.glyphCache[charcode] = glyph;
-      }
-      return glyph;
-     },
-     charsToGlyphs: function Font_charsToGlyphs(chars) {
-      var charsCache = this.charsCache;
-      var glyphs, glyph, charcode;
-      if (charsCache) {
-       glyphs = charsCache[chars];
-       if (glyphs) {
-        return glyphs;
-       }
-      }
-      if (!charsCache) {
-       charsCache = this.charsCache = Object.create(null);
-      }
-      glyphs = [];
-      var charsCacheKey = chars;
-      var i = 0, ii;
-      if (this.cMap) {
-       var c = Object.create(null);
-       while (i < chars.length) {
-        this.cMap.readCharCode(chars, i, c);
-        charcode = c.charcode;
-        var length = c.length;
-        i += length;
-        var isSpace = length === 1 && chars.charCodeAt(i - 1) === 0x20;
-        glyph = this.charToGlyph(charcode, isSpace);
-        glyphs.push(glyph);
-       }
-      } else {
-       for (i = 0, ii = chars.length; i < ii; ++i) {
-        charcode = chars.charCodeAt(i);
-        glyph = this.charToGlyph(charcode, charcode === 0x20);
-        glyphs.push(glyph);
-       }
-      }
-      return charsCache[charsCacheKey] = glyphs;
-     }
-    };
-    return Font;
-   }();
-   var ErrorFont = function ErrorFontClosure() {
-    function ErrorFont(error) {
-     this.error = error;
-     this.loadedName = 'g_font_error';
-     this.loading = false;
-    }
-    ErrorFont.prototype = {
-     charsToGlyphs: function ErrorFont_charsToGlyphs() {
-      return [];
-     },
-     exportData: function ErrorFont_exportData() {
-      return { error: this.error };
-     }
-    };
-    return ErrorFont;
-   }();
-   function type1FontGlyphMapping(properties, builtInEncoding, glyphNames) {
-    var charCodeToGlyphId = Object.create(null);
-    var glyphId, charCode, baseEncoding;
-    var isSymbolicFont = !!(properties.flags & FontFlags.Symbolic);
-    if (properties.baseEncodingName) {
-     baseEncoding = getEncoding(properties.baseEncodingName);
-     for (charCode = 0; charCode < baseEncoding.length; charCode++) {
-      glyphId = glyphNames.indexOf(baseEncoding[charCode]);
-      if (glyphId >= 0) {
-       charCodeToGlyphId[charCode] = glyphId;
-      } else {
-       charCodeToGlyphId[charCode] = 0;
-      }
-     }
-    } else if (isSymbolicFont) {
-     for (charCode in builtInEncoding) {
-      charCodeToGlyphId[charCode] = builtInEncoding[charCode];
-     }
-    } else {
-     baseEncoding = StandardEncoding;
-     for (charCode = 0; charCode < baseEncoding.length; charCode++) {
-      glyphId = glyphNames.indexOf(baseEncoding[charCode]);
-      if (glyphId >= 0) {
-       charCodeToGlyphId[charCode] = glyphId;
-      } else {
-       charCodeToGlyphId[charCode] = 0;
-      }
-     }
-    }
-    var differences = properties.differences, glyphsUnicodeMap;
-    if (differences) {
-     for (charCode in differences) {
-      var glyphName = differences[charCode];
-      glyphId = glyphNames.indexOf(glyphName);
-      if (glyphId === -1) {
-       if (!glyphsUnicodeMap) {
-        glyphsUnicodeMap = getGlyphsUnicode();
-       }
-       var standardGlyphName = recoverGlyphName(glyphName, glyphsUnicodeMap);
-       if (standardGlyphName !== glyphName) {
-        glyphId = glyphNames.indexOf(standardGlyphName);
-       }
-      }
-      if (glyphId >= 0) {
-       charCodeToGlyphId[charCode] = glyphId;
-      } else {
-       charCodeToGlyphId[charCode] = 0;
-      }
-     }
-    }
-    return charCodeToGlyphId;
-   }
-   var Type1Font = function Type1FontClosure() {
-    function findBlock(streamBytes, signature, startIndex) {
-     var streamBytesLength = streamBytes.length;
-     var signatureLength = signature.length;
-     var scanLength = streamBytesLength - signatureLength;
-     var i = startIndex, j, found = false;
-     while (i < scanLength) {
-      j = 0;
-      while (j < signatureLength && streamBytes[i + j] === signature[j]) {
-       j++;
-      }
-      if (j >= signatureLength) {
-       i += j;
-       while (i < streamBytesLength && isSpace(streamBytes[i])) {
-        i++;
-       }
-       found = true;
-       break;
-      }
-      i++;
-     }
-     return {
-      found: found,
-      length: i
-     };
-    }
-    function getHeaderBlock(stream, suggestedLength) {
-     var EEXEC_SIGNATURE = [
-      0x65,
-      0x65,
-      0x78,
-      0x65,
-      0x63
-     ];
-     var streamStartPos = stream.pos;
-     var headerBytes, headerBytesLength, block;
-     try {
-      headerBytes = stream.getBytes(suggestedLength);
-      headerBytesLength = headerBytes.length;
-     } catch (ex) {
-      if (ex instanceof MissingDataException) {
-       throw ex;
-      }
-     }
-     if (headerBytesLength === suggestedLength) {
-      block = findBlock(headerBytes, EEXEC_SIGNATURE, suggestedLength - 2 * EEXEC_SIGNATURE.length);
-      if (block.found && block.length === suggestedLength) {
-       return {
-        stream: new Stream(headerBytes),
-        length: suggestedLength
-       };
-      }
-     }
-     warn('Invalid "Length1" property in Type1 font -- trying to recover.');
-     stream.pos = streamStartPos;
-     var SCAN_BLOCK_LENGTH = 2048;
-     var actualLength;
-     while (true) {
-      var scanBytes = stream.peekBytes(SCAN_BLOCK_LENGTH);
-      block = findBlock(scanBytes, EEXEC_SIGNATURE, 0);
-      if (block.length === 0) {
-       break;
-      }
-      stream.pos += block.length;
-      if (block.found) {
-       actualLength = stream.pos - streamStartPos;
-       break;
-      }
-     }
-     stream.pos = streamStartPos;
-     if (actualLength) {
-      return {
-       stream: new Stream(stream.getBytes(actualLength)),
-       length: actualLength
-      };
-     }
-     warn('Unable to recover "Length1" property in Type1 font -- using as is.');
-     return {
-      stream: new Stream(stream.getBytes(suggestedLength)),
-      length: suggestedLength
-     };
-    }
-    function getEexecBlock(stream, suggestedLength) {
-     var eexecBytes = stream.getBytes();
-     return {
-      stream: new Stream(eexecBytes),
-      length: eexecBytes.length
-     };
-    }
-    function Type1Font(name, file, properties) {
-     var PFB_HEADER_SIZE = 6;
-     var headerBlockLength = properties.length1;
-     var eexecBlockLength = properties.length2;
-     var pfbHeader = file.peekBytes(PFB_HEADER_SIZE);
-     var pfbHeaderPresent = pfbHeader[0] === 0x80 && pfbHeader[1] === 0x01;
-     if (pfbHeaderPresent) {
-      file.skip(PFB_HEADER_SIZE);
-      headerBlockLength = pfbHeader[5] << 24 | pfbHeader[4] << 16 | pfbHeader[3] << 8 | pfbHeader[2];
-     }
-     var headerBlock = getHeaderBlock(file, headerBlockLength);
-     headerBlockLength = headerBlock.length;
-     var headerBlockParser = new Type1Parser(headerBlock.stream, false, SEAC_ANALYSIS_ENABLED);
-     headerBlockParser.extractFontHeader(properties);
-     if (pfbHeaderPresent) {
-      pfbHeader = file.getBytes(PFB_HEADER_SIZE);
-      eexecBlockLength = pfbHeader[5] << 24 | pfbHeader[4] << 16 | pfbHeader[3] << 8 | pfbHeader[2];
-     }
-     var eexecBlock = getEexecBlock(file, eexecBlockLength);
-     eexecBlockLength = eexecBlock.length;
-     var eexecBlockParser = new Type1Parser(eexecBlock.stream, true, SEAC_ANALYSIS_ENABLED);
-     var data = eexecBlockParser.extractFontProgram();
-     for (var info in data.properties) {
-      properties[info] = data.properties[info];
-     }
-     var charstrings = data.charstrings;
-     var type2Charstrings = this.getType2Charstrings(charstrings);
-     var subrs = this.getType2Subrs(data.subrs);
-     this.charstrings = charstrings;
-     this.data = this.wrap(name, type2Charstrings, this.charstrings, subrs, properties);
-     this.seacs = this.getSeacs(data.charstrings);
-    }
-    Type1Font.prototype = {
-     get numGlyphs() {
-      return this.charstrings.length + 1;
-     },
-     getCharset: function Type1Font_getCharset() {
-      var charset = ['.notdef'];
-      var charstrings = this.charstrings;
-      for (var glyphId = 0; glyphId < charstrings.length; glyphId++) {
-       charset.push(charstrings[glyphId].glyphName);
-      }
-      return charset;
-     },
-     getGlyphMapping: function Type1Font_getGlyphMapping(properties) {
-      var charstrings = this.charstrings;
-      var glyphNames = ['.notdef'], glyphId;
-      for (glyphId = 0; glyphId < charstrings.length; glyphId++) {
-       glyphNames.push(charstrings[glyphId].glyphName);
-      }
-      var encoding = properties.builtInEncoding;
-      if (encoding) {
-       var builtInEncoding = Object.create(null);
-       for (var charCode in encoding) {
-        glyphId = glyphNames.indexOf(encoding[charCode]);
-        if (glyphId >= 0) {
-         builtInEncoding[charCode] = glyphId;
-        }
-       }
-      }
-      return type1FontGlyphMapping(properties, builtInEncoding, glyphNames);
-     },
-     getSeacs: function Type1Font_getSeacs(charstrings) {
-      var i, ii;
-      var seacMap = [];
-      for (i = 0, ii = charstrings.length; i < ii; i++) {
-       var charstring = charstrings[i];
-       if (charstring.seac) {
-        seacMap[i + 1] = charstring.seac;
-       }
-      }
-      return seacMap;
-     },
-     getType2Charstrings: function Type1Font_getType2Charstrings(type1Charstrings) {
-      var type2Charstrings = [];
-      for (var i = 0, ii = type1Charstrings.length; i < ii; i++) {
-       type2Charstrings.push(type1Charstrings[i].charstring);
-      }
-      return type2Charstrings;
-     },
-     getType2Subrs: function Type1Font_getType2Subrs(type1Subrs) {
-      var bias = 0;
-      var count = type1Subrs.length;
-      if (count < 1133) {
-       bias = 107;
-      } else if (count < 33769) {
-       bias = 1131;
-      } else {
-       bias = 32768;
-      }
-      var type2Subrs = [];
-      var i;
-      for (i = 0; i < bias; i++) {
-       type2Subrs.push([0x0B]);
-      }
-      for (i = 0; i < count; i++) {
-       type2Subrs.push(type1Subrs[i]);
-      }
-      return type2Subrs;
-     },
-     wrap: function Type1Font_wrap(name, glyphs, charstrings, subrs, properties) {
-      var cff = new CFF();
-      cff.header = new CFFHeader(1, 0, 4, 4);
-      cff.names = [name];
-      var topDict = new CFFTopDict();
-      topDict.setByName('version', 391);
-      topDict.setByName('Notice', 392);
-      topDict.setByName('FullName', 393);
-      topDict.setByName('FamilyName', 394);
-      topDict.setByName('Weight', 395);
-      topDict.setByName('Encoding', null);
-      topDict.setByName('FontMatrix', properties.fontMatrix);
-      topDict.setByName('FontBBox', properties.bbox);
-      topDict.setByName('charset', null);
-      topDict.setByName('CharStrings', null);
-      topDict.setByName('Private', null);
-      cff.topDict = topDict;
-      var strings = new CFFStrings();
-      strings.add('Version 0.11');
-      strings.add('See original notice');
-      strings.add(name);
-      strings.add(name);
-      strings.add('Medium');
-      cff.strings = strings;
-      cff.globalSubrIndex = new CFFIndex();
-      var count = glyphs.length;
-      var charsetArray = [0];
-      var i, ii;
-      for (i = 0; i < count; i++) {
-       var index = CFFStandardStrings.indexOf(charstrings[i].glyphName);
-       if (index === -1) {
-        index = 0;
-       }
-       charsetArray.push(index >> 8 & 0xff, index & 0xff);
-      }
-      cff.charset = new CFFCharset(false, 0, [], charsetArray);
-      var charStringsIndex = new CFFIndex();
-      charStringsIndex.add([
-       0x8B,
-       0x0E
-      ]);
-      for (i = 0; i < count; i++) {
-       var glyph = glyphs[i];
-       if (glyph.length === 0) {
-        charStringsIndex.add([
-         0x8B,
-         0x0E
-        ]);
-        continue;
-       }
-       charStringsIndex.add(glyph);
-      }
-      cff.charStrings = charStringsIndex;
-      var privateDict = new CFFPrivateDict();
-      privateDict.setByName('Subrs', null);
-      var fields = [
-       'BlueValues',
-       'OtherBlues',
-       'FamilyBlues',
-       'FamilyOtherBlues',
-       'StemSnapH',
-       'StemSnapV',
-       'BlueShift',
-       'BlueFuzz',
-       'BlueScale',
-       'LanguageGroup',
-       'ExpansionFactor',
-       'ForceBold',
-       'StdHW',
-       'StdVW'
-      ];
-      for (i = 0, ii = fields.length; i < ii; i++) {
-       var field = fields[i];
-       if (!(field in properties.privateData)) {
-        continue;
-       }
-       var value = properties.privateData[field];
-       if (isArray(value)) {
-        for (var j = value.length - 1; j > 0; j--) {
-         value[j] -= value[j - 1];
-        }
-       }
-       privateDict.setByName(field, value);
-      }
-      cff.topDict.privateDict = privateDict;
-      var subrIndex = new CFFIndex();
-      for (i = 0, ii = subrs.length; i < ii; i++) {
-       subrIndex.add(subrs[i]);
-      }
-      privateDict.subrsIndex = subrIndex;
-      var compiler = new CFFCompiler(cff);
-      return compiler.compile();
-     }
-    };
-    return Type1Font;
-   }();
-   var CFFFont = function CFFFontClosure() {
-    function CFFFont(file, properties) {
-     this.properties = properties;
-     var parser = new CFFParser(file, properties, SEAC_ANALYSIS_ENABLED);
-     this.cff = parser.parse();
-     var compiler = new CFFCompiler(this.cff);
-     this.seacs = this.cff.seacs;
-     try {
-      this.data = compiler.compile();
-     } catch (e) {
-      warn('Failed to compile font ' + properties.loadedName);
-      this.data = file;
-     }
-    }
-    CFFFont.prototype = {
-     get numGlyphs() {
-      return this.cff.charStrings.count;
-     },
-     getCharset: function CFFFont_getCharset() {
-      return this.cff.charset.charset;
-     },
-     getGlyphMapping: function CFFFont_getGlyphMapping() {
-      var cff = this.cff;
-      var properties = this.properties;
-      var charsets = cff.charset.charset;
-      var charCodeToGlyphId;
-      var glyphId;
-      if (properties.composite) {
-       charCodeToGlyphId = Object.create(null);
-       if (cff.isCIDFont) {
-        for (glyphId = 0; glyphId < charsets.length; glyphId++) {
-         var cid = charsets[glyphId];
-         var charCode = properties.cMap.charCodeOf(cid);
-         charCodeToGlyphId[charCode] = glyphId;
-        }
-       } else {
-        for (glyphId = 0; glyphId < cff.charStrings.count; glyphId++) {
-         charCodeToGlyphId[glyphId] = glyphId;
-        }
-       }
-       return charCodeToGlyphId;
-      }
-      var encoding = cff.encoding ? cff.encoding.encoding : null;
-      charCodeToGlyphId = type1FontGlyphMapping(properties, encoding, charsets);
-      return charCodeToGlyphId;
-     }
-    };
-    return CFFFont;
-   }();
-   (function checkSeacSupport() {
-    if (typeof navigator !== 'undefined' && /Windows/.test(navigator.userAgent)) {
-     SEAC_ANALYSIS_ENABLED = true;
-    }
-   }());
-   (function checkChromeWindows() {
-    if (typeof navigator !== 'undefined' && /Windows.*Chrome/.test(navigator.userAgent)) {
-     SKIP_PRIVATE_USE_RANGE_F000_TO_F01F = true;
-    }
-   }());
-   exports.ErrorFont = ErrorFont;
-   exports.Font = Font;
-   exports.FontFlags = FontFlags;
-   exports.IdentityToUnicodeMap = IdentityToUnicodeMap;
-   exports.ToUnicodeMap = ToUnicodeMap;
-   exports.getFontType = getFontType;
-  }));
-  (function (root, factory) {
-   factory(root.pdfjsCorePsParser = {}, root.pdfjsSharedUtil, root.pdfjsCoreParser);
-  }(this, function (exports, sharedUtil, coreParser) {
-   var error = sharedUtil.error;
-   var isSpace = sharedUtil.isSpace;
-   var EOF = coreParser.EOF;
-   var PostScriptParser = function PostScriptParserClosure() {
-    function PostScriptParser(lexer) {
-     this.lexer = lexer;
-     this.operators = [];
-     this.token = null;
-     this.prev = null;
-    }
-    PostScriptParser.prototype = {
-     nextToken: function PostScriptParser_nextToken() {
-      this.prev = this.token;
-      this.token = this.lexer.getToken();
-     },
-     accept: function PostScriptParser_accept(type) {
-      if (this.token.type === type) {
-       this.nextToken();
-       return true;
-      }
-      return false;
-     },
-     expect: function PostScriptParser_expect(type) {
-      if (this.accept(type)) {
-       return true;
-      }
-      error('Unexpected symbol: found ' + this.token.type + ' expected ' + type + '.');
-     },
-     parse: function PostScriptParser_parse() {
-      this.nextToken();
-      this.expect(PostScriptTokenTypes.LBRACE);
-      this.parseBlock();
-      this.expect(PostScriptTokenTypes.RBRACE);
-      return this.operators;
-     },
-     parseBlock: function PostScriptParser_parseBlock() {
-      while (true) {
-       if (this.accept(PostScriptTokenTypes.NUMBER)) {
-        this.operators.push(this.prev.value);
-       } else if (this.accept(PostScriptTokenTypes.OPERATOR)) {
-        this.operators.push(this.prev.value);
-       } else if (this.accept(PostScriptTokenTypes.LBRACE)) {
-        this.parseCondition();
-       } else {
-        return;
-       }
-      }
-     },
-     parseCondition: function PostScriptParser_parseCondition() {
-      var conditionLocation = this.operators.length;
-      this.operators.push(null, null);
-      this.parseBlock();
-      this.expect(PostScriptTokenTypes.RBRACE);
-      if (this.accept(PostScriptTokenTypes.IF)) {
-       this.operators[conditionLocation] = this.operators.length;
-       this.operators[conditionLocation + 1] = 'jz';
-      } else if (this.accept(PostScriptTokenTypes.LBRACE)) {
-       var jumpLocation = this.operators.length;
-       this.operators.push(null, null);
-       var endOfTrue = this.operators.length;
-       this.parseBlock();
-       this.expect(PostScriptTokenTypes.RBRACE);
-       this.expect(PostScriptTokenTypes.IFELSE);
-       this.operators[jumpLocation] = this.operators.length;
-       this.operators[jumpLocation + 1] = 'j';
-       this.operators[conditionLocation] = endOfTrue;
-       this.operators[conditionLocation + 1] = 'jz';
-      } else {
-       error('PS Function: error parsing conditional.');
-      }
-     }
-    };
-    return PostScriptParser;
-   }();
-   var PostScriptTokenTypes = {
-    LBRACE: 0,
-    RBRACE: 1,
-    NUMBER: 2,
-    OPERATOR: 3,
-    IF: 4,
-    IFELSE: 5
-   };
-   var PostScriptToken = function PostScriptTokenClosure() {
-    function PostScriptToken(type, value) {
-     this.type = type;
-     this.value = value;
-    }
-    var opCache = Object.create(null);
-    PostScriptToken.getOperator = function PostScriptToken_getOperator(op) {
-     var opValue = opCache[op];
-     if (opValue) {
-      return opValue;
-     }
-     return opCache[op] = new PostScriptToken(PostScriptTokenTypes.OPERATOR, op);
-    };
-    PostScriptToken.LBRACE = new PostScriptToken(PostScriptTokenTypes.LBRACE, '{');
-    PostScriptToken.RBRACE = new PostScriptToken(PostScriptTokenTypes.RBRACE, '}');
-    PostScriptToken.IF = new PostScriptToken(PostScriptTokenTypes.IF, 'IF');
-    PostScriptToken.IFELSE = new PostScriptToken(PostScriptTokenTypes.IFELSE, 'IFELSE');
-    return PostScriptToken;
-   }();
-   var PostScriptLexer = function PostScriptLexerClosure() {
-    function PostScriptLexer(stream) {
-     this.stream = stream;
-     this.nextChar();
-     this.strBuf = [];
-    }
-    PostScriptLexer.prototype = {
-     nextChar: function PostScriptLexer_nextChar() {
-      return this.currentChar = this.stream.getByte();
-     },
-     getToken: function PostScriptLexer_getToken() {
-      var comment = false;
-      var ch = this.currentChar;
-      while (true) {
-       if (ch < 0) {
-        return EOF;
-       }
-       if (comment) {
-        if (ch === 0x0A || ch === 0x0D) {
-         comment = false;
-        }
-       } else if (ch === 0x25) {
-        comment = true;
-       } else if (!isSpace(ch)) {
-        break;
-       }
-       ch = this.nextChar();
-      }
-      switch (ch | 0) {
-      case 0x30:
-      case 0x31:
-      case 0x32:
-      case 0x33:
-      case 0x34:
-      case 0x35:
-      case 0x36:
-      case 0x37:
-      case 0x38:
-      case 0x39:
-      case 0x2B:
-      case 0x2D:
-      case 0x2E:
-       return new PostScriptToken(PostScriptTokenTypes.NUMBER, this.getNumber());
-      case 0x7B:
-       this.nextChar();
-       return PostScriptToken.LBRACE;
-      case 0x7D:
-       this.nextChar();
-       return PostScriptToken.RBRACE;
-      }
-      var strBuf = this.strBuf;
-      strBuf.length = 0;
-      strBuf[0] = String.fromCharCode(ch);
-      while ((ch = this.nextChar()) >= 0 && (ch >= 0x41 && ch <= 0x5A || ch >= 0x61 && ch <= 0x7A)) {
-       strBuf.push(String.fromCharCode(ch));
-      }
-      var str = strBuf.join('');
-      switch (str.toLowerCase()) {
-      case 'if':
-       return PostScriptToken.IF;
-      case 'ifelse':
-       return PostScriptToken.IFELSE;
-      default:
-       return PostScriptToken.getOperator(str);
-      }
-     },
-     getNumber: function PostScriptLexer_getNumber() {
-      var ch = this.currentChar;
-      var strBuf = this.strBuf;
-      strBuf.length = 0;
-      strBuf[0] = String.fromCharCode(ch);
-      while ((ch = this.nextChar()) >= 0) {
-       if (ch >= 0x30 && ch <= 0x39 || ch === 0x2D || ch === 0x2E) {
-        strBuf.push(String.fromCharCode(ch));
-       } else {
-        break;
-       }
-      }
-      var value = parseFloat(strBuf.join(''));
-      if (isNaN(value)) {
-       error('Invalid floating point number: ' + value);
-      }
-      return value;
-     }
-    };
-    return PostScriptLexer;
-   }();
-   exports.PostScriptLexer = PostScriptLexer;
-   exports.PostScriptParser = PostScriptParser;
-  }));
-  (function (root, factory) {
-   factory(root.pdfjsCoreFunction = {}, root.pdfjsSharedUtil, root.pdfjsCorePrimitives, root.pdfjsCorePsParser);
-  }(this, function (exports, sharedUtil, corePrimitives, corePsParser) {
-   var error = sharedUtil.error;
-   var info = sharedUtil.info;
-   var isArray = sharedUtil.isArray;
-   var isBool = sharedUtil.isBool;
-   var isDict = corePrimitives.isDict;
-   var isStream = corePrimitives.isStream;
-   var PostScriptLexer = corePsParser.PostScriptLexer;
-   var PostScriptParser = corePsParser.PostScriptParser;
-   var PDFFunction = function PDFFunctionClosure() {
-    var CONSTRUCT_SAMPLED = 0;
-    var CONSTRUCT_INTERPOLATED = 2;
-    var CONSTRUCT_STICHED = 3;
-    var CONSTRUCT_POSTSCRIPT = 4;
-    return {
-     getSampleArray: function PDFFunction_getSampleArray(size, outputSize, bps, str) {
-      var i, ii;
-      var length = 1;
-      for (i = 0, ii = size.length; i < ii; i++) {
-       length *= size[i];
-      }
-      length *= outputSize;
-      var array = new Array(length);
-      var codeSize = 0;
-      var codeBuf = 0;
-      var sampleMul = 1.0 / (Math.pow(2.0, bps) - 1);
-      var strBytes = str.getBytes((length * bps + 7) / 8);
-      var strIdx = 0;
-      for (i = 0; i < length; i++) {
-       while (codeSize < bps) {
-        codeBuf <<= 8;
-        codeBuf |= strBytes[strIdx++];
-        codeSize += 8;
-       }
-       codeSize -= bps;
-       array[i] = (codeBuf >> codeSize) * sampleMul;
-       codeBuf &= (1 << codeSize) - 1;
-      }
-      return array;
-     },
-     getIR: function PDFFunction_getIR(xref, fn) {
-      var dict = fn.dict;
-      if (!dict) {
-       dict = fn;
-      }
-      var types = [
-       this.constructSampled,
-       null,
-       this.constructInterpolated,
-       this.constructStiched,
-       this.constructPostScript
-      ];
-      var typeNum = dict.get('FunctionType');
-      var typeFn = types[typeNum];
-      if (!typeFn) {
-       error('Unknown type of function');
-      }
-      return typeFn.call(this, fn, dict, xref);
-     },
-     fromIR: function PDFFunction_fromIR(IR) {
-      var type = IR[0];
-      switch (type) {
-      case CONSTRUCT_SAMPLED:
-       return this.constructSampledFromIR(IR);
-      case CONSTRUCT_INTERPOLATED:
-       return this.constructInterpolatedFromIR(IR);
-      case CONSTRUCT_STICHED:
-       return this.constructStichedFromIR(IR);
-      default:
-       return this.constructPostScriptFromIR(IR);
-      }
-     },
-     parse: function PDFFunction_parse(xref, fn) {
-      var IR = this.getIR(xref, fn);
-      return this.fromIR(IR);
-     },
-     parseArray: function PDFFunction_parseArray(xref, fnObj) {
-      if (!isArray(fnObj)) {
-       return this.parse(xref, fnObj);
-      }
-      var fnArray = [];
-      for (var j = 0, jj = fnObj.length; j < jj; j++) {
-       var obj = xref.fetchIfRef(fnObj[j]);
-       fnArray.push(PDFFunction.parse(xref, obj));
-      }
-      return function (src, srcOffset, dest, destOffset) {
-       for (var i = 0, ii = fnArray.length; i < ii; i++) {
-        fnArray[i](src, srcOffset, dest, destOffset + i);
-       }
-      };
-     },
-     constructSampled: function PDFFunction_constructSampled(str, dict) {
-      function toMultiArray(arr) {
-       var inputLength = arr.length;
-       var out = [];
-       var index = 0;
-       for (var i = 0; i < inputLength; i += 2) {
-        out[index] = [
-         arr[i],
-         arr[i + 1]
-        ];
-        ++index;
-       }
-       return out;
-      }
-      var domain = dict.getArray('Domain');
-      var range = dict.getArray('Range');
-      if (!domain || !range) {
-       error('No domain or range');
-      }
-      var inputSize = domain.length / 2;
-      var outputSize = range.length / 2;
-      domain = toMultiArray(domain);
-      range = toMultiArray(range);
-      var size = dict.get('Size');
-      var bps = dict.get('BitsPerSample');
-      var order = dict.get('Order') || 1;
-      if (order !== 1) {
-       info('No support for cubic spline interpolation: ' + order);
-      }
-      var encode = dict.getArray('Encode');
-      if (!encode) {
-       encode = [];
-       for (var i = 0; i < inputSize; ++i) {
-        encode.push(0);
-        encode.push(size[i] - 1);
-       }
-      }
-      encode = toMultiArray(encode);
-      var decode = dict.getArray('Decode');
-      if (!decode) {
-       decode = range;
-      } else {
-       decode = toMultiArray(decode);
-      }
-      var samples = this.getSampleArray(size, outputSize, bps, str);
-      return [
-       CONSTRUCT_SAMPLED,
-       inputSize,
-       domain,
-       encode,
-       decode,
-       samples,
-       size,
-       outputSize,
-       Math.pow(2, bps) - 1,
-       range
-      ];
-     },
-     constructSampledFromIR: function PDFFunction_constructSampledFromIR(IR) {
-      function interpolate(x, xmin, xmax, ymin, ymax) {
-       return ymin + (x - xmin) * ((ymax - ymin) / (xmax - xmin));
-      }
-      return function constructSampledFromIRResult(src, srcOffset, dest, destOffset) {
-       var m = IR[1];
-       var domain = IR[2];
-       var encode = IR[3];
-       var decode = IR[4];
-       var samples = IR[5];
-       var size = IR[6];
-       var n = IR[7];
-       var range = IR[9];
-       var cubeVertices = 1 << m;
-       var cubeN = new Float64Array(cubeVertices);
-       var cubeVertex = new Uint32Array(cubeVertices);
-       var i, j;
-       for (j = 0; j < cubeVertices; j++) {
-        cubeN[j] = 1;
-       }
-       var k = n, pos = 1;
-       for (i = 0; i < m; ++i) {
-        var domain_2i = domain[i][0];
-        var domain_2i_1 = domain[i][1];
-        var xi = Math.min(Math.max(src[srcOffset + i], domain_2i), domain_2i_1);
-        var e = interpolate(xi, domain_2i, domain_2i_1, encode[i][0], encode[i][1]);
-        var size_i = size[i];
-        e = Math.min(Math.max(e, 0), size_i - 1);
-        var e0 = e < size_i - 1 ? Math.floor(e) : e - 1;
-        var n0 = e0 + 1 - e;
-        var n1 = e - e0;
-        var offset0 = e0 * k;
-        var offset1 = offset0 + k;
-        for (j = 0; j < cubeVertices; j++) {
-         if (j & pos) {
-          cubeN[j] *= n1;
-          cubeVertex[j] += offset1;
-         } else {
-          cubeN[j] *= n0;
-          cubeVertex[j] += offset0;
-         }
-        }
-        k *= size_i;
-        pos <<= 1;
-       }
-       for (j = 0; j < n; ++j) {
-        var rj = 0;
-        for (i = 0; i < cubeVertices; i++) {
-         rj += samples[cubeVertex[i] + j] * cubeN[i];
-        }
-        rj = interpolate(rj, 0, 1, decode[j][0], decode[j][1]);
-        dest[destOffset + j] = Math.min(Math.max(rj, range[j][0]), range[j][1]);
-       }
-      };
-     },
-     constructInterpolated: function PDFFunction_constructInterpolated(str, dict) {
-      var c0 = dict.getArray('C0') || [0];
-      var c1 = dict.getArray('C1') || [1];
-      var n = dict.get('N');
-      if (!isArray(c0) || !isArray(c1)) {
-       error('Illegal dictionary for interpolated function');
-      }
-      var length = c0.length;
-      var diff = [];
-      for (var i = 0; i < length; ++i) {
-       diff.push(c1[i] - c0[i]);
-      }
-      return [
-       CONSTRUCT_INTERPOLATED,
-       c0,
-       diff,
-       n
-      ];
-     },
-     constructInterpolatedFromIR: function PDFFunction_constructInterpolatedFromIR(IR) {
-      var c0 = IR[1];
-      var diff = IR[2];
-      var n = IR[3];
-      var length = diff.length;
-      return function constructInterpolatedFromIRResult(src, srcOffset, dest, destOffset) {
-       var x = n === 1 ? src[srcOffset] : Math.pow(src[srcOffset], n);
-       for (var j = 0; j < length; ++j) {
-        dest[destOffset + j] = c0[j] + x * diff[j];
-       }
-      };
-     },
-     constructStiched: function PDFFunction_constructStiched(fn, dict, xref) {
-      var domain = dict.getArray('Domain');
-      if (!domain) {
-       error('No domain');
-      }
-      var inputSize = domain.length / 2;
-      if (inputSize !== 1) {
-       error('Bad domain for stiched function');
-      }
-      var fnRefs = dict.get('Functions');
-      var fns = [];
-      for (var i = 0, ii = fnRefs.length; i < ii; ++i) {
-       fns.push(PDFFunction.getIR(xref, xref.fetchIfRef(fnRefs[i])));
-      }
-      var bounds = dict.getArray('Bounds');
-      var encode = dict.getArray('Encode');
-      return [
-       CONSTRUCT_STICHED,
-       domain,
-       bounds,
-       encode,
-       fns
-      ];
-     },
-     constructStichedFromIR: function PDFFunction_constructStichedFromIR(IR) {
-      var domain = IR[1];
-      var bounds = IR[2];
-      var encode = IR[3];
-      var fnsIR = IR[4];
-      var fns = [];
-      var tmpBuf = new Float32Array(1);
-      for (var i = 0, ii = fnsIR.length; i < ii; i++) {
-       fns.push(PDFFunction.fromIR(fnsIR[i]));
-      }
-      return function constructStichedFromIRResult(src, srcOffset, dest, destOffset) {
-       var clip = function constructStichedFromIRClip(v, min, max) {
-        if (v > max) {
-         v = max;
-        } else if (v < min) {
-         v = min;
-        }
-        return v;
-       };
-       var v = clip(src[srcOffset], domain[0], domain[1]);
-       for (var i = 0, ii = bounds.length; i < ii; ++i) {
-        if (v < bounds[i]) {
-         break;
-        }
-       }
-       var dmin = domain[0];
-       if (i > 0) {
-        dmin = bounds[i - 1];
-       }
-       var dmax = domain[1];
-       if (i < bounds.length) {
-        dmax = bounds[i];
-       }
-       var rmin = encode[2 * i];
-       var rmax = encode[2 * i + 1];
-       tmpBuf[0] = dmin === dmax ? rmin : rmin + (v - dmin) * (rmax - rmin) / (dmax - dmin);
-       fns[i](tmpBuf, 0, dest, destOffset);
-      };
-     },
-     constructPostScript: function PDFFunction_constructPostScript(fn, dict, xref) {
-      var domain = dict.getArray('Domain');
-      var range = dict.getArray('Range');
-      if (!domain) {
-       error('No domain.');
-      }
-      if (!range) {
-       error('No range.');
-      }
-      var lexer = new PostScriptLexer(fn);
-      var parser = new PostScriptParser(lexer);
-      var code = parser.parse();
-      return [
-       CONSTRUCT_POSTSCRIPT,
-       domain,
-       range,
-       code
-      ];
-     },
-     constructPostScriptFromIR: function PDFFunction_constructPostScriptFromIR(IR) {
-      var domain = IR[1];
-      var range = IR[2];
-      var code = IR[3];
-      var compiled = new PostScriptCompiler().compile(code, domain, range);
-      if (compiled) {
-       return new Function('src', 'srcOffset', 'dest', 'destOffset', compiled);
-      }
-      info('Unable to compile PS function');
-      var numOutputs = range.length >> 1;
-      var numInputs = domain.length >> 1;
-      var evaluator = new PostScriptEvaluator(code);
-      var cache = Object.create(null);
-      var MAX_CACHE_SIZE = 2048 * 4;
-      var cache_available = MAX_CACHE_SIZE;
-      var tmpBuf = new Float32Array(numInputs);
-      return function constructPostScriptFromIRResult(src, srcOffset, dest, destOffset) {
-       var i, value;
-       var key = '';
-       var input = tmpBuf;
-       for (i = 0; i < numInputs; i++) {
-        value = src[srcOffset + i];
-        input[i] = value;
-        key += value + '_';
-       }
-       var cachedValue = cache[key];
-       if (cachedValue !== undefined) {
-        dest.set(cachedValue, destOffset);
-        return;
-       }
-       var output = new Float32Array(numOutputs);
-       var stack = evaluator.execute(input);
-       var stackIndex = stack.length - numOutputs;
-       for (i = 0; i < numOutputs; i++) {
-        value = stack[stackIndex + i];
-        var bound = range[i * 2];
-        if (value < bound) {
-         value = bound;
-        } else {
-         bound = range[i * 2 + 1];
-         if (value > bound) {
-          value = bound;
-         }
-        }
-        output[i] = value;
-       }
-       if (cache_available > 0) {
-        cache_available--;
-        cache[key] = output;
-       }
-       dest.set(output, destOffset);
-      };
-     }
-    };
-   }();
-   function isPDFFunction(v) {
-    var fnDict;
-    if (typeof v !== 'object') {
-     return false;
-    } else if (isDict(v)) {
-     fnDict = v;
-    } else if (isStream(v)) {
-     fnDict = v.dict;
-    } else {
-     return false;
-    }
-    return fnDict.has('FunctionType');
-   }
-   var PostScriptStack = function PostScriptStackClosure() {
-    var MAX_STACK_SIZE = 100;
-    function PostScriptStack(initialStack) {
-     this.stack = !initialStack ? [] : Array.prototype.slice.call(initialStack, 0);
-    }
-    PostScriptStack.prototype = {
-     push: function PostScriptStack_push(value) {
-      if (this.stack.length >= MAX_STACK_SIZE) {
-       error('PostScript function stack overflow.');
-      }
-      this.stack.push(value);
-     },
-     pop: function PostScriptStack_pop() {
-      if (this.stack.length <= 0) {
-       error('PostScript function stack underflow.');
-      }
-      return this.stack.pop();
-     },
-     copy: function PostScriptStack_copy(n) {
-      if (this.stack.length + n >= MAX_STACK_SIZE) {
-       error('PostScript function stack overflow.');
-      }
-      var stack = this.stack;
-      for (var i = stack.length - n, j = n - 1; j >= 0; j--, i++) {
-       stack.push(stack[i]);
-      }
-     },
-     index: function PostScriptStack_index(n) {
-      this.push(this.stack[this.stack.length - n - 1]);
-     },
-     roll: function PostScriptStack_roll(n, p) {
-      var stack = this.stack;
-      var l = stack.length - n;
-      var r = stack.length - 1, c = l + (p - Math.floor(p / n) * n), i, j, t;
-      for (i = l, j = r; i < j; i++, j--) {
-       t = stack[i];
-       stack[i] = stack[j];
-       stack[j] = t;
-      }
-      for (i = l, j = c - 1; i < j; i++, j--) {
-       t = stack[i];
-       stack[i] = stack[j];
-       stack[j] = t;
-      }
-      for (i = c, j = r; i < j; i++, j--) {
-       t = stack[i];
-       stack[i] = stack[j];
-       stack[j] = t;
-      }
-     }
-    };
-    return PostScriptStack;
-   }();
-   var PostScriptEvaluator = function PostScriptEvaluatorClosure() {
-    function PostScriptEvaluator(operators) {
-     this.operators = operators;
-    }
-    PostScriptEvaluator.prototype = {
-     execute: function PostScriptEvaluator_execute(initialStack) {
-      var stack = new PostScriptStack(initialStack);
-      var counter = 0;
-      var operators = this.operators;
-      var length = operators.length;
-      var operator, a, b;
-      while (counter < length) {
-       operator = operators[counter++];
-       if (typeof operator === 'number') {
-        stack.push(operator);
-        continue;
-       }
-       switch (operator) {
-       case 'jz':
-        b = stack.pop();
-        a = stack.pop();
-        if (!a) {
-         counter = b;
-        }
-        break;
-       case 'j':
-        a = stack.pop();
-        counter = a;
-        break;
-       case 'abs':
-        a = stack.pop();
-        stack.push(Math.abs(a));
-        break;
-       case 'add':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a + b);
-        break;
-       case 'and':
-        b = stack.pop();
-        a = stack.pop();
-        if (isBool(a) && isBool(b)) {
-         stack.push(a && b);
-        } else {
-         stack.push(a & b);
-        }
-        break;
-       case 'atan':
-        a = stack.pop();
-        stack.push(Math.atan(a));
-        break;
-       case 'bitshift':
-        b = stack.pop();
-        a = stack.pop();
-        if (a > 0) {
-         stack.push(a << b);
-        } else {
-         stack.push(a >> b);
-        }
-        break;
-       case 'ceiling':
-        a = stack.pop();
-        stack.push(Math.ceil(a));
-        break;
-       case 'copy':
-        a = stack.pop();
-        stack.copy(a);
-        break;
-       case 'cos':
-        a = stack.pop();
-        stack.push(Math.cos(a));
-        break;
-       case 'cvi':
-        a = stack.pop() | 0;
-        stack.push(a);
-        break;
-       case 'cvr':
-        break;
-       case 'div':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a / b);
-        break;
-       case 'dup':
-        stack.copy(1);
-        break;
-       case 'eq':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a === b);
-        break;
-       case 'exch':
-        stack.roll(2, 1);
-        break;
-       case 'exp':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(Math.pow(a, b));
-        break;
-       case 'false':
-        stack.push(false);
-        break;
-       case 'floor':
-        a = stack.pop();
-        stack.push(Math.floor(a));
-        break;
-       case 'ge':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a >= b);
-        break;
-       case 'gt':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a > b);
-        break;
-       case 'idiv':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a / b | 0);
-        break;
-       case 'index':
-        a = stack.pop();
-        stack.index(a);
-        break;
-       case 'le':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a <= b);
-        break;
-       case 'ln':
-        a = stack.pop();
-        stack.push(Math.log(a));
-        break;
-       case 'log':
-        a = stack.pop();
-        stack.push(Math.log(a) / Math.LN10);
-        break;
-       case 'lt':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a < b);
-        break;
-       case 'mod':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a % b);
-        break;
-       case 'mul':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a * b);
-        break;
-       case 'ne':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a !== b);
-        break;
-       case 'neg':
-        a = stack.pop();
-        stack.push(-a);
-        break;
-       case 'not':
-        a = stack.pop();
-        if (isBool(a)) {
-         stack.push(!a);
-        } else {
-         stack.push(~a);
-        }
-        break;
-       case 'or':
-        b = stack.pop();
-        a = stack.pop();
-        if (isBool(a) && isBool(b)) {
-         stack.push(a || b);
-        } else {
-         stack.push(a | b);
-        }
-        break;
-       case 'pop':
-        stack.pop();
-        break;
-       case 'roll':
-        b = stack.pop();
-        a = stack.pop();
-        stack.roll(a, b);
-        break;
-       case 'round':
-        a = stack.pop();
-        stack.push(Math.round(a));
-        break;
-       case 'sin':
-        a = stack.pop();
-        stack.push(Math.sin(a));
-        break;
-       case 'sqrt':
-        a = stack.pop();
-        stack.push(Math.sqrt(a));
-        break;
-       case 'sub':
-        b = stack.pop();
-        a = stack.pop();
-        stack.push(a - b);
-        break;
-       case 'true':
-        stack.push(true);
-        break;
-       case 'truncate':
-        a = stack.pop();
-        a = a < 0 ? Math.ceil(a) : Math.floor(a);
-        stack.push(a);
-        break;
-       case 'xor':
-        b = stack.pop();
-        a = stack.pop();
-        if (isBool(a) && isBool(b)) {
-         stack.push(a !== b);
-        } else {
-         stack.push(a ^ b);
-        }
-        break;
-       default:
-        error('Unknown operator ' + operator);
-        break;
-       }
-      }
-      return stack.stack;
-     }
-    };
-    return PostScriptEvaluator;
-   }();
-   var PostScriptCompiler = function PostScriptCompilerClosure() {
-    function AstNode(type) {
-     this.type = type;
-    }
-    AstNode.prototype.visit = function (visitor) {
-     throw new Error('abstract method');
-    };
-    function AstArgument(index, min, max) {
-     AstNode.call(this, 'args');
-     this.index = index;
-     this.min = min;
-     this.max = max;
-    }
-    AstArgument.prototype = Object.create(AstNode.prototype);
-    AstArgument.prototype.visit = function (visitor) {
-     visitor.visitArgument(this);
-    };
-    function AstLiteral(number) {
-     AstNode.call(this, 'literal');
-     this.number = number;
-     this.min = number;
-     this.max = number;
-    }
-    AstLiteral.prototype = Object.create(AstNode.prototype);
-    AstLiteral.prototype.visit = function (visitor) {
-     visitor.visitLiteral(this);
-    };
-    function AstBinaryOperation(op, arg1, arg2, min, max) {
-     AstNode.call(this, 'binary');
-     this.op = op;
-     this.arg1 = arg1;
-     this.arg2 = arg2;
-     this.min = min;
-     this.max = max;
-    }
-    AstBinaryOperation.prototype = Object.create(AstNode.prototype);
-    AstBinaryOperation.prototype.visit = function (visitor) {
-     visitor.visitBinaryOperation(this);
-    };
-    function AstMin(arg, max) {
-     AstNode.call(this, 'max');
-     this.arg = arg;
-     this.min = arg.min;
-     this.max = max;
-    }
-    AstMin.prototype = Object.create(AstNode.prototype);
-    AstMin.prototype.visit = function (visitor) {
-     visitor.visitMin(this);
-    };
-    function AstVariable(index, min, max) {
-     AstNode.call(this, 'var');
-     this.index = index;
-     this.min = min;
-     this.max = max;
-    }
-    AstVariable.prototype = Object.create(AstNode.prototype);
-    AstVariable.prototype.visit = function (visitor) {
-     visitor.visitVariable(this);
-    };
-    function AstVariableDefinition(variable, arg) {
-     AstNode.call(this, 'definition');
-     this.variable = variable;
-     this.arg = arg;
-    }
-    AstVariableDefinition.prototype = Object.create(AstNode.prototype);
-    AstVariableDefinition.prototype.visit = function (visitor) {
-     visitor.visitVariableDefinition(this);
-    };
-    function ExpressionBuilderVisitor() {
-     this.parts = [];
-    }
-    ExpressionBuilderVisitor.prototype = {
-     visitArgument: function (arg) {
-      this.parts.push('Math.max(', arg.min, ', Math.min(', arg.max, ', src[srcOffset + ', arg.index, ']))');
-     },
-     visitVariable: function (variable) {
-      this.parts.push('v', variable.index);
-     },
-     visitLiteral: function (literal) {
-      this.parts.push(literal.number);
-     },
-     visitBinaryOperation: function (operation) {
-      this.parts.push('(');
-      operation.arg1.visit(this);
-      this.parts.push(' ', operation.op, ' ');
-      operation.arg2.visit(this);
-      this.parts.push(')');
-     },
-     visitVariableDefinition: function (definition) {
-      this.parts.push('var ');
-      definition.variable.visit(this);
-      this.parts.push(' = ');
-      definition.arg.visit(this);
-      this.parts.push(';');
-     },
-     visitMin: function (max) {
-      this.parts.push('Math.min(');
-      max.arg.visit(this);
-      this.parts.push(', ', max.max, ')');
-     },
-     toString: function () {
-      return this.parts.join('');
-     }
-    };
-    function buildAddOperation(num1, num2) {
-     if (num2.type === 'literal' && num2.number === 0) {
-      return num1;
-     }
-     if (num1.type === 'literal' && num1.number === 0) {
-      return num2;
-     }
-     if (num2.type === 'literal' && num1.type === 'literal') {
-      return new AstLiteral(num1.number + num2.number);
-     }
-     return new AstBinaryOperation('+', num1, num2, num1.min + num2.min, num1.max + num2.max);
-    }
-    function buildMulOperation(num1, num2) {
-     if (num2.type === 'literal') {
-      if (num2.number === 0) {
-       return new AstLiteral(0);
-      } else if (num2.number === 1) {
-       return num1;
-      } else if (num1.type === 'literal') {
-       return new AstLiteral(num1.number * num2.number);
-      }
-     }
-     if (num1.type === 'literal') {
-      if (num1.number === 0) {
-       return new AstLiteral(0);
-      } else if (num1.number === 1) {
-       return num2;
-      }
-     }
-     var min = Math.min(num1.min * num2.min, num1.min * num2.max, num1.max * num2.min, num1.max * num2.max);
-     var max = Math.max(num1.min * num2.min, num1.min * num2.max, num1.max * num2.min, num1.max * num2.max);
-     return new AstBinaryOperation('*', num1, num2, min, max);
-    }
-    function buildSubOperation(num1, num2) {
-     if (num2.type === 'literal') {
-      if (num2.number === 0) {
-       return num1;
-      } else if (num1.type === 'literal') {
-       return new AstLiteral(num1.number - num2.number);
-      }
-     }
-     if (num2.type === 'binary' && num2.op === '-' && num1.type === 'literal' && num1.number === 1 && num2.arg1.type === 'literal' && num2.arg1.number === 1) {
-      return num2.arg2;
-     }
-     return new AstBinaryOperation('-', num1, num2, num1.min - num2.max, num1.max - num2.min);
-    }
-    function buildMinOperation(num1, max) {
-     if (num1.min >= max) {
-      return new AstLiteral(max);
-     } else if (num1.max <= max) {
-      return num1;
-     }
-     return new AstMin(num1, max);
-    }
-    function PostScriptCompiler() {
-    }
-    PostScriptCompiler.prototype = {
-     compile: function PostScriptCompiler_compile(code, domain, range) {
-      var stack = [];
-      var i, ii;
-      var instructions = [];
-      var inputSize = domain.length >> 1, outputSize = range.length >> 1;
-      var lastRegister = 0;
-      var n, j;
-      var num1, num2, ast1, ast2, tmpVar, item;
-      for (i = 0; i < inputSize; i++) {
-       stack.push(new AstArgument(i, domain[i * 2], domain[i * 2 + 1]));
-      }
-      for (i = 0, ii = code.length; i < ii; i++) {
-       item = code[i];
-       if (typeof item === 'number') {
-        stack.push(new AstLiteral(item));
-        continue;
-       }
-       switch (item) {
-       case 'add':
-        if (stack.length < 2) {
-         return null;
-        }
-        num2 = stack.pop();
-        num1 = stack.pop();
-        stack.push(buildAddOperation(num1, num2));
-        break;
-       case 'cvr':
-        if (stack.length < 1) {
-         return null;
-        }
-        break;
-       case 'mul':
-        if (stack.length < 2) {
-         return null;
-        }
-        num2 = stack.pop();
-        num1 = stack.pop();
-        stack.push(buildMulOperation(num1, num2));
-        break;
-       case 'sub':
-        if (stack.length < 2) {
-         return null;
-        }
-        num2 = stack.pop();
-        num1 = stack.pop();
-        stack.push(buildSubOperation(num1, num2));
-        break;
-       case 'exch':
-        if (stack.length < 2) {
-         return null;
-        }
-        ast1 = stack.pop();
-        ast2 = stack.pop();
-        stack.push(ast1, ast2);
-        break;
-       case 'pop':
-        if (stack.length < 1) {
-         return null;
-        }
-        stack.pop();
-        break;
-       case 'index':
-        if (stack.length < 1) {
-         return null;
-        }
-        num1 = stack.pop();
-        if (num1.type !== 'literal') {
-         return null;
-        }
-        n = num1.number;
-        if (n < 0 || (n | 0) !== n || stack.length < n) {
-         return null;
-        }
-        ast1 = stack[stack.length - n - 1];
-        if (ast1.type === 'literal' || ast1.type === 'var') {
-         stack.push(ast1);
-         break;
-        }
-        tmpVar = new AstVariable(lastRegister++, ast1.min, ast1.max);
-        stack[stack.length - n - 1] = tmpVar;
-        stack.push(tmpVar);
-        instructions.push(new AstVariableDefinition(tmpVar, ast1));
-        break;
-       case 'dup':
-        if (stack.length < 1) {
-         return null;
-        }
-        if (typeof code[i + 1] === 'number' && code[i + 2] === 'gt' && code[i + 3] === i + 7 && code[i + 4] === 'jz' && code[i + 5] === 'pop' && code[i + 6] === code[i + 1]) {
-         num1 = stack.pop();
-         stack.push(buildMinOperation(num1, code[i + 1]));
-         i += 6;
-         break;
-        }
-        ast1 = stack[stack.length - 1];
-        if (ast1.type === 'literal' || ast1.type === 'var') {
-         stack.push(ast1);
-         break;
-        }
-        tmpVar = new AstVariable(lastRegister++, ast1.min, ast1.max);
-        stack[stack.length - 1] = tmpVar;
-        stack.push(tmpVar);
-        instructions.push(new AstVariableDefinition(tmpVar, ast1));
-        break;
-       case 'roll':
-        if (stack.length < 2) {
-         return null;
-        }
-        num2 = stack.pop();
-        num1 = stack.pop();
-        if (num2.type !== 'literal' || num1.type !== 'literal') {
-         return null;
-        }
-        j = num2.number;
-        n = num1.number;
-        if (n <= 0 || (n | 0) !== n || (j | 0) !== j || stack.length < n) {
-         return null;
-        }
-        j = (j % n + n) % n;
-        if (j === 0) {
-         break;
-        }
-        Array.prototype.push.apply(stack, stack.splice(stack.length - n, n - j));
-        break;
-       default:
-        return null;
-       }
-      }
-      if (stack.length !== outputSize) {
-       return null;
-      }
-      var result = [];
-      instructions.forEach(function (instruction) {
-       var statementBuilder = new ExpressionBuilderVisitor();
-       instruction.visit(statementBuilder);
-       result.push(statementBuilder.toString());
-      });
-      stack.forEach(function (expr, i) {
-       var statementBuilder = new ExpressionBuilderVisitor();
-       expr.visit(statementBuilder);
-       var min = range[i * 2], max = range[i * 2 + 1];
-       var out = [statementBuilder.toString()];
-       if (min > expr.min) {
-        out.unshift('Math.max(', min, ', ');
-        out.push(')');
-       }
-       if (max < expr.max) {
-        out.unshift('Math.min(', max, ', ');
-        out.push(')');
-       }
-       out.unshift('dest[destOffset + ', i, '] = ');
-       out.push(';');
-       result.push(out.join(''));
-      });
-      return result.join('\n');
-     }
-    };
-    return PostScriptCompiler;
-   }();
-   exports.isPDFFunction = isPDFFunction;
-   exports.PDFFunction = PDFFunction;
-   exports.PostScriptEvaluator = PostScriptEvaluator;
-   exports.PostScriptCompiler = PostScriptCompiler;
   }));
   (function (root, factory) {
    factory(root.pdfjsCoreColorSpace = {}, root.pdfjsSharedUtil, root.pdfjsCorePrimitives, root.pdfjsCoreFunction);
@@ -42164,11 +38942,13 @@
      }
     }
     function fn_g(x) {
+     var result;
      if (x >= 6 / 29) {
-      return x * x * x;
+      result = x * x * x;
      } else {
-      return 108 / 841 * (x - 4 / 29);
+      result = 108 / 841 * (x - 4 / 29);
      }
+     return result;
     }
     function decode(value, high1, low2, high2) {
      return low2 + value * (high2 - low2) / high1;
@@ -42232,6 +39012,2959 @@
    exports.ColorSpace = ColorSpace;
   }));
   (function (root, factory) {
+   factory(root.pdfjsCoreFonts = {}, root.pdfjsSharedUtil, root.pdfjsCorePrimitives, root.pdfjsCoreStream, root.pdfjsCoreGlyphList, root.pdfjsCoreFontRenderer, root.pdfjsCoreEncodings, root.pdfjsCoreStandardFonts, root.pdfjsCoreUnicode, root.pdfjsCoreType1Parser, root.pdfjsCoreCFFParser);
+  }(this, function (exports, sharedUtil, corePrimitives, coreStream, coreGlyphList, coreFontRenderer, coreEncodings, coreStandardFonts, coreUnicode, coreType1Parser, coreCFFParser) {
+   var FONT_IDENTITY_MATRIX = sharedUtil.FONT_IDENTITY_MATRIX;
+   var FontType = sharedUtil.FontType;
+   var assert = sharedUtil.assert;
+   var bytesToString = sharedUtil.bytesToString;
+   var error = sharedUtil.error;
+   var info = sharedUtil.info;
+   var isArray = sharedUtil.isArray;
+   var isInt = sharedUtil.isInt;
+   var isNum = sharedUtil.isNum;
+   var readUint32 = sharedUtil.readUint32;
+   var shadow = sharedUtil.shadow;
+   var string32 = sharedUtil.string32;
+   var warn = sharedUtil.warn;
+   var MissingDataException = sharedUtil.MissingDataException;
+   var isSpace = sharedUtil.isSpace;
+   var Stream = coreStream.Stream;
+   var getGlyphsUnicode = coreGlyphList.getGlyphsUnicode;
+   var getDingbatsGlyphsUnicode = coreGlyphList.getDingbatsGlyphsUnicode;
+   var FontRendererFactory = coreFontRenderer.FontRendererFactory;
+   var StandardEncoding = coreEncodings.StandardEncoding;
+   var MacRomanEncoding = coreEncodings.MacRomanEncoding;
+   var SymbolSetEncoding = coreEncodings.SymbolSetEncoding;
+   var ZapfDingbatsEncoding = coreEncodings.ZapfDingbatsEncoding;
+   var getEncoding = coreEncodings.getEncoding;
+   var getStdFontMap = coreStandardFonts.getStdFontMap;
+   var getNonStdFontMap = coreStandardFonts.getNonStdFontMap;
+   var getGlyphMapForStandardFonts = coreStandardFonts.getGlyphMapForStandardFonts;
+   var getSupplementalGlyphMapForArialBlack = coreStandardFonts.getSupplementalGlyphMapForArialBlack;
+   var getUnicodeRangeFor = coreUnicode.getUnicodeRangeFor;
+   var mapSpecialUnicodeValues = coreUnicode.mapSpecialUnicodeValues;
+   var getUnicodeForGlyph = coreUnicode.getUnicodeForGlyph;
+   var Type1Parser = coreType1Parser.Type1Parser;
+   var CFFStandardStrings = coreCFFParser.CFFStandardStrings;
+   var CFFParser = coreCFFParser.CFFParser;
+   var CFFCompiler = coreCFFParser.CFFCompiler;
+   var CFF = coreCFFParser.CFF;
+   var CFFHeader = coreCFFParser.CFFHeader;
+   var CFFTopDict = coreCFFParser.CFFTopDict;
+   var CFFPrivateDict = coreCFFParser.CFFPrivateDict;
+   var CFFStrings = coreCFFParser.CFFStrings;
+   var CFFIndex = coreCFFParser.CFFIndex;
+   var CFFCharset = coreCFFParser.CFFCharset;
+   var PRIVATE_USE_OFFSET_START = 0xE000;
+   var PRIVATE_USE_OFFSET_END = 0xF8FF;
+   var SKIP_PRIVATE_USE_RANGE_F000_TO_F01F = false;
+   var PDF_GLYPH_SPACE_UNITS = 1000;
+   var SEAC_ANALYSIS_ENABLED = false;
+   var FontFlags = {
+    FixedPitch: 1,
+    Serif: 2,
+    Symbolic: 4,
+    Script: 8,
+    Nonsymbolic: 32,
+    Italic: 64,
+    AllCap: 65536,
+    SmallCap: 131072,
+    ForceBold: 262144
+   };
+   var MacStandardGlyphOrdering = [
+    '.notdef',
+    '.null',
+    'nonmarkingreturn',
+    'space',
+    'exclam',
+    'quotedbl',
+    'numbersign',
+    'dollar',
+    'percent',
+    'ampersand',
+    'quotesingle',
+    'parenleft',
+    'parenright',
+    'asterisk',
+    'plus',
+    'comma',
+    'hyphen',
+    'period',
+    'slash',
+    'zero',
+    'one',
+    'two',
+    'three',
+    'four',
+    'five',
+    'six',
+    'seven',
+    'eight',
+    'nine',
+    'colon',
+    'semicolon',
+    'less',
+    'equal',
+    'greater',
+    'question',
+    'at',
+    'A',
+    'B',
+    'C',
+    'D',
+    'E',
+    'F',
+    'G',
+    'H',
+    'I',
+    'J',
+    'K',
+    'L',
+    'M',
+    'N',
+    'O',
+    'P',
+    'Q',
+    'R',
+    'S',
+    'T',
+    'U',
+    'V',
+    'W',
+    'X',
+    'Y',
+    'Z',
+    'bracketleft',
+    'backslash',
+    'bracketright',
+    'asciicircum',
+    'underscore',
+    'grave',
+    'a',
+    'b',
+    'c',
+    'd',
+    'e',
+    'f',
+    'g',
+    'h',
+    'i',
+    'j',
+    'k',
+    'l',
+    'm',
+    'n',
+    'o',
+    'p',
+    'q',
+    'r',
+    's',
+    't',
+    'u',
+    'v',
+    'w',
+    'x',
+    'y',
+    'z',
+    'braceleft',
+    'bar',
+    'braceright',
+    'asciitilde',
+    'Adieresis',
+    'Aring',
+    'Ccedilla',
+    'Eacute',
+    'Ntilde',
+    'Odieresis',
+    'Udieresis',
+    'aacute',
+    'agrave',
+    'acircumflex',
+    'adieresis',
+    'atilde',
+    'aring',
+    'ccedilla',
+    'eacute',
+    'egrave',
+    'ecircumflex',
+    'edieresis',
+    'iacute',
+    'igrave',
+    'icircumflex',
+    'idieresis',
+    'ntilde',
+    'oacute',
+    'ograve',
+    'ocircumflex',
+    'odieresis',
+    'otilde',
+    'uacute',
+    'ugrave',
+    'ucircumflex',
+    'udieresis',
+    'dagger',
+    'degree',
+    'cent',
+    'sterling',
+    'section',
+    'bullet',
+    'paragraph',
+    'germandbls',
+    'registered',
+    'copyright',
+    'trademark',
+    'acute',
+    'dieresis',
+    'notequal',
+    'AE',
+    'Oslash',
+    'infinity',
+    'plusminus',
+    'lessequal',
+    'greaterequal',
+    'yen',
+    'mu',
+    'partialdiff',
+    'summation',
+    'product',
+    'pi',
+    'integral',
+    'ordfeminine',
+    'ordmasculine',
+    'Omega',
+    'ae',
+    'oslash',
+    'questiondown',
+    'exclamdown',
+    'logicalnot',
+    'radical',
+    'florin',
+    'approxequal',
+    'Delta',
+    'guillemotleft',
+    'guillemotright',
+    'ellipsis',
+    'nonbreakingspace',
+    'Agrave',
+    'Atilde',
+    'Otilde',
+    'OE',
+    'oe',
+    'endash',
+    'emdash',
+    'quotedblleft',
+    'quotedblright',
+    'quoteleft',
+    'quoteright',
+    'divide',
+    'lozenge',
+    'ydieresis',
+    'Ydieresis',
+    'fraction',
+    'currency',
+    'guilsinglleft',
+    'guilsinglright',
+    'fi',
+    'fl',
+    'daggerdbl',
+    'periodcentered',
+    'quotesinglbase',
+    'quotedblbase',
+    'perthousand',
+    'Acircumflex',
+    'Ecircumflex',
+    'Aacute',
+    'Edieresis',
+    'Egrave',
+    'Iacute',
+    'Icircumflex',
+    'Idieresis',
+    'Igrave',
+    'Oacute',
+    'Ocircumflex',
+    'apple',
+    'Ograve',
+    'Uacute',
+    'Ucircumflex',
+    'Ugrave',
+    'dotlessi',
+    'circumflex',
+    'tilde',
+    'macron',
+    'breve',
+    'dotaccent',
+    'ring',
+    'cedilla',
+    'hungarumlaut',
+    'ogonek',
+    'caron',
+    'Lslash',
+    'lslash',
+    'Scaron',
+    'scaron',
+    'Zcaron',
+    'zcaron',
+    'brokenbar',
+    'Eth',
+    'eth',
+    'Yacute',
+    'yacute',
+    'Thorn',
+    'thorn',
+    'minus',
+    'multiply',
+    'onesuperior',
+    'twosuperior',
+    'threesuperior',
+    'onehalf',
+    'onequarter',
+    'threequarters',
+    'franc',
+    'Gbreve',
+    'gbreve',
+    'Idotaccent',
+    'Scedilla',
+    'scedilla',
+    'Cacute',
+    'cacute',
+    'Ccaron',
+    'ccaron',
+    'dcroat'
+   ];
+   function adjustWidths(properties) {
+    if (!properties.fontMatrix) {
+     return;
+    }
+    if (properties.fontMatrix[0] === FONT_IDENTITY_MATRIX[0]) {
+     return;
+    }
+    var scale = 0.001 / properties.fontMatrix[0];
+    var glyphsWidths = properties.widths;
+    for (var glyph in glyphsWidths) {
+     glyphsWidths[glyph] *= scale;
+    }
+    properties.defaultWidth *= scale;
+   }
+   function adjustToUnicode(properties, builtInEncoding) {
+    if (properties.hasIncludedToUnicodeMap) {
+     return;
+    }
+    if (properties.hasEncoding) {
+     return;
+    }
+    if (builtInEncoding === properties.defaultEncoding) {
+     return;
+    }
+    if (properties.toUnicode instanceof IdentityToUnicodeMap) {
+     return;
+    }
+    var toUnicode = [], glyphsUnicodeMap = getGlyphsUnicode();
+    for (var charCode in builtInEncoding) {
+     var glyphName = builtInEncoding[charCode];
+     var unicode = getUnicodeForGlyph(glyphName, glyphsUnicodeMap);
+     if (unicode !== -1) {
+      toUnicode[charCode] = String.fromCharCode(unicode);
+     }
+    }
+    properties.toUnicode.amend(toUnicode);
+   }
+   function getFontType(type, subtype) {
+    switch (type) {
+    case 'Type1':
+     return subtype === 'Type1C' ? FontType.TYPE1C : FontType.TYPE1;
+    case 'CIDFontType0':
+     return subtype === 'CIDFontType0C' ? FontType.CIDFONTTYPE0C : FontType.CIDFONTTYPE0;
+    case 'OpenType':
+     return FontType.OPENTYPE;
+    case 'TrueType':
+     return FontType.TRUETYPE;
+    case 'CIDFontType2':
+     return FontType.CIDFONTTYPE2;
+    case 'MMType1':
+     return FontType.MMTYPE1;
+    case 'Type0':
+     return FontType.TYPE0;
+    default:
+     return FontType.UNKNOWN;
+    }
+   }
+   function recoverGlyphName(name, glyphsUnicodeMap) {
+    if (glyphsUnicodeMap[name] !== undefined) {
+     return name;
+    }
+    var unicode = getUnicodeForGlyph(name, glyphsUnicodeMap);
+    if (unicode !== -1) {
+     for (var key in glyphsUnicodeMap) {
+      if (glyphsUnicodeMap[key] === unicode) {
+       return key;
+      }
+     }
+    }
+    info('Unable to recover a standard glyph name for: ' + name);
+    return name;
+   }
+   var Glyph = function GlyphClosure() {
+    function Glyph(fontChar, unicode, accent, width, vmetric, operatorListId, isSpace, isInFont) {
+     this.fontChar = fontChar;
+     this.unicode = unicode;
+     this.accent = accent;
+     this.width = width;
+     this.vmetric = vmetric;
+     this.operatorListId = operatorListId;
+     this.isSpace = isSpace;
+     this.isInFont = isInFont;
+    }
+    Glyph.prototype.matchesForCache = function (fontChar, unicode, accent, width, vmetric, operatorListId, isSpace, isInFont) {
+     return this.fontChar === fontChar && this.unicode === unicode && this.accent === accent && this.width === width && this.vmetric === vmetric && this.operatorListId === operatorListId && this.isSpace === isSpace && this.isInFont === isInFont;
+    };
+    return Glyph;
+   }();
+   var ToUnicodeMap = function ToUnicodeMapClosure() {
+    function ToUnicodeMap(cmap) {
+     this._map = cmap;
+    }
+    ToUnicodeMap.prototype = {
+     get length() {
+      return this._map.length;
+     },
+     forEach: function (callback) {
+      for (var charCode in this._map) {
+       callback(charCode, this._map[charCode].charCodeAt(0));
+      }
+     },
+     has: function (i) {
+      return this._map[i] !== undefined;
+     },
+     get: function (i) {
+      return this._map[i];
+     },
+     charCodeOf: function (v) {
+      return this._map.indexOf(v);
+     },
+     amend: function (map) {
+      for (var charCode in map) {
+       this._map[charCode] = map[charCode];
+      }
+     }
+    };
+    return ToUnicodeMap;
+   }();
+   var IdentityToUnicodeMap = function IdentityToUnicodeMapClosure() {
+    function IdentityToUnicodeMap(firstChar, lastChar) {
+     this.firstChar = firstChar;
+     this.lastChar = lastChar;
+    }
+    IdentityToUnicodeMap.prototype = {
+     get length() {
+      return this.lastChar + 1 - this.firstChar;
+     },
+     forEach: function (callback) {
+      for (var i = this.firstChar, ii = this.lastChar; i <= ii; i++) {
+       callback(i, i);
+      }
+     },
+     has: function (i) {
+      return this.firstChar <= i && i <= this.lastChar;
+     },
+     get: function (i) {
+      if (this.firstChar <= i && i <= this.lastChar) {
+       return String.fromCharCode(i);
+      }
+      return undefined;
+     },
+     charCodeOf: function (v) {
+      return isInt(v) && v >= this.firstChar && v <= this.lastChar ? v : -1;
+     },
+     amend: function (map) {
+      error('Should not call amend()');
+     }
+    };
+    return IdentityToUnicodeMap;
+   }();
+   var OpenTypeFileBuilder = function OpenTypeFileBuilderClosure() {
+    function writeInt16(dest, offset, num) {
+     dest[offset] = num >> 8 & 0xFF;
+     dest[offset + 1] = num & 0xFF;
+    }
+    function writeInt32(dest, offset, num) {
+     dest[offset] = num >> 24 & 0xFF;
+     dest[offset + 1] = num >> 16 & 0xFF;
+     dest[offset + 2] = num >> 8 & 0xFF;
+     dest[offset + 3] = num & 0xFF;
+    }
+    function writeData(dest, offset, data) {
+     var i, ii;
+     if (data instanceof Uint8Array) {
+      dest.set(data, offset);
+     } else if (typeof data === 'string') {
+      for (i = 0, ii = data.length; i < ii; i++) {
+       dest[offset++] = data.charCodeAt(i) & 0xFF;
+      }
+     } else {
+      for (i = 0, ii = data.length; i < ii; i++) {
+       dest[offset++] = data[i] & 0xFF;
+      }
+     }
+    }
+    function OpenTypeFileBuilder(sfnt) {
+     this.sfnt = sfnt;
+     this.tables = Object.create(null);
+    }
+    OpenTypeFileBuilder.getSearchParams = function OpenTypeFileBuilder_getSearchParams(entriesCount, entrySize) {
+     var maxPower2 = 1, log2 = 0;
+     while ((maxPower2 ^ entriesCount) > maxPower2) {
+      maxPower2 <<= 1;
+      log2++;
+     }
+     var searchRange = maxPower2 * entrySize;
+     return {
+      range: searchRange,
+      entry: log2,
+      rangeShift: entrySize * entriesCount - searchRange
+     };
+    };
+    var OTF_HEADER_SIZE = 12;
+    var OTF_TABLE_ENTRY_SIZE = 16;
+    OpenTypeFileBuilder.prototype = {
+     toArray: function OpenTypeFileBuilder_toArray() {
+      var sfnt = this.sfnt;
+      var tables = this.tables;
+      var tablesNames = Object.keys(tables);
+      tablesNames.sort();
+      var numTables = tablesNames.length;
+      var i, j, jj, table, tableName;
+      var offset = OTF_HEADER_SIZE + numTables * OTF_TABLE_ENTRY_SIZE;
+      var tableOffsets = [offset];
+      for (i = 0; i < numTables; i++) {
+       table = tables[tablesNames[i]];
+       var paddedLength = (table.length + 3 & ~3) >>> 0;
+       offset += paddedLength;
+       tableOffsets.push(offset);
+      }
+      var file = new Uint8Array(offset);
+      for (i = 0; i < numTables; i++) {
+       table = tables[tablesNames[i]];
+       writeData(file, tableOffsets[i], table);
+      }
+      if (sfnt === 'true') {
+       sfnt = string32(0x00010000);
+      }
+      file[0] = sfnt.charCodeAt(0) & 0xFF;
+      file[1] = sfnt.charCodeAt(1) & 0xFF;
+      file[2] = sfnt.charCodeAt(2) & 0xFF;
+      file[3] = sfnt.charCodeAt(3) & 0xFF;
+      writeInt16(file, 4, numTables);
+      var searchParams = OpenTypeFileBuilder.getSearchParams(numTables, 16);
+      writeInt16(file, 6, searchParams.range);
+      writeInt16(file, 8, searchParams.entry);
+      writeInt16(file, 10, searchParams.rangeShift);
+      offset = OTF_HEADER_SIZE;
+      for (i = 0; i < numTables; i++) {
+       tableName = tablesNames[i];
+       file[offset] = tableName.charCodeAt(0) & 0xFF;
+       file[offset + 1] = tableName.charCodeAt(1) & 0xFF;
+       file[offset + 2] = tableName.charCodeAt(2) & 0xFF;
+       file[offset + 3] = tableName.charCodeAt(3) & 0xFF;
+       var checksum = 0;
+       for (j = tableOffsets[i], jj = tableOffsets[i + 1]; j < jj; j += 4) {
+        var quad = readUint32(file, j);
+        checksum = checksum + quad >>> 0;
+       }
+       writeInt32(file, offset + 4, checksum);
+       writeInt32(file, offset + 8, tableOffsets[i]);
+       writeInt32(file, offset + 12, tables[tableName].length);
+       offset += OTF_TABLE_ENTRY_SIZE;
+      }
+      return file;
+     },
+     addTable: function OpenTypeFileBuilder_addTable(tag, data) {
+      if (tag in this.tables) {
+       throw new Error('Table ' + tag + ' already exists');
+      }
+      this.tables[tag] = data;
+     }
+    };
+    return OpenTypeFileBuilder;
+   }();
+   var ProblematicCharRanges = new Int32Array([
+    0x0000,
+    0x0020,
+    0x007F,
+    0x00A1,
+    0x00AD,
+    0x00AE,
+    0x0600,
+    0x0780,
+    0x08A0,
+    0x10A0,
+    0x1780,
+    0x1800,
+    0x1C00,
+    0x1C50,
+    0x2000,
+    0x2010,
+    0x2011,
+    0x2012,
+    0x2028,
+    0x2030,
+    0x205F,
+    0x2070,
+    0x25CC,
+    0x25CD,
+    0x3000,
+    0x3001,
+    0xAA60,
+    0xAA80,
+    0xFFF0,
+    0x10000
+   ]);
+   var Font = function FontClosure() {
+    function Font(name, file, properties) {
+     var charCode, glyphName, unicode;
+     this.name = name;
+     this.loadedName = properties.loadedName;
+     this.isType3Font = properties.isType3Font;
+     this.sizes = [];
+     this.missingFile = false;
+     this.glyphCache = Object.create(null);
+     this.isSerifFont = !!(properties.flags & FontFlags.Serif);
+     this.isSymbolicFont = !!(properties.flags & FontFlags.Symbolic);
+     this.isMonospace = !!(properties.flags & FontFlags.FixedPitch);
+     var type = properties.type;
+     var subtype = properties.subtype;
+     this.type = type;
+     this.fallbackName = this.isMonospace ? 'monospace' : this.isSerifFont ? 'serif' : 'sans-serif';
+     this.differences = properties.differences;
+     this.widths = properties.widths;
+     this.defaultWidth = properties.defaultWidth;
+     this.composite = properties.composite;
+     this.wideChars = properties.wideChars;
+     this.cMap = properties.cMap;
+     this.ascent = properties.ascent / PDF_GLYPH_SPACE_UNITS;
+     this.descent = properties.descent / PDF_GLYPH_SPACE_UNITS;
+     this.fontMatrix = properties.fontMatrix;
+     this.bbox = properties.bbox;
+     this.toUnicode = properties.toUnicode;
+     this.toFontChar = [];
+     if (properties.type === 'Type3') {
+      for (charCode = 0; charCode < 256; charCode++) {
+       this.toFontChar[charCode] = this.differences[charCode] || properties.defaultEncoding[charCode];
+      }
+      this.fontType = FontType.TYPE3;
+      return;
+     }
+     this.cidEncoding = properties.cidEncoding;
+     this.vertical = properties.vertical;
+     if (this.vertical) {
+      this.vmetrics = properties.vmetrics;
+      this.defaultVMetrics = properties.defaultVMetrics;
+     }
+     var glyphsUnicodeMap;
+     if (!file || file.isEmpty) {
+      if (file) {
+       warn('Font file is empty in "' + name + '" (' + this.loadedName + ')');
+      }
+      this.missingFile = true;
+      var fontName = name.replace(/[,_]/g, '-');
+      var stdFontMap = getStdFontMap(), nonStdFontMap = getNonStdFontMap();
+      var isStandardFont = !!stdFontMap[fontName] || !!(nonStdFontMap[fontName] && stdFontMap[nonStdFontMap[fontName]]);
+      fontName = stdFontMap[fontName] || nonStdFontMap[fontName] || fontName;
+      this.bold = fontName.search(/bold/gi) !== -1;
+      this.italic = fontName.search(/oblique/gi) !== -1 || fontName.search(/italic/gi) !== -1;
+      this.black = name.search(/Black/g) !== -1;
+      this.remeasure = Object.keys(this.widths).length > 0;
+      if (isStandardFont && type === 'CIDFontType2' && properties.cidEncoding.indexOf('Identity-') === 0) {
+       var GlyphMapForStandardFonts = getGlyphMapForStandardFonts();
+       var map = [];
+       for (charCode in GlyphMapForStandardFonts) {
+        map[+charCode] = GlyphMapForStandardFonts[charCode];
+       }
+       if (/Arial-?Black/i.test(name)) {
+        var SupplementalGlyphMapForArialBlack = getSupplementalGlyphMapForArialBlack();
+        for (charCode in SupplementalGlyphMapForArialBlack) {
+         map[+charCode] = SupplementalGlyphMapForArialBlack[charCode];
+        }
+       }
+       var isIdentityUnicode = this.toUnicode instanceof IdentityToUnicodeMap;
+       if (!isIdentityUnicode) {
+        this.toUnicode.forEach(function (charCode, unicodeCharCode) {
+         map[+charCode] = unicodeCharCode;
+        });
+       }
+       this.toFontChar = map;
+       this.toUnicode = new ToUnicodeMap(map);
+      } else if (/Symbol/i.test(fontName)) {
+       this.toFontChar = buildToFontChar(SymbolSetEncoding, getGlyphsUnicode(), properties.differences);
+      } else if (/Dingbats/i.test(fontName)) {
+       if (/Wingdings/i.test(name)) {
+        warn('Non-embedded Wingdings font, falling back to ZapfDingbats.');
+       }
+       this.toFontChar = buildToFontChar(ZapfDingbatsEncoding, getDingbatsGlyphsUnicode(), properties.differences);
+      } else if (isStandardFont) {
+       this.toFontChar = buildToFontChar(properties.defaultEncoding, getGlyphsUnicode(), properties.differences);
+      } else {
+       glyphsUnicodeMap = getGlyphsUnicode();
+       this.toUnicode.forEach(function (charCode, unicodeCharCode) {
+        if (!this.composite) {
+         glyphName = properties.differences[charCode] || properties.defaultEncoding[charCode];
+         unicode = getUnicodeForGlyph(glyphName, glyphsUnicodeMap);
+         if (unicode !== -1) {
+          unicodeCharCode = unicode;
+         }
+        }
+        this.toFontChar[charCode] = unicodeCharCode;
+       }.bind(this));
+      }
+      this.loadedName = fontName.split('-')[0];
+      this.loading = false;
+      this.fontType = getFontType(type, subtype);
+      return;
+     }
+     if (subtype === 'Type1C') {
+      if (type !== 'Type1' && type !== 'MMType1') {
+       if (isTrueTypeFile(file)) {
+        subtype = 'TrueType';
+       } else {
+        type = 'Type1';
+       }
+      } else if (isOpenTypeFile(file)) {
+       type = subtype = 'OpenType';
+      }
+     }
+     if (subtype === 'CIDFontType0C' && type !== 'CIDFontType0') {
+      type = 'CIDFontType0';
+     }
+     if (subtype === 'OpenType') {
+      type = 'OpenType';
+     }
+     if (type === 'CIDFontType0') {
+      if (isType1File(file)) {
+       subtype = 'CIDFontType0';
+      } else if (isOpenTypeFile(file)) {
+       type = subtype = 'OpenType';
+      } else {
+       subtype = 'CIDFontType0C';
+      }
+     }
+     var data;
+     switch (type) {
+     case 'MMType1':
+      info('MMType1 font (' + name + '), falling back to Type1.');
+     case 'Type1':
+     case 'CIDFontType0':
+      this.mimetype = 'font/opentype';
+      var cff = subtype === 'Type1C' || subtype === 'CIDFontType0C' ? new CFFFont(file, properties) : new Type1Font(name, file, properties);
+      adjustWidths(properties);
+      data = this.convert(name, cff, properties);
+      break;
+     case 'OpenType':
+     case 'TrueType':
+     case 'CIDFontType2':
+      this.mimetype = 'font/opentype';
+      data = this.checkAndRepair(name, file, properties);
+      if (this.isOpenType) {
+       adjustWidths(properties);
+       type = 'OpenType';
+      }
+      break;
+     default:
+      error('Font ' + type + ' is not supported');
+      break;
+     }
+     this.data = data;
+     this.fontType = getFontType(type, subtype);
+     this.fontMatrix = properties.fontMatrix;
+     this.widths = properties.widths;
+     this.defaultWidth = properties.defaultWidth;
+     this.toUnicode = properties.toUnicode;
+     this.encoding = properties.baseEncoding;
+     this.seacMap = properties.seacMap;
+     this.loading = true;
+    }
+    Font.getFontID = function () {
+     var ID = 1;
+     return function Font_getFontID() {
+      return String(ID++);
+     };
+    }();
+    function int16(b0, b1) {
+     return (b0 << 8) + b1;
+    }
+    function signedInt16(b0, b1) {
+     var value = (b0 << 8) + b1;
+     return value & 1 << 15 ? value - 0x10000 : value;
+    }
+    function int32(b0, b1, b2, b3) {
+     return (b0 << 24) + (b1 << 16) + (b2 << 8) + b3;
+    }
+    function string16(value) {
+     return String.fromCharCode(value >> 8 & 0xff, value & 0xff);
+    }
+    function safeString16(value) {
+     value = value > 0x7FFF ? 0x7FFF : value < -0x8000 ? -0x8000 : value;
+     return String.fromCharCode(value >> 8 & 0xff, value & 0xff);
+    }
+    function isTrueTypeFile(file) {
+     var header = file.peekBytes(4);
+     return readUint32(header, 0) === 0x00010000;
+    }
+    function isOpenTypeFile(file) {
+     var header = file.peekBytes(4);
+     return bytesToString(header) === 'OTTO';
+    }
+    function isType1File(file) {
+     var header = file.peekBytes(2);
+     if (header[0] === 0x25 && header[1] === 0x21) {
+      return true;
+     }
+     if (header[0] === 0x80 && header[1] === 0x01) {
+      return true;
+     }
+     return false;
+    }
+    function buildToFontChar(encoding, glyphsUnicodeMap, differences) {
+     var toFontChar = [], unicode;
+     for (var i = 0, ii = encoding.length; i < ii; i++) {
+      unicode = getUnicodeForGlyph(encoding[i], glyphsUnicodeMap);
+      if (unicode !== -1) {
+       toFontChar[i] = unicode;
+      }
+     }
+     for (var charCode in differences) {
+      unicode = getUnicodeForGlyph(differences[charCode], glyphsUnicodeMap);
+      if (unicode !== -1) {
+       toFontChar[+charCode] = unicode;
+      }
+     }
+     return toFontChar;
+    }
+    function isProblematicUnicodeLocation(code) {
+     var i = 0, j = ProblematicCharRanges.length - 1;
+     while (i < j) {
+      var c = i + j + 1 >> 1;
+      if (code < ProblematicCharRanges[c]) {
+       j = c - 1;
+      } else {
+       i = c;
+      }
+     }
+     return !(i & 1);
+    }
+    function adjustMapping(charCodeToGlyphId, properties) {
+     var toUnicode = properties.toUnicode;
+     var isSymbolic = !!(properties.flags & FontFlags.Symbolic);
+     var isIdentityUnicode = properties.toUnicode instanceof IdentityToUnicodeMap;
+     var newMap = Object.create(null);
+     var toFontChar = [];
+     var usedFontCharCodes = [];
+     var nextAvailableFontCharCode = PRIVATE_USE_OFFSET_START;
+     for (var originalCharCode in charCodeToGlyphId) {
+      originalCharCode |= 0;
+      var glyphId = charCodeToGlyphId[originalCharCode];
+      var fontCharCode = originalCharCode;
+      var hasUnicodeValue = false;
+      if (!isIdentityUnicode && toUnicode.has(originalCharCode)) {
+       hasUnicodeValue = true;
+       var unicode = toUnicode.get(fontCharCode);
+       if (unicode.length === 1) {
+        fontCharCode = unicode.charCodeAt(0);
+       }
+      }
+      if ((usedFontCharCodes[fontCharCode] !== undefined || isProblematicUnicodeLocation(fontCharCode) || isSymbolic && !hasUnicodeValue) && nextAvailableFontCharCode <= PRIVATE_USE_OFFSET_END) {
+       do {
+        fontCharCode = nextAvailableFontCharCode++;
+        if (SKIP_PRIVATE_USE_RANGE_F000_TO_F01F && fontCharCode === 0xF000) {
+         fontCharCode = 0xF020;
+         nextAvailableFontCharCode = fontCharCode + 1;
+        }
+       } while (usedFontCharCodes[fontCharCode] !== undefined && nextAvailableFontCharCode <= PRIVATE_USE_OFFSET_END);
+      }
+      newMap[fontCharCode] = glyphId;
+      toFontChar[originalCharCode] = fontCharCode;
+      usedFontCharCodes[fontCharCode] = true;
+     }
+     return {
+      toFontChar: toFontChar,
+      charCodeToGlyphId: newMap,
+      nextAvailableFontCharCode: nextAvailableFontCharCode
+     };
+    }
+    function getRanges(glyphs, numGlyphs) {
+     var codes = [];
+     for (var charCode in glyphs) {
+      if (glyphs[charCode] >= numGlyphs) {
+       continue;
+      }
+      codes.push({
+       fontCharCode: charCode | 0,
+       glyphId: glyphs[charCode]
+      });
+     }
+     codes.sort(function fontGetRangesSort(a, b) {
+      return a.fontCharCode - b.fontCharCode;
+     });
+     var ranges = [];
+     var length = codes.length;
+     for (var n = 0; n < length;) {
+      var start = codes[n].fontCharCode;
+      var codeIndices = [codes[n].glyphId];
+      ++n;
+      var end = start;
+      while (n < length && end + 1 === codes[n].fontCharCode) {
+       codeIndices.push(codes[n].glyphId);
+       ++end;
+       ++n;
+       if (end === 0xFFFF) {
+        break;
+       }
+      }
+      ranges.push([
+       start,
+       end,
+       codeIndices
+      ]);
+     }
+     return ranges;
+    }
+    function createCmapTable(glyphs, numGlyphs) {
+     var ranges = getRanges(glyphs, numGlyphs);
+     var numTables = ranges[ranges.length - 1][1] > 0xFFFF ? 2 : 1;
+     var cmap = '\x00\x00' + string16(numTables) + '\x00\x03' + '\x00\x01' + string32(4 + numTables * 8);
+     var i, ii, j, jj;
+     for (i = ranges.length - 1; i >= 0; --i) {
+      if (ranges[i][0] <= 0xFFFF) {
+       break;
+      }
+     }
+     var bmpLength = i + 1;
+     if (ranges[i][0] < 0xFFFF && ranges[i][1] === 0xFFFF) {
+      ranges[i][1] = 0xFFFE;
+     }
+     var trailingRangesCount = ranges[i][1] < 0xFFFF ? 1 : 0;
+     var segCount = bmpLength + trailingRangesCount;
+     var searchParams = OpenTypeFileBuilder.getSearchParams(segCount, 2);
+     var startCount = '';
+     var endCount = '';
+     var idDeltas = '';
+     var idRangeOffsets = '';
+     var glyphsIds = '';
+     var bias = 0;
+     var range, start, end, codes;
+     for (i = 0, ii = bmpLength; i < ii; i++) {
+      range = ranges[i];
+      start = range[0];
+      end = range[1];
+      startCount += string16(start);
+      endCount += string16(end);
+      codes = range[2];
+      var contiguous = true;
+      for (j = 1, jj = codes.length; j < jj; ++j) {
+       if (codes[j] !== codes[j - 1] + 1) {
+        contiguous = false;
+        break;
+       }
+      }
+      if (!contiguous) {
+       var offset = (segCount - i) * 2 + bias * 2;
+       bias += end - start + 1;
+       idDeltas += string16(0);
+       idRangeOffsets += string16(offset);
+       for (j = 0, jj = codes.length; j < jj; ++j) {
+        glyphsIds += string16(codes[j]);
+       }
+      } else {
+       var startCode = codes[0];
+       idDeltas += string16(startCode - start & 0xFFFF);
+       idRangeOffsets += string16(0);
+      }
+     }
+     if (trailingRangesCount > 0) {
+      endCount += '\xFF\xFF';
+      startCount += '\xFF\xFF';
+      idDeltas += '\x00\x01';
+      idRangeOffsets += '\x00\x00';
+     }
+     var format314 = '\x00\x00' + string16(2 * segCount) + string16(searchParams.range) + string16(searchParams.entry) + string16(searchParams.rangeShift) + endCount + '\x00\x00' + startCount + idDeltas + idRangeOffsets + glyphsIds;
+     var format31012 = '';
+     var header31012 = '';
+     if (numTables > 1) {
+      cmap += '\x00\x03' + '\x00\x0A' + string32(4 + numTables * 8 + 4 + format314.length);
+      format31012 = '';
+      for (i = 0, ii = ranges.length; i < ii; i++) {
+       range = ranges[i];
+       start = range[0];
+       codes = range[2];
+       var code = codes[0];
+       for (j = 1, jj = codes.length; j < jj; ++j) {
+        if (codes[j] !== codes[j - 1] + 1) {
+         end = range[0] + j - 1;
+         format31012 += string32(start) + string32(end) + string32(code);
+         start = end + 1;
+         code = codes[j];
+        }
+       }
+       format31012 += string32(start) + string32(range[1]) + string32(code);
+      }
+      header31012 = '\x00\x0C' + '\x00\x00' + string32(format31012.length + 16) + '\x00\x00\x00\x00' + string32(format31012.length / 12);
+     }
+     return cmap + '\x00\x04' + string16(format314.length + 4) + format314 + header31012 + format31012;
+    }
+    function validateOS2Table(os2) {
+     var stream = new Stream(os2.data);
+     var version = stream.getUint16();
+     stream.getBytes(60);
+     var selection = stream.getUint16();
+     if (version < 4 && selection & 0x0300) {
+      return false;
+     }
+     var firstChar = stream.getUint16();
+     var lastChar = stream.getUint16();
+     if (firstChar > lastChar) {
+      return false;
+     }
+     stream.getBytes(6);
+     var usWinAscent = stream.getUint16();
+     if (usWinAscent === 0) {
+      return false;
+     }
+     os2.data[8] = os2.data[9] = 0;
+     return true;
+    }
+    function createOS2Table(properties, charstrings, override) {
+     override = override || {
+      unitsPerEm: 0,
+      yMax: 0,
+      yMin: 0,
+      ascent: 0,
+      descent: 0
+     };
+     var ulUnicodeRange1 = 0;
+     var ulUnicodeRange2 = 0;
+     var ulUnicodeRange3 = 0;
+     var ulUnicodeRange4 = 0;
+     var firstCharIndex = null;
+     var lastCharIndex = 0;
+     if (charstrings) {
+      for (var code in charstrings) {
+       code |= 0;
+       if (firstCharIndex > code || !firstCharIndex) {
+        firstCharIndex = code;
+       }
+       if (lastCharIndex < code) {
+        lastCharIndex = code;
+       }
+       var position = getUnicodeRangeFor(code);
+       if (position < 32) {
+        ulUnicodeRange1 |= 1 << position;
+       } else if (position < 64) {
+        ulUnicodeRange2 |= 1 << position - 32;
+       } else if (position < 96) {
+        ulUnicodeRange3 |= 1 << position - 64;
+       } else if (position < 123) {
+        ulUnicodeRange4 |= 1 << position - 96;
+       } else {
+        error('Unicode ranges Bits > 123 are reserved for internal usage');
+       }
+      }
+     } else {
+      firstCharIndex = 0;
+      lastCharIndex = 255;
+     }
+     var bbox = properties.bbox || [
+      0,
+      0,
+      0,
+      0
+     ];
+     var unitsPerEm = override.unitsPerEm || 1 / (properties.fontMatrix || FONT_IDENTITY_MATRIX)[0];
+     var scale = properties.ascentScaled ? 1.0 : unitsPerEm / PDF_GLYPH_SPACE_UNITS;
+     var typoAscent = override.ascent || Math.round(scale * (properties.ascent || bbox[3]));
+     var typoDescent = override.descent || Math.round(scale * (properties.descent || bbox[1]));
+     if (typoDescent > 0 && properties.descent > 0 && bbox[1] < 0) {
+      typoDescent = -typoDescent;
+     }
+     var winAscent = override.yMax || typoAscent;
+     var winDescent = -override.yMin || -typoDescent;
+     return '\x00\x03' + '\x02\x24' + '\x01\xF4' + '\x00\x05' + '\x00\x00' + '\x02\x8A' + '\x02\xBB' + '\x00\x00' + '\x00\x8C' + '\x02\x8A' + '\x02\xBB' + '\x00\x00' + '\x01\xDF' + '\x00\x31' + '\x01\x02' + '\x00\x00' + '\x00\x00\x06' + String.fromCharCode(properties.fixedPitch ? 0x09 : 0x00) + '\x00\x00\x00\x00\x00\x00' + string32(ulUnicodeRange1) + string32(ulUnicodeRange2) + string32(ulUnicodeRange3) + string32(ulUnicodeRange4) + '\x2A\x32\x31\x2A' + string16(properties.italicAngle ? 1 : 0) + string16(firstCharIndex || properties.firstChar) + string16(lastCharIndex || properties.lastChar) + string16(typoAscent) + string16(typoDescent) + '\x00\x64' + string16(winAscent) + string16(winDescent) + '\x00\x00\x00\x00' + '\x00\x00\x00\x00' + string16(properties.xHeight) + string16(properties.capHeight) + string16(0) + string16(firstCharIndex || properties.firstChar) + '\x00\x03';
+    }
+    function createPostTable(properties) {
+     var angle = Math.floor(properties.italicAngle * Math.pow(2, 16));
+     return '\x00\x03\x00\x00' + string32(angle) + '\x00\x00' + '\x00\x00' + string32(properties.fixedPitch) + '\x00\x00\x00\x00' + '\x00\x00\x00\x00' + '\x00\x00\x00\x00' + '\x00\x00\x00\x00';
+    }
+    function createNameTable(name, proto) {
+     if (!proto) {
+      proto = [
+       [],
+       []
+      ];
+     }
+     var strings = [
+      proto[0][0] || 'Original licence',
+      proto[0][1] || name,
+      proto[0][2] || 'Unknown',
+      proto[0][3] || 'uniqueID',
+      proto[0][4] || name,
+      proto[0][5] || 'Version 0.11',
+      proto[0][6] || '',
+      proto[0][7] || 'Unknown',
+      proto[0][8] || 'Unknown',
+      proto[0][9] || 'Unknown'
+     ];
+     var stringsUnicode = [];
+     var i, ii, j, jj, str;
+     for (i = 0, ii = strings.length; i < ii; i++) {
+      str = proto[1][i] || strings[i];
+      var strBufUnicode = [];
+      for (j = 0, jj = str.length; j < jj; j++) {
+       strBufUnicode.push(string16(str.charCodeAt(j)));
+      }
+      stringsUnicode.push(strBufUnicode.join(''));
+     }
+     var names = [
+      strings,
+      stringsUnicode
+     ];
+     var platforms = [
+      '\x00\x01',
+      '\x00\x03'
+     ];
+     var encodings = [
+      '\x00\x00',
+      '\x00\x01'
+     ];
+     var languages = [
+      '\x00\x00',
+      '\x04\x09'
+     ];
+     var namesRecordCount = strings.length * platforms.length;
+     var nameTable = '\x00\x00' + string16(namesRecordCount) + string16(namesRecordCount * 12 + 6);
+     var strOffset = 0;
+     for (i = 0, ii = platforms.length; i < ii; i++) {
+      var strs = names[i];
+      for (j = 0, jj = strs.length; j < jj; j++) {
+       str = strs[j];
+       var nameRecord = platforms[i] + encodings[i] + languages[i] + string16(j) + string16(str.length) + string16(strOffset);
+       nameTable += nameRecord;
+       strOffset += str.length;
+      }
+     }
+     nameTable += strings.join('') + stringsUnicode.join('');
+     return nameTable;
+    }
+    Font.prototype = {
+     name: null,
+     font: null,
+     mimetype: null,
+     encoding: null,
+     get renderer() {
+      var renderer = FontRendererFactory.create(this, SEAC_ANALYSIS_ENABLED);
+      return shadow(this, 'renderer', renderer);
+     },
+     exportData: function Font_exportData() {
+      var data = {};
+      for (var i in this) {
+       if (this.hasOwnProperty(i)) {
+        data[i] = this[i];
+       }
+      }
+      return data;
+     },
+     checkAndRepair: function Font_checkAndRepair(name, font, properties) {
+      function readTableEntry(file) {
+       var tag = bytesToString(file.getBytes(4));
+       var checksum = file.getInt32() >>> 0;
+       var offset = file.getInt32() >>> 0;
+       var length = file.getInt32() >>> 0;
+       var previousPosition = file.pos;
+       file.pos = file.start ? file.start : 0;
+       file.skip(offset);
+       var data = file.getBytes(length);
+       file.pos = previousPosition;
+       if (tag === 'head') {
+        data[8] = data[9] = data[10] = data[11] = 0;
+        data[17] |= 0x20;
+       }
+       return {
+        tag: tag,
+        checksum: checksum,
+        length: length,
+        offset: offset,
+        data: data
+       };
+      }
+      function readOpenTypeHeader(ttf) {
+       return {
+        version: bytesToString(ttf.getBytes(4)),
+        numTables: ttf.getUint16(),
+        searchRange: ttf.getUint16(),
+        entrySelector: ttf.getUint16(),
+        rangeShift: ttf.getUint16()
+       };
+      }
+      function readCmapTable(cmap, font, isSymbolicFont, hasEncoding) {
+       if (!cmap) {
+        warn('No cmap table available.');
+        return {
+         platformId: -1,
+         encodingId: -1,
+         mappings: [],
+         hasShortCmap: false
+        };
+       }
+       var segment;
+       var start = (font.start ? font.start : 0) + cmap.offset;
+       font.pos = start;
+       font.getUint16();
+       var numTables = font.getUint16();
+       var potentialTable;
+       var canBreak = false;
+       for (var i = 0; i < numTables; i++) {
+        var platformId = font.getUint16();
+        var encodingId = font.getUint16();
+        var offset = font.getInt32() >>> 0;
+        var useTable = false;
+        if (platformId === 0 && encodingId === 0) {
+         useTable = true;
+        } else if (platformId === 1 && encodingId === 0) {
+         useTable = true;
+        } else if (platformId === 3 && encodingId === 1 && (!isSymbolicFont && hasEncoding || !potentialTable)) {
+         useTable = true;
+         if (!isSymbolicFont) {
+          canBreak = true;
+         }
+        } else if (isSymbolicFont && platformId === 3 && encodingId === 0) {
+         useTable = true;
+         canBreak = true;
+        }
+        if (useTable) {
+         potentialTable = {
+          platformId: platformId,
+          encodingId: encodingId,
+          offset: offset
+         };
+        }
+        if (canBreak) {
+         break;
+        }
+       }
+       if (potentialTable) {
+        font.pos = start + potentialTable.offset;
+       }
+       if (!potentialTable || font.peekByte() === -1) {
+        warn('Could not find a preferred cmap table.');
+        return {
+         platformId: -1,
+         encodingId: -1,
+         mappings: [],
+         hasShortCmap: false
+        };
+       }
+       var format = font.getUint16();
+       font.getUint16();
+       font.getUint16();
+       var hasShortCmap = false;
+       var mappings = [];
+       var j, glyphId;
+       if (format === 0) {
+        for (j = 0; j < 256; j++) {
+         var index = font.getByte();
+         if (!index) {
+          continue;
+         }
+         mappings.push({
+          charCode: j,
+          glyphId: index
+         });
+        }
+        hasShortCmap = true;
+       } else if (format === 4) {
+        var segCount = font.getUint16() >> 1;
+        font.getBytes(6);
+        var segIndex, segments = [];
+        for (segIndex = 0; segIndex < segCount; segIndex++) {
+         segments.push({ end: font.getUint16() });
+        }
+        font.getUint16();
+        for (segIndex = 0; segIndex < segCount; segIndex++) {
+         segments[segIndex].start = font.getUint16();
+        }
+        for (segIndex = 0; segIndex < segCount; segIndex++) {
+         segments[segIndex].delta = font.getUint16();
+        }
+        var offsetsCount = 0;
+        for (segIndex = 0; segIndex < segCount; segIndex++) {
+         segment = segments[segIndex];
+         var rangeOffset = font.getUint16();
+         if (!rangeOffset) {
+          segment.offsetIndex = -1;
+          continue;
+         }
+         var offsetIndex = (rangeOffset >> 1) - (segCount - segIndex);
+         segment.offsetIndex = offsetIndex;
+         offsetsCount = Math.max(offsetsCount, offsetIndex + segment.end - segment.start + 1);
+        }
+        var offsets = [];
+        for (j = 0; j < offsetsCount; j++) {
+         offsets.push(font.getUint16());
+        }
+        for (segIndex = 0; segIndex < segCount; segIndex++) {
+         segment = segments[segIndex];
+         start = segment.start;
+         var end = segment.end;
+         var delta = segment.delta;
+         offsetIndex = segment.offsetIndex;
+         for (j = start; j <= end; j++) {
+          if (j === 0xFFFF) {
+           continue;
+          }
+          glyphId = offsetIndex < 0 ? j : offsets[offsetIndex + j - start];
+          glyphId = glyphId + delta & 0xFFFF;
+          if (glyphId === 0) {
+           continue;
+          }
+          mappings.push({
+           charCode: j,
+           glyphId: glyphId
+          });
+         }
+        }
+       } else if (format === 6) {
+        var firstCode = font.getUint16();
+        var entryCount = font.getUint16();
+        for (j = 0; j < entryCount; j++) {
+         glyphId = font.getUint16();
+         var charCode = firstCode + j;
+         mappings.push({
+          charCode: charCode,
+          glyphId: glyphId
+         });
+        }
+       } else {
+        warn('cmap table has unsupported format: ' + format);
+        return {
+         platformId: -1,
+         encodingId: -1,
+         mappings: [],
+         hasShortCmap: false
+        };
+       }
+       mappings.sort(function (a, b) {
+        return a.charCode - b.charCode;
+       });
+       for (i = 1; i < mappings.length; i++) {
+        if (mappings[i - 1].charCode === mappings[i].charCode) {
+         mappings.splice(i, 1);
+         i--;
+        }
+       }
+       return {
+        platformId: potentialTable.platformId,
+        encodingId: potentialTable.encodingId,
+        mappings: mappings,
+        hasShortCmap: hasShortCmap
+       };
+      }
+      function sanitizeMetrics(font, header, metrics, numGlyphs) {
+       if (!header) {
+        if (metrics) {
+         metrics.data = null;
+        }
+        return;
+       }
+       font.pos = (font.start ? font.start : 0) + header.offset;
+       font.pos += header.length - 2;
+       var numOfMetrics = font.getUint16();
+       if (numOfMetrics > numGlyphs) {
+        info('The numOfMetrics (' + numOfMetrics + ') should not be ' + 'greater than the numGlyphs (' + numGlyphs + ')');
+        numOfMetrics = numGlyphs;
+        header.data[34] = (numOfMetrics & 0xff00) >> 8;
+        header.data[35] = numOfMetrics & 0x00ff;
+       }
+       var numOfSidebearings = numGlyphs - numOfMetrics;
+       var numMissing = numOfSidebearings - (metrics.length - numOfMetrics * 4 >> 1);
+       if (numMissing > 0) {
+        var entries = new Uint8Array(metrics.length + numMissing * 2);
+        entries.set(metrics.data);
+        metrics.data = entries;
+       }
+      }
+      function sanitizeGlyph(source, sourceStart, sourceEnd, dest, destStart, hintsValid) {
+       if (sourceEnd - sourceStart <= 12) {
+        return 0;
+       }
+       var glyf = source.subarray(sourceStart, sourceEnd);
+       var contoursCount = glyf[0] << 8 | glyf[1];
+       if (contoursCount & 0x8000) {
+        dest.set(glyf, destStart);
+        return glyf.length;
+       }
+       var i, j = 10, flagsCount = 0;
+       for (i = 0; i < contoursCount; i++) {
+        var endPoint = glyf[j] << 8 | glyf[j + 1];
+        flagsCount = endPoint + 1;
+        j += 2;
+       }
+       var instructionsStart = j;
+       var instructionsLength = glyf[j] << 8 | glyf[j + 1];
+       j += 2 + instructionsLength;
+       var instructionsEnd = j;
+       var coordinatesLength = 0;
+       for (i = 0; i < flagsCount; i++) {
+        var flag = glyf[j++];
+        if (flag & 0xC0) {
+         glyf[j - 1] = flag & 0x3F;
+        }
+        var xyLength = (flag & 2 ? 1 : flag & 16 ? 0 : 2) + (flag & 4 ? 1 : flag & 32 ? 0 : 2);
+        coordinatesLength += xyLength;
+        if (flag & 8) {
+         var repeat = glyf[j++];
+         i += repeat;
+         coordinatesLength += repeat * xyLength;
+        }
+       }
+       if (coordinatesLength === 0) {
+        return 0;
+       }
+       var glyphDataLength = j + coordinatesLength;
+       if (glyphDataLength > glyf.length) {
+        return 0;
+       }
+       if (!hintsValid && instructionsLength > 0) {
+        dest.set(glyf.subarray(0, instructionsStart), destStart);
+        dest.set([
+         0,
+         0
+        ], destStart + instructionsStart);
+        dest.set(glyf.subarray(instructionsEnd, glyphDataLength), destStart + instructionsStart + 2);
+        glyphDataLength -= instructionsLength;
+        if (glyf.length - glyphDataLength > 3) {
+         glyphDataLength = glyphDataLength + 3 & ~3;
+        }
+        return glyphDataLength;
+       }
+       if (glyf.length - glyphDataLength > 3) {
+        glyphDataLength = glyphDataLength + 3 & ~3;
+        dest.set(glyf.subarray(0, glyphDataLength), destStart);
+        return glyphDataLength;
+       }
+       dest.set(glyf, destStart);
+       return glyf.length;
+      }
+      function sanitizeHead(head, numGlyphs, locaLength) {
+       var data = head.data;
+       var version = int32(data[0], data[1], data[2], data[3]);
+       if (version >> 16 !== 1) {
+        info('Attempting to fix invalid version in head table: ' + version);
+        data[0] = 0;
+        data[1] = 1;
+        data[2] = 0;
+        data[3] = 0;
+       }
+       var indexToLocFormat = int16(data[50], data[51]);
+       if (indexToLocFormat < 0 || indexToLocFormat > 1) {
+        info('Attempting to fix invalid indexToLocFormat in head table: ' + indexToLocFormat);
+        var numGlyphsPlusOne = numGlyphs + 1;
+        if (locaLength === numGlyphsPlusOne << 1) {
+         data[50] = 0;
+         data[51] = 0;
+        } else if (locaLength === numGlyphsPlusOne << 2) {
+         data[50] = 0;
+         data[51] = 1;
+        } else {
+         warn('Could not fix indexToLocFormat: ' + indexToLocFormat);
+        }
+       }
+      }
+      function sanitizeGlyphLocations(loca, glyf, numGlyphs, isGlyphLocationsLong, hintsValid, dupFirstEntry) {
+       var itemSize, itemDecode, itemEncode;
+       if (isGlyphLocationsLong) {
+        itemSize = 4;
+        itemDecode = function fontItemDecodeLong(data, offset) {
+         return data[offset] << 24 | data[offset + 1] << 16 | data[offset + 2] << 8 | data[offset + 3];
+        };
+        itemEncode = function fontItemEncodeLong(data, offset, value) {
+         data[offset] = value >>> 24 & 0xFF;
+         data[offset + 1] = value >> 16 & 0xFF;
+         data[offset + 2] = value >> 8 & 0xFF;
+         data[offset + 3] = value & 0xFF;
+        };
+       } else {
+        itemSize = 2;
+        itemDecode = function fontItemDecode(data, offset) {
+         return data[offset] << 9 | data[offset + 1] << 1;
+        };
+        itemEncode = function fontItemEncode(data, offset, value) {
+         data[offset] = value >> 9 & 0xFF;
+         data[offset + 1] = value >> 1 & 0xFF;
+        };
+       }
+       var locaData = loca.data;
+       var locaDataSize = itemSize * (1 + numGlyphs);
+       if (locaData.length !== locaDataSize) {
+        locaData = new Uint8Array(locaDataSize);
+        locaData.set(loca.data.subarray(0, locaDataSize));
+        loca.data = locaData;
+       }
+       var oldGlyfData = glyf.data;
+       var oldGlyfDataLength = oldGlyfData.length;
+       var newGlyfData = new Uint8Array(oldGlyfDataLength);
+       var startOffset = itemDecode(locaData, 0);
+       var writeOffset = 0;
+       var missingGlyphData = Object.create(null);
+       itemEncode(locaData, 0, writeOffset);
+       var i, j;
+       for (i = 0, j = itemSize; i < numGlyphs; i++, j += itemSize) {
+        var endOffset = itemDecode(locaData, j);
+        if (endOffset > oldGlyfDataLength && (oldGlyfDataLength + 3 & ~3) === endOffset) {
+         endOffset = oldGlyfDataLength;
+        }
+        if (endOffset > oldGlyfDataLength) {
+         itemEncode(locaData, j, writeOffset);
+         startOffset = endOffset;
+         continue;
+        }
+        if (startOffset === endOffset) {
+         missingGlyphData[i] = true;
+        }
+        var newLength = sanitizeGlyph(oldGlyfData, startOffset, endOffset, newGlyfData, writeOffset, hintsValid);
+        writeOffset += newLength;
+        itemEncode(locaData, j, writeOffset);
+        startOffset = endOffset;
+       }
+       if (writeOffset === 0) {
+        var simpleGlyph = new Uint8Array([
+         0,
+         1,
+         0,
+         0,
+         0,
+         0,
+         0,
+         0,
+         0,
+         0,
+         0,
+         0,
+         0,
+         0,
+         49,
+         0
+        ]);
+        for (i = 0, j = itemSize; i < numGlyphs; i++, j += itemSize) {
+         itemEncode(locaData, j, simpleGlyph.length);
+        }
+        glyf.data = simpleGlyph;
+        return missingGlyphData;
+       }
+       if (dupFirstEntry) {
+        var firstEntryLength = itemDecode(locaData, itemSize);
+        if (newGlyfData.length > firstEntryLength + writeOffset) {
+         glyf.data = newGlyfData.subarray(0, firstEntryLength + writeOffset);
+        } else {
+         glyf.data = new Uint8Array(firstEntryLength + writeOffset);
+         glyf.data.set(newGlyfData.subarray(0, writeOffset));
+        }
+        glyf.data.set(newGlyfData.subarray(0, firstEntryLength), writeOffset);
+        itemEncode(loca.data, locaData.length - itemSize, writeOffset + firstEntryLength);
+       } else {
+        glyf.data = newGlyfData.subarray(0, writeOffset);
+       }
+       return missingGlyphData;
+      }
+      function readPostScriptTable(post, properties, maxpNumGlyphs) {
+       var start = (font.start ? font.start : 0) + post.offset;
+       font.pos = start;
+       var length = post.length, end = start + length;
+       var version = font.getInt32();
+       font.getBytes(28);
+       var glyphNames;
+       var valid = true;
+       var i;
+       switch (version) {
+       case 0x00010000:
+        glyphNames = MacStandardGlyphOrdering;
+        break;
+       case 0x00020000:
+        var numGlyphs = font.getUint16();
+        if (numGlyphs !== maxpNumGlyphs) {
+         valid = false;
+         break;
+        }
+        var glyphNameIndexes = [];
+        for (i = 0; i < numGlyphs; ++i) {
+         var index = font.getUint16();
+         if (index >= 32768) {
+          valid = false;
+          break;
+         }
+         glyphNameIndexes.push(index);
+        }
+        if (!valid) {
+         break;
+        }
+        var customNames = [];
+        var strBuf = [];
+        while (font.pos < end) {
+         var stringLength = font.getByte();
+         strBuf.length = stringLength;
+         for (i = 0; i < stringLength; ++i) {
+          strBuf[i] = String.fromCharCode(font.getByte());
+         }
+         customNames.push(strBuf.join(''));
+        }
+        glyphNames = [];
+        for (i = 0; i < numGlyphs; ++i) {
+         var j = glyphNameIndexes[i];
+         if (j < 258) {
+          glyphNames.push(MacStandardGlyphOrdering[j]);
+          continue;
+         }
+         glyphNames.push(customNames[j - 258]);
+        }
+        break;
+       case 0x00030000:
+        break;
+       default:
+        warn('Unknown/unsupported post table version ' + version);
+        valid = false;
+        if (properties.defaultEncoding) {
+         glyphNames = properties.defaultEncoding;
+        }
+        break;
+       }
+       properties.glyphNames = glyphNames;
+       return valid;
+      }
+      function readNameTable(nameTable) {
+       var start = (font.start ? font.start : 0) + nameTable.offset;
+       font.pos = start;
+       var names = [
+        [],
+        []
+       ];
+       var length = nameTable.length, end = start + length;
+       var format = font.getUint16();
+       var FORMAT_0_HEADER_LENGTH = 6;
+       if (format !== 0 || length < FORMAT_0_HEADER_LENGTH) {
+        return names;
+       }
+       var numRecords = font.getUint16();
+       var stringsStart = font.getUint16();
+       var records = [];
+       var NAME_RECORD_LENGTH = 12;
+       var i, ii;
+       for (i = 0; i < numRecords && font.pos + NAME_RECORD_LENGTH <= end; i++) {
+        var r = {
+         platform: font.getUint16(),
+         encoding: font.getUint16(),
+         language: font.getUint16(),
+         name: font.getUint16(),
+         length: font.getUint16(),
+         offset: font.getUint16()
+        };
+        if (r.platform === 1 && r.encoding === 0 && r.language === 0 || r.platform === 3 && r.encoding === 1 && r.language === 0x409) {
+         records.push(r);
+        }
+       }
+       for (i = 0, ii = records.length; i < ii; i++) {
+        var record = records[i];
+        if (record.length <= 0) {
+         continue;
+        }
+        var pos = start + stringsStart + record.offset;
+        if (pos + record.length > end) {
+         continue;
+        }
+        font.pos = pos;
+        var nameIndex = record.name;
+        if (record.encoding) {
+         var str = '';
+         for (var j = 0, jj = record.length; j < jj; j += 2) {
+          str += String.fromCharCode(font.getUint16());
+         }
+         names[1][nameIndex] = str;
+        } else {
+         names[0][nameIndex] = bytesToString(font.getBytes(record.length));
+        }
+       }
+       return names;
+      }
+      var TTOpsStackDeltas = [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       -2,
+       -2,
+       -2,
+       -2,
+       0,
+       0,
+       -2,
+       -5,
+       -1,
+       -1,
+       -1,
+       -1,
+       -1,
+       -1,
+       -1,
+       -1,
+       0,
+       0,
+       -1,
+       0,
+       -1,
+       -1,
+       -1,
+       -1,
+       1,
+       -1,
+       -999,
+       0,
+       1,
+       0,
+       -1,
+       -2,
+       0,
+       -1,
+       -2,
+       -1,
+       -1,
+       0,
+       -1,
+       -1,
+       0,
+       0,
+       -999,
+       -999,
+       -1,
+       -1,
+       -1,
+       -1,
+       -2,
+       -999,
+       -2,
+       -2,
+       -999,
+       0,
+       -2,
+       -2,
+       0,
+       0,
+       -2,
+       0,
+       -2,
+       0,
+       0,
+       0,
+       -2,
+       -1,
+       -1,
+       1,
+       1,
+       0,
+       0,
+       -1,
+       -1,
+       -1,
+       -1,
+       -1,
+       -1,
+       -1,
+       0,
+       0,
+       -1,
+       0,
+       -1,
+       -1,
+       0,
+       -999,
+       -1,
+       -1,
+       -1,
+       -1,
+       -1,
+       -1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       -2,
+       -999,
+       -999,
+       -999,
+       -999,
+       -999,
+       -1,
+       -1,
+       -2,
+       -2,
+       0,
+       0,
+       0,
+       0,
+       -1,
+       -1,
+       -999,
+       -2,
+       -2,
+       0,
+       0,
+       -1,
+       -2,
+       -2,
+       0,
+       0,
+       0,
+       -1,
+       -1,
+       -1,
+       -2
+      ];
+      function sanitizeTTProgram(table, ttContext) {
+       var data = table.data;
+       var i = 0, j, n, b, funcId, pc, lastEndf = 0, lastDeff = 0;
+       var stack = [];
+       var callstack = [];
+       var functionsCalled = [];
+       var tooComplexToFollowFunctions = ttContext.tooComplexToFollowFunctions;
+       var inFDEF = false, ifLevel = 0, inELSE = 0;
+       for (var ii = data.length; i < ii;) {
+        var op = data[i++];
+        if (op === 0x40) {
+         n = data[i++];
+         if (inFDEF || inELSE) {
+          i += n;
+         } else {
+          for (j = 0; j < n; j++) {
+           stack.push(data[i++]);
+          }
+         }
+        } else if (op === 0x41) {
+         n = data[i++];
+         if (inFDEF || inELSE) {
+          i += n * 2;
+         } else {
+          for (j = 0; j < n; j++) {
+           b = data[i++];
+           stack.push(b << 8 | data[i++]);
+          }
+         }
+        } else if ((op & 0xF8) === 0xB0) {
+         n = op - 0xB0 + 1;
+         if (inFDEF || inELSE) {
+          i += n;
+         } else {
+          for (j = 0; j < n; j++) {
+           stack.push(data[i++]);
+          }
+         }
+        } else if ((op & 0xF8) === 0xB8) {
+         n = op - 0xB8 + 1;
+         if (inFDEF || inELSE) {
+          i += n * 2;
+         } else {
+          for (j = 0; j < n; j++) {
+           b = data[i++];
+           stack.push(b << 8 | data[i++]);
+          }
+         }
+        } else if (op === 0x2B && !tooComplexToFollowFunctions) {
+         if (!inFDEF && !inELSE) {
+          funcId = stack[stack.length - 1];
+          ttContext.functionsUsed[funcId] = true;
+          if (funcId in ttContext.functionsStackDeltas) {
+           stack.length += ttContext.functionsStackDeltas[funcId];
+          } else if (funcId in ttContext.functionsDefined && functionsCalled.indexOf(funcId) < 0) {
+           callstack.push({
+            data: data,
+            i: i,
+            stackTop: stack.length - 1
+           });
+           functionsCalled.push(funcId);
+           pc = ttContext.functionsDefined[funcId];
+           if (!pc) {
+            warn('TT: CALL non-existent function');
+            ttContext.hintsValid = false;
+            return;
+           }
+           data = pc.data;
+           i = pc.i;
+          }
+         }
+        } else if (op === 0x2C && !tooComplexToFollowFunctions) {
+         if (inFDEF || inELSE) {
+          warn('TT: nested FDEFs not allowed');
+          tooComplexToFollowFunctions = true;
+         }
+         inFDEF = true;
+         lastDeff = i;
+         funcId = stack.pop();
+         ttContext.functionsDefined[funcId] = {
+          data: data,
+          i: i
+         };
+        } else if (op === 0x2D) {
+         if (inFDEF) {
+          inFDEF = false;
+          lastEndf = i;
+         } else {
+          pc = callstack.pop();
+          if (!pc) {
+           warn('TT: ENDF bad stack');
+           ttContext.hintsValid = false;
+           return;
+          }
+          funcId = functionsCalled.pop();
+          data = pc.data;
+          i = pc.i;
+          ttContext.functionsStackDeltas[funcId] = stack.length - pc.stackTop;
+         }
+        } else if (op === 0x89) {
+         if (inFDEF || inELSE) {
+          warn('TT: nested IDEFs not allowed');
+          tooComplexToFollowFunctions = true;
+         }
+         inFDEF = true;
+         lastDeff = i;
+        } else if (op === 0x58) {
+         ++ifLevel;
+        } else if (op === 0x1B) {
+         inELSE = ifLevel;
+        } else if (op === 0x59) {
+         if (inELSE === ifLevel) {
+          inELSE = 0;
+         }
+         --ifLevel;
+        } else if (op === 0x1C) {
+         if (!inFDEF && !inELSE) {
+          var offset = stack[stack.length - 1];
+          if (offset > 0) {
+           i += offset - 1;
+          }
+         }
+        }
+        if (!inFDEF && !inELSE) {
+         var stackDelta = op <= 0x8E ? TTOpsStackDeltas[op] : op >= 0xC0 && op <= 0xDF ? -1 : op >= 0xE0 ? -2 : 0;
+         if (op >= 0x71 && op <= 0x75) {
+          n = stack.pop();
+          if (!isNaN(n)) {
+           stackDelta = -n * 2;
+          }
+         }
+         while (stackDelta < 0 && stack.length > 0) {
+          stack.pop();
+          stackDelta++;
+         }
+         while (stackDelta > 0) {
+          stack.push(NaN);
+          stackDelta--;
+         }
+        }
+       }
+       ttContext.tooComplexToFollowFunctions = tooComplexToFollowFunctions;
+       var content = [data];
+       if (i > data.length) {
+        content.push(new Uint8Array(i - data.length));
+       }
+       if (lastDeff > lastEndf) {
+        warn('TT: complementing a missing function tail');
+        content.push(new Uint8Array([
+         0x22,
+         0x2D
+        ]));
+       }
+       foldTTTable(table, content);
+      }
+      function checkInvalidFunctions(ttContext, maxFunctionDefs) {
+       if (ttContext.tooComplexToFollowFunctions) {
+        return;
+       }
+       if (ttContext.functionsDefined.length > maxFunctionDefs) {
+        warn('TT: more functions defined than expected');
+        ttContext.hintsValid = false;
+        return;
+       }
+       for (var j = 0, jj = ttContext.functionsUsed.length; j < jj; j++) {
+        if (j > maxFunctionDefs) {
+         warn('TT: invalid function id: ' + j);
+         ttContext.hintsValid = false;
+         return;
+        }
+        if (ttContext.functionsUsed[j] && !ttContext.functionsDefined[j]) {
+         warn('TT: undefined function: ' + j);
+         ttContext.hintsValid = false;
+         return;
+        }
+       }
+      }
+      function foldTTTable(table, content) {
+       if (content.length > 1) {
+        var newLength = 0;
+        var j, jj;
+        for (j = 0, jj = content.length; j < jj; j++) {
+         newLength += content[j].length;
+        }
+        newLength = newLength + 3 & ~3;
+        var result = new Uint8Array(newLength);
+        var pos = 0;
+        for (j = 0, jj = content.length; j < jj; j++) {
+         result.set(content[j], pos);
+         pos += content[j].length;
+        }
+        table.data = result;
+        table.length = newLength;
+       }
+      }
+      function sanitizeTTPrograms(fpgm, prep, cvt, maxFunctionDefs) {
+       var ttContext = {
+        functionsDefined: [],
+        functionsUsed: [],
+        functionsStackDeltas: [],
+        tooComplexToFollowFunctions: false,
+        hintsValid: true
+       };
+       if (fpgm) {
+        sanitizeTTProgram(fpgm, ttContext);
+       }
+       if (prep) {
+        sanitizeTTProgram(prep, ttContext);
+       }
+       if (fpgm) {
+        checkInvalidFunctions(ttContext, maxFunctionDefs);
+       }
+       if (cvt && cvt.length & 1) {
+        var cvtData = new Uint8Array(cvt.length + 1);
+        cvtData.set(cvt.data);
+        cvt.data = cvtData;
+       }
+       return ttContext.hintsValid;
+      }
+      font = new Stream(new Uint8Array(font.getBytes()));
+      var VALID_TABLES = [
+       'OS/2',
+       'cmap',
+       'head',
+       'hhea',
+       'hmtx',
+       'maxp',
+       'name',
+       'post',
+       'loca',
+       'glyf',
+       'fpgm',
+       'prep',
+       'cvt ',
+       'CFF '
+      ];
+      var header = readOpenTypeHeader(font);
+      var numTables = header.numTables;
+      var cff, cffFile;
+      var tables = Object.create(null);
+      tables['OS/2'] = null;
+      tables['cmap'] = null;
+      tables['head'] = null;
+      tables['hhea'] = null;
+      tables['hmtx'] = null;
+      tables['maxp'] = null;
+      tables['name'] = null;
+      tables['post'] = null;
+      var table;
+      for (var i = 0; i < numTables; i++) {
+       table = readTableEntry(font);
+       if (VALID_TABLES.indexOf(table.tag) < 0) {
+        continue;
+       }
+       if (table.length === 0) {
+        continue;
+       }
+       tables[table.tag] = table;
+      }
+      var isTrueType = !tables['CFF '];
+      if (!isTrueType) {
+       if (header.version === 'OTTO' && !properties.composite || !tables['head'] || !tables['hhea'] || !tables['maxp'] || !tables['post']) {
+        cffFile = new Stream(tables['CFF '].data);
+        cff = new CFFFont(cffFile, properties);
+        adjustWidths(properties);
+        return this.convert(name, cff, properties);
+       }
+       delete tables['glyf'];
+       delete tables['loca'];
+       delete tables['fpgm'];
+       delete tables['prep'];
+       delete tables['cvt '];
+       this.isOpenType = true;
+      } else {
+       if (!tables['loca']) {
+        error('Required "loca" table is not found');
+       }
+       if (!tables['glyf']) {
+        warn('Required "glyf" table is not found -- trying to recover.');
+        tables['glyf'] = {
+         tag: 'glyf',
+         data: new Uint8Array(0)
+        };
+       }
+       this.isOpenType = false;
+      }
+      if (!tables['maxp']) {
+       error('Required "maxp" table is not found');
+      }
+      font.pos = (font.start || 0) + tables['maxp'].offset;
+      var version = font.getInt32();
+      var numGlyphs = font.getUint16();
+      var maxFunctionDefs = 0;
+      if (version >= 0x00010000 && tables['maxp'].length >= 22) {
+       font.pos += 8;
+       var maxZones = font.getUint16();
+       if (maxZones > 2) {
+        tables['maxp'].data[14] = 0;
+        tables['maxp'].data[15] = 2;
+       }
+       font.pos += 4;
+       maxFunctionDefs = font.getUint16();
+      }
+      var dupFirstEntry = false;
+      if (properties.type === 'CIDFontType2' && properties.toUnicode && properties.toUnicode.get(0) > '\u0000') {
+       dupFirstEntry = true;
+       numGlyphs++;
+       tables['maxp'].data[4] = numGlyphs >> 8;
+       tables['maxp'].data[5] = numGlyphs & 255;
+      }
+      var hintsValid = sanitizeTTPrograms(tables['fpgm'], tables['prep'], tables['cvt '], maxFunctionDefs);
+      if (!hintsValid) {
+       delete tables['fpgm'];
+       delete tables['prep'];
+       delete tables['cvt '];
+      }
+      sanitizeMetrics(font, tables['hhea'], tables['hmtx'], numGlyphs);
+      if (!tables['head']) {
+       error('Required "head" table is not found');
+      }
+      sanitizeHead(tables['head'], numGlyphs, isTrueType ? tables['loca'].length : 0);
+      var missingGlyphs = Object.create(null);
+      if (isTrueType) {
+       var isGlyphLocationsLong = int16(tables['head'].data[50], tables['head'].data[51]);
+       missingGlyphs = sanitizeGlyphLocations(tables['loca'], tables['glyf'], numGlyphs, isGlyphLocationsLong, hintsValid, dupFirstEntry);
+      }
+      if (!tables['hhea']) {
+       error('Required "hhea" table is not found');
+      }
+      if (tables['hhea'].data[10] === 0 && tables['hhea'].data[11] === 0) {
+       tables['hhea'].data[10] = 0xFF;
+       tables['hhea'].data[11] = 0xFF;
+      }
+      var metricsOverride = {
+       unitsPerEm: int16(tables['head'].data[18], tables['head'].data[19]),
+       yMax: int16(tables['head'].data[42], tables['head'].data[43]),
+       yMin: signedInt16(tables['head'].data[38], tables['head'].data[39]),
+       ascent: int16(tables['hhea'].data[4], tables['hhea'].data[5]),
+       descent: signedInt16(tables['hhea'].data[6], tables['hhea'].data[7])
+      };
+      this.ascent = metricsOverride.ascent / metricsOverride.unitsPerEm;
+      this.descent = metricsOverride.descent / metricsOverride.unitsPerEm;
+      if (tables['post']) {
+       var valid = readPostScriptTable(tables['post'], properties, numGlyphs);
+       if (!valid) {
+        tables['post'] = null;
+       }
+      }
+      var charCodeToGlyphId = [], charCode;
+      var toUnicode = properties.toUnicode, widths = properties.widths;
+      var skipToUnicode = toUnicode instanceof IdentityToUnicodeMap || toUnicode.length === 0x10000;
+      function hasGlyph(glyphId, charCode, widthCode) {
+       if (!missingGlyphs[glyphId]) {
+        return true;
+       }
+       if (!skipToUnicode && charCode >= 0 && toUnicode.has(charCode)) {
+        return true;
+       }
+       if (widths && widthCode >= 0 && isNum(widths[widthCode])) {
+        return true;
+       }
+       return false;
+      }
+      if (properties.composite) {
+       var cidToGidMap = properties.cidToGidMap || [];
+       var isCidToGidMapEmpty = cidToGidMap.length === 0;
+       properties.cMap.forEach(function (charCode, cid) {
+        assert(cid <= 0xffff, 'Max size of CID is 65,535');
+        var glyphId = -1;
+        if (isCidToGidMapEmpty) {
+         glyphId = cid;
+        } else if (cidToGidMap[cid] !== undefined) {
+         glyphId = cidToGidMap[cid];
+        }
+        if (glyphId >= 0 && glyphId < numGlyphs && hasGlyph(glyphId, charCode, cid)) {
+         charCodeToGlyphId[charCode] = glyphId;
+        }
+       });
+       if (dupFirstEntry && (isCidToGidMapEmpty || !charCodeToGlyphId[0])) {
+        charCodeToGlyphId[0] = numGlyphs - 1;
+       }
+      } else {
+       var cmapTable = readCmapTable(tables['cmap'], font, this.isSymbolicFont, properties.hasEncoding);
+       var cmapPlatformId = cmapTable.platformId;
+       var cmapEncodingId = cmapTable.encodingId;
+       var cmapMappings = cmapTable.mappings;
+       var cmapMappingsLength = cmapMappings.length;
+       if (properties.hasEncoding && (cmapPlatformId === 3 && cmapEncodingId === 1 || cmapPlatformId === 1 && cmapEncodingId === 0) || cmapPlatformId === -1 && cmapEncodingId === -1 && !!getEncoding(properties.baseEncodingName)) {
+        var baseEncoding = [];
+        if (properties.baseEncodingName === 'MacRomanEncoding' || properties.baseEncodingName === 'WinAnsiEncoding') {
+         baseEncoding = getEncoding(properties.baseEncodingName);
+        }
+        var glyphsUnicodeMap = getGlyphsUnicode();
+        for (charCode = 0; charCode < 256; charCode++) {
+         var glyphName, standardGlyphName;
+         if (this.differences && charCode in this.differences) {
+          glyphName = this.differences[charCode];
+         } else if (charCode in baseEncoding && baseEncoding[charCode] !== '') {
+          glyphName = baseEncoding[charCode];
+         } else {
+          glyphName = StandardEncoding[charCode];
+         }
+         if (!glyphName) {
+          continue;
+         }
+         standardGlyphName = recoverGlyphName(glyphName, glyphsUnicodeMap);
+         var unicodeOrCharCode, isUnicode = false;
+         if (cmapPlatformId === 3 && cmapEncodingId === 1) {
+          unicodeOrCharCode = glyphsUnicodeMap[standardGlyphName];
+          isUnicode = true;
+         } else if (cmapPlatformId === 1 && cmapEncodingId === 0) {
+          unicodeOrCharCode = MacRomanEncoding.indexOf(standardGlyphName);
+         }
+         var found = false;
+         for (i = 0; i < cmapMappingsLength; ++i) {
+          if (cmapMappings[i].charCode !== unicodeOrCharCode) {
+           continue;
+          }
+          var code = isUnicode ? charCode : unicodeOrCharCode;
+          if (hasGlyph(cmapMappings[i].glyphId, code, -1)) {
+           charCodeToGlyphId[charCode] = cmapMappings[i].glyphId;
+           found = true;
+           break;
+          }
+         }
+         if (!found && properties.glyphNames) {
+          var glyphId = properties.glyphNames.indexOf(glyphName);
+          if (glyphId === -1 && standardGlyphName !== glyphName) {
+           glyphId = properties.glyphNames.indexOf(standardGlyphName);
+          }
+          if (glyphId > 0 && hasGlyph(glyphId, -1, -1)) {
+           charCodeToGlyphId[charCode] = glyphId;
+           found = true;
+          }
+         }
+         if (!found) {
+          charCodeToGlyphId[charCode] = 0;
+         }
+        }
+       } else if (cmapPlatformId === 0 && cmapEncodingId === 0) {
+        for (i = 0; i < cmapMappingsLength; ++i) {
+         charCodeToGlyphId[cmapMappings[i].charCode] = cmapMappings[i].glyphId;
+        }
+       } else {
+        for (i = 0; i < cmapMappingsLength; ++i) {
+         charCode = cmapMappings[i].charCode & 0xFF;
+         charCodeToGlyphId[charCode] = cmapMappings[i].glyphId;
+        }
+       }
+      }
+      if (charCodeToGlyphId.length === 0) {
+       charCodeToGlyphId[0] = 0;
+      }
+      var newMapping = adjustMapping(charCodeToGlyphId, properties);
+      this.toFontChar = newMapping.toFontChar;
+      tables['cmap'] = {
+       tag: 'cmap',
+       data: createCmapTable(newMapping.charCodeToGlyphId, numGlyphs)
+      };
+      if (!tables['OS/2'] || !validateOS2Table(tables['OS/2'])) {
+       tables['OS/2'] = {
+        tag: 'OS/2',
+        data: createOS2Table(properties, newMapping.charCodeToGlyphId, metricsOverride)
+       };
+      }
+      if (!tables['post']) {
+       tables['post'] = {
+        tag: 'post',
+        data: createPostTable(properties)
+       };
+      }
+      if (!isTrueType) {
+       try {
+        cffFile = new Stream(tables['CFF '].data);
+        var parser = new CFFParser(cffFile, properties, SEAC_ANALYSIS_ENABLED);
+        cff = parser.parse();
+        var compiler = new CFFCompiler(cff);
+        tables['CFF '].data = compiler.compile();
+       } catch (e) {
+        warn('Failed to compile font ' + properties.loadedName);
+       }
+      }
+      if (!tables['name']) {
+       tables['name'] = {
+        tag: 'name',
+        data: createNameTable(this.name)
+       };
+      } else {
+       var namePrototype = readNameTable(tables['name']);
+       tables['name'].data = createNameTable(name, namePrototype);
+      }
+      var builder = new OpenTypeFileBuilder(header.version);
+      for (var tableTag in tables) {
+       builder.addTable(tableTag, tables[tableTag].data);
+      }
+      return builder.toArray();
+     },
+     convert: function Font_convert(fontName, font, properties) {
+      properties.fixedPitch = false;
+      if (properties.builtInEncoding) {
+       adjustToUnicode(properties, properties.builtInEncoding);
+      }
+      var mapping = font.getGlyphMapping(properties);
+      var newMapping = adjustMapping(mapping, properties);
+      this.toFontChar = newMapping.toFontChar;
+      var numGlyphs = font.numGlyphs;
+      function getCharCodes(charCodeToGlyphId, glyphId) {
+       var charCodes = null;
+       for (var charCode in charCodeToGlyphId) {
+        if (glyphId === charCodeToGlyphId[charCode]) {
+         if (!charCodes) {
+          charCodes = [];
+         }
+         charCodes.push(charCode | 0);
+        }
+       }
+       return charCodes;
+      }
+      function createCharCode(charCodeToGlyphId, glyphId) {
+       for (var charCode in charCodeToGlyphId) {
+        if (glyphId === charCodeToGlyphId[charCode]) {
+         return charCode | 0;
+        }
+       }
+       newMapping.charCodeToGlyphId[newMapping.nextAvailableFontCharCode] = glyphId;
+       return newMapping.nextAvailableFontCharCode++;
+      }
+      var seacs = font.seacs;
+      if (SEAC_ANALYSIS_ENABLED && seacs && seacs.length) {
+       var matrix = properties.fontMatrix || FONT_IDENTITY_MATRIX;
+       var charset = font.getCharset();
+       var seacMap = Object.create(null);
+       for (var glyphId in seacs) {
+        glyphId |= 0;
+        var seac = seacs[glyphId];
+        var baseGlyphName = StandardEncoding[seac[2]];
+        var accentGlyphName = StandardEncoding[seac[3]];
+        var baseGlyphId = charset.indexOf(baseGlyphName);
+        var accentGlyphId = charset.indexOf(accentGlyphName);
+        if (baseGlyphId < 0 || accentGlyphId < 0) {
+         continue;
+        }
+        var accentOffset = {
+         x: seac[0] * matrix[0] + seac[1] * matrix[2] + matrix[4],
+         y: seac[0] * matrix[1] + seac[1] * matrix[3] + matrix[5]
+        };
+        var charCodes = getCharCodes(mapping, glyphId);
+        if (!charCodes) {
+         continue;
+        }
+        for (var i = 0, ii = charCodes.length; i < ii; i++) {
+         var charCode = charCodes[i];
+         var charCodeToGlyphId = newMapping.charCodeToGlyphId;
+         var baseFontCharCode = createCharCode(charCodeToGlyphId, baseGlyphId);
+         var accentFontCharCode = createCharCode(charCodeToGlyphId, accentGlyphId);
+         seacMap[charCode] = {
+          baseFontCharCode: baseFontCharCode,
+          accentFontCharCode: accentFontCharCode,
+          accentOffset: accentOffset
+         };
+        }
+       }
+       properties.seacMap = seacMap;
+      }
+      var unitsPerEm = 1 / (properties.fontMatrix || FONT_IDENTITY_MATRIX)[0];
+      var builder = new OpenTypeFileBuilder('\x4F\x54\x54\x4F');
+      builder.addTable('CFF ', font.data);
+      builder.addTable('OS/2', createOS2Table(properties, newMapping.charCodeToGlyphId));
+      builder.addTable('cmap', createCmapTable(newMapping.charCodeToGlyphId, numGlyphs));
+      builder.addTable('head', '\x00\x01\x00\x00' + '\x00\x00\x10\x00' + '\x00\x00\x00\x00' + '\x5F\x0F\x3C\xF5' + '\x00\x00' + safeString16(unitsPerEm) + '\x00\x00\x00\x00\x9e\x0b\x7e\x27' + '\x00\x00\x00\x00\x9e\x0b\x7e\x27' + '\x00\x00' + safeString16(properties.descent) + '\x0F\xFF' + safeString16(properties.ascent) + string16(properties.italicAngle ? 2 : 0) + '\x00\x11' + '\x00\x00' + '\x00\x00' + '\x00\x00');
+      builder.addTable('hhea', '\x00\x01\x00\x00' + safeString16(properties.ascent) + safeString16(properties.descent) + '\x00\x00' + '\xFF\xFF' + '\x00\x00' + '\x00\x00' + '\x00\x00' + safeString16(properties.capHeight) + safeString16(Math.tan(properties.italicAngle) * properties.xHeight) + '\x00\x00' + '\x00\x00' + '\x00\x00' + '\x00\x00' + '\x00\x00' + '\x00\x00' + string16(numGlyphs));
+      builder.addTable('hmtx', function fontFieldsHmtx() {
+       var charstrings = font.charstrings;
+       var cffWidths = font.cff ? font.cff.widths : null;
+       var hmtx = '\x00\x00\x00\x00';
+       for (var i = 1, ii = numGlyphs; i < ii; i++) {
+        var width = 0;
+        if (charstrings) {
+         var charstring = charstrings[i - 1];
+         width = 'width' in charstring ? charstring.width : 0;
+        } else if (cffWidths) {
+         width = Math.ceil(cffWidths[i] || 0);
+        }
+        hmtx += string16(width) + string16(0);
+       }
+       return hmtx;
+      }());
+      builder.addTable('maxp', '\x00\x00\x50\x00' + string16(numGlyphs));
+      builder.addTable('name', createNameTable(fontName));
+      builder.addTable('post', createPostTable(properties));
+      return builder.toArray();
+     },
+     get spaceWidth() {
+      if ('_shadowWidth' in this) {
+       return this._shadowWidth;
+      }
+      var possibleSpaceReplacements = [
+       'space',
+       'minus',
+       'one',
+       'i',
+       'I'
+      ];
+      var width;
+      for (var i = 0, ii = possibleSpaceReplacements.length; i < ii; i++) {
+       var glyphName = possibleSpaceReplacements[i];
+       if (glyphName in this.widths) {
+        width = this.widths[glyphName];
+        break;
+       }
+       var glyphsUnicodeMap = getGlyphsUnicode();
+       var glyphUnicode = glyphsUnicodeMap[glyphName];
+       var charcode = 0;
+       if (this.composite) {
+        if (this.cMap.contains(glyphUnicode)) {
+         charcode = this.cMap.lookup(glyphUnicode);
+        }
+       }
+       if (!charcode && this.toUnicode) {
+        charcode = this.toUnicode.charCodeOf(glyphUnicode);
+       }
+       if (charcode <= 0) {
+        charcode = glyphUnicode;
+       }
+       width = this.widths[charcode];
+       if (width) {
+        break;
+       }
+      }
+      width = width || this.defaultWidth;
+      this._shadowWidth = width;
+      return width;
+     },
+     charToGlyph: function Font_charToGlyph(charcode, isSpace) {
+      var fontCharCode, width, operatorListId;
+      var widthCode = charcode;
+      if (this.cMap && this.cMap.contains(charcode)) {
+       widthCode = this.cMap.lookup(charcode);
+      }
+      width = this.widths[widthCode];
+      width = isNum(width) ? width : this.defaultWidth;
+      var vmetric = this.vmetrics && this.vmetrics[widthCode];
+      var unicode = this.toUnicode.get(charcode) || charcode;
+      if (typeof unicode === 'number') {
+       unicode = String.fromCharCode(unicode);
+      }
+      var isInFont = charcode in this.toFontChar;
+      fontCharCode = this.toFontChar[charcode] || charcode;
+      if (this.missingFile) {
+       fontCharCode = mapSpecialUnicodeValues(fontCharCode);
+      }
+      if (this.isType3Font) {
+       operatorListId = fontCharCode;
+      }
+      var accent = null;
+      if (this.seacMap && this.seacMap[charcode]) {
+       isInFont = true;
+       var seac = this.seacMap[charcode];
+       fontCharCode = seac.baseFontCharCode;
+       accent = {
+        fontChar: String.fromCharCode(seac.accentFontCharCode),
+        offset: seac.accentOffset
+       };
+      }
+      var fontChar = String.fromCharCode(fontCharCode);
+      var glyph = this.glyphCache[charcode];
+      if (!glyph || !glyph.matchesForCache(fontChar, unicode, accent, width, vmetric, operatorListId, isSpace, isInFont)) {
+       glyph = new Glyph(fontChar, unicode, accent, width, vmetric, operatorListId, isSpace, isInFont);
+       this.glyphCache[charcode] = glyph;
+      }
+      return glyph;
+     },
+     charsToGlyphs: function Font_charsToGlyphs(chars) {
+      var charsCache = this.charsCache;
+      var glyphs, glyph, charcode;
+      if (charsCache) {
+       glyphs = charsCache[chars];
+       if (glyphs) {
+        return glyphs;
+       }
+      }
+      if (!charsCache) {
+       charsCache = this.charsCache = Object.create(null);
+      }
+      glyphs = [];
+      var charsCacheKey = chars;
+      var i = 0, ii;
+      if (this.cMap) {
+       var c = Object.create(null);
+       while (i < chars.length) {
+        this.cMap.readCharCode(chars, i, c);
+        charcode = c.charcode;
+        var length = c.length;
+        i += length;
+        var isSpace = length === 1 && chars.charCodeAt(i - 1) === 0x20;
+        glyph = this.charToGlyph(charcode, isSpace);
+        glyphs.push(glyph);
+       }
+      } else {
+       for (i = 0, ii = chars.length; i < ii; ++i) {
+        charcode = chars.charCodeAt(i);
+        glyph = this.charToGlyph(charcode, charcode === 0x20);
+        glyphs.push(glyph);
+       }
+      }
+      return charsCache[charsCacheKey] = glyphs;
+     }
+    };
+    return Font;
+   }();
+   var ErrorFont = function ErrorFontClosure() {
+    function ErrorFont(error) {
+     this.error = error;
+     this.loadedName = 'g_font_error';
+     this.loading = false;
+    }
+    ErrorFont.prototype = {
+     charsToGlyphs: function ErrorFont_charsToGlyphs() {
+      return [];
+     },
+     exportData: function ErrorFont_exportData() {
+      return { error: this.error };
+     }
+    };
+    return ErrorFont;
+   }();
+   function type1FontGlyphMapping(properties, builtInEncoding, glyphNames) {
+    var charCodeToGlyphId = Object.create(null);
+    var glyphId, charCode, baseEncoding;
+    var isSymbolicFont = !!(properties.flags & FontFlags.Symbolic);
+    if (properties.baseEncodingName) {
+     baseEncoding = getEncoding(properties.baseEncodingName);
+     for (charCode = 0; charCode < baseEncoding.length; charCode++) {
+      glyphId = glyphNames.indexOf(baseEncoding[charCode]);
+      if (glyphId >= 0) {
+       charCodeToGlyphId[charCode] = glyphId;
+      } else {
+       charCodeToGlyphId[charCode] = 0;
+      }
+     }
+    } else if (isSymbolicFont) {
+     for (charCode in builtInEncoding) {
+      charCodeToGlyphId[charCode] = builtInEncoding[charCode];
+     }
+    } else {
+     baseEncoding = StandardEncoding;
+     for (charCode = 0; charCode < baseEncoding.length; charCode++) {
+      glyphId = glyphNames.indexOf(baseEncoding[charCode]);
+      if (glyphId >= 0) {
+       charCodeToGlyphId[charCode] = glyphId;
+      } else {
+       charCodeToGlyphId[charCode] = 0;
+      }
+     }
+    }
+    var differences = properties.differences, glyphsUnicodeMap;
+    if (differences) {
+     for (charCode in differences) {
+      var glyphName = differences[charCode];
+      glyphId = glyphNames.indexOf(glyphName);
+      if (glyphId === -1) {
+       if (!glyphsUnicodeMap) {
+        glyphsUnicodeMap = getGlyphsUnicode();
+       }
+       var standardGlyphName = recoverGlyphName(glyphName, glyphsUnicodeMap);
+       if (standardGlyphName !== glyphName) {
+        glyphId = glyphNames.indexOf(standardGlyphName);
+       }
+      }
+      if (glyphId >= 0) {
+       charCodeToGlyphId[charCode] = glyphId;
+      } else {
+       charCodeToGlyphId[charCode] = 0;
+      }
+     }
+    }
+    return charCodeToGlyphId;
+   }
+   var Type1Font = function Type1FontClosure() {
+    function findBlock(streamBytes, signature, startIndex) {
+     var streamBytesLength = streamBytes.length;
+     var signatureLength = signature.length;
+     var scanLength = streamBytesLength - signatureLength;
+     var i = startIndex, j, found = false;
+     while (i < scanLength) {
+      j = 0;
+      while (j < signatureLength && streamBytes[i + j] === signature[j]) {
+       j++;
+      }
+      if (j >= signatureLength) {
+       i += j;
+       while (i < streamBytesLength && isSpace(streamBytes[i])) {
+        i++;
+       }
+       found = true;
+       break;
+      }
+      i++;
+     }
+     return {
+      found: found,
+      length: i
+     };
+    }
+    function getHeaderBlock(stream, suggestedLength) {
+     var EEXEC_SIGNATURE = [
+      0x65,
+      0x65,
+      0x78,
+      0x65,
+      0x63
+     ];
+     var streamStartPos = stream.pos;
+     var headerBytes, headerBytesLength, block;
+     try {
+      headerBytes = stream.getBytes(suggestedLength);
+      headerBytesLength = headerBytes.length;
+     } catch (ex) {
+      if (ex instanceof MissingDataException) {
+       throw ex;
+      }
+     }
+     if (headerBytesLength === suggestedLength) {
+      block = findBlock(headerBytes, EEXEC_SIGNATURE, suggestedLength - 2 * EEXEC_SIGNATURE.length);
+      if (block.found && block.length === suggestedLength) {
+       return {
+        stream: new Stream(headerBytes),
+        length: suggestedLength
+       };
+      }
+     }
+     warn('Invalid "Length1" property in Type1 font -- trying to recover.');
+     stream.pos = streamStartPos;
+     var SCAN_BLOCK_LENGTH = 2048;
+     var actualLength;
+     while (true) {
+      var scanBytes = stream.peekBytes(SCAN_BLOCK_LENGTH);
+      block = findBlock(scanBytes, EEXEC_SIGNATURE, 0);
+      if (block.length === 0) {
+       break;
+      }
+      stream.pos += block.length;
+      if (block.found) {
+       actualLength = stream.pos - streamStartPos;
+       break;
+      }
+     }
+     stream.pos = streamStartPos;
+     if (actualLength) {
+      return {
+       stream: new Stream(stream.getBytes(actualLength)),
+       length: actualLength
+      };
+     }
+     warn('Unable to recover "Length1" property in Type1 font -- using as is.');
+     return {
+      stream: new Stream(stream.getBytes(suggestedLength)),
+      length: suggestedLength
+     };
+    }
+    function getEexecBlock(stream, suggestedLength) {
+     var eexecBytes = stream.getBytes();
+     return {
+      stream: new Stream(eexecBytes),
+      length: eexecBytes.length
+     };
+    }
+    function Type1Font(name, file, properties) {
+     var PFB_HEADER_SIZE = 6;
+     var headerBlockLength = properties.length1;
+     var eexecBlockLength = properties.length2;
+     var pfbHeader = file.peekBytes(PFB_HEADER_SIZE);
+     var pfbHeaderPresent = pfbHeader[0] === 0x80 && pfbHeader[1] === 0x01;
+     if (pfbHeaderPresent) {
+      file.skip(PFB_HEADER_SIZE);
+      headerBlockLength = pfbHeader[5] << 24 | pfbHeader[4] << 16 | pfbHeader[3] << 8 | pfbHeader[2];
+     }
+     var headerBlock = getHeaderBlock(file, headerBlockLength);
+     headerBlockLength = headerBlock.length;
+     var headerBlockParser = new Type1Parser(headerBlock.stream, false, SEAC_ANALYSIS_ENABLED);
+     headerBlockParser.extractFontHeader(properties);
+     if (pfbHeaderPresent) {
+      pfbHeader = file.getBytes(PFB_HEADER_SIZE);
+      eexecBlockLength = pfbHeader[5] << 24 | pfbHeader[4] << 16 | pfbHeader[3] << 8 | pfbHeader[2];
+     }
+     var eexecBlock = getEexecBlock(file, eexecBlockLength);
+     eexecBlockLength = eexecBlock.length;
+     var eexecBlockParser = new Type1Parser(eexecBlock.stream, true, SEAC_ANALYSIS_ENABLED);
+     var data = eexecBlockParser.extractFontProgram();
+     for (var info in data.properties) {
+      properties[info] = data.properties[info];
+     }
+     var charstrings = data.charstrings;
+     var type2Charstrings = this.getType2Charstrings(charstrings);
+     var subrs = this.getType2Subrs(data.subrs);
+     this.charstrings = charstrings;
+     this.data = this.wrap(name, type2Charstrings, this.charstrings, subrs, properties);
+     this.seacs = this.getSeacs(data.charstrings);
+    }
+    Type1Font.prototype = {
+     get numGlyphs() {
+      return this.charstrings.length + 1;
+     },
+     getCharset: function Type1Font_getCharset() {
+      var charset = ['.notdef'];
+      var charstrings = this.charstrings;
+      for (var glyphId = 0; glyphId < charstrings.length; glyphId++) {
+       charset.push(charstrings[glyphId].glyphName);
+      }
+      return charset;
+     },
+     getGlyphMapping: function Type1Font_getGlyphMapping(properties) {
+      var charstrings = this.charstrings;
+      var glyphNames = ['.notdef'], glyphId;
+      for (glyphId = 0; glyphId < charstrings.length; glyphId++) {
+       glyphNames.push(charstrings[glyphId].glyphName);
+      }
+      var encoding = properties.builtInEncoding;
+      if (encoding) {
+       var builtInEncoding = Object.create(null);
+       for (var charCode in encoding) {
+        glyphId = glyphNames.indexOf(encoding[charCode]);
+        if (glyphId >= 0) {
+         builtInEncoding[charCode] = glyphId;
+        }
+       }
+      }
+      return type1FontGlyphMapping(properties, builtInEncoding, glyphNames);
+     },
+     getSeacs: function Type1Font_getSeacs(charstrings) {
+      var i, ii;
+      var seacMap = [];
+      for (i = 0, ii = charstrings.length; i < ii; i++) {
+       var charstring = charstrings[i];
+       if (charstring.seac) {
+        seacMap[i + 1] = charstring.seac;
+       }
+      }
+      return seacMap;
+     },
+     getType2Charstrings: function Type1Font_getType2Charstrings(type1Charstrings) {
+      var type2Charstrings = [];
+      for (var i = 0, ii = type1Charstrings.length; i < ii; i++) {
+       type2Charstrings.push(type1Charstrings[i].charstring);
+      }
+      return type2Charstrings;
+     },
+     getType2Subrs: function Type1Font_getType2Subrs(type1Subrs) {
+      var bias = 0;
+      var count = type1Subrs.length;
+      if (count < 1133) {
+       bias = 107;
+      } else if (count < 33769) {
+       bias = 1131;
+      } else {
+       bias = 32768;
+      }
+      var type2Subrs = [];
+      var i;
+      for (i = 0; i < bias; i++) {
+       type2Subrs.push([0x0B]);
+      }
+      for (i = 0; i < count; i++) {
+       type2Subrs.push(type1Subrs[i]);
+      }
+      return type2Subrs;
+     },
+     wrap: function Type1Font_wrap(name, glyphs, charstrings, subrs, properties) {
+      var cff = new CFF();
+      cff.header = new CFFHeader(1, 0, 4, 4);
+      cff.names = [name];
+      var topDict = new CFFTopDict();
+      topDict.setByName('version', 391);
+      topDict.setByName('Notice', 392);
+      topDict.setByName('FullName', 393);
+      topDict.setByName('FamilyName', 394);
+      topDict.setByName('Weight', 395);
+      topDict.setByName('Encoding', null);
+      topDict.setByName('FontMatrix', properties.fontMatrix);
+      topDict.setByName('FontBBox', properties.bbox);
+      topDict.setByName('charset', null);
+      topDict.setByName('CharStrings', null);
+      topDict.setByName('Private', null);
+      cff.topDict = topDict;
+      var strings = new CFFStrings();
+      strings.add('Version 0.11');
+      strings.add('See original notice');
+      strings.add(name);
+      strings.add(name);
+      strings.add('Medium');
+      cff.strings = strings;
+      cff.globalSubrIndex = new CFFIndex();
+      var count = glyphs.length;
+      var charsetArray = [0];
+      var i, ii;
+      for (i = 0; i < count; i++) {
+       var index = CFFStandardStrings.indexOf(charstrings[i].glyphName);
+       if (index === -1) {
+        index = 0;
+       }
+       charsetArray.push(index >> 8 & 0xff, index & 0xff);
+      }
+      cff.charset = new CFFCharset(false, 0, [], charsetArray);
+      var charStringsIndex = new CFFIndex();
+      charStringsIndex.add([
+       0x8B,
+       0x0E
+      ]);
+      for (i = 0; i < count; i++) {
+       var glyph = glyphs[i];
+       if (glyph.length === 0) {
+        charStringsIndex.add([
+         0x8B,
+         0x0E
+        ]);
+        continue;
+       }
+       charStringsIndex.add(glyph);
+      }
+      cff.charStrings = charStringsIndex;
+      var privateDict = new CFFPrivateDict();
+      privateDict.setByName('Subrs', null);
+      var fields = [
+       'BlueValues',
+       'OtherBlues',
+       'FamilyBlues',
+       'FamilyOtherBlues',
+       'StemSnapH',
+       'StemSnapV',
+       'BlueShift',
+       'BlueFuzz',
+       'BlueScale',
+       'LanguageGroup',
+       'ExpansionFactor',
+       'ForceBold',
+       'StdHW',
+       'StdVW'
+      ];
+      for (i = 0, ii = fields.length; i < ii; i++) {
+       var field = fields[i];
+       if (!(field in properties.privateData)) {
+        continue;
+       }
+       var value = properties.privateData[field];
+       if (isArray(value)) {
+        for (var j = value.length - 1; j > 0; j--) {
+         value[j] -= value[j - 1];
+        }
+       }
+       privateDict.setByName(field, value);
+      }
+      cff.topDict.privateDict = privateDict;
+      var subrIndex = new CFFIndex();
+      for (i = 0, ii = subrs.length; i < ii; i++) {
+       subrIndex.add(subrs[i]);
+      }
+      privateDict.subrsIndex = subrIndex;
+      var compiler = new CFFCompiler(cff);
+      return compiler.compile();
+     }
+    };
+    return Type1Font;
+   }();
+   var CFFFont = function CFFFontClosure() {
+    function CFFFont(file, properties) {
+     this.properties = properties;
+     var parser = new CFFParser(file, properties, SEAC_ANALYSIS_ENABLED);
+     this.cff = parser.parse();
+     var compiler = new CFFCompiler(this.cff);
+     this.seacs = this.cff.seacs;
+     try {
+      this.data = compiler.compile();
+     } catch (e) {
+      warn('Failed to compile font ' + properties.loadedName);
+      this.data = file;
+     }
+    }
+    CFFFont.prototype = {
+     get numGlyphs() {
+      return this.cff.charStrings.count;
+     },
+     getCharset: function CFFFont_getCharset() {
+      return this.cff.charset.charset;
+     },
+     getGlyphMapping: function CFFFont_getGlyphMapping() {
+      var cff = this.cff;
+      var properties = this.properties;
+      var charsets = cff.charset.charset;
+      var charCodeToGlyphId;
+      var glyphId;
+      if (properties.composite) {
+       charCodeToGlyphId = Object.create(null);
+       if (cff.isCIDFont) {
+        for (glyphId = 0; glyphId < charsets.length; glyphId++) {
+         var cid = charsets[glyphId];
+         var charCode = properties.cMap.charCodeOf(cid);
+         charCodeToGlyphId[charCode] = glyphId;
+        }
+       } else {
+        for (glyphId = 0; glyphId < cff.charStrings.count; glyphId++) {
+         charCodeToGlyphId[glyphId] = glyphId;
+        }
+       }
+       return charCodeToGlyphId;
+      }
+      var encoding = cff.encoding ? cff.encoding.encoding : null;
+      charCodeToGlyphId = type1FontGlyphMapping(properties, encoding, charsets);
+      return charCodeToGlyphId;
+     }
+    };
+    return CFFFont;
+   }();
+   (function checkSeacSupport() {
+    if (typeof navigator !== 'undefined' && /Windows/.test(navigator.userAgent)) {
+     SEAC_ANALYSIS_ENABLED = true;
+    }
+   }());
+   (function checkChromeWindows() {
+    if (typeof navigator !== 'undefined' && /Windows.*Chrome/.test(navigator.userAgent)) {
+     SKIP_PRIVATE_USE_RANGE_F000_TO_F01F = true;
+    }
+   }());
+   exports.ErrorFont = ErrorFont;
+   exports.Font = Font;
+   exports.FontFlags = FontFlags;
+   exports.IdentityToUnicodeMap = IdentityToUnicodeMap;
+   exports.ToUnicodeMap = ToUnicodeMap;
+   exports.getFontType = getFontType;
+  }));
+  (function (root, factory) {
    factory(root.pdfjsCoreImage = {}, root.pdfjsSharedUtil, root.pdfjsCorePrimitives, root.pdfjsCoreColorSpace, root.pdfjsCoreStream, root.pdfjsCoreJpx);
   }(this, function (exports, sharedUtil, corePrimitives, coreColorSpace, coreStream, coreJpx) {
    var ImageKind = sharedUtil.ImageKind;
@@ -42250,9 +41983,8 @@
     function handleImageData(image, nativeDecoder) {
      if (nativeDecoder && nativeDecoder.canDecode(image)) {
       return nativeDecoder.decode(image);
-     } else {
-      return Promise.resolve(image);
      }
+     return Promise.resolve(image);
     }
     function decodeAndClamp(value, addend, coefficient, max) {
      value = addend + value * coefficient;
@@ -44004,9 +43736,8 @@
       return dict.get('Mac');
      } else if (dict.has('DOS')) {
       return dict.get('DOS');
-     } else {
-      return null;
      }
+     return null;
     }
     FileSpec.prototype = {
      get filename() {
@@ -45017,6 +44748,7 @@
    var warn = sharedUtil.warn;
    var Dict = corePrimitives.Dict;
    var Name = corePrimitives.Name;
+   var isEOF = corePrimitives.isEOF;
    var isCmd = corePrimitives.isCmd;
    var isDict = corePrimitives.isDict;
    var isName = corePrimitives.isName;
@@ -45027,7 +44759,6 @@
    var Stream = coreStream.Stream;
    var Lexer = coreParser.Lexer;
    var Parser = coreParser.Parser;
-   var isEOF = coreParser.isEOF;
    var PDFImage = coreImage.PDFImage;
    var ColorSpace = coreColorSpace.ColorSpace;
    var MurmurHash3_64 = coreMurmurHash3.MurmurHash3_64;
@@ -45109,13 +44840,12 @@
      var cs = ColorSpace.parse(dict.get('ColorSpace', 'CS'), xref, res);
      return (cs.numComps === 1 || cs.numComps === 3) && cs.isDefaultDecode(dict.getArray('Decode', 'D'));
     };
-    function PartialEvaluator(pdfManager, xref, handler, pageIndex, uniquePrefix, idCounters, fontCache, options) {
+    function PartialEvaluator(pdfManager, xref, handler, pageIndex, idFactory, fontCache, options) {
      this.pdfManager = pdfManager;
      this.xref = xref;
      this.handler = handler;
      this.pageIndex = pageIndex;
-     this.uniquePrefix = uniquePrefix;
-     this.idCounters = idCounters;
+     this.idFactory = idFactory;
      this.fontCache = fontCache;
      this.options = options || DefaultPartialEvaluatorOptions;
     }
@@ -45278,8 +45008,7 @@
        operatorList.addOp(OPS.paintInlineImageXObject, [imgData]);
        return;
       }
-      var uniquePrefix = this.uniquePrefix || '';
-      var objId = 'img_' + uniquePrefix + ++this.idCounters.obj;
+      var objId = 'img_' + this.idFactory.createObjId();
       operatorList.addDependency(objId);
       args = [
        objId,
@@ -45563,7 +45292,7 @@
        this.fontCache.put(fontRef, fontCapability.promise);
       } else {
        if (!fontID) {
-        fontID = (this.uniquePrefix || 'F_') + ++this.idCounters.obj;
+        fontID = this.idFactory.createObjId();
        }
        this.fontCache.put('id_' + fontID, fontCapability.promise);
       }
@@ -45629,9 +45358,8 @@
         pattern = Pattern.parseShading(shading, matrix, xref, resources, this.handler);
         operatorList.addOp(fn, pattern.getIR());
         return Promise.resolve();
-       } else {
-        return Promise.reject('Unknown PatternType: ' + typeNum);
        }
+       return Promise.reject('Unknown PatternType: ' + typeNum);
       }
       operatorList.addOp(fn, args);
       return Promise.resolve();
@@ -46022,22 +45750,11 @@
        var width = 0;
        var height = 0;
        var glyphs = font.charsToGlyphs(chars);
-       var defaultVMetrics = font.defaultVMetrics;
        for (var i = 0; i < glyphs.length; i++) {
         var glyph = glyphs[i];
-        var vMetricX = null;
-        var vMetricY = null;
         var glyphWidth = null;
-        if (font.vertical) {
-         if (glyph.vmetric) {
-          glyphWidth = glyph.vmetric[0];
-          vMetricX = glyph.vmetric[1];
-          vMetricY = glyph.vmetric[2];
-         } else {
-          glyphWidth = glyph.width;
-          vMetricX = glyph.width * 0.5;
-          vMetricY = defaultVMetrics[2];
-         }
+        if (font.vertical && glyph.vmetric) {
+         glyphWidth = glyph.vmetric[0];
         } else {
          glyphWidth = glyph.width;
         }
@@ -47585,17 +47302,16 @@
         operation.fn = fn;
         operation.args = args;
         return true;
-       } else {
-        if (isEOF(obj)) {
-         return false;
+       }
+       if (isEOF(obj)) {
+        return false;
+       }
+       if (obj !== null) {
+        if (args === null) {
+         args = [];
         }
-        if (obj !== null) {
-         if (args === null) {
-          args = [];
-         }
-         args.push(obj);
-         assert(args.length <= 33, 'Too many arguments');
-        }
+        args.push(obj);
+        assert(args.length <= 33, 'Too many arguments');
        }
       }
      },
@@ -47951,7 +47667,6 @@
    var AnnotationType = sharedUtil.AnnotationType;
    var OPS = sharedUtil.OPS;
    var Util = sharedUtil.Util;
-   var isString = sharedUtil.isString;
    var isArray = sharedUtil.isArray;
    var isInt = sharedUtil.isInt;
    var stringToBytes = sharedUtil.stringToBytes;
@@ -47970,12 +47685,12 @@
    function AnnotationFactory() {
    }
    AnnotationFactory.prototype = {
-    create: function AnnotationFactory_create(xref, ref, pdfManager, uniquePrefix, idCounters) {
+    create: function AnnotationFactory_create(xref, ref, pdfManager, idFactory) {
      var dict = xref.fetchIfRef(ref);
      if (!isDict(dict)) {
       return;
      }
-     var id = isRef(ref) ? ref.toString() : 'annot_' + (uniquePrefix || '') + ++idCounters.obj;
+     var id = isRef(ref) ? ref.toString() : 'annot_' + idFactory.createObjId();
      var subtype = dict.get('Subtype');
      subtype = isName(subtype) ? subtype.name : null;
      var parameters = {
@@ -48675,10 +48390,15 @@
      this.xref = xref;
      this.ref = ref;
      this.fontCache = fontCache;
-     this.uniquePrefix = 'p' + this.pageIndex + '_';
-     this.idCounters = { obj: 0 };
      this.evaluatorOptions = pdfManager.evaluatorOptions;
      this.resourcesPromise = null;
+     var uniquePrefix = 'p' + this.pageIndex + '_';
+     var idCounters = { obj: 0 };
+     this.idFactory = {
+      createObjId: function () {
+       return uniquePrefix + ++idCounters.obj;
+      }
+     };
     }
     Page.prototype = {
      getPageProp: function Page_getPageProp(key) {
@@ -48795,7 +48515,7 @@
        'XObject',
        'Font'
       ]);
-      var partialEvaluator = new PartialEvaluator(pdfManager, this.xref, handler, this.pageIndex, this.uniquePrefix, this.idCounters, this.fontCache, this.evaluatorOptions);
+      var partialEvaluator = new PartialEvaluator(pdfManager, this.xref, handler, this.pageIndex, this.idFactory, this.fontCache, this.evaluatorOptions);
       var dataPromises = Promise.all([
        contentStreamPromise,
        resourcesPromise
@@ -48851,7 +48571,7 @@
       ]);
       return dataPromises.then(function (data) {
        var contentStream = data[0];
-       var partialEvaluator = new PartialEvaluator(pdfManager, self.xref, handler, self.pageIndex, self.uniquePrefix, self.idCounters, self.fontCache, self.evaluatorOptions);
+       var partialEvaluator = new PartialEvaluator(pdfManager, self.xref, handler, self.pageIndex, self.idFactory, self.fontCache, self.evaluatorOptions);
        return partialEvaluator.getTextContent(contentStream, task, self.resources, null, normalizeWhitespace, combineTextItems);
       });
      },
@@ -48874,7 +48594,7 @@
       var annotationFactory = new AnnotationFactory();
       for (var i = 0, n = annotationRefs.length; i < n; ++i) {
        var annotationRef = annotationRefs[i];
-       var annotation = annotationFactory.create(this.xref, annotationRef, this.pdfManager, this.uniquePrefix, this.idCounters);
+       var annotation = annotationFactory.create(this.xref, annotationRef, this.pdfManager, this.idFactory);
        if (annotation) {
         annotations.push(annotation);
        }
@@ -49218,13 +48938,11 @@
       return Promise.resolve();
      },
      requestLoadedStream: function LocalPdfManager_requestLoadedStream() {
-      return;
      },
      onLoadedStream: function LocalPdfManager_onLoadedStream() {
       return this._loadedStreamCapability.promise;
      },
      terminate: function LocalPdfManager_terminate() {
-      return;
      }
     });
     return LocalPdfManager;
@@ -49301,7 +49019,6 @@
    var MissingPDFException = sharedUtil.MissingPDFException;
    var UnexpectedResponseException = sharedUtil.UnexpectedResponseException;
    var PasswordException = sharedUtil.PasswordException;
-   var PasswordResponses = sharedUtil.PasswordResponses;
    var UnknownErrorException = sharedUtil.UnknownErrorException;
    var XRefParseException = sharedUtil.XRefParseException;
    var arrayByteLength = sharedUtil.arrayByteLength;
@@ -49567,7 +49284,7 @@
       var xhr = new XMLHttpRequest();
       var responseExists = 'response' in xhr;
       try {
-       var dummy = xhr.responseType;
+       xhr.responseType;
       } catch (e) {
        responseExists = false;
       }

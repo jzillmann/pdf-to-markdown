@@ -15,7 +15,7 @@ Use the [issue tracker](https://github.com/jzillmann/pdf-to-markdown/issues) and
 - ```npm install``` Download all necessary npm packages
 - ```npm run lint``` Lint the javascript files
 - ```npm run test``` Run tests
-- ```npm run check``` Lint $ Test
+- ```npm run check``` Lint & Test
 - ```npm run watch``` Continuously build the project
 - ```open build/index.html``` Open the build project in your default browser
 - ```npm run release``` Build production version
@@ -25,6 +25,9 @@ Use the [issue tracker](https://github.com/jzillmann/pdf-to-markdown/issues) and
 - Increase version in package.json
 - ```npm run deploy```
 - commit & push
+- tag with
+  - _git tag -a $releaseVersion -m "$releaseVersion release"_
+  - _git push --tags_
 
 
 ## Credits
