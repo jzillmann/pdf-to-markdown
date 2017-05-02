@@ -86,6 +86,12 @@ module.exports = {
                 from: NODEMODULES_DIR + '/pdfjs-dist/build/pdf.worker.js',
                 to: 'bundle.worker.js'
             },
+        ]),
+        new CopyWebpackPlugin([
+            {
+                from: SOURCE_DIR + '/favicons',
+                to: 'favicons'
+            },
         ])
     ]
 }
