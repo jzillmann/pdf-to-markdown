@@ -67,16 +67,19 @@ export default class DetectHeaders extends ToLineItemTransformation {
             heights.sort((a, b) => b - a);
 
             heights.forEach((height, i) => {
-                const headlineType = headlineByLevel(2 + i);
-                parseResult.pages.forEach(page => {
-                    page.items.forEach(item => {
-                        if (!item.type && item.height == height && !isListItem(item.text())) {
-                            detectedHeaders++;
-                            item.annotation = DETECTED_ANNOTATION;
-                            item.type = headlineType;
-                        }
+                const headlineLevel = i + 2;
+                if (headlineLevel <= 6) {
+                    const headlineType = headlineByLevel(2 + i);
+                    parseResult.pages.forEach(page => {
+                        page.items.forEach(item => {
+                            if (!item.type && item.height == height && !isListItem(item.text())) {
+                                detectedHeaders++;
+                                item.annotation = DETECTED_ANNOTATION;
+                                item.type = headlineType;
+                            }
+                        });
                     });
-                });
+                }
             });
         }
 
