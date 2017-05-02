@@ -41,8 +41,9 @@ export default class TopBar extends React.Component {
                       <MenuItem divider />
                       <MenuItem href="https://github.com/jzillmann/pdf-to-markdown/issues" target="_blank"> Feedback & Bug Reports
                       </MenuItem>
-                      <MenuItem href="http://github.com/jzillmann/pdf-to-markdown" target="_blank"> Github
+                      <MenuItem href="http://github.com/jzillmann/pdf-to-markdown" target="_blank"> Code @Github
                       </MenuItem>
+                      <MenuItem divider />
                       <OverlayTrigger
                                       trigger="click"
                                       rootClose
