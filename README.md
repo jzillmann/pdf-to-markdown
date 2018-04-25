@@ -16,6 +16,8 @@ Use the [issue tracker](https://github.com/jzillmann/pdf-to-markdown/issues) and
 - ```npm run lint``` Lint the javascript files
 - ```npm run test``` Run tests
 - ```npm run check``` Lint & Test
+- ```npm run build``` Build the dev version
+- ```npm run start``` Run the app on an server (useful for loading of worker.js and cmaps)
 - ```npm run watch``` Continuously build the project
 - ```open build/index.html``` Open the build project in your default browser
 - ```npm run release``` Build production version

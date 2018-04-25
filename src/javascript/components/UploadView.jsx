@@ -26,7 +26,7 @@ export default class UploadView extends React.Component {
         const uploadFunction = this.state.uploadPdfFunction;
         reader.onload = (evt) => {
             const fileBuffer = evt.target.result;
-            uploadFunction(fileBuffer);
+            uploadFunction(new Uint8Array(fileBuffer));
         };
         reader.readAsArrayBuffer(files[0]);
     }

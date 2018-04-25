@@ -8,6 +8,8 @@ import Metadata from '../models/Metadata.jsx';
 import Page from '../models/Page.jsx';
 import TextItem from '../models/TextItem.jsx';
 
+pdfjs.GlobalWorkerOptions.workerSrc = 'bundle.worker.js';
+
 // Parses the PDF pages and displays progress
 export default class LoadingView extends React.Component {
 
@@ -101,7 +103,11 @@ export default class LoadingView extends React.Component {
         const self = this;
         const fontStage = this.state.progress.fontStage();
 
-        PDFJS.getDocument(this.props.fileBuffer).then(function(pdfDocument) { // eslint-disable-line no-undef
+        pdfjs.getDocument({
+            data: this.props.fileBuffer,
+            cMapUrl: 'cmaps/',
+            cMapPacked: true
+        }).then(function(pdfDocument) { // eslint-disable-line no-undef
             // console.debug(pdfDocument);
             pdfDocument.getMetadata().then(function(metadata) {
                 // console.debug(metadata);
@@ -127,7 +133,7 @@ export default class LoadingView extends React.Component {
                                 fontStage.steps = self.state.fontIds.size;
                             }
 
-                            const tx = PDFJS.Util.transform( // eslint-disable-line no-undef
+                            const tx = pdfjs.Util.transform( // eslint-disable-line no-undef
                                 viewport.transform,
                                 item.transform
                             );
