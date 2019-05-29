@@ -19,7 +19,7 @@ export default class App extends React.Component {
     render() {
         // console.debug(this.props.appState);
         const appState = this.props.appState;
-
+        
         var mainView;
         switch (this.props.appState.mainView) {
         case View.UPLOAD:
@@ -52,5 +52,3 @@ export default class App extends React.Component {
         );
     }
 }
-
-
