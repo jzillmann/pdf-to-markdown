@@ -71,7 +71,7 @@ BlockType.initEnum({
         }
     },
     LIST: {
-        mergeToBlock: true,
+        mergeToBlock: false,
         mergeFollowingNonTypedItemsWithSmallDistance: true,
         toText(block:LineItemBlock) {
             return linesToText(block.items, false);
