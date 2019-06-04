@@ -69,6 +69,14 @@ export default class ResultView extends React.Component {
         });
         const {preview, text} = this.state;
 
+        // This chunk saves the output text as markdown file
+        var saveFile = false
+        if (saveFile) {
+            var FileSaver = require('file-saver')
+            var blob = new Blob([text], {type: "text/plain;charset=utf-8"});
+            FileSaver.saveAs(blob, "pdf-to-markdown-output.md");
+        }
+
         var textComponent;
         if (preview) {
             const html = remarkable.render(text);

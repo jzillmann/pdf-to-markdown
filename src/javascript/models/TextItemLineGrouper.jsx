@@ -8,7 +8,7 @@ export default class TextItemLineGrouper {
         this.mostUsedDistance = options.mostUsedDistance || 12;
     }
 
-    // returns a CombineResult 
+    // returns a CombineResult
     group(textItems: TextItem[]) {
         return this.groupItemsByLine(textItems);
     }

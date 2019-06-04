@@ -31,7 +31,6 @@ export default class RemoveRepetitiveElements extends ToLineItemTransformation {
     // - Calculate how often these items occur accros all pages (hash ignoring numbers, whitespace, upper/lowercase)
     // - Delete items occuring on more then 2/3 of all pages
     transform(parseResult:ParseResult) {
-
         // find first and last lines per page
         const pageStore = [];
         const minLineHashRepetitions = {};
