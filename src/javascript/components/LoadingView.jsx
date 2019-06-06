@@ -2,13 +2,13 @@ import React from 'react';
 import FaCheck from 'react-icons/lib/fa/check'
 
 import pdfjs from 'pdfjs-dist'; // eslint-disable-line no-unused-vars
+pdfjs.GlobalWorkerOptions.workerSrc = 'bundle.worker.js';
+
 import { Line } from 'rc-progress';
 
 import Metadata from '../models/Metadata.jsx';
-import Page from '../models/Page.jsx';
-import TextItem from '../models/TextItem.jsx';
+import { parse } from '../lib/pdf.jsx'
 
-pdfjs.GlobalWorkerOptions.workerSrc = 'bundle.worker.js';
 
 // Parses the PDF pages and displays progress
 export default class LoadingView extends React.Component {
@@ -47,7 +47,7 @@ export default class LoadingView extends React.Component {
         };
     }
 
-    documentParsed(document) {
+    documentParsed(document, pages) {
         const metadataStage = this.state.progress.metadataStage();
         const pageStage = this.state.progress.pageStage();
         metadataStage.stepsDone++;
@@ -55,13 +55,6 @@ export default class LoadingView extends React.Component {
         const numPages = document.numPages;
         pageStage.steps = numPages;
         pageStage.stepsDone;
-
-        var pages = [];
-        for (var i = 0; i < numPages; i++) {
-            pages.push(new Page({
-                index: i
-            }));
-        }
 
         this.setState({
             document: document,
@@ -78,84 +71,42 @@ export default class LoadingView extends React.Component {
         });
     }
 
-    pageParsed(index, textItems) {
+    pageParsed(pages) {
         const pageStage = this.state.progress.pageStage();
 
         pageStage.stepsDone = pageStage.stepsDone + 1;
-        this.state.pages[index].items = textItems; // eslint-disable-line react/no-direct-mutation-state
         this.setState({
+            pages,
             progress: this.state.progress
         });
     }
 
-    fontParsed(fontId, font) {
+    fontParsed(fonts) {
         const fontStage = this.state.progress.fontStage();
-        this.state.fontMap.set(fontId, font); // eslint-disable-line react/no-direct-mutation-state
         fontStage.stepsDone++;
         if (this.state.progress.activeStage() === fontStage) {
             this.setState({ //force rendering
-                fontMap: this.state.fontMap,
+                fontMap: fonts.map,
+                fontIds: fonts.ids,
             });
         }
-        fontStage.steps = this.state.fontIds.size;
+        fontStage.steps = fonts.ids.size;
     }
 
     componentWillMount() {
-        const self = this;
-
-        pdfjs.getDocument({
-            data: this.props.fileBuffer,
-            cMapUrl: 'cmaps/',
-            cMapPacked: true
-        }).then(function(pdfDocument) { // eslint-disable-line no-undef
-            // console.debug(pdfDocument);
-            pdfDocument.getMetadata().then(function(metadata) {
-                // console.debug(metadata);
-                self.metadataParsed(metadata);
-            });
-            self.documentParsed(pdfDocument);
-            for (var j = 1; j <= pdfDocument.numPages; j++) {
-                pdfDocument.getPage(j).then(function(page) {
-                    // console.debug(page);
-                    var scale = 1.0;
-                    var viewport = page.getViewport(scale);
-
-                    page.getTextContent().then(function(textContent) {
-                        // console.debug(textContent);
-                        const textItems = textContent.items.map(function(item) {
-                            //trigger resolving of fonts
-                            const fontId = item.fontName;
-                            if (!self.state.fontIds.has(fontId) && fontId.startsWith('g_d0')) {
-                                self.state.document.transport.commonObjs.get(fontId, function(font) {
-                                    self.fontParsed(fontId, font);
-                                });
-                                self.state.fontIds.add(fontId);
-                            }
-
-                            const tx = pdfjs.Util.transform( // eslint-disable-line no-undef
-                                viewport.transform,
-                                item.transform
-                            );
-
-                            const fontHeight = Math.sqrt((tx[2] * tx[2]) + (tx[3] * tx[3]));
-                            const dividedHeight = item.height / fontHeight;
-                            return new TextItem({
-                                x: Math.round(item.transform[4]),
-                                y: Math.round(item.transform[5]),
-                                width: Math.round(item.width),
-                                height: Math.round(dividedHeight <= 1 ? item.height : dividedHeight),
-                                text: item.str,
-                                font: item.fontName
-                            });
-                        });
-                        self.pageParsed(page.pageIndex, textItems);
-                    });
-                    page.getOperatorList().then(function() {
-                        // do nothing... this is only for triggering the font retrieval
-                    });
-                });
+        parse(
+            {
+                data: this.props.fileBuffer,
+                cMapUrl: 'cmaps/',
+                cMapPacked: true,
+            },
+            {
+                documentParsed: this.documentParsed.bind(this),
+                metadataParsed: this.metadataParsed.bind(this),
+                pageParsed: this.pageParsed.bind(this),
+                fontParsed: this.fontParsed.bind(this),
             }
-        });
+        );
     }
 
     render() {
