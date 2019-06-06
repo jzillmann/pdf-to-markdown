@@ -97,11 +97,11 @@ export default class LoadingView extends React.Component {
                 fontMap: this.state.fontMap,
             });
         }
+        fontStage.steps = this.state.fontIds.size;
     }
 
     componentWillMount() {
         const self = this;
-        const fontStage = this.state.progress.fontStage();
 
         pdfjs.getDocument({
             data: this.props.fileBuffer,
@@ -130,7 +130,6 @@ export default class LoadingView extends React.Component {
                                     self.fontParsed(fontId, font);
                                 });
                                 self.state.fontIds.add(fontId);
-                                fontStage.steps = self.state.fontIds.size;
                             }
 
                             const tx = pdfjs.Util.transform( // eslint-disable-line no-undef
