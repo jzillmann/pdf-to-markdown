@@ -3,7 +3,7 @@ import ParseResult from '../../ParseResult.jsx';
 import { DETECTED_ANNOTATION } from '../../Annotation.jsx';
 import BlockType from '../../markdown/BlockType.jsx';
 import { headlineByLevel } from '../../markdown/BlockType.jsx';
-import { isListItem } from '../../../stringFunctions.jsx';
+import { isListItem } from '../../../lib/stringFunctions.jsx';
 
 //Detect headlines based on heights
 export default class DetectHeaders extends ToLineItemTransformation {

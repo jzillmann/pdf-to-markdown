@@ -4,7 +4,7 @@ import LineItem from '../../LineItem.jsx';
 import Word from '../../Word.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION, DETECTED_ANNOTATION } from '../../Annotation.jsx';
 import BlockType from '../../markdown/BlockType.jsx';
-import { isListItemCharacter, isNumberedListItem } from '../../../stringFunctions.jsx';
+import { isListItemCharacter, isNumberedListItem } from '../../../lib/stringFunctions.jsx';
 
 //Detect items starting with -, •, etc...
 export default class DetectListItems extends ToLineItemTransformation {

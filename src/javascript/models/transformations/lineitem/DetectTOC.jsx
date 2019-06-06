@@ -6,7 +6,7 @@ import HeadlineFinder from '../../HeadlineFinder.jsx';
 import { REMOVED_ANNOTATION, ADDED_ANNOTATION } from '../../Annotation.jsx';
 import BlockType from '../../markdown/BlockType.jsx';
 import { headlineByLevel } from '../../markdown/BlockType.jsx';
-import { isDigit, isNumber, wordMatch, hasOnly } from '../../../stringFunctions.jsx'
+import { isDigit, isNumber, wordMatch, hasOnly } from '../../../lib/stringFunctions.jsx'
 
 //Detect table of contents pages plus linked headlines
 export default class DetectTOC extends ToLineItemTransformation {

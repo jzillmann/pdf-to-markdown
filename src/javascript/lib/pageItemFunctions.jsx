@@ -1,5 +1,5 @@
-import PageItem from './models/PageItem.jsx';
-import LineItemBlock from './models/LineItemBlock.jsx';
+import PageItem from '../models/PageItem.jsx';
+import LineItemBlock from '../models/LineItemBlock.jsx';
 
 export function minXFromBlocks(blocks:LineItemBlock[]) {
     var minX = 999;
