@@ -5,7 +5,7 @@ import ButtonToolbar from 'react-bootstrap/lib/ButtonToolbar'
 import ButtonGroup from 'react-bootstrap/lib/ButtonGroup'
 import Button from 'react-bootstrap/lib/Button'
 
-import ParseResult from '../models/ParseResult.jsx';
+import { transform } from '../lib/transformations.jsx'
 
 export default class ResultView extends React.Component {
 
@@ -20,17 +20,7 @@ export default class ResultView extends React.Component {
 
     componentWillMount() {
         const {pages, transformations} = this.props;
-        var parseResult = new ParseResult({
-            pages: pages
-        });
-        var lastTransformation;
-        transformations.forEach(transformation => {
-            if (lastTransformation) {
-                parseResult = lastTransformation.completeTransform(parseResult);
-            }
-            parseResult = transformation.transform(parseResult);
-            lastTransformation = transformation;
-        });
+        const parseResult = transform(pages, transformations);
 
         var text = '';
         parseResult.pages.forEach(page => {

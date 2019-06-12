@@ -1,19 +1,5 @@
 import { Enum } from 'enumify';
-
-import CalculateGlobalStats from './transformations/textitem/CalculateGlobalStats.jsx';
-
-import CompactLines from './transformations/lineitem/CompactLines.jsx';
-import RemoveRepetitiveElements from './transformations/lineitem/RemoveRepetitiveElements.jsx'
-import VerticalToHorizontal from './transformations/lineitem/VerticalToHorizontal.jsx';
-import DetectTOC from './transformations/lineitem/DetectTOC.jsx'
-import DetectListItems from './transformations/lineitem/DetectListItems.jsx'
-import DetectHeaders from './transformations/lineitem/DetectHeaders.jsx'
-
-import GatherBlocks from './transformations/textitemblock/GatherBlocks.jsx'
-import DetectCodeQuoteBlocks from './transformations/textitemblock/DetectCodeQuoteBlocks.jsx'
-import DetectListLevels from './transformations/textitemblock/DetectListLevels.jsx'
-import ToTextBlocks from './transformations/ToTextBlocks.jsx';
-import ToMarkdown from './transformations/ToMarkdown.jsx'
+import { makeTransformations } from '../lib/transformations.jsx';
 
 // Holds the state of the Application
 export default class AppState {
@@ -50,21 +36,7 @@ export default class AppState {
         this.fileBuffer = null;
         this.mainView = View.RESULT;
 
-        this.transformations = [
-            new CalculateGlobalStats(fontMap),
-            new CompactLines(),
-            new RemoveRepetitiveElements(),
-            new VerticalToHorizontal(),
-            new DetectTOC(),
-            new DetectHeaders(),
-            new DetectListItems(),
-
-            new GatherBlocks(),
-            new DetectCodeQuoteBlocks(),
-            new DetectListLevels(),
-
-            new ToTextBlocks(),
-            new ToMarkdown()];
+        this.transformations = makeTransformations(fontMap);
 
         this.render();
 
