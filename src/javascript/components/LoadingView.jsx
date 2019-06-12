@@ -84,12 +84,10 @@ export default class LoadingView extends React.Component {
     fontParsed(fonts) {
         const fontStage = this.state.progress.fontStage();
         fontStage.stepsDone++;
-        if (this.state.progress.activeStage() === fontStage) {
-            this.setState({ //force rendering
-                fontMap: fonts.map,
-                fontIds: fonts.ids,
-            });
-        }
+        this.setState({ //force rendering
+            fontMap: fonts.map,
+            fontIds: fonts.ids,
+        });
         fontStage.steps = fonts.ids.size;
     }
 
