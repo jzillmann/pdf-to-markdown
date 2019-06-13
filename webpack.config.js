@@ -17,7 +17,7 @@ module.exports = {
         ]
     },
     entry: {
-        app: './javascript/index.jsx'
+        app: ['core-js', 'regenerator-runtime/runtime', './javascript/index.jsx']
     },
     output: {
         path: BUILD_DIR,
