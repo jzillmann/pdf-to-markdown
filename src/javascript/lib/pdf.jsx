@@ -11,7 +11,7 @@ export async function parse(docOptions, callbacks) {
     pageParsed: NO_OP,
     fontParsed: NO_OP,
     documentParsed: NO_OP,
-    ...callbacks,
+    ...(callbacks || {}),
   }
   const pdfDocument = await pdfjs.getDocument(docOptions)
   const metadata = await pdfDocument.getMetadata()
