@@ -60,7 +60,7 @@ function getPaths(folderPath) {
       if (isDirectory) {
           folderPaths.push(folderPath + '/' + directoryItem)
       } 
-      if (directoryItem.split('.').pop() == 'pdf') {
+      if (directoryItem.split('.').pop() === 'pdf') {
           filePaths.push(folderPath + '/' + directoryItem)
       }
   });
