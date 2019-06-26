@@ -16,15 +16,13 @@ const { makeTransformations, transform } = require('./lib/transformations.jsx')
  * 
  * @returns {string} The Markdown text
  */
-export default async function pdf2md (pdfBuffer, callbacks) {
+module.exports = async function(pdfBuffer, callbacks) {
   const result = await parse(pdfBuffer, callbacks)
-  
   const { fonts, pages } = result
   const transformations = makeTransformations(fonts.map)
   const parseResult = transform(pages, transformations)
   const text = parseResult.pages
     .map(page => page.items.join('\n') + '\n')
     .join('')
-
   return text
 }

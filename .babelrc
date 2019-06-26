@@ -2,14 +2,32 @@
   "env": {
     "testing": {
       "presets": ["@babel/preset-env"]
-    }
-  },
-  "presets": [ 
-    [ "@babel/preset-env", { "loose": false, "modules": false, "targets": "> 0.25%, not dead" } ], 
-    "@babel/preset-react", 
-    "@babel/preset-flow"
-  ],
-  "plugins": [
-    "@babel/plugin-proposal-class-properties"
-  ]
+    },
+    "browser": {
+      "plugins": [
+        "@babel/plugin-proposal-class-properties"
+      ],
+      "presets": [
+        [ "@babel/preset-env", { "loose": false, "modules": false, "targets": "> 0.25%, not dead"} ], 
+        "@babel/preset-react",
+        "@babel/preset-flow"
+      ],
+    },
+    "cli": {
+      "ignore": [
+        "src/javascript/pdf2md.js",
+        "src/javascript/pdf2md-cli.js",
+        "src/javascript/index.jsx"
+      ],
+      "plugins": [
+        "@babel/plugin-proposal-class-properties",
+        "@babel/plugin-transform-modules-commonjs"
+      ],
+      "presets": [
+        [ "@babel/preset-env", { "loose": false, "modules": false, "targets": {"node": true}} ],
+        "@babel/preset-react",
+        "@babel/preset-flow"
+      ],
+    } 
+  }
 }
