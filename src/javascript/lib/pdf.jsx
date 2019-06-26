@@ -5,6 +5,10 @@ import Page from '../models/Page.jsx'
 
 const NO_OP = () => {}
 
+if (typeof document == "undefined") {
+  require('./domstubs.js').setStubs(global);
+}
+
 export async function parse(docOptions, callbacks) {
   const { metadataParsed, pageParsed, fontParsed, documentParsed } = {
     metadataParsed: NO_OP,
