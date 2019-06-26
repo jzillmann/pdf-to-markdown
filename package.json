@@ -1,17 +1,21 @@
 {
-  "name": "pdf-to-markdown",
+  "name": "@opendocsg/pdf2md",
   "version": "0.1.1",
   "description": "A PDF to Markdown Converter",
-  "main": "main.js",
+  "main": "dist/pdf2md.js",
+  "bin": {
+    "pdf2md": "dist/pdf2md-cli.js"
+  },
   "scripts": {
     "watch": "webpack -d --watch",
-    "build": "webpack",
-    "start": "webpack-dev-server",
+    "build": "NODE_ENV=browser webpack",
+    "start": "NODE_ENV=browser webpack-dev-server",
     "lint": "eslint src --ext .js --ext .jsx --cache",
     "test": "NODE_ENV=testing mocha --compilers js:@babel/register test --recursive",
     "check": "npm run lint && npm run test",
     "release": "npm run lint && rm -rf build/* && NODE_ENV=production webpack -p",
-    "deploy": "npm run release && cp -r build/* docs/"
+    "deploy": "npm run release && cp -r build/* docs/",
+    "prepare": "NODE_ENV=cli babel src/javascript --copy-files --out-dir dist/ --keep-file-extension"
   },
   "keywords": [
     "PDF",
@@ -39,6 +43,7 @@
     "remarkable": "^1.7.1"
   },
   "devDependencies": {
+    "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
@@ -58,6 +63,7 @@
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^0.10.0",
     "html-webpack-plugin": "^2.22.0",
+    "minimist": "^1.2.0",
     "mocha": "^3.2.0",
     "regenerator-runtime": "^0.13.2",
     "style-loader": "^0.13.1",
