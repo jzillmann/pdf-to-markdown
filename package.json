@@ -1,12 +1,15 @@
 {
-  "name": "pdf-to-markdown",
+  "name": "@opendocsg/pdf2md",
   "version": "0.1.1",
   "description": "A PDF to Markdown Converter",
-  "main": "src/javascript/pdf2md.js",
+  "main": "dist/pdf2md.js",
+  "bin": {
+    "pdf2md": "dist/pdf2md-cli.js"
+  },
   "scripts": {
     "watch": "webpack -d --watch",
     "build": "NODE_ENV=browser webpack",
-    "start": "webpack-dev-server",
+    "start": "NODE_ENV=browser webpack-dev-server",
     "lint": "eslint src --ext .js --ext .jsx --cache",
     "test": "NODE_ENV=testing mocha --compilers js:@babel/register test --recursive",
     "check": "npm run lint && npm run test",
