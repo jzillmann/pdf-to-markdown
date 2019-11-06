@@ -1,6 +1,6 @@
 # PDF-To-Markdown Converter
 
-Javascript tool to parse PDF files and convert them into Markdwon format. Online version at http://pdf2md.morethan.io!
+Javascript tool to parse PDF files and convert them into Markdown format. Online version at http://pdf2md.morethan.io!
 
 ## Major Changes
 
