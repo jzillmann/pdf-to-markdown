@@ -1,17 +1,7 @@
 {
   "name": "pdf-to-markdown-core",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "Core logic for parsing a PDF and transforming it to Markdown",
-  "main": "index.js",
-  "files": [
-    "lib/src/**/*"
-  ],
-  "scripts": {
-    "test": "jest",
-    "build": "tsc",
-    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
-    "lint": "tslint -p tsconfig.json"
-  },
   "keywords": [
     "PDF",
     "Markdown",
@@ -19,9 +9,24 @@
   ],
   "author": "Johannes Zillmann",
   "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jzillmann/pdf-to-markdown"
+  },
+  "main": "index.js",
+  "files": [
+    "lib/src/**/*"
+  ],
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "tslint -p tsconfig.json"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.19",
     "jest": "^26.6.3",
+    "pdfjs-dist": "^2.5.207",
     "prettier": "^2.2.1",
     "ts-jest": "^26.4.4",
     "tslint": "^6.1.3",

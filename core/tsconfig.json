@@ -5,6 +5,7 @@
     "declaration": true,
     "outDir": "./lib",
     "strict": true,
+    "noImplicitAny": false,
     "baseUrl": "./",
     "paths": {
       "src/*": ["src/*"],
