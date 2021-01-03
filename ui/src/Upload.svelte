@@ -32,7 +32,9 @@
         noClick={false}
         disableDefaultStyles={true}>
         <div class="grid grid-cols-1 md:grid-cols-2 justify-items-center">
-            <Download size="21x" />
+            <span class:dragoverItem={dragover}>
+                <Download size="21x" />
+            </span>
             <div class="mt-4">
                 <div class="text-5xl font-bold my-4">Drop your PDF file here...</div>
                 <div class="text-2xl font-bold">Or click the box to select one...</div>
@@ -62,5 +64,8 @@
 <style>
     .dragover {
         @apply border-purple-600;
+    }
+    .dragoverItem {
+        @apply text-purple-600;
     }
 </style>

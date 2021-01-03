@@ -2,6 +2,10 @@ import { pdfParser } from 'pdf-to-markdown-core';
 import type ParseResult from 'pdf-to-markdown-core/lib/src/ParseResult';
 import * as pdfjs from 'pdfjs-dist/es5/build/pdf';
 
+import { Writable, writable } from 'svelte/store';
+
+export let parseResult: Writable<ParseResult> = writable(undefined);
+
 // TODO this will setup fake worker cause getMainThreadWorkerMessageHandler isn't null
 import pdfjsWorker from 'pdfjs-dist//es5/build/pdf.worker.entry';
 pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker;
@@ -16,8 +20,13 @@ export function processUpload(file: File): Promise<ParseResult> {
             resolve(reader.result as ArrayBuffer);
         };
         reader.readAsArrayBuffer(file);
-    }).then((buffer) => {
-        const uintArray = new Uint8Array(buffer as ArrayBuffer);
-        return parser.parse(uintArray);
-    });
+    })
+        .then((buffer) => {
+            const uintArray = new Uint8Array(buffer as ArrayBuffer);
+            return parser.parse(uintArray);
+        })
+        .then((result) => {
+            parseResult.set(result);
+            return result;
+        });
 }

@@ -1,23 +1,29 @@
 {
-  "include": ["src", "types"],
-  "compilerOptions": {
-    "module": "esnext",
-    "target": "esnext",
-    "moduleResolution": "node",
-    "jsx": "preserve",
-    "baseUrl": "./",
-    /* paths - If you configure Snowpack import aliases, add them here. */
-    "paths": {},
-    /* noEmit - Snowpack builds (emits) files, not tsc. */
-    "noEmit": true,
-    /* Additional Options */
-    "strict": true,
-    "noImplicitAny": false,
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
-    "resolveJsonModule": true,
-    "useDefineForClassFields": true,
-    "allowSyntheticDefaultImports": true,
-    "importsNotUsedAsValues": "error"
-  }
+    "include": ["src", "types"],
+    "compilerOptions": {
+        "module": "esnext",
+        "target": "esnext",
+        "moduleResolution": "node",
+        "jsx": "preserve",
+        "baseUrl": "./",
+        /* paths - If you configure Snowpack import aliases, add them here. */
+        "paths": {},
+        /* noEmit - Snowpack builds (emits) files, not tsc. */
+        "noEmit": true,
+        /* Additional Options */
+        "strict": true,
+        "noImplicitAny": false,
+        // "noImplicitThis": false,
+        // "alwaysStrict": false,
+        // "strictBindCallApply": false,
+        "strictNullChecks": false,
+        // "strictFunctionTypes": false,
+        // "strictPropertyInitialization": false,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true,
+        "useDefineForClassFields": true,
+        "allowSyntheticDefaultImports": true,
+        "importsNotUsedAsValues": "error"
+    }
 }
