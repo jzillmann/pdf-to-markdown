@@ -18,6 +18,11 @@ Use the [issue tracker](https://github.com/jzillmann/pdf-to-markdown/issues) and
 - `npm run format` Run the prettier formatter
 - `npm run build` Compile the typescript files to the `lib` folder
 
+### Test Release locally and use in other projects
+
+- `npm link` in the core project
+- `npm link pdf-to-markdown-core` in the target project
+
 ## Release
 
 //TBD
