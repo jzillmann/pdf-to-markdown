@@ -16,7 +16,7 @@ export default class Metadata {
   private extract(infoName: string, metadataKey: string) {
     const metadata = this.original['metadata'];
     if (metadata) {
-      return metadata[metadataKey];
+      return metadata.get(metadataKey);
     }
     return this.original['info'][infoName];
   }
