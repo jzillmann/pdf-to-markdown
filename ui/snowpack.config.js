@@ -3,6 +3,7 @@ module.exports = {
     mount: {
         public: { url: '/', static: true },
         src: { url: '/dist' },
+        '../core/src': { url: '/core' },
     },
     plugins: [
         ['@snowpack/plugin-build-script', { cmd: 'postcss', input: ['.css'], output: ['.css'] }],
@@ -28,6 +29,6 @@ module.exports = {
         /* ... */
     },
     alias: {
-        /* ... */
+        '@core': '../core/src/index.js',
     },
 };

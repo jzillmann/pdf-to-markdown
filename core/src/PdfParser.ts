@@ -2,7 +2,7 @@ import Metadata from './Metadata';
 import ParsedPage from './ParsedPage';
 import ParseResult from './ParseResult';
 import TextDirection from './TextDirection';
-import TextItem from './TextItem';
+import type TextItem from './TextItem';
 
 export default class PdfParser {
   pdfjs: any;

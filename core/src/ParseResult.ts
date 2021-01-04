@@ -1,5 +1,5 @@
-import Metadata from './Metadata';
-import ParsedPage from './ParsedPage';
+import type Metadata from './Metadata';
+import type ParsedPage from './ParsedPage';
 
 export default class ParseResult {
   metadata: Metadata;

@@ -1,5 +1,5 @@
-import { pdfParser } from 'pdf-to-markdown-core';
-import type ParseResult from 'pdf-to-markdown-core/lib/src/ParseResult';
+import { pdfParser } from '@core';
+import type ParseResult from '@core/ParseResult';
 import * as pdfjs from 'pdfjs-dist/es5/build/pdf';
 
 import { Writable, writable } from 'svelte/store';

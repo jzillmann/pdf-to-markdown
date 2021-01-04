@@ -1,4 +1,4 @@
-import ParsedPageItem from './ParsedPageItem';
+import type ParsedPageItem from './ParsedPageItem';
 
 export default class ParsedPage {
   index: number;
