@@ -6,6 +6,13 @@
     console.log(parseResult.metadata);
 </script>
 
+<div>
+    Parsed
+    {parseResult.pages.length}
+    pages with
+    {parseResult.pages.reduce((count, page) => count + page.items.length, 0)}
+    items
+</div>
 <div>Title: {parseResult.metadata.title()}</div>
 <div>Author: {parseResult.metadata.author()}</div>
 

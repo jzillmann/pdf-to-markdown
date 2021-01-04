@@ -23,7 +23,7 @@
     }
 </script>
 
-<div class="border-2 border-dashed border-gray-400 hover:border-blue-800" class:dragover>
+<div class="pb-5 border-2 border-dashed border-gray-400 hover:border-blue-800" class:dragover>
     <Dropzone
         on:drop={handleFilesSelect}
         on:dragenter={() => (dragover = true)}
@@ -35,7 +35,7 @@
             <span class:dragoverItem={dragover}>
                 <Download size="21x" />
             </span>
-            <div class="mt-4">
+            <div class="px-5">
                 <div class="text-5xl font-bold my-4">Drop your PDF file here...</div>
                 <div class="text-2xl font-bold">Or click the box to select one...</div>
                 <div class="mt-14"><strong>Note:</strong> Your data stays locally in your browser.</div>
