@@ -10,13 +10,25 @@ export default class PdfParser {
     this.pdfjs = pdfjs;
   }
 
-  async parse(data: Uint8Array): Promise<ParseResult> {
+  async parseBytes(data: Uint8Array): Promise<ParseResult> {
+    return this.parse(this.params({ data }));
+  }
+
+  async parseUrl(url: string): Promise<ParseResult> {
+    return this.parse(this.params({ url }));
+  }
+
+  private params(dataSourceParams: object): object {
+    const defaultParams = {
+      cMapUrl: 'cmaps/',
+      cMapPacked: true,
+    };
+    return { ...defaultParams, ...dataSourceParams };
+  }
+
+  async parse(parameter: object): Promise<ParseResult> {
     return this.pdfjs
-      .getDocument({
-        data,
-        cMapUrl: 'cmaps/',
-        cMapPacked: true,
-      })
+      .getDocument(parameter)
       .promise.then((pdfDocument) => {
         return Promise.all([pdfDocument.getMetadata(), this.extractPagesSequentially(pdfDocument)]);
       })

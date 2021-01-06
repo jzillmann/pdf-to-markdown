@@ -12,7 +12,11 @@ pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 
 const parser = pdfParser(pdfjs);
 
-export function processUpload(file: File): Promise<ParseResult> {
+export async function loadExample(): Promise<ParseResult> {
+    return parsePdf(parser.parseUrl('/ExamplePdf.pdf'));
+}
+
+export async function processUpload(file: File): Promise<ParseResult> {
     return new Promise((resolve, reject) => {
         const reader = new FileReader();
         reader.onerror = reject;
@@ -20,13 +24,15 @@ export function processUpload(file: File): Promise<ParseResult> {
             resolve(reader.result as ArrayBuffer);
         };
         reader.readAsArrayBuffer(file);
-    })
-        .then((buffer) => {
-            const uintArray = new Uint8Array(buffer as ArrayBuffer);
-            return parser.parse(uintArray);
-        })
-        .then((result) => {
-            parseResult.set(result);
-            return result;
-        });
+    }).then((buffer) => {
+        const data = new Uint8Array(buffer as ArrayBuffer);
+        return parsePdf(parser.parseBytes(data));
+    });
+}
+
+async function parsePdf(parsePromise: Promise<ParseResult>): Promise<ParseResult> {
+    return parsePromise.then((result) => {
+        parseResult.set(result);
+        return result;
+    });
 }

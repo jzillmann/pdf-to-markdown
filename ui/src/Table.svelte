@@ -1,5 +1,5 @@
 <script>
-    import type ParsedPageItem from 'pdf-to-markdown-core/lib/src/ParsedPageItem';
+    import type ParsedPageItem from '@core/ParsedPageItem';
 
     const headers = ['ID', 'Text', 'Font', 'Direction', 'Width', 'Height', 'Transform'];
     export let items: ParsedPageItem[];

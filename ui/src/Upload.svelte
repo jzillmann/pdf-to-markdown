@@ -1,19 +1,24 @@
 <script>
     import Dropzone from 'svelte-file-dropzone';
     import { Download } from 'svelte-hero-icons';
-    import { processUpload } from './store';
+    import { processUpload, loadExample } from './store';
 
-    let specifiedFile: File;
+    let specifiedFileName: string;
     let dragover = false;
     let upload: Promise<any>;
-    let rejectionError;
+    let rejectionError: string;
 
+    function handleExampleLoad() {
+        rejectionError = undefined;
+        specifiedFileName = 'ExamplePdf.pdf';
+        upload = loadExample();
+    }
     function handleFilesSelect(e) {
         rejectionError = undefined;
         const { acceptedFiles, fileRejections } = e.detail;
-        console.log(e.detail);
         if (acceptedFiles.length === 1) {
-            specifiedFile = acceptedFiles[0];
+            const specifiedFile = acceptedFiles[0];
+            specifiedFileName = specifiedFile.name;
             upload = processUpload(specifiedFile);
         }
         if (fileRejections.length > 1) {
@@ -23,6 +28,15 @@
     }
 </script>
 
+<!-- Options -->
+<div class="mb-0.5 flex flex-row-reverse space-x-2 space-x-reverse text-sm items-center">
+    <div class="py-0.5 border-2 border-gray-50 hover:underline cursor-pointer" on:click={handleExampleLoad}>
+        Load Example
+    </div>
+    <div class="py-0.5 px-1 border-2 border-gray-50 hover:border-blue-600 cursor-pointer">Debug</div>
+</div>
+
+<!-- Upload Box -->
 <div class="pb-5 border-2 border-dashed border-gray-400 hover:border-blue-800" class:dragover>
     <Dropzone
         on:drop={handleFilesSelect}
@@ -52,9 +66,9 @@
 
 <div class="mt-5 text-center font-bold">
     {#await upload}
-        <div>Parsing {specifiedFile.name}...</div>
+        <div>Parsing {specifiedFileName}...</div>
     {:catch error}
-        <div class="text-red-700">Failed to parse '{specifiedFile.name}': {error.message}</div>
+        <div class="text-red-700">Failed to parse '{specifiedFileName}': {error.message}</div>
     {/await}
     {#if rejectionError}
         <div class="text-red-700">{rejectionError}</div>

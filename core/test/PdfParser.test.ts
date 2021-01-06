@@ -6,7 +6,7 @@ const parser = new PdfParser(pdfjs);
 
 test('testIt', async () => {
   const data = fs.readFileSync('../examples/ExamplePdf.pdf', null);
-  const result = await parser.parse(data);
+  const result = await parser.parseBytes(data);
   expect(result.metadata.title()).toEqual('ExamplePdf');
   expect(result.metadata.author()).toEqual('Johannes Zillmann');
   expect(result.pages.length).toBe(7);
