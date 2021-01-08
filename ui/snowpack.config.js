@@ -4,6 +4,7 @@ module.exports = {
         public: { url: '/', static: true },
         src: { url: '/dist' },
         '../core/src': { url: '/core' },
+        'node_modules/pdfjs-dist/build/': { url: '/worker', static: true },
     },
     plugins: [
         ['@snowpack/plugin-build-script', { cmd: 'postcss', input: ['.css'], output: ['.css'] }],

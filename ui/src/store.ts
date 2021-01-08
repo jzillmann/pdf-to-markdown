@@ -6,9 +6,7 @@ import { Writable, writable } from 'svelte/store';
 
 export let parseResult: Writable<ParseResult> = writable(undefined);
 
-// TODO this will setup fake worker cause getMainThreadWorkerMessageHandler isn't null
-import pdfjsWorker from 'pdfjs-dist//es5/build/pdf.worker.entry';
-pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker;
+pdfjs.GlobalWorkerOptions.workerSrc = 'worker/pdf.worker.min.js';
 
 const parser = pdfParser(pdfjs);
 
