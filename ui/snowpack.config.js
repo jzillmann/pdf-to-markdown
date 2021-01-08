@@ -20,7 +20,7 @@ module.exports = {
         //rollup: { plugins: [require('rollup-plugin-svelte')()] },
     },
     devOptions: {
-        /* ... */
+        port: 3005,
     },
     buildOptions: {
         /* ... */
