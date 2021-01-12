@@ -1,4 +1,5 @@
-import { pdfParser } from '@core';
+import { pdfParser, parseReporter } from '@core';
+import type ProgressListenFunction from '@core/ProgressListenFunction';
 import type ParseResult from '@core/ParseResult';
 import * as pdfjs from 'pdfjs-dist/es5/build/pdf';
 
@@ -10,11 +11,11 @@ pdfjs.GlobalWorkerOptions.workerSrc = 'worker/pdf.worker.min.js';
 
 const parser = pdfParser(pdfjs);
 
-export async function loadExample(): Promise<ParseResult> {
-    return parsePdf(parser.parseUrl('/ExamplePdf.pdf'));
+export async function loadExample(progressListener: ProgressListenFunction): Promise<ParseResult> {
+    return parsePdf(parser.parseUrl('/ExamplePdf.pdf', parseReporter(progressListener)));
 }
 
-export async function processUpload(file: File): Promise<ParseResult> {
+export async function processUpload(file: File, progressListener: ProgressListenFunction): Promise<ParseResult> {
     return new Promise((resolve, reject) => {
         const reader = new FileReader();
         reader.onerror = reject;
@@ -24,7 +25,7 @@ export async function processUpload(file: File): Promise<ParseResult> {
         reader.readAsArrayBuffer(file);
     }).then((buffer) => {
         const data = new Uint8Array(buffer as ArrayBuffer);
-        return parsePdf(parser.parseBytes(data));
+        return parsePdf(parser.parseBytes(data, parseReporter(progressListener)));
     });
 }
 

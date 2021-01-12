@@ -1,21 +1,25 @@
 import Metadata from './Metadata';
 import ParsedPage from './ParsedPage';
+import type ParseReporter from './ParseReporter';
 import ParseResult from './ParseResult';
 import TextDirection from './TextDirection';
 import type TextItem from './TextItem';
 
+/**
+ * Parses a PDF via PDFJS and returns a ParseResult which contains more or less the original data from PDFJS.
+ */
 export default class PdfParser {
   pdfjs: any;
   constructor(pdfjs: any) {
     this.pdfjs = pdfjs;
   }
 
-  async parseBytes(data: Uint8Array): Promise<ParseResult> {
-    return this.parse(this.params({ data }));
+  async parseBytes(data: Uint8Array, reporter: ParseReporter): Promise<ParseResult> {
+    return this.parse(this.params({ data }), reporter);
   }
 
-  async parseUrl(url: string): Promise<ParseResult> {
-    return this.parse(this.params({ url }));
+  async parseUrl(url: string, reporter: ParseReporter): Promise<ParseResult> {
+    return this.parse(this.params({ url }), reporter);
   }
 
   private params(dataSourceParams: object): object {
@@ -26,27 +30,37 @@ export default class PdfParser {
     return { ...defaultParams, ...dataSourceParams };
   }
 
-  async parse(parameter: object): Promise<ParseResult> {
+  async parse(parameter: object, reporter: ParseReporter): Promise<ParseResult> {
     return this.pdfjs
       .getDocument(parameter)
       .promise.then((pdfDocument) => {
-        return Promise.all([pdfDocument.getMetadata(), this.extractPagesSequentially(pdfDocument)]);
+        reporter.parsedDocumentHeader(pdfDocument.numPages);
+        return Promise.all([
+          pdfDocument.getMetadata().then((metadata) => {
+            reporter.parsedMetadata();
+            return metadata;
+          }),
+          this.extractPagesSequentially(pdfDocument, reporter),
+        ]);
       })
       .then(([metadata, pages]) => new ParseResult(new Metadata(metadata), pages));
   }
 
-  private extractPagesSequentially(pdfDocument: any): Promise<ParsedPage> {
+  private extractPagesSequentially(pdfDocument: any, reporter: ParseReporter): Promise<ParsedPage> {
     return [...Array(pdfDocument.numPages)].reduce((accumulatorPromise, _, index) => {
       return accumulatorPromise.then((accumulatedResults) => {
         return pdfDocument.getPage(index + 1).then((page) => {
           const viewport = page.getViewport({ scale: 1.0 });
           return this.triggerFontRetrieval(page).then(() =>
             page
-              .getTextContent()
-              .then((textContent) => [
-                ...accumulatedResults,
-                new ParsedPage(index, viewport.transform, textContent.items),
-              ]),
+              .getTextContent({
+                normalizeWhitespace: false,
+                disableCombineTextItems: true,
+              })
+              .then((textContent) => {
+                reporter.parsedPage(index);
+                return [...accumulatedResults, new ParsedPage(index, viewport.transform, textContent.items)];
+              }),
           );
         });
       });

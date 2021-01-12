@@ -31,5 +31,6 @@ module.exports = {
     },
     alias: {
         '@core': '../core/src/index.js',
+        '@core/*': '../core/src/*',
     },
 };

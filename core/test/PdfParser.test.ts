@@ -1,15 +1,22 @@
 import PdfParser from 'src/PdfParser';
 import * as pdfjs from 'pdfjs-dist/es5/build/pdf';
 import * as fs from 'fs';
+import ParseProgressReporter from 'src/ParseProgressReporter';
+import Progress from 'src/Progress';
 
 const parser = new PdfParser(pdfjs);
 
-test('testIt', async () => {
+test('basic example PDF parse', async () => {
+  const progressUpdates: Progress[] = [];
   const data = fs.readFileSync('../examples/ExamplePdf.pdf', null);
-  const result = await parser.parseBytes(data);
+  const result = await parser.parseBytes(
+    data,
+    new ParseProgressReporter((progress) => progressUpdates.push(JSON.parse(JSON.stringify(progress)) as Progress)),
+  );
+  const expectedPages = 7;
   expect(result.metadata.title()).toEqual('ExamplePdf');
   expect(result.metadata.author()).toEqual('Johannes Zillmann');
-  expect(result.pages.length).toBe(7);
+  expect(result.pages.length).toBe(expectedPages);
   expect(result.pages[0].index).toBe(0);
   expect(result.pages[0].viewPortTransform).toEqual([1, 0, 0, -1, 0, 841.8898]);
   expect(result.pages[0].items).toEqual([
@@ -118,4 +125,30 @@ test('testIt', async () => {
       fontName: 'g_d0_f2',
     },
   ]);
+
+  expect(progressUpdates.length).toBe(expectedPages + 2);
+  progressUpdates.forEach((update) => expect(update.stages).toEqual(['Document Header', 'Metadata', 'Pages', 'Fonts']));
+  expect(progressUpdates[0].stageProgress).toEqual([1, 0, 0, 0]);
+  expect(progressUpdates[0].stageDetails).toEqual([null, null, `0 / ${expectedPages}`, null]);
+
+  expect(progressUpdates[1].stageProgress).toEqual([1, 1, 0, 0]);
+  expect(progressUpdates[1].stageDetails).toEqual([null, null, `0 / ${expectedPages}`, null]);
+
+  expect(progressUpdates[2].stageProgress).toEqual([1, 1, 1 / expectedPages, 0]);
+  expect(progressUpdates[2].stageDetails).toEqual([null, null, `1 / ${expectedPages}`, null]);
+  expect(progressUpdates[3].stageProgress).toEqual([1, 1, 2 / expectedPages, 0]);
+  expect(progressUpdates[3].stageDetails).toEqual([null, null, `2 / ${expectedPages}`, null]);
+  expect(progressUpdates[4].stageProgress).toEqual([1, 1, 3 / expectedPages, 0]);
+  expect(progressUpdates[4].stageDetails).toEqual([null, null, `3 / ${expectedPages}`, null]);
+  expect(progressUpdates[5].stageProgress).toEqual([1, 1, 4 / expectedPages, 0]);
+  expect(progressUpdates[5].stageDetails).toEqual([null, null, `4 / ${expectedPages}`, null]);
+  expect(progressUpdates[6].stageProgress).toEqual([1, 1, 5 / expectedPages, 0]);
+  expect(progressUpdates[6].stageDetails).toEqual([null, null, `5 / ${expectedPages}`, null]);
+  expect(progressUpdates[7].stageProgress).toEqual([1, 1, 6 / expectedPages, 0]);
+  expect(progressUpdates[7].stageDetails).toEqual([null, null, `6 / ${expectedPages}`, null]);
+  expect(progressUpdates[8].stageProgress).toEqual([1, 1, 7 / expectedPages, 0]);
+  expect(progressUpdates[8].stageDetails).toEqual([null, null, `7 / ${expectedPages}`, null]);
+
+  // expect(progressUpdates[9].stagePercents).toEqual([1, 1, 1, 0]);
+  // expect(progressUpdates[9].stageDetails).toEqual([null, null, `${expectedPages} / ${expectedPages}`, null]);
 });

@@ -1,30 +1,43 @@
 <script>
+    import { blur, slide } from 'svelte/transition';
     import Dropzone from 'svelte-file-dropzone';
-    import { Download } from 'svelte-hero-icons';
+    import { Download, Check } from 'svelte-hero-icons';
     import { processUpload, loadExample } from './store';
+    import type Progress from '@core/Progress';
+    import ProgressRing from './ProgressRing.svelte';
 
     let specifiedFileName: string;
     let dragover = false;
     let upload: Promise<any>;
     let rejectionError: string;
+    let parseProgress: Progress;
 
     function handleExampleLoad() {
-        rejectionError = undefined;
+        dragover = true;
         specifiedFileName = 'ExamplePdf.pdf';
-        upload = loadExample();
-    }
-    function handleFilesSelect(e) {
         rejectionError = undefined;
+        parseProgress = undefined;
+        upload = loadExample(handleProgress);
+    }
+
+    function handleFilesSelect(e) {
+        specifiedFileName = undefined;
+        rejectionError = undefined;
+        parseProgress = undefined;
         const { acceptedFiles, fileRejections } = e.detail;
         if (acceptedFiles.length === 1) {
             const specifiedFile = acceptedFiles[0];
             specifiedFileName = specifiedFile.name;
-            upload = processUpload(specifiedFile);
+            upload = processUpload(specifiedFile, handleProgress);
         }
         if (fileRejections.length > 1) {
             const fileNames = fileRejections.map((r) => r.file.name);
             rejectionError = `Only one file at a time allowed! Rejected ${fileRejections.length} files: '${fileNames}'.`;
         }
+    }
+
+    function handleProgress(progress: Progress) {
+        parseProgress = progress;
     }
 </script>
 
@@ -33,11 +46,11 @@
     <div class="py-0.5 border-2 border-gray-50 hover:underline cursor-pointer" on:click={handleExampleLoad}>
         Load Example
     </div>
-    <div class="py-0.5 px-1 border-2 border-gray-50 hover:border-blue-600 cursor-pointer">Debug</div>
+    <div class="py-0.5 px-1 border-2 border-gray-50 hover:border-green-600 cursor-pointer">Debug</div>
 </div>
 
 <!-- Upload Box -->
-<div class="pb-5 border-2 border-dashed border-gray-400 hover:border-blue-800" class:dragover>
+<div class="mb-5 border-2 border-dashed border-gray-400 hover:border-green-800" class:dragover>
     <Dropzone
         on:drop={handleFilesSelect}
         on:dragenter={() => (dragover = true)}
@@ -49,7 +62,7 @@
             <span class:dragoverItem={dragover}>
                 <Download size="21x" />
             </span>
-            <div class="px-5">
+            <div class="px-5 mb-5">
                 <div class="text-5xl font-bold my-4">Drop your PDF file here...</div>
                 <div class="text-2xl font-bold">Or click the box to select one...</div>
                 <div class="mt-14"><strong>Note:</strong> Your data stays locally in your browser.</div>
@@ -64,22 +77,55 @@
     </Dropzone>
 </div>
 
-<div class="mt-5 text-center font-bold">
-    {#await upload}
-        <div>Parsing {specifiedFileName}...</div>
-    {:catch error}
-        <div class="text-red-700">Failed to parse '{specifiedFileName}': {error.message}</div>
-    {/await}
-    {#if rejectionError}
-        <div class="text-red-700">{rejectionError}</div>
-    {/if}
+<!-- Progress Info -->
+<div class="mt-5 text-xl font-bold">
+    <div style="min-width: 70%;">
+        {#if specifiedFileName}
+            <div in:blur class="text-2xl mb-2">Parsing {specifiedFileName} ...</div>
+        {/if}
+        {#if parseProgress}
+            <div in:blur class="flex space-x-4">
+                <ProgressRing radius={50} stroke={7} progress={parseProgress?.totalProgress() * 100} />
+                <div>
+                    {#each parseProgress.stages as stage, index}
+                        {#if parseProgress.isProgressing(index)}
+                            <div class="flex space-x-2 items-center">
+                                <div>
+                                    Parsing
+                                    {stage}
+                                    {parseProgress.stageDetails[index] ? parseProgress.stageDetails[index] : ''}
+                                </div>
+                            </div>
+                        {:else if parseProgress.isComplete(index)}
+                            <div class="flex space-x-2 items-center ">
+                                <div>
+                                    Parsing
+                                    {stage}
+                                    {parseProgress.stageDetails[index] ? parseProgress.stageDetails[index] : ''}
+                                </div>
+                                <Check size="1.5x" class="text-green-700" />
+                            </div>
+                        {/if}
+                    {/each}
+                </div>
+            </div>
+        {/if}
+        {#if rejectionError}
+            <div in:slide class="text-red-700">{rejectionError}</div>
+        {/if}
+        {#await upload}
+            <!--  -->
+        {:catch error}
+            <div class="text-red-700">Failed to parse '{specifiedFileName}': {error?.message}</div>
+        {/await}
+    </div>
 </div>
 
 <style>
     .dragover {
-        @apply border-purple-600;
+        @apply border-green-600;
     }
     .dragoverItem {
-        @apply text-purple-600;
+        @apply text-green-600;
     }
 </style>
