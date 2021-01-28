@@ -1,52 +1,67 @@
 <script>
-    import type ParsedPageItem from '@core/ParsedPageItem';
+    import type Item from '@core/Item';
 
-    const headers = ['ID', 'Text', 'Font', 'Direction', 'Width', 'Height', 'Transform'];
-    export let items: ParsedPageItem[];
+    export let columns: string[];
+    export let items: Item[];
 </script>
 
-<div class="static">
-    <div class="grid" style="grid-template-columns:repeat({headers.length}, auto)">
-        {#each headers as header}
-            <div class="header">{header}</div>
+<table class="w-full text-left">
+    <thead class=" ">
+        <th />
+        <th>#</th>
+        {#each columns as column}
+            <th>{column}</th>
         {/each}
-        {#each items as item, i}
-            <div class="row contents">
-                <div class="cell">{i + 1}</div>
-                <div class="cell">{item.str}</div>
-                <div class="cell">{item.fontName}</div>
-                <div class="cell">{item.dir}</div>
-                <div class="cell">{item.width}</div>
-                <div class="cell">{item.height}</div>
-                <div class="cell">{item.transform.join(', ')}</div>
-            </div>
+    </thead>
+    <tbody>
+        {#each items as item, idx}
+            {#if idx > 0 && item.page !== items[idx - 1].page}
+                <tr class="h-5 bg-blue-200" />
+            {/if}
+            <tr class="">
+                {#if idx === 0 || item.page !== items[idx - 1].page}
+                    <td class="page bg-gray-50">Page {item.page}</td>
+                {:else}
+                    <td />
+                {/if}
+                <td class="">{idx}</td>
+                {#each columns as column}
+                    <td class="borde2r">{item.data[column]}</td>
+                {/each}
+            </tr>
         {/each}
-    </div>
-</div>
+    </tbody>
+</table>
 
 <style>
-    .grid {
-        width: 100%;
-        max-height: 100vh;
-        display: grid;
-        grid-auto-rows: min-content;
-        overflow-y: auto;
-        border: 1px solid #e3e4e4;
-        border-left: none;
-    }
-    .header {
-        @apply bg-gray-300;
+    th {
+        @apply px-1;
+        position: -webkit-sticky;
         position: sticky;
         top: 0;
-        padding: 5px;
-        border-bottom: 1px solid #e3e4e4;
+        z-index: 2;
     }
-    .row:hover > div {
+    th:not(:first-child) {
+        @apply bg-gray-300;
+        @apply shadow;
+    }
+    td:not(:first-child) {
+        @apply px-1;
+        @apply border-b;
+    }
+
+    tr:hover td:not(:first-child) {
         @apply bg-gray-200;
     }
 
-    .cell {
-        @apply pl-1;
-        border-left: 1px solid #e3e4e4;
+    .page {
+        @apply text-lg;
+        @apply font-semibold;
+        @apply pr-4;
+        @apply whitespace-nowrap;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        z-index: 2;
     }
 </style>

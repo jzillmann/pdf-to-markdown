@@ -1,22 +1,15 @@
 <script>
     import type ParseResult from 'pdf-to-markdown-core/lib/src/ParseResult';
+    import type Item from '@core/Item';
     import Table from './Table.svelte';
 
     export let parseResult: ParseResult;
-    console.log(parseResult.metadata);
 </script>
 
-<div>
-    Parsed
-    {parseResult.pages.length}
-    pages with
-    {parseResult.pages.reduce((count, page) => count + page.items.length, 0)}
-    items
+<div class="mb-4">
+    <div>Parsed {parseResult.pageCount()} pages with {parseResult.items.length} items</div>
+    <div>Title: {parseResult.metadata.title()}</div>
+    <div>Author: {parseResult.metadata.author()}</div>
 </div>
-<div>Title: {parseResult.metadata.title()}</div>
-<div>Author: {parseResult.metadata.author()}</div>
 
-{#each parseResult.pages as page}
-    <div class="text-2xl font-semibold my-5">Page {page.index}</div>
-    <Table items={page.items} />
-{/each}
+<Table columns={parseResult.columns} items={parseResult.items} />

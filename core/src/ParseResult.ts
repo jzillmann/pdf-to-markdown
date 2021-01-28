@@ -1,12 +1,20 @@
+import Item from './Item';
 import type Metadata from './Metadata';
-import type ParsedPage from './ParsedPage';
 
 export default class ParseResult {
+  pdfPages: any[];
   metadata: Metadata;
-  pages: ParsedPage[];
+  columns: string[];
+  items: Item[];
 
-  constructor(metadata: Metadata, pages: ParsedPage[]) {
+  constructor(pdfPages: any[], metadata: Metadata, columns: string[], items: Item[]) {
+    this.pdfPages = pdfPages;
     this.metadata = metadata;
-    this.pages = pages;
+    this.columns = columns;
+    this.items = items;
+  }
+
+  pageCount(): number {
+    return this.pdfPages.length;
   }
 }

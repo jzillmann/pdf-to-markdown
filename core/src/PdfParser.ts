@@ -1,3 +1,4 @@
+import Item from './Item';
 import Metadata from './Metadata';
 import ParsedPage from './ParsedPage';
 import type ParseReporter from './ParseReporter';
@@ -10,6 +11,7 @@ import type TextItem from './TextItem';
  */
 export default class PdfParser {
   pdfjs: any;
+  columns = ['str', 'dir', 'width', 'height', 'transfom', 'fontName'];
   constructor(pdfjs: any) {
     this.pdfjs = pdfjs;
   }
@@ -43,14 +45,17 @@ export default class PdfParser {
           this.extractPagesSequentially(pdfDocument, reporter),
         ]);
       })
-      .then(([metadata, pages]) => new ParseResult(new Metadata(metadata), pages));
+      .then(([metadata, pages]) => {
+        const pdfPages = pages.map((page) => page.pdfPage);
+        const items = pages.reduce((allItems, page) => allItems.concat(page.items), []);
+        return new ParseResult(pdfPages, new Metadata(metadata), this.columns, items);
+      });
   }
 
   private extractPagesSequentially(pdfDocument: any, reporter: ParseReporter): Promise<ParsedPage> {
     return [...Array(pdfDocument.numPages)].reduce((accumulatorPromise, _, index) => {
       return accumulatorPromise.then((accumulatedResults) => {
         return pdfDocument.getPage(index + 1).then((page) => {
-          const viewport = page.getViewport({ scale: 1.0 });
           return this.triggerFontRetrieval(page).then(() =>
             page
               .getTextContent({
@@ -58,8 +63,9 @@ export default class PdfParser {
                 disableCombineTextItems: true,
               })
               .then((textContent) => {
+                const items = textContent.items.map((rawItem) => new Item(index, rawItem));
                 reporter.parsedPage(index);
-                return [...accumulatedResults, new ParsedPage(index, viewport.transform, textContent.items)];
+                return [...accumulatedResults, new ParsedPage(index, page, items)];
               }),
           );
         });
@@ -119,7 +125,7 @@ export default class PdfParser {
         // console.log('Parsed result:', r.length);
         // console.log('Parsed result:', r);
 
-        return new ParseResult(new Metadata(metadata), r);
+        return new ParseResult([], new Metadata(metadata), [], []);
       });
   }
 }

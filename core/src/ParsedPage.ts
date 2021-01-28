@@ -2,12 +2,12 @@ import type ParsedPageItem from './ParsedPageItem';
 
 export default class ParsedPage {
   index: number;
-  viewPortTransform: number[];
+  pdfPage: any;
   items: ParsedPageItem[];
 
-  constructor(index: number, viewPortTransform: number[], items: ParsedPageItem[]) {
+  constructor(index: number, pdfPage: any, items: ParsedPageItem[]) {
     this.index = index;
-    this.viewPortTransform = viewPortTransform;
+    this.pdfPage = pdfPage;
     this.items = items;
   }
 }
