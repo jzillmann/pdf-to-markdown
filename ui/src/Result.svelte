@@ -1,6 +1,5 @@
 <script>
     import type ParseResult from 'pdf-to-markdown-core/lib/src/ParseResult';
-    import type Item from '@core/Item';
     import Table from './Table.svelte';
 
     export let parseResult: ParseResult;
