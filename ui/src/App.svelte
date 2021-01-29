@@ -6,7 +6,7 @@
 </script>
 
 <div class="text-2xl font-semibold font-serif text-center bg-gray-400">PDF to Markdown Converter</div>
-<main class="container mx-auto mt-5 h-full">
+<main class="mt-5 h-full">
     {#if $parseResult}
         <Result parseResult={$parseResult} />
     {:else}

@@ -11,7 +11,8 @@ import type TextItem from './TextItem';
  */
 export default class PdfParser {
   pdfjs: any;
-  columns = ['str', 'dir', 'width', 'height', 'transfom', 'fontName'];
+  columns = ['str', 'dir', 'width', 'height', 'transform', 'fontName'];
+
   constructor(pdfjs: any) {
     this.pdfjs = pdfjs;
   }

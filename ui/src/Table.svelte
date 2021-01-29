@@ -27,10 +27,27 @@
         openedPageIndex = false;
         focusedPage = undefined;
     }
+
+    function format(value: object) {
+        const type = typeof value;
+        if (typeof value === 'number') {
+            return (value as number).toFixed(2);
+        }
+        if (typeof value === 'object' && typeof Array.isArray(value)) {
+            let array = value as Array<object>;
+            if (array.length > 0 && typeof array[0] === 'number') {
+                array = (array.map((element) =>
+                    ((element as unknown) as number).toFixed(2)
+                ) as unknown) as Array<object>;
+            }
+            return '[' + array.join(', ') + ']';
+        }
+        return value;
+    }
 </script>
 
 <!-- Sticky Controls -->
-<div class="controls pb-3">
+<div class="controls py-2">
     <div class="flex items-center space-x-2">
         <span>
             <span on:click={() => (openedPageIndex = !openedPageIndex)}>
@@ -91,11 +108,11 @@
                             <div class="absolute flex">
                                 {#if !focused}
                                     <span on:click={() => focusOnPage(pageNumber)}>
-                                        <Support size="1x" class="hover:text-green-700 cursor-pointer" />
+                                        <Support size="1x" class="hover:text-green-700 cursor-pointer opacity-75" />
                                     </span>
                                 {:else}
                                     <span on:click={showAllPages}>
-                                        <Collection size="1x" class="hover:text-green-700 cursor-pointer" />
+                                        <Collection size="1x" class="hover:text-green-700 cursor-pointer opacity-75" />
                                     </span>
                                 {/if}
                             </div>
@@ -103,9 +120,9 @@
                     {:else}
                         <td />
                     {/if}
-                    <td class="">{itemIdx}</td>
+                    <td>{itemIdx}</td>
                     {#each columns as column}
-                        <td class="borde2r">{item.data[column]}</td>
+                        <td>{format(item.data[column])}</td>
                     {/each}
                 </tr>
             {/each}
@@ -129,7 +146,7 @@
         @apply whitespace-nowrap;
         position: -webkit-sticky;
         position: sticky;
-        top: 1.7em;
+        top: 2em;
         z-index: 2;
     }
 
@@ -137,7 +154,7 @@
         @apply px-1;
         position: -webkit-sticky;
         position: sticky;
-        top: 2.1em;
+        top: 2.4em;
         z-index: 2;
     }
     th:not(:first-child) {
