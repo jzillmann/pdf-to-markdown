@@ -1,14 +1,14 @@
 <script>
     import Upload from './Upload.svelte';
 
-    import { parseResult } from './store';
-    import Result from './Result.svelte';
+    import { parseResult, debug } from './store';
+    import DebugView from './debug/DebugView.svelte';
 </script>
 
 <div class="text-2xl font-semibold font-serif text-center bg-gray-400">PDF to Markdown Converter</div>
 <main class="mt-5 h-full">
-    {#if $parseResult}
-        <Result parseResult={$parseResult} />
+    {#if $debug}
+        <DebugView debug={$debug} />
     {:else}
         <Upload />
     {/if}

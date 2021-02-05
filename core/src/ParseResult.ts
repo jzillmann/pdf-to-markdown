@@ -1,16 +1,19 @@
-import Item from './Item';
+import type Item from './Item';
 import type Metadata from './Metadata';
+import type PageViewport from './parse/PageViewport';
 
 export default class ParseResult {
   pdfPages: any[];
+  pageViewports: PageViewport[];
   metadata: Metadata;
-  columns: string[];
+  schema: string[];
   items: Item[];
 
-  constructor(pdfPages: any[], metadata: Metadata, columns: string[], items: Item[]) {
+  constructor(pdfPages: any[], pageViewports: PageViewport[], metadata: Metadata, schema: string[], items: Item[]) {
     this.pdfPages = pdfPages;
+    this.pageViewports = pageViewports;
     this.metadata = metadata;
-    this.columns = columns;
+    this.schema = schema;
     this.items = items;
   }
 

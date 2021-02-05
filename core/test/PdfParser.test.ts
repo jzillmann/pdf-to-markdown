@@ -12,7 +12,7 @@ test('basic example PDF parse', async () => {
   const data = fs.readFileSync('../examples/ExamplePdf.pdf', null);
 
   // to test
-  const result = await parser.parseBytes(
+  const result = await parser.parse(
     data,
     new ParseProgressReporter((progress) => progressUpdates.push(JSON.parse(JSON.stringify(progress)) as Progress)),
   );
@@ -29,7 +29,7 @@ test('basic example PDF parse', async () => {
   expect(result.pdfPages[0].getViewport({ scale: 1.0 }).transform).toEqual([1, 0, 0, -1, 0, 841.8898]);
 
   // verify first n items
-  expect(result.items.slice(0, 16)).toEqual([
+  expect(result.items.slice(0, 16).map((item) => item.withoutUuid())).toEqual([
     new Item(0, {
       str: 'Mega Überschrift',
       dir: 'ltr',
@@ -37,7 +37,7 @@ test('basic example PDF parse', async () => {
       height: 30,
       transform: [30, 0, 0, 30, 175, 756],
       fontName: 'g_d0_f1',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: '2te Überschrift',
       dir: 'ltr',
@@ -45,7 +45,7 @@ test('basic example PDF parse', async () => {
       height: 20,
       transform: [20, 0, 0, 20, 233, 665],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: 'Dies ist eine Test-PDF',
       dir: 'ltr',
@@ -53,7 +53,7 @@ test('basic example PDF parse', async () => {
       height: 11,
       transform: [11, 0, 0, 11, 240, 585],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: '.',
       dir: 'ltr',
@@ -61,7 +61,7 @@ test('basic example PDF parse', async () => {
       height: 11,
       transform: [11, 0, 0, 11, 352.6927, 585],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: '1',
       dir: 'ltr',
@@ -69,7 +69,7 @@ test('basic example PDF parse', async () => {
       height: 7.333334,
       transform: [7.333334, 0, 0, 7.333334, 348, 588],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: 'Für’s Testen des ',
       dir: 'ltr',
@@ -77,7 +77,7 @@ test('basic example PDF parse', async () => {
       height: 11,
       transform: [11, 0, 0, 11, 208, 572],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: 'Markdown Parsers',
       dir: 'ltr',
@@ -85,7 +85,7 @@ test('basic example PDF parse', async () => {
       height: 11,
       transform: [11, 0, 0, 11, 291.77832, 572],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: '.',
       dir: 'ltr',
@@ -93,7 +93,7 @@ test('basic example PDF parse', async () => {
       height: 11,
       transform: [11, 0, 0, 11, 383.47360000000003, 572],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: ' ',
       dir: 'ltr',
@@ -101,7 +101,7 @@ test('basic example PDF parse', async () => {
       height: 11,
       transform: [11, 0, 0, 11, 61.078451, 59],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: 'In Deutsch.',
       dir: 'ltr',
@@ -109,7 +109,7 @@ test('basic example PDF parse', async () => {
       height: 11,
       transform: [11, 0, 0, 11, 64.134603, 59],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: '1',
       dir: 'ltr',
@@ -117,7 +117,7 @@ test('basic example PDF parse', async () => {
       height: 7.333334,
       transform: [7.333334, 0, 0, 7.333334, 57, 62],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: '\x00',
       dir: 'ltr',
@@ -125,7 +125,7 @@ test('basic example PDF parse', async () => {
       height: 12,
       transform: [12, 0, 0, 12, 294, 45],
       fontName: 'g_d0_f3',
-    }),
+    }).withoutUuid(),
     new Item(0, {
       str: '1',
       dir: 'ltr',
@@ -133,7 +133,7 @@ test('basic example PDF parse', async () => {
       height: 12,
       transform: [12, 0, 0, 12, 294, 45],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(1, {
       str: '\x00',
       dir: 'ltr',
@@ -141,7 +141,7 @@ test('basic example PDF parse', async () => {
       height: 12,
       transform: [12, 0, 0, 12, 294, 45],
       fontName: 'g_d0_f3',
-    }),
+    }).withoutUuid(),
     new Item(1, {
       str: '2',
       dir: 'ltr',
@@ -149,7 +149,7 @@ test('basic example PDF parse', async () => {
       height: 12,
       transform: [12, 0, 0, 12, 294, 45],
       fontName: 'g_d0_f2',
-    }),
+    }).withoutUuid(),
     new Item(2, {
       str: 'Paragraphen',
       dir: 'ltr',
@@ -157,7 +157,7 @@ test('basic example PDF parse', async () => {
       height: 18,
       transform: [18, 0, 0, 18, 57, 767],
       fontName: 'g_d0_f1',
-    }),
+    }).withoutUuid(),
   ]);
 
   // verify progress

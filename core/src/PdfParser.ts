@@ -1,6 +1,5 @@
 import Item from './Item';
 import Metadata from './Metadata';
-import ParsedPage from './ParsedPage';
 import type ParseReporter from './ParseReporter';
 import ParseResult from './ParseResult';
 import TextDirection from './TextDirection';
@@ -11,31 +10,18 @@ import type TextItem from './TextItem';
  */
 export default class PdfParser {
   pdfjs: any;
-  columns = ['str', 'dir', 'width', 'height', 'transform', 'fontName'];
+  defaultParams: object;
+  schema = ['str', 'fontName', 'dir', 'width', 'height', 'transform'];
 
-  constructor(pdfjs: any) {
+  constructor(pdfjs: any, defaultParams = {}) {
     this.pdfjs = pdfjs;
+    this.defaultParams = defaultParams;
   }
 
-  async parseBytes(data: Uint8Array, reporter: ParseReporter): Promise<ParseResult> {
-    return this.parse(this.params({ data }), reporter);
-  }
-
-  async parseUrl(url: string, reporter: ParseReporter): Promise<ParseResult> {
-    return this.parse(this.params({ url }), reporter);
-  }
-
-  private params(dataSourceParams: object): object {
-    const defaultParams = {
-      cMapUrl: 'cmaps/',
-      cMapPacked: true,
-    };
-    return { ...defaultParams, ...dataSourceParams };
-  }
-
-  async parse(parameter: object, reporter: ParseReporter): Promise<ParseResult> {
+  async parse(src: string | Uint8Array | object, reporter: ParseReporter): Promise<ParseResult> {
+    const documentInitParameters = { ...this.defaultParams, ...this.documentInitParameters(src) };
     return this.pdfjs
-      .getDocument(parameter)
+      .getDocument(documentInitParameters)
       .promise.then((pdfDocument) => {
         reporter.parsedDocumentHeader(pdfDocument.numPages);
         return Promise.all([
@@ -47,16 +33,38 @@ export default class PdfParser {
         ]);
       })
       .then(([metadata, pages]) => {
-        const pdfPages = pages.map((page) => page.pdfPage);
+        const pdfPages = pages.map((page) => page.page);
         const items = pages.reduce((allItems, page) => allItems.concat(page.items), []);
-        return new ParseResult(pdfPages, new Metadata(metadata), this.columns, items);
+        const pageViewports = pdfPages.map((page) => {
+          const viewPort = page.getViewport({ scale: 1.0 });
+          return { transformFunction: (itemTransform: number[]) => this.pdfjs.Util.transform(viewPort, itemTransform) };
+        });
+        return new ParseResult(pdfPages, pageViewports, new Metadata(metadata), this.schema, items);
       });
+  }
+
+  private documentInitParameters(src: string | Uint8Array | object): object {
+    if (typeof src === 'string') {
+      return { url: src };
+    }
+    if (this.isArrayBuffer(src)) {
+      return { data: src };
+    }
+    if (typeof src === 'object') {
+      return src;
+    }
+    throw new Error('Invalid PDFjs parameter for getDocument. Need either Uint8Array, string or a parameter object');
+  }
+
+  private isArrayBuffer(object) {
+    return typeof object === 'object' && object !== null && object.byteLength !== undefined;
   }
 
   private extractPagesSequentially(pdfDocument: any, reporter: ParseReporter): Promise<ParsedPage> {
     return [...Array(pdfDocument.numPages)].reduce((accumulatorPromise, _, index) => {
       return accumulatorPromise.then((accumulatedResults) => {
         return pdfDocument.getPage(index + 1).then((page) => {
+          const viewport = page.getViewport({ scale: 1.0 });
           return this.triggerFontRetrieval(page).then(() =>
             page
               .getTextContent({
@@ -66,7 +74,7 @@ export default class PdfParser {
               .then((textContent) => {
                 const items = textContent.items.map((rawItem) => new Item(index, rawItem));
                 reporter.parsedPage(index);
-                return [...accumulatedResults, new ParsedPage(index, page, items)];
+                return [...accumulatedResults, { index, page, items }];
               }),
           );
         });
@@ -92,6 +100,8 @@ export default class PdfParser {
             // console.log('Parsing page ' + index);
             return pdfDocument.getPage(index + 1).then((page) => {
               const viewport = page.getViewport({ scale: 1.0 });
+              console.log(viewport);
+
               return this.triggerFontRetrieval(page).then(() =>
                 page.getTextContent().then((textContent) => {
                   // console.log(textContent);
@@ -126,7 +136,13 @@ export default class PdfParser {
         // console.log('Parsed result:', r.length);
         // console.log('Parsed result:', r);
 
-        return new ParseResult([], new Metadata(metadata), [], []);
+        return {};
       });
   }
+}
+
+interface ParsedPage {
+  index: number;
+  page: any;
+  items: Item[];
 }
