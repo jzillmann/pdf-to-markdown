@@ -1,7 +1,7 @@
 import { assert } from './assert';
 import Item from './Item';
+import ItemResult from './ItemResult';
 import ItemTransformer from './transformer/ItemTransformer';
-import ParseResult from './ParseResult';
 import { calculateSchemas } from './transformer/transformerUtil';
 import TransformContext from './transformer/TransformContext';
 
@@ -11,7 +11,7 @@ export default class Debugger {
   transformers: ItemTransformer[];
   stageNames: string[];
   stageSchema: string[][];
-  private stageItems: Item[][];
+  private stageResultCache: ItemResult[];
 
   constructor(
     initialSchema: string[],
@@ -23,19 +23,21 @@ export default class Debugger {
     this.transformers = transformers;
     this.context = context;
     this.stageNames = ['Parse Result', ...transformers.map((t) => t.name)];
-    this.stageItems = [initialItems];
+    this.stageResultCache = [{ items: initialItems, messages: [`Parsed ${initialItems[initialItems.length-1].page+1} pages with ${initialItems.length} items`] }];
     this.stageSchema = calculateSchemas(initialSchema, transformers);
   }
 
   //TODO return MarkedItem ? (removed, added, etc..)?
   //TODO StageResult == class with schema and marked items ?
-  stageResults(stageIndex: number): Item[] {
+  stageResults(stageIndex: number): ItemResult {
     for (let idx = 0; idx < stageIndex + 1; idx++) {
-      if (!this.stageItems[idx]) {
-        const stageItems = this.transformers[idx - 1].transform(this.context, this.stageItems[idx - 1]);
-        this.stageItems.push(stageItems);
+      if (!this.stageResultCache[idx]) {
+        const stageResult = this.transformers[idx - 1].transform(this.context, [
+          ...this.stageResultCache[idx - 1].items,
+        ]);
+        this.stageResultCache.push(stageResult);
       }
     }
-    return this.stageItems[stageIndex];
+    return this.stageResultCache[stageIndex];
   }
 }

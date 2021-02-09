@@ -1,5 +1,6 @@
 import PageViewport from 'src/parse/PageViewport';
 import Item from '../Item';
+import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
 
@@ -10,11 +11,12 @@ export default class AdjustHeight extends ItemTransformer {
     });
   }
 
-  transform(context: TransformContext, items: Item[]): Item[] {
+  transform(context: TransformContext, items: Item[]): ItemResult {
     const newItems: Item[] = [];
     let page = -1;
     let pageViewport: PageViewport;
     //TODO groupBy page
+    let correctedHeights = 0;
     items.forEach((item) => {
       if (item.page !== page) {
         pageViewport = context.pageViewports[item.page];
@@ -27,11 +29,12 @@ export default class AdjustHeight extends ItemTransformer {
       const dividedHeight = itemHeight / fontHeight;
       const newHeight = Number.isNaN(dividedHeight) || dividedHeight <= 1 ? itemHeight : dividedHeight;
       if (newHeight !== itemHeight) {
+        correctedHeights++;
         newItems.push(item.withDataAddition({ height: newHeight }));
       } else {
         newItems.push(item);
       }
     });
-    return items;
+    return { items, messages: [`${correctedHeights} corrected heights`] };
   }
 }

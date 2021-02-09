@@ -51,7 +51,7 @@
                     {/if}
                     <td>{itemIdx}</td>
                     {#each schema as column}
-                        <td>{format(item.data[column])}</td>
+                        <td class="select-all">{format(item.data[column])}</td>
                     {/each}
                 </tr>
             {/each}

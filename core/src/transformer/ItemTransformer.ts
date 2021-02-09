@@ -1,6 +1,7 @@
 import TransformerDescription from '../TransformerDescription';
 import type Item from '../Item';
 import TransformContext from './TransformContext';
+import ItemResult from 'src/ItemResult';
 
 export default abstract class ItemTransformer {
   readonly name: string;
@@ -21,5 +22,5 @@ export default abstract class ItemTransformer {
   }
 
   // columnar-changes: described
-  abstract transform(context: TransformContext, items: Item[]): Item[];
+  abstract transform(context: TransformContext, items: Item[]): ItemResult;
 }

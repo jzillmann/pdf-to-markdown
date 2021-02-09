@@ -14,12 +14,12 @@
     $: canNext = currentStage + 1 < stageNames.length;
     $: canPrev = currentStage > 0;
     $: stageSchema = debug.stageSchema[currentStage];
-    $: stageItems = debug.stageResults(currentStage);
+    $: stageResult = debug.stageResults(currentStage);
     $: pageFocus = !isNaN(focusedPage);
-    $: pagesNumbers = new Set(stageItems.map((item) => item.page));
+    $: pagesNumbers = new Set(stageResult.items.map((item) => item.page));
     $: maxPage = Math.max(...pagesNumbers);
     $: itemsByPage = [
-        ...stageItems.reduce((map, item) => {
+        ...stageResult.items.reduce((map, item) => {
             if (!map.has(item.page)) {
                 map.set(item.page, []);
             }
@@ -41,11 +41,9 @@
 </script>
 
 <div class="mx-4">
-    <div class="mb-4">
         <!-- <div>Parsed {parseResult.pageCount()} pages with {parseResult.items.length} items</div>
         <div>Title: {parseResult.metadata.title()}</div>
         <div>Author: {parseResult.metadata.author()}</div> -->
-    </div>
 
     <!-- Sticky Controls -->
     <div class="controls py-2">
@@ -89,10 +87,18 @@
             <span on:click={() => canNext && currentStage++}>
                 <ArrowRight size="1x" class={canNext ? 'hover:text-green-700 cursor-pointer' : 'opacity-50'} />
             </span>
-            <div>{stageNames[currentStage]}</div>
+            <div class="cursor-pointer hover:underline">{stageNames[currentStage]}</div>
         </div>
     </div>
 
+    <!-- Stage Messages -->
+    <ul class="list-disc list-inside mb-2 p-2 bg-yellow-100 rounded shadow text-sm">
+        {#each stageResult.messages as message}
+            <li>{message}</li>
+        {/each}
+    </ul>
+
+    <!-- Items -->
     <ItemTable schema={stageSchema} itemsByPage={visiblePages} {maxPage} {pageFocus} />
 </div>
 
