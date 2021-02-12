@@ -35,7 +35,10 @@ export default class PdfParser {
         const items = pages.reduce((allItems, page) => allItems.concat(page.items), []);
         const pageViewports = pdfPages.map((page) => {
           const viewPort = page.getViewport({ scale: 1.0 });
-          return { transformFunction: (itemTransform: number[]) => this.pdfjs.Util.transform(viewPort, itemTransform) };
+          return {
+            transformFunction: (itemTransform: number[]) =>
+              this.pdfjs.Util.transform(viewPort.transform, itemTransform),
+          };
         });
         return new ParseResult(pdfPages, pageViewports, new Metadata(metadata), this.schema, items);
       });
