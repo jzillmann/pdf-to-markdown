@@ -9,7 +9,7 @@ import ParseResult from './ParseResult';
 export default class PdfParser {
   pdfjs: any;
   defaultParams: object;
-  schema = ['str', 'fontName', 'dir', 'width', 'height', 'transform'];
+  schema = ['str', 'fontName', 'dir', 'transform', 'width', 'height'];
 
   constructor(pdfjs: any, defaultParams = {}) {
     this.pdfjs = pdfjs;
@@ -20,10 +20,10 @@ export default class PdfParser {
     const documentInitParameters = { ...this.defaultParams, ...this.documentInitParameters(src) };
     return this.pdfjs
       .getDocument(documentInitParameters)
-      .promise.then((pdfDocument) => {
+      .promise.then((pdfDocument: any) => {
         reporter.parsedDocumentHeader(pdfDocument.numPages);
         return Promise.all([
-          pdfDocument.getMetadata().then((metadata) => {
+          pdfDocument.getMetadata().then((metadata: any) => {
             reporter.parsedMetadata();
             return metadata;
           }),
@@ -31,9 +31,9 @@ export default class PdfParser {
         ]);
       })
       .then(([metadata, pages]) => {
-        const pdfPages = pages.map((page) => page.page);
-        const items = pages.reduce((allItems, page) => allItems.concat(page.items), []);
-        const pageViewports = pdfPages.map((page) => {
+        const pdfPages = pages.map((page: any) => page.page);
+        const items = pages.reduce((allItems: any[], page: any) => allItems.concat(page.items), []);
+        const pageViewports = pdfPages.map((page: any) => {
           const viewPort = page.getViewport({ scale: 1.0 });
           return {
             transformFunction: (itemTransform: number[]) =>
@@ -57,23 +57,22 @@ export default class PdfParser {
     throw new Error('Invalid PDFjs parameter for getDocument. Need either Uint8Array, string or a parameter object');
   }
 
-  private isArrayBuffer(object) {
+  private isArrayBuffer(object: any) {
     return typeof object === 'object' && object !== null && object.byteLength !== undefined;
   }
 
   private extractPagesSequentially(pdfDocument: any, reporter: ParseReporter): Promise<ParsedPage> {
     return [...Array(pdfDocument.numPages)].reduce((accumulatorPromise, _, index) => {
       return accumulatorPromise.then((accumulatedResults) => {
-        return pdfDocument.getPage(index + 1).then((page) => {
-          const viewport = page.getViewport({ scale: 1.0 });
+        return pdfDocument.getPage(index + 1).then((page: any) => {
           return this.triggerFontRetrieval(page).then(() =>
             page
               .getTextContent({
                 normalizeWhitespace: false,
                 disableCombineTextItems: true,
               })
-              .then((textContent) => {
-                const items = textContent.items.map((rawItem) => new Item(index, rawItem));
+              .then((textContent: any) => {
+                const items = textContent.items.map((rawItem: any) => new Item(index, rawItem));
                 reporter.parsedPage(index);
                 return [...accumulatedResults, { index, page, items }];
               }),
@@ -83,63 +82,9 @@ export default class PdfParser {
     }, Promise.resolve([]));
   }
 
-  private triggerFontRetrieval(page): Promise<void> {
+  private triggerFontRetrieval(page: any): Promise<void> {
     return page.getOperatorList();
   }
-
-  // async parseOld(data: Uint8Array): Promise<ParseResult> {
-  //   return this.pdfjs
-  //     .getDocument({
-  //       data,
-  //       cMapUrl: 'cmaps/',
-  //       cMapPacked: true,
-  //     })
-  //     .promise.then((pdfDocument) => {
-  //       // console.log('result', pdfDocument);
-  //       const result = [...Array(pdfDocument.numPages)].reduce((accumulatorPromise, _, index) => {
-  //         return accumulatorPromise.then((accumulatedResults) => {
-  //           // console.log('Parsing page ' + index);
-  //           return pdfDocument.getPage(index + 1).then((page) => {
-  //             const viewport = page.getViewport({ scale: 1.0 });
-  //             console.log(viewport);
-
-  //             return this.triggerFontRetrieval(page).then(() =>
-  //               page.getTextContent().then((textContent) => {
-  //                 // console.log(textContent);
-  //                 const textItems: TextItem[] = textContent.items.map((item) => {
-  //                   const tx = this.pdfjs.Util.transform(viewport.transform, item.transform);
-  //                   const fontHeight = Math.sqrt(tx[2] * tx[2] + tx[3] * tx[3]);
-  //                   const dividedHeight = item.height / fontHeight;
-
-  //                   return {
-  //                     x: Math.round(item.transform[4]),
-  //                     y: Math.round(item.transform[5]),
-  //                     width: Math.round(item.width),
-  //                     height: Math.round(
-  //                       Number.isNaN(dividedHeight) || dividedHeight <= 1 ? item.height : dividedHeight,
-  //                     ),
-  //                     text: item.str,
-  //                     textDirection: TextDirection.fromPdfJs(item.dir),
-  //                     fontId: item.fontName,
-  //                   };
-  //                 });
-
-  //                 return [...accumulatedResults, ...textItems];
-  //               }),
-  //             );
-  //           });
-  //         });
-  //       }, Promise.resolve([]));
-  //       return Promise.all([pdfDocument.getMetadata(), result]);
-  //     })
-  //     .then(([metadata, r]) => {
-  //       // console.log('Parsed metadata:', metadata);
-  //       // console.log('Parsed result:', r.length);
-  //       // console.log('Parsed result:', r);
-
-  //       return {};
-  //     });
-  // }
 }
 
 interface ParsedPage {

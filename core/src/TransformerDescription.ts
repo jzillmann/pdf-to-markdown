@@ -1,7 +1,5 @@
-export default interface TransformerDescription {
+export default interface TransformerDescriptor {
+  readonly requireColumns?: string[];
   readonly consumesGlobels?: string[];
   readonly producesGlobels?: string[];
-  readonly consumes?: string[];
-  readonly produces?: string[];
-  readonly removes?: string[];
 }

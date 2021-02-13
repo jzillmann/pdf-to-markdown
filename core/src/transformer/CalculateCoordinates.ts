@@ -5,19 +5,30 @@ import TransformContext from './TransformContext';
 
 export default class CalculateCoordinates extends ItemTransformer {
   constructor() {
-    super('Calculate Coordinates', {
-      consumes: ['transform'],
-      produces: ['X', 'Y'],
-      removes: ['transform'],
-    });
+    super(
+      'Calculate Coordinates',
+      'Extracts X and Y out of the Transform array',
+      {
+        requireColumns: ['transform'],
+      },
+      (incomingSchema) => {
+        return incomingSchema.reduce((schema, column) => {
+          if (column === 'transform') {
+            return [...schema, 'x', 'y'];
+          }
+          return [...schema, column];
+        }, new Array<string>());
+      },
+    );
   }
 
-  transform(context: TransformContext, items: Item[]): ItemResult {
-    // const transform: number[] = item.value['Transform'];
-    items.shift();
-    if(items[0]){
-      items[0].data['fontName']='xxx';
-    }
-    return { items, messages: [] };
+  transform(_: TransformContext, items: Item[]): ItemResult {
+    const transformedItems = items.map((item) => {
+      const transform: number[] = item.data['transform'];
+      const x = transform[4];
+      const y = transform[5];
+      return item.withDataAddition({ x, y });
+    });
+    return { items: transformedItems, messages: [] };
   }
 }

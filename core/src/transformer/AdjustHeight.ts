@@ -6,8 +6,8 @@ import TransformContext from './TransformContext';
 
 export default class AdjustHeight extends ItemTransformer {
   constructor() {
-    super('Adjust Heights', {
-      consumes: ['transform', 'height'],
+    super('Adjust Heights', 'Corrects height with help of the page viewport', {
+      requireColumns: ['transform', 'height'],
     });
   }
 

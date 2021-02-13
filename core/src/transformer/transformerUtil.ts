@@ -1,4 +1,4 @@
-import TransformerDescription from 'src/TransformerDescription';
+import TransformerDescriptor from 'src/TransformerDescription';
 import { assert } from '../assert';
 import ItemTransformer from './ItemTransformer';
 
@@ -23,9 +23,8 @@ export function calculateSchemas(initialSchema: string[], transformers: ItemTran
   for (let idx = 0; idx < transformers.length; idx++) {
     const transformer = transformers[idx];
     const inputSchema = schemas[idx];
-    validateReferences(inputSchema, transformer.name, transformer.description);
-    const outputSchema = inputSchema.filter((column) => !transformer.description.removes?.includes(column));
-    transformer.description.produces?.forEach((column) => outputSchema.push(column));
+    validateReferences(inputSchema, transformer.name, transformer.descriptor);
+    const outputSchema = transformer.schemaTransformer(inputSchema);
     schemas.push(outputSchema);
   }
   return schemas;
@@ -34,22 +33,14 @@ export function calculateSchemas(initialSchema: string[], transformers: ItemTran
 function validateReferences(
   inputSchema: string[],
   transformerName: string,
-  transformerDescription: TransformerDescription,
+  transformerDescriptor: TransformerDescriptor,
 ) {
-  transformerDescription.consumes?.forEach((column) => {
+  transformerDescriptor.requireColumns?.forEach((column) => {
     assert(
       inputSchema.includes(column),
       `Input schema [${inputSchema.join(
         ', ',
       )}] for transformer '${transformerName}' does not contain the required column '${column}' (consumes)`,
-    );
-  });
-  transformerDescription.removes?.forEach((column) => {
-    assert(
-      inputSchema.includes(column),
-      `Input schema [${inputSchema.join(
-        ', ',
-      )}] for transformer '${transformerName}' does not contain the required column '${column}' (removes)`,
     );
   });
 }
