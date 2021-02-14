@@ -1,4 +1,5 @@
 <script>
+    import { scale } from 'svelte/transition';
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
     import type Item from '@core/Item';
     import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';
@@ -34,9 +35,10 @@
     <thead class=" ">
         <th />
         <th>#</th>
-        {#each schema as column}
+        {#each schema as column (column.name)}
             <th
-                class={column.annotation === ColumnAnnotation.ADDED ? 'text-green-600' : column.annotation === ColumnAnnotation.REMOVED ? 'text-red-600' : ''}>
+                transition:scale
+                class="{column.annotation === ColumnAnnotation.ADDED ? 'text-green-600' : column.annotation === ColumnAnnotation.REMOVED ? 'text-red-600' : ''} transition-colors duration-300 delay-200">
                 {column.name}
             </th>
         {/each}

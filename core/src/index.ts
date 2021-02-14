@@ -6,8 +6,9 @@ import PdfPipeline from './PdfPipeline';
 
 import AdjustHeight from './transformer/AdjustHeight';
 import CalculateCoordinates from './transformer/CalculateCoordinates';
+import CompactLines from './transformer/CompactLines';
 
-const transformers = [new AdjustHeight(), new CalculateCoordinates()];
+const transformers = [new AdjustHeight(), new CalculateCoordinates(), new CompactLines()];
 
 const defaultConfig: Config = {
   pdfjsParams: {

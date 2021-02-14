@@ -1,4 +1,5 @@
 <script>
+    import { fade, slide } from 'svelte/transition';
     import type Debugger from '@core/Debugger';
     import type Item from '@core/Item';
     import { Collection, BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
@@ -48,7 +49,7 @@
     <div class="controls py-2">
         <div class="flex items-center space-x-2">
             {#if pageFocus}
-                <span on:click={showAllPages}>
+                <span on:click={showAllPages} transition:slide>
                     <Collection size="1x" class="hover:text-green-700 cursor-pointer opacity-75" />
                 </span>
             {/if}
@@ -59,7 +60,9 @@
 
                 <!-- Page selection popup-->
                 {#if openedPageIndex}
-                    <div class="absolute mt-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96">
+                    <div
+                        class="absolute mt-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96"
+                        transition:slide>
                         <span class="mt-1 pr-2" on:click={showAllPages}>
                             <Collection size="1x" class="hover:text-green-700 cursor-pointer" />
                         </span>
@@ -91,9 +94,11 @@
     </div>
 
     <!-- Stage Messages -->
-    <ul class="list-disc list-inside mb-2 p-2 bg-yellow-100 rounded shadow text-sm">
+    <ul
+        class="messages list-disc list-inside mb-2 p-2 bg-yellow-100 rounded shadow text-sm"
+        style="max-height:{stageResult.messages.length * 40}px">
         {#each stageResult.messages as message}
-            <li>{message}</li>
+            <li in:slide={{ delay: 200 }} out:slide>{message}</li>
         {/each}
     </ul>
 
@@ -108,5 +113,8 @@
         position: sticky;
         top: 0;
         z-index: 3;
+    }
+    .messages {
+        transition: max-height 0.15s ease-in-out;
     }
 </style>
