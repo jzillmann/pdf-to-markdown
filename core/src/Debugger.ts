@@ -1,43 +1,81 @@
-import { assert } from './assert';
 import Item from './Item';
 import ItemResult from './ItemResult';
 import ItemTransformer from './transformer/ItemTransformer';
-import { calculateSchemas } from './transformer/transformerUtil';
 import TransformContext from './transformer/TransformContext';
+import StageResult from './debug/StageResult';
+import ColumnAnnotation from './debug/ColumnAnnotation';
+import AnnotatedColumn from './debug/AnnotatedColumn';
 
 export default class Debugger {
-  // parseResult: ParseResult;
-  context: TransformContext;
-  transformers: ItemTransformer[];
+  private context: TransformContext;
+  private transformers: ItemTransformer[];
+  private stageResultCache: StageResult[];
   stageNames: string[];
-  stageSchema: string[][];
-  private stageResultCache: ItemResult[];
 
-  constructor(
-    initialSchema: string[],
-    initialItems: Item[],
-    context: TransformContext,
-    transformers: ItemTransformer[],
-  ) {
-    // this.parseResult = parseResult;
+  constructor(inputSchema: string[], inputItems: Item[], context: TransformContext, transformers: ItemTransformer[]) {
     this.transformers = transformers;
     this.context = context;
     this.stageNames = ['Parse Result', ...transformers.map((t) => t.name)];
-    this.stageResultCache = [{ items: initialItems, messages: [`Parsed ${initialItems[initialItems.length-1].page+1} pages with ${initialItems.length} items`] }];
-    this.stageSchema = calculateSchemas(initialSchema, transformers);
+    this.stageResultCache = [
+      {
+        schema: inputSchema.map((column) => ({ name: column })),
+        items: inputItems,
+        messages: [
+          `Parsed ${inputItems.length === 0 ? 0 : inputItems[inputItems.length - 1].page + 1} pages with ${
+            inputItems.length
+          } items`,
+        ],
+      },
+    ];
   }
 
   //TODO return MarkedItem ? (removed, added, etc..)?
-  //TODO StageResult == class with schema and marked items ?
-  stageResults(stageIndex: number): ItemResult {
+  stageResults(stageIndex: number): StageResult {
     for (let idx = 0; idx < stageIndex + 1; idx++) {
       if (!this.stageResultCache[idx]) {
-        const stageResult = this.transformers[idx - 1].transform(this.context, [
-          ...this.stageResultCache[idx - 1].items,
-        ]);
-        this.stageResultCache.push(stageResult);
+        const transformer = this.transformers[idx - 1];
+        const previousStageResult: StageResult = this.stageResultCache[idx - 1];
+        const inputSchema = toSimpleSchema(previousStageResult);
+        const outputSchema = transformer.schemaTransformer(inputSchema);
+        const itemResult = transformer.transform(this.context, [...this.stageResultCache[idx - 1].items]);
+        this.stageResultCache.push({
+          schema: toAnnotatedSchema(inputSchema, outputSchema),
+          ...itemResult,
+        });
       }
     }
     return this.stageResultCache[stageIndex];
   }
+}
+
+function toSimpleSchema(stageResult: StageResult): string[] {
+  return stageResult.schema
+    .filter((column) => !column.annotation || column.annotation !== ColumnAnnotation.REMOVED)
+    .map((column) => column.name);
+}
+
+function toAnnotatedSchema(inputSchema: string[], outputSchema: string[]): AnnotatedColumn[] {
+  const annotatedSchema: AnnotatedColumn[] = [];
+  let out_idx = 0;
+  for (let in_idx = 0; in_idx < inputSchema.length; in_idx++) {
+    const nextInputColumn = inputSchema[in_idx];
+    const indexInOut = outputSchema.indexOf(nextInputColumn);
+    if (indexInOut === -1) {
+      annotatedSchema.push({ name: nextInputColumn, annotation: ColumnAnnotation.REMOVED });
+    } else if (indexInOut > out_idx) {
+      while (out_idx < indexInOut) {
+        annotatedSchema.push({ name: outputSchema[out_idx], annotation: ColumnAnnotation.ADDED });
+        out_idx++;
+      }
+      annotatedSchema.push({ name: nextInputColumn });
+      out_idx++;
+    } else {
+      annotatedSchema.push({ name: nextInputColumn });
+      out_idx++;
+    }
+  }
+  for (let index = out_idx; index < outputSchema.length; index++) {
+    annotatedSchema.push({ name: outputSchema[index], annotation: ColumnAnnotation.ADDED });
+  }
+  return annotatedSchema;
 }

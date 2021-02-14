@@ -3,7 +3,10 @@ import Item from 'src/Item';
 import ItemResult from 'src/ItemResult';
 import ItemTransformer from 'src/transformer/ItemTransformer';
 import TransformContext from 'src/transformer/TransformContext';
-import { calculateSchemas, verifyRequiredColumns } from 'src/transformer/transformerUtil';
+import PdfParser from 'src/PdfParser';
+import * as pdfjs from 'pdfjs-dist/es5/build/pdf';
+import * as fs from 'fs';
+import PdfPipeline from 'src/PdfPipeline';
 
 class TestSchemaTransformer extends ItemTransformer {
   constructor(name: string, descriptor: TransformerDescriptor, outputSchema: string[] | undefined = undefined) {
@@ -26,36 +29,15 @@ test('verify valid transform', async () => {
     new TestSchemaTransformer('Create E', {}, ['A', 'D', 'E']),
     new TestSchemaTransformer('Uses A, D & E', { requireColumns: ['A', 'D', 'E'] }, ['A', 'D', 'E']),
   ];
-  verifyRequiredColumns(inputSchema, transformers);
+  const pipeline = new PdfPipeline(new PdfParser(pdfjs), transformers);
+  pipeline.verifyRequiredColumns(inputSchema, transformers);
 });
 
 test('verify invalid consume', async () => {
   const inputSchema = ['A', 'B', 'C'];
-
   const transformers = [new TestSchemaTransformer('Consumes X', { requireColumns: ['X'] })];
-  expect(() => verifyRequiredColumns(inputSchema, transformers)).toThrowError(
-    "Input schema [A, B, C] for transformer 'Consumes X' does not contain the required column 'X' (consumes)",
+  const pipeline = new PdfPipeline(new PdfParser(pdfjs), transformers);
+  expect(() => pipeline.verifyRequiredColumns(inputSchema, transformers)).toThrowError(
+    "Input schema [A, B, C] for transformer 'Consumes X' does not contain the required column 'X'",
   );
-});
-
-test('calculate schemas', async () => {
-  const inputSchema = ['A', 'B', 'C'];
-
-  const transformers = [
-    new TestSchemaTransformer(
-      'Replace B & C with D',
-      {
-        requireColumns: ['B', 'C'],
-      },
-      ['A', 'D'],
-    ),
-    new TestSchemaTransformer('Create E', {}, ['A', 'D', 'E']),
-    new TestSchemaTransformer('Uses A, D & E', { requireColumns: ['A', 'D', 'E'] }),
-  ];
-  expect(calculateSchemas(inputSchema, transformers)).toEqual([
-    ['A', 'B', 'C'],
-    ['A', 'D'],
-    ['A', 'D', 'E'],
-    ['A', 'D', 'E'],
-  ]);
 });

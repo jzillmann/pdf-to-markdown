@@ -1,7 +1,9 @@
 <script>
+    import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
     import type Item from '@core/Item';
+    import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';
 
-    export let schema: string[];
+    export let schema: AnnotatedColumn[];
     export let itemsByPage: [number, Item[]][];
     export let maxPage: number;
     export let pageFocus: boolean;
@@ -21,6 +23,9 @@
         }
         return value;
     }
+
+    //TODO if no ADDED/REMOVE cols
+    // - have highlight declarations in descriptor
 </script>
 
 <!-- Item table -->
@@ -30,7 +35,10 @@
         <th />
         <th>#</th>
         {#each schema as column}
-            <th>{column}</th>
+            <th
+                class={column.annotation === ColumnAnnotation.ADDED ? 'text-green-600' : column.annotation === ColumnAnnotation.REMOVED ? 'text-red-600' : ''}>
+                {column.name}
+            </th>
         {/each}
     </thead>
     <tbody>
@@ -51,7 +59,7 @@
                     {/if}
                     <td>{itemIdx}</td>
                     {#each schema as column}
-                        <td class="select-all">{format(item.data[column])}</td>
+                        <td class="select-all">{format(item.data[column.name])}</td>
                     {/each}
                 </tr>
             {/each}

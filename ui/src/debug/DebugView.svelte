@@ -13,7 +13,6 @@
     let currentStage = 0;
     $: canNext = currentStage + 1 < stageNames.length;
     $: canPrev = currentStage > 0;
-    $: stageSchema = debug.stageSchema[currentStage];
     $: stageResult = debug.stageResults(currentStage);
     $: pageFocus = !isNaN(focusedPage);
     $: pagesNumbers = new Set(stageResult.items.map((item) => item.page));
@@ -41,7 +40,7 @@
 </script>
 
 <div class="mx-4">
-        <!-- <div>Parsed {parseResult.pageCount()} pages with {parseResult.items.length} items</div>
+    <!-- <div>Parsed {parseResult.pageCount()} pages with {parseResult.items.length} items</div>
         <div>Title: {parseResult.metadata.title()}</div>
         <div>Author: {parseResult.metadata.author()}</div> -->
 
@@ -99,7 +98,7 @@
     </ul>
 
     <!-- Items -->
-    <ItemTable schema={stageSchema} itemsByPage={visiblePages} {maxPage} {pageFocus} />
+    <ItemTable schema={stageResult.schema} itemsByPage={visiblePages} {maxPage} {pageFocus} />
 </div>
 
 <style>
