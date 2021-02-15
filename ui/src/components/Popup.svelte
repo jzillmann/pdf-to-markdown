@@ -11,12 +11,14 @@
     }
 </script>
 
-<span on:click|stopPropagation={toogle}>
-    <slot name="trigger" />
-</span>
-
-{#if $opened}
-    <span use:clickOutside={{ enabled: opened, cb: () => opened.set(false) }}>
-        <slot name="content" />
+<span use:clickOutside={{ enabled: opened, cb: () => opened.set(false) }}>
+    <span on:click={toogle}>
+        <slot name="trigger" />
     </span>
-{/if}
+
+    {#if $opened}
+        <span>
+            <slot name="content" />
+        </span>
+    {/if}
+</span>

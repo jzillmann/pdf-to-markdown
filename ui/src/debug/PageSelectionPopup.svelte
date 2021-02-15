@@ -1,7 +1,7 @@
 <script>
     import { slide } from 'svelte/transition';
-    import { createEventDispatcher } from 'svelte';
     import { getContext } from 'svelte';
+    import { createEventDispatcher } from 'svelte';
     import { Collection } from 'svelte-hero-icons';
     import type { Writable } from 'svelte/store';
 

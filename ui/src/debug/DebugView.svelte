@@ -8,6 +8,7 @@
     import Popup from '../components/Popup.svelte';
     import PageSelectionPopup from './PageSelectionPopup.svelte';
     import ItemTable from './ItemTable.svelte';
+    import TransformerSelectionPopup from './TransformerSelectionPopup.svelte';
 
     export let debug: Debugger;
 
@@ -70,7 +71,19 @@
             <span on:click={() => canNext && currentStage++}>
                 <ArrowRight size="1x" class={canNext ? 'hover:text-green-700 cursor-pointer' : 'opacity-50'} />
             </span>
-            <div class="cursor-pointer hover:underline">{stageNames[currentStage]}</div>
+            <span>
+                <Popup>
+                    <span slot="trigger">
+                        <div class="cursor-pointer hover:underline">{stageNames[currentStage]}</div>
+                    </span>
+                    <span slot="content">
+                        <TransformerSelectionPopup
+                            {stageNames}
+                            {currentStage}
+                            on:selectTransformer={(e) => (currentStage = e.detail)} />
+                    </span>
+                </Popup>
+            </span>
         </div>
     </div>
 

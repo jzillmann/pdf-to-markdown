@@ -1,9 +1,3 @@
-/**
- * Executes the given callback once an outside click is recognized.
- * If the 'opening' click triggers the callback right away, try using 'on:click|stopPropagation'.
- * @param node
- * @param param1
- */
 export function clickOutside(node: HTMLElement, { enabled: initialEnabled, cb }) {
     const handleOutsideClick = ({ target }) => {
         if (!node.contains(target)) {
