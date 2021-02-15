@@ -1,8 +1,11 @@
 <script>
-    import { fade, slide } from 'svelte/transition';
+    import { slide } from 'svelte/transition';
+    import { clickOutside } from '../actions/clickOutside';
+    import Icon from 'fa-svelte';
+    import { faMapPin as pin } from '@fortawesome/free-solid-svg-icons/faMapPin';
+    import { Collection, BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
     import type Debugger from '@core/Debugger';
     import type Item from '@core/Item';
-    import { Collection, BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
     import ItemTable from './ItemTable.svelte';
 
     export let debug: Debugger;
@@ -50,21 +53,24 @@
         <div class="flex items-center space-x-2">
             {#if pageFocus}
                 <span on:click={showAllPages} transition:slide>
-                    <Collection size="1x" class="hover:text-green-700 cursor-pointer opacity-75" />
+                    <Icon class="text-xs hover:text-green-700 hover:opacity-25 cursor-pointer opacity-75" icon={pin} />
                 </span>
             {/if}
             <span>
-                <span on:click={() => (openedPageIndex = !openedPageIndex)}>
+                <span on:click|stopPropagation={() => (openedPageIndex = !openedPageIndex)}>
                     <BookOpen size="1x" class="hover:text-green-700 cursor-pointer" />
                 </span>
 
                 <!-- Page selection popup-->
                 {#if openedPageIndex}
                     <div
+                        use:clickOutside={{ enabled: openedPageIndex, cb: () => (openedPageIndex = false) }}
                         class="absolute mt-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96"
                         transition:slide>
-                        <span class="mt-1 pr-2" on:click={showAllPages}>
-                            <Collection size="1x" class="hover:text-green-700 cursor-pointer" />
+                        <span class="mt-1 pr-2" on:click={!!focusedPage && showAllPages}>
+                            <Collection
+                                size="1x"
+                                class={!!focusedPage ? 'hover:text-green-700 cursor-pointer' : 'opacity-50'} />
                         </span>
                         <div
                             class="grid gap-3"
@@ -72,7 +78,7 @@
                             {#each new Array(maxPage + 1) as _, idx}
                                 <div
                                     on:click={() => pagesNumbers.has(idx) && focusOnPage(idx)}
-                                    class="px-2 border border-gray-300 rounded-full text-center {pagesNumbers.has(idx) ? 'hover:text-green-700 hover:border-green-700 cursor-pointer' : 'opacity-50'}">
+                                    class="px-2 border border-gray-300 rounded-full text-center {pagesNumbers.has(idx) ? (focusedPage === idx ? 'bg-green-600' : 'hover:text-green-700 hover:border-green-700 cursor-pointer') : 'opacity-50'}">
                                     {idx}
                                 </div>
                             {/each}
