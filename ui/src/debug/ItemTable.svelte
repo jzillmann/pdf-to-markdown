@@ -7,7 +7,7 @@
     export let schema: AnnotatedColumn[];
     export let itemsByPage: [number, Item[]][];
     export let maxPage: number;
-    export let pageFocus: boolean;
+    export let pageIsPinned: boolean;
 
     function format(value: object) {
         if (typeof value === 'number') {
@@ -54,7 +54,7 @@
                     <!-- Page number in first page item row -->
                     {#if itemIdx === 0}
                         <td class="page bg-gray-50">
-                            <div>Page {pageNumber} {pageFocus ? '' : ' / ' + maxPage}</div>
+                            <div>Page {pageNumber} {pageIsPinned ? '' : ' / ' + maxPage}</div>
                         </td>
                     {:else}
                         <td />

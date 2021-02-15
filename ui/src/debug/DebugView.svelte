@@ -1,24 +1,24 @@
 <script>
     import { slide } from 'svelte/transition';
-    import { clickOutside } from '../actions/clickOutside';
     import Icon from 'fa-svelte';
     import { faMapPin as pin } from '@fortawesome/free-solid-svg-icons/faMapPin';
-    import { Collection, BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
+    import { BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
     import type Debugger from '@core/Debugger';
     import type Item from '@core/Item';
+    import Popup from '../components/Popup.svelte';
+    import PageSelectionPopup from './PageSelectionPopup.svelte';
     import ItemTable from './ItemTable.svelte';
 
     export let debug: Debugger;
 
     const stageNames = debug.stageNames;
-    let openedPageIndex = false;
-    let focusedPage: number;
+    let pinnedPage: number;
 
     let currentStage = 0;
     $: canNext = currentStage + 1 < stageNames.length;
     $: canPrev = currentStage > 0;
     $: stageResult = debug.stageResults(currentStage);
-    $: pageFocus = !isNaN(focusedPage);
+    $: pageIsPinned = !isNaN(pinnedPage);
     $: pagesNumbers = new Set(stageResult.items.map((item) => item.page));
     $: maxPage = Math.max(...pagesNumbers);
     $: itemsByPage = [
@@ -30,17 +30,7 @@
             return map;
         }, new Map<number, Item[]>()),
     ];
-    $: visiblePages = pageFocus ? itemsByPage.filter(([page]) => page === focusedPage) : itemsByPage;
-
-    function focusOnPage(pageNumber: number) {
-        openedPageIndex = false;
-        focusedPage = pageNumber;
-    }
-
-    function showAllPages() {
-        openedPageIndex = false;
-        focusedPage = undefined;
-    }
+    $: visiblePages = pageIsPinned ? itemsByPage.filter(([page]) => page === pinnedPage) : itemsByPage;
 </script>
 
 <div class="mx-4">
@@ -51,40 +41,25 @@
     <!-- Sticky Controls -->
     <div class="controls py-2">
         <div class="flex items-center space-x-2">
-            {#if pageFocus}
-                <span on:click={showAllPages} transition:slide>
+            {#if pageIsPinned}
+                <span on:click={() => (pinnedPage = undefined)} transition:slide>
                     <Icon class="text-xs hover:text-green-700 hover:opacity-25 cursor-pointer opacity-75" icon={pin} />
                 </span>
             {/if}
             <span>
-                <span on:click|stopPropagation={() => (openedPageIndex = !openedPageIndex)}>
-                    <BookOpen size="1x" class="hover:text-green-700 cursor-pointer" />
-                </span>
-
-                <!-- Page selection popup-->
-                {#if openedPageIndex}
-                    <div
-                        use:clickOutside={{ enabled: openedPageIndex, cb: () => (openedPageIndex = false) }}
-                        class="absolute mt-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96"
-                        transition:slide>
-                        <span class="mt-1 pr-2" on:click={!!focusedPage && showAllPages}>
-                            <Collection
-                                size="1x"
-                                class={!!focusedPage ? 'hover:text-green-700 cursor-pointer' : 'opacity-50'} />
-                        </span>
-                        <div
-                            class="grid gap-3"
-                            style="grid-template-columns: repeat({Math.min(20, maxPage + 1)}, minmax(0, 1fr));">
-                            {#each new Array(maxPage + 1) as _, idx}
-                                <div
-                                    on:click={() => pagesNumbers.has(idx) && focusOnPage(idx)}
-                                    class="px-2 border border-gray-300 rounded-full text-center {pagesNumbers.has(idx) ? (focusedPage === idx ? 'bg-green-600' : 'hover:text-green-700 hover:border-green-700 cursor-pointer') : 'opacity-50'}">
-                                    {idx}
-                                </div>
-                            {/each}
-                        </div>
-                    </div>
-                {/if}
+                <Popup>
+                    <span slot="trigger">
+                        <BookOpen size="1x" class="hover:text-green-700 cursor-pointer" />
+                    </span>
+                    <span slot="content">
+                        <PageSelectionPopup
+                            {pagesNumbers}
+                            {maxPage}
+                            {pinnedPage}
+                            on:pinPage={(e) => (pinnedPage = e.detail)}
+                            on:unpinPage={() => (pinnedPage = undefined)} />
+                    </span>
+                </Popup>
             </span>
 
             <div>|</div>
@@ -109,7 +84,7 @@
     </ul>
 
     <!-- Items -->
-    <ItemTable schema={stageResult.schema} itemsByPage={visiblePages} {maxPage} {pageFocus} />
+    <ItemTable schema={stageResult.schema} itemsByPage={visiblePages} {maxPage} {pageIsPinned} />
 </div>
 
 <style>
