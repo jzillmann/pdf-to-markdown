@@ -1,4 +1,4 @@
-import PageViewport from 'src/parse/PageViewport';
+import PageViewport from '../parse/PageViewport';
 
 export default interface TransformContext {
   pageViewports: PageViewport[];

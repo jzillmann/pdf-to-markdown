@@ -1,4 +1,4 @@
-import PageViewport from 'src/parse/PageViewport';
+import PageViewport from '../parse/PageViewport';
 import Item from '../Item';
 import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';

@@ -1,7 +1,7 @@
-import TransformerDescriptor from '../TransformerDescription';
+import type TransformerDescriptor from '../TransformerDescription';
+import type TransformContext from './TransformContext';
 import type Item from '../Item';
-import TransformContext from './TransformContext';
-import ItemResult from 'src/ItemResult';
+import type ItemResult from '../ItemResult';
 
 /**
  * Transforms the incoming schema to what the transformer produces.
