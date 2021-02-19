@@ -33,6 +33,7 @@
     .selected {
         @apply cursor-default;
         @apply bg-gray-300;
+        @apply rounded;
         /* @apply underline; */
     }
     .selectable {
@@ -41,5 +42,6 @@
     .selectable:hover {
         @apply bg-gray-400;
         @apply text-green-700;
+        @apply rounded;
     }
 </style>

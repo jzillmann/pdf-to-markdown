@@ -3,6 +3,7 @@ import './Tailwind.css';
 
 var app = new App({
     target: document.body,
+    intro: true,
 });
 
 export default app;
