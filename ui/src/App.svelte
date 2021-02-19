@@ -1,5 +1,5 @@
 <script>
-    import Upload from './Upload.svelte';
+    import Upload from './main/Upload.svelte';
 
     import { parseResult, debug } from './store';
     import DebugView from './debug/DebugView.svelte';

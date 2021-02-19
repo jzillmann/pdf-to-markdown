@@ -2,9 +2,9 @@
     import { blur, slide } from 'svelte/transition';
     import Dropzone from 'svelte-file-dropzone';
     import { Download, Check } from 'svelte-hero-icons';
-    import { processUpload, loadExample } from './store';
+    import { processUpload, loadExample } from '../store';
     import type Progress from '@core/Progress';
-    import ProgressRing from './ProgressRing.svelte';
+    import ProgressRing from '../components/ProgressRing.svelte';
 
     let specifiedFileName: string;
     let dragover = false;
