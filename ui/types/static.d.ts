@@ -3,6 +3,13 @@
 
 declare module 'svelte-file-dropzone';
 
+declare namespace svelte.JSX {
+    interface HTMLProps<T> {
+        // inView.ts action
+        onintersect?: (e: CustomEvent) => void;
+    }
+}
+
 /* CSS MODULES */
 declare module '*.module.css' {
     const classes: { [key: string]: string };

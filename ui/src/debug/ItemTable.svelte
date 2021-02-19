@@ -1,5 +1,6 @@
 <script>
-    import { scale } from 'svelte/transition';
+    import { scale, fade } from 'svelte/transition';
+    import inView from '../actions/inView';
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
     import type Item from '@core/Item';
     import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';
@@ -8,6 +9,19 @@
     export let itemsByPage: [number, Item[]][];
     export let maxPage: number;
     export let pageIsPinned: boolean;
+    let maxItemsToRenderInOneLoad = 200;
+    let renderedMaxPage = 0;
+
+    let renderedItemsByPage: [number, Item[]][];
+    $: {
+        if (pageIsPinned) {
+            renderedItemsByPage = itemsByPage;
+            renderedMaxPage = 0;
+        } else {
+            calculateNextPageToRenderTo();
+            renderedItemsByPage = itemsByPage.slice(0, renderedMaxPage);
+        }
+    }
 
     function format(value: object) {
         if (typeof value === 'number') {
@@ -25,8 +39,21 @@
         return value;
     }
 
-    //TODO if no ADDED/REMOVE cols
-    // - have highlight declarations in descriptor
+    function calculateNextPageToRenderTo() {
+        if (renderedMaxPage >= maxPage) {
+            return;
+        }
+        let itemCount = 0;
+        for (let index = 0; index < itemsByPage.length; index++) {
+            renderedMaxPage++;
+            const [_, items] = itemsByPage[index];
+            itemCount += items.length;
+            if (itemCount > maxItemsToRenderInOneLoad) {
+                break;
+            }
+        }
+        // console.log(`Render pages 0 to ${renderedMaxPage} with ${itemCount} items`);
+    }
 </script>
 
 <!-- Item table -->
@@ -44,13 +71,13 @@
         {/each}
     </thead>
     <tbody>
-        {#each itemsByPage as [pageNumber, items], pageIdx}
+        {#each renderedItemsByPage as [pageNumber, items], pageIdx}
             <!-- Separator between pages -->
             {#if pageIdx > 0}
                 <tr class="h-5" />
             {/if}
             {#each items as item, itemIdx}
-                <tr>
+                <tr in:fade>
                     <!-- Page number in first page item row -->
                     {#if itemIdx === 0}
                         <td class="page bg-gray-50">
@@ -68,6 +95,15 @@
         {/each}
     </tbody>
 </table>
+
+{#if !pageIsPinned}
+    {#if renderedMaxPage < itemsByPage.length}
+        <span use:inView on:intersect={({ detail }) => detail && calculateNextPageToRenderTo()} />
+        <div class="my-6 text-center text-2xl">...</div>
+    {:else}
+        <div class="my-6 text-center text-2xl">FIN!</div>
+    {/if}
+{/if}
 
 <style>
     .page {
