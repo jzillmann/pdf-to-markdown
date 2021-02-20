@@ -67,20 +67,20 @@ export default class PdfParser {
   }
 
   private gatherFontObjects(pages: ParsedPage[]): Promise<Map<string, object>> {
-    let result = Promise.resolve(new Map<string, object>());
     const uniqueFontIds = new Set<string>();
-    pages.forEach((page) => {
-      const unknownPageFonts: string[] = [];
-      page.items.forEach((item) => {
+    return pages.reduce((promise, page) => {
+      const unknownPageFonts = page.items.reduce((unknowns: string[], item) => {
         const fontId = item.data['fontName'];
         if (!uniqueFontIds.has(fontId) && fontId.startsWith('g_d')) {
           uniqueFontIds.add(fontId);
-          unknownPageFonts.push(fontId);
+          unknowns.push(fontId);
         }
-      });
+        return unknowns;
+      }, []);
+
       if (unknownPageFonts.length > 0) {
         // console.log(`Fetch fonts ${unknownPageFonts} for page ${page.index}`);
-        result = result.then((fontMap) => {
+        promise = promise.then((fontMap) => {
           return page.pdfjsPage.getOperatorList().then(() => {
             unknownPageFonts.forEach((fontId) => {
               const fontObject = page.pdfjsPage.commonObjs.get(fontId);
@@ -90,8 +90,9 @@ export default class PdfParser {
           });
         });
       }
-    });
-    return result;
+
+      return promise;
+    }, Promise.resolve(new Map<string, object>()));
   }
 
   private documentInitParameters(src: string | Uint8Array | object): object {

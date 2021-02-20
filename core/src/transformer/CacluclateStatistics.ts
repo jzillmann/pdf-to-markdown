@@ -66,7 +66,7 @@ export default class CalculateStatistics extends ItemTransformer {
     const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
 
     const fontIdToName: string[] = [];
-    const fontToType = new Map();
+    const fontToType = new Map<string, FontType>();
     context.fontMap.forEach(function (value, key) {
       const fontName = value['name'];
       fontIdToName.push(`${key}  = ${fontName}`);
