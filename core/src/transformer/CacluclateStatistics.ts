@@ -2,6 +2,7 @@ import Item from '../Item';
 import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
+import FontType from '../FontType';
 
 export default class CalculateStatistics extends ItemTransformer {
   constructor() {
@@ -13,12 +14,13 @@ export default class CalculateStatistics extends ItemTransformer {
         'mostUsedDistance',
         'maxHeight',
         'maxHeightFont',
-        // 'fontToFormats',
+        'fontToFormats',
       ],
     });
   }
 
-  transform(_: TransformContext, items: Item[]): ItemResult {
+  transform(context: TransformContext, items: Item[]): ItemResult {
+    // const heightToOccurrence: { [key: string]: number } = {};
     const heightToOccurrence = {};
     const fontToOccurrence = {};
     let maxHeight = 0;
@@ -34,6 +36,7 @@ export default class CalculateStatistics extends ItemTransformer {
         maxHeightFont = itemFont;
       }
     });
+    // TODO really need parseInt here ?
     const mostUsedHeight = parseInt(getMostUsedKey(heightToOccurrence));
     const mostUsedFont = getMostUsedKey(fontToOccurrence);
 
@@ -48,8 +51,6 @@ export default class CalculateStatistics extends ItemTransformer {
       const itemText = item.data['str'];
       const itemY = item.data['y'];
       if (itemHeight == mostUsedHeight && itemText.trim().length > 0) {
-        console.log('__', itemY, lastItemOfMostUsedHeight);
-
         if (lastItemOfMostUsedHeight && itemY != lastItemOfMostUsedHeight.data['y']) {
           const distance = lastItemOfMostUsedHeight.data['y'] - itemY;
           if (distance > 0) {
@@ -64,28 +65,17 @@ export default class CalculateStatistics extends ItemTransformer {
     });
     const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
 
-    // const fontIdToName = [];
-    // const fontToFormats = new Map();
-    // this.fontMap.forEach(function (value, key) {
-    //   fontIdToName.push(key + ' = ' + value.name);
-    //   const fontName = value.name.toLowerCase();
-    //   var format;
-    //   if (key == mostUsedFont) {
-    //     format = null;
-    //   } else if (fontName.includes('bold') && (fontName.includes('oblique') || fontName.includes('italic'))) {
-    //     format = WordFormat.BOLD_OBLIQUE;
-    //   } else if (fontName.includes('bold')) {
-    //     format = WordFormat.BOLD;
-    //   } else if (fontName.includes('oblique') || fontName.includes('italic')) {
-    //     format = WordFormat.OBLIQUE;
-    //   } else if (fontName === maxHeightFont) {
-    //     format = WordFormat.BOLD;
-    //   }
-    //   if (format) {
-    //     fontToFormats.set(key, format.name);
-    //   }
-    // });
-    // fontIdToName.sort();
+    const fontIdToName: string[] = [];
+    const fontToType = new Map();
+    context.fontMap.forEach(function (value, key) {
+      const fontName = value['name'];
+      fontIdToName.push(`${key}  = ${fontName}`);
+      const formatType = getFormatType(key, fontName, mostUsedFont, maxHeightFont);
+      if (formatType) {
+        fontToType.set(key, formatType);
+      }
+    });
+    fontIdToName.sort();
 
     return {
       items: items,
@@ -95,21 +85,21 @@ export default class CalculateStatistics extends ItemTransformer {
         mostUsedDistance: mostUsedDistance,
         maxHeight: maxHeight,
         maxHeightFont: maxHeightFont,
-        // fontToFormats: fontToFormats,
+        fontToFormats: fontToType,
       },
       messages: [
         'Items per height: ' + JSON.stringify(heightToOccurrence),
         'Items per font: ' + JSON.stringify(fontToOccurrence),
         'Items per distance: ' + JSON.stringify(distanceToOccurrence),
-        // 'Fonts:' + JSON.stringify(fontIdToName),
+        'Fonts:' + JSON.stringify(fontIdToName),
       ],
     };
   }
 }
 
-function getMostUsedKey(keyToOccurrence) {
+function getMostUsedKey(keyToOccurrence): any {
   var maxOccurence = 0;
-  var maxKey;
+  var maxKey: string | undefined;
   Object.keys(keyToOccurrence).map((element) => {
     if (!maxKey || keyToOccurrence[element] > maxOccurence) {
       maxOccurence = keyToOccurrence[element];
@@ -117,4 +107,28 @@ function getMostUsedKey(keyToOccurrence) {
     }
   });
   return maxKey;
+}
+
+function getFormatType(
+  fontId: string,
+  fontName: string,
+  mostUsedFont: string | undefined,
+  maxHeightFont: string | undefined,
+): FontType | undefined {
+  const fontNameLowerCase = fontName.toLowerCase();
+  if (fontId == mostUsedFont) {
+    return undefined;
+  } else if (
+    fontNameLowerCase.includes('bold') &&
+    (fontNameLowerCase.includes('oblique') || fontNameLowerCase.includes('italic'))
+  ) {
+    return FontType.BOLD_OBLIQUE;
+  } else if (fontNameLowerCase.includes('bold')) {
+    return FontType.BOLD;
+  } else if (fontNameLowerCase.includes('oblique') || fontNameLowerCase.includes('italic')) {
+    return FontType.OBLIQUE;
+  } else if (fontId === maxHeightFont) {
+    //TODO this was the wrong comparision in old app and thus never returned as bold probably
+    return FontType.BOLD;
+  }
 }
