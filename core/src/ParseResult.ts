@@ -3,14 +3,23 @@ import type Metadata from './Metadata';
 import type PageViewport from './parse/PageViewport';
 
 export default class ParseResult {
-  pdfPages: any[];
+  fontMap: Map<string, object>;
+  pdfjsPages: any[];
   pageViewports: PageViewport[];
   metadata: Metadata;
   schema: string[];
   items: Item[];
 
-  constructor(pdfPages: any[], pageViewports: PageViewport[], metadata: Metadata, schema: string[], items: Item[]) {
-    this.pdfPages = pdfPages;
+  constructor(
+    fontMap: Map<string, object>,
+    pdfjsPages: any[],
+    pageViewports: PageViewport[],
+    metadata: Metadata,
+    schema: string[],
+    items: Item[],
+  ) {
+    this.fontMap = fontMap;
+    this.pdfjsPages = pdfjsPages;
     this.pageViewports = pageViewports;
     this.metadata = metadata;
     this.schema = schema;
@@ -18,6 +27,6 @@ export default class ParseResult {
   }
 
   pageCount(): number {
-    return this.pdfPages.length;
+    return this.pdfjsPages.length;
   }
 }

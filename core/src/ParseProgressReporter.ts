@@ -3,7 +3,7 @@ import type ProgressListenFunction from './ProgressListenFunction';
 import Progress from './Progress';
 
 export default class ParseProgressReporter implements ParseReporter {
-  progress = new Progress(['Document Header', 'Metadata', 'Pages', 'Fonts'], [0.1, 0.1, 0.7, 0.1]);
+  progress = new Progress(['Document Header', 'Metadata', 'Pages', 'Fonts'], [0.01, 0.01, 0.97, 0.01]);
   pagesToParse = 0;
   progressListenFunction: ProgressListenFunction;
 
@@ -32,5 +32,6 @@ export default class ParseProgressReporter implements ParseReporter {
 
   parsedFonts(): void {
     this.progress.stageProgress[3] = 1;
+    this.progressListenFunction(this.progress);
   }
 }

@@ -22,11 +22,11 @@ test('basic example PDF parse', async () => {
   expect(result.metadata.title()).toEqual('ExamplePdf');
   expect(result.metadata.author()).toEqual('Johannes Zillmann');
   expect(result.pageCount()).toBe(expectedPages);
-  result.pdfPages.forEach((pdfPage, i) => {
+  result.pdfjsPages.forEach((pdfPage, i) => {
     expect(pdfPage._pageIndex).toBe(i);
   });
-  expect(result.pdfPages[0]._pageInfo.view).toEqual([0, 0, 595.2756, 841.8898]);
-  expect(result.pdfPages[0].getViewport({ scale: 1.0 }).transform).toEqual([1, 0, 0, -1, 0, 841.8898]);
+  expect(result.pdfjsPages[0]._pageInfo.view).toEqual([0, 0, 595.2756, 841.8898]);
+  expect(result.pdfjsPages[0].getViewport({ scale: 1.0 }).transform).toEqual([1, 0, 0, -1, 0, 841.8898]);
 
   // verify first n items
   expect(result.items.slice(0, 16).map((item) => item.withoutUuid())).toEqual([
@@ -161,7 +161,7 @@ test('basic example PDF parse', async () => {
   ]);
 
   // verify progress
-  expect(progressUpdates.length).toBe(expectedPages + 2);
+  expect(progressUpdates.length).toBe(expectedPages + 3);
   progressUpdates.forEach((update) => expect(update.stages).toEqual(['Document Header', 'Metadata', 'Pages', 'Fonts']));
   expect(progressUpdates[0].stageProgress).toEqual([1, 0, 0, 0]);
   expect(progressUpdates[0].stageDetails).toEqual([null, null, `0 / ${expectedPages}`, null]);
@@ -183,7 +183,6 @@ test('basic example PDF parse', async () => {
   expect(progressUpdates[7].stageDetails).toEqual([null, null, `6 / ${expectedPages}`, null]);
   expect(progressUpdates[8].stageProgress).toEqual([1, 1, 7 / expectedPages, 0]);
   expect(progressUpdates[8].stageDetails).toEqual([null, null, `7 / ${expectedPages}`, null]);
-
-  // expect(progressUpdates[9].stagePercents).toEqual([1, 1, 1, 0]);
-  // expect(progressUpdates[9].stageDetails).toEqual([null, null, `${expectedPages} / ${expectedPages}`, null]);
+  expect(progressUpdates[9].stageProgress).toEqual([1, 1, 1, 1]);
+  expect(progressUpdates[9].stageDetails).toEqual([null, null, `${expectedPages} / ${expectedPages}`, null]);
 });

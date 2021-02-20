@@ -27,7 +27,7 @@ export default class PdfPipeline {
   async execute(src: string | Uint8Array | object, progressListener: ProgressListenFunction): Promise<ParseResult> {
     const parseResult = await this.parse(src, progressListener);
     this.verifyRequiredColumns(parseResult.schema, this.transformers);
-    const context = { pageViewports: parseResult.pageViewports };
+    const context = { fontMap: parseResult.fontMap, pageViewports: parseResult.pageViewports };
     let items = parseResult.items;
     this.transformers.forEach((transformer) => {
       items = transformer.transform(context, items).items;
@@ -38,7 +38,7 @@ export default class PdfPipeline {
 
   async debug(src: string | Uint8Array | object, progressListener: ProgressListenFunction): Promise<Debugger> {
     const parseResult = await this.parse(src, progressListener);
-    const context = { pageViewports: parseResult.pageViewports };
+    const context = { fontMap: parseResult.fontMap, pageViewports: parseResult.pageViewports };
     return new Debugger(parseResult.schema, parseResult.items, context, this.transformers);
   }
 
