@@ -39,6 +39,7 @@ export default class Debugger {
         const outputSchema = transformer.schemaTransformer(inputSchema);
         const itemResult = transformer.transform(this.context, [...this.stageResultCache[idx - 1].items]);
         this.stageResultCache.push({
+          descriptor: transformer.descriptor,
           schema: toAnnotatedSchema(inputSchema, outputSchema),
           ...itemResult,
         });

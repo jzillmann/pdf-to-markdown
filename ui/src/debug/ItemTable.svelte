@@ -1,26 +1,27 @@
 <script>
     import { scale, fade } from 'svelte/transition';
-    import type Item from '@core/Item';
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
     import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';
     import inView from '../actions/inView';
     import { formatValue } from './formatValues';
+    import type Page from '@core/support/Page';
 
     export let schema: AnnotatedColumn[];
-    export let itemsByPage: [number, Item[]][];
+    export let pages: Page[];
     export let maxPage: number;
     export let pageIsPinned: boolean;
     let maxItemsToRenderInOneLoad = 200;
     let renderedMaxPage = 0;
+    let expandedItemGroup: { pageIndex: number; itemIndex: number };
 
-    let renderedItemsByPage: [number, Item[]][];
+    let renderedPages: Page[];
     $: {
         if (pageIsPinned) {
-            renderedItemsByPage = itemsByPage;
+            renderedPages = pages;
             renderedMaxPage = 0;
         } else {
             calculateNextPageToRenderTo();
-            renderedItemsByPage = itemsByPage.slice(0, renderedMaxPage);
+            renderedPages = pages.slice(0, renderedMaxPage);
         }
     }
 
@@ -29,16 +30,22 @@
             return;
         }
         let itemCount = 0;
-        for (let index = 0; index < itemsByPage.length; index++) {
+        for (let index = 0; index < pages.length; index++) {
             renderedMaxPage++;
-            const [_, items] = itemsByPage[index];
-            itemCount += items.length;
+            itemCount += pages[index].itemGroups.length;
             if (itemCount > maxItemsToRenderInOneLoad) {
                 break;
             }
         }
         // console.log(`Render pages 0 to ${renderedMaxPage} with ${itemCount} items`);
     }
+
+    const isExpanded = (pageIndex: number, itemIndex: number) => {
+        return expandedItemGroup?.pageIndex === pageIndex && expandedItemGroup?.itemIndex === itemIndex;
+    };
+    const toggleRow = (pageIndex: number, itemIndex: number) => {
+        expandedItemGroup = isExpanded(pageIndex, itemIndex) ? undefined : { pageIndex, itemIndex };
+    };
 </script>
 
 <!-- Item table -->
@@ -56,33 +63,53 @@
         {/each}
     </thead>
     <tbody>
-        {#each renderedItemsByPage as [pageNumber, items], pageIdx}
+        {#each renderedPages as page, pageIdx}
             <!-- Separator between pages -->
             {#if pageIdx > 0}
                 <tr class="h-5" />
             {/if}
-            {#each items as item, itemIdx}
-                <tr in:fade>
+
+            <!-- Page items -->
+            {#each page.itemGroups as itemGroup, itemIdx}
+                <tr
+                    class:expandable={itemGroup.hasMany()}
+                    class:expanded={expandedItemGroup && isExpanded(page.index, itemIdx)}
+                    in:fade>
                     <!-- Page number in first page item row -->
                     {#if itemIdx === 0}
-                        <td class="page bg-gray-50">
-                            <div>Page {pageNumber} {pageIsPinned ? '' : ' / ' + maxPage}</div>
+                        <td id="page" class="page bg-gray-50">
+                            <div>Page {page.index} {pageIsPinned ? '' : ' / ' + maxPage}</div>
                         </td>
                     {:else}
-                        <td />
+                        <td id="page" />
                     {/if}
-                    <td>{itemIdx}</td>
-                    {#each schema as column}
-                        <td class="select-all">{formatValue(item.data[column.name])}</td>
-                    {/each}
+                    <span class="contents" on:click={() => itemGroup.hasMany() && toggleRow(page.index, itemIdx)}>
+                        <td>{itemIdx}{itemGroup.hasMany() ? '+' : ''}</td>
+                        {#each schema as column}
+                            <td class="select-all">{formatValue(itemGroup.top.data[column.name])}</td>
+                        {/each}
+                    </span>
                 </tr>
+
+                <!-- Expanded childs -->
+                {#if expandedItemGroup && isExpanded(page.index, itemIdx)}
+                    {#each itemGroup.elements as child, childIdx}
+                        <tr class="childs">
+                            <td id="page" />
+                            <td>{'└ ' + childIdx}</td>
+                            {#each schema as column}
+                                <td class="select-all">{formatValue(child.data[column.name])}</td>
+                            {/each}
+                        </tr>
+                    {/each}
+                {/if}
             {/each}
         {/each}
     </tbody>
 </table>
 
 {#if !pageIsPinned}
-    {#if renderedMaxPage < itemsByPage.length}
+    {#if renderedMaxPage < pages.length}
         <span use:inView on:intersect={({ detail }) => detail && calculateNextPageToRenderTo()} />
         <div class="my-6 text-center text-2xl">...</div>
     {:else}
@@ -113,12 +140,24 @@
         @apply bg-gray-300;
         @apply shadow;
     }
-    td:not(:first-child) {
+    td:not(#page) {
         @apply px-1;
         @apply border-b;
     }
 
-    tr:hover td:not(:first-child) {
+    tr:hover td:not(#page) {
+        @apply bg-gray-200;
+    }
+
+    tr.expandable:hover td:not(#page) {
+        @apply cursor-pointer;
+    }
+
+    tr.expanded td:not(#page) {
+        @apply bg-gray-300;
+    }
+
+    tr.childs td:not(#page) {
         @apply bg-gray-200;
     }
 </style>

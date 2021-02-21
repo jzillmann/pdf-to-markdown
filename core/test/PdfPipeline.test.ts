@@ -1,4 +1,4 @@
-import TransformerDescriptor from 'src/TransformerDescription';
+import TransformDescriptor from 'src/TransformDescriptor';
 import Item from 'src/Item';
 import ItemResult from 'src/ItemResult';
 import ItemTransformer from 'src/transformer/ItemTransformer';
@@ -9,7 +9,7 @@ import * as fs from 'fs';
 import PdfPipeline from 'src/PdfPipeline';
 
 class TestSchemaTransformer extends ItemTransformer {
-  constructor(name: string, descriptor: TransformerDescriptor, outputSchema: string[] | undefined = undefined) {
+  constructor(name: string, descriptor: Partial<TransformDescriptor>, outputSchema: string[] | undefined = undefined) {
     if (outputSchema) {
       super(name, `Description for ${name}`, descriptor, (_) => outputSchema);
     } else {

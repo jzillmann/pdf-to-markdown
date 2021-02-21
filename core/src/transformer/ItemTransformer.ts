@@ -1,4 +1,4 @@
-import type TransformerDescriptor from '../TransformerDescription';
+import TransformDescriptor, { toDescriptor } from '../TransformDescriptor';
 import type TransformContext from './TransformContext';
 import type Item from '../Item';
 import type ItemResult from '../ItemResult';
@@ -11,25 +11,18 @@ type SchemaTransformer = (incomingSchema: string[]) => string[];
 export default abstract class ItemTransformer {
   readonly name: string;
   readonly description: string;
-  readonly descriptor: TransformerDescriptor;
+  readonly descriptor: TransformDescriptor;
   readonly schemaTransformer: SchemaTransformer;
 
   constructor(
     name: string,
     description: string,
-    descriptor: TransformerDescriptor,
+    descriptorPartial: Partial<TransformDescriptor>,
     schemaTransformer: SchemaTransformer = (schema) => schema,
   ) {
     this.name = name;
     this.description = description;
-    this.descriptor = {
-      ...{
-        consumesGlobels: [],
-        producesGlobels: [],
-        requireColumns: [],
-      },
-      ...descriptor,
-    };
+    this.descriptor = toDescriptor(descriptorPartial);
     this.schemaTransformer = schemaTransformer;
   }
 

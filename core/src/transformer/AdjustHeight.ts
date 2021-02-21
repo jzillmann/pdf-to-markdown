@@ -3,7 +3,7 @@ import Item from '../Item';
 import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
-import { transformGroupedByPage } from './transformerUtils';
+import { transformGroupedByPage } from '../support/itemUtils';
 
 export default class AdjustHeight extends ItemTransformer {
   constructor() {

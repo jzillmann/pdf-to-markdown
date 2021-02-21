@@ -3,8 +3,11 @@
     import Icon from 'fa-svelte';
     import { faMapPin as pin } from '@fortawesome/free-solid-svg-icons/faMapPin';
     import { BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
+
     import type Debugger from '@core/Debugger';
     import type Item from '@core/Item';
+    import { asPages } from '../../../core/src/support/itemUtils';
+
     import Popup from '../components/Popup.svelte';
     import PageSelectionPopup from './PageSelectionPopup.svelte';
     import ItemTable from './ItemTable.svelte';
@@ -21,17 +24,9 @@
     $: stageResult = debug.stageResults(currentStage);
     $: pageIsPinned = !isNaN(pinnedPage);
     $: pagesNumbers = new Set(stageResult.items.map((item) => item.page));
+    $: pages = asPages(stageResult.items, stageResult.descriptor?.itemMerger);
     $: maxPage = Math.max(...pagesNumbers);
-    $: itemsByPage = [
-        ...stageResult.items.reduce((map, item) => {
-            if (!map.has(item.page)) {
-                map.set(item.page, []);
-            }
-            map.get(item.page).push(item);
-            return map;
-        }, new Map<number, Item[]>()),
-    ];
-    $: visiblePages = pageIsPinned ? itemsByPage.filter(([page]) => page === pinnedPage) : itemsByPage;
+    $: visiblePages = pageIsPinned ? pages.filter((page) => page.index === pinnedPage) : pages;
 </script>
 
 <div class="mx-4">
@@ -97,7 +92,7 @@
     </ul>
 
     <!-- Items -->
-    <ItemTable schema={stageResult.schema} itemsByPage={visiblePages} {maxPage} {pageIsPinned} />
+    <ItemTable schema={stageResult.schema} pages={visiblePages} {maxPage} {pageIsPinned} />
 </div>
 
 <style>

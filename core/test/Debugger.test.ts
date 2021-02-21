@@ -1,7 +1,7 @@
 import Debugger from 'src/Debugger';
 import Item from 'src/Item';
 import ItemTransformer from 'src/transformer/ItemTransformer';
-import TransformerDescriptor from 'src/TransformerDescription';
+import TransformDescriptor from 'src/TransformDescriptor';
 import TransformContext from 'src/transformer/TransformContext';
 import ItemResult from 'src/ItemResult';
 import ColumnAnnotation from 'src/debug/ColumnAnnotation';
@@ -9,7 +9,7 @@ import AnnotatedColumn from 'src/debug/AnnotatedColumn';
 
 class TestTransformer extends ItemTransformer {
   items: Item[];
-  constructor(name: string, descriptor: TransformerDescriptor, outputSchema: string[], items: Item[]) {
+  constructor(name: string, descriptor: Partial<TransformDescriptor>, outputSchema: string[], items: Item[]) {
     super(name, `Description for ${name}`, descriptor, (incomingSchema) => outputSchema);
     this.items = items;
   }
@@ -30,7 +30,7 @@ test('basic debug', async () => {
   const trans1Items = parsedItems.map((item) => item.withData({ C: `c=${item.value('A')}+${item.value('B')}` }));
 
   const transformers = [new TestTransformer('Trans1', trans1Desc, trans1Schema, trans1Items)];
-  const debug = new Debugger(parsedSchema, parsedItems, { pageViewports: [] }, transformers);
+  const debug = new Debugger(parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
 
   expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
   expect(debug.stageResults(0).schema).toEqual(parsedSchema.map((column) => ({ name: column })));
@@ -47,7 +47,7 @@ describe('build schemas', () => {
 
   function calculateSchema(inputSchema: string[], outputSchema: string[]): AnnotatedColumn[] {
     const transformers = [new TestTransformer('Trans1', {}, outputSchema, items)];
-    const debug = new Debugger(inputSchema, items, { pageViewports: [] }, transformers);
+    const debug = new Debugger(inputSchema, items, { fontMap: new Map(), pageViewports: [] }, transformers);
     return debug.stageResults(1).schema;
   }
 
