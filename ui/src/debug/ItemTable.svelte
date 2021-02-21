@@ -1,9 +1,10 @@
 <script>
     import { scale, fade } from 'svelte/transition';
-    import inView from '../actions/inView';
-    import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
     import type Item from '@core/Item';
+    import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
     import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';
+    import inView from '../actions/inView';
+    import { formatValue } from './formatValues';
 
     export let schema: AnnotatedColumn[];
     export let itemsByPage: [number, Item[]][];
@@ -21,22 +22,6 @@
             calculateNextPageToRenderTo();
             renderedItemsByPage = itemsByPage.slice(0, renderedMaxPage);
         }
-    }
-
-    function format(value: object) {
-        if (typeof value === 'number') {
-            return (value as number).toFixed(2);
-        }
-        if (typeof value === 'object' && typeof Array.isArray(value)) {
-            let array = value as Array<object>;
-            if (array.length > 0 && typeof array[0] === 'number') {
-                array = (array.map((element) =>
-                    ((element as unknown) as number).toFixed(2)
-                ) as unknown) as Array<object>;
-            }
-            return '[' + array.join(', ') + ']';
-        }
-        return value;
     }
 
     function calculateNextPageToRenderTo() {
@@ -88,7 +73,7 @@
                     {/if}
                     <td>{itemIdx}</td>
                     {#each schema as column}
-                        <td class="select-all">{format(item.data[column.name])}</td>
+                        <td class="select-all">{formatValue(item.data[column.name])}</td>
                     {/each}
                 </tr>
             {/each}

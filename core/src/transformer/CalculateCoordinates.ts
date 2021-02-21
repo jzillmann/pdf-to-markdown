@@ -22,13 +22,15 @@ export default class CalculateCoordinates extends ItemTransformer {
     );
   }
 
-  transform(_: TransformContext, items: Item[]): ItemResult {
-    const transformedItems = items.map((item) => {
-      const transform: number[] = item.data['transform'];
-      const x = transform[4];
-      const y = transform[5];
-      return item.withDataAddition({ x, y });
-    });
-    return { items: transformedItems, messages: [] };
+  transform(_: TransformContext, inputItems: Item[]): ItemResult {
+    return {
+      items: inputItems.map((item) => {
+        const transform: number[] = item.data['transform'];
+        const x = transform[4];
+        const y = transform[5];
+        return item.withDataAddition({ x, y });
+      }),
+      messages: [],
+    };
   }
 }

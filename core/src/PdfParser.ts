@@ -9,7 +9,7 @@ import ParseResult from './ParseResult';
 export default class PdfParser {
   pdfjs: any;
   defaultParams: object;
-  schema = ['str', 'fontName', 'dir', 'transform', 'width', 'height'];
+  schema = ['transform', 'str', 'fontName', 'dir', 'width', 'height'];
 
   constructor(pdfjs: any, defaultParams = {}) {
     this.pdfjs = pdfjs;

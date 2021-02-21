@@ -3,6 +3,7 @@ import Item from '../Item';
 import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
+import { transformGroupedByPage } from './transformerUtils';
 
 export default class AdjustHeight extends ItemTransformer {
   constructor() {
@@ -11,30 +12,27 @@ export default class AdjustHeight extends ItemTransformer {
     });
   }
 
-  transform(context: TransformContext, items: Item[]): ItemResult {
-    const newItems: Item[] = [];
-    let page = -1;
-    let pageViewport: PageViewport;
-    //TODO groupBy page
+  transform(context: TransformContext, inputItems: Item[]): ItemResult {
     let correctedHeights = 0;
-    items.forEach((item) => {
-      if (item.page !== page) {
-        pageViewport = context.pageViewports[item.page];
-        page = page;
-      }
-      const itemTransform = item.data['transform'];
-      const itemHeight = item.data['height'];
-      const tx = pageViewport.transformFunction(itemTransform);
-      const fontHeight = Math.sqrt(tx[2] * tx[2] + tx[3] * tx[3]);
-      const dividedHeight = itemHeight / fontHeight;
-      const newHeight = Number.isNaN(dividedHeight) || dividedHeight <= 1 ? itemHeight : dividedHeight;
-      if (newHeight !== itemHeight) {
-        correctedHeights++;
-        newItems.push(item.withDataAddition({ height: newHeight }));
-      } else {
-        newItems.push(item);
-      }
-    });
-    return { items, messages: [`${correctedHeights} corrected heights`] };
+    return {
+      items: transformGroupedByPage(inputItems, (page, items) => {
+        const pageViewport = context.pageViewports[page];
+        return items.map((item) => {
+          const itemTransform = item.data['transform'];
+          const itemHeight = item.data['height'];
+          const tx = pageViewport.transformFunction(itemTransform);
+          const fontHeight = Math.sqrt(tx[2] * tx[2] + tx[3] * tx[3]);
+          const dividedHeight = itemHeight / fontHeight;
+          const newHeight = Number.isNaN(dividedHeight) || dividedHeight <= 1 ? itemHeight : dividedHeight;
+          if (newHeight === itemHeight) {
+            return item;
+          } else {
+            correctedHeights++;
+            return item.withDataAddition({ height: newHeight });
+          }
+        });
+      }),
+      messages: [`${correctedHeights} corrected heights`],
+    };
   }
 }

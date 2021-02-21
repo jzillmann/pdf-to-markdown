@@ -33,5 +33,5 @@ export default abstract class ItemTransformer {
     this.schemaTransformer = schemaTransformer;
   }
 
-  abstract transform(context: TransformContext, items: Item[]): ItemResult;
+  abstract transform(context: TransformContext, inputItems: Item[]): ItemResult;
 }

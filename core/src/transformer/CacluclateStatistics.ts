@@ -26,9 +26,9 @@ export default class CalculateStatistics extends ItemTransformer {
     let maxHeight = 0;
     let maxHeightFont;
 
-    items.forEach((item) => {
-      const itemHeight = item.data['height'];
-      const itemFont = item.data['fontName'];
+    items.forEach((inputItems) => {
+      const itemHeight = inputItems.data['height'];
+      const itemFont = inputItems.data['fontName'];
       heightToOccurrence[itemHeight] = heightToOccurrence[itemHeight] ? heightToOccurrence[itemHeight] + 1 : 1;
       fontToOccurrence[itemFont] = fontToOccurrence[itemFont] ? fontToOccurrence[itemFont] + 1 : 1;
       if (itemHeight > maxHeight) {
