@@ -146,7 +146,7 @@ export default class DetectTOC extends ToLineItemTransformation {
             const rollupLastNotFound = (currentPageNumber) => {
                 if (lastNotFound.length > 0) {
                     lastNotFound.forEach(notFoundTocLink => {
-                        const headlineType = headlineByLevel(notFoundTocLink.level + 2);
+                        const headlineType = headlineByLevel(Math.min(notFoundTocLink.level + 2, 6));
                         const heightRange = headlineTypeToHeightRange[headlineType.name];
                         if (heightRange) {
                             const [pageIndex, lineIndex] = findPageAndLineFromHeadline(parseResult.pages, notFoundTocLink, heightRange, fromPage, currentPageNumber);
