@@ -3,12 +3,14 @@ import Item from '../Item';
 import ItemGroup from './ItemGroup';
 import Page from './Page';
 
+type KeyExtractor = (item: Item) => any;
 type PageItemTransformer = (page: number, items: Item[]) => Item[];
+type LineItemTransformer = (page: number, line: number, items: Item[]) => Item[];
 
-export function groupByPage(items: Item[]): Item[][] {
+function groupBy(items: Item[], extractKey: KeyExtractor): Item[][] {
   return items.reduce((pageItems: Item[][], item: Item) => {
     const lastPageItems = pageItems[pageItems.length - 1];
-    if (!lastPageItems || item.page > lastPageItems[0]?.page) {
+    if (!lastPageItems || extractKey(item) !== extractKey(lastPageItems[0])) {
       pageItems.push([item]);
     } else {
       lastPageItems.push(item);
@@ -17,22 +19,28 @@ export function groupByPage(items: Item[]): Item[][] {
   }, []);
 }
 
+export function groupByPage(items: Item[]): Item[][] {
+  return groupBy(items, (item) => item.page);
+}
+
 export function groupByElement(items: Item[], elementName: string): Item[][] {
-  return items.reduce((groupedItems: Item[][], item: Item) => {
-    const lastGroupItems = groupedItems[groupedItems.length - 1];
-    if (!lastGroupItems || item.data[elementName] !== lastGroupItems[0]?.data[elementName]) {
-      groupedItems.push([item]);
-    } else {
-      lastGroupItems.push(item);
-    }
-    return groupedItems;
-  }, []);
+  return groupBy(items, (item) => item.data[elementName]);
 }
 
 export function transformGroupedByPage(items: Item[], groupedTransformer: PageItemTransformer): Item[] {
   return new Array<Item>().concat(
     ...groupByPage(items).map((pageItems) => groupedTransformer(pageItems[0].page, pageItems)),
   );
+}
+
+export function transformGroupedByPageAndLine(items: Item[], groupedTransformer: LineItemTransformer): Item[] {
+  let transformedItems: Item[] = [];
+  groupByPage(items).forEach((pageItems) => {
+    groupByElement(pageItems, 'line').forEach((lineItems) => {
+      transformedItems.push(...groupedTransformer(pageItems[0].page, lineItems[0].data['line'], lineItems));
+    });
+  });
+  return transformedItems;
 }
 
 export function asPages(items: Item[], itemMerger?: ItemMerger): Page[] {

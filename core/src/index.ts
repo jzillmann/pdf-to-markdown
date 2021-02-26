@@ -8,8 +8,15 @@ import AdjustHeight from './transformer/AdjustHeight';
 import CalculateCoordinates from './transformer/CalculateCoordinates';
 import CalculateStatistics from './transformer/CacluclateStatistics';
 import CompactLines from './transformer/CompactLines';
+import SortXWithinLines from './transformer/SortXWithinLines';
 
-const transformers = [new AdjustHeight(), new CalculateCoordinates(), new CalculateStatistics(), new CompactLines()];
+const transformers = [
+  new AdjustHeight(),
+  new CalculateCoordinates(),
+  new CalculateStatistics(),
+  new CompactLines(),
+  new SortXWithinLines(),
+];
 
 const defaultConfig: Config = {
   pdfjsParams: {

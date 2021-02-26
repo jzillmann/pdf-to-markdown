@@ -1,9 +1,16 @@
 import Item from 'src/Item';
 import Page from 'src/support/Page';
-import { groupByPage, groupByElement, transformGroupedByPage, asPages } from 'src/support/itemUtils';
+import {
+  groupByPage,
+  groupByElement,
+  transformGroupedByPage,
+  transformGroupedByPageAndLine,
+  asPages,
+} from 'src/support/itemUtils';
 import ItemGroup from 'src/support/ItemGroup';
 import ItemMerger from 'src/ItemMerger';
 import ItemTransformer from 'src/transformer/ItemTransformer';
+import { items } from 'test/transformer/testItems';
 
 describe('groupByPage', () => {
   test('empty', async () => {
@@ -65,6 +72,30 @@ describe('transformGroupedByPage', () => {
       return [items[0].withData({ v: 1 })];
     });
     expect(transformedItems).toEqual(input.map((item) => item.withData({ v: 1 })));
+  });
+});
+
+describe('transformGroupedByPageAndLine', () => {
+  test('empty', async () => {
+    const transformedItems = transformGroupedByPageAndLine([], () => fail("shoudln't be called"));
+    expect(transformedItems).toEqual([]);
+  });
+
+  test('transform', async () => {
+    const pageItems = [
+      items(0, [{ line: 1, id: 1 }]),
+      items(1, [
+        { line: 1, id: 2 },
+        { line: 1, id: 3 },
+        { line: 2, id: 4 },
+      ]),
+      items(2, [{ line: 1, id: 5 }]),
+    ];
+    const flattenedItems = new Array<Item>().concat(...pageItems);
+    const transformedItems = transformGroupedByPageAndLine(flattenedItems, (page, line, items) => {
+      return [new Item(0, { group: `${page}/${line}:${items.length}` })];
+    });
+    expect(transformedItems.map((item) => item.data['group'])).toEqual(['0/1:1', '1/1:2', '1/2:1', '2/1:1']);
   });
 });
 
