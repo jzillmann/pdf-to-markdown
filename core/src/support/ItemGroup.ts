@@ -1,6 +1,4 @@
-import { assertDefined } from '../assert';
 import type Item from '../Item';
-import type ItemMerger from '../ItemMerger';
 
 export default class ItemGroup {
   top: Item;

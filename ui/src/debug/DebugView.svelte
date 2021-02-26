@@ -5,7 +5,6 @@
     import { BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
 
     import type Debugger from '@core/Debugger';
-    import type Item from '@core/Item';
     import { asPages } from '../../../core/src/support/itemUtils';
 
     import Popup from '../components/Popup.svelte';

@@ -1,41 +1,92 @@
 import Item from 'src/Item';
 import CompactLines from 'src/transformer/CompactLines';
+import { emptyContext } from './testContext';
+import { items } from './testItems';
+
+const transformer = new CompactLines();
+
+test('Transform - raised characters (example.pdf)', async () => {
+  const results = transformer.transform(
+    emptyContext(),
+    items(0, [
+      {
+        x: 240,
+        y: 585,
+        str: 'Dies ist eine Test-PDF',
+        height: 11,
+      },
+      {
+        x: 352.69,
+        y: 585,
+        str: '.',
+        height: 11,
+      },
+      {
+        x: 348,
+        y: 588,
+        str: '1',
+        height: 7.33,
+      },
+      { x: 208, y: 572, str: 'Für’s Testen des', height: 11 },
+    ]),
+  );
+  expect(results.items.map((item) => item.data['line'])).toEqual([0, 0, 0, 1]);
+});
+
+test('Transform - lowered charactes (dict.pdf)', async () => {
+  const results = transformer.transform(
+    emptyContext(),
+    items(0, [
+      { str: 'Let', x: 100.35, y: 625.05, height: 11.96 },
+      { str: 'D', x: 122.38, y: 625.05, height: 11.96 },
+      { str: '(', x: 100.35, y: 610.61, height: 11.96 },
+      { str: 'v', x: 104.9, y: 610.61, height: 11.96 },
+      { str: '0', x: 110.57, y: 608.82, height: 7.97 },
+      { str: ', a', x: 115.29, y: 610.61, height: 11.96 },
+      { str: 'all are different,', x: 100.35, y: 596.16, height: 11.96 },
+    ]),
+  );
+  expect(results.items.map((item) => item.data['line'])).toEqual([0, 0, 1, 1, 1, 1, 2]);
+});
+
 test('Item Merger', async () => {
-  const itemMerger = new CompactLines().descriptor.itemMerger;
+  const itemMerger = transformer.descriptor.itemMerger;
   expect(itemMerger?.groupKey).toEqual('line');
 
-  const mergedItem = itemMerger?.merge([
-    new Item(0, {
-      line: 2,
-      x: 240,
-      y: 585,
-      str: 'Dies ist eine Test-PDF',
-      fontName: 'g_d0_f2',
-      dir: 'ltr',
-      width: 108.62,
-      height: 11,
-    }),
-    new Item(0, {
-      line: 2,
-      x: 352.69,
-      y: 585,
-      str: '.',
-      fontName: 'g_d0_f2',
-      dir: 'ltr',
-      width: 3.06,
-      height: 11,
-    }),
-    new Item(0, {
-      line: 2,
-      x: 348,
-      y: 588,
-      str: '1',
-      fontName: 'g_d0_f2',
-      dir: 'ltr',
-      width: 4.08,
-      height: 7.33,
-    }),
-  ]);
+  const mergedItem = itemMerger?.merge(
+    items(0, [
+      {
+        line: 2,
+        x: 240,
+        y: 585,
+        str: 'Dies ist eine Test-PDF',
+        fontName: 'g_d0_f2',
+        dir: 'ltr',
+        width: 108.62,
+        height: 11,
+      },
+      {
+        line: 2,
+        x: 352.69,
+        y: 585,
+        str: '.',
+        fontName: 'g_d0_f2',
+        dir: 'ltr',
+        width: 3.06,
+        height: 11,
+      },
+      {
+        line: 2,
+        x: 348,
+        y: 588,
+        str: '1',
+        fontName: 'g_d0_f2',
+        dir: 'ltr',
+        width: 4.08,
+        height: 7.33,
+      },
+    ]),
+  );
   expect(mergedItem?.withoutUuid()).toEqual(
     new Item(0, {
       line: 2,

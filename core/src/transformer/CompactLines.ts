@@ -10,7 +10,7 @@ export default class CompactLines extends ItemTransformer {
       'Compact Lines',
       'Combines items on the same y-axis',
       {
-        requireColumns: ['str', 'y'],
+        requireColumns: ['str', 'y', 'height'],
         itemMerger: {
           groupKey: 'line',
           merge: mergeLineItems,
@@ -28,20 +28,23 @@ export default class CompactLines extends ItemTransformer {
   }
 
   transform(_: TransformContext, inputItems: Item[]): ItemResult {
+    let lines = 0;
     return {
       items: transformGroupedByPage(inputItems, (page, items) => {
         let lineNumber = -1;
         let lastY: number | undefined;
         return items.map((item) => {
           const y = item.data['y'];
-          if (!lastY || y < lastY) {
+          const height = item.data['height'];
+          if (!lastY || lastY - height > y) {
             lineNumber++;
+            lines++;
           }
           lastY = y;
           return item.withDataAddition({ line: lineNumber });
         });
       }),
-      messages: [],
+      messages: [`Formed ${lines} lines out of ${inputItems.length} items`],
     };
   }
 }
