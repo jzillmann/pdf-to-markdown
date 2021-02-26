@@ -5,6 +5,27 @@ import { items } from './testItems';
 
 const transformer = new CompactLines();
 
+test('Transform - 2 column pdf (Smart Immunity)', async () => {
+  const results = transformer.transform(
+    emptyContext(),
+    items(0, [
+      {
+        x: 54,
+        y: 91.52,
+        str: 'most, get what feels more like a flu. And',
+        height: 12,
+      },
+      {
+        x: 324,
+        y: 710.52,
+        str: 'some, it turns out, aren’t even aware that',
+        height: 12,
+      },
+    ]),
+  );
+  expect(results.items.map((item) => item.data['line'])).toEqual([0, 1]);
+});
+
 test('Transform - raised characters (example.pdf)', async () => {
   const results = transformer.transform(
     emptyContext(),
