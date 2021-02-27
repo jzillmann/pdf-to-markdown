@@ -8,7 +8,7 @@ import {
   asPages,
 } from 'src/support/itemUtils';
 import ItemGroup from 'src/support/ItemGroup';
-import ItemMerger from 'src/ItemMerger';
+import ItemMerger from 'src/support/ItemMerger';
 import { items } from 'test/testItems';
 
 describe('groupByPage', () => {

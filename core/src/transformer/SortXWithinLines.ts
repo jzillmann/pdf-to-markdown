@@ -2,16 +2,16 @@ import Item from '../Item';
 import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
+import LineItemMerger from '../support/LineItemMerger';
 import { transformGroupedByPageAndLine } from '../support/itemUtils';
 
 export default class SortXWithinLines extends ItemTransformer {
   constructor() {
     super('Sort by X', 'Sorts the items of a line by the x coordinate', {
       requireColumns: ['line', 'x'],
-      // itemMerger: {
-      //   groupKey: 'line',
-      //   merge: mergeLineItems,
-      // },
+      debug: {
+        itemMerger: new LineItemMerger(),
+      },
     });
   }
 

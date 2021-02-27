@@ -25,7 +25,7 @@
     $: stageResult = debug.stageResults(currentStage);
     $: pageIsPinned = !isNaN(pinnedPage);
     $: pagesNumbers = new Set(stageResult.items.map((item) => item.page));
-    $: pages = asPages(stageResult.items, stageResult.descriptor?.itemMerger);
+    $: pages = asPages(stageResult.items, stageResult.descriptor?.debug?.itemMerger);
     $: maxPage = Math.max(...pagesNumbers);
     $: visiblePages = pageIsPinned ? pages.filter((page) => page.index === pinnedPage) : pages;
 </script>

@@ -1,4 +1,11 @@
-import type ItemMerger from './ItemMerger';
+import type ItemMerger from './support/ItemMerger';
+
+interface Debug {
+  /**
+   * If this is set, the debug UI will group items and display a merged item.
+   */
+  readonly itemMerger?: ItemMerger;
+}
 
 export default interface TransformDescriptor {
   readonly requireColumns: string[];
@@ -7,7 +14,7 @@ export default interface TransformDescriptor {
   /**
    * If this is set, the debug UI will group items and display a merged item.
    */
-  readonly itemMerger?: ItemMerger;
+  readonly debug?: Debug;
 }
 
 const defaults: TransformDescriptor = {
