@@ -4,8 +4,9 @@ export function assert(condition: boolean, message: string) {
   }
 }
 
-export function assertDefined<T>(value: T, message: string): T {
-  assert(value !== null, message);
-  assert(typeof value !== 'undefined', message);
+export function assertDefined<T>(value: T | undefined, message: string): T {
+  if (value === null || typeof value === 'undefined') {
+    throw new Error(message || 'Assertion failed');
+  }
   return value;
 }

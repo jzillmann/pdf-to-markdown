@@ -9,8 +9,7 @@ import {
 } from 'src/support/itemUtils';
 import ItemGroup from 'src/support/ItemGroup';
 import ItemMerger from 'src/ItemMerger';
-import ItemTransformer from 'src/transformer/ItemTransformer';
-import { items } from 'test/transformer/testItems';
+import { items } from 'test/testItems';
 
 describe('groupByPage', () => {
   test('empty', async () => {

@@ -91,7 +91,12 @@
     </ul>
 
     <!-- Items -->
-    <ItemTable schema={stageResult.schema} pages={visiblePages} {maxPage} {pageIsPinned} />
+    <ItemTable
+        schema={stageResult.schema}
+        pages={visiblePages}
+        {maxPage}
+        {pageIsPinned}
+        changes={stageResult.changes} />
 </div>
 
 <style>

@@ -1,10 +1,10 @@
 import Item from './Item';
-import ItemResult from './ItemResult';
 import ItemTransformer from './transformer/ItemTransformer';
 import TransformContext from './transformer/TransformContext';
 import StageResult from './debug/StageResult';
 import ColumnAnnotation from './debug/ColumnAnnotation';
 import AnnotatedColumn from './debug/AnnotatedColumn';
+import { detectChanges } from './debug/detectChanges';
 
 export default class Debugger {
   private context: TransformContext;
@@ -20,6 +20,7 @@ export default class Debugger {
       {
         schema: inputSchema.map((column) => ({ name: column })),
         items: inputItems,
+        changes: new Map(),
         messages: [
           `Parsed ${inputItems.length === 0 ? 0 : inputItems[inputItems.length - 1].page + 1} pages with ${
             inputItems.length
@@ -37,12 +38,20 @@ export default class Debugger {
         const previousStageResult: StageResult = this.stageResultCache[idx - 1];
         const inputSchema = toSimpleSchema(previousStageResult);
         const outputSchema = transformer.schemaTransformer(inputSchema);
-        const itemResult = transformer.transform(this.context, [...this.stageResultCache[idx - 1].items]);
-        this.stageResultCache.push({
+        const itemResult = transformer.transform(this.context, [...previousStageResult.items]);
+
+        const changes = detectChanges(previousStageResult.items, itemResult.items);
+
+        const stageResult = {
           descriptor: transformer.descriptor,
           schema: toAnnotatedSchema(inputSchema, outputSchema),
           ...itemResult,
-        });
+          changes,
+        };
+        if (changes.size > 0) {
+          stageResult.messages.unshift(`Detected ${changes.size} changes`);
+        }
+        this.stageResultCache.push(stageResult);
       }
     }
     return this.stageResultCache[stageIndex];

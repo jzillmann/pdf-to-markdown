@@ -1,7 +1,7 @@
 import Item from 'src/Item';
 import CompactLines from 'src/transformer/CompactLines';
 import { emptyContext } from './testContext';
-import { items } from './testItems';
+import { items } from '../testItems';
 
 const transformer = new CompactLines();
 

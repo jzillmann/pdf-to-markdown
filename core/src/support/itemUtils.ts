@@ -1,4 +1,4 @@
-import ItemMerger from 'src/ItemMerger';
+import ItemMerger from '../ItemMerger';
 import Item from '../Item';
 import ItemGroup from './ItemGroup';
 import Page from './Page';

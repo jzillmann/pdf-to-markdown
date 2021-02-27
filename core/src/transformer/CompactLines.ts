@@ -36,7 +36,7 @@ export default class CompactLines extends ItemTransformer {
         return items.map((item) => {
           const y = item.data['y'];
           const height = item.data['height'];
-          if (!lastY || Math.abs(lastY - y) > height) {
+          if (!lastY || Math.abs(Math.round(lastY - y)) > Math.round(height)) {
             lineNumber++;
             lines++;
           }

@@ -2,14 +2,18 @@
     import { scale, fade } from 'svelte/transition';
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
     import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';
+    import type { Change } from '@core/debug/detectChanges';
+    import { ChangeCategory } from '../../../core/src/debug/detectChanges';
     import inView from '../actions/inView';
     import { formatValue } from './formatValues';
     import type Page from '@core/support/Page';
+    import ChangeSymbol from './ChangeSymbol.svelte';
 
     export let schema: AnnotatedColumn[];
     export let pages: Page[];
     export let maxPage: number;
     export let pageIsPinned: boolean;
+    export let changes: Map<string, Change>;
     let maxItemsToRenderInOneLoad = 200;
     let renderedMaxPage = 0;
     let expandedItemGroup: { pageIndex: number; itemIndex: number };
@@ -74,6 +78,9 @@
                 <tr
                     class:expandable={itemGroup.hasMany()}
                     class:expanded={expandedItemGroup && isExpanded(page.index, itemIdx)}
+                    class:changePlus={changes.get(itemGroup.top.uuid)?.category === ChangeCategory.PLUS}
+                    class:changeNeutral={changes.get(itemGroup.top.uuid)?.category === ChangeCategory.NEUTRAL}
+                    class:changeMinus={changes.get(itemGroup.top.uuid)?.category === ChangeCategory.MINUS}
                     in:fade>
                     <!-- Page number in first page item row -->
                     {#if itemIdx === 0}
@@ -84,7 +91,13 @@
                         <td id="page" />
                     {/if}
                     <span class="contents" on:click={() => itemGroup.hasMany() && toggleRow(page.index, itemIdx)}>
-                        <td>{itemIdx}{itemGroup.hasMany() ? '+' : ''}</td>
+                        <!-- ID & change marker column -->
+                        <td class="flex space-x-1">
+                            <div>{itemIdx}{itemGroup.hasMany() ? '+' : ''}</div>
+                            <ChangeSymbol {changes} itemUid={itemGroup.top.uuid} />
+                        </td>
+
+                        <!-- Row values -->
                         {#each schema as column}
                             <td class="select-all">{formatValue(itemGroup.top.data[column.name])}</td>
                         {/each}
@@ -96,7 +109,7 @@
                     {#each itemGroup.elements as child, childIdx}
                         <tr class="childs">
                             <td id="page" />
-                            <td>{'└ ' + childIdx}</td>
+                            <td class="whitespace-nowrap">{'└ ' + childIdx}</td>
                             {#each schema as column}
                                 <td class="select-all">{formatValue(child.data[column.name])}</td>
                             {/each}
@@ -159,5 +172,15 @@
 
     tr.childs td:not(#page) {
         @apply bg-gray-200;
+    }
+
+    .changePlus {
+        @apply text-green-600;
+    }
+    .changeMinus {
+        @apply text-yellow-600;
+    }
+    .changeNeutral {
+        @apply text-pink-800;
     }
 </style>
