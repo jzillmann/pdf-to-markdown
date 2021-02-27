@@ -9,6 +9,7 @@
 
     import Popup from '../components/Popup.svelte';
     import PageSelectionPopup from './PageSelectionPopup.svelte';
+    import Checkbox from '../components/Checkbox.svelte';
     import ItemTable from './ItemTable.svelte';
     import TransformerSelectionPopup from './TransformerSelectionPopup.svelte';
 
@@ -16,6 +17,7 @@
 
     const stageNames = debug.stageNames;
     let pinnedPage: number;
+    let onlyRelevantItems = true;
 
     let currentStage = 0;
     $: canNext = currentStage + 1 < stageNames.length;
@@ -68,7 +70,9 @@
             <span>
                 <Popup>
                     <span slot="trigger">
-                        <div class="cursor-pointer hover:underline">{stageNames[currentStage]}</div>
+                        <div class="w-52 cursor-pointer hover:underline whitespace-nowrap">
+                            {stageNames[currentStage]}
+                        </div>
                     </span>
                     <span slot="content">
                         <TransformerSelectionPopup
@@ -78,6 +82,9 @@
                     </span>
                 </Popup>
             </span>
+            <div class="w-full flex flex-row-reverse space-x-2 space-x-reverse text-sm">
+                <Checkbox name="Relevant Items" bind:enabled={onlyRelevantItems} />
+            </div>
         </div>
     </div>
 
@@ -96,6 +103,7 @@
         pages={visiblePages}
         {maxPage}
         {pageIsPinned}
+        bind:onlyRelevantItems
         changes={stageResult.changes} />
 </div>
 

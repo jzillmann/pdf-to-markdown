@@ -13,6 +13,7 @@
     export let pages: Page[];
     export let maxPage: number;
     export let pageIsPinned: boolean;
+    export let onlyRelevantItems: boolean;
     export let changes: Map<string, Change>;
     let maxItemsToRenderInOneLoad = 200;
     let renderedMaxPage = 0;
@@ -74,7 +75,7 @@
             {/if}
 
             <!-- Page items -->
-            {#each page.itemGroups as itemGroup, itemIdx}
+            {#each page.itemGroups.filter((group) => !onlyRelevantItems || changes.has(group.top.uuid)) as itemGroup, itemIdx}
                 <tr
                     class:expandable={itemGroup.hasMany()}
                     class:expanded={expandedItemGroup && isExpanded(page.index, itemIdx)}
@@ -121,12 +122,23 @@
     </tbody>
 </table>
 
-{#if !pageIsPinned}
-    {#if renderedMaxPage < pages.length}
-        <span use:inView on:intersect={({ detail }) => detail && calculateNextPageToRenderTo()} />
-        <div class="my-6 text-center text-2xl">...</div>
-    {:else}
-        <div class="my-6 text-center text-2xl">FIN!</div>
+{#if onlyRelevantItems && changes.size === 0}
+    <div class="flex space-x-1 items-center justify-center text-xl">
+        <div>No changes from the transformation.</div>
+        <div>Want to see</div>
+        <div class="font-bold cursor-pointer hover:underline" on:click={() => (onlyRelevantItems = false)}>
+            all items
+        </div>
+        <div>?</div>
+    </div>
+{:else}
+    {#if !pageIsPinned}
+        {#if renderedMaxPage < pages.length}
+            <span use:inView on:intersect={({ detail }) => detail && calculateNextPageToRenderTo()} />
+            <div class="my-6 text-center text-2xl">...</div>
+        {:else}
+            <div class="my-6 text-center text-2xl">FIN!</div>
+        {/if}
     {/if}
 {/if}
 
@@ -174,13 +186,13 @@
         @apply bg-gray-200;
     }
 
-    .changePlus {
+    tr.changePlus td:not(#page) {
         @apply text-green-600;
     }
-    .changeMinus {
-        @apply text-yellow-600;
+    tr.changeMinus td:not(#page) {
+        @apply text-red-600;
     }
-    .changeNeutral {
-        @apply text-pink-800;
+    tr.changeNeutral td:not(#page) {
+        @apply text-yellow-600;
     }
 </style>

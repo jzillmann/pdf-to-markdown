@@ -5,12 +5,14 @@
     import { processUpload, loadExample } from '../store';
     import type Progress from '@core/Progress';
     import ProgressRing from '../components/ProgressRing.svelte';
+    import Checkbox from '../components/Checkbox.svelte';
 
     let specifiedFileName: string;
     let dragover = false;
     let upload: Promise<any>;
     let rejectionError: string;
     let parseProgress: Progress;
+    let debug = false;
 
     function handleExampleLoad() {
         dragover = true;
@@ -47,7 +49,7 @@
         <div class="py-0.5 border-2 border-gray-50 hover:underline cursor-pointer" on:click={handleExampleLoad}>
             Load Example
         </div>
-        <div class="py-0.5 px-1 border-2 border-gray-50 hover:border-green-600 cursor-pointer">Debug</div>
+        <Checkbox name="Debug" bind:enabled={debug} />
     </div>
 
     <!-- Upload Box -->
