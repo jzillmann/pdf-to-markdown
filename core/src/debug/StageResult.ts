@@ -31,5 +31,5 @@ export function initialStage(inputSchema: string[], inputItems: Item[]): StageRe
       inputItems.length
     } items`,
   ];
-  return new StageResult(toDescriptor({}), schema, pages, tracker, messages);
+  return new StageResult(toDescriptor({ debug: { showAll: true } }), schema, pages, tracker, messages);
 }

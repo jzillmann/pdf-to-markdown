@@ -10,6 +10,9 @@ export default class CalculateCoordinates extends ItemTransformer {
       'Extracts X and Y out of the Transform array',
       {
         requireColumns: ['transform'],
+        debug: {
+          showAll: true,
+        },
       },
       (incomingSchema) => {
         return incomingSchema.reduce((schema, column) => {

@@ -13,6 +13,7 @@
     export let maxPage: number;
     export let pageIsPinned: boolean;
     export let onlyRelevantItems: boolean;
+    export let showAllAsRelevant = false;
     export let changes: ChangeIndex;
     let maxItemsToRenderInOneLoad = 200;
     let renderedMaxPage = 0;
@@ -74,7 +75,7 @@
             {/if}
 
             <!-- Page items -->
-            {#each page.itemGroups.filter((group) => !onlyRelevantItems || changes.hasChanged(group.top)) as itemGroup, itemIdx}
+            {#each page.itemGroups.filter((group) => showAllAsRelevant || !onlyRelevantItems || changes.hasChanged(group.top)) as itemGroup, itemIdx}
                 <tr
                     class:expandable={itemGroup.hasMany()}
                     class:expanded={expandedItemGroup && isExpanded(page.index, itemIdx)}

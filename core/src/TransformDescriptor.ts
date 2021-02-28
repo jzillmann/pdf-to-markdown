@@ -2,6 +2,10 @@ import type ItemMerger from './debug/ItemMerger';
 
 interface Debug {
   /**
+   * If set to true, all items will be shown as relevant.
+   */
+  readonly showAll?: boolean;
+  /**
    * If this is set, the debug UI will group items and display a merged item.
    */
   readonly itemMerger?: ItemMerger;

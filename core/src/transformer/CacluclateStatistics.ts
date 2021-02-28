@@ -16,6 +16,9 @@ export default class CalculateStatistics extends ItemTransformer {
         'maxHeightFont',
         'fontToFormats',
       ],
+      debug: {
+        showAll: true,
+      },
     });
   }
 

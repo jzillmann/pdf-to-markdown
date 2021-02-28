@@ -101,6 +101,7 @@
         pages={visiblePages}
         {maxPage}
         {pageIsPinned}
+        showAllAsRelevant={stageResult.descriptor?.debug?.showAll}
         bind:onlyRelevantItems
         changes={stageResult.changes} />
 </div>
