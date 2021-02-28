@@ -75,6 +75,7 @@
                     <span slot="content">
                         <TransformerSelectionPopup
                             {stageNames}
+                            stageDescriptions={debug.stageDescriptions}
                             {currentStage}
                             on:selectTransformer={(e) => (currentStage = e.detail)} />
                     </span>
