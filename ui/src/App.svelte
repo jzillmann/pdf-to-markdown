@@ -38,7 +38,9 @@
     }
 
     .transition-container > * {
+        /* autoprefixer: off */
         grid-row: 1;
+        /* autoprefixer: off */
         grid-column: 1;
     }
 </style>

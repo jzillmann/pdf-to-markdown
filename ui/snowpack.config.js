@@ -18,7 +18,7 @@ module.exports = {
     installOptions: {
         installTypes: true,
         packageLookupFields: ['svelte', 'module', 'main'],
-        //rollup: { plugins: [require('rollup-plugin-svelte')()] },
+        rollup: { plugins: [require('rollup-plugin-svelte')()] },
     },
     devOptions: {
         port: 3005,
