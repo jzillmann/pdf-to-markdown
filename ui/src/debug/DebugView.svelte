@@ -11,6 +11,7 @@
     import Checkbox from '../components/Checkbox.svelte';
     import ItemTable from './ItemTable.svelte';
     import TransformerSelectionPopup from './TransformerSelectionPopup.svelte';
+    import { debugStage } from '../config';
 
     export let debug: Debugger;
 
@@ -18,10 +19,9 @@
     let pinnedPage: number;
     let onlyRelevantItems = true;
 
-    let currentStage = 0;
-    $: canNext = currentStage + 1 < stageNames.length;
-    $: canPrev = currentStage > 0;
-    $: stageResult = debug.stageResults(currentStage);
+    $: canNext = $debugStage + 1 < stageNames.length;
+    $: canPrev = $debugStage > 0;
+    $: stageResult = debug.stageResults($debugStage);
     $: pageIsPinned = !isNaN(pinnedPage);
     $: pagesNumbers = new Set(stageResult.pages.map((page) => page.index));
     $: maxPage = Math.max(...pagesNumbers);
@@ -59,25 +59,25 @@
 
             <div>|</div>
             <div>Transformation:</div>
-            <span on:click={() => canPrev && currentStage--}>
+            <span on:click={() => canPrev && debugStage.update((cur) => cur - 1)}>
                 <ArrowLeft size="1x" class={canPrev ? 'hover:text-green-700 cursor-pointer' : 'opacity-50'} />
             </span>
-            <span on:click={() => canNext && currentStage++}>
+            <span on:click={() => canNext && debugStage.update((cur) => cur + 1)}>
                 <ArrowRight size="1x" class={canNext ? 'hover:text-green-700 cursor-pointer' : 'opacity-50'} />
             </span>
             <span>
                 <Popup>
                     <span slot="trigger">
                         <div class="w-52 cursor-pointer hover:underline whitespace-nowrap">
-                            {stageNames[currentStage]}
+                            {stageNames[$debugStage]}
                         </div>
                     </span>
                     <span slot="content">
                         <TransformerSelectionPopup
                             {stageNames}
                             stageDescriptions={debug.stageDescriptions}
-                            {currentStage}
-                            on:selectTransformer={(e) => (currentStage = e.detail)} />
+                            currentStage={$debugStage}
+                            on:selectTransformer={({ detail }) => debugStage.set(detail)} />
                     </span>
                 </Popup>
             </span>

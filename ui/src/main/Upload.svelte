@@ -6,13 +6,13 @@
     import type Progress from '@core/Progress';
     import ProgressRing from '../components/ProgressRing.svelte';
     import Checkbox from '../components/Checkbox.svelte';
+    import { debugEnabled } from '../config';
 
     let specifiedFileName: string;
     let dragover = false;
     let upload: Promise<any>;
     let rejectionError: string;
     let parseProgress: Progress;
-    let debug = false;
 
     function handleExampleLoad() {
         dragover = true;
@@ -49,7 +49,7 @@
         <div class="py-0.5 border-2 border-gray-50 hover:underline cursor-pointer" on:click={handleExampleLoad}>
             Load Example
         </div>
-        <Checkbox name="Debug" bind:enabled={debug} />
+        <Checkbox name="Debug" bind:enabled={$debugEnabled} />
     </div>
 
     <!-- Upload Box -->
