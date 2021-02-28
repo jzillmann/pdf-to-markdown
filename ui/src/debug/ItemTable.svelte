@@ -7,7 +7,11 @@
     import { formatValue } from './formatValues';
     import type Page from '@core/debug/Page';
     import ChangeSymbol from './ChangeSymbol.svelte';
+    import Hoverable from '../components/Hoverable.svelte';
+    import FontTooltip from './FontTooltip.svelte';
+    import FontsTooltip from './FontsTooltip.svelte';
 
+    export let fontMap: Map<string, object>;
     export let schema: AnnotatedColumn[];
     export let pages: Page[];
     export let maxPage: number;
@@ -102,7 +106,24 @@
 
                         <!-- Row values -->
                         {#each schema as column}
-                            <td class="select-all">{formatValue(itemGroup.top.data[column.name])}</td>
+                            <td>
+                                {#if column.name === 'fontName'}
+                                    <Hoverable let:hovering>
+                                        <span class="relative">
+                                            {#if hovering}
+                                                <span
+                                                    class="fontTooltip absolute overflow-auto "
+                                                    in:fade={{ delay: 300 }}>
+                                                    <FontsTooltip {itemGroup} {fontMap} />
+                                                </span>
+                                            {/if}
+                                            <div class="select-all">{formatValue(itemGroup.top.data[column.name])}</div>
+                                        </span>
+                                    </Hoverable>
+                                {:else}
+                                    <div class="select-all">{formatValue(itemGroup.top.data[column.name])}</div>
+                                {/if}
+                            </td>
                         {/each}
                     </span>
                 </tr>
@@ -123,7 +144,24 @@
                                 </div>
                             </td>
                             {#each schema as column}
-                                <td class="select-all">{formatValue(child.data[column.name])}</td>
+                                <td>
+                                    {#if column.name === 'fontName'}
+                                        <Hoverable let:hovering>
+                                            <span class="relative">
+                                                {#if hovering}
+                                                    <span
+                                                        class="fontTooltip absolute overflow-auto "
+                                                        in:fade={{ delay: 300 }}>
+                                                        <FontTooltip fontName={child.data[column.name]} {fontMap} />
+                                                    </span>
+                                                {/if}
+                                                <div class="select-all">{formatValue(child.data[column.name])}</div>
+                                            </span>
+                                        </Hoverable>
+                                    {:else}
+                                        <div class="select-all">{formatValue(child.data[column.name])}</div>
+                                    {/if}
+                                </td>
                             {/each}
                         </tr>
                     {/each}
@@ -204,5 +242,13 @@
     }
     tr.changeNeutral td:not(#page) {
         @apply text-yellow-600;
+    }
+
+    .fontTooltip {
+        position: absolute;
+        margin-right: 15px;
+        right: 100%;
+        with: 200px;
+        z-index: 4;
     }
 </style>

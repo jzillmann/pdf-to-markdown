@@ -98,6 +98,7 @@
 
     <!-- Items -->
     <ItemTable
+        fontMap={debug.fontMap}
         schema={stageResult.schema}
         pages={visiblePages}
         {maxPage}
