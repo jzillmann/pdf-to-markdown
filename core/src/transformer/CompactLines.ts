@@ -2,8 +2,8 @@ import Item from '../Item';
 import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
-import { transformGroupedByPage } from '../support/itemUtils';
-import LineItemMerger from '../support/LineItemMerger';
+import LineItemMerger from '../debug/LineItemMerger';
+import { transformGroupedByPage } from '../support/groupingUtils';
 
 export default class CompactLines extends ItemTransformer {
   constructor() {
@@ -13,7 +13,7 @@ export default class CompactLines extends ItemTransformer {
       {
         requireColumns: ['str', 'y', 'height'],
         debug: {
-          itemMerger: new LineItemMerger(),
+          itemMerger: new LineItemMerger(true),
         },
       },
       (incomingSchema) => {

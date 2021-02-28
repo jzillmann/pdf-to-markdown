@@ -1,9 +1,8 @@
-import PageViewport from '../parse/PageViewport';
 import Item from '../Item';
 import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
-import { transformGroupedByPage } from '../support/itemUtils';
+import { transformGroupedByPage } from '../support/groupingUtils';
 
 export default class AdjustHeight extends ItemTransformer {
   constructor() {

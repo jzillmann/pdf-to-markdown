@@ -2,11 +2,10 @@
     import { scale, fade } from 'svelte/transition';
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
     import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';
-    import type { Change } from '@core/debug/detectChanges';
-    import { ChangeCategory } from '../../../core/src/debug/detectChanges';
+    import type ChangeIndex from '@core/debug/ChangeIndex';
     import inView from '../actions/inView';
     import { formatValue } from './formatValues';
-    import type Page from '@core/support/Page';
+    import type Page from '@core/debug/Page';
     import ChangeSymbol from './ChangeSymbol.svelte';
 
     export let schema: AnnotatedColumn[];
@@ -14,7 +13,7 @@
     export let maxPage: number;
     export let pageIsPinned: boolean;
     export let onlyRelevantItems: boolean;
-    export let changes: Map<string, Change>;
+    export let changes: ChangeIndex;
     let maxItemsToRenderInOneLoad = 200;
     let renderedMaxPage = 0;
     let expandedItemGroup: { pageIndex: number; itemIndex: number };
@@ -75,17 +74,17 @@
             {/if}
 
             <!-- Page items -->
-            {#each page.itemGroups.filter((group) => !onlyRelevantItems || changes.has(group.top.uuid)) as itemGroup, itemIdx}
+            {#each page.itemGroups.filter((group) => !onlyRelevantItems || changes.hasChanged(group.top)) as itemGroup, itemIdx}
                 <tr
                     class:expandable={itemGroup.hasMany()}
                     class:expanded={expandedItemGroup && isExpanded(page.index, itemIdx)}
-                    class:changePlus={changes.get(itemGroup.top.uuid)?.category === ChangeCategory.PLUS}
-                    class:changeNeutral={changes.get(itemGroup.top.uuid)?.category === ChangeCategory.NEUTRAL}
-                    class:changeMinus={changes.get(itemGroup.top.uuid)?.category === ChangeCategory.MINUS}
+                    class:changePlus={changes.isPlusChange(itemGroup.top)}
+                    class:changeNeutral={changes.isNeutralChange(itemGroup.top)}
+                    class:changeMinus={changes.isMinusChange(itemGroup.top)}
                     in:fade>
                     <!-- Page number in first page item row -->
                     {#if itemIdx === 0}
-                        <td id="page" class="page bg-gray-50">
+                        <td id="page" class="page bg-gray-50 align-top">
                             <div>Page {page.index} {pageIsPinned ? '' : ' / ' + maxPage}</div>
                         </td>
                     {:else}
@@ -93,9 +92,11 @@
                     {/if}
                     <span class="contents" on:click={() => itemGroup.hasMany() && toggleRow(page.index, itemIdx)}>
                         <!-- ID & change marker column -->
-                        <td class="flex space-x-1">
-                            <div>{itemIdx}{itemGroup.hasMany() ? '+' : ''}</div>
-                            <ChangeSymbol {changes} itemUid={itemGroup.top.uuid} />
+                        <td>
+                            <div class="flex space-x-0.5 items-center">
+                                <ChangeSymbol {changes} item={itemGroup.top} />
+                                <div>{itemIdx}{itemGroup.hasMany() ? '…' : ''}</div>
+                            </div>
                         </td>
 
                         <!-- Row values -->
@@ -108,9 +109,18 @@
                 <!-- Expanded childs -->
                 {#if expandedItemGroup && isExpanded(page.index, itemIdx)}
                     {#each itemGroup.elements as child, childIdx}
-                        <tr class="childs">
+                        <tr
+                            class="childs"
+                            class:changePlus={changes.isPlusChange(child)}
+                            class:changeNeutral={changes.isNeutralChange(child)}
+                            class:changeMinus={changes.isMinusChange(child)}>
                             <td id="page" />
-                            <td class="whitespace-nowrap">{'└ ' + childIdx}</td>
+                            <td class="whitespace-nowrap">
+                                <div class="flex space-x-1">
+                                    <div class="w-8">{'└ ' + childIdx}</div>
+                                    <ChangeSymbol {changes} item={child} />
+                                </div>
+                            </td>
                             {#each schema as column}
                                 <td class="select-all">{formatValue(child.data[column.name])}</td>
                             {/each}
@@ -122,7 +132,7 @@
     </tbody>
 </table>
 
-{#if onlyRelevantItems && changes.size === 0}
+{#if onlyRelevantItems && changes.changeCount() === 0}
     <div class="flex space-x-1 items-center justify-center text-xl">
         <div>No changes from the transformation.</div>
         <div>Want to see</div>
@@ -144,13 +154,12 @@
 
 <style>
     .page {
-        @apply text-lg;
         @apply font-semibold;
         @apply pr-4;
         @apply whitespace-nowrap;
         position: -webkit-sticky;
         position: sticky;
-        top: 2em;
+        top: 2.4em;
         z-index: 2;
     }
 
@@ -158,7 +167,7 @@
         @apply px-1;
         position: -webkit-sticky;
         position: sticky;
-        top: 2.4em;
+        top: 2.6em;
         z-index: 2;
     }
     th:not(:first-child) {

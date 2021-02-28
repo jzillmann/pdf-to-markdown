@@ -1,4 +1,4 @@
-import type ItemMerger from './support/ItemMerger';
+import type ItemMerger from './debug/ItemMerger';
 
 interface Debug {
   /**

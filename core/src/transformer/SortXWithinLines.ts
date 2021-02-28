@@ -2,8 +2,8 @@ import Item from '../Item';
 import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
-import LineItemMerger from '../support/LineItemMerger';
-import { transformGroupedByPageAndLine } from '../support/itemUtils';
+import LineItemMerger from '../debug/LineItemMerger';
+import { transformGroupedByPageAndLine } from '../support/groupingUtils';
 
 export default class SortXWithinLines extends ItemTransformer {
   constructor() {

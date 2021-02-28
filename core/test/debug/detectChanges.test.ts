@@ -1,4 +1,6 @@
-import { detectChanges, PositionChange, Direction } from 'src/debug/detectChanges';
+import ChangeTracker from 'src/debug/ChangeTracker';
+import { detectChanges } from 'src/debug/detectChanges';
+import { PositionChange, Direction } from 'src/debug/ChangeIndex';
 import { items } from 'test/testItems';
 
 test('No changes', async () => {
@@ -9,8 +11,9 @@ test('No changes', async () => {
     { id: 'B', line: '1', x: 2 },
   ]);
 
-  const changes = detectChanges(inputItems, inputItems);
-  expect(changes).toEqual(new Map());
+  const tracker = new ChangeTracker();
+  detectChanges(tracker, inputItems, inputItems);
+  expect(tracker.changeCount()).toEqual(0);
 });
 test('Positional changes', async () => {
   const inputItems = items(0, [
@@ -22,11 +25,9 @@ test('Positional changes', async () => {
 
   const transformedItems = [inputItems[0], inputItems[3], inputItems[2], inputItems[1]];
 
-  const changes = detectChanges(inputItems, transformedItems);
-  expect(changes).toEqual(
-    new Map([
-      [inputItems[1].uuid, new PositionChange(Direction.DOWN, 2)],
-      [inputItems[3].uuid, new PositionChange(Direction.UP, 2)],
-    ]),
-  );
+  const tracker = new ChangeTracker();
+  const changes = detectChanges(tracker, inputItems, transformedItems);
+  expect(tracker.changeCount()).toEqual(2);
+  expect(tracker.change(inputItems[1])).toEqual(new PositionChange(Direction.DOWN, 2));
+  expect(tracker.change(inputItems[3])).toEqual(new PositionChange(Direction.UP, 2));
 });

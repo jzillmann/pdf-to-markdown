@@ -5,7 +5,6 @@
     import { BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
 
     import type Debugger from '@core/Debugger';
-    import { asPages } from '../../../core/src/support/itemUtils';
 
     import Popup from '../components/Popup.svelte';
     import PageSelectionPopup from './PageSelectionPopup.svelte';
@@ -24,10 +23,9 @@
     $: canPrev = currentStage > 0;
     $: stageResult = debug.stageResults(currentStage);
     $: pageIsPinned = !isNaN(pinnedPage);
-    $: pagesNumbers = new Set(stageResult.items.map((item) => item.page));
-    $: pages = asPages(stageResult.items, stageResult.descriptor?.debug?.itemMerger);
+    $: pagesNumbers = new Set(stageResult.pages.map((page) => page.index));
     $: maxPage = Math.max(...pagesNumbers);
-    $: visiblePages = pageIsPinned ? pages.filter((page) => page.index === pinnedPage) : pages;
+    $: visiblePages = pageIsPinned ? stageResult.pages.filter((page) => page.index === pinnedPage) : stageResult.pages;
 </script>
 
 <div class="mx-4">

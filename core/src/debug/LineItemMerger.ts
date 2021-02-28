@@ -1,12 +1,13 @@
 import ItemMerger from './ItemMerger';
 import Item from '../Item';
+import ChangeTracker from './ChangeTracker';
 
 export default class LineItemMerger extends ItemMerger {
-  constructor() {
+  constructor(private trackAsNew = false) {
     super('line');
   }
 
-  merge(items: Item[]): Item {
+  merge(tracker: ChangeTracker, items: Item[]): Item {
     const page = items[0].page;
     const line = items[0].data['line'];
     const str = items.map((item) => item.data['str']).join(' ');
@@ -16,7 +17,7 @@ export default class LineItemMerger extends ItemMerger {
     const height = Math.max(...items.map((item) => item.data['height']));
     const fontNames = [...new Set(items.map((item) => item.data['fontName']))];
     const directions = [...new Set(items.map((item) => item.data['dir']))];
-    return new Item(page, {
+    const newItem = new Item(page, {
       str,
       line,
       x,
@@ -26,5 +27,12 @@ export default class LineItemMerger extends ItemMerger {
       fontName: fontNames,
       dir: directions,
     });
+
+    if (this.trackAsNew) {
+      tracker.trackAddition(newItem);
+    } else if (items.find((item) => tracker.hasChanged(item))) {
+      tracker.trackContentChange(newItem);
+    }
+    return newItem;
   }
 }

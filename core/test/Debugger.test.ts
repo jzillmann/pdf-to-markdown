@@ -3,17 +3,19 @@ import Item from 'src/Item';
 import ItemTransformer from 'src/transformer/ItemTransformer';
 import TransformDescriptor from 'src/TransformDescriptor';
 import TransformContext from 'src/transformer/TransformContext';
+import LineItemMerger from 'src/debug/LineItemMerger';
 import ItemResult from 'src/ItemResult';
 import ColumnAnnotation from 'src/debug/ColumnAnnotation';
 import AnnotatedColumn from 'src/debug/AnnotatedColumn';
+import { items } from './testItems';
 
 class TestTransformer extends ItemTransformer {
   items: Item[];
   constructor(name: string, descriptor: Partial<TransformDescriptor>, outputSchema: string[], items: Item[]) {
-    super(name, `Description for ${name}`, descriptor, (incomingSchema) => outputSchema);
+    super(name, `Description for ${name}`, descriptor, (_) => outputSchema);
     this.items = items;
   }
-  transform(_: TransformContext, items: Item[]): ItemResult {
+  transform(_: TransformContext, __: Item[]): ItemResult {
     return {
       items: this.items,
       messages: [],
@@ -21,26 +23,111 @@ class TestTransformer extends ItemTransformer {
   }
 }
 
-test('basic debug', async () => {
-  const parsedSchema = ['A', 'B'];
-  const parsedItems = [new Item(0, { A: 'a_row1', B: 'b_row1' }), new Item(0, { A: 'a_row2', B: 'b_row2' })];
+describe('Transform Items', () => {
+  test('Basics', async () => {
+    const parsedSchema = ['A', 'B'];
+    const parsedItems = items(0, [
+      { A: 'a_row1', B: 'b_row1' },
+      { A: 'a_row2', B: 'b_row2' },
+    ]);
 
-  const trans1Desc = { requireColumns: ['A', 'B'] };
-  const trans1Schema = ['C'];
-  const trans1Items = parsedItems.map((item) => item.withData({ C: `c=${item.value('A')}+${item.value('B')}` }));
+    const trans1Desc = { requireColumns: ['A', 'B'] };
+    const trans1Schema = ['C'];
+    const trans1Items = parsedItems.map((item) => item.withData({ C: `c=${item.value('A')}+${item.value('B')}` }));
+
+    const transformers = [new TestTransformer('Trans1', trans1Desc, trans1Schema, trans1Items)];
+    const debug = new Debugger(parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
+
+    expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
+    expect(debug.stageResults(0).schema).toEqual(parsedSchema.map((column) => ({ name: column })));
+    expect(debug.stageResults(1).schema).toEqual([
+      ...parsedSchema.map((column) => ({ name: column, annotation: ColumnAnnotation.REMOVED })),
+      { name: 'C', annotation: ColumnAnnotation.ADDED },
+    ]);
+
+    expect(debug.stageResults(0).itemsUnpacked()).toEqual(parsedItems);
+    expect(debug.stageResults(1).itemsUnpacked()).toEqual(trans1Items);
+  });
+
+  test('Line Merge', async () => {
+    const parsedSchema = ['id', 'y'];
+    const parsedItems = items(0, [
+      { id: 1, y: 1 },
+      { id: 2, y: 2 },
+      { id: 3, y: 2 },
+    ]);
+
+    const trans1Desc = { requireColumns: ['id', 'y'], debug: { itemMerger: new LineItemMerger(true) } };
+    const trans1Schema = ['id', 'line'];
+    const trans1Items = parsedItems.map((item) => item.withData({ line: item.data['y'] }));
+
+    const transformers = [new TestTransformer('Trans1', trans1Desc, trans1Schema, trans1Items)];
+    const debug = new Debugger(parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
+
+    expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
+    expect(debug.stageResults(0).schema).toEqual([{ name: 'id' }, { name: 'y' }]);
+    expect(debug.stageResults(1).schema).toEqual([
+      { name: 'id' },
+      { name: 'y', annotation: ColumnAnnotation.REMOVED },
+      { name: 'line', annotation: ColumnAnnotation.ADDED },
+    ]);
+
+    expect(debug.stageResults(0).itemsUnpacked()).toEqual(parsedItems);
+    expect(debug.stageResults(1).itemsUnpacked()).toEqual(trans1Items);
+
+    const lineMergingStage = debug.stageResults(1);
+    const { changes, pages } = lineMergingStage;
+
+    //verify item groups
+    expect(pages[0].itemGroups.map((itemGroup) => changes.hasChanged(itemGroup.top))).toEqual([false, true]);
+
+    //verify unpacked items
+    expect(lineMergingStage.itemsUnpacked().map((item) => changes.hasChanged(item))).toEqual([false, false, false]);
+  });
+});
+
+test('Change inside of Line', async () => {
+  const parsedSchema = ['id', 'line'];
+  const parsedItems = items(0, [
+    { id: 1, line: 1 },
+    { id: 2, line: 1 },
+    { id: 3, line: 2 },
+    { id: 4, line: 2 },
+  ]);
+
+  const trans1Desc = { requireColumns: ['id', 'line'], debug: { itemMerger: new LineItemMerger() } };
+  const trans1Schema = parsedSchema;
+  const trans1Items = swapElements([...parsedItems], 0, 1);
 
   const transformers = [new TestTransformer('Trans1', trans1Desc, trans1Schema, trans1Items)];
   const debug = new Debugger(parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
 
   expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
-  expect(debug.stageResults(0).schema).toEqual(parsedSchema.map((column) => ({ name: column })));
-  expect(debug.stageResults(1).schema).toEqual([
-    ...parsedSchema.map((column) => ({ name: column, annotation: ColumnAnnotation.REMOVED })),
-    { name: 'C', annotation: ColumnAnnotation.ADDED },
-  ]);
-  expect(debug.stageResults(0).items).toEqual(parsedItems);
-  expect(debug.stageResults(1).items).toEqual(trans1Items);
+  expect(debug.stageResults(0).schema).toEqual([{ name: 'id' }, { name: 'line' }]);
+  expect(debug.stageResults(1).schema).toEqual([{ name: 'id' }, { name: 'line' }]);
+  expect(debug.stageResults(0).itemsUnpacked()).toEqual(parsedItems);
+  expect(debug.stageResults(1).itemsUnpacked()).toEqual(trans1Items);
+
+  const { changes, pages } = debug.stageResults(1);
+
+  //verify item groups
+  expect(pages[0].itemGroups.map((itemGroup) => changes.hasChanged(itemGroup.top))).toEqual([true, false]);
+
+  //verify unpacked items
+  expect(
+    debug
+      .stageResults(1)
+      .itemsUnpacked()
+      .map((item) => changes.hasChanged(item)),
+  ).toEqual([true, true, false, false]);
 });
+
+var swapElements = function (arr: Item[], indexA: number, indexB: number): Item[] {
+  var temp = arr[indexA];
+  arr[indexA] = arr[indexB];
+  arr[indexB] = temp;
+  return arr;
+};
 
 describe('build schemas', () => {
   const items: Item[] = [];

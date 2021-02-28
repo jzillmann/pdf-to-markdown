@@ -1,7 +1,8 @@
-import ItemMerger from './ItemMerger';
+import ItemMerger from '../debug/ItemMerger';
 import Item from '../Item';
-import ItemGroup from './ItemGroup';
-import Page from './Page';
+import ItemGroup from '../debug/ItemGroup';
+import Page from '../debug/Page';
+import ChangeTracker from '../debug/ChangeTracker';
 
 type KeyExtractor = (item: Item) => any;
 type PageItemTransformer = (page: number, items: Item[]) => Item[];
@@ -41,23 +42,4 @@ export function transformGroupedByPageAndLine(items: Item[], groupedTransformer:
     });
   });
   return transformedItems;
-}
-
-export function asPages(items: Item[], itemMerger?: ItemMerger): Page[] {
-  return groupByPage(items).map((pageItems: Item[]) => {
-    let itemGroups: ItemGroup[];
-    if (itemMerger) {
-      itemGroups = groupByElement(pageItems, itemMerger.groupKey).map((groupItems) => {
-        if (groupItems.length > 1) {
-          const top = itemMerger.merge(groupItems);
-          return new ItemGroup(top, groupItems);
-        } else {
-          return new ItemGroup(groupItems[0]);
-        }
-      });
-    } else {
-      itemGroups = pageItems.map((item) => new ItemGroup(item));
-    }
-    return { index: pageItems[0].page, itemGroups } as Page;
-  });
 }

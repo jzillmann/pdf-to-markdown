@@ -1,14 +1,10 @@
 import Item from 'src/Item';
-import Page from 'src/support/Page';
 import {
   groupByPage,
   groupByElement,
   transformGroupedByPage,
   transformGroupedByPageAndLine,
-  asPages,
-} from 'src/support/itemUtils';
-import ItemGroup from 'src/support/ItemGroup';
-import ItemMerger from 'src/support/ItemMerger';
+} from 'src/support/groupingUtils';
 import { items } from 'test/testItems';
 
 describe('groupByPage', () => {
@@ -95,48 +91,5 @@ describe('transformGroupedByPageAndLine', () => {
       return [new Item(0, { group: `${page}/${line}:${items.length}` })];
     });
     expect(transformedItems.map((item) => item.data['group'])).toEqual(['0/1:1', '1/1:2', '1/2:1', '2/1:1']);
-  });
-});
-
-describe('asPages', () => {
-  test('empty', async () => {
-    expect(groupByPage([])).toEqual([]);
-  });
-
-  test('no merger', async () => {
-    const pageItems = [
-      [new Item(0, { id: 1, line: 1 })],
-      [new Item(1, { id: 2, line: 1 }), new Item(1, { id: 3, line: 1 }), new Item(1, { id: 4, line: 2 })],
-      [new Item(2, { id: 5, line: 1 })],
-    ];
-    const flattenedItems = new Array<Item>().concat(...pageItems);
-    const pages = asPages(flattenedItems);
-    expect(pages).toEqual([
-      { index: 0, itemGroups: pageItems[0].map((item) => new ItemGroup(item)) },
-      { index: 1, itemGroups: pageItems[1].map((item) => new ItemGroup(item)) },
-      { index: 2, itemGroups: pageItems[2].map((item) => new ItemGroup(item)) },
-    ] as Page[]);
-  });
-
-  test('merger', async () => {
-    const pageItems = [
-      [new Item(0, { id: 1, line: 1 })],
-      [new Item(1, { id: 2, line: 1 }), new Item(1, { id: 3, line: 1 }), new Item(1, { id: 4, line: 2 })],
-      [new Item(2, { id: 5, line: 1 })],
-    ];
-    const flattenedItems = new Array<Item>().concat(...pageItems);
-    const merger: ItemMerger = { groupKey: 'line', merge: (items) => items[0] };
-    const pages = asPages(flattenedItems, merger);
-    expect(pages).toEqual([
-      { index: 0, itemGroups: pageItems[0].map((item) => new ItemGroup(item)) },
-      {
-        index: 1,
-        itemGroups: [
-          new ItemGroup(merger.merge(pageItems[1].slice(0, 2)), pageItems[1].slice(0, 2)),
-          new ItemGroup(pageItems[1][2]),
-        ],
-      },
-      { index: 2, itemGroups: pageItems[2].map((item) => new ItemGroup(item)) },
-    ] as Page[]);
   });
 });

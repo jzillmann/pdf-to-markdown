@@ -1,13 +1,15 @@
 import LineItemMerger from 'src/debug/LineItemMerger';
+import ChangeTracker from 'src/debug/ChangeTracker';
 import Item from 'src/Item';
-import { items } from '../testItems';
-
-const itemMerger = new LineItemMerger();
+import { items, realisticItems } from '../testItems';
+import { Addition, ContentChange } from 'src/debug/ChangeIndex';
 
 test('Basics', async () => {
+  const itemMerger = new LineItemMerger();
+  const tracker = new ChangeTracker();
   expect(itemMerger.groupKey).toEqual('line');
-
-  const mergedItem = itemMerger?.merge(
+  const mergedItem = itemMerger.merge(
+    tracker,
     items(0, [
       {
         line: 2,
@@ -41,7 +43,7 @@ test('Basics', async () => {
       },
     ]),
   );
-  expect(mergedItem?.withoutUuid()).toEqual(
+  expect(mergedItem.withoutUuid()).toEqual(
     new Item(0, {
       line: 2,
       x: 240,
@@ -53,4 +55,23 @@ test('Basics', async () => {
       height: 11,
     }).withoutUuid(),
   );
+});
+
+test('Track all lines as changes', async () => {
+  const itemMerger = new LineItemMerger(true);
+  const tracker = new ChangeTracker();
+  const mergedItem = itemMerger.merge(tracker, realisticItems(0, [{ line: 1 }, { line: 1 }]));
+  expect(tracker.change(mergedItem)).toEqual(new Addition());
+});
+
+test('Mark lines containing changed items as changed', async () => {
+  const itemMerger = new LineItemMerger();
+  const tracker = new ChangeTracker();
+  const items1 = realisticItems(0, [{ line: 1 }, { line: 1 }]);
+  const items2 = realisticItems(0, [{ line: 2 }, { line: 2 }]);
+  tracker.trackPositionalChange(items1[1], 1, 0);
+  const mergedItem1 = itemMerger.merge(tracker, items1);
+  const mergedItem2 = itemMerger.merge(tracker, items2);
+  expect(tracker.change(mergedItem1)).toEqual(new ContentChange());
+  expect(tracker.change(mergedItem2)).toEqual(undefined);
 });

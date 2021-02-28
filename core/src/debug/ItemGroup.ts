@@ -1,4 +1,4 @@
-import type Item from '../Item';
+import type Item from '..//Item';
 
 export default class ItemGroup {
   top: Item;
@@ -11,5 +11,12 @@ export default class ItemGroup {
 
   hasMany(): boolean {
     return this.elements.length > 0;
+  }
+
+  unpacked(): Item[] {
+    if (this.elements.length > 0) {
+      return this.elements;
+    }
+    return [this.top];
   }
 }
