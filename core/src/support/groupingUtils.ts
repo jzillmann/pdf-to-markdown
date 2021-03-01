@@ -1,8 +1,4 @@
-import ItemMerger from '../debug/ItemMerger';
 import Item from '../Item';
-import ItemGroup from '../debug/ItemGroup';
-import Page from '../debug/Page';
-import ChangeTracker from '../debug/ChangeTracker';
 
 type KeyExtractor = (item: Item) => any;
 type PageItemTransformer = (page: number, items: Item[]) => Item[];

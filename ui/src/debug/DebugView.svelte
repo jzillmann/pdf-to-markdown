@@ -1,11 +1,13 @@
 <script>
     import { slide } from 'svelte/transition';
+    import { linear } from 'svelte/easing';
     import Icon from 'fa-svelte';
     import { faMapPin as pin } from '@fortawesome/free-solid-svg-icons/faMapPin';
     import { BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
 
     import type Debugger from '@core/Debugger';
 
+    import slideH from '../svelte/slideH';
     import Popup from '../components/Popup.svelte';
     import PageSelectionPopup from './PageSelectionPopup.svelte';
     import Checkbox from '../components/Checkbox.svelte';
@@ -18,14 +20,17 @@
     const stageNames = debug.stageNames;
     let pinnedPage: number;
     let onlyRelevantItems = true;
+    let groupingEnabled = true;
 
     $: canNext = $debugStage + 1 < stageNames.length;
     $: canPrev = $debugStage > 0;
     $: stageResult = debug.stageResults($debugStage);
+    $: supportsGrouping = !!stageResult.descriptor?.debug?.itemMerger;
+    $: supportsRelevanceFiltering = !stageResult.descriptor?.debug?.showAll;
     $: pageIsPinned = !isNaN(pinnedPage);
     $: pagesNumbers = new Set(stageResult.pages.map((page) => page.index));
     $: maxPage = Math.max(...pagesNumbers);
-    $: visiblePages = pageIsPinned ? stageResult.pages.filter((page) => page.index === pinnedPage) : stageResult.pages;
+    $: visiblePages = stageResult.selectPages(onlyRelevantItems, groupingEnabled, pinnedPage);
 </script>
 
 <div class="mx-4">
@@ -37,7 +42,7 @@
     <div class="controls py-2">
         <div class="flex items-center space-x-2">
             {#if pageIsPinned}
-                <span on:click={() => (pinnedPage = undefined)} transition:slide>
+                <span on:click={() => (pinnedPage = undefined)} transition:slideH={{ duration: 180, easing: linear }}>
                     <Icon class="text-xs hover:text-green-700 hover:opacity-25 cursor-pointer opacity-75" icon={pin} />
                 </span>
             {/if}
@@ -82,7 +87,16 @@
                 </Popup>
             </span>
             <div class="w-full flex flex-row-reverse space-x-2 space-x-reverse text-sm">
-                <Checkbox name="Relevant Items" bind:enabled={onlyRelevantItems} />
+                {#if supportsGrouping}
+                    <span class="inline-flex" transition:slideH={{ duration: 700 }}>
+                        <Checkbox name="Grouped" bind:enabled={groupingEnabled} />
+                    </span>
+                {/if}
+                {#if supportsRelevanceFiltering}
+                    <span class="inline-flex" transition:slideH={{ duration: 700 }}>
+                        <Checkbox name="Relevant Items" bind:enabled={onlyRelevantItems} />
+                    </span>
+                {/if}
             </div>
         </div>
     </div>
@@ -97,15 +111,33 @@
     </ul>
 
     <!-- Items -->
-    <ItemTable
-        fontMap={debug.fontMap}
-        schema={stageResult.schema}
-        pages={visiblePages}
-        {maxPage}
-        {pageIsPinned}
-        showAllAsRelevant={stageResult.descriptor?.debug?.showAll}
-        bind:onlyRelevantItems
-        changes={stageResult.changes} />
+    {#if visiblePages.find((page) => page.itemGroups.length > 0)}
+        <ItemTable
+            fontMap={debug.fontMap}
+            schema={stageResult.schema}
+            pages={visiblePages}
+            {maxPage}
+            {pageIsPinned}
+            changes={stageResult.changes} />
+    {:else}
+        <div class="flex space-x-1 items-center justify-center text-xl">
+            <div>No visible changes from the transformation.</div>
+            {#if supportsRelevanceFiltering && onlyRelevantItems}
+                <div>Disabled the</div>
+                <div class="font-bold cursor-pointer hover:underline" on:click={() => (onlyRelevantItems = false)}>
+                    relevance filter
+                </div>
+                <div>?</div>
+            {/if}
+            {#if supportsGrouping && !groupingEnabled}
+                <div>Enable</div>
+                <div class="font-bold cursor-pointer hover:underline" on:click={() => (groupingEnabled = true)}>
+                    grouping
+                </div>
+                <div>?</div>
+            {/if}
+        </div>
+    {/if}
 </div>
 
 <style>

@@ -16,8 +16,6 @@
     export let pages: Page[];
     export let maxPage: number;
     export let pageIsPinned: boolean;
-    export let onlyRelevantItems: boolean;
-    export let showAllAsRelevant = false;
     export let changes: ChangeIndex;
     let maxItemsToRenderInOneLoad = 200;
     let renderedMaxPage = 0;
@@ -79,7 +77,7 @@
             {/if}
 
             <!-- Page items -->
-            {#each page.itemGroups.filter((group) => showAllAsRelevant || !onlyRelevantItems || changes.hasChanged(group.top)) as itemGroup, itemIdx}
+            {#each page.itemGroups as itemGroup, itemIdx}
                 <tr
                     class:expandable={itemGroup.hasMany()}
                     class:expanded={expandedItemGroup && isExpanded(page.index, itemIdx)}
@@ -171,23 +169,12 @@
     </tbody>
 </table>
 
-{#if onlyRelevantItems && changes.changeCount() === 0}
-    <div class="flex space-x-1 items-center justify-center text-xl">
-        <div>No changes from the transformation.</div>
-        <div>Want to see</div>
-        <div class="font-bold cursor-pointer hover:underline" on:click={() => (onlyRelevantItems = false)}>
-            all items
-        </div>
-        <div>?</div>
-    </div>
-{:else}
-    {#if !pageIsPinned}
-        {#if renderedMaxPage < pages.length}
-            <span use:inView on:intersect={({ detail }) => detail && calculateNextPageToRenderTo()} />
-            <div class="my-6 text-center text-2xl">...</div>
-        {:else}
-            <div class="my-6 text-center text-2xl">FIN!</div>
-        {/if}
+{#if !pageIsPinned}
+    {#if renderedMaxPage < pages.length}
+        <span use:inView on:intersect={({ detail }) => detail && calculateNextPageToRenderTo()} />
+        <div class="my-6 text-center text-2xl">...</div>
+    {:else}
+        <div class="my-6 text-center text-2xl">FIN!</div>
     {/if}
 {/if}
 
@@ -249,6 +236,6 @@
         margin-right: 15px;
         right: 100%;
         with: 200px;
-        z-index: 4;
+        z-index: 1;
     }
 </style>
