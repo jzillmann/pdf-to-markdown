@@ -8,6 +8,7 @@
     import type Debugger from '@core/Debugger';
 
     import slideH from '../svelte/slideH';
+    import FontIndex from './FontIndex.svelte';
     import Popup from '../components/Popup.svelte';
     import PageSelectionPopup from './PageSelectionPopup.svelte';
     import Checkbox from '../components/Checkbox.svelte';
@@ -21,6 +22,7 @@
     let pinnedPage: number;
     let onlyRelevantItems = true;
     let groupingEnabled = true;
+    let showFonts = false;
 
     $: canNext = $debugStage + 1 < stageNames.length;
     $: canPrev = $debugStage > 0;
@@ -109,6 +111,11 @@
             <li in:slide={{ delay: 200 }} out:slide>{message}</li>
         {/each}
     </ul>
+
+    <!-- Fonts Index -->
+    <div class="fixed left-0 top-40 z-50">
+        <FontIndex bind:showFonts fontMap={debug.fontMap} />
+    </div>
 
     <!-- Items -->
     {#if visiblePages.find((page) => page.itemGroups.length > 0)}

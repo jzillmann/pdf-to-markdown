@@ -7,10 +7,12 @@
 </script>
 
 <div class="pb-1 rounded shadow bg-gray-300 min-w-max">
-    <div class="py-1 px-2 bg-gray-400 font-semibold rounded-t">{fontName}</div>
+    <div class="bg-gray-400 py-1 px-2 rounded-t grid gap-x-2" style="grid-template-columns: 1fr 2.5fr">
+        <div class="font-semibold">{fontName}</div>
+        <div class="">{font['name']}</div>
+    </div>
+
     <div class="px-2 grid gap-x-2 text-sm" style="grid-template-columns: 1fr 2.5fr">
-        <div>Name:</div>
-        <div>{font['name']}</div>
         <div>Type:</div>
         <div>{font['type']}</div>
         <div>MimeType:</div>

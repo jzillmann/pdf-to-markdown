@@ -185,7 +185,7 @@
         @apply whitespace-nowrap;
         position: -webkit-sticky;
         position: sticky;
-        top: 2.4em;
+        top: 2.7em;
         z-index: 2;
     }
 
