@@ -120,7 +120,6 @@
     <!-- Items -->
     {#if visiblePages.find((page) => page.itemGroups.length > 0)}
         <ItemTable
-            fontMap={debug.fontMap}
             schema={stageResult.schema}
             pages={visiblePages}
             {maxPage}

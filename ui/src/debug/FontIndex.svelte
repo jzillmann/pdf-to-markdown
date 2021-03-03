@@ -1,9 +1,6 @@
 <script>
-    import { scale } from 'svelte/transition';
-    import { linear } from 'svelte/easing';
-
     import slideH from '../svelte/slideH';
-    import FontTooltip from './FontTooltip.svelte';
+    import FontEntry from './FontEntry.svelte';
 
     export let showFonts = false;
     export let fontMap: Map<string, object>;
@@ -14,7 +11,7 @@
         <div class="py-2 px-2 bg-gray-200 rounded-br">
             <div class=" overflow-y-scroll " style="max-height: 65vh" transition:slideH={{ duration: 400 }}>
                 {#each [...fontMap.keys()] as fontName}
-                    <FontTooltip {fontMap} {fontName} />
+                    <FontEntry {fontMap} {fontName} />
                 {/each}
             </div>
         </div>
@@ -23,6 +20,6 @@
         class=" px-1.5 py-0.5 bg-gray-200 text-lg font-mono font-bold rounded-r {showFonts ? '' : 'shadow'} cursor-pointer hover:text-blue-600"
         style="font-family: AmericanTypewriter, verdana"
         on:click={() => (showFonts = !showFonts)}>
-        F
+        {showFonts ? 'X' : 'F'}
     </div>
 </div>
