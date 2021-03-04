@@ -60,7 +60,7 @@
         {#each schema as column (column.name)}
             <th
                 transition:scale
-                class="{column.annotation === ColumnAnnotation.ADDED ? 'text-green-600' : column.annotation === ColumnAnnotation.REMOVED ? 'text-red-600' : ''} transition-colors duration-300 delay-200">
+                class="{column.annotation === ColumnAnnotation.ADDED ? 'text-green-800' : column.annotation === ColumnAnnotation.REMOVED ? 'text-red-800' : ''} transition-colors duration-300 delay-200">
                 {column.name}
             </th>
         {/each}
@@ -184,13 +184,13 @@
     }
 
     tr.changePlus td:not(#page) {
-        @apply text-green-600;
+        @apply text-green-800;
     }
     tr.changeMinus td:not(#page) {
-        @apply text-red-600;
+        @apply text-red-800;
     }
     tr.changeNeutral td:not(#page) {
-        @apply text-yellow-600;
+        @apply text-yellow-800;
     }
 
     .fontTooltip {
