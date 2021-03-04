@@ -19,7 +19,7 @@
 <svg
     height={radius * 2}
     width={radius * 2}
-    class="text-green-600 stroke-current"
+    class="text-select stroke-current"
     style="filter: brightness({$progressTweened / 100 / 2 + 0.5}) sepia({0.5 - $progressTweened / 100 / 2}) blur({0.6 - $progressTweened / 100 / 3}px)">
     <circle
         fill="transparent"

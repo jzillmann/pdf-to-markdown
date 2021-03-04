@@ -43,8 +43,7 @@
         @apply cursor-pointer;
     }
     .selectable:hover {
-        @apply bg-gray-400;
-        @apply text-green-700;
+        @apply bg-select;
         @apply rounded;
     }
 
@@ -59,7 +58,10 @@
 
         /* the arrow */
         border: 10px solid;
-        border-color: transparent transparent transparent var(--color-gray-600);
+        @apply border-select;
+        @apply border-t-transparent;
+        @apply border-r-transparent;
+        @apply border-b-transparent;
 
         /* basic styles */
         @apply ml-2;

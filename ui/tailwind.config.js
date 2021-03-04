@@ -1,3 +1,5 @@
+const plugin = require('tailwindcss/plugin');
+
 module.exports = {
     future: {
         removeDeprecatedGapUtilities: true,
@@ -7,29 +9,35 @@ module.exports = {
         content: ['./src/**/*.svelte', './src/**/*.ts'],
     },
     theme: {
-        extend: {},
+        extend: {
+            colors: {
+                // gray-400 hue-rotated 180deg
+                select: '#A8A297',
+            },
+        },
     },
     variants: {
         extend: {},
     },
     plugins: [
-        function ({ addBase, theme }) {
-            function extractColorVars(colorObj, colorGroup = '') {
-                return Object.keys(colorObj).reduce((vars, colorKey) => {
-                    const value = colorObj[colorKey];
+        plugin(function ({ addUtilities, theme }) {
+            const themeColors = theme('colors');
+            const individualBorderColors = Object.keys(themeColors).map((colorName) => ({
+                [`.border-b-${colorName}`]: {
+                    borderBottomColor: themeColors[colorName],
+                },
+                [`.border-t-${colorName}`]: {
+                    borderTopColor: themeColors[colorName],
+                },
+                [`.border-l-${colorName}`]: {
+                    borderLeftColor: themeColors[colorName],
+                },
+                [`.border-r-${colorName}`]: {
+                    borderRightColor: themeColors[colorName],
+                },
+            }));
 
-                    const newVars =
-                        typeof value === 'string'
-                            ? { [`--color${colorGroup}-${colorKey}`]: value }
-                            : extractColorVars(value, `-${colorKey}`);
-
-                    return { ...vars, ...newVars };
-                }, {});
-            }
-
-            addBase({
-                ':root': extractColorVars(theme('colors')),
-            });
-        },
+            addUtilities(individualBorderColors);
+        }),
     ],
 };

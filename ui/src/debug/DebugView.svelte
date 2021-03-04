@@ -45,13 +45,13 @@
         <div class="flex items-center space-x-2">
             {#if pageIsPinned}
                 <span on:click={() => (pinnedPage = undefined)} transition:slideH={{ duration: 180, easing: linear }}>
-                    <Icon class="text-xs hover:text-green-700 hover:opacity-25 cursor-pointer opacity-75" icon={pin} />
+                    <Icon class="text-xs hover:text-select hover:opacity-25 cursor-pointer opacity-75" icon={pin} />
                 </span>
             {/if}
             <span>
                 <Popup>
                     <span slot="trigger">
-                        <BookOpen size="1x" class="hover:text-green-700 cursor-pointer" />
+                        <BookOpen size="1x" class="hover:text-select cursor-pointer" />
                     </span>
                     <span slot="content">
                         <PageSelectionPopup
@@ -67,10 +67,10 @@
             <div>|</div>
             <div>Transformation:</div>
             <span on:click={() => canPrev && debugStage.update((cur) => cur - 1)}>
-                <ArrowLeft size="1x" class={canPrev ? 'hover:text-green-700 cursor-pointer' : 'opacity-50'} />
+                <ArrowLeft size="1x" class={canPrev ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
             </span>
             <span on:click={() => canNext && debugStage.update((cur) => cur + 1)}>
-                <ArrowRight size="1x" class={canNext ? 'hover:text-green-700 cursor-pointer' : 'opacity-50'} />
+                <ArrowRight size="1x" class={canNext ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
             </span>
             <span>
                 <Popup>
@@ -105,7 +105,7 @@
 
     <!-- Stage Messages -->
     <ul
-        class="messages list-disc list-inside mb-2 p-2 bg-yellow-100 rounded shadow text-sm"
+        class="messages list-disc list-inside mb-2 p-2 bg-blue-50 rounded shadow text-sm"
         style="max-height:{stageResult.messages.length * 40}px">
         {#each stageResult.messages as message}
             <li in:slide={{ delay: 200 }} out:slide>{message}</li>

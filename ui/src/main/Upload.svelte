@@ -53,7 +53,7 @@
     </div>
 
     <!-- Upload Box -->
-    <div class="mb-5 border-2 border-dashed border-gray-400 hover:border-green-800" class:dragover>
+    <div class="mb-5 border-2 border-dashed border-gray-400 hover:border-select" class:dragover>
         <Dropzone
             on:drop={handleFilesSelect}
             on:dragenter={() => (dragover = true)}
@@ -106,7 +106,7 @@
                                         {stage}
                                         {parseProgress.stageDetails[index] ? parseProgress.stageDetails[index] : ''}
                                     </div>
-                                    <Check size="1.5x" class="text-green-700" />
+                                    <Check size="1.5x" class="text-select" />
                                 </div>
                             {/if}
                         {/each}
@@ -127,9 +127,9 @@
 
 <style>
     .dragover {
-        @apply border-green-600;
+        @apply border-select;
     }
     .dragoverItem {
-        @apply text-green-600;
+        @apply text-select;
     }
 </style>

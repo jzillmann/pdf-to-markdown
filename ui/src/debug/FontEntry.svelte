@@ -49,10 +49,10 @@
         grid-template-columns: 1fr 2.5fr;
     }
     .header:hover {
-        filter: hue-rotate(180deg);
-        transform: scale(1.01);
+        @apply bg-select;
+        transform: scale(1.02);
     }
     .opened {
-        filter: hue-rotate(180deg);
+        @apply bg-select;
     }
 </style>

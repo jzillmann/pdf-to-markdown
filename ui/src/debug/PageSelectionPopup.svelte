@@ -24,13 +24,13 @@
 
 <div class="absolute mt-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96" transition:slide>
     <span class="mt-1 pr-2" on:click={!!pinnedPage && unpinPage}>
-        <Collection size="1x" class={!!pinnedPage ? 'hover:text-green-700 cursor-pointer' : 'opacity-50'} />
+        <Collection size="1x" class={!!pinnedPage ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
     </span>
     <div class="grid gap-3" style="grid-template-columns: repeat({Math.min(20, maxPage + 1)}, minmax(0, 1fr));">
         {#each new Array(maxPage + 1) as _, idx}
             <div
                 on:click={() => pagesNumbers.has(idx) && pinPage(idx)}
-                class="px-2 border border-gray-300 rounded-full text-center {pagesNumbers.has(idx) ? (pinnedPage === idx ? 'bg-green-600' : 'hover:text-green-700 hover:border-green-700 cursor-pointer') : 'opacity-50'}">
+                class="px-2 border border-gray-300 rounded-full text-center {pagesNumbers.has(idx) ? (pinnedPage === idx ? 'bg-select' : 'hover:text-select hover:border-select cursor-pointer') : 'opacity-50'}">
                 {idx}
             </div>
         {/each}
