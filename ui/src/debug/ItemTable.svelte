@@ -54,13 +54,14 @@
 <!-- Item table -->
 <table class="w-full text-left">
     <!-- Sticky header -->
-    <thead class=" ">
+    <thead class="">
         <th />
-        <th>#</th>
+        <th class="bg-gray-50" />
+        <th class="bg-gray-300 shadow">#</th>
         {#each schema as column (column.name)}
             <th
                 transition:scale
-                class="{column.annotation === ColumnAnnotation.ADDED ? 'text-green-800' : column.annotation === ColumnAnnotation.REMOVED ? 'text-red-800' : ''} transition-colors duration-300 delay-200">
+                class="bg-gray-300 shadow {column.annotation === ColumnAnnotation.ADDED ? 'text-green-800' : column.annotation === ColumnAnnotation.REMOVED ? 'text-red-800' : ''} transition-colors duration-300 delay-200">
                 {column.name}
             </th>
         {/each}
@@ -89,11 +90,13 @@
                     {:else}
                         <td id="page" />
                     {/if}
+                    <td class="align-baseline">
+                        <ChangeSymbol {changes} item={itemGroup.top} />
+                    </td>
                     <span class="contents" on:click={() => itemGroup.hasMany() && toggleRow(page.index, itemIdx)}>
                         <!-- ID & change marker column -->
-                        <td>
+                        <td class="align-top">
                             <div class="flex space-x-0.5 items-center">
-                                <ChangeSymbol {changes} item={itemGroup.top} />
                                 <div>{itemIdx}{itemGroup.hasMany() ? '…' : ''}</div>
                             </div>
                         </td>
@@ -114,10 +117,12 @@
                             class:changeNeutral={changes.isNeutralChange(child)}
                             class:changeMinus={changes.isMinusChange(child)}>
                             <td id="page" />
+                            <td class="align-baseline">
+                                <ChangeSymbol {changes} item={child} />
+                            </td>
                             <td class="whitespace-nowrap">
                                 <div class="flex space-x-1">
                                     <div class="w-8">{'└ ' + childIdx}</div>
-                                    <ChangeSymbol {changes} item={child} />
                                 </div>
                             </td>
                             {#each schema as column}
@@ -157,10 +162,6 @@
         position: sticky;
         top: 2.6em;
         z-index: 2;
-    }
-    th:not(:first-child) {
-        @apply bg-gray-300;
-        @apply shadow;
     }
     td:not(#page) {
         @apply px-1;
