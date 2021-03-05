@@ -9,12 +9,12 @@ import { Writable, writable } from 'svelte/store';
 export let debug: Writable<Debugger> = writable(undefined);
 export let parseResult: Writable<ParseResult> = writable(undefined);
 
-pdfjs.GlobalWorkerOptions.workerSrc = 'worker/pdf.worker.min.js';
+pdfjs.GlobalWorkerOptions.workerSrc = `worker/pdf.worker.min.js`;
 
 const pdfPipeline = createPipeline(pdfjs, {});
 
 export async function loadExample(progressListener: ProgressListenFunction): Promise<any> {
-    return parsePdf('/ExamplePdf.pdf', progressListener);
+    return parsePdf('ExamplePdf.pdf', progressListener);
 }
 
 export async function processUpload(file: File, progressListener: ProgressListenFunction): Promise<any> {
