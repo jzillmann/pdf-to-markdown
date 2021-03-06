@@ -4,6 +4,10 @@ Javascript tool to parse PDF files and convert them into Markdown format. Online
 
 ## Major Changes
 
+- **2020/2021** Currently separating the parsing logic from the frontent in order to make it separately available. 
+  - [Branch modularize](https://github.com/jzillmann/pdf-to-markdown/tree/modularize) 
+  - Find the current version at https://jzillmann.github.io/pdf-to-markdown-staging/
+  - [Help me](https://github.com/jzillmann/pdf-to-markdown/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+milestone%3Av2) 
 - **Apr 2017** - 0.1: Initial Release
 
 ## Contribute
