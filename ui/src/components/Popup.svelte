@@ -17,8 +17,14 @@
     </span>
 
     {#if $opened}
-        <span>
-            <slot name="content" />
+        <span class="popupContent">
+            <slot name="content" class="z-20" />
         </span>
     {/if}
 </span>
+
+<style>
+    .popupContent :global(*) {
+        @apply z-20;
+    }
+</style>

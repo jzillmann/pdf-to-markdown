@@ -10,9 +10,10 @@
 
     export let schema: AnnotatedColumn[];
     export let pages: Page[];
-    export let maxPage: number;
     export let pageIsPinned: boolean;
     export let changes: ChangeIndex;
+
+    let maxPage = pages[pages.length - 1].index;
     let maxItemsToRenderInOneLoad = 200;
     let renderedMaxPage = 0;
     let expandedItemGroup: { pageIndex: number; itemIndex: number };
