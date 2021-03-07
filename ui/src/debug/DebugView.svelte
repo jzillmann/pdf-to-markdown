@@ -1,5 +1,6 @@
 <script>
-    import { slide } from 'svelte/transition';
+    import { slide, blur } from 'svelte/transition';
+    import { flip } from 'svelte/animate';
 
     import type Debugger from '@core/Debugger';
 
@@ -39,11 +40,9 @@
         bind:pinnedPage />
 
     <!-- Stage Messages -->
-    <ul
-        class="messages list-disc list-inside mb-2 p-2 bg-blue-50 rounded shadow text-sm"
-        style="max-height:{stageResult.messages.length * 40}px">
-        {#each stageResult.messages as message}
-            <li in:slide={{ delay: 200 }} out:slide>{message}</li>
+    <ul class="messages list-disc list-inside mb-2 p-2 bg-blue-50 rounded shadow text-sm">
+        {#each stageResult.messages as message (message)}
+            <li animate:flip in:slide>{message}</li>
         {/each}
     </ul>
 
@@ -53,27 +52,27 @@
     {:else}
         <!-- No items visible -->
         <div class="flex space-x-1 items-center justify-center text-xl">
-            <div>No visible changes from the transformation.</div>
+            <div in:blur={{ delay: 500 }}>No visible changes from the transformation.</div>
             {#if supportsRelevanceFiltering && onlyRelevantItems}
-                <div>Disabled the</div>
-                <div class="font-bold cursor-pointer hover:underline" on:click={() => (onlyRelevantItems = false)}>
+                <div in:blur={{ delay: 900 }}>Disable the</div>
+                <div
+                    in:blur={{ delay: 950 }}
+                    class="font-bold cursor-pointer hover:underline"
+                    on:click={() => (onlyRelevantItems = false)}>
                     relevance filter
                 </div>
-                <div>?</div>
+                <div in:blur={{ delay: 990 }}>?</div>
             {/if}
             {#if supportsGrouping && !groupingEnabled}
-                <div>Enable</div>
-                <div class="font-bold cursor-pointer hover:underline" on:click={() => (groupingEnabled = true)}>
+                <div in:blur={{ delay: 1000 }}>Enable</div>
+                <div
+                    in:blur={{ delay: 1050 }}
+                    class="font-bold cursor-pointer hover:underline"
+                    on:click={() => (groupingEnabled = true)}>
                     grouping
                 </div>
-                <div>?</div>
+                <div in:blur={{ delay: 1090 }}>?</div>
             {/if}
         </div>
     {/if}
 </div>
-
-<style>
-    .messages {
-        transition: max-height 0.15s ease-in-out;
-    }
-</style>
