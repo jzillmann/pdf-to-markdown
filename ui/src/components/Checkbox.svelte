@@ -6,7 +6,7 @@
 <input id="checkbox-{name}" type="checkbox" class="hidden" bind:checked={enabled} />
 <label
     for="checkbox-{name}"
-    class="py-0.5 px-1 border-t-2 border-b-2 border-transparent cursor-pointer select-none whitespace-nowrap">{name}</label>
+    class="px-1 border-t-2 border-b-2 border-transparent cursor-pointer select-none whitespace-nowrap">{name}</label>
 
 <style>
     input:not(:checked) + label:hover {

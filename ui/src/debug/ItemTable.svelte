@@ -153,7 +153,7 @@
         @apply whitespace-nowrap;
         position: -webkit-sticky;
         position: sticky;
-        top: 2.7em;
+        top: 2.4em;
         z-index: 2;
     }
 
@@ -161,7 +161,7 @@
         @apply px-1;
         position: -webkit-sticky;
         position: sticky;
-        top: 2.6em;
+        top: 2.4em;
         z-index: 2;
     }
     td:not(#page) {

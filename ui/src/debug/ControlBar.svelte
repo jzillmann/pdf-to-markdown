@@ -34,7 +34,7 @@
     $: pageIsPinned = !isNaN(pinnedPage);
 </script>
 
-<div class="controls py-2">
+<div class="sticky top-0 pt-2 pb-1 z-20 bg-gray-50">
     <div class="flex items-center space-x-2">
         {#if pageIsPinned}
             <span on:click={() => (pinnedPage = undefined)} transition:slideH={{ duration: 180, easing: linear }}>
@@ -114,12 +114,5 @@
     </div>
 </div>
 
-<style>
-    .controls {
-        @apply bg-gray-50;
-        position: -webkit-sticky;
-        position: sticky;
-        top: 0;
-        z-index: 3;
-    }
-</style>
+<!-- Little cushion sitting between the control bar and the item header. Relevant is the z-index. Item headers should go over it, item rows under! -->
+<div class="sticky top-8 h-3 bg-gray-50" style="z-index:1" />

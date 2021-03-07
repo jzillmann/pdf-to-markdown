@@ -25,6 +25,6 @@
 
 <style>
     .popupContent :global(*) {
-        @apply z-20;
+        @apply z-30;
     }
 </style>
