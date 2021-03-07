@@ -9,7 +9,7 @@
 
 <div class="pb-1 rounded shadow bg-gray-300 min-w-max">
     <div
-        class="twoColumned header bg-gray-400 py-1 px-2 rounded-t cursor-pointer"
+        class="twoColumned header py-1 px-2 text-sm bg-gray-400 rounded-t cursor-pointer"
         class:opened={!collapsed}
         on:click={() => (collapsed = !collapsed)}>
         <div class="font-semibold">{fontName}</div>

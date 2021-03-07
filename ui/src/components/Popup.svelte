@@ -13,7 +13,7 @@
 
 <span use:clickOutside={{ enabled: opened, cb: () => opened.set(false) }}>
     <span on:click={toogle}>
-        <slot name="trigger" />
+        <slot name="trigger" opened={$opened} />
     </span>
 
     {#if $opened}

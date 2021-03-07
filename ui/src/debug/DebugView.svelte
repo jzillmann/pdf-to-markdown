@@ -8,13 +8,13 @@
     import type Debugger from '@core/Debugger';
 
     import slideH from '../svelte/slideH';
-    import FontIndex from './FontIndex.svelte';
     import Popup from '../components/Popup.svelte';
     import PageSelectionPopup from './PageSelectionPopup.svelte';
     import Checkbox from '../components/Checkbox.svelte';
     import ItemTable from './ItemTable.svelte';
     import TransformerSelectionPopup from './TransformerSelectionPopup.svelte';
     import { debugStage } from '../config';
+    import FontEntry from './FontEntry.svelte';
 
     export let debug: Debugger;
 
@@ -22,7 +22,6 @@
     let pinnedPage: number;
     let onlyRelevantItems = true;
     let groupingEnabled = true;
-    let showFonts = false;
 
     $: canNext = $debugStage + 1 < stageNames.length;
     $: canPrev = $debugStage > 0;
@@ -50,8 +49,8 @@
             {/if}
             <span>
                 <Popup>
-                    <span slot="trigger">
-                        <BookOpen size="1x" class="hover:text-select cursor-pointer" />
+                    <span slot="trigger" let:opened>
+                        <BookOpen size="1x" class="hover:text-select cursor-pointer {opened && 'text-select'}" />
                     </span>
                     <span slot="content">
                         <PageSelectionPopup
@@ -60,6 +59,29 @@
                             {pinnedPage}
                             on:pinPage={(e) => (pinnedPage = e.detail)}
                             on:unpinPage={() => (pinnedPage = undefined)} />
+                    </span>
+                </Popup>
+            </span>
+            <span>
+                <Popup>
+                    <span slot="trigger" let:opened>
+                        <div
+                            class="hover:text-select cursor-pointer {opened && 'text-select'}"
+                            style="font-family: AmericanTypewriter, verdana">
+                            F
+                        </div>
+                    </span>
+                    <span slot="content">
+                        <div class="absolute mt-1 py-2 px-2 bg-gray-200 rounded-br">
+                            <div
+                                class=" overflow-y-scroll "
+                                style="max-height: 65vh"
+                                transition:slide={{ duration: 400 }}>
+                                {#each [...debug.fontMap.keys()] as fontName}
+                                    <FontEntry fontMap={debug.fontMap} {fontName} />
+                                {/each}
+                            </div>
+                        </div>
                     </span>
                 </Popup>
             </span>
@@ -112,11 +134,6 @@
         {/each}
     </ul>
 
-    <!-- Fonts Index -->
-    <div class="fixed left-0 top-40 z-50">
-        <FontIndex bind:showFonts fontMap={debug.fontMap} />
-    </div>
-
     <!-- Items -->
     {#if visiblePages.find((page) => page.itemGroups.length > 0)}
         <ItemTable
@@ -126,6 +143,7 @@
             {pageIsPinned}
             changes={stageResult.changes} />
     {:else}
+        <!-- No items visible -->
         <div class="flex space-x-1 items-center justify-center text-xl">
             <div>No visible changes from the transformation.</div>
             {#if supportsRelevanceFiltering && onlyRelevantItems}
