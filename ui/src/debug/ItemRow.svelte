@@ -44,7 +44,7 @@
     {:else}
         <td id="page" />
     {/if}
-    <td class="align-baseline">
+    <td class="align-middle">
         <ChangeSymbol {changes} item={itemGroup.top} />
     </td>
     <span class="contents" on:click={() => itemGroup.hasMany() && toggleRow(pageIdx, itemIdx)}>
@@ -118,12 +118,12 @@
     }
 
     tr.changePlus td:not(#page) {
-        @apply text-green-800;
+        @apply text-green-700;
     }
     tr.changeMinus td:not(#page) {
-        @apply text-red-800;
+        @apply text-red-700;
     }
     tr.changeNeutral td:not(#page) {
-        @apply text-yellow-800;
+        @apply text-yellow-500;
     }
 </style>

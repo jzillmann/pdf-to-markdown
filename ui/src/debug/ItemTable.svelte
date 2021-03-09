@@ -1,6 +1,8 @@
 <script>
     import { scale } from 'svelte/transition';
 
+    import { PresentationChartLine } from 'svelte-hero-icons';
+
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
     import type ChangeIndex from '@core/debug/ChangeIndex';
     import type Page from '@core/debug/Page';
@@ -53,7 +55,13 @@
     <!-- Sticky header -->
     <thead class="">
         <th />
-        <th class="bg-gray-50" />
+        {#if changes.changeCount() > 0}
+            <th class="bg-gray-300 shadow">
+                <PresentationChartLine size="1x" />
+            </th>
+        {:else}
+            <th class="bg-gray-50" />
+        {/if}
         <th class="bg-gray-300 shadow">#</th>
         {#each schema as column (column.name)}
             <th

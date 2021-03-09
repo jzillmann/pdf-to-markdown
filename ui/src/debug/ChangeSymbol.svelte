@@ -1,12 +1,13 @@
 <script>
     import type ChangeIndex from '@core/debug/ChangeIndex';
     import type Item from '@core/Item';
-    import { Addition, ContentChange, PositionChange, Direction } from '../../../core/src/debug/ChangeIndex';
+    import { Addition, Removal, ContentChange, PositionChange, Direction } from '../../../core/src/debug/ChangeIndex';
     import ComponentDefinition from '../components/ComponentDefinition';
 
     import {
         PlusCircle as Plus,
-        Adjustments as Changed,
+        ExclamationCircle as Changed,
+        MinusCircle as Minus,
         ArrowCircleUp as Up,
         ArrowCircleDown as Down,
     } from 'svelte-hero-icons';
@@ -32,6 +33,9 @@
                     break;
                 case Addition.name:
                     iconComp = new ComponentDefinition(Plus, args);
+                    break;
+                case Removal.name:
+                    iconComp = new ComponentDefinition(Minus, args);
                     break;
                 case ContentChange.name:
                     iconComp = new ComponentDefinition(Changed, args);
