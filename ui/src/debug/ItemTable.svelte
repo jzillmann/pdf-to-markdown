@@ -16,7 +16,6 @@
     export let changes: ChangeIndex;
 
     let { pagePinned } = pageControl;
-    let maxPage = pages[pages.length - 1].index;
     let maxItemsToRenderInOneLoad = 200;
     let renderedMaxPage = 0;
 
@@ -26,13 +25,15 @@
             renderedPages = pages;
             renderedMaxPage = 0;
         } else {
-            calculateNextPageToRenderTo();
+            if (renderedMaxPage === 0) {
+                calculateNextPageToRenderTo();
+            }
             renderedPages = pages.slice(0, renderedMaxPage);
         }
     }
 
     function calculateNextPageToRenderTo() {
-        if (renderedMaxPage >= maxPage) {
+        if (renderedMaxPage >= pages.length) {
             return;
         }
         let itemCount = 0;
