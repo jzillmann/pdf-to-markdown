@@ -7,19 +7,20 @@
     import { debugStage } from '../config';
     import ControlBar from './ControlBar.svelte';
     import ItemTable from './ItemTable.svelte';
+    import PageControl from './PageControl';
 
     export let debug: Debugger;
 
+    const pageControl = new PageControl(debug.pageCount);
     const stageNames = debug.stageNames;
-    let pinnedPage: number;
+    const { pinnedPageIndex } = pageControl;
     let groupingEnabled = true;
     let onlyRelevantItems = true;
 
     $: stageResult = debug.stageResults($debugStage);
     $: supportsGrouping = !!stageResult.descriptor?.debug?.itemMerger;
     $: supportsRelevanceFiltering = !stageResult.descriptor?.debug?.showAll;
-    $: pageIsPinned = !isNaN(pinnedPage);
-    $: visiblePages = stageResult.selectPages(onlyRelevantItems, groupingEnabled, pinnedPage);
+    $: visiblePages = pageControl.selectPages(stageResult, onlyRelevantItems, groupingEnabled, $pinnedPageIndex);
 </script>
 
 <div class="mx-4">
@@ -31,13 +32,12 @@
     <ControlBar
         {stageNames}
         stageDescriptions={debug.stageDescriptions}
+        {pageControl}
         fontMap={debug.fontMap}
-        {stageResult}
         {supportsGrouping}
         {supportsRelevanceFiltering}
         bind:groupingEnabled
-        bind:onlyRelevantItems
-        bind:pinnedPage />
+        bind:onlyRelevantItems />
 
     <!-- Stage Messages -->
     <ul class="messages list-disc list-inside mb-2 p-2 bg-blue-50 rounded shadow text-sm">
@@ -48,7 +48,7 @@
 
     <!-- Items -->
     {#if visiblePages.find((page) => page.itemGroups.length > 0)}
-        <ItemTable schema={stageResult.schema} pages={visiblePages} {pageIsPinned} changes={stageResult.changes} />
+        <ItemTable schema={stageResult.schema} pages={visiblePages} {pageControl} changes={stageResult.changes} />
     {:else}
         <!-- No items visible -->
         <div class="flex space-x-1 items-center justify-center text-xl">

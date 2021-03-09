@@ -12,14 +12,22 @@ export default class Debugger {
   private context: TransformContext;
   private transformers: ItemTransformer[];
   private stageResultCache: StageResult[];
+  pageCount: number;
   fontMap: Map<string, object>;
   stageNames: string[];
   stageDescriptions: string[];
 
-  constructor(inputSchema: string[], inputItems: Item[], context: TransformContext, transformers: ItemTransformer[]) {
+  constructor(
+    pageCount: number,
+    inputSchema: string[],
+    inputItems: Item[],
+    context: TransformContext,
+    transformers: ItemTransformer[],
+  ) {
     this.transformers = transformers;
     this.context = context;
     this.fontMap = context.fontMap;
+    this.pageCount = pageCount;
     this.stageNames = ['Parse Result', ...transformers.map((t) => t.name)];
     this.stageDescriptions = ['Initial items as parsed by PDFjs', ...transformers.map((t) => t.description)];
     this.stageResultCache = [initialStage(inputSchema, inputItems)];

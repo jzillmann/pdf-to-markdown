@@ -1,37 +1,39 @@
 <script>
     import { slide } from 'svelte/transition';
     import { getContext } from 'svelte';
-    import { createEventDispatcher } from 'svelte';
     import { Collection } from 'svelte-hero-icons';
     import type { Writable } from 'svelte/store';
 
-    export let pagesNumbers: Set<number>;
-    export let maxPage: number;
-    export let pinnedPage: number;
+    import PageControl from './PageControl';
+
+    export let pageControl: PageControl;
+
+    let { pinnedPageIndex, pagePinned } = pageControl;
 
     const popupOpened: Writable<boolean> = getContext('popupOpened');
-    const dispatch = createEventDispatcher();
 
     function pinPage(index: number) {
         popupOpened.set(false);
-        dispatch('pinPage', index);
+        pageControl.pinPage(index);
     }
     function unpinPage() {
         popupOpened.set(false);
-        dispatch('unpinPage');
+        pageControl.unpinPage();
     }
 </script>
 
 <div class="absolute mt-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96" transition:slide>
-    <span class="mt-1 pr-2" on:click={!!pinnedPage && unpinPage}>
-        <Collection size="1x" class={!!pinnedPage ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
+    <span class="mt-1 pr-2" on:click={$pagePinned && unpinPage}>
+        <Collection size="1x" class={$pagePinned ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
     </span>
-    <div class="grid gap-3" style="grid-template-columns: repeat({Math.min(20, maxPage + 1)}, minmax(0, 1fr));">
-        {#each new Array(maxPage + 1) as _, idx}
+    <div
+        class="grid gap-3"
+        style="grid-template-columns: repeat({Math.min(20, pageControl.totalPages)}, minmax(0, 1fr));">
+        {#each new Array(pageControl.totalPages) as _, idx}
             <div
-                on:click={() => pagesNumbers.has(idx) && pinPage(idx)}
-                class="px-2 border border-gray-300 rounded-full text-center {pagesNumbers.has(idx) ? (pinnedPage === idx ? 'bg-select' : 'hover:text-select hover:border-select cursor-pointer') : 'opacity-50'}">
-                {idx}
+                on:click={() => pageControl.pageHasItems(idx) && pinPage(idx)}
+                class="px-2 border border-gray-300 rounded-full text-center {pageControl.pageHasItems(idx) ? ($pinnedPageIndex === idx ? 'bg-select' : 'hover:text-select hover:border-select cursor-pointer') : 'opacity-50'}">
+                {idx + 1}
             </div>
         {/each}
     </div>

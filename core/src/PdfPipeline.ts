@@ -39,7 +39,7 @@ export default class PdfPipeline {
   async debug(src: string | Uint8Array | object, progressListener: ProgressListenFunction): Promise<Debugger> {
     const parseResult = await this.parse(src, progressListener);
     const context = { fontMap: parseResult.fontMap, pageViewports: parseResult.pageViewports };
-    return new Debugger(parseResult.schema, parseResult.items, context, this.transformers);
+    return new Debugger(parseResult.pageCount, parseResult.schema, parseResult.items, context, this.transformers);
   }
 
   /**

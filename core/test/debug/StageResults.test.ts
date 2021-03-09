@@ -5,7 +5,6 @@ import AnnotatedColumn from 'src/debug/AnnotatedColumn';
 import Page, { asPages } from 'src/debug/Page';
 import { items } from '../testItems';
 import LineItemMerger from 'src/debug/LineItemMerger';
-import ItemGroup from 'src/debug/ItemGroup';
 
 test('itemsUnpacked', async () => {
   const tracker = new ChangeTracker();
@@ -77,22 +76,6 @@ describe('select pages', () => {
     expect(groupElements(allUnpacked[0], 'idx')).toEqual([[0], [1], [2]]);
     expect(groupElements(allUnpacked[1], 'idx')).toEqual([[3]]);
     expect(groupElements(allUnpacked[2], 'idx')).toEqual([[4], [5]]);
-
-    const allGroupedWithPin = result.selectPages(false, true, 0);
-    expect(allGroupedWithPin.map((page) => page.index)).toEqual([0]);
-    expect(groupElements(allGroupedWithPin[0], 'idx')).toEqual([[0, 1], [2]]);
-
-    const relevantGroupedWithPin = result.selectPages(true, true, 0);
-    expect(relevantGroupedWithPin.map((page) => page.index)).toEqual([0]);
-    expect(groupElements(relevantGroupedWithPin[0], 'idx')).toEqual([[0, 1]]);
-
-    const relevantUnpackedWithPin = result.selectPages(true, false, 0);
-    expect(relevantUnpackedWithPin.map((page) => page.index)).toEqual([0]);
-    expect(groupElements(relevantUnpackedWithPin[0], 'idx')).toEqual([]);
-
-    const allUnpackedWithPin = result.selectPages(false, false, 0);
-    expect(allUnpackedWithPin.map((page) => page.index)).toEqual([0]);
-    expect(groupElements(allUnpackedWithPin[0], 'idx')).toEqual([[0], [1], [2]]);
   });
 
   test('Changes on element level', async () => {
@@ -141,22 +124,6 @@ describe('select pages', () => {
     expect(groupElements(allUnpacked[0], 'idx')).toEqual([[0], [1], [2]]);
     expect(groupElements(allUnpacked[1], 'idx')).toEqual([[3]]);
     expect(groupElements(allUnpacked[2], 'idx')).toEqual([[4], [5], [6]]);
-
-    const allGroupedWithPin = result.selectPages(false, true, 2);
-    expect(allGroupedWithPin.map((page) => page.index)).toEqual([2]);
-    expect(groupElements(allGroupedWithPin[0], 'idx')).toEqual([[4, 5], [6]]);
-
-    const relevantGroupedWithPin = result.selectPages(true, true, 2);
-    expect(relevantGroupedWithPin.map((page) => page.index)).toEqual([2]);
-    expect(groupElements(relevantGroupedWithPin[0], 'idx')).toEqual([[4, 5]]);
-
-    const relevantUnpackedWithPin = result.selectPages(true, false, 2);
-    expect(relevantUnpackedWithPin.map((page) => page.index)).toEqual([2]);
-    expect(groupElements(relevantUnpackedWithPin[0], 'idx')).toEqual([[5]]);
-
-    const allUnpackedWithPin = result.selectPages(false, false, 2);
-    expect(allUnpackedWithPin.map((page) => page.index)).toEqual([2]);
-    expect(groupElements(allUnpackedWithPin[0], 'idx')).toEqual([[4], [5], [6]]);
   });
 
   test('showAll - grouped', async () => {

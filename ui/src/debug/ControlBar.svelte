@@ -8,8 +8,8 @@
     import { BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
 
     import { debugStage } from '../config';
-    import type StageResult from '@core/debug/StageResult';
 
+    import PageControl from './PageControl';
     import Popup from '../components/Popup.svelte';
     import PageSelectionPopup from './PageSelectionPopup.svelte';
     import Checkbox from '../components/Checkbox.svelte';
@@ -18,26 +18,24 @@
 
     export let stageNames: string[];
     export let stageDescriptions: string[];
+    export let pageControl: PageControl;
     export let fontMap: Map<string, object>;
-    export let stageResult: StageResult;
     export let supportsGrouping: boolean;
     export let supportsRelevanceFiltering: boolean;
 
-    export let pinnedPage: number;
     export let groupingEnabled = true;
     export let onlyRelevantItems = true;
 
+    let { pinnedPageIndex, pagePinned } = pageControl;
+
     $: canNext = $debugStage + 1 < stageNames.length;
     $: canPrev = $debugStage > 0;
-    $: pagesNumbers = new Set(stageResult.pages.map((page) => page.index));
-    $: maxPage = Math.max(...pagesNumbers);
-    $: pageIsPinned = !isNaN(pinnedPage);
 </script>
 
 <div class="sticky top-0 pt-2 pb-1 z-20 bg-gray-50">
     <div class="flex items-center space-x-2">
-        {#if pageIsPinned}
-            <span on:click={() => (pinnedPage = undefined)} transition:slideH={{ duration: 180, easing: linear }}>
+        {#if $pagePinned}
+            <span on:click={() => pageControl.unpinPage()} transition:slideH={{ duration: 180, easing: linear }}>
                 <Icon class="text-xs hover:text-select hover:opacity-25 cursor-pointer opacity-75" icon={pin} />
             </span>
         {/if}
@@ -47,12 +45,7 @@
                     <BookOpen size="1x" class="hover:text-select cursor-pointer {opened && 'text-select'}" />
                 </span>
                 <span slot="content">
-                    <PageSelectionPopup
-                        {pagesNumbers}
-                        {maxPage}
-                        {pinnedPage}
-                        on:pinPage={(e) => (pinnedPage = e.detail)}
-                        on:unpinPage={() => (pinnedPage = undefined)} />
+                    <PageSelectionPopup {pageControl} />
                 </span>
             </Popup>
         </span>
@@ -80,10 +73,10 @@
         <div>|</div>
         <div>Transformation:</div>
         <span on:click={() => canPrev && debugStage.update((cur) => cur - 1)}>
-            <ArrowLeft size="1x" class={canPrev ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
+            <ArrowLeft size="1x" class={canPrev ? 'hover:text-select cursor-pointer' : 'opacity-25'} />
         </span>
         <span on:click={() => canNext && debugStage.update((cur) => cur + 1)}>
-            <ArrowRight size="1x" class={canNext ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
+            <ArrowRight size="1x" class={canNext ? 'hover:text-select cursor-pointer' : 'opacity-25'} />
         </span>
         <span>
             <Popup>

@@ -7,21 +7,22 @@
     import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';
 
     import inView from '../actions/inView';
+    import PageControl from './PageControl';
     import ItemRow from './ItemRow.svelte';
 
     export let schema: AnnotatedColumn[];
     export let pages: Page[];
-    export let pageIsPinned: boolean;
+    export let pageControl: PageControl;
     export let changes: ChangeIndex;
 
+    let { pagePinned } = pageControl;
     let maxPage = pages[pages.length - 1].index;
     let maxItemsToRenderInOneLoad = 200;
     let renderedMaxPage = 0;
-    let expandedItemGroup: { pageIndex: number; itemIndex: number };
 
     let renderedPages: Page[];
     $: {
-        if (pageIsPinned) {
+        if ($pagePinned) {
             renderedPages = pages;
             renderedMaxPage = 0;
         } else {
@@ -44,13 +45,6 @@
         }
         // console.log(`Render pages 0 to ${renderedMaxPage} with ${itemCount} items`);
     }
-
-    const isExpanded = (pageIndex: number, itemIndex: number) => {
-        return expandedItemGroup?.pageIndex === pageIndex && expandedItemGroup?.itemIndex === itemIndex;
-    };
-    const toggleRow = (pageIndex: number, itemIndex: number) => {
-        expandedItemGroup = isExpanded(pageIndex, itemIndex) ? undefined : { pageIndex, itemIndex };
-    };
 </script>
 
 <!-- Item table -->
@@ -77,13 +71,13 @@
 
             <!-- Page items -->
             {#each page.itemGroups as itemGroup, itemIdx}
-                <ItemRow {pageIdx} {itemIdx} {schema} {itemGroup} {changes} {maxPage} {pageIsPinned} />
+                <ItemRow pageIdx={page.index} {itemIdx} {schema} {itemGroup} {changes} {pageControl} />
             {/each}
         {/each}
     </tbody>
 </table>
 
-{#if !pageIsPinned}
+{#if !pagePinned}
     {#if renderedMaxPage < pages.length}
         <span use:inView on:intersect={({ detail }) => detail && calculateNextPageToRenderTo()} />
         <div class="my-6 text-center text-2xl">...</div>

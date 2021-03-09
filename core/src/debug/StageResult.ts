@@ -22,7 +22,7 @@ export default class StageResult {
     }, []);
   }
 
-  selectPages(relevantChangesOnly: boolean, groupItems: boolean, pinnedPage?: number): Page[] {
+  selectPages(relevantChangesOnly: boolean, groupItems: boolean): Page[] {
     let result: Page[];
 
     // Ungroup pages
@@ -30,11 +30,6 @@ export default class StageResult {
       result = this.pagesWithUnpackedItems();
     } else {
       result = this.pages;
-    }
-
-    // Filter to pinned page
-    if (Number.isInteger(pinnedPage)) {
-      result = result.filter((page) => page.index === pinnedPage);
     }
 
     // Filter out item (groups) with no changes

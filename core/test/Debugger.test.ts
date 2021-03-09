@@ -36,7 +36,7 @@ describe('Transform Items', () => {
     const trans1Items = parsedItems.map((item) => item.withData({ C: `c=${item.value('A')}+${item.value('B')}` }));
 
     const transformers = [new TestTransformer('Trans1', trans1Desc, trans1Schema, trans1Items)];
-    const debug = new Debugger(parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
+    const debug = new Debugger(1, parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
 
     expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
     expect(debug.stageResults(0).schema).toEqual(parsedSchema.map((column) => ({ name: column })));
@@ -62,7 +62,7 @@ describe('Transform Items', () => {
     const trans1Items = parsedItems.map((item) => item.withData({ line: item.data['y'] }));
 
     const transformers = [new TestTransformer('Trans1', trans1Desc, trans1Schema, trans1Items)];
-    const debug = new Debugger(parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
+    const debug = new Debugger(1, parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
 
     expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
     expect(debug.stageResults(0).schema).toEqual([{ name: 'id' }, { name: 'y' }]);
@@ -100,7 +100,7 @@ test('Change inside of Line', async () => {
   const trans1Items = swapElements([...parsedItems], 0, 1);
 
   const transformers = [new TestTransformer('Trans1', trans1Desc, trans1Schema, trans1Items)];
-  const debug = new Debugger(parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
+  const debug = new Debugger(1, parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
 
   expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
   expect(debug.stageResults(0).schema).toEqual([{ name: 'id' }, { name: 'line' }]);
@@ -134,7 +134,7 @@ describe('build schemas', () => {
 
   function calculateSchema(inputSchema: string[], outputSchema: string[]): AnnotatedColumn[] {
     const transformers = [new TestTransformer('Trans1', {}, outputSchema, items)];
-    const debug = new Debugger(inputSchema, items, { fontMap: new Map(), pageViewports: [] }, transformers);
+    const debug = new Debugger(1, inputSchema, items, { fontMap: new Map(), pageViewports: [] }, transformers);
     return debug.stageResults(1).schema;
   }
 

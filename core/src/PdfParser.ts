@@ -23,6 +23,7 @@ export default class PdfParser {
       .promise.then((pdfjsDocument: any) => {
         reporter.parsedDocumentHeader(pdfjsDocument.numPages);
         return Promise.all([
+          pdfjsDocument,
           pdfjsDocument.getMetadata().then((pdfjsMetadata: any) => {
             reporter.parsedMetadata();
             return new Metadata(pdfjsMetadata);
@@ -30,10 +31,15 @@ export default class PdfParser {
           this.extractPagesSequentially(pdfjsDocument, reporter),
         ]);
       })
-      .then(([metadata, pages]: [Metadata, ParsedPage[]]) => {
-        return Promise.all([metadata, pages, this.gatherFontObjects(pages).finally(() => reporter.parsedFonts())]);
+      .then(([pdfjsDocument, metadata, pages]: [any, Metadata, ParsedPage[]]) => {
+        return Promise.all([
+          pdfjsDocument,
+          metadata,
+          pages,
+          this.gatherFontObjects(pages).finally(() => reporter.parsedFonts()),
+        ]);
       })
-      .then(([metadata, pages, fontMap]: [Metadata, ParsedPage[], Map<string, object>]) => {
+      .then(([pdfjsDocument, metadata, pages, fontMap]: [any, Metadata, ParsedPage[], Map<string, object>]) => {
         const pdfjsPages = pages.map((page: any) => page.pdfjsPage);
         const items = pages.reduce((allItems: any[], page: any) => allItems.concat(page.items), []);
         const pageViewports = pdfjsPages.map((page: any) => {
@@ -43,7 +49,15 @@ export default class PdfParser {
               this.pdfjs.Util.transform(viewPort.transform, itemTransform),
           };
         });
-        return new ParseResult(fontMap, pdfjsPages, pageViewports, metadata, this.schema, items);
+        return new ParseResult(
+          fontMap,
+          pdfjsDocument.numPages,
+          pdfjsPages,
+          pageViewports,
+          metadata,
+          this.schema,
+          items,
+        );
       });
   }
 

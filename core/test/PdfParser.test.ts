@@ -21,7 +21,7 @@ test('basic example PDF parse', async () => {
   const expectedPages = 7;
   expect(result.metadata.title()).toEqual('ExamplePdf');
   expect(result.metadata.author()).toEqual('Johannes Zillmann');
-  expect(result.pageCount()).toBe(expectedPages);
+  expect(result.pageCount).toBe(expectedPages);
   result.pdfjsPages.forEach((pdfPage, i) => {
     expect(pdfPage._pageIndex).toBe(i);
   });
