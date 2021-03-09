@@ -10,6 +10,7 @@
     import ChangeSymbol from './ChangeSymbol.svelte';
     import { formatValue } from './formatValues';
     import PageControl from './PageControl';
+    import CurrentPage from './CurrentPage.svelte';
 
     export let pageControl: PageControl;
     export let pageIdx: number;
@@ -18,7 +19,6 @@
     export let itemGroup: ItemGroup;
     export let changes: ChangeIndex;
 
-    let { pagePinned, canPrev, canNext } = pageControl;
     let expandedItemGroup: { pageIndex: number; itemIndex: number };
 
     $: expanded =
@@ -39,17 +39,7 @@
     <!-- Page number in first page item row -->
     {#if itemIdx === 0}
         <td id="page" class="page bg-gray-50 align-top">
-            <div>Page {pageIdx + 1} {$pagePinned ? '' : ' / ' + pageControl.totalPages}</div>
-            {#if $pagePinned}
-                <div class="absolute flex ml-1 space-x-2">
-                    <span on:click={() => pageControl.prev()}>
-                        <ArrowLeft size="1x" class={$canPrev ? 'hover:text-select cursor-pointer' : 'opacity-25'} />
-                    </span>
-                    <span on:click={() => pageControl.next()}>
-                        <ArrowRight size="1x" class={$canNext ? 'hover:text-select cursor-pointer' : 'opacity-25'} />
-                    </span>
-                </div>
-            {/if}
+            <CurrentPage pageIndex={pageIdx} {pageControl} />
         </td>
     {:else}
         <td id="page" />

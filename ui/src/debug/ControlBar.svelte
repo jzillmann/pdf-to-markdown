@@ -1,10 +1,7 @@
 <script>
     import { slide } from 'svelte/transition';
     import slideH from '../svelte/slideH';
-    import { linear } from 'svelte/easing';
 
-    import Icon from 'fa-svelte';
-    import { faMapPin as pin } from '@fortawesome/free-solid-svg-icons/faMapPin';
     import { BookOpen, ArrowLeft, ArrowRight } from 'svelte-hero-icons';
 
     import { debugStage } from '../config';
@@ -26,7 +23,7 @@
     export let groupingEnabled = true;
     export let onlyRelevantItems = true;
 
-    let { pinnedPageIndex, pagePinned } = pageControl;
+    let { pagePinned } = pageControl;
 
     $: canNext = $debugStage + 1 < stageNames.length;
     $: canPrev = $debugStage > 0;
@@ -34,41 +31,32 @@
 
 <div class="sticky top-0 pt-2 pb-1 z-20 bg-gray-50">
     <div class="flex items-center space-x-2">
-        {#if $pagePinned}
-            <span on:click={() => pageControl.unpinPage()} transition:slideH={{ duration: 180, easing: linear }}>
-                <Icon class="text-xs hover:text-select hover:opacity-25 cursor-pointer opacity-75" icon={pin} />
+        <Popup>
+            <span slot="trigger" let:opened>
+                <BookOpen size="1x" class="hover:text-select cursor-pointer {opened && 'text-select'}" />
             </span>
-        {/if}
-        <span>
-            <Popup>
-                <span slot="trigger" let:opened>
-                    <BookOpen size="1x" class="hover:text-select cursor-pointer {opened && 'text-select'}" />
-                </span>
-                <span slot="content">
-                    <PageSelectionPopup {pageControl} />
-                </span>
-            </Popup>
-        </span>
-        <span>
-            <Popup>
-                <span slot="trigger" let:opened>
-                    <div
-                        class="hover:text-select cursor-pointer {opened && 'text-select'}"
-                        style="font-family: AmericanTypewriter, verdana">
-                        F
+            <span slot="content">
+                <PageSelectionPopup {pageControl} />
+            </span>
+        </Popup>
+        <Popup>
+            <span slot="trigger" let:opened>
+                <div
+                    class="hover:text-select cursor-pointer {opened && 'text-select'}"
+                    style="font-family: AmericanTypewriter, verdana">
+                    F
+                </div>
+            </span>
+            <span slot="content">
+                <div class="absolute mt-1 py-2 px-2 bg-gray-200 rounded-br">
+                    <div class=" overflow-y-scroll " style="max-height: 65vh" transition:slide={{ duration: 400 }}>
+                        {#each [...fontMap.keys()] as fontName}
+                            <FontEntry {fontMap} {fontName} />
+                        {/each}
                     </div>
-                </span>
-                <span slot="content">
-                    <div class="absolute mt-1 py-2 px-2 bg-gray-200 rounded-br">
-                        <div class=" overflow-y-scroll " style="max-height: 65vh" transition:slide={{ duration: 400 }}>
-                            {#each [...fontMap.keys()] as fontName}
-                                <FontEntry {fontMap} {fontName} />
-                            {/each}
-                        </div>
-                    </div>
-                </span>
-            </Popup>
-        </span>
+                </div>
+            </span>
+        </Popup>
 
         <div>|</div>
         <div>Transformation:</div>

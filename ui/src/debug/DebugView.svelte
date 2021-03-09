@@ -8,12 +8,13 @@
     import ControlBar from './ControlBar.svelte';
     import ItemTable from './ItemTable.svelte';
     import PageControl from './PageControl';
+    import CurrentPage from './CurrentPage.svelte';
 
     export let debug: Debugger;
 
     const pageControl = new PageControl(debug.pageCount);
     const stageNames = debug.stageNames;
-    const { pinnedPageIndex } = pageControl;
+    const { pinnedPageIndex, pagePinned } = pageControl;
     let groupingEnabled = true;
     let onlyRelevantItems = true;
 
@@ -51,28 +52,35 @@
         <ItemTable schema={stageResult.schema} pages={visiblePages} {pageControl} changes={stageResult.changes} />
     {:else}
         <!-- No items visible -->
-        <div class="flex space-x-1 items-center justify-center text-xl">
-            <div in:blur={{ delay: 500 }}>No visible changes from the transformation.</div>
-            {#if supportsRelevanceFiltering && onlyRelevantItems}
-                <div in:blur={{ delay: 900 }}>Disable the</div>
-                <div
-                    in:blur={{ delay: 950 }}
-                    class="font-bold cursor-pointer hover:underline"
-                    on:click={() => (onlyRelevantItems = false)}>
-                    relevance filter
-                </div>
-                <div in:blur={{ delay: 990 }}>?</div>
+        <div class="flex mt-8">
+            {#if $pagePinned}
+                <span class="w-36">
+                    <CurrentPage {pageControl} pageIndex={$pinnedPageIndex} />
+                </span>
             {/if}
-            {#if supportsGrouping && !groupingEnabled}
-                <div in:blur={{ delay: 1000 }}>Enable</div>
-                <div
-                    in:blur={{ delay: 1050 }}
-                    class="font-bold cursor-pointer hover:underline"
-                    on:click={() => (groupingEnabled = true)}>
-                    grouping
-                </div>
-                <div in:blur={{ delay: 1090 }}>?</div>
-            {/if}
+            <div class="flex w-full space-x-1 items-center justify-center text-xl">
+                <div in:blur={{ delay: 500 }}>No visible changes from the transformation.</div>
+                {#if supportsRelevanceFiltering && onlyRelevantItems}
+                    <div in:blur={{ delay: 900 }}>Disable the</div>
+                    <div
+                        in:blur={{ delay: 950 }}
+                        class="font-bold cursor-pointer hover:underline"
+                        on:click={() => (onlyRelevantItems = false)}>
+                        relevance filter
+                    </div>
+                    <div in:blur={{ delay: 990 }}>?</div>
+                {/if}
+                {#if supportsGrouping && !groupingEnabled}
+                    <div in:blur={{ delay: 1000 }}>Enable</div>
+                    <div
+                        in:blur={{ delay: 1050 }}
+                        class="font-bold cursor-pointer hover:underline"
+                        on:click={() => (groupingEnabled = true)}>
+                        grouping
+                    </div>
+                    <div in:blur={{ delay: 1090 }}>?</div>
+                {/if}
+            </div>
         </div>
     {/if}
 </div>
