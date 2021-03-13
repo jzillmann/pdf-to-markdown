@@ -1,0 +1,35 @@
+{
+  "pages": 116,
+  "items": 12112,
+  "groupedItems": 4993,
+  "changes": 16,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    }
+  ]
+}
+{"page":0,"change":"ContentChange","str":"Grammar Matters  by  Debbie Kuhlmann is licensed under a    Creative Commons Attribution  4.0  ","line":34,"x":99.6238,"y":96.1441,"width":"419.86","height":"14.52","fontName":["URQURO+Helvetica","SJUTSY+Arial,Bold"],"dir":["ltr"]}
+{"page":74,"change":"ContentChange","str":"   ","line":5,"x":72.024,"y":475.75,"width":"6.00","height":"12.00","fontName":["JHFZJQ+Times-Roman"],"dir":["ltr"]}
+{"page":107,"change":"ContentChange","str":"    think it means.             ","line":24,"x":198.0498,"y":172.1001,"width":"135.84","height":"14.52","fontName":["SJUTSY+Arial,Bold","JHFZJQ+Times-Roman"],"dir":["ltr"]}

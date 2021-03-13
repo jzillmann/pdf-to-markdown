@@ -1,0 +1,34 @@
+{
+  "pages": 4,
+  "items": 191,
+  "groupedItems": 120,
+  "changes": 14,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    }
+  ]
+}
+{"page":0,"change":"ContentChange","str":"s h a l F    ","line":4,"x":37.1206,"y":758.8381,"width":"47.42","height":"17.64","fontName":["NRVUEW+Futura-Light"],"dir":["ltr"]}
+{"page":3,"change":"ContentChange","str":"s h a l F    ","line":30,"x":37.1206,"y":758.8381,"width":"47.42","height":"17.64","fontName":["NRVUEW+Futura-Light"],"dir":["ltr"]}

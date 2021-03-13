@@ -1,0 +1,34 @@
+{
+  "pages": 200,
+  "items": 8844,
+  "groupedItems": 8518,
+  "changes": 12,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    }
+  ]
+}
+{"page":1,"change":"ContentChange","str":"S IR C A ONAN RTHUR D I OYLE GNATIUS","line":0,"x":196.324,"y":678.946,"width":"342.54","height":"24.79","fontName":["KKLGKN+NimbusRomNo9L-Regu","INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}
+{"page":20,"change":"ContentChange","str":"I RENE N ORTON , n e A  ́ DLER .”","line":19,"x":318.49899999999997,"y":449.4180000000004,"width":"128.91","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}

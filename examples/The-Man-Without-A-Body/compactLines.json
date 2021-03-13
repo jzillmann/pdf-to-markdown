@@ -1,0 +1,206 @@
+{
+  "pages": 4,
+  "items": 669,
+  "groupedItems": 399,
+  "changes": 173,
+  "schema": [
+    {
+      "name": "line",
+      "annotation": "ADDED"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    }
+  ]
+}
+{"page":0,"change":"Addition","str":"{ fro m }   THE   {New York}   SUN, SUNDAY, MARCH 25, 1877.  ","line":0,"x":255.85,"y":747.22,"width":"287.07","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"TH E MAN WITHOUT A BODY  ","line":4,"x":103.05,"y":706.47,"width":"159.86","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"{ by Edward Page Mitchell }  ","line":5,"x":118.55,"y":693.97,"width":"129.47","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    On a shelf in the old Arsenal museum, in the ","line":7,"x":72.025,"y":669.2,"width":"222.16","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"bright -   colored parakeets, there is a ghastly row ","line":10,"x":72.025,"y":632.2,"width":"222.19","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"of   human   heads.   I   pass   by  the   mummied ","line":11,"x":72.025,"y":619.7,"width":"218.04","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"year ago.  ","line":16,"x":72.025,"y":557.92,"width":"44.81","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    I was struck with the Head when I first  saw it. ","line":17,"x":72.025,"y":545.42,"width":"222.59","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"own.  The  parchmen ty  skin  is  so  shriveled  that ","line":23,"x":72.025,"y":471.15,"width":"222.35","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"of  parts!\"  The  features  of  the  Head  are  of  the ","line":29,"x":72.025,"y":396.88,"width":"221.01","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"some face which had at some time   been familiar ","line":34,"x":72.025,"y":335.1,"width":"222.81","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"to   me — some   face   which   lingered   in   my ","line":35,"x":72.025,"y":322.6,"width":"222.20","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"memory, but which I could not place.  ","line":36,"x":72.025,"y":310.35,"width":"176.97","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    After  all,  I  was  not  greatly  surprised,  when  I ","line":37,"x":72.025,"y":297.85,"width":"222.19","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"appreciation  of  friendly  interest   on  my  part  by ","line":40,"x":72.025,"y":260.83,"width":"220.20","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"glass case.  ","line":42,"x":72.025,"y":236.08,"width":"51.56","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    This  was  on  a  Trustees'  day,  and  I  was  the ","line":43,"x":72.025,"y":223.58,"width":"222.24","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"the superintendent  of the monkeys.  ","line":46,"x":72.025,"y":186.55,"width":"166.67","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    The  Head  winked  a  second  time,  and  even ","line":47,"x":72.025,"y":174.05,"width":"222.24","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"and   the  beautiful   lateral   movement   of   the ","line":52,"x":72.025,"y":112.27,"width":"217.53","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"internal pterygoid. I knew the Head was trying   ","line":53,"x":72.025,"y":99.775,"width":"222.52","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"twitchings of the risorius and the zygomatie   ","line":55,"x":72.025,"y":75.025,"width":"209.28","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"major,   and  knew  that  it  was  endeavoring  to ","line":59,"x":320.38,"y":669.2,"width":"219.60","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"smile.  ","line":60,"x":320.38,"y":656.95,"width":"30.35","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"   \"Here,\" I thought, \"is either a case of vitality ","line":61,"x":320.38,"y":644.45,"width":"222.18","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"action  where  there  is  no  diastaltic  or  excitor -","line":63,"x":320.38,"y":619.7,"width":"219.70","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"observed.  Besides,  the   Head  is  evidently  well ","line":66,"x":320.38,"y":582.67,"width":"220.41","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"bunch which opened the glass door.  ","line":68,"x":320.38,"y":557.92,"width":"170.18","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    \"Thanks,\" said the Head. \"A breath of fresh ","line":69,"x":320.38,"y":545.42,"width":"222.19","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"air is quite a treat.\"  ","line":70,"x":320.38,"y":533.17,"width":"92.49","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    \"How  do  you  feel?\"  I  asked  politely.  \"How ","line":71,"x":320.38,"y":520.67,"width":"222.27","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"does it seem without a body?\"  ","line":72,"x":320.38,"y":508.4,"width":"142.98","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    The  Head   shook  itself  sadly  and  sighed.  \"I ","line":73,"x":320.38,"y":495.9,"width":"220.63","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"ambulatory,  and  yet  I  cannot  walk.  I  cannot  ","line":78,"x":320.38,"y":434.13,"width":"222.20","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"better off than these barbarian heads — I, a man ","line":82,"x":320.38,"y":384.63,"width":"222.40","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"neck and  see sandpip ers and storks all around ","line":84,"x":320.38,"y":359.88,"width":"222.30","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"at that miserable Gray - headed Porphyrio. They ","line":87,"x":320.38,"y":322.6,"width":"222.14","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"they have legs, legs, legs in profusion. \" He cast ","line":89,"x":320.38,"y":297.85,"width":"222.38","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"novels.\"  ","line":94,"x":320.38,"y":236.08,"width":"41.05","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    I did not exactly know how to console him in ","line":95,"x":320.38,"y":223.58,"width":"222.25","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"so delic ate a manner, but ventured to hint that ","line":96,"x":320.38,"y":211.32,"width":"222.12","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"immunity from corns and the gout.  ","line":98,"x":320.38,"y":186.55,"width":"165.24","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"    \"And   as   to   arms,\"   he   went   on,   \"there's ","line":99,"x":320.38,"y":174.05,"width":"222.22","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"brush  away  the  flies  that  get  in  here — Lord ","line":101,"x":320.38,"y":149.3,"width":"222.16","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"knows   h ow — in   the   summertime.   I   cannot ","line":102,"x":320.38,"y":137.05,"width":"222.21","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"jack - in - the - box.  I  cannot  scratch  my  head  or ","line":105,"x":320.38,"y":99.775,"width":"222.05","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"get cold in this thundering draught. As to eat ing ","line":107,"x":320.38,"y":75.025,"width":"222.26","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"   ","line":2,"x":90.025,"y":38.525,"width":"6.00","height":"12.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"prophecy of her future progress. I — \"  ","line":6,"x":72.025,"y":673.45,"width":"175.27","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    I had heard these sentiments before. In a flash ","line":7,"x":72.025,"y":660.95,"width":"222.30","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"I had accounted fo r the familiar look which had ","line":8,"x":72.025,"y":648.7,"width":"222.27","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"Prof. Dummkopf?\"  ","line":11,"x":72.025,"y":611.45,"width":"92.54","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"That is, or was, my name,\" he replied, with ","line":12,"x":72.025,"y":599.2,"width":"222.19","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"dignity.  ","line":13,"x":72.025,"y":586.67,"width":"38.31","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"And you formerly lived in Boston, where you ","line":14,"x":72.025,"y":574.42,"width":"222.27","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"carried  on  scie ntific  experiments  of  startling ","line":15,"x":72.025,"y":561.92,"width":"222.18","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"applied spectrum analysis to Mind.\"  ","line":19,"x":72.025,"y":512.4,"width":"171.94","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"These   were  some  of  my  minor ","line":20,"x":72.025,"y":500.15,"width":"157.32","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"achieveme nts,\"  said  the  Head,  sadly  nodding ","line":21,"x":72.025,"y":487.65,"width":"222.15","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"itself — \"   small  when  compared  with  my  final ","line":22,"x":72.025,"y":475.4,"width":"220.43","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"lost my Body in an experiment.\"  ","line":25,"x":72.025,"y":438.15,"width":"153.71","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"How was that?\" I asked. \"I had not heard.\"  ","line":26,"x":72.025,"y":425.88,"width":"220.91","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"No ,\"  said  the  Head.  \"Living  alone  and ","line":27,"x":72.025,"y":413.38,"width":"222.31","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"noticed. I will tell you — \"  ","line":29,"x":72.025,"y":388.63,"width":"120.52","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    There   was   a   sound   upon   the   stairway. ","line":30,"x":72.025,"y":376.38,"width":"222.28","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"must dissemble.\"  ","line":33,"x":72.025,"y":339.1,"width":"84.49","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    I  hastily  closed   the  door  of  the  glass  case, ","line":34,"x":72.025,"y":326.85,"width":"219.78","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"Acuta, or Pin - tailed Duck.  ","line":38,"x":72.025,"y":277.35,"width":"124.23","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    On  the  next  Trustees'  day   I  revisited  the ","line":39,"x":72.025,"y":264.83,"width":"218.65","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"talking volubly all the while.  ","line":44,"x":72.025,"y":203.08,"width":"133.22","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"That there,\" he said, as we stood before the ","line":45,"x":72.025,"y":190.55,"width":"222.18","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"Head,  \"is  a  relict  of  morality  presented  to  the ","line":46,"x":72.025,"y":178.3,"width":"219.78","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"century, sir.\"  ","line":49,"x":72.025,"y":141.05,"width":"63.26","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    I  fancied  that  I  saw  a  slight  twitching  about ","line":50,"x":72.025,"y":128.8,"width":"222.19","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"the cor ners of Prof. Dummkopf ’ s mouth and an ","line":51,"x":72.025,"y":116.3,"width":"222.49","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"remarkably well under the circumstances. I   ","line":54,"x":72.025,"y":79.275,"width":"205.82","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"intelligent services, and, as I had anticip ated, he ","line":56,"x":320.38,"y":698.22,"width":"222.16","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"conversation with the Head.  ","line":59,"x":320.38,"y":660.95,"width":"133.77","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"Think of putting a wooden - headed idiot like ","line":60,"x":320.38,"y":648.7,"width":"222.30","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"glass  prison,  \"in  charge  of  a  port ion,  however ","line":62,"x":320.38,"y":623.95,"width":"222.25","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"small,  of  a  man  of  science — of  the  inventor  of ","line":63,"x":320.38,"y":611.45,"width":"222.22","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"until I feared that it would tumble off the shelf.  ","line":66,"x":320.38,"y":574.42,"width":"219.87","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"You     spoke     of     your     invention,     the ","line":67,"x":320.38,"y":561.92,"width":"222.27","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"Telepomp,\" I suggested .  ","line":68,"x":320.38,"y":549.67,"width":"119.05","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"Ah,  yes,\"  said  the  Head,  simultaneously ","line":69,"x":320.38,"y":537.17,"width":"222.28","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"the  transmission  of  sou nd  by  electricity.  My ","line":74,"x":320.38,"y":475.4,"width":"222.30","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"spared to introduce it to the public. But, alas - \"  ","line":77,"x":320.38,"y":438.15,"width":"219.12","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"Excuse the interruption,\" I said, \"but I must ","line":78,"x":320.38,"y":425.88,"width":"222.32","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"inform  you  that  somebody  else  has  recently ","line":79,"x":320.38,"y":413.38,"width":"219.22","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"is a realized fact.\"  ","line":81,"x":320.38,"y":388.63,"width":"86.25","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"Have  they  gone  any  further?\"  he  eagerly ","line":82,"x":320.38,"y":376.38,"width":"222.27","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"have they accomplished the Telepomp?\"  ","line":85,"x":320.38,"y":339.1,"width":"192.40","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"I hav e heard nothing of the kind,\" I hastened ","line":86,"x":320.38,"y":326.85,"width":"222.30","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"to assure him, \"but what do you mean?\"  ","line":87,"x":320.38,"y":314.35,"width":"190.95","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"Listen,\"   he   said.   \"In   the   course   of   my ","line":88,"x":320.38,"y":302.1,"width":"222.22","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"m olecules,  and  molecules,  in  their  turn,  are ","line":92,"x":320.38,"y":252.58,"width":"222.23","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"effected  by  the  dissolution  of  the  ato ms  in  the ","line":97,"x":320.38,"y":190.55,"width":"222.15","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"follow me?\"  ","line":102,"x":320.38,"y":128.8,"width":"58.80","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"Perfectly.\"  ","line":103,"x":320.38,"y":116.3,"width":"66.75","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"    \"Well, then, following out this line  of thought, ","line":104,"x":320.38,"y":104.03,"width":"222.77","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"   ","line":2,"x":90.025,"y":38.525,"width":"6.00","height":"12.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"to   co nvey   the   vibrations   of   the   chemical ","line":6,"x":72.025,"y":673.45,"width":"222.22","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"same   order,   and   the   arrangement   of   th ose ","line":11,"x":72.025,"y":611.45,"width":"222.37","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"materialization — not    in    the    sense    of    the ","line":15,"x":72.025,"y":561.92,"width":"222.32","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"of stern science. Do you   still follow me?\"  ","line":17,"x":72.025,"y":537.17,"width":"192.47","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"    \"It is a little misty,\" I said, \"but I think I get ","line":18,"x":72.025,"y":524.93,"width":"222.12","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"matter, to use the word Idea in Plato's sense.\"  ","line":20,"x":72.025,"y":500.15,"width":"216.86","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"    \"Precisely. A candle flame is the same candle ","line":21,"x":72.025,"y":487.65,"width":"222.24","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"flame  although  the  burning  gas  is  conti nually ","line":22,"x":72.025,"y":475.4,"width":"222.26","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"Shape, the Ide a, that is essential. The vibrations ","line":28,"x":72.025,"y":401.13,"width":"222.21","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"I  could  pull  down  matter,  so  to  spea k,  at  the ","line":33,"x":72.025,"y":339.1,"width":"222.23","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"the cathode. This was my Telepomp.\"  ","line":35,"x":72.025,"y":314.35,"width":"180.93","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"\"But   in   practice — how   did   the   Telepomp ","line":36,"x":72.025,"y":302.1,"width":"222.22","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"work?\"  ","line":37,"x":72.025,"y":289.6,"width":"36.32","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"    \"To perfection! In my rooms on Joy street, in ","line":38,"x":72.025,"y":277.35,"width":"222.23","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"difficulty  in  sendi ng  simple  compounds,  such ","line":40,"x":72.025,"y":252.58,"width":"222.06","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"another  over  this  five - mile  coil.  I  shall  never ","line":42,"x":72.025,"y":227.83,"width":"222.10","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"forget the joy with which I disintegrated a three -","line":43,"x":72.025,"y":215.33,"width":"219.88","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"i nstrument   in   another.   This   success   with ","line":46,"x":72.025,"y":178.3,"width":"222.34","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"cat — a  black  and  yellow  cat — and  I  submitted ","line":49,"x":72.025,"y":141.05,"width":"222.24","height":"11.00","fontName":["BCDEEE+Garamond-Bold","BCDGEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"him to a terrible current from my two - hundred -","line":50,"x":72.025,"y":128.8,"width":"219.44","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"cup battery. The cat disappeared in   a twinkling. ","line":51,"x":72.025,"y":116.3,"width":"222.84","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"worked like a charm.\"  ","line":55,"x":320.38,"y":698.22,"width":"105.77","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"    \"This is certainly very remarkable.\"  ","line":56,"x":320.38,"y":685.72,"width":"177.19","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"    \"Isn't it? After my experiment with the cat,   a ","line":57,"x":320.38,"y":673.45,"width":"221.50","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"despatch?  I  resolv ed  to  strengthen  my  already ","line":63,"x":320.38,"y":599.2,"width":"222.26","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"experiment on myself.  ","line":66,"x":320.38,"y":561.92,"width":"105.77","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"    \"I do not like to dwell upon this chapter of my ","line":67,"x":320.38,"y":549.67,"width":"222.33","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"tear  which  had  trickled  down  on  to  his  cheek ","line":69,"x":320.38,"y":524.93,"width":"220.75","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"own pocket handkerchief.            \"Suffice it that ","line":71,"x":320.38,"y":500.15,"width":"221.69","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"street,   made   everything   ready ,   and   with   a ","line":74,"x":320.38,"y":462.9,"width":"222.19","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"in  my  rooms  in  Phillips  street  as  I  was  sure  of ","line":80,"x":320.38,"y":388.63,"width":"221.29","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"the electricity. Alas!\"  ","line":82,"x":320.38,"y":363.88,"width":"99.94","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"    For  some  moments  my  friend  was  unable  to ","line":83,"x":320.38,"y":351.6,"width":"222.28","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"narrative.  ","line":85,"x":320.38,"y":326.85,"width":"46.33","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"    \"I began to disintegrate at my feet and slowly ","line":86,"x":320.38,"y":314.35,"width":"222.28","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"disappe ared   under   my   own   eyes.   My   legs ","line":87,"x":320.38,"y":302.1,"width":"222.17","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"head, ha ving been the last to disappear, should ","line":93,"x":320.38,"y":227.83,"width":"222.24","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"was materializing, and with gre at satisfaction I ","line":98,"x":320.38,"y":165.8,"width":"222.17","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"not elect ricity enough to materialize the rest of ","line":104,"x":320.38,"y":91.525,"width":"222.08","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"   ","line":2,"x":90.025,"y":38.525,"width":"6.00","height":"12.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"knows where!\"  ","line":4,"x":72.025,"y":698.22,"width":"72.27","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"    I did not attempt to offer consolation. Words ","line":5,"x":72.025,"y":685.72,"width":"222.20","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"Prof. Dummkopf's grief.  ","line":7,"x":72.025,"y":660.95,"width":"116.55","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"    \"What  matters  it  about  the  rest?\"  he  sadly  ","line":8,"x":72.025,"y":648.7,"width":"222.14","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"they attempted to preserve it  by means of some ","line":14,"x":72.025,"y":574.42,"width":"222.26","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"anatomical    cabinet    until    some    would - be ","line":19,"x":72.025,"y":512.4,"width":"222.28","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"humorist  presented  me   to  this  collection  as  a ","line":20,"x":72.025,"y":500.15,"width":"220.43","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"consciousness I found myself here.  ","line":23,"x":72.025,"y":462.9,"width":"165.20","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"    \"Such,\"  added  the  Head,  with  a  dry,  harsh ","line":24,"x":72.025,"y":450.65,"width":"222.21","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"laugh, \"is the irony of Fate!\"  ","line":25,"x":72.025,"y":438.15,"width":"136.20","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"    \"Is there nothing I can do  for you?\" I asked, ","line":26,"x":72.025,"y":425.88,"width":"221.67","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"after a pause.  ","line":27,"x":72.025,"y":413.38,"width":"64.33","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"    \"Thank   you,\"   the   Head   replied;   \"I   am ","line":28,"x":72.025,"y":401.13,"width":"222.28","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"objects  of  zoological,  ichthyological, ","line":32,"x":72.025,"y":351.6,"width":"172.06","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"ethnologi cal,  and  conchological  interest  with ","line":33,"x":72.025,"y":339.1,"width":"222.32","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"know of anything you can do for me.  ","line":35,"x":72.025,"y":314.35,"width":"172.74","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"    \"Stay,\"  he added, as his gaze fell once more ","line":36,"x":72.025,"y":302.1,"width":"222.18","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"upon the exasperating legs of the  Oedieneninus ","line":37,"x":72.025,"y":289.6,"width":"222.72","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"Longpipes   opposite  him. \"If there is anything I ","line":38,"x":72.025,"y":277.35,"width":"222.82","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"do  feel  the  need  of,  it  is  out - door  exercise. ","line":39,"x":72.025,"y":264.83,"width":"222.03","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"out for a walk?\"  ","line":41,"x":72.025,"y":240.08,"width":"76.54","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"    I  confess  that  I  was  somewhat  staggered  by ","line":42,"x":72.025,"y":227.83,"width":"222.24","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"was carried out in the following manner:  ","line":45,"x":72.025,"y":190.55,"width":"189.97","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"    I returned to the Museum that afternoon just ","line":46,"x":72.025,"y":178.3,"width":"222.17","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"before the closing hour, and  hid myself behind ","line":47,"x":72.025,"y":165.8,"width":"221.71","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"the  mammoth  sea  cow,  or  Manatus ","line":48,"x":72.025,"y":153.55,"width":"166.18","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"of stout twine, I lashed  his one or two vertebrae ","line":53,"x":72.025,"y":91.525,"width":"222.09","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"extraor dinary  glee.  He  walked  about,  stamped ","line":59,"x":320.38,"y":660.95,"width":"222.29","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"had borrowed. I despoiled the  African lion of his ","line":64,"x":320.38,"y":599.2,"width":"222.89","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"the  moonlight, and wandered arm in arm along ","line":70,"x":320.38,"y":524.93,"width":"222.31","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"mazy paths of the Ramble.  ","line":72,"x":320.38,"y":500.15,"width":"126.75","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"{ THE END }  ","line":74,"x":320.38,"y":474.15,"width":"64.80","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}

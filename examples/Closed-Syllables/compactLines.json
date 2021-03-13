@@ -1,0 +1,1086 @@
+{
+  "pages": 19,
+  "items": 2769,
+  "groupedItems": 1320,
+  "changes": 1053,
+  "schema": [
+    {
+      "name": "line",
+      "annotation": "ADDED"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    }
+  ]
+}
+{"page":0,"change":"Addition","str":"Closed syllable word lists  1  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Drill Bits  ","line":5,"x":72.024,"y":702.82,"width":"64.75","height":"18.00","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"  Drill Bits Phonics - oriented word lists for teachers   ","line":7,"x":72.024,"y":639.34,"width":"368.66","height":"18.00","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"printed word and the words we speak  —   the “sound/symbol” connection. This book is a compilation of ","line":9,"x":72.024,"y":599.86,"width":"462.29","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"lists of words which follow the predictable associations of le tters, syllables and words to the sounds we ","line":10,"x":72.024,"y":585.46,"width":"463.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"use in speaking to each other.   ","line":11,"x":72.024,"y":571.06,"width":"138.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"associations is just one part of reading, though a critical one. This book is des igned to be used as a ","line":13,"x":72.024,"y":533.95,"width":"439.58","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"reference so that you can:   ","line":14,"x":72.024,"y":519.55,"width":"122.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"have memor ized without learning the sounds associated with the letters.   ","line":17,"x":72.024,"y":468.07,"width":"331.42","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"of exception. These are called special categories or special patterns.   ","line":19,"x":72.024,"y":431.11,"width":"307.92","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"HOW THE LISTS ARE   ORGANIZED   ","line":20,"x":72.024,"y":408.55,"width":"150.72","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"programs:   ","line":22,"x":72.024,"y":371.47,"width":"50.78","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Syllable type 1: Closed syllables  —   short vowel sounds (TIN, EX, SPLAT)   ","line":23,"x":72.024,"y":357.05,"width":"319.73","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Syllable type 2: Vowel   consonant - e  —   long vowel sounds (BAKE, DR IVE, SCRAPE)   ","line":24,"x":72.024,"y":342.53,"width":"363.27","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Syllable Type 3: Open syllables   —   long vowel sound (GO, TRI, CU  ","line":25,"x":72.024,"y":328.01,"width":"289.47","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Syllable Type 4: r - controlled syllables (HARD, PORCH, PERT)   ","line":26,"x":72.024,"y":313.49,"width":"269.67","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Syllable Type 5: consonant - l - e words (CANDLE, TABLE, MUZZLE)   ","line":27,"x":72.024,"y":298.97,"width":"288.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Syllable Type 6: Vowel pairs  —   unique sounds (OUT, PAW) , long vowel sounds (MAIN, COACH)   ","line":28,"x":72.024,"y":284.69,"width":"425.27","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"separated, so that the order of presentation is A - I - O - U - E - Y instead of the alphabetical A - E - I - O - U - Y.  ","line":30,"x":72.024,"y":247.73,"width":"440.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"  For the first s yllable types, there are lists which focus on specific problems students may have, such as ","line":31,"x":72.024,"y":225.05,"width":"460.75","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"into small steps.) As the sound patterns advance, the first li sts are still those which do not require the ","line":33,"x":72.024,"y":196.13,"width":"455.18","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"student to have picked up common patterns which have not been taught.  ","line":34,"x":72.024,"y":181.7,"width":"331.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"  More comprehensive lists follow, which include other syllable patterns and exceptional patterns such as ","line":35,"x":72.024,"y":159.02,"width":"469.81","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"- TION and  - TURE. In this way, teache rs can choose appropriate words to include in an individual ","line":36,"x":72.024,"y":144.62,"width":"429.52","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"student’s program.   ","line":37,"x":72.024,"y":130.22,"width":"90.27","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"one of so many words which are exceptions because the t in NATION does  not make the sound it makes ","line":39,"x":72.024,"y":93.144,"width":"465.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"Closed syllable word lists  2  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"in TIN, the student can learn there are thousands of words he or she can master by knowing that  - TION ","line":5,"x":72.024,"y":709.54,"width":"462.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"often is pronounced SHUN. By learning that TI says SH in many other cases ( - TIAL, -   TIOUS), even more ","line":6,"x":72.024,"y":695.02,"width":"456.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"words can be unlocked.  ","line":7,"x":72.024,"y":680.62,"width":"108.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"T his section has word lists for closed syllables.   It’s an edited, updated version of the PDF I already ","line":9,"x":72.024,"y":635.62,"width":"441.59","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"shared.   ","line":10,"x":72.024,"y":621.22,"width":"38.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"  “short a”     ................................ ................................ ................................ ................................ .........   3  ","line":11,"x":72.024,"y":598.66,"width":"436.53","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"“short I”   ................................ ................................ ................................ ................................ ............   8  ","line":12,"x":72.024,"y":576.22,"width":"437.46","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"“short o”   ................................ ................................ ................................ ................................ .........   10  ","line":13,"x":72.024,"y":553.78,"width":"437.84","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"“short u”   ................................ ................................ ................................ ................................ .........   1 2  ","line":14,"x":72.024,"y":531.19,"width":"437.76","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"E   ................................ ................................ ................................ ................................ .....................   14  ","line":15,"x":72.024,"y":508.75,"width":"435.39","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"Y   ................................ ................................ ................................ ................................ .....................   16  ","line":16,"x":72.024,"y":486.19,"width":"435.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"   ","line":20,"x":72.024,"y":396.31,"width":"4.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"Closed syllable word lists  3  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"   Syllable type 1: Closed syllables    ","line":5,"x":72.024,"y":707.86,"width":"206.14","height":"11.04","fontName":["ABCDEE+Arial-Black","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"SHORT A  —   EASY WORDS Have the student  read each word in the word progressions and discover the ","line":6,"x":72.024,"y":684.82,"width":"458.09","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"connection between changing a consonant and changing the sounds in the word.  ","line":7,"x":72.024,"y":670.42,"width":"364.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"  An important and often overlooked part of this process is having the student figure out and explain in ","line":8,"x":72.024,"y":647.86,"width":"458.48","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"his or her own  wo rds what is happening when consonants change. The thought processes that he or she ","line":9,"x":72.024,"y":633.34,"width":"470.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"explain it, help lay the foundations for being able to transfer th at knowledge successfully.  ","line":11,"x":72.024,"y":604.42,"width":"401.57","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"  At first this may be laborious and its worth questionable, especially if the student is accurately reading. ","line":12,"x":72.024,"y":581.86,"width":"464.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"judgment if the ta lking - out task is frustrating. However, it’s precisely the connections between action ","line":14,"x":72.024,"y":552.82,"width":"454.70","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"with specific language problems (and especially the impulsively f ast responders), who learn isolated ","line":16,"x":72.024,"y":523.87,"width":"447.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"skills easily but don’t transfer that skill to reading in context, who most benefit from taking time to   think ","line":17,"x":72.024,"y":509.35,"width":"467.47","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"knowledge   and explain the changes to you. Encourage discovery and review of patterns (that SH makes ","line":19,"x":72.024,"y":480.43,"width":"463.69","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"one sound with two letters, for example), and discussions of meanings of words. Listen for troublesome  ","line":20,"x":72.024,"y":465.91,"width":"465.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"consonants. Are blends much harder than single consonants? Are   there some consonants  —   q, x or y ","line":21,"x":72.024,"y":451.39,"width":"452.47","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"especially  —   which are less securely known? If so, practice them! Never assume that a student is picking ","line":22,"x":72.024,"y":436.87,"width":"467.71","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"up on things  —   ask. Ask what’s changing from word to word. Asking is better than telling, too  —   just try ","line":23,"x":72.024,"y":422.47,"width":"464.80","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"to ask the  right question so your student tells you the right answer. If you tell the student an answer, be ","line":24,"x":72.024,"y":407.95,"width":"466.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"sound like (and if there is still hesitation, show INK   and then change the k to c), and then add the t at the ","line":26,"x":72.024,"y":378.91,"width":"468.89","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"first. There may be students who need a lot of practice with the two sounds of c and g, so a special   list is ","line":28,"x":72.024,"y":349.97,"width":"467.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"included. Too often a student has mastered vowel pairs  —   but still pronounces CENT as KENT.    ","line":29,"x":72.024,"y":335.57,"width":"423.75","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"ABOUT THOSE EXCEPTIONS   ","line":30,"x":72.024,"y":313.13,"width":"127.51","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"   Consider CHR as in CHRIS as a category to be taught as its own mini - lesson and incorporated ","line":31,"x":90.024,"y":289.85,"width":"422.49","height":"11.04","fontName":["SymbolMT",null,"ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"into drill and review with the other l etter/sound associations. CH is /k/ in many words of Greek ","line":32,"x":108.02,"y":275.45,"width":"426.57","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"and PULCHRITUDE .   ","line":35,"x":108.02,"y":231.89,"width":"90.48","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"   Especially with younger   students, it can help to give letters “personalities.” “Bossy Ls that ","line":36,"x":90.024,"y":216.89,"width":"409.23","height":"11.04","fontName":["SymbolMT",null,"ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"vowel sound right before it.”  ","line":38,"x":108.02,"y":187.82,"width":"130.80","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"     SHORT O There are several groups of o   syllables that end in consonants, but have a long vowel ","line":39,"x":90.024,"y":172.7,"width":"434.30","height":"11.04","fontName":["SymbolMT",null,"ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"sound ( - OST,  - OLD). These would be considered special categories. For the reasons stated above, ","line":40,"x":108.02,"y":158.3,"width":"434.37","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"o sou nds. O is also pronounced differently in different areas of the country. Students may ","line":42,"x":108.02,"y":129.26,"width":"402.52","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"Closed syllable word lists  4  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"then adds an m at the end. Stretch out the l part of CALM (CAL - L - L - L - LM DOWN) a nd have the ","line":5,"x":108.02,"y":709.54,"width":"420.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"student discover the different feeling of the word.  ","line":6,"x":108.02,"y":695.02,"width":"226.51","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"     A similar confusion may occur between COW and CAL, which can be addressed in the same ","line":7,"x":90.024,"y":679.9,"width":"419.43","height":"11.04","fontName":["SymbolMT",null,"ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"confused with   Cow Ripken. SHORT U The  - UL combination is very easily confused with the o ","line":9,"x":108.02,"y":650.98,"width":"411.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"sound .   The “Bossy L” personification can help here.   ","line":10,"x":108.02,"y":636.46,"width":"239.18","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"   CALLUS is the word for the things that show up on your hands from doing hard work;    ","line":11,"x":90.024,"y":621.46,"width":"392.27","height":"11.04","fontName":["SymbolMT",null,"ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"CALLOUS is the adjective to describe peop le with “calluses on their heart.”   ","line":12,"x":108.02,"y":606.94,"width":"337.18","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"SHORT E Note that the /j/ sound in  - JECT is always spelled with a j, while in the syllable  - GEST it ","line":13,"x":108.02,"y":592.42,"width":"426.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"confusion.) Y AS A VOWEL S ince words with y as a vowel have the same sound as short i, and are ","line":15,"x":108.02,"y":563.5,"width":"433.30","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"choose useful words and learn the closed syllables with y in the context of those words . If your ","line":17,"x":108.02,"y":534.43,"width":"425.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"givers.  ","line":19,"x":108.02,"y":505.63,"width":"31.67","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Addition","str":"   ","line":21,"x":72.024,"y":460.63,"width":"4.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"Closed syllable word lists  5  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"Word progressions   ","line":5,"x":72.024,"y":709.66,"width":"89.69","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"at   ","line":6,"x":72.024,"y":687.22,"width":"13.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"cat    ","line":7,"x":72.024,"y":664.66,"width":"21.17","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"sat   ","line":8,"x":72.024,"y":642.22,"width":"18.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"sad   ","line":9,"x":72.024,"y":619.66,"width":"20.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"had   ","line":10,"x":72.024,"y":597.22,"width":"21.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"lad   ","line":11,"x":72.024,"y":574.66,"width":"18.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"glad   ","line":12,"x":72.024,"y":552.22,"width":"23.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"lad   ","line":13,"x":72.024,"y":529.75,"width":"18.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"lack   ","line":14,"x":72.024,"y":507.19,"width":"22.51","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"quack   ","line":15,"x":72.024,"y":484.75,"width":"31.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"sack   ","line":16,"x":72.024,"y":462.19,"width":"24.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"slack   ","line":17,"x":72.024,"y":439.75,"width":"26.83","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"stack   ","line":18,"x":72.024,"y":417.31,"width":"28.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"smack   ","line":19,"x":72.024,"y":394.75,"width":"33.04","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"smash   ","line":20,"x":72.024,"y":372.31,"width":"33.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"mash   ","line":21,"x":72.024,"y":349.73,"width":"29.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"ash   ","line":22,"x":72.024,"y":327.29,"width":"20.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"at   ","line":24,"x":240.05,"y":687.22,"width":"13.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"sat   ","line":25,"x":240.05,"y":664.66,"width":"18.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"spat   ","line":26,"x":240.05,"y":642.22,"width":"24.05","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"splat   ","line":27,"x":240.05,"y":619.66,"width":"26.57","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"splash   ","line":28,"x":240.05,"y":597.22,"width":"32.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"flash   ","line":29,"x":240.05,"y":574.66,"width":"26.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"flask   ","line":30,"x":240.05,"y":552.22,"width":"25.49","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"ask   ","line":31,"x":240.05,"y":529.75,"width":"19.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"mask   ","line":32,"x":240.05,"y":507.19,"width":"28.37","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"mast   ","line":33,"x":240.05,"y":484.75,"width":"27.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"last   ","line":34,"x":240.05,"y":462.19,"width":"20.83","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"past   ","line":35,"x":240.05,"y":439.75,"width":"24.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"pat   ","line":36,"x":240.05,"y":417.31,"width":"19.74","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"at   ","line":37,"x":240.05,"y":394.75,"width":"13.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"ax   ","line":38,"x":240.05,"y":372.31,"width":"15.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"tax  ","line":39,"x":240.05,"y":349.73,"width":"16.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"ash   ","line":40,"x":408.07,"y":687.22,"width":"20.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"hash   ","line":41,"x":408.07,"y":664.66,"width":"26.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"mash   ","line":42,"x":408.07,"y":642.22,"width":"29.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"trash   ","line":43,"x":408.07,"y":619.66,"width":"27.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"track   ","line":44,"x":408.07,"y":597.22,"width":"27.52","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"tract   ","line":45,"x":408.07,"y":574.66,"width":"26.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"act   ","line":46,"x":408.07,"y":552.22,"width":"18.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"fact   ","line":47,"x":408.07,"y":529.75,"width":"22.01","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"fast   ","line":48,"x":408.07,"y":507.19,"width":"21.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"fat   ","line":49,"x":408.07,"y":484.75,"width":"17.34","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"flat   ","line":50,"x":408.07,"y":462.19,"width":"19.85","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"that   ","line":51,"x":408.07,"y":439.75,"width":"23.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"splat   ","line":52,"x":408.07,"y":417.31,"width":"26.57","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"splash   ","line":53,"x":408.07,"y":394.75,"width":"32.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"trash   ","line":54,"x":408.07,"y":372.31,"width":"27.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"thrash  ","line":55,"x":408.07,"y":349.73,"width":"31.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Addition","str":"   ","line":56,"x":408.07,"y":327.29,"width":"4.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Closed syllable word lists  6  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Basic short a  syllables  ","line":5,"x":72.024,"y":709.66,"width":"99.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Ab   ","line":6,"x":72.024,"y":687.22,"width":"17.08","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"fash   ","line":7,"x":72.024,"y":664.66,"width":"23.71","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"quap   ","line":8,"x":72.024,"y":642.22,"width":"27.56","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"nax   ","line":9,"x":72.024,"y":619.66,"width":"20.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"grat   ","line":10,"x":72.024,"y":597.22,"width":"22.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"fract   ","line":11,"x":72.024,"y":574.66,"width":"25.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"glam   ","line":14,"x":198.05,"y":664.66,"width":"26.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"shrap   ","line":15,"x":198.05,"y":642.22,"width":"29.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"jab   ","line":16,"x":198.05,"y":619.66,"width":"18.67","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"scrab   ","line":17,"x":198.05,"y":597.22,"width":"28.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"val   ","line":18,"x":198.05,"y":574.66,"width":"17.85","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"alt*   ","line":21,"x":324.05,"y":664.66,"width":"22.01","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"mag   ","line":22,"x":324.05,"y":642.22,"width":"24.30","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"gand   ","line":23,"x":324.05,"y":619.66,"width":"26.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ag   ","line":24,"x":324.05,"y":597.22,"width":"15.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"prac   ","line":25,"x":324.05,"y":574.66,"width":"24.56","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"atch   ","line":28,"x":450.07,"y":664.66,"width":"24.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ack   ","line":29,"x":450.07,"y":642.22,"width":"19.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"lask   ","line":30,"x":450.07,"y":619.66,"width":"22.16","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"flam   ","line":31,"x":450.07,"y":597.22,"width":"25.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"quag   ","line":32,"x":450.07,"y":574.66,"width":"26.96","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"plat   ","line":33,"x":450.07,"y":552.22,"width":"22.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"yak      ","line":34,"x":450.07,"y":529.75,"width":"22.83","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Syllables with blends  ","line":35,"x":72.024,"y":507.19,"width":"95.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"flam   ","line":37,"x":72.024,"y":462.19,"width":"25.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"grat   ","line":38,"x":72.024,"y":439.75,"width":"22.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"sprat   ","line":39,"x":72.024,"y":417.31,"width":"27.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"scram   ","line":40,"x":72.024,"y":394.75,"width":"31.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"thrax   ","line":41,"x":72.024,"y":372.31,"width":"28.37","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"strag   ","line":42,"x":72.024,"y":349.73,"width":"27.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"clam   ","line":44,"x":198.05,"y":462.19,"width":"26.34","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"fraz   ","line":45,"x":198.05,"y":439.75,"width":"21.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"plast   ","line":46,"x":198.05,"y":417.31,"width":"26.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"shrag   ","line":47,"x":198.05,"y":394.75,"width":"29.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"splam   ","line":48,"x":198.05,"y":372.31,"width":"31.74","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"drast   ","line":49,"x":198.05,"y":349.73,"width":"27.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"swag   ","line":51,"x":324.05,"y":462.19,"width":"27.69","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"graph   ","line":52,"x":324.05,"y":439.75,"width":"30.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"cras   ","line":53,"x":324.05,"y":417.31,"width":"23.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"smank   ","line":54,"x":324.05,"y":394.75,"width":"34.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"prax   ","line":55,"x":324.05,"y":372.31,"width":"24.67","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"wrath   ","line":56,"x":324.05,"y":349.73,"width":"31.52","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"blab   ","line":58,"x":450.07,"y":462.19,"width":"24.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"brack   ","line":59,"x":450.07,"y":439.75,"width":"29.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"spratch   ","line":60,"x":450.07,"y":417.31,"width":"38.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Without beginning consonant  ","line":63,"x":72.024,"y":290.33,"width":"135.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ag   ","line":64,"x":72.024,"y":267.77,"width":"15.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"apt   ","line":65,"x":72.024,"y":245.33,"width":"19.73","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ank   ","line":66,"x":72.024,"y":222.77,"width":"21.05","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ash   ","line":67,"x":72.024,"y":200.33,"width":"20.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"  ant   ","line":69,"x":198.05,"y":267.77,"width":"22.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ac   ","line":70,"x":198.05,"y":245.33,"width":"14.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ad   ","line":71,"x":198.05,"y":222.77,"width":"16.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"am   ","line":72,"x":198.05,"y":200.33,"width":"19.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"  az   ","line":74,"x":324.05,"y":267.77,"width":"17.09","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"al*  ","line":75,"x":324.05,"y":245.33,"width":"15.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ab   ","line":76,"x":324.05,"y":222.77,"width":"16.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"asm   ","line":77,"x":324.05,"y":200.33,"width":"23.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ax   ","line":79,"x":450.07,"y":267.77,"width":"15.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"atch   ","line":80,"x":450.07,"y":245.33,"width":"24.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"alt*   ","line":81,"x":450.07,"y":222.77,"width":"22.01","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"aph   ","line":82,"x":450.07,"y":200.33,"width":"21.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"act   ","line":83,"x":450.07,"y":177.86,"width":"18.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"alp *","line":84,"x":450.07,"y":155.3,"width":"19.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"   *As in ‘altitude’, not alternative  ","line":85,"x":90.024,"y":132.26,"width":"151.81","height":"11.04","fontName":["SymbolMT",null,"ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"   ","line":86,"x":72.024,"y":109.7,"width":"4.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"Closed syllable word lists  7  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"Especially Challenging Syllables  ","line":6,"x":72.024,"y":687.22,"width":"141.19","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"phland      quank      thrant      shrap      slank      stratch   ","line":7,"x":72.024,"y":664.66,"width":"208.09","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"pram      blap      swaft      cath      whamp    stract     ","line":8,"x":72.024,"y":642.22,"width":"188.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"clasm      rapt  ","line":9,"x":72.024,"y":619.66,"width":"54.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"Vocabulary Enrichment  ","line":11,"x":72.024,"y":574.66,"width":"106.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"brash      rant      spasm      gras p      shank      drab   ","line":12,"x":72.024,"y":552.22,"width":"185.63","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"chap      sham      shag      clash      bland      cram   ","line":13,"x":72.024,"y":529.75,"width":"178.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"prank      malt      clad      daft      flank      graft   ","line":14,"x":72.024,"y":507.19,"width":"168.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"chasm      thrash      slab      cran      dram      asp   ","line":15,"x":72.024,"y":484.75,"width":"176.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"hasp      yak      flax      span      clan      ban   ","line":16,"x":72.024,"y":462.19,"width":"150.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"dank      swank      yak      shad  ","line":17,"x":72.024,"y":439.75,"width":"111.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"Words with different ‘a’ sound  –   pay attention to the patterns      ","line":19,"x":108.02,"y":402.67,"width":"293.91","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri","ABCDEE+Wingdings-Regular"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"call   ","line":21,"x":72.024,"y":373.75,"width":"19.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"stall   ","line":22,"x":72.024,"y":351.29,"width":"23.37","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"squall  ","line":23,"x":72.024,"y":328.73,"width":"28.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"  fall   ","line":24,"x":72.024,"y":306.29,"width":"21.19","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"mall   ","line":25,"x":72.024,"y":283.85,"width":"24.18","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"stall   ","line":26,"x":72.024,"y":261.29,"width":"23.37","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"small   ","line":27,"x":72.024,"y":238.85,"width":"28.51","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"swall   ","line":28,"x":72.024,"y":216.29,"width":"27.57","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"salt   ","line":29,"x":72.024,"y":193.85,"width":"20.83","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"balt   ","line":31,"x":198.05,"y":373.75,"width":"22.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"phalt   ","line":32,"x":198.05,"y":351.29,"width":"28.04","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"twad   ","line":33,"x":198.05,"y":328.73,"width":"27.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"halt   ","line":34,"x":198.05,"y":306.29,"width":"22.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"thank   ","line":35,"x":198.05,"y":283.85,"width":"30.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"flank   ","line":36,"x":198.05,"y":261.29,"width":"26.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"stank   ","line":37,"x":198.05,"y":238.85,"width":"29.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"swank   ","line":38,"x":198.05,"y":216.29,"width":"33.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"thank   ","line":40,"x":324.05,"y":373.75,"width":"30.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"rang   ","line":41,"x":324.05,"y":351.29,"width":"25.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"sang   ","line":42,"x":324.05,"y":328.73,"width":"25.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"sprang   ","line":43,"x":324.05,"y":306.29,"width":"35.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"bang   ","line":44,"x":324.05,"y":283.85,"width":"26.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"clang   ","line":45,"x":324.05,"y":261.29,"width":"28.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"squat   ","line":46,"x":324.05,"y":238.85,"width":"29.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"swat   ","line":47,"x":324.05,"y":216.29,"width":"26.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"swap   ","line":49,"x":450.07,"y":373.75,"width":"28.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"stalk   ","line":50,"x":450.07,"y":351.29,"width":"25.86","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"scald   ","line":51,"x":450.07,"y":328.73,"width":"27.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"chalk   ","line":52,"x":450.07,"y":306.29,"width":"28.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"walk   ","line":53,"x":450.07,"y":283.85,"width":"25.73","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"bald   ","line":54,"x":450.07,"y":261.29,"width":"24.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"quaff   ","line":55,"x":450.07,"y":238.85,"width":"28.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"calm   ","line":56,"x":450.07,"y":216.29,"width":"26.34","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"   ","line":58,"x":72.024,"y":156.86,"width":"4.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"Closed syllable word lists  8  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"CLOSED SYLLABLES:   SHORT I    ","line":5,"x":72.024,"y":709.66,"width":"138.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"Short I word progression   ","line":6,"x":72.024,"y":687.22,"width":"115.33","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"it   ","line":7,"x":72.024,"y":664.66,"width":"11.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"fit   ","line":8,"x":72.024,"y":642.22,"width":"14.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"quit   ","line":10,"x":172.82,"y":664.66,"width":"22.75","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"sit   ","line":11,"x":172.82,"y":642.22,"width":"15.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"lip   ","line":13,"x":273.65,"y":664.66,"width":"15.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"slip   ","line":14,"x":273.65,"y":642.22,"width":"20.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"quip   ","line":16,"x":374.47,"y":664.66,"width":"24.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"quiz   ","line":17,"x":374.47,"y":642.22,"width":"23.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"quit   ","line":19,"x":475.3,"y":664.66,"width":"22.75","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"risk   ","line":20,"x":475.3,"y":642.22,"width":"20.72","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"Basic  syllable s","line":23,"x":72.024,"y":574.66,"width":"62.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"lix   ","line":24,"x":72.024,"y":552.22,"width":"14.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"inct   ","line":25,"x":72.024,"y":529.75,"width":"21.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"lib   ","line":26,"x":72.024,"y":507.19,"width":"15.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"twis   ","line":27,"x":72.024,"y":484.75,"width":"23.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"pict   ","line":28,"x":72.024,"y":462.19,"width":"21.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"im   ","line":29,"x":72.024,"y":439.75,"width":"16.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"inch   ","line":30,"x":72.024,"y":417.31,"width":"23.74","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"kip   ","line":32,"x":172.82,"y":552.22,"width":"18.32","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"dif   ","line":33,"x":172.82,"y":529.75,"width":"16.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ipt   ","line":34,"x":172.82,"y":507.19,"width":"16.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"shrim   ","line":35,"x":172.82,"y":484.75,"width":"30.30","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ism   ","line":36,"x":172.82,"y":462.19,"width":"20.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"chig   ","line":37,"x":172.82,"y":439.75,"width":"23.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"vid  ","line":39,"x":273.65,"y":552.22,"width":"15.86","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"  gid   ","line":40,"x":273.65,"y":529.75,"width":"20.92","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"yit   ","line":41,"x":273.65,"y":507.19,"width":"16.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"gist   ","line":42,"x":273.65,"y":484.75,"width":"20.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"zil   ","line":43,"x":273.65,"y":462.19,"width":"14.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"tric   ","line":44,"x":273.65,"y":439.75,"width":"19.75","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"sprit   ","line":46,"x":374.47,"y":552.22,"width":"25.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"kish   ","line":47,"x":374.47,"y":529.75,"width":"22.63","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"itch   ","line":48,"x":374.47,"y":507.19,"width":"21.69","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"shriv   ","line":49,"x":374.47,"y":484.75,"width":"26.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"fric   ","line":50,"x":374.47,"y":462.19,"width":"19.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"plish   ","line":51,"x":374.47,"y":439.75,"width":"25.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"Syllables with Blends  ","line":54,"x":72.024,"y":357.77,"width":"95.72","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"brit   ","line":55,"x":72.024,"y":335.21,"width":"20.84","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"stim  ","line":56,"x":72.024,"y":312.77,"width":"21.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"fris   ","line":57,"x":72.024,"y":290.33,"width":"19.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"squin   ","line":58,"x":72.024,"y":267.77,"width":"29.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"writ   ","line":60,"x":172.82,"y":335.21,"width":"22.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"smin   ","line":61,"x":172.82,"y":312.77,"width":"26.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"swiv   ","line":62,"x":172.82,"y":290.33,"width":"24.77","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"lisk   ","line":63,"x":172.82,"y":267.77,"width":"19.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ilt   ","line":65,"x":273.65,"y":335.21,"width":"13.73","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"tinct   ","line":66,"x":273.65,"y":312.77,"width":"25.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ipt   ","line":67,"x":273.65,"y":290.33,"width":"16.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"crin   ","line":68,"x":273.65,"y":267.77,"width":"21.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"thrill   ","line":70,"x":374.47,"y":335.21,"width":"25.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"chrit   ","line":71,"x":374.47,"y":312.77,"width":"25.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"blimp   ","line":72,"x":374.47,"y":290.33,"width":"30.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ink   ","line":73,"x":374.47,"y":267.77,"width":"18.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"scrib   ","line":75,"x":475.3,"y":335.21,"width":"26.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ing   ","line":76,"x":475.3,"y":312.77,"width":"18.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"rift   ","line":77,"x":475.3,"y":290.33,"width":"18.40","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"slim   ","line":78,"x":475.3,"y":267.77,"width":"23.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ism   ","line":82,"x":72.024,"y":177.86,"width":"20.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"im   ","line":83,"x":72.024,"y":155.3,"width":"16.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"inc   ","line":84,"x":72.024,"y":132.86,"width":"17.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"it   ","line":85,"x":72.024,"y":110.3,"width":"11.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ilt   ","line":86,"x":172.82,"y":177.86,"width":"13.73","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ipt   ","line":87,"x":172.82,"y":155.3,"width":"16.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ink   ","line":88,"x":172.82,"y":132.86,"width":"18.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ing   ","line":89,"x":172.82,"y":110.3,"width":"18.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"in   ","line":90,"x":273.65,"y":177.86,"width":"13.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"inct   ","line":91,"x":273.65,"y":155.3,"width":"21.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"inch   ","line":92,"x":374.47,"y":177.86,"width":"23.74","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"itch  ","line":93,"x":374.47,"y":155.3,"width":"19.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"inge   ","line":94,"x":374.47,"y":132.86,"width":"23.92","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ill   ","line":95,"x":374.47,"y":110.3,"width":"12.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ic   ","line":96,"x":475.3,"y":177.86,"width":"12.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"Closed syllable word lists  9  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"isp   ","line":5,"x":72.024,"y":709.66,"width":"17.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"id   ","line":6,"x":72.024,"y":687.22,"width":"13.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"ig    ","line":7,"x":72.024,"y":664.66,"width":"12.69","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"ish   ","line":8,"x":72.024,"y":642.22,"width":"17.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"idge   ","line":9,"x":72.024,"y":619.66,"width":"23.92","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"ist   ","line":10,"x":172.82,"y":709.66,"width":"15.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"ilk   ","line":11,"x":172.82,"y":687.22,"width":"15.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"il   ","line":12,"x":172.82,"y":664.66,"width":"10.01","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"Vocabulary  Enrichment   ","line":14,"x":72.024,"y":582.7,"width":"111.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"sprint   ","line":15,"x":72.024,"y":537.67,"width":"30.89","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"shrill   ","line":16,"x":72.024,"y":515.23,"width":"26.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"jig   ","line":17,"x":72.024,"y":492.67,"width":"15.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"skill   ","line":18,"x":72.024,"y":470.23,"width":"21.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"skimp   ","line":19,"x":72.024,"y":447.79,"width":"31.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"shrimp  ","line":20,"x":72.024,"y":425.23,"width":"33.61","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"  thrift ","line":21,"x":72.024,"y":402.67,"width":"27.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"grim   ","line":22,"x":172.82,"y":537.67,"width":"25.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"strict  ","line":23,"x":172.82,"y":515.23,"width":"25.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"kilt   ","line":24,"x":172.82,"y":492.67,"width":"18.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"writ   ","line":25,"x":172.82,"y":470.23,"width":"22.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"spilt   ","line":26,"x":172.82,"y":447.79,"width":"23.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"chrism   ","line":27,"x":172.82,"y":425.23,"width":"34.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"flit   ","line":28,"x":172.82,"y":402.79,"width":"17.09","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"script   ","line":30,"x":273.65,"y":537.67,"width":"29.81","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"brink   ","line":31,"x":273.65,"y":515.23,"width":"27.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"vim  ","line":32,"x":273.65,"y":492.67,"width":"18.89","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"glitch   ","line":33,"x":273.65,"y":470.23,"width":"29.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"strict   ","line":34,"x":273.65,"y":447.79,"width":"27.77","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"glib   ","line":36,"x":374.47,"y":537.67,"width":"20.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"shrift   ","line":37,"x":374.47,"y":515.23,"width":"28.52","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"rift   ","line":38,"x":374.47,"y":492.67,"width":"18.40","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"squid   ","line":39,"x":374.47,"y":470.23,"width":"29.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"miff   ","line":40,"x":374.47,"y":447.79,"width":"23.10","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"grid   ","line":42,"x":475.3,"y":537.67,"width":"22.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"grist   ","line":43,"x":475.3,"y":515.23,"width":"24.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"brisk   ","line":44,"x":475.3,"y":492.67,"width":"26.48","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"twinge   ","line":45,"x":475.3,"y":470.23,"width":"35.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"a, i multisyllable nonsense review      -- Includes special category syllables  ","line":47,"x":72.024,"y":343.25,"width":"320.77","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"salpig   ","line":48,"x":72.024,"y":320.81,"width":"30.56","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"laprag   ","line":49,"x":72.024,"y":298.25,"width":"32.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"imcash   ","line":50,"x":72.024,"y":275.81,"width":"36.45","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"rifsam   ","line":51,"x":72.024,"y":253.25,"width":"33.18","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"blapstag   ","line":53,"x":172.82,"y":320.81,"width":"42.81","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"mistflad  ","line":54,"x":172.82,"y":298.25,"width":"38.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"  twiljam  ","line":55,"x":172.82,"y":275.81,"width":"38.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"  danquim ","line":56,"x":172.82,"y":253.13,"width":"44.71","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"shigman  ","line":57,"x":273.65,"y":320.81,"width":"40.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"  thrapism  ","line":58,"x":273.65,"y":298.25,"width":"45.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"  implist   ","line":59,"x":273.65,"y":275.81,"width":"37.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"stanting   ","line":61,"x":374.47,"y":320.81,"width":"41.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"biftril   ","line":62,"x":374.47,"y":298.25,"width":"29.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"dalnaft   ","line":63,"x":374.47,"y":275.81,"width":"36.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"trimplast   ","line":65,"x":475.3,"y":320.81,"width":"45.42","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"radvil   ","line":66,"x":475.3,"y":298.25,"width":"29.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"stalgram   ","line":67,"x":475.3,"y":275.81,"width":"43.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"a, I basic syllables review   ","line":70,"x":72.024,"y":193.85,"width":"116.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"chisp   ","line":71,"x":72.024,"y":171.26,"width":"28.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"frag   ","line":72,"x":72.024,"y":148.82,"width":"22.63","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"ad   ","line":73,"x":72.024,"y":126.38,"width":"16.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"in   ","line":74,"x":72.024,"y":103.82,"width":"13.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"ist   ","line":75,"x":172.82,"y":171.26,"width":"15.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"strad   ","line":76,"x":172.82,"y":148.82,"width":"27.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"sist   ","line":77,"x":172.82,"y":126.38,"width":"19.86","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"inct   ","line":78,"x":172.82,"y":103.82,"width":"21.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"hap   ","line":79,"x":273.65,"y":171.26,"width":"21.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"link   ","line":80,"x":273.65,"y":148.82,"width":"20.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"grat   ","line":81,"x":374.47,"y":171.26,"width":"22.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"imp   ","line":82,"x":374.47,"y":148.82,"width":"22.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"twim   ","line":83,"x":374.47,"y":126.38,"width":"27.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"sprat   ","line":84,"x":374.47,"y":103.82,"width":"27.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"chris*   ","line":85,"x":475.3,"y":171.26,"width":"31.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"ast   ","line":86,"x":475.3,"y":148.82,"width":"18.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"quib   ","line":87,"x":475.3,"y":126.38,"width":"24.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Addition","str":"squill   ","line":88,"x":475.3,"y":103.82,"width":"28.42","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"Closed syllable word lists  10  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"anch  ","line":5,"x":72.024,"y":709.66,"width":"24.00","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"ish   ","line":7,"x":172.82,"y":709.66,"width":"17.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"asm   ","line":8,"x":172.82,"y":687.22,"width":"23.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"ang   ","line":9,"x":172.82,"y":664.66,"width":"21.19","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"glam   ","line":10,"x":172.82,"y":642.22,"width":"26.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"isk   ","line":11,"x":172.82,"y":619.66,"width":"16.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"ab   ","line":12,"x":172.82,"y":597.22,"width":"16.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"fash   ","line":13,"x":172.82,"y":574.66,"width":"23.71","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"im   ","line":14,"x":172.82,"y":552.22,"width":"16.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"dras   ","line":15,"x":172.82,"y":529.75,"width":"24.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"gic   ","line":17,"x":273.65,"y":709.66,"width":"17.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"cig   ","line":18,"x":273.65,"y":687.22,"width":"17.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"mand   ","line":19,"x":273.65,"y":664.66,"width":"30.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"brash   ","line":20,"x":273.65,"y":642.22,"width":"29.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"rift   ","line":21,"x":273.65,"y":619.66,"width":"18.40","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"squip   ","line":22,"x":273.65,"y":597.22,"width":"29.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"rav   ","line":23,"x":273.65,"y":574.66,"width":"19.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"glatch   ","line":24,"x":273.65,"y":552.22,"width":"32.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"phic   ","line":25,"x":273.65,"y":529.75,"width":"23.72","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"shrap   ","line":26,"x":273.65,"y":507.19,"width":"29.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"apt   ","line":27,"x":273.65,"y":484.75,"width":"19.73","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"ipt   ","line":28,"x":273.65,"y":462.19,"width":"16.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"amp   ","line":29,"x":273.65,"y":439.75,"width":"24.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"ict   ","line":30,"x":273.65,"y":417.31,"width":"15.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"act id   ","line":31,"x":273.65,"y":394.75,"width":"29.45","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"ad   ","line":32,"x":273.65,"y":372.31,"width":"16.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Addition","str":"ish  ","line":33,"x":273.65,"y":349.73,"width":"15.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"Closed syllable word lists  11  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"Closed Syllables:   Short O  ","line":5,"x":72.024,"y":709.66,"width":"117.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"Word Progressions  ","line":6,"x":72.024,"y":687.22,"width":"87.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"PROGRESSION 1   ","line":7,"x":72.024,"y":664.66,"width":"77.58","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"top   ","line":8,"x":72.024,"y":642.22,"width":"20.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"stop   ","line":9,"x":72.024,"y":619.66,"width":"24.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"slop   ","line":10,"x":72.024,"y":597.22,"width":"23.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"flop   ","line":11,"x":72.024,"y":574.66,"width":"22.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"log   ","line":13,"x":172.82,"y":642.22,"width":"18.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"lob   ","line":14,"x":172.82,"y":619.66,"width":"19.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"slob   ","line":15,"x":172.82,"y":597.22,"width":"23.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"slot  ","line":16,"x":172.82,"y":574.66,"width":"18.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"  lot ","line":17,"x":172.82,"y":552.1,"width":"17.08","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"pot   ","line":18,"x":273.65,"y":642.22,"width":"20.32","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"plot  ","line":19,"x":273.65,"y":619.66,"width":"20.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"plod   ","line":20,"x":273.65,"y":597.22,"width":"24.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"prod   ","line":21,"x":273.65,"y":574.66,"width":"26.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"rod   ","line":23,"x":374.47,"y":642.22,"width":"20.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"cod   ","line":24,"x":374.47,"y":619.66,"width":"21.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"shod  ","line":25,"x":374.47,"y":597.22,"width":"24.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"shop   ","line":26,"x":374.47,"y":574.66,"width":"26.72","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"stock   ","line":28,"x":475.3,"y":642.22,"width":"28.48","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"sock   ","line":29,"x":475.3,"y":619.66,"width":"24.78","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"mock   ","line":30,"x":475.3,"y":597.22,"width":"29.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"mom     ","line":31,"x":475.3,"y":574.66,"width":"30.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"m ob  ","line":35,"x":72.024,"y":484.75,"width":"23.05","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"glob   ","line":36,"x":72.024,"y":462.19,"width":"24.30","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"slop   ","line":37,"x":72.024,"y":439.75,"width":"23.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"slob  ","line":38,"x":72.024,"y":417.31,"width":"21.00","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"throb   ","line":40,"x":172.82,"y":484.75,"width":"29.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"shop   ","line":41,"x":172.82,"y":462.19,"width":"26.72","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"clop   ","line":42,"x":172.82,"y":439.75,"width":"23.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"clod   ","line":43,"x":172.82,"y":417.31,"width":"23.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"shod   ","line":45,"x":273.65,"y":484.75,"width":"26.72","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"log   ","line":46,"x":273.65,"y":462.19,"width":"18.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"bob   ","line":47,"x":273.65,"y":439.75,"width":"22.39","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"blob   ","line":48,"x":273.65,"y":417.31,"width":"24.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"fob   ","line":50,"x":374.47,"y":484.75,"width":"19.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"gob   ","line":51,"x":374.47,"y":462.19,"width":"21.78","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"hob   ","line":52,"x":374.47,"y":439.75,"width":"22.39","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"job   ","line":53,"x":374.47,"y":417.31,"width":"19.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"mob   ","line":55,"x":475.3,"y":484.75,"width":"25.37","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"sob   ","line":56,"x":475.3,"y":462.19,"width":"20.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"s ock   ","line":57,"x":475.3,"y":439.75,"width":"24.78","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"frock   ","line":58,"x":475.3,"y":417.31,"width":"27.67","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"shock   ","line":61,"x":72.024,"y":349.73,"width":"30.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"smock   ","line":62,"x":72.024,"y":327.29,"width":"33.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"lock   ","line":64,"x":172.82,"y":349.73,"width":"23.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"flock   ","line":65,"x":172.82,"y":327.29,"width":"26.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"dog   ","line":67,"x":273.65,"y":349.73,"width":"21.78","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"frog   ","line":68,"x":273.65,"y":327.29,"width":"23.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"botch   ","line":70,"x":374.47,"y":349.73,"width":"30.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"notch   ","line":71,"x":374.47,"y":327.29,"width":"30.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"scoff   ","line":73,"x":475.3,"y":349.73,"width":"26.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Addition","str":"doff   ","line":74,"x":475.3,"y":327.29,"width":"23.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"Closed syllable word lists  12  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"Basic Syllables  –   omit “chron” if student hasn’t learned the ‘chr ’ special category.   ","line":5,"x":72.024,"y":709.66,"width":"366.32","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"ob   ","line":6,"x":72.024,"y":687.22,"width":"16.63","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"vom   ","line":7,"x":72.024,"y":664.66,"width":"24.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"yonk   ","line":8,"x":72.024,"y":642.22,"width":"26.58","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"quon  ","line":9,"x":72.024,"y":619.66,"width":"25.69","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"ston   ","line":11,"x":172.82,"y":687.22,"width":"24.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"com   ","line":12,"x":172.82,"y":664.66,"width":"24.30","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"coc  ","line":13,"x":172.82,"y":642.22,"width":"17.72","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"cos   ","line":14,"x":172.82,"y":619.66,"width":"19.86","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"ox   ","line":16,"x":273.65,"y":687.22,"width":"15.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"bot   ","line":17,"x":273.65,"y":664.66,"width":"20.32","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"chron*   ","line":18,"x":273.65,"y":642.22,"width":"36.40","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"hom   ","line":19,"x":273.65,"y":619.66,"width":"25.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"bod   ","line":21,"x":374.47,"y":687.22,"width":"22.39","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"rost   ","line":22,"x":374.47,"y":664.66,"width":"22.71","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"holl   ","line":23,"x":374.47,"y":642.22,"width":"21.67","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"lob   ","line":24,"x":374.47,"y":619.66,"width":"19.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"gond   ","line":26,"x":475.3,"y":687.22,"width":"27.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"tox   ","line":27,"x":475.3,"y":664.66,"width":"19.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"osk   ","line":28,"x":475.3,"y":642.22,"width":"20.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"frond   ","line":33,"x":72.024,"y":515.23,"width":"29.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"throb   ","line":34,"x":72.024,"y":492.67,"width":"29.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"opt   ","line":35,"x":72.024,"y":470.23,"width":"20.32","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"clot   ","line":36,"x":72.024,"y":447.79,"width":"21.76","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"bloc   ","line":38,"x":172.82,"y":515.23,"width":"23.81","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"blob   ","line":39,"x":172.82,"y":492.67,"width":"24.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"clod   ","line":40,"x":172.82,"y":470.23,"width":"23.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"grog   ","line":41,"x":172.82,"y":447.79,"width":"25.01","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"doff   ","line":43,"x":273.65,"y":515.23,"width":"23.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"fob   ","line":44,"x":273.65,"y":492.67,"width":"19.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"bond   ","line":45,"x":273.65,"y":470.23,"width":"28.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"Bronx   ","line":46,"x":273.65,"y":447.79,"width":"31.24","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"splotch   ","line":48,"x":374.47,"y":515.23,"width":"37.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"cog   ","line":49,"x":374.47,"y":492.67,"width":"20.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"posh   ","line":50,"x":374.47,"y":470.23,"width":"26.74","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"romp   ","line":51,"x":374.47,"y":447.79,"width":"29.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"chock   ","line":53,"x":475.3,"y":515.23,"width":"30.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"broth   ","line":54,"x":475.3,"y":492.67,"width":"29.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"smock   ","line":55,"x":475.3,"y":470.23,"width":"33.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"a, I, o basic syllables review   ","line":59,"x":72.024,"y":365.83,"width":"127.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"*skip chron and chris if student hasn’t learned the “chr” pattern yet.   ","line":60,"x":72.024,"y":343.25,"width":"310.08","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"clom   ","line":61,"x":72.024,"y":320.81,"width":"26.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"writ   ","line":62,"x":72.024,"y":298.25,"width":"22.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"snag   ","line":63,"x":72.024,"y":275.81,"width":"25.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"oct   ","line":64,"x":72.024,"y":253.25,"width":"19.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"om   ","line":65,"x":72.024,"y":230.81,"width":"19.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"ism   ","line":66,"x":72.024,"y":208.37,"width":"20.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"asm    ","line":67,"x":72.024,"y":185.78,"width":"23.42","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"im   ","line":69,"x":172.82,"y":320.81,"width":"16.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"ad   ","line":70,"x":172.82,"y":298.25,"width":"16.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"shriv   ","line":71,"x":172.82,"y":275.81,"width":"26.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"scot  ","line":72,"x":172.82,"y":253.25,"width":"21.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"  chris*   ","line":73,"x":172.82,"y":230.81,"width":"34.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"chron*   ","line":74,"x":172.82,"y":208.37,"width":"36.40","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"wrath   ","line":75,"x":172.82,"y":185.78,"width":"31.52","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"bom   ","line":77,"x":273.65,"y":320.81,"width":"25.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"drif   ","line":78,"x":273.65,"y":298.25,"width":"20.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"wint   ","line":79,"x":273.65,"y":275.81,"width":"24.92","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"inc   ","line":80,"x":273.65,"y":253.25,"width":"17.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"apt   ","line":81,"x":273.65,"y":230.81,"width":"19.73","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"drom   ","line":82,"x":273.65,"y":208.37,"width":"29.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"twip   ","line":83,"x":273.65,"y":185.78,"width":"24.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"sprill   ","line":85,"x":374.47,"y":320.81,"width":"26.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"dwin   ","line":86,"x":374.47,"y":298.25,"width":"26.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"vom   ","line":87,"x":374.47,"y":275.81,"width":"24.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"quip   ","line":88,"x":374.47,"y":253.25,"width":"24.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"quon   ","line":89,"x":374.47,"y":230.81,"width":"28.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"squin   ","line":90,"x":374.47,"y":208.37,"width":"29.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"cim   ","line":92,"x":475.3,"y":320.81,"width":"21.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"cint   ","line":93,"x":475.3,"y":298.25,"width":"21.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"kom   ","line":94,"x":475.3,"y":275.81,"width":"24.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"mast   ","line":95,"x":475.3,"y":253.25,"width":"27.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"drab   ","line":96,"x":475.3,"y":230.81,"width":"25.63","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Addition","str":"hom   ","line":97,"x":475.3,"y":208.37,"width":"25.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"Closed syllable word lists  13  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"Two    and three  syllable words with a, i, and o  ","line":5,"x":72.024,"y":709.66,"width":"204.17","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"consist  ","line":6,"x":72.024,"y":687.22,"width":"33.68","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"contact  ","line":7,"x":72.024,"y":664.66,"width":"36.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"astonish   ","line":8,"x":72.024,"y":642.22,"width":"42.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"admonish   ","line":9,"x":72.024,"y":619.66,"width":"49.13","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"district   ","line":10,"x":72.024,"y":597.22,"width":"36.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"cosmic   ","line":11,"x":72.024,"y":574.66,"width":"35.81","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"combat   ","line":12,"x":72.024,"y":552.22,"width":"39.05","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"napkin   ","line":13,"x":72.024,"y":529.75,"width":"35.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"ostrich   ","line":14,"x":72.024,"y":507.19,"width":"35.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"contract   ","line":15,"x":72.024,"y":484.75,"width":"42.40","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"caltrop   ","line":16,"x":72.024,"y":462.19,"width":"36.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"transpond   ","line":17,"x":72.024,"y":439.75,"width":"51.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"constrict   ","line":18,"x":72.024,"y":417.31,"width":"43.96","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"optic   ","line":19,"x":72.024,"y":394.75,"width":"27.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"quondam   ","line":20,"x":72.024,"y":372.31,"width":"48.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"oblong   ","line":21,"x":72.024,"y":349.73,"width":"35.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"codfish   ","line":22,"x":72.024,"y":327.29,"width":"37.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"bombastic   ","line":23,"x":72.024,"y":304.73,"width":"51.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"discomfit   ","line":24,"x":72.024,"y":282.29,"width":"46.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"tomtom   ","line":25,"x":72.024,"y":259.85,"width":"41.57","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"tonsil   ","line":27,"x":198.05,"y":687.22,"width":"29.71","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"jonquil   ","line":28,"x":198.05,"y":664.66,"width":"35.84","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"agnostic   ","line":29,"x":198.05,"y":642.22,"width":"42.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"contrast   ","line":30,"x":198.05,"y":619.66,"width":"42.04","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"abscond   ","line":31,"x":198.05,"y":597.22,"width":"42.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"insist   ","line":32,"x":198.05,"y":574.66,"width":"28.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"inflict   ","line":33,"x":198.05,"y":552.22,"width":"30.04","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"instinct   ","line":34,"x":198.05,"y":529.75,"width":"37.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"distinct   ","line":35,"x":198.05,"y":507.19,"width":"37.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"indistinct   ","line":36,"x":198.05,"y":484.75,"width":"46.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"district   ","line":37,"x":198.05,"y":462.19,"width":"36.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"kingpin   ","line":38,"x":198.05,"y":439.75,"width":"37.51","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"victim   ","line":39,"x":198.05,"y":417.31,"width":"32.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"misprint   ","line":40,"x":198.05,"y":394.75,"width":"42.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"pigskin   ","line":41,"x":198.05,"y":372.31,"width":"36.08","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"anthrax   ","line":42,"x":198.05,"y":349.73,"width":"39.41","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"lambast   ","line":43,"x":198.05,"y":327.29,"width":"40.74","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"flatfish   ","line":44,"x":198.05,"y":304.73,"width":"35.84","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"napkin   ","line":45,"x":198.05,"y":282.29,"width":"35.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"dishpan   ","line":46,"x":198.05,"y":259.85,"width":"40.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"zigzag   ","line":48,"x":324.05,"y":687.22,"width":"31.75","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"Finland   ","line":49,"x":324.05,"y":664.66,"width":"37.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"candid   ","line":50,"x":324.05,"y":642.22,"width":"34.75","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"kidnap   ","line":51,"x":324.05,"y":619.66,"width":"35.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"frantic  ","line":52,"x":324.05,"y":597.22,"width":"31.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"tranquil   ","line":53,"x":324.05,"y":574.66,"width":"40.16","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"bandit   ","line":54,"x":324.05,"y":552.22,"width":"33.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"transfix   ","line":55,"x":324.05,"y":529.75,"width":"38.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"disband   ","line":56,"x":324.05,"y":507.19,"width":"40.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"miscast   ","line":57,"x":324.05,"y":484.75,"width":"38.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"pilgrim   ","line":58,"x":324.05,"y":462.19,"width":"36.17","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"brandish   ","line":59,"x":324.05,"y":439.75,"width":"43.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"windbag   ","line":60,"x":324.05,"y":417.31,"width":"43.16","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"mantis   ","line":61,"x":324.05,"y":394.75,"width":"35.45","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"baptism   ","line":62,"x":324.05,"y":372.31,"width":"41.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"drastic   ","line":63,"x":324.05,"y":349.73,"width":"35.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"fantastic   ","line":64,"x":324.05,"y":327.29,"width":"43.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"plastic   ","line":65,"x":324.05,"y":304.73,"width":"33.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"sandwich   ","line":66,"x":324.05,"y":282.29,"width":"47.01","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"mishap   ","line":67,"x":324.05,"y":259.85,"width":"37.49","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"tinsmith   ","line":69,"x":450.07,"y":687.22,"width":"42.18","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"tactic   ","line":70,"x":450.07,"y":664.66,"width":"29.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"impact   ","line":71,"x":450.07,"y":642.22,"width":"35.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"intact   ","line":72,"x":450.07,"y":619.66,"width":"30.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"aspic   ","line":73,"x":450.07,"y":597.22,"width":"27.56","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"WORDS   ","line":75,"x":450.07,"y":552.22,"width":"39.93","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"WITH   ","line":76,"x":450.07,"y":529.75,"width":"29.85","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"DOUBLE   ","line":77,"x":450.07,"y":507.19,"width":"42.16","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"LETTERS   ","line":78,"x":450.07,"y":484.75,"width":"42.17","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"gossip   ","line":79,"x":450.07,"y":462.19,"width":"32.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"shopping   ","line":80,"x":450.07,"y":439.75,"width":"45.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"commit   ","line":81,"x":450.07,"y":417.31,"width":"39.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"bobbin   ","line":82,"x":450.07,"y":394.75,"width":"36.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"soffit   ","line":83,"x":450.07,"y":372.31,"width":"28.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"rabbit   ","line":84,"x":450.07,"y":349.73,"width":"31.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"Closed syllable word lists  14  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"SHORT U     ","line":5,"x":72.024,"y":709.66,"width":"50.08","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"Word  Progressions","line":6,"x":72.024,"y":687.22,"width":"84.67","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"up   ","line":7,"x":72.024,"y":664.66,"width":"16.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"cup   ","line":8,"x":72.024,"y":642.22,"width":"21.19","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"cut   ","line":9,"x":72.024,"y":619.66,"width":"19.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"cub   ","line":10,"x":72.024,"y":597.22,"width":"21.19","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"shrub   ","line":12,"x":172.82,"y":664.66,"width":"30.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"scrub   ","line":13,"x":172.82,"y":642.22,"width":"29.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"stub   ","line":14,"x":172.82,"y":619.66,"width":"24.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"stump   ","line":15,"x":172.82,"y":597.22,"width":"33.42","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"clump   ","line":17,"x":273.65,"y":664.66,"width":"32.58","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"rump   ","line":18,"x":273.65,"y":642.22,"width":"29.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"trump   ","line":19,"x":273.65,"y":619.66,"width":"32.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"truck   ","line":20,"x":273.65,"y":597.22,"width":"28.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"rust   ","line":22,"x":374.47,"y":664.66,"width":"22.61","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"rut   ","line":23,"x":374.47,"y":642.22,"width":"18.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"hut   ","line":24,"x":374.47,"y":619.66,"width":"20.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"hug   ","line":25,"x":374.47,"y":597.22,"width":"21.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"shrug   ","line":27,"x":475.3,"y":664.66,"width":"29.83","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"drug   ","line":28,"x":475.3,"y":642.22,"width":"25.51","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"drum   ","line":29,"x":475.3,"y":619.66,"width":"29.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"plum   ","line":30,"x":475.3,"y":597.22,"width":"27.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"Basic Syllables  ","line":33,"x":72.024,"y":529.75,"width":"66.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"mus   ","line":34,"x":72.024,"y":507.19,"width":"23.93","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"tux   ","line":35,"x":72.024,"y":484.75,"width":"19.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"tub   ","line":36,"x":72.024,"y":462.19,"width":"20.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"rupt   ","line":37,"x":72.024,"y":439.75,"width":"24.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"sub   ","line":39,"x":172.82,"y":507.19,"width":"20.83","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"lug   ","line":40,"x":172.82,"y":484.75,"width":"18.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"hud   ","line":41,"x":172.82,"y":462.19,"width":"22.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"junct   ","line":42,"x":172.82,"y":439.75,"width":"27.52","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"yup   ","line":44,"x":273.65,"y":507.19,"width":"21.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"punct   ","line":45,"x":273.65,"y":484.75,"width":"30.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"rud   ","line":46,"x":273.65,"y":462.19,"width":"20.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"jum   ","line":47,"x":273.65,"y":439.75,"width":"22.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"scut   ","line":49,"x":374.47,"y":507.19,"width":"23.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"mum   ","line":50,"x":374.47,"y":484.75,"width":"28.37","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"sput   ","line":51,"x":374.47,"y":462.19,"width":"24.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"nun   ","line":52,"x":374.47,"y":439.75,"width":"22.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"sus   ","line":54,"x":475.3,"y":507.19,"width":"19.42","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"suc   ","line":55,"x":475.3,"y":484.75,"width":"19.77","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"sum   ","line":56,"x":475.3,"y":462.19,"width":"23.92","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"mund   ","line":57,"x":475.3,"y":439.75,"width":"31.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"blust   ","line":61,"x":72.024,"y":349.73,"width":"27.05","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"rupt   ","line":62,"x":72.024,"y":327.29,"width":"24.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"trum   ","line":63,"x":72.024,"y":304.73,"width":"27.16","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"clut   ","line":64,"x":72.024,"y":282.29,"width":"21.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"guv   ","line":66,"x":172.82,"y":349.73,"width":"20.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"struct   ","line":67,"x":172.82,"y":327.29,"width":"31.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"fluct   ","line":68,"x":172.82,"y":304.73,"width":"24.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"ump   ","line":69,"x":172.82,"y":282.29,"width":"25.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"shrug   ","line":71,"x":273.65,"y":349.73,"width":"29.83","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"funct   ","line":72,"x":273.65,"y":327.29,"width":"28.24","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"truc   ","line":73,"x":273.65,"y":304.73,"width":"23.01","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"drun   ","line":74,"x":273.65,"y":282.29,"width":"26.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"spud   ","line":76,"x":374.47,"y":349.73,"width":"26.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"splud   ","line":77,"x":374.47,"y":327.29,"width":"29.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"runk   ","line":78,"x":374.47,"y":304.73,"width":"25.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"flut   ","line":79,"x":374.47,"y":282.29,"width":"20.32","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"crump   ","line":81,"x":475.3,"y":349.73,"width":"33.89","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"bund   ","line":82,"x":475.3,"y":327.29,"width":"27.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"lunt   ","line":83,"x":475.3,"y":304.73,"width":"22.73","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"stut   ","line":84,"x":475.3,"y":282.29,"width":"22.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"un   ","line":88,"x":72.024,"y":192.29,"width":"16.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"up   ","line":89,"x":72.024,"y":169.82,"width":"16.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"ug   ","line":90,"x":72.024,"y":147.26,"width":"15.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"unc   ","line":91,"x":72.024,"y":124.82,"width":"21.19","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"ust   ","line":93,"x":172.82,"y":192.29,"width":"18.77","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"ump   ","line":94,"x":172.82,"y":169.82,"width":"25.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"ud   ","line":95,"x":172.82,"y":147.26,"width":"16.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"unct   ","line":96,"x":172.82,"y":124.82,"width":"24.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"umb   ","line":98,"x":273.65,"y":192.29,"width":"25.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"und   ","line":99,"x":273.65,"y":169.82,"width":"22.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"us   ","line":100,"x":273.65,"y":147.26,"width":"15.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"uck   ","line":101,"x":273.65,"y":124.82,"width":"20.45","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"ux   ","line":103,"x":374.47,"y":192.29,"width":"15.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"ub   ","line":104,"x":374.47,"y":169.82,"width":"16.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Addition","str":"uct   ","line":105,"x":374.47,"y":147.26,"width":"19.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"Closed syllable word lists  15  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"full   ","line":6,"x":72.024,"y":687.22,"width":"19.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"dull   ","line":7,"x":72.024,"y":664.66,"width":"21.56","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"mull   ","line":8,"x":72.024,"y":642.22,"width":"24.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"cull   ","line":9,"x":72.024,"y":619.66,"width":"20.49","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"bull   ","line":11,"x":172.82,"y":687.22,"width":"21.56","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"cul   ","line":12,"x":172.82,"y":664.66,"width":"17.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"cult   ","line":13,"x":172.82,"y":642.22,"width":"21.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"dult   ","line":14,"x":172.82,"y":619.66,"width":"22.75","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"hulk   ","line":16,"x":273.65,"y":687.22,"width":"24.08","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"bulk   ","line":17,"x":273.65,"y":664.66,"width":"24.08","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"sulk   ","line":18,"x":273.65,"y":642.22,"width":"22.61","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"bulb   ","line":20,"x":374.47,"y":687.22,"width":"24.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"culc   ","line":21,"x":374.47,"y":664.66,"width":"22.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"ult   ","line":22,"x":374.47,"y":642.22,"width":"16.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"dul   ","line":24,"x":475.3,"y":687.22,"width":"19.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"ulk   ","line":25,"x":475.3,"y":664.66,"width":"18.32","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"Multi - syllable words with a, I, o, u  ","line":28,"x":72.024,"y":560.26,"width":"153.48","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"     (*pronounce adult as “ad   -   ult”  with short a, not  ‘uh - dult’)","line":29,"x":72.024,"y":537.67,"width":"275.90","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"fungus   ","line":30,"x":72.024,"y":515.23,"width":"35.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"tiptop   ","line":31,"x":72.024,"y":492.67,"width":"32.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"disgust  ","line":32,"x":72.024,"y":470.23,"width":"34.04","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"  mistrust  ","line":33,"x":72.024,"y":447.79,"width":"41.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"  construct  ","line":34,"x":72.024,"y":425.23,"width":"47.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"  instruct  ","line":35,"x":72.024,"y":402.79,"width":"39.30","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"  conduct   ","line":36,"x":72.024,"y":380.23,"width":"43.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"  disrupt   ","line":38,"x":172.82,"y":515.23,"width":"39.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"unzip   ","line":39,"x":172.82,"y":492.67,"width":"29.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"adjunct   ","line":40,"x":172.82,"y":470.23,"width":"38.56","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"pundit  ","line":41,"x":172.82,"y":447.79,"width":"31.78","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"  uncommon   ","line":42,"x":172.82,"y":425.23,"width":"58.71","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"influx  ","line":43,"x":172.82,"y":402.79,"width":"27.19","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"  drumlin   ","line":44,"x":172.82,"y":380.23,"width":"42.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"induct   ","line":46,"x":273.65,"y":515.23,"width":"33.16","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"unsnap   ","line":47,"x":273.65,"y":492.67,"width":"37.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"obstruct   ","line":48,"x":273.65,"y":470.23,"width":"42.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"cuspit   ","line":49,"x":273.65,"y":447.79,"width":"31.75","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"updraft   ","line":50,"x":273.65,"y":425.23,"width":"38.49","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"submit   ","line":51,"x":273.65,"y":402.79,"width":"35.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"subsist   ","line":52,"x":273.65,"y":380.23,"width":"35.70","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"  campus   ","line":54,"x":374.47,"y":515.23,"width":"42.16","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"abduct   ","line":55,"x":374.47,"y":492.67,"width":"35.92","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"sunlamp   ","line":56,"x":374.47,"y":470.23,"width":"43.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"album   ","line":57,"x":374.47,"y":447.79,"width":"33.18","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"brushland   ","line":58,"x":374.47,"y":425.23,"width":"49.76","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"WITH UL   ","line":59,"x":374.47,"y":402.79,"width":"43.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"adult *   ","line":60,"x":374.47,"y":380.23,"width":"36.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"Istanbul   ","line":61,"x":374.47,"y":357.77,"width":"40.89","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"pulpit   ","line":63,"x":475.3,"y":515.23,"width":"31.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"fulcrum   ","line":64,"x":475.3,"y":492.67,"width":"39.78","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"insult   ","line":65,"x":475.3,"y":470.23,"width":"29.57","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"consult   ","line":66,"x":475.3,"y":447.79,"width":"37.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"sultan   ","line":67,"x":475.3,"y":425.23,"width":"32.37","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"bashful   ","line":68,"x":475.3,"y":402.79,"width":"37.77","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"handful   ","line":69,"x":475.3,"y":380.23,"width":"39.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"cupful   ","line":70,"x":475.3,"y":357.77,"width":"32.84","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"Closed syllable word lists  16  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"SHORT E     ","line":5,"x":72.024,"y":709.66,"width":"48.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"ed   ","line":7,"x":72.024,"y":664.66,"width":"16.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"red   ","line":8,"x":72.024,"y":642.22,"width":"20.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"fred   ","line":9,"x":72.024,"y":619.66,"width":"23.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"bred   ","line":10,"x":72.024,"y":597.22,"width":"25.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"bet   ","line":12,"x":172.82,"y":664.66,"width":"19.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"jet   ","line":13,"x":172.82,"y":642.22,"width":"16.86","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"pet   ","line":14,"x":172.82,"y":619.66,"width":"19.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"wet   ","line":15,"x":172.82,"y":597.22,"width":"22.19","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"fret   ","line":17,"x":273.65,"y":664.66,"width":"21.41","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"set   ","line":18,"x":273.65,"y":642.22,"width":"18.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"sent   ","line":19,"x":273.65,"y":619.66,"width":"24.30","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"bent   ","line":20,"x":273.65,"y":597.22,"width":"25.75","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"west   ","line":22,"x":374.47,"y":664.66,"width":"26.33","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"quest   ","line":23,"x":374.47,"y":642.22,"width":"30.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"quench   ","line":24,"x":374.47,"y":619.66,"width":"38.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"bench   ","line":25,"x":374.47,"y":597.22,"width":"32.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"step   ","line":27,"x":475.3,"y":664.66,"width":"24.30","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"strep   ","line":28,"x":475.3,"y":642.22,"width":"28.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"stretch   ","line":29,"x":475.3,"y":619.66,"width":"36.42","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"fetch  ","line":30,"x":475.3,"y":597.22,"width":"25.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"fess   ","line":34,"x":72.024,"y":507.19,"width":"22.49","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"zed   ","line":35,"x":72.024,"y":484.75,"width":"20.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"dren   ","line":36,"x":72.024,"y":462.19,"width":"25.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"vex   ","line":37,"x":72.024,"y":439.75,"width":"20.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"ject   ","line":38,"x":72.024,"y":417.31,"width":"21.52","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"rel   ","line":40,"x":172.82,"y":507.19,"width":"16.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"wren   ","line":41,"x":172.82,"y":484.75,"width":"28.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"vent   ","line":42,"x":172.82,"y":462.19,"width":"25.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"lect   ","line":43,"x":172.82,"y":439.75,"width":"21.42","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"vest   ","line":44,"x":172.82,"y":417.31,"width":"23.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"trem   ","line":46,"x":273.65,"y":507.19,"width":"26.86","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"rel   ","line":47,"x":273.65,"y":484.75,"width":"16.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"cred   ","line":48,"x":273.65,"y":462.19,"width":"24.81","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"cem   ","line":49,"x":273.65,"y":439.75,"width":"23.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"cess   ","line":50,"x":273.65,"y":417.31,"width":"23.81","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"cept   ","line":52,"x":374.47,"y":507.19,"width":"24.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"phren   ","line":53,"x":374.47,"y":484.75,"width":"31.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"ex   ","line":54,"x":374.47,"y":462.19,"width":"15.33","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"em   ","line":55,"x":374.47,"y":439.75,"width":"19.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"reft   ","line":57,"x":475.3,"y":507.19,"width":"21.41","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"ef   ","line":58,"x":475.3,"y":484.75,"width":"13.86","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"met   ","line":59,"x":475.3,"y":462.19,"width":"22.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"Syllables with blends  ","line":62,"x":72.024,"y":357.77,"width":"95.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"fret   ","line":63,"x":72.024,"y":335.21,"width":"21.41","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"ench   ","line":64,"x":72.024,"y":312.77,"width":"26.71","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"rept   ","line":65,"x":72.024,"y":290.33,"width":"23.84","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"trem   ","line":66,"x":72.024,"y":267.77,"width":"26.86","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"cred   ","line":67,"x":72.024,"y":245.33,"width":"24.81","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"clem   ","line":69,"x":172.82,"y":335.21,"width":"26.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"brell   ","line":70,"x":172.82,"y":312.77,"width":"25.18","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"shelt   ","line":71,"x":172.82,"y":290.33,"width":"26.84","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"dren   ","line":72,"x":172.82,"y":267.77,"width":"25.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"feld   ","line":74,"x":273.65,"y":335.21,"width":"22.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"temp   ","line":75,"x":273.65,"y":312.77,"width":"28.73","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"flex   ","line":76,"x":273.65,"y":290.33,"width":"21.17","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"stress   ","line":77,"x":273.65,"y":267.77,"width":"31.01","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"squelch   ","line":79,"x":374.47,"y":335.21,"width":"39.34","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"plent   ","line":80,"x":374.47,"y":312.77,"width":"28.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"splen   ","line":81,"x":374.47,"y":290.33,"width":"28.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"tress   ","line":82,"x":374.47,"y":267.77,"width":"26.69","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"gresh   ","line":84,"x":475.3,"y":335.21,"width":"29.61","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"sprent   ","line":85,"x":475.3,"y":312.77,"width":"33.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"blen   ","line":86,"x":475.3,"y":290.33,"width":"24.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"venge   ","line":87,"x":475.3,"y":267.77,"width":"31.96","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"cent   ","line":91,"x":72.024,"y":163.34,"width":"24.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"cest   ","line":92,"x":72.024,"y":140.78,"width":"23.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"cell   ","line":94,"x":172.82,"y":163.34,"width":"20.24","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"cept   ","line":95,"x":172.82,"y":140.78,"width":"24.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"ence   ","line":97,"x":273.65,"y":163.34,"width":"26.45","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"edge  ","line":98,"x":273.65,"y":140.78,"width":"24.43","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"gest   ","line":100,"x":374.47,"y":163.34,"width":"23.69","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"gent   ","line":101,"x":374.47,"y":140.78,"width":"25.14","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"gen   ","line":103,"x":475.3,"y":163.34,"width":"21.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"gem   ","line":104,"x":475.3,"y":140.78,"width":"24.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Closed syllable word lists  17  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Syllables  w ithout a beginning consonant  ","line":5,"x":72.024,"y":709.66,"width":"182.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"ex   ","line":6,"x":72.024,"y":687.22,"width":"15.33","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"eb   ","line":7,"x":72.024,"y":664.66,"width":"16.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"ent   ","line":8,"x":72.024,"y":642.22,"width":"19.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"est   ","line":10,"x":172.82,"y":687.22,"width":"18.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"elm   ","line":11,"x":172.82,"y":664.66,"width":"21.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"ef   ","line":12,"x":172.82,"y":642.22,"width":"13.86","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"ed   ","line":14,"x":273.65,"y":687.22,"width":"16.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"empt   ","line":15,"x":273.65,"y":664.66,"width":"28.74","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"em   ","line":16,"x":273.65,"y":642.22,"width":"19.38","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"en   ","line":18,"x":374.47,"y":687.22,"width":"16.28","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"ect   ","line":19,"x":374.47,"y":664.66,"width":"18.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"el   ","line":20,"x":374.47,"y":642.22,"width":"13.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"esh   ","line":22,"x":475.3,"y":687.22,"width":"20.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"eld   ","line":23,"x":475.3,"y":664.66,"width":"18.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"elf   ","line":24,"x":475.3,"y":642.22,"width":"16.39","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Vocabulary enrichment  –   single syllable ","line":27,"x":72.024,"y":574.66,"width":"179.14","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"left   ","line":28,"x":72.024,"y":552.22,"width":"20.09","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"press   ","line":29,"x":72.024,"y":529.75,"width":"28.74","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"fleck   ","line":30,"x":72.024,"y":507.19,"width":"26.09","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"mess   ","line":31,"x":72.024,"y":484.75,"width":"27.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"heft   ","line":33,"x":172.82,"y":552.22,"width":"23.34","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"end   ","line":34,"x":172.82,"y":529.75,"width":"22.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"flesh   ","line":35,"x":172.82,"y":507.19,"width":"26.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"shred   ","line":36,"x":172.82,"y":484.75,"width":"30.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"deft   ","line":38,"x":273.65,"y":552.22,"width":"23.34","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"wren   ","line":39,"x":273.65,"y":529.75,"width":"28.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"mesh   ","line":40,"x":273.65,"y":507.19,"width":"29.47","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"elk   ","line":41,"x":273.65,"y":484.75,"width":"18.05","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"crest   ","line":43,"x":374.47,"y":552.22,"width":"27.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"smelt   ","line":44,"x":374.47,"y":529.75,"width":"29.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"quench   ","line":45,"x":374.47,"y":507.19,"width":"38.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"flex   ","line":47,"x":475.3,"y":552.22,"width":"21.17","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"yen   ","line":48,"x":475.3,"y":529.75,"width":"21.32","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"dwell   ","line":49,"x":475.3,"y":507.19,"width":"29.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"convent   ","line":52,"x":72.024,"y":425.23,"width":"41.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"magnet   ","line":53,"x":72.024,"y":402.79,"width":"39.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"contest   ","line":54,"x":72.024,"y":380.23,"width":"38.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"pummel   ","line":55,"x":72.024,"y":357.77,"width":"42.17","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"descant   ","line":56,"x":72.024,"y":335.21,"width":"40.00","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"selfish   ","line":57,"x":72.024,"y":312.77,"width":"33.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"contest   ","line":58,"x":72.024,"y":290.33,"width":"38.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"suggest   ","line":60,"x":172.82,"y":425.23,"width":"38.93","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"ingest   ","line":61,"x":172.82,"y":402.79,"width":"31.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"congest   ","line":62,"x":172.82,"y":380.23,"width":"39.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"absent   ","line":63,"x":172.82,"y":357.77,"width":"35.34","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"enchantment   ","line":64,"x":172.82,"y":335.21,"width":"65.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"dispel   ","line":65,"x":172.82,"y":312.77,"width":"31.39","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"splendid   ","line":66,"x":172.82,"y":290.33,"width":"42.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"tendril   ","line":68,"x":273.65,"y":425.23,"width":"34.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"suspect   ","line":69,"x":273.65,"y":402.79,"width":"39.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"extend  ","line":70,"x":273.65,"y":380.23,"width":"33.59","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"  advent   ","line":71,"x":273.65,"y":357.77,"width":"38.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"spectrum   ","line":72,"x":273.65,"y":335.21,"width":"47.34","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"subject   ","line":73,"x":273.65,"y":312.77,"width":"37.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"inject   ","line":74,"x":273.65,"y":290.33,"width":"29.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"  entrap   ","line":76,"x":374.47,"y":425.23,"width":"37.37","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"impel   ","line":77,"x":374.47,"y":402.79,"width":"30.18","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"insect   ","line":78,"x":374.47,"y":380.23,"width":"31.48","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"shrapnel  ","line":79,"x":374.47,"y":357.77,"width":"41.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"  convex   ","line":80,"x":374.47,"y":335.21,"width":"38.92","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"inspect   ","line":81,"x":374.47,"y":312.77,"width":"37.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"impending   ","line":82,"x":374.47,"y":290.33,"width":"52.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"consent   ","line":84,"x":475.3,"y":425.23,"width":"40.51","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"connect   ","line":85,"x":475.3,"y":402.79,"width":"40.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"comment   ","line":86,"x":475.3,"y":380.23,"width":"48.05","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"Closed syllable word lists  18  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"Lynn   ","line":7,"x":72.024,"y":664.66,"width":"26.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"rhythm   ","line":9,"x":172.82,"y":664.66,"width":"37.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"lymph  ","line":11,"x":273.65,"y":664.66,"width":"30.48","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"  gyp ","line":12,"x":273.65,"y":642.1,"width":"20.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"lynx   ","line":13,"x":374.47,"y":664.66,"width":"23.11","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"hymn   ","line":15,"x":475.3,"y":664.66,"width":"30.42","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"Y following c or g   ","line":18,"x":72.024,"y":597.22,"width":"81.17","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"gypt   ","line":19,"x":72.024,"y":574.66,"width":"24.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"cyg   ","line":21,"x":240.05,"y":574.66,"width":"19.85","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"cyl   ","line":23,"x":408.07,"y":574.66,"width":"17.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"cyst  ","line":24,"x":408.07,"y":552.22,"width":"20.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"sys   ","line":26,"x":72.024,"y":484.75,"width":"18.66","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"cym   ","line":27,"x":72.024,"y":462.19,"width":"23.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"cyg   ","line":28,"x":72.024,"y":439.75,"width":"19.85","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"dys   ","line":29,"x":72.024,"y":417.31,"width":"20.10","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"mys   ","line":30,"x":72.024,"y":394.75,"width":"23.08","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"hys  ","line":31,"x":72.024,"y":372.31,"width":"17.61","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"  crys   ","line":32,"x":72.024,"y":349.73,"width":"25.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"bysm   ","line":34,"x":172.82,"y":484.75,"width":"28.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"clysm   ","line":35,"x":172.82,"y":462.19,"width":"30.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"tyl   ","line":36,"x":172.82,"y":439.75,"width":"16.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"nym   ","line":37,"x":172.82,"y":417.31,"width":"24.65","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"cryl   ","line":38,"x":172.82,"y":394.75,"width":"21.08","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"thyst   ","line":39,"x":172.82,"y":372.31,"width":"27.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"lys   ","line":40,"x":172.82,"y":349.73,"width":"16.85","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"  lyt   ","line":42,"x":273.65,"y":484.75,"width":"18.76","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"rysm   ","line":43,"x":273.65,"y":462.19,"width":"26.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"syl   ","line":44,"x":273.65,"y":439.75,"width":"16.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"lypt   ","line":45,"x":273.65,"y":417.31,"width":"22.02","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"cryph   ","line":46,"x":273.65,"y":394.75,"width":"30.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"cyp   ","line":47,"x":273.65,"y":372.31,"width":"20.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"glyph   ","line":48,"x":273.65,"y":349.73,"width":"29.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"cyl   ","line":50,"x":374.47,"y":484.75,"width":"17.23","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"phyx   ","line":51,"x":374.47,"y":462.19,"width":"26.33","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"phys   ","line":52,"x":374.47,"y":439.75,"width":"25.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"sym   ","line":53,"x":374.47,"y":417.31,"width":"23.10","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"sympt   ","line":54,"x":374.47,"y":394.75,"width":"32.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"sync   ","line":55,"x":374.47,"y":372.31,"width":"24.77","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"byt   ","line":56,"x":374.47,"y":349.73,"width":"19.49","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"phyll   ","line":58,"x":475.3,"y":484.75,"width":"26.60","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"myst   ","line":59,"x":475.3,"y":462.19,"width":"26.78","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"gypt   ","line":60,"x":475.3,"y":439.75,"width":"24.64","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"chrys   ","line":61,"x":475.3,"y":417.31,"width":"28.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"nyx   ","line":62,"x":475.3,"y":394.75,"width":"20.57","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"Closed syllable word lists  19  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"Multisyllable   words with y as closed syllable vowel  -   includes all syllable types & some categories. It’s a ","line":5,"x":72.024,"y":709.54,"width":"460.51","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"cool list      ","line":6,"x":72.024,"y":695.14,"width":"51.24","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Wingdings-Regular"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"synthetic   ","line":7,"x":72.024,"y":672.7,"width":"45.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"mystical   ","line":8,"x":72.024,"y":650.14,"width":"41.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"cylinder   ","line":9,"x":72.024,"y":627.7,"width":"40.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"syncopate   ","line":10,"x":72.024,"y":605.26,"width":"50.81","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"chrysanthemum   ","line":11,"x":72.024,"y":582.7,"width":"77.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"lymph   ","line":12,"x":72.024,"y":560.26,"width":"32.94","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"cygnet   ","line":13,"x":72.024,"y":537.67,"width":"34.84","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"physical   ","line":14,"x":72.024,"y":515.23,"width":"40.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"gym   ","line":15,"x":72.024,"y":492.67,"width":"24.05","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"analytic   ","line":16,"x":72.024,"y":470.23,"width":"39.79","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"apocalyptic   ","line":17,"x":72.024,"y":447.79,"width":"55.97","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"anonymity   ","line":18,"x":72.024,"y":425.23,"width":"52.62","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"aneurysm   ","line":19,"x":72.024,"y":402.79,"width":"49.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"anaphylactic   ","line":20,"x":72.024,"y":380.23,"width":"61.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"synthesis   ","line":21,"x":72.024,"y":357.77,"width":"46.15","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"mystery   ","line":22,"x":72.024,"y":335.21,"width":"41.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"pygmy   ","line":23,"x":72.024,"y":312.77,"width":"34.73","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"synchronize   ","line":24,"x":72.024,"y":290.33,"width":"58.36","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"crypt  ","line":25,"x":72.024,"y":267.77,"width":"25.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"  lymphatic","line":26,"x":72.024,"y":245.21,"width":"46.52","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"cynic   ","line":27,"x":240.05,"y":672.7,"width":"27.67","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"encyclical   ","line":28,"x":240.05,"y":650.14,"width":"48.06","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"cyclical   ","line":29,"x":240.05,"y":627.7,"width":"36.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"gypsum   ","line":30,"x":240.05,"y":605.26,"width":"39.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"paralysis   ","line":31,"x":240.05,"y":582.7,"width":"43.88","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"cryptic   ","line":32,"x":240.05,"y":560.26,"width":"35.21","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"acronym   ","line":33,"x":240.05,"y":537.67,"width":"44.22","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"physicist   ","line":34,"x":240.05,"y":515.23,"width":"43.63","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"physics   ","line":35,"x":240.05,"y":492.67,"width":"37.39","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"syllable   ","line":36,"x":240.05,"y":470.23,"width":"38.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"rhythm   ","line":37,"x":240.05,"y":447.79,"width":"37.87","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"idyll   ","line":38,"x":240.05,"y":425.23,"width":"23.35","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"crystal   ","line":39,"x":240.05,"y":402.79,"width":"34.26","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"cyst   ","line":40,"x":240.05,"y":380.23,"width":"22.71","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"typical   ","line":41,"x":240.05,"y":357.77,"width":"34.50","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"misogynist   ","line":42,"x":240.05,"y":335.21,"width":"52.96","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"gymnasium  ","line":43,"x":240.05,"y":312.77,"width":"53.90","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"  analysis   ","line":44,"x":240.05,"y":290.33,"width":"42.53","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"onyx   ","line":45,"x":240.05,"y":267.77,"width":"26.34","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"polygamy   ","line":47,"x":408.07,"y":672.7,"width":"48.41","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"myth   ","line":48,"x":408.07,"y":650.14,"width":"28.27","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"hieroglyphic   ","line":49,"x":408.07,"y":627.7,"width":"59.95","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"syndrome   ","line":50,"x":408.07,"y":605.26,"width":"49.83","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"chlorophyll   ","line":51,"x":408.07,"y":582.7,"width":"55.01","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"acrylic   ","line":52,"x":408.07,"y":560.26,"width":"33.55","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"cystic   ","line":53,"x":408.07,"y":537.67,"width":"29.82","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"dysfunction   ","line":54,"x":408.07,"y":515.23,"width":"57.54","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"dyslexic   ","line":55,"x":408.07,"y":492.67,"width":"40.03","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"gypsy   ","line":56,"x":408.07,"y":470.23,"width":"30.29","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"paralytic  ","line":57,"x":408.07,"y":447.79,"width":"41.12","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"anonymous  ","line":58,"x":408.07,"y":425.23,"width":"54.91","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"amethyst   ","line":59,"x":408.07,"y":402.79,"width":"46.99","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"cynical   ","line":60,"x":408.07,"y":380.23,"width":"35.46","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"Egypt   ","line":61,"x":408.07,"y":357.77,"width":"30.07","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"Phyllis   ","line":62,"x":408.07,"y":335.21,"width":"33.44","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Addition","str":"Yvonne  ","line":63,"x":408.07,"y":312.77,"width":"35.71","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
