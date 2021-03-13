@@ -26,21 +26,33 @@ describe.each(files)('Test %p', (file) => {
 
   test.each(transformers.map((t) => t.name))('stage %p', (transformerName) => {
     const stageResults = debug.stageResults(debug.stageNames.indexOf(transformerName));
-    const lines: string[] = [];
-    let groupedItemCount = stageResults
-      .selectPages(false, true)
-      .reduce((itemCount, page) => itemCount + page.itemGroups.length, 0);
+
+    const chunkedLines: string[][] = [[]];
+    let resultIndex = 0;
+    let collectedItems = 0;
     stageResults.selectPages(true, true).forEach((page) => {
       page.itemGroups.forEach((itemGroup) => {
         const change = stageResults.changes.change(itemGroup.top);
         if (change || stageResults.descriptor.debug?.showAll) {
           const item = itemGroup.top;
           const changeType = change?.constructor.name || 'none';
-          lines.push(itemToString(debug.fontMap, item, changeType));
+          chunkedLines[resultIndex].push(itemToString(debug.fontMap, item, changeType));
+          collectedItems++;
         }
       });
+
+      // we split results to multiple files to circumvent githubs 100MB limit
+      resultIndex = Math.floor(collectedItems / 450_000);
+      if (resultIndex === chunkedLines.length) {
+        chunkedLines.push([]);
+      }
     });
-    lines.unshift(
+
+    // Global characteristics
+    let groupedItemCount = stageResults
+      .selectPages(false, true)
+      .reduce((itemCount, page) => itemCount + page.itemGroups.length, 0);
+    chunkedLines[0].unshift(
       JSON.stringify(
         {
           pages: stageResults.pages.length,
@@ -54,12 +66,15 @@ describe.each(files)('Test %p', (file) => {
         2,
       ),
     );
-    const transformerResultAsString = lines.join('\n') || '{}';
-    const resultFolder = `${folder}/${file.substr(0, file.length - 4)}`;
-    const resultFile = `${resultFolder}/${
-      transformerName[0].toLowerCase() + transformerName.slice(1).replace(/\s/g, '')
-    }.json`;
-    expect(transformerResultAsString).toMatchFile(resultFile);
+
+    chunkedLines.forEach((lines, idx) => {
+      const transformerResultAsString = lines.join('\n') || '{}';
+      const resultFolder = `${folder}/${file.substr(0, file.length - 4)}`;
+      const fileName = `${transformerName[0].toLowerCase() + transformerName.slice(1).replace(/\s/g, '')}`;
+      const fileIndex = chunkedLines.length > 1 ? `.${idx}` : '';
+      const resultFile = `${resultFolder}/${fileName}${fileIndex}.json`;
+      expect(transformerResultAsString).toMatchFile(resultFile);
+    });
   });
 });
 
@@ -73,9 +88,18 @@ function itemToString(fontMap: Map<string, object>, item: Item, changeType: stri
       newFontName = fontName.map((name) => fontMap.get(name)?.['name']);
     }
   }
+  const transform: undefined | number[] = item.data['transform'];
+  let newTransform;
+  if (transform) {
+    newTransform = transform.map((num) => num.toFixed(2));
+  }
   return JSON.stringify({
     page: item.page,
     change: changeType,
-    data: { ...item.data, fontName: newFontName },
+    ...item.data,
+    fontName: newFontName,
+    height: item.data['height'].toFixed(2),
+    width: item.data['width'].toFixed(2),
+    transform: newTransform,
   });
 }
