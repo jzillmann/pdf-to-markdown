@@ -36,7 +36,7 @@ describe.each(files)('Test %p', (file) => {
         if (change || stageResults.descriptor.debug?.showAll) {
           const item = itemGroup.top;
           const changeType = change?.constructor.name || 'none';
-          lines.push(JSON.stringify({ page: item.page, change: changeType, data: item.data }));
+          lines.push(itemToString(debug.fontMap, item, changeType));
         }
       });
     });
@@ -48,7 +48,7 @@ describe.each(files)('Test %p', (file) => {
           groupedItems: groupedItemCount,
           changes: stageResults.changes.changeCount(),
           schema: stageResults.schema,
-          messages: stageResults.messages,
+          // messages: stageResults.messages,
         },
         null,
         2,
@@ -62,3 +62,20 @@ describe.each(files)('Test %p', (file) => {
     expect(transformerResultAsString).toMatchFile(resultFile);
   });
 });
+
+function itemToString(fontMap: Map<string, object>, item: Item, changeType: string): string {
+  const fontName: string | Array<string> = item.data['fontName'];
+  let newFontName: string | Array<string> | undefined = undefined;
+  if (fontName) {
+    if (typeof fontName === 'string') {
+      newFontName = fontMap.get(fontName)?.['name'] as string;
+    } else {
+      newFontName = fontName.map((name) => fontMap.get(name)?.['name']);
+    }
+  }
+  return JSON.stringify({
+    page: item.page,
+    change: changeType,
+    data: { ...item.data, fontName: newFontName },
+  });
+}
