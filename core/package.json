@@ -20,6 +20,7 @@
   ],
   "scripts": {
     "test": "jest",
+    "test-write": "jest --updateSnapshot test/Files.test.ts",
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "tslint -p tsconfig.json",
@@ -32,6 +33,7 @@
   "devDependencies": {
     "@types/jest": "^26.0.19",
     "jest": "^26.6.3",
+    "jest-file-snapshot": "^0.5.0",
     "pdfjs-dist": "^2.5.207",
     "prettier": "^2.2.1",
     "ts-jest": "^26.4.4",

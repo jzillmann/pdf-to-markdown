@@ -1,6 +1,7 @@
-import PdfParser from 'src/PdfParser';
 import * as pdfjs from 'pdfjs-dist/es5/build/pdf';
 import * as fs from 'fs';
+
+import PdfParser from 'src/PdfParser';
 import ParseProgressReporter from 'src/ParseProgressReporter';
 import Progress from 'src/Progress';
 import Item from 'src/Item';

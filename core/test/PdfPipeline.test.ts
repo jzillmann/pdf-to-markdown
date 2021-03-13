@@ -5,7 +5,6 @@ import ItemTransformer from 'src/transformer/ItemTransformer';
 import TransformContext from 'src/transformer/TransformContext';
 import PdfParser from 'src/PdfParser';
 import * as pdfjs from 'pdfjs-dist/es5/build/pdf';
-import * as fs from 'fs';
 import PdfPipeline from 'src/PdfPipeline';
 
 class TestSchemaTransformer extends ItemTransformer {

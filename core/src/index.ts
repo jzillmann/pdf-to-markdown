@@ -10,7 +10,7 @@ import CalculateStatistics from './transformer/CacluclateStatistics';
 import CompactLines from './transformer/CompactLines';
 import SortXWithinLines from './transformer/SortXWithinLines';
 
-const transformers = [
+export const transformers = [
   new AdjustHeight(),
   new CalculateCoordinates(),
   new CalculateStatistics(),

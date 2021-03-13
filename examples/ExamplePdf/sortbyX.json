@@ -1,0 +1,66 @@
+{
+  "pages": 7,
+  "items": 300,
+  "groupedItems": 123,
+  "changes": 141,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    }
+  ],
+  "messages": [
+    "Detected 141 changes"
+  ]
+}
+{"page":0,"change":"ContentChange","data":{"str":"Dies ist eine Test-PDF 1 .","line":2,"x":240,"y":585,"width":115.75483370400003,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":0,"change":"ContentChange","data":{"str":"1   In Deutsch.","line":4,"x":57,"y":59,"width":62.77773370400001,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":2,"change":"ContentChange","data":{"str":"Das ist ein Paragraph. Ein einfacher Paragraph mit Schrift in Normalgröße 2 . Damit wir  sehen  wie ","line":1,"x":57,"y":740,"width":472.9941337039999,"height":11,"fontName":["g_d0_f2","g_d0_f4"],"dir":["ltr"]}}
+{"page":2,"change":"ContentChange","data":{"str":"ultrices magna. Sed egestas mi nec rutrum iaculis. Phasellus condimentum 3 , urna sit amet sodales ","line":14,"x":57,"y":545,"width":483.42653370399995,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":2,"change":"ContentChange","data":{"str":"Und jetzt 4  einfach nochmal Text 5  um die Fussnoten in zweistellige Bereiche 6  vorranzutreiben!","line":20,"x":57,"y":428,"width":452.2859011120001,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":2,"change":"ContentChange","data":{"str":"2   Was immer auch ‘normal’ ist...","line":21,"x":57,"y":164,"width":155.471433704,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":2,"change":"ContentChange","data":{"str":"3   Nicht zu verwechseln mit ‘condimenta’. Meine Lateinkenntnisse sind zwar schon so alt das ich ","line":22,"x":57,"y":141,"width":467.54253370399965,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":2,"change":"ContentChange","data":{"str":"4   Hier & Jetzt!","line":24,"x":57,"y":105,"width":67.04133370399998,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":2,"change":"ContentChange","data":{"str":"5   Nicht viel mehr als ein Satz.","line":25,"x":57,"y":82,"width":142.85773370400005,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":2,"change":"ContentChange","data":{"str":"6   Weil dann wird's komplizierter!","line":26,"x":57,"y":59,"width":155.149133704,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":3,"change":"ContentChange","data":{"str":"- - - Eine Liste mit unterschiedlich formatierten Wörtern Etwas  Etwas  Etwas  Kursiv Fett Unterstrichen 7","line":14,"x":56.69069,"y":441,"width":478.82633370400004,"height":13.2,"fontName":["g_d0_f2","g_d0_f4","g_d0_f1"],"dir":["ltr"]}}
+{"page":3,"change":"ContentChange","data":{"str":"- - Etwas  Und noch ein Link: http://pdf2md.morethan.io Durchgestrichen","line":15,"x":56.69069,"y":415,"width":341.42680000000007,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":3,"change":"ContentChange","data":{"str":"7   Fussnote in einer Liste","line":27,"x":57,"y":59,"width":117.80853370400004,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":4,"change":"ContentChange","data":{"str":"- - Nun eine Liste mit dash’s: Eintrag 1 Eintrag 2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du Zeile. Na ","line":1,"x":56.69069,"y":714,"width":644.2490999999997,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":4,"change":"ContentChange","data":{"str":"- Also los! Eintrag 3","line":3,"x":56.69069,"y":675,"width":89.9976,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":4,"change":"ContentChange","data":{"str":"- Und Untergruppen: - Eintrag 1 Sub Eintrag 1.1, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du ","line":4,"x":56.69069,"y":623,"width":596.7796999999997,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":4,"change":"ContentChange","data":{"str":"- - - Eintrag 2 es ja nicht. Also los! Sub Eintrag 1.2 Sub Eintrag 2.1","line":6,"x":56.69069,"y":558,"width":305.48650000000004,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":4,"change":"ContentChange","data":{"str":"- Gemixt: Eintrage 1","line":10,"x":56.69069,"y":467,"width":92.43520000000001,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":4,"change":"ContentChange","data":{"str":"Zentrierte Liste: - - Eintrag 1 Eintrag 2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du Zeile. ","line":20,"x":57,"y":285,"width":577.7892999999997,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":4,"change":"ContentChange","data":{"str":"- ja nicht. Also los! Eintrag 3","line":22,"x":80.69069,"y":246,"width":130.3621,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":4,"change":"ContentChange","data":{"str":"- - Erste 1 Erste 2","line":24,"x":56.69069,"y":181,"width":78.4828,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":4,"change":"ContentChange","data":{"str":"- - Zwote 1 Zwote 2","line":25,"x":56.69069,"y":142,"width":87.0144,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":5,"change":"ContentChange","data":{"str":"- Liste mit drei Levels: - Erster Level 1 Zwoter Level 1.1, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du ","line":0,"x":56.69069,"y":723,"width":632.8068999999997,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":5,"change":"ContentChange","data":{"str":"- - es ja nicht. Also los! 3ter Level 1.1.1 3ter Level 1.1.2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche ","line":2,"x":80.69069,"y":671,"width":616.3387999999998,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":5,"change":"ContentChange","data":{"str":"- - - Erster Level 2 - Zwoter Level 1.2 Zwoter Level 1.3 kann es ja nicht. Also los! 3ter Level 1.3.1","line":4,"x":56.69069,"y":593,"width":447.4371,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":5,"change":"ContentChange","data":{"str":"1. - - Eintrag 1 Eintrag 1.1 Eintrag 1.2","line":6,"x":56.69069,"y":528,"width":168.39679999999998,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":5,"change":"ContentChange","data":{"str":"- - der Parser das sauber trennen kann: Eintrag 1 Eintrag 2","line":9,"x":56.69069,"y":450,"width":276.0164,"height":13.2,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":6,"change":"ContentChange","data":{"str":"Phantasie ist wichtiger als  Wissen , denn Wissen 9  ist  begrenzt .  - Albert Einstein 10","line":6,"x":101,"y":623,"width":392.9592344456001,"height":11,"fontName":["g_d0_f2","g_d0_f1","g_d0_f4"],"dir":["ltr"]}}
+{"page":6,"change":"ContentChange","data":{"str":"8   Eine Überschrifts-Fussnote... so was gibts auch!","line":16,"x":57,"y":105,"width":244.35253370400002,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":6,"change":"ContentChange","data":{"str":"9   Wisse, dass ist eine Fussnote in einem Zitat!","line":17,"x":57,"y":82,"width":224.783533704,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
+{"page":6,"change":"ContentChange","data":{"str":"10   Der Albert Einstein (Fussnote im Zitat, am Ende der Zeile)","line":18,"x":57,"y":59,"width":293.05870074160003,"height":11,"fontName":["g_d0_f2"],"dir":["ltr"]}}
