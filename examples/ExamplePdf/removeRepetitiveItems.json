@@ -1,0 +1,39 @@
+{
+  "pages": 7,
+  "items": 300,
+  "groupedItems": 123,
+  "changes": 21,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    }
+  ]
+}
+{"page":0,"change":"Removal","str":"\u0000 1","line":5,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
+{"page":1,"change":"Removal","str":"\u0000 2","line":0,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
+{"page":2,"change":"Removal","str":"\u0000 3","line":27,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
+{"page":3,"change":"Removal","str":"\u0000 4","line":28,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
+{"page":4,"change":"Removal","str":"\u0000 5","line":26,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
+{"page":5,"change":"Removal","str":"\u0000 6","line":11,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
+{"page":6,"change":"Removal","str":"\u0000 7","line":19,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}

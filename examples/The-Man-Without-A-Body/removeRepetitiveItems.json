@@ -1,0 +1,36 @@
+{
+  "pages": 4,
+  "items": 669,
+  "groupedItems": 399,
+  "changes": 10,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    }
+  ]
+}
+{"page":0,"change":"Removal","str":" ","dir":"ltr","width":"3.00","height":"12.00","transform":["12.00","0.00","0.00","12.00","90.03","38.52"],"fontName":"BCDEEE+Garamond-Bold","x":90.025,"y":38.525,"line":3}
+{"page":1,"change":"Removal","str":"   ","line":2,"x":90.025,"y":38.525,"width":"6.00","height":"12.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":2,"change":"Removal","str":"   ","line":2,"x":90.025,"y":38.525,"width":"6.00","height":"12.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
+{"page":3,"change":"Removal","str":"   ","line":2,"x":90.025,"y":38.525,"width":"6.00","height":"12.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}

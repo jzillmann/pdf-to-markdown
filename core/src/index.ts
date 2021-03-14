@@ -9,6 +9,8 @@ import CalculateCoordinates from './transformer/CalculateCoordinates';
 import CalculateStatistics from './transformer/CacluclateStatistics';
 import CompactLines from './transformer/CompactLines';
 import SortXWithinLines from './transformer/SortXWithinLines';
+import RemoveRepetitiveItems from './transformer/RemoveRepetitiveItems';
+import NoOpTransformer from './transformer/NoOpTransformer';
 
 export const transformers = [
   new AdjustHeight(),
@@ -16,6 +18,8 @@ export const transformers = [
   new CalculateStatistics(),
   new CompactLines(),
   new SortXWithinLines(),
+  new RemoveRepetitiveItems(),
+  new NoOpTransformer(),
 ];
 
 const defaultConfig: Config = {
