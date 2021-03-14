@@ -38,14 +38,14 @@ export default class Debugger {
       if (!this.stageResultCache[idx]) {
         const transformer = this.transformers[idx - 1];
         const previousStageResult: StageResult = this.stageResultCache[idx - 1];
-        const previousItems = previousStageResult.itemsUnpacked();
+        const previousItems = previousStageResult.itemsCleanedAndUnpacked();
         const inputSchema = toSimpleSchema(previousStageResult);
         const outputSchema = transformer.schemaTransformer(inputSchema);
         const itemResult = transformer.transform(this.context, [...previousItems]);
 
         const changeTracker = new ChangeTracker();
-        detectChanges(changeTracker, previousItems, itemResult.items);
-        const pages = asPages(changeTracker, itemResult.items, transformer.descriptor.debug?.itemMerger);
+        const items = detectChanges(changeTracker, previousItems, itemResult.items);
+        const pages = asPages(changeTracker, items, transformer.descriptor.debug?.itemMerger);
         const messages = itemResult.messages;
         if (changeTracker.changeCount() > 0) {
           messages.unshift(`Detected ${changeTracker.changeCount()} changes`);

@@ -27,6 +27,33 @@ test('itemsUnpacked', async () => {
   const result = new StageResult(descriptor, schema, pages, tracker, []);
 
   expect(result.itemsUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
+  expect(result.itemsCleanedAndUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
+});
+
+test('itemsCleanedAndUnpacked', async () => {
+  const tracker = new ChangeTracker();
+  const itemMerger = new LineItemMerger(false);
+  const descriptor = toDescriptor({ debug: { itemMerger } });
+  const schema: AnnotatedColumn[] = [{ name: 'A' }];
+  const flatItems = [
+    ...items(0, [
+      { idx: 0, line: 1 },
+      { idx: 1, line: 1 },
+      { idx: 2, line: 2 },
+    ]),
+    ...items(1, [{ idx: 3, line: 1 }]),
+    ...items(2, [
+      { idx: 4, line: 1 },
+      { idx: 5, line: 1 },
+    ]),
+  ];
+  const pages = asPages(tracker, flatItems, itemMerger);
+  tracker.trackRemoval(flatItems[1]);
+  tracker.trackRemoval(flatItems[4]);
+  const result = new StageResult(descriptor, schema, pages, tracker, []);
+
+  expect(result.itemsUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
+  expect(result.itemsCleanedAndUnpacked().map((item) => item.data['idx'])).toEqual([0, 2, 3, 5]);
 });
 
 describe('select pages', () => {

@@ -22,6 +22,18 @@ export default class StageResult {
     }, []);
   }
 
+  itemsCleanedAndUnpacked(): Item[] {
+    return this.pages.reduce((items: Item[], page: Page) => {
+      page.itemGroups.forEach((itemGroup) =>
+        itemGroup
+          .unpacked()
+          .filter((item) => !this.changes.isRemoved(item))
+          .forEach((item) => items.push(item)),
+      );
+      return items;
+    }, []);
+  }
+
   selectPages(relevantChangesOnly: boolean, groupItems: boolean): Page[] {
     let result: Page[];
 

@@ -35,6 +35,12 @@ export default interface ChangeIndex {
    * @param item
    */
   isMinusChange(item: Item): boolean;
+
+  /**
+   * Returns true if the item was removed.
+   * @param item
+   */
+  isRemoved(item: Item): boolean;
 }
 
 export abstract class Change {

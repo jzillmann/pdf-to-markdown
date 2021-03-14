@@ -30,6 +30,8 @@ export default class LineItemMerger extends ItemMerger {
 
     if (this.trackAsNew) {
       tracker.trackAddition(newItem);
+    } else if (items.every((item) => tracker.isRemoved(item))) {
+      tracker.trackRemoval(newItem);
     } else if (items.find((item) => tracker.hasChanged(item))) {
       tracker.trackContentChange(newItem);
     }

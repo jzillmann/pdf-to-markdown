@@ -19,7 +19,12 @@ export default class ChangeTracker implements ChangeIndex {
 
   private addChange(item: Item, change: Change) {
     const uuid = _uuid(item);
-    assertNot(this.changes.has(uuid), `Change for item ${uuid} already defined`);
+    assertNot(
+      this.changes.has(uuid),
+      `Change for item ${uuid} already defined! (old: ${JSON.stringify(this.changes.get(uuid))}, new: ${JSON.stringify(
+        change,
+      )})`,
+    );
     this.changes.set(uuid, change);
   }
 
@@ -38,7 +43,9 @@ export default class ChangeTracker implements ChangeIndex {
   trackPositionalChange(item: Item, oldPosition: number, newPosition: number) {
     const direction = newPosition > oldPosition ? Direction.DOWN : Direction.UP;
     const amount = Math.abs(newPosition - oldPosition);
-    this.addChange(item, new PositionChange(direction, amount));
+    if (amount > 0) {
+      this.addChange(item, new PositionChange(direction, amount));
+    }
   }
 
   trackContentChange(item: Item) {
@@ -63,6 +70,10 @@ export default class ChangeTracker implements ChangeIndex {
 
   isMinusChange(item: Item): boolean {
     return this.change(item)?.category === ChangeCategory.MINUS;
+  }
+
+  isRemoved(item: Item): boolean {
+    return this.change(item)?.constructor.name === REMOVAL.constructor.name;
   }
 }
 
