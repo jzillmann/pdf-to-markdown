@@ -22,6 +22,7 @@
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
     "pdfjs-dist": "^2.6.347",
+    "string-similarity": "^4.0.4",
     "svelte-file-dropzone": "0.0.15",
     "uuid": "^8.3.2"
   },

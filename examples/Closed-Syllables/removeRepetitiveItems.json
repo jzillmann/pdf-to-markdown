@@ -2,7 +2,7 @@
   "pages": 19,
   "items": 2769,
   "groupedItems": 1320,
-  "changes": 95,
+  "changes": 247,
   "schema": [
     {
       "name": "line"
@@ -31,40 +31,97 @@
   ]
 }
 {"page":0,"change":"Removal","str":"Closed syllable word lists  1  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":0,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":0,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":0,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":1,"change":"Removal","str":"Closed syllable word lists  2  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":1,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":1,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":1,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":2,"change":"Removal","str":"Closed syllable word lists  3  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":2,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":2,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":2,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":3,"change":"Removal","str":"Closed syllable word lists  4  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":3,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":3,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":3,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":4,"change":"Removal","str":"Closed syllable word lists  5  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":4,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":4,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":4,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":5,"change":"Removal","str":"Closed syllable word lists  6  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":5,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":5,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":5,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":6,"change":"Removal","str":"Closed syllable word lists  7  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":6,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":6,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":6,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":7,"change":"Removal","str":"Closed syllable word lists  8  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":7,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":7,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":7,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":8,"change":"Removal","str":"Closed syllable word lists  9  ","line":0,"x":420.79,"y":745.56,"width":"121.80","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":8,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":8,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":8,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":9,"change":"Removal","str":"Closed syllable word lists  10  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":9,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":9,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":9,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":10,"change":"Removal","str":"Closed syllable word lists  11  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":10,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":10,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":10,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":11,"change":"Removal","str":"Closed syllable word lists  12  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":11,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":11,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":11,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":12,"change":"Removal","str":"Closed syllable word lists  13  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":12,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":12,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":12,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":13,"change":"Removal","str":"Closed syllable word lists  14  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":13,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":13,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":13,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":14,"change":"Removal","str":"Closed syllable word lists  15  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":14,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":14,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":14,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":15,"change":"Removal","str":"Closed syllable word lists  16  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":15,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":15,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":15,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":16,"change":"Removal","str":"Closed syllable word lists  17  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":16,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":16,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":16,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":17,"change":"Removal","str":"Closed syllable word lists  18  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":17,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":17,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":17,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}
 {"page":18,"change":"Removal","str":"Closed syllable word lists  19  ","line":0,"x":415.27,"y":745.56,"width":"127.25","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","72.02","732.12"],"fontName":"ABCDEE+Calibri","x":72.024,"y":732.12,"line":1}
+{"page":18,"change":"Removal","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":2,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":18,"change":"Removal","str":"License    ","line":3,"x":507.22,"y":63.144,"width":"37.98","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":18,"change":"Removal","str":" ","dir":"ltr","width":"2.50","height":"11.04","transform":["11.04","0.00","0.00","11.04","540.10","35.90"],"fontName":"ABCDEE+Calibri","x":540.1,"y":35.904,"line":4}

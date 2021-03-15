@@ -1,5 +1,31 @@
 import Item from '../Item';
 
+export function flatMap<T, S>(array: T[], func: (entry: T) => S[]): S[] {
+  return array.reduce((result, entry) => result.concat(func(entry)), [] as S[]);
+}
+
+export function onlyUnique<T>(value: T, index: number, self: T[]) {
+  return self.indexOf(value) === index;
+}
+
+export function count<T, S>(array: T[], find: (entry: T) => boolean): number {
+  return array.reduce((count, entry) => (find(entry) ? count + 1 : count), 0);
+}
+
+export function median(values: number[]) {
+  if (values.length === 0) return 0;
+
+  values.sort(function (a, b) {
+    return a - b;
+  });
+
+  var half = Math.floor(values.length / 2);
+
+  if (values.length % 2) return values[half];
+
+  return (values[half - 1] + values[half]) / 2.0;
+}
+
 type KeyExtractor = (item: Item) => any;
 type PageItemTransformer = (page: number, items: Item[]) => Item[];
 type LineItemTransformer = (page: number, line: number, items: Item[]) => Item[];
@@ -20,6 +46,10 @@ export function groupByPage(items: Item[]): Item[][] {
   return groupBy(items, (item) => item.page);
 }
 
+export function groupByLine(items: Item[]): Item[][] {
+  return groupByElement(items, 'line');
+}
+
 export function groupByElement(items: Item[], elementName: string): Item[][] {
   return groupBy(items, (item) => item.data[elementName]);
 }
@@ -38,4 +68,43 @@ export function transformGroupedByPageAndLine(items: Item[], groupedTransformer:
     });
   });
   return transformedItems;
+}
+
+export function mostFrequent<T extends number | string>(items: Item[], dataElementKey: string): T | undefined {
+  const occurenceMap = items.reduce((map: Map<T, number>, item) => {
+    const key = item.data[dataElementKey];
+    const occurrence = map.get(key) || 0;
+    map.set(key, occurrence + 1);
+    return map;
+  }, new Map());
+
+  const topElement = [...occurenceMap].reduce(
+    (topEntry: [T | undefined, number], entry: [T, number]) => (entry[1] >= topEntry[1] ? entry : topEntry),
+    [undefined, 0],
+  )[0];
+
+  //TODO optimally we should handle the 50/50 case
+  return topElement;
+}
+
+export function majorityElement<T>(items: Item[], extract: (item: Item) => T): T | undefined {
+  if (items.length == 0) {
+    return;
+  }
+  let maj = 0,
+    count = 1;
+
+  for (let i = 1; i < items.length; i++) {
+    if (extract(items[i]) === extract(items[maj])) {
+      count++;
+    } else {
+      count--;
+    }
+
+    if (count === 0) {
+      maj = i;
+      count = 1;
+    }
+  }
+  return extract(items[maj]);
 }
