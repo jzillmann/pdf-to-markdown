@@ -7,7 +7,7 @@ import {
   transformGroupedByPageAndLine,
   mostFrequent,
   flatMap,
-  onlyUnique,
+  onlyUniques,
   count,
 } from 'src/support/groupingUtils';
 import { items } from 'test/testItems';
@@ -24,10 +24,10 @@ test('flatMap', async () => {
   expect(flatMap([{ x: [1, 2] }, { x: [3] }, { x: [4, 5, 6] }], (e) => e.x)).toEqual([1, 2, 3, 4, 5, 6]);
 });
 
-test('onlyUnique', async () => {
-  expect([].filter(onlyUnique)).toEqual([]);
-  expect([1, 2, 3].filter(onlyUnique)).toEqual([1, 2, 3]);
-  expect([1, 2, 3, 3, 2, 1].filter(onlyUnique)).toEqual([1, 2, 3]);
+test('onlyUniques', async () => {
+  expect([].filter(onlyUniques)).toEqual([]);
+  expect([1, 2, 3].filter(onlyUniques)).toEqual([1, 2, 3]);
+  expect([1, 2, 3, 3, 2, 1].filter(onlyUniques)).toEqual([1, 2, 3]);
 });
 
 describe('groupByPage', () => {

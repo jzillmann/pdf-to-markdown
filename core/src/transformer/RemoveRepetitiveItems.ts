@@ -12,13 +12,13 @@ import {
   groupByPage,
   median,
   mostFrequent,
-  onlyUnique,
+  onlyUniques,
   transformGroupedByPageAndLine,
 } from '../support/groupingUtils';
 import { filterOutDigits } from '../support/stringFunctions';
 
 const config = {
-  // Max number of lines at top/bottom which are getting evaluated for eviction
+  // Max number of lines at top/bottom (per page) which are getting evaluated for eviction
   maxNumberOffTopOrBottomLines: 3,
 
   // Minumum number of times in percent that the y has to appear as fringe element in a page
@@ -45,7 +45,8 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
 
     const uniqueYs = flatMap(pageExtracts, (extract) => extract.fringeLines)
       .map((line) => line.y)
-      .filter(onlyUnique);
+      .filter(onlyUniques);
+    console.log(uniqueYs.sort((a, b) => a - b));
 
     const numberOfPages = context.pageViewports.length;
 
@@ -82,7 +83,7 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
 }
 
 function calculateSimilarity(line1: Line, line2: Line): number {
-  return compareTwoStrings(line1.asStringWithoutNumbers, line2.asStringWithoutNumbers);
+  return compareTwoStrings(line1.textWithoutNumbers(), line2.textWithoutNumbers());
 }
 
 function neighbourLines(pages: PageExtract[], pageIndex: number, y: number): Line[] {
@@ -108,36 +109,25 @@ function neighbourLines(pages: PageExtract[], pageIndex: number, y: number): Lin
 }
 
 function buildExtracts(inputItems: Item[]): PageExtract[] {
-  const pageExtracts = groupByPage(inputItems).map((pageItems) => {
-    const lines = groupByLine(pageItems).map((lineItems) => {
-      const lineY = yFromLine(lineItems);
-      return new Line(lineY, lineItems);
-    });
-    lines.sort((a, b) => {
-      return a.y - b.y;
-    });
+  return groupByPage(inputItems).map((pageItems) => {
+    const lines = groupByLine(pageItems)
+      .map((lineItems) => {
+        const lineY = yFromLine(lineItems);
+        return new Line(lineY, lineItems);
+      })
+      .sort((a, b) => a.y - b.y);
 
     const numberOfFringeElements = Math.min(lines.length, config.maxNumberOffTopOrBottomLines);
     const topN = lines.slice(0, numberOfFringeElements);
     const lastN = lines.slice(lines.length - numberOfFringeElements, lines.length);
-    const fringeLines = [...topN, ...lastN].filter((line, idx, array) => array.indexOf(line) === idx);
+
+    const fringeLines = [...topN, ...lastN].filter(onlyUniques);
     return new PageExtract(pageItems[0].page, fringeLines);
   });
-
-  return pageExtracts;
 }
 
 function yFromLine(lineItems: Item[]): number {
-  return mostFrequent(lineItems, 'y') as number;
-}
-
-class Line {
-  asString: string;
-  asStringWithoutNumbers: string;
-  constructor(public y: number, public items: Item[]) {
-    this.asString = items.reduce((all, item) => all + item.data['str'], '');
-    this.asStringWithoutNumbers = filterOutDigits(this.asString);
-  }
+  return Math.round(mostFrequent(lineItems, 'y') as number);
 }
 
 class PageExtract {
@@ -149,5 +139,26 @@ class PageExtract {
 
   lineByY(y: number): Line | undefined {
     return this.fringeLines.find((line) => line.y === y);
+  }
+}
+
+class Line {
+  private _text: string | undefined;
+  private _textWithoutNumbers: string | undefined;
+
+  constructor(public y: number, public items: Item[]) {}
+
+  text() {
+    if (!this._text) {
+      this._text = this.items.reduce((all, item) => all + item.data['str'], '');
+    }
+    return this._text;
+  }
+
+  textWithoutNumbers() {
+    if (!this._textWithoutNumbers) {
+      this._textWithoutNumbers = filterOutDigits(this.text());
+    }
+    return this._textWithoutNumbers;
   }
 }

@@ -4,7 +4,7 @@ export function flatMap<T, S>(array: T[], func: (entry: T) => S[]): S[] {
   return array.reduce((result, entry) => result.concat(func(entry)), [] as S[]);
 }
 
-export function onlyUnique<T>(value: T, index: number, self: T[]) {
+export function onlyUniques<T>(value: T, index: number, self: T[]) {
   return self.indexOf(value) === index;
 }
 
