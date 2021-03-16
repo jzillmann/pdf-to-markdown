@@ -2,7 +2,7 @@
   "pages": 293,
   "items": 10473,
   "groupedItems": 7154,
-  "changes": 1460,
+  "changes": 1510,
   "schema": [
     {
       "name": "line"
@@ -34,6 +34,8 @@
 {"page":1,"change":"Removal","str":"2  of  293 ","line":1,"x":178.68,"y":44.76,"width":"41.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":2,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":2,"change":"Removal","str":"3  of  293 ","line":1,"x":178.68,"y":44.76,"width":"41.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":2,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":5}
+{"page":2,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":6}
 {"page":3,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":3,"change":"Removal","str":"4  of  293 ","line":1,"x":178.68,"y":44.76,"width":"41.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":4,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -58,6 +60,8 @@
 {"page":13,"change":"Removal","str":"14  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":14,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":14,"change":"Removal","str":"15  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":14,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":14,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":15,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":15,"change":"Removal","str":"16  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":16,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -82,6 +86,8 @@
 {"page":25,"change":"Removal","str":"26  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":26,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":26,"change":"Removal","str":"27  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":26,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":26,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":27,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":27,"change":"Removal","str":"28  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":28,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -106,6 +112,8 @@
 {"page":37,"change":"Removal","str":"38  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":38,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":38,"change":"Removal","str":"39  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":38,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":22}
+{"page":38,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":23}
 {"page":39,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":39,"change":"Removal","str":"40  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":40,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -130,6 +138,8 @@
 {"page":49,"change":"Removal","str":"50  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":50,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":50,"change":"Removal","str":"51  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":50,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":50,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":51,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":51,"change":"Removal","str":"52  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":52,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -154,6 +164,8 @@
 {"page":61,"change":"Removal","str":"62  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":62,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":62,"change":"Removal","str":"63  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":62,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":62,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":63,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":63,"change":"Removal","str":"64  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":64,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -178,6 +190,8 @@
 {"page":73,"change":"Removal","str":"74  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":74,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":74,"change":"Removal","str":"75  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":74,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":23}
+{"page":74,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":24}
 {"page":75,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":75,"change":"Removal","str":"76  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":76,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -202,6 +216,8 @@
 {"page":85,"change":"Removal","str":"86  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":86,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":86,"change":"Removal","str":"87  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":86,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":25}
+{"page":86,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":26}
 {"page":87,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":87,"change":"Removal","str":"88  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":88,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -226,6 +242,8 @@
 {"page":97,"change":"Removal","str":"98  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":98,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":98,"change":"Removal","str":"99  of  293 ","line":1,"x":175.68,"y":44.76,"width":"47.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":98,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":98,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":99,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":99,"change":"Removal","str":"100  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":100,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -250,6 +268,8 @@
 {"page":109,"change":"Removal","str":"110  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":110,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":110,"change":"Removal","str":"111  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":110,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":25}
+{"page":110,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":26}
 {"page":111,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":111,"change":"Removal","str":"112  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":112,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -274,6 +294,8 @@
 {"page":121,"change":"Removal","str":"122  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":122,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":122,"change":"Removal","str":"123  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":122,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":122,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":123,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":123,"change":"Removal","str":"124  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":124,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -298,6 +320,8 @@
 {"page":133,"change":"Removal","str":"134  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":134,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":134,"change":"Removal","str":"135  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":134,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":134,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":135,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":135,"change":"Removal","str":"136  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":136,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -322,6 +346,8 @@
 {"page":145,"change":"Removal","str":"146  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":146,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":146,"change":"Removal","str":"147  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":146,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":146,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":147,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":147,"change":"Removal","str":"148  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":148,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -346,6 +372,8 @@
 {"page":157,"change":"Removal","str":"158  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":158,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":158,"change":"Removal","str":"159  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":158,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":158,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":159,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":159,"change":"Removal","str":"160  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":160,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -370,6 +398,8 @@
 {"page":169,"change":"Removal","str":"170  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":170,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":170,"change":"Removal","str":"171  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":170,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":170,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":171,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":171,"change":"Removal","str":"172  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":172,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -394,6 +424,8 @@
 {"page":181,"change":"Removal","str":"182  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":182,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":182,"change":"Removal","str":"183  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":182,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":182,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":183,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":183,"change":"Removal","str":"184  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":184,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -418,6 +450,8 @@
 {"page":193,"change":"Removal","str":"194  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":194,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":194,"change":"Removal","str":"195  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":194,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":194,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":195,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":195,"change":"Removal","str":"196  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":196,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -442,6 +476,8 @@
 {"page":205,"change":"Removal","str":"206  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":206,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":206,"change":"Removal","str":"207  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":206,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":206,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":207,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":207,"change":"Removal","str":"208  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":208,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -466,6 +502,8 @@
 {"page":217,"change":"Removal","str":"218  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":218,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":218,"change":"Removal","str":"219  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":218,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":23}
+{"page":218,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":24}
 {"page":219,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":219,"change":"Removal","str":"220  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":220,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -490,6 +528,8 @@
 {"page":229,"change":"Removal","str":"230  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":230,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":230,"change":"Removal","str":"231  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":230,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":13}
+{"page":230,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":14}
 {"page":231,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":231,"change":"Removal","str":"232  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":232,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -514,6 +554,8 @@
 {"page":241,"change":"Removal","str":"242  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":242,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":242,"change":"Removal","str":"243  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":242,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":242,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":243,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":243,"change":"Removal","str":"244  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":244,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -538,6 +580,8 @@
 {"page":253,"change":"Removal","str":"254  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":254,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":254,"change":"Removal","str":"255  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":254,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":254,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":255,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":255,"change":"Removal","str":"256  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":256,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -562,6 +606,8 @@
 {"page":265,"change":"Removal","str":"266  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":266,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":266,"change":"Removal","str":"267  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":266,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":25}
+{"page":266,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":26}
 {"page":267,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":267,"change":"Removal","str":"268  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":268,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -586,6 +632,8 @@
 {"page":277,"change":"Removal","str":"278  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":278,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":278,"change":"Removal","str":"279  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":278,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":278,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":279,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":279,"change":"Removal","str":"280  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":280,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
@@ -610,6 +658,8 @@
 {"page":289,"change":"Removal","str":"290  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":290,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":290,"change":"Removal","str":"291  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
+{"page":290,"change":"Removal","str":"eBook brought to you by","dir":"ltr","width":"32.64","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","515.83"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":515.8338448603599,"line":26}
+{"page":290,"change":"Removal","str":"Create, view, and edit PDF. Download the free trial version.","dir":"ltr","width":"75.32","height":"3.15","transform":["3.15","0.00","0.00","3.15","263.01","501.58"],"fontName":"JEEHOV+Myriad-Roman","x":263.0075403379,"y":501.58441486035997,"line":27}
 {"page":291,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":291,"change":"Removal","str":"292  of  293 ","line":1,"x":172.68,"y":44.76,"width":"53.60","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":292,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}

@@ -1,7 +1,7 @@
 import Item from '../Item';
 
-export function flatMap<T, S>(array: T[], func: (entry: T) => S[]): S[] {
-  return array.reduce((result, entry) => result.concat(func(entry)), [] as S[]);
+export function flatMap<T, S>(array: T[], func: (entry: T, idx: number) => S[]): S[] {
+  return array.reduce((result, entry, idx) => result.concat(func(entry, idx)), [] as S[]);
 }
 
 export function onlyUniques<T>(value: T, index: number, self: T[]) {
