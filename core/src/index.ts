@@ -6,6 +6,7 @@ import PdfPipeline from './PdfPipeline';
 
 import AdjustHeight from './transformer/AdjustHeight';
 import CalculateCoordinates from './transformer/CalculateCoordinates';
+import RemoveEmptyItems from './transformer/RemoveEmptyItems';
 import CalculateStatistics from './transformer/CacluclateStatistics';
 import CompactLines from './transformer/CompactLines';
 import SortXWithinLines from './transformer/SortXWithinLines';
@@ -15,6 +16,7 @@ import NoOpTransformer from './transformer/NoOpTransformer';
 export const transformers = [
   new AdjustHeight(),
   new CalculateCoordinates(),
+  new RemoveEmptyItems(),
   new CalculateStatistics(),
   new CompactLines(),
   new SortXWithinLines(),

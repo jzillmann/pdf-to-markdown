@@ -1,7 +1,7 @@
 {
   "pages": 4,
-  "items": 191,
-  "groupedItems": 191,
+  "items": 160,
+  "groupedItems": 160,
   "changes": 0,
   "schema": [
     {
@@ -31,16 +31,12 @@
 {"page":0,"change":"none","str":"qui permet de laver en toute sécurité ","dir":"ltr","width":"328.32","height":"18.00","transform":["18.00","0.00","0.00","18.00","188.39","416.29"],"fontName":"NRVUEW+HelveticaNeue-Thin","x":188.3882,"y":416.2949}
 {"page":0,"change":"none","str":"les masques barrières en tissu","dir":"ltr","width":"268.07","height":"18.00","transform":["18.00","0.00","0.00","18.00","216.01","394.69"],"fontName":"NRVUEW+HelveticaNeue-Thin","x":216.0091,"y":394.6949}
 {"page":0,"change":"none","str":"avec le soutien de ","dir":"ltr","width":"60.04","height":"7.66","transform":["7.66","0.00","0.00","7.66","393.76","49.88"],"fontName":"NRVUEW+Futura-Light","x":393.7645,"y":49.8771}
-{"page":0,"change":"none","str":" ","dir":"ltr","width":"5.47","height":"17.64","transform":["-12.51","12.43","-12.43","-12.51","104.82","770.49"],"fontName":"NRVUEW+Futura-Light","x":104.8234,"y":770.4944}
-{"page":0,"change":"none","str":" ","dir":"ltr","width":"5.47","height":"17.64","transform":["-11.22","13.61","-13.61","-11.22","103.43","770.13"],"fontName":"NRVUEW+Futura-Light","x":103.4259,"y":770.1326}
 {"page":0,"change":"none","str":"F","dir":"ltr","width":"7.83","height":"17.64","transform":["-9.39","14.93","-14.93","-9.39","44.47","758.84"],"fontName":"NRVUEW+Futura-Light","x":44.4728,"y":758.8381}
 {"page":0,"change":"none","str":"l","dir":"ltr","width":"3.51","height":"17.64","transform":["-7.29","16.06","-16.06","-7.29","40.61","765.17"],"fontName":"NRVUEW+Futura-Light","x":40.6073,"y":765.1653}
 {"page":0,"change":"none","str":"a","dir":"ltr","width":"9.88","height":"17.64","transform":["-3.77","17.23","-17.23","-3.77","38.99","767.63"],"fontName":"NRVUEW+Futura-Light","x":38.9935,"y":767.6295}
 {"page":0,"change":"none","str":"s","dir":"ltr","width":"6.61","height":"17.64","transform":["2.44","17.47","-17.47","2.44","37.12","776.26"],"fontName":"NRVUEW+Futura-Light","x":37.1206,"y":776.265}
 {"page":0,"change":"none","str":"h","dir":"ltr","width":"8.64","height":"17.64","transform":["8.66","15.37","-15.37","8.66","37.52","781.86"],"fontName":"NRVUEW+Futura-Light","x":37.525,"y":781.8569}
-{"page":0,"change":"none","str":" ","dir":"ltr","width":"5.47","height":"17.64","transform":["11.99","12.94","-12.94","11.99","70.15","727.59"],"fontName":"NRVUEW+Futura-Light","x":70.1538,"y":727.5932}
 {"page":0,"change":"none","str":"-","dir":"ltr","width":"3.35","height":"17.64","transform":["12.77","12.17","-12.17","12.77","45.25","792.46"],"fontName":"NRVUEW+Futura-Light","x":45.2465,"y":792.4569}
-{"page":0,"change":"none","str":" ","dir":"ltr","width":"5.47","height":"17.64","transform":["13.34","11.54","-11.54","13.34","68.17","728.62"],"fontName":"NRVUEW+Futura-Light","x":68.1717,"y":728.6189}
 {"page":0,"change":"none","str":"M","dir":"ltr","width":"15.82","height":"17.64","transform":["14.53","10.00","-10.00","14.53","51.24","798.29"],"fontName":"NRVUEW+Futura-Light","x":51.2358,"y":798.2911}
 {"page":0,"change":"none","str":"a","dir":"ltr","width":"9.88","height":"17.64","transform":["16.27","6.82","-6.82","16.27","63.81","806.85"],"fontName":"NRVUEW+Futura-Light","x":63.81,"y":806.8549}
 {"page":0,"change":"none","str":"s","dir":"ltr","width":"6.61","height":"17.64","transform":["17.58","1.51","-1.51","17.58","72.05","810.41"],"fontName":"NRVUEW+Futura-Light","x":72.0487,"y":810.4102}
@@ -93,17 +89,7 @@
 {"page":1,"change":"none","str":"de cuisine équipé d’une sonde (HABOR)","dir":"ltr","width":"190.93","height":"11.00","transform":["11.00","0.00","0.00","11.00","149.78","377.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":149.7799,"y":377.2632}
 {"page":1,"change":"none","str":"• Une bouilloire électrique à la température non réglable (RUSSEL-HOBS)","dir":"ltr","width":"346.23","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","363.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":363.2632}
 {"page":1,"change":"none","str":"• 3 types de récipients sélectionnés : - une casserole inox, ","dir":"ltr","width":"278.94","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","349.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":349.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","335.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":335.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","96.95","335.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":96.9479,"y":335.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","132.95","335.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":132.95090000000002,"y":335.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","168.95","335.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":168.9539,"y":335.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","204.96","335.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":204.9569,"y":335.2632}
 {"page":1,"change":"none","str":"- un saladier en porcelaine ","dir":"ltr","width":"127.57","height":"11.00","transform":["11.00","0.00","0.00","11.00","240.95","335.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":240.9489,"y":335.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","321.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":321.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","96.95","321.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":96.9479,"y":321.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","132.95","321.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":132.95090000000002,"y":321.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","168.95","321.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":168.9539,"y":321.2632}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","204.96","321.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":204.9569,"y":321.2632}
 {"page":1,"change":"none","str":"- un récipient plastique (","dir":"ltr","width":"113.48","height":"11.00","transform":["11.00","0.00","0.00","11.00","240.95","321.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":240.9489,"y":321.2632}
 {"page":1,"change":"none","str":"Tupperware)","dir":"ltr","width":"58.30","height":"11.00","transform":["11.00","0.00","0.00","11.00","354.42","321.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":354.4191,"y":321.2632}
 {"page":1,"change":"none","str":"• Un masque en tissu par récipient","dir":"ltr","width":"164.41","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","307.26"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":307.2632}
@@ -118,18 +104,8 @@
 {"page":2,"change":"none","str":"- Relève des mesures toutes les 5 minutes ","dir":"ltr","width":"203.73","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","690.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":690.0402}
 {"page":2,"change":"none","str":"L’expérience a été réalisée par 2 fois et dans 2 cas de figures :  ","dir":"ltr","width":"300.52","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","662.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":662.0402}
 {"page":2,"change":"none","str":"- sans couvercle","dir":"ltr","width":"77.64","height":"11.00","transform":["11.00","0.00","0.00","11.00","384.95","662.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":384.9499,"y":662.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":648.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","96.95","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":96.9479,"y":648.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","132.95","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":132.95090000000002,"y":648.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","168.95","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":168.9539,"y":648.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","204.96","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":204.9569,"y":648.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","240.96","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":240.95989999999998,"y":648.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","276.96","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":276.9629,"y":648.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","312.97","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":312.9659,"y":648.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","348.97","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":348.96889999999996,"y":648.0402}
 {"page":2,"change":"none","str":"- avec couvercle (dépose)","dir":"ltr","width":"121.47","height":"11.00","transform":["11.00","0.00","0.00","11.00","384.95","648.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":384.9499,"y":648.0402}
 {"page":2,"change":"none","str":"Notes :","dir":"ltr","width":"36.07","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","634.04"],"fontName":"NRVUEW+HelveticaNeue-Medium","x":60.9449,"y":634.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","97.01","634.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":97.0135,"y":634.0402}
 {"page":2,"change":"none","str":"T° ambiante de la pièce au moment de l’expérience était de 23°C, aucune fenêtre ouverte.","dir":"ltr","width":"426.96","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","620.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":620.0402}
 {"page":2,"change":"none","str":"T° de l’eau chaude sortant du robinet de la cuisine : 49°C  ","dir":"ltr","width":"277.58","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","606.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":606.0402}
 {"page":2,"change":"none","str":"Taux d’humidité ambiant 42%.","dir":"ltr","width":"143.84","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","592.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":592.0402}
@@ -137,7 +113,6 @@
 {"page":2,"change":"none","str":"Les mesures de température sont faites en °C.","dir":"ltr","width":"220.37","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","564.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":564.0402}
 {"page":2,"change":"none","str":"Date et lieu : le 29-03-20 - Paris","dir":"ltr","width":"151.40","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","550.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":550.0402}
 {"page":2,"change":"none","str":"Résultats :","dir":"ltr","width":"53.80","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","522.04"],"fontName":"NRVUEW+HelveticaNeue-Medium","x":60.9449,"y":522.0402}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","114.75","522.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":114.7455,"y":522.0402}
 {"page":2,"change":"none","str":"La température moyenne constatée en référence est de 92 °C pour les récipients inox et plastique ","dir":"ltr","width":"465.73","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","326.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":326.0402}
 {"page":2,"change":"none","str":"et de 87°C pour la porcelaine. La différence s’explique par le fait que le récipient en porcelaine a une ","dir":"ltr","width":"475.97","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","312.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":312.0402}
 {"page":2,"change":"none","str":"épaisseur plus épaisse que les autres et absorbe dans un premier temps, plus de chaleur.","dir":"ltr","width":"423.38","height":"11.00","transform":["11.00","0.00","0.00","11.00","60.94","298.04"],"fontName":"NRVUEW+HelveticaNeue-Light","x":60.9449,"y":298.0402}
@@ -177,7 +152,6 @@
 {"page":3,"change":"none","str":"elle est aussi experte française AFNOR pour la commission de normalisation eur","dir":"ltr","width":"343.40","height":"10.00","transform":["10.00","0.00","0.00","10.00","163.70","547.97"],"fontName":"NRVUEW+HelveticaNeue-Light","x":163.7008,"y":547.9668}
 {"page":3,"change":"none","str":"opéenne ","dir":"ltr","width":"40.39","height":"10.00","transform":["10.00","0.00","0.00","10.00","506.92","547.97"],"fontName":"NRVUEW+HelveticaNeue-Light","x":506.9208,"y":547.9668}
 {"page":3,"change":"none","str":"smart textiles (CEN/TC 248-WG31).","dir":"ltr","width":"153.92","height":"10.00","transform":["10.00","0.00","0.00","10.00","163.70","531.97"],"fontName":"NRVUEW+HelveticaNeue-Light","x":163.7008,"y":531.9668}
-{"page":3,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","317.62","531.97"],"fontName":"NRVUEW+HelveticaNeue-Light","x":317.6192,"y":531.9668}
 {"page":3,"change":"none","str":"Les études sur les masques ont été accompagnées ","dir":"ltr","width":"225.23","height":"10.00","transform":["10.00","0.00","0.00","10.00","320.68","531.97"],"fontName":"NRVUEW+HelveticaNeue-Light","x":320.6772,"y":531.9668}
 {"page":3,"change":"none","str":"par les expertises complémentaires de :","dir":"ltr","width":"170.96","height":"10.00","transform":["10.00","0.00","0.00","10.00","163.70","515.97"],"fontName":"NRVUEW+HelveticaNeue-Light","x":163.7008,"y":515.9668}
 {"page":3,"change":"none","str":"Mattias Ganem","dir":"ltr","width":"72.38","height":"10.00","transform":["10.00","0.00","0.00","10.00","163.70","495.97"],"fontName":"NRVUEW+HelveticaNeue-Bold","x":163.7008,"y":495.9668}
@@ -187,7 +161,6 @@
 {"page":3,"change":"none","str":"Certaines illustrations ont été réalisées par la styliste et illustratrice ","dir":"ltr","width":"284.29","height":"10.00","transform":["10.00","0.00","0.00","10.00","163.70","411.97"],"fontName":"NRVUEW+HelveticaNeue-Light","x":163.7008,"y":411.9668}
 {"page":3,"change":"none","str":"Virginie Boy","dir":"ltr","width":"56.37","height":"10.00","transform":["10.00","0.00","0.00","10.00","447.99","411.97"],"fontName":"NRVUEW+HelveticaNeue-Bold","x":447.9864,"y":411.9668}
 {"page":3,"change":"none","str":".","dir":"ltr","width":"2.78","height":"10.00","transform":["10.00","0.00","0.00","10.00","504.36","411.97"],"fontName":"NRVUEW+HelveticaNeue-Light","x":504.3557,"y":411.9668}
-{"page":3,"change":"none","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","507.14","411.97"],"fontName":"NRVUEW+HelveticaNeue-Light","x":507.1357,"y":411.9668}
 {"page":3,"change":"none","str":"Techtera est le pôle de compétitivité dédié à la filière textile française soutenu par l’Etat, ","dir":"ltr","width":"375.85","height":"10.00","transform":["10.00","0.00","0.00","10.00","163.70","360.47"],"fontName":"NRVUEW+HelveticaNeue-Light","x":163.7008,"y":360.4719}
 {"page":3,"change":"none","str":"La Direction Générale de l’Armement et les collectivités territoriales. Il anime un réseau de ","dir":"ltr","width":"385.48","height":"10.00","transform":["10.00","0.00","0.00","10.00","163.70","344.47"],"fontName":"NRVUEW+HelveticaNeue-Light","x":163.7008,"y":344.4719}
 {"page":3,"change":"none","str":"200 membres (entreprises, laboratoires de recherches, centres techniques, universités et ","dir":"ltr","width":"383.46","height":"10.00","transform":["10.00","0.00","0.00","10.00","163.70","328.47"],"fontName":"NRVUEW+HelveticaNeue-Light","x":163.7008,"y":328.4719}
@@ -201,16 +174,12 @@
 {"page":3,"change":"none","str":"sécurité, de l’habillement et de la décoration.","dir":"ltr","width":"192.28","height":"10.00","transform":["10.00","0.00","0.00","10.00","163.70","248.47"],"fontName":"NRVUEW+HelveticaNeue-Light","x":163.7008,"y":248.4719}
 {"page":3,"change":"none","str":"Techtera - Actualités","dir":"ltr","width":"87.62","height":"10.00","transform":["10.00","0.00","0.00","10.00","422.17","158.92"],"fontName":"NRVUEW+HelveticaNeue-Light","x":422.1677,"y":158.9151}
 {"page":3,"change":"none","str":"avec le soutien de ","dir":"ltr","width":"60.04","height":"7.66","transform":["7.66","0.00","0.00","7.66","391.92","36.18"],"fontName":"NRVUEW+Futura-Light","x":391.9215,"y":36.1763}
-{"page":3,"change":"none","str":" ","dir":"ltr","width":"5.47","height":"17.64","transform":["-12.51","12.43","-12.43","-12.51","104.82","770.49"],"fontName":"NRVUEW+Futura-Light","x":104.8234,"y":770.4944}
-{"page":3,"change":"none","str":" ","dir":"ltr","width":"5.47","height":"17.64","transform":["-11.22","13.61","-13.61","-11.22","103.43","770.13"],"fontName":"NRVUEW+Futura-Light","x":103.4259,"y":770.1326}
 {"page":3,"change":"none","str":"F","dir":"ltr","width":"7.83","height":"17.64","transform":["-9.39","14.93","-14.93","-9.39","44.47","758.84"],"fontName":"NRVUEW+Futura-Light","x":44.4728,"y":758.8381}
 {"page":3,"change":"none","str":"l","dir":"ltr","width":"3.51","height":"17.64","transform":["-7.29","16.06","-16.06","-7.29","40.61","765.17"],"fontName":"NRVUEW+Futura-Light","x":40.6073,"y":765.1653}
 {"page":3,"change":"none","str":"a","dir":"ltr","width":"9.88","height":"17.64","transform":["-3.77","17.23","-17.23","-3.77","38.99","767.63"],"fontName":"NRVUEW+Futura-Light","x":38.9935,"y":767.6295}
 {"page":3,"change":"none","str":"s","dir":"ltr","width":"6.61","height":"17.64","transform":["2.44","17.47","-17.47","2.44","37.12","776.26"],"fontName":"NRVUEW+Futura-Light","x":37.1206,"y":776.265}
 {"page":3,"change":"none","str":"h","dir":"ltr","width":"8.64","height":"17.64","transform":["8.66","15.37","-15.37","8.66","37.52","781.86"],"fontName":"NRVUEW+Futura-Light","x":37.525,"y":781.8569}
-{"page":3,"change":"none","str":" ","dir":"ltr","width":"5.47","height":"17.64","transform":["11.99","12.94","-12.94","11.99","70.15","727.59"],"fontName":"NRVUEW+Futura-Light","x":70.1538,"y":727.5932}
 {"page":3,"change":"none","str":"-","dir":"ltr","width":"3.35","height":"17.64","transform":["12.77","12.17","-12.17","12.77","45.25","792.46"],"fontName":"NRVUEW+Futura-Light","x":45.2465,"y":792.4569}
-{"page":3,"change":"none","str":" ","dir":"ltr","width":"5.47","height":"17.64","transform":["13.34","11.54","-11.54","13.34","68.17","728.62"],"fontName":"NRVUEW+Futura-Light","x":68.1717,"y":728.6189}
 {"page":3,"change":"none","str":"M","dir":"ltr","width":"15.82","height":"17.64","transform":["14.53","10.00","-10.00","14.53","51.24","798.29"],"fontName":"NRVUEW+Futura-Light","x":51.2358,"y":798.2911}
 {"page":3,"change":"none","str":"a","dir":"ltr","width":"9.88","height":"17.64","transform":["16.27","6.82","-6.82","16.27","63.81","806.85"],"fontName":"NRVUEW+Futura-Light","x":63.81,"y":806.8549}
 {"page":3,"change":"none","str":"s","dir":"ltr","width":"6.61","height":"17.64","transform":["17.58","1.51","-1.51","17.58","72.05","810.41"],"fontName":"NRVUEW+Futura-Light","x":72.0487,"y":810.4102}

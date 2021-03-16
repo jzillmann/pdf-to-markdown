@@ -1,8 +1,8 @@
 {
   "pages": 4,
-  "items": 669,
-  "groupedItems": 399,
-  "changes": 16,
+  "items": 522,
+  "groupedItems": 378,
+  "changes": 0,
   "schema": [
     {
       "name": "line"
@@ -30,13 +30,3 @@
     }
   ]
 }
-{"page":0,"change":"Removal","str":" ","dir":"ltr","width":"3.00","height":"12.00","transform":["12.00","0.00","0.00","12.00","90.03","38.52"],"fontName":"BCDEEE+Garamond-Bold","x":90.025,"y":38.525,"line":3}
-{"page":1,"change":"Removal","str":" ","dir":"ltr","width":"3.00","height":"12.00","transform":["12.00","0.00","0.00","12.00","540.23","746.22"],"fontName":"BCDEEE+Garamond-Bold","x":540.23,"y":746.22,"line":0}
-{"page":1,"change":"Removal","str":" ","dir":"ltr","width":"2.71","height":"12.00","transform":["12.00","0.00","0.00","12.00","540.23","731.72"],"fontName":"BCDFEE+Calibri","x":540.23,"y":731.72,"line":1}
-{"page":1,"change":"Removal","str":"   ","line":2,"x":90.025,"y":38.525,"width":"6.00","height":"12.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
-{"page":2,"change":"Removal","str":" ","dir":"ltr","width":"3.00","height":"12.00","transform":["12.00","0.00","0.00","12.00","540.23","746.22"],"fontName":"BCDEEE+Garamond-Bold","x":540.23,"y":746.22,"line":0}
-{"page":2,"change":"Removal","str":" ","dir":"ltr","width":"2.71","height":"12.00","transform":["12.00","0.00","0.00","12.00","540.23","731.72"],"fontName":"BCDFEE+Calibri","x":540.23,"y":731.72,"line":1}
-{"page":2,"change":"Removal","str":"   ","line":2,"x":90.025,"y":38.525,"width":"6.00","height":"12.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
-{"page":3,"change":"Removal","str":" ","dir":"ltr","width":"3.00","height":"12.00","transform":["12.00","0.00","0.00","12.00","540.23","746.22"],"fontName":"BCDEEE+Garamond-Bold","x":540.23,"y":746.22,"line":0}
-{"page":3,"change":"Removal","str":" ","dir":"ltr","width":"2.71","height":"12.00","transform":["12.00","0.00","0.00","12.00","540.23","731.72"],"fontName":"BCDFEE+Calibri","x":540.23,"y":731.72,"line":1}
-{"page":3,"change":"Removal","str":"   ","line":2,"x":90.025,"y":38.525,"width":"6.00","height":"12.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}

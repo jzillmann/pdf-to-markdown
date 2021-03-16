@@ -1,7 +1,7 @@
 {
   "pages": 7,
-  "items": 300,
-  "groupedItems": 123,
+  "items": 282,
+  "groupedItems": 122,
   "changes": 21,
   "schema": [
     {
@@ -36,4 +36,4 @@
 {"page":3,"change":"Removal","str":"\u0000 4","line":28,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
 {"page":4,"change":"Removal","str":"\u0000 5","line":26,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
 {"page":5,"change":"Removal","str":"\u0000 6","line":11,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":6,"change":"Removal","str":"\u0000 7","line":19,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}
+{"page":6,"change":"Removal","str":"\u0000 7","line":18,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}

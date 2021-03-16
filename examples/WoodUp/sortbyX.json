@@ -1,8 +1,8 @@
 {
   "pages": 256,
-  "items": 27682,
-  "groupedItems": 9764,
-  "changes": 74,
+  "items": 20477,
+  "groupedItems": 7492,
+  "changes": 57,
   "schema": [
     {
       "name": "line"
@@ -30,16 +30,14 @@
     }
   ]
 }
-{"page":45,"change":"ContentChange","str":"Zeitraum der  Inbetriebnahme   Von 01/2013  bis 12/2013     Versicherung [€/a]   2 500 ","line":14,"x":67.74,"y":377.64,"width":"290.12","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":45,"change":"ContentChange","str":"Jährlicher Verbrauch an  Biomasse   [kg/kWh]   1,1   Kohle Entsorgungskosten -   [€/t]   155 ","line":19,"x":67.74,"y":247.14,"width":"301.23","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":45,"change":"ContentChange","str":"Spezifische  Kohleerzeugung   [kg/kWh]   0,02  Für  verwendete  Wärmeenergie [%] die Trocknung    50  ","line":20,"x":67.74,"y":213.06,"width":"353.39","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":65,"change":"ContentChange","str":"Verzögeru Phase","line":47,"x":119.0887,"y":428.2765,"width":"27.81","height":"4.13","fontName":["KITOYT+Calibri-Bold"],"dir":["ltr"]}
-{"page":66,"change":"ContentChange","str":"A B","line":49,"x":199.9328,"y":360.1597,"width":"9.78","height":"7.03","fontName":["YZOXCB+TimesNewRomanPS-BoldMT"],"dir":["ltr"]}
-{"page":114,"change":"ContentChange","str":"Der Versuch in der Apfelneuanlage wurde in Zusammenarbeit mit dem Fach   -","line":15,"x":68.04,"y":213.84,"width":"321.66","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman","XNKKUJ+SourceSansPro-Regular"],"dir":["ltr"]}
-{"page":157,"change":"ContentChange","str":"N  aus  Dünger =   Gesamt − N   Organ   ( mg ) × ( 15 N   Überschuss   Gewebe − natürlicher   15 N   Überschuss )","line":15,"x":70.923,"y":209.637,"width":"303.53","height":"9.00","fontName":["WASIKV+CambriaMath","CJUSQJ+CambriaMath"],"dir":["ltr"]}
-{"page":157,"change":"ContentChange","str":"( 15 N   Überschuss   Dünger − natürlicher   15 N   Überschuss   )    ","line":16,"x":174.18,"y":205.14,"width":"172.27","height":"9.00","fontName":["WASIKV+CambriaMath","CJUSQJ+CambriaMath","PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":197,"change":"ContentChange","str":"- Emissionen  (mmol/m 2","line":6,"x":296.46,"y":359.94,"width":"73.03","height":"7.02","fontName":["CRDKGT+ArialMT"],"dir":["ltr"]}
+{"page":45,"change":"ContentChange","str":"Jährlicher Verbrauch an  Biomasse [kg/kWh] 1,1 Kohle Entsorgungskosten - [€/t] 155 ","line":18,"x":67.74,"y":247.14,"width":"291.25","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":45,"change":"ContentChange","str":"Spezifische  Kohleerzeugung [kg/kWh] 0,02  Für  verwendete  Wärmeenergie [%] die Trocknung  50","line":19,"x":67.74,"y":213.06,"width":"345.41","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":65,"change":"ContentChange","str":"Verzögeru Phase","line":45,"x":119.0887,"y":428.2765,"width":"27.81","height":"4.13","fontName":["KITOYT+Calibri-Bold"],"dir":["ltr"]}
+{"page":66,"change":"ContentChange","str":"A B","line":44,"x":199.9328,"y":360.1597,"width":"9.78","height":"7.03","fontName":["YZOXCB+TimesNewRomanPS-BoldMT"],"dir":["ltr"]}
+{"page":157,"change":"ContentChange","str":"N  aus  Dünger = Gesamt − N Organ ( mg ) × ( 15 N Überschuss Gewebe − natürlicher 15 N Überschuss )","line":14,"x":70.923,"y":209.637,"width":"292.99","height":"9.00","fontName":["WASIKV+CambriaMath","CJUSQJ+CambriaMath"],"dir":["ltr"]}
+{"page":157,"change":"ContentChange","str":"( 15 N Überschuss Dünger − natürlicher 15 N Überschuss )","line":15,"x":174.18,"y":205.14,"width":"160.64","height":"6.48","fontName":["WASIKV+CambriaMath","CJUSQJ+CambriaMath"],"dir":["ltr"]}
+{"page":197,"change":"ContentChange","str":"- Emissionen  (mmol/m 2","line":5,"x":296.46,"y":359.94,"width":"73.03","height":"7.02","fontName":["CRDKGT+ArialMT"],"dir":["ltr"]}
 {"page":199,"change":"ContentChange","str":"O - Emissionen  (nmol/m2/s),  die  in  Verbindung  mit  den  sechs   2","line":5,"x":273.3,"y":360.72,"width":"204.58","height":"7.02","fontName":["CRDKGT+ArialMT"],"dir":["ltr"]}
-{"page":218,"change":"ContentChange","str":"Verbrennung Mülldeponie von Zement","line":30,"x":126.9985,"y":463.5649,"width":"95.31","height":"6.37","fontName":["OORMCL+Calibri"],"dir":["ltr"]}
-{"page":218,"change":"ContentChange","str":"Energie Energie","line":31,"x":114.6294,"y":293.2214,"width":"39.55","height":"6.37","fontName":["KITOYT+Calibri-Bold"],"dir":["ltr"]}
-{"page":218,"change":"ContentChange","str":"Energie Energie aus  Deponiegas Rohstoffe für die  Produktion von  Beton Nutzen für  Landwirtschaft  und Umwelt","line":32,"x":127.0588,"y":529.1141,"width":"289.94","height":"6.37","fontName":["KITOYT+Calibri-Bold"],"dir":["ltr"]}
+{"page":218,"change":"ContentChange","str":"Verbrennung Mülldeponie von Zement","line":29,"x":126.9985,"y":463.5649,"width":"95.31","height":"6.37","fontName":["OORMCL+Calibri"],"dir":["ltr"]}
+{"page":218,"change":"ContentChange","str":"Energie Energie","line":30,"x":114.6294,"y":293.2214,"width":"39.55","height":"6.37","fontName":["KITOYT+Calibri-Bold"],"dir":["ltr"]}
+{"page":218,"change":"ContentChange","str":"Energie Energie aus  Deponiegas Rohstoffe für die  Produktion von  Beton Nutzen für  Landwirtschaft  und Umwelt","line":31,"x":127.0588,"y":529.1141,"width":"289.94","height":"6.37","fontName":["KITOYT+Calibri-Bold"],"dir":["ltr"]}

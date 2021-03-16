@@ -1,8 +1,8 @@
 {
   "pages": 60,
-  "items": 6774,
-  "groupedItems": 1914,
-  "changes": 40,
+  "items": 4344,
+  "groupedItems": 1487,
+  "changes": 14,
   "schema": [
     {
       "name": "line"
@@ -30,11 +30,5 @@
     }
   ]
 }
-{"page":5,"change":"ContentChange","str":"  More online...    ","line":23,"x":99.264,"y":155.9,"width":"100.28","height":"14.04","fontName":[null],"dir":["ltr"]}
-{"page":8,"change":"ContentChange","str":"     ","line":12,"x":99.264,"y":174.98,"width":"16.41","height":"24.00","fontName":[null],"dir":["ltr"]}
-{"page":10,"change":"ContentChange","str":"A flipchart is a simple but good way to record  your     ","line":21,"x":136.82,"y":154.22,"width":"229.74","height":"11.04","fontName":[null],"dir":["ltr"]}
-{"page":22,"change":"ContentChange","str":"0.5 1.5 2.5 3.5 4.5 0 1 2 3 4 5","line":54,"x":442.82,"y":254.83,"width":"93.38","height":"9.98","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":34,"change":"ContentChange","str":"Plan:   (what, where, when, who, how)      ","line":5,"x":104.9,"y":494.02,"width":"220.23","height":"15.96","fontName":[null],"dir":["ltr"]}
-{"page":45,"change":"ContentChange","str":"  What do we need?     What does it mean?   Think about...  ","line":3,"x":53.88,"y":511.9,"width":"316.65","height":"14.04","fontName":[null,"Arial,Bold"],"dir":["ltr"]}
-{"page":49,"change":"ContentChange","str":"  Adapted from outline in the    OSSIE Guide to Clinical ","line":6,"x":340.37,"y":455.62,"width":"262.00","height":"14.04","fontName":[null],"dir":["ltr"]}
-{"page":58,"change":"ContentChange","str":"  1  ","line":6,"x":53.88,"y":446.98,"width":"16.00","height":"15.96","fontName":[null,"ABCDEE+Calibri,Bold"],"dir":["ltr"]}
+{"page":22,"change":"ContentChange","str":"0.5 1.5 2.5 3.5 4.5 0 1 2 3 4 5","line":46,"x":442.82,"y":254.83,"width":"93.38","height":"9.98","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":42,"change":"ContentChange","str":"Although Ol Even  lie understood that going one day ","line":33,"x":538.99,"y":198.14,"width":"280.12","height":"14.04","fontName":[null],"dir":["ltr"]}

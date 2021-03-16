@@ -1,8 +1,8 @@
 {
   "pages": 4,
-  "items": 191,
-  "groupedItems": 120,
-  "changes": 14,
+  "items": 160,
+  "groupedItems": 112,
+  "changes": 10,
   "schema": [
     {
       "name": "line"
@@ -30,5 +30,5 @@
     }
   ]
 }
-{"page":0,"change":"ContentChange","str":"s h a l F    ","line":4,"x":37.1206,"y":758.8381,"width":"47.42","height":"17.64","fontName":["NRVUEW+Futura-Light"],"dir":["ltr"]}
-{"page":3,"change":"ContentChange","str":"s h a l F    ","line":30,"x":37.1206,"y":758.8381,"width":"47.42","height":"17.64","fontName":["NRVUEW+Futura-Light"],"dir":["ltr"]}
+{"page":0,"change":"ContentChange","str":"s h a l F - M a s q u e","line":4,"x":37.1206,"y":758.8381,"width":"99.35","height":"17.64","fontName":["NRVUEW+Futura-Light"],"dir":["ltr"]}
+{"page":3,"change":"ContentChange","str":"s h a l F - M a s q u e","line":30,"x":37.1206,"y":758.8381,"width":"99.35","height":"17.64","fontName":["NRVUEW+Futura-Light"],"dir":["ltr"]}

@@ -1,7 +1,7 @@
 {
   "pages": 7,
-  "items": 6786,
-  "groupedItems": 6786,
+  "items": 6779,
+  "groupedItems": 6779,
   "changes": 0,
   "schema": [
     {
@@ -1084,7 +1084,6 @@
 {"page":0,"change":"none","str":"without","dir":"ltr","width":"30.90","height":"12.50","transform":["7.36","0.00","0.00","12.50","498.84","37.26"],"fontName":"Courier","x":498.84000000000015,"y":37.259999999999756}
 {"page":0,"change":"none","str":"1243","dir":"ltr","width":"13.32","height":"8.40","transform":["5.55","0.00","0.00","8.40","494.52","22.62"],"fontName":"Courier","x":494.52000000000015,"y":22.61999999999976}
 {"page":0,"change":"none","str":"on March 12, 2021","dir":"ltr","width":"66.70","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","334.26"],"x":550,"y":334.26007}
-{"page":0,"change":"none","str":" ","dir":"ltr","width":"2.22","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","336.48"],"x":550,"y":336.48407}
 {"page":0,"change":"none","str":"http://science.sciencemag.org/","dir":"ltr","width":"108.05","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","444.53"],"x":550,"y":444.53191}
 {"page":0,"change":"none","str":"Downloaded from ","dir":"ltr","width":"64.91","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","509.44"],"x":550,"y":509.44374999999997}
 {"page":1,"change":"none","str":"argument","dir":"ltr","width":"38.10","height":"11.20","transform":["7.94","0.00","0.00","11.20","41.76","737.52"],"fontName":"Courier","x":41.76,"y":737.52}
@@ -2292,7 +2291,6 @@
 {"page":1,"change":"none","str":"VOL.","dir":"ltr","width":"17.04","height":"8.50","transform":["7.10","0.00","0.00","8.50","524.88","27.42"],"fontName":"Courier","x":524.8800000000001,"y":27.420000000000115}
 {"page":1,"change":"none","str":"162","dir":"ltr","width":"9.84","height":"8.50","transform":["5.47","0.00","0.00","8.50","546.36","27.42"],"fontName":"Courier","x":546.3600000000001,"y":27.420000000000115}
 {"page":1,"change":"none","str":"on March 12, 2021","dir":"ltr","width":"66.70","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","334.26"],"x":550,"y":334.26007}
-{"page":1,"change":"none","str":" ","dir":"ltr","width":"2.22","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","336.48"],"x":550,"y":336.48407}
 {"page":1,"change":"none","str":"http://science.sciencemag.org/","dir":"ltr","width":"108.05","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","444.53"],"x":550,"y":444.53191}
 {"page":1,"change":"none","str":"Downloaded from ","dir":"ltr","width":"64.91","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","509.44"],"x":550,"y":509.44374999999997}
 {"page":2,"change":"none","str":"Education","dir":"ltr","width":"40.68","height":"11.20","transform":["7.53","0.00","0.00","11.20","22.38","733.80"],"fontName":"Courier","x":22.38,"y":733.79999}
@@ -3496,7 +3494,6 @@
 {"page":2,"change":"none","str":"1245","dir":"ltr","width":"13.32","height":"8.40","transform":["5.55","0.00","0.00","8.40","500.76","15.48"],"fontName":"Courier","x":500.7600000000003,"y":15.479989999999836}
 {"page":2,"change":"none","str":"-A","dir":"ltr","width":"5.40","height":"9.00","transform":["4.50","0.00","0.00","9.00","69.36","1.44"],"fontName":"Courier","x":69.3600000000003,"y":1.4400099999998357}
 {"page":2,"change":"none","str":"on March 12, 2021","dir":"ltr","width":"66.70","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","334.26"],"x":550,"y":334.26007}
-{"page":2,"change":"none","str":" ","dir":"ltr","width":"2.22","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","336.48"],"x":550,"y":336.48407}
 {"page":2,"change":"none","str":"http://science.sciencemag.org/","dir":"ltr","width":"108.05","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","444.53"],"x":550,"y":444.53191}
 {"page":2,"change":"none","str":"Downloaded from ","dir":"ltr","width":"64.91","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","509.44"],"x":550,"y":509.44374999999997}
 {"page":3,"change":"none","str":"watch","dir":"ltr","width":"23.64","height":"11.50","transform":["7.88","0.00","0.00","11.50","37.38","741.30"],"fontName":"Courier","x":37.38,"y":741.3}
@@ -4676,7 +4673,6 @@
 {"page":3,"change":"none","str":"VOL.","dir":"ltr","width":"17.16","height":"8.50","transform":["7.15","0.00","0.00","8.50","518.52","26.40"],"fontName":"Courier","x":518.5199999999991,"y":26.400000000000357}
 {"page":3,"change":"none","str":"162","dir":"ltr","width":"10.08","height":"8.50","transform":["5.60","0.00","0.00","8.50","539.88","26.40"],"fontName":"Courier","x":539.8799999999991,"y":26.400000000000357}
 {"page":3,"change":"none","str":"on March 12, 2021","dir":"ltr","width":"66.70","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","334.26"],"x":550,"y":334.26007}
-{"page":3,"change":"none","str":" ","dir":"ltr","width":"2.22","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","336.48"],"x":550,"y":336.48407}
 {"page":3,"change":"none","str":"http://science.sciencemag.org/","dir":"ltr","width":"108.05","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","444.53"],"x":550,"y":444.53191}
 {"page":3,"change":"none","str":"Downloaded from ","dir":"ltr","width":"64.91","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","509.44"],"x":550,"y":509.44374999999997}
 {"page":4,"change":"none","str":"is","dir":"ltr","width":"5.88","height":"11.20","transform":["4.90","0.00","0.00","11.20","22.68","737.88"],"fontName":"Courier","x":22.68,"y":737.88}
@@ -5868,7 +5864,6 @@
 {"page":4,"change":"none","str":"the","dir":"ltr","width":"12.36","height":"11.80","transform":["6.87","0.00","0.00","11.80","523.80","35.04"],"fontName":"Courier","x":523.7999999999993,"y":35.03998999999992}
 {"page":4,"change":"none","str":"1247","dir":"ltr","width":"13.68","height":"8.60","transform":["5.70","0.00","0.00","8.60","501.00","20.46"],"fontName":"Courier","x":500.99999999999926,"y":20.459999999999923}
 {"page":4,"change":"none","str":"on March 12, 2021","dir":"ltr","width":"66.70","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","334.26"],"x":550,"y":334.26007}
-{"page":4,"change":"none","str":" ","dir":"ltr","width":"2.22","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","336.48"],"x":550,"y":336.48407}
 {"page":4,"change":"none","str":"http://science.sciencemag.org/","dir":"ltr","width":"108.05","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","444.53"],"x":550,"y":444.53191}
 {"page":4,"change":"none","str":"Downloaded from ","dir":"ltr","width":"64.91","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","509.44"],"x":550,"y":509.44374999999997}
 {"page":5,"change":"none","str":"status","dir":"ltr","width":"22.38","height":"11.30","transform":["6.22","0.00","0.00","11.30","37.56","750.90"],"fontName":"Courier","x":37.56,"y":750.9}
@@ -6783,7 +6778,6 @@
 {"page":5,"change":"none","str":"162","dir":"ltr","width":"9.78","height":"8.60","transform":["5.43","0.00","0.00","8.60","545.70","30.00"],"fontName":"Courier","x":545.7000000000005,"y":30.000000000000657}
 {"page":5,"change":"none","str":"1248","dir":"ltr","width":"13.20","height":"8.80","transform":["5.50","0.00","0.00","8.80","65.76","26.16"],"fontName":"Courier","x":65.7600000000005,"y":26.159990000000654}
 {"page":5,"change":"none","str":"on March 12, 2021","dir":"ltr","width":"66.70","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","334.26"],"x":550,"y":334.26007}
-{"page":5,"change":"none","str":" ","dir":"ltr","width":"2.22","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","336.48"],"x":550,"y":336.48407}
 {"page":5,"change":"none","str":"http://science.sciencemag.org/","dir":"ltr","width":"108.05","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","444.53"],"x":550,"y":444.53191}
 {"page":5,"change":"none","str":"Downloaded from ","dir":"ltr","width":"64.91","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","509.44"],"x":550,"y":509.44374999999997}
 {"page":6,"change":"none","str":"The Tragedy of the Commons","dir":"ltr","width":"141.13","height":"10.00","transform":["10.00","0.00","0.00","10.00","72.00","643.00"],"x":72,"y":643}
@@ -6810,6 +6804,5 @@
 {"page":6,"change":"none","str":"of Science. No claim to original U.S. Government Works.","dir":"ltr","width":"200.95","height":"8.00","transform":["8.00","0.00","0.00","8.00","72.00","72.00"],"x":72,"y":71.99997}
 {"page":6,"change":"none","str":"Copyright © 1968 The Authors, some rights reserved; exclusive licensee American Association for the Advancement","dir":"ltr","width":"411.39","height":"8.00","transform":["8.00","0.00","0.00","8.00","72.00","80.00"],"x":72,"y":79.99997}
 {"page":6,"change":"none","str":"on March 12, 2021","dir":"ltr","width":"66.70","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","334.26"],"x":550,"y":334.26007}
-{"page":6,"change":"none","str":" ","dir":"ltr","width":"2.22","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","336.48"],"x":550,"y":336.48407}
 {"page":6,"change":"none","str":"http://science.sciencemag.org/","dir":"ltr","width":"108.05","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","444.53"],"x":550,"y":444.53191}
 {"page":6,"change":"none","str":"Downloaded from ","dir":"ltr","width":"64.91","height":"8.00","transform":["0.00","-8.00","8.00","0.00","550.00","509.44"],"x":550,"y":509.44374999999997}
