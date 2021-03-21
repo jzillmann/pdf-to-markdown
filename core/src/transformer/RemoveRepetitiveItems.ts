@@ -6,7 +6,6 @@ import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
 import {
-  count,
   flatMap,
   groupByLine,
   groupByPage,
@@ -21,11 +20,12 @@ const config = {
   // Max number of lines at top/bottom (per page) which are getting evaluated for eviction
   maxNumberOffTopOrBottomLines: 3,
 
-  // Minumum number of times in percent that the y has to appear as fringe element in a page
-  minYOccurence: 0.6,
+  // From the absolute fringe elements (min/max y) how much y can item deviate before beeing disregarded. 
+  maxDistanceFromFringeElements:30,
 
-  // Max neighbour hops in both direction when checking for neighbour similarity
-  neighbourReach: 3,
+  // Max neighbour taken (in one direction) for detecting neighbour similarity.
+  // Choosen number might be more effectful for PDFs with a strong odd/evan page differernce.
+  neighbourReach: 2,
 
   minSimilarity: 0.8,
 };
@@ -45,33 +45,32 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
 
     const uniqueYs = flatMap(pageExtracts, (extract) => extract.fringeLines)
       .map((line) => line.y)
-      .filter(onlyUniques);
-    console.log(uniqueYs.sort((a, b) => a - b));
+      .filter(onlyUniques)
+      .sort((a, b) => a - b);
 
-    const numberOfPages = context.pageViewports.length;
+    // console.log('uniqueYs', uniqueYs);
 
     const yToRemove = uniqueYs.filter((y) => {
-      // First check how often an element occurs on the given 'y'.
-      // Repetetive elements tend to be on the same y all the time or half the time.
-      const pageOccurence = count(pageExtracts, (extraxt) => extraxt.hasY(y));
-
-      const simis = pageExtracts.map((extraxt, idx) => {
-        const line = extraxt.lineByY(y);
-        if (line) {
-          const neighbours = neighbourLines(pageExtracts, idx, y);
-          const similarities = neighbours.map((nLine) => calculateSimilarity(line, nLine));
-          return median(similarities);
-        }
-        return 0;
-      });
+      const yLines = pageExtracts
+        .map((page) => page.lineByY(y))
+        .filter((line) => typeof line !== 'undefined') as Line[];
+      const texts = yLines.map((line) => line.text());
+      const similarities = flatMap(yLines, (line, idx) =>
+        adiacentLines(yLines, idx).map((adiacentLine) => calculateSimilarity(line, adiacentLine)),
+      );
 
       // TODO more checks
+      // - exclude headlines (higher height, e.g art of speaking)
+      // - better odd/even handling (e.g war of worlds || dict)
       // - same x structure
       // - contain chapter highlights
       // - contains rising number
 
-      return pageOccurence >= numberOfPages * config.minYOccurence && median(simis) >= config.minSimilarity;
+      // console.log('y' + y, texts, similarities, median(similarities));
+      return median(similarities) >= config.minSimilarity;
     });
+
+    //console.log('yToRemove', yToRemove);
 
     return {
       items: transformGroupedByPageAndLine(inputItems, (_, __, items) =>
@@ -86,30 +85,25 @@ function calculateSimilarity(line1: Line, line2: Line): number {
   return compareTwoStrings(line1.textWithoutNumbers(), line2.textWithoutNumbers());
 }
 
-function neighbourLines(pages: PageExtract[], pageIndex: number, y: number): Line[] {
-  const neighbourLines: Line[] = [];
-
-  //Upstream
-  for (let index = pageIndex - 1; index > -1 && index >= pageIndex - config.neighbourReach; index--) {
-    const neighbourLine = pages[index].lineByY(y);
-    if (neighbourLine) {
-      neighbourLines.push(neighbourLine);
-    }
+function adiacentLines(lines: Line[], index: number): Line[] {
+  // Prefer to either collect x downstream OR x upstream neighbours (not a mix) in order to better catch odd/even page differences
+  let neighbours: Line[];
+  if (index + config.neighbourReach < lines.length) {
+    neighbours = lines.slice(index + 1, index + config.neighbourReach + 1);
+  } else if (index - config.neighbourReach >= 0) {
+    neighbours = lines.slice(index - config.neighbourReach - 1, index - 1);
+  } else {
+    neighbours = lines.filter((_, idx) => idx !== index);
   }
 
-  //Downstream
-  for (let index = pageIndex + 1; index < pages.length && index <= pageIndex + config.neighbourReach; index++) {
-    const neighbourLine = pages[index].lineByY(y);
-    if (neighbourLine) {
-      neighbourLines.push(neighbourLine);
-    }
-  }
-
-  return neighbourLines;
+  return neighbours;
 }
 
 function buildExtracts(inputItems: Item[]): PageExtract[] {
-  return groupByPage(inputItems).map((pageItems) => {
+  let bottomY = 999;
+  let topY = 0;
+
+  const pages = groupByPage(inputItems).map((pageItems) => {
     const lines = groupByLine(pageItems)
       .map((lineItems) => {
         const lineY = yFromLine(lineItems);
@@ -117,13 +111,36 @@ function buildExtracts(inputItems: Item[]): PageExtract[] {
       })
       .sort((a, b) => a.y - b.y);
 
-    const numberOfFringeElements = Math.min(lines.length, config.maxNumberOffTopOrBottomLines);
-    const topN = lines.slice(0, numberOfFringeElements);
-    const lastN = lines.slice(lines.length - numberOfFringeElements, lines.length);
+    // Keep globals up to date
+    if (lines[0].y < bottomY) {
+      bottomY = lines[0].y;
+    }
+    if (lines[lines.length - 1].y > topY) {
+      topY = lines[lines.length - 1].y;
+    }
 
-    const fringeLines = [...topN, ...lastN].filter(onlyUniques);
+    // keep top and bottom fringes
+    const numberOfFringeElements = Math.min(lines.length, config.maxNumberOffTopOrBottomLines);
+    const bottomN = lines.slice(0, numberOfFringeElements);
+    const topN = lines.slice(lines.length - numberOfFringeElements, lines.length);
+
+    const fringeLines = [...bottomN, ...topN].filter(onlyUniques);
     return new PageExtract(pageItems[0].page, fringeLines);
   });
+
+  // console.log('bottom', bottomY);
+  // console.log('top', topY);
+
+  //Now that we now the global top and bottom y, we cut those y which are in the middle and not really on the fringes
+  const maxTopDistance = config.maxDistanceFromFringeElements;
+  const maxBottomDistance = config.maxDistanceFromFringeElements;
+  return pages.map(
+    (page) =>
+      new PageExtract(
+        page.page,
+        page.fringeLines.filter((line) => line.y <= bottomY + maxBottomDistance || line.y >= topY - maxTopDistance),
+      ),
+  );
 }
 
 function yFromLine(lineItems: Item[]): number {
