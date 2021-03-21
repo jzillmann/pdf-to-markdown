@@ -1,8 +1,7 @@
 import ChangeTracker from 'src/debug/ChangeTracker';
 import { detectChanges } from 'src/debug/detectChanges';
 import { PositionChange, Direction, Addition, Removal } from 'src/debug/ChangeIndex';
-import { idItem, idItems, items } from 'test/testItems';
-import Item from 'src/Item';
+import { idItem, idItems } from 'test/testItems';
 
 test('No changes', async () => {
   const items = idItems(0, ['A', 'B', 'C']);

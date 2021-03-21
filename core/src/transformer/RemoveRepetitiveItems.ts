@@ -20,8 +20,8 @@ const config = {
   // Max number of lines at top/bottom (per page) which are getting evaluated for eviction
   maxNumberOffTopOrBottomLines: 3,
 
-  // From the absolute fringe elements (min/max y) how much y can item deviate before beeing disregarded. 
-  maxDistanceFromFringeElements:30,
+  // From the absolute fringe elements (min/max y) how much y can item deviate before beeing disregarded.
+  maxDistanceFromFringeElements: 30,
 
   // Max neighbour taken (in one direction) for detecting neighbour similarity.
   // Choosen number might be more effectful for PDFs with a strong odd/evan page differernce.
@@ -54,7 +54,7 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       const yLines = pageExtracts
         .map((page) => page.lineByY(y))
         .filter((line) => typeof line !== 'undefined') as Line[];
-      const texts = yLines.map((line) => line.text());
+
       const similarities = flatMap(yLines, (line, idx) =>
         adiacentLines(yLines, idx).map((adiacentLine) => calculateSimilarity(line, adiacentLine)),
       );
@@ -66,6 +66,7 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       // - contain chapter highlights
       // - contains rising number
 
+      // const texts = yLines.map((line) => line.text());
       // console.log('y' + y, texts, similarities, median(similarities));
       return median(similarities) >= config.minSimilarity;
     });

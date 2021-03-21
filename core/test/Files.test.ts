@@ -2,7 +2,6 @@ import { toMatchFile } from 'jest-file-snapshot';
 
 import * as pdfjs from 'pdfjs-dist/es5/build/pdf';
 import * as fs from 'fs';
-import * as path from 'path';
 
 import PdfParser from 'src/PdfParser';
 import PdfPipeline from 'src/PdfPipeline';

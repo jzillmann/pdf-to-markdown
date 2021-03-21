@@ -92,7 +92,6 @@ function expectTotalProgress(progress: Progress, expected: number) {
 
 function expectStageInProgress(progress: Progress, stageIndex: number) {
   for (let index = 0; index < progress.stageProgress.length; index++) {
-    const stageProgress = progress.stageProgress[index];
     if (index < stageIndex) {
       expect(progress.isProgressing(index)).toBe(false);
       expect(progress.isComplete(index)).toBe(true);
