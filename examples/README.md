@@ -1,10 +1,21 @@
-These PDFs are used in the parsers's test suite.
+# Test PDFs
 
-Self-generated files are:
+This folder contains PDFs for testing purposes and the parse results of the PDFs. Generally there are 3 types of PDFs test setups:
+
+1. Self generated PDFs
+2. PDFs which entered `public domain` or have a otherwise permissive license like `Creative Commons SA`
+3. PDFs where the license is unclear
+
+For (1) and (2) we track the end-result and all transformation steps.
+For (3) we only track the resulst of some transfomation stages (those who doesn't leak too much of the content)
+
+## Self-generated PDFs
 
 - [ExamplePdf](ExamplePdf.pdf)
 
-All other PDFs are either entered `public domain` or have a otherwise permissive license like `Creative Commons SA`.
+## Included Public PDFs
+
+_(PDFs which entered `public domain` or have a otherwise permissive license like `Creative Commons SA`)_
 
 | File                                                               | Source                                | Author                                           | License Information       |
 | ------------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------ | ------------------------- |
@@ -21,3 +32,15 @@ All other PDFs are either entered `public domain` or have a otherwise permissive
 | [The-War-of-the-Worlds](The-War-of-the-Worlds.pdf)                 | http://www.planetpdf.com/             | H.G Wells                                        | Public Domain             |
 | [Tragedy-Of-The-Commons](Tragedy-Of-The-Commons.pdf)               | https://science.sciencemag.org        | Garrett Hardin                                   | Public Domain             |
 | [WoodUp](WoodUp.pdf)                                               | https://bupress.unibz.it/             | Freie Universität Bozen-Bolzano / Giustino Tonon | Creative Commons BY 4.0   |
+
+## PDFs not stored but paritally tested
+
+- https://homepages.cwi.nl/~lex/files/dict.pdf
+
+# Known transformatino problems
+
+_Tracks known problems with parsing and transforming certain PDFs ._
+
+- `Remove Repetitive Elements`
+  - https://homepages.cwi.nl/~lex/files/dict.pdf
+    - Nothing gets detected cause the page-number line contains the current chapter

@@ -39,14 +39,14 @@ describe('Transform Items', () => {
     const debug = new Debugger(1, parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
 
     expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
-    expect(debug.stageResults(0).schema).toEqual(parsedSchema.map((column) => ({ name: column })));
-    expect(debug.stageResults(1).schema).toEqual([
+    expect(debug.stageResult(0).schema).toEqual(parsedSchema.map((column) => ({ name: column })));
+    expect(debug.stageResult(1).schema).toEqual([
       ...parsedSchema.map((column) => ({ name: column, annotation: ColumnAnnotation.REMOVED })),
       { name: 'C', annotation: ColumnAnnotation.ADDED },
     ]);
 
-    expect(debug.stageResults(0).itemsUnpacked()).toEqual(parsedItems);
-    expect(debug.stageResults(1).itemsUnpacked()).toEqual(trans1Items);
+    expect(debug.stageResult(0).itemsUnpacked()).toEqual(parsedItems);
+    expect(debug.stageResult(1).itemsUnpacked()).toEqual(trans1Items);
   });
 
   test('Line Merge', async () => {
@@ -65,17 +65,17 @@ describe('Transform Items', () => {
     const debug = new Debugger(1, parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
 
     expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
-    expect(debug.stageResults(0).schema).toEqual([{ name: 'id' }, { name: 'y' }]);
-    expect(debug.stageResults(1).schema).toEqual([
+    expect(debug.stageResult(0).schema).toEqual([{ name: 'id' }, { name: 'y' }]);
+    expect(debug.stageResult(1).schema).toEqual([
       { name: 'id' },
       { name: 'y', annotation: ColumnAnnotation.REMOVED },
       { name: 'line', annotation: ColumnAnnotation.ADDED },
     ]);
 
-    expect(debug.stageResults(0).itemsUnpacked()).toEqual(parsedItems);
-    expect(debug.stageResults(1).itemsUnpacked()).toEqual(trans1Items);
+    expect(debug.stageResult(0).itemsUnpacked()).toEqual(parsedItems);
+    expect(debug.stageResult(1).itemsUnpacked()).toEqual(trans1Items);
 
-    const lineMergingStage = debug.stageResults(1);
+    const lineMergingStage = debug.stageResult(1);
     const { changes, pages } = lineMergingStage;
 
     //verify item groups
@@ -103,12 +103,12 @@ test('Change inside of Line', async () => {
   const debug = new Debugger(1, parsedSchema, parsedItems, { fontMap: new Map(), pageViewports: [] }, transformers);
 
   expect(debug.stageNames).toEqual(['Parse Result', 'Trans1']);
-  expect(debug.stageResults(0).schema).toEqual([{ name: 'id' }, { name: 'line' }]);
-  expect(debug.stageResults(1).schema).toEqual([{ name: 'id' }, { name: 'line' }]);
-  expect(debug.stageResults(0).itemsUnpacked()).toEqual(parsedItems);
-  expect(debug.stageResults(1).itemsUnpacked()).toEqual(trans1Items);
+  expect(debug.stageResult(0).schema).toEqual([{ name: 'id' }, { name: 'line' }]);
+  expect(debug.stageResult(1).schema).toEqual([{ name: 'id' }, { name: 'line' }]);
+  expect(debug.stageResult(0).itemsUnpacked()).toEqual(parsedItems);
+  expect(debug.stageResult(1).itemsUnpacked()).toEqual(trans1Items);
 
-  const { changes, pages } = debug.stageResults(1);
+  const { changes, pages } = debug.stageResult(1);
 
   //verify item groups
   expect(pages[0].itemGroups.map((itemGroup) => changes.hasChanged(itemGroup.top))).toEqual([true, false]);
@@ -116,7 +116,7 @@ test('Change inside of Line', async () => {
   //verify unpacked items
   expect(
     debug
-      .stageResults(1)
+      .stageResult(1)
       .itemsUnpacked()
       .map((item) => changes.hasChanged(item)),
   ).toEqual([true, true, false, false]);
@@ -135,7 +135,7 @@ describe('build schemas', () => {
   function calculateSchema(inputSchema: string[], outputSchema: string[]): AnnotatedColumn[] {
     const transformers = [new TestTransformer('Trans1', {}, outputSchema, items)];
     const debug = new Debugger(1, inputSchema, items, { fontMap: new Map(), pageViewports: [] }, transformers);
-    return debug.stageResults(1).schema;
+    return debug.stageResult(1).schema;
   }
 
   test('Add', async () => {

@@ -33,7 +33,7 @@ export default class Debugger {
     this.stageResultCache = [initialStage(inputSchema, inputItems)];
   }
 
-  stageResults(stageIndex: number): StageResult {
+  stageResult(stageIndex: number): StageResult {
     for (let idx = 0; idx < stageIndex + 1; idx++) {
       if (!this.stageResultCache[idx]) {
         const transformer = this.transformers[idx - 1];

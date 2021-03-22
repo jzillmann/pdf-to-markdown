@@ -18,7 +18,7 @@
     let groupingEnabled = true;
     let onlyRelevantItems = true;
 
-    $: stageResult = debug.stageResults($debugStage);
+    $: stageResult = debug.stageResult($debugStage);
     $: supportsGrouping = !!stageResult.descriptor?.debug?.itemMerger;
     $: supportsRelevanceFiltering = !stageResult.descriptor?.debug?.showAll;
     $: visiblePages = pageControl.selectPages(stageResult, onlyRelevantItems, groupingEnabled, $pinnedPageIndex);
