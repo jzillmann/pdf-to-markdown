@@ -83,7 +83,6 @@ function matchFilePath(pdfFileName: string, transformerName: string, chunkCount 
 describe('Remove repetitive items from online resources', () => {
   const transformerName = new RemoveRepetitiveItems().name;
   test.each(urls)('URL %p', async (url) => {
-    console.log(url);
     const { fileName, data } = download(url);
     const debug = await pipeline.debug(data, () => {});
     const stageResult = debug.stageResult(debug.stageNames.indexOf(transformerName));
@@ -103,7 +102,6 @@ describe('Remove repetitive items from online resources', () => {
       }),
     );
 
-    console.log(lines);
     const transformerResultAsString = lines.join('\n') || '{}';
     expect(transformerResultAsString).toMatchFile(matchFilePath(fileName, transformerName));
   });
@@ -156,7 +154,6 @@ function itemToString(fontMap: Map<string, object>, item: Item, changeType: stri
 function download(url: string): { fileName: string; data: Buffer } {
   const fileName = path.basename(new URL(url).pathname);
   const localFilePath = `${downloadCache}/${fileName}`;
-  console.log(localFilePath);
   if (!fs.existsSync(localFilePath)) {
     fs.mkdirSync(downloadCache, { recursive: true });
     downloadToFile(url, localFilePath);

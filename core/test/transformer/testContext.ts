@@ -1,8 +1,5 @@
-import type TransformContext from "src/transformer/TransformContext";
+import TransformContext from 'src/transformer/TransformContext';
 
-export function emptyContext():TransformContext{
-    return {
-        fontMap:new Map(),
-        pageViewports:[]
-    };
+export function emptyContext(): TransformContext {
+  return new TransformContext(new Map(), []);
 }

@@ -1,4 +1,5 @@
 import LineItemMerger from 'src/debug/LineItemMerger';
+import EvaluationTracker from 'src/transformer/EvaluationTracker';
 import ChangeTracker from 'src/debug/ChangeTracker';
 import Item from 'src/Item';
 import { items, realisticItems } from '../testItems';
@@ -6,10 +7,12 @@ import { Addition, ContentChange } from 'src/debug/ChangeIndex';
 
 test('Basics', async () => {
   const itemMerger = new LineItemMerger();
-  const tracker = new ChangeTracker();
+  const evaluationTracker = new EvaluationTracker();
+  const changeTracker = new ChangeTracker();
   expect(itemMerger.groupKey).toEqual('line');
   const mergedItem = itemMerger.merge(
-    tracker,
+    evaluationTracker,
+    changeTracker,
     items(0, [
       {
         line: 2,
@@ -59,19 +62,34 @@ test('Basics', async () => {
 
 test('Track all lines as changes', async () => {
   const itemMerger = new LineItemMerger(true);
-  const tracker = new ChangeTracker();
-  const mergedItem = itemMerger.merge(tracker, realisticItems(0, [{ line: 1 }, { line: 1 }]));
-  expect(tracker.change(mergedItem)).toEqual(new Addition());
+  const evaluationTracker = new EvaluationTracker();
+  const changeTracker = new ChangeTracker();
+  const mergedItem = itemMerger.merge(evaluationTracker, changeTracker, realisticItems(0, [{ line: 1 }, { line: 1 }]));
+  expect(changeTracker.change(mergedItem)).toEqual(new Addition());
+});
+
+test('Mark lines containing evaluated items as evaluated', async () => {
+  const itemMerger = new LineItemMerger();
+  const evaluationTracker = new EvaluationTracker();
+  const changeTracker = new ChangeTracker();
+  const items1 = realisticItems(0, [{ line: 1 }, { line: 1 }]);
+  const items2 = realisticItems(0, [{ line: 2 }, { line: 2 }]);
+  evaluationTracker.trackEvaluation(items1[1]);
+  const mergedItem1 = itemMerger.merge(evaluationTracker, changeTracker, items1);
+  const mergedItem2 = itemMerger.merge(evaluationTracker, changeTracker, items2);
+  expect(evaluationTracker.evaluated(mergedItem1)).toBeTruthy();
+  expect(evaluationTracker.evaluated(mergedItem2)).toBeFalsy();
 });
 
 test('Mark lines containing changed items as changed', async () => {
   const itemMerger = new LineItemMerger();
-  const tracker = new ChangeTracker();
+  const evaluationTracker = new EvaluationTracker();
+  const changeTracker = new ChangeTracker();
   const items1 = realisticItems(0, [{ line: 1 }, { line: 1 }]);
   const items2 = realisticItems(0, [{ line: 2 }, { line: 2 }]);
-  tracker.trackPositionalChange(items1[1], 1, 0);
-  const mergedItem1 = itemMerger.merge(tracker, items1);
-  const mergedItem2 = itemMerger.merge(tracker, items2);
-  expect(tracker.change(mergedItem1)).toEqual(new ContentChange());
-  expect(tracker.change(mergedItem2)).toEqual(undefined);
+  changeTracker.trackPositionalChange(items1[1], 1, 0);
+  const mergedItem1 = itemMerger.merge(evaluationTracker, changeTracker, items1);
+  const mergedItem2 = itemMerger.merge(evaluationTracker, changeTracker, items2);
+  expect(changeTracker.change(mergedItem1)).toEqual(new ContentChange());
+  expect(changeTracker.change(mergedItem2)).toEqual(undefined);
 });

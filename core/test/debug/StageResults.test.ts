@@ -1,5 +1,6 @@
 import StageResult from 'src/debug/StageResult';
 import { toDescriptor } from 'src/TransformDescriptor';
+import EvaluationTracker from 'src/transformer/EvaluationTracker';
 import ChangeTracker from 'src/debug/ChangeTracker';
 import AnnotatedColumn from 'src/debug/AnnotatedColumn';
 import Page, { asPages } from 'src/debug/Page';
@@ -7,7 +8,8 @@ import { items } from '../testItems';
 import LineItemMerger from 'src/debug/LineItemMerger';
 
 test('itemsUnpacked', async () => {
-  const tracker = new ChangeTracker();
+  const evaluationTracker = new EvaluationTracker();
+  const changeTracker = new ChangeTracker();
   const itemMerger = new LineItemMerger(false);
   const descriptor = toDescriptor({ debug: { itemMerger } });
   const schema: AnnotatedColumn[] = [{ name: 'A' }];
@@ -23,15 +25,16 @@ test('itemsUnpacked', async () => {
       { idx: 5, line: 1 },
     ]),
   ];
-  const pages = asPages(tracker, flatItems, itemMerger);
-  const result = new StageResult(descriptor, schema, pages, tracker, []);
+  const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+  const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
   expect(result.itemsUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
   expect(result.itemsCleanedAndUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
 });
 
 test('itemsCleanedAndUnpacked', async () => {
-  const tracker = new ChangeTracker();
+  const evaluationTracker = new EvaluationTracker();
+  const changeTracker = new ChangeTracker();
   const itemMerger = new LineItemMerger(false);
   const descriptor = toDescriptor({ debug: { itemMerger } });
   const schema: AnnotatedColumn[] = [{ name: 'A' }];
@@ -47,10 +50,10 @@ test('itemsCleanedAndUnpacked', async () => {
       { idx: 5, line: 1 },
     ]),
   ];
-  const pages = asPages(tracker, flatItems, itemMerger);
-  tracker.trackRemoval(flatItems[1]);
-  tracker.trackRemoval(flatItems[4]);
-  const result = new StageResult(descriptor, schema, pages, tracker, []);
+  const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+  changeTracker.trackRemoval(flatItems[1]);
+  changeTracker.trackRemoval(flatItems[4]);
+  const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
   expect(result.itemsUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
   expect(result.itemsCleanedAndUnpacked().map((item) => item.data['idx'])).toEqual([0, 2, 3, 5]);
@@ -60,8 +63,49 @@ describe('select pages', () => {
   function groupElements(page: Page, elementName: string) {
     return page.itemGroups.map((group) => group.unpacked().map((item) => item.data['idx']));
   }
+
+  test('Evaluation+Changes', async () => {
+    const evaluationTracker = new EvaluationTracker();
+    const changeTracker = new ChangeTracker();
+    const itemMerger = new LineItemMerger(false);
+    const descriptor = toDescriptor({ debug: { itemMerger } });
+    const schema: AnnotatedColumn[] = [{ name: 'A' }];
+    const flatItems = items(0, [
+      { idx: 0, line: 1 }, // nada
+      { idx: 1, line: 2 }, // eval
+      { idx: 2, line: 3 }, // eval + change
+      { idx: 3, line: 4 }, // eval
+      { idx: 4, line: 4 }, // change
+      { idx: 5, line: 4 },
+    ]);
+    evaluationTracker.trackEvaluation(flatItems[1]);
+    evaluationTracker.trackEvaluation(flatItems[2]);
+    evaluationTracker.trackEvaluation(flatItems[3]);
+    changeTracker.trackAddition(flatItems[2]);
+    changeTracker.trackAddition(flatItems[4]);
+    const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
+
+    const allGrouped = result.selectPages(false, true);
+    expect(allGrouped.map((page) => page.index)).toEqual([0]);
+    expect(groupElements(allGrouped[0], 'idx')).toEqual([[0], [1], [2], [3, 4, 5]]);
+
+    const relevantGrouped = result.selectPages(true, true);
+    expect(relevantGrouped.map((page) => page.index)).toEqual([0]);
+    expect(groupElements(relevantGrouped[0], 'idx')).toEqual([[1], [2], [3, 4, 5]]);
+
+    const relevantUnpacked = result.selectPages(true, false);
+    expect(relevantUnpacked.map((page) => page.index)).toEqual([0]);
+    expect(groupElements(relevantUnpacked[0], 'idx')).toEqual([[1], [2], [3], [4]]);
+
+    const allUnpacked = result.selectPages(false, false);
+    expect(allUnpacked.map((page) => page.index)).toEqual([0]);
+    expect(groupElements(allUnpacked[0], 'idx')).toEqual([[0], [1], [2], [3], [4], [5]]);
+  });
+
   test('Changes on group level', async () => {
-    const tracker = new ChangeTracker();
+    const evaluationTracker = new EvaluationTracker();
+    const changeTracker = new ChangeTracker();
     const itemMerger = new LineItemMerger(true);
     const descriptor = toDescriptor({ debug: { itemMerger } });
     const schema: AnnotatedColumn[] = [{ name: 'A' }];
@@ -77,8 +121,8 @@ describe('select pages', () => {
         { idx: 5, line: 1 },
       ]),
     ];
-    const pages = asPages(tracker, flatItems, itemMerger);
-    const result = new StageResult(descriptor, schema, pages, tracker, []);
+    const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const allGrouped = result.selectPages(false, true);
     expect(allGrouped.map((page) => page.index)).toEqual([0, 1, 2]);
@@ -106,7 +150,8 @@ describe('select pages', () => {
   });
 
   test('Changes on element level', async () => {
-    const tracker = new ChangeTracker();
+    const evaluationTracker = new EvaluationTracker();
+    const changeTracker = new ChangeTracker();
     const itemMerger = new LineItemMerger(false);
     const descriptor = toDescriptor({ debug: { itemMerger } });
     const schema: AnnotatedColumn[] = [{ name: 'A' }];
@@ -123,10 +168,10 @@ describe('select pages', () => {
         { idx: 6, line: 2 },
       ]),
     ];
-    tracker.trackAddition(flatItems[3]);
-    tracker.trackAddition(flatItems[5]);
-    const pages = asPages(tracker, flatItems, itemMerger);
-    const result = new StageResult(descriptor, schema, pages, tracker, []);
+    changeTracker.trackAddition(flatItems[3]);
+    changeTracker.trackAddition(flatItems[5]);
+    const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const allGrouped = result.selectPages(false, true);
     expect(allGrouped.map((page) => page.index)).toEqual([0, 1, 2]);
@@ -153,8 +198,9 @@ describe('select pages', () => {
     expect(groupElements(allUnpacked[2], 'idx')).toEqual([[4], [5], [6]]);
   });
 
-  test('showAll - grouped', async () => {
-    const tracker = new ChangeTracker();
+  test('showAll - grouped - merger', async () => {
+    const evaluationTracker = new EvaluationTracker();
+    const changeTracker = new ChangeTracker();
     const itemMerger = new LineItemMerger(false);
     const descriptor = toDescriptor({ debug: { itemMerger, showAll: true } });
     const schema: AnnotatedColumn[] = [{ name: 'A' }];
@@ -170,8 +216,8 @@ describe('select pages', () => {
         { idx: 5, line: 1 },
       ]),
     ];
-    const pages = asPages(tracker, flatItems, itemMerger);
-    const result = new StageResult(descriptor, schema, pages, tracker, []);
+    const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const relevantGrouped = result.selectPages(true, true);
     expect(relevantGrouped.map((page) => page.index)).toEqual([0, 1, 2]);
@@ -180,8 +226,9 @@ describe('select pages', () => {
     expect(groupElements(relevantGrouped[2], 'idx')).toEqual([[4, 5]]);
   });
 
-  test('showAll - grouped', async () => {
-    const tracker = new ChangeTracker();
+  test('showAll - grouped - no merger', async () => {
+    const evaluationTracker = new EvaluationTracker();
+    const changeTracker = new ChangeTracker();
     const descriptor = toDescriptor({ debug: { showAll: true } });
     const schema: AnnotatedColumn[] = [{ name: 'A' }];
     const flatItems = [
@@ -189,8 +236,8 @@ describe('select pages', () => {
       ...items(1, [{ idx: 3 }]),
       ...items(2, [{ idx: 4 }, { idx: 5 }]),
     ];
-    const pages = asPages(tracker, flatItems);
-    const result = new StageResult(descriptor, schema, pages, tracker, []);
+    const pages = asPages(evaluationTracker, changeTracker, flatItems);
+    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const relevantGrouped = result.selectPages(true, true);
     expect(relevantGrouped.map((page) => page.index)).toEqual([0, 1, 2]);
