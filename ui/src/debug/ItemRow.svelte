@@ -46,7 +46,7 @@
     {:else}
         <td id="page" />
     {/if}
-    <td class="align-middle">
+    <td class="align-baseline">
         <ChangeSymbol {evaluations} {changes} item={itemGroup.top} />
     </td>
     <span class="contents" on:click={() => itemGroup.hasMany() && toggleRow(pageIdx, itemIdx)}>
