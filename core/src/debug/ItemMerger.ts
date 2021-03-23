@@ -1,3 +1,4 @@
+import type EvaluationTracker from '../transformer/EvaluationTracker';
 import type ChangeTracker from './ChangeTracker';
 import type Item from '../Item';
 
@@ -6,5 +7,5 @@ import type Item from '../Item';
  */
 export default abstract class ItemMerger {
   constructor(public groupKey: string) {}
-  abstract merge(tracker: ChangeTracker, items: Item[]): Item;
+  abstract merge(evaluationTracker: EvaluationTracker, changeTracker: ChangeTracker, items: Item[]): Item;
 }

@@ -49,7 +49,12 @@
 
     <!-- Items -->
     {#if visiblePages.find((page) => page.itemGroups.length > 0)}
-        <ItemTable schema={stageResult.schema} pages={visiblePages} {pageControl} changes={stageResult.changes} />
+        <ItemTable
+            schema={stageResult.schema}
+            pages={visiblePages}
+            {pageControl}
+            evaluations={stageResult.evaluations}
+            changes={stageResult.changes} />
     {:else}
         <!-- No items visible -->
         <div class="flex mt-8">

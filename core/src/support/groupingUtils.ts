@@ -8,6 +8,10 @@ export function onlyUniques<T>(value: T, index: number, self: T[]) {
   return self.indexOf(value) === index;
 }
 
+export function ascending<T>(a: number, b: number): number {
+  return a - b;
+}
+
 export function count<T, S>(array: T[], find: (entry: T) => boolean): number {
   return array.reduce((count, entry) => (find(entry) ? count + 1 : count), 0);
 }

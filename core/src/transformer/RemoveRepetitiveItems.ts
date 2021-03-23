@@ -6,6 +6,7 @@ import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
 import {
+  ascending,
   flatMap,
   groupByLine,
   groupByPage,
@@ -43,14 +44,14 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
   transform(context: TransformContext, inputItems: Item[]): ItemResult {
     const pageExtracts = buildExtracts(inputItems);
 
-    const uniqueYs = flatMap(pageExtracts, (extract) => extract.fringeLines)
+    const fringeYs = flatMap(pageExtracts, (extract) => extract.fringeLines)
       .map((line) => line.y)
       .filter(onlyUniques)
-      .sort((a, b) => a - b);
+      .sort(ascending);
 
     // console.log('uniqueYs', uniqueYs);
 
-    const yToRemove = uniqueYs.filter((y) => {
+    const yToRemove = fringeYs.filter((y) => {
       const yLines = pageExtracts
         .map((page) => page.lineByY(y))
         .filter((line) => typeof line !== 'undefined') as Line[];
@@ -73,11 +74,20 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
 
     //console.log('yToRemove', yToRemove);
 
+    let removalCount = 0;
     return {
-      items: transformGroupedByPageAndLine(inputItems, (_, __, items) =>
-        yToRemove.includes(yFromLine(items)) ? [] : items,
-      ),
-      messages: [`Filtered out each item with y == ${yToRemove.join('||')}`],
+      items: transformGroupedByPageAndLine(inputItems, (_, __, lineItems) => {
+        const itemsY = yFromLine(lineItems);
+        if (fringeYs.includes(itemsY)) {
+          lineItems.forEach(context.trackEvaluation.bind(context));
+        }
+        if (yToRemove.includes(itemsY)) {
+          removalCount++;
+          return [];
+        }
+        return lineItems;
+      }),
+      messages: [`Filtered out ${removalCount} items with y == ${yToRemove.join('||')}`],
     };
   }
 }
@@ -166,14 +176,14 @@ class Line {
 
   constructor(public y: number, public items: Item[]) {}
 
-  text() {
+  text(): string {
     if (!this._text) {
       this._text = this.items.reduce((all, item) => all + item.data['str'], '');
     }
     return this._text;
   }
 
-  textWithoutNumbers() {
+  textWithoutNumbers(): string {
     if (!this._textWithoutNumbers) {
       this._textWithoutNumbers = filterOutDigits(this.text());
     }

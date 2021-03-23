@@ -5,12 +5,15 @@ import Page, { asPages } from './Page';
 import ChangeIndex from './ChangeIndex';
 import ChangeTracker from './ChangeTracker';
 import ItemGroup from './ItemGroup';
+import EvaluationIndex from '../transformer/EvaluationIndex';
+import EvaluationTracker from '../transformer/EvaluationTracker';
 
 export default class StageResult {
   constructor(
     public descriptor: TransformDescriptor,
     public schema: AnnotatedColumn[],
     public pages: Page[],
+    public evaluations: EvaluationIndex,
     public changes: ChangeIndex,
     public messages: string[],
   ) {}
@@ -50,7 +53,9 @@ export default class StageResult {
         (page) =>
           ({
             ...page,
-            itemGroups: page.itemGroups.filter((itemGroup) => this.changes.hasChanged(itemGroup.top)),
+            itemGroups: page.itemGroups.filter(
+              (itemGroup) => this.evaluations.evaluated(itemGroup.top) || this.changes.hasChanged(itemGroup.top),
+            ),
           } as Page),
       );
     }
@@ -73,12 +78,13 @@ export default class StageResult {
 
 export function initialStage(inputSchema: string[], inputItems: Item[]): StageResult {
   const schema = inputSchema.map((column) => ({ name: column }));
-  const tracker = new ChangeTracker();
-  const pages = asPages(tracker, inputItems);
+  const evaluations = new EvaluationTracker();
+  const changes = new ChangeTracker();
+  const pages = asPages(evaluations, changes, inputItems);
   const messages = [
     `Parsed ${inputItems.length === 0 ? 0 : inputItems[inputItems.length - 1].page + 1} pages with ${
       inputItems.length
     } items`,
   ];
-  return new StageResult(toDescriptor({ debug: { showAll: true } }), schema, pages, tracker, messages);
+  return new StageResult(toDescriptor({ debug: { showAll: true } }), schema, pages, evaluations, changes, messages);
 }

@@ -5,6 +5,7 @@ import ItemTransformer from './transformer/ItemTransformer';
 import ParseResult from './ParseResult';
 import Debugger from './Debugger';
 import { assert } from './assert';
+import TransformContext from './transformer/TransformContext';
 
 export default class PdfPipeline {
   parser: PdfParser;
@@ -27,9 +28,9 @@ export default class PdfPipeline {
   async execute(src: string | Uint8Array | object, progressListener: ProgressListenFunction): Promise<ParseResult> {
     const parseResult = await this.parse(src, progressListener);
     this.verifyRequiredColumns(parseResult.schema, this.transformers);
-    const context = { fontMap: parseResult.fontMap, pageViewports: parseResult.pageViewports };
     let items = parseResult.items;
     this.transformers.forEach((transformer) => {
+      const context = new TransformContext(parseResult.fontMap, parseResult.pageViewports);
       items = transformer.transform(context, items).items;
     });
     parseResult.items = items;
@@ -38,8 +39,14 @@ export default class PdfPipeline {
 
   async debug(src: string | Uint8Array | object, progressListener: ProgressListenFunction): Promise<Debugger> {
     const parseResult = await this.parse(src, progressListener);
-    const context = { fontMap: parseResult.fontMap, pageViewports: parseResult.pageViewports };
-    return new Debugger(parseResult.pageCount, parseResult.schema, parseResult.items, context, this.transformers);
+    return new Debugger(
+      parseResult.fontMap,
+      parseResult.pageViewports,
+      parseResult.pageCount,
+      parseResult.schema,
+      parseResult.items,
+      this.transformers,
+    );
   }
 
   /**

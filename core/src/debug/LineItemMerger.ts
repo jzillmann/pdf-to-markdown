@@ -1,5 +1,6 @@
 import ItemMerger from './ItemMerger';
 import Item from '../Item';
+import EvaluationTracker from '../transformer/EvaluationTracker';
 import ChangeTracker from './ChangeTracker';
 
 export default class LineItemMerger extends ItemMerger {
@@ -7,7 +8,7 @@ export default class LineItemMerger extends ItemMerger {
     super('line');
   }
 
-  merge(tracker: ChangeTracker, items: Item[]): Item {
+  merge(evaluationTracker: EvaluationTracker, changeTracker: ChangeTracker, items: Item[]): Item {
     const page = items[0].page;
     const line = items[0].data['line'];
     const str = items.map((item) => item.data['str']).join(' ');
@@ -28,12 +29,14 @@ export default class LineItemMerger extends ItemMerger {
       dir: directions,
     });
 
+    if (items.find((item) => evaluationTracker.evaluated(item))) evaluationTracker.trackEvaluation(newItem);
+
     if (this.trackAsNew) {
-      tracker.trackAddition(newItem);
-    } else if (items.every((item) => tracker.isRemoved(item))) {
-      tracker.trackRemoval(newItem);
-    } else if (items.find((item) => tracker.hasChanged(item))) {
-      tracker.trackContentChange(newItem);
+      changeTracker.trackAddition(newItem);
+    } else if (items.every((item) => changeTracker.isRemoved(item))) {
+      changeTracker.trackRemoval(newItem);
+    } else if (items.find((item) => changeTracker.hasChanged(item))) {
+      changeTracker.trackContentChange(newItem);
     }
     return newItem;
   }

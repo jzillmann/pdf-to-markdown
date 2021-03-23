@@ -4,6 +4,7 @@
     import { PresentationChartLine } from 'svelte-hero-icons';
 
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
+    import type EvaluationIndex from '@core/transformer/EvaluationIndex';
     import type ChangeIndex from '@core/debug/ChangeIndex';
     import type Page from '@core/debug/Page';
     import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';
@@ -15,6 +16,7 @@
     export let schema: AnnotatedColumn[];
     export let pages: Page[];
     export let pageControl: PageControl;
+    export let evaluations: EvaluationIndex;
     export let changes: ChangeIndex;
 
     let { pagePinned } = pageControl;
@@ -80,7 +82,7 @@
 
             <!-- Page items -->
             {#each page.itemGroups as itemGroup, itemIdx}
-                <ItemRow pageIdx={page.index} {itemIdx} {schema} {itemGroup} {changes} {pageControl} />
+                <ItemRow pageIdx={page.index} {itemIdx} {schema} {itemGroup} {evaluations} {changes} {pageControl} />
             {/each}
         {/each}
     </tbody>

@@ -6,28 +6,25 @@ import ColumnAnnotation from './debug/ColumnAnnotation';
 import AnnotatedColumn from './debug/AnnotatedColumn';
 import { detectChanges } from './debug/detectChanges';
 import { asPages } from './debug/Page';
+import EvaluationTracker from './transformer/EvaluationTracker';
 import ChangeTracker from './debug/ChangeTracker';
+import PageViewport from './parse/PageViewport';
 
 export default class Debugger {
-  private context: TransformContext;
   private transformers: ItemTransformer[];
   private stageResultCache: StageResult[];
-  pageCount: number;
-  fontMap: Map<string, object>;
   stageNames: string[];
   stageDescriptions: string[];
 
   constructor(
-    pageCount: number,
+    public fontMap: Map<string, object>,
+    private pageViewports: PageViewport[],
+    public pageCount: number,
     inputSchema: string[],
     inputItems: Item[],
-    context: TransformContext,
     transformers: ItemTransformer[],
   ) {
     this.transformers = transformers;
-    this.context = context;
-    this.fontMap = context.fontMap;
-    this.pageCount = pageCount;
     this.stageNames = ['Parse Result', ...transformers.map((t) => t.name)];
     this.stageDescriptions = ['Initial items as parsed by PDFjs', ...transformers.map((t) => t.description)];
     this.stageResultCache = [initialStage(inputSchema, inputItems)];
@@ -36,19 +33,21 @@ export default class Debugger {
   stageResult(stageIndex: number): StageResult {
     for (let idx = 0; idx < stageIndex + 1; idx++) {
       if (!this.stageResultCache[idx]) {
+        const evaluations = new EvaluationTracker();
+        const context = new TransformContext(this.fontMap, this.pageViewports, evaluations);
         const transformer = this.transformers[idx - 1];
         const previousStageResult: StageResult = this.stageResultCache[idx - 1];
         const previousItems = previousStageResult.itemsCleanedAndUnpacked();
         const inputSchema = toSimpleSchema(previousStageResult);
         const outputSchema = transformer.schemaTransformer(inputSchema);
-        const itemResult = transformer.transform(this.context, [...previousItems]);
+        const itemResult = transformer.transform(context, [...previousItems]);
 
-        const changeTracker = new ChangeTracker();
-        const items = detectChanges(changeTracker, previousItems, itemResult.items);
-        const pages = asPages(changeTracker, items, transformer.descriptor.debug?.itemMerger);
+        const changes = new ChangeTracker();
+        const items = detectChanges(changes, previousItems, itemResult.items);
+        const pages = asPages(evaluations, changes, items, transformer.descriptor.debug?.itemMerger);
         const messages = itemResult.messages;
-        if (changeTracker.changeCount() > 0 && messages.length === 0) {
-          messages.unshift(`Detected ${changeTracker.changeCount()} changes`);
+        if (changes.changeCount() > 0 && messages.length === 0) {
+          messages.unshift(`Detected ${changes.changeCount()} changes`);
         }
 
         this.stageResultCache.push(
@@ -56,7 +55,8 @@ export default class Debugger {
             transformer.descriptor,
             toAnnotatedSchema(inputSchema, outputSchema),
             pages,
-            changeTracker,
+            evaluations,
+            changes,
             messages,
           ),
         );

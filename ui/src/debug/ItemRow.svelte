@@ -4,6 +4,7 @@
     import { ArrowLeft, ArrowRight } from 'svelte-hero-icons';
 
     import type ItemGroup from '@core/debug/ItemGroup';
+    import type EvaluationIndex from '@core/transformer/EvaluationIndex';
     import type ChangeIndex from '@core/debug/ChangeIndex';
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
 
@@ -17,6 +18,7 @@
     export let itemIdx: number;
     export let schema: AnnotatedColumn[];
     export let itemGroup: ItemGroup;
+    export let evaluations: EvaluationIndex;
     export let changes: ChangeIndex;
 
     let expandedItemGroup: { pageIndex: number; itemIndex: number };
@@ -45,7 +47,7 @@
         <td id="page" />
     {/if}
     <td class="align-middle">
-        <ChangeSymbol {changes} item={itemGroup.top} />
+        <ChangeSymbol {evaluations} {changes} item={itemGroup.top} />
     </td>
     <span class="contents" on:click={() => itemGroup.hasMany() && toggleRow(pageIdx, itemIdx)}>
         <!-- ID & change marker column -->
@@ -72,7 +74,7 @@
             class:changeMinus={changes.isMinusChange(child)}>
             <td id="page" />
             <td class="align-baseline">
-                <ChangeSymbol {changes} item={child} />
+                <ChangeSymbol {evaluations} {changes} item={child} />
             </td>
             <td class="whitespace-nowrap">
                 <div class="flex space-x-1">
