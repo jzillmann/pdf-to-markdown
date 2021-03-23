@@ -29,6 +29,8 @@ const config = {
   neighbourReach: 2,
 
   minSimilarity: 0.8,
+
+  minScore: 0.9,
 };
 
 export default class RemoveRepetitiveItems extends ItemTransformer {
@@ -56,9 +58,38 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
         .map((page) => page.lineByY(y))
         .filter((line) => typeof line !== 'undefined') as Line[];
 
-      const similarities = flatMap(yLines, (line, idx) =>
-        adiacentLines(yLines, idx).map((adiacentLine) => calculateSimilarity(line, adiacentLine)),
-      );
+      if (yLines.length < 2) {
+        return false;
+      }
+
+      const allNumbersJoined = flatMap(
+        yLines
+          .map((line) => {
+            const match = line.text().match(/\d+/g);
+            return match?.map(Number) as number[];
+          })
+          .filter((match) => typeof match !== 'undefined'),
+        (e) => e,
+      ).join('-');
+      const regularNumbersJoined = Array.from({ length: yLines.length }, (_, i) => i + 1).join('-');
+
+      //TODO OR... reduce (compare last with current == pre-1 100 punkte, current > pre 50 Punkte, sonst 0 punkte und reset. Dann zusammenzählen.)
+      const consecutiveNumberScores = consecutiveNumbers(yLines);
+      const allNumberScore: number = isAllNumbers(yLines) ? 1 : 0;
+      const textSimilarityScore: number = textSimilarity(yLines);
+
+      const totalScore = consecutiveNumberScores + allNumberScore + textSimilarityScore;
+      // console.log(
+      //   y,
+      //   yLines.map((l) => l.text()),
+      //   consecutiveNumberScores,
+      //   allNumberScore,
+      //   textSimilarityScore,
+      //   '=',
+      //   totalScore,
+      // );
+      // console.log(y, 'numbers', allNumbers);
+      // console.log(y, 'regularNumbers', regularNumbers);
 
       // TODO more checks
       // - exclude headlines (higher height, e.g art of speaking)
@@ -67,12 +98,8 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       // - contain chapter highlights
       // - contains rising number
 
-      // const texts = yLines.map((line) => line.text());
-      // console.log('y' + y, texts, similarities, median(similarities));
-      return median(similarities) >= config.minSimilarity;
+      return totalScore >= config.minScore;
     });
-
-    //console.log('yToRemove', yToRemove);
 
     let removalCount = 0;
     return {
@@ -90,6 +117,40 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       messages: [`Filtered out ${removalCount} items with y == ${yToRemove.join('||')}`],
     };
   }
+}
+
+function consecutiveNumbers(lines: Line[]): number {
+  const allNumbersJoined = flatMap(
+    lines
+      .map((line) => {
+        const match = line.text().match(/\d+/g);
+        return match?.map(Number) as number[];
+      })
+      .filter((match) => typeof match !== 'undefined'),
+    (e) => e,
+  ).join('-');
+  const regularNumbersJoined = Array.from({ length: lines.length }, (_, i) => i + 1).join('-');
+
+  //TODO OR... reduce (compare last with current == pre-1 100 punkte, current > pre 50 Punkte, sonst 0 punkte und reset. Dann zusammenzählen.)
+  return compareTwoStrings(allNumbersJoined, regularNumbersJoined);
+}
+
+function textSimilarity(lines: Line[]): number {
+  const similarities = flatMap(lines, (line, idx) =>
+    adiacentLines(lines, idx).map((adiacentLine) => calculateSimilarity(line, adiacentLine)),
+  );
+  return median(similarities);
+}
+
+function isAllNumbers(lines: Line[]): boolean {
+  for (let index = 0; index < lines.length; index++) {
+    const string = lines[index].text().trim();
+    const asNumber = Number(string);
+    if (isNaN(asNumber)) {
+      return false;
+    }
+  }
+  return true;
 }
 
 function calculateSimilarity(line1: Line, line2: Line): number {

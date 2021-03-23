@@ -2,7 +2,7 @@
   "pages": 140,
   "items": 25968,
   "groupedItems": 3294,
-  "changes": 4,
+  "changes": 40,
   "schema": [
     {
       "name": "line"
@@ -30,7 +30,13 @@
     }
   ]
 }
+{"page":23,"change":"Removal","str":"The Life of God","line":0,"x":118.52775,"y":400.26462,"width":"66.38","height":"10.30","fontName":[null],"dir":["ltr"]}
 {"page":50,"change":"Removal","str":"3","dir":"ltr","width":"3.59","height":"5.99","transform":["5.99","0.00","0.00","5.99","140.51","30.89"],"x":140.50925999999998,"y":30.889049999999997,"line":27}
+{"page":51,"change":"Removal","str":"34 The Life of God","line":0,"x":52.29588,"y":399.40259999999995,"width":"77.30","height":"10.38","fontName":[null],"dir":["ltr"]}
+{"page":62,"change":"Removal","str":"tn the Soul of Man. 45","line":0,"x":90.79943999999999,"y":398.68424999999996,"width":"88.07","height":"10.24","fontName":[null],"dir":["ltr"]}
+{"page":63,"change":"Removal","str":"46 The Life of God","line":0,"x":47.55477,"y":400.69563,"width":"77.01","height":"10.38","fontName":[null],"dir":["ltr"]}
 {"page":82,"change":"Removal","str":"5","dir":"ltr","width":"3.45","height":"5.75","transform":["5.75","0.00","0.00","5.75","140.08","25.43"],"x":140.07825,"y":25.429589999999997,"line":24}
+{"page":103,"change":"Removal","str":"^6 The Life of God","line":0,"x":46.261739999999996,"y":399.25892999999996,"width":"77.15","height":"10.22","fontName":[null],"dir":["ltr"]}
+{"page":109,"change":"Removal","str":"92 The Life of God","line":0,"x":51.146519999999995,"y":400.8393,"width":"76.58","height":"10.38","fontName":[null],"dir":["ltr"]}
 {"page":114,"change":"Removal","str":"7","dir":"ltr","width":"3.45","height":"5.75","transform":["5.75","0.00","0.00","5.75","139.22","30.75"],"x":139.21623,"y":30.745379999999997,"line":26}
 {"page":130,"change":"Removal","str":"8","dir":"ltr","width":"3.59","height":"5.99","transform":["5.99","0.00","0.00","5.99","137.20","25.00"],"x":137.20485,"y":24.998579999999997,"line":24}
