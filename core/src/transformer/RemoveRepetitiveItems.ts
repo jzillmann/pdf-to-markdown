@@ -22,7 +22,7 @@ const config = {
   maxNumberOffTopOrBottomLines: 3,
 
   // From the absolute fringe elements (min/max y) how much y can item deviate before beeing disregarded.
-  maxDistanceFromFringeElements: 30,
+  maxDistanceFromFringeElements: 35,
 
   // Max neighbour taken (in one direction) for detecting neighbour similarity.
   // Choosen number might be more effectful for PDFs with a strong odd/evan page differernce.
@@ -42,7 +42,36 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
   }
 
   transform(context: TransformContext, inputItems: Item[]): ItemResult {
-    const fringeLines = extractFringeLines(inputItems);
+    const { minY, maxY } = inputItems.reduce(
+      ({ minY, maxY }, item) => {
+        const y = item.data['y'];
+        return {
+          minY: Math.min(minY, y),
+          maxY: Math.max(maxY, y),
+        };
+      },
+      { minY: 999, maxY: 0 },
+    );
+
+    // console.log('min', minY, 'max', maxY);
+    const bottomMaxY = minY + config.maxDistanceFromFringeElements;
+    const topMinY = maxY - config.maxDistanceFromFringeElements;
+    const fringeItems = inputItems.filter((item) => {
+      const y = item.data['y'];
+      return y <= bottomMaxY || y >= topMinY;
+    });
+
+    const fringeLines = flatMap(
+      groupByPage(fringeItems).map((pageItems) =>
+        groupByLine(pageItems)
+          .map((lineItems) => {
+            const lineY = yFromLineItems(lineItems);
+            return new PageLine(pageItems[0].page, lineY, lineItems);
+          })
+          .sort((a, b) => a.y - b.y),
+      ),
+      (e) => e,
+    );
 
     const fringeYs = fringeLines
       .map((line) => line.y)
@@ -57,17 +86,6 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       if (yLines.length < 2) {
         return false;
       }
-
-      const allNumbersJoined = flatMap(
-        yLines
-          .map((line) => {
-            const match = line.text().match(/\d+/g);
-            return match?.map(Number) as number[];
-          })
-          .filter((match) => typeof match !== 'undefined'),
-        (e) => e,
-      ).join('-');
-      const regularNumbersJoined = Array.from({ length: yLines.length }, (_, i) => i + 1).join('-');
 
       //TODO OR... reduce (compare last with current == pre-1 100 punkte, current > pre 50 Punkte, sonst 0 punkte und reset. Dann zusammenzählen.)
       const consecutiveNumberScores = consecutiveNumbers(yLines);
@@ -166,45 +184,6 @@ function adiacentLines(lines: PageLine[], index: number): PageLine[] {
   }
 
   return neighbours;
-}
-
-function extractFringeLines(inputItems: Item[]): PageLine[] {
-  let bottomY = 999;
-  let topY = 0;
-
-  const fringLines = flatMap(
-    groupByPage(inputItems).map((pageItems) => {
-      const pageLines = groupByLine(pageItems)
-        .map((lineItems) => {
-          const lineY = yFromLineItems(lineItems);
-          return new PageLine(pageItems[0].page, lineY, lineItems);
-        })
-        .sort((a, b) => a.y - b.y);
-
-      // Keep globals up to date
-      if (pageLines[0].y < bottomY) {
-        bottomY = pageLines[0].y;
-      }
-      if (pageLines[pageLines.length - 1].y > topY) {
-        topY = pageLines[pageLines.length - 1].y;
-      }
-
-      // keep only top and bottom fringes
-      const numberOfFringeElements = Math.min(pageLines.length, config.maxNumberOffTopOrBottomLines);
-      const bottomN = pageLines.slice(0, numberOfFringeElements);
-      const topN = pageLines.slice(pageLines.length - numberOfFringeElements, pageLines.length);
-      return [...bottomN, ...topN].filter(onlyUniques);
-    }),
-    (e) => e,
-  );
-
-  // console.log('bottom', bottomY);
-  // console.log('top', topY);
-
-  //Now that we now the global top and bottom y, we cut those y which are in the middle and not really on the fringes
-  const maxTopDistance = config.maxDistanceFromFringeElements;
-  const maxBottomDistance = config.maxDistanceFromFringeElements;
-  return fringLines.filter((line) => line.y <= bottomY + maxBottomDistance || line.y >= topY - maxTopDistance);
 }
 
 function yFromLineItems(lineItems: Item[]): number {
