@@ -44,9 +44,9 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
   }
 
   transform(context: TransformContext, inputItems: Item[]): ItemResult {
-    const pageExtracts = buildExtracts(inputItems);
+    const fringeLines = extractFringeLines(inputItems);
 
-    const fringeYs = flatMap(pageExtracts, (extract) => extract.fringeLines)
+    const fringeYs = fringeLines
       .map((line) => line.y)
       .filter(onlyUniques)
       .sort(ascending);
@@ -54,9 +54,7 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
     // console.log('uniqueYs', uniqueYs);
 
     const yToRemove = fringeYs.filter((y) => {
-      const yLines = pageExtracts
-        .map((page) => page.lineByY(y))
-        .filter((line) => typeof line !== 'undefined') as Line[];
+      const yLines = fringeLines.filter((line) => line.y == y);
 
       if (yLines.length < 2) {
         return false;
@@ -104,7 +102,7 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
     let removalCount = 0;
     return {
       items: transformGroupedByPageAndLine(inputItems, (_, __, lineItems) => {
-        const itemsY = yFromLine(lineItems);
+        const itemsY = yFromLineItems(lineItems);
         if (fringeYs.includes(itemsY)) {
           lineItems.forEach(context.trackEvaluation.bind(context));
         }
@@ -119,7 +117,7 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
   }
 }
 
-function consecutiveNumbers(lines: Line[]): number {
+function consecutiveNumbers(lines: PageLine[]): number {
   const allNumbersJoined = flatMap(
     lines
       .map((line) => {
@@ -135,14 +133,14 @@ function consecutiveNumbers(lines: Line[]): number {
   return compareTwoStrings(allNumbersJoined, regularNumbersJoined);
 }
 
-function textSimilarity(lines: Line[]): number {
+function textSimilarity(lines: PageLine[]): number {
   const similarities = flatMap(lines, (line, idx) =>
     adiacentLines(lines, idx).map((adiacentLine) => calculateSimilarity(line, adiacentLine)),
   );
   return median(similarities);
 }
 
-function isAllNumbers(lines: Line[]): boolean {
+function isAllNumbers(lines: PageLine[]): boolean {
   for (let index = 0; index < lines.length; index++) {
     const string = lines[index].text().trim();
     const asNumber = Number(string);
@@ -153,13 +151,13 @@ function isAllNumbers(lines: Line[]): boolean {
   return true;
 }
 
-function calculateSimilarity(line1: Line, line2: Line): number {
+function calculateSimilarity(line1: PageLine, line2: PageLine): number {
   return compareTwoStrings(line1.textWithoutNumbers(), line2.textWithoutNumbers());
 }
 
-function adiacentLines(lines: Line[], index: number): Line[] {
+function adiacentLines(lines: PageLine[], index: number): PageLine[] {
   // Prefer to either collect x downstream OR x upstream neighbours (not a mix) in order to better catch odd/even page differences
-  let neighbours: Line[];
+  let neighbours: PageLine[];
   if (index + config.neighbourReach < lines.length) {
     neighbours = lines.slice(index + 1, index + config.neighbourReach + 1);
   } else if (index - config.neighbourReach >= 0) {
@@ -171,34 +169,35 @@ function adiacentLines(lines: Line[], index: number): Line[] {
   return neighbours;
 }
 
-function buildExtracts(inputItems: Item[]): PageExtract[] {
+function extractFringeLines(inputItems: Item[]): PageLine[] {
   let bottomY = 999;
   let topY = 0;
 
-  const pages = groupByPage(inputItems).map((pageItems) => {
-    const lines = groupByLine(pageItems)
-      .map((lineItems) => {
-        const lineY = yFromLine(lineItems);
-        return new Line(lineY, lineItems);
-      })
-      .sort((a, b) => a.y - b.y);
+  const fringLines = flatMap(
+    groupByPage(inputItems).map((pageItems) => {
+      const pageLines = groupByLine(pageItems)
+        .map((lineItems) => {
+          const lineY = yFromLineItems(lineItems);
+          return new PageLine(pageItems[0].page, lineY, lineItems);
+        })
+        .sort((a, b) => a.y - b.y);
 
-    // Keep globals up to date
-    if (lines[0].y < bottomY) {
-      bottomY = lines[0].y;
-    }
-    if (lines[lines.length - 1].y > topY) {
-      topY = lines[lines.length - 1].y;
-    }
+      // Keep globals up to date
+      if (pageLines[0].y < bottomY) {
+        bottomY = pageLines[0].y;
+      }
+      if (pageLines[pageLines.length - 1].y > topY) {
+        topY = pageLines[pageLines.length - 1].y;
+      }
 
-    // keep top and bottom fringes
-    const numberOfFringeElements = Math.min(lines.length, config.maxNumberOffTopOrBottomLines);
-    const bottomN = lines.slice(0, numberOfFringeElements);
-    const topN = lines.slice(lines.length - numberOfFringeElements, lines.length);
-
-    const fringeLines = [...bottomN, ...topN].filter(onlyUniques);
-    return new PageExtract(pageItems[0].page, fringeLines);
-  });
+      // keep only top and bottom fringes
+      const numberOfFringeElements = Math.min(pageLines.length, config.maxNumberOffTopOrBottomLines);
+      const bottomN = pageLines.slice(0, numberOfFringeElements);
+      const topN = pageLines.slice(pageLines.length - numberOfFringeElements, pageLines.length);
+      return [...bottomN, ...topN].filter(onlyUniques);
+    }),
+    (e) => e,
+  );
 
   // console.log('bottom', bottomY);
   // console.log('top', topY);
@@ -206,36 +205,21 @@ function buildExtracts(inputItems: Item[]): PageExtract[] {
   //Now that we now the global top and bottom y, we cut those y which are in the middle and not really on the fringes
   const maxTopDistance = config.maxDistanceFromFringeElements;
   const maxBottomDistance = config.maxDistanceFromFringeElements;
-  return pages.map(
-    (page) =>
-      new PageExtract(
-        page.page,
-        page.fringeLines.filter((line) => line.y <= bottomY + maxBottomDistance || line.y >= topY - maxTopDistance),
-      ),
-  );
+  return fringLines.filter((line) => line.y <= bottomY + maxBottomDistance || line.y >= topY - maxTopDistance);
 }
 
-function yFromLine(lineItems: Item[]): number {
+function yFromLineItems(lineItems: Item[]): number {
   return Math.round(mostFrequent(lineItems, 'y') as number);
 }
 
-class PageExtract {
-  constructor(public page: number, public fringeLines: Line[]) {}
-
-  hasY(y: number): boolean {
-    return this.fringeLines.findIndex((line) => line.y === y) >= 0;
-  }
-
-  lineByY(y: number): Line | undefined {
-    return this.fringeLines.find((line) => line.y === y);
-  }
-}
-
-class Line {
+/**
+ * A number of Items on a line (~same y) on a page.
+ */
+class PageLine {
   private _text: string | undefined;
   private _textWithoutNumbers: string | undefined;
 
-  constructor(public y: number, public items: Item[]) {}
+  constructor(public page: number, public y: number, public items: Item[]) {}
 
   text(): string {
     if (!this._text) {
