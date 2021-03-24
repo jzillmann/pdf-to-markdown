@@ -28,8 +28,6 @@ const config = {
   // Choosen number might be more effectful for PDFs with a strong odd/evan page differernce.
   neighbourReach: 2,
 
-  minSimilarity: 0.8,
-
   minScore: 0.9,
 };
 
@@ -86,8 +84,6 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       //   '=',
       //   totalScore,
       // );
-      // console.log(y, 'numbers', allNumbers);
-      // console.log(y, 'regularNumbers', regularNumbers);
 
       // TODO more checks
       // - exclude headlines (higher height, e.g art of speaking)
@@ -121,13 +117,16 @@ function consecutiveNumbers(lines: PageLine[]): number {
   const allNumbersJoined = flatMap(
     lines
       .map((line) => {
-        const match = line.text().match(/\d+/g);
-        return match?.map(Number) as number[];
+        const numbersInLine = (line.text().match(/\d+/g) || []).map(Number);
+        return numbersInLine.filter((number) => number >= 0 && number <= line.page);
       })
       .filter((match) => typeof match !== 'undefined'),
     (e) => e,
   ).join('-');
   const regularNumbersJoined = Array.from({ length: lines.length }, (_, i) => i + 1).join('-');
+
+  // console.log(lines[0].y, 'numbers', allNumbersJoined);
+  // console.log(lines[0].y, 'regularNumbers', regularNumbersJoined);
 
   //TODO OR... reduce (compare last with current == pre-1 100 punkte, current > pre 50 Punkte, sonst 0 punkte und reset. Dann zusammenzählen.)
   return compareTwoStrings(allNumbersJoined, regularNumbersJoined);
