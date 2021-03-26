@@ -2,7 +2,7 @@
   "pages": 140,
   "items": 25968,
   "groupedItems": 3294,
-  "changes": 170,
+  "changes": 192,
   "schema": [
     {
       "name": "line"
@@ -31,7 +31,8 @@
   ]
 }
 {"page":13,"change":"Removal","str":"\\-iii Preface.","line":0,"x":63.50214,"y":400.98296999999997,"width":"50.42","height":"7.99","fontName":[null],"dir":["ltr"]}
-{"page":24,"change":"Removal","str":"in the Soul of Man,","line":0,"x":84.04695,"y":396.96020999999996,"width":"77.72","height":"10.00","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Removal","str":"Contents.","dir":"ltr","width":"40.95","height":"7.58","transform":["7.58","0.00","0.00","7.58","152.29","405.15"],"x":152.2902,"y":405.14939999999996,"line":0}
+{"page":25,"change":"Removal","str":"The Life of Gcd","line":0,"x":120.6828,"y":403.28168999999997,"width":"66.37","height":"10.38","fontName":[null],"dir":["ltr"]}
 {"page":27,"change":"Removal","str":"lO The Life of God","line":0,"x":42.95733,"y":399.25892999999996,"width":"76.43","height":"10.38","fontName":[null],"dir":["ltr"]}
 {"page":28,"change":"Removal","str":"/;/ the Soul of Man. ii","line":0,"x":97.55193,"y":398.68424999999996,"width":"87.06","height":"10.18","fontName":[null],"dir":["ltr"]}
 {"page":29,"change":"Removal","str":"12 The Life of God","line":0,"x":48.27312,"y":400.12095,"width":"75.00","height":"10.22","fontName":[null],"dir":["ltr"]}
@@ -39,25 +40,28 @@
 {"page":35,"change":"Removal","str":"The Life of God","line":2,"x":117.66573,"y":399.54627,"width":"66.23","height":"10.30","fontName":[null],"dir":["ltr"]}
 {"page":37,"change":"Removal","str":"20 The Life of God","line":0,"x":46.405409999999996,"y":399.97727999999995,"width":"76.15","height":"10.30","fontName":[null],"dir":["ltr"]}
 {"page":38,"change":"Removal","str":"in the Soul of A fan. 21","line":0,"x":94.96587,"y":398.82792,"width":"88.79","height":"10.54","fontName":[null],"dir":["ltr"]}
-{"page":42,"change":"Removal","str":"/;/ the Soul of Man. 25","line":0,"x":94.10385,"y":397.24755,"width":"87.78","height":"10.24","fontName":[null],"dir":["ltr"]}
+{"page":39,"change":"Removal","str":"22 The Life of God","line":0,"x":47.69844,"y":401.98866,"width":"75.86","height":"10.38","fontName":[null],"dir":["ltr"]}
+{"page":40,"change":"Removal","str":"/;/ ihc So III of Man. 23","line":0,"x":93.24183,"y":403.28168999999997,"width":"85.77","height":"10.12","fontName":[null],"dir":["ltr"]}
+{"page":41,"change":"Removal","str":"24 The Life of God","line":0,"x":47.12376,"y":401.84499,"width":"76.87","height":"10.30","fontName":[null],"dir":["ltr"]}
+{"page":43,"change":"Removal","str":"26 The Life of God","line":0,"x":58.33002,"y":403.56903,"width":"76.57","height":"10.38","fontName":[null],"dir":["ltr"]}
+{"page":44,"change":"Removal","str":"in the Soul of Man. 27","line":0,"x":96.54624,"y":402.56334,"width":"86.78","height":"10.12","fontName":[null],"dir":["ltr"]}
+{"page":45,"change":"Removal","str":"28 The Life of God","line":0,"x":53.58891,"y":402.99435,"width":"76.58","height":"10.38","fontName":[null],"dir":["ltr"]}
+{"page":46,"change":"Removal","str":"in the Soul of Man. 29","line":0,"x":91.37411999999999,"y":404.00003999999996,"width":"88.21","height":"10.18","fontName":[null],"dir":["ltr"]}
+{"page":47,"change":"Removal","str":"30 The Life of God","line":0,"x":53.87625,"y":403.85636999999997,"width":"77.29","height":"10.30","fontName":[null],"dir":["ltr"]}
+{"page":48,"change":"Removal","str":"in the Soul of Man. 31","line":0,"x":91.80512999999999,"y":404.28738,"width":"88.50","height":"10.24","fontName":[null],"dir":["ltr"]}
+{"page":49,"change":"Removal","str":"32 The Lifo of God","line":0,"x":53.30157,"y":403.56903,"width":"76.58","height":"10.38","fontName":[null],"dir":["ltr"]}
 {"page":50,"change":"Removal","str":"3","dir":"ltr","width":"3.59","height":"5.99","transform":["5.99","0.00","0.00","5.99","140.51","30.89"],"x":140.50925999999998,"y":30.889049999999997,"line":27}
-{"page":52,"change":"Removal","str":"in the Soul of Man. 35","line":0,"x":93.81651,"y":395.52351,"width":"87.35","height":"10.18","fontName":[null],"dir":["ltr"]}
-{"page":67,"change":"Removal","str":"50 The Life of God","line":0,"x":51.577529999999996,"y":396.5292,"width":"76.00","height":"10.46","fontName":[null],"dir":["ltr"]}
-{"page":68,"change":"Removal","str":"/;/ the Sotil of Man. 51","line":0,"x":91.66145999999999,"y":395.95452,"width":"86.35","height":"9.76","fontName":[null],"dir":["ltr"]}
-{"page":69,"change":"Removal","str":"The Life of God","line":0,"x":121.68848999999999,"y":396.67287,"width":"66.66","height":"10.38","fontName":[null],"dir":["ltr"]}
 {"page":72,"change":"Removal","str":"in the Soul of Man. 55","line":0,"x":95.82789,"y":397.10388,"width":"87.49","height":"10.18","fontName":[null],"dir":["ltr"]}
 {"page":82,"change":"Removal","str":"5","dir":"ltr","width":"3.45","height":"5.75","transform":["5.75","0.00","0.00","5.75","140.08","25.43"],"x":140.07825,"y":25.429589999999997,"line":24}
-{"page":87,"change":"Removal","str":"70 The Life of God","line":0,"x":48.27312,"y":396.5292,"width":"76.72","height":"10.38","fontName":[null],"dir":["ltr"]}
-{"page":97,"change":"Removal","str":"8o The Life of God","line":0,"x":47.98578,"y":396.67287,"width":"77.01","height":"10.30","fontName":[null],"dir":["ltr"]}
+{"page":102,"change":"Removal","str":"in the Soul of Man, 85","line":0,"x":98.12661,"y":404.86206,"width":"88.21","height":"10.18","fontName":[null],"dir":["ltr"]}
+{"page":104,"change":"Removal","str":"in the Sold oj Man. 87","line":0,"x":98.41395,"y":402.70700999999997,"width":"86.35","height":"10.24","fontName":[null],"dir":["ltr"]}
+{"page":105,"change":"Removal","str":"The Life of God","line":0,"x":114.07397999999999,"y":402.13232999999997,"width":"66.66","height":"10.38","fontName":[null],"dir":["ltr"]}
+{"page":106,"change":"Removal","str":"111 the Sold of Man. 89","line":0,"x":94.10385,"y":403.42535999999996,"width":"88.79","height":"10.30","fontName":[null],"dir":["ltr"]}
 {"page":107,"change":"Removal","str":"90 The Life of God","line":0,"x":49.70982,"y":399.54627,"width":"77.44","height":"10.38","fontName":[null],"dir":["ltr"]}
+{"page":108,"change":"Removal","str":"in the Sotd of Man. 91","line":0,"x":93.24183,"y":401.70131999999995,"width":"87.21","height":"10.06","fontName":[null],"dir":["ltr"]}
 {"page":114,"change":"Removal","str":"tn the Soul of 3 fail. 97","line":0,"x":92.23613999999999,"y":397.24755,"width":"88.22","height":"9.34","fontName":[null],"dir":["ltr"]}
 {"page":114,"change":"Removal","str":"7","dir":"ltr","width":"3.45","height":"5.75","transform":["5.75","0.00","0.00","5.75","139.22","30.75"],"x":139.21623,"y":30.745379999999997,"line":26}
-{"page":115,"change":"Removal","str":"98 The Life of God","line":0,"x":52.58322,"y":396.81654,"width":"76.58","height":"10.30","fontName":[null],"dir":["ltr"]}
 {"page":116,"change":"Removal","str":"in the Sotil of Alan. 99","line":0,"x":95.25321,"y":397.67856,"width":"88.36","height":"9.10","fontName":[null],"dir":["ltr"]}
-{"page":117,"change":"Removal","str":"lOO The Life of God","line":0,"x":56.031299999999995,"y":396.81654,"width":"82.04","height":"10.38","fontName":[null],"dir":["ltr"]}
-{"page":120,"change":"Removal","str":"in the Soul of Alan. 103","line":0,"x":95.54055,"y":397.24755,"width":"92.38","height":"9.10","fontName":[null],"dir":["ltr"]}
 {"page":128,"change":"Removal","str":"in the Soul of j\\Ian. iii","line":0,"x":99.56331,"y":398.39691,"width":"92.23","height":"9.34","fontName":[null],"dir":["ltr"]}
 {"page":130,"change":"Removal","str":"8","dir":"ltr","width":"3.59","height":"5.99","transform":["5.99","0.00","0.00","5.99","137.20","25.00"],"x":137.20485,"y":24.998579999999997,"line":24}
-{"page":138,"change":"Removal","str":"in the Soul of Alan. 121","line":0,"x":108.03984,"y":396.5292,"width":"91.95","height":"9.22","fontName":[null],"dir":["ltr"]}
 {"page":142,"change":"Removal","str":"in the Soul of Man. 125","line":0,"x":115.94169,"y":398.82792,"width":"92.09","height":"10.18","fontName":[null],"dir":["ltr"]}
-{"page":143,"change":"Removal","str":"126 The Life of God","line":0,"x":36.92319,"y":396.96020999999996,"width":"81.89","height":"10.30","fontName":[null],"dir":["ltr"]}

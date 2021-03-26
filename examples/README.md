@@ -24,7 +24,7 @@ _(PDFs which entered `public domain` or have a otherwise permissive license like
 | [Closed-Syllables](Closed-Syllables.pdf)                           | ?                                     | Susan Jones                                      | Creative Commons BY 4.0   |
 | [Flash-Masques-Temperature](Flash-Masques-Temperature.pdf)         | https://www.techtera.org/             | ?                                                | Creative Commons BY 4.0   |
 | [Grammar-Matters](Grammar-Matters.pdf)                             | ?                                     | Debbie Kuhlmann                                  | Creative Commons BY 4.0   |
-| [Life-Of-God-In-Soul-Of-Man](lLife-Of-God-In-Soul-Of-Man.pdf)      | https://archive.org/                  | Henry Scougal                                    | Public Domain             |
+| [Life-Of-God-In-Soul-Of-Man](Life-Of-God-In-Soul-Of-Man.pdf)       | https://archive.org/                  | Henry Scougal                                    | Public Domain             |
 | [Safe-Communication](Safe-Communication.pdf)                       | https://www.england.nhs.uk/           | Nicola Davey & Ali Cole                          | Creative Commons BY 4.0   |
 | [St-Mary-Witney-Social-Audit](St-Mary-Witney-Social-Audit.pdf)     | https://catrionarobertson.com/        | Catriona Robertson                               | Creative Commons BY 4.0   |
 | [The-Art-of-Public-Speaking](The-Art-of-Public-Speaking.pdf)       | http://www.gutenberg.org/ebooks/16317 | Dale Carnagey, J. Berg Esenwein                  | Project Gutenberg License |
@@ -42,5 +42,6 @@ _(PDFs which entered `public domain` or have a otherwise permissive license like
 _Tracks known problems with parsing and transforming certain PDFs ._
 
 - `Remove Repetitive Elements`
-  - https://homepages.cwi.nl/~lex/files/dict.pdf
-    - Nothing gets detected cause the page-number line contains the current chapter
+  - [](Life-Of-God-In-Soul-Of-Man.pdf)
+    - often numbers are cryptic text
+    - high variance in Y

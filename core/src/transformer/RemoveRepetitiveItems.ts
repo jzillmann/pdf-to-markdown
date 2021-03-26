@@ -16,6 +16,7 @@ import {
   transformGroupedByPageAndLine,
 } from '../support/groupingUtils';
 import { filterOutDigits } from '../support/stringFunctions';
+import { flatten, groupBy } from '../support/functional';
 
 const config = {
   // Max number of lines at top/bottom (per page) which are getting evaluated for eviction
@@ -53,9 +54,10 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       { minY: 999, maxY: 0 },
     );
 
-    // console.log('min', minY, 'max', maxY);
     const bottomMaxY = minY + config.maxDistanceFromFringeElements;
     const topMinY = maxY - config.maxDistanceFromFringeElements;
+    // console.log('bottomMaxY', bottomMaxY, 'topMinY', topMinY);
+
     const fringeItems = inputItems.filter((item) => {
       const y = item.data['y'];
       return y <= bottomMaxY || y >= topMinY;
@@ -73,6 +75,7 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       (e) => e,
     );
 
+    const pageNumber = detectAPageNumber(fringeLines);
     const fringeYs = fringeLines
       .map((line) => line.y)
       .filter(onlyUniques)
@@ -82,28 +85,24 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
 
     const yToRemove = fringeYs.filter((y) => {
       const yLines = fringeLines.filter((line) => line.y == y);
-
       if (yLines.length < 2) {
         return false;
       }
 
-      //TODO OR... reduce (compare last with current == pre-1 100 punkte, current > pre 50 Punkte, sonst 0 punkte und reset. Dann zusammenzählen.)
-      const consecutiveNumberScores = consecutiveNumbers(yLines);
-      const allNumberScore: number = isAllNumbers(yLines) ? 1 : 0;
+      const pageNumberScore: number = pageNumber ? calculatePageNumerScore(context.pageCount, pageNumber, yLines) : 0;
       const textSimilarityScore: number = textSimilarity(yLines);
-
-      const totalScore = consecutiveNumberScores + allNumberScore + textSimilarityScore;
+      const totalScore = pageNumberScore + textSimilarityScore;
       // console.log(
       //   y,
       //   yLines.map((l) => l.text()),
-      //   consecutiveNumberScores,
-      //   allNumberScore,
+      //   pageNumberScore,
       //   textSimilarityScore,
       //   '=',
       //   totalScore,
       // );
 
       // TODO more checks
+      // - magnetic y
       // - exclude headlines (higher height, e.g art of speaking)
       // - better odd/even handling (e.g war of worlds || dict)
       // - same x structure
@@ -131,23 +130,70 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
   }
 }
 
-function consecutiveNumbers(lines: PageLine[]): number {
-  const allNumbersJoined = flatMap(
-    lines
-      .map((line) => {
-        const numbersInLine = (line.text().match(/\d+/g) || []).map(Number);
-        return numbersInLine.filter((number) => number >= 0 && number <= line.page);
-      })
-      .filter((match) => typeof match !== 'undefined'),
-    (e) => e,
-  ).join('-');
-  const regularNumbersJoined = Array.from({ length: lines.length }, (_, i) => i + 1).join('-');
+function calculatePageNumerScore(pageCount: number, pageNumber: PageNumber, lines: PageLine[]): number {
+  const pageNumberFactor = pageNumber.pageNumber - pageNumber.pageIndex;
+  const maxPageNumbers = pageCount + pageNumberFactor;
+  const linesWithPageNumbers = lines.filter((line) =>
+    extractNumbers(line.text()).includes(line.page + pageNumberFactor),
+  ).length;
+  return linesWithPageNumbers / Math.min(maxPageNumbers, lines.length);
+}
 
-  // console.log(lines[0].y, 'numbers', allNumbersJoined);
-  // console.log(lines[0].y, 'regularNumbers', regularNumbersJoined);
+function detectAPageNumber(lines: PageLine[]): PageNumber | undefined {
+  const linesByPage = groupBy(lines, (line) => line.page).sort((a, b) => a[0].page - b[0].page);
+  const pageIndexInTheMiddle = Math.round(linesByPage.length / 2);
+  const possiblePageNumbersForMiddle = possiblePageNumbers(linesByPage[pageIndexInTheMiddle]);
+  const remainingOptions = filterOutIncompatibleVariant(
+    possiblePageNumbersForMiddle,
+    linesByPage.slice(pageIndexInTheMiddle + 1, linesByPage.length),
+  );
+  //TODO do the same filtering upstream !?
 
-  //TODO OR... reduce (compare last with current == pre-1 100 punkte, current > pre 50 Punkte, sonst 0 punkte und reset. Dann zusammenzählen.)
-  return compareTwoStrings(allNumbersJoined, regularNumbersJoined);
+  if (remainingOptions.length == 1) {
+    return remainingOptions[0];
+  }
+
+  return undefined;
+}
+
+function filterOutIncompatibleVariant(options: PageNumber[], nextPageLines: PageLine[][]): PageNumber[] {
+  let index = 0;
+  let remainingOptions = [...options];
+  while (remainingOptions.length > 1 && index < nextPageLines.length) {
+    const nextPageNumbers = possiblePageNumbers(nextPageLines[index]);
+    remainingOptions = remainingOptions.filter((option) => {
+      const maxDistance = nextPageNumbers[0].pageIndex - option.pageIndex;
+      return nextPageNumbers.find((nextPageNum) => nextPageNum.pageNumber - option.pageNumber <= maxDistance);
+    });
+    index++;
+  }
+  return remainingOptions;
+}
+
+interface PageNumber {
+  pageIndex: number;
+  pageNumber: number;
+  y: number;
+}
+
+function possiblePageNumbers(lines: PageLine[]): PageNumber[] {
+  return flatten(
+    lines.map((line) => {
+      return extractNumbers(line.text())
+        .filter((number) => number >= 0)
+        .filter((number) => number <= line.page + 1)
+        .filter(onlyUniques)
+        .map((num) => ({
+          pageIndex: line.page,
+          pageNumber: num,
+          y: line.y,
+        }));
+    }),
+  );
+}
+
+function extractNumbers(text: string): number[] {
+  return (text.match(/\d+/g) || []).map(Number);
 }
 
 function textSimilarity(lines: PageLine[]): number {
@@ -155,17 +201,6 @@ function textSimilarity(lines: PageLine[]): number {
     adiacentLines(lines, idx).map((adiacentLine) => calculateSimilarity(line, adiacentLine)),
   );
   return median(similarities);
-}
-
-function isAllNumbers(lines: PageLine[]): boolean {
-  for (let index = 0; index < lines.length; index++) {
-    const string = lines[index].text().trim();
-    const asNumber = Number(string);
-    if (isNaN(asNumber)) {
-      return false;
-    }
-  }
-  return true;
 }
 
 function calculateSimilarity(line1: PageLine, line2: PageLine): number {
