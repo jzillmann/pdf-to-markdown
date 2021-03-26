@@ -29,7 +29,7 @@ const config = {
   // Choosen number might be more effectful for PDFs with a strong odd/evan page differernce.
   neighbourReach: 2,
 
-  minScore: 0.9,
+  minScore: 0.7,
 };
 
 export default class RemoveRepetitiveItems extends ItemTransformer {
@@ -94,11 +94,11 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       const totalScore = pageNumberScore + textSimilarityScore;
       // console.log(
       //   y,
-      //   yLines.map((l) => l.text()),
-      //   pageNumberScore,
-      //   textSimilarityScore,
-      //   '=',
+      //   totalScore >= config.minScore,
       //   totalScore,
+      //   `(${pageNumberScore} / ${textSimilarityScore})`,
+      //   yLines.map((l) => l.text()),
+      //   yLines.map((l) => l.page),
       // );
 
       // TODO more checks
