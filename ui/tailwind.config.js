@@ -14,6 +14,10 @@ module.exports = {
                 // gray-400 hue-rotated 180deg
                 select: '#A8A297',
             },
+            gridTemplateColumns: {
+                15: 'repeat(15, minmax(0, 1fr))',
+                20: 'repeat(20, minmax(0, 1fr))',
+            },
         },
     },
     variants: {

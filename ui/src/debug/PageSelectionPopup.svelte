@@ -26,13 +26,11 @@
     <span class="mt-1 pr-2" on:click={$pagePinned && unpinPage}>
         <Collection size="1x" class={$pagePinned ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
     </span>
-    <div
-        class="grid gap-3"
-        style="grid-template-columns: repeat({Math.min(20, pageControl.totalPages)}, minmax(0, 1fr));">
+    <div class="grid gap-3 grid-cols-5 sm:grid-cols-10 md:grid-cols-15 xl:grid-cols-20">
         {#each new Array(pageControl.totalPages) as _, idx}
             <div
                 on:click={() => pageControl.pageHasItems(idx) && pinPage(idx)}
-                class="px-2 border border-gray-300 rounded-full text-center {pageControl.pageHasItems(idx) ? ($pinnedPageIndex === idx ? 'bg-select' : 'hover:text-select hover:border-select cursor-pointer') : 'opacity-50'}">
+                class="px-2 border border-gray-300 rounded-full text-center  {pageControl.pageHasItems(idx) ? ($pinnedPageIndex === idx ? 'bg-select' : 'hover:text-select hover:border-select cursor-pointer') : 'opacity-50'}">
                 {idx + 1}
             </div>
         {/each}
