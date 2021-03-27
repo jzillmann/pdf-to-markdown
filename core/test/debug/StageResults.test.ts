@@ -6,6 +6,7 @@ import AnnotatedColumn from 'src/debug/AnnotatedColumn';
 import Page, { asPages } from 'src/debug/Page';
 import { items } from '../testItems';
 import LineItemMerger from 'src/debug/LineItemMerger';
+import Globals from 'src/transformer/Globals';
 
 test('itemsUnpacked', async () => {
   const evaluationTracker = new EvaluationTracker();
@@ -26,7 +27,7 @@ test('itemsUnpacked', async () => {
     ]),
   ];
   const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
-  const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
+  const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
   expect(result.itemsUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
   expect(result.itemsCleanedAndUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
@@ -53,7 +54,7 @@ test('itemsCleanedAndUnpacked', async () => {
   const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
   changeTracker.trackRemoval(flatItems[1]);
   changeTracker.trackRemoval(flatItems[4]);
-  const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
+  const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
   expect(result.itemsUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
   expect(result.itemsCleanedAndUnpacked().map((item) => item.data['idx'])).toEqual([0, 2, 3, 5]);
@@ -84,7 +85,7 @@ describe('select pages', () => {
     changeTracker.trackAddition(flatItems[2]);
     changeTracker.trackAddition(flatItems[4]);
     const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
-    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
+    const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const allGrouped = result.selectPages(false, true);
     expect(allGrouped.map((page) => page.index)).toEqual([0]);
@@ -122,7 +123,7 @@ describe('select pages', () => {
       ]),
     ];
     const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
-    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
+    const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const allGrouped = result.selectPages(false, true);
     expect(allGrouped.map((page) => page.index)).toEqual([0, 1, 2]);
@@ -171,7 +172,7 @@ describe('select pages', () => {
     changeTracker.trackAddition(flatItems[3]);
     changeTracker.trackAddition(flatItems[5]);
     const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
-    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
+    const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const allGrouped = result.selectPages(false, true);
     expect(allGrouped.map((page) => page.index)).toEqual([0, 1, 2]);
@@ -217,7 +218,7 @@ describe('select pages', () => {
       ]),
     ];
     const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
-    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
+    const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const relevantGrouped = result.selectPages(true, true);
     expect(relevantGrouped.map((page) => page.index)).toEqual([0, 1, 2]);
@@ -237,7 +238,7 @@ describe('select pages', () => {
       ...items(2, [{ idx: 4 }, { idx: 5 }]),
     ];
     const pages = asPages(evaluationTracker, changeTracker, flatItems);
-    const result = new StageResult(descriptor, schema, pages, evaluationTracker, changeTracker, []);
+    const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const relevantGrouped = result.selectPages(true, true);
     expect(relevantGrouped.map((page) => page.index)).toEqual([0, 1, 2]);

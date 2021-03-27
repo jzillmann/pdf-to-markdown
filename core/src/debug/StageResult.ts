@@ -7,9 +7,11 @@ import ChangeTracker from './ChangeTracker';
 import ItemGroup from './ItemGroup';
 import EvaluationIndex from '../transformer/EvaluationIndex';
 import EvaluationTracker from '../transformer/EvaluationTracker';
+import Globals from '../transformer/Globals';
 
 export default class StageResult {
   constructor(
+    public globals: Globals,
     public descriptor: TransformDescriptor,
     public schema: AnnotatedColumn[],
     public pages: Page[],
@@ -86,5 +88,13 @@ export function initialStage(inputSchema: string[], inputItems: Item[]): StageRe
       inputItems.length
     } items`,
   ];
-  return new StageResult(toDescriptor({ debug: { showAll: true } }), schema, pages, evaluations, changes, messages);
+  return new StageResult(
+    new Globals(),
+    toDescriptor({ debug: { showAll: true } }),
+    schema,
+    pages,
+    evaluations,
+    changes,
+    messages,
+  );
 }

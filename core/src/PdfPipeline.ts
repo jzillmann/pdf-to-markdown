@@ -6,6 +6,7 @@ import ParseResult from './ParseResult';
 import Debugger from './Debugger';
 import { assert } from './assert';
 import TransformContext from './transformer/TransformContext';
+import Globals from './transformer/Globals';
 
 export default class PdfPipeline {
   parser: PdfParser;
@@ -29,9 +30,12 @@ export default class PdfPipeline {
     const parseResult = await this.parse(src, progressListener);
     this.verifyRequiredColumns(parseResult.schema, this.transformers);
     let items = parseResult.items;
+    let globals = new Globals();
+    const context = new TransformContext(parseResult.fontMap, parseResult.pageViewports, globals);
     this.transformers.forEach((transformer) => {
-      const context = new TransformContext(parseResult.fontMap, parseResult.pageViewports);
-      items = transformer.transform(context, items).items;
+      const result = transformer.transform(context, items);
+      globals = globals.withValues(result.globals);
+      items = result.items;
     });
     parseResult.items = items;
     return parseResult;

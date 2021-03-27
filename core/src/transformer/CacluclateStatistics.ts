@@ -3,6 +3,9 @@ import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
 import FontType from '../FontType';
+import GlobalDefinition from './GlobalDefinition';
+
+export const MAX_HEIGHT = new GlobalDefinition<number>('maxHeight');
 
 export default class CalculateStatistics extends ItemTransformer {
   constructor() {
@@ -82,14 +85,14 @@ export default class CalculateStatistics extends ItemTransformer {
 
     return {
       items: items,
-      globals: {
-        mostUsedHeight: mostUsedHeight,
-        mostUsedFont: mostUsedFont,
-        mostUsedDistance: mostUsedDistance,
-        maxHeight: maxHeight,
-        maxHeightFont: maxHeightFont,
-        fontToFormats: fontToType,
-      },
+      globals: [MAX_HEIGHT.value(maxHeight)],
+      // globals2: {
+      //   mostUsedHeight: mostUsedHeight,
+      //   mostUsedFont: mostUsedFont,
+      //   mostUsedDistance: mostUsedDistance,
+      //   maxHeightFont: maxHeightFont,
+      //   fontToFormats: fontToType,
+      // },
       messages: [
         'Items per height: ' + JSON.stringify(heightToOccurrence),
         'Items per font: ' + JSON.stringify(fontToOccurrence),

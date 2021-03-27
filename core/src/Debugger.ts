@@ -9,6 +9,7 @@ import { asPages } from './debug/Page';
 import EvaluationTracker from './transformer/EvaluationTracker';
 import ChangeTracker from './debug/ChangeTracker';
 import PageViewport from './parse/PageViewport';
+import Globals from './transformer/Globals';
 
 export default class Debugger {
   private transformers: ItemTransformer[];
@@ -34,13 +35,19 @@ export default class Debugger {
     for (let idx = 0; idx < stageIndex + 1; idx++) {
       if (!this.stageResultCache[idx]) {
         const evaluations = new EvaluationTracker();
-        const context = new TransformContext(this.fontMap, this.pageViewports, evaluations);
         const transformer = this.transformers[idx - 1];
         const previousStageResult: StageResult = this.stageResultCache[idx - 1];
+        const context = new TransformContext(
+          this.fontMap,
+          this.pageViewports,
+          previousStageResult.globals,
+          evaluations,
+        );
         const previousItems = previousStageResult.itemsCleanedAndUnpacked();
         const inputSchema = toSimpleSchema(previousStageResult);
         const outputSchema = transformer.schemaTransformer(inputSchema);
         const itemResult = transformer.transform(context, [...previousItems]);
+        const globals = new Globals(previousStageResult.globals).withValues(itemResult.globals);
 
         const changes = new ChangeTracker();
         const items = detectChanges(changes, previousItems, itemResult.items);
@@ -52,6 +59,7 @@ export default class Debugger {
 
         this.stageResultCache.push(
           new StageResult(
+            globals,
             transformer.descriptor,
             toAnnotatedSchema(inputSchema, outputSchema),
             pages,
