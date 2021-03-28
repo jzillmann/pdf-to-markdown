@@ -31,7 +31,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 64
+    "maxHeight": 64,
+    "minX": 46.323,
+    "maxX": 436.5,
+    "minY": 37.73867999999993,
+    "maxY": 610.5599,
+    "pageMapping": {
+      "pageFactor": -6,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":2,"change":"Addition","str":"Das Forschungs projekt WOOD- UP wurde finanziert durch den Europäische n","line":0,"x":65.643,"y":569.609,"width":"276.77","height":"8.00","fontName":["HZMZJK+ArialMT","HZMZJK+ArialMT"],"dir":["ltr"]}

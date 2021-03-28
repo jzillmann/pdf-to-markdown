@@ -27,7 +27,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 36
+    "maxHeight": 36,
+    "minX": 6.487999999999971,
+    "maxX": 815.833,
+    "minY": 16.345999999999947,
+    "maxY": 563.346,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":0,"change":"none","str":"St Mary the Virgin, Witney","dir":"ltr","width":"299.73","height":"24.00","transform":["24.00","0.00","0.00","24.00","501.17","180.62"],"fontName":"Gill Sans MT Bold","x":501.167,"y":180.623}

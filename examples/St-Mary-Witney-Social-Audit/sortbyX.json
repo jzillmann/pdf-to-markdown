@@ -30,7 +30,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 36
+    "maxHeight": 36,
+    "minX": 6.487999999999971,
+    "maxX": 815.833,
+    "minY": 16.345999999999947,
+    "maxY": 563.346,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":5,"change":"ContentChange","str":"West Oxon 009 West Oxon 010","line":48,"x":595.737,"y":412.752,"width":"85.60","height":"7.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}

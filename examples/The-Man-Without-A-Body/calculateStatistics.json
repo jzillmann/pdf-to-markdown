@@ -27,7 +27,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 11
+    "maxHeight": 11,
+    "minX": 72.025,
+    "maxX": 536.73,
+    "minY": 75.025,
+    "maxY": 747.22,
+    "pageMapping": {
+      "pageFactor": 0,
+      "detectedOnPage": false
+    }
   }
 }
 {"page":0,"change":"none","str":"{","dir":"ltr","width":"4.36","height":"11.00","transform":["11.00","0.00","0.00","11.00","255.85","747.22"],"fontName":"BCDEEE+Garamond-Bold","x":255.85,"y":747.22}

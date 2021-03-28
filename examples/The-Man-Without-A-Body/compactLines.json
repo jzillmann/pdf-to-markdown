@@ -31,7 +31,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 11
+    "maxHeight": 11,
+    "minX": 72.025,
+    "maxX": 536.73,
+    "minY": 75.025,
+    "maxY": 747.22,
+    "pageMapping": {
+      "pageFactor": 0,
+      "detectedOnPage": false
+    }
   }
 }
 {"page":0,"change":"Addition","str":"{ fro m } THE {New York} SUN, SUNDAY, MARCH 25, 1877.","line":0,"x":255.85,"y":747.22,"width":"276.07","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}

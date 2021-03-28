@@ -27,7 +27,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 24
+    "maxHeight": 24,
+    "minX": 57.59999999999991,
+    "maxX": 312.78,
+    "minY": 44.76,
+    "maxY": 515.8338448603599,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":0,"change":"none","str":"The War of the Worlds ","dir":"ltr","width":"240.30","height":"24.00","transform":["24.00","0.00","0.00","24.00","80.64","445.62"],"x":80.64,"y":445.62}

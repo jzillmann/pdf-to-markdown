@@ -31,7 +31,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 29
+    "maxHeight": 29,
+    "minX": 37.1206,
+    "maxX": 542.2816,
+    "minY": 36.1763,
+    "maxY": 811.1348,
+    "pageMapping": {
+      "pageFactor": 0,
+      "detectedOnPage": false
+    }
   }
 }
 {"page":0,"change":"Addition","str":"F l a s h - M a s q u e","line":4,"x":37.1206,"y":758.8381,"width":"99.35","height":"17.64","fontName":["NRVUEW+Futura-Light"],"dir":["ltr"]}

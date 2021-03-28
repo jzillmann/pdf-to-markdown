@@ -30,7 +30,16 @@
     }
   ],
   "globals": {
-    "maxHeight": 24.787
+    "maxHeight": 24.787,
+    "minX": 102.88399999999984,
+    "maxX": 488.43800000000005,
+    "minY": 95.545,
+    "maxY": 735.021,
+    "pageMapping": {
+      "pageFactor": 0,
+      "detectedOnPage": true
+    },
+    "pageFactor": "0"
   }
 }
 {"page":1,"change":"Removal","str":"1","dir":"ltr","width":"5.98","height":"11.96","transform":["11.96","0.00","0.00","11.96","294.17","95.55"],"fontName":"FZVLIH+NimbusRomNo9L-Regu","x":294.167,"y":95.545,"line":14}

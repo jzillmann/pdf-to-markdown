@@ -30,7 +30,16 @@
     }
   ],
   "globals": {
-    "maxHeight": 28.799999999999997
+    "maxHeight": 28.799999999999997,
+    "minX": 72,
+    "maxX": 537.4124748000004,
+    "minY": 75.60000000000002,
+    "maxY": 712.8,
+    "pageMapping": {
+      "pageFactor": 0,
+      "detectedOnPage": false
+    },
+    "pageFactor": "n/a"
   }
 }
 {"page":87,"change":"Removal","str":"F O O T N O T E S :","line":0,"x":251.741232,"y":687.6,"width":"108.58","height":"16.56","fontName":["AAAAAB+LiberationSerif-Bold"],"dir":["ltr"]}

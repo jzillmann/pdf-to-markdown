@@ -30,6 +30,14 @@
     }
   ],
   "globals": {
-    "maxHeight": 28.799999999999997
+    "maxHeight": 28.799999999999997,
+    "minX": 72,
+    "maxX": 537.4124748000004,
+    "minY": 75.60000000000002,
+    "maxY": 712.8,
+    "pageMapping": {
+      "pageFactor": 0,
+      "detectedOnPage": false
+    }
   }
 }

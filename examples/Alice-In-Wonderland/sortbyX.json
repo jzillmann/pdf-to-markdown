@@ -30,7 +30,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 24.787
+    "maxHeight": 24.787,
+    "minX": 102.88399999999984,
+    "maxX": 488.43800000000005,
+    "minY": 95.545,
+    "maxY": 735.021,
+    "pageMapping": {
+      "pageFactor": 0,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":12,"change":"ContentChange","str":"she began again: ‘O u est ma chatte?’ which was the first sentence in her French `","line":37,"x":102.88399999999999,"y":183.2159999999997,"width":"392.53","height":"11.96","fontName":["FZVLIH+NimbusRomNo9L-Regu"],"dir":["ltr"]}

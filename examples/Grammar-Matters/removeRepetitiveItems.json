@@ -30,7 +30,16 @@
     }
   ],
   "globals": {
-    "maxHeight": 48
+    "maxHeight": 48,
+    "minX": 62.03970999999996,
+    "maxX": 536.37986,
+    "minY": 22.6801,
+    "maxY": 709.8000000000001,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    },
+    "pageFactor": "1"
   }
 }
 {"page":0,"change":"Removal","str":"1","dir":"ltr","width":"4.08","height":"8.04","transform":["8.04","0.00","0.00","8.04","304.01","22.68"],"fontName":"NTKUYH+Calibri","x":304.01,"y":22.6801,"line":0}

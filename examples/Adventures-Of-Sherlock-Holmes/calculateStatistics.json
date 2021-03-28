@@ -27,7 +27,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 59.7758
+    "maxHeight": 59.7758,
+    "minX": 117.8279999999999,
+    "maxX": 471.0319307,
+    "minY": 95.28300000000016,
+    "maxY": 736.017,
+    "pageMapping": {
+      "pageFactor": -1,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":0,"change":"none","str":"SHERLOCK","dir":"ltr","width":"363.20","height":"59.78","transform":["59.78","0.00","0.00","59.78","117.83","656.26"],"fontName":"NVBKCW+RoyalInitialen","x":117.828,"y":656.262}

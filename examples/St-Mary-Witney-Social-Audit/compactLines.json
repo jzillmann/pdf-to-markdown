@@ -31,7 +31,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 36
+    "maxHeight": 36,
+    "minX": 6.487999999999971,
+    "maxX": 815.833,
+    "minY": 16.345999999999947,
+    "maxY": 563.346,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":1,"change":"Addition","str":"Cover photo: Brian Robert Marshall under Creative Commons Licence.","line":0,"x":34.015,"y":551.26,"width":"288.66","height":"10.00","fontName":["Gill Sans MT"],"dir":["ltr"]}

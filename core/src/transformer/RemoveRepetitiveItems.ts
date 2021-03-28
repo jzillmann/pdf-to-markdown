@@ -17,6 +17,10 @@ import {
 } from '../support/groupingUtils';
 import { filterOutDigits } from '../support/stringFunctions';
 import { flatten, groupBy } from '../support/functional';
+import { MIN_Y, MAX_Y } from './CacluclateStatistics';
+import GlobalDefinition from './GlobalDefinition';
+
+export const PAGE_FACTOR = new GlobalDefinition<string>('pageFactor');
 
 const config = {
   // Max number of lines at top/bottom (per page) which are getting evaluated for eviction
@@ -43,17 +47,8 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
   }
 
   transform(context: TransformContext, inputItems: Item[]): ItemResult {
-    const { minY, maxY } = inputItems.reduce(
-      ({ minY, maxY }, item) => {
-        const y = item.data['y'];
-        return {
-          minY: Math.min(minY, y),
-          maxY: Math.max(maxY, y),
-        };
-      },
-      { minY: 999, maxY: 0 },
-    );
-
+    const minY = context.getGlobal(MIN_Y);
+    const maxY = context.getGlobal(MAX_Y);
     const bottomMaxY = minY + config.maxDistanceFromFringeElements;
     const topMinY = maxY - config.maxDistanceFromFringeElements;
     // console.log('bottomMaxY', bottomMaxY, 'topMinY', topMinY);
@@ -76,6 +71,8 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
     );
 
     const pageNumber = detectAPageNumber(fringeLines);
+    const globuly = pageNumber ? `${pageNumber.pageNumber - pageNumber.pageIndex}` : 'n/a';
+
     const fringeYs = fringeLines
       .map((line) => line.y)
       .filter(onlyUniques)
@@ -126,6 +123,7 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
         return lineItems;
       }),
       messages: [`Filtered out ${removalCount} items with y == ${yToRemove.join('||')}`],
+      globals: [PAGE_FACTOR.value(globuly)],
     };
   }
 }
@@ -142,6 +140,7 @@ function calculatePageNumerScore(pageCount: number, pageNumber: PageNumber, line
 function detectAPageNumber(lines: PageLine[]): PageNumber | undefined {
   const linesByPage = groupBy(lines, (line) => line.page).sort((a, b) => a[0].page - b[0].page);
   const pageIndexInTheMiddle = Math.round(linesByPage.length / 2);
+
   const possiblePageNumbersForMiddle = possiblePageNumbers(linesByPage[pageIndexInTheMiddle]);
   const remainingOptions = filterOutIncompatibleVariant(
     possiblePageNumbersForMiddle,

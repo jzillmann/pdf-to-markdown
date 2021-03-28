@@ -30,7 +30,16 @@
     }
   ],
   "globals": {
-    "maxHeight": 30
+    "maxHeight": 30,
+    "minX": 56.69069,
+    "maxX": 507.3787,
+    "minY": 45,
+    "maxY": 772,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    },
+    "pageFactor": "1"
   }
 }
 {"page":0,"change":"Removal","str":"\u0000 1","line":5,"x":294,"y":45,"width":"6.67","height":"12.00","fontName":["QACXPP+Helvetica","JBRMKS+Helvetica"],"dir":["ltr"]}

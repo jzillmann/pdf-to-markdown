@@ -31,7 +31,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 59.7758
+    "maxHeight": 59.7758,
+    "minX": 117.8279999999999,
+    "maxX": 471.0319307,
+    "minY": 95.28300000000016,
+    "maxY": 736.017,
+    "pageMapping": {
+      "pageFactor": -1,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":1,"change":"Addition","str":"S IR A RTHUR I GNATIUS C ONAN D OYLE","line":0,"x":196.324,"y":678.946,"width":"342.54","height":"24.79","fontName":["KKLGKN+NimbusRomNo9L-Regu","INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}

@@ -30,7 +30,16 @@
     }
   ],
   "globals": {
-    "maxHeight": 64
+    "maxHeight": 64,
+    "minX": 46.323,
+    "maxX": 436.5,
+    "minY": 37.73867999999993,
+    "maxY": 610.5599,
+    "pageMapping": {
+      "pageFactor": -6,
+      "detectedOnPage": true
+    },
+    "pageFactor": "-6"
   }
 }
 {"page":5,"change":"Removal","str":"V ","dir":"ltr","width":"7.68","height":"7.98","transform":["7.98","0.00","0.00","7.98","382.86","52.74"],"fontName":"CRDKGT+ArialMT","x":382.8617,"y":52.741,"line":0}

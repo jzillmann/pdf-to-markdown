@@ -31,7 +31,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 24.787
+    "maxHeight": 24.787,
+    "minX": 102.88399999999984,
+    "maxX": 488.43800000000005,
+    "minY": 95.545,
+    "maxY": 735.021,
+    "pageMapping": {
+      "pageFactor": 0,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":0,"change":"Addition","str":"A LICE ’ S A DVENTURES","line":0,"x":171.72200000000004,"y":625.557,"width":"238.54","height":"24.79","fontName":["TBCMKD+NimbusRomNo9L-Medi"],"dir":["ltr"]}

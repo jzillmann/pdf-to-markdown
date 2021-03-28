@@ -31,7 +31,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 48
+    "maxHeight": 48,
+    "minX": 62.03970999999996,
+    "maxX": 536.37986,
+    "minY": 22.6801,
+    "maxY": 709.8000000000001,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":0,"change":"Addition","str":"Grammar Matters  by  Debbie Kuhlmann is licensed under a  Creative Commons Attribution  4.0","line":3,"x":99.6238,"y":96.1441,"width":"413.06","height":"9.96","fontName":["URQURO+Helvetica"],"dir":["ltr"]}

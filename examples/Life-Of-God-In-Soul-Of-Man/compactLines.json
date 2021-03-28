@@ -31,7 +31,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 45.974399999999996
+    "maxHeight": 45.974399999999996,
+    "minX": 26.29161,
+    "maxX": 273.69135,
+    "minY": 15.08535,
+    "maxY": 432.30303,
+    "pageMapping": {
+      "pageFactor": -17,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":3,"change":"Addition","str":"(l^,^^^^i^<jiM'^^^>^ ^","line":0,"x":35.055479999999996,"y":384.02991,"width":"97.70","height":"45.97","fontName":[null],"dir":["ltr"]}

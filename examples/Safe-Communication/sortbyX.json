@@ -30,7 +30,15 @@
     }
   ],
   "globals": {
-    "maxHeight": 36
+    "maxHeight": 36,
+    "minX": 53.88,
+    "maxX": 797.38,
+    "minY": 23.04,
+    "maxY": 528.34,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    }
   }
 }
 {"page":22,"change":"ContentChange","str":"0.5 1.5 2.5 3.5 4.5 0 1 2 3 4 5","line":46,"x":442.82,"y":254.83,"width":"93.38","height":"9.98","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}

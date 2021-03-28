@@ -30,7 +30,16 @@
     }
   ],
   "globals": {
-    "maxHeight": 24
+    "maxHeight": 24,
+    "minX": 57.59999999999991,
+    "maxX": 312.78,
+    "minY": 44.76,
+    "maxY": 515.8338448603599,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    },
+    "pageFactor": "1"
   }
 }
 {"page":1,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
