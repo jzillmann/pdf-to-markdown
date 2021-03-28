@@ -43,7 +43,6 @@ describe.each(files)('Test %p', (file) => {
     'stage %p',
     (transformerName) => {
       const stageResult = debug.stageResult(debug.stageNames.indexOf(transformerName));
-
       const chunkedLines: string[][] = [[]];
       let resultIndex = 0;
       let collectedItems = 0;
@@ -114,6 +113,7 @@ function toHeader(stageResult: StageResult): string {
   let groupedItemCount = stageResult
     .selectPages(false, true)
     .reduce((itemCount, page) => itemCount + page.itemGroups.length, 0);
+
   return JSON.stringify(
     {
       pages: stageResult.pages.length,
@@ -121,11 +121,19 @@ function toHeader(stageResult: StageResult): string {
       groupedItems: groupedItemCount,
       changes: stageResult.changes.changeCount(),
       schema: stageResult.schema,
+      globals: mapToObject(stageResult.globals.map),
       // messages: stageResults.messages,
     },
     null,
     2,
   );
+}
+
+function mapToObject(map: Map<any, any>): object {
+  return Array.from(map).reduce((obj, [key, value]) => {
+    obj[key] = value;
+    return obj;
+  }, {});
 }
 
 function itemToString(fontMap: Map<string, object>, item: Item, changeType: string): string {

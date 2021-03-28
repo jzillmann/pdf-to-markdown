@@ -29,7 +29,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 11
+  }
 }
 {"page":0,"change":"Addition","str":"{ fro m } THE {New York} SUN, SUNDAY, MARCH 25, 1877.","line":0,"x":255.85,"y":747.22,"width":"276.07","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"TH E MAN WITHOUT A BODY","line":1,"x":103.05,"y":706.47,"width":"157.11","height":"11.00","fontName":["BCDEEE+Garamond-Bold"],"dir":["ltr"]}

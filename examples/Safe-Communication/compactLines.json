@@ -29,7 +29,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 36
+  }
 }
 {"page":0,"change":"Addition","str":"Quality Improvement Clinic Ltd.  August 2015","line":0,"x":99.264,"y":23.04,"width":"214.60","height":"11.04","fontName":[null],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"Safe C ommun i cation","line":1,"x":99.264,"y":436.9,"width":"395.03","height":"36.00","fontName":["ABCDEE+Lucida Calligraphy"],"dir":["ltr"]}

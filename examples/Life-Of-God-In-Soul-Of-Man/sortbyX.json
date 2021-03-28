@@ -28,7 +28,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 45.974399999999996
+  }
 }
 {"page":6,"change":"ContentChange","str":"T OooulO^I ^ 4le.^A\\-^","line":0,"x":55.16928,"y":403.28168999999997,"width":"113.07","height":"23.47","fontName":[null],"dir":["ltr"]}
 {"page":7,"change":"ContentChange","str":"PUBLIC 793478 LIBRARY^ A","line":1,"x":138.35421,"y":334.7511,"width":"146.69","height":"16.16","fontName":[null],"dir":["ltr"]}

@@ -31,7 +31,8 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {}
 }
 {"page":0,"change":"none","str":"A","dir":"ltr","width":"17.90","height":"24.79","transform":["24.79","0.00","0.00","24.79","171.72","625.56"],"fontName":"TBCMKD+NimbusRomNo9L-Medi","x":171.72200000000004,"y":625.557}
 {"page":0,"change":"none","str":"LICE","dir":"ltr","width":"52.17","height":"19.83","transform":["19.83","0.00","0.00","19.83","190.86","625.56"],"fontName":"TBCMKD+NimbusRomNo9L-Medi","x":190.85800000000003,"y":625.557}

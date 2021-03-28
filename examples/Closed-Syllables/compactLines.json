@@ -29,7 +29,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 18
+  }
 }
 {"page":0,"change":"Addition","str":"Closed syllable word lists  1","line":0,"x":420.79,"y":745.56,"width":"119.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":1,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}

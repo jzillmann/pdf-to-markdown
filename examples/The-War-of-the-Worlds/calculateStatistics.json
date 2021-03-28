@@ -25,7 +25,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 24
+  }
 }
 {"page":0,"change":"none","str":"The War of the Worlds ","dir":"ltr","width":"240.30","height":"24.00","transform":["24.00","0.00","0.00","24.00","80.64","445.62"],"x":80.64,"y":445.62}
 {"page":0,"change":"none","str":"H. G. Wells ","dir":"ltr","width":"60.33","height":"12.00","transform":["12.00","0.00","0.00","12.00","169.32","415.38"],"x":169.32,"y":415.38}

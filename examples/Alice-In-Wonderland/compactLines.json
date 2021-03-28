@@ -29,7 +29,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 24.787
+  }
 }
 {"page":0,"change":"Addition","str":"A LICE ’ S A DVENTURES","line":0,"x":171.72200000000004,"y":625.557,"width":"238.54","height":"24.79","fontName":["TBCMKD+NimbusRomNo9L-Medi"],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"IN W ONDERLAND","line":1,"x":200.12800000000004,"y":596.081,"width":"185.63","height":"24.79","fontName":["TBCMKD+NimbusRomNo9L-Medi"],"dir":["ltr"]}

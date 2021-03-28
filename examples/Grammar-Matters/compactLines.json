@@ -29,7 +29,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 48
+  }
 }
 {"page":0,"change":"Addition","str":"Grammar Matters  by  Debbie Kuhlmann is licensed under a  Creative Commons Attribution  4.0","line":3,"x":99.6238,"y":96.1441,"width":"413.06","height":"9.96","fontName":["URQURO+Helvetica"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"1. Proper grammar is essential to being understood.  Writing is an essential form of ","line":3,"x":72.0238,"y":572.1401999999999,"width":"461.52","height":"12.00","fontName":["SJUTSY+Arial,Bold","XYXVPQ+Arial"],"dir":["ltr"]}

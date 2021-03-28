@@ -28,5 +28,8 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 28.799999999999997
+  }
 }

@@ -29,7 +29,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 30
+  }
 }
 {"page":0,"change":"Addition","str":"Dies ist eine Test-PDF . 1","line":2,"x":240,"y":585,"width":"115.75","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"Für’s Testen des  Markdown Parsers .","line":3,"x":208,"y":572,"width":"178.54","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}

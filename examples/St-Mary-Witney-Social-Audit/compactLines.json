@@ -29,7 +29,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 36
+  }
 }
 {"page":1,"change":"Addition","str":"Cover photo: Brian Robert Marshall under Creative Commons Licence.","line":0,"x":34.015,"y":551.26,"width":"288.66","height":"10.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
 {"page":2,"change":"Addition","str":"Introduction     5","line":0,"x":452.032,"y":384.497,"width":"81.35","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}

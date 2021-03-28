@@ -28,7 +28,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 28.799999999999997
+  }
 }
 {"page":87,"change":"Removal","str":"F O O T N O T E S :","line":0,"x":251.741232,"y":687.6,"width":"108.58","height":"16.56","fontName":["AAAAAB+LiberationSerif-Bold"],"dir":["ltr"]}
 {"page":180,"change":"Removal","str":"F O O T N O T E S :","line":0,"x":251.74151999999958,"y":687.6,"width":"108.58","height":"16.56","fontName":["AAAAAB+LiberationSerif-Bold"],"dir":["ltr"]}

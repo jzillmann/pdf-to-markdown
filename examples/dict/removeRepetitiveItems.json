@@ -28,7 +28,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 24.7871
+  }
 }
 {"page":4,"change":"Removal","str":"5","dir":"ltr","width":"5.85","height":"11.96","transform":["11.96","0.00","0.00","11.96","526.49","738.02"],"fontName":"LERRTL+CMR12","x":526.491,"y":738.022,"line":0}
 {"page":5,"change":"Removal","str":"6 Chapter 1. Shortest paths and trees","line":0,"x":72,"y":738.022,"width":"190.74","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}

@@ -28,7 +28,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 45.974399999999996
+  }
 }
 {"page":13,"change":"Removal","str":"\\-iii Preface.","line":0,"x":63.50214,"y":400.98296999999997,"width":"50.42","height":"7.99","fontName":[null],"dir":["ltr"]}
 {"page":15,"change":"Removal","str":"Contents.","dir":"ltr","width":"40.95","height":"7.58","transform":["7.58","0.00","0.00","7.58","152.29","405.15"],"x":152.2902,"y":405.14939999999996,"line":0}

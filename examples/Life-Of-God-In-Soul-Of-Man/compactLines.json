@@ -29,7 +29,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 45.974399999999996
+  }
 }
 {"page":3,"change":"Addition","str":"(l^,^^^^i^<jiM'^^^>^ ^","line":0,"x":35.055479999999996,"y":384.02991,"width":"97.70","height":"45.97","fontName":[null],"dir":["ltr"]}
 {"page":6,"change":"Addition","str":"OooulO^I ^ 4le.^A\\-^ T","line":0,"x":55.16928,"y":403.28168999999997,"width":"113.07","height":"23.47","fontName":[null],"dir":["ltr"]}

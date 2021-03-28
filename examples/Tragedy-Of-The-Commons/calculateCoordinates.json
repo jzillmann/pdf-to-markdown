@@ -31,7 +31,8 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {}
 }
 {"page":0,"change":"none","str":"What","dir":"ltr","width":"21.78","height":"12.90","transform":["9.08","0.00","0.00","12.90","365.64","739.68"],"fontName":"Courier","x":365.64,"y":739.6800000000001}
 {"page":0,"change":"none","str":"Shanl","dir":"ltr","width":"20.28","height":"14.40","transform":["6.76","0.00","0.00","14.40","392.40","739.56"],"fontName":"Courier","x":392.4,"y":739.5600000000001}

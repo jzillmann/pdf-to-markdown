@@ -25,7 +25,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 29
+  }
 }
 {"page":0,"change":"none","str":"La vraie température !","dir":"ltr","width":"307.05","height":"29.00","transform":["29.00","0.00","0.00","29.00","197.43","469.65"],"fontName":"NRVUEW+HelveticaNeue-Thin","x":197.4282,"y":469.654}
 {"page":0,"change":"none","str":"qui permet de laver en toute sécurité ","dir":"ltr","width":"328.32","height":"18.00","transform":["18.00","0.00","0.00","18.00","188.39","416.29"],"fontName":"NRVUEW+HelveticaNeue-Thin","x":188.3882,"y":416.2949}

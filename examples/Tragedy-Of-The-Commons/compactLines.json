@@ -29,7 +29,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 22.5
+  }
 }
 {"page":0,"change":"Addition","str":"What Shanl We Mam?","line":0,"x":365.64,"y":738.30001,"width":"99.72","height":"14.40","fontName":["Courier"],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"The Tragedy of the Commons","line":1,"x":66.35999999999996,"y":668.0399900000001,"width":"212.04","height":"22.50","fontName":["Courier"],"dir":["ltr"]}

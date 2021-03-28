@@ -28,7 +28,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 64
+  }
 }
 {"page":45,"change":"ContentChange","str":"Jährlicher Verbrauch an  Biomasse [kg/kWh] 1,1 Kohle Entsorgungskosten - [€/t] 155 ","line":18,"x":67.74,"y":247.14,"width":"291.25","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":45,"change":"ContentChange","str":"Spezifische  Kohleerzeugung [kg/kWh] 0,02  Für  verwendete  Wärmeenergie [%] die Trocknung  50","line":19,"x":67.74,"y":213.06,"width":"345.41","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}

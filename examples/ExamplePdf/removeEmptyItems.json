@@ -25,7 +25,8 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {}
 }
 {"page":0,"change":"Removal","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","61.08","59.00"],"fontName":"JBRMKS+Helvetica","x":61.078451,"y":59}
 {"page":2,"change":"Removal","str":" ","dir":"ltr","width":"3.06","height":"11.00","transform":["11.00","0.00","0.00","11.00","61.08","164.00"],"fontName":"JBRMKS+Helvetica","x":61.078451,"y":164}

@@ -25,7 +25,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 48
+  }
 }
 {"page":0,"change":"none","str":"1","dir":"ltr","width":"4.08","height":"8.04","transform":["8.04","0.00","0.00","8.04","304.01","22.68"],"fontName":"NTKUYH+Calibri","x":304.01,"y":22.6801}
 {"page":0,"change":"none","str":"Grammar Matters ","dir":"ltr","width":"422.48","height":"48.00","transform":["48.00","0.00","0.00","48.00","101.54","554.98"],"fontName":"YBJWME+CenturyGothic,Bold","x":101.53969000000006,"y":554.9793999999998}

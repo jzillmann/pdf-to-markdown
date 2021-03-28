@@ -31,7 +31,8 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {}
 }
 {"page":0,"change":"none","str":"St Mary the Virgin, Witney","dir":"ltr","width":"299.73","height":"24.00","transform":["24.00","0.00","0.00","24.00","501.17","180.62"],"fontName":"Gill Sans MT Bold","x":501.167,"y":180.623}
 {"page":0,"change":"none","str":"Social Audit                      January 2012","dir":"ltr","width":"298.23","height":"18.00","transform":["18.00","0.00","0.00","18.00","501.17","147.59"],"fontName":"Gill Sans MT","x":501.167,"y":147.591}

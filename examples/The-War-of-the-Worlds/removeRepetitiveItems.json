@@ -28,7 +28,10 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {
+    "maxHeight": 24
+  }
 }
 {"page":1,"change":"Removal","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":1,"change":"Removal","str":"2  of  293 ","line":1,"x":178.68,"y":44.76,"width":"41.60","height":"12.00","fontName":[null],"dir":["ltr"]}

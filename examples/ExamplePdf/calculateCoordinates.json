@@ -31,7 +31,8 @@
     {
       "name": "height"
     }
-  ]
+  ],
+  "globals": {}
 }
 {"page":0,"change":"none","str":"Mega Überschrift","dir":"ltr","width":"245.06","height":"30.00","transform":["30.00","0.00","0.00","30.00","175.00","756.00"],"fontName":"OMUGKQ+Helvetica-Bold","x":175,"y":756}
 {"page":0,"change":"none","str":"2te Überschrift","dir":"ltr","width":"130.06","height":"20.00","transform":["20.00","0.00","0.00","20.00","233.00","665.00"],"fontName":"JBRMKS+Helvetica","x":233,"y":665}
