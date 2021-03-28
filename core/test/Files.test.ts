@@ -19,7 +19,10 @@ const pipeline = new PdfPipeline(parser, transformers);
 
 const folder = '../examples';
 const files = fs.readdirSync(folder).filter((file) => file.endsWith('.pdf'));
-const urls = ['https://homepages.cwi.nl/~lex/files/dict.pdf'];
+const urls = [
+  'https://homepages.cwi.nl/~lex/files/dict.pdf',
+  'https://github.com/mozilla/pdf.js/raw/master/web/compressed.tracemonkey-pldi-09.pdf',
+];
 const downloadCache = 'node_modules/.cache/files';
 
 expect.extend({ toMatchFile });

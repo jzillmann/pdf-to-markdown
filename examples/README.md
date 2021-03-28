@@ -36,6 +36,9 @@ _(PDFs which entered `public domain` or have a otherwise permissive license like
 ## PDFs not stored but paritally tested
 
 - https://homepages.cwi.nl/~lex/files/dict.pdf
+  - Page numbers with current chapter
+- https://github.com/mozilla/pdf.js/raw/master/web/compressed.tracemonkey-pldi-09.pdf
+  - No page numbers
 
 # Known transformatino problems
 

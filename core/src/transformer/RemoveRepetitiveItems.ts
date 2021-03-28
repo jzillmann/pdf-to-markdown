@@ -161,10 +161,12 @@ function filterOutIncompatibleVariant(options: PageNumber[], nextPageLines: Page
   let remainingOptions = [...options];
   while (remainingOptions.length > 1 && index < nextPageLines.length) {
     const nextPageNumbers = possiblePageNumbers(nextPageLines[index]);
-    remainingOptions = remainingOptions.filter((option) => {
-      const maxDistance = nextPageNumbers[0].pageIndex - option.pageIndex;
-      return nextPageNumbers.find((nextPageNum) => nextPageNum.pageNumber - option.pageNumber <= maxDistance);
-    });
+    if (nextPageNumbers.length > 0) {
+      remainingOptions = remainingOptions.filter((option) => {
+        const maxDistance = nextPageNumbers[0].pageIndex - option.pageIndex;
+        return nextPageNumbers.find((nextPageNum) => nextPageNum.pageNumber - option.pageNumber <= maxDistance);
+      });
+    }
     index++;
   }
   return remainingOptions;
