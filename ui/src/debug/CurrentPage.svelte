@@ -11,7 +11,7 @@
     export let pageControl: PageControl;
     export let pageIndex: number;
 
-    let { pagePinned, canPrev, canNext } = pageControl;
+    let { pagePinned, canPrev, canNext, pageMapping } = pageControl;
 </script>
 
 <div class="flex items-center space-x-1">
@@ -20,7 +20,13 @@
             <Icon class="text-xs hover:text-select hover:opacity-25 cursor-pointer opacity-75" icon={pin} />
         </span>
     {/if}
-    <div>Page {pageIndex + 1} {$pagePinned ? '' : ' / ' + pageControl.totalPages}</div>
+    <div>
+        Page
+        {$pageMapping.pageLabel(pageIndex)}
+        {#if $pageMapping.shifted()}
+            <span class="font-light"> ({pageIndex + 1}/{pageControl.totalPages}) </span>
+        {:else}/ {pageControl.totalPages + $pageMapping.pageFactor - 1}{/if}
+    </div>
 </div>
 {#if $pagePinned}
     <div class="absolute flex ml-4 space-x-2">

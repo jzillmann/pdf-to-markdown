@@ -3,6 +3,7 @@
     import { flip } from 'svelte/animate';
 
     import type Debugger from '@core/Debugger';
+    import { PAGE_MAPPING } from '../../../core/src/transformer/CacluclateStatistics';
 
     import { debugStage } from '../config';
     import ControlBar from './ControlBar.svelte';
@@ -19,6 +20,7 @@
     let onlyRelevantItems = true;
 
     $: stageResult = debug.stageResult($debugStage);
+    $: pageControl.updateMapping(stageResult.globals.getOptional(PAGE_MAPPING));
     $: supportsGrouping = !!stageResult.descriptor?.debug?.itemMerger;
     $: supportsRelevanceFiltering = !stageResult.descriptor?.debug?.showAll;
     $: visiblePages = pageControl.selectPages(stageResult, onlyRelevantItems, groupingEnabled, $pinnedPageIndex);

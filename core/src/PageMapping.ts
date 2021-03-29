@@ -2,7 +2,7 @@
  * Holds the information which (zero based) page index maps to a page number.
  */
 export default class PageMapping {
-  constructor(public pageFactor: number, public detectedOnPage: boolean) {}
+  constructor(public pageFactor: number = 1, public detectedOnPage: boolean = false) {}
 
   /**
    * Translates a given page index to a page number label as printed on the page. E.g [0,1,2,3,4] could become [I, II, 1, 2].
@@ -10,10 +10,14 @@ export default class PageMapping {
    */
   pageLabel(pageIndex: number) {
     const pageNumber = pageIndex + this.pageFactor;
-    if (pageNumber < 0) {
-      return romanize(pageNumber - this.pageFactor + 1);
+    if (pageNumber < 1) {
+      return romanize(Math.abs(pageNumber - this.pageFactor) + 1);
     }
-    return `${pageNumber + 1}`;
+    return `${pageNumber}`;
+  }
+
+  shifted(): boolean {
+    return this.pageFactor != 1;
   }
 }
 

@@ -33,7 +33,7 @@
     "minY": 75.025,
     "maxY": 747.22,
     "pageMapping": {
-      "pageFactor": 0,
+      "pageFactor": 1,
       "detectedOnPage": false
     }
   }

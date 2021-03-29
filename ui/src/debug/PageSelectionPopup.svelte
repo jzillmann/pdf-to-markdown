@@ -8,7 +8,8 @@
 
     export let pageControl: PageControl;
 
-    let { pinnedPageIndex, pagePinned } = pageControl;
+    let { pinnedPageIndex, pagePinned, pageMapping } = pageControl;
+    let showIndex = false;
 
     const popupOpened: Writable<boolean> = getContext('popupOpened');
 
@@ -34,7 +35,7 @@
             <div
                 on:click={() => pageControl.pageHasItems(idx) && pinPage(idx)}
                 class="px-2 border border-gray-300 rounded-full text-center  {pageControl.pageHasItems(idx) ? ($pinnedPageIndex === idx ? 'bg-select' : 'hover:text-select hover:border-select cursor-pointer') : 'opacity-50'}">
-                {idx + 1}
+                {#if showIndex}{idx}{:else}{$pageMapping.pageLabel(idx)}{/if}
             </div>
         {/each}
     </div>

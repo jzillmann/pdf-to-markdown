@@ -25,6 +25,10 @@ export default class Globals {
     return element;
   }
 
+  getOptional<T>(definition: GlobalDefinition<T>): T | undefined {
+    return this.map.get(definition.key) as T;
+  }
+
   set<T>(definition: GlobalDefinition<T>, value: T) {
     assertNot(this.isDefined(definition), `Global with key '${definition.key}' already registered.`);
     this.map.set(definition.key, value);

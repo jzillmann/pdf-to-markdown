@@ -8,6 +8,7 @@ test('not set', async () => {
   const globals = new Globals();
   globals.set(MyGlobalString, '23');
   expect(globals.isDefined(MyGlobalNumber)).toBeFalsy();
+  expect(globals.getOptional(MyGlobalNumber)).toBeUndefined();
   expect(() => globals.get(MyGlobalNumber)).toThrow(
     `No global with key '${MyGlobalNumber.key}' registered. Only [${MyGlobalString.key}]`,
   );
@@ -19,6 +20,7 @@ test('set', async () => {
 
   expect(globals.isDefined(MyGlobalNumber)).toBeTruthy();
   expect(globals.get(MyGlobalNumber)).toEqual(24);
+  expect(globals.getOptional(MyGlobalNumber)).toEqual(24);
   expect(globals.keys()).toEqual([MyGlobalNumber.key]);
 });
 

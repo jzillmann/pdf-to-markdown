@@ -1,5 +1,5 @@
-import Page from '@core/debug/Page';
 import StageResult from '@core/debug/StageResult';
+import PageMapping from '../../../core/src/PageMapping';
 import { Writable, writable, get, Readable, derived } from 'svelte/store';
 
 export default class PageControl {
@@ -8,6 +8,7 @@ export default class PageControl {
     canPrev: Readable<boolean>;
     canNext: Readable<boolean>;
     pagesWithItems: Set<number> = new Set();
+    pageMapping: Writable<PageMapping> = writable(new PageMapping());
 
     constructor(public totalPages: number) {
         this.pinnedPageIndex = writable(undefined);
@@ -20,6 +21,12 @@ export default class PageControl {
         this.next.bind(this);
         this.prev.bind(this);
         this.unpinPage.bind(this);
+    }
+
+    updateMapping(pageMapping: PageMapping | undefined) {
+        if (pageMapping) {
+            this.pageMapping.set(pageMapping);
+        }
     }
 
     selectPages(stageResult: StageResult, relevantChangesOnly: boolean, groupItems: boolean, pinnedPage?: number) {

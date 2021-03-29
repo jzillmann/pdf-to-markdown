@@ -73,7 +73,6 @@ export default class CalculateStatistics extends ItemTransformer {
 
     const groupedByPage = groupByPage(items);
     const pageMapping = parsePageMapping(groupedByPage, minX, maxX, minY, maxY);
-    console.log(pageMapping);
 
     // Parse line distances
     const distanceToOccurrence = {};
@@ -165,7 +164,7 @@ function parsePageMapping(
     }),
     { sampleCount: 20, minFulfillment: 0.8 },
   );
-  return typeof pageFactor === 'undefined' ? new PageMapping(0, false) : new PageMapping(pageFactor, true);
+  return typeof pageFactor === 'undefined' ? new PageMapping() : new PageMapping(pageFactor, true);
 }
 
 function getMostUsedKey(keyToOccurrence): any {
