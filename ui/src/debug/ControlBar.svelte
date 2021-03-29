@@ -69,7 +69,9 @@
         <span>
             <Popup>
                 <span slot="trigger">
-                    <div class="w-52 cursor-pointer hover:underline whitespace-nowrap">{stageNames[$debugStage]}</div>
+                    <div class="w-52 cursor-pointer hover:underline whitespace-nowrap italic">
+                        {stageNames[$debugStage]}
+                    </div>
                 </span>
                 <span slot="content">
                     <TransformerSelectionPopup
