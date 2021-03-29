@@ -58,6 +58,8 @@ test('distraction free - defered', () => {
     { index: 5, numbers: [4] },
     { index: 6, numbers: [5] },
     { index: 7, numbers: [6] },
+    { index: 8, numbers: [7] },
+    { index: 9, numbers: [8] },
   ];
 
   expect(finder.find(containers, extractor)).toEqual(-1);
@@ -88,6 +90,8 @@ test('distraction loaden - defered', () => {
     { index: 5, numbers: [4, 5, 65, 8] },
     { index: 6, numbers: [5, 9] },
     { index: 7, numbers: [6] },
+    { index: 8, numbers: [27, 7, 19] },
+    { index: 9, numbers: [-4, 2016, 8] },
   ];
 
   expect(finder.find(containers, extractor)).toEqual(-1);

@@ -38,8 +38,7 @@
     "pageMapping": {
       "pageFactor": 1,
       "detectedOnPage": true
-    },
-    "pageFactor": "n/a"
+    }
   }
 }
 {"page":0,"change":"Removal","str":"Closed syllable word lists  1","line":0,"x":420.79,"y":745.56,"width":"119.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}

@@ -38,8 +38,7 @@
     "pageMapping": {
       "pageFactor": 1,
       "detectedOnPage": true
-    },
-    "pageFactor": "1"
+    }
   }
 }
 {"page":4,"change":"Removal","str":"5","dir":"ltr","width":"5.85","height":"11.96","transform":["11.96","0.00","0.00","11.96","526.49","738.02"],"fontName":"LERRTL+CMR12","x":526.491,"y":738.022,"line":0}

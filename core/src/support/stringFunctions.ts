@@ -16,3 +16,7 @@ export function toCharcodes(text: string): number[] {
 export function filterOutDigits(text: string): string {
   return String.fromCharCode(...toCharcodes(text).filter((code) => !isDigit(code)));
 }
+
+export function extractNumbers(text: string): number[] {
+  return (text.match(/\d+/g) || []).map(Number);
+}

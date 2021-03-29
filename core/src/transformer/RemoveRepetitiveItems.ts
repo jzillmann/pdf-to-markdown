@@ -5,6 +5,7 @@ import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
+import { MIN_Y, MAX_Y, PAGE_MAPPING } from './CacluclateStatistics';
 import {
   ascending,
   flatMap,
@@ -16,16 +17,9 @@ import {
   transformGroupedByPageAndLine,
 } from '../support/groupingUtils';
 import { filterOutDigits } from '../support/stringFunctions';
-import { flatten, groupBy } from '../support/functional';
-import { MIN_Y, MAX_Y } from './CacluclateStatistics';
-import GlobalDefinition from './GlobalDefinition';
-
-export const PAGE_FACTOR = new GlobalDefinition<string>('pageFactor');
+import { extractNumbers } from '../support/stringFunctions';
 
 const config = {
-  // Max number of lines at top/bottom (per page) which are getting evaluated for eviction
-  maxNumberOffTopOrBottomLines: 3,
-
   // From the absolute fringe elements (min/max y) how much y can item deviate before beeing disregarded.
   maxDistanceFromFringeElements: 35,
 
@@ -49,6 +43,7 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
   transform(context: TransformContext, inputItems: Item[]): ItemResult {
     const minY = context.getGlobal(MIN_Y);
     const maxY = context.getGlobal(MAX_Y);
+    const pageMapping = context.getGlobal(PAGE_MAPPING);
     const bottomMaxY = minY + config.maxDistanceFromFringeElements;
     const topMinY = maxY - config.maxDistanceFromFringeElements;
     // console.log('bottomMaxY', bottomMaxY, 'topMinY', topMinY);
@@ -70,9 +65,6 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       (e) => e,
     );
 
-    const pageNumber = detectAPageNumber(fringeLines);
-    const globuly = pageNumber ? `${pageNumber.pageNumber - pageNumber.pageIndex}` : 'n/a';
-
     const fringeYs = fringeLines
       .map((line) => line.y)
       .filter(onlyUniques)
@@ -86,7 +78,9 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
         return false;
       }
 
-      const pageNumberScore: number = pageNumber ? calculatePageNumerScore(context.pageCount, pageNumber, yLines) : 0;
+      const pageNumberScore: number = pageMapping.detectedOnPage
+        ? calculatePageNumerScore(context.pageCount, pageMapping.pageFactor, yLines)
+        : 0;
       const textSimilarityScore: number = textSimilarity(yLines);
       const totalScore = pageNumberScore + textSimilarityScore;
       // console.log(
@@ -123,78 +117,15 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
         return lineItems;
       }),
       messages: [`Filtered out ${removalCount} items with y == ${yToRemove.join('||')}`],
-      globals: [PAGE_FACTOR.value(globuly)],
     };
   }
 }
 
-function calculatePageNumerScore(pageCount: number, pageNumber: PageNumber, lines: PageLine[]): number {
-  const pageNumberFactor = pageNumber.pageNumber - pageNumber.pageIndex;
-  const maxPageNumbers = pageCount + pageNumberFactor;
-  const linesWithPageNumbers = lines.filter((line) =>
-    extractNumbers(line.text()).includes(line.page + pageNumberFactor),
-  ).length;
+function calculatePageNumerScore(pageCount: number, pageFactor: number, lines: PageLine[]): number {
+  const maxPageNumbers = pageCount + pageFactor;
+  const linesWithPageNumbers = lines.filter((line) => extractNumbers(line.text()).includes(line.page + pageFactor))
+    .length;
   return linesWithPageNumbers / Math.min(maxPageNumbers, lines.length);
-}
-
-function detectAPageNumber(lines: PageLine[]): PageNumber | undefined {
-  const linesByPage = groupBy(lines, (line) => line.page).sort((a, b) => a[0].page - b[0].page);
-  const pageIndexInTheMiddle = Math.round(linesByPage.length / 2);
-
-  const possiblePageNumbersForMiddle = possiblePageNumbers(linesByPage[pageIndexInTheMiddle]);
-  const remainingOptions = filterOutIncompatibleVariant(
-    possiblePageNumbersForMiddle,
-    linesByPage.slice(pageIndexInTheMiddle + 1, linesByPage.length),
-  );
-  //TODO do the same filtering upstream !?
-
-  if (remainingOptions.length == 1) {
-    return remainingOptions[0];
-  }
-
-  return undefined;
-}
-
-function filterOutIncompatibleVariant(options: PageNumber[], nextPageLines: PageLine[][]): PageNumber[] {
-  let index = 0;
-  let remainingOptions = [...options];
-  while (remainingOptions.length > 1 && index < nextPageLines.length) {
-    const nextPageNumbers = possiblePageNumbers(nextPageLines[index]);
-    if (nextPageNumbers.length > 0) {
-      remainingOptions = remainingOptions.filter((option) => {
-        const maxDistance = nextPageNumbers[0].pageIndex - option.pageIndex;
-        return nextPageNumbers.find((nextPageNum) => nextPageNum.pageNumber - option.pageNumber <= maxDistance);
-      });
-    }
-    index++;
-  }
-  return remainingOptions;
-}
-
-interface PageNumber {
-  pageIndex: number;
-  pageNumber: number;
-  y: number;
-}
-
-function possiblePageNumbers(lines: PageLine[]): PageNumber[] {
-  return flatten(
-    lines.map((line) => {
-      return extractNumbers(line.text())
-        .filter((number) => number >= 0)
-        .filter((number) => number <= line.page + 1)
-        .filter(onlyUniques)
-        .map((num) => ({
-          pageIndex: line.page,
-          pageNumber: num,
-          y: line.y,
-        }));
-    }),
-  );
-}
-
-function extractNumbers(text: string): number[] {
-  return (text.match(/\d+/g) || []).map(Number);
 }
 
 function textSimilarity(lines: PageLine[]): number {
