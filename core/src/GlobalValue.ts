@@ -1,4 +1,3 @@
-import { assertDefined, assertNot } from 'src/assert';
 import GlobalDefinition from './GlobalDefinition';
 
 export default class GlobalValue<T> {

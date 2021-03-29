@@ -6,7 +6,7 @@ import ParseResult from './ParseResult';
 import Debugger from './Debugger';
 import { assert } from './assert';
 import TransformContext from './transformer/TransformContext';
-import Globals from './transformer/Globals';
+import Globals from './Globals';
 
 export default class PdfPipeline {
   parser: PdfParser;

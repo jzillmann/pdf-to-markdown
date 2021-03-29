@@ -1,5 +1,5 @@
 import type Item from './Item';
-import GlobalValue from './transformer/GlobalValue';
+import GlobalValue from './GlobalValue';
 
 export default interface ItemResult {
   items: Item[];

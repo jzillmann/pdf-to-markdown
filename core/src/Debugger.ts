@@ -9,7 +9,7 @@ import { asPages } from './debug/Page';
 import EvaluationTracker from './transformer/EvaluationTracker';
 import ChangeTracker from './debug/ChangeTracker';
 import PageViewport from './parse/PageViewport';
-import Globals from './transformer/Globals';
+import Globals from './Globals';
 
 export default class Debugger {
   private transformers: ItemTransformer[];

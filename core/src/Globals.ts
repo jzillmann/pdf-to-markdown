@@ -1,5 +1,5 @@
 import GlobalDefinition from './GlobalDefinition';
-import { assertDefined, assertNot } from '../assert';
+import { assertDefined, assertNot } from './assert';
 import GlobalValue from './GlobalValue';
 
 export default class Globals {

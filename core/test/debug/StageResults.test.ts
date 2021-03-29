@@ -6,7 +6,7 @@ import AnnotatedColumn from 'src/debug/AnnotatedColumn';
 import Page, { asPages } from 'src/debug/Page';
 import { items } from '../testItems';
 import LineItemMerger from 'src/debug/LineItemMerger';
-import Globals from 'src/transformer/Globals';
+import Globals from 'src/Globals';
 
 test('itemsUnpacked', async () => {
   const evaluationTracker = new EvaluationTracker();

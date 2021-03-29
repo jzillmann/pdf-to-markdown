@@ -3,7 +3,7 @@ import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
 import FontType from '../FontType';
-import GlobalDefinition from './GlobalDefinition';
+import GlobalDefinition from '../GlobalDefinition';
 import PageMapping from '../PageMapping';
 import PageFactorFinder from '../support/PageFactorFinder';
 import { groupByPage, onlyUniques } from '../support/groupingUtils';

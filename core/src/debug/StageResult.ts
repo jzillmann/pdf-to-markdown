@@ -7,7 +7,7 @@ import ChangeTracker from './ChangeTracker';
 import ItemGroup from './ItemGroup';
 import EvaluationIndex from '../transformer/EvaluationIndex';
 import EvaluationTracker from '../transformer/EvaluationTracker';
-import Globals from '../transformer/Globals';
+import Globals from '../Globals';
 
 export default class StageResult {
   constructor(

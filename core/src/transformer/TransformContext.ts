@@ -1,8 +1,8 @@
 import Item from '../Item';
 import PageViewport from '../parse/PageViewport';
 import EvaluationTracker from './EvaluationTracker';
-import GlobalDefinition from './GlobalDefinition';
-import Globals from './Globals';
+import GlobalDefinition from '../GlobalDefinition';
+import Globals from '../Globals';
 
 export default class TransformContext {
   pageCount: number;

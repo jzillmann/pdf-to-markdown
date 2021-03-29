@@ -1,5 +1,5 @@
-import GlobalDefinition from 'src/transformer/GlobalDefinition';
-import Globals from 'src/transformer/Globals';
+import GlobalDefinition from 'src/GlobalDefinition';
+import Globals from 'src/Globals';
 
 const MyGlobalString = new GlobalDefinition<string>('myGlobalString');
 const MyGlobalNumber = new GlobalDefinition<number>('myGlobalNumber');
