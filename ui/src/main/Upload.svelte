@@ -119,7 +119,10 @@
             {#await upload}
                 <!--  -->
             {:catch error}
-                <div class="text-red-700">Failed to parse '{specifiedFileName}': {error?.message}</div>
+                <div in:blur={{ delay: 200 }} class="text-red-700">
+                    Failed to parse '{specifiedFileName}':
+                    {error?.message}
+                </div>
             {/await}
         </div>
     </div>

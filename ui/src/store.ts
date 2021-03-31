@@ -32,7 +32,7 @@ export async function processUpload(file: File, progressListener: ProgressListen
 }
 
 async function parsePdf(src: string | Uint8Array, progressListener: ProgressListenFunction): Promise<any> {
-    pdfPipeline.debug(src, progressListener).then((debugInstance) => {
+    return pdfPipeline.debug(src, progressListener).then((debugInstance) => {
         debug.set(debugInstance);
         return debug;
     });
