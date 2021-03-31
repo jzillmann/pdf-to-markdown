@@ -6,7 +6,7 @@ import TransformContext from './TransformContext';
 export default class CalculateCoordinates extends ItemTransformer {
   constructor() {
     super(
-      'Calculate Coordinates',
+      'Unwrap Coordinates',
       'Extracts X and Y out of the Transform array',
       {
         requireColumns: ['transform'],
