@@ -5,8 +5,8 @@ import Page, { asPages } from './Page';
 import ChangeIndex from './ChangeIndex';
 import ChangeTracker from './ChangeTracker';
 import ItemGroup from './ItemGroup';
-import EvaluationIndex from '../transformer/EvaluationIndex';
-import EvaluationTracker from '../transformer/EvaluationTracker';
+import EvaluationIndex from './EvaluationIndex';
+import EvaluationTracker from './EvaluationTracker';
 import Globals from '../Globals';
 
 export default class StageResult {

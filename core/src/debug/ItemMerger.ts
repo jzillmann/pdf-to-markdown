@@ -1,4 +1,4 @@
-import type EvaluationTracker from '../transformer/EvaluationTracker';
+import type EvaluationTracker from './EvaluationTracker';
 import type ChangeTracker from './ChangeTracker';
 import type Item from '../Item';
 

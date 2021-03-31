@@ -1,6 +1,6 @@
 import ItemMerger from './ItemMerger';
 import Item from '../Item';
-import EvaluationTracker from '../transformer/EvaluationTracker';
+import EvaluationTracker from './EvaluationTracker';
 import ChangeTracker from './ChangeTracker';
 
 export default class LineItemMerger extends ItemMerger {

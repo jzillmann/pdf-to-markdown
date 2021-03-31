@@ -1,6 +1,6 @@
 import Item from '../Item';
 import { groupByElement, groupByPage } from '../support/groupingUtils';
-import EvaluationTracker from '../transformer/EvaluationTracker';
+import EvaluationTracker from './EvaluationTracker';
 import ChangeTracker from './ChangeTracker';
 import ItemGroup from './ItemGroup';
 import ItemMerger from './ItemMerger';

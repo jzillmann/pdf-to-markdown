@@ -3,7 +3,7 @@ import Page, { asPages } from 'src/debug/Page';
 import ItemGroup from 'src/debug/ItemGroup';
 import ItemMerger from 'src/debug/ItemMerger';
 import { items } from 'test/testItems';
-import EvaluationTracker from 'src/transformer/EvaluationTracker';
+import EvaluationTracker from 'src/debug/EvaluationTracker';
 import ChangeTracker from 'src/debug/ChangeTracker';
 
 test('empty', async () => {

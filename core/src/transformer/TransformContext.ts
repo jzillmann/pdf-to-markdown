@@ -1,6 +1,6 @@
 import Item from '../Item';
 import PageViewport from '../parse/PageViewport';
-import EvaluationTracker from './EvaluationTracker';
+import EvaluationTracker from '../debug/EvaluationTracker';
 import GlobalDefinition from '../GlobalDefinition';
 import Globals from '../Globals';
 

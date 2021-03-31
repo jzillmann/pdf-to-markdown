@@ -1,5 +1,5 @@
 import LineItemMerger from 'src/debug/LineItemMerger';
-import EvaluationTracker from 'src/transformer/EvaluationTracker';
+import EvaluationTracker from 'src/debug/EvaluationTracker';
 import ChangeTracker from 'src/debug/ChangeTracker';
 import Item from 'src/Item';
 import { items, realisticItems } from '../testItems';

@@ -6,7 +6,7 @@ import ColumnAnnotation from './debug/ColumnAnnotation';
 import AnnotatedColumn from './debug/AnnotatedColumn';
 import { detectChanges } from './debug/detectChanges';
 import { asPages } from './debug/Page';
-import EvaluationTracker from './transformer/EvaluationTracker';
+import EvaluationTracker from './debug/EvaluationTracker';
 import ChangeTracker from './debug/ChangeTracker';
 import PageViewport from './parse/PageViewport';
 import Globals from './Globals';

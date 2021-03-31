@@ -1,6 +1,6 @@
 import StageResult from 'src/debug/StageResult';
 import { toDescriptor } from 'src/TransformDescriptor';
-import EvaluationTracker from 'src/transformer/EvaluationTracker';
+import EvaluationTracker from 'src/debug/EvaluationTracker';
 import ChangeTracker from 'src/debug/ChangeTracker';
 import AnnotatedColumn from 'src/debug/AnnotatedColumn';
 import Page, { asPages } from 'src/debug/Page';
