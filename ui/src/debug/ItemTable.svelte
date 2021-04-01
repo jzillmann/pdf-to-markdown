@@ -4,7 +4,7 @@
     import { PresentationChartLine } from 'svelte-hero-icons';
 
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
-    import type EvaluationIndex from '@core/transformer/EvaluationIndex';
+    import type EvaluationIndex from '@core/debug/EvaluationIndex';
     import type ChangeIndex from '@core/debug/ChangeIndex';
     import type Page from '@core/debug/Page';
     import ColumnAnnotation from '../../../core/src/debug/ColumnAnnotation';

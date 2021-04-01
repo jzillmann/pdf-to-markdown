@@ -1,5 +1,5 @@
 <script>
-    import type EvaluationIndex from '@core/transformer/EvaluationIndex';
+    import type EvaluationIndex from '@core/debug/EvaluationIndex';
     import type ChangeIndex from '@core/debug/ChangeIndex';
     import type Item from '@core/Item';
     import { Addition, Removal, ContentChange, PositionChange, Direction } from '../../../core/src/debug/ChangeIndex';

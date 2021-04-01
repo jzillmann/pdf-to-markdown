@@ -4,7 +4,7 @@
     import { ArrowLeft, ArrowRight } from 'svelte-hero-icons';
 
     import type ItemGroup from '@core/debug/ItemGroup';
-    import type EvaluationIndex from '@core/transformer/EvaluationIndex';
+    import type EvaluationIndex from '@core/debug/EvaluationIndex';
     import type ChangeIndex from '@core/debug/ChangeIndex';
     import type AnnotatedColumn from '@core/debug/AnnotatedColumn';
 
