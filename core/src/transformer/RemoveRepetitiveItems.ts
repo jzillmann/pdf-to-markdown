@@ -70,27 +70,44 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       .filter(onlyUniques)
       .sort(ascending);
 
+    const yScoreMap = calculateScores(context, fringeYs, fringeLines);
     // console.log('uniqueYs', uniqueYs);
 
-    const yToRemove = fringeYs.filter((y) => {
-      const yLines = fringeLines.filter((line) => line.y == y);
-      if (yLines.length < 2) {
-        return false;
-      }
+    let removalCount = 0;
+    const removedY = [...yScoreMap.entries()]
+      .filter(([_, value]) => value.value >= config.minScore)
+      .map(([key, _]) => key)
+      .join('||');
+    return {
+      items: transformGroupedByPageAndLine(inputItems, (_, __, lineItems) => {
+        const itemsY = yFromLineItems(lineItems);
+        const score = yScoreMap.get(itemsY);
+        if (score) {
+          lineItems.forEach((item) => context.trackEvaluation(item, score.description));
+          if (score.value >= config.minScore) {
+            removalCount++;
+            return [];
+          }
+        }
+        return lineItems;
+      }),
+      messages: [`Filtered out ${removalCount} items with y == ${removedY}`],
+    };
+  }
+}
 
+function calculateScores(context: TransformContext, fringeYs: number[], fringeLines: PageLine[]): Map<number, Score> {
+  const pageMapping = context.getGlobal(PAGE_MAPPING);
+  const map: Map<number, Score> = new Map();
+  fringeYs.forEach((y) => {
+    const yLines = fringeLines.filter((line) => line.y == y);
+    if (yLines.length < 2) {
+      map.set(y, new Score(0, `0 (only on ${yLines.length} page(s))`));
+    } else {
       const pageNumberScore: number = pageMapping.detectedOnPage
         ? calculatePageNumerScore(context.pageCount, pageMapping.pageFactor, yLines)
         : 0;
       const textSimilarityScore: number = textSimilarity(yLines);
-      const totalScore = pageNumberScore + textSimilarityScore;
-      // console.log(
-      //   y,
-      //   totalScore >= config.minScore,
-      //   totalScore,
-      //   `(${pageNumberScore} / ${textSimilarityScore})`,
-      //   yLines.map((l) => l.text()),
-      //   yLines.map((l) => l.page),
-      // );
 
       // TODO more checks
       // - magnetic y
@@ -100,25 +117,18 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
       // - contain chapter highlights
       // - contains rising number
 
-      return totalScore >= config.minScore;
-    });
+      const totalScore = pageNumberScore + textSimilarityScore;
+      map.set(
+        y,
+        new Score(
+          totalScore,
+          `${totalScore.toFixed(2)}: (${pageNumberScore.toFixed(2)} + ${textSimilarityScore.toFixed(2)})`,
+        ),
+      );
+    }
+  });
 
-    let removalCount = 0;
-    return {
-      items: transformGroupedByPageAndLine(inputItems, (_, __, lineItems) => {
-        const itemsY = yFromLineItems(lineItems);
-        if (fringeYs.includes(itemsY)) {
-          lineItems.forEach(context.trackEvaluation.bind(context));
-        }
-        if (yToRemove.includes(itemsY)) {
-          removalCount++;
-          return [];
-        }
-        return lineItems;
-      }),
-      messages: [`Filtered out ${removalCount} items with y == ${yToRemove.join('||')}`],
-    };
-  }
+  return map;
 }
 
 function calculatePageNumerScore(pageCount: number, pageFactor: number, lines: PageLine[]): number {
@@ -155,6 +165,10 @@ function adiacentLines(lines: PageLine[], index: number): PageLine[] {
 
 function yFromLineItems(lineItems: Item[]): number {
   return Math.round(mostFrequent(lineItems, 'y') as number);
+}
+
+class Score {
+  constructor(public value: number, public description: string) {}
 }
 
 /**

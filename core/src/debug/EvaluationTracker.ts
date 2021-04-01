@@ -3,18 +3,30 @@ import Item from '../Item';
 import EvaluationIndex from './EvaluationIndex';
 
 export default class EvaluationTracker implements EvaluationIndex {
-  private evaluations: Set<string> = new Set();
+  private evaluations: Map<string, any> = new Map();
+  private scored = false;
 
   evaluationCount() {
     return this.evaluations.size;
   }
 
-  evaluated(item: Item) {
+  hasScores(): boolean {
+    return this.scored;
+  }
+
+  evaluated(item: Item): boolean {
     return this.evaluations.has(_uuid(item));
   }
 
-  trackEvaluation(item: Item) {
-    this.evaluations.add(_uuid(item));
+  evaluationScore(item: Item) {
+    return this.evaluations.get(_uuid(item));
+  }
+
+  trackEvaluation(item: Item, score: any = undefined) {
+    if (typeof score !== 'undefined') {
+      this.scored = true;
+    }
+    this.evaluations.set(_uuid(item), score);
   }
 }
 

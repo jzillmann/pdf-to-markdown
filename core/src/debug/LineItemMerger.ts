@@ -29,7 +29,8 @@ export default class LineItemMerger extends ItemMerger {
       dir: directions,
     });
 
-    if (items.find((item) => evaluationTracker.evaluated(item))) evaluationTracker.trackEvaluation(newItem);
+    const evaluatedItem = items.find((item) => evaluationTracker.evaluated(item));
+    if (evaluatedItem) evaluationTracker.trackEvaluation(newItem, evaluationTracker.evaluationScore(evaluatedItem));
 
     if (this.trackAsNew) {
       changeTracker.trackAddition(newItem);

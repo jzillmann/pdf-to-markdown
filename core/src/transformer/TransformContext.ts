@@ -16,8 +16,8 @@ export default class TransformContext {
     this.pageCount = pageViewports.length;
   }
 
-  trackEvaluation(item: Item) {
-    this.evaluations.trackEvaluation(item);
+  trackEvaluation(item: Item, score: any = undefined) {
+    this.evaluations.trackEvaluation(item, score);
   }
 
   globalIsDefined<T>(definition: GlobalDefinition<T>): boolean {

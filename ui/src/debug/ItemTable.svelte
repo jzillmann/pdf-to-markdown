@@ -64,6 +64,9 @@
         {:else}
             <th class="bg-gray-50" />
         {/if}
+        {#if evaluations.hasScores()}
+            <th class="bg-gray-300 shadow">score</th>
+        {/if}
         <th class="bg-gray-300 shadow">#</th>
         {#each schema as column (column.name)}
             <th

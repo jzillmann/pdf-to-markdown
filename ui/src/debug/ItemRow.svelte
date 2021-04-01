@@ -49,6 +49,9 @@
     <td class="align-baseline">
         <ChangeSymbol {evaluations} {changes} item={itemGroup.top} />
     </td>
+    {#if evaluations.hasScores()}
+        <td class="whitespace-nowrap">{evaluations.evaluationScore(itemGroup.top)}</td>
+    {/if}
     <span class="contents" on:click={() => itemGroup.hasMany() && toggleRow(pageIdx, itemIdx)}>
         <!-- ID & change marker column -->
         <td class="align-top">
@@ -76,6 +79,9 @@
             <td class="align-baseline">
                 <ChangeSymbol {evaluations} {changes} item={child} />
             </td>
+            {#if evaluations.hasScores()}
+                <td class="whitespace-nowrap">{evaluations.evaluationScore(itemGroup.top)}</td>
+            {/if}
             <td class="whitespace-nowrap">
                 <div class="flex space-x-1">
                     <div class="w-8">{'└ ' + childIdx}</div>

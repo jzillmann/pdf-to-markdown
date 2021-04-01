@@ -13,6 +13,8 @@ import Debugger from 'src/Debugger';
 import Item from 'src/Item';
 import RemoveRepetitiveItems from 'src/transformer/RemoveRepetitiveItems';
 import StageResult from 'src/debug/StageResult';
+import EvaluationIndex from 'src/debug/EvaluationIndex';
+import { Change } from 'src/debug/ChangeIndex';
 
 const parser = new PdfParser(pdfjs);
 const pipeline = new PdfPipeline(parser, transformers);
@@ -48,11 +50,10 @@ describe.each(files)('Test %p', (file) => {
       let collectedItems = 0;
       stageResult.selectPages(true, true).forEach((page) => {
         page.itemGroups.forEach((itemGroup) => {
-          const change = stageResult.changes.change(itemGroup.top);
+          const item = itemGroup.top;
+          const change = stageResult.changes.change(item);
           if (change || stageResult.descriptor.debug?.showAll) {
-            const item = itemGroup.top;
-            const changeType = change?.constructor.name || 'none';
-            chunkedLines[resultIndex].push(itemToString(debug.fontMap, item, changeType));
+            chunkedLines[resultIndex].push(itemToString(debug.fontMap, item, change, stageResult.evaluations));
             collectedItems++;
           }
         });
@@ -95,11 +96,10 @@ describe('Remove repetitive items from online resources', () => {
 
     pages.forEach((page) =>
       page.itemGroups.forEach((itemGroup) => {
-        const change = stageResult.changes.change(itemGroup.top);
+        const item = itemGroup.top;
+        const change = stageResult.changes.change(item);
         if (change) {
-          const item = itemGroup.top;
-          const changeType = change?.constructor.name || 'none';
-          lines.push(itemToString(debug.fontMap, item, changeType));
+          lines.push(itemToString(debug.fontMap, item, change, stageResult.evaluations));
         }
       }),
     );
@@ -136,7 +136,12 @@ function mapToObject(map: Map<any, any>): object {
   }, {});
 }
 
-function itemToString(fontMap: Map<string, object>, item: Item, changeType: string): string {
+function itemToString(
+  fontMap: Map<string, object>,
+  item: Item,
+  change: Change | undefined,
+  evaluationIndex: EvaluationIndex,
+): string {
   const fontName: string | Array<string> = item.data['fontName'];
   let newFontName: string | Array<string> | undefined = undefined;
   if (fontName) {
@@ -146,20 +151,27 @@ function itemToString(fontMap: Map<string, object>, item: Item, changeType: stri
       newFontName = fontName.map((name) => fontMap.get(name)?.['name']);
     }
   }
+  const changeType = change?.constructor.name || 'none';
   const transform: undefined | number[] = item.data['transform'];
   let newTransform: undefined | string[];
   if (transform) {
     newTransform = transform.map((num) => num.toFixed(2));
   }
-  return JSON.stringify({
+
+  const object = {
     page: item.page,
     change: changeType,
+    score: evaluationIndex.evaluationScore(item),
     ...item.data,
     fontName: newFontName,
     height: item.data['height'].toFixed(2),
     width: item.data['width'].toFixed(2),
     transform: newTransform,
-  });
+  };
+  if (!evaluationIndex.hasScores()) {
+    delete object.score;
+  }
+  return JSON.stringify(object);
 }
 
 function download(url: string): { fileName: string; data: Buffer } {
