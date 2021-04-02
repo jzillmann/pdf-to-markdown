@@ -21,7 +21,7 @@ import { extractNumbers } from '../support/stringFunctions';
 
 const config = {
   // From the absolute fringe elements (min/max y) how much y can item deviate before beeing disregarded.
-  maxDistanceFromFringeElements: 35,
+  maxDistanceFromFringeElements: 45,
 
   // Max neighbour taken (in one direction) for detecting neighbour similarity.
   // Choosen number might be more effectful for PDFs with a strong odd/evan page differernce.
@@ -109,13 +109,10 @@ function calculateScores(context: TransformContext, fringeYs: number[], fringeLi
         : 0;
       const textSimilarityScore: number = textSimilarity(yLines);
 
-      // TODO more checks
-      // - magnetic y
+      // TODO possibly refine with:
       // - exclude headlines (higher height, e.g art of speaking)
-      // - better odd/even handling (e.g war of worlds || dict)
-      // - same x structure
-      // - contain chapter highlights
-      // - contains rising number
+      // - structural similarity (x, y, height, etc)
+      // - contain chapter headings
 
       const totalScore = pageNumberScore + textSimilarityScore;
       map.set(
@@ -146,6 +143,9 @@ function textSimilarity(lines: PageLine[]): number {
 }
 
 function calculateSimilarity(line1: PageLine, line2: PageLine): number {
+  if (line1.textWithoutNumbers().length === 0) {
+    return 0;
+  }
   return compareTwoStrings(line1.textWithoutNumbers(), line2.textWithoutNumbers());
 }
 
