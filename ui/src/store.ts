@@ -16,9 +16,11 @@ const pdfPipeline = createPipeline(pdfjs, {});
 export async function loadExample(progressListener: ProgressListenFunction): Promise<any> {
     return parsePdf('ExamplePdf.pdf', progressListener);
 }
+
 export async function loadUrl(progressListener: ProgressListenFunction, url: String): Promise<any> {
-    return parsePdf('https://pdf-to-markdown-proxy.herokuapp.com/'+url, progressListener);
+    return parsePdf('https://pdf-to-markdown-proxy.herokuapp.com/' + url, progressListener);
 }
+
 export async function processUpload(file: File, progressListener: ProgressListenFunction): Promise<any> {
     return new Promise((resolve, reject) => {
         const reader = new FileReader();
