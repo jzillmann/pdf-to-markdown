@@ -97,7 +97,7 @@ export default class CalculateStatistics extends ItemTransformer {
       }
       page = item.page;
     });
-    const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
+    // const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
 
     const fontIdToName: string[] = [];
     const fontToType = new Map<string, FontType>();

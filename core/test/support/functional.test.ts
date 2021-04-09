@@ -1,6 +1,4 @@
-import Item from 'src/Item';
 import { flatMap, flatten, groupBy } from 'src/support/functional';
-import { items } from 'test/testItems';
 
 test('flatMap', async () => {
   expect(flatMap([], (e) => e)).toEqual([]);
