@@ -6,7 +6,7 @@
     "outDir": "./lib",
     "strict": true,
     "noImplicitAny": false,
-    "noUnusedLocals": true,
+    "noUnusedLocals": false,
     "baseUrl": "./",
     "paths": {
       "src/*": ["src/*"],
