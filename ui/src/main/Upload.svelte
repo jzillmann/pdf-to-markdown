@@ -15,7 +15,7 @@
     let parseProgress: Progress;
     function handleUrlLoad() {
         dragover = true;
-        var answer = prompt('Url of the pdf');
+        let answer = prompt('Url of the pdf');
         specifiedFileName = answer;
         rejectionError = undefined;
         parseProgress = undefined;
