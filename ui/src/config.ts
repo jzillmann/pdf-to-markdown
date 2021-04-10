@@ -1,10 +1,12 @@
 import { Writable, writable } from 'svelte/store';
+import { debugFromParams, debugStageFromParams } from './processParameters';
 
-export const debugEnabled = storedWritable('debugEnabled', false);
-export const debugStage = storedWritable('debugStage', 0);
+export const debugEnabled = storedWritable('debugEnabled', false, debugFromParams);
+export const debugStage = storedWritable('debugStage', 0, debugStageFromParams);
 
-function storedWritable<T>(key: string, defaultValue: T): Writable<T> {
-    const store = writable(fromLocalStore(key, defaultValue));
+function storedWritable<T>(key: string, defaultValue: T, paramLoadFunction: (defaultValue: T) => T): Writable<T> {
+    const value = paramLoadFunction(fromLocalStore(key, defaultValue));
+    const store = writable(value);
     store.subscribe((value) => {
         localStorage.setItem(key, JSON.stringify(value));
     });

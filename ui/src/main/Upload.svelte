@@ -7,12 +7,21 @@
     import ProgressRing from '../components/ProgressRing.svelte';
     import Checkbox from '../components/Checkbox.svelte';
     import { debugEnabled } from '../config';
+    import { urlFromParams } from '../processParameters';
 
     let specifiedFileName: string;
     let dragover = false;
     let upload: Promise<any>;
     let rejectionError: string;
     let parseProgress: Progress;
+
+    const url = urlFromParams();
+    if (url) {
+        dragover = true;
+        specifiedFileName = url;
+        upload = loadUrl(handleProgress, url);
+    }
+
     function handleUrlLoad() {
         dragover = true;
         let answer = prompt('Url of the pdf');
