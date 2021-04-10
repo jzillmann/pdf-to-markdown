@@ -2,7 +2,7 @@
     import { blur, slide } from 'svelte/transition';
     import Dropzone from 'svelte-file-dropzone';
     import { Download, Check } from 'svelte-hero-icons';
-    import { processUpload, loadExample } from '../store';
+    import { processUpload, loadExample, loadUrl } from '../store';
     import type Progress from '@core/Progress';
     import ProgressRing from '../components/ProgressRing.svelte';
     import Checkbox from '../components/Checkbox.svelte';
@@ -13,6 +13,14 @@
     let upload: Promise<any>;
     let rejectionError: string;
     let parseProgress: Progress;
+    function handleUrlLoad() {
+        dragover = true;
+        let answer = prompt('Url of the pdf');
+        specifiedFileName = answer;
+        rejectionError = undefined;
+        parseProgress = undefined;
+        upload = loadUrl(handleProgress, answer);
+    }
 
     function handleExampleLoad() {
         dragover = true;
@@ -48,6 +56,9 @@
     <div class="mb-0.5 flex flex-row-reverse space-x-2 space-x-reverse text-sm items-center">
         <div class="py-0.5 border-2 border-gray-50 hover:underline cursor-pointer" on:click={handleExampleLoad}>
             Load Example
+        </div>
+        <div class="py-0.5 border-2 border-gray-50 hover:underline cursor-pointer" on:click={handleUrlLoad}>
+            Open Url
         </div>
         <Checkbox name="Debug" bind:enabled={$debugEnabled} />
     </div>
