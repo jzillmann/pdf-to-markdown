@@ -23,8 +23,6 @@
     export let groupingEnabled = true;
     export let onlyRelevantItems = true;
 
-    let { pagePinned } = pageControl;
-
     $: canNext = $debugStage + 1 < stageNames.length;
     $: canPrev = $debugStage > 0;
 </script>

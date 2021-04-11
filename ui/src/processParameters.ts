@@ -9,6 +9,9 @@ export function debugFromParams(defaultValue: boolean): boolean {
 }
 
 export function debugStageFromParams(defaultValue: number): number {
+    if (!params.has('stage')) {
+        return defaultValue;
+    }
     const stage = +params.get('stage');
     if (!Number.isInteger(stage)) {
         return defaultValue;
