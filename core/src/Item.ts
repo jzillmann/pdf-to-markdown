@@ -1,9 +1,10 @@
 import { v4 as uuidv4 } from 'uuid';
+import { assertDefined } from './assert';
 
 export default class Item {
   page: number;
   data: object;
-  uuid?: string;
+  uuid: string;
 
   constructor(page: number, data: object, uuid: string = uuidv4()) {
     this.page = page;

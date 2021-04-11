@@ -31,18 +31,18 @@ function detectPageChanges(tracker: ChangeTracker, inputItems: Item[], outputIte
   let outputIndex = 0;
   for (let inputIdx = 0; inputIdx < inputItems.length; inputIdx++) {
     const inputItem = inputItems[inputIdx];
-    if (addedItems.has(_uuid(inputItem))) {
+    if (addedItems.has(inputItem.uuid)) {
       continue;
     }
     const positionInOutput = outputItems.findIndex((item) => item.uuid === inputItem.uuid);
     if (positionInOutput < 0) {
       tracker.trackRemoval(inputItem);
       mergedItems.push(inputItem);
-      addedItems.add(_uuid(inputItem));
+      addedItems.add(inputItem.uuid);
       removals++;
     } else if (positionInOutput === inputIdx + additions - removals) {
       mergedItems.push(outputItems[positionInOutput]);
-      addedItems.add(_uuid(outputItems[positionInOutput]));
+      addedItems.add(outputItems[positionInOutput].uuid);
       outputIndex++;
       //TODO check for content change ?
     } else {
@@ -52,19 +52,19 @@ function detectPageChanges(tracker: ChangeTracker, inputItems: Item[], outputIte
         if (positionInInput < 0) {
           tracker.trackAddition(outputItem);
           mergedItems.push(outputItem);
-          addedItems.add(_uuid(outputItem));
+          addedItems.add(outputItem.uuid);
           additions++;
           outputIndex++;
         } else {
           tracker.trackPositionalChange(outputItem, positionInInput - removals, intermediateOutputIdx - additions);
           mergedItems.push(outputItem);
-          addedItems.add(_uuid(outputItem));
+          addedItems.add(outputItem.uuid);
           outputIndex++;
         }
       }
       tracker.trackPositionalChange(outputItems[positionInOutput], inputIdx - removals, positionInOutput - additions);
       mergedItems.push(outputItems[positionInOutput]);
-      addedItems.add(_uuid(outputItems[positionInOutput]));
+      addedItems.add(outputItems[positionInOutput].uuid);
       outputIndex++;
       //TODO check for content change ?
     }
@@ -75,8 +75,4 @@ function detectPageChanges(tracker: ChangeTracker, inputItems: Item[], outputIte
     additions++;
   }
   return mergedItems;
-}
-
-function _uuid(item: Item): string {
-  return assertDefined(item.uuid, 'UUID is not set');
 }

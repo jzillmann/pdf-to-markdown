@@ -15,21 +15,17 @@ export default class EvaluationTracker implements EvaluationIndex {
   }
 
   evaluated(item: Item): boolean {
-    return this.evaluations.has(_uuid(item));
+    return this.evaluations.has(item.uuid);
   }
 
   evaluationScore(item: Item) {
-    return this.evaluations.get(_uuid(item));
+    return this.evaluations.get(item.uuid);
   }
 
   trackEvaluation(item: Item, score: any = undefined) {
     if (typeof score !== 'undefined') {
       this.scored = true;
     }
-    this.evaluations.set(_uuid(item), score);
+    this.evaluations.set(item.uuid, score);
   }
-}
-
-function _uuid(item: Item): string {
-  return assertDefined(item.uuid, 'UUID is not set');
 }

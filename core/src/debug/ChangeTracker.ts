@@ -18,7 +18,7 @@ export default class ChangeTracker implements ChangeIndex {
   private changes: Map<string, Change> = new Map();
 
   private addChange(item: Item, change: Change) {
-    const uuid = _uuid(item);
+    const uuid = item.uuid;
     assertNot(
       this.changes.has(uuid),
       `Change for item ${uuid} already defined! (old: ${JSON.stringify(this.changes.get(uuid))}, new: ${JSON.stringify(
@@ -53,11 +53,11 @@ export default class ChangeTracker implements ChangeIndex {
   }
 
   change(item: Item): Change | undefined {
-    return this.changes.get(_uuid(item));
+    return this.changes.get(item.uuid);
   }
 
   hasChanged(item: Item): boolean {
-    return this.changes.has(_uuid(item));
+    return this.changes.has(item.uuid);
   }
 
   isPlusChange(item: Item): boolean {
@@ -75,8 +75,4 @@ export default class ChangeTracker implements ChangeIndex {
   isRemoved(item: Item): boolean {
     return this.change(item)?.constructor.name === REMOVAL.constructor.name;
   }
-}
-
-function _uuid(item: Item): string {
-  return assertDefined(item.uuid, 'UUID is not set');
 }
