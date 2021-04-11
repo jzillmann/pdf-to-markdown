@@ -1,8 +1,6 @@
 <script>
     import { fade } from 'svelte/transition';
 
-    import { ArrowLeft, ArrowRight } from 'svelte-hero-icons';
-
     import type ItemGroup from '@core/debug/ItemGroup';
     import type EvaluationIndex from '@core/debug/EvaluationIndex';
     import type ChangeIndex from '@core/debug/ChangeIndex';

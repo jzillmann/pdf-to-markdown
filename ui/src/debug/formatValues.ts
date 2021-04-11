@@ -1,4 +1,7 @@
 export function formatValue(value: object) {
+    if (typeof value === 'undefined') {
+        return '';
+    }
     if (Number.isInteger(value)) {
         return value;
     }

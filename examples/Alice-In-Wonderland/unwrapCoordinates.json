@@ -17,6 +17,12 @@
       "annotation": "ADDED"
     },
     {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    },
+    {
       "name": "str"
     },
     {
@@ -24,12 +30,6 @@
     },
     {
       "name": "dir"
-    },
-    {
-      "name": "width"
-    },
-    {
-      "name": "height"
     }
   ],
   "globals": {}

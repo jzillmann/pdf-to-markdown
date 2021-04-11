@@ -8,6 +8,12 @@
       "name": "transform"
     },
     {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    },
+    {
       "name": "str"
     },
     {
@@ -15,12 +21,6 @@
     },
     {
       "name": "dir"
-    },
-    {
-      "name": "width"
-    },
-    {
-      "name": "height"
     }
   ],
   "globals": {}

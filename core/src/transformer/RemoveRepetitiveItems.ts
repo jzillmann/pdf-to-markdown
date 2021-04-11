@@ -43,7 +43,6 @@ export default class RemoveRepetitiveItems extends ItemTransformer {
   transform(context: TransformContext, inputItems: Item[]): ItemResult {
     const minY = context.getGlobal(MIN_Y);
     const maxY = context.getGlobal(MAX_Y);
-    const pageMapping = context.getGlobal(PAGE_MAPPING);
     const bottomMaxY = minY + config.maxDistanceFromFringeElements;
     const topMinY = maxY - config.maxDistanceFromFringeElements;
     // console.log('bottomMaxY', bottomMaxY, 'topMinY', topMinY);
