@@ -51,7 +51,7 @@ export default class Debugger {
 
         const changes = new ChangeTracker();
         const items = detectChanges(changes, previousItems, itemResult.items);
-        const pages = asPages(evaluations, changes, items, transformer.descriptor.debug?.itemMerger);
+        const pages = asPages(evaluations, changes, outputSchema, items, transformer.descriptor.debug?.itemMerger);
         const messages = itemResult.messages;
         if (changes.changeCount() > 0 && messages.length === 0) {
           messages.unshift(`Detected ${changes.changeCount()} changes`);

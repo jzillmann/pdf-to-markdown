@@ -1,0 +1,47 @@
+{
+  "pages": 4,
+  "items": 522,
+  "groupedItems": 378,
+  "changes": 0,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "type",
+      "annotation": "ADDED"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    }
+  ],
+  "globals": {
+    "maxHeight": 11,
+    "minX": 72.025,
+    "maxX": 536.73,
+    "minY": 75.025,
+    "maxY": 747.22,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": false
+    }
+  }
+}

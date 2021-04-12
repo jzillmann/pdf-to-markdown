@@ -11,6 +11,7 @@ import CalculateStatistics from './transformer/CacluclateStatistics';
 import CompactLines from './transformer/CompactLines';
 import SortXWithinLines from './transformer/SortXWithinLines';
 import RemoveRepetitiveItems from './transformer/RemoveRepetitiveItems';
+import TocDetection from './transformer/TocDetection';
 import NoOpTransformer from './transformer/NoOpTransformer';
 
 export const transformers = [
@@ -21,6 +22,7 @@ export const transformers = [
   new CompactLines(),
   new SortXWithinLines(),
   new RemoveRepetitiveItems(),
+  new TocDetection(),
   new NoOpTransformer(),
 ];
 

@@ -3,13 +3,15 @@ import Metadata from './Metadata';
 import type ParseReporter from './ParseReporter';
 import ParseResult from './ParseResult';
 
+export const PARSE_SCHEMA = ['transform', 'width', 'height', 'str', 'fontName', 'dir'];
+
 /**
  * Parses a PDF via PDFJS and returns a ParseResult which contains more or less the original data from PDFJS.
  */
 export default class PdfParser {
   pdfjs: any;
   defaultParams: object;
-  schema = ['transform', 'width', 'height', 'str', 'fontName', 'dir'];
+  schema = PARSE_SCHEMA;
 
   constructor(pdfjs: any, defaultParams = {}) {
     this.pdfjs = pdfjs;

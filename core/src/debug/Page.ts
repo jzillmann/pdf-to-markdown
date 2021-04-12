@@ -13,6 +13,7 @@ export default interface Page {
 export function asPages(
   evaluationTracker: EvaluationTracker,
   changeTracker: ChangeTracker,
+  schema: string[],
   items: Item[],
   itemMerger?: ItemMerger,
 ): Page[] {
@@ -21,7 +22,7 @@ export function asPages(
     if (itemMerger) {
       itemGroups = groupByElement(pageItems, itemMerger.groupKey).map((groupItems) => {
         if (groupItems.length > 1) {
-          const top = itemMerger.merge(evaluationTracker, changeTracker, groupItems);
+          const top = itemMerger.merge(evaluationTracker, changeTracker, schema, groupItems);
           return new ItemGroup(top, groupItems);
         } else {
           return new ItemGroup(groupItems[0]);

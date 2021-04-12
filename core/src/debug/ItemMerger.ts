@@ -7,5 +7,10 @@ import type Item from '../Item';
  */
 export default abstract class ItemMerger {
   constructor(public groupKey: string) {}
-  abstract merge(evaluationTracker: EvaluationTracker, changeTracker: ChangeTracker, items: Item[]): Item;
+  abstract merge(
+    evaluationTracker: EvaluationTracker,
+    changeTracker: ChangeTracker,
+    schema: string[],
+    items: Item[],
+  ): Item;
 }

@@ -31,21 +31,32 @@ function detectPageChanges(tracker: ChangeTracker, inputItems: Item[], outputIte
   let outputIndex = 0;
   for (let inputIdx = 0; inputIdx < inputItems.length; inputIdx++) {
     const inputItem = inputItems[inputIdx];
+
+    // In case the input item has already been added from the outputs items array
     if (addedItems.has(inputItem.uuid)) {
       continue;
     }
+
     const positionInOutput = outputItems.findIndex((item) => item.uuid === inputItem.uuid);
     if (positionInOutput < 0) {
+      // Input doesn't exist in the output anymore
       tracker.trackRemoval(inputItem);
       mergedItems.push(inputItem);
       addedItems.add(inputItem.uuid);
       removals++;
     } else if (positionInOutput === inputIdx + additions - removals) {
+      // Input is in output with no positional change
       mergedItems.push(outputItems[positionInOutput]);
       addedItems.add(outputItems[positionInOutput].uuid);
       outputIndex++;
-      //TODO check for content change ?
+      // But with type change (TODO generalize ?)
+      const typeInInput = inputItem.data['type'];
+      const typeInOutput = outputItems[positionInOutput].data['type'];
+      if (typeInInput !== typeInOutput) {
+        tracker.trackContentChange(inputItem);
+      }
     } else {
+      // Handle items from the output with arn't in the input array
       for (let intermediateOutputIdx = outputIndex; intermediateOutputIdx < positionInOutput; intermediateOutputIdx++) {
         const outputItem = outputItems[intermediateOutputIdx];
         const positionInInput = inputItems.findIndex((item) => item.uuid === outputItem.uuid);

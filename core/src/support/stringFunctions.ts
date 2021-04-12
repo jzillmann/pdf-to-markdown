@@ -1,3 +1,5 @@
+import { assert } from '../assert';
+
 const MIN_DIGIT_CHAR_CODE = 48;
 const MAX_DIGIT_CHAR_CODE = 57;
 
@@ -19,4 +21,13 @@ export function filterOutDigits(text: string): string {
 
 export function extractNumbers(text: string): number[] {
   return (text.match(/\d+/g) || []).map(Number);
+}
+
+export function extractEndingNumber(text: string): number | undefined {
+  const match = text.match(/\d+$/g);
+  if (match) {
+    assert(match.length == 1, `Expected only one match, but got ${match}`);
+    return Number(match[0]);
+  }
+  return undefined;
 }

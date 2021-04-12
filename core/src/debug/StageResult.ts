@@ -1,4 +1,5 @@
 import TransformDescriptor, { toDescriptor } from '../TransformDescriptor';
+import { PARSE_SCHEMA } from '../PdfParser';
 import AnnotatedColumn from './AnnotatedColumn';
 import Item from '../Item';
 import Page, { asPages } from './Page';
@@ -82,7 +83,7 @@ export function initialStage(inputSchema: string[], inputItems: Item[]): StageRe
   const schema = inputSchema.map((column) => ({ name: column }));
   const evaluations = new EvaluationTracker();
   const changes = new ChangeTracker();
-  const pages = asPages(evaluations, changes, inputItems);
+  const pages = asPages(evaluations, changes, PARSE_SCHEMA, inputItems);
   const messages = [
     `Parsed ${inputItems.length === 0 ? 0 : inputItems[inputItems.length - 1].page + 1} pages with ${
       inputItems.length
