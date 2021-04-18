@@ -9,5 +9,12 @@ The interesting thing is that rendering with pdfjs (online) looks good. So maybe
 
 - out of order items [Safe-Communication](examples/Safe-Communication.pdf)
 - items in wrong lines + numbers are not numbers [Life-Of-God-In-Soul-Of-Man](examples/Life-Of-God-In-Soul-Of-Man.pdf)
-- no page numbers [The-Art-of-Public-Speaking](examples/The-Art-of-Public-Speaking.pdf).
-- multiline headlines: [WoodUp](examples/WoodUp.pdf)
+
+## Not yet reviews test PDFS
+
+- Achieving-The-Paris-Climate-Agreem.pdf
+- CC_License_Agreement_of_siMPle.pdf
+- CC-NC_Leitfaden.pdf
+- Made-with-cc.pdf
+- The-Impact-of-Open-Access-Latin-American-Scholarship.pdf
+- Watered-Soul-Blog-Book.pdf

@@ -1,0 +1,45 @@
+{
+  "pages": 650,
+  "items": 28472,
+  "groupedItems": 22176,
+  "changes": 7,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    }
+  ],
+  "globals": {
+    "maxHeight": 24.7871,
+    "minX": 35.99999999999977,
+    "maxX": 1433.711,
+    "minY": 39.59999999999997,
+    "maxY": 726.255,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    }
+  }
+}
+{"page":332,"change":"ContentChange","str":"A prayer for you And in beginning your new week ”","line":17,"x":66.98499999999999,"y":418.36000000000024,"width":"220.52","height":"9.96","fontName":["EFUEQI+CMR10"],"dir":["ltr"]}
+{"page":335,"change":"ContentChange","str":"Hey Sis thinking of you ”","line":12,"x":39.985,"y":504.24300000000017,"width":"104.01","height":"9.96","fontName":["EFUEQI+CMR10"],"dir":["ltr"]}

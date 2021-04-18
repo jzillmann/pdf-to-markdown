@@ -1,0 +1,43 @@
+{
+  "pages": 24,
+  "items": 1403,
+  "groupedItems": 1211,
+  "changes": 0,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    }
+  ],
+  "globals": {
+    "maxHeight": 24,
+    "minX": 34.01229999999998,
+    "maxX": 380.3863,
+    "minY": 26.9291,
+    "maxY": 531.0280999999997,
+    "pageMapping": {
+      "pageFactor": 1,
+      "detectedOnPage": true
+    }
+  }
+}
