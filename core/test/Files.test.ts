@@ -15,7 +15,7 @@ import RemoveRepetitiveItems from 'src/transformer/RemoveRepetitiveItems';
 import StageResult from 'src/debug/StageResult';
 import EvaluationIndex from 'src/debug/EvaluationIndex';
 import { Change } from 'src/debug/ChangeIndex';
-import TocDetection from 'src/transformer/TocDetection';
+import DetectToc from 'src/transformer/DetectToc';
 
 const parser = new PdfParser(pdfjs);
 const pipeline = new PdfPipeline(parser, transformers);
@@ -85,7 +85,7 @@ function matchFilePath(pdfFileName: string, transformerName: string, chunkCount 
 }
 
 describe('Selective transforms on URL PDFs', () => {
-  const transformerNames = [new RemoveRepetitiveItems().name, new TocDetection().name];
+  const transformerNames = [new RemoveRepetitiveItems().name, new DetectToc().name];
   test.each(urls)('URL %p', async (url) => {
     const { fileName, data } = download(url);
     const debug = await pipeline.debug(data, () => {});

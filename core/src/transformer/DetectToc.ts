@@ -14,10 +14,10 @@ const config = {
   linkMinLength: 5,
 };
 
-export default class TocDetection extends ItemTransformer {
+export default class DetectToc extends ItemTransformer {
   constructor() {
     super(
-      'TOC Detection',
+      'Detect TOC',
       'Detect table of contents.',
       {
         requireColumns: ['x', 'y', 'str', 'line'],
