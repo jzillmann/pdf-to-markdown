@@ -39,7 +39,7 @@ _(PDFs which entered `public domain` or have a otherwise permissive license like
 | [Watered-Soul-Blog-Book](Watered-Soul-Blog-Book.pdf)                                                             | https://wateredsoul.com/              | Wanda                                                    | Creative Commons BY 4.0    |
 | [WoodUp](WoodUp.pdf)                                                                                             | https://bupress.unibz.it/             | Freie Universität Bozen-Bolzano / Giustino Tonon         | Creative Commons BY 4.0    |
 
-## PDFs not stored but paritally tested
+## PDFs not stored but partially tested
 
 - https://homepages.cwi.nl/~lex/files/dict.pdf
   - Page numbers with current chapter
