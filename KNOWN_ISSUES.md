@@ -10,11 +10,14 @@ The interesting thing is that rendering with pdfjs (online) looks good. So maybe
 - out of order items [Safe-Communication](examples/Safe-Communication.pdf)
 - items in wrong lines + numbers are not numbers [Life-Of-God-In-Soul-Of-Man](examples/Life-Of-God-In-Soul-Of-Man.pdf)
 
-## Not yet reviews test PDFS
+## Not yet reviewed test PDFS
 
-- Achieving-The-Paris-Climate-Agreem.pdf
-- CC_License_Agreement_of_siMPle.pdf
-- CC-NC_Leitfaden.pdf
+- Achieving-The-Paris-Climate-Agreement.pdf
+  - wrong page page mapping ?
+  - no page numbers removed
+  - no toc
 - Made-with-cc.pdf
-- The-Impact-of-Open-Access-Latin-American-Scholarship.pdf
+  - no toc
 - Watered-Soul-Blog-Book.pdf
+  - TOC: character minumum cuts out year
+  - TOC: stops to early
