@@ -91,7 +91,9 @@
     </tbody>
 </table>
 
-{#if !$pagePinned}
+{#if $pagePinned}
+    <div class="mb-8" />
+{:else}
     {#if renderedMaxPage < pages.length}
         <span use:inView on:intersect={({ detail }) => detail && calculateNextPageToRenderTo()} />
         <div class="my-6 text-center text-2xl">...</div>

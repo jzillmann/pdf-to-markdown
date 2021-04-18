@@ -23,10 +23,7 @@
     }
 </script>
 
-<div
-    class="absolute mt-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96"
-    style="max-width: {pageControl.totalPages * 45}px;"
-    transition:slide>
+<div class="absolute mt-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96" transition:slide>
     <span class="mt-1 pr-2" on:click={$pagePinned && unpinPage}>
         <Collection size="1x" class={$pagePinned ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
     </span>
