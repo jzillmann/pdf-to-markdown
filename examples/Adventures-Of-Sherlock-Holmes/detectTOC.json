@@ -8,7 +8,7 @@
       "name": "line"
     },
     {
-      "name": "type",
+      "name": "types",
       "annotation": "ADDED"
     },
     {
@@ -45,15 +45,15 @@
     }
   }
 }
-{"page":3,"change":"ContentChange","str":"A Scandal In Bohemia 3","line":1,"x":117.828,"y":561.248,"width":"110.02","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Red-Headed League 21","line":2,"x":117.828,"y":536.7900000000001,"width":"126.67","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"A Case Of Identity 38","line":3,"x":117.828,"y":512.3320000000001,"width":"98.48","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Boscombe Valley Mystery 51","line":4,"x":117.828,"y":487.87400000000014,"width":"152.01","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Five Orange Pips 69","line":5,"x":117.828,"y":463.41500000000013,"width":"112.21","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Man With The Twisted Lip 83","line":6,"x":117.828,"y":438.9570000000001,"width":"158.72","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Adventure Of The Blue Carbuncle 100","line":7,"x":117.828,"y":414.49900000000014,"width":"197.97","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Adventure Of The Speckled Band 115","line":8,"x":117.828,"y":390.04000000000013,"width":"194.56","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Adventure Of The Engineer’s Thumb 133","line":9,"x":117.828,"y":365.5820000000001,"width":"212.33","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Adventure Of The Noble Bachelor 148","line":10,"x":117.828,"y":341.12400000000014,"width":"196.96","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Adventure Of The Beryl Coronet 164","line":11,"x":117.828,"y":316.66600000000017,"width":"191.30","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
-{"page":3,"change":"ContentChange","str":"The Adventure Of The Copper Beeches 182","line":12,"x":117.828,"y":292.20700000000016,"width":"199.99","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"type":["TOC"]}
+{"page":3,"change":"ContentChange","str":"A Scandal In Bohemia 3","line":1,"x":117.828,"y":561.248,"width":"110.02","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Red-Headed League 21","line":2,"x":117.828,"y":536.7900000000001,"width":"126.67","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"A Case Of Identity 38","line":3,"x":117.828,"y":512.3320000000001,"width":"98.48","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Boscombe Valley Mystery 51","line":4,"x":117.828,"y":487.87400000000014,"width":"152.01","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Five Orange Pips 69","line":5,"x":117.828,"y":463.41500000000013,"width":"112.21","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Man With The Twisted Lip 83","line":6,"x":117.828,"y":438.9570000000001,"width":"158.72","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Adventure Of The Blue Carbuncle 100","line":7,"x":117.828,"y":414.49900000000014,"width":"197.97","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Adventure Of The Speckled Band 115","line":8,"x":117.828,"y":390.04000000000013,"width":"194.56","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Adventure Of The Engineer’s Thumb 133","line":9,"x":117.828,"y":365.5820000000001,"width":"212.33","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Adventure Of The Noble Bachelor 148","line":10,"x":117.828,"y":341.12400000000014,"width":"196.96","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Adventure Of The Beryl Coronet 164","line":11,"x":117.828,"y":316.66600000000017,"width":"191.30","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}
+{"page":3,"change":"ContentChange","str":"The Adventure Of The Copper Beeches 182","line":12,"x":117.828,"y":292.20700000000016,"width":"199.99","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"],"types":["TOC"]}

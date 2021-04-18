@@ -8,7 +8,7 @@
       "name": "line"
     },
     {
-      "name": "type",
+      "name": "types",
       "annotation": "ADDED"
     },
     {
@@ -45,12 +45,12 @@
     }
   }
 }
-{"page":1,"change":"ContentChange","str":"Acknowledgements page 3","line":2,"x":104.66,"y":463.9,"width":"138.33","height":"11.04","fontName":[null],"dir":["ltr"],"type":["TOC"]}
-{"page":1,"change":"ContentChange","str":"References page 3","line":3,"x":104.66,"y":444.94,"width":"94.35","height":"11.04","fontName":[null],"dir":["ltr"],"type":["TOC"]}
-{"page":1,"change":"ContentChange","str":"Distribution & reproduction page 3","line":4,"x":104.66,"y":425.98,"width":"178.69","height":"11.04","fontName":[null],"dir":["ltr"],"type":["TOC"]}
-{"page":1,"change":"ContentChange","str":"Executive summary page 4","line":5,"x":104.66,"y":406.99,"width":"138.33","height":"11.04","fontName":[null],"dir":["ltr"],"type":["TOC"]}
-{"page":1,"change":"ContentChange","str":"Introduction page 5","line":6,"x":104.66,"y":387.91,"width":"99.26","height":"11.04","fontName":[null],"dir":["ltr"],"type":["TOC"]}
-{"page":1,"change":"ContentChange","str":"Where can things go wrong? page 6","line":7,"x":104.66,"y":368.95,"width":"185.87","height":"11.04","fontName":[null],"dir":["ltr"],"type":["TOC"]}
-{"page":1,"change":"ContentChange","str":"How do you achieve it? (The six step improvement process) page 8","line":8,"x":104.66,"y":349.99,"width":"348.61","height":"11.04","fontName":[null],"dir":["ltr"],"type":["TOC"]}
-{"page":1,"change":"ContentChange","str":"Useful resources & references p age 40","line":9,"x":104.66,"y":127.22,"width":"200.07","height":"11.04","fontName":[null],"dir":["ltr"],"type":["TOC"]}
-{"page":1,"change":"ContentChange","str":"Appendice s page  42","line":10,"x":104.66,"y":108.26,"width":"103.27","height":"11.04","fontName":[null],"dir":["ltr"],"type":["TOC"]}
+{"page":1,"change":"ContentChange","str":"Acknowledgements page 3","line":2,"x":104.66,"y":463.9,"width":"138.33","height":"11.04","fontName":[null],"dir":["ltr"],"types":["TOC"]}
+{"page":1,"change":"ContentChange","str":"References page 3","line":3,"x":104.66,"y":444.94,"width":"94.35","height":"11.04","fontName":[null],"dir":["ltr"],"types":["TOC"]}
+{"page":1,"change":"ContentChange","str":"Distribution & reproduction page 3","line":4,"x":104.66,"y":425.98,"width":"178.69","height":"11.04","fontName":[null],"dir":["ltr"],"types":["TOC"]}
+{"page":1,"change":"ContentChange","str":"Executive summary page 4","line":5,"x":104.66,"y":406.99,"width":"138.33","height":"11.04","fontName":[null],"dir":["ltr"],"types":["TOC"]}
+{"page":1,"change":"ContentChange","str":"Introduction page 5","line":6,"x":104.66,"y":387.91,"width":"99.26","height":"11.04","fontName":[null],"dir":["ltr"],"types":["TOC"]}
+{"page":1,"change":"ContentChange","str":"Where can things go wrong? page 6","line":7,"x":104.66,"y":368.95,"width":"185.87","height":"11.04","fontName":[null],"dir":["ltr"],"types":["TOC"]}
+{"page":1,"change":"ContentChange","str":"How do you achieve it? (The six step improvement process) page 8","line":8,"x":104.66,"y":349.99,"width":"348.61","height":"11.04","fontName":[null],"dir":["ltr"],"types":["TOC"]}
+{"page":1,"change":"ContentChange","str":"Useful resources & references p age 40","line":9,"x":104.66,"y":127.22,"width":"200.07","height":"11.04","fontName":[null],"dir":["ltr"],"types":["TOC"]}
+{"page":1,"change":"ContentChange","str":"Appendice s page  42","line":10,"x":104.66,"y":108.26,"width":"103.27","height":"11.04","fontName":[null],"dir":["ltr"],"types":["TOC"]}

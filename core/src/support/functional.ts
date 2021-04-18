@@ -19,3 +19,14 @@ export function groupBy<T>(array: T[], groupKey: (element: T) => any): T[][] {
 export function flatten<T>(array: T[][]): T[] {
   return flatMap(array, (e) => e);
 }
+
+export function arraysEqual(a: any[], b: any): boolean {
+  if (a === b) return true;
+  if (a == null || b == null) return false;
+  if (a.length !== b.length) return false;
+
+  for (var i = 0; i < a.length; ++i) {
+    if (a[i] !== b[i]) return false;
+  }
+  return true;
+}

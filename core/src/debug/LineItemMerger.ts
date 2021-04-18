@@ -2,6 +2,8 @@ import ItemMerger from './ItemMerger';
 import Item from '../Item';
 import EvaluationTracker from './EvaluationTracker';
 import ChangeTracker from './ChangeTracker';
+import { flatten } from '../support/functional';
+import { onlyUniques } from '../support/groupingUtils';
 
 export default class LineItemMerger extends ItemMerger {
   constructor(private trackAsNew = false) {
@@ -30,10 +32,10 @@ export default class LineItemMerger extends ItemMerger {
       dir: directions,
     });
 
-    if (schema.includes('type')) {
-      const type = [...new Set(items.filter((item) => item.data['type']).map((item) => item.data['type']))];
-      if (type.length > 0) {
-        newItem.data['type'] = type;
+    if (schema.includes('types')) {
+      const types = flatten(items.map((item) => item.data['types'] || [])).filter(onlyUniques);
+      if (types.length > 0) {
+        newItem.data['types'] = types;
       }
     }
 

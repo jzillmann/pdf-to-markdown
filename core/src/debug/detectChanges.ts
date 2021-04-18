@@ -1,7 +1,7 @@
 import ChangeTracker from './ChangeTracker';
-import { assertDefined } from '../assert';
 import Item from '../Item';
 import { groupByPage } from '../support/groupingUtils';
+import { arraysEqual } from '../support/functional';
 
 /**
  * Compares incomming and outgoing items of a transformer in order to detect changes and to display them in any debug visualization.
@@ -50,9 +50,9 @@ function detectPageChanges(tracker: ChangeTracker, inputItems: Item[], outputIte
       addedItems.add(outputItems[positionInOutput].uuid);
       outputIndex++;
       // But with type change (TODO generalize ?)
-      const typeInInput = inputItem.data['type'];
-      const typeInOutput = outputItems[positionInOutput].data['type'];
-      if (typeInInput !== typeInOutput) {
+      const typesInInput = inputItem.data['types'];
+      const typesInOutput = outputItems[positionInOutput].data['types'];
+      if ((typesInInput || typesInOutput) && !arraysEqual(typesInInput, typesInOutput)) {
         tracker.trackContentChange(inputItem);
       }
     } else {

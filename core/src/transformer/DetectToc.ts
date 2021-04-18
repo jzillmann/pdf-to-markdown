@@ -6,7 +6,7 @@ import LineItemMerger from '../debug/LineItemMerger';
 import { groupByLine, groupByPage, onlyUniques, transformGroupedByPage } from '../support/groupingUtils';
 import { PAGE_MAPPING } from './CacluclateStatistics';
 import { extractEndingNumber } from '../support/stringFunctions';
-import ElementType from '../ElementType';
+import ItemType from '../ItemType';
 import { numbersAreConsecutive } from '../support/numberFunctions';
 
 const config = {
@@ -28,7 +28,7 @@ export default class DetectToc extends ItemTransformer {
       (incomingSchema) => {
         return incomingSchema.reduce((schema, column) => {
           if (column === 'x') {
-            return [...schema, 'type', 'x'];
+            return [...schema, 'types', 'x'];
           }
           return [...schema, column];
         }, new Array<string>());
@@ -66,7 +66,7 @@ export default class DetectToc extends ItemTransformer {
         }, [])
         .filter(onlyUniques),
     );
-    const maxDistanceBetweenLinesWithNumbers = Math.max(
+    const maxLinesBetweenLinesWithNumbers = Math.max(
       ...itemsInTocAreaByLine
         .reduce((distances: number[], lineItems) => {
           if (numbersByStartUuid.has(lineItems[0].uuid)) {
@@ -100,14 +100,14 @@ export default class DetectToc extends ItemTransformer {
                 const beforLineHeigth = Math.max(...beforLine.map((item) => item.data['height']));
                 const beforeLineMuchLarger = beforLineHeigth > maxHeightOfNumberedLines;
                 beforLine.forEach((item) => {
-                  if (!beforeLineMuchLarger && beforeLines.length - beforeIndex <= maxDistanceBetweenLinesWithNumbers) {
-                    item = item.withDataAddition({ type: ElementType.TOC });
+                  if (!beforeLineMuchLarger && beforeLines.length - beforeIndex <= maxLinesBetweenLinesWithNumbers) {
+                    item = item.withDataAddition({ types: [ItemType.TOC] });
                     tocLines++;
                   }
                   itemsToEmit.push(item);
                 });
               });
-              currentLine.forEach((item) => itemsToEmit.push(item.withDataAddition({ type: ElementType.TOC })));
+              currentLine.forEach((item) => itemsToEmit.push(item.withDataAddition({ types: [ItemType.TOC] })));
               tocLines++;
               return [];
             }
