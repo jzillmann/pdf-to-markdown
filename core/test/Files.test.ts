@@ -15,6 +15,7 @@ import RemoveRepetitiveItems from 'src/transformer/RemoveRepetitiveItems';
 import StageResult from 'src/debug/StageResult';
 import EvaluationIndex from 'src/debug/EvaluationIndex';
 import { Change } from 'src/debug/ChangeIndex';
+import TocDetection from 'src/transformer/TocDetection';
 
 const parser = new PdfParser(pdfjs);
 const pipeline = new PdfPipeline(parser, transformers);
@@ -83,29 +84,32 @@ function matchFilePath(pdfFileName: string, transformerName: string, chunkCount 
   return `${folder}/${pdfFileNameWithoutExtension}/${resultFileName}${fileIndex}.json`;
 }
 
-describe('Remove repetitive items from online resources', () => {
-  const transformerName = new RemoveRepetitiveItems().name;
+describe('Selective transforms on URL PDFs', () => {
+  const transformerNames = [new RemoveRepetitiveItems().name, new TocDetection().name];
   test.each(urls)('URL %p', async (url) => {
     const { fileName, data } = download(url);
     const debug = await pipeline.debug(data, () => {});
-    const stageResult = debug.stageResult(debug.stageNames.indexOf(transformerName));
-    const pages = stageResult.selectPages(true, true);
 
-    const lines: string[] = [];
-    lines.push(toHeader(stageResult));
+    transformerNames.forEach((transformerName) => {
+      const stageResult = debug.stageResult(debug.stageNames.indexOf(transformerName));
+      const pages = stageResult.selectPages(true, true);
 
-    pages.forEach((page) =>
-      page.itemGroups.forEach((itemGroup) => {
-        const item = itemGroup.top;
-        const change = stageResult.changes.change(item);
-        if (change) {
-          lines.push(itemToString(debug.fontMap, item, change, stageResult.evaluations));
-        }
-      }),
-    );
+      const lines: string[] = [];
+      lines.push(toHeader(stageResult));
 
-    const transformerResultAsString = lines.join('\n') || '{}';
-    expect(transformerResultAsString).toMatchFile(matchFilePath(fileName, transformerName));
+      pages.forEach((page) =>
+        page.itemGroups.forEach((itemGroup) => {
+          const item = itemGroup.top;
+          const change = stageResult.changes.change(item);
+          if (change) {
+            lines.push(itemToString(debug.fontMap, item, change, stageResult.evaluations));
+          }
+        }),
+      );
+
+      const transformerResultAsString = lines.join('\n') || '{}';
+      expect(transformerResultAsString).toMatchFile(matchFilePath(fileName, transformerName));
+    });
   });
 });
 

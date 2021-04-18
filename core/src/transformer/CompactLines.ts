@@ -30,10 +30,10 @@ export default class CompactLines extends ItemTransformer {
   transform(_: TransformContext, inputItems: Item[]): ItemResult {
     let lines = 0;
     return {
-      items: transformGroupedByPage(inputItems, (page, items) => {
+      items: transformGroupedByPage(inputItems, (_, pageItems) => {
         let lineNumber = -1;
         let lastY: number | undefined;
-        return items.map((item) => {
+        return pageItems.map((item) => {
           const y = item.data['y'];
           const height = item.data['height'];
           if (!lastY || Math.abs(Math.round(lastY - y)) > Math.round(height)) {
