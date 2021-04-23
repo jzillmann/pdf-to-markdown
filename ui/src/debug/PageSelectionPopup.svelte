@@ -23,17 +23,33 @@
     }
 </script>
 
-<div class="absolute mt-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96" transition:slide>
+<div
+    class="absolute my-2 p-2 flex bg-gray-200 shadow-lg rounded-sm overflow-auto max-h-96"
+    style="max-width: 77%;"
+    transition:slide>
     <span class="mt-1 pr-2" on:click={$pagePinned && unpinPage}>
         <Collection size="1x" class={$pagePinned ? 'hover:text-select cursor-pointer' : 'opacity-50'} />
     </span>
-    <div class="grid gap-3 grid-cols-5 sm:grid-cols-10 md:grid-cols-15 xl:grid-cols-20">
+    <div class="flex flex-wrap gap-1">
         {#each new Array(pageControl.totalPages) as _, idx}
             <div
-                on:click={() => pageControl.pageHasItems(idx) && pinPage(idx)}
-                class="px-2 border border-gray-300 rounded-full text-center  {pageControl.pageHasItems(idx) ? ($pinnedPageIndex === idx ? 'bg-select' : 'hover:text-select hover:border-select cursor-pointer') : 'opacity-50'}">
+                class="flex-grow-0 px-2 w-12 max-w-xs border border-gray-300 rounded-full text-center  {pageControl.pageHasItems(idx) ? ($pinnedPageIndex === idx ? 'bg-select' : 'hover:text-select hover:border-select cursor-pointer') : 'opacity-50'}"
+                on:click={() => pageControl.pageHasItems(idx) && pinPage(idx)}>
                 {#if showIndex}{idx}{:else}{$pageMapping.pageLabel(idx)}{/if}
             </div>
         {/each}
     </div>
 </div>
+
+<style>
+    ::-webkit-scrollbar {
+        -webkit-appearance: none;
+        width: 7px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background-color: rgba(0, 0, 0, 0.5);
+        box-shadow: 0 0 1px rgba(255, 255, 255, 0.5);
+    }
+</style>
