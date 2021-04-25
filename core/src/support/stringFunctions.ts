@@ -1,5 +1,7 @@
 import { assert } from '../assert';
 
+const TAB_CHAR_CODE = 9;
+const WHITESPACE_CHAR_CODE = 32;
 const MIN_DIGIT_CHAR_CODE = 48;
 const MAX_DIGIT_CHAR_CODE = 57;
 
@@ -17,6 +19,12 @@ export function toCharcodes(text: string): number[] {
 
 export function filterOutDigits(text: string): string {
   return String.fromCharCode(...toCharcodes(text).filter((code) => !isDigit(code)));
+}
+
+export function filterOutWhitespaces(text: string): string {
+  return String.fromCharCode(
+    ...toCharcodes(text).filter((code) => code != TAB_CHAR_CODE && code != WHITESPACE_CHAR_CODE),
+  );
 }
 
 export function extractNumbers(text: string): number[] {

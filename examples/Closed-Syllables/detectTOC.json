@@ -35,6 +35,7 @@
   ],
   "globals": {
     "maxHeight": 18,
+    "mostUsedHeight": 11,
     "minX": 72.024,
     "maxX": 534.58,
     "minY": 63.144,
@@ -46,6 +47,44 @@
     "toc": {
       "pages": [
         1
+      ],
+      "entries": [
+        {
+          "level": 0,
+          "text": "“short a”",
+          "verified": false,
+          "linkedPage": 3
+        },
+        {
+          "level": 0,
+          "text": "“short I”",
+          "verified": false,
+          "linkedPage": 8
+        },
+        {
+          "level": 0,
+          "text": "“short o”",
+          "verified": false,
+          "linkedPage": 10
+        },
+        {
+          "level": 0,
+          "text": "“short u”",
+          "verified": false,
+          "linkedPage": 12
+        },
+        {
+          "level": 0,
+          "text": "E",
+          "verified": false,
+          "linkedPage": 14
+        },
+        {
+          "level": 0,
+          "text": "Y",
+          "verified": false,
+          "linkedPage": 16
+        }
       ]
     }
   }

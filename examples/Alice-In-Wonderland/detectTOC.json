@@ -35,6 +35,7 @@
   ],
   "globals": {
     "maxHeight": 24.787,
+    "mostUsedHeight": 11,
     "minX": 102.88399999999984,
     "maxX": 488.43800000000005,
     "minY": 95.545,
@@ -46,6 +47,86 @@
     "toc": {
       "pages": [
         1
+      ],
+      "entries": [
+        {
+          "level": 0,
+          "text": "Poem",
+          "verified": true,
+          "linkedPage": 3
+        },
+        {
+          "level": 0,
+          "text": "Down the Rabbit-Hole",
+          "verified": true,
+          "linkedPage": 4
+        },
+        {
+          "level": 0,
+          "text": "The Pool of Tears",
+          "verified": true,
+          "linkedPage": 9
+        },
+        {
+          "level": 0,
+          "text": "A Caucus-Race and a Long Tale",
+          "verified": true,
+          "linkedPage": 14
+        },
+        {
+          "level": 0,
+          "text": "The Rabbit Sends in a Little Bill",
+          "verified": true,
+          "linkedPage": 19
+        },
+        {
+          "level": 0,
+          "text": "Advice from a Caterpillar",
+          "verified": true,
+          "linkedPage": 25
+        },
+        {
+          "level": 0,
+          "text": "Pig and Pepper",
+          "verified": true,
+          "linkedPage": 32
+        },
+        {
+          "level": 0,
+          "text": "A Mad Tea-Party",
+          "verified": true,
+          "linkedPage": 39
+        },
+        {
+          "level": 0,
+          "text": "The Queen’s Croquet-Ground",
+          "verified": true,
+          "linkedPage": 46
+        },
+        {
+          "level": 0,
+          "text": "The Mock Turtle’s Story",
+          "verified": true,
+          "linkedPage": 53
+        },
+        {
+          "level": 0,
+          "text": "The Lobster Quadrille",
+          "verified": true,
+          "linkedPage": 59
+        },
+        {
+          "level": 0,
+          "text": "Who Stole the Tarts?",
+          "verified": true,
+          "linkedPage": 65
+        },
+        {
+          "level": 0,
+          "text": "Alice’s Evidence",
+          "verified": true,
+          "linkedPage": 70
+        }
       ]
     }
   }

@@ -27,4 +27,8 @@ export default class TransformContext {
   getGlobal<T>(definition: GlobalDefinition<T>): T {
     return this.globals.get(definition);
   }
+
+  getGlobalOptionally<T>(definition: GlobalDefinition<T>): T | undefined {
+    return this.globals.getOptional(definition);
+  }
 }

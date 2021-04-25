@@ -35,6 +35,7 @@
   ],
   "globals": {
     "maxHeight": 24,
+    "mostUsedHeight": 9,
     "minX": 34.01229999999998,
     "maxX": 380.3863,
     "minY": 26.9291,
@@ -46,6 +47,152 @@
     "toc": {
       "pages": [
         3
+      ],
+      "entries": [
+        {
+          "level": 0,
+          "text": "vorWort",
+          "verified": true,
+          "linkedPage": 3
+        },
+        {
+          "level": 0,
+          "text": "einFührung",
+          "verified": true,
+          "linkedPage": 5
+        },
+        {
+          "level": 0,
+          "text": "1Was versteht man unter Open COntent?",
+          "verified": true,
+          "linkedPage": 6
+        },
+        {
+          "level": 0,
+          "text": "2Warum Werden Inhalte unter eIneCC-lIzenz gestellt?",
+          "verified": true,
+          "linkedPage": 8
+        },
+        {
+          "level": 0,
+          "text": "3sChIedlIChe CC-lIzenzen?",
+          "verified": true,
+          "linkedPage": 9
+        },
+        {
+          "level": 0,
+          "text": "4WIe WIrkt sICh das nC-mOdul darauf aus, WIe Inhalte verbreItet Werden?",
+          "verified": true,
+          "linkedPage": 10
+        },
+        {
+          "level": 0,
+          "text": "5Was Ist kOmmerzIell?",
+          "verified": true,
+          "linkedPage": 11
+        },
+        {
+          "level": 0,
+          "text": "6kann eIne CC-lIzenz mIt nC-mOdul verhIndern, dass meIne Inhalte durCh reChtsradIkale Oder andere extremIsten genutzt Werden?",
+          "verified": true,
+          "linkedPage": 12
+        },
+        {
+          "level": 0,
+          "text": "7ICh WIll, dass meIn Inhalt unter eIner CC-lIzenz freIzugänglICh bleIbt. Ist das lIChkeIt, eIner aneIgnung merzIelle unternehmen vOrzubeugen?",
+          "verified": true,
+          "linkedPage": 13
+        },
+        {
+          "level": 0,
+          "text": "8kann eIn CC-nC lIzenzIerter gestellt Werden?",
+          "verified": true,
+          "linkedPage": 14
+        },
+        {
+          "level": 0,
+          "text": "9kann man eInen nC-lIzenzIerten Inhalt kung gesOndert für WIkI pedIa  freIgeben?",
+          "verified": true,
+          "linkedPage": 15
+        },
+        {
+          "level": 0,
+          "text": "10verhIndert das nC-mOdul, dass Inhalte kOmmerzIell genutzt Werden?",
+          "verified": true,
+          "linkedPage": 15
+        },
+        {
+          "level": 0,
+          "text": "11bIn ICh bereIt, gegen eIne ner Inhalte vOrzugehen?",
+          "verified": true,
+          "linkedPage": 16
+        },
+        {
+          "level": 0,
+          "text": "12können nC-lIzenzIerteInhalte In zeItungenabgedruCkt Werden?",
+          "verified": true,
+          "linkedPage": 16
+        },
+        {
+          "level": 0,
+          "text": "13Inhalte In allen sChulen, sItäten genutzt Werden?",
+          "verified": true,
+          "linkedPage": 17
+        },
+        {
+          "level": 0,
+          "text": "14WIe Ist es zu beWerten, te zunäChst In der sChule verWendet, dann aber auCh nutzt Werden sOllen?",
+          "verified": true,
+          "linkedPage": 17
+        },
+        {
+          "level": 0,
+          "text": "15WIe WIrkt sICh nC auf mashups aus?",
+          "verified": true,
+          "linkedPage": 18
+        },
+        {
+          "level": 0,
+          "text": "16darf ICh als gema-mItglIed ter eIne CC-lIzenz mIt nC-mOdul stellen?",
+          "verified": true,
+          "linkedPage": 19
+        },
+        {
+          "level": 0,
+          "text": "17kann eIne kOmmerzIelle nutzung durCh drItte dem urheber nutzen?",
+          "verified": true,
+          "linkedPage": 20
+        },
+        {
+          "level": 0,
+          "text": "18darf eIn nutzer vOn CC-lIzenzIerten Inhalten den eIndruCk erWeCken, der urheber Würde dIe lICh unterstützen?",
+          "verified": true,
+          "linkedPage": 20
+        },
+        {
+          "level": 0,
+          "text": "19kann das nC-mOdul beI CC-lIzenzen sInnvOll seIn?",
+          "verified": true,
+          "linkedPage": 21
+        },
+        {
+          "level": 0,
+          "text": "20unter WelCher CC-lIzenz stehen WIkIpedIa-Inhalte?",
+          "verified": true,
+          "linkedPage": 21
+        },
+        {
+          "level": 0,
+          "text": "Literatur und Links zur Vertiefung",
+          "verified": false,
+          "linkedPage": 22
+        },
+        {
+          "level": 0,
+          "text": "impressum",
+          "verified": true,
+          "linkedPage": 23
+        }
       ]
     }
   }

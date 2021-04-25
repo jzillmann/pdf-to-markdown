@@ -19,6 +19,7 @@ export default class TOC {
 export interface TocEntry {
   level: number;
   text: string;
+  verified: boolean;
   linkedPage: number;
   items: Item[];
 }

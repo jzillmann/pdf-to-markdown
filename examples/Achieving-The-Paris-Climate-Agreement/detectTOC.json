@@ -35,6 +35,7 @@
   ],
   "globals": {
     "maxHeight": 66,
+    "mostUsedHeight": 8,
     "minX": 41.38153078000005,
     "maxX": 400.56930541,
     "minY": 36.71720123,
@@ -56,6 +57,1148 @@
         44,
         45,
         46
+      ],
+      "entries": [
+        {
+          "level": 0,
+          "text": "Fig. 3.11Distribution of human resources required to manufacture  the main components of a 50 MW solar photovoltaic  power plant. (IRENA 2017)..........................................................58Fig. 3.12Differences between the raw LDF emission scenario data...........62Fig. 3.13The 2.0 °C and 1.5 °C scenarios and their absolute fossil  and industry CO2 emissions until 2050. The energy-related",
+          "verified": false,
+          "linkedPage": 2
+        },
+        {
+          "level": 0,
+          "text": "xliiof the 1.5 °C and 2.0 °C Scenarios can be seen to result  in an increasing percentile rank among all the  literature-reported scenarios (increasing purple–red line  in the lower panel)",
+          "verified": false,
+          "linkedPage": 64
+        },
+        {
+          "level": 0,
+          "text": "Fig. 3.14Example distributions of emissions scenario characteristics",
+          "verified": false,
+          "linkedPage": 66
+        },
+        {
+          "level": 0,
+          "text": "Fig. 4.1Land-use sequestration pathways showing annual  sequestration rates over time",
+          "verified": false,
+          "linkedPage": 80
+        },
+        {
+          "level": 0,
+          "text": "2",
+          "verified": true,
+          "linkedPage": 82
+        },
+        {
+          "level": 0,
+          "text": "Fig. 4.3Global and regional methane emissions from fossil,  industrial, and land-use-related sources",
+          "verified": false,
+          "linkedPage": 84
+        },
+        {
+          "level": 0,
+          "text": "Fig. 4.4Global and regional methane emissions from fossil,  industrial, and land-use-related sources",
+          "verified": false,
+          "linkedPage": 85
+        },
+        {
+          "level": 0,
+          "text": "Fig. 4.5Global SF6 emission levels from literature-reported scenarios  and the LDF pathways derived in this study",
+          "verified": false,
+          "linkedPage": 86
+        },
+        {
+          "level": 0,
+          "text": "Fig. 4.6Global tetrafluoromethane (CF4) emissions from  the collection of assessed literature-reported scenarios  and the LDF pathways derived in this study",
+          "verified": false,
+          "linkedPage": 86
+        },
+        {
+          "level": 0,
+          "text": "Fig. 4.7Global and regional sulfate dioxide (SOX) emissions  in the literature-reported scenarios considered  and the LDF pathways derived in this study",
+          "verified": false,
+          "linkedPage": 87
+        },
+        {
+          "level": 0,
+          "text": "Fig. 4.8Global and regional nitrate aerosol (NOX) emissions  in the literature-reported scenarios considered  and the LDF pathways derived in this study",
+          "verified": false,
+          "linkedPage": 88
+        },
+        {
+          "level": 0,
+          "text": "Fig. 4.9Global and regional black carbon BC emissions  in the literature-reported scenarios considered  and the LDF pathways derived in this study",
+          "verified": false,
+          "linkedPage": 89
+        },
+        {
+          "level": 0,
+          "text": "Fig. 4.10Global and regional organic carbon OC emissions  in the literature-reported scenarios considered  and the LDF pathways derived in this study",
+          "verified": false,
+          "linkedPage": 90
+        },
+        {
+          "level": 0,
+          "text": "Fig. 5.1Historic development and projections of oil prices  (bottom lines) and historical world oil production  and projections (top lines) by the IEA according  to Wachtmeister et al. (2018)",
+          "verified": false,
+          "linkedPage": 104
+        },
+        {
+          "level": 0,
+          "text": "Fig. 5.2Global supply curve for primary biomass in 2030  (IRENA 2014)",
+          "verified": false,
+          "linkedPage": 111
+        },
+        {
+          "level": 0,
+          "text": "Fig. 5.3Development of the specific final energy use (per $GDP)  in all stationary sectors (i.e., without transport) per world  region under the 2.0 °C Scenario (left)  and 1.5 °C Scenario (right)",
+          "verified": false,
+          "linkedPage": 119
+        },
+        {
+          "level": 0,
+          "text": "Fig. 5.4Development of the average global RES shares  in total power generation in the 2.0 °C Scenario",
+          "verified": false,
+          "linkedPage": 122
+        },
+        {
+          "level": 0,
+          "text": "erahsnoitarenegreoplabolgegareva",
+          "verified": true,
+          "linkedPage": 124
+        },
+        {
+          "level": 0,
+          "text": "List of FiguresxliiiFig. 5.6Development of the average global shares of future  heat-generation options in the ‘Residential and other’  sector under the 2.0 °C scenario",
+          "verified": false,
+          "linkedPage": 125
+        },
+        {
+          "level": 0,
+          "text": "6.1",
+          "verified": true,
+          "linkedPage": 133
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.2Transport mode performances of road, rail, and aviation",
+          "verified": false,
+          "linkedPage": 133
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.3Powertrain split for all transport modes in 2015  by transport performance (pkm or tkm)",
+          "verified": false,
+          "linkedPage": 134
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.4Final energy use by world transport in 2015  according to region",
+          "verified": false,
+          "linkedPage": 134
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.5Powertrain split for all transport modes in 2050  under the 5.0 °C Scenario in terms of transport performance",
+          "verified": false,
+          "linkedPage": 136
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.6Powertrain split (fleet) of passenger cars in selected  regions in 2030 (left) and 2050 (right) under  the 2.0 °C Scenario",
+          "verified": false,
+          "linkedPage": 137
+        },
+        {
+          "level": 0,
+          "text": "The 2.0 °C Scenario",
+          "verified": true,
+          "linkedPage": 138
+        },
+        {
+          "level": 0,
+          "text": "The 2.0 °C Scenario",
+          "verified": true,
+          "linkedPage": 138
+        },
+        {
+          "level": 0,
+          "text": "0",
+          "verified": true,
+          "linkedPage": 139
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.10Powertrain split of the world passenger car fleet in the 2.0 °C  Scenario (left) and 1.5 °C Scenario (right)",
+          "verified": false,
+          "linkedPage": 140
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.11Final energy demand in urban and inter-urban passenger  transport modes in 2015 (world averages)",
+          "verified": false,
+          "linkedPage": 140
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.12Final energy demand in freight transport modes in 2015  (world averages)",
+          "verified": false,
+          "linkedPage": 141
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.13World average energy consumption development for  passenger cars per powertrain in 2015 (left) and 2050 (right)",
+          "verified": false,
+          "linkedPage": 142
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.14Average global energy intensities of truck drivetrain  technologies in 2015 and 2050",
+          "verified": false,
+          "linkedPage": 143
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.15Average global energy intensities of bus drivetrain  technologies in 2015 (left) and 2050 (right)",
+          "verified": false,
+          "linkedPage": 144
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.16Average global energy intensities of two-wheel vehicles  (left) and three-wheel vehicles (right) by drivetrain technology  in 2015 (left bar) and 2050 (right bar)",
+          "verified": false,
+          "linkedPage": 145
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.17MJ/tkm of freight rail trains (left) and MJ/pkm of passenger  rail trains (right) for 2015 (left) and 2050 (right)",
+          "verified": false,
+          "linkedPage": 146
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.18Region-specific MJ/tkm and MJ/pkm in 2015 and 2050 for  freight rail trains (left) and passenger rail trains (right)",
+          "verified": false,
+          "linkedPage": 146
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.19Shares of bio- and synfuels in all world regions  under all scenarios",
+          "verified": false,
+          "linkedPage": 147
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.20Relative growth in world transport demand  (2015 = 100% pkm/tkm) in the 5.0 °C scenario",
+          "verified": false,
+          "linkedPage": 150
+        },
+        {
+          "level": 0,
+          "text": "List of FiguresxlivFig. 6.21Relative growth in world transport demand  (2015 = 100% pkm/tkm) in the 2.0 °C Scenario (left)  and 1.5 °C Scenario (right)",
+          "verified": false,
+          "linkedPage": 150
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.22Regional pkm development",
+          "verified": false,
+          "linkedPage": 151
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.23World pkm development in all scenarios",
+          "verified": false,
+          "linkedPage": 152
+        },
+        {
+          "level": 0,
+          "text": "2.0°°C",
+          "verified": true,
+          "linkedPage": 152
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.25Pkm development in OECD Europe (left) Africa (middle), and China (right) in the 2.0 °C Scenario",
+          "verified": false,
+          "linkedPage": 153
+        },
+        {
+          "level": 0,
+          "text": "mm",
+          "verified": true,
+          "linkedPage": 154
+        },
+        {
+          "level": 0,
+          "text": "mm",
+          "verified": true,
+          "linkedPage": 154
+        },
+        {
+          "level": 0,
+          "text": "tkm",
+          "verified": true,
+          "linkedPage": 156
+        },
+        {
+          "level": 0,
+          "text": "tkm",
+          "verified": true,
+          "linkedPage": 156
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.30Rail tkm in the 2.0 °C Scenario",
+          "verified": false,
+          "linkedPage": 157
+        },
+        {
+          "level": 0,
+          "text": "Fig. 6.31Share of rail tkm in total rail + road tkm  in the 2.0 °C Scenario",
+          "verified": false,
+          "linkedPage": 157
+        },
+        {
+          "level": 0,
+          "text": "Plants",
+          "verified": true,
+          "linkedPage": 166
+        },
+        {
+          "level": 0,
+          "text": "Fig. 7.2Solar potential in Africa",
+          "verified": false,
+          "linkedPage": 166
+        },
+        {
+          "level": 0,
+          "text": "Fig. 7.3Europe’s potential for utility-scale solar power plants",
+          "verified": false,
+          "linkedPage": 167
+        },
+        {
+          "level": 0,
+          "text": "Fig. 7.4OECD North America: existing and potential  wind power sites",
+          "verified": false,
+          "linkedPage": 168
+        },
+        {
+          "level": 0,
+          "text": "Fig. 7.5Latin America: potential and existing wind power sites",
+          "verified": false,
+          "linkedPage": 169
+        },
+        {
+          "level": 0,
+          "text": "8.1CCCFig. 8.1",
+          "verified": true,
+          "linkedPage": 176
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.2",
+          "verified": true,
+          "linkedPage": 177
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.3",
+          "verified": true,
+          "linkedPage": 178
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.4",
+          "verified": true,
+          "linkedPage": 179
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.5",
+          "verified": true,
+          "linkedPage": 179
+        },
+        {
+          "level": 0,
+          "text": "0 0Fig. 8.6",
+          "verified": true,
+          "linkedPage": 180
+        },
+        {
+          "level": 0,
+          "text": "yFig. 8.7",
+          "verified": true,
+          "linkedPage": 181
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.8",
+          "verified": true,
+          "linkedPage": 182
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.9",
+          "verified": true,
+          "linkedPage": 183
+        },
+        {
+          "level": 0,
+          "text": "0CCCCCCCCCCrdEl heatingr heatingsFig. 8.10",
+          "verified": true,
+          "linkedPage": 184
+        },
+        {
+          "level": 0,
+          "text": "Fig.  8.11",
+          "verified": true,
+          "linkedPage": 186
+        },
+        {
+          "level": 0,
+          "text": "2CCCCCCCCCCrNaral sFig. 8.12",
+          "verified": true,
+          "linkedPage": 187
+        },
+        {
+          "level": 0,
+          "text": "0 02015CO2SavingsFig. 8.13",
+          "verified": true,
+          "linkedPage": 188
+        },
+        {
+          "level": 0,
+          "text": "Fig.  8.14",
+          "verified": true,
+          "linkedPage": 189
+        },
+        {
+          "level": 0,
+          "text": "00Fig.  8.15",
+          "verified": true,
+          "linkedPage": 190
+        },
+        {
+          "level": 0,
+          "text": "Fig.  8.16",
+          "verified": true,
+          "linkedPage": 202
+        },
+        {
+          "level": 0,
+          "text": "rFig. 8.17",
+          "verified": true,
+          "linkedPage": 210
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.18",
+          "verified": true,
+          "linkedPage": 212
+        },
+        {
+          "level": 0,
+          "text": "Fig.  8.19",
+          "verified": true,
+          "linkedPage": 213
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.20",
+          "verified": true,
+          "linkedPage": 214
+        },
+        {
+          "level": 0,
+          "text": "dFig. 8.21",
+          "verified": true,
+          "linkedPage": 215
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.22",
+          "verified": true,
+          "linkedPage": 216
+        },
+        {
+          "level": 0,
+          "text": "2Fig. 8.23",
+          "verified": true,
+          "linkedPage": 218
+        },
+        {
+          "level": 0,
+          "text": "00150200000000000CCCCCCCCCC2015CO2 SavingsFig. 8.24",
+          "verified": true,
+          "linkedPage": 219
+        },
+        {
+          "level": 0,
+          "text": "0Fig.  8.25",
+          "verified": true,
+          "linkedPage": 220
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCryFig. 8.26",
+          "verified": true,
+          "linkedPage": 231
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.27",
+          "verified": true,
+          "linkedPage": 232
+        },
+        {
+          "level": 0,
+          "text": "238cton Fig.  8.28",
+          "verified": true,
+          "linkedPage": 233
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.29",
+          "verified": true,
+          "linkedPage": 235
+        },
+        {
+          "level": 0,
+          "text": "00000000CCCCCCCCCC0rdElicheatinglar heatingsFig. 8.30",
+          "verified": true,
+          "linkedPage": 236
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.31",
+          "verified": true,
+          "linkedPage": 237
+        },
+        {
+          "level": 0,
+          "text": "rFig. 8.32",
+          "verified": true,
+          "linkedPage": 239
+        },
+        {
+          "level": 0,
+          "text": "0204002015cumulated emissions COemi2 ssions SavingsFig. 8.33",
+          "verified": true,
+          "linkedPage": 240
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.34",
+          "verified": true,
+          "linkedPage": 241
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCrssFig. 8.35",
+          "verified": true,
+          "linkedPage": 251
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.36268",
+          "verified": true,
+          "linkedPage": 253
+        },
+        {
+          "level": 0,
+          "text": "28Fig.  8.37",
+          "verified": true,
+          "linkedPage": 253
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.38",
+          "verified": true,
+          "linkedPage": 255
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCggsFig. 8.39",
+          "verified": true,
+          "linkedPage": 256
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.40",
+          "verified": true,
+          "linkedPage": 257
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCsFig. 8.41",
+          "verified": true,
+          "linkedPage": 259
+        },
+        {
+          "level": 0,
+          "text": "02060 00000000CCCCCCCCCC20150emissions COemissions 2 SavingsCCFig. 8.42",
+          "verified": true,
+          "linkedPage": 260
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCdsrFig. 8.43",
+          "verified": true,
+          "linkedPage": 261
+        },
+        {
+          "level": 0,
+          "text": "AfricaCCCCCCCCCCyFig. 8.44",
+          "verified": true,
+          "linkedPage": 269
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCPolFig. 8.45",
+          "verified": true,
+          "linkedPage": 271
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.46",
+          "verified": true,
+          "linkedPage": 272
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCgsgsFig. 8.47",
+          "verified": true,
+          "linkedPage": 274
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCgsgsFig. 8.48",
+          "verified": true,
+          "linkedPage": 274
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.49",
+          "verified": true,
+          "linkedPage": 276
+        },
+        {
+          "level": 0,
+          "text": "0000000CCCCCCCCCC0nsFig. 8.50",
+          "verified": true,
+          "linkedPage": 278
+        },
+        {
+          "level": 0,
+          "text": "020 0CCCCCCCCCC2010emissions COemissions 2 SavingsCFig. 8.51 00CCCCCCCCCC20150s",
+          "verified": true,
+          "linkedPage": 279
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCC522 sCCCCCCCCCCCsFig. 8.52",
+          "verified": true,
+          "linkedPage": 279
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCsTyFig. 8.53",
+          "verified": true,
+          "linkedPage": 287
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCPsolFig. 8.54",
+          "verified": true,
+          "linkedPage": 289
+        },
+        {
+          "level": 0,
+          "text": "Fig.  8.55",
+          "verified": true,
+          "linkedPage": 290
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCsslFig. 8.56",
+          "verified": true,
+          "linkedPage": 292
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCysslFig. 8.57",
+          "verified": true,
+          "linkedPage": 292
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.58",
+          "verified": true,
+          "linkedPage": 294
+        },
+        {
+          "level": 0,
+          "text": "2CCCCCCCCCCsFig. 8.59",
+          "verified": true,
+          "linkedPage": 296
+        },
+        {
+          "level": 0,
+          "text": "02060 0CCCCCCCCCC2010emissions COemissions 2 SavingsCCFig. 8.60000000CCCCCCCCCC20150sr",
+          "verified": true,
+          "linkedPage": 297
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCC2 CCCCCCCCCCCCsrFig. 8.61",
+          "verified": true,
+          "linkedPage": 297
+        },
+        {
+          "level": 0,
+          "text": "Eastern  Europe/Eurasia 0 00TFig.  8.62",
+          "verified": true,
+          "linkedPage": 306
+        },
+        {
+          "level": 0,
+          "text": "0000000CCCCCCCCCC0rPsorleFig.   8.63",
+          "verified": true,
+          "linkedPage": 309
+        },
+        {
+          "level": 0,
+          "text": "0000000CCCCCCCCCC0rPsorleFig.  8.64",
+          "verified": true,
+          "linkedPage": 309
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.65",
+          "verified": true,
+          "linkedPage": 311
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCnsgsFig. 8.66",
+          "verified": true,
+          "linkedPage": 312
+        },
+        {
+          "level": 0,
+          "text": "Fig.  8.67",
+          "verified": true,
+          "linkedPage": 314
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCysFig. 8.68",
+          "verified": true,
+          "linkedPage": 315
+        },
+        {
+          "level": 0,
+          "text": "020 000000CCCCCCCCCC20150emissions COemissions 2 SavingsCCFig. 8.69",
+          "verified": true,
+          "linkedPage": 316
+        },
+        {
+          "level": 0,
+          "text": "0CCCCCCCCCC0dsrFig. 8.70Scenario",
+          "verified": true,
+          "linkedPage": 317
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCrsIyyFig. 8.71Non-OECD  Asia",
+          "verified": true,
+          "linkedPage": 325
+        },
+        {
+          "level": 0,
+          "text": "yeFig. 8.72",
+          "verified": true,
+          "linkedPage": 327
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.73",
+          "verified": true,
+          "linkedPage": 328
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.74",
+          "verified": true,
+          "linkedPage": 329
+        },
+        {
+          "level": 0,
+          "text": "00000CCCCCCCCCC0ngsslFig. 8.75",
+          "verified": true,
+          "linkedPage": 330
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.76",
+          "verified": true,
+          "linkedPage": 332
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCsFig. 8.77",
+          "verified": true,
+          "linkedPage": 333
+        },
+        {
+          "level": 0,
+          "text": "2 Emissions020 0000000CCCCCCCCCC2010emissions COemissions 2 SavingsCCFig. 8.78",
+          "verified": true,
+          "linkedPage": 334
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCsFig. 8.79",
+          "verified": true,
+          "linkedPage": 335
+        },
+        {
+          "level": 0,
+          "text": "India 0000000000 000000000CCCCCCCCCC0y 0Fig. 8.80",
+          "verified": true,
+          "linkedPage": 345
+        },
+        {
+          "level": 0,
+          "text": "eFig. 8.81",
+          "verified": true,
+          "linkedPage": 347
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.82",
+          "verified": true,
+          "linkedPage": 348
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.83",
+          "verified": true,
+          "linkedPage": 349
+        },
+        {
+          "level": 0,
+          "text": "00CCCCCCCCCC0gsgsFig. 8.84",
+          "verified": true,
+          "linkedPage": 350
+        },
+        {
+          "level": 0,
+          "text": "2Fig.  8.85",
+          "verified": true,
+          "linkedPage": 352
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.86",
+          "verified": true,
+          "linkedPage": 353
+        },
+        {
+          "level": 0,
+          "text": "020 02015CO2SavingsFig.  8.87",
+          "verified": true,
+          "linkedPage": 354
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCsrFig. 8.88",
+          "verified": true,
+          "linkedPage": 355
+        },
+        {
+          "level": 0,
+          "text": "ChinaFig. 8.89",
+          "verified": true,
+          "linkedPage": 361
+        },
+        {
+          "level": 0,
+          "text": "0lFig. 8.90",
+          "verified": true,
+          "linkedPage": 363
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.91",
+          "verified": true,
+          "linkedPage": 364
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.92",
+          "verified": true,
+          "linkedPage": 366
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.93",
+          "verified": true,
+          "linkedPage": 366
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.94",
+          "verified": true,
+          "linkedPage": 369
+        },
+        {
+          "level": 0,
+          "text": "0Fig. 8.95",
+          "verified": true,
+          "linkedPage": 370
+        },
+        {
+          "level": 0,
+          "text": "0 02015CO2 SavingsFig. 8.96 0000000CCCCCCCCCC2015sr",
+          "verified": true,
+          "linkedPage": 371
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCsrFig. 8.97",
+          "verified": true,
+          "linkedPage": 371
+        },
+        {
+          "level": 0,
+          "text": "OECD  PacificCCCCCCCCCCsyyFig. 8.98",
+          "verified": true,
+          "linkedPage": 381
+        },
+        {
+          "level": 0,
+          "text": "CCCCCCCCCCrPolleFig. 8.99",
+          "verified": true,
+          "linkedPage": 383
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.100",
+          "verified": true,
+          "linkedPage": 384
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.101",
+          "verified": true,
+          "linkedPage": 385
+        },
+        {
+          "level": 0,
+          "text": "0Fig. 8.102",
+          "verified": true,
+          "linkedPage": 386
+        },
+        {
+          "level": 0,
+          "text": "Fig. 8.103",
+          "verified": true,
+          "linkedPage": 388
+        },
+        {
+          "level": 0,
+          "text": "00000000CCCCCCCCCCysFig. 8.104",
+          "verified": true,
+          "linkedPage": 389
+        },
+        {
+          "level": 0,
+          "text": "2 Emissions01020 02015CO2 SavingsFig.  8.105",
+          "verified": true,
+          "linkedPage": 390
+        },
+        {
+          "level": 0,
+          "text": "00CCCCCCCCCCsrFig. 8.106",
+          "verified": true,
+          "linkedPage": 391
+        },
+        {
+          "level": 0,
+          "text": "List of FigureslFig. 9.1Global coal production in 1981–2017  (BP 2018—Statistical Review)",
+          "verified": false,
+          "linkedPage": 405
+        },
+        {
+          "level": 0,
+          "text": "Fig. 9.2Global coal production until 2050 under  the three scenarios",
+          "verified": false,
+          "linkedPage": 405
+        },
+        {
+          "level": 0,
+          "text": "Fig. 9.3Global oil production in 1965–2017  (BP 2018—Statistical Review)",
+          "verified": false,
+          "linkedPage": 406
+        },
+        {
+          "level": 0,
+          "text": "Fig. 9.4Global oil production until 2050 under  the three scenarios",
+          "verified": false,
+          "linkedPage": 407
+        },
+        {
+          "level": 0,
+          "text": "9.5",
+          "verified": true,
+          "linkedPage": 408
+        },
+        {
+          "level": 0,
+          "text": "Fig. 9.6Global gas production until 2050 under  the three scenarios",
+          "verified": false,
+          "linkedPage": 408
+        },
+        {
+          "level": 0,
+          "text": "Fig. 10.1World employment in the energy sector under  the 5.0 °C and 2.0 °C Scenarios (left) and the 5.0 °C  and 1.5 °C Scenarios (right)",
+          "verified": false,
+          "linkedPage": 418
+        },
+        {
+          "level": 0,
+          "text": "Fig. 10.2Distribution of human resources required to manufacture  the main components of a 50 MW solar photovoltaic  power plant. (IRENA 2017a)",
+          "verified": false,
+          "linkedPage": 420
+        },
+        {
+          "level": 0,
+          "text": "Fig. 10.3Division of occupations between fossil fuels and renewable  energy in 2015 and 2025 under the 1.5 °C Scenario",
+          "verified": false,
+          "linkedPage": 427
+        },
+        {
+          "level": 0,
+          "text": "Fig. 10.4Division of occupations between fossil fuels and  renewable energy in 2015 and 2025 under  the 2.0 °C Scenario",
+          "verified": false,
+          "linkedPage": 428
+        },
+        {
+          "level": 0,
+          "text": "......",
+          "verified": true,
+          "linkedPage": 433
+        },
+        {
+          "level": 0,
+          "text": "Fig. 10.6Employment changes between 2015 and 2025  by occupational breakdown under the 1.5 °C Scenario",
+          "verified": false,
+          "linkedPage": 434
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.1Overview of key metal requirements and supply  chain for solar PV",
+          "verified": false,
+          "linkedPage": 439
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.2Overview of key metal requirements and supply  chain for wind power",
+          "verified": false,
+          "linkedPage": 440
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.3Overview of key metal requirements and supply  chain for LIB and EV",
+          "verified": false,
+          "linkedPage": 441
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.4Cumulative demand from renewable energy  and transport technologies to 2050 compared with reserves",
+          "verified": false,
+          "linkedPage": 446
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.5Annual demand from renewable energy and storage  technologies in 2050 compared with current production  rates (note that scale varies across the metals)",
+          "verified": false,
+          "linkedPage": 446
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.6Annual primary demand for cobalt from EVs and storage",
+          "verified": false,
+          "linkedPage": 447
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.7Cumulative primary demand for cobalt from EVs  and storage by 2050",
+          "verified": false,
+          "linkedPage": 447
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.8Annual primary demand for lithium from EVs  and storage",
+          "verified": false,
+          "linkedPage": 448
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.9Cumulative primary demand for lithium from EVs  and storage by 2050",
+          "verified": false,
+          "linkedPage": 449
+        },
+        {
+          "level": 0,
+          "text": "List of FiguresliFig. 11.10Annual primary demand for silver from solar PV (c-Si)",
+          "verified": false,
+          "linkedPage": 449
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.11Cumulative primary demand for silver from solar PV  (c-Si) by 2050",
+          "verified": false,
+          "linkedPage": 450
+        },
+        {
+          "level": 0,
+          "text": "Fig. 11.12Top five oil-producing countries (left) versus  lithium-producing countries (right)",
+          "verified": false,
+          "linkedPage": 453
+        },
+        {
+          "level": 0,
+          "text": "Fig. 12.1Global CO2, CH4 and N2O concentrations under  various scenarios. The so-called SSP scenarios are going  to inform the Sixth Assessment Report by the IPCC,  the RCP scenarios are the previous generation of scenarios  and the LDF scenarios are those developed in this study",
+          "verified": false,
+          "linkedPage": 462
+        },
+        {
+          "level": 0,
+          "text": "Fig. 12.2CO2 equivalence concentrations and radiative forcing  of main IPCC scenarios for the forthcoming Sixth  Assessment (so-called SSP scenarios), the RCP scenarios  underlying the Fifth IPCC Assessment Report and  the LDF scenarios developed in this study",
+          "verified": false,
+          "linkedPage": 463
+        },
+        {
+          "level": 0,
+          "text": "Fig. 12.3Global cumulative CO2 emissions – 2.0 °C and  1.5 °C scenarios",
+          "verified": false,
+          "linkedPage": 464
+        },
+        {
+          "level": 0,
+          "text": "Fig. 12.4Global-mean surface air temperature projections",
+          "verified": false,
+          "linkedPage": 467
+        },
+        {
+          "level": 0,
+          "text": "Fig. 12.5Global-mean sea level rise projections under the three  scenarios developed in this study",
+          "verified": false,
+          "linkedPage": 468
+        }
       ]
     }
   }

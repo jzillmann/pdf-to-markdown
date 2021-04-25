@@ -139,8 +139,12 @@ function globalsToString(globals: Globals): object {
     if (key === TOC_GLOBAL.key) {
       value = {
         ...value,
+        entries: value.entries.map((entry: TocEntry) => {
+          const filteredEntry = { ...entry } as any;
+          delete filteredEntry.items;
+          return filteredEntry;
+        }),
       };
-      delete value.entries;
     }
     obj[key] = value;
     return obj;

@@ -1,9 +1,20 @@
-import { filterOutDigits, extractNumbers, extractEndingNumber } from 'src/support/stringFunctions';
+import {
+  filterOutDigits,
+  filterOutWhitespaces,
+  extractNumbers,
+  extractEndingNumber,
+} from 'src/support/stringFunctions';
 
 test('filterOutDigits', async () => {
   expect(filterOutDigits('')).toEqual('');
   expect(filterOutDigits('a b c')).toEqual('a b c');
   expect(filterOutDigits('a1b 2c 3')).toEqual('ab c ');
+});
+
+test('filterOutWhitespaces', async () => {
+  expect(filterOutWhitespaces('')).toEqual('');
+  expect(filterOutWhitespaces('a b c')).toEqual('abc');
+  expect(filterOutWhitespaces('ab  c ')).toEqual('abc');
 });
 
 test('extractNumbers', async () => {

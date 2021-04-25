@@ -35,6 +35,7 @@
   ],
   "globals": {
     "maxHeight": 36,
+    "mostUsedHeight": 11,
     "minX": 53.88,
     "maxX": 797.38,
     "minY": 23.04,
@@ -46,6 +47,62 @@
     "toc": {
       "pages": [
         1
+      ],
+      "entries": [
+        {
+          "level": 0,
+          "text": "Acknowledgements",
+          "verified": true,
+          "linkedPage": 3
+        },
+        {
+          "level": 0,
+          "text": "References",
+          "verified": true,
+          "linkedPage": 3
+        },
+        {
+          "level": 0,
+          "text": "Distribution & reproductionpage",
+          "verified": false,
+          "linkedPage": 3
+        },
+        {
+          "level": 0,
+          "text": "Executive summary",
+          "verified": true,
+          "linkedPage": 4
+        },
+        {
+          "level": 0,
+          "text": "Introduction",
+          "verified": true,
+          "linkedPage": 5
+        },
+        {
+          "level": 0,
+          "text": "Where can things go wrong?",
+          "verified": true,
+          "linkedPage": 6
+        },
+        {
+          "level": 0,
+          "text": "P",
+          "verified": true,
+          "linkedPage": 8
+        },
+        {
+          "level": 0,
+          "text": "Useful resources",
+          "verified": true,
+          "linkedPage": 40
+        },
+        {
+          "level": 0,
+          "text": "Appendices",
+          "verified": true,
+          "linkedPage": 42
+        }
       ]
     }
   }

@@ -5,13 +5,14 @@ import ItemResult from '../ItemResult';
 import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
 import { groupByLine, groupByPage, onlyUniques, transformGroupedByPage } from '../support/groupingUtils';
-import { PAGE_MAPPING } from './CacluclateStatistics';
-import { extractEndingNumber } from '../support/stringFunctions';
+import { MOST_USED_HEIGHT, PAGE_MAPPING } from './CacluclateStatistics';
+import { extractEndingNumber, filterOutWhitespaces } from '../support/stringFunctions';
 import ItemType from '../ItemType';
 import { numbersAreConsecutive } from '../support/numberFunctions';
 import TOC, { TocEntry } from '../TOC';
+import FontType from '../FontType';
 import { flatten, groupBy } from '../support/functional';
-import { itemWithType } from '../support/items';
+import { getHeight, getText, getFontName, itemWithType } from '../support/items';
 
 const config = {
   // How many characters a line with a ending number needs to have minimally to be a valid link
@@ -45,6 +46,7 @@ export default class DetectToc extends ItemTransformer {
 
   transform(context: TransformContext, inputItems: Item[]): ItemResult {
     const pageMapping = context.getGlobal(PAGE_MAPPING);
+    const mostUsedHeight = context.getGlobal(MOST_USED_HEIGHT);
     const maxPageToEvaluate = Math.min(context.pageCount / 2, 5 + Math.abs(pageMapping.pageFactor));
     const pagesToEvaluate = groupByPage(inputItems.filter((item) => item.page <= maxPageToEvaluate));
     const maxPageToBeLinkedTo = context.pageCount + pageMapping.pageFactor - 1;
@@ -59,12 +61,27 @@ export default class DetectToc extends ItemTransformer {
     const tocItemUuids: Set<string> = new Set(
       flatten(flatten(rawTocEntries.map((e) => e.entryLines))).map((item) => item.uuid),
     );
-    const tocEntries: TocEntry[] = rawTocEntries.map((rawEntry) => ({
-      level: 0,
-      text: 'string',
-      linkedPage: rawEntry.linkedPage,
-      items: flatten(rawEntry.entryLines),
-    }));
+    const tocEntries: TocEntry[] = rawTocEntries.map((rawEntry) => {
+      const headline = findHeadline(
+        context.fontMap,
+        inputItems,
+        mostUsedHeight,
+        rawEntry.linkedPage - pageMapping.pageFactor,
+        rawEntry.entryLines,
+      );
+      return {
+        level: 0,
+        text:
+          headline ||
+          flatten(rawEntry.entryLines)
+            .map((item) => getText(item))
+            .join('')
+            .replace(/[\s.]+\w+$/, ''),
+        verified: !!headline,
+        linkedPage: rawEntry.linkedPage,
+        items: flatten(rawEntry.entryLines),
+      };
+    });
 
     return {
       items: inputItems.map((item) => {
@@ -226,6 +243,40 @@ function selectRawTocEntries(tocArea: TocArea, inputItems: Item[]): RawTocEntry[
   }, []);
 
   return rawTocEntries;
+}
+
+function findHeadline(
+  fontMap: Map<string, object>,
+  items: Item[],
+  mostUsedHeight: number,
+  targetPage: number,
+  entryLines: Item[][],
+): string | undefined {
+  const tocEntryText = normalizeHeadlineChars(
+    entryLines.map((lineItems) => lineItems.map((item) => getText(item)).join('')).join(''),
+  );
+  const pageItems = items.filter((item) => item.page == targetPage);
+  const possibleHeadlines = pageItems.filter(
+    (item) =>
+      getHeight(item) > mostUsedHeight + config.minHeadlineDistance ||
+      FontType.declaredFontTypes(getFontName(fontMap, item)).includes(FontType.BOLD),
+  );
+  let hits = possibleHeadlines.filter((item) => {
+    return tocEntryText.includes(normalizeHeadlineChars(getText(item)));
+  });
+
+  if (hits.length > 0) {
+    return hits
+      .map((hit) => getText(hit))
+      .join('')
+      .trim();
+  }
+
+  return undefined;
+}
+
+function normalizeHeadlineChars(text: string) {
+  return filterOutWhitespaces(text).toLowerCase();
 }
 
 /**

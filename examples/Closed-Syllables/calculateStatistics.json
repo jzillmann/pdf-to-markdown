@@ -28,6 +28,7 @@
   ],
   "globals": {
     "maxHeight": 18,
+    "mostUsedHeight": 11,
     "minX": 72.024,
     "maxX": 534.58,
     "minY": 63.144,

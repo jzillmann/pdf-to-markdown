@@ -35,6 +35,7 @@
   ],
   "globals": {
     "maxHeight": 36,
+    "mostUsedHeight": 12,
     "minX": 6.487999999999971,
     "maxX": 815.833,
     "minY": 16.345999999999947,
@@ -46,6 +47,98 @@
     "toc": {
       "pages": [
         2
+      ],
+      "entries": [
+        {
+          "level": 0,
+          "text": "Introduction",
+          "verified": true,
+          "linkedPage": 5
+        },
+        {
+          "level": 0,
+          "text": "History",
+          "verified": true,
+          "linkedPage": 7
+        },
+        {
+          "level": 0,
+          "text": "Setting and context",
+          "verified": true,
+          "linkedPage": 10
+        },
+        {
+          "level": 0,
+          "text": "Witney’s people",
+          "verified": true,
+          "linkedPage": 12
+        },
+        {
+          "level": 0,
+          "text": "Health",
+          "verified": true,
+          "linkedPage": 14
+        },
+        {
+          "level": 0,
+          "text": "Witney at work",
+          "verified": true,
+          "linkedPage": 15
+        },
+        {
+          "level": 0,
+          "text": "Housing",
+          "verified": true,
+          "linkedPage": 16
+        },
+        {
+          "level": 0,
+          "text": "Crime and safety",
+          "verified": true,
+          "linkedPage": 17
+        },
+        {
+          "level": 0,
+          "text": "Education",
+          "verified": true,
+          "linkedPage": 18
+        },
+        {
+          "level": 0,
+          "text": "Transport",
+          "verified": true,
+          "linkedPage": 20
+        },
+        {
+          "level": 0,
+          "text": "Lifestyle and deprivation",
+          "verified": true,
+          "linkedPage": 21
+        },
+        {
+          "level": 0,
+          "text": "Conclusions",
+          "verified": true,
+          "linkedPage": 23
+        },
+        {
+          "level": 0,
+          "text": "What St Mary’s offers",
+          "verified": true,
+          "linkedPage": 25
+        },
+        {
+          "level": 0,
+          "text": "Recommendations",
+          "verified": true,
+          "linkedPage": 27
+        },
+        {
+          "level": 0,
+          "text": "Further information and links",
+          "verified": true,
+          "linkedPage": 28
+        }
       ]
     }
   }

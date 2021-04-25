@@ -35,6 +35,7 @@
   ],
   "globals": {
     "maxHeight": 64,
+    "mostUsedHeight": 9,
     "minX": 46.323,
     "maxX": 436.5,
     "minY": 37.73867999999993,
@@ -46,6 +47,62 @@
     "toc": {
       "pages": [
         5
+      ],
+      "entries": [
+        {
+          "level": 0,
+          "text": "Einleitung",
+          "verified": true,
+          "linkedPage": 1
+        },
+        {
+          "level": 0,
+          "text": "Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol und technisch-wirtschaftliche Analyse möglicher Verbesserungen in Hinblick auf eine polygenerative Strukturierung",
+          "verified": true,
+          "linkedPage": 5
+        },
+        {
+          "level": 0,
+          "text": "Extraktion aus Holzrückständen für Anwendungen in der Lebensmittel-und Pharmabranche",
+          "verified": true,
+          "linkedPage": 49
+        },
+        {
+          "level": 0,
+          "text": "Nutzung von Kohle als Bodenverbesserungsmittel:Keim-und Phytotoxizitätstests mit Kohle aus Südtiroler Vergasungsanlagen",
+          "verified": true,
+          "linkedPage": 75
+        },
+        {
+          "level": 0,
+          "text": "Auswirkungen der Einbringung von Biochar in den Boden auf Ertrag und Qualität von Reb-und Obst-anlagen in SüdtirolLösch",
+          "verified": true,
+          "linkedPage": 95
+        },
+        {
+          "level": 0,
+          "text": "Anwendung von Biochar als Bodenverbesserungsmittel: Wirkungen auf den Stickstoffzyklus und die Trockenstresstoleranz beiim Topf angebauten Weinpflanzenanotelli",
+          "verified": true,
+          "linkedPage": 143
+        },
+        {
+          "level": 0,
+          "text": "Wirkung des Zusatzes von Biochar zum Boden auf Treibhausgas-Emissionen und Kohlenstoffbestand----ch",
+          "verified": true,
+          "linkedPage": 173
+        },
+        {
+          "level": 0,
+          "text": "Erzeugung und Nutzung von Biochar in Südtirol: Lebenszyklusanalyse (LCA) der Produktionskette",
+          "verified": true,
+          "linkedPage": 207
+        },
+        {
+          "level": 0,
+          "text": "Schlussfolgerungen",
+          "verified": true,
+          "linkedPage": 251
+        }
       ]
     }
   }

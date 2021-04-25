@@ -15,6 +15,7 @@ export const MAX_X = new GlobalDefinition<number>('maxX');
 export const MIN_Y = new GlobalDefinition<number>('minY');
 export const MAX_Y = new GlobalDefinition<number>('maxY');
 export const MAX_HEIGHT = new GlobalDefinition<number>('maxHeight');
+export const MOST_USED_HEIGHT = new GlobalDefinition<number>('mostUsedHeight');
 export const PAGE_MAPPING = new GlobalDefinition<PageMapping>('pageMapping');
 
 const config = {
@@ -115,6 +116,7 @@ export default class CalculateStatistics extends ItemTransformer {
       items: items,
       globals: [
         MAX_HEIGHT.value(maxHeight),
+        MOST_USED_HEIGHT.value(mostUsedHeight),
         MIN_X.value(minX),
         MAX_X.value(maxX),
         MIN_Y.value(minY),
