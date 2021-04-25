@@ -2,7 +2,7 @@
   "pages": 535,
   "items": 53908,
   "groupedItems": 31145,
-  "changes": 1569,
+  "changes": 1537,
   "schema": [
     {
       "name": "line"
@@ -42,19 +42,24 @@
     "pageMapping": {
       "pageFactor": -49,
       "detectedOnPage": true
+    },
+    "toc": {
+      "pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ]
     }
   }
 }
-{"page":36,"change":"ContentChange","str":"Fig. 3.4 Potential sites for onshore wind generation in Africa .................. 34","line":4,"x":53.85834121,"y":394.17608642,"width":"294.98","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
-{"page":36,"change":"ContentChange","str":"Fig. 3.5 Existing and potential solar power sites in Central  ","line":5,"x":53.8583603,"y":382.17608642,"width":"235.30","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
-{"page":36,"change":"ContentChange","str":"and South America ....................................................................... 35","line":6,"x":104.8583603,"y":370.17608642,"width":"264.16","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
-{"page":36,"change":"ContentChange","str":"Fig. 3.6 Overview of the energy system model (EM)  ","line":7,"x":53.85837173,"y":358.17608642,"width":"211.89","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
-{"page":36,"change":"ContentChange","str":"as implemented in Mesap/PlaNet ................................................. 40","line":8,"x":104.85836791,"y":346.17608642,"width":"264.99","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
-{"page":36,"change":"ContentChange","str":"Fig. 3.7 Schematic representation of the [R] E24/7 model structure ......... 44","line":9,"x":53.85837936,"y":334.17608642,"width":"296.91","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
-{"page":36,"change":"ContentChange","str":"Fig. 3.8 Spatial concept of the [R]E 24/7 model ....................................... 47","line":10,"x":53.85839843,"y":322.17608642,"width":"294.99","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
-{"page":36,"change":"ContentChange","str":"Fig. 3.9 Dispatch order module of the [R]E 24/7 model ........................... 50","line":11,"x":53.85840988,"y":310.17608642,"width":"295.26","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
-{"page":36,"change":"ContentChange","str":"Fig. 3.10 Quantitative employment calculation: methodological  ","line":12,"x":53.85842895,"y":298.17608642,"width":"256.16","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
-{"page":36,"change":"ContentChange","str":"overview ....................................................................................... 56","line":13,"x":104.85842895,"y":286.17608642,"width":"264.16","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":36,"change":"ContentChange","str":"Fig. 3.11 Distribution of human resources required to manufacture  ","line":14,"x":53.8584404,"y":274.17608642,"width":"268.27","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":36,"change":"ContentChange","str":"the main components of a 50 MW solar photovoltaic  ","dir":"ltr","width":"215.74","height":"10.00","transform":["10.00","0.00","0.00","10.00","104.86","262.18"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":104.85843658,"y":262.17608642,"line":15,"types":["TOC"]}
 {"page":36,"change":"ContentChange","str":"power plant. (IRENA 2017) .......................................................... 58","line":16,"x":104.85843658,"y":250.17608642,"width":"266.60","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
@@ -105,6 +110,7 @@
 {"page":37,"change":"ContentChange","str":"in total power generation in the 2.0 °C Scenario .......................... 122","line":41,"x":104.85826873,"y":105.1597824,"width":"270.67","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":37,"change":"ContentChange","str":"Fig. 5.5 Development of the average global RES shares of future  ","line":42,"x":53.85829162,"y":93.1597824,"width":"261.15","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":37,"change":"ContentChange","str":"heat generation options in ‘Industry’ in the 2.0 °C scenario ........ 124","line":43,"x":104.85827636,"y":81.1597824,"width":"270.08","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
+{"page":37,"change":"ContentChange","str":"List of Figures","dir":"ltr","width":"50.55","height":"8.50","transform":["8.50","0.00","0.00","8.50","334.96","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":334.96279907,"y":623.65319824,"line":44,"types":["TOC"]}
 {"page":38,"change":"ContentChange","str":"xliii","dir":"ltr","width":"14.60","height":"8.50","transform":["8.50","0.00","0.00","8.50","371.09","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":371.09249877,"y":623.65332031,"line":0,"types":["TOC"]}
 {"page":38,"change":"ContentChange","str":"Fig. 5.6 Development of the average global shares of future  ","line":1,"x":53.85829925,"y":597.15979003,"width":"240.31","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":38,"change":"ContentChange","str":"heat-generation options in the ‘Residential and other’  ","dir":"ltr","width":"218.30","height":"10.00","transform":["10.00","0.00","0.00","10.00","104.86","585.16"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":104.85829925,"y":585.15979003,"line":2,"types":["TOC"]}
@@ -150,6 +156,7 @@
 {"page":38,"change":"ContentChange","str":"under all scenarios ........................................................................ 147","line":42,"x":104.85856628,"y":99.1597824,"width":"269.98","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":38,"change":"ContentChange","str":"Fig. 6.20 Relative growth in world transport demand  ","line":43,"x":53.85858154,"y":87.1597824,"width":"212.57","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":38,"change":"ContentChange","str":"(2015 = 100% pkm/tkm) in the 5.0 °C scenario ........................... 150","line":44,"x":104.85858154,"y":75.1597824,"width":"270.74","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
+{"page":38,"change":"ContentChange","str":"List of Figures","dir":"ltr","width":"50.55","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":53.85829925,"y":623.65332031,"line":45,"types":["TOC"]}
 {"page":39,"change":"ContentChange","str":"xliv","dir":"ltr","width":"13.32","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":53.85829925,"y":623.65332031,"line":0,"types":["TOC"]}
 {"page":39,"change":"ContentChange","str":"Fig. 6.21 Relative growth in world transport demand  ","line":1,"x":53.85829925,"y":597.15979003,"width":"212.57","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":39,"change":"ContentChange","str":"(2015 = 100% pkm/tkm) in the 2.0 °C Scenario ( left )  ","line":2,"x":104.85829925,"y":585.15979003,"width":"216.85","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","EHWIUF+GmkwrjQwhrjhPbfgkvTimesLTStd-Italic"],"dir":["ltr"],"types":["TOC"]}
@@ -195,6 +202,7 @@
 {"page":39,"change":"ContentChange","str":"in the scenarios ............................................................................. 183","line":42,"x":104.85862731,"y":93.1597824,"width":"269.71","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":39,"change":"ContentChange","str":"Fig. 8.10 Global: development of heat supply by energy carrier  ","line":43,"x":53.85863876,"y":81.1597824,"width":"254.38","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":39,"change":"ContentChange","str":"in the scenarios ............................................................................. 184","line":44,"x":104.85864257,"y":69.1597824,"width":"269.71","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
+{"page":39,"change":"ContentChange","str":"List of Figures","dir":"ltr","width":"50.55","height":"8.50","transform":["8.50","0.00","0.00","8.50","334.96","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":334.96279907,"y":623.65319824,"line":45,"types":["TOC"]}
 {"page":40,"change":"ContentChange","str":"xlv","dir":"ltr","width":"10.80","height":"8.50","transform":["8.50","0.00","0.00","8.50","374.59","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":374.59188842,"y":623.65332031,"line":0,"types":["TOC"]}
 {"page":40,"change":"ContentChange","str":"Fig. 8.11 Global: development of investment in renewable  ","line":1,"x":53.85829925,"y":597.15979003,"width":"234.79","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":40,"change":"ContentChange","str":"heat-generation technologies in the scenarios .............................. 186","line":2,"x":104.85829925,"y":585.15979003,"width":"269.96","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
@@ -240,6 +248,7 @@
 {"page":40,"change":"ContentChange","str":"in the scenarios ............................................................................. 233","line":42,"x":104.85716247,"y":105.15979766,"width":"269.71","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":40,"change":"ContentChange","str":"Fig. 8.29 Latin America: investment shares for power generation  ","line":43,"x":53.8571701,"y":93.15979766,"width":"260.55","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":40,"change":"ContentChange","str":"in the scenarios ............................................................................. 235","line":44,"x":104.8571701,"y":81.15979766,"width":"269.71","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
+{"page":40,"change":"ContentChange","str":"List of Figures","dir":"ltr","width":"50.55","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":53.85829925,"y":623.65332031,"line":45,"types":["TOC"]}
 {"page":41,"change":"ContentChange","str":"xlvi","dir":"ltr","width":"13.28","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":53.85829925,"y":623.65332031,"line":0,"types":["TOC"]}
 {"page":41,"change":"ContentChange","str":"Fig. 8.30 Latin America: development of heat supply by energy  ","line":1,"x":53.85829925,"y":597.15979003,"width":"256.06","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":41,"change":"ContentChange","str":"carrier in the scenarios .................................................................. 236","line":2,"x":104.85829925,"y":585.15979003,"width":"270.80","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
@@ -285,6 +294,7 @@
 {"page":41,"change":"ContentChange","str":"in the scenarios ............................................................................. 274","line":42,"x":104.8575821,"y":105.15979003,"width":"269.71","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":41,"change":"ContentChange","str":"Fig. 8.49 Africa: development of investments for renewable  ","line":43,"x":53.85760116,"y":93.15979003,"width":"240.88","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":41,"change":"ContentChange","str":"heat-generation technologies in the scenarios .............................. 276","line":44,"x":104.85759735,"y":81.15979003,"width":"269.96","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
+{"page":41,"change":"ContentChange","str":"List of Figures","dir":"ltr","width":"50.55","height":"8.50","transform":["8.50","0.00","0.00","8.50","334.96","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":334.96279907,"y":623.65319824,"line":45,"types":["TOC"]}
 {"page":42,"change":"ContentChange","str":"xlvii","dir":"ltr","width":"16.11","height":"8.50","transform":["8.50","0.00","0.00","8.50","369.58","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":369.5769043,"y":623.65332031,"line":0,"types":["TOC"]}
 {"page":42,"change":"ContentChange","str":"Fig. 8.50 Africa: final energy consumption by transport  ","line":1,"x":53.85829925,"y":597.15979003,"width":"223.69","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":42,"change":"ContentChange","str":"in the scenarios ............................................................................. 278","line":2,"x":104.85829925,"y":585.15979003,"width":"269.71","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
@@ -330,6 +340,7 @@
 {"page":42,"change":"ContentChange","str":"for renewable heat-generation technologies in the scenarios ....... 314","line":42,"x":104.85759735,"y":105.1597824,"width":"269.86","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":42,"change":"ContentChange","str":"Fig. 8.68 Eastern Europe/Eurasia: final energy consumption by  ","line":43,"x":53.8576088,"y":93.1597824,"width":"254.24","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":42,"change":"ContentChange","str":"transport in the scenarios .............................................................. 315","line":44,"x":104.8576126,"y":81.1597824,"width":"270.26","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
+{"page":42,"change":"ContentChange","str":"List of Figures","dir":"ltr","width":"50.55","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":53.85829925,"y":623.65332031,"line":45,"types":["TOC"]}
 {"page":43,"change":"ContentChange","str":"xlviii","dir":"ltr","width":"18.65","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":53.85829925,"y":623.65332031,"line":0,"types":["TOC"]}
 {"page":43,"change":"ContentChange","str":"Fig. 8.69 Eastern Europe/Eurasia: development of CO 2  emissions  ","line":1,"x":53.85829925,"y":595.65979003,"width":"263.69","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":43,"change":"ContentChange","str":"by sector and cumulative CO 2  emissions (after 2015)  ","line":2,"x":104.85619354,"y":583.65979003,"width":"216.18","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
@@ -377,6 +388,7 @@
 {"page":43,"change":"ContentChange","str":"Fig. 8.87 India: development of CO 2  emissions by sector  ","line":44,"x":53.85723114,"y":79.65979766,"width":"228.98","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":43,"change":"ContentChange","str":"and cumulative CO 2  emissions (after 2015) in the scenarios ","line":45,"x":104.85739898,"y":67.65979766,"width":"239.51","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":43,"change":"ContentChange","str":"(‘Savings’ = reduction compared with the 5.0 °C Scenario) ........ 354","line":46,"x":104.85749816,"y":57.15980148,"width":"270.79","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
+{"page":43,"change":"ContentChange","str":"List of Figures","dir":"ltr","width":"50.55","height":"8.50","transform":["8.50","0.00","0.00","8.50","334.96","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":334.96279907,"y":623.65319824,"line":47,"types":["TOC"]}
 {"page":44,"change":"ContentChange","str":"xlix","dir":"ltr","width":"13.93","height":"8.50","transform":["8.50","0.00","0.00","8.50","371.75","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":371.7468872,"y":623.65332031,"line":0,"types":["TOC"]}
 {"page":44,"change":"ContentChange","str":"Fig. 8.88 India: projection of total primary energy demand (PED)  ","line":1,"x":53.85829925,"y":597.15979003,"width":"264.23","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":44,"change":"ContentChange","str":"by energy carrier in the scenarios (including electricity  ","dir":"ltr","width":"223.93","height":"10.00","transform":["10.00","0.00","0.00","10.00","104.86","585.16"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":104.85829925,"y":585.15979003,"line":2,"types":["TOC"]}
@@ -424,6 +436,7 @@
 {"page":44,"change":"ContentChange","str":"Fig. 8.106 OECD Pacific: projection of total primary energy demand  ","line":44,"x":53.85750961,"y":81.15979766,"width":"277.42","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":44,"change":"ContentChange","str":"(PED) by energy carrier in the scenarios (including  ","dir":"ltr","width":"209.49","height":"10.00","transform":["10.00","0.00","0.00","10.00","104.86","69.16"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":104.85751342,"y":69.15979766,"line":45,"types":["TOC"]}
 {"page":44,"change":"ContentChange","str":"electricity import balance) ............................................................ 391","line":46,"x":104.85751342,"y":57.15980148,"width":"270.53","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
+{"page":44,"change":"ContentChange","str":"List of Figures","dir":"ltr","width":"50.55","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":53.85829925,"y":623.65332031,"line":47,"types":["TOC"]}
 {"page":45,"change":"ContentChange","str":"l","dir":"ltr","width":"2.36","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":53.85829925,"y":623.65332031,"line":0,"types":["TOC"]}
 {"page":45,"change":"ContentChange","str":"Fig. 9.1 Global coal production in 1981–2017  ","line":1,"x":53.85829925,"y":597.15979003,"width":"185.83","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":45,"change":"ContentChange","str":"(BP 2018—Statistical Review) ..................................................... 405","line":2,"x":104.85829925,"y":585.15979003,"width":"270.89","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
@@ -470,6 +483,7 @@
 {"page":45,"change":"ContentChange","str":"and storage .................................................................................... 448","line":43,"x":104.85856628,"y":81.1597824,"width":"270.82","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":45,"change":"ContentChange","str":"Fig. 11.9 Cumulative primary demand for lithium from EVs  ","line":44,"x":53.85858154,"y":69.1597824,"width":"242.65","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":45,"change":"ContentChange","str":"and storage by 2050 ...................................................................... 449","line":45,"x":104.85858154,"y":57.1597786,"width":"270.82","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
+{"page":45,"change":"ContentChange","str":"List of Figures","dir":"ltr","width":"50.55","height":"8.50","transform":["8.50","0.00","0.00","8.50","334.96","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":334.96279907,"y":623.65319824,"line":46,"types":["TOC"]}
 {"page":46,"change":"ContentChange","str":"li","dir":"ltr","width":"5.10","height":"8.50","transform":["8.50","0.00","0.00","8.50","380.60","623.65"],"fontName":"TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman","x":380.5954895,"y":623.65332031,"line":0,"types":["TOC"]}
 {"page":46,"change":"ContentChange","str":"Fig. 11.10 Annual primary demand for silver from solar PV (c-Si) .............. 449","line":1,"x":53.85829925,"y":597.15979003,"width":"311.76","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}
 {"page":46,"change":"ContentChange","str":"Fig. 11.11 Cumulative primary demand for silver from solar PV  ","line":2,"x":53.8583107,"y":585.15979003,"width":"258.32","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"],"types":["TOC"]}

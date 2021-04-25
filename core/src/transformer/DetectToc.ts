@@ -1,6 +1,7 @@
+import ItemTransformer from './ItemTransformer';
+import GlobalDefinition from '../GlobalDefinition';
 import Item from '../Item';
 import ItemResult from '../ItemResult';
-import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
 import { groupByLine, groupByPage, onlyUniques, transformGroupedByPage } from '../support/groupingUtils';
@@ -8,11 +9,16 @@ import { PAGE_MAPPING } from './CacluclateStatistics';
 import { extractEndingNumber } from '../support/stringFunctions';
 import ItemType from '../ItemType';
 import { numbersAreConsecutive } from '../support/numberFunctions';
+import TOC, { TocEntry } from '../TOC';
+import { flatten, groupBy } from '../support/functional';
+import { itemWithType } from '../support/items';
 
 const config = {
   // How many characters a line with a ending number needs to have minimally to be a valid link
   linkMinLength: 5,
 };
+
+export const TOC_GLOBAL = new GlobalDefinition<TOC>('toc');
 
 export default class DetectToc extends ItemTransformer {
   constructor() {
@@ -21,6 +27,7 @@ export default class DetectToc extends ItemTransformer {
       'Detect table of contents.',
       {
         requireColumns: ['x', 'y', 'str', 'line'],
+        producesGlobels: [TOC_GLOBAL.key],
         debug: {
           itemMerger: new LineItemMerger(),
         },
@@ -48,76 +55,26 @@ export default class DetectToc extends ItemTransformer {
       return { items: inputItems, messages: ['No Table of Contents found!'] };
     }
 
-    const numbersByStartUuid = tocArea.linesWithNumbers.reduce((map: Map<string, number>, l) => {
-      map.set(l.startItemUuid, l.number);
-      return map;
-    }, new Map());
-
-    const itemsInTocArea = inputItems.filter((item) => tocArea.pages.includes(item.page));
-    const itemsInTocAreaByLine = groupByLine(itemsInTocArea);
-
-    const maxHeightOfNumberedLines = Math.max(
-      ...itemsInTocAreaByLine
-        .reduce((lineHeights: number[], lineItems) => {
-          if (numbersByStartUuid.has(lineItems[0].uuid)) {
-            lineHeights.push(Math.max(...lineItems.map((line) => line.data['height'])));
-          }
-          return lineHeights;
-        }, [])
-        .filter(onlyUniques),
+    const rawTocEntries = selectRawTocEntries(tocArea, inputItems);
+    const tocItemUuids: Set<string> = new Set(
+      flatten(flatten(rawTocEntries.map((e) => e.entryLines))).map((item) => item.uuid),
     );
-    const maxLinesBetweenLinesWithNumbers = Math.max(
-      ...itemsInTocAreaByLine
-        .reduce((distances: number[], lineItems) => {
-          if (numbersByStartUuid.has(lineItems[0].uuid)) {
-            distances.push(-1);
-          }
-          if (distances.length > 0) {
-            distances[distances.length - 1]++;
-          }
-          return distances;
-        }, [])
-        .filter(onlyUniques),
-    );
+    const tocEntries: TocEntry[] = rawTocEntries.map((rawEntry) => ({
+      level: 0,
+      text: 'string',
+      linkedPage: rawEntry.linkedPage,
+      items: flatten(rawEntry.entryLines),
+    }));
 
-    let tocLines = 0;
     return {
-      items: transformGroupedByPage(inputItems, (page, pageItems) => {
-        if (!tocArea.pages.includes(page)) {
-          return pageItems;
+      items: inputItems.map((item) => {
+        if (tocArea.pages.includes(item.page) && tocItemUuids.has(item.uuid)) {
+          return itemWithType(item, ItemType.TOC);
         }
-
-        const itemsGroupedByLine = groupByLine(pageItems);
-        const itemsToEmit: Item[] = [];
-        itemsGroupedByLine
-          .reduce((beforeLines: Item[][], currentLine) => {
-            const number = numbersByStartUuid.get(currentLine[0].uuid);
-            if (!number) {
-              beforeLines.push(currentLine);
-              return beforeLines;
-            } else {
-              beforeLines.forEach((beforLine, beforeIndex) => {
-                const beforLineHeigth = Math.max(...beforLine.map((item) => item.data['height']));
-                const beforeLineMuchLarger = beforLineHeigth > maxHeightOfNumberedLines;
-                beforLine.forEach((item) => {
-                  if (!beforeLineMuchLarger && beforeLines.length - beforeIndex <= maxLinesBetweenLinesWithNumbers) {
-                    item = item.withDataAddition({ types: [ItemType.TOC] });
-                    tocLines++;
-                  }
-                  itemsToEmit.push(item);
-                });
-              });
-              currentLine.forEach((item) => itemsToEmit.push(item.withDataAddition({ types: [ItemType.TOC] })));
-              tocLines++;
-              return [];
-            }
-          }, [])
-          .forEach((remainingItems) => remainingItems.forEach((item) => itemsToEmit.push(item)));
-        //TODO Create Toc global
-        //TODO re-order after y ?
-        return itemsToEmit;
+        return item;
       }),
-      messages: [`Detected ${tocLines} TOC lines`],
+      messages: [`Detected ${tocEntries.length} TOC entries`],
+      globals: [TOC_GLOBAL.value(new TOC(tocArea.pages, tocEntries))],
     };
   }
 }
@@ -137,7 +94,8 @@ function findTocArea(pagesToEvaluate: Item[][], pageCount: number, maxPageToBeLi
       ) {
         const page = lineItems[0].page;
         const startItemUuid = lineItems[0].uuid;
-        linesWithNumber.push({ page, startItemUuid, number });
+        const y = lineItems[0].data['y'];
+        linesWithNumber.push({ page, startItemUuid, y, number });
       }
     });
   });
@@ -192,6 +150,84 @@ function findEndingNumber(lineItems: Item[]): number | undefined {
   return extractEndingNumber(text);
 }
 
+function selectRawTocEntries(tocArea: TocArea, inputItems: Item[]): RawTocEntry[] {
+  const numbersByStartUuid = tocArea.linesWithNumbers.reduce((map: Map<string, number>, l) => {
+    map.set(l.startItemUuid, l.number);
+    return map;
+  }, new Map());
+
+  const itemsInTocArea = inputItems.filter((item) => tocArea.pages.includes(item.page));
+  const itemsInTocAreaByLine = groupByLine(itemsInTocArea);
+
+  const maxHeightOfNumberedLines = Math.max(
+    ...itemsInTocAreaByLine
+      .reduce((lineHeights: number[], lineItems) => {
+        if (numbersByStartUuid.has(lineItems[0].uuid)) {
+          lineHeights.push(Math.max(...lineItems.map((line) => line.data['height'])));
+        }
+        return lineHeights;
+      }, [])
+      .filter(onlyUniques),
+  );
+  const maxLinesBetweenLinesWithNumbers = Math.max(
+    ...itemsInTocAreaByLine
+      .reduce((lineDistance: number[], lineItems) => {
+        if (numbersByStartUuid.has(lineItems[0].uuid)) {
+          lineDistance.push(-1);
+        }
+        if (lineDistance.length > 0) {
+          lineDistance[lineDistance.length - 1]++;
+        }
+        return lineDistance;
+      }, [])
+      .filter(onlyUniques),
+  );
+  const linesWithNumbersByPage = groupBy(tocArea.linesWithNumbers, (line) => line.page);
+  const maxYBetweenLinesWithNumbers = Math.max(
+    ...linesWithNumbersByPage.map((pageLines) => {
+      return pageLines.reduce(
+        (previous: { y: number; distance: number }, line) => {
+          const y = line.y;
+          if (previous.y == -1) {
+            return { y, distance: -1 };
+          }
+          return {
+            y,
+            distance: Math.max(Math.abs(y - previous.y), previous.distance),
+          };
+        },
+        { y: -1, distance: -1 },
+      ).distance;
+    }),
+  );
+  const rawTocEntries: RawTocEntry[] = [];
+  itemsInTocAreaByLine.reduce((beforeLines: Item[][], lineItems) => {
+    const number = numbersByStartUuid.get(lineItems[0].uuid);
+    if (!number) {
+      beforeLines.push(lineItems);
+      return beforeLines;
+    }
+    const validBeforeLines = beforeLines.filter((beforLine, beforeIndex) => {
+      const yDistance = Math.abs(beforLine[0].data['y'] - lineItems[0].data['y']);
+      const beforLineHeight = Math.max(...beforLine.map((item) => item.data['height']));
+      const beforeLineMuchLarger = beforLineHeight > maxHeightOfNumberedLines;
+      return (
+        !beforeLineMuchLarger &&
+        beforeLines.length - beforeIndex <= maxLinesBetweenLinesWithNumbers &&
+        yDistance <= maxYBetweenLinesWithNumbers
+      );
+    });
+    const entryLines = [...validBeforeLines, lineItems];
+    rawTocEntries.push({
+      linkedPage: number,
+      entryLines,
+    });
+    return [];
+  }, []);
+
+  return rawTocEntries;
+}
+
 /**
  * Pointer to pages/items which classified as TOC.
  */
@@ -201,10 +237,19 @@ interface TocArea {
 }
 
 /**
+ * Contains the page number and all attached lines of items,
+ */
+interface RawTocEntry {
+  linkedPage: number;
+  entryLines: Item[][];
+}
+
+/**
  * A (item[]) line which ends with a number.
  */
 interface LineWithNumber {
   page: number;
   startItemUuid: string;
+  y: number;
   number: number;
 }

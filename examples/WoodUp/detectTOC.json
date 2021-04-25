@@ -42,6 +42,11 @@
     "pageMapping": {
       "pageFactor": -6,
       "detectedOnPage": true
+    },
+    "toc": {
+      "pages": [
+        5
+      ]
     }
   }
 }

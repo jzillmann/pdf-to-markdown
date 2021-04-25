@@ -15,7 +15,8 @@ import RemoveRepetitiveItems from 'src/transformer/RemoveRepetitiveItems';
 import StageResult from 'src/debug/StageResult';
 import EvaluationIndex from 'src/debug/EvaluationIndex';
 import { Change } from 'src/debug/ChangeIndex';
-import DetectToc from 'src/transformer/DetectToc';
+import DetectToc, { TOC_GLOBAL } from 'src/transformer/DetectToc';
+import Globals from 'src/Globals';
 
 const parser = new PdfParser(pdfjs);
 const pipeline = new PdfPipeline(parser, transformers);
@@ -125,7 +126,7 @@ function toHeader(stageResult: StageResult): string {
       groupedItems: groupedItemCount,
       changes: stageResult.changes.changeCount(),
       schema: stageResult.schema,
-      globals: mapToObject(stageResult.globals.map),
+      globals: globalsToString(stageResult.globals),
       // messages: stageResults.messages,
     },
     null,
@@ -133,8 +134,14 @@ function toHeader(stageResult: StageResult): string {
   );
 }
 
-function mapToObject(map: Map<any, any>): object {
-  return Array.from(map).reduce((obj, [key, value]) => {
+function globalsToString(globals: Globals): object {
+  return Array.from(globals.map).reduce((obj, [key, value]) => {
+    if (key === TOC_GLOBAL.key) {
+      value = {
+        ...value,
+      };
+      delete value.entries;
+    }
     obj[key] = value;
     return obj;
   }, {});
