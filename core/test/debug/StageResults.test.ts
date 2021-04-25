@@ -26,7 +26,7 @@ test('itemsUnpacked', async () => {
       { idx: 5, line: 1 },
     ]),
   ];
-  const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+  const pages = asPages(evaluationTracker, changeTracker, ['idx', 'line'], flatItems, itemMerger);
   const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
   expect(result.itemsUnpacked().map((item) => item.data['idx'])).toEqual([0, 1, 2, 3, 4, 5]);
@@ -51,7 +51,7 @@ test('itemsCleanedAndUnpacked', async () => {
       { idx: 5, line: 1 },
     ]),
   ];
-  const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+  const pages = asPages(evaluationTracker, changeTracker, ['idx', 'line'], flatItems, itemMerger);
   changeTracker.trackRemoval(flatItems[1]);
   changeTracker.trackRemoval(flatItems[4]);
   const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
@@ -84,7 +84,7 @@ describe('select pages', () => {
     evaluationTracker.trackEvaluation(flatItems[3]);
     changeTracker.trackAddition(flatItems[2]);
     changeTracker.trackAddition(flatItems[4]);
-    const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+    const pages = asPages(evaluationTracker, changeTracker, ['idx', 'line'], flatItems, itemMerger);
     const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const allGrouped = result.selectPages(false, true);
@@ -122,7 +122,7 @@ describe('select pages', () => {
         { idx: 5, line: 1 },
       ]),
     ];
-    const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+    const pages = asPages(evaluationTracker, changeTracker, ['idx', 'line'], flatItems, itemMerger);
     const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const allGrouped = result.selectPages(false, true);
@@ -171,7 +171,7 @@ describe('select pages', () => {
     ];
     changeTracker.trackAddition(flatItems[3]);
     changeTracker.trackAddition(flatItems[5]);
-    const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+    const pages = asPages(evaluationTracker, changeTracker, ['idx', 'line'], flatItems, itemMerger);
     const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const allGrouped = result.selectPages(false, true);
@@ -217,7 +217,7 @@ describe('select pages', () => {
         { idx: 5, line: 1 },
       ]),
     ];
-    const pages = asPages(evaluationTracker, changeTracker, flatItems, itemMerger);
+    const pages = asPages(evaluationTracker, changeTracker, ['idx', 'line'], flatItems, itemMerger);
     const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const relevantGrouped = result.selectPages(true, true);
@@ -237,7 +237,7 @@ describe('select pages', () => {
       ...items(1, [{ idx: 3 }]),
       ...items(2, [{ idx: 4 }, { idx: 5 }]),
     ];
-    const pages = asPages(evaluationTracker, changeTracker, flatItems);
+    const pages = asPages(evaluationTracker, changeTracker, ['idx', 'line'], flatItems);
     const result = new StageResult(new Globals(), descriptor, schema, pages, evaluationTracker, changeTracker, []);
 
     const relevantGrouped = result.selectPages(true, true);

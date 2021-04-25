@@ -9,7 +9,7 @@ import ChangeTracker from 'src/debug/ChangeTracker';
 test('empty', async () => {
   const evaluationTracker = new EvaluationTracker();
   const changeTracker = new ChangeTracker();
-  expect(asPages(evaluationTracker, changeTracker, [])).toEqual([]);
+  expect(asPages(evaluationTracker, changeTracker, [], [])).toEqual([]);
 });
 
 test('no merger', async () => {
@@ -25,7 +25,7 @@ test('no merger', async () => {
   const flattenedItems = new Array<Item>().concat(...pageItems);
   const evaluationTracker = new EvaluationTracker();
   const changeTracker = new ChangeTracker();
-  const pages = asPages(evaluationTracker, changeTracker, flattenedItems);
+  const pages = asPages(evaluationTracker, changeTracker, ['id', 'line'], flattenedItems);
   expect(pages).toEqual([
     { index: 0, itemGroups: pageItems[0].map((item) => new ItemGroup(item)) },
     { index: 1, itemGroups: pageItems[1].map((item) => new ItemGroup(item)) },
@@ -48,7 +48,7 @@ test('merger', async () => {
   const merger: ItemMerger = { groupKey: 'line', merge: (items) => items[0] };
   const evaluationTracker = new EvaluationTracker();
   const changeTracker = new ChangeTracker();
-  const pages = asPages(evaluationTracker, changeTracker, flattenedItems, merger);
+  const pages = asPages(evaluationTracker, changeTracker, ['id', 'line'], flattenedItems, merger);
 
   expect(pages).toEqual([
     { index: 0, itemGroups: pageItems[0].map((item) => new ItemGroup(item)) },
@@ -56,7 +56,7 @@ test('merger', async () => {
       index: 1,
       itemGroups: [
         new ItemGroup(
-          merger.merge(evaluationTracker, changeTracker, pageItems[1].slice(0, 2)),
+          merger.merge(evaluationTracker, changeTracker, ['id', 'line'], pageItems[1].slice(0, 2)),
           pageItems[1].slice(0, 2),
         ),
         new ItemGroup(pageItems[1][2]),
