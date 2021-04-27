@@ -11,6 +11,7 @@ The interesting thing is that rendering with pdfjs (online) looks good. So maybe
 - items in wrong lines + numbers are not numbers [Life-Of-God-In-Soul-Of-Man](examples/Life-Of-God-In-Soul-Of-Man.pdf)
 - CC-NC_Leitfaden.pdf: un-verified toc entries (and/und/&... etc...)
 - Closed-Syllables.pdf: unverified toc entries
+- Safe-Communication.pdf: One toc element is one page off (8=>9)
 
 ## Not yet reviewed test PDFS
 

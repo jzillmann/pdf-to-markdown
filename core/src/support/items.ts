@@ -16,6 +16,10 @@ export function getText(item: Item): string {
   return get(item, 'str');
 }
 
+export function joinText(items: Item[], joinCharacter: string): string {
+  return items.map((item) => getText(item)).join(joinCharacter);
+}
+
 export function getFontName(fontMap: Map<string, object>, item: Item): string {
   const fontId = item.data['fontName'];
   const fontObject = fontMap.get(fontId);

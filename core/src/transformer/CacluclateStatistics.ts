@@ -10,6 +10,8 @@ import { groupByPage, onlyUniques } from '../support/groupingUtils';
 import { flatten } from '../support/functional';
 import { extractNumbers } from '../support/stringFunctions';
 
+import { median } from 'simple-statistics';
+
 export const MIN_X = new GlobalDefinition<number>('minX');
 export const MAX_X = new GlobalDefinition<number>('maxX');
 export const MIN_Y = new GlobalDefinition<number>('minY');
@@ -42,6 +44,8 @@ export default class CalculateStatistics extends ItemTransformer {
   }
 
   transform(context: TransformContext, items: Item[]): ItemResult {
+    const heights = items.map((item) => item.data['height'] as number);
+    const mostUsedByMedian = median(heights);
     // const heightToOccurrence: { [key: string]: number } = {};
     const heightToOccurrence = {};
     const fontToOccurrence = {};
@@ -116,7 +120,7 @@ export default class CalculateStatistics extends ItemTransformer {
       items: items,
       globals: [
         MAX_HEIGHT.value(maxHeight),
-        MOST_USED_HEIGHT.value(mostUsedHeight),
+        MOST_USED_HEIGHT.value(mostUsedByMedian),
         MIN_X.value(minX),
         MAX_X.value(maxX),
         MIN_Y.value(minY),

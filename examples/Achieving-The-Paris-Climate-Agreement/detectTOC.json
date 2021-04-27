@@ -35,7 +35,7 @@
   ],
   "globals": {
     "maxHeight": 66,
-    "mostUsedHeight": 8,
+    "mostUsedHeight": 8.5,
     "minX": 41.38153078000005,
     "maxX": 400.56930541,
     "minY": 36.71720123,
@@ -85,8 +85,8 @@
         },
         {
           "level": 0,
-          "text": "2",
-          "verified": true,
+          "text": "Fig. 4.2Land-use-related CO2 emission and sequestration rates",
+          "verified": false,
           "linkedPage": 82
         },
         {
@@ -163,8 +163,8 @@
         },
         {
           "level": 0,
-          "text": "erahsnoitarenegreoplabolgegareva",
-          "verified": true,
+          "text": "Fig. 5.5Development of the average global RES shares of future  heat generation options in ‘Industry’ in the 2.0 °C scenario",
+          "verified": false,
           "linkedPage": 124
         },
         {
@@ -175,8 +175,8 @@
         },
         {
           "level": 0,
-          "text": "6.1",
-          "verified": true,
+          "text": "Fig. 6.1World final energy use by transport mode in 2015",
+          "verified": false,
           "linkedPage": 133
         },
         {
@@ -211,20 +211,20 @@
         },
         {
           "level": 0,
-          "text": "The 2.0 °C Scenario",
-          "verified": true,
+          "text": "Fig. 6.7Battery and trolley electric bus share of total bus pkm  in the 2.0 °C Scenario (left) and fuel-cell electric bus share  of total bus pkm in the 2.0 °C Scenario (right)",
+          "verified": false,
           "linkedPage": 138
         },
         {
           "level": 0,
-          "text": "The 2.0 °C Scenario",
-          "verified": true,
+          "text": "Fig. 6.8Electrification of passenger rail (left) and freight rail (right)  under the 2.0 °C Scenario (in PJ of final energy demand)",
+          "verified": false,
           "linkedPage": 138
         },
         {
           "level": 0,
-          "text": "0",
-          "verified": true,
+          "text": "Fig. 6.9Electricity-performed pkm in domestic aviation under  the 2.0 °C Scenario",
+          "verified": false,
           "linkedPage": 139
         },
         {
@@ -313,8 +313,8 @@
         },
         {
           "level": 0,
-          "text": "2.0°°C",
-          "verified": true,
+          "text": "Fig. 6.24World pkm development in the 2.0 °C Scenario",
+          "verified": false,
           "linkedPage": 152
         },
         {
@@ -325,26 +325,26 @@
         },
         {
           "level": 0,
-          "text": "mm",
-          "verified": true,
+          "text": "Fig. 6.26World tkm development in all scenarios",
+          "verified": false,
           "linkedPage": 154
         },
         {
           "level": 0,
-          "text": "mm",
-          "verified": true,
+          "text": "Fig. 6.27Regional tkm development",
+          "verified": false,
           "linkedPage": 154
         },
         {
           "level": 0,
-          "text": "tkm",
-          "verified": true,
+          "text": "Fig. 6.28World tkm development in the 5.0 °C, 2.0 °C,  and 1.5 °C Scenarios",
+          "verified": false,
           "linkedPage": 156
         },
         {
           "level": 0,
-          "text": "tkm",
-          "verified": true,
+          "text": "Fig. 6.29Road tkm in the 2.0 °C Scenario",
+          "verified": false,
           "linkedPage": 156
         },
         {
@@ -361,8 +361,8 @@
         },
         {
           "level": 0,
-          "text": "Plants",
-          "verified": true,
+          "text": "Fig. 7.1Electricity infrastructure in Africa—power plants  (over 1 MW) and high-voltage transmission lines",
+          "verified": false,
           "linkedPage": 166
         },
         {
@@ -391,637 +391,637 @@
         },
         {
           "level": 0,
-          "text": "8.1CCCFig. 8.1",
+          "text": "Fig. 8.1 Global: projection of final energy (per $ GDP) intensity by scenario",
           "verified": true,
           "linkedPage": 176
         },
         {
           "level": 0,
-          "text": "Fig. 8.2",
+          "text": "Fig. 8.2 Global: projection of total final energy demand by sector in the scenarios (without non-",
           "verified": true,
           "linkedPage": 177
         },
         {
           "level": 0,
-          "text": "Fig. 8.3",
+          "text": "Fig. 8.3 Global: development of gross electricity demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 178
         },
         {
           "level": 0,
-          "text": "Fig. 8.4",
+          "text": "Fig. 8.4 Global: development of final energy demand for transport by mode in the scenarios",
           "verified": true,
           "linkedPage": 179
         },
         {
           "level": 0,
-          "text": "Fig. 8.5",
+          "text": "Fig. 8.5 Global: development of heat demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 179
         },
         {
           "level": 0,
-          "text": "0 0Fig. 8.6",
+          "text": "Fig. 8.6 Global: development of the final energy demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 180
         },
         {
           "level": 0,
-          "text": "yFig. 8.7",
+          "text": "Fig. 8.7 Global: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 181
         },
         {
           "level": 0,
-          "text": "Fig. 8.8",
+          "text": "Fig. 8.8 Global: development of total electricity supply costs and specific electricity generation",
           "verified": true,
           "linkedPage": 182
         },
         {
           "level": 0,
-          "text": "Fig. 8.9",
+          "text": "Fig. 8.9 Global: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 183
         },
         {
           "level": 0,
-          "text": "0CCCCCCCCCCrdEl heatingr heatingsFig. 8.10",
+          "text": "Fig. 8.10 Global: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 184
         },
         {
           "level": 0,
-          "text": "Fig.  8.11",
+          "text": "Fig. 8.11 Global: development of investment in renewable heat-generation technologies in the",
           "verified": true,
           "linkedPage": 186
         },
         {
           "level": 0,
-          "text": "2CCCCCCCCCCrNaral sFig. 8.12",
+          "text": "Fig. 8.12 Global: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 187
         },
         {
           "level": 0,
-          "text": "0 02015CO2SavingsFig. 8.13",
+          "text": "Fig. 8.13 Global: development of CO 2 emissions by sector and cumulative CO 2 emissions (since",
           "verified": true,
           "linkedPage": 188
         },
         {
           "level": 0,
-          "text": "Fig.  8.14",
+          "text": "Fig. 8.14 Global: projection of total primary energy demand (PED) by energy carrier in the",
           "verified": true,
           "linkedPage": 189
         },
         {
           "level": 0,
-          "text": "00Fig.  8.15",
+          "text": "Fig. 8.15 Global: scenario of bunker fuel demand for aviation and navigation and the resulting",
           "verified": true,
           "linkedPage": 190
         },
         {
           "level": 0,
-          "text": "Fig.  8.16",
+          "text": "Fig. 8.16 Development of maximum load in 10 world regions in 2020, 2030, and 2050 in the",
           "verified": true,
           "linkedPage": 202
         },
         {
           "level": 0,
-          "text": "rFig. 8.17",
+          "text": "Fig. 8.17 OECD North America: development of final energy demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 210
         },
         {
           "level": 0,
-          "text": "Fig. 8.18",
+          "text": "Fig. 8.18 OECD North America: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 212
         },
         {
           "level": 0,
-          "text": "Fig.  8.19",
+          "text": "Fig. 8.19 OECD North America: development of total electricity supply costs and specific",
           "verified": true,
           "linkedPage": 213
         },
         {
           "level": 0,
-          "text": "Fig. 8.20",
+          "text": "Fig. 8.20 OECD North America: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 214
         },
         {
           "level": 0,
-          "text": "dFig. 8.21",
+          "text": "Fig. 8.21 OECD North America: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 215
         },
         {
           "level": 0,
-          "text": "Fig. 8.22",
+          "text": "Fig. 8.22 OECD North America: development of investments in renewable heat generation tech -",
           "verified": true,
           "linkedPage": 216
         },
         {
           "level": 0,
-          "text": "2Fig. 8.23",
+          "text": "Fig. 8.23 OECD North America: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 218
         },
         {
           "level": 0,
-          "text": "00150200000000000CCCCCCCCCC2015CO2 SavingsFig. 8.24",
-          "verified": true,
+          "text": "Fig. 8.24OECD North America: development of CO2 emissions  by sector and cumulative CO2 emissions (after 2015)  in the scenarios (‘Savings’ = reduction compared with  the 5.0 °C Scenario)",
+          "verified": false,
           "linkedPage": 219
         },
         {
           "level": 0,
-          "text": "0Fig.  8.25",
+          "text": "Fig. 8.25 OECD North America: projection of total primary energy demand (PED) by energy",
           "verified": true,
           "linkedPage": 220
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCryFig. 8.26",
+          "text": "Fig. 8.26 Latin America: development of final energy demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 231
         },
         {
           "level": 0,
-          "text": "Fig. 8.27",
+          "text": "Fig. 8.27 Latin America: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 232
         },
         {
           "level": 0,
-          "text": "238cton Fig.  8.28",
+          "text": "Fig. 8.28 Latin America: development of total electricity supply costs and specific electricity-",
           "verified": true,
           "linkedPage": 233
         },
         {
           "level": 0,
-          "text": "Fig. 8.29",
+          "text": "Fig. 8.29 Latin America: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 235
         },
         {
           "level": 0,
-          "text": "00000000CCCCCCCCCC0rdElicheatinglar heatingsFig. 8.30",
+          "text": "Fig. 8.30 Latin America: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 236
         },
         {
           "level": 0,
-          "text": "Fig. 8.31",
+          "text": "Fig. 8.31 Latin America: development of investments for renewable heat generation technologies",
           "verified": true,
           "linkedPage": 237
         },
         {
           "level": 0,
-          "text": "rFig. 8.32",
+          "text": "Fig. 8.32 Latin America: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 239
         },
         {
           "level": 0,
-          "text": "0204002015cumulated emissions COemi2 ssions SavingsFig. 8.33",
+          "text": "Fig. 8.33 Latin America: development of CO 2 emissions by sector and cumulative CO 2 emissions",
           "verified": true,
           "linkedPage": 240
         },
         {
           "level": 0,
-          "text": "Fig. 8.34",
+          "text": "Fig. 8.34 Latin America: projection of total primary energy demand (PED) by energy carrier in",
           "verified": true,
           "linkedPage": 241
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCrssFig. 8.35",
-          "verified": true,
+          "text": "Fig. 8.35OECD Europe: development in the scenarios",
+          "verified": false,
           "linkedPage": 251
         },
         {
           "level": 0,
-          "text": "Fig. 8.36268",
+          "text": "Fig. 8.36 OECD Europe: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 253
         },
         {
           "level": 0,
-          "text": "28Fig.  8.37",
+          "text": "Fig. 8.37 OECD Europe: development of total electricity supply costs and specific electricity-",
           "verified": true,
           "linkedPage": 253
         },
         {
           "level": 0,
-          "text": "Fig. 8.38",
+          "text": "Fig. 8.38 OECD Europe: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 255
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCggsFig. 8.39",
+          "text": "Fig. 8.39 OECD Europe: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 256
         },
         {
           "level": 0,
-          "text": "Fig. 8.40",
+          "text": "Fig. 8.40 OECD Europe: development of investments for renewable heat-generation technologies",
           "verified": true,
           "linkedPage": 257
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCsFig. 8.41",
+          "text": "Fig. 8.41 OECD Europe: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 259
         },
         {
           "level": 0,
-          "text": "02060 00000000CCCCCCCCCC20150emissions COemissions 2 SavingsCCFig. 8.42",
+          "text": "Fig. 8.42 OECD Europe: development of CO 2 emissions by sector and cumulative CO 2 emissions",
           "verified": true,
           "linkedPage": 260
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCdsrFig. 8.43",
+          "text": "Fig. 8.43 OECD Europe: projection of total primary energy demand (PED) by energy carrier in",
           "verified": true,
           "linkedPage": 261
         },
         {
           "level": 0,
-          "text": "AfricaCCCCCCCCCCyFig. 8.44",
+          "text": "Fig. 8.44 Africa: development of final energy demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 269
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCPolFig. 8.45",
+          "text": "Fig. 8.45 Africa: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 271
         },
         {
           "level": 0,
-          "text": "Fig. 8.46",
+          "text": "Fig. 8.46 Africa: development of total electricity supply costs and specific electricity-generation",
           "verified": true,
           "linkedPage": 272
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCgsgsFig. 8.47",
+          "text": "Fig. 8.47 Africa: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 274
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCgsgsFig. 8.48",
+          "text": "Fig. 8.48 Africa: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 274
         },
         {
           "level": 0,
-          "text": "Fig. 8.49",
+          "text": "Fig. 8.49 Africa: development of investments for renewable heat-generation technologies in the",
           "verified": true,
           "linkedPage": 276
         },
         {
           "level": 0,
-          "text": "0000000CCCCCCCCCC0nsFig. 8.50",
+          "text": "Fig. 8.50 Africa: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 278
         },
         {
           "level": 0,
-          "text": "020 0CCCCCCCCCC2010emissions COemissions 2 SavingsCFig. 8.51 00CCCCCCCCCC20150s",
+          "text": "Fig. 8.51 Africa: development of CO 2 emissions by sector and cumulative CO 2 emissions (after",
           "verified": true,
           "linkedPage": 279
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCC522 sCCCCCCCCCCCsFig. 8.52",
+          "text": "Fig. 8.52 Africa: projection of total primary energy demand (PED) by energy carrier in the sce -",
           "verified": true,
           "linkedPage": 279
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCsTyFig. 8.53",
+          "text": "Fig. 8.53 Middle East: development of the final energy demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 287
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCPsolFig. 8.54",
+          "text": "Fig. 8.54 Middle East: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 289
         },
         {
           "level": 0,
-          "text": "Fig.  8.55",
+          "text": "Fig. 8.55 Middle East: development of total electricity supply costs and specific electricity-",
           "verified": true,
           "linkedPage": 290
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCsslFig. 8.56",
+          "text": "Fig. 8.56 Middle East: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 292
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCysslFig. 8.57",
+          "text": "Fig. 8.57 Middle East: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 292
         },
         {
           "level": 0,
-          "text": "Fig. 8.58",
+          "text": "Fig. 8.58 Middle East: development of investments for renewable heat-generation technologies in",
           "verified": true,
           "linkedPage": 294
         },
         {
           "level": 0,
-          "text": "2CCCCCCCCCCsFig. 8.59",
+          "text": "Fig. 8.59 Middle East: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 296
         },
         {
           "level": 0,
-          "text": "02060 0CCCCCCCCCC2010emissions COemissions 2 SavingsCCFig. 8.60000000CCCCCCCCCC20150sr",
+          "text": "Fig. 8.60 Middle East: development of CO 2 emissions by sector and cumulative CO 2 emissions",
           "verified": true,
           "linkedPage": 297
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCC2 CCCCCCCCCCCCsrFig. 8.61",
+          "text": "Fig. 8.61 Middle East: projection of total primary energy demand (PED) by energy carrier in the",
           "verified": true,
           "linkedPage": 297
         },
         {
           "level": 0,
-          "text": "Eastern  Europe/Eurasia 0 00TFig.  8.62",
+          "text": "Fig. 8.62 Eastern Europe/Eurasia: development of the final energy demand by sector in the",
           "verified": true,
           "linkedPage": 306
         },
         {
           "level": 0,
-          "text": "0000000CCCCCCCCCC0rPsorleFig.   8.63",
+          "text": "Fig. 8.63 Eastern Europe/Eurasia: development of electricity-generation structure in the",
           "verified": true,
           "linkedPage": 309
         },
         {
           "level": 0,
-          "text": "0000000CCCCCCCCCC0rPsorleFig.  8.64",
+          "text": "Fig. 8.64 Eastern Europe/Eurasia: development of total electricity supply costs and specific",
           "verified": true,
           "linkedPage": 309
         },
         {
           "level": 0,
-          "text": "Fig. 8.65",
+          "text": "Fig. 8.65 Eastern Europe/Eurasia: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 311
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCnsgsFig. 8.66",
+          "text": "Fig. 8.66 Eastern Europe/Eurasia: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 312
         },
         {
           "level": 0,
-          "text": "Fig.  8.67",
+          "text": "Fig. 8.67 Eastern Europe/Eurasia: development of investments for renewable heat-generation",
           "verified": true,
           "linkedPage": 314
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCysFig. 8.68",
+          "text": "Fig. 8.68 Eastern Europe/Eurasia: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 315
         },
         {
           "level": 0,
-          "text": "020 000000CCCCCCCCCC20150emissions COemissions 2 SavingsCCFig. 8.69",
-          "verified": true,
+          "text": "List of FiguresxlviiiFig. 8.69Eastern Europe/Eurasia: development of CO2 emissions  by sector and cumulative CO2 emissions (after 2015)  in the scenarios (‘Savings’ = reduction compared  with the 5.0 °C Scenario)",
+          "verified": false,
           "linkedPage": 316
         },
         {
           "level": 0,
-          "text": "0CCCCCCCCCC0dsrFig. 8.70Scenario",
+          "text": "Fig. 8.70 Eastern Europe/Eurasia: projection of total primary energy demand (PED) by energy",
           "verified": true,
           "linkedPage": 317
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCrsIyyFig. 8.71Non-OECD  Asia",
+          "text": "Fig. 8.71 Non-OECD Asia: development of the final energy demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 325
         },
         {
           "level": 0,
-          "text": "yeFig. 8.72",
+          "text": "Fig. 8.72 Non-OECD Asia: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 327
         },
         {
           "level": 0,
-          "text": "Fig. 8.73",
+          "text": "Fig. 8.73 Non-OECD Asia: development of total electricity supply costs and specific electricity",
           "verified": true,
           "linkedPage": 328
         },
         {
           "level": 0,
-          "text": "Fig. 8.74",
+          "text": "Fig. 8.74 Non-OECD Asia: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 329
         },
         {
           "level": 0,
-          "text": "00000CCCCCCCCCC0ngsslFig. 8.75",
+          "text": "Fig. 8.75 Non-OECD Asia: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 330
         },
         {
           "level": 0,
-          "text": "Fig. 8.76",
+          "text": "Fig. 8.76 Non-OECD Asia: development of investments for renewable heat-generation technolo -",
           "verified": true,
           "linkedPage": 332
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCsFig. 8.77",
+          "text": "Fig. 8.77 Non-OECD Asia: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 333
         },
         {
           "level": 0,
-          "text": "2 Emissions020 0000000CCCCCCCCCC2010emissions COemissions 2 SavingsCCFig. 8.78",
+          "text": "Fig. 8.78 Non-OECD Asia: development of CO 2 emissions by sector and cumulative CO 2 emis -",
           "verified": true,
           "linkedPage": 334
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCsFig. 8.79",
+          "text": "Fig. 8.79 Non-OECD Asia: projection of total primary energy demand (PED) by energy carrier in",
           "verified": true,
           "linkedPage": 335
         },
         {
           "level": 0,
-          "text": "India 0000000000 000000000CCCCCCCCCC0y 0Fig. 8.80",
+          "text": "Fig. 8.80 India: development of final energy demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 345
         },
         {
           "level": 0,
-          "text": "eFig. 8.81",
+          "text": "Fig. 8.81 India: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 347
         },
         {
           "level": 0,
-          "text": "Fig. 8.82",
+          "text": "Fig. 8.82 India: development of total electricity supply costs and specific electricity generation",
           "verified": true,
           "linkedPage": 348
         },
         {
           "level": 0,
-          "text": "Fig. 8.83",
+          "text": "Fig. 8.83 India: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 349
         },
         {
           "level": 0,
-          "text": "00CCCCCCCCCC0gsgsFig. 8.84",
+          "text": "Fig. 8.84 India: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 350
         },
         {
           "level": 0,
-          "text": "2Fig.  8.85",
+          "text": "Fig. 8.85 India: development of investments for renewable heat-generation technologies in the",
           "verified": true,
           "linkedPage": 352
         },
         {
           "level": 0,
-          "text": "Fig. 8.86",
+          "text": "Fig. 8.86 India: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 353
         },
         {
           "level": 0,
-          "text": "020 02015CO2SavingsFig.  8.87",
+          "text": "Fig. 8.87 India: development of CO 2 emissions by sector and cumulative CO 2 emissions (after",
           "verified": true,
           "linkedPage": 354
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCsrFig. 8.88",
+          "text": "Fig. 8.88 India: projection of total primary energy demand (PED) by energy carrier in the sce -",
           "verified": true,
           "linkedPage": 355
         },
         {
           "level": 0,
-          "text": "ChinaFig. 8.89",
+          "text": "Fig. 8.89 China: development of final energy demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 361
         },
         {
           "level": 0,
-          "text": "0lFig. 8.90",
+          "text": "Fig. 8.90 China: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 363
         },
         {
           "level": 0,
-          "text": "Fig. 8.91",
+          "text": "Fig. 8.91 China: development of total electricity supply costs and specific electricity-generation",
           "verified": true,
           "linkedPage": 364
         },
         {
           "level": 0,
-          "text": "Fig. 8.92",
+          "text": "Fig. 8.92 China: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 366
         },
         {
           "level": 0,
-          "text": "Fig. 8.93",
+          "text": "Fig. 8.93 China: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 366
         },
         {
           "level": 0,
-          "text": "Fig. 8.94",
+          "text": "Fig. 8.94 China: development of investments for renewable heat-generation technologies in the",
           "verified": true,
           "linkedPage": 369
         },
         {
           "level": 0,
-          "text": "0Fig. 8.95",
+          "text": "Fig. 8.95 China: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 370
         },
         {
           "level": 0,
-          "text": "0 02015CO2 SavingsFig. 8.96 0000000CCCCCCCCCC2015sr",
+          "text": "Fig. 8.96 China: development of CO 2 emissions by sector and cumulative CO 2 emissions (after",
           "verified": true,
           "linkedPage": 371
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCsrFig. 8.97",
+          "text": "Fig. 8.97 China: projection of total primary energy demand (PED) by energy carrier in the sce -",
           "verified": true,
           "linkedPage": 371
         },
         {
           "level": 0,
-          "text": "OECD  PacificCCCCCCCCCCsyyFig. 8.98",
+          "text": "Fig. 8.98 OECD Pacific: development of final energy demand by sector in the scenarios",
           "verified": true,
           "linkedPage": 381
         },
         {
           "level": 0,
-          "text": "CCCCCCCCCCrPolleFig. 8.99",
+          "text": "Fig. 8.99 OECD Pacific: development of electricity-generation structure in the scenarios",
           "verified": true,
           "linkedPage": 383
         },
         {
           "level": 0,
-          "text": "Fig. 8.100",
+          "text": "Fig. 8.100 OECD Pacific: development of total electricity supply costs and specific electricity-",
           "verified": true,
           "linkedPage": 384
         },
         {
           "level": 0,
-          "text": "Fig. 8.101",
+          "text": "Fig. 8.101 OECD Pacific: investment shares for power generation in the scenarios",
           "verified": true,
           "linkedPage": 385
         },
         {
           "level": 0,
-          "text": "0Fig. 8.102",
+          "text": "Fig. 8.102 OECD Pacific: development of heat supply by energy carrier in the scenarios",
           "verified": true,
           "linkedPage": 386
         },
         {
           "level": 0,
-          "text": "Fig. 8.103",
+          "text": "Fig. 8.103 OECD Pacific: development of investments for renewable heat-generation technolo -",
           "verified": true,
           "linkedPage": 388
         },
         {
           "level": 0,
-          "text": "00000000CCCCCCCCCCysFig. 8.104",
+          "text": "Fig. 8.104 OECD Pacific: final energy consumption by transport in the scenarios",
           "verified": true,
           "linkedPage": 389
         },
         {
           "level": 0,
-          "text": "2 Emissions01020 02015CO2 SavingsFig.  8.105",
+          "text": "Fig. 8.105 OECD Pacific: development of CO 2 emissions by sector and cumulative CO 2 emis -",
           "verified": true,
           "linkedPage": 390
         },
         {
           "level": 0,
-          "text": "00CCCCCCCCCCsrFig. 8.106",
+          "text": "Fig. 8.106 OECD Pacific: projection of total primary energy demand (PED) by energy carrier in",
           "verified": true,
           "linkedPage": 391
         },
@@ -1051,8 +1051,8 @@
         },
         {
           "level": 0,
-          "text": "9.5",
-          "verified": true,
+          "text": "Fig. 9.5Global gas production in 1970–2017  (BP 2018—Statistical Review)",
+          "verified": false,
           "linkedPage": 408
         },
         {
@@ -1087,8 +1087,8 @@
         },
         {
           "level": 0,
-          "text": "......",
-          "verified": true,
+          "text": "Fig. 10.5Employment changes between 2015 and 2025  by occupational breakdown under the 2.0 °C Scenario",
+          "verified": false,
           "linkedPage": 433
         },
         {

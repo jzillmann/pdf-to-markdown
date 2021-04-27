@@ -35,7 +35,7 @@
   ],
   "globals": {
     "maxHeight": 24.7871,
-    "mostUsedHeight": 11,
+    "mostUsedHeight": 11.9551,
     "minX": 52.262,
     "maxX": 571.0594300000001,
     "minY": 76.19790000000002,
@@ -83,7 +83,7 @@
         },
         {
           "level": 0,
-          "text": "2. Polytopes, polyhedra, Farkas’lemma, and linear programming",
+          "text": "2. Polytopes, polyhedra, Farkas’ lemma, and linear programming",
           "verified": true,
           "linkedPage": 23
         },
@@ -113,7 +113,7 @@
         },
         {
           "level": 0,
-          "text": "3. Matchings and covers inbipartite graphs",
+          "text": "3. Matchings and covers in bipartite graphs",
           "verified": true,
           "linkedPage": 39
         },
@@ -125,7 +125,7 @@
         },
         {
           "level": 0,
-          "text": "3.2.M-augmenting paths",
+          "text": "3.2. M -augmenting paths",
           "verified": true,
           "linkedPage": 40
         },
@@ -155,7 +155,7 @@
         },
         {
           "level": 0,
-          "text": "4. Menger’s theorem, flows, andcirculations",
+          "text": "4. Menger’s theorem, flows, and circulations",
           "verified": true,
           "linkedPage": 54
         },
@@ -203,7 +203,7 @@
         },
         {
           "level": 0,
-          "text": "5.1. Tutte’s 1-factor theorem and the Tutte-Bergeformula",
+          "text": "5.1. Tutte’s 1-factor theorem and the Tutte-Berge formula",
           "verified": true,
           "linkedPage": 78
         },
@@ -233,7 +233,7 @@
         },
         {
           "level": 0,
-          "text": "6. Problems, algorithms, andrunning time",
+          "text": "6. Problems, algorithms, and running time",
           "verified": true,
           "linkedPage": 97
         },
@@ -299,7 +299,7 @@
         },
         {
           "level": 0,
-          "text": "7. Cliques, stable sets, andcolourings",
+          "text": "7. Cliques, stable sets, and colourings",
           "verified": true,
           "linkedPage": 111
         },
@@ -335,7 +335,7 @@
         },
         {
           "level": 0,
-          "text": "8. Integer linear programming andtotally unimodular matrices",
+          "text": "8. Integer linear programming and totally unimodular matrices",
           "verified": true,
           "linkedPage": 132
         },
@@ -353,7 +353,7 @@
         },
         {
           "level": 0,
-          "text": "8.3.  Totally unimodular matrices from bipartitegraphs",
+          "text": "8.3. Totally unimodular matrices from bipartite graphs",
           "verified": true,
           "linkedPage": 139
         },
@@ -365,7 +365,7 @@
         },
         {
           "level": 0,
-          "text": "9. Multicommodity flows anddisjoint paths",
+          "text": "9. Multicommodity flows and disjoint paths",
           "verified": true,
           "linkedPage": 148
         },
@@ -401,7 +401,7 @@
         },
         {
           "level": 0,
-          "text": "modity flows",
+          "text": "9.6. A column generation technique for multicom- modity flows",
           "verified": true,
           "linkedPage": 168
         },

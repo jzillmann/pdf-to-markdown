@@ -45,6 +45,7 @@
   },
   "dependencies": {
     "@types/string-similarity": "^4.0.0",
+    "simple-statistics": "^7.7.0",
     "string-similarity": "^4.0.4"
   }
 }

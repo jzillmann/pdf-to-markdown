@@ -1,3 +1,5 @@
+import { compareTwoStrings } from 'string-similarity';
+
 import ItemTransformer from './ItemTransformer';
 import GlobalDefinition from '../GlobalDefinition';
 import Item from '../Item';
@@ -6,17 +8,28 @@ import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
 import { groupByLine, groupByPage, onlyUniques, transformGroupedByPage } from '../support/groupingUtils';
 import { MOST_USED_HEIGHT, PAGE_MAPPING } from './CacluclateStatistics';
-import { extractEndingNumber, filterOutWhitespaces } from '../support/stringFunctions';
+import {
+  extractEndingNumber,
+  filterOut,
+  filterOutWhitespaces,
+  DASHS_CHAR_CODES,
+  TAB_CHAR_CODE,
+  WHITESPACE_CHAR_CODE,
+  PERIOD_CHAR_CODES,
+} from '../support/stringFunctions';
 import ItemType from '../ItemType';
 import { numbersAreConsecutive } from '../support/numberFunctions';
 import TOC, { TocEntry } from '../TOC';
 import FontType from '../FontType';
 import { flatten, groupBy } from '../support/functional';
-import { getHeight, getText, getFontName, itemWithType } from '../support/items';
+import { getHeight, getText, getFontName, itemWithType, joinText } from '../support/items';
 
 const config = {
   // How many characters a line with a ending number needs to have minimally to be a valid link
-  linkMinLength: 5,
+  linkMinLength: 4,
+
+  // How much bigger (height) then a 'normal' text a headline must be
+  minHeadlineDistance: 1.5,
 };
 
 export const TOC_GLOBAL = new GlobalDefinition<TOC>('toc');
@@ -66,6 +79,7 @@ export default class DetectToc extends ItemTransformer {
         context.fontMap,
         inputItems,
         mostUsedHeight,
+        rawEntry.linkedPage,
         rawEntry.linkedPage - pageMapping.pageFactor,
         rawEntry.entryLines,
       );
@@ -90,7 +104,10 @@ export default class DetectToc extends ItemTransformer {
         }
         return item;
       }),
-      messages: [`Detected ${tocEntries.length} TOC entries`],
+      messages: [
+        `Detected ${tocEntries.length} TOC entries`,
+        `Verified ${tocEntries.filter((entry) => entry.verified).length} / ${tocEntries.length}`,
+      ],
       globals: [TOC_GLOBAL.value(new TOC(tocArea.pages, tocEntries))],
     };
   }
@@ -250,33 +267,87 @@ function findHeadline(
   items: Item[],
   mostUsedHeight: number,
   targetPage: number,
+  targetPageIndex: number,
   entryLines: Item[][],
 ): string | undefined {
-  const tocEntryText = normalizeHeadlineChars(
-    entryLines.map((lineItems) => lineItems.map((item) => getText(item)).join('')).join(''),
-  );
-  const pageItems = items.filter((item) => item.page == targetPage);
-  const possibleHeadlines = pageItems.filter(
-    (item) =>
-      getHeight(item) > mostUsedHeight + config.minHeadlineDistance ||
-      FontType.declaredFontTypes(getFontName(fontMap, item)).includes(FontType.BOLD),
-  );
-  let hits = possibleHeadlines.filter((item) => {
-    return tocEntryText.includes(normalizeHeadlineChars(getText(item)));
-  });
+  const tocEntryText = normalizeHeadlineChars(entryLines)
+    .replace(new RegExp(targetPage + '$', 'g'), '')
+    .replace(new RegExp('\\.\\.*$', 'g'), '');
+  const pageItems = items.filter((item) => item.page == targetPageIndex);
 
-  if (hits.length > 0) {
-    return hits
-      .map((hit) => getText(hit))
-      .join('')
-      .trim();
+  const canditate = fineMatchingHeadlineCanditate(tocEntryText, pageItems, fontMap, mostUsedHeight);
+  if (canditate.length > 0) {
+    return joinText(flatten(canditate), ' ').replace(/\s+/g, ' ').trim();
   }
-
   return undefined;
 }
 
-function normalizeHeadlineChars(text: string) {
-  return filterOutWhitespaces(text).toLowerCase();
+function fineMatchingHeadlineCanditate(
+  tocEntryText: string,
+  pageItems: Item[],
+  fontMap: Map<string, object>,
+  mostUsedHeight: number,
+): Item[][] {
+  const itemsByLine = groupByLine(pageItems);
+  let headlineCanditates: { score: number; lines: Item[][] }[] = [];
+  let currentLines: Item[][] = [];
+  let currentScore = 0;
+  let currentText = '';
+  for (let lineIdx = 0; lineIdx < itemsByLine.length; lineIdx++) {
+    const lineItems = itemsByLine[lineIdx];
+    const lineText = normalizeHeadlineChars([lineItems]);
+    const lineInLink = tocEntryText.includes(lineText);
+    const headlineSymptoms =
+      getHeight(lineItems[0]) >= mostUsedHeight + config.minHeadlineDistance ||
+      FontType.declaredFontTypes(getFontName(fontMap, lineItems[0])).includes(FontType.BOLD);
+    if (lineInLink && headlineSymptoms) {
+      const newText = currentText + lineText;
+      const newScore = compareTwoStrings(newText, tocEntryText);
+      if (newScore > currentScore) {
+        currentScore = newScore;
+        currentText = newText;
+        currentLines.push(lineItems);
+        if (newScore == 1) {
+          return currentLines;
+        }
+      } else if (currentScore > 0.95) {
+        return currentLines;
+      }
+    } else {
+      if (currentLines.length > 0) {
+        headlineCanditates.push({ score: currentScore, lines: currentLines });
+        currentLines = [];
+        currentScore = 0;
+        currentText = '';
+      }
+    }
+  }
+  // console.log(
+  //   'headlineCanditates',
+  //   tocEntryText,
+  //   pageItems[0].page,
+  //   headlineCanditates
+  //     .sort((a, b) => a.score - b.score)
+  //     .map((canditate) => canditate.score + ': ' + joinText(flatten(canditate.lines), '')),
+  // );
+  headlineCanditates = headlineCanditates.filter((candidate) => candidate.score > 0.5);
+  if (headlineCanditates.length == 0) {
+    return [];
+  }
+
+  return headlineCanditates.sort((a, b) => a.score - b.score)[0].lines;
+}
+
+function normalizeHeadlineChars(lines: Item[][]) {
+  const text = flatten(lines)
+    .map((item) => getText(item))
+    .join('');
+  return filterOut(text, [
+    WHITESPACE_CHAR_CODE,
+    TAB_CHAR_CODE,
+    ...DASHS_CHAR_CODES,
+    ...PERIOD_CHAR_CODES,
+  ]).toLowerCase();
 }
 
 /**

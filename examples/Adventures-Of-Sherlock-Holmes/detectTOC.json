@@ -35,7 +35,7 @@
   ],
   "globals": {
     "maxHeight": 59.7758,
-    "mostUsedHeight": 10,
+    "mostUsedHeight": 10.9091,
     "minX": 117.8279999999999,
     "maxX": 471.0319307,
     "minY": 95.28300000000016,
@@ -51,7 +51,7 @@
       "entries": [
         {
           "level": 0,
-          "text": "A Scandal In BohemiaI",
+          "text": "A Scandal In Bohemia",
           "verified": true,
           "linkedPage": 3
         },
@@ -81,43 +81,43 @@
         },
         {
           "level": 0,
-          "text": "The Man With The Twisted LipI",
+          "text": "The Man With The Twisted Lip",
           "verified": true,
           "linkedPage": 83
         },
         {
           "level": 0,
-          "text": "The Adventure Of The BlueCarbuncle",
+          "text": "The Adventure Of The Blue Carbuncle",
           "verified": true,
           "linkedPage": 100
         },
         {
           "level": 0,
-          "text": "The Adventure Of The SpeckledBandO",
+          "text": "The Adventure Of The Speckled Band",
           "verified": true,
           "linkedPage": 115
         },
         {
           "level": 0,
-          "text": "The Adventure Of TheEngineer’s ThumbO",
+          "text": "The Adventure Of The Engineer’s Thumb",
           "verified": true,
           "linkedPage": 133
         },
         {
           "level": 0,
-          "text": "The Adventure Of The NobleBachelorT",
+          "text": "The Adventure Of The Noble Bachelor",
           "verified": true,
           "linkedPage": 148
         },
         {
           "level": 0,
-          "text": "The Adventure Of The BerylCoronetH",
+          "text": "The Adventure Of The Beryl Coronet",
           "verified": true,
           "linkedPage": 164
         },
         {
           "level": 0,
-          "text": "The Adventure Of The CopperBeechesT",
+          "text": "The Adventure Of The Copper Beeches",
           "verified": true,
           "linkedPage": 182
         }
