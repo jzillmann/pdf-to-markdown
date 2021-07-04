@@ -33,11 +33,11 @@ module.exports = {
             },
             {
                 test: /\.css$/,
-                loader: "style-loader!css-loader"
+                use: ['style-loader', 'css-loader']
             },
             {
                 test: /\.png$/,
-                loader: "url-loader?limit=100000"
+                use: ["url-loader?limit=100000"]
             },
             {
                 test: /\.jpg$/,
@@ -45,19 +45,19 @@ module.exports = {
             },
             {
                 test: /\.(woff|woff2)(\?v=\d+\.\d+\.\d+)?$/,
-                loader: 'url-loader?limit=10000&mimetype=application/font-woff'
+                use: ['url-loader?limit=10000&mimetype=application/font-woff']
             },
             {
                 test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/,
-                loader: 'url-loader?limit=10000&mimetype=application/octet-stream'
+                use: ['url-loader?limit=10000&mimetype=application/octet-stream']
             },
             {
                 test: /\.eot(\?v=\d+\.\d+\.\d+)?$/,
-                loader: 'file-loader'
+                use: ['file-loader']
             },
             {
                 test: /\.svg(\?v=\d+\.\d+\.\d+)?$/,
-                loader: 'url-loader?limit=10000&mimetype=image/svg+xml'
+                use: ['url-loader?limit=10000&mimetype=image/svg+xml']
             }
         ]
     },
@@ -71,23 +71,35 @@ module.exports = {
                 NODE_ENV: JSON.stringify(process.env.NODE_ENV || 'development')
             }
         }),
-        new CopyWebpackPlugin([
+        new CopyWebpackPlugin(
             {
-                from: NODEMODULES_DIR + '/pdfjs-dist/build/pdf.worker.js',
-                to: 'bundle.worker.js'
-            },
-        ]),
-        new CopyWebpackPlugin([
+                patterns: [
+                    {
+                        from: NODEMODULES_DIR + '/pdfjs-dist/build/pdf.worker.js',
+                        to: 'bundle.worker.js'
+                    },
+                ]
+            }
+        ),
+        new CopyWebpackPlugin(
             {
-                from: NODEMODULES_DIR + '/pdfjs-dist/cmaps',
-                to: 'cmaps'
-            },
-        ]),
-        new CopyWebpackPlugin([
+                patterns: [
+                    {
+                        from: NODEMODULES_DIR + '/pdfjs-dist/cmaps',
+                        to: 'cmaps'
+                    },
+                ]
+            }
+        ),
+        new CopyWebpackPlugin(
             {
-                from: 'favicons',
-                to: 'favicons'
-            },
-        ])
+                patterns: [
+                    {
+                        from: 'favicons',
+                        to: 'favicons'
+                    },
+                ]
+            }
+        )
     ]
 }
