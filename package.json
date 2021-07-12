@@ -4,7 +4,7 @@
   "description": "A PDF to Markdown Converter",
   "main": "main.js",
   "scripts": {
-    "watch": "webpack -d --watch",
+    "watch": "webpack --mode development --watch",
     "build": "webpack",
     "start": "webpack serve",
     "lint": "eslint src --ext .js --ext .jsx --cache",
