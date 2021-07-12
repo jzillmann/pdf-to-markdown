@@ -1,7 +1,7 @@
 import React from 'react';
 import FaCheck from 'react-icons/lib/fa/check'
 
-import pdfjs from 'pdfjs-dist'; // eslint-disable-line no-unused-vars
+const pdfjs = require('pdfjs-dist'); // eslint-disable-line no-unused-vars
 import { Line } from 'rc-progress';
 
 import Metadata from '../models/Metadata.jsx';
@@ -107,7 +107,7 @@ export default class LoadingView extends React.Component {
             data: this.props.fileBuffer,
             cMapUrl: 'cmaps/',
             cMapPacked: true
-        }).then(function(pdfDocument) { // eslint-disable-line no-undef
+        }).promise.then(function(pdfDocument) { // eslint-disable-line no-undef
             // console.debug(pdfDocument);
             pdfDocument.getMetadata().then(function(metadata) {
                 // console.debug(metadata);
@@ -118,7 +118,7 @@ export default class LoadingView extends React.Component {
                 pdfDocument.getPage(j).then(function(page) {
                     // console.debug(page);
                     var scale = 1.0;
-                    var viewport = page.getViewport(scale);
+                    var viewport = page.getViewport({scale: scale});
 
                     page.getTextContent().then(function(textContent) {
                         // console.debug(textContent);
@@ -126,7 +126,7 @@ export default class LoadingView extends React.Component {
                             //trigger resolving of fonts
                             const fontId = item.fontName;
                             if (!self.state.fontIds.has(fontId) && fontId.startsWith('g_d0')) {
-                                self.state.document.transport.commonObjs.get(fontId, function(font) {
+                                self.state.document._transport.commonObjs.get(fontId, function(font) {
                                     self.fontParsed(fontId, font);
                                 });
                                 self.state.fontIds.add(fontId);
@@ -149,7 +149,7 @@ export default class LoadingView extends React.Component {
                                 font: item.fontName
                             });
                         });
-                        self.pageParsed(page.pageIndex, textItems);
+                        self.pageParsed(page._pageIndex, textItems);
                     });
                     page.getOperatorList().then(function() {
                         // do nothing... this is only for triggering the font retrieval
