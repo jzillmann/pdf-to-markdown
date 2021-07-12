@@ -106,7 +106,7 @@ export function isListItem(string) {
 }
 
 export function isNumberedListItem(string) {
-    return /^[\s]*[\d]*[\.][\s].*$/g.test(string);
+    return /^[\s]*[\d]*[.][\s].*$/g.test(string);
 }
 
 export function wordMatch(string1, string2) {
