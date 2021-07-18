@@ -188,6 +188,7 @@ function itemToString(
     page: item.page,
     change: changeType,
     score: evaluationIndex.evaluationScore(item),
+    types: item.data['types'],
     ...item.data,
     fontName: newFontName,
     height: item.data['height'].toFixed(2),
