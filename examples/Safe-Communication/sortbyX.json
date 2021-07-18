@@ -1,8 +1,8 @@
 {
   "pages": 60,
   "items": 4344,
-  "groupedItems": 1487,
-  "changes": 14,
+  "groupedItems": 1498,
+  "changes": 3,
   "schema": [
     {
       "name": "line"
@@ -42,5 +42,4 @@
     }
   }
 }
-{"page":22,"change":"ContentChange","str":"0.5 1.5 2.5 3.5 4.5 0 1 2 3 4 5","line":46,"x":442.82,"y":254.83,"width":"93.38","height":"9.98","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":42,"change":"ContentChange","str":"Although Ol Even  lie understood that going one day ","line":33,"x":538.99,"y":198.14,"width":"280.12","height":"14.04","fontName":[null],"dir":["ltr"]}

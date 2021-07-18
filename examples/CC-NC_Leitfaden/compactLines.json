@@ -1,8 +1,8 @@
 {
   "pages": 24,
   "items": 1403,
-  "groupedItems": 1211,
-  "changes": 108,
+  "groupedItems": 1215,
+  "changes": 106,
   "schema": [
     {
       "name": "line",
@@ -43,7 +43,6 @@
     }
   }
 }
-{"page":0,"change":"Addition","str":"Folgen, Risiken und Nebenwirkungen der Bedingung  »nicht-kommerziell – NC«","line":3,"x":170.668408,"y":81.64933040000001,"width":"410.83","height":"11.00","fontName":["QMZZIE+AvenirLTStd-Light"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"Nur diese beiden Lizenztypen sind als freie Lizenzen im Sinne der Definition von  freedomdefined.org  anerkannt und stellen ","line":2,"x":45.3543,"y":311.0667,"width":"330.94","height":"6.00","fontName":["QMZZIE+AvenirLTStd-Book","QMZZIE+AvenirLTStd-Medium"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"als  auch  kommerzielle  Nutzungen.   bearbeitungen  ","line":15,"x":216.3307,"y":362.9311,"width":"162.62","height":"7.00","fontName":["QMZZIE+AvenirLTStd-Book"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"DeriVA tiVeS; NAMeNS-","line":19,"x":165.8268,"y":251.24329999999998,"width":"95.69","height":"8.00","fontName":["QMZZIE+AvenirLTStd-Book"],"dir":["ltr"]}
@@ -89,12 +88,11 @@
 {"page":3,"change":"Addition","str":"Impressum  ................................................................................................................................................................................................................................. 23","line":33,"x":34.01589999999999,"y":74.9291,"width":"347.60","height":"7.00","fontName":["QMZZIE+AvenirLTStd-Light"],"dir":["ltr"]}
 {"page":4,"change":"Addition","str":"» alle  Rechte  vorbehalten «,  sondern  sind  im  Ge-","line":17,"x":34.0157,"y":254.96809999999982,"width":"168.50","height":"9.00","fontName":["QMZZIE+AGaramond-RegularSC","QMZZIE+AGaramondPro-Regular"],"dir":["ltr"]}
 {"page":4,"change":"Addition","str":"re die Einschränkung  NC – noncommercial  bei ","line":37,"x":215.7617,"y":375.0100999999996,"width":"171.70","height":"9.00","fontName":["QMZZIE+AGaramondPro-Regular","QMZZIE+AGaramond-RegularSC"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"Stell dir eine Welt vor, in der  jeder Mensch an der Gesamtheit  des Wissens teilhaben kann.  Das ist unsere Mission.","line":1,"x":34.0157,"y":446.9321999999999,"width":"539.89","height":"13.00","fontName":["QMZZIE+AGaramond-Italic"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"INhAL tE, DIE FREI GENUtZt ","line":6,"x":34.01570000000001,"y":290.9292,"width":"145.45","height":"10.00","fontName":["QMZZIE+AvenirLTStd-Light"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"Open  Content, » offene  Inhalte «,   sind  Inhalte,  ","line":8,"x":34.0157,"y":206.9292,"width":"169.74","height":"9.00","fontName":["QMZZIE+AGaramond-RegularSC","QMZZIE+AGaramondPro-Regular"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"Berliner Erklärung  den freien Zugang zu wis-","line":30,"x":215.7617,"y":398.9891999999999,"width":"169.73","height":"9.00","fontName":["QMZZIE+AGaramond-RegularSC","QMZZIE+AGaramondPro-Regular"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"definieren  den  offenen  Zugang  oder  den   › Open ","line":40,"x":215.7617,"y":267.0131999999998,"width":"171.98","height":"9.00","fontName":["QMZZIE+AGaramondPro-Regular","QMZZIE+AGaramond-RegularSC"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"Access ‹   als  eine  umfassende  Quelle  menschli-","line":41,"x":215.7617,"y":255.0161999999998,"width":"169.75","height":"9.00","fontName":["QMZZIE+AGaramondPro-Regular","QMZZIE+AGaramond-RegularSC"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"INhAL tE, DIE FREI GENUtZt ","line":9,"x":34.01570000000001,"y":290.9292,"width":"145.45","height":"10.00","fontName":["QMZZIE+AvenirLTStd-Light"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Open  Content, » offene  Inhalte «,   sind  Inhalte,  ","line":11,"x":34.0157,"y":206.9292,"width":"169.74","height":"9.00","fontName":["QMZZIE+AGaramond-RegularSC","QMZZIE+AGaramondPro-Regular"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Berliner Erklärung  den freien Zugang zu wis-","line":33,"x":215.7617,"y":398.9891999999999,"width":"169.73","height":"9.00","fontName":["QMZZIE+AGaramond-RegularSC","QMZZIE+AGaramondPro-Regular"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"definieren  den  offenen  Zugang  oder  den   › Open ","line":43,"x":215.7617,"y":267.0131999999998,"width":"171.98","height":"9.00","fontName":["QMZZIE+AGaramondPro-Regular","QMZZIE+AGaramond-RegularSC"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Access ‹   als  eine  umfassende  Quelle  menschli-","line":44,"x":215.7617,"y":255.0161999999998,"width":"169.75","height":"9.00","fontName":["QMZZIE+AGaramondPro-Regular","QMZZIE+AGaramond-RegularSC"],"dir":["ltr"]}
 {"page":7,"change":"Addition","str":"die  General  Public  Licence   (GPL)  geschaf-","line":4,"x":34.0158,"y":494.93809999999996,"width":"168.20","height":"9.00","fontName":["QMZZIE+AGaramondPro-Regular","QMZZIE+AGaramond-RegularSC"],"dir":["ltr"]}
 {"page":7,"change":"Addition","str":"Nutzung zu lizenzieren, sind die  Jedermann-Li-","line":16,"x":34.0158,"y":338.9680999999998,"width":"169.74","height":"9.00","fontName":["QMZZIE+AGaramondPro-Regular","QMZZIE+AGaramond-RegularSC"],"dir":["ltr"]}
 {"page":7,"change":"Addition","str":"zenzen   von  Creative  Commons  (CC).  Creative  ","line":17,"x":34.0158,"y":326.9710999999998,"width":"172.74","height":"9.00","fontName":["QMZZIE+AGaramond-RegularSC","QMZZIE+AGaramondPro-Regular"],"dir":["ltr"]}

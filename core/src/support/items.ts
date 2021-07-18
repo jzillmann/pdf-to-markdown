@@ -1,4 +1,3 @@
-import { FontType } from 'pdfjs-dist/types/shared/util';
 import { assertDefined } from '../assert';
 import Item from '../Item';
 import ItemType from '../ItemType';

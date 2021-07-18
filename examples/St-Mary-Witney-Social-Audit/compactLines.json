@@ -1,8 +1,8 @@
 {
   "pages": 27,
   "items": 1899,
-  "groupedItems": 1545,
-  "changes": 206,
+  "groupedItems": 1547,
+  "changes": 204,
   "schema": [
     {
       "name": "line",
@@ -66,15 +66,13 @@
 {"page":5,"change":"Addition","str":"used throughout the audit.  The only","line":15,"x":34.015,"y":263.52300000000025,"width":"173.27","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
 {"page":5,"change":"Addition","str":"® St Mary’s falls within SOA 010E, on the border of 010F.","line":29,"x":568.5,"y":68.976,"width":"209.34","height":"9.00","fontName":["Wingdings","Gill Sans MT"],"dir":["ltr"]}
 {"page":5,"change":"Addition","str":"(Map downloaded from ONS via Oxford Data Observatory )","line":30,"x":587.326,"y":54.488,"width":"176.47","height":"8.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"009D 010D","line":37,"x":612.419,"y":127.99999999999999,"width":"31.02","height":"7.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"010C 010F","line":38,"x":643.478,"y":134.26899999999998,"width":"28.62","height":"7.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"West Oxon 010 West Oxon 009","line":48,"x":595.737,"y":412.752,"width":"85.60","height":"7.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"(Map downloaded from ONS via Oxford Data Observatory )","line":51,"x":581.069,"y":329.912,"width":"186.88","height":"8.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"Map downloaded from A Church Near You","line":53,"x":144.56,"y":67.724,"width":"134.46","height":"8.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"the Indices  of  Multiple  Deprivation","line":55,"x":34.015,"y":442.047,"width":"177.79","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"2010 ,  which  uses  data  from  2008)  is","line":56,"x":34.015,"y":428.159,"width":"185.19","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"throughout  the  audit.    The Oxford","line":67,"x":227.70999999999998,"y":442.0470000000002,"width":"178.72","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"County Council’s Data Observatory  is","line":68,"x":227.71,"y":428.159,"width":"185.19","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"West Oxon 010 West Oxon 009","line":50,"x":595.737,"y":412.752,"width":"85.60","height":"7.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"(Map downloaded from ONS via Oxford Data Observatory )","line":53,"x":581.069,"y":329.912,"width":"186.88","height":"8.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Map downloaded from A Church Near You","line":55,"x":144.56,"y":67.724,"width":"134.46","height":"8.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"the Indices  of  Multiple  Deprivation","line":57,"x":34.015,"y":442.047,"width":"177.79","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"2010 ,  which  uses  data  from  2008)  is","line":58,"x":34.015,"y":428.159,"width":"185.19","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"throughout  the  audit.    The Oxford","line":69,"x":227.70999999999998,"y":442.0470000000002,"width":"178.72","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"County Council’s Data Observatory  is","line":70,"x":227.71,"y":428.159,"width":"185.19","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
 {"page":6,"change":"Addition","str":"in  West  Oxfordshire  and","line":19,"x":639.8050000000001,"y":184.9149999999999,"width":"122.90","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
 {"page":6,"change":"Addition","str":"protected  by Grade  I  listing  by","line":20,"x":639.8050000000001,"y":171.0269999999999,"width":"160.86","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
 {"page":6,"change":"Addition","str":"English  Heritage   as  a  building  of","line":21,"x":639.805,"y":157.139,"width":"168.07","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}

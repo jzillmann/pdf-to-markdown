@@ -1,8 +1,8 @@
 {
   "pages": 76,
   "items": 3205,
-  "groupedItems": 2617,
-  "changes": 280,
+  "groupedItems": 2649,
+  "changes": 281,
   "schema": [
     {
       "name": "line",
@@ -109,9 +109,10 @@
 {"page":16,"change":"Addition","str":"‘Why, she , of course,’ said the Dodo, pointing to Alice with one finger; and","line":19,"x":120.44300000000004,"y":443.2409999999995,"width":"367.04","height":"11.96","fontName":["FZVLIH+NimbusRomNo9L-Regu","LOFJZI+NimbusRomNo9L-ReguItal"],"dir":["ltr"]}
 {"page":17,"change":"Addition","str":"CHAPTER III.  A CAUCUS-RACE AND A LONG TALE 17","line":0,"x":102.884,"y":735.021,"width":"294.27","height":"11.96","fontName":["NGYXVM+NimbusRomNo9L-Regu-Slant_167","FZVLIH+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":17,"change":"Addition","str":"‘It is a long tail, certainly,’ said Alice, looking down with wonder at the","line":2,"x":120.443,"y":688.8199999999999,"width":"360.69","height":"11.96","fontName":["FZVLIH+NimbusRomNo9L-Regu","LOFJZI+NimbusRomNo9L-ReguItal"],"dir":["ltr"]}
-{"page":17,"change":"Addition","str":"‘Fury said to a mouse, That he met in the house, “Let us both go to law: I will prosecute you .  – Come, I’ll take no denial; We must have a trial: For really this morning I’ve nothing to do.” Said the mouse to the cur, “Such a trial, dear Sir, With no jury or judge, would be wasting our breath.” “I’ll be judge, I’ll be jury,”","line":5,"x":159.57700000000003,"y":348.39499999999947,"width":"1368.00","height":"11.96","fontName":["NGYXVM+NimbusRomNo9L-Regu-Slant_167","FZVLIH+NimbusRomNo9L-Regu"],"dir":["ltr"]}
-{"page":17,"change":"Addition","str":"Said cunning old Fury: “I’ll try the whole","line":6,"x":216.27000000000004,"y":301.38699999999955,"width":"122.56","height":"7.97","fontName":["NGYXVM+NimbusRomNo9L-Regu-Slant_167"],"dir":["ltr"]}
-{"page":17,"change":"Addition","str":"‘I had not !’ cried the Mouse, sharply and very angrily.","line":17,"x":120.443,"y":187.3139999999996,"width":"256.73","height":"11.96","fontName":["FZVLIH+NimbusRomNo9L-Regu","LOFJZI+NimbusRomNo9L-ReguItal"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"law: I will prosecute","line":11,"x":173.75000000000003,"y":571.0059999999996,"width":"95.50","height":"11.96","fontName":["NGYXVM+NimbusRomNo9L-Regu-Slant_167"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"you .  – Come,","line":12,"x":202.09700000000004,"y":559.2679999999996,"width":"68.13","height":"11.96","fontName":["FZVLIH+NimbusRomNo9L-Regu","NGYXVM+NimbusRomNo9L-Regu-Slant_167"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"breath.” “I’ll be judge, I’ll","line":31,"x":173.75000000000003,"y":358.3419999999995,"width":"101.66","height":"10.91","fontName":["NGYXVM+NimbusRomNo9L-Regu-Slant_167"],"dir":["ltr"]}
+{"page":17,"change":"Addition","str":"‘I had not !’ cried the Mouse, sharply and very angrily.","line":49,"x":120.443,"y":187.3139999999996,"width":"256.73","height":"11.96","fontName":["FZVLIH+NimbusRomNo9L-Regu","LOFJZI+NimbusRomNo9L-ReguItal"],"dir":["ltr"]}
 {"page":18,"change":"Addition","str":"CHAPTER III.  A CAUCUS-RACE AND A LONG TALE 18","line":0,"x":102.884,"y":735.021,"width":"294.27","height":"11.96","fontName":["NGYXVM+NimbusRomNo9L-Regu-Slant_167","FZVLIH+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":18,"change":"Addition","str":"dear! Let this be a lesson to you never to lose your temper!’ – ‘Hold your tongue,","line":9,"x":102.884,"y":587.6989999999997,"width":"382.39","height":"11.96","fontName":["FZVLIH+NimbusRomNo9L-Regu","LOFJZI+NimbusRomNo9L-ReguItal"],"dir":["ltr"]}
 {"page":19,"change":"Addition","str":"get me executed, as sure as ferrets are ferrets! Where can I have dropped them,","line":5,"x":102.884,"y":476.118,"width":"381.22","height":"11.96","fontName":["FZVLIH+NimbusRomNo9L-Regu","LOFJZI+NimbusRomNo9L-ReguItal"],"dir":["ltr"]}

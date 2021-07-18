@@ -1,8 +1,8 @@
 {
   "pages": 140,
   "items": 25968,
-  "groupedItems": 3294,
-  "changes": 3231,
+  "groupedItems": 3305,
+  "changes": 3239,
   "schema": [
     {
       "name": "line",
@@ -48,15 +48,17 @@
 {"page":6,"change":"Addition","str":"LIFE OF GOD","line":2,"x":39.22191,"y":324.40686,"width":"161.05","height":"32.33","fontName":[null],"dir":["ltr"]}
 {"page":6,"change":"Addition","str":"SOUL OF MAN","line":3,"x":75.13941,"y":226.56759,"width":"104.45","height":"21.23","fontName":[null],"dir":["ltr"]}
 {"page":6,"change":"Addition","str":"NICHOLS AND NoC|TE>3.","line":6,"x":78.44382,"y":65.08251,"width":"106.31","height":"12.05","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"Addition","str":"iS6S. ' '*\"^\" '^'","line":7,"x":131.31438,"y":48.56046,"width":"42.67","height":"6.80","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"Addition","str":"J > . ' 5","line":8,"x":215.505,"y":63.50214,"width":"9.05","height":"3.35","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"'*\"^\" '^'","line":9,"x":176.7141,"y":52.72689,"width":"21.84","height":"5.65","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"J > . ' 5","line":10,"x":215.505,"y":63.50214,"width":"9.05","height":"3.35","fontName":[null],"dir":["ltr"]}
 {"page":7,"change":"Addition","str":"THE NEW YORK","line":0,"x":146.83074,"y":363.62877,"width":"58.62","height":"10.93","fontName":[null],"dir":["ltr"]}
-{"page":7,"change":"Addition","str":"PUBLIC LIBRARY^ 793478 A","line":1,"x":138.35421,"y":334.7511,"width":"146.69","height":"16.16","fontName":[null],"dir":["ltr"]}
-{"page":7,"change":"Addition","str":"ASTOR, LENOX AND TlLDtN FOUNDATIONS!","line":2,"x":137.34851999999998,"y":315.78666,"width":"157.76","height":"9.18","fontName":[null],"dir":["ltr"]}
-{"page":7,"change":"Addition","str":"H 1935 L","line":3,"x":153.58323,"y":307.4538,"width":"25.29","height":"8.14","fontName":[null],"dir":["ltr"]}
-{"page":7,"change":"Addition","str":"CAMBRIDGE t","line":4,"x":145.82505,"y":231.16503,"width":"42.38","height":"7.56","fontName":[null],"dir":["ltr"]}
-{"page":7,"change":"Addition","str":"fRESS OF JOHN WILSON AND SON.","line":5,"x":118.24041,"y":219.8151,"width":"79.45","height":"6.38","fontName":[null],"dir":["ltr"]}
-{"page":7,"change":"Addition","str":"I r C c < <","line":6,"x":88.64439,"y":19.25178,"width":"9.91","height":"3.35","fontName":[null],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"PUBLIC LIBRARY^","line":1,"x":138.35421,"y":350.26745999999997,"width":"81.32","height":"9.70","fontName":[null],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"793478 A","line":2,"x":145.53771,"y":334.7511,"width":"65.37","height":"16.16","fontName":[null],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"ASTOR, LENOX AND","line":3,"x":143.81367,"y":323.54483999999997,"width":"69.25","height":"9.18","fontName":[null],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"TlLDtN FOUNDATIONS!","line":4,"x":137.34851999999998,"y":315.78666,"width":"88.51","height":"8.26","fontName":[null],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"H 1935 L","line":5,"x":153.58323,"y":307.4538,"width":"25.29","height":"8.14","fontName":[null],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"CAMBRIDGE t","line":6,"x":145.82505,"y":231.16503,"width":"42.38","height":"7.56","fontName":[null],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"fRESS OF JOHN WILSON AND SON.","line":7,"x":118.24041,"y":219.8151,"width":"79.45","height":"6.38","fontName":[null],"dir":["ltr"]}
+{"page":7,"change":"Addition","str":"I r C c < <","line":8,"x":88.64439,"y":19.25178,"width":"9.91","height":"3.35","fontName":[null],"dir":["ltr"]}
 {"page":8,"change":"Addition","str":"nr^HERE are books which never grow old :","line":1,"x":33.33144,"y":273.11667,"width":"180.45","height":"12.35","fontName":[null],"dir":["ltr"]}
 {"page":8,"change":"Addition","str":"and this precious Httle volume, by Henry","line":2,"x":58.04268,"y":258.31865999999997,"width":"167.81","height":"10.97","fontName":[null],"dir":["ltr"]}
 {"page":8,"change":"Addition","str":"ScouGAL, is to be numbered among them.","line":3,"x":33.47511,"y":243.52065,"width":"169.82","height":"10.15","fontName":[null],"dir":["ltr"]}
@@ -148,23 +150,24 @@
 {"page":12,"change":"Addition","str":"wisest men differ, while he is treating of mat-","line":3,"x":32.18208,"y":340.49789999999996,"width":"177.72","height":"10.38","fontName":[null],"dir":["ltr"]}
 {"page":12,"change":"Addition","str":"ters of the greatest importance, about which","line":4,"x":32.03841,"y":325.84355999999997,"width":"179.16","height":"9.05","fontName":[null],"dir":["ltr"]}
 {"page":12,"change":"Addition","str":"all good and wise men must agree.'' — \" Had","line":5,"x":32.46942,"y":311.04555,"width":"173.85","height":"17.72","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"we more,\" he adds, '' of that true Christian","line":6,"x":32.32575,"y":296.53488,"width":"163.78","height":"10.06","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"spirit so beautifully delineated and so warmly","line":7,"x":32.32575,"y":281.73687,"width":"184.18","height":"9.46","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"recommended in this book, I cannot but think","line":8,"x":32.03841,"y":267.2262,"width":"182.17","height":"9.60","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"that the tierceness of our contentions and ani-","line":9,"x":32.03841,"y":252.57186,"width":"182.17","height":"9.02","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"mosities about things of lesser moment must","line":10,"x":32.46942,"y":237.63018,"width":"179.01","height":"10.02","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"considerably abate.\"","line":11,"x":32.32575,"y":222.97583999999998,"width":"88.36","height":"7.92","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"The present edition of this volume is pub-","line":12,"x":42.66999,"y":208.03415999999999,"width":"165.37","height":"10.30","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"lished by the request of one who, for nearly","line":13,"x":32.32575,"y":193.09248,"width":"170.69","height":"9.22","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"eighty years, has found in it a continued re-","line":14,"x":32.32575,"y":178.29447,"width":"168.96","height":"8.48","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"source and pleasure. Now at the advanced","line":15,"x":32.18208,"y":163.78379999999999,"width":"170.11","height":"12.05","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"age of ninety, with a keen appreciation of","line":16,"x":32.46942,"y":148.98578999999998,"width":"165.22","height":"8.86","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"present enjoyments and privileges, he looks","line":17,"x":32.18208,"y":134.04411,"width":"180.17","height":"8.78","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"tbrward with growing earnestness and happv","line":18,"x":32.18208,"y":119.38977,"width":"187.06","height":"9.34","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"anticipation to the sublime realities of the fu-","line":19,"x":32.46942,"y":104.73543,"width":"177.58","height":"8.17","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"ture. Much that he has enjoyed, through","line":20,"x":32.03841,"y":89.93741999999999,"width":"161.49","height":"10.78","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"his pleasant pilgrimage, as well as the heav-","line":21,"x":32.32575,"y":75.28308,"width":"175.56","height":"8.24","fontName":[null],"dir":["ltr"]}
-{"page":12,"change":"Addition","str":"enlv Vision which kindles before the eve of","line":22,"x":32.61309,"y":60.48506999999999,"width":"171.68","height":"8.95","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"we more,\" he adds,","line":6,"x":32.32575,"y":296.67855,"width":"75.29","height":"10.06","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"'' of that true Christian","line":7,"x":135.19347,"y":296.53488,"width":"88.50","height":"7.66","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"spirit so beautifully delineated and so warmly","line":8,"x":32.32575,"y":281.73687,"width":"184.18","height":"9.46","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"recommended in this book, I cannot but think","line":9,"x":32.03841,"y":267.2262,"width":"182.17","height":"9.60","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"that the tierceness of our contentions and ani-","line":10,"x":32.03841,"y":252.57186,"width":"182.17","height":"9.02","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"mosities about things of lesser moment must","line":11,"x":32.46942,"y":237.63018,"width":"179.01","height":"10.02","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"considerably abate.\"","line":12,"x":32.32575,"y":222.97583999999998,"width":"88.36","height":"7.92","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"The present edition of this volume is pub-","line":13,"x":42.66999,"y":208.03415999999999,"width":"165.37","height":"10.30","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"lished by the request of one who, for nearly","line":14,"x":32.32575,"y":193.09248,"width":"170.69","height":"9.22","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"eighty years, has found in it a continued re-","line":15,"x":32.32575,"y":178.29447,"width":"168.96","height":"8.48","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"source and pleasure. Now at the advanced","line":16,"x":32.18208,"y":163.78379999999999,"width":"170.11","height":"12.05","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"age of ninety, with a keen appreciation of","line":17,"x":32.46942,"y":148.98578999999998,"width":"165.22","height":"8.86","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"present enjoyments and privileges, he looks","line":18,"x":32.18208,"y":134.04411,"width":"180.17","height":"8.78","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"tbrward with growing earnestness and happv","line":19,"x":32.18208,"y":119.38977,"width":"187.06","height":"9.34","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"anticipation to the sublime realities of the fu-","line":20,"x":32.46942,"y":104.73543,"width":"177.58","height":"8.17","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"ture. Much that he has enjoyed, through","line":21,"x":32.03841,"y":89.93741999999999,"width":"161.49","height":"10.78","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"his pleasant pilgrimage, as well as the heav-","line":22,"x":32.32575,"y":75.28308,"width":"175.56","height":"8.24","fontName":[null],"dir":["ltr"]}
+{"page":12,"change":"Addition","str":"enlv Vision which kindles before the eve of","line":23,"x":32.61309,"y":60.48506999999999,"width":"171.68","height":"8.95","fontName":[null],"dir":["ltr"]}
 {"page":13,"change":"Addition","str":"\\-iii Preface.","line":0,"x":63.50214,"y":400.98296999999997,"width":"50.42","height":"7.99","fontName":[null],"dir":["ltr"]}
 {"page":13,"change":"Addition","str":"Faith, is associated with this little volume,","line":1,"x":62.352779999999996,"y":374.9787,"width":"167.81","height":"8.48","fontName":[null],"dir":["ltr"]}
 {"page":13,"change":"Addition","str":"familiar to him from his 3^outh. Having de-","line":2,"x":62.065439999999995,"y":360.18068999999997,"width":"166.51","height":"9.30","fontName":[null],"dir":["ltr"]}
@@ -190,10 +193,11 @@
 {"page":14,"change":"Addition","str":"Our Saviour's Constant Devotion 28","line":13,"x":30.458039999999997,"y":118.81509,"width":"120.54","height":"7.74","fontName":[null],"dir":["ltr"]}
 {"page":14,"change":"Addition","str":"Our Saviour's Charity to Men 29","line":14,"x":30.458039999999997,"y":106.3158,"width":"103.73","height":"8.54","fontName":[null],"dir":["ltr"]}
 {"page":14,"change":"Addition","str":"Our Saviour's Purity 31","line":15,"x":30.458039999999997,"y":94.67853,"width":"77.01","height":"7.74","fontName":[null],"dir":["ltr"]}
-{"page":14,"change":"Addition","str":"Our Saviour's Humility 34 A Prayer 37","line":16,"x":30.314369999999997,"y":69.96728999999999,"width":"125.28","height":"10.06","fontName":[null],"dir":["ltr"]}
-{"page":14,"change":"Addition","str":"The Excellency and Advantage of Religion .... 38","line":17,"x":30.314369999999997,"y":59.04837,"width":"183.03","height":"13.35","fontName":[null],"dir":["ltr"]}
-{"page":14,"change":"Addition","str":"The Excellency of Divine Love 39","line":18,"x":30.314369999999997,"y":46.118069999999996,"width":"110.77","height":"7.82","fontName":[null],"dir":["ltr"]}
-{"page":14,"change":"Addition","str":"The Advantages of Divine Love 44","line":19,"x":30.314369999999997,"y":34.337129999999995,"width":"114.08","height":"7.82","fontName":[null],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"Our Saviour's Humility 34","line":16,"x":30.458039999999997,"y":81.89189999999999,"width":"87.92","height":"7.82","fontName":[null],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"A Prayer 37","line":17,"x":30.314369999999997,"y":69.96728999999999,"width":"37.35","height":"10.06","fontName":[null],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"The Excellency and Advantage of Religion .... 38","line":18,"x":30.314369999999997,"y":59.04837,"width":"183.03","height":"13.35","fontName":[null],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"The Excellency of Divine Love 39","line":19,"x":30.314369999999997,"y":46.118069999999996,"width":"110.77","height":"7.82","fontName":[null],"dir":["ltr"]}
+{"page":14,"change":"Addition","str":"The Advantages of Divine Love 44","line":20,"x":30.314369999999997,"y":34.337129999999995,"width":"114.08","height":"7.82","fontName":[null],"dir":["ltr"]}
 {"page":15,"change":"Addition","str":"The Worth of the Object 45","line":1,"x":65.36985,"y":378.85778999999997,"width":"85.48","height":"7.66","fontName":[null],"dir":["ltr"]}
 {"page":15,"change":"Addition","str":"The Certainty to be Beloved Again 46","line":2,"x":65.22618,"y":367.65153,"width":"119.39","height":"7.66","fontName":[null],"dir":["ltr"]}
 {"page":15,"change":"Addition","str":"The Presence of the Beloved Person 48","line":3,"x":65.22618,"y":355.58324999999996,"width":"122.55","height":"7.66","fontName":[null],"dir":["ltr"]}
@@ -214,37 +218,40 @@
 {"page":15,"change":"Addition","str":"The Unreasonableness of these Fears 69","line":18,"x":65.22618,"y":178.58181,"width":"130.74","height":"7.58","fontName":[null],"dir":["ltr"]}
 {"page":15,"change":"Addition","str":"We must do what we can, and depend on the Divine","line":19,"x":65.36985,"y":167.66289,"width":"158.03","height":"9.58","fontName":[null],"dir":["ltr"]}
 {"page":15,"change":"Addition","str":"Assistance 74","line":20,"x":88.50072,"y":154.30158,"width":"45.26","height":"6.32","fontName":[null],"dir":["ltr"]}
-{"page":15,"change":"Addition","str":"We must shun all Manner of Sin 78 We must know what Things are Sinful So","line":21,"x":65.22618,"y":132.32007,"width":"238.06","height":"9.58","fontName":[null],"dir":["ltr"]}
-{"page":15,"change":"Addition","str":"We must resist the Temptations of Sin. by consider-","line":22,"x":65.22618,"y":120.6828,"width":"166.94","height":"9.46","fontName":[null],"dir":["ltr"]}
-{"page":15,"change":"Addition","str":"ing the Evils they will draw on us 82","line":23,"x":88.78806,"y":108.75819,"width":"108.61","height":"7.36","fontName":[null],"dir":["ltr"]}
-{"page":15,"change":"Addition","str":"We must keep a Constant Watch over Ourselves . . 87 We must often examine our Actions 89","line":24,"x":64.93884,"y":84.19062,"width":"287.91","height":"9.82","fontName":[null],"dir":["ltr"]}
-{"page":15,"change":"Addition","str":"It is fit to restrain Ourselves in Many Lawful Things . 91","line":25,"x":64.93884,"y":72.40968,"width":"172.11","height":"8.56","fontName":[null],"dir":["ltr"]}
-{"page":15,"change":"Addition","str":"\\\\'e must strive to put Ourselves out of Love with the","line":26,"x":65.22618,"y":61.634429999999995,"width":"163.21","height":"7.48","fontName":[null],"dir":["ltr"]}
-{"page":15,"change":"Addition","str":"World 93","line":27,"x":88.35705,"y":47.98578,"width":"30.03","height":"7.57","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"We must shun all Manner of Sin 78","line":21,"x":65.36985,"y":143.38266,"width":"108.18","height":"9.46","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"We must know what Things are Sinful So","line":22,"x":65.22618,"y":132.32007,"width":"129.88","height":"9.58","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"We must resist the Temptations of Sin. by consider-","line":23,"x":65.22618,"y":120.6828,"width":"166.94","height":"9.46","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"ing the Evils they will draw on us 82","line":24,"x":88.78806,"y":108.75819,"width":"108.61","height":"7.36","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"We must keep a Constant Watch over Ourselves . . 87","line":25,"x":65.08251,"y":96.2589,"width":"164.22","height":"9.58","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"We must often examine our Actions 89","line":26,"x":64.93884,"y":84.19062,"width":"123.69","height":"9.82","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"It is fit to restrain Ourselves in Many Lawful Things . 91","line":27,"x":64.93884,"y":72.40968,"width":"172.11","height":"8.56","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"\\\\'e must strive to put Ourselves out of Love with the","line":28,"x":65.22618,"y":61.634429999999995,"width":"163.21","height":"7.48","fontName":[null],"dir":["ltr"]}
+{"page":15,"change":"Addition","str":"World 93","line":29,"x":88.35705,"y":47.98578,"width":"30.03","height":"7.57","fontName":[null],"dir":["ltr"]}
 {"page":16,"change":"Addition","str":"Contents. xi","line":0,"x":124.84922999999999,"y":396.5292,"width":"48.99","height":"7.58","fontName":[null],"dir":["ltr"]}
 {"page":16,"change":"Addition","str":"We must do those Outward Actions that are Com-","line":1,"x":37.06686,"y":372.39264,"width":"159.33","height":"9.82","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"manded 98 We must endeavor to form Internal Acts of Devo-","line":2,"x":37.21053,"y":348.54341999999997,"width":"195.11","height":"9.70","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"tion, Charity, &c. 100","line":3,"x":60.62873999999999,"y":336.47513999999995,"width":"67.24","height":"6.20","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"Consideration a Great Instrument of Religion . . . loi","line":4,"x":37.21053,"y":324.69419999999997,"width":"167.09","height":"6.80","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"To beget Divine Love, we must consider the Excel-","line":5,"x":36.92319,"y":312.76959,"width":"162.78","height":"8.14","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"lency of the Divine Nature 104","line":6,"x":60.62873999999999,"y":300.41397,"width":"96.97","height":"6.94","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"We should meditate on God's Goodness and Love . 108","line":7,"x":36.92319,"y":289.35138,"width":"172.41","height":"9.94","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"To beget Charity, we must remember that all Men","line":8,"x":36.92319,"y":277.2831,"width":"160.76","height":"8.54","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"are nearly related unto God 113","line":9,"x":60.772409999999994,"y":265.07115,"width":"98.70","height":"8.14","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"That they carry God's Image upon them 114","line":10,"x":36.92319,"y":253.00286999999997,"width":"140.80","height":"7.47","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"To beget Purity, we should consider the Dignity of","line":11,"x":37.21053,"y":241.94027999999997,"width":"162.92","height":"8.14","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"our Nature 116","line":12,"x":60.916079999999994,"y":230.15934,"width":"47.99","height":"6.98","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"We should meditate often on the Joys of Heaven . 117","line":13,"x":37.21053,"y":217.94738999999998,"width":"164.64","height":"9.82","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"Humility arises from the Consideration of our Fail-","line":14,"x":38.21622,"y":206.74113,"width":"167.95","height":"6.88","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"ings 118","line":15,"x":61.203419999999994,"y":194.67284999999998,"width":"25.72","height":"6.17","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"Thoughts of God give us the Lowest Thoughts of","line":16,"x":37.21053,"y":182.60457,"width":"158.61","height":"8.22","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"Ourselves 120","line":17,"x":61.490759999999995,"y":170.9673,"width":"46.55","height":"6.55","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"Prayer, another Instrument of Religion, and the","line":18,"x":37.64154,"y":159.04269,"width":"159.47","height":"7.02","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"Advantages of Mental Prayer 121","line":19,"x":60.772409999999994,"y":147.26174999999998,"width":"109.90","height":"7.16","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"Religion is to be Advanced by the same Means by","line":20,"x":37.64154,"y":135.0498,"width":"155.16","height":"7.66","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"which it is Begun ; and the Use of the Holy","line":21,"x":61.059749999999994,"y":122.98151999999999,"width":"127.72","height":"7.66","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"Sacrainent towards it 124","line":22,"x":61.634429999999995,"y":111.48791999999999,"width":"83.33","height":"6.84","fontName":[null],"dir":["ltr"]}
-{"page":16,"change":"Addition","str":"A Prayer 126","line":23,"x":37.78521,"y":99.41964,"width":"41.09","height":"10.54","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"manded 98","line":2,"x":60.772409999999994,"y":359.31867,"width":"35.77","height":"7.82","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"We must endeavor to form Internal Acts of Devo-","line":3,"x":37.21053,"y":348.54341999999997,"width":"159.33","height":"9.70","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"tion, Charity, &c. 100","line":4,"x":60.62873999999999,"y":336.47513999999995,"width":"67.24","height":"6.20","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Consideration a Great Instrument of Religion . . . loi","line":5,"x":37.21053,"y":324.69419999999997,"width":"167.09","height":"6.80","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"To beget Divine Love, we must consider the Excel-","line":6,"x":36.92319,"y":312.76959,"width":"162.78","height":"8.14","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"lency of the Divine Nature 104","line":7,"x":60.62873999999999,"y":300.41397,"width":"96.97","height":"6.94","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"We should meditate on God's Goodness and Love . 108","line":8,"x":36.92319,"y":289.35138,"width":"172.41","height":"9.94","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"To beget Charity, we must remember that all Men","line":9,"x":36.92319,"y":277.2831,"width":"160.76","height":"8.54","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"are nearly related unto God 113","line":10,"x":60.772409999999994,"y":265.07115,"width":"98.70","height":"8.14","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"That they carry God's Image upon them 114","line":11,"x":36.92319,"y":253.00286999999997,"width":"140.80","height":"7.47","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"To beget Purity, we should consider the Dignity of","line":12,"x":37.21053,"y":241.94027999999997,"width":"162.92","height":"8.14","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"our Nature 116","line":13,"x":60.916079999999994,"y":230.15934,"width":"47.99","height":"6.98","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"We should meditate often on the Joys of Heaven . 117","line":14,"x":37.21053,"y":217.94738999999998,"width":"164.64","height":"9.82","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Humility arises from the Consideration of our Fail-","line":15,"x":38.21622,"y":206.74113,"width":"167.95","height":"6.88","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"ings 118","line":16,"x":61.203419999999994,"y":194.67284999999998,"width":"25.72","height":"6.17","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Thoughts of God give us the Lowest Thoughts of","line":17,"x":37.21053,"y":182.60457,"width":"158.61","height":"8.22","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Ourselves 120","line":18,"x":61.490759999999995,"y":170.9673,"width":"46.55","height":"6.55","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Prayer, another Instrument of Religion, and the","line":19,"x":37.64154,"y":159.04269,"width":"159.47","height":"7.02","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Advantages of Mental Prayer 121","line":20,"x":60.772409999999994,"y":147.26174999999998,"width":"109.90","height":"7.16","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Religion is to be Advanced by the same Means by","line":21,"x":37.64154,"y":135.0498,"width":"155.16","height":"7.66","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"which it is Begun ; and the Use of the Holy","line":22,"x":61.059749999999994,"y":122.98151999999999,"width":"127.72","height":"7.66","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"Sacrainent towards it 124","line":23,"x":61.634429999999995,"y":111.48791999999999,"width":"83.33","height":"6.84","fontName":[null],"dir":["ltr"]}
+{"page":16,"change":"Addition","str":"A Prayer 126","line":24,"x":37.78521,"y":99.41964,"width":"41.09","height":"10.54","fontName":[null],"dir":["ltr"]}
 {"page":18,"change":"Addition","str":"THE LIFE OF GOD","line":0,"x":63.07113,"y":257.16929999999996,"width":"123.13","height":"18.12","fontName":[null],"dir":["ltr"]}
 {"page":18,"change":"Addition","str":"SOUL OF ^lAX.","line":1,"x":97.6956,"y":190.21908,"width":"74.42","height":"12.69","fontName":[null],"dir":["ltr"]}
 {"page":20,"change":"Addition","str":"THE LIFE OF GOD","line":0,"x":57.036989999999996,"y":358.45664999999997,"width":"119.82","height":"17.72","fontName":[null],"dir":["ltr"]}
@@ -403,11 +410,11 @@
 {"page":26,"change":"Addition","str":"goodness, and of the folly and misery of a sin-","line":19,"x":40.514939999999996,"y":145.39404,"width":"179.44","height":"9.02","fontName":[null],"dir":["ltr"]}
 {"page":26,"change":"Addition","str":"ful life. His charity is not Ibrced, nor his","line":20,"x":40.514939999999996,"y":131.74539,"width":"152.29","height":"8.38","fontName":[null],"dir":["ltr"]}
 {"page":26,"change":"Addition","str":"alms extorted from him : his love makes him","line":21,"x":40.658609999999996,"y":118.09674,"width":"171.40","height":"9.58","fontName":[null],"dir":["ltr"]}
-{"page":26,"change":"Addition","str":"willing to give ; and though there were no out •","line":22,"x":40.371269999999996,"y":103.72973999999999,"width":"176.43","height":"9.10","fontName":[null],"dir":["ltr"]}
-{"page":26,"change":"Addition","str":"ward obligation, his heart zvotild devise liberal","line":23,"x":40.371269999999996,"y":90.65576999999999,"width":"192.09","height":"9.46","fontName":[null],"dir":["ltr"]}
-{"page":26,"change":"Addition","str":"thing's. Injustice and intemperance, and all","line":24,"x":40.514939999999996,"y":76.86345,"width":"175.28","height":"8.94","fontName":[null],"dir":["ltr"]}
-{"page":26,"change":"Addition","str":"other vices, are as contrary to his temper and","line":25,"x":40.371269999999996,"y":63.2148,"width":"175.57","height":"9.02","fontName":[null],"dir":["ltr"]}
-{"page":26,"change":"Addition","str":"constitution, as the basest actions are to the","line":26,"x":40.514939999999996,"y":49.42248,"width":"168.82","height":"7.66","fontName":[null],"dir":["ltr"]}
+{"page":26,"change":"Addition","str":"willing to give ; and though there were no out","line":22,"x":40.371269999999996,"y":103.72973999999999,"width":"175.42","height":"9.10","fontName":[null],"dir":["ltr"]}
+{"page":26,"change":"Addition","str":"ward obligation, his heart zvotild devise liberal","line":24,"x":40.371269999999996,"y":90.65576999999999,"width":"192.09","height":"9.46","fontName":[null],"dir":["ltr"]}
+{"page":26,"change":"Addition","str":"thing's. Injustice and intemperance, and all","line":25,"x":40.514939999999996,"y":76.86345,"width":"175.28","height":"8.94","fontName":[null],"dir":["ltr"]}
+{"page":26,"change":"Addition","str":"other vices, are as contrary to his temper and","line":26,"x":40.371269999999996,"y":63.2148,"width":"175.57","height":"9.02","fontName":[null],"dir":["ltr"]}
+{"page":26,"change":"Addition","str":"constitution, as the basest actions are to the","line":27,"x":40.514939999999996,"y":49.42248,"width":"168.82","height":"7.66","fontName":[null],"dir":["ltr"]}
 {"page":27,"change":"Addition","str":"lO The Life of God","line":0,"x":42.95733,"y":399.25892999999996,"width":"76.43","height":"10.38","fontName":[null],"dir":["ltr"]}
 {"page":27,"change":"Addition","str":"most generous spirit, and impudence and scur-","line":1,"x":42.38265,"y":374.11668,"width":"189.65","height":"9.05","fontName":[null],"dir":["ltr"]}
 {"page":27,"change":"Addition","str":"rility to those who are naturally modest : so","line":2,"x":42.23898,"y":360.32435999999996,"width":"166.95","height":"10.38","fontName":[null],"dir":["ltr"]}
@@ -2070,17 +2077,18 @@
 {"page":95,"change":"Addition","str":"sion shall serve, and we find ourselves enabled","line":8,"x":51.721199999999996,"y":272.82932999999997,"width":"186.20","height":"10.18","fontName":[null],"dir":["ltr"]}
 {"page":95,"change":"Addition","str":"to perform them.","line":9,"x":51.290189999999996,"y":258.89333999999997,"width":"67.81","height":"8.38","fontName":[null],"dir":["ltr"]}
 {"page":95,"change":"Addition","str":"WE MUST SHUN ALL MANNER OF SIN.","line":10,"x":67.38123,"y":214.21196999999998,"width":"148.99","height":"11.37","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"\"DUT now, that I may detain you no longer, \"^ if we desire to have our souls moulded to","line":11,"x":51.864869999999996,"y":178.72547999999998,"width":"351.27","height":"13.41","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"this holy frame, to become partakers of the di-","line":12,"x":51.290189999999996,"y":165.07683,"width":"182.46","height":"9.38","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"vine nature, and have Christ formed in our","line":13,"x":51.290189999999996,"y":151.42818,"width":"168.53","height":"8.94","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"hearts, we must seriously resolve, and care-","line":14,"x":51.577529999999996,"y":137.77953,"width":"176.00","height":"9.94","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"fully endeavor to avoid and abandon all vicious","line":15,"x":51.290189999999996,"y":124.13087999999999,"width":"188.35","height":"9.03","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"and sinful practices. There can be no treaty","line":16,"x":51.577529999999996,"y":110.33856,"width":"171.83","height":"9.19","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"of peace, till once we lay down these weapons","line":17,"x":51.146519999999995,"y":96.54624,"width":"179.73","height":"10.06","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"of rebellion wherewith we fight against Heaven :","line":18,"x":51.146519999999995,"y":82.89759,"width":"196.40","height":"10.18","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"nor can we expect to have our distempers","line":19,"x":51.433859999999996,"y":69.39260999999999,"width":"162.78","height":"10.18","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"cured, if we be daily feeding on poison. Ev-","line":20,"x":51.433859999999996,"y":55.743959999999994,"width":"169.67","height":"10.06","fontName":[null],"dir":["ltr"]}
-{"page":95,"change":"Addition","str":"ery wilful sin gives a mortal wound to the soul.","line":21,"x":51.721199999999996,"y":42.09531,"width":"177.87","height":"9.91","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"\"DUT now, that I may detain you no longer,","line":11,"x":52.15221,"y":192.23046,"width":"179.01","height":"13.41","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"\"^ if we desire to have our souls moulded to","line":12,"x":51.864869999999996,"y":178.72547999999998,"width":"172.26","height":"12.93","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"this holy frame, to become partakers of the di-","line":13,"x":51.290189999999996,"y":165.07683,"width":"182.46","height":"9.38","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"vine nature, and have Christ formed in our","line":14,"x":51.290189999999996,"y":151.42818,"width":"168.53","height":"8.94","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"hearts, we must seriously resolve, and care-","line":15,"x":51.577529999999996,"y":137.77953,"width":"176.00","height":"9.94","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"fully endeavor to avoid and abandon all vicious","line":16,"x":51.290189999999996,"y":124.13087999999999,"width":"188.35","height":"9.03","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"and sinful practices. There can be no treaty","line":17,"x":51.577529999999996,"y":110.33856,"width":"171.83","height":"9.19","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"of peace, till once we lay down these weapons","line":18,"x":51.146519999999995,"y":96.54624,"width":"179.73","height":"10.06","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"of rebellion wherewith we fight against Heaven :","line":19,"x":51.146519999999995,"y":82.89759,"width":"196.40","height":"10.18","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"nor can we expect to have our distempers","line":20,"x":51.433859999999996,"y":69.39260999999999,"width":"162.78","height":"10.18","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"cured, if we be daily feeding on poison. Ev-","line":21,"x":51.433859999999996,"y":55.743959999999994,"width":"169.67","height":"10.06","fontName":[null],"dir":["ltr"]}
+{"page":95,"change":"Addition","str":"ery wilful sin gives a mortal wound to the soul.","line":22,"x":51.721199999999996,"y":42.09531,"width":"177.87","height":"9.91","fontName":[null],"dir":["ltr"]}
 {"page":96,"change":"Addition","str":"in the Soul of Man. 79","line":0,"x":88.64439,"y":392.07543,"width":"88.93","height":"10.18","fontName":[null],"dir":["ltr"]}
 {"page":96,"change":"Addition","str":"and puts it at a greater distance from God and","line":1,"x":31.463729999999998,"y":368.51354999999995,"width":"176.28","height":"10.22","fontName":[null],"dir":["ltr"]}
 {"page":96,"change":"Addition","str":"goodness : and we can never hope to have our","line":2,"x":31.320059999999998,"y":354.8649,"width":"175.42","height":"10.18","fontName":[null],"dir":["ltr"]}

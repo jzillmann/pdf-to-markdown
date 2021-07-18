@@ -1,8 +1,8 @@
 {
   "pages": 200,
   "items": 8844,
-  "groupedItems": 8518,
-  "changes": 236,
+  "groupedItems": 8519,
+  "changes": 237,
   "schema": [
     {
       "name": "line",
@@ -43,9 +43,10 @@
     }
   }
 }
-{"page":1,"change":"Addition","str":"S IR A RTHUR I GNATIUS C ONAN D OYLE","line":0,"x":196.324,"y":678.946,"width":"342.54","height":"24.79","fontName":["KKLGKN+NimbusRomNo9L-Regu","INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}
-{"page":1,"change":"Addition","str":"T HE A DVENTURES O F","line":2,"x":149.122,"y":483.32700000000006,"width":"273.72","height":"29.89","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}
-{"page":1,"change":"Addition","str":"PDF REE B OOKS . ORG","line":5,"x":241.355,"y":155.418,"width":"108.64","height":"11.96","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"S IR A RTHUR I GNATIUS","line":0,"x":196.324,"y":702.187,"width":"186.21","height":"20.66","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"C ONAN D OYLE","line":1,"x":214.04500000000002,"y":678.946,"width":"156.34","height":"24.79","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"T HE A DVENTURES O F","line":3,"x":149.122,"y":483.32700000000006,"width":"273.72","height":"29.89","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}
+{"page":1,"change":"Addition","str":"PDF REE B OOKS . ORG","line":6,"x":241.355,"y":155.418,"width":"108.64","height":"11.96","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}
 {"page":3,"change":"Addition","str":"A Scandal In Bohemia 3","line":1,"x":117.828,"y":561.248,"width":"110.02","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}
 {"page":3,"change":"Addition","str":"The Red-Headed League 21","line":2,"x":117.828,"y":536.7900000000001,"width":"126.67","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}
 {"page":3,"change":"Addition","str":"A Case Of Identity 38","line":3,"x":117.828,"y":512.3320000000001,"width":"98.48","height":"10.91","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}

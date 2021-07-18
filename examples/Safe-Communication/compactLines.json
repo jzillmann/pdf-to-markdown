@@ -1,8 +1,8 @@
 {
   "pages": 60,
   "items": 4344,
-  "groupedItems": 1487,
-  "changes": 927,
+  "groupedItems": 1498,
+  "changes": 926,
   "schema": [
     {
       "name": "line",
@@ -403,10 +403,9 @@
 {"page":22,"change":"Addition","str":"better. You can look for a  ‘ r un ’ of seven points or more - all up, all down , or all above or below the median value . The run will tell you","line":4,"x":99.264,"y":474.7,"width":"629.39","height":"11.04","fontName":[null,"Arial"],"dir":["ltr"]}
 {"page":22,"change":"Addition","str":"Example r un charts capturing project outcome data","line":6,"x":99.264,"y":434.62,"width":"294.04","height":"12.00","fontName":[null],"dir":["ltr"]}
 {"page":22,"change":"Addition","str":"Number of times standard format followed Median","line":45,"x":158.09,"y":379.32,"width":"206.07","height":"9.96","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":22,"change":"Addition","str":"0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5","line":46,"x":442.82,"y":254.83,"width":"93.38","height":"9.98","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":22,"change":"Addition","str":"Staff survey  - Level of preparedness to deliver care","line":47,"x":485.64,"y":393.82,"width":"247.67","height":"12.00","fontName":["ABCDEE+Calibri,Bold"],"dir":["ltr"]}
-{"page":22,"change":"Addition","str":"Staff Survey Results Median","line":49,"x":523.13,"y":366.82,"width":"110.87","height":"9.96","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":22,"change":"Addition","str":"Click here for more about using  run charts and ","line":51,"x":512.35,"y":153.62,"width":"229.32","height":"11.04","fontName":[null],"dir":["ltr"]}
+{"page":22,"change":"Addition","str":"Staff survey  - Level of preparedness to deliver care","line":57,"x":485.64,"y":393.82,"width":"247.67","height":"12.00","fontName":["ABCDEE+Calibri,Bold"],"dir":["ltr"]}
+{"page":22,"change":"Addition","str":"Staff Survey Results Median","line":59,"x":523.13,"y":366.82,"width":"110.87","height":"9.96","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":22,"change":"Addition","str":"Click here for more about using  run charts and ","line":61,"x":512.35,"y":153.62,"width":"229.32","height":"11.04","fontName":[null],"dir":["ltr"]}
 {"page":23,"change":"Addition","str":"Quality Improvement Clinic Ltd.  P a g e |  24 August 2015","line":0,"x":99.264,"y":30.84,"width":"267.35","height":"11.04","fontName":[null],"dir":["ltr"]}
 {"page":23,"change":"Addition","str":"Once you have mapped your current process and  compared data about your transfers ","line":2,"x":99.264,"y":442.54,"width":"415.73","height":"11.04","fontName":[null],"dir":["ltr"]}
 {"page":23,"change":"Addition","str":"of care  with best practice , you  need to decide where to start  – this will be  your initial ","line":3,"x":99.264,"y":428.02,"width":"399.58","height":"11.04","fontName":[null,"Arial"],"dir":["ltr"]}
@@ -951,21 +950,21 @@
 {"page":58,"change":"Addition","str":"• Engage staff, patients, clients and residents using patient stories and evidence from useful resources","line":12,"x":153.77,"y":369.1,"width":"491.89","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":58,"change":"Addition","str":"• Choose your project team, include senior and frontline staff and patients/clients/residents","line":13,"x":153.77,"y":353.74,"width":"444.55","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":58,"change":"Addition","str":"• Document your project plan (Appendix F) and use the sustainaiblity guide to think about long term impact of change","line":14,"x":153.77,"y":338.38,"width":"571.55","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"3 • Measure and understand (page 19)","line":15,"x":115.73,"y":310.61,"width":"187.11","height":"14.04","fontName":["ABCDEE+Calibri,Bold","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Choose and define your  outcomes and process measures, collect baseline data  and display on run or SPC charts","line":16,"x":153.77,"y":306.91,"width":"552.29","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Design and plan (page 24)","line":18,"x":144.19,"y":285.19,"width":"134.04","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri,Bold"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Design your standard transfer of care template and test using Plan Do Study Act (PDSA) cycles (Appendix I & J)","line":19,"x":153.19,"y":269.83,"width":"539.16","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Use dot voting to define your minimum data set (Appendix G)","line":20,"x":162.19,"y":254.47,"width":"305.46","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Select a standardised communication tool (e.g. SBAR) to organise your minimum data set","line":21,"x":162.19,"y":238.99,"width":"438.29","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Generate and test other change ideas using the good practice checklist (Appendix B) and examples (Appendix K)","line":22,"x":153.19,"y":223.63,"width":"549.47","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Choose process measures (Appendix  H) collect data and display on run or SPC charts","line":23,"x":153.19,"y":208.27,"width":"418.36","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Pilot and implement (page 34)","line":25,"x":144.74,"y":191.59,"width":"156.48","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri,Bold"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Document your new standardised transfer of care process","line":26,"x":153.77,"y":176.23,"width":"287.10","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Plan your tests for implementation using PDSA cycles.  Plan training, measurement, resources & stakeholder ","line":27,"x":153.77,"y":160.87,"width":"533.48","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Consider 'flexible standardisation' and spread good practice to other teams, departments and organisations","line":29,"x":153.77,"y":132.17,"width":"528.46","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Sustain and share (page 38)","line":31,"x":143.64,"y":113.33,"width":"141.57","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri,Bold"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Use the sustainability guide to ensure your changes will be sustained","line":32,"x":152.64,"y":97.968,"width":"339.64","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
-{"page":58,"change":"Addition","str":"• Celebrate and spread your success through conferences, posters, journal articles etc. (Appendix L)","line":33,"x":152.64,"y":82.608,"width":"480.70","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Measure and understand (page 19)","line":16,"x":144.74,"y":322.27,"width":"179.99","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri,Bold"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Choose and define your  outcomes and process measures, collect baseline data  and display on run or SPC charts","line":17,"x":153.77,"y":306.91,"width":"552.29","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Design and plan (page 24)","line":19,"x":144.19,"y":285.19,"width":"134.04","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri,Bold"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Design your standard transfer of care template and test using Plan Do Study Act (PDSA) cycles (Appendix I & J)","line":20,"x":153.19,"y":269.83,"width":"539.16","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Use dot voting to define your minimum data set (Appendix G)","line":21,"x":162.19,"y":254.47,"width":"305.46","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Select a standardised communication tool (e.g. SBAR) to organise your minimum data set","line":22,"x":162.19,"y":238.99,"width":"438.29","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Generate and test other change ideas using the good practice checklist (Appendix B) and examples (Appendix K)","line":23,"x":153.19,"y":223.63,"width":"549.47","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Choose process measures (Appendix  H) collect data and display on run or SPC charts","line":24,"x":153.19,"y":208.27,"width":"418.36","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Pilot and implement (page 34)","line":26,"x":144.74,"y":191.59,"width":"156.48","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri,Bold"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Document your new standardised transfer of care process","line":27,"x":153.77,"y":176.23,"width":"287.10","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Plan your tests for implementation using PDSA cycles.  Plan training, measurement, resources & stakeholder ","line":28,"x":153.77,"y":160.87,"width":"533.48","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Consider 'flexible standardisation' and spread good practice to other teams, departments and organisations","line":30,"x":153.77,"y":132.17,"width":"528.46","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Sustain and share (page 38)","line":32,"x":143.64,"y":113.33,"width":"141.57","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri,Bold"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Use the sustainability guide to ensure your changes will be sustained","line":33,"x":152.64,"y":97.968,"width":"339.64","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
+{"page":58,"change":"Addition","str":"• Celebrate and spread your success through conferences, posters, journal articles etc. (Appendix L)","line":34,"x":152.64,"y":82.608,"width":"480.70","height":"12.00","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":59,"change":"Addition","str":"Quality Improvement Clinic Ltd.  P a g e |  60 August 2015","line":0,"x":53.88,"y":30.84,"width":"267.35","height":"11.04","fontName":[null],"dir":["ltr"]}
 {"page":59,"change":"Addition","str":"2011 - 2012  - First learning phase","line":2,"x":111.07,"y":465.96,"width":"143.46","height":"11.04","fontName":["ABCDEE+Calibri,Bold"],"dir":["ltr"]}
 {"page":59,"change":"Addition","str":"2013 - 2014  - Second learning phase","line":9,"x":111.07,"y":257.5,"width":"156.68","height":"11.04","fontName":["ABCDEE+Calibri,Bold"],"dir":["ltr"]}

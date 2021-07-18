@@ -1,7 +1,7 @@
 {
   "pages": 535,
   "items": 53908,
-  "groupedItems": 31145,
+  "groupedItems": 31657,
   "changes": 1537,
   "schema": [
     {
@@ -529,8 +529,8 @@
         },
         {
           "level": 0,
-          "text": "Fig. 8.24OECD North America: development of CO2 emissions  by sector and cumulative CO2 emissions (after 2015)  in the scenarios (‘Savings’ = reduction compared with  the 5.0 °C Scenario)",
-          "verified": false,
+          "text": "Fig. 8.24 OECD North America: development of CO 2 emissions by sector and cumulative CO 2",
+          "verified": true,
           "linkedPage": 219
         },
         {
@@ -799,8 +799,8 @@
         },
         {
           "level": 0,
-          "text": "List of FiguresxlviiiFig. 8.69Eastern Europe/Eurasia: development of CO2 emissions  by sector and cumulative CO2 emissions (after 2015)  in the scenarios (‘Savings’ = reduction compared  with the 5.0 °C Scenario)",
-          "verified": false,
+          "text": "Fig. 8.69 Eastern Europe/Eurasia: development of CO 2 emissions by sector and cumulative CO 2",
+          "verified": true,
           "linkedPage": 316
         },
         {

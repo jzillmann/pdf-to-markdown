@@ -1,8 +1,8 @@
 {
   "pages": 175,
   "items": 15299,
-  "groupedItems": 10758,
-  "changes": 3174,
+  "groupedItems": 10775,
+  "changes": 3185,
   "schema": [
     {
       "name": "line",
@@ -202,21 +202,20 @@
 {"page":18,"change":"Addition","str":"nity of users. 3  Commoning is guided by a set of ","line":40,"x":332.17480000000006,"y":175.28910000000008,"width":"239.89","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
 {"page":18,"change":"Addition","str":"community. Special regard is given to equita -","line":43,"x":332.1723,"y":133.29810000000003,"width":"237.10","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
 {"page":19,"change":"Addition","str":"4 Made With Creative Commons","line":0,"x":42.5197,"y":21.3071,"width":"13.88","height":"7.00","fontName":["CJYOPP+AkzidenzGroteskBE-Bold"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"The Commons, the Market, and  the State","line":1,"x":42.5197,"y":707.3071,"width":"283.61","height":"14.00","fontName":["QXDVEN+OpenSans-Extrabold"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"manage resources and share wealth: the com -","line":3,"x":42.5197,"y":679.3041,"width":"237.10","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"two being the dominant forms today. 4","line":6,"x":42.5197,"y":637.2950999999998,"width":"194.67","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"case studies are unique in the way they par -","line":8,"x":42.5167,"y":609.3041,"width":"237.94","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"or no reliance on the market or state. 5  Others ","line":13,"x":42.516700000000014,"y":539.2890999999997,"width":"239.99","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"depending on them for financial sustainabili -","line":15,"x":42.515299999999996,"y":511.30109999999996,"width":"237.15","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"Some of our case studies are simply com -","line":22,"x":56.51829999999997,"y":413.28010000000006,"width":"223.09","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"tiny or even absent. Other case studies are pri -","line":26,"x":303.8203,"y":721.2691000000001,"width":"237.15","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"marily market-based with only a small engage -","line":27,"x":303.82030000000003,"y":707.2661,"width":"237.05","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"extent to which an enterprise sees itself as be -","line":31,"x":303.82030000000003,"y":651.2540999999999,"width":"237.04","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"is primarily of the market. Finding ways to gen -","line":36,"x":303.82030000000003,"y":581.2390999999997,"width":"237.10","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"mission  statements)  is  challenging.  To  man -","line":39,"x":303.82030000000003,"y":539.2300999999995,"width":"237.10","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"fostering  the  use  and  adoption  of  the  com -","line":45,"x":303.82030000000003,"y":455.21209999999957,"width":"237.09","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"mons. State programs and funding can delib -","line":46,"x":303.82030000000003,"y":441.2090999999996,"width":"236.99","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
-{"page":19,"change":"Addition","str":"Beyond money, laws and regulations regard -","line":48,"x":303.82030000000003,"y":413.2030999999996,"width":"237.13","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"manage resources and share wealth: the com -","line":4,"x":42.5197,"y":679.3041,"width":"237.10","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"two being the dominant forms today. 4","line":7,"x":42.5197,"y":637.2950999999998,"width":"194.67","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"case studies are unique in the way they par -","line":9,"x":42.5167,"y":609.3041,"width":"237.94","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"or no reliance on the market or state. 5  Others ","line":14,"x":42.516700000000014,"y":539.2890999999997,"width":"239.99","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"depending on them for financial sustainabili -","line":16,"x":42.515299999999996,"y":511.30109999999996,"width":"237.15","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"Some of our case studies are simply com -","line":23,"x":56.51829999999997,"y":413.28010000000006,"width":"223.09","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"tiny or even absent. Other case studies are pri -","line":27,"x":303.8203,"y":721.2691000000001,"width":"237.15","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"marily market-based with only a small engage -","line":28,"x":303.82030000000003,"y":707.2661,"width":"237.05","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"extent to which an enterprise sees itself as be -","line":32,"x":303.82030000000003,"y":651.2540999999999,"width":"237.04","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"is primarily of the market. Finding ways to gen -","line":37,"x":303.82030000000003,"y":581.2390999999997,"width":"237.10","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"mission  statements)  is  challenging.  To  man -","line":40,"x":303.82030000000003,"y":539.2300999999995,"width":"237.10","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"fostering  the  use  and  adoption  of  the  com -","line":46,"x":303.82030000000003,"y":455.21209999999957,"width":"237.09","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"mons. State programs and funding can delib -","line":47,"x":303.82030000000003,"y":441.2090999999996,"width":"236.99","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
+{"page":19,"change":"Addition","str":"Beyond money, laws and regulations regard -","line":49,"x":303.82030000000003,"y":413.2030999999996,"width":"237.13","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
 {"page":20,"change":"Addition","str":"5 Made With Creative Commons","line":0,"x":70.8661,"y":21.3071,"width":"13.88","height":"7.00","fontName":["CJYOPP+AkzidenzGroteskBE-Bold"],"dir":["ltr"]}
 {"page":20,"change":"Addition","str":"market, and state manage resources different -","line":2,"x":70.8631,"y":707.3041,"width":"237.64","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
 {"page":20,"change":"Addition","str":"ly, and not just for those who consider them -","line":3,"x":70.86309999999997,"y":693.3010999999999,"width":"237.09","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
@@ -240,26 +239,38 @@
 {"page":20,"change":"Addition","str":"possibility  of  being  made  into  a  physical  re -","line":71,"x":332.17350000000005,"y":77.14820000000003,"width":"237.04","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
 {"page":20,"change":"Addition","str":"source. The digital file of a book can be print -","line":72,"x":332.17350000000005,"y":63.14520000000003,"width":"237.64","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
 {"page":20,"change":"Addition","str":"P E O P L E","line":73,"x":239.2135,"y":307.7268,"width":"55.21","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"& D I R E C T O R I N D I R E C T","line":74,"x":201.6608,"y":243.3027,"width":"81.51","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"W H O H A S A U T H O R I T Y","line":75,"x":204.7131,"y":246.4378,"width":"74.74","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"W H O C A N A C C E S S","line":76,"x":201.2698,"y":277.2939,"width":"62.39","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"O R","line":77,"x":264.5528,"y":263.3891,"width":"9.84","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"U S E","line":78,"x":269.6151,"y":242.8031,"width":"15.11","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"P R O C E S S E S","line":79,"x":222.7892,"y":269.0204,"width":"87.21","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"N O R M S","line":80,"x":86.1696,"y":175.176,"width":"49.97","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"& R U L E S G O A L S","line":81,"x":114.7661,"y":125.3545,"width":"103.45","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"C H A R A C T E R I S T I C S","line":82,"x":94.8267,"y":238.7385,"width":"134.57","height":"15.80","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"P H Y S I C A L O R D I G I T A L","line":83,"x":130.4101,"y":238.7433,"width":"77.03","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"S C A R C E","line":84,"x":122.5975,"y":240.4331,"width":"29.67","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"O R A B U N D A N T","line":85,"x":135.4299,"y":275.7811,"width":"52.05","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"N A T U R A L","line":86,"x":114.8026,"y":244.1104,"width":"36.67","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"O R P R O D U C E D","line":87,"x":132.9873,"y":285.2491,"width":"49.38","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"I N F O R M A L ( N O R M S )","line":88,"x":123.3628,"y":165.3116,"width":"73.30","height":"7.96","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"F O R M A L","line":89,"x":118.0969,"y":185.6904,"width":"29.68","height":"7.96","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"( L A W S ) U S E O U T C O M E","line":90,"x":138.6287,"y":160.8224,"width":"80.34","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"A D D I T I V E O R E X T R A C T I V E","line":91,"x":197.8354,"y":156.7244,"width":"89.10","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"U S E O U T C O M E","line":92,"x":203.1906,"y":149.1672,"width":"49.20","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
-{"page":20,"change":"Addition","str":"M E A S U R E S","line":93,"x":262.573,"y":181.667,"width":"39.69","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"& D I R E C T O R","line":74,"x":201.6608,"y":280.7843,"width":"46.15","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"I N D I R E C T","line":75,"x":243.8043,"y":243.3027,"width":"35.35","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"W H O H A S","line":76,"x":204.7131,"y":291.1568,"width":"31.90","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"A U T H O R I T Y","line":77,"x":244.543,"y":246.4378,"width":"42.84","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"W H O C A N","line":78,"x":201.2698,"y":302.8815,"width":"32.72","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"A C C E S S","line":79,"x":242.311,"y":277.2939,"width":"29.67","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"O R","line":80,"x":264.5528,"y":263.3891,"width":"9.84","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"U S E","line":81,"x":269.6151,"y":242.8031,"width":"15.11","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"P R O C E S S E S","line":82,"x":222.7892,"y":269.0204,"width":"87.21","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"O R M S","line":84,"x":87.9505,"y":175.176,"width":"38.98","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"R U L E S","line":86,"x":132.1376,"y":125.3545,"width":"47.13","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"G O A L S","line":87,"x":250.9985,"y":137.554,"width":"47.02","height":"15.77","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"C H A R A C T E R I S T I C S","line":88,"x":94.8267,"y":238.7385,"width":"134.57","height":"15.80","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"P H Y S I C A L","line":89,"x":130.4101,"y":238.7433,"width":"37.27","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"O R D I G I T A L","line":90,"x":147.8521,"y":278.3089,"width":"39.77","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"S C A R C E","line":91,"x":122.5975,"y":240.4331,"width":"29.67","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"O R","line":92,"x":135.4299,"y":275.7811,"width":"9.84","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"A B U N D A N T","line":93,"x":146.6838,"y":287.5302,"width":"42.20","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"A T U R A L","line":95,"x":115.692,"y":250.3666,"width":"30.85","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"O R","line":96,"x":132.9873,"y":285.2491,"width":"9.84","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"P R O D U C E D","line":97,"x":145.1009,"y":296.1764,"width":"39.54","height":"7.93","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"I N","line":98,"x":123.3628,"y":222.5481,"width":"8.19","height":"7.96","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"F O R M A L","line":99,"x":124.8847,"y":189.2918,"width":"29.67","height":"7.96","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"( N O R M S )","line":100,"x":145.7371,"y":165.3116,"width":"35.44","height":"7.96","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"F O R M A L","line":101,"x":118.0969,"y":185.6904,"width":"29.68","height":"7.96","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"( L A W S )","line":102,"x":138.6287,"y":160.8224,"width":"31.15","height":"7.96","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"U S E","line":103,"x":216.6216,"y":167.1721,"width":"14.63","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"O U T C O M","line":104,"x":237.2866,"y":177.8082,"width":"29.91","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"A D D I T I V E O R","line":106,"x":197.8354,"y":156.7244,"width":"43.42","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"E X T R A C T I V E","line":107,"x":252.5324,"y":181.6743,"width":"45.67","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"U S E O U T C O M E","line":108,"x":203.1906,"y":149.1672,"width":"49.20","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
+{"page":20,"change":"Addition","str":"M E A S U R E S","line":109,"x":262.573,"y":181.667,"width":"39.69","height":"7.99","fontName":["DBUVEN+BrysoShedcaps-Regular"],"dir":["ltr"]}
 {"page":21,"change":"Addition","str":"6 Made With Creative Commons","line":0,"x":42.5197,"y":21.3071,"width":"13.88","height":"7.00","fontName":["CJYOPP+AkzidenzGroteskBE-Bold"],"dir":["ltr"]}
 {"page":21,"change":"Addition","str":"be physically manufactured in wood. This con -","line":3,"x":42.5197,"y":693.3010999999999,"width":"237.22","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}
 {"page":21,"change":"Addition","str":"sees  resources  as  private  goods—commod -","line":11,"x":42.5197,"y":581.2770999999996,"width":"237.13","height":"11.00","fontName":["AMIDOT+OpenSans"],"dir":["ltr"]}

@@ -1,8 +1,8 @@
 {
   "pages": 221,
   "items": 51638,
-  "groupedItems": 8465,
-  "changes": 663,
+  "groupedItems": 8774,
+  "changes": 668,
   "schema": [
     {
       "name": "line"
@@ -97,6 +97,7 @@
 {"page":56,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 4.1. Menger’s theorem 57","line":0,"x":100.35,"y":738.022,"width":"167.52","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":57,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"58 Chapter 4. Menger’s theorem, flows, and circulations","line":0,"x":72,"y":738.022,"width":"283.72","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":58,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 4.2. Flows in networks 59","line":0,"x":100.35,"y":738.022,"width":"168.39","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
+{"page":58,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"∑","dir":"ltr","width":"17.27","height":"11.96","transform":["11.96","0.00","0.00","11.96","231.76","711.91"],"fontName":"TICOHQ+CMEX10","x":231.75898999999998,"y":711.913,"line":2}
 {"page":59,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"60 Chapter 4. Menger’s theorem, flows, and circulations","line":0,"x":72,"y":738.022,"width":"283.72","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":60,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 4.3. Finding a maximum flow 61","line":0,"x":100.35,"y":738.022,"width":"204.35","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":61,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"62 Chapter 4. Menger’s theorem, flows, and circulations","line":0,"x":72,"y":738.022,"width":"283.72","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
@@ -124,6 +125,7 @@
 {"page":83,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"84 Chapter 5. Nonbipartite matching","line":0,"x":72,"y":738.022,"width":"187.61","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":84,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 5.3. Weighted matching algorithm 85","line":0,"x":100.35,"y":738.022,"width":"228.25","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":85,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"86 Chapter 5. Nonbipartite matching","line":0,"x":72,"y":738.022,"width":"187.61","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
+{"page":85,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"∑","dir":"ltr","width":"17.27","height":"11.96","transform":["11.96","0.00","0.00","11.96","213.16","711.91"],"fontName":"TICOHQ+CMEX10","x":213.15585,"y":711.913,"line":2}
 {"page":86,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 5.3. Weighted matching algorithm 87","line":0,"x":100.35,"y":738.022,"width":"228.25","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":87,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"88 Chapter 5. Nonbipartite matching","line":0,"x":72,"y":738.022,"width":"187.61","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":88,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 5.3. Weighted matching algorithm 89","line":0,"x":100.35,"y":738.022,"width":"228.25","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
@@ -208,6 +210,7 @@
 {"page":167,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"168 Chapter 9. Multicommodity flows and disjoint paths","line":0,"x":72,"y":738.022,"width":"287.96","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":168,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 9.6. A column generation technique for multicommod ity flows 169","line":0,"x":100.35,"y":738.022,"width":"376.25","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":169,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"170 Chapter 9. Multicommodity flows and disjoint paths","line":0,"x":72,"y":738.022,"width":"287.96","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
+{"page":169,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"∑","dir":"ltr","width":"17.27","height":"11.96","transform":["11.96","0.00","0.00","11.96","196.07","711.91"],"fontName":"TICOHQ+CMEX10","x":196.074,"y":711.913,"line":2}
 {"page":170,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 9.6. A column generation technique for multicommod ity flows 171","line":0,"x":100.35,"y":738.022,"width":"376.25","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":171,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"172 Chapter 9. Multicommodity flows and disjoint paths","line":0,"x":72,"y":738.022,"width":"287.96","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":172,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"173","dir":"ltr","width":"17.55","height":"11.96","transform":["11.96","0.00","0.00","11.96","514.79","738.02"],"fontName":"LERRTL+CMR12","x":514.791,"y":738.022,"line":0}
@@ -236,6 +239,8 @@
 {"page":195,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"196 Chapter 10. Matroids","line":0,"x":72,"y":738.022,"width":"129.14","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":196,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 10.7. Matroids and polyhedra 197","line":0,"x":100.35,"y":738.022,"width":"211.08","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":197,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"198 Chapter 10. Matroids","line":0,"x":72,"y":738.022,"width":"129.14","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
+{"page":197,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"∑","dir":"ltr","width":"17.27","height":"11.96","transform":["11.96","0.00","0.00","11.96","259.60","711.91"],"fontName":"TICOHQ+CMEX10","x":259.59610999999995,"y":711.913,"line":2}
+{"page":197,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"∑","dir":"ltr","width":"17.27","height":"11.96","transform":["11.96","0.00","0.00","11.96","346.52","711.91"],"fontName":"TICOHQ+CMEX10","x":346.517999,"y":711.9130000000001,"line":6}
 {"page":198,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 10.7. Matroids and polyhedra 199","line":0,"x":100.35,"y":738.022,"width":"211.08","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":199,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"200 Chapter 10. Matroids","line":0,"x":72,"y":738.022,"width":"129.14","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":200,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 10.7. Matroids and polyhedra 201","line":0,"x":100.35,"y":738.022,"width":"211.08","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}

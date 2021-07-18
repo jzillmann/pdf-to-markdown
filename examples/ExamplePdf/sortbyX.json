@@ -1,8 +1,8 @@
 {
   "pages": 7,
   "items": 282,
-  "groupedItems": 122,
-  "changes": 131,
+  "groupedItems": 152,
+  "changes": 54,
   "schema": [
     {
       "name": "line"
@@ -52,23 +52,7 @@
 {"page":2,"change":"ContentChange","str":"4 Hier & Jetzt!","line":24,"x":57,"y":105,"width":"63.98","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
 {"page":2,"change":"ContentChange","str":"5 Nicht viel mehr als ein Satz.","line":25,"x":57,"y":82,"width":"139.80","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
 {"page":2,"change":"ContentChange","str":"6 Weil dann wird's komplizierter!","line":26,"x":57,"y":59,"width":"152.09","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":3,"change":"ContentChange","str":"- - - Eine Liste mit unterschiedlich formatierten Wörtern Etwas  Etwas  Etwas  Kursiv Fett Unterstrichen 7","line":14,"x":56.69069,"y":441,"width":"478.83","height":"13.20","fontName":["JBRMKS+Helvetica","SVUOCV+Helvetica-Oblique","OMUGKQ+Helvetica-Bold"],"dir":["ltr"]}
-{"page":3,"change":"ContentChange","str":"- - Etwas  Und noch ein Link: http://pdf2md.morethan.io Durchgestrichen","line":15,"x":56.69069,"y":415,"width":"341.43","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":3,"change":"ContentChange","str":"7 Fussnote in einer Liste","line":27,"x":57,"y":59,"width":"114.75","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":4,"change":"ContentChange","str":"- - Nun eine Liste mit dash’s: Eintrag 1 Eintrag 2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du Zeile. Na ","line":1,"x":56.69069,"y":714,"width":"644.25","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":4,"change":"ContentChange","str":"- Also los! Eintrag 3","line":3,"x":56.69069,"y":675,"width":"90.00","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":4,"change":"ContentChange","str":"- Und Untergruppen: - Eintrag 1 Sub Eintrag 1.1, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du ","line":4,"x":56.69069,"y":623,"width":"596.78","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":4,"change":"ContentChange","str":"- - - Eintrag 2 es ja nicht. Also los! Sub Eintrag 1.2 Sub Eintrag 2.1","line":6,"x":56.69069,"y":558,"width":"305.49","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":4,"change":"ContentChange","str":"- Gemixt: Eintrage 1","line":10,"x":56.69069,"y":467,"width":"92.44","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":4,"change":"ContentChange","str":"Zentrierte Liste: - - Eintrag 1 Eintrag 2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du Zeile. ","line":20,"x":57,"y":285,"width":"577.79","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":4,"change":"ContentChange","str":"- ja nicht. Also los! Eintrag 3","line":22,"x":80.69069,"y":246,"width":"130.36","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":4,"change":"ContentChange","str":"- - Erste 1 Erste 2","line":24,"x":56.69069,"y":181,"width":"78.48","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":4,"change":"ContentChange","str":"- - Zwote 1 Zwote 2","line":25,"x":56.69069,"y":142,"width":"87.01","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","str":"- Liste mit drei Levels: - Erster Level 1 Zwoter Level 1.1, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du ","line":0,"x":56.69069,"y":723,"width":"632.81","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","str":"- - es ja nicht. Also los! 3ter Level 1.1.1 3ter Level 1.1.2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche ","line":2,"x":80.69069,"y":671,"width":"616.34","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","str":"- - - Erster Level 2 - Zwoter Level 1.2 Zwoter Level 1.3 kann es ja nicht. Also los! 3ter Level 1.3.1","line":4,"x":56.69069,"y":593,"width":"447.44","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","str":"1. - - Eintrag 1 Eintrag 1.1 Eintrag 1.2","line":6,"x":56.69069,"y":528,"width":"168.40","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","str":"- - der Parser das sauber trennen kann: Eintrag 1 Eintrag 2","line":9,"x":56.69069,"y":450,"width":"276.02","height":"13.20","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
+{"page":3,"change":"ContentChange","str":"7 Fussnote in einer Liste","line":31,"x":57,"y":59,"width":"114.75","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
 {"page":6,"change":"ContentChange","str":"Phantasie ist wichtiger als  Wissen , denn Wissen 9  ist  begrenzt .  - Albert Einstein 10","line":6,"x":101,"y":623,"width":"392.96","height":"11.00","fontName":["JBRMKS+Helvetica","OMUGKQ+Helvetica-Bold","SVUOCV+Helvetica-Oblique"],"dir":["ltr"]}
 {"page":6,"change":"ContentChange","str":"8 Eine Überschrifts-Fussnote... so was gibts auch!","line":15,"x":57,"y":105,"width":"241.29","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
 {"page":6,"change":"ContentChange","str":"9 Wisse, dass ist eine Fussnote in einem Zitat!","line":16,"x":57,"y":82,"width":"221.73","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
