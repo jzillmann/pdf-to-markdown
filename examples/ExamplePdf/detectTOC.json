@@ -33,16 +33,5 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 30,
-    "mostUsedHeight": 11,
-    "minX": 56.69069,
-    "maxX": 507.3787,
-    "minY": 45,
-    "maxY": 772,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }

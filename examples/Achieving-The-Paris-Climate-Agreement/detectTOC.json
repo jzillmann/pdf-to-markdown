@@ -34,16 +34,6 @@
     }
   ],
   "globals": {
-    "maxHeight": 66,
-    "mostUsedHeight": 8.5,
-    "minX": 41.38153078000005,
-    "maxX": 400.56930541,
-    "minY": 36.71720123,
-    "maxY": 625.23181152,
-    "pageMapping": {
-      "pageFactor": -49,
-      "detectedOnPage": true
-    },
     "toc": {
       "pages": [
         36,

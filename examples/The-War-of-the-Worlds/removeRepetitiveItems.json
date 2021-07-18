@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 24,
-    "mostUsedHeight": 12,
-    "minX": 57.59999999999991,
-    "maxX": 312.78,
-    "minY": 44.76,
-    "maxY": 515.8338448603599,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":1,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"The War of the Worlds ","dir":"ltr","width":"102.96","height":"10.98","transform":["10.98","0.00","0.00","10.98","57.60","493.80"],"x":57.6,"y":493.8,"line":0}
 {"page":1,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"2  of  293 ","line":1,"x":178.68,"y":44.76,"width":"41.60","height":"12.00","fontName":[null],"dir":["ltr"]}

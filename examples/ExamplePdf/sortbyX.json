@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 30,
-    "mostUsedHeight": 11,
-    "minX": 56.69069,
-    "maxX": 507.3787,
-    "minY": 45,
-    "maxY": 772,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":0,"change":"ContentChange","str":"Dies ist eine Test-PDF 1 .","line":2,"x":240,"y":585,"width":"115.75","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}
 {"page":0,"change":"ContentChange","str":"1 In Deutsch.","line":4,"x":57,"y":59,"width":"59.72","height":"11.00","fontName":["JBRMKS+Helvetica"],"dir":["ltr"]}

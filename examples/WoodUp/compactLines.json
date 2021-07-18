@@ -30,18 +30,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 64,
-    "mostUsedHeight": 9,
-    "minX": 46.323,
-    "maxX": 436.5,
-    "minY": 37.73867999999993,
-    "maxY": 610.5599,
-    "pageMapping": {
-      "pageFactor": -6,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":2,"change":"Addition","str":"Das Forschungs projekt WOOD- UP wurde finanziert durch den Europäische n","line":0,"x":65.643,"y":569.609,"width":"276.77","height":"8.00","fontName":["HZMZJK+ArialMT","HZMZJK+ArialMT"],"dir":["ltr"]}
 {"page":2,"change":"Addition","str":"Fonds für regionale Entwicklung — operationelles Progr amm „Investitionen ","line":1,"x":65.43500000000006,"y":558.609,"width":"279.27","height":"8.00","fontName":["HZMZJK+ArialMT"],"dir":["ltr"]}

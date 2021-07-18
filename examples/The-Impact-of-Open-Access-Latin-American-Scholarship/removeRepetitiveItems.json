@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 36,
-    "mostUsedHeight": 11.04,
-    "minX": 74.904,
-    "maxX": 518.5,
-    "minY": 99.864,
-    "maxY": 720.24,
-    "pageMapping": {
-      "pageFactor": 0,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":1,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"The Im pact of Open Access Latin American Scholarship 1","line":0,"x":90.024,"y":99.864,"width":"178.34","height":"8.04","fontName":["ABCDEE+Arial Narrow,Bold"],"dir":["ltr"]}
 {"page":2,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"The Im pact of Open Access Latin American Scholarship 2","line":0,"x":90.024,"y":99.864,"width":"178.34","height":"8.04","fontName":["ABCDEE+Arial Narrow,Bold"],"dir":["ltr"]}

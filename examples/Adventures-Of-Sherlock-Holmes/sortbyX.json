@@ -29,17 +29,6 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 59.7758,
-    "mostUsedHeight": 10.9091,
-    "minX": 117.8279999999999,
-    "maxX": 471.0319307,
-    "minY": 95.28300000000016,
-    "maxY": 736.017,
-    "pageMapping": {
-      "pageFactor": -1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":20,"change":"ContentChange","str":"I RENE N ORTON , n e A  ́ DLER .”","line":19,"x":318.49899999999997,"y":449.4180000000004,"width":"128.91","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}

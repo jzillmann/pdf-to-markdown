@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 18,
-    "mostUsedHeight": 11.04,
-    "minX": 72.024,
-    "maxX": 534.58,
-    "minY": 63.144,
-    "maxY": 745.56,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":0,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"Closed syllable word lists  1","line":0,"x":420.79,"y":745.56,"width":"119.31","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}
 {"page":0,"change":"Removal","score":"1.05: (0.05 + 1.00)","str":"Phonics word lists by Susan Jones licensed under  Creative Commons Attribution 4.0 International ","line":1,"x":106.22,"y":76.584,"width":"436.20","height":"11.04","fontName":["ABCDEE+Calibri"],"dir":["ltr"]}

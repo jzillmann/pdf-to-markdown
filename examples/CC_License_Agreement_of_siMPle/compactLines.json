@@ -30,18 +30,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 16.02,
-    "mostUsedHeight": 13.02,
-    "minX": 25.86,
-    "maxX": 535.44,
-    "minY": 38.1,
-    "maxY": 796.02,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":0,"change":"Addition","str":"Systematic Identification of MicroPLastics in the Environment","line":0,"x":148.16,"y":796.02,"width":"278.17","height":"10.98","fontName":["BCDEEE+Calibri-Bold"],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"Page  1 / 7","line":2,"x":35.34,"y":38.1,"width":"39.46","height":"10.98","fontName":["BCDFEE+Calibri"],"dir":["ltr"]}

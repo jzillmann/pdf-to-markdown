@@ -30,18 +30,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 24.7871,
-    "mostUsedHeight": 9.9626,
-    "minX": 35.99999999999977,
-    "maxX": 1433.711,
-    "minY": 39.59999999999997,
-    "maxY": 726.255,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":2,"change":"Addition","str":"1   2010 13","line":1,"x":63,"y":567.301,"width":"53.96","height":"10.91","fontName":["ZYSMDY+CMBX10"],"dir":["ltr"]}
 {"page":2,"change":"Addition","str":"1.1    March  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13","line":2,"x":79.36399999999998,"y":547.697,"width":"466.49","height":"10.91","fontName":["EFUEQI+CMR10"],"dir":["ltr"]}

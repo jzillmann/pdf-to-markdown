@@ -30,18 +30,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 36,
-    "mostUsedHeight": 12,
-    "minX": 6.487999999999971,
-    "maxX": 815.833,
-    "minY": 16.345999999999947,
-    "maxY": 563.346,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":1,"change":"Addition","str":"Cover photo: Brian Robert Marshall under Creative Commons Licence.","line":0,"x":34.015,"y":551.26,"width":"288.66","height":"10.00","fontName":["Gill Sans MT"],"dir":["ltr"]}
 {"page":2,"change":"Addition","str":"Introduction     5","line":0,"x":452.032,"y":384.497,"width":"81.35","height":"12.00","fontName":["Gill Sans MT"],"dir":["ltr"]}

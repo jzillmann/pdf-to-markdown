@@ -30,18 +30,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 36,
-    "mostUsedHeight": 11.04,
-    "minX": 74.904,
-    "maxX": 518.5,
-    "minY": 99.864,
-    "maxY": 720.24,
-    "pageMapping": {
-      "pageFactor": 0,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":0,"change":"Addition","str":"Grant 1711 - 05155","line":1,"x":78.024,"y":224.69,"width":"123.58","height":"15.96","fontName":["ABCDEE+Georgia,Italic"],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"December 19 , 2019","line":2,"x":78.024,"y":203.57,"width":"127.25","height":"15.96","fontName":["ABCDEE+Georgia,Italic"],"dir":["ltr"]}

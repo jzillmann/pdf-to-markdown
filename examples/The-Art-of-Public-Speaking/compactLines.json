@@ -30,18 +30,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 28.799999999999997,
-    "mostUsedHeight": 14.399999999999999,
-    "minX": 72,
-    "maxX": 537.4124748000004,
-    "minY": 75.60000000000002,
-    "maxY": 712.8,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": false
-    }
-  }
+  "globals": {}
 }
 {"page":1,"change":"Addition","str":"T h e P r o j e c t G u t e n b e r g E B o o k o f T h e A r t o f P u b l i c S p e a k i n g","line":0,"x":72,"y":702.72,"width":"248.83","height":"8.64","fontName":["AAAAAA+LiberationMono"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"b y D a l e C a r n a g e y ( A K A D a l e C a r n e g i e ) a n d J . B e r g E s e n w e i n","line":1,"x":72,"y":692.64,"width":"248.83","height":"8.64","fontName":["AAAAAA+LiberationMono"],"dir":["ltr"]}

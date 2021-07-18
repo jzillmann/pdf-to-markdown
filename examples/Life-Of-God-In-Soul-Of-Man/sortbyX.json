@@ -29,17 +29,6 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 45.974399999999996,
-    "mostUsedHeight": 7.7826039,
-    "minX": 26.29161,
-    "maxX": 273.69135,
-    "minY": 15.08535,
-    "maxY": 432.30303,
-    "pageMapping": {
-      "pageFactor": -17,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":6,"change":"ContentChange","str":"T OooulO^I ^ 4le.^A\\-^","line":0,"x":55.16928,"y":403.28168999999997,"width":"113.07","height":"23.47","fontName":[null],"dir":["ltr"]}

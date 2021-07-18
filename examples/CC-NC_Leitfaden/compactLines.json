@@ -30,18 +30,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 24,
-    "mostUsedHeight": 9,
-    "minX": 34.01229999999998,
-    "maxX": 380.3863,
-    "minY": 26.9291,
-    "maxY": 531.0280999999997,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":1,"change":"Addition","str":"Nur diese beiden Lizenztypen sind als freie Lizenzen im Sinne der Definition von  freedomdefined.org  anerkannt und stellen ","line":2,"x":45.3543,"y":311.0667,"width":"330.94","height":"6.00","fontName":["QMZZIE+AvenirLTStd-Book","QMZZIE+AvenirLTStd-Medium"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"als  auch  kommerzielle  Nutzungen.   bearbeitungen  ","line":15,"x":216.3307,"y":362.9311,"width":"162.62","height":"7.00","fontName":["QMZZIE+AvenirLTStd-Book"],"dir":["ltr"]}

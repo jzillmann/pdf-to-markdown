@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 22.5,
-    "mostUsedHeight": 11.4,
-    "minX": 13.799999999999926,
-    "maxX": 550.2000000000003,
-    "minY": 1.4400099999998357,
-    "maxY": 751.50001,
-    "pageMapping": {
-      "pageFactor": 1243,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":0,"change":"ContentChange","str":"can based the of The meeting California, Association on author a of presidential is the Santa for professor Pacific the Barbara. address Advancement Division of biology, presented This of the of University article Science Ameri- before is","line":46,"x":14.099999999999966,"y":49.37999999999992,"width":"660.30","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
 {"page":2,"change":"ContentChange","str":"changeable suited to governing world. a Our complex, epicyclic crowded, solu-","line":175,"x":373.80000000000007,"y":140.51999999999984,"width":"287.82","height":"12.90","fontName":["Courier"],"dir":["ltr"]}

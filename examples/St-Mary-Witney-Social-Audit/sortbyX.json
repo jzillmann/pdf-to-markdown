@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 36,
-    "mostUsedHeight": 12,
-    "minX": 6.487999999999971,
-    "maxX": 815.833,
-    "minY": 16.345999999999947,
-    "maxY": 563.346,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":5,"change":"ContentChange","str":"West Oxon 009 West Oxon 010","line":50,"x":595.737,"y":412.752,"width":"85.60","height":"7.00","fontName":["Gill Sans MT Italic"],"dir":["ltr"]}
 {"page":12,"change":"ContentChange","str":"Witney South Witney North","line":31,"x":114.15400000000001,"y":388.356,"width":"85.79","height":"6.96","fontName":["Arial Bold"],"dir":["ltr"]}

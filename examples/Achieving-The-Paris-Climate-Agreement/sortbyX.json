@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 66,
-    "mostUsedHeight": 8.5,
-    "minX": 41.38153078000005,
-    "maxX": 400.56930541,
-    "minY": 36.71720123,
-    "maxY": 625.23181152,
-    "pageMapping": {
-      "pageFactor": -49,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":7,"change":"ContentChange","str":"Chairman of the Leonardo DiCaprio Foundation Leonardo DiCaprio","line":13,"x":53.85829162,"y":441.15979003,"width":"271.48","height":"10.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"]}
 {"page":14,"change":"ContentChange","str":"emissions 2 ","line":18,"x":172.3336029,"y":176.41270445999993,"width":"51.12","height":"9.26","fontName":["ZXJECP+WxxcwrPbwmqvLsfyjjHelveticaBold"],"dir":["ltr"]}

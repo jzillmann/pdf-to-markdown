@@ -17,6 +17,7 @@ import EvaluationIndex from 'src/debug/EvaluationIndex';
 import { Change } from 'src/debug/ChangeIndex';
 import DetectToc, { TOC_GLOBAL } from 'src/transformer/DetectToc';
 import Globals from 'src/Globals';
+pdfjs.GlobalWorkerOptions.workerSrc = `pdfjs-dist/es5/build/pdf.worker.min.js`;
 
 const parser = new PdfParser(pdfjs);
 const pipeline = new PdfPipeline(parser, transformers);
@@ -41,6 +42,7 @@ describe.each(files)('Test %p', (file) => {
   const data = fs.readFileSync(`${folder}/${file}`);
 
   let debug: Debugger;
+  let printedGlobals = new Set<string>();
   beforeAll(async () => (debug = await pipeline.debug(data, () => {})));
 
   test.each(transformers.map((t) => t.name).filter((name) => name !== 'Does nothing'))(
@@ -68,11 +70,13 @@ describe.each(files)('Test %p', (file) => {
       });
 
       // Global characteristics
-      chunkedLines[0].unshift(toHeader(stageResult));
-
+      chunkedLines[0].unshift(toHeader(stageResult, printedGlobals));
       chunkedLines.forEach((lines, idx) => {
         const transformerResultAsString = lines.join('\n') || '{}';
         expect(transformerResultAsString).toMatchFile(matchFilePath(file, transformerName, chunkedLines.length, idx));
+      });
+      stageResult.globals.keys().forEach((globalKey) => {
+        printedGlobals.add(globalKey);
       });
     },
   );
@@ -90,13 +94,14 @@ describe('Selective transforms on URL PDFs', () => {
   test.each(urls)('URL %p', async (url) => {
     const { fileName, data } = download(url);
     const debug = await pipeline.debug(data, () => {});
+    let printedGlobals = new Set<string>();
 
     transformerNames.forEach((transformerName) => {
       const stageResult = debug.stageResult(debug.stageNames.indexOf(transformerName));
       const pages = stageResult.selectPages(true, true);
 
       const lines: string[] = [];
-      lines.push(toHeader(stageResult));
+      lines.push(toHeader(stageResult, printedGlobals));
 
       pages.forEach((page) =>
         page.itemGroups.forEach((itemGroup) => {
@@ -110,11 +115,15 @@ describe('Selective transforms on URL PDFs', () => {
 
       const transformerResultAsString = lines.join('\n') || '{}';
       expect(transformerResultAsString).toMatchFile(matchFilePath(fileName, transformerName));
+
+      stageResult.globals.keys().forEach((globalKey) => {
+        printedGlobals.add(globalKey);
+      });
     });
   });
 });
 
-function toHeader(stageResult: StageResult): string {
+function toHeader(stageResult: StageResult, alreadyPrintedGlobals: Set<string>): string {
   let groupedItemCount = stageResult
     .selectPages(false, true)
     .reduce((itemCount, page) => itemCount + page.itemGroups.length, 0);
@@ -126,7 +135,7 @@ function toHeader(stageResult: StageResult): string {
       groupedItems: groupedItemCount,
       changes: stageResult.changes.changeCount(),
       schema: stageResult.schema,
-      globals: globalsToString(stageResult.globals),
+      globals: globalsToString(stageResult.globals, alreadyPrintedGlobals),
       // messages: stageResults.messages,
     },
     null,
@@ -134,21 +143,23 @@ function toHeader(stageResult: StageResult): string {
   );
 }
 
-function globalsToString(globals: Globals): object {
-  return Array.from(globals.map).reduce((obj, [key, value]) => {
-    if (key === TOC_GLOBAL.key) {
-      value = {
-        ...value,
-        entries: value.entries.map((entry: TocEntry) => {
-          const filteredEntry = { ...entry } as any;
-          delete filteredEntry.items;
-          return filteredEntry;
-        }),
-      };
-    }
-    obj[key] = value;
-    return obj;
-  }, {});
+function globalsToString(globals: Globals, alreadyPrintedGlobals: Set<string>): object {
+  return Array.from(globals.map)
+    .filter(([key, value]) => !alreadyPrintedGlobals.has(key))
+    .reduce((obj, [key, value]) => {
+      if (key === TOC_GLOBAL.key) {
+        value = {
+          ...value,
+          entries: value.entries.map((entry: TocEntry) => {
+            const filteredEntry = { ...entry } as any;
+            delete filteredEntry.items;
+            return filteredEntry;
+          }),
+        };
+      }
+      obj[key] = value;
+      return obj;
+    }, {});
 }
 
 function itemToString(

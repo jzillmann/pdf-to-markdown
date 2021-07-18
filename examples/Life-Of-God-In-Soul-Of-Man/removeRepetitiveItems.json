@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 45.974399999999996,
-    "mostUsedHeight": 7.7826039,
-    "minX": 26.29161,
-    "maxX": 273.69135,
-    "minY": 15.08535,
-    "maxY": 432.30303,
-    "pageMapping": {
-      "pageFactor": -17,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":6,"change":"Removal","score":"0.92: (0.76 + 0.16)","str":"TlIK","dir":"ltr","width":"16.81","height":"7.00","transform":["7.00","0.00","0.00","7.00","132.32","393.80"],"x":132.32007,"y":393.79947,"line":1}
 {"page":9,"change":"Removal","score":"1.01: (0.57 + 0.44)","str":"iv Preface.","line":0,"x":52.15221,"y":395.66718,"width":"46.40","height":"8.05","fontName":[null],"dir":["ltr"]}

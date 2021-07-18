@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 36,
-    "mostUsedHeight": 11.04,
-    "minX": 53.88,
-    "maxX": 797.38,
-    "minY": 23.04,
-    "maxY": 528.34,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":1,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"Quality Improvement Clinic Ltd.  P a g e |  2 August 2015","line":0,"x":99.264,"y":30.84,"width":"261.24","height":"11.04","fontName":[null],"dir":["ltr"]}
 {"page":2,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"Quality Improvement Clinic Ltd.  P a g e |  3 August 2015","line":0,"x":99.264,"y":30.84,"width":"261.24","height":"11.04","fontName":[null],"dir":["ltr"]}

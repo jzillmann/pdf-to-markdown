@@ -30,18 +30,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 59.7758,
-    "mostUsedHeight": 10.9091,
-    "minX": 117.8279999999999,
-    "maxX": 471.0319307,
-    "minY": 95.28300000000016,
-    "maxY": 736.017,
-    "pageMapping": {
-      "pageFactor": -1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":1,"change":"Addition","str":"S IR A RTHUR I GNATIUS","line":0,"x":196.324,"y":702.187,"width":"186.21","height":"20.66","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"C ONAN D OYLE","line":1,"x":214.04500000000002,"y":678.946,"width":"156.34","height":"24.79","fontName":["INBNCB+NimbusRomNo9L-Medi"],"dir":["ltr"]}

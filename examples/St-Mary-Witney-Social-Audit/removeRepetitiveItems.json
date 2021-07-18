@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 36,
-    "mostUsedHeight": 12,
-    "minX": 6.487999999999971,
-    "maxX": 815.833,
-    "minY": 16.345999999999947,
-    "maxY": 563.346,
-    "pageMapping": {
-      "pageFactor": 1,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":2,"change":"Removal","score":"1.00: (1.00 + 0.00)","str":"3","dir":"ltr","width":"6.02","height":"12.00","transform":["12.00","0.00","0.00","12.00","812.96","16.35"],"fontName":"Gill Sans MT","x":812.962,"y":16.346,"line":16}
 {"page":4,"change":"Removal","score":"1.00: (1.00 + 0.00)","str":"5","dir":"ltr","width":"6.02","height":"12.00","transform":["12.00","0.00","0.00","12.00","811.49","16.35"],"fontName":"Gill Sans MT","x":811.492,"y":16.346,"line":42}

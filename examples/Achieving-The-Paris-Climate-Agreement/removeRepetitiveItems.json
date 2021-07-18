@@ -29,18 +29,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 66,
-    "mostUsedHeight": 8.5,
-    "minX": 41.38153078000005,
-    "maxX": 400.56930541,
-    "minY": 36.71720123,
-    "maxY": 625.23181152,
-    "pageMapping": {
-      "pageFactor": -49,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":54,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"https://doi.org/10.1007/978-3-030-05843-2_1","dir":"ltr","width":"155.21","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","36.72"],"fontName":"MOGBYU+NlttbmRrqjxqWvxgqcTimesLTStd-Roman","x":53.85879801999998,"y":36.71720123,"line":2}
 {"page":58,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"https://doi.org/10.1007/978-3-030-05843-2_2","dir":"ltr","width":"155.21","height":"8.50","transform":["8.50","0.00","0.00","8.50","53.86","36.72"],"fontName":"VZMDTX+QjfkjqRrbhprHjqhbmTimesLTStd-Roman","x":53.85879801999998,"y":36.71720123,"line":2}

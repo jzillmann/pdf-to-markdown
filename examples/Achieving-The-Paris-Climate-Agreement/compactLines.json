@@ -30,18 +30,7 @@
       "name": "dir"
     }
   ],
-  "globals": {
-    "maxHeight": 66,
-    "mostUsedHeight": 8.5,
-    "minX": 41.38153078000005,
-    "maxX": 400.56930541,
-    "minY": 36.71720123,
-    "maxY": 625.23181152,
-    "pageMapping": {
-      "pageFactor": -49,
-      "detectedOnPage": true
-    }
-  }
+  "globals": {}
 }
 {"page":0,"change":"Addition","str":"Sven Teske    Editor","line":3,"x":43.72393799000008,"y":450.26321411,"width":"151.82","height":"28.00","fontName":["RMSSHF+SwjtkcMqqdthDkwlwrMyriadPro-Cond","RMSSHF+BsmttdLmcghkPtgllqMyriadPro-CondIt"],"dir":["ltr"]}
 {"page":3,"change":"Addition","str":"ISBN    978-3-030-05842-5 ISBN    978-3-030-05843-2 (eBook)","line":0,"x":53.85829925,"y":295.15200805,"width":"215.97","height":"9.00","fontName":["TGOZWB+JkylrpTwghlkTlcrnvTimesLTStd-Roman"],"dir":["ltr"]}
