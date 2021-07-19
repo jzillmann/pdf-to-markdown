@@ -1,11 +1,11 @@
 import Item from './Item';
+import ItemType from './ItemType';
 
 /**
  * Table of contents usually parsed by  `DetectToc.ts`.
  */
 export default class TOC {
-  //TODO optional title
-  constructor(public pages: number[], public entries: TocEntry[]) {}
+  constructor(public tocHeadlineItems: Item[], public pages: number[], public detectedHeadlineLevels: Set<ItemType>) {}
 
   startPage(): number {
     return Math.min(...this.pages);
@@ -14,12 +14,4 @@ export default class TOC {
   endPage(): number {
     return Math.max(...this.pages);
   }
-}
-
-export interface TocEntry {
-  level: number;
-  text: string;
-  verified: boolean;
-  linkedPage: number;
-  items: Item[];
 }

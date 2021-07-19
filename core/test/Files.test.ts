@@ -148,13 +148,13 @@ function globalsToString(globals: Globals, alreadyPrintedGlobals: Set<string>): 
     .filter(([key, value]) => !alreadyPrintedGlobals.has(key))
     .reduce((obj, [key, value]) => {
       if (key === TOC_GLOBAL.key) {
+        const toc = value as TOC;
         value = {
-          ...value,
-          entries: value.entries.map((entry: TocEntry) => {
-            const filteredEntry = { ...entry } as any;
-            delete filteredEntry.items;
-            return filteredEntry;
-          }),
+          ...toc,
+          tocHeadlineItems: toc.tocHeadlineItems.map((item) => ({
+            page: item.page,
+            text: getText(item),
+          })),
         };
       }
       obj[key] = value;

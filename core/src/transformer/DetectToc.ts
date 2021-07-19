@@ -6,12 +6,11 @@ import Item from '../Item';
 import ItemResult from '../ItemResult';
 import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
-import { groupByLine, groupByPage, onlyUniques, transformGroupedByPage } from '../support/groupingUtils';
+import { descending, groupByLine, groupByPage, onlyUniques } from '../support/groupingUtils';
 import { MOST_USED_HEIGHT, PAGE_MAPPING } from './CacluclateStatistics';
 import {
   extractEndingNumber,
   filterOut,
-  filterOutWhitespaces,
   DASHS_CHAR_CODES,
   TAB_CHAR_CODE,
   WHITESPACE_CHAR_CODE,
@@ -19,7 +18,7 @@ import {
 } from '../support/stringFunctions';
 import ItemType from '../ItemType';
 import { numbersAreConsecutive } from '../support/numberFunctions';
-import TOC, { TocEntry } from '../TOC';
+import TOC from '../TOC';
 import FontType from '../FontType';
 import { flatten, groupBy } from '../support/functional';
 import { getHeight, getText, getFontName, itemWithType, joinText } from '../support/items';
@@ -29,6 +28,7 @@ const config = {
   linkMinLength: 4,
 
   // How much bigger (height) then a 'normal' text a headline must be
+  // TODO sync with DetectHeadline ??
   minHeadlineDistance: 1.5,
 };
 
@@ -70,45 +70,67 @@ export default class DetectToc extends ItemTransformer {
       return { items: inputItems, messages: ['No Table of Contents found!'] };
     }
 
-    const rawTocEntries = selectRawTocEntries(tocArea, inputItems);
-    const tocItemUuids: Set<string> = new Set(
+    const itemsInTocArea = inputItems.filter((item) => tocArea.pages.includes(item.page));
+    const rawTocEntries = selectRawTocEntries(tocArea, itemsInTocArea);
+    const headlineLevels = findTocEntryHeadlineLevels(rawTocEntries);
+    const tocItemUuids = new Set<string>(
       flatten(flatten(rawTocEntries.map((e) => e.entryLines))).map((item) => item.uuid),
     );
-    const tocEntries: TocEntry[] = rawTocEntries.map((rawEntry) => {
-      const headline = findHeadline(
-        context.fontMap,
-        inputItems,
-        mostUsedHeight,
-        rawEntry.linkedPage,
-        rawEntry.linkedPage - pageMapping.pageFactor,
-        rawEntry.entryLines,
-      );
-      return {
-        level: 0,
-        text:
-          headline ||
-          flatten(rawEntry.entryLines)
-            .map((item) => getText(item))
-            .join('')
-            .replace(/[\s.]+\w+$/, ''),
-        verified: !!headline,
-        linkedPage: rawEntry.linkedPage,
-        items: flatten(rawEntry.entryLines),
-      };
-    });
 
-    return {
-      items: inputItems.map((item) => {
-        if (tocArea.pages.includes(item.page) && tocItemUuids.has(item.uuid)) {
-          return itemWithType(item, ItemType.TOC);
+    const tocHeadline = findTocHeadline(context.fontMap, mostUsedHeight, tocArea, itemsInTocArea, tocItemUuids);
+    const isDefined = <T>(items: T | undefined): items is T => {
+      return !!items;
+    };
+
+    const foundHeadlines = rawTocEntries
+      .map((rawEntry, index) => {
+        const itemType = headlineLevels[index];
+        const uuids = findHeadline(
+          context.fontMap,
+          inputItems,
+          mostUsedHeight,
+          rawEntry.linkedPage,
+          rawEntry.linkedPage - pageMapping.pageFactor,
+          rawEntry.entryLines,
+        );
+        if (uuids) {
+          return {
+            level: itemType,
+            uuids,
+          } as Headline;
         }
-        return item;
-      }),
+        return undefined;
+      })
+      .filter(isDefined);
+
+    const headlineUuidToLevelMap = foundHeadlines.reduce((uidToLevel, headline) => {
+      headline.uuids.forEach((uuid) => {
+        uidToLevel.set(uuid, headline.level);
+      });
+      return uidToLevel;
+    }, new Map<string, ItemType>());
+
+    const headlineTypes = foundHeadlines.reduce((allLevels, headline) => {
+      allLevels.add(headline.level);
+      return allLevels;
+    }, new Set<ItemType>());
+    const tocHeadlineUuids = new Set(tocHeadline.map((item) => item.uuid));
+    return {
+      items: inputItems
+        .filter((item) => !tocHeadlineUuids.has(item.uuid))
+        .filter((item) => !tocArea.pages.includes(item.page) || !tocItemUuids.has(item.uuid))
+        .map((item) => {
+          const itemType = headlineUuidToLevelMap.get(item.uuid);
+          if (itemType) {
+            return itemWithType(item, itemType);
+          }
+          return item;
+        }),
       messages: [
-        `Detected ${tocEntries.length} TOC entries`,
-        `Verified ${tocEntries.filter((entry) => entry.verified).length} / ${tocEntries.length}`,
+        `Detected and removed ${rawTocEntries.length} TOC entries`,
+        `Found ${foundHeadlines.length} matching headlines`,
       ],
-      globals: [TOC_GLOBAL.value(new TOC(tocArea.pages, tocEntries))],
+      globals: [TOC_GLOBAL.value(new TOC(tocHeadline, tocArea.pages, headlineTypes))],
     };
   }
 }
@@ -184,13 +206,12 @@ function findEndingNumber(lineItems: Item[]): number | undefined {
   return extractEndingNumber(text);
 }
 
-function selectRawTocEntries(tocArea: TocArea, inputItems: Item[]): RawTocEntry[] {
+function selectRawTocEntries(tocArea: TocArea, itemsInTocArea: Item[]): RawTocEntry[] {
   const numbersByStartUuid = tocArea.linesWithNumbers.reduce((map: Map<string, number>, l) => {
     map.set(l.startItemUuid, l.number);
     return map;
   }, new Map());
 
-  const itemsInTocArea = inputItems.filter((item) => tocArea.pages.includes(item.page));
   const itemsInTocAreaByLine = groupByLine(itemsInTocArea);
 
   const maxHeightOfNumberedLines = Math.max(
@@ -262,6 +283,51 @@ function selectRawTocEntries(tocArea: TocArea, inputItems: Item[]): RawTocEntry[
   return rawTocEntries;
 }
 
+function findTocHeadline(
+  fontMap: Map<string, object>,
+  mostUsedHeight: number,
+  tocArea: TocArea,
+  itemsInTocArea: Item[],
+  tocItemUuids: Set<string>,
+): Item[] {
+  const firstPageNonTocItems = itemsInTocArea
+    .filter((item) => item.page == tocArea.pages[0])
+    .filter((item) => !tocItemUuids.has(item.uuid));
+  const itemsGroupedByLine = groupByLine(firstPageNonTocItems).filter((lineItems) =>
+    hasHeadlineSymptoms(fontMap, mostUsedHeight, lineItems),
+  );
+  if (itemsGroupedByLine.length == 0) {
+    return [];
+  }
+  return itemsGroupedByLine[itemsGroupedByLine.length - 1];
+}
+
+function findTocEntryHeadlineLevels(rawTocEntries: RawTocEntry[]): ItemType[] {
+  // We focus on heights since it seems the most consistent metric to determining levels so far.
+  //Other options would be looking at X-coordinates (per page), or at leading numbering (e.g. /^(\d)+.(\d)+.(\d)+/).
+  const height = (entry: RawTocEntry) => Math.round(getHeight(entry.entryLines[0][0]));
+  const allHeights = rawTocEntries.map(height).filter(onlyUniques).sort(descending);
+
+  // we start with H2 (H1 is reserved for the document title)
+  if (allHeights.length > 3) {
+    return rawTocEntries.map(() => ItemType.H2);
+  }
+
+  return rawTocEntries.map((entry) => {
+    const index = allHeights.indexOf(height(entry));
+    return ItemType.header(index + 2);
+  });
+}
+
+/**
+ * @param fontMap
+ * @param items
+ * @param mostUsedHeight
+ * @param targetPage
+ * @param targetPageIndex
+ * @param entryLines
+ * @returns set of uuids
+ */
 function findHeadline(
   fontMap: Map<string, object>,
   items: Item[],
@@ -269,15 +335,17 @@ function findHeadline(
   targetPage: number,
   targetPageIndex: number,
   entryLines: Item[][],
-): string | undefined {
+): Set<string> | undefined {
   const tocEntryText = normalizeHeadlineChars(entryLines)
     .replace(new RegExp(targetPage + '$', 'g'), '')
     .replace(new RegExp('\\.\\.*$', 'g'), '');
   const pageItems = items.filter((item) => item.page == targetPageIndex);
-
   const canditate = fineMatchingHeadlineCanditate(tocEntryText, pageItems, fontMap, mostUsedHeight);
   if (canditate.length > 0) {
-    return joinText(flatten(canditate), ' ').replace(/\s+/g, ' ').trim();
+    return canditate.reduce((itemUuids, lineItems) => {
+      lineItems.forEach((item) => itemUuids.add(item.uuid));
+      return itemUuids;
+    }, new Set<string>());
   }
   return undefined;
 }
@@ -297,9 +365,7 @@ function fineMatchingHeadlineCanditate(
     const lineItems = itemsByLine[lineIdx];
     const lineText = normalizeHeadlineChars([lineItems]);
     const lineInLink = tocEntryText.includes(lineText);
-    const headlineSymptoms =
-      getHeight(lineItems[0]) >= mostUsedHeight + config.minHeadlineDistance ||
-      FontType.declaredFontTypes(getFontName(fontMap, lineItems[0])).includes(FontType.BOLD);
+    const headlineSymptoms = hasHeadlineSymptoms(fontMap, mostUsedHeight, lineItems);
     if (lineInLink && headlineSymptoms) {
       const newText = currentText + lineText;
       const newScore = compareTwoStrings(newText, tocEntryText);
@@ -338,6 +404,13 @@ function fineMatchingHeadlineCanditate(
   return headlineCanditates.sort((a, b) => a.score - b.score)[0].lines;
 }
 
+function hasHeadlineSymptoms(fontMap: Map<string, object>, mostUsedHeight: number, lineItems: Item[]): boolean {
+  return (
+    getHeight(lineItems[0]) >= mostUsedHeight + config.minHeadlineDistance ||
+    FontType.declaredFontTypes(getFontName(fontMap, lineItems[0])).includes(FontType.BOLD)
+  );
+}
+
 function normalizeHeadlineChars(lines: Item[][]) {
   const text = flatten(lines)
     .map((item) => getText(item))
@@ -364,6 +437,11 @@ interface TocArea {
 interface RawTocEntry {
   linkedPage: number;
   entryLines: Item[][];
+}
+
+interface Headline {
+  level: ItemType;
+  uuids: Set<string>;
 }
 
 /**

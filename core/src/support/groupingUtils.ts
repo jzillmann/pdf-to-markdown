@@ -12,6 +12,10 @@ export function ascending<T>(a: number, b: number): number {
   return a - b;
 }
 
+export function descending<T>(a: number, b: number): number {
+  return b - a;
+}
+
 export function count<T, S>(array: T[], find: (entry: T) => boolean): number {
   return array.reduce((count, entry) => (find(entry) ? count + 1 : count), 0);
 }
