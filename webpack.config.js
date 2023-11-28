@@ -9,6 +9,7 @@ var BUILD_DIR = path.resolve(__dirname, 'build');
 var NODEMODULES_DIR = path.resolve(__dirname, 'node_modules');
 
 module.exports = {
+    mode: 'development', 
     context: SOURCE_DIR,
     resolve: {
         modules: [

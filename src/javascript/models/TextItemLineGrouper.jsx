@@ -1,4 +1,3 @@
-import TextItem from './TextItem.jsx';
 import { sortByX } from '../pageItemFunctions.jsx'
 
 //Groups all text items which are on the same y line
@@ -9,12 +8,12 @@ export default class TextItemLineGrouper {
     }
 
     // returns a CombineResult 
-    group(textItems: TextItem[]) {
+    group(textItems) {
         return this.groupItemsByLine(textItems);
     }
 
 
-    groupItemsByLine(textItems:TextItem[]) {
+    groupItemsByLine(textItems) {
         const lines = [];
         var currentLine = [];
         textItems.forEach(item => {

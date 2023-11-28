@@ -11,7 +11,7 @@ export default class VerticalToHorizontal extends ToLineItemTransformation {
         super("Vertical to Horizontal Text");
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         var foundVerticals = 0;
         parseResult.pages.forEach(page => {
             const stream = new VerticalsStream();

@@ -15,7 +15,7 @@ export default class DetectTOC extends ToLineItemTransformation {
         super("Detect TOC");
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         const tocPages = [];
         const maxPagesToEvaluate = Math.min(20, parseResult.pages.length);
         const linkLeveler = new LinkLeveler();
@@ -289,7 +289,7 @@ class LinkLeveler {
         this.uniqueFonts = [];
     }
 
-    levelPageItems(tocLinks:TocLink[]) {
+    levelPageItems(tocLinks) {
         if (!this.levelByMethod) {
             const uniqueX = this.calculateUniqueX(tocLinks);
             if (uniqueX.length > 1) {

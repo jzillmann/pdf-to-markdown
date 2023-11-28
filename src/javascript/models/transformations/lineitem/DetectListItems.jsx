@@ -13,7 +13,7 @@ export default class DetectListItems extends ToLineItemTransformation {
         super("Detect List Items");
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         var foundListItems = 0;
         var foundNumberedItems = 0;
         parseResult.pages.forEach(page => {

@@ -17,7 +17,7 @@ export default class LineConverter {
     }
 
     // returns a CombineResult 
-    compact(textItems: TextItem[]) {
+    compact(textItems) {
         // we can't trust order of occurence, esp. footnoteLinks like to come last
         sortByX(textItems);
 

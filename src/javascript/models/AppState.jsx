@@ -38,7 +38,7 @@ export default class AppState {
     }
 
     // the uploaded pdf as file buffer
-    storeFileBuffer(fileBuffer:Uint8Array) {
+    storeFileBuffer(fileBuffer) {
         this.fileBuffer = fileBuffer;
         this.mainView = View.LOADING;
         this.render()

@@ -11,7 +11,7 @@ export default class DetectCodeQuoteBlocks extends ToLineItemBlockTransformation
         super("Detect Code/Quote Blocks");
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         const {mostUsedHeight} = parseResult.globals;
         var foundCodeItems = 0;
         parseResult.pages.forEach(page => {

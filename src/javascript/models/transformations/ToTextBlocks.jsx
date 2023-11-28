@@ -14,7 +14,7 @@ export default class ToTextBlocks extends Transformation {
         return <TextPageView key={ page.index } page={ page } />;
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         parseResult.pages.forEach(page => {
             const textItems = [];
             page.items.forEach(block => {

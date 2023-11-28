@@ -13,7 +13,7 @@ export default class ToMarkdown extends Transformation {
         return <MarkdownPageView key={ page.index } page={ page } />;
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         parseResult.pages.forEach(page => {
             var text = '';
             page.items.forEach(block => {

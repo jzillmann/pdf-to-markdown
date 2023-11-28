@@ -11,7 +11,7 @@ export default class GatherBlocks extends ToLineItemBlockTransformation {
         super("Gather Blocks");
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         const {mostUsedDistance} = parseResult.globals;
         var createdBlocks = 0;
         var lineItemCount = 0;

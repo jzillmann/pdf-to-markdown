@@ -16,7 +16,7 @@ export default class CompactLines extends ToLineItemTransformation {
         super("Compact To Lines");
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         const {mostUsedDistance, fontToFormats} = parseResult.globals;
         const foundFootnotes = [];
         const foundFootnoteLinks = [];
