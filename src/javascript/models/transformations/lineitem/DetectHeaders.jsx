@@ -69,7 +69,7 @@ export default class DetectHeaders extends ToLineItemTransformation {
             heights.forEach((height, i) => {
                 const headlineLevel = i + 2;
                 if (headlineLevel <= 6) {
-                    const headlineType = headlineByLevel(2 + i);
+                    const headlineType = headlineByLevel(headlineLevel);
                     parseResult.pages.forEach(page => {
                         page.items.forEach(item => {
                             if (!item.type && item.height == height && !isListItem(item.text())) {

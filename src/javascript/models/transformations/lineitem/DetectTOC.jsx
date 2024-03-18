@@ -244,8 +244,12 @@ function findHeadlineItems(page, headline) {
 }
 
 function addHeadlineItems(page, tocLink, foundItems, headlineTypeToHeightRange) {
+    const headlineLevel=tocLink.level + 2;
+    if(headlineLevel>6){
+        return ;
+    }
     foundItems.headlineItems.forEach(item => item.annotation = REMOVED_ANNOTATION);
-    const headlineType = headlineByLevel(tocLink.level + 2);
+    const headlineType = headlineByLevel(headlineLevel);
     const headlineHeight = foundItems.headlineItems.reduce((max, item) => Math.max(max, item.height), 0);
     page.items.splice(foundItems.lineIndex + 1, 0, new LineItem({
         ...foundItems.headlineItems[0],
