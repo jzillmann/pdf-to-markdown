@@ -9,7 +9,7 @@ export default class CalculateGlobalStats extends ToTextItemTransformation {
         this.fontMap = fontMap;
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         // Parse heights
         const heightToOccurrence = {};
         const fontToOccurrence = {};

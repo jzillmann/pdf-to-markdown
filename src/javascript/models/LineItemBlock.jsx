@@ -12,7 +12,7 @@ export default class LineItemBlock extends PageItem {
         }
     }
 
-    addItem(item:LineItem) {
+    addItem(item) {
         if (this.type && item.type && this.type !== item.type) {
             throw `Adding item of type ${item.type} to block of type ${this.type}`
         }

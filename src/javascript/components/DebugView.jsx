@@ -172,7 +172,7 @@ export default class DebugView extends React.Component {
                               </Checkbox> }
                           </ButtonGroup>
                           <ButtonGroup>
-                            <Checkbox onClick={ ::this.showStatistics }>
+                            <Checkbox onClick={() => this.showStatistics()}>
                               Show Statistics
                             </Checkbox>
                           </ButtonGroup>

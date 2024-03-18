@@ -28,7 +28,7 @@ export default class ToTextItemTransformation extends Transformation {
                                  showWhitespaces={ this.showWhitespaces } />;
     }
 
-    completeTransform(parseResult:ParseResult) {
+    completeTransform(parseResult) {
         // The usual cleanup
         parseResult.messages = [];
         parseResult.pages.forEach(page => {

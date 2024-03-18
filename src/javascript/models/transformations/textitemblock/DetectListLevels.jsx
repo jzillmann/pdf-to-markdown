@@ -12,7 +12,7 @@ export default class DetectListLevels extends ToLineItemBlockTransformation {
         this.showWhitespaces = true;
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         var listBlocks = 0;
         var modifiedBlocks = 0;
         parseResult.pages.forEach(page => {

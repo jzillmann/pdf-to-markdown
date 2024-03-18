@@ -12,7 +12,7 @@ export default class DetectHeaders extends ToLineItemTransformation {
         super("Detect Headers");
     }
 
-    transform(parseResult:ParseResult) {
+    transform(parseResult) {
         const {tocPages, headlineTypeToHeightRange, mostUsedHeight, mostUsedDistance, mostUsedFont, maxHeight} = parseResult.globals;
         const hasToc = tocPages.length > 0;
         var detectedHeaders = 0;
