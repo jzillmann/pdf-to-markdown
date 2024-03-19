@@ -17,6 +17,9 @@ import EvaluationIndex from 'src/debug/EvaluationIndex';
 import { Change } from 'src/debug/ChangeIndex';
 import DetectToc, { TOC_GLOBAL } from 'src/transformer/DetectToc';
 import Globals from 'src/Globals';
+import TOC from 'src/TOC';
+import { getText } from 'src/support/items';
+
 pdfjs.GlobalWorkerOptions.workerSrc = `pdfjs-dist/es5/build/pdf.worker.min.js`;
 
 const parser = new PdfParser(pdfjs);
@@ -148,7 +151,7 @@ function globalsToString(globals: Globals, alreadyPrintedGlobals: Set<string>): 
     .filter(([key, value]) => !alreadyPrintedGlobals.has(key))
     .reduce((obj, [key, value]) => {
       if (key === TOC_GLOBAL.key) {
-        const toc = value as TOC;
+        const toc: TOC = value;
         value = {
           ...toc,
           tocHeadlineItems: toc.tocHeadlineItems.map((item) => ({
@@ -172,7 +175,7 @@ function itemToString(
   let newFontName: string | Array<string> | undefined = undefined;
   if (fontName) {
     if (typeof fontName === 'string') {
-      newFontName = fontMap.get(fontName)?.['name'] as string;
+      newFontName = fontMap.get(fontName)?.['name'];
     } else {
       newFontName = fontName.map((name) => fontMap.get(name)?.['name']);
     }
@@ -234,7 +237,9 @@ function downloadToFile(url: string, dest: string): Promise<void> {
           .pipe(file);
       } else if (res.statusCode === 302 || res.statusCode === 301) {
         // Recursively follow redirects, only a 200 will resolve.
-        downloadToFile(res.headers.location as string, dest).then(() => resolve());
+        if (res.headers.location) {
+          downloadToFile(res.headers.location, dest).then(() => resolve());
+        }
       } else {
         reject(new Error(`Download request failed, response status: ${res.statusCode} ${res.statusMessage}`));
       }
