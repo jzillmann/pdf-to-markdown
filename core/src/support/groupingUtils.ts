@@ -8,15 +8,15 @@ export function onlyUniques<T>(value: T, index: number, self: T[]) {
   return self.indexOf(value) === index;
 }
 
-export function ascending<T>(a: number, b: number): number {
+export function ascending(a: number, b: number): number {
   return a - b;
 }
 
-export function descending<T>(a: number, b: number): number {
+export function descending(a: number, b: number): number {
   return b - a;
 }
 
-export function count<T, S>(array: T[], find: (entry: T) => boolean): number {
+export function count<T>(array: T[], find: (entry: T) => boolean): number {
   return array.reduce((count, entry) => (find(entry) ? count + 1 : count), 0);
 }
 
@@ -27,18 +27,18 @@ export function median(values: number[]) {
     return a - b;
   });
 
-  var half = Math.floor(values.length / 2);
+  const half = Math.floor(values.length / 2);
 
   if (values.length % 2) return values[half];
 
   return (values[half - 1] + values[half]) / 2.0;
 }
 
-type KeyExtractor = (item: Item) => any;
+type KeyExtractor<O> = (item: Item) => O;
 type PageItemTransformer = (page: number, items: Item[]) => Item[];
 type LineItemTransformer = (page: number, line: number, items: Item[]) => Item[];
 
-function groupBy(items: Item[], extractKey: KeyExtractor): Item[][] {
+function groupBy<O>(items: Item[], extractKey: KeyExtractor<O>): Item[][] {
   return items.reduce((pageItems: Item[][], item: Item) => {
     const lastPageItems = pageItems[pageItems.length - 1];
     if (!lastPageItems || extractKey(item) !== extractKey(lastPageItems[0])) {
@@ -69,7 +69,7 @@ export function transformGroupedByPage(items: Item[], groupedTransformer: PageIt
 }
 
 export function transformGroupedByPageAndLine(items: Item[], groupedTransformer: LineItemTransformer): Item[] {
-  let transformedItems: Item[] = [];
+  const transformedItems: Item[] = [];
   groupByPage(items).forEach((pageItems) => {
     groupByElement(pageItems, 'line').forEach((lineItems) => {
       transformedItems.push(...groupedTransformer(pageItems[0].page, lineItems[0].data['line'], lineItems));

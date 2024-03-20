@@ -113,26 +113,24 @@ const boldAndObliqueTypeFragments = [
   't2bxti',
 ];
 
-namespace FontType {
-  export function declaredFontTypes(fontName: string): FontType[] {
-    const fontNameLowerCase = fontName.toLowerCase();
-    const boldAndOblique = boldAndObliqueTypeFragments.find((fragment) => fontNameLowerCase.includes(fragment));
-    let bold: boolean;
-    let oblique: boolean;
-    if (boldAndOblique) {
-      bold = true;
-      oblique = true;
-    } else {
-      bold = !!boldTypeFragments.find((fragment) => fontNameLowerCase.includes(fragment));
-      oblique = !!obliqueTypeFragments.find((fragment) => fontNameLowerCase.includes(fragment));
-    }
-    const fontTypes: FontType[] = [];
-    if (bold) {
-      fontTypes.push(FontType.BOLD);
-    }
-    if (oblique) {
-      fontTypes.push(FontType.OBLIQUE);
-    }
-    return fontTypes;
+export function declaredFontTypes(fontName: string): FontType[] {
+  const fontNameLowerCase = fontName.toLowerCase();
+  const boldAndOblique = boldAndObliqueTypeFragments.find((fragment) => fontNameLowerCase.includes(fragment));
+  let bold: boolean;
+  let oblique: boolean;
+  if (boldAndOblique) {
+    bold = true;
+    oblique = true;
+  } else {
+    bold = !!boldTypeFragments.find((fragment) => fontNameLowerCase.includes(fragment));
+    oblique = !!obliqueTypeFragments.find((fragment) => fontNameLowerCase.includes(fragment));
   }
+  const fontTypes: FontType[] = [];
+  if (bold) {
+    fontTypes.push(FontType.BOLD);
+  }
+  if (oblique) {
+    fontTypes.push(FontType.OBLIQUE);
+  }
+  return fontTypes;
 }

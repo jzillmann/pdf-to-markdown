@@ -8,7 +8,7 @@ import ChangeIndex, {
   Direction,
 } from './ChangeIndex';
 import Item from '../Item';
-import { assertNot, assertDefined } from '../assert';
+import { assertNot } from '../assert';
 
 const ADDITION = new Addition();
 const REMOVAL = new Removal();

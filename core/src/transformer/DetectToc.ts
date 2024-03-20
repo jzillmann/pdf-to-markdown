@@ -19,9 +19,9 @@ import {
 import ItemType from '../ItemType';
 import { numbersAreConsecutive } from '../support/numberFunctions';
 import TOC from '../TOC';
-import FontType from '../FontType';
+import FontType, { declaredFontTypes } from '../FontType';
 import { flatten, groupBy } from '../support/functional';
-import { getHeight, getText, getFontName, itemWithType, joinText } from '../support/items';
+import { getHeight, getText, getFontName, itemWithType } from '../support/items';
 
 const config = {
   // How many characters a line with a ending number needs to have minimally to be a valid link
@@ -407,7 +407,7 @@ function fineMatchingHeadlineCanditate(
 function hasHeadlineSymptoms(fontMap: Map<string, object>, mostUsedHeight: number, lineItems: Item[]): boolean {
   return (
     getHeight(lineItems[0]) >= mostUsedHeight + config.minHeadlineDistance ||
-    FontType.declaredFontTypes(getFontName(fontMap, lineItems[0])).includes(FontType.BOLD)
+    declaredFontTypes(getFontName(fontMap, lineItems[0])).includes(FontType.BOLD)
   );
 }
 

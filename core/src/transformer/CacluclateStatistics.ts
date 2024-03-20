@@ -173,9 +173,9 @@ function parsePageMapping(
   return typeof pageFactor === 'undefined' ? new PageMapping() : new PageMapping(pageFactor, true);
 }
 
-function getMostUsedKey(keyToOccurrence): any {
-  var maxOccurence = 0;
-  var maxKey: string | undefined;
+function getMostUsedKey(keyToOccurrence: Record<string, number>): string {
+  let maxOccurence = 0;
+  let maxKey: string = '';
   Object.keys(keyToOccurrence).map((element) => {
     if (!maxKey || keyToOccurrence[element] > maxOccurence) {
       maxOccurence = keyToOccurrence[element];

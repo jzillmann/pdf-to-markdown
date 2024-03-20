@@ -2,8 +2,8 @@ export function flatMap<T, S>(array: T[], func: (element: T, idx: number) => S[]
   return array.reduce((result, entry, idx) => result.concat(func(entry, idx)), [] as S[]);
 }
 
-export function groupBy<T>(array: T[], groupKey: (element: T) => any): T[][] {
-  const groupMap = array.reduce((map: Map<object, T[]>, element: T) => {
+export function groupBy<T, S>(array: T[], groupKey: (element: T) => S): T[][] {
+  const groupMap = array.reduce((map: Map<S, T[]>, element: T) => {
     const key = groupKey(element);
     const elementsInGroup = map.get(key);
     if (elementsInGroup) {
@@ -13,19 +13,20 @@ export function groupBy<T>(array: T[], groupKey: (element: T) => any): T[][] {
     }
     return map;
   }, new Map());
-  return Array.from(groupMap, ([key, value]) => value);
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  return Array.from(groupMap, ([_, value]) => value);
 }
 
 export function flatten<T>(array: T[][]): T[] {
   return flatMap(array, (e) => e);
 }
 
-export function arraysEqual(a: any[], b: any): boolean {
+export function arraysEqual<T>(a: T[], b: T[]): boolean {
   if (a === b) return true;
   if (a == null || b == null) return false;
   if (a.length !== b.length) return false;
 
-  for (var i = 0; i < a.length; ++i) {
+  for (let i = 0; i < a.length; ++i) {
     if (a[i] !== b[i]) return false;
   }
   return true;

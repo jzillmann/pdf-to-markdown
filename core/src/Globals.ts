@@ -3,7 +3,7 @@ import { assertDefined, assertNot } from './assert';
 import GlobalValue from './GlobalValue';
 
 export default class Globals {
-  map: Map<string, any>;
+  map: Map<string, unknown>;
   constructor(globals?: Globals) {
     this.map = globals ? new Map(globals.map) : new Map();
   }
@@ -38,7 +38,7 @@ export default class Globals {
     this.map.set(definition.key, value);
   }
 
-  withValues(values: GlobalValue<any>[] | undefined): Globals {
+  withValues(values: GlobalValue<unknown>[] | undefined): Globals {
     values?.forEach((value) => {
       if (value.override) {
         this.override(value.definition, value.value);

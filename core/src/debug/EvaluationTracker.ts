@@ -1,9 +1,8 @@
-import { assertDefined } from '../assert';
 import Item from '../Item';
 import EvaluationIndex from './EvaluationIndex';
 
 export default class EvaluationTracker implements EvaluationIndex {
-  private evaluations: Map<string, any> = new Map();
+  private evaluations: Map<string, unknown> = new Map();
   private scored = false;
 
   evaluationCount() {
@@ -22,7 +21,7 @@ export default class EvaluationTracker implements EvaluationIndex {
     return this.evaluations.get(item.uuid);
   }
 
-  trackEvaluation(item: Item, score: any = undefined) {
+  trackEvaluation(item: Item, score: unknown = undefined) {
     if (typeof score !== 'undefined') {
       this.scored = true;
     }

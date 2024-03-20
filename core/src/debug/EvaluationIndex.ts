@@ -23,7 +23,7 @@ export default interface EvaluationIndex {
    * @returns the score of the item in the context of the evaluation if there is any.
    * Think of it as an explanation for classification of an item.
    */
-  evaluationScore(item: Item): any;
+  evaluationScore(item: Item): unknown;
 
   /**
    * @returns true if the index tracked evaluation scores.
