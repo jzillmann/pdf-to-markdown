@@ -3,7 +3,7 @@ import ItemTransformer from './transformer/ItemTransformer';
 import TransformContext from './transformer/TransformContext';
 import StageResult, { initialStage } from './debug/StageResult';
 import ColumnAnnotation from './debug/ColumnAnnotation';
-import AnnotatedColumn from './debug/AnnotatedColumn';
+import type AnnotatedColumn from './debug/AnnotatedColumn';
 import { detectChanges } from './debug/detectChanges';
 import { asPages } from './debug/Page';
 import EvaluationTracker from './debug/EvaluationTracker';

@@ -1,4 +1,4 @@
-import Config from './Config';
+import TransformConfig from './Config';
 import type ProgressListenFunction from './ProgressListenFunction';
 import ParseProgressReporter from './ParseProgressReporter';
 import PdfParser from './PdfParser';
@@ -12,7 +12,9 @@ import CompactLines from './transformer/CompactLines';
 import SortXWithinLines from './transformer/SortXWithinLines';
 import RemoveRepetitiveItems from './transformer/RemoveRepetitiveItems';
 import DetectToc from './transformer/DetectToc';
+import DetectHeaders from './transformer/DetectHeaders';
 import NoOpTransformer from './transformer/NoOpTransformer';
+import {type ParseConfig } from './parse';
 
 export const transformers = [
   new AdjustHeight(),
@@ -23,27 +25,20 @@ export const transformers = [
   new SortXWithinLines(),
   new RemoveRepetitiveItems(),
   new DetectToc(),
+  new DetectHeaders(),
   new NoOpTransformer(),
 ];
 
-const defaultConfig: Config = {
-  pdfjsParams: {
-    // TODO check if that cmap thing makes sense since we don't bundle them
-    cMapUrl: 'cmaps/',
-    cMapPacked: true,
-  },
-  transformers,
-};
-
-export function pdfParser(pdfJs: any) {
-  return new PdfParser(pdfJs, defaultConfig.pdfjsParams);
+export interface Options {
+  parseConfig?: ParseConfig;
+  transformConfig?: TransformConfig;
 }
 
 export function parseReporter(progressListener: ProgressListenFunction) {
   return new ParseProgressReporter(progressListener);
 }
 
-export function createPipeline(pdfJs: any, config = defaultConfig): PdfPipeline {
-  const parser = new PdfParser(pdfJs, config.pdfjsParams);
-  return new PdfPipeline(parser, config.transformers || transformers);
+export function createPipeline(pdfJs: any, options: Options = {}): PdfPipeline {
+  const parser = new PdfParser(pdfJs);
+  return new PdfPipeline(parser, options.transformConfig?.transformers || transformers);
 }
