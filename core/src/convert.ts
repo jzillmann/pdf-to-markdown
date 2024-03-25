@@ -84,7 +84,7 @@ async function parseAndVerifyTransformers(
  * @param inputSchema
  * @param transformers
  */
-function verifyRequiredColumns(inputSchema: string[], transformers: ItemTransformer[]) {
+export function verifyRequiredColumns(inputSchema: string[], transformers: ItemTransformer[]) {
   const schemas: string[][] = [inputSchema];
   for (let idx = 0; idx < transformers.length; idx++) {
     const transformer = transformers[idx];
@@ -102,7 +102,7 @@ function verifyRequiredColumns(inputSchema: string[], transformers: ItemTransfor
   }
 }
 
-function transform(parseResult: ParseResult, transformers: ItemTransformer[]) {
+export function transform(parseResult: ParseResult, transformers: ItemTransformer[]) {
   let items = parseResult.items;
   let globals = new Globals();
   const context = new TransformContext(parseResult.fontMap, parseResult.pageViewports, globals);

@@ -10,13 +10,14 @@ import PdfParser from 'src/PdfParser';
 import PdfPipeline from 'src/PdfPipeline';
 import { transformers } from 'src/index';
 import Debugger from 'src/Debugger';
+import Globals from 'src/Globals';
 import Item from 'src/Item';
-import RemoveRepetitiveItems from 'src/transformer/RemoveRepetitiveItems';
+import { Change } from 'src/debug/ChangeIndex';
 import StageResult from 'src/debug/StageResult';
 import EvaluationIndex from 'src/debug/EvaluationIndex';
-import { Change } from 'src/debug/ChangeIndex';
+import RemoveRepetitiveItems from 'src/transformer/RemoveRepetitiveItems';
 import DetectToc, { TOC_GLOBAL } from 'src/transformer/DetectToc';
-import Globals from 'src/Globals';
+import DetectHeaders from 'src/transformer/DetectHeaders';
 import TOC from 'src/TOC';
 import { getText } from 'src/support/items';
 
@@ -36,9 +37,10 @@ const downloadCache = 'node_modules/.cache/files';
 expect.extend({ toMatchFile });
 
 // Test is for debugging purpose
-test.skip('Debug', async () => {
-  const data = fs.readFileSync(`${folder}/Adventures-Of-Sherlock-Holmes.pdf`);
-  await pipeline.execute(data, () => {});
+test('Debug', async () => {
+  // const data = fs.readFileSync(`${folder}/Adventures-Of-Sherlock-Holmes.pdf`);
+  const data = fs.readFileSync(`${folder}/ExamplePdf.pdf`);
+  await pipeline.parse(data, () => {});
 });
 
 describe.each(files)('Test %p', (file) => {
@@ -46,7 +48,7 @@ describe.each(files)('Test %p', (file) => {
 
   let debug: Debugger;
   const printedGlobals = new Set<string>();
-  beforeAll(async () => (debug = await pipeline.debug(data, () => {})));
+  beforeAll(async () => (debug = await pipeline.parse(data, () => {}).then((pc) => pc.debug())));
 
   test.each(transformers.map((t) => t.name).filter((name) => name !== 'Does nothing'))(
     'stage %p',
@@ -93,10 +95,10 @@ function matchFilePath(pdfFileName: string, transformerName: string, chunkCount 
 }
 
 describe('Selective transforms on URL PDFs', () => {
-  const transformerNames = [new RemoveRepetitiveItems().name, new DetectToc().name];
+  const transformerNames = [new RemoveRepetitiveItems().name, new DetectToc().name, new DetectHeaders().name];
   test.each(urls)('URL %p', async (url) => {
     const { fileName, data } = download(url);
-    const debug = await pipeline.debug(data, () => {});
+    const debug = await pipeline.parse(data, () => {}).then((pc) => pc.debug());
     const printedGlobals = new Set<string>();
 
     transformerNames.forEach((transformerName) => {
