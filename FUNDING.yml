@@ -5,5 +5,5 @@ custom:
     #   - allows monthly subscriptions (requires a PayPal account)
     # However, the URL is rather lengthy and GitHub shows it in full in the
     # Sponsor modal popup.
-  - https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9HJHAH5UDL3GL
+  - https://www.paypal.com/donate/?hosted_button_id=UJYR6K4KD87AQ
   
