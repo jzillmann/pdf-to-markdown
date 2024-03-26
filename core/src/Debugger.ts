@@ -11,6 +11,7 @@ import ChangeTracker from './debug/ChangeTracker';
 import PageViewport from './parse/PageViewport';
 import Globals from './Globals';
 
+// TODO only cache the parse ?
 export default class Debugger {
   private transformers: ItemTransformer[];
   private stageResultCache: StageResult[];

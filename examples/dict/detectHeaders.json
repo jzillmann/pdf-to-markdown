@@ -1,0 +1,98 @@
+{
+  "pages": 218,
+  "items": 51104,
+  "groupedItems": 8481,
+  "changes": 65,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "types"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    }
+  ],
+  "globals": {}
+}
+{"page":0,"change":"ContentChange","types":["H1"],"str":"A Course in Combinatorial Optimization","dir":"ltr","width":"407.49","height":"24.79","transform":["24.79","0.00","0.00","24.79","112.60","584.96"],"fontName":"HVHZFT+CMR17","x":112.599,"y":584.959,"line":0}
+{"page":0,"change":"ContentChange","types":["H2"],"str":"Alexander Schrijver","dir":"ltr","width":"162.77","height":"20.66","transform":["20.66","0.00","0.00","20.66","234.96","508.10"],"fontName":"HVHZFT+CMR17","x":234.96300000000002,"y":508.09919999999994,"line":1}
+{"page":4,"change":"ContentChange","types":["H3","H3"],"str":"1.1. Shortest paths with nonnegative lengths","dir":"ltr","width":"380.91","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","652.49"],"fontName":"KXBFBK+CMBX12","x":100.34989999999999,"y":652.4861000000001,"line":2}
+{"page":8,"change":"ContentChange","types":["H3","H3"],"str":"1.2. Speeding up Dijkstra’s algorithm with heaps","dir":"ltr","width":"417.68","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","364.17"],"fontName":"KXBFBK+CMBX12","x":100.35000000000002,"y":364.17109999999997,"line":46}
+{"page":11,"change":"ContentChange","types":["H3","H3"],"str":"1.3. Shortest paths with arbitrary lengths","dir":"ltr","width":"356.03","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","239.99"],"fontName":"KXBFBK+CMBX12","x":72,"y":239.989,"line":21}
+{"page":18,"change":"ContentChange","types":["H3","H3"],"str":"1.4. Minimum spanning trees","dir":"ltr","width":"249.95","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","603.18"],"fontName":"KXBFBK+CMBX12","x":100.35016000000005,"y":603.1841000000001,"line":5}
+{"page":22,"change":"ContentChange","types":["H3","H3"],"str":"2.1. Convex sets","dir":"ltr","width":"139.47","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","623.73"],"fontName":"KXBFBK+CMBX12","x":100.35008999999998,"y":623.731,"line":3}
+{"page":24,"change":"ContentChange","types":["H3","H3"],"str":"2.2. Polytopes and polyhedra","dir":"ltr","width":"249.83","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","525.49"],"fontName":"KXBFBK+CMBX12","x":100.34895,"y":525.4873000000001,"line":10}
+{"page":29,"change":"ContentChange","types":["H3","H3"],"str":"2.3. Farkas’ lemma","dir":"ltr","width":"160.56","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","141.56"],"fontName":"KXBFBK+CMBX12","x":71.99573099999998,"y":141.5561900000001,"line":34}
+{"page":32,"change":"ContentChange","types":["H3","H3"],"str":"2.4. Linear programming","dir":"ltr","width":"212.60","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","345.51"],"fontName":"KXBFBK+CMBX12","x":100.34994999999975,"y":345.5141019999998,"line":19}
+{"page":38,"change":"ContentChange","types":["H3","H3"],"str":"3.1. Matchings, covers, and Gallai’s theorem","dir":"ltr","width":"378.59","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","624.43"],"fontName":"KXBFBK+CMBX12","x":100.34989999999999,"y":624.4333,"line":3}
+{"page":39,"change":"ContentChange","types":["H3"],"str":"3.2. M -augmenting paths","line":21,"x":71.99984999999992,"y":296.53569999999996,"width":"203.88","height":"17.22","fontName":["KXBFBK+CMBX12","MGJTOM+CMMI12"],"dir":["ltr"]}
+{"page":40,"change":"ContentChange","types":["H3","H3"],"str":"3.3. K ̋onig’s theorems","dir":"ltr","width":"186.22","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","359.57"],"fontName":"KXBFBK+CMBX12","x":100.35,"y":359.572,"line":17}
+{"page":44,"change":"ContentChange","types":["H3","H3"],"str":"3.4. Cardinality bipartite matching algorithm","dir":"ltr","width":"386.84","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","701.16"],"fontName":"KXBFBK+CMBX12","x":100.34999999999997,"y":701.1583,"line":1}
+{"page":46,"change":"ContentChange","types":["H3","H3"],"str":"3.5. Weighted bipartite matching","dir":"ltr","width":"282.53","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","555.66"],"fontName":"KXBFBK+CMBX12","x":100.35012999999998,"y":555.6638439999999,"line":7}
+{"page":49,"change":"ContentChange","types":["H3","H3"],"str":"3.6. The matching polytope","dir":"ltr","width":"236.40","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","200.95"],"fontName":"KXBFBK+CMBX12","x":71.99974000000006,"y":200.94670000000002,"line":29}
+{"page":53,"change":"ContentChange","types":["H3","H3"],"str":"4.1. Menger’s theorem","dir":"ltr","width":"192.31","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","625.31"],"fontName":"KXBFBK+CMBX12","x":72.00000000000003,"y":625.306,"line":3}
+{"page":57,"change":"ContentChange","types":["H3","H3"],"str":"4.2. Flows in networks","dir":"ltr","width":"191.61","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","480.35"],"fontName":"KXBFBK+CMBX12","x":71.99936999999969,"y":480.3521700000001,"line":14}
+{"page":59,"change":"ContentChange","types":["H3","H3"],"str":"4.3. Finding a maximum flow","dir":"ltr","width":"249.97","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","337.49"],"fontName":"KXBFBK+CMBX12","x":71.99978999999976,"y":337.4861000000001,"line":18}
+{"page":64,"change":"ContentChange","types":["H3","H3"],"str":"4.4. Speeding up the maximum flow algorithm","dir":"ltr","width":"395.42","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","209.07"],"fontName":"KXBFBK+CMBX12","x":100.34913,"y":209.06558999999993,"line":40}
+{"page":67,"change":"ContentChange","types":["H3","H3"],"str":"4.5. Circulations","dir":"ltr","width":"141.18","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","288.45"],"fontName":"KXBFBK+CMBX12","x":72.00049000000018,"y":288.45379999999994,"line":20}
+{"page":69,"change":"ContentChange","types":["H3","H3"],"str":"4.6. Minimum-cost flows","dir":"ltr","width":"209.03","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","185.94"],"fontName":"KXBFBK+CMBX12","x":72.00026899999983,"y":185.93532000000005,"line":36}
+{"page":77,"change":"ContentChange","types":["H3","H3"],"str":"5.1. Tutte’s 1-factor theorem and the Tutte-Berge","dir":"ltr","width":"432.02","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","641.75"],"fontName":"KXBFBK+CMBX12","x":72,"y":641.7494,"line":2}
+{"page":77,"change":"ContentChange","types":["H3","H3"],"str":"formula","dir":"ltr","width":"64.67","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","619.83"],"fontName":"KXBFBK+CMBX12","x":72,"y":619.8342,"line":3}
+{"page":80,"change":"ContentChange","types":["H3","H3"],"str":"5.2. Cardinality matching algorithm","dir":"ltr","width":"306.87","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","627.85"],"fontName":"KXBFBK+CMBX12","x":100.3506199999999,"y":627.8532,"line":4}
+{"page":84,"change":"ContentChange","types":["H3","H3"],"str":"5.3. Weighted matching algorithm","dir":"ltr","width":"290.92","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","594.61"],"fontName":"KXBFBK+CMBX12","x":100.35,"y":594.607,"line":2}
+{"page":90,"change":"ContentChange","types":["H3","H3"],"str":"5.4. The matching polytope","dir":"ltr","width":"236.40","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","217.70"],"fontName":"KXBFBK+CMBX12","x":100.351061,"y":217.69570000000016,"line":41}
+{"page":93,"change":"ContentChange","types":["H3","H3"],"str":"5.5. The Cunningham-Marsh formula","dir":"ltr","width":"318.34","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","196.24"],"fontName":"KXBFBK+CMBX12","x":71.99741000000014,"y":196.24021000000002,"line":33}
+{"page":96,"change":"ContentChange","types":["H3","H3"],"str":"6.1. Introduction","dir":"ltr","width":"145.32","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","626.23"],"fontName":"KXBFBK+CMBX12","x":100.3501,"y":626.2333,"line":3}
+{"page":97,"change":"ContentChange","types":["H3","H3"],"str":"6.2. Words","dir":"ltr","width":"93.13","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","215.08"],"fontName":"KXBFBK+CMBX12","x":72,"y":215.07689999999997,"line":24}
+{"page":99,"change":"ContentChange","types":["H3","H3"],"str":"6.3. Problems","dir":"ltr","width":"118.32","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","701.16"],"fontName":"KXBFBK+CMBX12","x":72,"y":701.1583,"line":1}
+{"page":99,"change":"ContentChange","types":["H3","H3"],"str":"6.4. Algorithms and running time","dir":"ltr","width":"287.67","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","300.83"],"fontName":"KXBFBK+CMBX12","x":72.00158999999996,"y":300.8293000000004,"line":24}
+{"page":100,"change":"ContentChange","types":["H3","H3"],"str":"6.5. The class NP","dir":"ltr","width":"151.77","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","354.09"],"fontName":"KXBFBK+CMBX12","x":100.34892000000013,"y":354.0911000000001,"line":25}
+{"page":101,"change":"ContentChange","types":["H3","H3"],"str":"6.6. The class co-NP","dir":"ltr","width":"176.51","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","210.57"],"fontName":"KXBFBK+CMBX12","x":71.99976999999978,"y":210.56830000000036,"line":30}
+{"page":102,"change":"ContentChange","types":["H3","H3"],"str":"6.7. NP-completeness","dir":"ltr","width":"184.22","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","392.60"],"fontName":"KXBFBK+CMBX12","x":100.35020000000006,"y":392.6020000000001,"line":20}
+{"page":102,"change":"ContentChange","types":["H3","H3"],"str":"6.8. NP-completeness of the satisfiability problem","dir":"ltr","width":"424.13","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","158.85"],"fontName":"KXBFBK+CMBX12","x":100.35130000000021,"y":158.85417000000012,"line":33}
+{"page":105,"change":"ContentChange","types":["H3","H3"],"str":"6.9. NP-completeness of some other problems","dir":"ltr","width":"389.78","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","701.16"],"fontName":"KXBFBK+CMBX12","x":72,"y":701.1583,"line":1}
+{"page":107,"change":"ContentChange","types":["H3","H3"],"str":"6.10. Turing machines","dir":"ltr","width":"188.23","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","481.67"],"fontName":"KXBFBK+CMBX12","x":72,"y":481.666,"line":11}
+{"page":110,"change":"ContentChange","types":["H3","H3"],"str":"7.1. Introduction","dir":"ltr","width":"145.32","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","621.87"],"fontName":"KXBFBK+CMBX12","x":100.35010000000005,"y":621.8681,"line":3}
+{"page":114,"change":"ContentChange","types":["H3","H3"],"str":"7.2. Edge-colourings of bipartite graphs","dir":"ltr","width":"337.32","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","141.56"],"fontName":"KXBFBK+CMBX12","x":100.35259000000008,"y":141.5558,"line":19}
+{"page":120,"change":"ContentChange","types":["H3","H3"],"str":"7.3. Partially ordered sets","dir":"ltr","width":"221.32","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","572.90"],"fontName":"KXBFBK+CMBX12","x":100.34971999999993,"y":572.8990899999999,"line":14}
+{"page":124,"change":"ContentChange","types":["H3","H3"],"str":"7.4. Perfect graphs","dir":"ltr","width":"161.70","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","701.16"],"fontName":"KXBFBK+CMBX12","x":100.34999999999997,"y":701.1583,"line":1}
+{"page":127,"change":"ContentChange","types":["H3","H3"],"str":"7.5. Chordal graphs","dir":"ltr","width":"169.26","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","170.52"],"fontName":"KXBFBK+CMBX12","x":71.99944399999993,"y":170.51789999999988,"line":24}
+{"page":131,"change":"ContentChange","types":["H3","H3"],"str":"8.1. Integer linear programming","dir":"ltr","width":"273.03","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","619.28"],"fontName":"KXBFBK+CMBX12","x":72,"y":619.2763,"line":3}
+{"page":133,"change":"ContentChange","types":["H3","H3"],"str":"8.2. Totally unimodular matrices","dir":"ltr","width":"280.06","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","701.16"],"fontName":"KXBFBK+CMBX12","x":72,"y":701.1583,"line":1}
+{"page":138,"change":"ContentChange","types":["H3","H3"],"str":"8.3.  Totally unimodular matrices from bipartite","dir":"ltr","width":"432.01","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","701.16"],"fontName":"KXBFBK+CMBX12","x":100.35000000000008,"y":701.1583,"line":1}
+{"page":138,"change":"ContentChange","types":["H3","H3"],"str":"graphs","dir":"ltr","width":"56.18","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","679.24"],"fontName":"KXBFBK+CMBX12","x":100.35000000000008,"y":679.2431,"line":2}
+{"page":142,"change":"ContentChange","types":["H3","H3"],"str":"8.4. Totally unimodular matrices from directed graphs","dir":"ltr","width":"452.40","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","270.96"],"fontName":"KXBFBK+CMBX12","x":100.35010900000005,"y":270.9585999999999,"line":23}
+{"page":147,"change":"ContentChange","types":["H3","H3"],"str":"9.1. Introduction","dir":"ltr","width":"145.33","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","623.74"],"fontName":"KXBFBK+CMBX12","x":72,"y":623.74,"line":3}
+{"page":152,"change":"ContentChange","types":["H3","H3"],"str":"9.2. Two commodities","dir":"ltr","width":"188.12","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","701.16"],"fontName":"KXBFBK+CMBX12","x":100.34999999999997,"y":701.1583,"line":1}
+{"page":156,"change":"ContentChange","types":["H3","H3"],"str":"9.3. Disjoint paths in acyclic directed graphs","dir":"ltr","width":"380.87","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","644.08"],"fontName":"KXBFBK+CMBX12","x":100.34937999999991,"y":644.0802000000001,"line":3}
+{"page":158,"change":"ContentChange","types":["H3","H3"],"str":"9.4. Vertex-disjoint paths in planar graphs","dir":"ltr","width":"361.94","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","701.16"],"fontName":"KXBFBK+CMBX12","x":100.34999999999997,"y":701.1583,"line":1}
+{"page":164,"change":"ContentChange","types":["H3","H3"],"str":"9.5. Edge-disjoint paths in planar graphs","dir":"ltr","width":"347.58","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","443.97"],"fontName":"KXBFBK+CMBX12","x":100.34943999999979,"y":443.96552000000014,"line":15}
+{"page":167,"change":"ContentChange","types":["H3","H3"],"str":"9.6. A column generation technique for multicom-","dir":"ltr","width":"432.00","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","318.47"],"fontName":"KXBFBK+CMBX12","x":72.00099400000013,"y":318.4694000000001,"line":20}
+{"page":167,"change":"ContentChange","types":["H3","H3"],"str":"modity flows","dir":"ltr","width":"107.70","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","296.55"],"fontName":"KXBFBK+CMBX12","x":72.00099400000013,"y":296.55420000000015,"line":21}
+{"page":172,"change":"ContentChange","types":["H3","H3"],"str":"10.1. Matroids and the greedy algorithm","dir":"ltr","width":"347.13","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","655.15"],"fontName":"KXBFBK+CMBX12","x":100.35000000000005,"y":655.1501000000001,"line":2}
+{"page":175,"change":"ContentChange","types":["H3","H3"],"str":"10.2. Equivalent axioms for matroids","dir":"ltr","width":"313.85","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","599.73"],"fontName":"KXBFBK+CMBX12","x":72.00027000000017,"y":599.7281,"line":4}
+{"page":179,"change":"ContentChange","types":["H3","H3"],"str":"10.3. Examples of matroids","dir":"ltr","width":"232.50","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","591.35"],"fontName":"KXBFBK+CMBX12","x":72.00033999999994,"y":591.3493000000001,"line":6}
+{"page":182,"change":"ContentChange","types":["H3","H3"],"str":"10.4. Two technical lemmas","dir":"ltr","width":"236.21","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","451.78"],"fontName":"KXBFBK+CMBX12","x":100.35041999999993,"y":451.7771000000002,"line":13}
+{"page":183,"change":"ContentChange","types":["H3","H3"],"str":"10.5. Matroid intersection","dir":"ltr","width":"222.26","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","242.82"],"fontName":"KXBFBK+CMBX12","x":71.9991999999998,"y":242.8154,"line":27}
+{"page":189,"change":"ContentChange","types":["H3","H3"],"str":"10.6. Weighted matroid intersection","dir":"ltr","width":"306.13","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","243.80"],"fontName":"KXBFBK+CMBX12","x":72.00190999999978,"y":243.79659999999996,"line":27}
+{"page":193,"change":"ContentChange","types":["H3","H3"],"str":"10.7. Matroids and polyhedra","dir":"ltr","width":"253.24","height":"17.22","transform":["17.22","0.00","0.00","17.22","72.00","701.16"],"fontName":"KXBFBK+CMBX12","x":72,"y":701.1583,"line":1}

@@ -1,0 +1,43 @@
+{
+  "pages": 137,
+  "items": 24829,
+  "groupedItems": 3105,
+  "changes": 23,
+  "schema": [
+    {
+      "name": "line"
+    },
+    {
+      "name": "types"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "y"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    },
+    {
+      "name": "str"
+    },
+    {
+      "name": "fontName"
+    },
+    {
+      "name": "dir"
+    }
+  ],
+  "globals": {}
+}
+{"page":3,"change":"ContentChange","types":["H1"],"str":"(l^,^^^^i^<jiM'^^^>^ ^","line":0,"x":35.055479999999996,"y":384.02991,"width":"97.70","height":"45.97","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"ContentChange","types":["H1"],"str":"T OooulO^I ^ 4le.^A\\-^","line":0,"x":55.16928,"y":403.28168999999997,"width":"113.07","height":"23.47","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"ContentChange","types":["H2"],"str":"LIFE OF GOD","line":2,"x":39.22191,"y":324.40686,"width":"161.05","height":"32.33","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"ContentChange","types":["H5"],"str":"SOUL OF MAN","line":3,"x":75.13941,"y":226.56759,"width":"104.45","height":"21.23","fontName":[null],"dir":["ltr"]}
+{"page":18,"change":"ContentChange","types":["H6"],"str":"THE LIFE OF GOD","line":0,"x":63.07113,"y":257.16929999999996,"width":"123.13","height":"18.12","fontName":[null],"dir":["ltr"]}
+{"page":48,"change":"ContentChange","types":["H3"],"str":"T","dir":"ltr","width":"18.39","height":"30.65","transform":["30.65","0.00","0.00","30.65","36.49","54.45"],"x":36.49218,"y":54.45093,"line":20}
+{"page":56,"change":"ContentChange","types":["H4"],"str":"L","dir":"ltr","width":"16.95","height":"28.26","transform":["28.26","0.00","0.00","28.26","39.94","46.12"],"x":39.940259999999995,"y":46.118069999999996,"line":20}

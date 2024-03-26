@@ -23,6 +23,11 @@ import FontType, { declaredFontTypes } from '../FontType';
 import { flatten, groupBy } from '../support/functional';
 import { getHeight, getText, getFontName, itemWithType } from '../support/items';
 
+export interface HeadlineRange {
+  min: number;
+  max: number;
+}
+
 const config = {
   // How many characters a line with a ending number needs to have minimally to be a valid link
   linkMinLength: 4,
@@ -33,6 +38,9 @@ const config = {
 };
 
 export const TOC_GLOBAL = new GlobalDefinition<TOC>('toc');
+export const HEADLINE_TYPE_TO_HEIGHT_RANGE = new GlobalDefinition<Record<string, HeadlineRange>>(
+  'headlineTypeToHeightRange',
+);
 
 export default class DetectToc extends ItemTransformer {
   constructor() {
@@ -41,7 +49,7 @@ export default class DetectToc extends ItemTransformer {
       'Detect table of contents.',
       {
         requireColumns: ['x', 'y', 'str', 'line'],
-        producesGlobels: [TOC_GLOBAL.key],
+        producesGlobels: [TOC_GLOBAL.key, HEADLINE_TYPE_TO_HEIGHT_RANGE.key],
         debug: {
           itemMerger: new LineItemMerger(),
         },
@@ -78,30 +86,43 @@ export default class DetectToc extends ItemTransformer {
     );
 
     const tocHeadline = findTocHeadline(context.fontMap, mostUsedHeight, tocArea, itemsInTocArea, tocItemUuids);
-    const isDefined = <T>(items: T | undefined): items is T => {
-      return !!items;
-    };
 
-    const foundHeadlines = rawTocEntries
-      .map((rawEntry, index) => {
-        const itemType = headlineLevels[index];
-        const uuids = findHeadline(
-          context.fontMap,
-          inputItems,
-          mostUsedHeight,
-          rawEntry.linkedPage,
-          rawEntry.linkedPage - pageMapping.pageFactor,
-          rawEntry.entryLines,
-        );
-        if (uuids) {
-          return {
-            level: itemType,
-            uuids,
-          } as Headline;
+    const notFoundHeadlines: RawTocEntry[] = [];
+    const foundHeadlines: Headline[] = [];
+    const headlineTypeToHeightRange: Record<string, HeadlineRange> = {}; //H1={min:23, max:25}
+
+    rawTocEntries.forEach((rawEntry, index) => {
+      const itemType = headlineLevels[index];
+      const uuids = findHeadline(
+        context.fontMap,
+        inputItems,
+        mostUsedHeight,
+        rawEntry.linkedPage,
+        rawEntry.linkedPage - pageMapping.pageFactor,
+        rawEntry.entryLines,
+      );
+      if (uuids) {
+        foundHeadlines.push({ level: itemType, uuids });
+
+        // add headline height
+        const headlineHeight = inputItems
+          .filter((item) => uuids.has(item.uuid))
+          .reduce((maxHeight, item) => Math.max(maxHeight, item.data['height']), 0);
+        let range = headlineTypeToHeightRange[itemType];
+        if (range) {
+          range.min = Math.min(range.min, headlineHeight);
+          range.max = Math.max(range.max, headlineHeight);
+        } else {
+          range = {
+            min: headlineHeight,
+            max: headlineHeight,
+          };
+          headlineTypeToHeightRange[itemType] = range;
         }
-        return undefined;
-      })
-      .filter(isDefined);
+      } else {
+        notFoundHeadlines.push(rawEntry);
+      }
+    });
 
     const headlineUuidToLevelMap = foundHeadlines.reduce((uidToLevel, headline) => {
       headline.uuids.forEach((uuid) => {
@@ -115,6 +136,7 @@ export default class DetectToc extends ItemTransformer {
       return allLevels;
     }, new Set<ItemType>());
     const tocHeadlineUuids = new Set(tocHeadline.map((item) => item.uuid));
+
     return {
       items: inputItems
         .filter((item) => !tocHeadlineUuids.has(item.uuid))
@@ -130,7 +152,10 @@ export default class DetectToc extends ItemTransformer {
         `Detected and removed ${rawTocEntries.length} TOC entries`,
         `Found ${foundHeadlines.length} matching headlines`,
       ],
-      globals: [TOC_GLOBAL.value(new TOC(tocHeadline, tocArea.pages, headlineTypes))],
+      globals: [
+        TOC_GLOBAL.value(new TOC(tocHeadline, tocArea.pages, headlineTypes)),
+        HEADLINE_TYPE_TO_HEIGHT_RANGE.value(headlineTypeToHeightRange),
+      ],
     };
   }
 }

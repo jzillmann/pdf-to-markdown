@@ -18,6 +18,8 @@ export const MIN_Y = new GlobalDefinition<number>('minY');
 export const MAX_Y = new GlobalDefinition<number>('maxY');
 export const MAX_HEIGHT = new GlobalDefinition<number>('maxHeight');
 export const MOST_USED_HEIGHT = new GlobalDefinition<number>('mostUsedHeight');
+export const MOST_USED_DISTANCE = new GlobalDefinition<number>('mostUsedDistance');
+export const MOST_USED_FONT = new GlobalDefinition<string>('mostUsedFont');
 export const PAGE_MAPPING = new GlobalDefinition<PageMapping>('pageMapping');
 
 const config = {
@@ -30,11 +32,11 @@ export default class CalculateStatistics extends ItemTransformer {
     super('Calculate Statistics', 'Calculate global statistics that are used in downstream transformers', {
       requireColumns: ['str', 'fontName', 'y', 'height'],
       producesGlobels: [
-        'mostUsedHeight',
-        'mostUsedFont',
-        'mostUsedDistance',
-        'maxHeight',
-        'maxHeightFont',
+        MIN_X.key, //TODO
+        MOST_USED_HEIGHT.key,
+        MOST_USED_FONT.key,
+        MOST_USED_DISTANCE.key,
+        MAX_HEIGHT.key,
         'fontToFormats',
       ],
       debug: {
@@ -44,9 +46,17 @@ export default class CalculateStatistics extends ItemTransformer {
   }
 
   transform(context: TransformContext, items: Item[]): ItemResult {
+    // www.30secondsofcode.org/js/s/frequencies
+    // www.30secondsofcode.org/js/s/group-by
+
+    // TODO
+    // filter out title pages
+    // filter out <= most used keys + x = 3
+    // ckmeans(6)
+
     const heights = items.map((item) => item.data['height'] as number);
+
     const mostUsedByMedian = median(heights);
-    // const heightToOccurrence: { [key: string]: number } = {};
     const heightToOccurrence = {};
     const fontToOccurrence = {};
     let maxHeight = 0;
@@ -102,7 +112,7 @@ export default class CalculateStatistics extends ItemTransformer {
       }
       page = item.page;
     });
-    // const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
+    const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
 
     const fontIdToName: string[] = [];
     const fontToType = new Map<string, FontType>();
@@ -121,6 +131,8 @@ export default class CalculateStatistics extends ItemTransformer {
       globals: [
         MAX_HEIGHT.value(maxHeight),
         MOST_USED_HEIGHT.value(mostUsedByMedian),
+        MOST_USED_DISTANCE.value(mostUsedDistance),
+        MOST_USED_FONT.value(mostUsedFont),
         MIN_X.value(minX),
         MAX_X.value(maxX),
         MIN_Y.value(minY),
