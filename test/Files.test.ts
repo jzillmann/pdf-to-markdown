@@ -26,7 +26,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `pdfjs-dist/es5/build/pdf.worker.min.js`;
 const parser = new PdfParser(pdfjs);
 const pipeline = new PdfPipeline(parser, transformers);
 
-const folder = '../examples';
+const folder = './examples';
 const files = fs.readdirSync(folder).filter((file) => file.endsWith('.pdf'));
 const urls = [
   'https://homepages.cwi.nl/~lex/files/dict.pdf',

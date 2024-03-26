@@ -10,7 +10,7 @@ const parser = new PdfParser(pdfjs);
 
 test('basic example PDF parse', async () => {
   const progressUpdates: Progress[] = [];
-  const data = fs.readFileSync('../examples/ExamplePdf.pdf', null);
+  const data = fs.readFileSync('./examples/ExamplePdf.pdf', null);
 
   // to test
   const result = await parser.parse(

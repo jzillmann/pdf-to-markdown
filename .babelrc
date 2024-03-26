@@ -1,8 +1,0 @@
-{
-  "env": {
-    "testing": {
-        "presets": ["es2015"]
-    }
-  },
-  "presets": [ ["es2015", { "loose": false, "modules": false}], "react", "stage-0", "stage-2"]
-}
