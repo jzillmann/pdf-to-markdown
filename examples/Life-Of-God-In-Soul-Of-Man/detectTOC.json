@@ -47,6 +47,12 @@
         16
       ],
       "detectedHeadlineLevels": {}
+    },
+    "headlineTypeToHeightRange": {
+      "H2": {
+        "min": 10.056899999999999,
+        "max": 11.7335289
+      }
     }
   }
 }

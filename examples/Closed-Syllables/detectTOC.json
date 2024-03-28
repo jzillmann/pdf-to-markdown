@@ -40,7 +40,8 @@
         1
       ],
       "detectedHeadlineLevels": {}
-    }
+    },
+    "headlineTypeToHeightRange": {}
   }
 }
 {"page":1,"change":"Removal","str":"“short a” ................................ ................................ ................................ ................................ ......... 3","line":8,"x":74.544,"y":598.66,"width":"424.05","height":"11.04","fontName":["ABCDEE+Calibri","ABCDEE+Calibri"],"dir":["ltr"]}

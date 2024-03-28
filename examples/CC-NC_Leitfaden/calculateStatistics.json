@@ -29,6 +29,8 @@
   "globals": {
     "maxHeight": 24,
     "mostUsedHeight": 9,
+    "mostUsedDistance": 12,
+    "mostUsedFont": "QMZZIE+AGaramondPro-Regular",
     "minX": 34.01229999999998,
     "maxX": 380.3863,
     "minY": 26.9291,

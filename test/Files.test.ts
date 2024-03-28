@@ -48,7 +48,9 @@ describe.each(files)('Test %p', (file) => {
 
   let debug: Debugger;
   const printedGlobals = new Set<string>();
-  beforeAll(async () => (debug = await pipeline.parse(data, () => {}).then((pc) => pc.debug())));
+  beforeAll(async () => {
+    debug = await pipeline.parse(data, () => {}).then((pc) => pc.debug());
+  });
 
   test.each(transformers.map((t) => t.name).filter((name) => name !== 'Does nothing'))(
     'stage %p',
@@ -76,13 +78,16 @@ describe.each(files)('Test %p', (file) => {
 
       // Global characteristics
       chunkedLines[0].unshift(toHeader(stageResult, printedGlobals));
-      chunkedLines.forEach((lines, idx) => {
-        const transformerResultAsString = lines.join('\n') || '{}';
-        expect(transformerResultAsString).toMatchFile(matchFilePath(file, transformerName, chunkedLines.length, idx));
-      });
-      stageResult.globals.keys().forEach((globalKey) => {
-        printedGlobals.add(globalKey);
-      });
+      try {
+        chunkedLines.forEach((lines, idx) => {
+          const transformerResultAsString = lines.join('\n') || '{}';
+          expect(transformerResultAsString).toMatchFile(matchFilePath(file, transformerName, chunkedLines.length, idx));
+        });
+      } finally {
+        stageResult.globals.keys().forEach((globalKey) => {
+          printedGlobals.add(globalKey);
+        });
+      }
     },
   );
 });

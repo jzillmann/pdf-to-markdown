@@ -27,6 +27,14 @@ const config = {
   maxDistanceToFringe: 50,
 };
 
+function to2DigitDecimalFromString(value: string): number {
+  return parseFloat(parseFloat(value).toFixed(2));
+}
+
+function to2DigitDecimal(value: number): number {
+  return parseFloat(value.toFixed(2));
+}
+
 export default class CalculateStatistics extends ItemTransformer {
   constructor() {
     super('Calculate Statistics', 'Calculate global statistics that are used in downstream transformers', {
@@ -83,7 +91,8 @@ export default class CalculateStatistics extends ItemTransformer {
       }
     });
     // TODO really need parseInt here ?
-    const mostUsedHeight = parseInt(getMostUsedKey(heightToOccurrence));
+    const mostUsedHeight = to2DigitDecimalFromString(getMostUsedKey(heightToOccurrence));
+
     const mostUsedFont = getMostUsedKey(fontToOccurrence);
 
     const groupedByPage = groupByPage(items);
@@ -94,14 +103,15 @@ export default class CalculateStatistics extends ItemTransformer {
 
     let page = -1;
     let lastItemOfMostUsedHeight: Item | undefined;
-    items.forEach((item) => {
+    items.forEach((item, i) => {
       if (item.page !== page) lastItemOfMostUsedHeight = undefined;
-      const itemHeight = item.data['height'];
+      const itemHeight = to2DigitDecimalFromString(item.data['height']);
       const itemText = item.data['str'];
       const itemY = item.data['y'];
+
       if (itemHeight == mostUsedHeight && itemText.trim().length > 0) {
         if (lastItemOfMostUsedHeight && itemY != lastItemOfMostUsedHeight.data['y']) {
-          const distance = lastItemOfMostUsedHeight.data['y'] - itemY;
+          const distance = to2DigitDecimal(lastItemOfMostUsedHeight.data['y'] - itemY);
           if (distance > 0) {
             distanceToOccurrence[distance] = distanceToOccurrence[distance] ? distanceToOccurrence[distance] + 1 : 1;
           }
@@ -112,8 +122,7 @@ export default class CalculateStatistics extends ItemTransformer {
       }
       page = item.page;
     });
-    const mostUsedDistance = parseInt(getMostUsedKey(distanceToOccurrence));
-
+    const mostUsedDistance = to2DigitDecimalFromString(getMostUsedKey(distanceToOccurrence));
     const fontIdToName: string[] = [];
     const fontToType = new Map<string, FontType>();
     context.fontMap.forEach(function (value, key) {
@@ -126,13 +135,14 @@ export default class CalculateStatistics extends ItemTransformer {
     });
     fontIdToName.sort();
 
+    const mostUsedFontObject = context.fontMap.get(mostUsedFont) as { name: string };
     return {
       items: items,
       globals: [
         MAX_HEIGHT.value(maxHeight),
         MOST_USED_HEIGHT.value(mostUsedByMedian),
         MOST_USED_DISTANCE.value(mostUsedDistance),
-        MOST_USED_FONT.value(mostUsedFont),
+        MOST_USED_FONT.value(mostUsedFontObject?.name || mostUsedFont),
         MIN_X.value(minX),
         MAX_X.value(maxX),
         MIN_Y.value(minY),

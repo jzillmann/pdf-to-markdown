@@ -51,23 +51,25 @@ export default class DetectHeaders extends ItemTransformer {
       itemToLevel,
     );
 
+    const hasHeaderType = (types: ItemType[]) =>
+      types.includes(ItemType.H1) ||
+      types.includes(ItemType.H2) ||
+      types.includes(ItemType.H3) ||
+      types.includes(ItemType.H4) ||
+      types.includes(ItemType.H5) ||
+      types.includes(ItemType.H6);
+
     if (toc && headlineTypeToHeightRange) {
-      //Use existing headline heights to find additional headlines
+      // Use existing headline heights to find additional headlines
       const headlineTypes = Object.keys(headlineTypeToHeightRange) as ItemType[];
       headlineTypes.forEach((headlineType) => {
         const range = headlineTypeToHeightRange[headlineType];
         if (range.max > mostUsedHeight) {
-          //use only very clear headlines, only use max
+          // use only very clear headlines, only use max
           inputItems.forEach((item) => {
             const itemHeight = item.data['height'];
-            const types: ItemType[] = item.data['types'] || [];
-            const isHeader =
-              types.includes(ItemType.H1) ||
-              types.includes(ItemType.H2) ||
-              types.includes(ItemType.H3) ||
-              types.includes(ItemType.H4) ||
-              types.includes(ItemType.H5) ||
-              types.includes(ItemType.H6);
+            const types: ItemType[] = item.data['types'] || itemToLevel.get(item.uuid) || [];
+            const isHeader = hasHeaderType(types);
             if (!isHeader && itemHeight === range.max) {
               itemToLevel.set(item.uuid, headlineType);
               detectedHeaders++;
@@ -75,41 +77,41 @@ export default class DetectHeaders extends ItemTransformer {
           });
         }
       });
-    } else {
-      //Categorize headlines by the text heights
-      const heights: number[] = [];
+    }
 
-      itemsByLine
-        .filter((lineItems) => !itemToLevel.has(lineItems[0].uuid))
-        .map((lineItems) => {
-          const maxHeight = Math.max(...lineItems.map((item) => item.data['height']));
-          if (maxHeight > mostUsedHeight * config.minHeadlineDistance && !heights.includes(maxHeight)) {
-            heights.push(maxHeight);
-          }
-        });
-      const heightToHeadline: Map<number, ItemType> = new Map();
-      heights.sort((a, b) => b - a);
-
-      heights.forEach((height, i) => {
-        const headlineLevel = i + 2;
-        if (headlineLevel <= 6) {
-          const headlineType = ItemType.header(2 + i);
-          heightToHeadline.set(height, headlineType);
+    // Categorize headlines by the text heights
+    const heights: number[] = [];
+    itemsByLine
+      .filter((lineItems) => !itemToLevel.has(lineItems[0].uuid))
+      .map((lineItems) => {
+        const maxHeight = Math.max(...lineItems.map((item) => item.data['height']));
+        if (maxHeight > mostUsedHeight * config.minHeadlineDistance && !heights.includes(maxHeight)) {
+          heights.push(maxHeight);
         }
       });
+    const heightToHeadline: Map<number, ItemType> = new Map();
+    heights.sort((a, b) => b - a);
+    heights.forEach((height, i) => {
+      const headlineLevel = i + 2;
+      if (headlineLevel <= 6) {
+        const headlineType = ItemType.header(2 + i);
+        heightToHeadline.set(height, headlineType);
+      }
+    });
 
-      itemsByLine
-        .filter((lineItems) => !itemToLevel.has(lineItems[0].uuid))
-        .forEach((lineItems) => {
-          const maxHeight = Math.max(...lineItems.map((item) => item.data['height']));
-          const types = flatten(lineItems.map((item) => item.data['types'] || [])).filter(onlyUniques);
+    itemsByLine
+      .filter((lineItems) => !itemToLevel.has(lineItems[0].uuid))
+      .forEach((lineItems) => {
+        const maxHeight = Math.max(...lineItems.map((item) => item.data['height']));
+        const types = flatten(lineItems.map((item) => item.data['types'] || [])).filter(onlyUniques) as ItemType[];
+        if (!hasHeaderType(types) && !itemToLevel.has(lineItems[0].uuid)) {
           const headlineType = heightToHeadline.get(maxHeight);
           if (headlineType && !types.includes(ItemType.H1) && !types.includes(ItemType.H2)) {
             lineItems.forEach((item) => itemToLevel.set(item.uuid, headlineType));
             detectedHeaders++;
           }
-        });
-    }
+        }
+      });
 
     // TODO find headlines which have paragraph height
     // var smallesHeadlineLevel = 1;
@@ -145,7 +147,7 @@ export default class DetectHeaders extends ItemTransformer {
     // }
 
     return {
-      items: inputItems.map((item) => {
+      items: inputItems.map((item, i) => {
         const headerType = itemToLevel.get(item.uuid);
         if (headerType) {
           return itemWithType(item, headerType);

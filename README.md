@@ -18,6 +18,7 @@ Use the [issue tracker](https://github.com/jzillmann/pdf-to-markdown/issues) and
 
 - `npm install` Download all necessary npm packages
 - `npm test` Run the tests
+- `npm test -- --verbose=false './test/Files\.test\.ts' -t "Alice-In-Wonderland.pdf"` Run specific test
 - `npm run test-write` Run the tests and persist possibly new changes on the example file results
 - `npm run lint` Lint the javascript files
 - `npm run format` Run the prettier formatter
