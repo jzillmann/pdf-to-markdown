@@ -30,8 +30,10 @@ export default class DetectTOC extends ToLineItemTransformation {
             const pageTocLinks = [];
             var lastWordsWithoutNumber;
             var lastLine;
-            //find lines ending with a number per page
-            page.items.forEach(line => {
+            // find lines with words containing only "." ...
+            const tocLines = page.items.filter(line => line.words.includes(word => hasOnly(word.string, '.')))
+            // ... and ending with a number per page
+            tocLines.forEach(line => {
                 var words = line.words.filter(word => !hasOnly(word.string, '.'));
                 const digits = [];
                 while (words.length > 0 && isNumber(words[words.length - 1].string)) {
