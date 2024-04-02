@@ -34,9 +34,9 @@
   ],
   "globals": {}
 }
-{"page":0,"change":"ContentChange","types":["H3"],"str":"St Mary the Virgin, Witney","dir":"ltr","width":"299.73","height":"24.00","transform":["24.00","0.00","0.00","24.00","501.17","180.62"],"fontName":"Gill Sans MT Bold","x":501.167,"y":180.623,"line":0}
-{"page":0,"change":"ContentChange","types":["H4"],"str":"Social Audit                      January 2012","dir":"ltr","width":"298.23","height":"18.00","transform":["18.00","0.00","0.00","18.00","501.17","147.59"],"fontName":"Gill Sans MT","x":501.167,"y":147.591,"line":1}
-{"page":0,"change":"ContentChange","types":["H5"],"str":"Catriona Robertson","dir":"ltr","width":"148.81","height":"16.00","transform":["16.00","0.00","0.00","16.00","503.78","78.51"],"fontName":"Gill Sans MT Bold","x":503.776,"y":78.514,"line":2}
+{"page":0,"change":"ContentChange","types":["H2"],"str":"St Mary the Virgin, Witney","dir":"ltr","width":"299.73","height":"24.00","transform":["24.00","0.00","0.00","24.00","501.17","180.62"],"fontName":"Gill Sans MT Bold","x":501.167,"y":180.623,"line":0}
+{"page":0,"change":"ContentChange","types":["H3"],"str":"Social Audit                      January 2012","dir":"ltr","width":"298.23","height":"18.00","transform":["18.00","0.00","0.00","18.00","501.17","147.59"],"fontName":"Gill Sans MT","x":501.167,"y":147.591,"line":1}
+{"page":0,"change":"ContentChange","types":["H4"],"str":"Catriona Robertson","dir":"ltr","width":"148.81","height":"16.00","transform":["16.00","0.00","0.00","16.00","503.78","78.51"],"fontName":"Gill Sans MT Bold","x":503.776,"y":78.514,"line":2}
 {"page":5,"change":"ContentChange","types":["H2"],"str":"Introduction","dir":"ltr","width":"184.61","height":"36.00","transform":["36.00","0.00","0.00","36.00","34.02","525.26"],"fontName":"Gill Sans MT","x":34.015,"y":525.26,"line":0}
 {"page":7,"change":"ContentChange","types":["H2"],"str":"History","dir":"ltr","width":"112.19","height":"36.00","transform":["36.00","0.00","0.00","36.00","34.02","525.26"],"fontName":"Gill Sans MT","x":34.015,"y":525.26,"line":0}
 {"page":8,"change":"ContentChange","types":["H2"],"str":"History","dir":"ltr","width":"112.19","height":"36.00","transform":["36.00","0.00","0.00","36.00","462.74","525.26"],"fontName":"Gill Sans MT","x":462.744,"y":525.26,"line":0}

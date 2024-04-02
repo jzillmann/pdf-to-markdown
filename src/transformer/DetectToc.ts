@@ -16,12 +16,12 @@ import {
   WHITESPACE_CHAR_CODE,
   PERIOD_CHAR_CODES,
 } from '../support/stringFunctions';
-import ItemType from '../ItemType';
 import { numbersAreConsecutive } from '../support/numberFunctions';
 import TOC from '../TOC';
 import FontType, { declaredFontTypes } from '../FontType';
 import { flatten, groupBy } from '../support/functional';
 import { getHeight, getText, getFontName, itemWithType } from '../support/items';
+import { HeadlineType, toHeadlineType } from '../text-types';
 
 export interface HeadlineRange {
   min: number;
@@ -129,12 +129,12 @@ export default class DetectToc extends ItemTransformer {
         uidToLevel.set(uuid, headline.level);
       });
       return uidToLevel;
-    }, new Map<string, ItemType>());
+    }, new Map<string, HeadlineType>());
 
     const headlineTypes = foundHeadlines.reduce((allLevels, headline) => {
       allLevels.add(headline.level);
       return allLevels;
-    }, new Set<ItemType>());
+    }, new Set<HeadlineType>());
     const tocHeadlineUuids = new Set(tocHeadline.map((item) => item.uuid));
 
     return {
@@ -327,7 +327,7 @@ function findTocHeadline(
   return itemsGroupedByLine[itemsGroupedByLine.length - 1];
 }
 
-function findTocEntryHeadlineLevels(rawTocEntries: RawTocEntry[]): ItemType[] {
+function findTocEntryHeadlineLevels(rawTocEntries: RawTocEntry[]): HeadlineType[] {
   // We focus on heights since it seems the most consistent metric to determining levels so far.
   //Other options would be looking at X-coordinates (per page), or at leading numbering (e.g. /^(\d)+.(\d)+.(\d)+/).
   const height = (entry: RawTocEntry) => Math.round(getHeight(entry.entryLines[0][0]));
@@ -335,12 +335,12 @@ function findTocEntryHeadlineLevels(rawTocEntries: RawTocEntry[]): ItemType[] {
 
   // we start with H2 (H1 is reserved for the document title)
   if (allHeights.length > 3) {
-    return rawTocEntries.map(() => ItemType.H2);
+    return rawTocEntries.map(() => 'H2');
   }
 
   return rawTocEntries.map((entry) => {
     const index = allHeights.indexOf(height(entry));
-    return ItemType.header(index + 2);
+    return toHeadlineType(index + 2);
   });
 }
 
@@ -465,7 +465,7 @@ interface RawTocEntry {
 }
 
 interface Headline {
-  level: ItemType;
+  level: HeadlineType;
   uuids: Set<string>;
 }
 

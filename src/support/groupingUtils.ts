@@ -16,6 +16,24 @@ export function descending(a: number, b: number): number {
   return b - a;
 }
 
+export function min(array: number[], prevMin?: number): number {
+  return array.reduce((prev, curr) => {
+    if (prev === undefined || curr < prev) {
+      return curr;
+    }
+    return prev;
+  }, prevMin);
+}
+
+export function max(array: number[], prevMin?: number): number {
+  return array.reduce((prev, curr) => {
+    if (prev === undefined || curr > prev) {
+      return curr;
+    }
+    return prev;
+  }, prevMin);
+}
+
 export function count<T>(array: T[], find: (entry: T) => boolean): number {
   return array.reduce((count, entry) => (find(entry) ? count + 1 : count), 0);
 }

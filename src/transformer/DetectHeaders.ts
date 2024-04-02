@@ -4,11 +4,11 @@ import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
 import { groupByLine, onlyUniques } from '../support/groupingUtils';
-import { MAX_HEIGHT, MOST_USED_DISTANCE, MOST_USED_FONT, MOST_USED_HEIGHT } from './CacluclateStatistics';
+import { MAX_HEIGHT, MOST_USED_HEIGHT } from './CacluclateStatistics';
 import { HEADLINE_TYPE_TO_HEIGHT_RANGE, TOC_GLOBAL } from './DetectToc';
-import ItemType from '../ItemType';
 import { flatten } from '../support/functional';
 import { itemWithType } from '../support/items';
+import { HeadlineType, TextType, isHeadline, toHeadlineType } from '../text-types';
 
 const config = {
   // How much taller a text must be to be a headline (relative to mostUsedHeight)
@@ -30,13 +30,14 @@ export default class DetectHeaders extends ItemTransformer {
   transform(context: TransformContext, inputItems: Item[]): ItemResult {
     const maxHeight = context.getGlobal(MAX_HEIGHT);
     const mostUsedHeight = context.getGlobal(MOST_USED_HEIGHT);
-    const mostUsedDistance = context.getGlobal(MOST_USED_DISTANCE);
-    const mostUsedFont = context.getGlobal(MOST_USED_FONT);
+    // const mostUsedDistance = context.getGlobal(MOST_USED_DISTANCE);
+    // const mostUsedFont = context.getGlobal(MOST_USED_FONT);
     const toc = context.getGlobalOptionally(TOC_GLOBAL);
     const headlineTypeToHeightRange = context.getGlobalOptionally(HEADLINE_TYPE_TO_HEIGHT_RANGE);
 
     const itemsByLine = groupByLine(inputItems);
-    const itemToLevel: Map<string, ItemType> = new Map();
+    const itemToLevel: Map<string, HeadlineType> = new Map();
+
 
     // Handle title pages: Title pages often have multiple lines of extraordinary height.
     // Starting the leveling here would already consume most of the available headline levels.
@@ -51,24 +52,19 @@ export default class DetectHeaders extends ItemTransformer {
       itemToLevel,
     );
 
-    const hasHeaderType = (types: ItemType[]) =>
-      types.includes(ItemType.H1) ||
-      types.includes(ItemType.H2) ||
-      types.includes(ItemType.H3) ||
-      types.includes(ItemType.H4) ||
-      types.includes(ItemType.H5) ||
-      types.includes(ItemType.H6);
+    const hasHeaderType = (types: TextType[]) => types.find((t) => isHeadline(t));
 
     if (toc && headlineTypeToHeightRange) {
       // Use existing headline heights to find additional headlines
-      const headlineTypes = Object.keys(headlineTypeToHeightRange) as ItemType[];
+      const headlineTypes = Object.keys(headlineTypeToHeightRange) as HeadlineType[];
       headlineTypes.forEach((headlineType) => {
         const range = headlineTypeToHeightRange[headlineType];
         if (range.max > mostUsedHeight) {
           // use only very clear headlines, only use max
           inputItems.forEach((item) => {
             const itemHeight = item.data['height'];
-            const types: ItemType[] = item.data['types'] || itemToLevel.get(item.uuid) || [];
+            const types: TextType[] =
+              item.data['types'] || itemToLevel.has(item.uuid) ? [itemToLevel.get(item.uuid)] : [];
             const isHeader = hasHeaderType(types);
             if (!isHeader && itemHeight === range.max) {
               itemToLevel.set(item.uuid, headlineType);
@@ -89,12 +85,12 @@ export default class DetectHeaders extends ItemTransformer {
           heights.push(maxHeight);
         }
       });
-    const heightToHeadline: Map<number, ItemType> = new Map();
+    const heightToHeadline: Map<number, HeadlineType> = new Map();
     heights.sort((a, b) => b - a);
     heights.forEach((height, i) => {
       const headlineLevel = i + 2;
       if (headlineLevel <= 6) {
-        const headlineType = ItemType.header(2 + i);
+        const headlineType = toHeadlineType(2 + i);
         heightToHeadline.set(height, headlineType);
       }
     });
@@ -103,10 +99,10 @@ export default class DetectHeaders extends ItemTransformer {
       .filter((lineItems) => !itemToLevel.has(lineItems[0].uuid))
       .forEach((lineItems) => {
         const maxHeight = Math.max(...lineItems.map((item) => item.data['height']));
-        const types = flatten(lineItems.map((item) => item.data['types'] || [])).filter(onlyUniques) as ItemType[];
+        const types = flatten(lineItems.map((item) => item.data['types'] || [])).filter(onlyUniques) as TextType[];
         if (!hasHeaderType(types) && !itemToLevel.has(lineItems[0].uuid)) {
           const headlineType = heightToHeadline.get(maxHeight);
-          if (headlineType && !types.includes(ItemType.H1) && !types.includes(ItemType.H2)) {
+          if (headlineType && !types.includes('H1') && !types.includes('H2')) {
             lineItems.forEach((item) => itemToLevel.set(item.uuid, headlineType));
             detectedHeaders++;
           }
@@ -147,7 +143,7 @@ export default class DetectHeaders extends ItemTransformer {
     // }
 
     return {
-      items: inputItems.map((item, i) => {
+      items: inputItems.map((item) => {
         const headerType = itemToLevel.get(item.uuid);
         if (headerType) {
           return itemWithType(item, headerType);
@@ -165,7 +161,7 @@ function detectTitlePageHeaders(
   maxTitlePage: number,
   mostUsedHeight: number,
   maxHeight: number,
-  itemToLevel: Map<string, ItemType>,
+  itemToLevel: Map<string, HeadlineType>,
 ): number {
   const min2ndLevelHeaderHeigthOnMaxPage = mostUsedHeight + (maxHeight - mostUsedHeight) / 4;
   const pagesHavingMaxHeightItems = inputItems
@@ -180,9 +176,9 @@ function detectTitlePageHeaders(
       const height = Math.max(...lineItems.map((item) => item.data['height']));
       if (height > min2ndLevelHeaderHeigthOnMaxPage) {
         if (height == maxHeight) {
-          lineItems.forEach((item) => itemToLevel.set(item.uuid, ItemType.H1));
+          lineItems.forEach((item) => itemToLevel.set(item.uuid, 'H1'));
         } else {
-          lineItems.forEach((item) => itemToLevel.set(item.uuid, ItemType.H2));
+          lineItems.forEach((item) => itemToLevel.set(item.uuid, 'H2'));
         }
         detectedHeaders++;
       }

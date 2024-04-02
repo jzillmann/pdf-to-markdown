@@ -43,3 +43,19 @@ export function extractEndingNumber(text: string): number | undefined {
   }
   return undefined;
 }
+
+export function isListItemCharacter(string) {
+  if (string.length > 1) {
+    return false;
+  }
+  const char = string.charAt(0);
+  return char === '-' || char === '•' || char === '–';
+}
+
+export function isListItem(value: string) {
+  return /^[\s]*[-•–][\s].*$/g.test(value);
+}
+
+export function isNumberedListItem(value: string) {
+  return /^[\s]*\d*\.(?:\s|$)/g.test(value);
+}

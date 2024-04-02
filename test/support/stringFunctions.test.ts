@@ -3,6 +3,8 @@ import {
   filterOutWhitespaces,
   extractNumbers,
   extractEndingNumber,
+  isListItem,
+  isNumberedListItem,
 } from 'src/support/stringFunctions';
 
 test('filterOutDigits', async () => {
@@ -30,4 +32,46 @@ test('extractEndingNumbers', async () => {
   expect(extractEndingNumber('a1b 2c 3')).toEqual(3);
   expect(extractEndingNumber('a12 21 304')).toEqual(304);
   expect(extractEndingNumber('abc ... 304')).toEqual(304);
+});
+
+describe('functions: isListItem', () => {
+  it('Match', () => {
+    expect(isListItem('- my text')).toEqual(true);
+    expect(isListItem('- my text -')).toEqual(true);
+    expect(isListItem(' - my text')).toEqual(true);
+    expect(isListItem('  - my text')).toEqual(true);
+    expect(isListItem(' -  my text')).toEqual(true);
+
+    expect(isListItem('• my text')).toEqual(true);
+    expect(isListItem(' • my text')).toEqual(true);
+    expect(isListItem('  • my text')).toEqual(true);
+
+    expect(isListItem('– my text')).toEqual(true);
+    expect(isListItem(' – my text')).toEqual(true);
+  });
+
+  it('No Match', () => {
+    expect(isListItem('my text')).toEqual(false);
+    expect(isListItem('-my text')).toEqual(false);
+    expect(isListItem('•my text')).toEqual(false);
+    expect(isListItem(' -my text')).toEqual(false);
+  });
+});
+
+describe('functions: isNumberedListItem', () => {
+  it('Match', () => {
+    expect(isNumberedListItem('1.')).toEqual(true);
+    expect(isNumberedListItem('1. my text')).toEqual(true);
+    expect(isNumberedListItem('2. my text')).toEqual(true);
+    expect(isNumberedListItem('23. my text')).toEqual(true);
+    expect(isNumberedListItem('23.   my text')).toEqual(true);
+    expect(isNumberedListItem(' 23.   my text')).toEqual(true);
+    expect(isNumberedListItem('  23.   my text')).toEqual(true);
+  });
+
+  it('No Match', () => {
+    expect(isNumberedListItem('1two')).toEqual(false);
+    expect(isNumberedListItem('1 two')).toEqual(false);
+    expect(isNumberedListItem('1.two')).toEqual(false);
+  });
 });

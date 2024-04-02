@@ -12,6 +12,7 @@ export default class LineItemMerger extends ItemMerger {
 
   merge(evaluationTracker: EvaluationTracker, changeTracker: ChangeTracker, schema: string[], items: Item[]): Item {
     const page = items[0].page;
+    const block = items[0].data['block'];
     const line = items[0].data['line'];
     const str = items.map((item) => item.data['str']).join(' ');
     const x = Math.min(...items.map((item) => item.data['x']));
@@ -23,6 +24,7 @@ export default class LineItemMerger extends ItemMerger {
 
     const newItem = new Item(page, {
       str,
+      block,
       line,
       x,
       y,

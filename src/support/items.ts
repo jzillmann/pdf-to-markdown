@@ -1,6 +1,7 @@
+import { TextType } from 'src/text-types';
 import { assertDefined } from '../assert';
 import Item from '../Item';
-import ItemType from '../ItemType';
+import { onlyUniques } from './groupingUtils';
 
 function get(item: Item, name: string): any {
   const value = item.data[name];
@@ -28,7 +29,7 @@ export function getFontName(fontMap: Map<string, object>, item: Item): string {
   return assertDefined(fontObject['name'], `No 'name' found in ${JSON.stringify(fontObject)}`);
 }
 
-export function itemWithType(item: Item, type: ItemType): Item {
+export function itemWithType(item: Item, type: TextType): Item {
   const existingTypes = item.data['types'] || [];
-  return item.withDataAddition({ types: [...existingTypes, type] });
+  return item.withDataAddition({ types: [...existingTypes, type].filter(onlyUniques) });
 }

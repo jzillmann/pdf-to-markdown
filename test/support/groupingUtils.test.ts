@@ -9,11 +9,13 @@ import {
   flatMap,
   onlyUniques,
   count,
+  min,
+  max,
 } from 'src/support/groupingUtils';
 import { items } from 'test/testItems';
 
 test('count', async () => {
-  expect(count([], (_) => true)).toEqual(0);
+  expect(count([], () => true)).toEqual(0);
   expect(count([1, 2, 3, 4, 5, 6], (e) => e % 2 == 0)).toEqual(3);
   expect(count(['A', 'B', 'c'], (e) => e === e.toUpperCase())).toEqual(2);
 });
@@ -28,6 +30,28 @@ test('onlyUniques', async () => {
   expect([].filter(onlyUniques)).toEqual([]);
   expect([1, 2, 3].filter(onlyUniques)).toEqual([1, 2, 3]);
   expect([1, 2, 3, 3, 2, 1].filter(onlyUniques)).toEqual([1, 2, 3]);
+});
+
+test('min', async () => {
+  expect(min([])).toBeUndefined();
+  expect(min([1])).toEqual(1);
+  expect(min([1, 2])).toEqual(1);
+  expect(min([2, 1])).toEqual(1);
+  expect(min([1, 4, -3, 5])).toEqual(-3);
+
+  expect(min([2, 3], 1)).toEqual(1);
+  expect(min([2, 3], 4)).toEqual(2);
+});
+
+test('max', async () => {
+  expect(max([])).toBeUndefined();
+  expect(max([1])).toEqual(1);
+  expect(max([1, 2])).toEqual(2);
+  expect(max([2, 1])).toEqual(2);
+  expect(max([1, 4, -3, 5])).toEqual(5);
+
+  expect(max([2, 3], 1)).toEqual(3);
+  expect(max([2, 3], 4)).toEqual(4);
 });
 
 describe('groupByPage', () => {
