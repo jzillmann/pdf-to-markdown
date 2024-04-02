@@ -10,6 +10,13 @@ function types(...types: TextType[]) {
   return types;
 }
 
+export function toBlockType(type: TextType): TextType {
+  if (type === 'NUMBERED_LIST') {
+    return 'LIST';
+  }
+  return type;
+}
+
 export function isHeadline(type: TextType) {
   return types('H1', 'H2', 'H3', 'H4', 'H5', 'H6').includes(type);
 }

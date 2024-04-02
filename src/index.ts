@@ -15,6 +15,8 @@ import DetectToc from './transformer/DetectToc';
 import DetectHeaders from './transformer/DetectHeaders';
 import NoOpTransformer from './transformer/NoOpTransformer';
 import {type ParseConfig } from './parse';
+import DetectListItems from './transformer/DetectListItems';
+import DetectBlocks from './transformer/DetectBlocks';
 
 export const transformers = [
   new AdjustHeight(),
@@ -26,6 +28,8 @@ export const transformers = [
   new RemoveRepetitiveItems(),
   new DetectToc(),
   new DetectHeaders(),
+  new DetectListItems(),
+  new DetectBlocks(),
   new NoOpTransformer(),
 ];
 
