@@ -72,6 +72,10 @@ export function groupByPage(items: Item[]): Item[][] {
   return groupBy(items, (item) => item.page);
 }
 
+export function groupByBlock(items: Item[]): Item[][] {
+  return groupByElement(items, 'block');
+}
+
 export function groupByLine(items: Item[]): Item[][] {
   return groupByElement(items, 'line');
 }
