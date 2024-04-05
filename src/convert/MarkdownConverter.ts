@@ -11,11 +11,11 @@ export default class MarkdownConverter implements Converter {
     let content = '';
 
     const lineMerger = new LineItemMerger();
+    const evaluationTracker = new EvaluationTracker();
+    const changeTracker = new ChangeTracker();
     groupByBlock(items).forEach((blockItems) => {
       const types = blockItems[0].data['types'] || [];
       groupByLine(blockItems).forEach((lineItems) => {
-        const evaluationTracker = new EvaluationTracker();
-        const changeTracker = new ChangeTracker();
         const lineItem = lineMerger.merge(evaluationTracker, changeTracker, ['types'], lineItems);
         const itemText = lineItem.data['str'];
         content += elementToText(itemText, types[0]);

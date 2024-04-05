@@ -17,6 +17,7 @@ import NoOpTransformer from './transformer/NoOpTransformer';
 import {type ParseConfig } from './parse';
 import DetectListItems from './transformer/DetectListItems';
 import DetectBlocks from './transformer/DetectBlocks';
+import DetectListLevels from './transformer/DetectListLevels';
 
 export const transformers = [
   new AdjustHeight(),
@@ -30,6 +31,7 @@ export const transformers = [
   new DetectHeaders(),
   new DetectListItems(),
   new DetectBlocks(),
+  new DetectListLevels(),
   new NoOpTransformer(),
 ];
 

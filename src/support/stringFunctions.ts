@@ -44,7 +44,7 @@ export function extractEndingNumber(text: string): number | undefined {
   return undefined;
 }
 
-export function isListItemCharacter(string) {
+export function isListItemCharacter(string: string) {
   if (string.length > 1) {
     return false;
   }
