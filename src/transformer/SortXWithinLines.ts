@@ -5,6 +5,9 @@ import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
 import { transformGroupedByPageAndLine } from '../support/groupingUtils';
 
+/**
+ * We can't trust order of occurence, esp. footnote links like to come last
+ */
 export default class SortXWithinLines extends ItemTransformer {
   constructor() {
     super('Sort by X', 'Sorts the items of a line by the x coordinate', {

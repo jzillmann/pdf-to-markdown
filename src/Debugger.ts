@@ -35,6 +35,8 @@ export default class Debugger {
   stageResult(stageIndex: number): StageResult {
     for (let idx = 0; idx < stageIndex + 1; idx++) {
       if (!this.stageResultCache[idx]) {
+        console.log(this.transformers[idx - 1].name);
+
         const evaluations = new EvaluationTracker();
         const transformer = this.transformers[idx - 1];
         const previousStageResult: StageResult = this.stageResultCache[idx - 1];

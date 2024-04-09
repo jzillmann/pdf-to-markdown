@@ -16,6 +16,10 @@ The interesting thing is that rendering with pdfjs (online) looks good. So maybe
 - multiline headlines: [WoodUp](examples/WoodUp.pdf)
 - Detecting list of figures (and creating headlines) [Achieving-The-Paris-Climate-Agreement](Achieving-The-Paris-Climate-Agreement.pdf)
 
+# Footnotes
+
+- multiline foot notes (compressed.tracemonkey-pldi-09.pdf)
+
 ## Not yet reviewed test PDFS
 
 # Achieving-The-Paris-Climate-Agreement.pdf

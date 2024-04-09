@@ -59,3 +59,13 @@ export function isListItem(value: string) {
 export function isNumberedListItem(value: string) {
   return /^[\s]*\d*\.(?:\s|$)/g.test(value);
 }
+
+export function isNumber(value: string) {
+  for (let i = 0; i < value.length; i++) {
+    const charCode = value.charCodeAt(i);
+    if (!isDigit(charCode)) {
+      return false;
+    }
+  }
+  return true;
+}

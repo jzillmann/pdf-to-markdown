@@ -90,7 +90,6 @@ export default class CalculateStatistics extends ItemTransformer {
         maxHeightFont = itemFont;
       }
     });
-    // TODO really need parseInt here ?
     const mostUsedHeight = to2DigitDecimalFromString(getMostUsedKey(heightToOccurrence));
 
     const mostUsedFont = getMostUsedKey(fontToOccurrence);
@@ -103,7 +102,7 @@ export default class CalculateStatistics extends ItemTransformer {
 
     let page = -1;
     let lastItemOfMostUsedHeight: Item | undefined;
-    items.forEach((item, i) => {
+    items.forEach((item) => {
       if (item.page !== page) lastItemOfMostUsedHeight = undefined;
       const itemHeight = to2DigitDecimalFromString(item.data['height']);
       const itemText = item.data['str'];

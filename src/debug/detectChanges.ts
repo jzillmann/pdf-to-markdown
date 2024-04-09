@@ -55,6 +55,9 @@ function detectPageChanges(tracker: ChangeTracker, inputItems: Item[], outputIte
       if ((typesInInput || typesInOutput) && !arraysEqual(typesInInput, typesInOutput)) {
         tracker.trackContentChange(inputItem);
       }
+      if (!arraysEqual(inputItem.tokenTypes, outputItems[positionInOutput].tokenTypes)) {
+        tracker.trackContentChange(inputItem);
+      }
     } else {
       // Handle items from the output with arn't in the input array
       for (let intermediateOutputIdx = outputIndex; intermediateOutputIdx < positionInOutput; intermediateOutputIdx++) {

@@ -12,7 +12,6 @@ import { HeadlineType, TextType, isHeadline, toHeadlineType } from '../text-type
 
 const config = {
   // How much taller a text must be to be a headline (relative to mostUsedHeight)
-  // TODO sync with DetectHeadline ??
   minHeadlineDistance: 1.3,
 };
 

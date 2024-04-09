@@ -18,6 +18,7 @@ import {type ParseConfig } from './parse';
 import DetectListItems from './transformer/DetectListItems';
 import DetectBlocks from './transformer/DetectBlocks';
 import DetectListLevels from './transformer/DetectListLevels';
+import DetectFootnotes from './transformer/DetectFootnotes';
 
 export const transformers = [
   new AdjustHeight(),
@@ -27,6 +28,7 @@ export const transformers = [
   new CompactLines(),
   new SortXWithinLines(),
   new RemoveRepetitiveItems(),
+  new DetectFootnotes(),
   new DetectToc(),
   new DetectHeaders(),
   new DetectListItems(),
