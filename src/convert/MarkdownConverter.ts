@@ -16,13 +16,13 @@ export default class MarkdownConverter implements Converter {
     let content = '';
 
     groupByBlock(items).forEach((blockItems) => {
-      const types = blockItems[0].data['types'] || [];
+      const blockTypes: TextType[] = blockItems[0].data['types'] || [];
       let blockContent = '';
       groupByLine(blockItems).forEach((lineItems) => {
-        blockContent += linesToText(lineItems);
+        blockContent += linesToText(lineItems, blockTypes.length > 0);
         blockContent += '\n';
       });
-      content += elementToText(blockContent, types[0]);
+      content += elementToText(blockContent, blockTypes[0]);
       content += '\n';
     });
 

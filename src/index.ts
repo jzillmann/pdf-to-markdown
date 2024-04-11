@@ -19,6 +19,7 @@ import DetectListItems from './transformer/DetectListItems';
 import DetectBlocks from './transformer/DetectBlocks';
 import DetectListLevels from './transformer/DetectListLevels';
 import DetectFootnotes from './transformer/DetectFootnotes';
+import DetectFontStyles from './transformer/DetectFontStyles';
 
 export const transformers = [
   new AdjustHeight(),
@@ -29,6 +30,7 @@ export const transformers = [
   new SortXWithinLines(),
   new RemoveRepetitiveItems(),
   new DetectFootnotes(),
+  new DetectFontStyles(),
   new DetectToc(),
   new DetectHeaders(),
   new DetectListItems(),

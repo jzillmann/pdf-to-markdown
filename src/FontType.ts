@@ -1,8 +1,6 @@
 enum FontType {
   BOLD = 'BOLD',
   OBLIQUE = 'OBLIQUE',
-  //TODO remove bold/oblique
-  BOLD_OBLIQUE = 'BOLD_OBLIQUE',
 }
 
 //TODO math & quoted http://mirrors.ibiblio.org/CTAN/systems/win32/bakoma/fonts/fonts.html

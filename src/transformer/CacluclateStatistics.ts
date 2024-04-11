@@ -2,7 +2,6 @@ import Item from '../Item';
 import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
-import FontType from '../FontType';
 import GlobalDefinition from '../GlobalDefinition';
 import PageMapping from '../PageMapping';
 import PageFactorFinder from '../support/PageFactorFinder';
@@ -68,7 +67,7 @@ export default class CalculateStatistics extends ItemTransformer {
     const heightToOccurrence = {};
     const fontToOccurrence = {};
     let maxHeight = 0;
-    let maxHeightFont: string;
+    // let maxHeightFont: string;
     let minX = 999;
     let maxX = 0;
     let minY = 999;
@@ -87,7 +86,7 @@ export default class CalculateStatistics extends ItemTransformer {
       fontToOccurrence[itemFont] = fontToOccurrence[itemFont] ? fontToOccurrence[itemFont] + 1 : 1;
       if (itemHeight > maxHeight) {
         maxHeight = itemHeight;
-        maxHeightFont = itemFont;
+        // maxHeightFont = itemFont;
       }
     });
     const mostUsedHeight = to2DigitDecimalFromString(getMostUsedKey(heightToOccurrence));
@@ -122,17 +121,6 @@ export default class CalculateStatistics extends ItemTransformer {
       page = item.page;
     });
     const mostUsedDistance = to2DigitDecimalFromString(getMostUsedKey(distanceToOccurrence));
-    const fontIdToName: string[] = [];
-    const fontToType = new Map<string, FontType>();
-    context.fontMap.forEach(function (value, key) {
-      const fontName = value['name'];
-      fontIdToName.push(`${key}  = ${fontName}`);
-      const formatType = getFormatType(key, fontName, mostUsedFont, maxHeightFont);
-      if (formatType) {
-        fontToType.set(key, formatType);
-      }
-    });
-    fontIdToName.sort();
 
     const mostUsedFontObject = context.fontMap.get(mostUsedFont) as { name: string };
     return {
@@ -159,7 +147,6 @@ export default class CalculateStatistics extends ItemTransformer {
         'Items per height: ' + JSON.stringify(heightToOccurrence),
         'Items per font: ' + JSON.stringify(fontToOccurrence),
         'Items per distance: ' + JSON.stringify(distanceToOccurrence),
-        'Fonts:' + JSON.stringify(fontIdToName),
       ],
     };
   }
@@ -205,31 +192,6 @@ function getMostUsedKey(keyToOccurrence: Record<string, number>): string {
   });
   return maxKey;
 }
-
-function getFormatType(
-  fontId: string,
-  fontName: string,
-  mostUsedFont: string | undefined,
-  maxHeightFont: string | undefined,
-): FontType | undefined {
-  const fontNameLowerCase = fontName.toLowerCase();
-  if (fontId == mostUsedFont) {
-    return undefined;
-  } else if (
-    fontNameLowerCase.includes('bold') &&
-    (fontNameLowerCase.includes('oblique') || fontNameLowerCase.includes('italic'))
-  ) {
-    return FontType.BOLD_OBLIQUE;
-  } else if (fontNameLowerCase.includes('bold')) {
-    return FontType.BOLD;
-  } else if (fontNameLowerCase.includes('oblique') || fontNameLowerCase.includes('italic')) {
-    return FontType.OBLIQUE;
-  } else if (fontId === maxHeightFont) {
-    //TODO this was the wrong comparision in old app and thus never returned as bold probably
-    return FontType.BOLD;
-  }
-}
-
 function possiblePageNumbers(items: Item[]): number[] {
   return flatten(
     items.map((item) => {

@@ -24,6 +24,12 @@ export default class Item {
     return newItem;
   }
 
+  withTokenTypes(tokenTypes: TokenType[]): Item {
+    const newItem = new Item(this.page, this.data, this.tokenTypes, this.uuid);
+    tokenTypes.forEach((tt) => newItem.tokenTypes.push(tt));
+    return newItem;
+  }
+
   withDataAddition(data: object): Item {
     return this.withData({ ...this.data, ...data });
   }
