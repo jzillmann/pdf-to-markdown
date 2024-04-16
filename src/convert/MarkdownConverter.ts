@@ -39,6 +39,8 @@ function elementToText(text: string, type: TextType) {
     case 'H5':
     case 'H6':
       return '#'.repeat(headlineLevel(type)) + ' ' + text + '\n';
+    case 'CODE':
+      return '```\n' + text + '\n```';
     default:
       return text + '\n';
   }

@@ -21,6 +21,7 @@ import DetectListLevels from './transformer/DetectListLevels';
 import DetectFootnotes from './transformer/DetectFootnotes';
 import DetectFontStyles from './transformer/DetectFontStyles';
 import DetectLinks from './transformer/DetectLinks';
+import DetectCodeQuoteBlocks from './transformer/DetectCodeQuoteBlocks';
 
 export const transformers = [
   new AdjustHeight(),
@@ -37,6 +38,7 @@ export const transformers = [
   new DetectHeaders(),
   new DetectListItems(),
   new DetectBlocks(),
+  new DetectCodeQuoteBlocks(),
   new DetectListLevels(),
   new NoOpTransformer(),
 ];
