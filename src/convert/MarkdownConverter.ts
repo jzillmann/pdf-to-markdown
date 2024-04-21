@@ -23,7 +23,6 @@ export default class MarkdownConverter implements Converter {
         blockContent += '\n';
       });
       content += elementToText(blockContent, blockTypes[0]);
-      content += '\n';
     });
 
     return content;
