@@ -20,6 +20,7 @@ import DetectToc, { TOC_GLOBAL } from 'src/transformer/DetectToc';
 import DetectHeaders from 'src/transformer/DetectHeaders';
 import TOC from 'src/TOC';
 import { getText } from 'src/support/items';
+import MarkdownConverter from 'src/convert/MarkdownConverter';
 
 pdfjs.GlobalWorkerOptions.workerSrc = `pdfjs-dist/es5/build/pdf.worker.min.js`;
 
@@ -52,6 +53,13 @@ describe.each(files)('Test %p', (file) => {
     debug = await pipeline.parse(data, () => {}).then((pc) => pc.debug());
   });
 
+  test('Compare Markdown', async () => {
+    const lastStage = debug.stageResult(debug.stageNames.length - 1);
+    const items = lastStage.itemsCleanedAndUnpacked();
+    const text = new MarkdownConverter().convert(items);
+    expect(text).toMatchFile(markdownFilePath(file));
+  });
+
   test.each(transformers.map((t) => t.name).filter((name) => name !== 'Does nothing'))(
     'stage %p',
     (transformerName) => {
@@ -81,7 +89,9 @@ describe.each(files)('Test %p', (file) => {
       try {
         chunkedLines.forEach((lines, idx) => {
           const transformerResultAsString = lines.join('\n') || '{}';
-          expect(transformerResultAsString).toMatchFile(matchFilePath(file, transformerName, chunkedLines.length, idx));
+          expect(transformerResultAsString).toMatchFile(
+            transformedFilePath(file, transformerName, chunkedLines.length, idx),
+          );
         });
       } finally {
         stageResult.globals.keys().forEach((globalKey) => {
@@ -92,20 +102,31 @@ describe.each(files)('Test %p', (file) => {
   );
 });
 
-function matchFilePath(pdfFileName: string, transformerName: string, chunkCount = 1, chunkIndex = 0): string {
+function transformedFilePath(pdfFileName: string, transformerName: string, chunkCount = 1, chunkIndex = 0): string {
   const pdfFileNameWithoutExtension = pdfFileName.substr(0, pdfFileName.length - 4);
   const resultFileName = `${transformerName[0].toLowerCase() + transformerName.slice(1).replace(/\s/g, '')}`;
   const fileIndex = chunkCount > 1 ? `.${chunkIndex}` : '';
   return `${folder}/${pdfFileNameWithoutExtension}/${resultFileName}${fileIndex}.json`;
 }
 
-describe('Selective transforms on URL PDFs', () => {
-  const transformerNames = [new RemoveRepetitiveItems().name, new DetectToc().name, new DetectHeaders().name];
-  test.each(urls)('URL %p', async (url) => {
-    const { fileName, data } = download(url);
+function markdownFilePath(pdfFileName: string): string {
+  const pdfFileNameWithoutExtension = pdfFileName.substr(0, pdfFileName.length - 4);
+  return `${folder}/${pdfFileNameWithoutExtension}.md`;
+}
+
+const transformerNames = [new RemoveRepetitiveItems().name, new DetectToc().name, new DetectHeaders().name];
+describe.each(urls)('Test URL %p', (url) => {
+  const { fileName, data } = download(url);
+
+  test(`markdown from ${url}`, async () => {
+    const transformResult = await pipeline.parse(data, () => {}).then((pc) => pc.transform());
+    const text = transformResult.convert(new MarkdownConverter());
+    expect(text).toMatchFile(markdownFilePath(fileName));
+  });
+
+  test(`stages from ${url}`, async () => {
     const debug = await pipeline.parse(data, () => {}).then((pc) => pc.debug());
     const printedGlobals = new Set<string>();
-
     transformerNames.forEach((transformerName) => {
       const stageResult = debug.stageResult(debug.stageNames.indexOf(transformerName));
       const pages = stageResult.selectPages(true, true);
@@ -124,7 +145,7 @@ describe('Selective transforms on URL PDFs', () => {
       );
 
       const transformerResultAsString = lines.join('\n') || '{}';
-      expect(transformerResultAsString).toMatchFile(matchFilePath(fileName, transformerName));
+      expect(transformerResultAsString).toMatchFile(transformedFilePath(fileName, transformerName));
 
       stageResult.globals.keys().forEach((globalKey) => {
         printedGlobals.add(globalKey);

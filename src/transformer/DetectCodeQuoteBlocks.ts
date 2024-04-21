@@ -23,10 +23,7 @@ export default class DetectCodeQuoteBlocks extends ItemTransformer {
     const codeBlockItems = new Set<string>();
     let foundCodeItems = 0;
 
-    groupByPage(inputItems).forEach((pageItems, pageIdx) => {
-      if (pageIdx === 5) {
-        console.log(pageItems[0].data['str']);
-      }
+    groupByPage(inputItems).forEach((pageItems) => {
       const minX = toMinX(pageItems);
       groupByBlock(pageItems).forEach((blockItems) => {
         if (!blockItems[0].data['types'] && looksLikeCodeBlock(minX, blockItems, mostUsedHeight)) {
