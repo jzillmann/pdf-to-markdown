@@ -3,16 +3,14 @@
 ## 2te Überschrift
 
 ```
-Dies ist eine Test-PDF^1.
+Dies ist eine Test-PDF[^1].
 Für’s Testen des Markdown Parsers.
 ```
-(^1) In Deutsch.
-
-
+[^1]: In Deutsch.
 
 ## Paragraphen
 
-Das ist ein Paragraph. Ein einfacher Paragraph mit Schrift in Normalgröße^2. Damit wir _sehen_ wie
+Das ist ein Paragraph. Ein einfacher Paragraph mit Schrift in Normalgröße[^2]. Damit wir _sehen_ wie
 sich Zeilenumbrüche verhalten, schreiben wir einfach ein bisschen mehr. So, dass sieht ja jetzt
 schon gut aus!
 Ohne Zwischenzeile, neu angesetzt.
@@ -27,7 +25,7 @@ accumsan risus in purus facilisis interdum. Aliquam tincidunt condimentum est, s
 venenatis orci. Fusce neque nibh, dapibus et volutpat sit amet, consectetur ac quam. Sed pharetra
 faucibus arcu, at interdum dui ornare ut. Aliquam sodales, magna et euismod congue, ipsum diam
 tempus sapien, vel aliquet tortor dolor ut purus. Aenean aliquet ut erat vitae dictum. Fusce eget
-ultrices magna. Sed egestas mi nec rutrum iaculis. Phasellus condimentum^3 , urna sit amet sodales
+ultrices magna. Sed egestas mi nec rutrum iaculis. Phasellus condimentum[^3] , urna sit amet sodales
 accumsan, lacus risus cursus ipsum, et rhoncus ligula mi et nibh. In consequat a risus a
 accumsan. Pellentesque nec lacus sodales eros laoreet pretium non ac erat.
 
@@ -35,14 +33,14 @@ Und jetzt ein kleiner Text im block-format. Das erzeugt schöne doppelte Leerzei
 Wörtern. Wenn Markdown zu HTML gerendert wird, fällt das zwar nicht mehr auf. Aber in der puren
 Text-Version ist es schon stark sichtbar!
 
-Und jetzt^4 einfach nochmal Text^5 um die Fussnoten in zweistellige Bereiche^6 vorranzutreiben!
+Und jetzt[^4] einfach nochmal Text[^5] um die Fussnoten in zweistellige Bereiche[^6] vorranzutreiben!
 
-(^2) Was immer auch ‘normal’ ist...
-(^3) Nicht zu verwechseln mit ‘condimenta’. Meine Lateinkenntnisse sind zwar schon so alt das ich
+[^2]: Was immer auch ‘normal’ ist...
+[^3]: Nicht zu verwechseln mit ‘condimenta’. Meine Lateinkenntnisse sind zwar schon so alt das ich
 überhaupt keine Ahnung hab, aber zumindest hab ich jetzt eine mehrzeilige Fussnote!
-(^4) Hier & Jetzt!
-(^5) Nicht viel mehr als ein Satz.
-(^6) Weil dann wird's komplizierter!
+[^4]: Hier & Jetzt!
+[^5]: Nicht viel mehr als ein Satz.
+[^6]: Weil dann wird's komplizierter!
 
 
 ## Schriftschnitt
@@ -71,7 +69,7 @@ Eine Liste mit unterschiedlich formatierten Wörtern
 
 - Etwas _Kursiv_
 - Etwas **Fett**
-- Etwas Unterstrichen^7
+- Etwas Unterstrichen[^7]
 - Etwas Durchgestrichen
 - Und noch ein Link: [http://pdf2md.morethan.io](http://pdf2md.morethan.io)
 
@@ -91,7 +89,7 @@ _Und ein folgender Absatz, auch kursiv!_
 
 _Und ein kursiver Setzt der einen eingeschlossen Link, nämlich [http://pdf2md.morethan.io,](http://pdf2md.morethan.io,) hat._
 
-(^7) Fussnote in einer Liste
+[^7]: Fussnote in einer Liste
 
 
 ## Listen
@@ -180,7 +178,7 @@ der Parser das sauber trennen kann:
 Und danach kommt auch gleicht was.
 
 
-## Quotes & Spezielle Einschübe^8
+## Quotes & Spezielle Einschübe[^8]
 
 Das hier ist wieder ein normaler Absatz. Das interessante ist der nachfolgende Teil, der
 eingeschoben ist, gewöhnlicher Weise sowas wie ein Zitat, oder Code, oder sonst was:
@@ -192,7 +190,7 @@ spiegelt dann ein leerer Schreibtisch wider? - Albert Einstein
 So, das war ja schonmal ein guter Anfang. Hier noch ein Einzeiler:
 
 ```
-Phantasie ist wichtiger als Wissen , denn Wissen^9 ist begrenzt. - Albert Einstein^10
+Phantasie ist wichtiger als Wissen , denn Wissen[^9] ist begrenzt. - Albert Einstein[^10]
 ```
 Und nun mehrere Quotes hintereinander:
 
@@ -212,8 +210,8 @@ abc
 
 ### Heading 2 II
 
-(^8) Eine Überschrifts-Fussnote... so was gibts auch!
-(^9) Wisse, dass ist eine Fussnote in einem Zitat!
-(^10) Der Albert Einstein (Fussnote im Zitat, am Ende der Zeile)
+[^8]: Eine Überschrifts-Fussnote... so was gibts auch!
+[^9]: Wisse, dass ist eine Fussnote in einem Zitat!
+[^10]: Der Albert Einstein (Fussnote im Zitat, am Ende der Zeile)
 
 

@@ -19,7 +19,7 @@ export default class MarkdownConverter implements Converter {
       const blockTypes: TextType[] = blockItems[0].data['types'] || [];
       let blockContent = '';
       groupByLine(blockItems).forEach((lineItems) => {
-        blockContent += linesToText(lineItems, blockTypes.length > 0);
+        blockContent += lineToText(lineItems, blockTypes.length > 0);
         blockContent += '\n';
       });
       content += elementToText(blockContent, blockTypes[0]);
@@ -39,7 +39,9 @@ function elementToText(text: string, type: TextType) {
     case 'H6':
       return '#'.repeat(headlineLevel(type)) + ' ' + text + '\n';
     case 'CODE':
-      return '```\n' + text + '\n```';
+      return '```\n' + text.trim() + '\n```\n';
+    case 'FOOTNOTES':
+      return text;
     default:
       return text + '\n';
   }
@@ -49,7 +51,7 @@ function toWords(text: string): string[] {
   return text.split(' ').filter((string) => string.trim().length > 0);
 }
 
-export function linesToText(lineItems: Item[], disableInlineFormats: boolean = false) {
+export function lineToText(lineItems: Item[], disableInlineFormats: boolean = false) {
   let text = '';
   let openFormat: TokenType;
 

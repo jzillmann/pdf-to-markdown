@@ -32,9 +32,10 @@ This PDF book is designed and published by PDFREEBOOKS.ORG
 
 
 
-## Poem. All in the golden afternoon
+## Poem
 
 ```
+All in the golden afternoon
 Full leisurely we glide;
 For both our oars, with little skill,
 By little arms are plied,
@@ -79,12 +80,10 @@ In Memory’s mystic band,
 Like pilgrim’s wither’d wreath of flowers
 Pluck’d in a far-off land.
 ```
-### 3
 
+## Chapter I
 
-# Chapter I
-
-## I Down the Rabbit-Hole
+## Down the Rabbit-Hole
 
 Alice was beginning to get very tired of sitting by her sister on the bank and
 of having nothing to do; once or twice she had peeped into the book her sister
@@ -97,28 +96,23 @@ pleasure of making a daisy-chain would be
 worth the trouble of getting up and picking
 the daisies, when suddenly a White Rabbit
 with pink eyes ran close by her.
-There was nothing soveryremarkable
-in that; nor did Alice think it soverymuch
+There was nothing so very remarkable
+in that; nor did Alice think it so very much
 out of the way to hear the Rabbit say to it-
 self, ‘Oh dear! Oh dear! I shall be late!’
-(when she thought it over afterwards, it oc-
-curred to her that she ought to have won-
-dered at this, but at the time it all seemed
-quite natural); but when the Rabbit actu-
-allytook a watch out of its waistcoat-pocket
+(when she thought it over afterwards, it occurred
+to her that she ought to have wondered
+at this, but at the time it all seemed
+quite natural); but when the Rabbit actually
+took a watch out of its waistcoat-pocket
 and looked at it and then hurried on, Alice
 started to her feet, for it flashed across her
 mind that she had never before seen a rabbit
-with either a waistcoat-pocket or a watch to take out of it, and burning with cu-
-riosity, she ran across the field after it, and fortunately was just in time to see it
+with either a waistcoat-pocket or a watch to take out of it, and burning with curiosity,
+she ran across the field after it, and fortunately was just in time to see it
 pop down a large rabbit-hole under the hedge.
 In another moment down went Alice after it, never once considering how in
 the world she was to get out again.
-
-### 4
-
-
-### CHAPTER I. DOWN THE RABBIT-HOLE 5
 
 The rabbit-hole went straight on like a tunnel for some way, and then dipped
 suddenly down, so suddenly that Alice had not a moment to think about stopping
@@ -129,28 +123,28 @@ next. First, she tried to look down and make out what she was coming to, but it 
 too dark to see anything; then she looked at the sides of the well, and noticed that
 they were filled with cupboards and book-shelves; here and there she saw maps
 and pictures hung upon pegs. She took down a jar from one of the shelves as she
-passed; it was labelled ‘ORANGEMARMALADE’, but to her great disappointment
+passed; it was labelled ‘ORANGE MARMALADE’, but to her great disappointment
 it was empty: she did not like to drop the jar for fear of killing somebody, so
 managed to put it into one of the cupboards as she fell past it.
 ‘Well!’ thought Alice to herself, ‘after such a fall as this, I shall think nothing
 of tumbling down stairs! How brave they’ll all think me at home! Why, I wouldn’t
 say anything about it, even if I fell off the top of the house!’ (Which was very
 likely true.)
-Down, down, down. Would the fallnevercome to an end! ‘I wonder how
+Down, down, down. Would the fall never come to an end! ‘I wonder how
 many miles I’ve fallen by this time?’ she said aloud. ‘I must be getting somewhere
 near the centre of the earth. Let me see: that would be four thousand miles down,
 I think – ’ (for, you see, Alice had learnt several things of this sort in her lessons in
-the schoolroom, and though this was not averygood opportunity for showing off
+the schoolroom, and though this was not a very good opportunity for showing off
 her knowledge, as there was no one to listen to her, still it was good practice to say
 it over) ‘ – yes, that’s about the right distance – but then I wonder what Latitude or
 Longitude I’ve got to?’ (Alice had no idea what Latitude was or Longitude either,
 but thought they were nice grand words to say.)
-Presently she began again. ‘I wonder if I shall fall rightthroughthe earth!
+Presently she began again. ‘I wonder if I shall fall right through the earth!
 How funny it’ll seem to come out among the people that walk with their heads
-downward! The Antipathies, I think – ’ (she was rather glad therewasno one
+downward! The Antipathies, I think – ’ (she was rather glad there was no one
 listening, this time, as it didn’t sound at all the right word) ‘ – but I shall have to
 ask them what the name of the country is, you know. Please, Ma’am, is this New
-Zealand or Australia?’ (and she tried to curtsey as she spoke – fancycurtseying
+Zealand or Australia?’ (and she tried to curtsey as she spoke – fancy curtseying
 as you’re falling through the air! Do you think you could manage it?) ‘And what
 an ignorant little girl she’ll think me for asking! No, it’ll never do to ask; perhaps
 I shall see it written up somewhere.’
@@ -161,9 +155,6 @@ I wish you were down here with me! There are no mice in the air, I’m afraid, b
 you might catch a bat and that’s very like a mouse, you know. But do cats eat
 bats, I wonder?’ And here Alice began to get rather sleepy and went on saying
 to herself, in a dreamy sort of way, ‘Do cats eat bats? Do cats eat bats?’ and
-
-
-### CHAPTER I. DOWN THE RABBIT-HOLE 6
 
 sometimes, ‘Do bats eat cats?’ for, you see, as she couldn’t answer either question,
 it didn’t much matter which way she put it. She felt that she was dozing off and
@@ -190,14 +181,14 @@ and Alice’s first thought was that it might
 belong to one of the doors of the hall, but,
 alas! either the locks were too large or the
 key was too small, but at any rate it would
-not open any of them. However, on the sec-
-ond time round, she came upon a low cur-
-tain she had not noticed before and behind
+not open any of them. However, on the second
+time round, she came upon a low curtain
+she had not noticed before and behind
 it was a little door about fifteen inches high;
 she tried the little golden key in the lock and to her great delight it fitted!
 Alice opened the door and found that it led into a small passage, not much
-larger than a rat-hole; she knelt down and looked along the passage into the loveli-
-est garden you ever saw. How she longed to get out of that dark hall, and wan-
+larger than a rat-hole; she knelt down and looked along the passage into the loveliest
+garden you ever saw. How she longed to get out of that dark hall, and wan-
 der about among those beds of bright flowers and those cool fountains, but she
 could not even get her head through the doorway; ‘and even if my head would go
 through,’ thought poor Alice, ‘it would be of very little use without my shoulders.
@@ -205,41 +196,38 @@ Oh, how I wish I could shut up like a telescope! I think I could, if I only know
 how to begin.’ For, you see, so many out-of-the-way things had happened lately,
 that Alice had begun to think that very few things indeed were really impossible.
 
-
-### CHAPTER I. DOWN THE RABBIT-HOLE 7
-
 There seemed to be no use in wait-
 ing by the little door, so she went back
 to the table, half hoping she might find
 another key on it or at any rate a book
 of rules for shutting people up like tele-
-scopes; this time she found a little bot-
-tle on it, (‘which certainly was not here
+scopes; this time she found a little bottle
+on it, (‘which certainly was not here
 before,’ said Alice,) and round the neck
 of the bottle was a paper label, with the
 words ‘DRINK ME’ beautifully printed
 on it in large letters.
 It was all very well to say ‘Drink me,’
 but the wise little Alice was not going to
-dothatin a hurry. ‘No, I’ll look first,’ she
+do that in a hurry. ‘No, I’ll look first,’ she
 said, ‘and see whether it’s marked “poi-
 son” or not’; for she had read several nice
 little histories about children who had
 got burnt, and eaten up by wild beasts
 and other unpleasant things, all because
-theywouldnot remember the simple rules their friends had taught them: such as,
+they would not remember the simple rules their friends had taught them: such as,
 that a red-hot poker will burn you if you hold it too long; and that if you cut your
-fingerverydeeply with a knife, it usually bleeds; and she had never forgotten that,
+finger very deeply with a knife, it usually bleeds; and she had never forgotten that,
 if you drink much from a bottle marked ‘poison,’ it is almost certain to disagree
 with you, sooner or later.
-However, this bottle wasnotmarked ‘poison,’ so Alice ventured to taste it and
+However, this bottle was not marked ‘poison,’ so Alice ventured to taste it and
 finding it very nice, (it had, in fact, a sort of mixed flavour of cherry-tart, custard,
 pine-apple, roast turkey, toffee and hot buttered toast) she very soon finished it off.
 
 * * * * * * * * * *
 ‘What a curious feeling!’ said Alice, ‘I must be shutting up like a telescope.’
-And so it was indeed: she was now only ten inches high and her face bright-
-ened up at the thought that she was now the right size for going through the little
+And so it was indeed: she was now only ten inches high and her face brightened
+up at the thought that she was now the right size for going through the little
 door into that lovely garden. First, however, she waited for a few minutes to see
 if she was going to shrink any further; she felt a little nervous about this; ‘for
 it might end, you know,’ said Alice to herself, ‘in my going out altogether, like
@@ -249,9 +237,6 @@ ever having seen such a thing.
 After a while, finding that nothing more happened, she decided on going into
 the garden at once; but, alas for poor Alice! when she got to the door, she found
 she had forgotten the little golden key, and when she went back to the table for it,
-
-
-### CHAPTER I. DOWN THE RABBIT-HOLE 8
 
 she found she could not possibly reach it; she could see it quite plainly through
 the glass, and she tried her best to climb up one of the legs of the table, but it was
@@ -264,7 +249,7 @@ so severely as to bring tears into her eyes; and once she remembered trying to
 box her own ears for having cheated herself in a game of croquet she was playing
 against herself, for this curious child was very fond of pretending to be two people.
 ‘But it’s no use now,’ thought poor Alice, ‘to pretend to be two people! Why,
-there’s hardly enough of me left to makeonerespectable person!’
+there’s hardly enough of me left to make one respectable person!’
 Soon her eye fell on a little glass box that was lying under the table; she
 opened it, and found in it a very small cake, on which the words ‘EATME’ were
 beautifully marked in currants. ‘Well, I’ll eat it,’ said Alice, ‘and if it makes me
@@ -280,9 +265,9 @@ So she set to work, and very soon finished off the cake.
 * * * * * * * * * *
 
 
-# Chapter II
+## Chapter II
 
-## II The Pool of Tears
+## The Pool of Tears
 
 ‘Curiouser and curiouser!’ cried Alice (she was so
 much surprised, that for the moment she quite forgot
@@ -291,7 +276,7 @@ the largest telescope that ever was! Good-bye, feet!’
 (for when she looked down at her feet, they seemed to
 be almost out of sight, they were getting so far off). ‘Oh,
 my poor little feet, I wonder who will put on your shoes
-and stockings for you now, dears? I’m sureIshan’t
+and stockings for you now, dears? I’m sure I shan’t
 be able! I shall be a great deal too far off to trouble
 myself about you: you must manage the best way you
 can; – but I must be kind to them,’ thought Alice, ‘or
@@ -303,21 +288,17 @@ manage it. ‘They must go by the carrier,’ she thought,
 own feet! And how odd the directions will look!
 
 ```
-ALICE’SRIGHTFOOT, ESQ.
+ALICE’S RIGHT FOOT, ESQ.
 HEARTHRUG,
-NEAR THEFENDER,
-(WITHALICE’SLOVE).
+NEAR THE FENDER,
+(WITH ALICE’S LOVE).
 ```
+
 Oh dear, what nonsense I’m talking!’
 Just then her head struck against the roof of the hall;
 in fact she was now more than nine feet high and she at
 once took up the little golden key and hurried off to the
 garden door.
-
-### 9
-
-
-### CHAPTER II. THE POOL OF TEARS 10
 
 Poor Alice! It was as much as she could do, lying down on one side, to look
 through into the garden with one eye; but to get through was more hopeless than
@@ -326,11 +307,11 @@ ever; she sat down and began to cry again.
 might well say this), ‘to go on crying in this way! Stop this moment, I tell you!’
 But she went on all the same, shedding gallons of tears, until there was a large
 pool all round her, about four inches deep and reaching half down the hall.
-After a time she heard a little pat-
-tering of feet in the distance and she
+After a time she heard a little pattering
+of feet in the distance and she
 hastily dried her eyes to see what
-was coming. It was the White Rab-
-bit returning, splendidly dressed, with
+was coming. It was the White Rabbit
+returning, splendidly dressed, with
 a pair of white kid gloves in one hand
 and a large fan in the other; he came
 trotting along in a great hurry, mutter-
@@ -341,28 +322,25 @@ ing!’ Alice felt so desperate that she
 was ready to ask help of any one; so,
 when the Rabbit came near her, she
 began, in a low, timid voice, ‘If you
-please, sir – ’ The Rabbit started vi-
-olently, dropped the white kid gloves and the fan, and skurried away into the
+please, sir – ’ The Rabbit started violently,
+dropped the white kid gloves and the fan, and skurried away into the
 darkness as hard as he could go.
 Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning
 herself all the time she went on talking, ‘Dear, dear! How queer everything is to-
 day! And yesterday things went on just as usual. I wonder if I’ve been changed
 in the night? Let me think: was I the same when I got up this morning? I almost
 think I can remember feeling a little different. But if I’m not the same, the next
-question is, Who in the world am I? Ah,that’sthe great puzzle!’ And she began
+question is, Who in the world am I? Ah, that’s the great puzzle!’ And she began
 thinking over all the children she knew that were of the same age as herself, to see
 if she could have been changed for any of them.
 ‘I’m sure I’m not Ada,’ she said, ‘for her hair goes in such long ringlets, and
 mine doesn’t go in ringlets at all; and I’m sure I can’t be Mabel, for I know all
-sorts of things, and she, oh! she knows such a very little! Besides,she’sshe, and
+sorts of things, and she, oh! she knows such a very little! Besides, she’s she, and
 I’m I, and – oh dear, how puzzling it all is! I’ll try if I know all the things I used
 to know. Let me see: four times five is twelve, and four times six is thirteen, and
 four times seven is – oh dear! I shall never get to twenty at that rate! However, the
 Multiplication Table doesn’t signify; let’s try Geography. London is the capital
-of Paris, and Paris is the capital of Rome, and Rome – no,that’sall wrong, I’m
-
-
-### CHAPTER II. THE POOL OF TEARS 11
+of Paris, and Paris is the capital of Rome, and Rome – no, that’s all wrong, I’m
 
 certain! I must have been changed for Mabel! I’ll try and say “How doth the
 little – ” ’ and she crossed her hands on her lap as if she were saying lessons and
@@ -379,6 +357,7 @@ How neatly spread his claws,
 And welcome little fishes in
 With gently smiling jaws!’
 ```
+
 ‘I’m sure those are not the right words,’ said poor Alice, and her eyes filled
 with tears again as she went on, ‘I must be Mabel after all, and I shall have to go
 and live in that poky little house and have next to no toys to play with, and oh! ever
@@ -387,15 +366,15 @@ stay down here! It’ll be no use their putting their heads down and saying “C
 up again, dear!” I shall only look up and say, “Who am I then? Tell me that first,
 and then, if I like being that person, I’ll come up: if not, I’ll stay down here till I’m
 somebody else” – but, oh dear!’ cried Alice, with a sudden burst of tears, ‘I do
-wish theywouldput their heads down! I am soverytired of being all alone here!’
+wish they would put their heads down! I am so very tired of being all alone here!’
 As she said this she looked down at her hands, and was surprised to see that
 she had put on one of the Rabbit’s little white kid gloves while she was talking.
-‘HowcanI have done that?’ she thought, ‘I must be growing small again.’ She
+‘How can I have done that?’ she thought, ‘I must be growing small again.’ She
 got up and went to the table to measure herself by it, and found that, as nearly
 as she could guess, she was now about two feet high and was going on shrinking
 rapidly; she soon found out that the cause of this was the fan she was holding, and
 she dropped it hastily, just in time to avoid shrinking away altogether.
-‘Thatwasa narrow escape!’ said Alice, a good deal frightened at the sudden
+‘That was a narrow escape!’ said Alice, a good deal frightened at the sudden
 change, but very glad to find herself still in existence, ‘and now for the garden!’
 and she ran with all speed back to the little door; but, alas! the little door was
 shut again, and the little golden key was lying on the glass table as before, ‘and
@@ -407,9 +386,6 @@ the sea, ‘and in that case I can go back by railway,’ she said to herself. (
 been to the seaside once in her life, and had come to the general conclusion, that
 wherever you go to on the English coast you find a number of bathing machines
 
-
-### CHAPTER II. THE POOL OF TEARS 12
-
 in the sea, some children digging in
 the sand with wooden spades, then
 a row of lodging houses and behind
@@ -419,9 +395,9 @@ of tears which she had wept when she
 was nine feet high.
 ‘I wish I hadn’t cried so much!’
 said Alice, as she swam about, trying
-to find her way out, ‘I shall be pun-
-ished for it now, I suppose, by being
-drowned in my own tears! Thatwill
+to find her way out, ‘I shall be punished
+for it now, I suppose, by being
+drowned in my own tears! That will
 be a queer thing, to be sure! However,
 everything is queer to-day.’
 Just then she heard something splashing about in the pool a little way off, and
@@ -451,10 +427,7 @@ lesson-book. The Mouse gave a sudden leap out of the water, and seemed to quiver
 all over with fright. ‘Oh, I beg your pardon!’ cried Alice hastily, afraid that she
 had hurt the poor animal’s feelings. ‘I quite forgot you didn’t like cats.’
 
-
-### CHAPTER II. THE POOL OF TEARS 13
-
-‘Not like cats!’ cried the Mouse, in a shrill, passionate voice, ‘Wouldyoulike
+‘Not like cats!’ cried the Mouse, in a shrill, passionate voice, ‘Would you like
 cats if you were me?’
 ‘Well, perhaps not,’ said Alice in a soothing tone, ‘don’t be angry about it.
 And yet I wish I could show you our cat Dinah: I think you’d take a fancy to cats
@@ -465,10 +438,10 @@ nurse – and she’s such a capital one for catching mice – oh, I beg your pa
 cried Alice again, for this time the Mouse was bristling all over and she felt certain
 it must be really offended, ‘We won’t talk about her any more if you’d rather not.’
 ‘We indeed!’ cried the Mouse, who was trembling down to the end of his tail,
-‘As if I would talk on such a subject! Our family alwayshatedcats: nasty, low,
+‘As if I would talk on such a subject! Our family always hated cats: nasty, low,
 vulgar things! Don’t let me hear the name again!’
-‘I won’t indeed!’ said Alice, in a great hurry to change the subject of con-
-versation, ‘Are you – are you fond – of – of dogs?’ The Mouse did not answer,
+‘I won’t indeed!’ said Alice, in a great hurry to change the subject of conversation,
+‘Are you – are you fond – of – of dogs?’ The Mouse did not answer,
 so Alice went on eagerly, ‘There is such a nice little dog near our house I should
 like to show you! A little bright-eyed terrier, you know, with oh, such long curly
 brown hair! And it’ll fetch things when you throw them and it’ll sit up and beg for
@@ -488,9 +461,9 @@ Eaglet, and several other curious creatures. Alice led the way, and the whole pa
 swam to the shore.
 
 
-# Chapter III
+## Chapter III
 
-## III A Caucus-Race and a Long Tale
+## A Caucus-Race and a Long Tale
 
 They were indeed a queer-looking party that assembled on the bank – the birds
 with draggled feathers, the animals with their fur clinging close to them, and all
@@ -504,13 +477,13 @@ the Lory, who at last turned sulky, and
 would only say, ‘I am older than you
 and must know better’; and this Al-
 ice would not allow without knowing
-how old it was and, as the Lory posi-
-tively refused to tell its age, there was
+how old it was and, as the Lory positively
+refused to tell its age, there was
 no more to be said.
 At last the Mouse, who seemed to
 be a person of authority among them,
 called out, ‘Sit down, all of you, and
-listen to me! I’llsoon make you dry
+listen to me! I’ll soon make you dry
 enough!’ They all sat down at once,
 in a large ring, with the Mouse in the
 middle. Alice kept her eyes anxiously fixed on it, for she felt sure she would catch
@@ -521,20 +494,15 @@ whose cause was favoured by the pope, was soon submitted to by the English,
 who wanted leaders, and had been of late much accustomed to usurpation and
 conquest. Edwin and Morcar, the earls of Mercia and Northumbria – ” ’
 
-### 14
-
-
-### CHAPTER III. A CAUCUS-RACE AND A LONG TALE 15
-
 ‘Ugh!’ said the Lory, with a shiver.
 ‘I beg your pardon!’ said the Mouse, frowning, but very politely, ‘Did you
 speak?’
 ‘Not I!’ said the Lory hastily.
 ‘I thought you did,’ said the Mouse, ‘ – I proceed. “Edwin and Morcar, the
-earls of Mercia and Northumbria, declared for him; and even Stigand, the patriotic
+earls of Mercia and Northumbria, declared for him; and even Stig and, the patriotic
 archbishop of Canterbury, found it advisable – ” ’
-‘Foundwhat?’ said the Duck.
-‘Foundit,’ the Mouse replied rather crossly, ‘of course you know what “it”
+‘Found what?’ said the Duck.
+‘Found it,’ the Mouse replied rather crossly, ‘of course you know what “it”
 means.’
 ‘I know what “it” means well enough when I find a thing,’ said the Duck, ‘it’s
 generally a frog or a worm. The question is, what did the archbishop find?’
@@ -552,11 +520,8 @@ its head to hide a smile; some of the other birds tittered audibly.
 ‘What I was going to say,’ said the Dodo in an offended tone, ‘was, that the
 best thing to get us dry would be a Caucus-race.’
 
-
-### CHAPTER III. A CAUCUS-RACE AND A LONG TALE 16
-
-‘Whatisa Caucus-race?’ said Alice; not that she wanted much to know, but
-the Dodo had paused as if it thought thatsomebodyought to speak, and no one
+‘What is a Caucus-race?’ said Alice; not that she wanted much to know, but
+the Dodo had paused as if it thought that somebody ought to speak, and no one
 else seemed inclined to say anything.
 ‘Why,’ said the Dodo, ‘the best way to explain it is to do it.’ (And, as you
 might like to try the thing yourself, some winter day, I will tell you how the Dodo
@@ -571,9 +536,9 @@ crowded round it, panting, and asking, ‘But who has won?’
 This question the Dodo could not answer without a great deal of thought, and
 it sat for a long time with one finger pressed upon its forehead (the position in
 which you usually see Shakespeare, in the pictures of him), while the rest waited
-in silence. At last the Dodo said, ‘everybodyhas won, and all must have prizes.’
+in silence. At last the Dodo said, ‘every body has won, and all must have prizes.’
 ‘But who is to give the prizes?’ quite a chorus of voices asked.
-‘Why,she, of course,’ said the Dodo, pointing to Alice with one finger; and
+‘Why, she, of course,’ said the Dodo, pointing to Alice with one finger; and
 the whole party at once crowded round her, calling out in a confused way, ‘Prizes!
 Prizes!’
 Alice had no idea what to do, and in despair she put her hand in her pocket,
@@ -584,8 +549,8 @@ handed them round as prizes. There was exactly one a-piece all round.
 pocket?’ he went on, turning to Alice.
 ‘Only a thimble,’ said Alice sadly.
 ‘Hand it over here,’ said the Dodo.
-Then they all crowded round her once more, while the Dodo solemnly pre-
-sented the thimble, saying, ‘We beg your acceptance of this elegant thimble’; and,
+Then they all crowded round her once more, while the Dodo solemnly presented
+the thimble, saying, ‘We beg your acceptance of this elegant thimble’; and,
 when it had finished this short speech, they all cheered.
 Alice thought the whole thing very absurd, but they all looked so grave that
 she did not dare to laugh; and, as she could not think of anything to say, she simply
@@ -596,9 +561,6 @@ choked and had to be patted on the back. However, it was over at last and they s
 down again in a ring and begged the Mouse to tell them something more.
 ‘You promised to tell me your history, you know,’ said Alice, ‘and why it is you
 hate – C and D,’ she added in a whisper, half afraid that it would be offended again.
-
-
-### CHAPTER III. A CAUCUS-RACE AND A LONG TALE 17
 
 ‘Mine is a long and a sad tale!’ said the Mouse, turning to Alice and sighing.
 ‘It isa long tail, certainly,’ said Alice, looking down with wonder at the
@@ -645,30 +607,28 @@ whole
 cause,
 and
 condemn
-toyou
+you
+to
 death.” ’
 ‘You are not attending!’ said the Mouse to Alice severely, ‘What are you
 thinking of?’
 ‘I beg your pardon,’ said Alice very humbly, ‘you had got to the fifth bend,
 I think?’
-‘I hadnot!’ cried the Mouse, sharply and very angrily.
-‘A knot!’ said Alice, always ready to make herself useful, and looking anx-
-iously about her, ‘Oh, do let me help to undo it!’
+‘I had not!’ cried the Mouse, sharply and very angrily.
+‘A knot!’ said Alice, always ready to make herself useful, and looking anxiously
+about her, ‘Oh, do let me help to undo it!’
 ‘I shall do nothing of the sort,’ said the Mouse, getting up and walking away,
 ‘You insult me by talking such nonsense!’
-
-
-### CHAPTER III. A CAUCUS-RACE AND A LONG TALE 18
 
 ‘I didn’t mean it!’ pleaded poor Alice. ‘But you’re so easily offended, you
 know!’
 The Mouse only growled in reply.
 ‘Please come back and finish your story!’ Alice called after it, and the others
-all joined in chorus, ‘Yes, please do!’ but the Mouse only shook its head impa-
-tiently, and walked a little quicker.
+all joined in chorus, ‘Yes, please do!’ but the Mouse only shook its head impatiently,
+and walked a little quicker.
 ‘What a pity it wouldn’t stay!’ sighed the Lory as soon as it was quite out of
 sight; and an old Crab took the opportunity of saying to her daughter, ‘Ah, my
-dear! Let this be a lesson to you never to loseyourtemper!’ – ‘Hold your tongue,
+dear! Let this be a lesson to you never to lose your temper!’ – ‘Hold your tongue,
 Ma!’ said the young Crab, a little snappishly, ‘You’re enough to try the patience
 of an oyster!’
 ‘I wish I had our Dinah here, I know I do!’ said Alice aloud, addressing
@@ -693,21 +653,21 @@ she looked up eagerly, half hoping that the Mouse had changed his mind, and was
 coming back to finish his story.
 
 
-# Chapter IV
+## Chapter IV
 
-## IV The Rabbit Sends in a Little Bill
+## The Rabbit Sends in a Little Bill
 
 It was the White Rabbit, trotting slowly back again, and looking anxiously about
 as it went, as if it had lost something; and she heard it muttering to itself, ‘The
 Duchess! The Duchess! Oh my dear paws! Oh my fur and whiskers! She’ll
-get me executed, as sure as ferrets are ferrets! WherecanI have dropped them,
+get me executed, as sure as ferrets are ferrets! Where can I have dropped them,
 I wonder?’ Alice guessed in a moment that it was looking for the fan and the pair
 of white kid gloves, and she very good-naturedly began hunting about for them,
 but they were nowhere to be seen – everything seemed to have changed since her
 swim in the pool, and the great hall, with the glass table and the little door, had
 vanished completely.
 Very soon the Rabbit noticed Alice, as she went hunting about, and called out
-to her in an angry tone, ‘Why, Mary Ann, whatareyou doing out here? Run
+to her in an angry tone, ‘Why, Mary Ann, what are you doing out here? Run
 home this moment, and fetch me a pair of gloves and a fan! Quick, now!’ And
 Alice was so much frightened that she ran off at once in the direction it pointed
 to, without trying to explain the mistake it had made.
@@ -725,17 +685,12 @@ for your walk!” – “Coming in a minute, nurse! But I’ve got to see that t
 doesn’t get out.” Only I don’t think,’ Alice went on, ‘that they’d let Dinah stop in
 the house if it began ordering people about like that!’
 
-### 19
-
-
-### CHAPTER IV. THE RABBIT SENDS IN A LITTLE BILL 20
-
 By this time she had found her way into a tidy little room with a table in the
 window, and on it (as she had hoped) a fan and two or three pairs of tiny white kid
 gloves; she took up the fan and a pair of the gloves, and was just going to leave
 the room, when her eye fell upon a little bottle that stood near the looking-glass.
-There was no label this time with the words ‘DRINKME,’ but nevertheless she
-uncorked it and put it to her lips. ‘I knowsomethinginteresting is sure to happen,’
+There was no label this time with the words ‘DRINK ME,’ but nevertheless she
+uncorked it and put it to her lips. ‘I know something interesting is sure to happen,’
 she said to herself, ‘whenever I eat or drink anything; so I’ll just see what this
 bottle does. I do hope it’ll make me grow large again, for really I’m quite tired of
 being such a tiny little thing!’
@@ -755,7 +710,7 @@ she put one arm out of the win-
 dow, and one foot up the chimney,
 and said to herself ‘Now I can do
 no more, whatever happens. What
-willbecome of me?’
+will become of me?’
 Luckily for Alice, the little
 magic bottle had now had its full effect, and she grew no larger; still it was very
 uncomfortable, and, as there seemed to be no sort of chance of her ever getting
@@ -763,20 +718,17 @@ out of the room again, no wonder she felt unhappy.
 ‘It was much pleasanter at home,’ thought poor Alice, ‘when one wasn’t al-
 ways growing larger and smaller, and being ordered about by mice and rabbits.
 I almost wish I hadn’t gone down that rabbit-hole – and yet – and yet – it’s rather
-curious, you know, this sort of life! I do wonder whatcanhave happened to me!
+curious, you know, this sort of life! I do wonder what can have happened to me!
 When I used to read fairy-tales, I fancied that kind of thing never happened, and
 now here I am in the middle of one! There ought to be a book written about me,
 that there ought! And when I grow up, I’ll write one – but I’m grown up now,’ she
-added in a sorrowful tone, ‘at least there’s no room to grow up any morehere.’
-‘But then,’ thought Alice, ‘shall Ineverget any older than I am now? That’ll
+added in a sorrowful tone, ‘at least there’s no room to grow up any more here.’
+‘But then,’ thought Alice, ‘shall I never get any older than I am now? That’ll
 be a comfort, one way – never to be an old woman – but then – always to have
-lessons to learn! Oh, I shouldn’t likethat!’
-
-
-### CHAPTER IV. THE RABBIT SENDS IN A LITTLE BILL 21
+lessons to learn! Oh, I shouldn’t like that!’
 
 ‘Oh, you foolish Alice!’ she answered herself, ‘How can you learn lessons in
-here? Why, there’s hardly room foryou, and no room at all for any lesson-books!’
+here? Why, there’s hardly room for you, and no room at all for any lesson-books!’
 And so she went on, taking first one side and then the other, and making quite
 a conversation of it altogether; but after a few minutes she heard a voice outside
 and stopped to listen.
@@ -806,7 +758,7 @@ before, ‘Sure then I’m here! Digging
 for apples, yer honour!’
 ‘Digging for apples, indeed!’ said
 the Rabbit angrily, ‘Here! Come and
-help me out ofthis!’ (Sounds of more
+help me out of this!’ (Sounds of more
 broken glass.)
 ‘Now tell me, Pat, what’s that in the window?’
 ‘Sure, it’s an arm, yer honour!’ (He pronounced it ‘arrum.’)
@@ -817,11 +769,8 @@ window!’
 There was a long silence after this and Alice could only hear whispers now and
 then; such as, ‘Sure, I don’t like it, yer honour, at all, at all!’ – ‘Do as I tell you,
 
-
-### CHAPTER IV. THE RABBIT SENDS IN A LITTLE BILL 22
-
 you coward!’ and at last she spread out her hand again and made another snatch
-in the air. This time there weretwolittle shrieks and more sounds of broken glass.
+in the air. This time there were two little shrieks and more sounds of broken glass.
 ‘What a number of cucumber-frames there must be!’ thought Alice, ‘I wonder
 what they’ll do next! As for pulling me out of the window, I only wish they
 could! I’m sure I don’t want to stay in here any longer!’
@@ -832,13 +781,13 @@ one; Bill’s got the other – Bill! fetch it here, lad! – Here, put ’em up
 No, tie ’em together first – they don’t reach half high enough yet – Oh! they’ll do
 well enough; don’t be particular – Here, Bill! catch hold of this rope – Will the
 roof bear? – Mind that loose slate – Oh, it’s coming down! Heads below!’ (a loud
-crash) ‘Now, who did that? – It was Bill, I fancy – Who’s to go down the chim-
-ney? – Nay, I shan’t!youdo it! – That I won’t, then! – Bill’s to go down – Here,
+crash) ‘Now, who did that? – It was Bill, I fancy – Who’s to go down the chimney?
+– Nay, I shan’t! you do it! – That I won’t, then! – Bill’s to go down – Here,
 Bill! the master says you’re to go down the chimney!’
 ‘Oh! So Bill’s got to come down the chimney, has
 he?’ said Alice to herself, ‘Shy, they seem to put every-
 thing upon Bill! I wouldn’t be in Bill’s place for a good
-deal: this fireplace is narrow, to be sure; but IthinkI can
+deal: this fireplace is narrow, to be sure; but I think I can
 kick a little!’
 She drew her foot as far down the chimney as she
 could and waited till she heard a little animal (she
@@ -849,8 +798,8 @@ and waited to see what would happen next.
 The first thing she heard was a general chorus of
 ‘There goes Bill!’ then the Rabbit’s voice along –
 ‘Catch him, you by the hedge!’; then silence, and then
-another confusion of voices – ‘Hold up his head – Bran-
-dy now – Don’t choke him – How was it, old fellow?
+another confusion of voices – ‘Hold up his head – Brandy
+now – Don’t choke him – How was it, old fellow?
 What happened to you? Tell us all about it!’
 Last came a little feeble, squeaking voice, (‘That’s
 Bill,’ thought Alice,) ‘Well, I hardly know – No more,
@@ -861,14 +810,11 @@ a Jack-in-the-box, and up I goes like a sky-rocket!’
 ‘We must burn the house down!’ said the Rabbit’s voice; and Alice called out
 as loud as she could, ‘If you do I’ll set Dinah at you!’
 
-
-### CHAPTER IV. THE RABBIT SENDS IN A LITTLE BILL 23
-
 There was a dead silence instantly and Alice thought to herself, ‘I wonder
-what theywilldo next! If they had any sense, they’d take the roof off.’ After
+what they will do next! If they had any sense, they’d take the roof off.’ After
 a minute or two they began moving about again, and Alice heard the Rabbit say,
 ‘A barrowful will do, to begin with.’
-‘A barrowful ofwhat?’ thought Alice; but she had not long to doubt, for the
+‘A barrowful of what?’ thought Alice; but she had not long to doubt, for the
 next moment a shower of little pebbles came rattling in at the window and some
 of them hit her in the face. ‘I’ll put a stop to this,’ she said to herself and shouted
 out, ‘You’d better not do that again!’ which produced another dead silence.
@@ -888,8 +834,8 @@ the wood, ‘is to grow to my right size again; and the second thing is to find 
 way into that lovely garden. I think that will be the best plan.’
 It sounded an excellent plan, no doubt, and very neatly and simply arranged;
 the only difficulty was, that she had not the smallest idea how to set about it; and
-while she was peering about anx-
-iously among the trees, a little sharp
+while she was peering about anxiously
+among the trees, a little sharp
 bark just over her head made her look
 up in a great hurry.
 An enormous puppy was looking
@@ -905,9 +851,6 @@ eat her up in spite of all her coaxing.
 Hardly knowing what she did she
 picked up a little bit of stick and held
 it out to the puppy; whereupon the
-
-
-### CHAPTER IV. THE RABBIT SENDS IN A LITTLE BILL 24
 
 puppy jumped into the air off all its feet at once with a yelp of delight, and rushed
 at the stick and made believe to worry it; then Alice dodged behind a great thistle,
@@ -926,7 +869,7 @@ sounded quite faint in the distance.
 a buttercup to rest herself, and fanned herself with one of the leaves, ‘I should
 have liked teaching it tricks very much, if – if I’d only been the right size to do it!
 Oh dear! I’d nearly forgotten that I’ve got to grow up again! Let me see – how
-isit to be managed? I suppose I ought to eat or drink something or other; but the
+is it to be managed? I suppose I ought to eat or drink something or other; but the
 great question is, what?’
 The great question certainly was, what? Alice looked all round her at the
 flowers and the blades of grass, but she did not see anything that looked like the
@@ -940,25 +883,25 @@ top with its arms folded, quietly smoking a long hookah, and taking not the smal
 est notice of her or of anything else.
 
 
-# Chapter V
+## Chapter V
 
-## V Advice from a Caterpillar
+## Advice from a Caterpillar
 
 The Caterpillar and Alice looked at each other for some time in silence; at last
 the Caterpillar took the hookah out of its mouth and addressed her in a languid,
 sleepy voice.
-‘Who areyou?’ said the Caterpillar.
+‘Who are you?’ said the Caterpillar.
 This was not an encouraging
 opening for a conversation. Alice
 replied, rather shyly, ‘I – I hardly
 know, sir, just at present – at least
-I know who Iwaswhen I got up this
+I know who I was when I got up this
 morning, but I think I must have been
 changed several times since then.’
 ‘What do you mean by that?’ said
 the Caterpillar sternly, ‘Explain your-
 self!’
-‘I can’t explainmyself, I’m afraid,
+‘I can’t explain myself, I’m afraid,
 sir’ said Alice, ‘because I’m not my-
 self, you see.’
 ‘I don’t see,’ said the Caterpillar.
@@ -973,20 +916,15 @@ a butterfly, I should think you’ll feel it a little queer, won’t you?’
 ‘Not a bit,’ said the Caterpillar.
 ‘Well, perhaps your feelings may be different,’ said Alice, ‘all I know is, it
 
-### 25
-
-
-### CHAPTER V. ADVICE FROM A CATERPILLAR 26
-
 would feel very queer tome.’
-‘You!’ said the Caterpillar contemptuously, ‘Who areyou?’
+‘You!’ said the Caterpillar contemptuously, ‘Who are you?’
 Which brought them back again to the beginning of the conversation. Alice
-felt a little irritated at the Caterpillar’s making suchveryshort remarks and she
-drew herself up and said, very gravely, ‘I think, you ought to tell me whoyouare,
+felt a little irritated at the Caterpillar’s making such very short remarks and she
+drew herself up and said, very gravely, ‘I think, you ought to tell me who you are,
 first.’
 ‘Why?’ said the Caterpillar.
 Here was another puzzling question; and as Alice could not think of any good
-reason, and as the Caterpillar seemed to be in averyunpleasant state of mind, she
+reason, and as the Caterpillar seemed to be in a very unpleasant state of mind, she
 turned away.
 ‘Come back!’ the Caterpillar called after her, ‘I’ve something important to
 say!’
@@ -1000,18 +938,15 @@ away without speaking, but at last it unfolded its arms, took the hookah out of 
 mouth again and said, ‘So you think you’re changed, do you?’
 ‘I’m afraid I am, sir,’ said Alice, ‘I can’t remember things as I used – and
 I don’t keep the same size for ten minutes together!’
-‘Can’t rememberwhatthings?’ said the Caterpillar.
-‘Well, I’ve tried to say “HOWDOTHTHELITTLEBUSYBEE,” but it all came
+‘Can’t remember what things?’ said the Caterpillar.
+‘Well, I’ve tried to say “HOW DOTH THE LITTLE BUSY BEE,” but it all came
 different!’ Alice replied in a very melancholy voice.
-‘Repeat “YOUAREOLD, FATHERWILLIAM,” ’ said the Caterpillar.
+‘Repeat “YOU ARE OLD, FATHER WILLIAM,” ’ said the Caterpillar.
 Alice folded her hands, and began:
 ‘You are old, Father William,’ the young man said,
 ‘And your hair has become very white;
 And yet you incessantly stand on your head –
 Do you think, at your age, it is right?’
-
-
-### CHAPTER V. ADVICE FROM A CATERPILLAR 27
 
 ```
 ‘In my youth,’ Father William replied to his son,
@@ -1040,8 +975,6 @@ And the muscular strength, which it gave to my jaw,
 Has lasted the rest of my life.’
 ```
 
-### CHAPTER V. ADVICE FROM A CATERPILLAR 28
-
 ```
 ‘You are old,’ said the youth, ‘one would hardly suppose
 That your eye was as steady as ever;
@@ -1055,7 +988,7 @@ Do you think I can listen all day to such stuff?
 Be off, or I’ll kick you down stairs!’
 ```
 ‘That is not said right,’ said the Caterpillar.
-‘Notquiteright, I’m afraid,’ said Alice, timidly, ‘some of the words have got
+‘Not quite right, I’m afraid,’ said Alice, timidly, ‘some of the words have got
 altered.’
 ‘It is wrong from beginning to end,’ said the Caterpillar decidedly, and there
 was silence for some minutes.
@@ -1063,11 +996,11 @@ The Caterpillar was the first to speak.
 ‘What size do you want to be?’ it asked.
 ‘Oh, I’m not particular as to size,’ Alice hastily replied, ‘only one doesn’t like
 changing so often, you know.’
-‘Idon’tknow,’ said the Caterpillar.
+‘I don’t know,’ said the Caterpillar.
 Alice said nothing: she had never been so much contradicted in her life before
 and she felt that she was losing her temper.
 ‘Are you content now?’ said the Caterpillar.
-‘Well, I should like to be alittlelarger, sir, if you wouldn’t mind,’ said Alice,
+‘Well, I should like to be a little larger, sir, if you wouldn’t mind,’ said Alice,
 ‘three inches is such a wretched height to be.’
 ‘It is a very good height indeed!’ said the Caterpillar angrily, rearing itself
 upright as it spoke (it was exactly three inches high).
@@ -1076,15 +1009,12 @@ of herself, ‘I wish the creatures wouldn’t be so easily offended!’
 ‘You’ll get used to it in time,’ said the Caterpillar; and it put the hookah into
 its mouth and began smoking again.
 
-
-### CHAPTER V. ADVICE FROM A CATERPILLAR 29
-
 This time Alice waited patiently until it chose to speak again. In a minute or
 two the Caterpillar took the hookah out of its mouth and yawned once or twice
 and shook itself. Then it got down off the mushroom, and crawled away in the
 grass, merely remarking as it went, ‘One side will make you grow taller and the
 other side will make you grow shorter.’
-‘One side ofwhat? The other side ofwhat?’ thought Alice to herself.
+‘One side of what? The other side of what?’ thought Alice to herself.
 ‘Of the mushroom,’ said the Caterpillar, just as if she had asked it aloud; and
 in another moment it was out of sight.
 Alice remained looking thoughtfully at the mushroom for a minute, trying to
@@ -1106,7 +1036,7 @@ into alarm in another moment, when she found that her shoulders were nowhere
 to be found: all she could see, when she looked down, was an immense length
 of neck, which seemed to rise like a stalk out of a sea of green leaves that lay far
 below her.
-‘Whatcanall that green stuff be?’ said Alice, ‘and wherehavemy shoulders
+‘What can all that green stuff be?’ said Alice, ‘and where have my shoulders
 got to? And oh, my poor hands, how is it I can’t see you?’ She was moving them
 about as she spoke, but no result seemed to follow, except a little shaking among
 the distant green leaves.
@@ -1119,10 +1049,7 @@ she had been wandering, when a sharp hiss made her draw back in a hurry:
 a large pigeon had flown into her face, and was beating her violently with its
 wings.
 ‘Serpent!’ screamed the Pigeon.
-‘I’mnota serpent!’ said Alice indignantly, ‘let me alone!’
-
-
-### CHAPTER V. ADVICE FROM A CATERPILLAR 30
+‘I’m not a serpent!’ said Alice indignantly, ‘let me alone!’
 
 ‘Serpent, I say again!’ repeated the Pigeon, but in a more subdued tone, and
 added with a kind of sob, ‘I’ve tried every way, and nothing seems to suit them!’
@@ -1140,33 +1067,30 @@ its meaning.
 ‘And just as I’d taken the highest tree in the wood,’ continued the Pigeon,
 raising its voice to a shriek, ‘and just as I was thinking I should be free of them at
 last, they must needs come wriggling down from the sky! Ugh, Serpent!’
-‘But I’mnota serpent, I tell you!’ said Alice, ‘I’m a – I’m a – ’
-‘Well! Whatare you?’ said the Pigeon, ‘I can see you’re trying to invent
+‘But I’m not a serpent, I tell you!’ said Alice, ‘I’m a – I’m a – ’
+‘Well! What are you?’ said the Pigeon, ‘I can see you’re trying to invent
 something!’
 ‘I – I’m a little girl,’ said Alice, rather doubtfully, as she remembered the
 number of changes she had gone through that day.
 ‘A likely story indeed!’ said the Pigeon in a tone of the deepest contempt,
-‘I’ve seen a good many little girls in my time, but neveronewith such a neck as
+‘I’ve seen a good many little girls in my time, but never one with such a neck as
 that! No, no! You’re a serpent; and there’s no use denying it. I suppose you’ll be
 telling me next that you never tasted an egg!’
-‘Ihavetasted eggs, certainly,’ said Alice, who was a very truthful child, ‘but
+‘I have tasted eggs, certainly,’ said Alice, who was a very truthful child, ‘but
 little girls eat eggs quite as much as serpents do, you know.’
 ‘I don’t believe it,’ said the Pigeon, ‘but if they do, why then they’re a kind of
 serpent, that’s all I can say.’
 This was such a new idea to Alice, that she was quite silent for a minute or
 two, which gave the Pigeon the opportunity of adding, ‘You’re looking for eggs,
-I knowthatwell enough; and what does it matter to me whether you’re a little girl
+I know that well enough; and what does it matter to me whether you’re a little girl
 or a serpent?’
 ‘It matters a good deal tome,’ said Alice hastily, ‘but I’m not looking for eggs,
-as it happens; and if I was, I shouldn’t wantyours: I don’t like them raw.’
+as it happens; and if I was, I shouldn’t want yours: I don’t like them raw.’
 ‘Well, be off, then!’ said the Pigeon in a sulky tone, as it settled down again
 into its nest. Alice crouched down among the trees as well as she could, for her
 neck kept getting entangled among the branches, and every now and then she had
 to stop and untwist it. After a while she remembered that she still held the pieces
 of mushroom in her hands and she set to work very carefully, nibbling first at one
-
-
-### CHAPTER V. ADVICE FROM A CATERPILLAR 31
 
 and then at the other, and growing sometimes taller and sometimes shorter until
 she had succeeded in bringing herself down to her usual height.
@@ -1175,17 +1099,17 @@ strange at first; but she got used to it in a few minutes and began talking to h
 as usual, ‘Come, there’s half my plan done now! How puzzling all these changes
 are! I’m never sure what I’m going to be, from one minute to another! However,
 I’ve got back to my right size; the next thing is, to get into that beautiful garden –
-howisthat to be done, I wonder?’ As she said this, she came suddenly upon an
+how ist hat to be done, I wonder?’ As she said this, she came suddenly upon an
 open place with a little house in it about four feet high. ‘Whoever lives there,’
-thought Alice, ‘it’ll never do to come upon themthissize; why, I should frighten
+thought Alice, ‘it’ll never do to come upon them this size; why, I should frighten
 them out of their wits!’ So she began nibbling at the righthand bit again and
 did not venture to go near the house till she had brought herself down to nine
 inches high.
 
 
-# Chapter VI
+## Chapter VI
 
-## VI Pig and Pepper
+## Pig and Pepper
 
 For a minute or two she stood looking at the house, and wondering what to do
 next, when suddenly a footman in livery came running out of the wood – (she
@@ -1195,19 +1119,19 @@ him a fish) – and rapped loudly at
 the door with his knuckles. It was
 opened by another footman in livery,
 with a round face and large eyes like
-a frog; and both footmen, Alice no-
-ticed, had powdered hair that curled
-all over their heads. She felt very curi-
-ous to know what it was all about and
+a frog; and both footmen, Alice noticed,
+had powdered hair that curled
+all over their heads. She felt very curious
+to know what it was all about and
 crept a little way out of the wood to
 listen.
-The Fish-Footman began by pro-
-ducing from under his arm a great let-
-ter, nearly as large as himself, and this
+The Fish-Footman began by producing
+from under his arm a great letter,
+nearly as large as himself, and this
 he handed over to the other, saying, in
 a solemn tone, ‘For the Duchess. An
-invitation from the Queen to play cro-
-quet.’ The Frog-Footman repeated, in the same solemn tone, only changing the
+invitation from the Queen to play croquet.’
+The Frog-Footman repeated, in the same solemn tone, only changing the
 order of the words a little, ‘From the Queen. An invitation for the Duchess to play
 croquet.’
 Then they both bowed low, and their curls got entangled together.
@@ -1216,23 +1140,18 @@ their hearing her; and when she next peeped out the Fish-Footman was gone, and
 the other was sitting on the ground near the door, staring stupidly up into the sky.
 Alice went timidly up to the door and knocked.
 
-### 32
-
-
-### CHAPTER VI. PIG AND PEPPER 33
-
-‘There’s no sort of use in knocking,’ said the Footman, ‘and that for two rea-
-sons. First, because I’m on the same side of the door as you are; secondly, because
-they’re making such a noise inside, no one could possibly hear you.’ And cer-
-tainly there was a most extraordinary noise going on within – a constant howling
+‘There’s no sort of use in knocking,’ said the Footman, ‘and that for two reasons.
+First, because I’m on the same side of the door as you are; secondly, because
+they’re making such a noise inside, no one could possibly hear you.’ And certainly
+there was a most extraordinary noise going on within – a constant howling
 and sneezing, and every now and then a great crash, as if a dish or kettle had been
 broken to pieces.
 ‘Please, then,’ said Alice, ‘how am I to get in?’
 ‘There might be some sense in your knocking,’ the Footman went on without
-attending to her, ‘if we had the door between us. For instance, if you wereinside,
+attending to her, ‘if we had the door between us. For instance, if you were inside,
 you might knock, and I could let you out, you know.’ He was looking up into the
 sky all the time he was speaking, and this Alice thought decidedly uncivil. ‘But
-perhaps he can’t help it,’ she said to herself, ‘his eyes are soverynearly at the top
+perhaps he can’t help it,’ she said to herself, ‘his eyes are so very nearly at the top
 of his head. But at any rate he might answer questions. – How am I to get in?’ she
 repeated, aloud.
 ‘I shall sit here,’ the Footman remarked, ‘till tomorrow – ’
@@ -1242,7 +1161,7 @@ against one of the trees behind him.
 ‘ – or next day, maybe,’ the Footman continued in the same tone, exactly as if
 nothing had happened.
 ‘How am I to get in?’ asked Alice again, in a louder tone.
-‘Areyou to get in at all?’ said the Footman, ‘That’s the first question, you
+‘Are you to get in at all?’ said the Footman, ‘That’s the first question, you
 know.’
 It was, no doubt; only Alice did not like to be told so. ‘It’s really dreadful,’
 she muttered to herself, ‘the way all the creatures argue. It’s enough to drive one
@@ -1259,29 +1178,26 @@ a baby; the cook was leaning over the fire, stirring a large cauldron which seem
 to be full of soup.
 ‘There’s certainly too much pepper in that soup!’ Alice said to herself, as well
 as she could for sneezing.
-There was certainly too much of it in the air. Even the Duchess sneezed oc-
-casionally; and as for the baby, it was sneezing and howling alternately without
-
-
-### CHAPTER VI. PIG AND PEPPER 34
+There was certainly too much of it in the air. Even the Duchess sneezed occasionally;
+and as for the baby, it was sneezing and howling alternately without
 
 a moment’s pause. The only things in the kitchen that did not sneeze, were the
 cook, and a large cat which was sitting on the hearth and grinning from ear to ear.
 ‘Please would you tell me,’ said
 Alice, a little timidly, for she was not
-quite sure whether it was good man-
-ners for her to speak first, ‘why your
+quite sure whether it was good manners
+for her to speak first, ‘why your
 cat grins like that?’
 ‘It’s a Cheshire cat,’ said the
 Duchess, ‘and that’s why. Pig!’
 She said the last word with such
 sudden violence that Alice quite
-jumped; but she saw in another mo-
-ment that it was addressed to the baby,
+jumped; but she saw in another moment
+that it was addressed to the baby,
 and not to her, so she took courage,
 and went on again:
 ‘I didn’t know that Cheshire cats always grinned; in fact, I didn’t know that
-catscouldgrin.’
+cats could grin.’
 ‘They all can,’ said the Duchess, ‘and most of ’em do.’
 ‘I don’t know of any that do,’ Alice said very politely, feeling quite pleased to
 have got into a conversation.
@@ -1293,24 +1209,22 @@ throwing everything within her reach at the Duchess and the baby – the fire-ir
 came first; then followed a shower of saucepans, plates and dishes. The Duchess
 took no notice of them even when they hit her; and the baby was howling so much
 already, that it was quite impossible to say whether the blows hurt it or not.
-‘Oh,pleasemind what you’re doing!’ cried Alice, jumping up and down in an
-agony of terror, ‘Oh, there goes hispreciousnose,’ as an unusually large saucepan
+‘Oh, please mind what you’re doing!’ cried Alice, jumping up and down in an
+agony of terror, ‘Oh, there goes his precious nose,’ as an unusually large saucepan
 flew close by it and very nearly carried it off.
 ‘If everybody minded their own business,’ the Duchess said in a hoarse growl,
 ‘the world would go round a deal faster than it does.’
-‘Which wouldnotbe an advantage,’ said Alice, who felt very glad to get an
+‘Which would not be an advantage,’ said Alice, who felt very glad to get an
 opportunity of showing off a little of her knowledge, ‘Just think of what work it
 would make with the day and night! You see the earth takes twenty-four hours to
 turn round on its axis – ’
 ‘Talking of axes,’ said the Duchess, ‘chop off her head!’
 Alice glanced rather anxiously at the cook, to see if she meant to take the hint;
 but the cook was busily stirring the soup, and seemed not to be listening, so she
-went on again, ‘Twenty-four hours, Ithink; or is it twelve? I – ’
+went on again, ‘Twenty-four hours, I think; or is it twelve? I – ’
 
 
-### CHAPTER VI. PIG AND PEPPER 35
-
-‘Oh, don’t botherme,’ said the Duchess, ‘I never could abide figures!’ And
+‘Oh, don’t bother me,’ said the Duchess, ‘I never could abide figures!’ And
 with that she began nursing her child again, singing a sort of lullaby to it as she
 did so, and giving it a violent shake at the end of every line:
 
@@ -1346,17 +1260,14 @@ caught it and kept doubling itself up and straightening itself out again, so tha
 altogether, for the first minute or two, it was as much as she could do to hold it.
 As soon as she had made out the proper way of nursing it, (which was to twist
 it up into a sort of knot and then keep tight hold of its right ear and left foot, so
-as to prevent its undoing itself) she carried it out into the open air. ‘IfI don’t take
+as to prevent its undoing itself) she carried it out into the open air. ‘If I don’t take
 this child away with me,’ thought Alice, ‘they’re sure to kill it in a day or two;
 wouldn’t it be murder to leave it behind?’ She said the last words out loud and the
 little thing grunted in reply (it had left off sneezing by this time). ‘Don’t grunt,’
 said Alice, ‘that’s not at all a proper way of expressing yourself.’
 The baby grunted again and Alice looked very anxiously into its face to see
-what was the matter with it. There could be no doubt that it had averyturn-up
+what was the matter with it. There could be no doubt that it had a very turn-up
 nose, much more like a snout than a real nose; also its eyes were getting extremely
-
-
-### CHAPTER VI. PIG AND PEPPER 36
 
 small for a baby; altogether Alice did not like the look of the thing at all. ‘But
 perhaps it was only sobbing,’ she thought and looked into its eyes again to see if
@@ -1367,7 +1278,7 @@ little thing sobbed again (or grunted, it was impossible to say which), and they
 went on for some while in silence.
 Alice was just beginning to think to herself, ‘Now, what am I to do with this
 creature when I get it home?’ when it grunted again, so violently, that she looked
-down into its face in some alarm. This time there could benomistake about it: it
+down into its face in some alarm. This time there could be no mistake about it: it
 was neither more nor less than a pig,
 and she felt that it would be quite ab-
 surd for her to carry it further.
@@ -1387,7 +1298,7 @@ by seeing the Cheshire Cat sitting on
 a bough of a tree a few yards off.
 The Cat only grinned when it saw
 Alice. It looked good-natured, she
-thought; still it hadverylong claws
+thought; still it had very long claws
 and a great many teeth, so she felt that
 it ought to be treated with respect.
 ‘Cheshire Puss,’ she began, rather timidly, as she did not at all know whether
@@ -1397,18 +1308,15 @@ I ought to go from here?’
 ‘That depends a good deal on where you want to get to,’ said the Cat.
 ‘I don’t much care where – ’ said Alice.
 ‘Then it doesn’t matter which way you go,’ said the Cat.
-‘ – so long as I getsomewhere,’ Alice added as an explanation.
+‘ – so long as I get somewhere,’ Alice added as an explanation.
 ‘Oh, you’re sure to do that,’ said the Cat, ‘if you only walk long enough.’
-
-
-### CHAPTER VI. PIG AND PEPPER 37
 
 Alice felt that this could not be
 denied, so she tried another question,
 ‘What sort of people live about here?’
-‘Inthatdirection,’ the Cat said,
+‘In that direction,’ the Cat said,
 waving its right paw round, ‘lives
-a Hatter; and inthatdirection,’ wav-
+a Hatter; and in that direction,’ wav-
 ing the other paw, ‘lives a March
 Hare. Visit either you like: they’re
 both mad.’
@@ -1445,17 +1353,14 @@ after a minute or two she walked on in the direction in which the March Hare was
 said to live. ‘I’ve seen hatters before,’ she said to herself, ‘the March Hare will be
 much the most interesting, and perhaps as this is May it won’t be raving mad – at
 
-
-### CHAPTER VI. PIG AND PEPPER 38
-
 least not so mad as it was in March.’ As she said this, she looked up, and there
 was the Cat again, sitting on a branch of a tree.
 ‘Did you say pig or fig?’ said the Cat.
-‘I said pig,’ replied Alice, ‘and I wish you wouldn’t keep appearing and van-
-ishing so suddenly: you make one quite giddy.’
+‘I said pig,’ replied Alice, ‘and I wish you wouldn’t keep appearing and vanishing
+so suddenly: you make one quite giddy.’
 ‘All right,’ said the Cat; and this
-time it vanished quite slowly, begin-
-ning with the end of the tail, and
+time it vanished quite slowly, beginning 
+with the end of the tail, and
 ending with the grin which remained
 some time after the rest of it had gone.
 ‘Well! I’ve often seen a cat with-
@@ -1471,9 +1376,9 @@ towards it rather timidly, saying to herself ‘Suppose it should be raving mad 
 all! I almost wish I’d gone to see the Hatter instead!’
 
 
-# Chapter VII
+## Chapter VII
 
-## VII A Mad Tea-Party
+## A Mad Tea-Party
 
 There was a table set out under a tree
 in front of the house, and the March
@@ -1488,7 +1393,7 @@ it’s asleep, I suppose it doesn’t mind.’
 The table was a large one, but the
 three were all crowded together at one
 corner of it; ‘No room! No room!’
-they cried out when they saw Alice coming. ‘There’splentyof room!’ said Alice
+they cried out when they saw Alice coming. ‘There’s plenty of room!’ said Alice
 indignantly, and she sat down in a large arm-chair at one end of the table.
 ‘Have some wine,’ the March Hare said in an encouraging tone.
 Alice looked all round the table, but there was nothing on it but tea. ‘I don’t
@@ -1497,19 +1402,14 @@ see any wine,’ she remarked.
 ‘Then it wasn’t very civil of you to offer it,’ said Alice angrily.
 ‘It wasn’t very civil of you to sit down without being invited,’ said the March
 Hare.
-‘I didn’t know it wasyourtable,’ said Alice, ‘it’s laid for a great many more
+‘I didn’t know it was your table,’ said Alice, ‘it’s laid for a great many more
 than three.’
 ‘Your hair wants cutting,’ said the Hatter. He had been looking at Alice for
 some time with great curiosity, and this was his first speech.
-‘You should learn not to make personal remarks,’ Alice said with some sever-
-ity, ‘it’s very rude.’
+‘You should learn not to make personal remarks,’ Alice said with some severity,
+‘it’s very rude.’
 
-### 39
-
-
-### CHAPTER VII. A MAD TEA-PARTY 40
-
-The Hatter opened his eyes very wide on hearing this; but all hesaidwas,
+The Hatter opened his eyes very wide on hearing this; but all he saidwas,
 ‘Why is a raven like a writing-desk?’
 ‘Come, we shall have some fun now!’ thought Alice. ‘I’m glad they’ve begun
 asking riddles. – I believe I can guess that,’ she added aloud.
@@ -1526,7 +1426,7 @@ the same thing as “I get what I like”!’
 ‘You might just as well say,’ added the Dormouse, who seemed to be talking
 in his sleep, ‘that “I breathe when I sleep” is the same thing as “I sleep when
 I breathe”!’
-‘It isthe same thing with you,’ said the Hatter, and here the conversation
+‘It is the same thing with you,’ said the Hatter, and here the conversation
 dropped and the party sat silent for a minute, while Alice thought over all she
 could remember about ravens and writing-desks, which wasn’t much.
 The Hatter was the first to break the silence. ‘What day of the month is it?’ he
@@ -1535,23 +1435,20 @@ it uneasily, shaking it every now and then and holding it to his ear.
 Alice considered a little, and then said ‘The fourth.’
 ‘Two days wrong!’ sighed the Hatter. ‘I told you butter wouldn’t suit the
 works!’ he added looking angrily at the March Hare.
-‘It was thebestbutter,’ the March Hare meekly replied.
+‘It was the best butter,’ the March Hare meekly replied.
 ‘Yes, but some crumbs must have got in as well,’ the Hatter grumbled, ‘you
 shouldn’t have put it in with the bread-knife.’
 The March Hare took the watch and looked at it gloomily; then he dipped it
 into his cup of tea, and looked at it again; but he could think of nothing better to
-say than his first remark, ‘It was thebestbutter, you know.’
+say than his first remark, ‘It was the best butter, you know.’
 Alice had been looking over his shoulder with some curiosity. ‘What a funny
 watch!’ she remarked, ‘It tells the day of the month, and doesn’t tell what o’clock
 it is!’
-‘Why should it?’ muttered the Hatter, ‘Doesyourwatch tell you what year
+‘Why should it?’ muttered the Hatter, ‘Does your watch tell you what year
 it is?’
 ‘Of course not,’ Alice replied very readily, ‘but that’s because it stays the same
 year for such a long time together.’
-‘Which is just the case withmine,’ said the Hatter.
-
-
-### CHAPTER VII. A MAD TEA-PARTY 41
+‘Which is just the case with mine,’ said the Hatter.
 
 Alice felt dreadfully puzzled. The Hatter’s remark seemed to have no sort of
 meaning in it and yet it was certainly English. ‘I don’t quite understand you,’ she
@@ -1567,7 +1464,7 @@ The Dormouse shook its head impatiently, and said, without opening its eyes,
 Alice sighed wearily. ‘I think you might do something better with the time,’
 she said, ‘than waste it in asking riddles that have no answers.’
 ‘If you knew Time as well as I do,’ said the Hatter, ‘you wouldn’t talk about
-wastingit. It’shim.’
+wasting it. It’s him.’
 ‘I don’t know what you mean,’ said Alice.
 ‘Of course you don’t!’ the Hatter said, tossing his head contemptuously,
 ‘I dare say you never even spoke to Time!’
@@ -1592,13 +1489,10 @@ I shouldn’t be hungry for it, you
 know.’
 ‘Not at first, perhaps,’ said the
 Hatter, ‘but you could keep it to half-past one as long as you liked.’
-‘Is that the wayyoumanage?’ Alice asked.
-
-
-### CHAPTER VII. A MAD TEA-PARTY 42
+‘Is that the way you manage?’ Alice asked.
 
 The Hatter shook his head mournfully. ‘Not I!’ he replied, ‘We quarrelled last
-March – just beforehewent mad, you know – ’ (pointing with his tea spoon at
+March – just before he went mad, you know – ’ (pointing with his tea spoon at
 the March Hare,) ‘ – it was at the great concert given by the Queen of Hearts, and
 I had to sing
 
@@ -1616,8 +1510,8 @@ You know the song, perhaps?’
 Like a tea-tray in the sky.
 Twinkle, twinkle – ” ’
 ```
-Here the Dormouse shook itself and began singing in its sleep ‘Twinkle, twin-
-kle, twinkle, twinkle – ’ and went on so long that they had to pinch it to make it
+Here the Dormouse shook itself and began singing in its sleep ‘Twinkle, twinkle, 
+twinkle, twinkle – ’ and went on so long that they had to pinch it to make it
 stop.
 ‘Well, I’d hardly finished the first verse,’ said the Hatter, ‘when the Queen
 jumped up and bawled out, “He’s murdering the time! Off with his head!” ’
@@ -1643,26 +1537,23 @@ feeble voice, ‘I heard every word you fellows were saying.’
 ‘And be quick about it,’ added the Hatter, ‘or you’ll be asleep again before
 it’s done.’
 
-
-### CHAPTER VII. A MAD TEA-PARTY 43
-
 ‘Once upon a time there were three little sisters,’ the Dormouse began in
 a great hurry, ‘and their names were Elsie, Lacie and Tillie; and they lived at
 the bottom of a well – ’
-‘What did they live on?’ said Alice, who always took a great interest in ques-
-tions of eating and drinking.
+‘What did they live on?’ said Alice, who always took a great interest in questions
+of eating and drinking.
 ‘They lived on treacle,’ said the Dormouse, after thinking a minute or two.
 ‘They couldn’t have done that, you know,’ Alice gently remarked, ‘they’d have
 been ill.’
-‘So they were,’ said the Dormouse, ‘veryill.’
+‘So they were,’ said the Dormouse, ‘very ill.’
 Alice tried to fancy to herself what such an extraordinary ways of living would
 be like, but it puzzled her too much, so she went on, ‘But why did they live at the
 bottom of a well?’
 ‘Take some more tea,’ the March Hare said to Alice, very earnestly.
 ‘I’ve had nothing yet,’ Alice replied in an offended tone, ‘so I can’t take more.’
-‘You mean you can’t takeless,’ said the Hatter, ‘it’s very easy to takemore
+‘You mean you can’t take less,’ said the Hatter, ‘it’s very easy to take more
 than nothing.’
-‘Nobody askedyouropinion,’ said Alice.
+‘Nobody asked your opinion,’ said Alice.
 ‘Who’s making personal remarks now?’ the Hatter asked triumphantly.
 Alice did not quite know what to say to this; so she helped herself to some tea
 and bread-and-butter, and then turned to the Dormouse, and repeated her question,
@@ -1673,7 +1564,7 @@ was a treacle-well.’
 the March Hare went ‘Sh! sh!’ and the Dormouse sulkily remarked, ‘If you can’t
 be civil, you’d better finish the story for yourself.’
 ‘No, please go on!’ Alice said very humbly, ‘I won’t interrupt again. I dare
-say there may beone.’
+say there may be one.’
 ‘One, indeed!’ said the Dormouse indignantly. However, he consented to go
 on, ‘And so these three little sisters – they were learning to draw, you know – ’
 ‘What did they draw?’ said Alice, quite forgetting her promise.
@@ -1687,12 +1578,9 @@ just upset the milk-jug into his plate.
 Alice did not wish to offend the Dormouse again, so she began very cautiously,
 ‘But I don’t understand. Where did they draw the treacle from?’
 
-
-### CHAPTER VII. A MAD TEA-PARTY 44
-
 ‘You can draw water out of a water-well,’ said the Hatter, ‘so I should think
 you could draw treacle out of a treacle-well – eh, stupid?’
-‘But they wereinthe well,’ Alice said to the Dormouse, not choosing to notice
+‘But they were in the well,’ Alice said to the Dormouse, not choosing to notice
 this last remark.
 ‘Of course they were’, said the Dormouse, ‘ – well in.’
 This answer so confused poor Alice, that she let the Dormouse go on for some
@@ -1717,13 +1605,13 @@ This piece of rudeness was more
 than Alice could bear; she got up
 in great disgust, and walked off; the
 Dormouse fell asleep instantly and
-neither of the others took the least no-
-tice of her going, though she looked
+neither of the others took the least notice
+of her going, though she looked
 back once or twice, half hoping that
 they would call after her; the last time
 she saw them, they were trying to put
 the Dormouse into the teapot.
-‘At any rate I’ll never gothereagain!’ said Alice as she picked her way through
+‘At any rate I’ll never go there again!’ said Alice as she picked her way through
 the wood, ‘It’s the stupidest tea-party I ever was at in all my life!’
 Just as she said this, she noticed that one of the trees had a door leading right
 into it. ‘That’s very curious!’ she thought, ‘But everything’s curious today. I think
@@ -1732,18 +1620,15 @@ Once more she found herself in the long hall, and close to the little glass tabl
 ‘Now, I’ll manage better this time,’ she said to herself and began by taking the
 little golden key, and unlocking the door that led into the garden. Then she went
 
-
-### CHAPTER VII. A MAD TEA-PARTY 45
-
 to work nibbling at the mushroom (she had kept a piece of it in her pocket) till
-she was about a foot high; then she walked down the little passage; andthen– she
+she was about a foot high; then she walked down the little passage; and then – she
 found herself at last in the beautiful garden, among the bright flower-beds and the
 cool fountains.
 
 
-# Chapter VIII
+## Chapter VIII
 
-## VIII The Queen’s Croquet-Ground
+## The Queen’s Croquet-Ground
 
 A large rose-tree stood near the en-
 trance of the garden; the roses grow-
@@ -1761,28 +1646,23 @@ bow.’
 On which Seven looked up and
 said, ‘That’s right, Five! Always lay
 the blame on others!’
-‘You’dbetter not talk!’ said Five,
+‘You’d better not talk!’ said Five,
 ‘I heard the Queen say only yesterday
 you deserved to be beheaded!’
 ‘What for?’ said the one who had
 spoken first.
-‘That’s none ofyourbusiness, Two!’ said Seven.
-‘Yes, itishis business!’ said Five, ‘and I’ll tell him – it was for bringing the
+‘That’s none of your business, Two!’ said Seven.
+‘Yes, it is his business!’ said Five, ‘and I’ll tell him – it was for bringing the
 cook tulip-roots instead of onions.’
 Seven flung down his brush, and had just begun, ‘Well, of all the unjust
 things – ’ when his eye chanced to fall upon Alice, as she stood watching them
 and he checked himself suddenly; the others looked round also, and all of them
 bowed low.
 
-### 46
-
-
-### CHAPTER VIII. THE QUEEN’S CROQUET-GROUND 47
-
 ‘Would you tell me,’ said Alice, a little timidly, ‘why you are painting those
 roses?’
 Five and Seven said nothing, but looked at Two. Two began in a low voice,
-‘Why the fact is, you see, Miss, this here ought to have been aredrose-tree, and
+‘Why the fact is, you see, Miss, this here ought to have been are _red_ rose-tree, and
 we put a white one in by mistake; and if the Queen was to find it out, we should all
 have our heads cut off, you know. So you see, Miss, we’re doing our best, afore
 she comes, to – ’ At this moment Five, who had been anxiously looking across
@@ -1798,7 +1678,7 @@ were all ornamented with hearts. Next came the guests, mostly Kings and Queens,
 and among them Alice recognised the White Rabbit; it was talking in a hurried
 nervous manner, smiling at everything that was said, and went by without noticing
 her. Then followed the Knave of Hearts, carrying the King’s crown on a crimson
-velvet cushion; and, last of all this grand procession, camethe King and Queen of
+velvet cushion; and, last of all this grand procession, came the King and Queen of
 Hearts.
 Alice was rather doubtful whether she ought not to lie down on her face like
 the three gardeners, but she could not remember ever having heard of such a rule
@@ -1813,20 +1693,17 @@ she went on, ‘What’s your name, child?’
 ‘My name is Alice, so please your Majesty,’ said Alice very politely; but she
 added, to herself, ‘Why, they’re only a pack of cards, after all. I needn’t be afraid
 of them!’
-‘And who arethese?’ said the Queen, pointing to the three gardeners who
+‘And who are these?’ said the Queen, pointing to the three gardeners who
 were lying round the rose-tree; for, you see, as they were lying on their faces
 and the pattern on their backs was the same as the rest of the pack, she could not
 tell whether they were gardeners, or soldiers, or courtiers, or three of her own
 children.
 ‘How should I know?’ said Alice, surprised at her own courage, ‘It’s no busi-
-ness ofmine.’
-
-
-### CHAPTER VIII. THE QUEEN’S CROQUET-GROUND 48
+ness of mine.’
 
 The Queen turned crimson with
-fury, and, after glaring at her for a mo-
-ment like a wild beast, screamed ‘Off
+fury, and, after glaring at her for a moment
+like a wild beast, screamed ‘Off
 with her head! Off – ’
 ‘Nonsense!’ said Alice, very
 loudly and decidedly, and the Queen
@@ -1840,11 +1717,11 @@ them over!’
 The Knave did so, very carefully,
 with one foot.
 ‘Get up!’ said the Queen, in
-a shrill, loud voice, and the three gar-
-deners instantly jumped up and began
+a shrill, loud voice, and the three gardeners
+instantly jumped up and began
 bowing to the King, the Queen, the royal children and everybody else.
 ‘Leave off that!’ screamed the Queen, ‘You make me giddy.’ And then, turn-
-ing to the rose-tree, she went on, ‘Whathaveyou been doing here?’
+ing to the rose-tree, she went on, ‘What have you been doing here?’
 ‘May it please your Majesty,’ said Two, in a very humble tone, going down on
 one knee as he spoke, ‘we were trying – ’
 ‘I see!’ said the Queen, who had meanwhile been examining the roses, ‘Off
@@ -1864,9 +1741,6 @@ ing very much what would happen next.
 ‘It’s – it’s a very fine day!’ said a timid voice at her side. She was walking
 by the White Rabbit, who was peeping anxiously into her face.
 ‘Very,’ said Alice, ‘ – where’s the Duchess?’
-
-
-### CHAPTER VIII. THE QUEEN’S CROQUET-GROUND 49
 
 ‘Hush! Hush!’ said the Rabbit in a low, hurried tone. He looked anxiously
 over his shoulder as he spoke, and then raised himself upon tiptoe, put his mouth
@@ -1894,9 +1768,9 @@ arm, with its legs hanging down, but
 generally, just as she had got its neck
 nicely straightened out, and was going
 to give the hedgehog a blow with its
-head, itwouldtwist itself round and look
-up in her face, with such a puzzled ex-
-pression that she could not help burst-
+head, it would twist itself round and look
+up in her face, with such a puzzled expression
+that she could not help burst-
 ing out laughing; and when she had got
 its head down and was going to begin
 again, it was very provoking to find that
@@ -1909,9 +1783,6 @@ The players all played at once without waiting for turns, quarrelling all the
 while and fighting for the hedgehogs; and in a very short time the Queen was in
 a furious passion and went stamping about and shouting ‘Off with his head!’ or
 ‘Off with her head!’ about once in a minute.
-
-
-### CHAPTER VIII. THE QUEEN’S CROQUET-GROUND 50
 
 Alice began to feel very uneasy; to be sure, she had not as yet had any dispute
 with the Queen, but she knew that it might happen any minute, ‘And then,’ thought
@@ -1942,7 +1813,7 @@ only it ran away when it saw mine coming!’
 Queen was close behind her, listening; so she went on, ‘ – likely to win, that it’s
 hardly worth while finishing the game.’
 The Queen smiled and passed on.
-‘Whoareyou talking to?’ said the King, going up to Alice and looking at the
+‘Who are you talking to?’ said the King, going up to Alice and looking at the
 Cat’s head with great curiosity.
 ‘It’s a friend of mine – a Cheshire Cat,’ said Alice, ‘allow me to introduce it.’
 ‘I don’t like the look of it at all,’ said the King, ‘however, it may kiss my hand
@@ -1952,9 +1823,6 @@ if it likes.’
 behind Alice as he spoke.
 ‘A cat may look at a king,’ said Alice, ‘I’ve read that in some book, but I don’t
 remember where.’
-
-
-### CHAPTER VIII. THE QUEEN’S CROQUET-GROUND 51
 
 ‘Well, it must be removed,’ said the King very decidedly and he called the
 Queen, who was passing at the moment, ‘My dear! I wish you would have this cat
@@ -1996,10 +1864,7 @@ indeed to make out exactly what they
 said.
 The executioner’s argument was, that you couldn’t cut off a head unless there
 was a body to cut it off from; that he had never had to do such a thing before and
-he wasn’t going to begin athistime of life.
-
-
-### CHAPTER VIII. THE QUEEN’S CROQUET-GROUND 52
+he wasn’t going to begin at his time of life.
 
 The King’s argument was, that anything that had a head could be beheaded
 and that you weren’t to talk nonsense.
@@ -2007,7 +1872,7 @@ The Queen’s argument was, that if something wasn’t done about it in less tha
 no time she’d have everybody executed, all round. (It was this last remark that
 had made the whole party look so grave and anxious.)
 Alice could think of nothing else to say but ‘It belongs to the Duchess; you’d
-better askherabout it.’
+better ask her about it.’
 ‘She’s in prison,’ the Queen said to the executioner, ‘fetch her here.’ And the
 executioner went off like an arrow.
 The Cat’s head began fading away the moment he was gone, and, by the time
@@ -2016,9 +1881,9 @@ the executioner ran wildly up and down looking for it, while the rest of the par
 went back to the game.
 
 
-# Chapter IX
+## Chapter IX
 
-## IX The Mock Turtle’s Story
+## The Mock Turtle’s Story
 
 ‘You can’t think how glad I am to see
 you again, you dear old thing!’ said
@@ -2049,15 +1914,10 @@ and that makes you forget to talk. I can’t tell you just now what the moral of
 is, but I shall remember it in a bit.’
 ‘Perhaps it hasn’t one,’ Alice ventured to remark.
 
-### 53
-
-
-### CHAPTER IX. THE MOCK TURTLE’S STORY 54
-
 ‘Tut, tut, child!’ said the Duchess, ‘Everything’s got a moral, if only you can
 find it.’ And she squeezed herself up closer to Alice’s side as she spoke.
 Alice did not much like keeping so close to her: first, because the Duchess was
-veryugly; and secondly, because she was exactly the right height to rest her chin
+very ugly; and secondly, because she was exactly the right height to rest her chin
 upon Alice’s shoulder, and it was an uncomfortably sharp chin. However, she did
 not like to be rude, so she bore it as well as she could.
 ‘The game’s going on rather better now,’ she said, by way of keeping up the
@@ -2067,20 +1927,20 @@ that makes the world go round!” ’
 ‘Somebody said,’ Alice whispered, ‘that it’s done by everybody minding their
 own business!’
 ‘Ah, well! It means much the same thing,’ said the Duchess, digging her sharp
-little chin into Alice’s shoulder as she added, ‘and the moral ofthatis – “Take
+little chin into Alice’s shoulder as she added, ‘and the moral of that is – “Take
 care of the sense and the sounds will take care of themselves.” ’
 ‘How fond she is of finding morals in things!’ Alice thought to herself.
 ‘I dare say you’re wondering why I don’t put my arm round your waist,’ the
 Duchess said after a pause, ‘the reason is, that I’m doubtful about the temper of
 your flamingo. Shall I try the experiment?’
-‘Hemight bite,’ Alice cautiously replied, not feeling at all anxious to have the
+‘He might bite,’ Alice cautiously replied, not feeling at all anxious to have the
 experiment tried.
 ‘Very true,’ said the Duchess, ‘flamingoes and mustard both bite. And the
 moral of that is – “Birds of a feather flock together.” ’
 ‘Only mustard isn’t a bird,’ Alice remarked.
 ‘Right, as usual,’ said the Duchess, ‘what a clear way you have of putting
 things!’
-‘It’s a mineral, Ithink,’ said Alice.
+‘It’s a mineral, I think,’ said Alice.
 ‘Of course it is,’ said the Duchess, who seemed ready to agree to everything
 that Alice said, ‘there’s a large mustard-mine near here. And the moral of that
 is – “The more there is of mine, the less there is of yours.” ’
@@ -2095,9 +1955,6 @@ appeared to them to be otherwise.” ’
 written down; but I can’t quite follow it as you say it.’
 ‘That’s nothing to what I could say if I chose,’ the Duchess replied in a pleased
 tone.
-
-
-### CHAPTER IX. THE MOCK TURTLE’S STORY 55
 
 ‘Pray don’t trouble yourself to say it any longer than that,’ said Alice.
 ‘Oh, don’t talk about trouble!’ said the Duchess, ‘I make you a present of
@@ -2135,14 +1992,11 @@ the Mock Turtle yet?’
 ‘I never saw one or heard of one,’ said Alice.
 ‘Come on, then,’ said the Queen, ‘and he shall tell you his history,’
 As they walked off together, Alice heard the King say in a low voice to the
-company generally, ‘You are all pardoned.’ ‘Come,that’sa good thing!’ she said
+company generally, ‘You are all pardoned.’ ‘Come, that’s a good thing!’ she said
 to herself, for she had felt quite unhappy at the number of executions the Queen
 had ordered.
-They very soon came upon a Gryphon, lying fast asleep in the sun. (ifyou
+They very soon came upon a Gryphon, lying fast asleep in the sun. (if you
 don’t know what a Gryphon is, look at the picture.) ‘Up, lazy thing!’ said
-
-
-### CHAPTER IX. THE MOCK TURTLE’S STORY 56
 
 the Queen, ‘and take this young lady
 to see the Mock Turtle and to hear his
@@ -2157,7 +2011,7 @@ savage Queen; so she waited.
 The Gryphon sat up and rubbed its eyes; then it watched the Queen till she
 was out of sight; then it chuckled. ‘What fun!’ said the Gryphon, half to itself,
 half to Alice.
-‘Whatisthe fun?’ said Alice.
+‘What is the fun?’ said Alice.
 ‘Why, she,’ said the Gryphon, ‘It’s all her fancy, that; they never executes
 nobody, you know. Come on!’
 ‘Everybody says “come on!” here,’ thought Alice, as she went slowly after it,
@@ -2171,26 +2025,23 @@ Gryphon, and the Gryphon answered,
 very nearly in the same words as be-
 fore, ‘It’s all his fancy, that; he hasn’t
 got no sorrow, you know. Come on!’
-So they went up to the Mock Tur-
-tle, who looked at them with large
+So they went up to the Mock Turtle,
+who looked at them with large
 eyes full of tears, but said nothing.
 ‘This here young lady,’ said the
 Gryphon, ‘she wants for to know your
 history, she do.’
-‘I’ll tell it her,’ said the Mock Tur-
-tle in a deep, hollow tone, ‘sit down,
+‘I’ll tell it her,’ said the Mock Turtle
+in a deep, hollow tone, ‘sit down,
 both of you, and don’t speak a word
 till I’ve finished.’
 So they sat down, and nobody spoke for some minutes. Alice thought to her-
-self, ‘I don’t see how he canevenfinish, if he doesn’t begin.’ But she waited
+self, ‘I don’t see how he can even finish, if he doesn’t begin.’ But she waited
 patiently.
 ‘Once,’ said the Mock Turtle at last, with a deep sigh, ‘I was a real Turtle.’
 
-
-### CHAPTER IX. THE MOCK TURTLE’S STORY 57
-
-These words were followed by a very long silence, broken only by an occa-
-sional exclamation of ‘Hjckrrh!’ from the Gryphon and the constant heavy sob-
+These words were followed by a very long silence, broken only by an occasional
+exclamation of ‘Hjckrrh!’ from the Gryphon and the constant heavy sob-
 bing of the Mock Turtle. Alice was very nearly getting up and saying, ‘Thank
 you, sir, for your interesting story,’ but she could not help thinking theremustbe
 more to come, so she sat still and said nothing.
@@ -2210,14 +2061,14 @@ felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle,
 ‘Hold your tongue!’ added the Gryphon, before Alice could speak again. The
 Mock Turtle went on.
 ‘We had the best of educations – in fact, we went to school every day – ’
-‘I’vebeen to a day-school, too,’ said Alice, ‘you needn’t be so proud as all
+‘I’ve been to a day-school, too,’ said Alice, ‘you needn’t be so proud as all
 that.’
 ‘With extras?’ asked the Mock Turtle a little anxiously.
 ‘Yes,’ said Alice, ‘we learned French and music.’
 ‘And washing?’ said the Mock Turtle.
 ‘Certainly not!’ said Alice indignantly.
 ‘Ah! then yours wasn’t a really good school,’ said the Mock Turtle in a tone
-of great relief, ‘Now atoursthey had at the end of the bill, “French, music,and
+of great relief, ‘Now a tours they had at the end of the bill, “French, music, and
 washing– extra.” ’
 ‘You couldn’t have wanted it much,’ said Alice, ‘living at the bottom of the
 sea.’
@@ -2228,11 +2079,8 @@ the regular course.’
 then the different branches of Arithmetic – Ambition, Distraction, Uglification,
 and Derision.’
 ‘I never heard of “Uglification,” ’ Alice ventured to say, ‘What is it?’
-The Gryphon lifted up both its paws in surprise. ‘What! Never heard of ugli-
-fying!’ it exclaimed, ‘You know what to beautify is, I suppose?’
-
-
-### CHAPTER IX. THE MOCK TURTLE’S STORY 58
+The Gryphon lifted up both its paws in surprise. ‘What! Never heard of uglifying!’
+it exclaimed, ‘You know what to beautify is, I suppose?’
 
 ‘Yes,’ said Alice doubtfully, ‘it means – to – make – anything – prettier.’
 ‘Well, then,’ the Gryphon went on, ‘if you don’t know what to uglify is, you
@@ -2242,12 +2090,12 @@ to the Mock Turtle and said, ‘What else had you to learn?’
 ‘Well, there was Mystery,’ the Mock Turtle replied, counting off the subjects
 on his flappers, ‘ – Mystery, ancient and modern, with Seaography; then Drawl-
 ing – the Drawling-master was an old conger-eel, that used to come once a week;
-hetaught us Drawling, Stretching, and Fainting in Coils.’
-‘What wasthatlike?’ said Alice.
+he taught us Drawling, Stretching, and Fainting in Coils.’
+‘What was that like?’ said Alice.
 ‘Well, I can’t show it you myself,’ the Mock Turtle said, ‘I’m too stiff. And
 the Gryphon never learnt it.’
 ‘Hadn’t time,’ said the Gryphon, ‘I went to the Classics master, though. He
-was an old crab,hewas.’
+was an old crab, he was.’
 ‘I never went to him,’ the Mock Turtle said with a sigh, ‘he taught Laughing
 and Grief, they used to say.’
 ‘So he did, so he did,’ said the Gryphon, sighing in his turn; and both creatures
@@ -2266,9 +2114,9 @@ made her next remark, ‘Then the eleventh day must have been a holiday?’
 ‘tell her something about the games now.’
 
 
-# Chapter X
+## Chapter X
 
-## X The Lobster Quadrille
+## The Lobster Quadrille
 
 The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes.
 He looked at Alice and tried to speak, but for a minute or two sobs choked his
@@ -2283,7 +2131,7 @@ idea what a delightful thing a Lobster Quadrille is!’
 ‘Why,’ said the Gryphon, ‘you first form into a line along the sea-shore – ’
 ‘Two lines!’ cried the Mock Turtle, ‘Seals, turtles, salmon, and so on; then,
 when you’ve cleared all the jelly-fish out of the way – ’
-‘Thatgenerally takes some time,’ interrupted the Gryphon.
+‘That generally takes some time,’ interrupted the Gryphon.
 ‘ – you advance twice – ’
 ‘Each with a lobster as a partner!’ cried the Gryphon.
 ‘Of course,’ the Mock Turtle said, ‘advance twice, set to partners – ’
@@ -2294,21 +2142,16 @@ when you’ve cleared all the jelly-fish out of the way – ’
 ‘Swim after them!’ screamed the Gryphon.
 ‘Turn a somersault in the sea!’ cried the Mock Turtle, capering wildly about.
 ‘Change lobsters again!’ yelled the Gryphon at the top of its voice.
-‘Back to land again and that’s all the first figure,’ said the Mock Turtle, sud-
-denly dropping his voice; and the two creatures, who had been jumping about like
+‘Back to land again and that’s all the first figure,’ said the Mock Turtle, suddenly
+dropping his voice; and the two creatures, who had been jumping about like
 mad things all this time, sat down again very sadly and quietly and looked at Alice.
 ‘It must be a very pretty dance,’ said Alice timidly.
-
-### 59
-
-
-### CHAPTER X. THE LOBSTER QUADRILLE 60
 
 ‘Would you like to see a little of it?’ said the Mock Turtle.
 ‘Very much indeed,’ said Alice.
 ‘Come, let’s try the first figure!’ said the Mock Turtle to the Gryphon, ‘We
 can do without lobsters, you know. Which shall sing?’
-‘Oh,yousing,’ said the Gryphon, ‘I’ve forgotten the words.’
+‘Oh, you sing,’ said the Gryphon, ‘I’ve forgotten the words.’
 So they began solemnly dancing round and round Alice, every now and then
 treading on her toes when they passed too close and waving their forepaws to
 mark the time, while the Mock Turtle sang this, very slowly and sadly:
@@ -2332,8 +2175,6 @@ Would not, could not, would not, could not, could not join the dance.
 “There is another shore, you know, upon the other side.
 ```
 
-### CHAPTER X. THE LOBSTER QUADRILLE 61
-
 ```
 The further off from England the nearer is to France –
 Then turn not pale, beloved snail, but come and join the dance.
@@ -2350,10 +2191,10 @@ them so often, of course you know what they’re like.’
 ‘I believe so,’ Alice replied thoughtfully, ‘They have their tails in their mouths –
 and they’re all over crumbs.’
 ‘You’re wrong about the crumbs,’ said the Mock Turtle, ‘crumbs would all
-wash off in the sea. But theyhavetheir tails in their mouths; and the reason is – ’
+wash off in the sea. But they have their tails in their mouths; and the reason is – ’
 here the Mock Turtle yawned and shut his eyes. ‘Tell her about the reason and all
 that,’ he said to the Gryphon.
-‘The reason is,’ said the Gryphon, ‘that theywouldgo with the lobsters to the
+‘The reason is,’ said the Gryphon, ‘that they would go with the lobsters to the
 dance. So they got thrown out to sea. So they had to fall a long way. So they got
 their tails fast in their mouths. So they couldn’t get them out again. That’s all.’
 ‘Thank you,’ said Alice, ‘it’s very interesting. I never knew so much about
@@ -2364,7 +2205,7 @@ why it’s called a whiting?’
 ‘It does the boots and shoes.’ the Gryphon replied very solemnly.
 Alice was thoroughly puzzled. ‘Does the boots and shoes!’ she repeated in
 a wondering tone.
-‘Why, what areyourshoes done with?’ said the Gryphon, ‘I mean, what
+‘Why, what are yours hoes done with?’ said the Gryphon, ‘I mean, what
 makes them so shiny?’
 Alice looked down at them and considered a little before she gave her answer.
 ‘They’re done with blacking, I believe.’
@@ -2374,38 +2215,35 @@ done with a whiting. Now you know.’
 ‘Soles and eels, of course,’ the Gryphon replied rather impatiently, ‘any shrimp
 could have told you that.’
 ‘If I’d been the whiting,’ said Alice, whose thoughts were still running on
-the song, ‘I’d have said to the porpoise, “Keep back, please: we don’t wantyou
+the song, ‘I’d have said to the porpoise, “Keep back, please: we don’t want you
 with us!” ’
-
-
-### CHAPTER X. THE LOBSTER QUADRILLE 62
 
 ‘They were obliged to have him with them,’ the Mock Turtle said, ‘no wise
 fish would go anywhere without a porpoise.’
 ‘Wouldn’t it really?’ said Alice in a tone of great surprise.
-‘Of course not,’ said the Mock Turtle, ‘why, if a fish came tomeand told me
+‘Of course not,’ said the Mock Turtle, ‘why, if a fish came to me and told me
 he was going a journey, I should say “With what porpoise?” ’
 ‘Don’t you mean “purpose”?’ said Alice.
 ‘I mean what I say,’ the Mock Turtle replied in an offended tone. And the
-Gryphon added ‘Come, let’s hear some ofyouradventures.’
+Gryphon added ‘Come, let’s hear some of your adventures.’
 ‘I could tell you my adventures – beginning from this morning,’ said Alice
 a little timidly, ‘but it’s no use going back to yesterday, because I was a different
 person then.’
 ‘Explain all that,’ said the Mock Turtle.
-‘No, no! The adventures first,’ said the Gryphon in an impatient tone, ‘expla-
-nations take such a dreadful time.’
+‘No, no! The adventures first,’ said the Gryphon in an impatient tone, ‘explanations
+take such a dreadful time.’
 So Alice began telling them her adventures from the time when she first saw
 the White Rabbit. She was a little nervous about it just at first, the two creatures
-got so close to her, one on each side, and opened their eyes and mouths sovery
+got so close to her, one on each side, and opened their eyes and mouths so very
 wide, but she gained courage as she went on. Her listeners were perfectly quiet
-till she got to the part about her repeating ‘YOUAREOLD, FATHERWILLIAM,’
+till she got to the part about her repeating ‘YOU ARE OLD, FATHER WILLIAM,’
 to the Caterpillar and the words all coming different, and then the Mock Turtle
 drew a long breath, and said ‘That’s very curious.’
 ‘It’s all about as curious as it can be,’ said the Gryphon.
 ‘It all came different!’ the Mock Turtle repeated thoughtfully, ‘I should like
 to hear her try and repeat something now. Tell her to begin.’ He looked at the
 Gryphon as if he thought it had some kind of authority over Alice.
-‘Stand up and repeat “ ’TISTHE VOICEOFTHE SLUGGARD,” ’ said the
+‘Stand up and repeat “ ’TIS THE VOICE OF THE SLUGGARD,” ’ said the
 Gryphon.
 ‘How the creatures order one about, and make one repeat lessons!’ thought
 Alice, ‘I might as well be at school at once.’ However, she got up, and began to
@@ -2423,29 +2261,28 @@ But, when the tide rises and sharks are around,
 His voice has a timid and tremulous sound.
 ```
 
-### CHAPTER X. THE LOBSTER QUADRILLE 63
-
 ‘That’s different from what I used to say when
 I was a child,’ said the Gryphon.
 ‘Well, I never heard it before,’ said the Mock
 Turtle, ‘but it sounds uncommon nonsense.’
 Alice said nothing; she had sat down with her
 face in her hands, wondering if anything would
-everhappen in a natural way again.
+ever happen in a natural way again.
 ‘I should like to have it explained,’ said the
 Mock Turtle.
 ‘She can’t explain it,’ said the Gryphon
 hastily, ‘Go on with the next verse.’
-‘But about his toes?’ the Mock Turtle per-
-sisted, ‘Howcouldhe turn them out with his nose,
+‘But about his toes?’ the Mock Turtle persisted,
+‘How could he turn them out with his nose,
 you know?’
 ‘It’s the first position in dancing.’ Alice said;
 but was dreadfully puzzled by the whole thing,
 and longed to change the subject.
 ‘Go on with the next verse,’ the Gryphon repeated impatiently, ‘it begins
-“I PASSEDBYHISGARDEN.” ’
+“I PASSED BY HIS GARDEN.” ’
 Alice did not dare to disobey, though she felt sure it would all come wrong,
 and she went on in a trembling voice:
+
 
 ```
 ‘I passed by his garden and marked, with one eye,
@@ -2457,7 +2294,8 @@ Was kindly permitted to pocket the spoon;
 While the Panther received knife and fork with a growl,
 And concluded the banquet –
 ```
-‘Whatisthe use of repeating all that stuff,’ the Mock Turtle interrupted, ‘if you
+
+‘What is the use of repeating all that stuff,’ the Mock Turtle interrupted, ‘if you
 don’t explain it as you go on? It’s by far the most confusing thing I ever heard!’
 ‘Yes, I think you’d better leave off,’ said the Gryphon; and Alice was only too
 glad to do so.
@@ -2465,10 +2303,7 @@ glad to do so.
 ‘Or would you like the Mock Turtle to sing you a song?’
 ‘Oh, a song, please, if the Mock Turtle would be so kind,’ Alice replied, so
 eagerly that the Gryphon said, in a rather offended tone, ‘Hm! No accounting for
-tastes! Sing her “TURTLESOUP,” will you, old fellow?’
-
-
-### CHAPTER X. THE LOBSTER QUADRILLE 64
+tastes! Sing her “TURTLE SOUP,” will you, old fellow?’
 
 The Mock Turtle sighed deeply and began, in a voice sometimes choked with
 sobs, to sing this:
@@ -2506,9 +2341,9 @@ breeze that followed them, the melancholy words:
 Beautiful, beautiful Soup!’
 ```
 
-# Chapter XI
+## Chapter XI
 
-## XI Who Stole the Tarts?
+## Who Stole the Tarts?
 
 The King and Queen of Hearts were seated
 on their throne when they arrived, with
@@ -2519,8 +2354,8 @@ ing before them, in chains, with a soldier on
 each side to guard him; and near the King
 was the White Rabbit with a trumpet in one
 hand and a scroll of parchment in the other.
-In the very middle of the court was a ta-
-ble, with a large dish of tarts upon it; they
+In the very middle of the court was a table,
+with a large dish of tarts upon it; they
 looked so good, that it made Alice quite
 hungry to look at them – ‘I wish they’d get
 the trial done,’ she thought, ‘and hand round
@@ -2538,11 +2373,6 @@ comfortable, and it was certainly not becoming.
 obliged to say ‘creatures,’ you see, because some of them were animals and some
 were birds,) ‘I suppose they are the jurors.’ She said this last word two or three
 times over to herself, being rather proud of it: for she thought, and rightly too, that
-
-### 65
-
-
-### CHAPTER XI. WHO STOLE THE TARTS? 66
 
 very few little girls of her age knew the meaning of it at all. However, ‘jury-men’
 would have done just as well.
@@ -2575,6 +2405,7 @@ All on a summer day;
 The Knave of Hearts, he stole those tarts,
 And took them quite away!’
 ```
+
 ‘Consider your verdict,’ the King said to the jury.
 ‘Not yet, not yet!’ the Rabbit hastily interrupted, ‘There’s a great deal to come
 before that!’
@@ -2587,9 +2418,6 @@ a piece of bread-and-butter in the other. ‘I beg pardon, your Majesty,’ he b
 The Hatter looked at the March Hare, who had followed him into the court,
 arm-in-arm with the Dormouse. ‘Fourteenth of March, I think it was,’ he said.
 ‘Fifteenth,’ said the March Hare.
-
-
-### CHAPTER XI. WHO STOLE THE TARTS? 67
 
 ‘Sixteenth,’ added the Dormouse.
 ‘Write that down,’ the King said
@@ -2606,8 +2434,8 @@ made a memorandum of the fact.
 ‘I keep them to sell,’ the Hatter
 added as an explanation; ‘I’ve none of
 my own. I’m a hatter.’
-Here the Queen put on her spec-
-tacles and began staring at the Hatter,
+Here the Queen put on her spectacles
+and began staring at the Hatter,
 who turned pale and fidgeted.
 ‘Give your evidence,’ said the
 King, ‘and don’t be nervous, or I’ll
@@ -2624,16 +2452,13 @@ her, ‘I can hardly breathe.’
 ‘I can’t help it,’ said Alice very meekly, ‘I’m growing.’
 ‘You’ve no right to grow here,’ said the Dormouse.
 ‘Don’t talk nonsense,’ said Alice more boldly, ‘you know you’re growing too.’
-‘Yes, but I grow at a reasonable pace,’ said the Dormouse, ‘not in that ridicu-
-lous fashion.’ And he got up very sulkily and crossed over to the other side of the
+‘Yes, but I grow at a reasonable pace,’ said the Dormouse, ‘not in that ridiculous
+fashion.’ And he got up very sulkily and crossed over to the other side of the
 court.
 All this time the Queen had never left off staring at the Hatter, and, just as the
 Dormouse crossed the court, she said to one of the officers of the court, ‘Bring me
 the list of the singers in the last concert!’ on which the wretched Hatter trembled
 so, that he shook both his shoes off.
-
-
-### CHAPTER XI. WHO STOLE THE TARTS? 68
 
 ‘Give your evidence,’ the King repeated angrily, ‘or I’ll have you executed,
 whether you’re nervous or not.’
@@ -2656,7 +2481,7 @@ asleep.
 ‘After that,’ continued the Hatter, ‘I cut some more bread-and-butter – ’
 ‘But what did the Dormouse say?’ one of the jury asked.
 ‘That I can’t remember,’ said the Hatter.
-‘Youmustremember,’ remarked the King, ‘or I’ll have you executed.’
+‘You must remember,’ remarked the King, ‘or I’ll have you executed.’
 The miserable Hatter dropped his teacup and bread-and-butter, and went down
 on one knee. ‘I’m a poor man, your Majesty,’ he began.
 ‘You’re a very poor speaker,’ said the King.
@@ -2670,15 +2495,12 @@ immediately suppressed by the officers of the court,” and I never understood w
 it meant till now.’
 ‘If that’s all you know about it, you may stand down,’ continued the King.
 ‘I can’t go no lower,’ said the Hatter, ‘I’m on the floor, as it is.’
-‘Then you maysitdown,’ the King replied.
+‘Then you may sit down,’ the King replied.
 Here the other guinea-pig cheered and was suppressed.
 ‘Come, that finished the guinea-pigs!’ thought Alice, ‘Now we shall get on
 better.’
 ‘I’d rather finish my tea,’ said the Hatter, with an anxious look at the Queen,
 who was reading the list of singers.
-
-
-### CHAPTER XI. WHO STOLE THE TARTS? 69
 
 ‘You may go,’ said the King,
 and the Hatter hurriedly left the
@@ -2697,7 +2519,7 @@ the people near the door began sneezing all at once.
 ‘Give your evidence,’ said the King.
 ‘Shan’t,’ said the cook.
 The King looked anxiously at the White Rabbit, who said in a low voice, ‘Your
-Majesty must cross-examinethiswitness.’
+Majesty must cross-examine this witness.’
 ‘Well, if I must, I must,’ the King said, with a melancholy air, and, after folding
 his arms and frowning at the cook till his eyes were nearly out of sight, he said in
 a deep voice, ‘What are tarts made of?’
@@ -2708,30 +2530,29 @@ that Dormouse out of court! Suppress him! Pinch him! Off with his whiskers!’
 For some minutes the whole court was in confusion, getting the Dormouse
 turned out, and, by the time they had settled down again, the cook had disappeared.
 ‘Never mind!’ said the King, with an air of great relief. ‘Call the next witness.’
-And he added in an undertone to the Queen, ‘Really, my dear,youmust cross-
-examine the next witness. It quite makes my forehead ache!’
-Alice watched the White Rabbit as he fumbled over the list, feeling very cu-
-rious to see what the next witness would be like, ‘ – for they haven’t got much
-evidenceyes,’ she said to herself. Imagine her surprise, when the White Rabbit
+And he added in an undertone to the Queen, ‘Really, my dear, you must cross examine
+the next witness. It quite makes my forehead ache!’
+Alice watched the White Rabbit as he fumbled over the list, feeling very curious
+to see what the next witness would be like, ‘ – for they haven’t got much
+evidence yes,’ she said to herself. Imagine her surprise, when the White Rabbit
 read out, at the top of his shrill little voice, the name ‘Alice!’
 
 
-# Chapter XII
+## Chapter XII
 
-## XII Alice’s Evidence
+## Alice’s Evidence
 
 ‘Here!’ cried Alice, quite forgetting
 in the flurry of the moment how large
 she had grown in the last few minutes,
 and she jumped up in such a hurry that
 she tipped over the jury-box with the
-edge of her skirt, upsetting all the ju-
-rymen on to the heads of the crowd
+edge of her skirt, upsetting all the jurymen on to the heads of the crowd
 below, and there they lay sprawling
 about, reminding her very much of
-a globe of goldfish she had acciden-
-tally upset the week before.
-‘Oh, Ibegyour pardon!’ she ex-
+a globe of goldfish she had accidentally 
+upset the week before.
+‘Oh, I _beg_ your pardon!’ she ex-
 claimed in a tone of great dismay
 and began picking them up again as
 quickly as she could, for the accident
@@ -2743,15 +2564,10 @@ and put back into the jury-box or they would die.
 jurymen are back in their proper places – all,’ he repeated with great emphasis,
 looking hard at Alice as he said do.
 Alice looked at the jury-box and saw that, in her haste, she had put the Lizard
-in head downwards and the poor little thing was waving its tail about in a melan-
-choly way, being quite unable to move. She soon got it out again and put it right;
-‘not that it signifies much,’ she said to herself, ‘I should think it would bequiteas
+in head downwards and the poor little thing was waving its tail about in a melancholy
+way, being quite unable to move. She soon got it out again and put it right;
+‘not that it signifies much,’ she said to herself, ‘I should think it would be quite as
 much use in the trial one way up as the other.’
-
-### 70
-
-
-### CHAPTER XII. ALICE’S EVIDENCE 71
 
 As soon as the jury had a little recovered from the
 shock of being upset and their slates and pencils had
@@ -2763,7 +2579,7 @@ the roof of the court.
 ‘What do you know about this business?’ the King
 said to Alice.
 ‘Nothing,’ said Alice.
-‘Nothingwhatever?’ persisted the King.
+‘Nothing whatever?’ persisted the King.
 ‘Nothing whatever,’ said Alice.
 ‘That’s very important,’ the King
 said, turning to the jury. They were
@@ -2782,7 +2598,7 @@ At this moment the King, who had been for some time busily writing in his
 note-book, cackled out ‘Silence!’ and read out from his book, ‘Rule Forty-two.
 All persons more than a mile high to leave the court.’
 Everybody looked at Alice.
-‘I’mnot a mile high,’ said Alice.
+‘I’m not a mile high,’ said Alice.
 ‘You are,’ said the King.
 ‘Nearly two miles high,’ added the Queen.
 ‘Well, I shan’t go, at any rate,’ said Alice, ‘besides, that’s not a regular rule:
@@ -2794,9 +2610,6 @@ he said to the jury, in a low, trembling voice.
 ‘There’s more evidence to come yet, please your Majesty,’ said the White
 Rabbit, jumping up in a great hurry, ‘this paper has just been picked up.’
 
-
-### CHAPTER XII. ALICE’S EVIDENCE 72
-
 ‘What’s in it?’ said the Queen.
 ‘I haven’t opened it yet,’ said the White Rabbit, ‘but it seems to be a letter,
 written by the prisoner to – to somebody.’
@@ -2804,7 +2617,7 @@ written by the prisoner to – to somebody.’
 isn’t usual, you know.’
 ‘Who is it directed to?’ said one of the jurymen.
 ‘It isn’t directed at all,’ said the White Rabbit, ‘in fact, there’s nothing written
-on theoutside.’ He unfolded the paper as he spoke, and added ‘It isn’t a letter,
+on the outside.’ He unfolded the paper as he spoke, and added ‘It isn’t a letter,
 after all: it’s a set of verses.’
 ‘Are they in the prisoner’s handwriting?’ asked another of the jurymen.
 ‘No, they’re not,’ said the White Rabbit, ‘and that’s the queerest thing about
@@ -2814,11 +2627,11 @@ brightened up again.)
 ‘Please your Majesty,’ said the Knave, ‘I didn’t write it and they can’t prove
 I did: there’s no name signed at the end.’
 ‘If you didn’t sign it,’ said the King, ‘that only makes the matter worse. You
-musthave meant some mischief or else you’d have signed your name like an
+must have meant some mischief or else you’d have signed your name like an
 honest man.’
 There was a general clapping of hands at this: it was the first really clever
 thing the King had said that day.
-‘Thatproveshis guilt,’ said the Queen.
+‘That proves his guilt,’ said the Queen.
 ‘It proves nothing of the sort!’ said Alice, ‘Why, you don’t even know what
 they’re about!’
 ‘Read them,’ said the King.
@@ -2841,8 +2654,6 @@ I gave her one, they gave him two,
 You gave us three or more;
 ```
 
-### CHAPTER XII. ALICE’S EVIDENCE 73
-
 ```
 They all returned from him to you,
 Though they were mine before.
@@ -2859,12 +2670,13 @@ For this must ever be
 A secret kept from all the rest,
 Between yourself and me.’
 ```
+
 ‘That’s the most important piece of evidence we’ve heard yet,’ said the King,
 rubbing his hands, ‘so now let the jury – ’
 ‘If any one of them can explain it,’ said Alice, (she had grown so large in the
 last few minutes that she wasn’t a bit afraid of interrupting him,) ‘I’ll give him
-sixpence.Idon’t believe there’s an atom of meaning in it.’
-The jury all wrote down on their slates, ‘Shedoesn’t believe there’s an atom
+six pence.I don’t believe there’s an atom of meaning in it.’
+The jury all wrote down on their slates, ‘She doesn’t believe there’s an atom
 of meaning in it,’ but none of them attempted to explain the paper.
 ‘If there’s no meaning in it,’ said the King, ‘that saves a world of trouble, you
 know, as we needn’t try to find any. And yet I don’t know,’ he went on, spreading
@@ -2872,23 +2684,20 @@ out the verses on his knee and looking at them with one eye; ‘I seem to see so
 meaning in them, after all. – “Said I could not swim” – you can’t swim, can you?’
 he added, turning to the Knave.
 The Knave shook his head sadly. ‘Do I look like it?’ he said. (Which he
-certainly didnot, being made entirely of cardboard.)
+certainly did not, being made entirely of cardboard.)
 ‘All right, so far,’ said the King, and he went on muttering over the verses to
 himself, ‘ “We know it to be true” – that’s the jury, of course – “I gave her one,
 they gave him two” – why, that must be what he did with the tarts, you know – ’
 ‘But, it goes on “They all returned from him to you,” ’ said Alice.
 ‘Why, there they are!’ said the King triumphantly, pointing to the tarts on
-the table. ‘Nothing can be clearer thanthat. Then again – “Before she had this
+the table. ‘Nothing can be clearer than that. Then again – “Before she had this
 fit” – you never had fits, my dear, I think?’ he said to the Queen.
 ‘Never!’ said the Queen furiously, throwing an inkstand at the Lizard as she
 spoke. (The unfortunate little Bill had left off writing on his slate with one finger,
 as he found it made no mark; but he now hastily began again, using the ink, that
 was trickling down his face as long as it lasted.)
 
-
-### CHAPTER XII. ALICE’S EVIDENCE 74
-
-‘Then the words don’tfityou,’ said the King looking round the court with
+‘Then the words don’t fit you,’ said the King looking round the court with
 a smile. There was a dead silence.
 ‘It’s a pun!’ the King added in an offended tone and everybody laughed, ‘Let
 the jury consider their verdict,’ the King said, for about the twentieth time that
@@ -2919,7 +2728,7 @@ sister, ‘Why, what a long sleep you’ve had!’
 ‘Oh, I’ve had such a curious dream!’ said Alice and she told her sister, as well
 as she could remember them, all these strange adventures of hers that you have
 just been reading about; and when she had finished, her sister kissed her and said,
-‘Itwasa curious dream, dear, certainly; but now run in to your tea; it’s getting
+‘It was a curious dream, dear, certainly; but now run in to your tea; it’s getting
 late.’ So Alice got up and ran off thinking while she ran, as well she might, what
 a wonderful dream it had been.
 But her sister sat still just as she left her, leaning her head on her hand, watch-
@@ -2928,18 +2737,15 @@ till she too began dreaming after a fashion and this was her dream:
 First, she dreamed of little Alice herself and once again the tiny hands were
 clasped upon her knee and the bright eager eyes were looking up into hers – she
 could hear the very tones of her voice and see that queer little toss of her head to
-keep back the wandering hair thatwouldalways get into her eyes – and still as she
-
-
-### CHAPTER XII. ALICE’S EVIDENCE 75
+keep back the wandering hair that would always get into her eyes – and still as she
 
 listened, or seemed to listen, the whole place around her became alive the strange
 creatures of her little sister’s dream.
-The long grass rustled at her feet as the White Rabbit hurried by – the fright-
-ened Mouse splashed his way through the neighbouring pool – she could hear the
+The long grass rustled at her feet as the White Rabbit hurried by – the frightened
+Mouse splashed his way through the neighbouring pool – she could hear the
 rattle of the teacups as the March Hare and his friends shared their never-ending
-meal and the shrill voice of the Queen ordering off her unfortunate guests to exe-
-cution – once more the pig-baby was sneezing on the Duchess’s knee while plates
+meal and the shrill voice of the Queen ordering off her unfortunate guests to execution
+– once more the pig-baby was sneezing on the Duchess’s knee while plates
 and dishes crashed around it – once more the shriek of the Gryphon, the squeaking
 of the Lizard’s slate-pencil and the choking of the suppressed guinea-pigs, filled
 the air, mixed up with the distant sobs of the miserable Mock Turtle.
@@ -2954,7 +2760,7 @@ the cattle in the distance would take the place of the Mock Turtle’s heavy sob
 Lastly, she pictured to herself how this same little sister of hers would, in the
 after-time, be herself a grown woman; and how she would keep, through all her
 riper years, the simple and loving heart of her childhood; and how she would
-gather about her other little children and maketheireyes bright and eager with
+gather about her other little children and make their eyes bright and eager with
 many a strange tale, perhaps even with the dream of Wonderland of long ago; and
 how she would feel with all their simple sorrows and find a pleasure in all their
 simple joys remembering her own child-life and the happy summer days.
