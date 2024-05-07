@@ -28,7 +28,7 @@
     "bootstrap": "^3.3.7",
     "enumify": "^1.0.4",
     "mini-css-extract-plugin": "^2.7.6",
-    "pdfjs-dist": "^2.8.335",
+    "pdfjs-dist": "^4.2.67",
     "rc-progress": "^2.0.6",
     "react": "^15.4.2",
     "react-bootstrap": "^0.30.7",
