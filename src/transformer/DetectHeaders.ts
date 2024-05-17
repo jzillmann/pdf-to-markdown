@@ -37,6 +37,7 @@ export default class DetectHeaders extends ItemTransformer {
     const itemsByLine = groupByLine(inputItems);
     const itemToLevel: Map<string, HeadlineType> = new Map();
 
+    // TODO move the seperate parts to different transformations (easier debuggable/testable)
 
     // Handle title pages: Title pages often have multiple lines of extraordinary height.
     // Starting the leveling here would already consume most of the available headline levels.
@@ -145,7 +146,10 @@ export default class DetectHeaders extends ItemTransformer {
       items: inputItems.map((item) => {
         const headerType = itemToLevel.get(item.uuid);
         if (headerType) {
-          return itemWithType(item, headerType);
+          const hasAlreadyHeadline = item.data['types'] || [].find((t) => isHeadline(t));
+          if (!hasAlreadyHeadline) {
+            return itemWithType(item, headerType);
+          }
         }
         return item;
       }),
