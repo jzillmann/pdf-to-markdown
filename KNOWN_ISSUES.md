@@ -1,5 +1,13 @@
 # Known Issues
 
+- `IRENE NORTON, ne A ́ DLER` in Sherlock Holmes
+- double sided text: right side marked as code (e.g. CC-NC_Leitfaden.pdf)
+- upper/lowercas characters wrongly detected (e.g. CC-NC_Leitfaden.pdf)
+- footnotes which arnt footnotes (CC_License_Agreement_of_siMPle.pdf) but links (parser issue?)
+- alternating page layout => code detection (Life-Of-God-In-Soul-Of-Man.pdf)
+- letters are screwed up often (Life-Of-God-In-Soul-Of-Man.pdf)
+- no TOC detection (Made-with-cc.pdf)
+
 ## Missing or wrong characters
 
 The text which comes of pdfjs looks very erronous sometimes. E.g [Life-Of-God-In-Soul-Of-Man](examples/Life-Of-God-In-Soul-Of-Man.pdf).
@@ -29,10 +37,7 @@ The interesting thing is that rendering with pdfjs (online) looks good. So maybe
 - no toc
 - romisch numbers are wrong
 - subheading under the toc headings should be detected as well (clearly not in the code)
-
-# Sherlock
-
-- words not together
+- wrong line orders on page `iv` ? see `This book is an open access publication` & `Additional material to this book`
 
 # Made-with-cc.pdf
 

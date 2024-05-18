@@ -1,8 +1,8 @@
 {
   "pages": 218,
-  "items": 51104,
-  "groupedItems": 8481,
-  "changes": 5,
+  "items": 51079,
+  "groupedItems": 8567,
+  "changes": 2,
   "schema": [
     {
       "name": "line"
@@ -39,6 +39,3 @@
 }
 {"page":0,"change":"ContentChange","types":["H1"],"str":"A Course in Combinatorial Optimization","dir":"ltr","width":"407.49","height":"24.79","transform":["24.79","0.00","0.00","24.79","112.60","584.96"],"fontName":"HVHZFT+CMR17","x":112.599,"y":584.959,"line":0}
 {"page":0,"change":"ContentChange","types":["H2"],"str":"Alexander Schrijver","dir":"ltr","width":"162.77","height":"20.66","transform":["20.66","0.00","0.00","20.66","234.96","508.10"],"fontName":"HVHZFT+CMR17","x":234.96300000000002,"y":508.09919999999994,"line":1}
-{"page":198,"change":"ContentChange","types":["H2","H3"],"str":"References","dir":"ltr","width":"90.64","height":"17.22","transform":["17.22","0.00","0.00","17.22","100.35","701.16"],"fontName":"KXBFBK+CMBX12","x":100.34999999999997,"y":701.1583,"line":1}
-{"page":209,"change":"ContentChange","types":["H2","H3"],"str":"Name index","dir":"ltr","width":"101.96","height":"17.22","transform":["17.22","0.00","0.00","17.22","233.80","685.71"],"fontName":"KXBFBK+CMBX12","x":233.80200000000002,"y":685.7142,"line":1}
-{"page":211,"change":"ContentChange","types":["H2","H3"],"str":"Subject index","dir":"ltr","width":"116.68","height":"17.22","transform":["17.22","0.00","0.00","17.22","226.44","685.71"],"fontName":"KXBFBK+CMBX12","x":226.44,"y":685.7142,"line":1}

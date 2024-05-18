@@ -1,15 +1,13 @@
-```
-Developed by Aalborg University, Denmark and Alfred Wegener Institute, Germany
-```
-## Creative Commons Attribution-ShareAlike 4.
+# Creative Commons Attribution-ShareAlike 4.0
 
 # International Public License Agreement of siMPle –
 
-# Software for the automated detection of microplastic
-
+```
+Software for the automated detection of microplastic
+```
 ```
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by
-the terms and conditions of this Creative Commons Attribution-ShareAlike 4.
+the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0
 International Public License ("Public License"). To the extent this Public License may be
 interpreted as a contract, You are granted the Licensed Rights in consideration of Your
 acceptance of these terms and conditions, and the Licensor grants You such rights in
@@ -49,10 +47,6 @@ agreements.
 f. Exceptions and Limitations means fair use, fair dealing, and/or any other exception or
 limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
 
-
-```
-Developed by Aalborg University, Denmark and Alfred Wegener Institute, Germany
-```
 g. License Elements means the license attributes listed in the name of a Creative Commons
 Public License. The License Elements of this Public License are Attribution and ShareAlike.
 
@@ -85,27 +79,23 @@ Section 2 – Scope.
 a. License grant.
 
 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You
-    a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to
-    exercise the Licensed Rights in the Licensed Material to:
+a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to
+exercise the Licensed Rights in the Licensed Material to:
 
 A. reproduce and Share the Licensed Material, in whole or in part; and
 
 B. produce, reproduce, and Share Adapted Material.
 
 2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations
-    apply to Your use, this Public License does not apply, and You do not need to comply with
-    its terms and conditions.
+apply to Your use, this Public License does not apply, and You do not need to comply with
+its terms and conditions.
 3. Term. The term of this Public License is specified in Section 6(a).
 4. Media and formats; technical modifications allowed. The Licensor authorizes You to
-    exercise the Licensed Rights in all media and formats whether now known or hereafter
-    created, and to make technical modifications necessary to do so. The Licensor waives
-    and/or agrees not to assert any right or authority to forbid You from making technical
-    modifications necessary to exercise the Licensed Rights, including technical modifications
+exercise the Licensed Rights in all media and formats whether now known or hereafter
+created, and to make technical modifications necessary to do so. The Licensor waives
+and/or agrees not to assert any right or authority to forbid You from making technical
+modifications necessary to exercise the Licensed Rights, including technical modifications
 
-
-```
-Developed by Aalborg University, Denmark and Alfred Wegener Institute, Germany
-```
 ```
 necessary to circumvent Effective Technological Measures. For purposes of this Public
 License, simply making modifications authorized by this Section 2(a)(4) never produces
@@ -127,22 +117,22 @@ if doing so restricts exercise of the Licensed Rights by any recipient of the Li
 Material.
 
 6. No endorsement. Nothing in this Public License constitutes or may be construed as
-    permission to assert or imply that You are, or that Your use of the Licensed Material is,
-    connected with, or sponsored, endorsed, or granted official status by, the Licensor or
-    others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+permission to assert or imply that You are, or that Your use of the Licensed Material is,
+connected with, or sponsored, endorsed, or granted official status by, the Licensor or
+others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
 b. Other rights.
 
 1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor
-    are publicity, privacy, and/or other similar personality rights; however, to the extent
-    possible, the Licensor waives and/or agrees not to assert any such rights held by the
-    Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but
-    not otherwise.
+are publicity, privacy, and/or other similar personality rights; however, to the extent
+possible, the Licensor waives and/or agrees not to assert any such rights held by the
+Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but
+not otherwise.
 2. Patent and trademark rights are not licensed under this Public License.
 3. To the extent possible, the Licensor waives any right to collect royalties from You for the
-    exercise of the Licensed Rights, whether directly or through a collecting society under any
-    voluntary or waivable statutory or compulsory licensing scheme. In all other cases the
-    Licensor expressly reserves any right to collect such royalties.
+exercise of the Licensed Rights, whether directly or through a collecting society under any
+voluntary or waivable statutory or compulsory licensing scheme. In all other cases the
+Licensor expressly reserves any right to collect such royalties.
 
 ```
 Section 3 – License Conditions.
@@ -154,10 +144,6 @@ a. Attribution.
 
 1. If You Share the Licensed Material (including in modified form), You must:
 
-
-```
-Developed by Aalborg University, Denmark and Alfred Wegener Institute, Germany
-```
 ```
 A. retain the following if it is supplied by the Licensor with the Licensed Material:
 i. identification of the creator(s) of the Licensed Material and any others designated to
@@ -168,17 +154,15 @@ ii. a copyright notice;
 iii. a notice that refers to this Public License;
 
 iv. a notice that refers to the disclaimer of warranties;
-
-```
 v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable
-```
+
 ```
 Citing siMPle in academic papers:
 ```
-- Primpke, S., A. Dias, P., Gerdts, G., Anal. Methods 11, 2138 – 2147. (2019)
+- Primpke, S., A. Dias, P., Gerdts, G., Anal. Methods 11, 2138–2147. (2019)
 - Liu, F., Olesen, K.B., Borregaard, A.R., Vollertsen, J., Sci. Total Environ. 671. (2019)
 - Raman database: Cabernard, L.; Roscher, L.; Lorenz, C.; Gerdts, G.; Primpke, S., Environmental Science
-& Technology 52 (22), 13279- 13288 (2018)
+& Technology 52 (22), 13279-13288 (2018)
 
 ```
 B. indicate if You modified the Licensed Material and retain an indication of any previous
@@ -187,11 +171,11 @@ C. indicate the Licensed Material is licensed under this Public License, and inc
 of, or the URI or hyperlink to, this Public License.
 ```
 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the
-    medium, means, and context in which You Share the Licensed Material. For example, it
-    may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource
-    that includes the required information.
+medium, means, and context in which You Share the Licensed Material. For example, it
+may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource
+that includes the required information.
 3. If requested by the Licensor, You must remove any of the information required by
-    Section 3(a)(1)(A) to the extent reasonably practicable.
+Section 3(a)(1)(A) to the extent reasonably practicable.
 b. ShareAlike.
 
 ```
@@ -199,18 +183,14 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
 the following conditions also apply.
 ```
 1. The Adapter’s License You apply must be a Creative Commons license with the same
-    License Elements, this version or later, or a BY-SA Compatible License.
+License Elements, this version or later, or a BY-SA Compatible License.
 2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply.
-    You may satisfy this condition in any reasonable manner based on the medium, means,
-    and context in which You Share Adapted Material.
+You may satisfy this condition in any reasonable manner based on the medium, means,
+and context in which You Share Adapted Material.
 3. You may not offer or impose any additional or different terms or conditions on, or apply
-    any Effective Technological Measures to, Adapted Material that restrict exercise of the
-    rights granted under the Adapter's License You apply.
+any Effective Technological Measures to, Adapted Material that restrict exercise of the
+rights granted under the Adapter's License You apply.
 
-
-```
-Developed by Aalborg University, Denmark and Alfred Wegener Institute, Germany
-```
 ```
 Section 4 – Sui Generis Database Rights.
 ```
@@ -228,10 +208,12 @@ purposes of Section 3(b); and
 
 c. You must comply with the conditions in Section 3(a) if You Share all or a substantial
 portion of the contents of the database.
+
+```
 For the avoidance of doubt, this Section 4 supplements and does not replace Your
 obligations under this Public License where the Licensed Rights include other Copyright
 and Similar Rights.
-
+```
 ```
 Section 5 – Disclaimer of Warranties and Limitation of Liability.
 ```
@@ -259,10 +241,6 @@ and waiver of all liability.
 ```
 Section 6 – Term and Termination.
 ```
-
-```
-Developed by Aalborg University, Denmark and Alfred Wegener Institute, Germany
-```
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here.
 However, if You fail to comply with this Public License, then Your rights under this Public
 License terminate automatically.
@@ -271,7 +249,7 @@ b. Where Your right to use the Licensed Material has terminated under Section 6(
 reinstates:
 
 1. automatically as of the date the violation is cured, provided it is cured within 30 days of
-    Your discovery of the violation; or
+Your discovery of the violation; or
 2. upon express reinstatement by the Licensor.
 
 ```
@@ -282,7 +260,7 @@ c. For the avoidance of doubt, the Licensor may also offer the Licensed Material
 separate terms or conditions or stop distributing the Licensed Material at any time;
 however, doing so will not terminate this Public License.
 
-d. Sections 1 , 5 , 6 , 7 , and 8 survive termination of this Public License.
+d. Sections [^1]:, [^5]:, [^6]:, [^7]:, and [^8]: survive termination of this Public License.
 
 ```
 Section 7 – Other Terms and Conditions.
@@ -309,10 +287,6 @@ affecting the enforceability of the remaining terms and conditions.
 c. No term or condition of this Public License will be waived and no failure to comply
 consented to unless expressly agreed to by the Licensor.
 
-
-```
-Developed by Aalborg University, Denmark and Alfred Wegener Institute, Germany
-```
 d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or
 waiver of, any privileges and immunities that apply to the Licensor or You, including from
 the legal processes of any jurisdiction or authority.
@@ -321,10 +295,7 @@ the legal processes of any jurisdiction or authority.
 Creative Commons is not a party to its public licenses. Notwithstanding, Creative
 Commons may elect to apply one of its public licenses to material it publishes and in those
 instances will be considered the “Licensor.” The text of the Creative Commons public
-```
-### licenses is dedicated to the public domain under the CC0 Public Domain Dedication.
-
-```
+licenses is dedicated to the public domain under the CC0 Public Domain Dedication.
 Except for the limited purpose of indicating that material is shared under a Creative
 Commons public license or as otherwise permitted by the Creative Commons policies
 published at creativecommons.org/policies, Creative Commons does not authorize the
@@ -337,4 +308,3 @@ the avoidance of doubt, this paragraph does not form part of the public licenses
 ```
 Creative Commons may be contacted at creativecommons.org.
 ```
-

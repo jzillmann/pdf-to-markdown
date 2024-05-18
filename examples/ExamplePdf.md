@@ -25,7 +25,7 @@ accumsan risus in purus facilisis interdum. Aliquam tincidunt condimentum est, s
 venenatis orci. Fusce neque nibh, dapibus et volutpat sit amet, consectetur ac quam. Sed pharetra
 faucibus arcu, at interdum dui ornare ut. Aliquam sodales, magna et euismod congue, ipsum diam
 tempus sapien, vel aliquet tortor dolor ut purus. Aenean aliquet ut erat vitae dictum. Fusce eget
-ultrices magna. Sed egestas mi nec rutrum iaculis. Phasellus condimentum[^3] , urna sit amet sodales
+ultrices magna. Sed egestas mi nec rutrum iaculis. Phasellus condimentum[^3], urna sit amet sodales
 accumsan, lacus risus cursus ipsum, et rhoncus ligula mi et nibh. In consequat a risus a
 accumsan. Pellentesque nec lacus sodales eros laoreet pretium non ac erat.
 
@@ -91,15 +91,14 @@ _Und ein kursiver Setzt der einen eingeschlossen Link, nämlich [http://pdf2md.m
 
 [^7]: Fussnote in einer Liste
 
-
 ## Listen
 
 Nun eine Liste mit dash’s:
 
 - Eintrag 1
 - Eintrag 2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du Zeile. Na
-    los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann es ja nicht.
-    Also los!
+los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann es ja nicht.
+Also los!
 - Eintrag 3
 
 Und Untergruppen:
@@ -126,18 +125,18 @@ Nummerierte Liste:
 
 1. Eins
 2. Zwei, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du Zeile. Na los.
-    Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann es ja nicht. Also
-    los!
+Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann es ja nicht. Also
+los!
 3. Drei
 4. Vier. Und auch hier wieder ein etwas längerer Text, so dass der Eintrag über mehrere Zeilen
-    geht!
+geht!
 
 Zentrierte Liste:
 
 - Eintrag 1
 - Eintrag 2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du Zeile.
-    Na los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann es
-    ja nicht. Also los!
+Na los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann es
+ja nicht. Also los!
 - Eintrag 3
 
 Zwei aufeinander folgende Listen:
@@ -177,7 +176,6 @@ der Parser das sauber trennen kann:
 - Eintrag 2
 Und danach kommt auch gleicht was.
 
-
 ## Quotes & Spezielle Einschübe[^8]
 
 Das hier ist wieder ein normaler Absatz. Das interessante ist der nachfolgende Teil, der
@@ -190,7 +188,7 @@ spiegelt dann ein leerer Schreibtisch wider? - Albert Einstein
 So, das war ja schonmal ein guter Anfang. Hier noch ein Einzeiler:
 
 ```
-Phantasie ist wichtiger als Wissen , denn Wissen[^9] ist begrenzt. - Albert Einstein[^10]
+Phantasie ist wichtiger als Wissen, denn Wissen[^9] ist begrenzt. - Albert Einstein[^10]
 ```
 Und nun mehrere Quotes hintereinander:
 

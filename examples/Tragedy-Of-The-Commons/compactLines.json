@@ -1,8 +1,8 @@
 {
   "pages": 7,
   "items": 6779,
-  "groupedItems": 1096,
-  "changes": 1042,
+  "groupedItems": 1102,
+  "changes": 1048,
   "schema": [
     {
       "name": "line",
@@ -77,115 +77,119 @@
 {"page":0,"change":"Addition","str":"the natural sciences. They cautiously","line":43,"x":14.039999999999907,"y":117.83999999999992,"width":"135.72","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"qualified their statement with the","line":44,"x":14.039999999999935,"y":107.03999999999992,"width":"121.38","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
 {"page":0,"change":"Addition","str":"phrase, \"It is our considered profes-","line":45,"x":13.799999999999926,"y":96.05999999999992,"width":"130.43","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"The author is professor of biology, University of California, Santa Barbara. This article is based on a presidential address presented before the meeting of the Pacific Division of the Ameri- can Association for the Advancement of Science","line":46,"x":14.099999999999966,"y":49.37999999999992,"width":"660.30","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"at Utah State University, Logan, 25 June 1968.","line":47,"x":14.279999999999944,"y":42.05999999999992,"width":"129.06","height":"9.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"13 DECEMBER 1968","line":48,"x":14.519999999999925,"y":27.65999999999992,"width":"63.18","height":"9.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"sional judgment. . . .\" Vhether they","line":49,"x":191.1599999999999,"y":537.8399899999998,"width":"122.76","height":"12.30","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"were right or not is not the concern of","line":50,"x":191.51999999999998,"y":527.3399999999999,"width":"131.64","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"the present article. Rather, the concern","line":51,"x":191.27999999999997,"y":515.7599999999999,"width":"141.66","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"here is with the important concept of a","line":52,"x":191.28,"y":504.7199899999999,"width":"136.68","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"class of human problems which can be","line":53,"x":191.28000000000003,"y":493.6799999999999,"width":"139.14","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"called \"no technical solution problems,\"","line":54,"x":191.76000000000005,"y":481.8599999999999,"width":"149.40","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"and, more specifically, with the identifi-","line":55,"x":192.24000000000007,"y":471.2399999999999,"width":"144.18","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"cation and discussion of one of these.","line":56,"x":191.40000000000006,"y":460.19999999999993,"width":"133.44","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"It is easy to show that the class is not","line":57,"x":201.24000000000007,"y":449.09999999999985,"width":"123.18","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"a null class. Recall the game of tick-","line":58,"x":191.1600000000001,"y":438.00000999999986,"width":"126.06","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"tack-toe. Consider the problem, \"How","line":59,"x":191.16000000000008,"y":426.7199999999999,"width":"141.66","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"can I win. the game of tick-tack-toe?\"","line":60,"x":191.28000000000003,"y":415.79998999999987,"width":"134.40","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"It is well known that I cannot, if I as-","line":61,"x":191.04000000000008,"y":404.7599999999999,"width":"125.52","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"sume (in keeping with the conventions","line":62,"x":191.0400000000001,"y":393.53999999999985,"width":"140.10","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"of game theory) that my opponent un-","line":63,"x":190.68000000000012,"y":382.3799899999998,"width":"138.18","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"derstands the game perfectly. Put an-","line":64,"x":191.16000000000014,"y":371.2799999999998,"width":"135.90","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"other way, there is no \"technical solu-","line":65,"x":190.8000000000001,"y":360.1200099999998,"width":"136.02","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"tion\" to the problem. I can win only","line":66,"x":191.04000000000008,"y":348.59998999999976,"width":"126.06","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"by giving a radical meaning to the word","line":67,"x":191.04000000000005,"y":337.98000999999977,"width":"141.96","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"\"win.\" I can hit my opponent over the","line":68,"x":191.16000000000003,"y":326.87998999999974,"width":"135.30","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"head; or I can drug him; or I can falsify","line":69,"x":191.04,"y":315.4800099999997,"width":"135.96","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"the records. Every way in which I \"win\"","line":70,"x":191.15999999999997,"y":304.37999999999977,"width":"142.75","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"involves, in some sense, an abandon-","line":71,"x":191.03999999999996,"y":293.57999999999976,"width":"132.72","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"ment of the game, as we intuitively un-","line":72,"x":190.91999999999996,"y":282.4199899999997,"width":"138.06","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"derstand it. (I can also, of course,","line":73,"x":191.15999999999997,"y":271.0800099999997,"width":"117.12","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"openly abandon the game-refuse to","line":74,"x":190.91999999999996,"y":260.0399899999997,"width":"137.46","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"play it. This is what most adults do.)","line":75,"x":190.79999999999993,"y":249.2400099999997,"width":"126.36","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"The class of \"No technical solution","line":76,"x":200.75999999999988,"y":238.0199999999997,"width":"127.38","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"problems\" has members. My thesis is","line":77,"x":190.79999999999984,"y":226.9799999999997,"width":"135.24","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"that the \"population problem,\" as con-","line":78,"x":190.67999999999978,"y":215.7599999999997,"width":"140.46","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"ventionally conceived, is a member of","line":79,"x":190.6799999999998,"y":204.77999999999972,"width":"139.32","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"this class. How it is conventionally con-","line":80,"x":190.67999999999984,"y":193.8000099999997,"width":"142.38","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"ceived needs some comment. It is fair","line":81,"x":190.67999999999986,"y":182.6400099999997,"width":"134.28","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"to say that most people who' anguish","line":82,"x":190.67999999999992,"y":171.5999999999997,"width":"131.10","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"over the population problem are trying","line":83,"x":190.1999999999999,"y":160.3199999999997,"width":"142.56","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"to find a way to avoid the evils of over-","line":84,"x":190.55999999999995,"y":149.51999999999973,"width":"132.42","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"population without relinquishing any of","line":85,"x":190.43999999999988,"y":138.65999999999974,"width":"149.22","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"the privileges they now enjoy. They","line":86,"x":190.4399999999999,"y":127.67999999999975,"width":"129.48","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"think that farming the seas or develop-","line":87,"x":190.1999999999999,"y":116.87999999999975,"width":"139.68","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"ing new strains of wheat will solve the","line":88,"x":190.19999999999987,"y":105.84000999999975,"width":"133.38","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"problem-technologically. I try to show","line":89,"x":190.07999999999984,"y":95.03999999999975,"width":"148.67","height":"12.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"here that the solution they seek cannot","line":90,"x":190.07999999999979,"y":83.93999999999976,"width":"138.00","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"be found. The population problem can-","line":91,"x":190.0799999999998,"y":73.25999999999976,"width":"144.30","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"not be solved in a technical way, any","line":92,"x":190.1999999999998,"y":62.219999999999764,"width":"127.62","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"more than can the problem of winning","line":93,"x":189.83999999999983,"y":51.179999999999765,"width":"139.32","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"the game of tick-tack-toe.","line":94,"x":189.95999999999984,"y":40.43999999999977,"width":"93.78","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"Population, as Malthus said, naturally","line":95,"x":375.95999999999987,"y":716.2799999999997,"width":"141.96","height":"13.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"tends to grow \"geometrically,\" or, as we","line":96,"x":366.5999999999999,"y":704.9999899999998,"width":"144.90","height":"13.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"would now say, exponentially. In a","line":97,"x":366.11999999999983,"y":693.5999899999998,"width":"126.36","height":"13.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"finite world this means that the per","line":98,"x":366.1199999999999,"y":682.5600099999998,"width":"126.18","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"capita share of the world's goods must","line":99,"x":366.3599999999999,"y":671.3399999999998,"width":"139.50","height":"13.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"steadily decrease. Is ours a finite world?","line":100,"x":366.4799999999999,"y":660.3000099999998,"width":"143.34","height":"13.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"A fair defense can be put forward for","line":101,"x":376.4399999999999,"y":649.1999899999998,"width":"133.26","height":"13.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"the view that the world is infinite; or","line":102,"x":366.59999999999997,"y":638.7599999999999,"width":"127.98","height":"12.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"that we do not know that it is not. But,","line":103,"x":366.7199999999999,"y":627.8399999999998,"width":"132.12","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"in terms of the practical problems that","line":104,"x":366.7199999999999,"y":615.8399999999998,"width":"139.51","height":"13.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"we must face in the next few genera-","line":105,"x":366.8399999999998,"y":604.5599999999998,"width":"129.18","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"tions with the foreseeable technology, it","line":106,"x":366.8399999999998,"y":593.5199999999999,"width":"145.43","height":"13.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"is clear that we will greatly increase","line":107,"x":367.0799999999998,"y":582.4199999999998,"width":"126.55","height":"13.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"human misery if we do not, during the","line":108,"x":367.0799999999999,"y":571.3199999999998,"width":"136.80","height":"13.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"immediate future, assume that the world","line":109,"x":367.2,"y":560.7599899999998,"width":"149.34","height":"13.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"available to the terrestrial human pop-","line":110,"x":367.08000000000004,"y":548.8799999999999,"width":"141.17","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"ulation is finite. \"Space\" is no escape","line":111,"x":367.2000000000001,"y":537.5999999999999,"width":"131.16","height":"13.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"A finite world can support only a","line":113,"x":376.9200000000001,"y":515.6999999999998,"width":"118.20","height":"13.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"finite population; therefore, population","line":114,"x":366.72000000000014,"y":504.23999999999984,"width":"147.72","height":"14.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"growth must eventually equal zero. (The","line":115,"x":367.08000000000015,"y":493.1999999999998,"width":"148.67","height":"13.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"case of perpetual wide fluctuations","line":116,"x":366.8400000000002,"y":482.3399999999998,"width":"129.18","height":"13.30","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"above and below zero is a trivial variant","line":117,"x":367.32000000000016,"y":472.3199999999998,"width":"141.60","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"that need not be discussed.) When this","line":118,"x":367.3200000000001,"y":460.4999999999998,"width":"138.90","height":"13.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"condition is met, what will be the situa-","line":119,"x":367.32000000000016,"y":448.7999999999998,"width":"138.54","height":"12.30","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"tion of mankind? Specifically, can Ben-","line":120,"x":367.32000000000016,"y":437.2799999999998,"width":"144.54","height":"13.30","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"tham's goal of \"the greatest good for","line":121,"x":367.5600000000002,"y":425.9999999999998,"width":"130.80","height":"13.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"the greatest number\" be realized?","line":122,"x":367.3200000000003,"y":415.31999999999977,"width":"123.42","height":"12.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"No-for two reasons, each sufficient","line":123,"x":376.9200000000003,"y":404.09998999999976,"width":"135.65","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"by itself. The first is a theoretical one.","line":124,"x":367.20000000000033,"y":392.9399999999998,"width":"131.64","height":"13.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"It is not mathematically possible to","line":125,"x":367.2000000000003,"y":381.5999999999998,"width":"127.50","height":"12.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"maximize for two (or more) variables at","line":126,"x":367.3200000000003,"y":370.3199999999998,"width":"144.18","height":"13.10","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"the same time. This was clearly stated","line":127,"x":367.3200000000003,"y":358.91999999999985,"width":"135.72","height":"13.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"by von Neumann and Morgenstern (3),","line":128,"x":367.0800000000003,"y":347.5199999999998,"width":"143.87","height":"13.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"but the principle is implicit in the theory","line":129,"x":367.3200000000003,"y":336.3000099999998,"width":"143.82","height":"13.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"of partial differential equations, dating","line":130,"x":366.96000000000026,"y":325.1999899999998,"width":"144.00","height":"13.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"back at least to D'Alembert (1717-","line":131,"x":367.2000000000003,"y":313.9199899999998,"width":"129.12","height":"13.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"The second reason springs directly","line":133,"x":376.92000000000024,"y":291.53999999999974,"width":"128.94","height":"13.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"from biological facts. To live, any","line":134,"x":367.2000000000003,"y":280.68000999999975,"width":"122.88","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"organism must have a source of energy","line":135,"x":366.84000000000026,"y":269.45999999999975,"width":"141.90","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"(for example, food). This energy is","line":136,"x":367.3200000000003,"y":258.89999999999975,"width":"125.64","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"utilized for two puposes: mere main-","line":137,"x":367.2000000000002,"y":247.91999999999976,"width":"138.60","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"tenance and work. For man, mainte-","line":138,"x":367.3200000000003,"y":236.57999999999976,"width":"134.70","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"nance of life requires about 1600 kilo-","line":139,"x":367.2000000000003,"y":225.35999999999976,"width":"139.56","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"calories a day (\"maintenance calories').","line":140,"x":366.84000000000026,"y":213.71999999999977,"width":"148.37","height":"13.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"Anything that he does over and above","line":141,"x":366.8400000000002,"y":203.21999999999977,"width":"138.24","height":"13.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"merely staying alive will be defined as","line":142,"x":366.84000000000026,"y":192.05999999999977,"width":"135.12","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"work, and is supported by \"work cal-","line":143,"x":367.08000000000027,"y":180.77999999999977,"width":"133.38","height":"13.10","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"ories\" which he takes in. Work calories","line":144,"x":366.60000000000025,"y":169.91999999999976,"width":"141.66","height":"12.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"are used not only for what we call work","line":145,"x":366.84000000000026,"y":158.75999999999976,"width":"139.50","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"in common speech; they are also re-","line":146,"x":366.72000000000025,"y":147.71999999999977,"width":"128.88","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"quired for all forms of enjoyment, from","line":147,"x":366.60000000000025,"y":136.79999999999976,"width":"144.78","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"swimming and automobile racing to","line":148,"x":366.48000000000025,"y":125.75999999999975,"width":"132.72","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"playing music and writing poetry. If","line":149,"x":366.36000000000024,"y":114.71999999999976,"width":"132.36","height":"12.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"our goal is to maximize population it is","line":150,"x":366.24000000000024,"y":103.68000999999975,"width":"138.72","height":"12.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"obvious what we must do: We must","line":151,"x":366.12000000000023,"y":92.76000999999975,"width":"127.92","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"make the work calories per person ap-","line":152,"x":366.0000000000002,"y":81.06000999999975,"width":"139.20","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"proach as close to zero as possible. No","line":153,"x":366.1200000000002,"y":70.55999999999976,"width":"136.08","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"gourmet meals, no vacations, no sports,","line":154,"x":366.00000000000017,"y":59.93998999999976,"width":"144.42","height":"12.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"no music, no literature, no art. .   . . I","line":155,"x":366.12000000000023,"y":48.479999999999755,"width":"123.78","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"think that everyone will grant, without","line":156,"x":365.76000000000016,"y":37.259999999999756,"width":"141.12","height":"12.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"The author is professor of biology, University","line":46,"x":20.999999999999943,"y":77.57999999999991,"width":"130.08","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"of California, Santa Barbara. This article is","line":47,"x":14.63999999999993,"y":70.43999999999991,"width":"121.86","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"based on a presidential address presented before","line":48,"x":14.159999999999968,"y":63.359999999999914,"width":"136.38","height":"9.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"the meeting of the Pacific Division of the Ameri-","line":49,"x":14.399999999999977,"y":56.15999999999992,"width":"134.40","height":"9.30","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"can Association for the Advancement of Science","line":50,"x":14.099999999999966,"y":49.37999999999992,"width":"137.58","height":"8.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"at Utah State University, Logan, 25 June 1968.","line":51,"x":14.279999999999944,"y":42.05999999999992,"width":"129.06","height":"9.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"13 DECEMBER 1968","line":52,"x":14.519999999999925,"y":27.65999999999992,"width":"63.18","height":"9.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"sional judgment. . . .\" Vhether they","line":53,"x":191.1599999999999,"y":537.8399899999998,"width":"122.76","height":"12.30","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"were right or not is not the concern of","line":54,"x":191.51999999999998,"y":527.3399999999999,"width":"131.64","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"the present article. Rather, the concern","line":55,"x":191.27999999999997,"y":515.7599999999999,"width":"141.66","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"here is with the important concept of a","line":56,"x":191.28,"y":504.7199899999999,"width":"136.68","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"class of human problems which can be","line":57,"x":191.28000000000003,"y":493.6799999999999,"width":"139.14","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"called \"no technical solution problems,\"","line":58,"x":191.76000000000005,"y":481.8599999999999,"width":"149.40","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"and, more specifically, with the identifi-","line":59,"x":192.24000000000007,"y":471.2399999999999,"width":"144.18","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"cation and discussion of one of these.","line":60,"x":191.40000000000006,"y":460.19999999999993,"width":"133.44","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"It is easy to show that the class is not","line":61,"x":201.24000000000007,"y":449.09999999999985,"width":"123.18","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"a null class. Recall the game of tick-","line":62,"x":191.1600000000001,"y":438.00000999999986,"width":"126.06","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"tack-toe. Consider the problem, \"How","line":63,"x":191.16000000000008,"y":426.7199999999999,"width":"141.66","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"can I win. the game of tick-tack-toe?\"","line":64,"x":191.28000000000003,"y":415.79998999999987,"width":"134.40","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"It is well known that I cannot, if I as-","line":65,"x":191.04000000000008,"y":404.7599999999999,"width":"125.52","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"sume (in keeping with the conventions","line":66,"x":191.0400000000001,"y":393.53999999999985,"width":"140.10","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"of game theory) that my opponent un-","line":67,"x":190.68000000000012,"y":382.3799899999998,"width":"138.18","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"derstands the game perfectly. Put an-","line":68,"x":191.16000000000014,"y":371.2799999999998,"width":"135.90","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"other way, there is no \"technical solu-","line":69,"x":190.8000000000001,"y":360.1200099999998,"width":"136.02","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"tion\" to the problem. I can win only","line":70,"x":191.04000000000008,"y":348.59998999999976,"width":"126.06","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"by giving a radical meaning to the word","line":71,"x":191.04000000000005,"y":337.98000999999977,"width":"141.96","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"\"win.\" I can hit my opponent over the","line":72,"x":191.16000000000003,"y":326.87998999999974,"width":"135.30","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"head; or I can drug him; or I can falsify","line":73,"x":191.04,"y":315.4800099999997,"width":"135.96","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"the records. Every way in which I \"win\"","line":74,"x":191.15999999999997,"y":304.37999999999977,"width":"142.75","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"involves, in some sense, an abandon-","line":75,"x":191.03999999999996,"y":293.57999999999976,"width":"132.72","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"ment of the game, as we intuitively un-","line":76,"x":190.91999999999996,"y":282.4199899999997,"width":"138.06","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"derstand it. (I can also, of course,","line":77,"x":191.15999999999997,"y":271.0800099999997,"width":"117.12","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"openly abandon the game-refuse to","line":78,"x":190.91999999999996,"y":260.0399899999997,"width":"137.46","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"play it. This is what most adults do.)","line":79,"x":190.79999999999993,"y":249.2400099999997,"width":"126.36","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"The class of \"No technical solution","line":80,"x":200.75999999999988,"y":238.0199999999997,"width":"127.38","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"problems\" has members. My thesis is","line":81,"x":190.79999999999984,"y":226.9799999999997,"width":"135.24","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"that the \"population problem,\" as con-","line":82,"x":190.67999999999978,"y":215.7599999999997,"width":"140.46","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"ventionally conceived, is a member of","line":83,"x":190.6799999999998,"y":204.77999999999972,"width":"139.32","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"this class. How it is conventionally con-","line":84,"x":190.67999999999984,"y":193.8000099999997,"width":"142.38","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"ceived needs some comment. It is fair","line":85,"x":190.67999999999986,"y":182.6400099999997,"width":"134.28","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"to say that most people who' anguish","line":86,"x":190.67999999999992,"y":171.5999999999997,"width":"131.10","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"over the population problem are trying","line":87,"x":190.1999999999999,"y":160.3199999999997,"width":"142.56","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"to find a way to avoid the evils of over-","line":88,"x":190.55999999999995,"y":149.51999999999973,"width":"132.42","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"population without relinquishing any of","line":89,"x":190.43999999999988,"y":138.65999999999974,"width":"149.22","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"the privileges they now enjoy. They","line":90,"x":190.4399999999999,"y":127.67999999999975,"width":"129.48","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"think that farming the seas or develop-","line":91,"x":190.1999999999999,"y":116.87999999999975,"width":"139.68","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"ing new strains of wheat will solve the","line":92,"x":190.19999999999987,"y":105.84000999999975,"width":"133.38","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"problem-technologically. I try to show","line":93,"x":190.07999999999984,"y":95.03999999999975,"width":"148.67","height":"12.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"here that the solution they seek cannot","line":94,"x":190.07999999999979,"y":83.93999999999976,"width":"138.00","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"be found. The population problem can-","line":95,"x":190.0799999999998,"y":73.25999999999976,"width":"144.30","height":"11.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"not be solved in a technical way, any","line":96,"x":190.1999999999998,"y":62.219999999999764,"width":"127.62","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"more than can the problem of winning","line":97,"x":189.83999999999983,"y":51.179999999999765,"width":"139.32","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"the game of tick-tack-toe.","line":98,"x":189.95999999999984,"y":40.43999999999977,"width":"93.78","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Population, as Malthus said, naturally","line":99,"x":375.95999999999987,"y":716.2799999999997,"width":"141.96","height":"13.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"tends to grow \"geometrically,\" or, as we","line":100,"x":366.5999999999999,"y":704.9999899999998,"width":"144.90","height":"13.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"would now say, exponentially. In a","line":101,"x":366.11999999999983,"y":693.5999899999998,"width":"126.36","height":"13.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"finite world this means that the per","line":102,"x":366.1199999999999,"y":682.5600099999998,"width":"126.18","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"capita share of the world's goods must","line":103,"x":366.3599999999999,"y":671.3399999999998,"width":"139.50","height":"13.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"steadily decrease. Is ours a finite world?","line":104,"x":366.4799999999999,"y":660.3000099999998,"width":"143.34","height":"13.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"A fair defense can be put forward for","line":105,"x":376.4399999999999,"y":649.1999899999998,"width":"133.26","height":"13.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"the view that the world is infinite; or","line":106,"x":366.59999999999997,"y":638.7599999999999,"width":"127.98","height":"12.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"that we do not know that it is not. But,","line":107,"x":366.7199999999999,"y":627.8399999999998,"width":"132.12","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"in terms of the practical problems that","line":108,"x":366.7199999999999,"y":615.8399999999998,"width":"139.51","height":"13.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"we must face in the next few genera-","line":109,"x":366.8399999999998,"y":604.5599999999998,"width":"129.18","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"tions with the foreseeable technology, it","line":110,"x":366.8399999999998,"y":593.5199999999999,"width":"145.43","height":"13.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"is clear that we will greatly increase","line":111,"x":367.0799999999998,"y":582.4199999999998,"width":"126.55","height":"13.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"human misery if we do not, during the","line":112,"x":367.0799999999999,"y":571.3199999999998,"width":"136.80","height":"13.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"immediate future, assume that the world","line":113,"x":367.2,"y":560.7599899999998,"width":"149.34","height":"13.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"available to the terrestrial human pop-","line":114,"x":367.08000000000004,"y":548.8799999999999,"width":"141.17","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"ulation is finite. \"Space\" is no escape","line":115,"x":367.2000000000001,"y":537.5999999999999,"width":"131.16","height":"13.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"A finite world can support only a","line":117,"x":376.9200000000001,"y":515.6999999999998,"width":"118.20","height":"13.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"finite population; therefore, population","line":118,"x":366.72000000000014,"y":504.23999999999984,"width":"147.72","height":"14.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"growth must eventually equal zero. (The","line":119,"x":367.08000000000015,"y":493.1999999999998,"width":"148.67","height":"13.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"case of perpetual wide fluctuations","line":120,"x":366.8400000000002,"y":482.3399999999998,"width":"129.18","height":"13.30","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"above and below zero is a trivial variant","line":121,"x":367.32000000000016,"y":472.3199999999998,"width":"141.60","height":"11.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"that need not be discussed.) When this","line":122,"x":367.3200000000001,"y":460.4999999999998,"width":"138.90","height":"13.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"condition is met, what will be the situa-","line":123,"x":367.32000000000016,"y":448.7999999999998,"width":"138.54","height":"12.30","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"tion of mankind? Specifically, can Ben-","line":124,"x":367.32000000000016,"y":437.2799999999998,"width":"144.54","height":"13.30","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"tham's goal of \"the greatest good for","line":125,"x":367.5600000000002,"y":425.9999999999998,"width":"130.80","height":"13.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"the greatest number\" be realized?","line":126,"x":367.3200000000003,"y":415.31999999999977,"width":"123.42","height":"12.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"No-for two reasons, each sufficient","line":127,"x":376.9200000000003,"y":404.09998999999976,"width":"135.65","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"by itself. The first is a theoretical one.","line":128,"x":367.20000000000033,"y":392.9399999999998,"width":"131.64","height":"13.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"It is not mathematically possible to","line":129,"x":367.2000000000003,"y":381.5999999999998,"width":"127.50","height":"12.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"maximize for two (or more) variables at","line":130,"x":367.3200000000003,"y":370.3199999999998,"width":"144.18","height":"13.10","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"the same time. This was clearly stated","line":131,"x":367.3200000000003,"y":358.91999999999985,"width":"135.72","height":"13.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"by von Neumann and Morgenstern (3),","line":132,"x":367.0800000000003,"y":347.5199999999998,"width":"143.87","height":"13.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"but the principle is implicit in the theory","line":133,"x":367.3200000000003,"y":336.3000099999998,"width":"143.82","height":"13.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"of partial differential equations, dating","line":134,"x":366.96000000000026,"y":325.1999899999998,"width":"144.00","height":"13.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"back at least to D'Alembert (1717-","line":135,"x":367.2000000000003,"y":313.9199899999998,"width":"129.12","height":"13.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"The second reason springs directly","line":137,"x":376.92000000000024,"y":291.53999999999974,"width":"128.94","height":"13.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"from biological facts. To live, any","line":138,"x":367.2000000000003,"y":280.68000999999975,"width":"122.88","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"organism must have a source of energy","line":139,"x":366.84000000000026,"y":269.45999999999975,"width":"141.90","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"(for example, food). This energy is","line":140,"x":367.3200000000003,"y":258.89999999999975,"width":"125.64","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"utilized for two puposes: mere main-","line":141,"x":367.2000000000002,"y":247.91999999999976,"width":"138.60","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"tenance and work. For man, mainte-","line":142,"x":367.3200000000003,"y":236.57999999999976,"width":"134.70","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"nance of life requires about 1600 kilo-","line":143,"x":367.2000000000003,"y":225.35999999999976,"width":"139.56","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"calories a day (\"maintenance calories').","line":144,"x":366.84000000000026,"y":213.71999999999977,"width":"148.37","height":"13.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Anything that he does over and above","line":145,"x":366.8400000000002,"y":203.21999999999977,"width":"138.24","height":"13.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"merely staying alive will be defined as","line":146,"x":366.84000000000026,"y":192.05999999999977,"width":"135.12","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"work, and is supported by \"work cal-","line":147,"x":367.08000000000027,"y":180.77999999999977,"width":"133.38","height":"13.10","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"ories\" which he takes in. Work calories","line":148,"x":366.60000000000025,"y":169.91999999999976,"width":"141.66","height":"12.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"are used not only for what we call work","line":149,"x":366.84000000000026,"y":158.75999999999976,"width":"139.50","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"in common speech; they are also re-","line":150,"x":366.72000000000025,"y":147.71999999999977,"width":"128.88","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"quired for all forms of enjoyment, from","line":151,"x":366.60000000000025,"y":136.79999999999976,"width":"144.78","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"swimming and automobile racing to","line":152,"x":366.48000000000025,"y":125.75999999999975,"width":"132.72","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"playing music and writing poetry. If","line":153,"x":366.36000000000024,"y":114.71999999999976,"width":"132.36","height":"12.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"our goal is to maximize population it is","line":154,"x":366.24000000000024,"y":103.68000999999975,"width":"138.72","height":"12.70","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"obvious what we must do: We must","line":155,"x":366.12000000000023,"y":92.76000999999975,"width":"127.92","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"make the work calories per person ap-","line":156,"x":366.0000000000002,"y":81.06000999999975,"width":"139.20","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"proach as close to zero as possible. No","line":157,"x":366.1200000000002,"y":70.55999999999976,"width":"136.08","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"gourmet meals, no vacations, no sports,","line":158,"x":366.00000000000017,"y":59.93998999999976,"width":"144.42","height":"12.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"no music, no literature, no art. .   . . I","line":159,"x":366.12000000000023,"y":48.479999999999755,"width":"123.78","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"think that everyone will grant, without","line":160,"x":365.76000000000016,"y":37.259999999999756,"width":"141.12","height":"12.50","fontName":["Courier"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"argument or proof, that maximizing","line":0,"x":41.76,"y":737.52,"width":"133.56","height":"11.30","fontName":["Courier"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"population does not max2imize goods.","line":1,"x":41.640000000000015,"y":726.0600000000001,"width":"136.92","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"Bentham's goal is impossible.","line":2,"x":41.82000000000002,"y":715.2,"width":"108.18","height":"11.60","fontName":["Courier"],"dir":["ltr"]}
@@ -545,17 +549,18 @@
 {"page":2,"change":"Addition","str":"ance for particular circumstances. The","line":172,"x":374.04,"y":184.7999999999998,"width":"144.00","height":"12.70","fontName":["Courier"],"dir":["ltr"]}
 {"page":2,"change":"Addition","str":"laws of our society follow the pattern of","line":173,"x":373.9200000000001,"y":173.5199899999998,"width":"143.16","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
 {"page":2,"change":"Addition","str":"ancient ethics, and therefore are poorly","line":174,"x":373.80000000000007,"y":162.2999999999998,"width":"143.46","height":"12.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"suited to governing a complex, crowded, changeable world. Our epicyclic solu-","line":175,"x":373.80000000000007,"y":140.51999999999984,"width":"287.82","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"tion is to augment statutory law with","line":176,"x":373.68000000000006,"y":129.12000999999984,"width":"131.16","height":"12.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"administrative law. Since it is practically","line":177,"x":373.68000000000006,"y":118.50000999999985,"width":"147.90","height":"12.30","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"impossible to spell out all the conditions","line":178,"x":373.56000000000006,"y":107.15999999999985,"width":"143.52","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"under which it is safe to burn trash in","line":179,"x":373.32000000000016,"y":96.24000999999984,"width":"128.64","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"the back yard or to run an automobile","line":180,"x":373.4400000000003,"y":85.37999999999985,"width":"134.04","height":"12.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"without smog-control, by law we dele-","line":181,"x":372.96000000000026,"y":74.75998999999985,"width":"138.66","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"gate the details to bureaus. The result","line":182,"x":372.96000000000026,"y":63.179999999999836,"width":"133.14","height":"12.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"is administrative law, which is rightly","line":183,"x":373.0800000000004,"y":52.43998999999984,"width":"135.18","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"feared for an ancient reason-Quis","line":184,"x":372.84000000000026,"y":40.68000999999983,"width":"130.86","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":2,"change":"Addition","str":"custodiet ipsos custodes?-\"Who shall","line":185,"x":372.96000000000026,"y":30.299999999999834,"width":"145.08","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"suited to governing a complex, crowded,","line":175,"x":373.9200000000001,"y":150.7799999999998,"width":"148.68","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"changeable world. Our epicyclic solu-","line":176,"x":373.80000000000007,"y":140.51999999999984,"width":"139.14","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"tion is to augment statutory law with","line":177,"x":373.68000000000006,"y":129.12000999999984,"width":"131.16","height":"12.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"administrative law. Since it is practically","line":178,"x":373.68000000000006,"y":118.50000999999985,"width":"147.90","height":"12.30","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"impossible to spell out all the conditions","line":179,"x":373.56000000000006,"y":107.15999999999985,"width":"143.52","height":"12.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"under which it is safe to burn trash in","line":180,"x":373.32000000000016,"y":96.24000999999984,"width":"128.64","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"the back yard or to run an automobile","line":181,"x":373.4400000000003,"y":85.37999999999985,"width":"134.04","height":"12.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"without smog-control, by law we dele-","line":182,"x":372.96000000000026,"y":74.75998999999985,"width":"138.66","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"gate the details to bureaus. The result","line":183,"x":372.96000000000026,"y":63.179999999999836,"width":"133.14","height":"12.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"is administrative law, which is rightly","line":184,"x":373.0800000000004,"y":52.43998999999984,"width":"135.18","height":"12.10","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"feared for an ancient reason-Quis","line":185,"x":372.84000000000026,"y":40.68000999999983,"width":"130.86","height":"12.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":2,"change":"Addition","str":"custodiet ipsos custodes?-\"Who shall","line":186,"x":372.96000000000026,"y":30.299999999999834,"width":"145.08","height":"11.80","fontName":["Courier"],"dir":["ltr"]}
 {"page":3,"change":"Addition","str":"watch the watchers themselves?\" John","line":0,"x":37.38,"y":741.05999,"width":"140.40","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
 {"page":3,"change":"Addition","str":"Adams said that we must have \"a gov-","line":1,"x":37.31999999999999,"y":729.84001,"width":"133.32","height":"11.90","fontName":["Courier"],"dir":["ltr"]}
 {"page":3,"change":"Addition","str":"ernment of laws and not men.\" Bureau","line":2,"x":37.32000000000002,"y":718.80001,"width":"139.20","height":"11.50","fontName":["Courier"],"dir":["ltr"]}
@@ -1047,27 +1052,28 @@
 {"page":5,"change":"Addition","str":"9. S. McVay, Sci. Amer. 216 (No. 8>, 13 (1966).","line":121,"x":392.8800000000004,"y":431.4000000000005,"width":"122.82","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
 {"page":5,"change":"Addition","str":"10. J. Fletcher, Situation Ethics (Westminster,","line":122,"x":390.12000000000046,"y":424.4400000000005,"width":"130.02","height":"9.40","fontName":["Courier"],"dir":["ltr"]}
 {"page":5,"change":"Addition","str":"Philadelphia, 1966).","line":123,"x":401.8800000000004,"y":417.1800000000005,"width":"59.16","height":"8.70","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"11. D. Lack, The Natural Regulation of Animal Nuimbers (Clarendon Press, Oxford, 1954).","line":124,"x":390.12000000000035,"y":403.2000000000005,"width":"254.82","height":"11.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"12. H. Girvetz, From Wealth to Welfare (Stan-","line":125,"x":390.2400000000004,"y":395.99999000000054,"width":"126.18","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"ford Univ. Press, Stanford, Calif., 1950).","line":126,"x":402.36000000000047,"y":389.04000000000053,"width":"112.08","height":"9.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"13. G. Hardin, Perspec. Biol. Med. 6, 366 (1963).","line":127,"x":390.36000000000047,"y":381.84000000000054,"width":"131.40","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"14. U. Thant, Int. Planned Parenthood News, No.","line":128,"x":390.2400000000005,"y":374.5800000000006,"width":"136.20","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"168 (February 1968>, p. 3.","line":129,"x":402.1200000000005,"y":367.8000100000006,"width":"68.28","height":"10.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"15. K. Davis, Science 158, 730 (1967).","line":130,"x":390.2400000000005,"y":360.6000000000006,"width":"102.48","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"16. S. Tax, Ed., Evolution after Darwin (Univ.","line":131,"x":390.2400000000005,"y":353.4600000000006,"width":"126.84","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"of Chicago Press, Chicago, 1960), vol. 2, p.","line":132,"x":402.3600000000006,"y":346.44000000000057,"width":"118.74","height":"9.30","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"17. G. Bateson, D. D. Jackson, J. Haley, J. Weak-","line":134,"x":390.7200000000006,"y":332.2800000000006,"width":"133.44","height":"9.10","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"land, Behav. Scd. 1, 251 (1956).","line":135,"x":402.6000000000005,"y":325.1400000000006,"width":"84.18","height":"11.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"18. P. Goodman, New York Rev. Books 10(8),","line":136,"x":390.6000000000005,"y":317.8800000000007,"width":"125.64","height":"10.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"22 (23 May 1968).","line":137,"x":402.7200000000005,"y":310.74000000000063,"width":"48.96","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"19. A. Comfort, The Anxiety Makers (Nelson,","line":138,"x":390.9600000000005,"y":303.7200000000006,"width":"127.62","height":"9.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"London, 1967).","line":139,"x":402.7200000000006,"y":296.7000000000006,"width":"44.52","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"20. C. Frankel, The Case for Modern Man (Har-","line":140,"x":390.7200000000006,"y":289.5600000000006,"width":"131.70","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"per, New York, 1955), p. 203.","line":141,"x":403.2000000000006,"y":282.4200000000006,"width":"79.86","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"21. J. D. Roslansky, Genetics and the Future of","line":142,"x":390.9600000000006,"y":275.34000000000066,"width":"127.44","height":"9.80","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"Man (Appleton-Century-Crofts, New York,","line":143,"x":403.0800000000006,"y":268.62001000000066,"width":"126.79","height":"10.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"1966), p. 177.","line":144,"x":405.00000000000057,"y":261.36000000000064,"width":"35.52","height":"9.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"Addition","str":"SCIENCE, VOL. 162 1248","line":145,"x":65.7600000000005,"y":26.159990000000654,"width":"74.10","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"11. D. Lack, The Natural Regulation of Animal","line":124,"x":390.12000000000035,"y":410.0400000000005,"width":"130.50","height":"9.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Nuimbers (Clarendon Press, Oxford, 1954).","line":125,"x":402.00000000000034,"y":403.2000000000005,"width":"124.32","height":"11.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"12. H. Girvetz, From Wealth to Welfare (Stan-","line":126,"x":390.2400000000004,"y":395.99999000000054,"width":"126.18","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"ford Univ. Press, Stanford, Calif., 1950).","line":127,"x":402.36000000000047,"y":389.04000000000053,"width":"112.08","height":"9.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"13. G. Hardin, Perspec. Biol. Med. 6, 366 (1963).","line":128,"x":390.36000000000047,"y":381.84000000000054,"width":"131.40","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"14. U. Thant, Int. Planned Parenthood News, No.","line":129,"x":390.2400000000005,"y":374.5800000000006,"width":"136.20","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"168 (February 1968>, p. 3.","line":130,"x":402.1200000000005,"y":367.8000100000006,"width":"68.28","height":"10.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"15. K. Davis, Science 158, 730 (1967).","line":131,"x":390.2400000000005,"y":360.6000000000006,"width":"102.48","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"16. S. Tax, Ed., Evolution after Darwin (Univ.","line":132,"x":390.2400000000005,"y":353.4600000000006,"width":"126.84","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"of Chicago Press, Chicago, 1960), vol. 2, p.","line":133,"x":402.3600000000006,"y":346.44000000000057,"width":"118.74","height":"9.30","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"17. G. Bateson, D. D. Jackson, J. Haley, J. Weak-","line":135,"x":390.7200000000006,"y":332.2800000000006,"width":"133.44","height":"9.10","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"land, Behav. Scd. 1, 251 (1956).","line":136,"x":402.6000000000005,"y":325.1400000000006,"width":"84.18","height":"11.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"18. P. Goodman, New York Rev. Books 10(8),","line":137,"x":390.6000000000005,"y":317.8800000000007,"width":"125.64","height":"10.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"22 (23 May 1968).","line":138,"x":402.7200000000005,"y":310.74000000000063,"width":"48.96","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"19. A. Comfort, The Anxiety Makers (Nelson,","line":139,"x":390.9600000000005,"y":303.7200000000006,"width":"127.62","height":"9.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"London, 1967).","line":140,"x":402.7200000000006,"y":296.7000000000006,"width":"44.52","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"20. C. Frankel, The Case for Modern Man (Har-","line":141,"x":390.7200000000006,"y":289.5600000000006,"width":"131.70","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"per, New York, 1955), p. 203.","line":142,"x":403.2000000000006,"y":282.4200000000006,"width":"79.86","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"21. J. D. Roslansky, Genetics and the Future of","line":143,"x":390.9600000000006,"y":275.34000000000066,"width":"127.44","height":"9.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"Man (Appleton-Century-Crofts, New York,","line":144,"x":403.0800000000006,"y":268.62001000000066,"width":"126.79","height":"10.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"1966), p. 177.","line":145,"x":405.00000000000057,"y":261.36000000000064,"width":"35.52","height":"9.40","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"Addition","str":"SCIENCE, VOL. 162 1248","line":146,"x":65.7600000000005,"y":26.159990000000654,"width":"74.10","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
 {"page":6,"change":"Addition","str":" (3859), 1243-1248. 162 Science ","line":3,"x":72,"y":591.99997,"width":"114.29","height":"8.00","fontName":[null],"dir":["ltr"]}
 {"page":6,"change":"Addition","str":"ARTICLE TOOLS http://science.sciencemag.org/content/162/3859/1243","line":4,"x":79,"y":492,"width":"238.22","height":"8.00","fontName":[null],"dir":["ltr"]}
 {"page":6,"change":"Addition","str":"PERMISSIONS http://www.sciencemag.org/help/reprints-and-permissions","line":8,"x":79,"y":420,"width":"245.29","height":"8.00","fontName":[null],"dir":["ltr"]}

@@ -60,20 +60,30 @@ export function lineToText(lineItems: Item[], disableInlineFormats: boolean = fa
     openFormat = null;
   };
 
+  let lastLineItem: Item = null;
   lineItems.forEach((lineItem, lineIndex) => {
     const words = toWords(lineItem.data['str']);
-    words.forEach((word, i) => {
+    words.forEach((word, wordIndex) => {
       const wordType = lineItem.tokenTypes[0]; // footnote, link, etc...
       const wordFormat = lineItem.tokenTypes[0]; // bold, oblique, etc...
       if (openFormat && (!wordFormat || wordFormat !== openFormat)) {
         closeFormat();
       }
       if (
-        (i > 0 || lineIndex > 0) &&
+        (wordIndex > 0 || lineIndex > 0) &&
         !(wordType && attachWithoutWhitespace(wordType)) &&
         !isPunctationCharacter(word)
       ) {
-        text += ' ';
+        let insertWhitespace = true;
+        if (lineIndex > 0 && wordIndex == 0) {
+          const xDistance = lineItem.data['x'] - lastLineItem.data['x'] - lastLineItem.data['width'];
+          if (xDistance < 2 && !lastLineItem.data['str']?.endsWith(' ') && !lineItem.data['str']?.startsWith(' ')) {
+            insertWhitespace = false;
+          }
+        }
+        if (insertWhitespace) {
+          text += ' ';
+        }
       }
 
       if (wordFormat && !openFormat && !disableInlineFormats) {
@@ -90,7 +100,9 @@ export function lineToText(lineItems: Item[], disableInlineFormats: boolean = fa
     if (openFormat && (lineIndex == lineItems.length - 1 || firstFormat(lineItems[lineIndex + 1]) !== openFormat)) {
       closeFormat();
     }
+    lastLineItem = lineItem;
   });
+
   return text;
 }
 

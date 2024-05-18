@@ -7,19 +7,7 @@
 ```
 avec le soutien de
 ```
-## lF
-
-## a
-
-## sh
-
-## -
-
-## M
-
-## asque
-
-### Etude n° 2
+_Etude n° 2_
 
 ```
 Le 26 mars dernier, le guide des spécifi-
@@ -32,15 +20,10 @@ récipients de la vie courante permettant de
 maintenir de l’eau chaude à 60°C pendant
 au moins 1/2 heure. Voici l’étude
 ```
-```
 CC $
 BY NC ND
-```
 
-```
-Florence Bost • 06 82 69 89 82 • florence@sablechaud.eu • http://www.sablechaud.eu
-```
-### Contexte
+Contexte
 
 La période de confinement décrétée par le gouvernement français depuis le mardi 17/03/20 et pro-
 longée jusqu’au 4/05/20 est dans le but de stopper la pandémie du virus COVID-19. Une situation
@@ -63,34 +46,28 @@ Expérience : mesures de l’évolution de la température en fonction du temps 
 ordinaires à usage familial.
 
 Outils :
-
-- Un thermomètre de cuisine équipé d’une sonde (HABOR)
-- Une bouilloire électrique à la température non réglable (RUSSEL-HOBS)
-- 3 types de récipients sélectionnés : - une casserole inox,
+• Un thermomètre de cuisine équipé d’une sonde (HABOR)
+• Une bouilloire électrique à la température non réglable (RUSSEL-HOBS)
+• 3 types de récipients sélectionnés : - une casserole inox,
 - un saladier en porcelaine
 - un récipient plastique (Tupperware)
-- Un masque en tissu par récipient
+• Un masque en tissu par récipient
 
 Protocole de mesure :
 
-### ETUDE de décroissance de température d’eau chaude
-
-### en vue du lavage de masques barrières en tissu
-
-### dans un cadre familial confiné
-
-
 ```
-Florence Bost • 06 82 69 89 82 • florence@sablechaud.eu • http://www.sablechaud.eu
+ETUDE de décroissance de température d’eau chaude
+en vue du lavage de masques barrières en tissu
+dans un cadre familial confiné
+```
 ```
 - Faire bouillir 1,5 l d’eau dans une bouilloire électrique jusqu’à son arrêt automatique
 - Verser l’eau dans le récipient
 - Prise de mesure de référence
 - Relève des mesures toutes les 5 minutes
-
+```
 ```
 L’expérience a été réalisée par 2 fois et dans 2 cas de figures : - sans couvercle
-```
 - avec couvercle (dépose)
 Notes :
 T° ambiante de la pièce au moment de l’expérience était de 23°C, aucune fenêtre ouverte.
@@ -99,7 +76,7 @@ Taux d’humidité ambiant 42%.
 Fluide : eau municipale
 Les mesures de température sont faites en °C.
 Date et lieu : le 29-03-20 - Paris
-
+```
 ```
 Résultats :
 ```
@@ -118,14 +95,13 @@ départ pour tenir 30 mn est d’environ 75°C quelque soit le récipient.
 ```
 ```
 Conclusion
-```
-- La garantie de conserver la température à 60°C pendant 30 mn comme préconisé dans le guide
+• La garantie de conserver la température à 60°C pendant 30 mn comme préconisé dans le guide
 de spécifications AFNOR S76-001 pour le lavage manuel des masques barrière en tissu, peut se
 faire dans n’importe quel récipient à condition de bien le couvrir.
-- Si vous avez une bouilloire électrique modulable, vous pouvez régler la température maximale à
+• Si vous avez une bouilloire électrique modulable, vous pouvez régler la température maximale à
 70°C.
-
-### ETUDE (suite)
+```
+ETUDE (suite)
 
 ```
 NOTE :
@@ -135,22 +111,16 @@ tive. L’auteur ne peut être rendue responsable de l’interprétation outre m
 ```
 mn
 ```
-
 ## Qui sommes-nous?
 
 ## Les liens d’accès
 
-#### Cette série d’études est à l’initiative de Florence Bost - et de son ré-
-
-#### seau - soutenue par le pôle de compétitivité Techtera. Certaines d’entre
-
-#### elles ont participé à l’élaboration du projet MasKaDom piloté par l’IMdR.
-
-#### Chaque étude complète est disponible sur les sites cités ci-dessous,
-
-#### ils ne peuvent être utilisés à des fins commerciales sans l’autorisation
-
-#### expresse et écrite des auteurs.
+Cette série d’études est à l’initiative de Florence Bost - et de son ré-
+seau - soutenue par le pôle de compétitivité Techtera. Certaines d’entre
+elles ont participé à l’élaboration du projet MasKaDom piloté par l’IMdR.
+Chaque étude complète est disponible sur les sites cités ci-dessous,
+ils ne peuvent être utilisés à des fins commerciales sans l’autorisation
+expresse et écrite des auteurs.
 
 ```
 Smart textiles designer, Florence Bost est consultante depuis 2003 sous le nom de
@@ -184,19 +154,6 @@ Techtera - Actualités
 ```
 avec le soutien de
 ```
-## lF
-
-## a
-
-## sh
-
-## -
-
-## M
-
-## asque
-
 ```
-Sable Chaud - COVID-
+Sable Chaud - COVID-19
 ```
-

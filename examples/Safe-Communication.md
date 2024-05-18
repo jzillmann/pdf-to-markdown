@@ -1,74 +1,51 @@
-Quality Improvement Clinic Ltd.
+```
 August 2015
-
+```
 # Safe Communication
 
 ## Design, implement and measure: A guide to
 
 ## improving transfers of care and handover
 
-#### Authors:
+### Authors:
 
-#### Nicola Davey & Ali Cole
+### Nicola Davey & Ali Cole
 
-
-```
-August 2015
-```
 ## Contents:
 
 ```
-Acknowledgements page 3
-References page 3
-Distribution & reproduction page 3
-Executive summary page 4
-Introduction page 5
-Where can things go wrong? page 6
-How do you achieve it? (The six step improvement process) page 8
+1 • Start out page[^10]
 ```
 ```
-Useful resources & references page 40
-Appendices page 42
+2 • Define and scope page[^13]
 ```
-##### 1 • Startout page^10
-
-##### 2 • Defineandscope page^13
-
-##### 3 • Measureandunderstand page^19
-
-##### 4 • Designandplan(includingSBAR) page^24
-
-##### 5 • Pilotandimplement page^34
-
-##### 6 • Sustainandshare page^38
-
-###### “I got so used to the system being
-
-###### broken I prepared and copied my
-
-###### own handover sheet about my
-
-###### husband’s condition – All the things
-
-###### I knew they needed to know and
-
-###### asked every time he was admitted.
-
-###### I handed them to paramedics, A&E
-
-###### AND ward staff as the sheets had
-
-###### often disappeared by the time he
-
-###### had a bed. I do wonder where they
-
-###### all went!”
-
-
 ```
-August 2015
+3 • Measure and understand page[^19]
 ```
-#### Acknowledgements
+```
+4 • Design and plan (including SBAR) page[^24]
+```
+```
+5 • Pilot and implement page[^34]
+```
+```
+6 • Sustain and share page[^38]
+```
+```
+“I got so used to the system being
+broken I prepared and copied my
+own handover sheet about my
+husband’s condition – All the things
+I knew they needed to know and
+asked every time he was admitted.
+```
+```
+I handed them to paramedics, A&E
+AND ward staff as the sheets had
+often disappeared by the time he
+had a bed. I do wonder where they
+```
+## Acknowledgements
 
 This guide was originally conceived and drafted by the Authors in their own time whilst they worked at the NHS Institute for
 Innovation and Improvement. Some of the examples and many of the ideas emerged as a result of the lead author’s field work
@@ -85,7 +62,7 @@ Both Authors would like to thank the following for their contributions:
  Sandra McNerney, script writer
  Georgette Houlbrook, Patient Representative, Wessex AHSN
 
-#### References
+## References
 
 This guide references some key documents that the Authors believe will help inform good practice: It is only a proportion of the good
 literature available! The topic of handovers and transfer of care continue to be researched and were a subject theme for The Health
@@ -98,16 +75,12 @@ If you have achieved this goal the Authors would love to hear from you and help 
 how they might adapt and adopt your learning to achieve reliable transfers of care in their own service. Please email
 nicola@qualityimprovementclinic.com
 
-#### Creative Commons Attribution – non-commercial
+### Creative Commons Attribution – non-commercial
 
 Licensed to the public under a creative commons attribution 4.0 license. Also please note and respect:
  © Copyright on diagrams shown
  All Shutterstock images purchased by Quality Improvement Clinic Ltd.
 
-
-```
-August 2015
-```
 ## Executive summary
 
 There are many reasons why teams, departments or even whole organisations will want to improve the way handover or transfers of
@@ -140,29 +113,24 @@ organisations and other safety critical industries across the world (e.g. SBAR, 
 Many of the detailed tools and examples that you might want to use are included as appendices towards the end of the guide. This
 means you can move through the guide more swiftly, but have a wealth of examples and ideas at your fingertips if you need them.
 
-
-```
-August 2015
-```
 ## Introduction
 
 Welcome to this guide. It has been developed to help care teams and organisations make measurable improvements in the safety
 and quality of patient care by ensuring that, with every handover and transfer, the right information is given to the right people at
-
-##### the right time and in the right way.
+the right time and in the right way.
 
 ```
-Handover [or transfer of care] is ‘ the handover of professional responsibility and accountability for some or all
+Handover [or transfer of care] is ‘the handover of professional responsibility and accountability for some or all
 aspects of care for a patient, or group of patients, to another person or professional group, on a temporary or
-permanent basis ’ (Bhabra G et al. 2007)
+permanent basis’ (Bhabra G et al. 2007)
 ```
 We have used the word transfers of care in most, but not all, places in this guide. Transfers can include a regular handover of
-care at the end of a shift, or the transfer of a **person’** s care to another ward, team, department, or service. This includes for
+care at the end of a shift, or the transfer of a **person’**s care to another ward, team, department, or service. This includes for
 example when a patient is transferred from a care home to a hospital or from a community team to a hospice. Transfers of care
 happen every day. They can be verbal or written; they can take place in a group or one-to-one; in person, or over the phone. But
 they all share the same purpose; to communicate vital information about a person in your care.
 
-#### Why use this guide?
+### Why use this guide?
 
 Many good resources already exist to help teams deliver safe and efficient transfers of care in
 different care environments (see Useful Resources, page 40 ). But, by working with frontline
@@ -191,10 +159,6 @@ Healthcare, Passing the Baton -
 A Practical Guide to Effective
 Discharge Planning (2008).
 ```
-
-```
-August 2015
-```
 ## Where can things go wrong?
 
 Poor transfer of care or handover communication is widely recognised as a major
@@ -212,15 +176,15 @@ different departments)
  between different care settings (e.g. hospital and community where staff can have
 different communication styles and cultures).
 ```
-The risks can be even higher when **...**
+The risks can be even higher when**...**
 
-- people have complex needs (requiring more information to be handed over and
-    remembered on a day-to-day basis)
-- at weekends or holidays
-- if junior staff are reluctant to ask for clarification from more senior staff or other professions
-- where there is no written documentation, or what is written is unclear (e.g. too many abbreviations).
+• people have complex needs (requiring more information to be handed over and
+remembered on a day-to-day basis)
+• at weekends or holidays
+• if junior staff are reluctant to ask for clarification from more senior staff or other professions
+• where there is no written documentation, or what is written is unclear (e.g. too many abbreviations).
 
-##### More online...
+More online...
 
 ```
 The trouble with handovers is a useful video for understanding
@@ -244,31 +208,28 @@ used*’
 Bhabra G, Mackeith S, Monteiro P,
 Pothier DD, An experimental
 comparison of handover methods
-(2007)^
+(2007)
 * Data taken over the course of five
 simulated handover cycles
 ```
-
-```
-August 2015
-```
-#### ‘Passing the baton’
+### ‘Passing the baton’
 
 In a relay race, how the baton is passed between the runners is pivotal to success or failure and it’s a useful
 analogy here; missed or misunderstood information can have a direct and even dangerous impact on the care
 of a patient.
 
-##### Problem Impact Solution
-
+```
+Problem Impact Solution
+```
 There are two important techniques to ensure that the ‘baton’ is always passed correctly in
 the transfer of care:
 
-- Standardisation: each participant follows the same procedure and communicates the
-    same agreed content. This will have a positive impact on both the quality of care for
-    patients and the productivity of the organisation.
-- Streamlining: unnecessary steps in the process are identified and removed. Making
-    transfers of care simple will reduce the risk (improve quality) and release time to care
-    (improve productivity).
+• Standardisation: each participant follows the same procedure and communicates the
+same agreed content. This will have a positive impact on both the quality of care for
+patients and the productivity of the organisation.
+• Streamlining: unnecessary steps in the process are identified and removed. Making
+transfers of care simple will reduce the risk (improve quality) and release time to care
+(improve productivity).
 
 ```
 ‘Healthcare organisations
@@ -314,10 +275,6 @@ Right space
 Right time
 RIGHT ACTION
 ```
-
-```
-August 2015
-```
 ## Planned, structured transfer of care: what does
 
 ## it look like?
@@ -327,18 +284,16 @@ to the right people at the right time, in the right way...every time.
 
 Good practice checklist*
 
-##### What do we need? What does it mean? Do we have it?
-
-1. Leadership
-    There is a nominated leader for each transfer of
-    care/handover.
-2. Values
-    Transfers and handovers are valued as an essential
-    part of care and preparation for handover is a priority.
-3. Right people
-    The appropriate people are involved.
+```
+What do we need? What does it mean? Do we have it?
+```
+1. Leadership There is a nominated leader for each transfer of
+care/handover.
+2. Values Transfers and handovers are valued as an essential
+part of care and preparation for handover is a priority.
+3. Right people The appropriate people are involved.
 4. Specified time
-    and place
+and place
 
 ```
 A specific setting or place has been agreed where
@@ -346,7 +301,7 @@ transfers of care can take place without interruption or
 distraction.
 ```
 5. Standardised
-    process
+process
 
 ```
 There is an agreed process for transfers of care. This
@@ -370,10 +325,6 @@ the NSW [New South Wales] Health
 Implementation Toolkit, Standard Key
 Principles for Clinical Handover
 ```
-
-```
-August 2015
-```
 ## How do you achieve it?
 
 The second part of this guide shows you how to identify, plan and implement changes in a way that is most likely to deliver the
@@ -382,11 +333,7 @@ planned, structured transfers of care you want to achieve. It is based on the si
 For those who are familiar with running improvement projects, a summary of this guide for each of the six steps is included at
 Appendix M.
 
-
-```
-August 2015
-```
-### Start out
+## Start out
 
 Start by finding out about any existing policies or protocols for transfer of care in your organisation. You may not know exactly
 what part of the transfer process you want to improve yet, or even how wide your focus will be (e.g. team, department or
@@ -418,13 +365,8 @@ your transfer of care processes might
 be, but they will be valuable tools later
 in the improvement process too, when
 you are gathering and generating
-ideas for improvement.
-Royal College of Physicians, Acute
+ideas for improvement. Royal College of Physicians, Acute
 Care Toolkit: 1 Handover (2011)
-```
-
-```
-August 2015
 ```
 Measure the processes you are observing. You will need to do more detailed
 measurement later in your improvement project, but gathering some initial data
@@ -443,10 +385,10 @@ how often this information is included in each communication.
  Measure how often the information is repeated.
 ```
 ```
-A flipchart is a simple but good way to record your^
+A flipchart is a simple but good way to record your
 observation data.
 ```
-##### More online...
+More online...
 
 ```
 For further ideas of how to map and measure current practice see
@@ -464,16 +406,12 @@ sector
 ```
 ```
 Some of these resources are still available on the NHS Institute’s
-website at: http://www.institute.nhs.uk
+website at: www.institute.nhs.uk
 ```
 ```
-For alternatives contact us at http://www.qualityimprovementclinic.com
+For alternatives contact us at www.qualityimprovementclinic.com
 ```
-
-```
-August 2015
-```
-#### What does ‘good’ look like?
+### What does ‘good’ look like?
 
 At this stage, it is useful to consider what ‘good’ would look like for the people in your care. One way of thinking about this is to
 consider what processes and behaviours you would want to see happen for yourself or a member of your family whose care is being
@@ -484,9 +422,8 @@ Use what you have learnt from your observations, measurements and process mappin
 the elements in the good practice checklist. (see Appendix B for examples of questions you can use to prompt discussion and
 generate ideas with staff, patients or clients.)
 
-##### More online...
-
 ```
+More online...
 Find out more about how to use:
 ```
 ```
@@ -500,11 +437,7 @@ to map communication of
 information between shifts, teams
 or departments.
 ```
-
-```
-August 2015
-```
-### Define and scope
+## Define and scope
 
 Once you have identified and captured what ‘good’ looks like in your transfer of care
 processes, and started to identify what you need to improve in your own systems, the next key
@@ -517,7 +450,7 @@ and implementing changes. Using the Model for Improvement means your changes are
 likely to lead to the improvement you set out to make. (For more information on the Model for
 Improvement, see Appendix C.)
 
-#### What are we trying to accomplish?
+### What are we trying to accomplish?
 
 This is the first question in the Model for Improvement. Being clear about the aim of the work
 will improve your chances of success. Using a SMART aim is one way to focus your project.
@@ -526,14 +459,9 @@ will improve your chances of success. Using a SMART aim is one way to focus your
 ```
 Example – project aim: ‘By December 2015, reduce the time the team spends on
 transfer of care (productivity) AND make the information handed over or transferred
+appropriate, easy to remember, easy to understand and easy to act upon (quality)’.
 ```
-##### appropriate, easy to remember, easy to understand and easy to act upon (quality)’.
-
-
-```
-August 2015
-```
-#### Link your improvement project to your organisation ’s strategic aims
+### Link your improvement project to your organisation’s strategic aims
 
 A project that meets the practical, day-to-day needs of your team and your patients or clients, as well as the priorities of the
 organisation you work for, will be much more likely to succeed.
@@ -590,11 +518,7 @@ This might be:
  Medical or Clinical Director
  Practice or Care Home Manager
 ```
-
-```
-August 2015
-```
-#### Example driver diagram linking a transfer of care improvement aim to the organisational aim of reducing mortality.
+Example driver diagram linking a transfer of care improvement aim to the organisational aim of reducing mortality.
 
 ```
 Throughout the guide you will
@@ -605,9 +529,8 @@ measures and your change
 interventions as you develop
 them.
 ```
-##### More online...
-
 ```
+More online...
 Click here for more information about
 using driver diagrams in your
 improvement work
@@ -615,20 +538,16 @@ improvement work
 ```
 © Alison Cole and Nicola Davey, 2013
 ```
-
-```
-August 2015
-```
-#### What is the scale of your improvement project?
+### What is the scale of your improvement project?
 
 You may be using this guide to make a small change in the way you manage transfers of care, or you might be trying to make a
 change across your whole organisation, or even across the local care community. Whatever level you are working at, you need to
 set the scope of your project at the start to ensure it is manageable and achievable. Go where you think there is most need or where
 there is most enthusiasm. A success early in the project is vital to help stimulate enthusiasm and spread the good work.
 
-#### Engage staff, patients and users and set up your project team
+### Engage staff, patients and users and set up your project team
 
-##### Engaging stakeholders
+Engaging stakeholders
 
 ```
 Think about different ways to engage
@@ -655,14 +574,9 @@ reminder about why it is so important to
 transfer the right information to the right
 person at the right time.
 ```
-```
 .
-```
 
-```
-August 2015
-```
-#### Who to include in your team?
+### Who to include in your team?
 
 Finding the right people to champion the project and drive it forward with insight and enthusiasm is crucial. Consider what each
 team member can offer; do they have expert knowledge and/or are they empowered to make decisions? This simple grid tool can
@@ -671,7 +585,10 @@ settings are at Appendix E
 
 **Project team ‘knowledge and empowerment’ grid**
 
-(^) © Profound Knowledge Products Inc.
+```
+© Profound Knowledge Products Inc.
+```
+```
  Senior leadership is essential. Identify a clinical or
 service champion who will be a visible and active
 supporter of your improvement project.
@@ -691,12 +608,8 @@ their experiences can be a particularly powerful tool
 and is not difficult to set up. The experience based
 design toolkit provides further guidance on interviewing
 and filming individuals.
-
-
 ```
-August 2015
-```
-#### Putting it all together
+### Putting it all together
 
 By this stage, you and your team will have agreed the aim and scope of the improvement and how it fits with
 your organisation’s wider strategic aims and targets. It is a good idea to capture this in one place, using a
@@ -721,11 +634,7 @@ associated implementation toolkit are highly recommended for
 anyone involved in improving handover or transfer of care in
 any care setting.
 ```
-
-```
-August 2015
-```
-### Measure and understand
+## Measure and understand
 
 Measurement for improvement does not have to be onerous; it is about using a few specific
 measures, linked to your project aim to answer the question: ‘How will I know that my changes
@@ -747,10 +656,6 @@ for their job (Outcome measure)
 ```
 You will find some more on measures for the smaller pieces – after we have described the 7 steps to measurement.
 
-
-```
-August 2015
-```
 Whatever you choose to measure, there are seven basic steps to follow:
 
 The 7 steps to measurement
@@ -778,7 +683,7 @@ measures
 Be clear about exactly what you are measuring.
 ```
 ```
-4: Collect data Think about what, who, how^ and when^ to measure and establish a
+4: Collect data Think about what, who, how and when to measure and establish a
 baseline.
 5: Analyse and
 present results
@@ -813,11 +718,7 @@ Measuring for improvement (Improvement Leaders’ Guide)
 ```
 Handover and transfers of Care – Step-by-step measurement guide
 ```
-
-```
-August 2015
-```
-#### Choose your measures and start collecting your baseline data
+### Choose your measures and start collecting your baseline data
 
 You should not be spending lots of time collecting data! From your long list of things you could measure, just pick a few.
 
@@ -852,10 +753,6 @@ changes, or even carried out
 several improvement
 projects.
 ```
-
-```
-August 2015
-```
 Driver diagram showing process and outcome measures from management and frontline care perspectives
 
 ```
@@ -871,11 +768,7 @@ will.
 ```
 © Nicola Davey. 2015
 ```
-
-```
-August 2015
-```
-#### Capture and display the data
+### Capture and display the data
 
 Plotting your data in a run chart is a simple way to see the variation in the system and if any improvements have been made. You
 need 25 data points before doing any analysis, so using more frequent data (weekly or daily, in favour of monthly or quarterly) is
@@ -1003,21 +896,16 @@ Number of times standard format followed Median
 5
 ```
 ```
-Staff survey -Level of preparedness to deliver care
+Staff survey - Level of preparedness to deliver care
 (1 = not prepared, 5 = prepared)
 Staff Survey Results Median
 ```
-##### More online...
-
 ```
+More online...
 Click here for more about using run charts and
 simple statistical measures
 ```
-
-```
-August 2015
-```
-### Design and plan
+## Design and plan
 
 Once you have mapped your current process and compared data about your transfers
 of care with best practice, you need to decide where to start – this will be your initial
@@ -1026,22 +914,18 @@ processes using process mapping and root cause analysis techniques such as the
 ‘Five whys’ to help you understand how your transfer fits into the bigger picture.
 
 Revisit the driver diagram on page 15. The suggested improvement focuses are drawn from the good practice checklist
-mentioned earlier in the guide (for full list see pages 45 - 46 ).
+mentioned earlier in the guide (for full list see pages [^45]:-[^46]:).
 
 Focus your improvement effort on something in this list that you believe will help achieve your improvement project aim. For
 example, you predict that finding a quiet place to communicate without interruptions will help speed up the handover or transfer of
 care process. Working with your project team, choose one area as your first improvement focus. There are different ways of
 doing this and you might choose to generate change ideas first before finally deciding where to focus.
 
-
-```
-August 2015
-```
 All the good practice elements are interlinked and they may all need to be worked on at some point. Some changes may be
 developed very quickly (e.g. moving the location of handover); others may take a longer (e.g. changing the culture to place a higher
 value on transfers of care and give them priority over other tasks).
 
-#### Where to start?
+### Where to start?
 
 Look at your current process map and data. Which aspects of the process need improving first? You could use a bar chart to display
 the results from a staff survey and then focus your initial improvement on the most commonly-reported problems.
@@ -1106,15 +990,12 @@ Number of staff who highlighted problem
 ```
 Problems with handover identfied by staff
 ```
-
-```
-August 2015
-```
 You could use a priority matrix to categorise your improvement ideas. Quick wins can be tested and implemented immediately.
 High-priority changes may take more planning and resources to achieve.
 
+```
 Example priority matrix
-
+```
 ```
 Likely impact on project aim
 ```
@@ -1143,7 +1024,8 @@ HIGH
 ```
 ```
 HIGH
-(easy) Nice to have Test and implement
+(easy) Nice to have
+Test and implement
 once higher priorities
 have been achieved
 ```
@@ -1159,11 +1041,7 @@ Royal College of Physicians,
 Acute Care Toolkit: 1
 Handover (2011)
 ```
-
-```
-August 2015
-```
-#### Generate improvement ideas
+### Generate improvement ideas
 
 Working with your team and using all the data and observations you already have, you can now focus more fully on generating
 ideas for changes. These help you select your ‘change interventions’. There are lots of examples of change interventions in the
@@ -1175,12 +1053,15 @@ in this guide can be used to ‘check out’ of test a proven intervention and o
 As an example, we have used the development of a standardised process to illustrate how you could develop and test some
 change interventions.
 
-(^) Is the right information shared at transfer
+```
+Is the right information shared at transfer
 of care? Identify the pieces of information that
 should be included in transfers of care. This is
 the information you need to include in your
 standard information template (see
 examples below and in Appendix K).
+```
+```
 Is communication structured in a
 standardised way? You will need to agree
 the way in which you want to standardise the
@@ -1190,14 +1071,10 @@ Documented process: How will your new
 standardised process be documented and
 shared with new members of the team and the
 wider organisation.
-
-
 ```
-August 2015
-```
-#### Design your change intervention(s)
+### Design your change intervention(s)
 
-Design your own **‘** standard transfer of care **’** template
+Design your own **‘**standard transfer of care**’** template
 
 Let’s take one of these change interventions - standard transfer of care template – and look at how you might go about
 developing, testing and implementing it. Below is an example of an information template sheet that could be used in a hospital ward
@@ -1206,13 +1083,10 @@ specific and relevant to your own care environment. A similar approach may be us
 
 Example information template for nursing shift handover (more examples in Appendix K)
 
-(^) Example from the George Eliot Hospital
-
-
 ```
-August 2015
+Example from the George Eliot Hospital
 ```
-#### Make it your own
+### Make it your own
 
 Now create your own standard information template.
 
@@ -1281,8 +1155,9 @@ of responsibility.
 Further guidance on the minimum data set is available in
 A Clinician’s Guide to Record Standards
 ```
-##### More online...
-
+```
+More online...
+```
 ```
 The emishealth eHandover electronic handover system has been
 development at Barking, Havering and Redbridge University
@@ -1291,11 +1166,7 @@ Microsoft tools that are readily available in most trusts, initial
 studies have demonstrated that eHandover is delivering an
 improvement in safety, productivity and staff satisfaction.
 ```
-
-```
-August 2015
-```
-#### Use ‘d ot voting ’ to define your ‘ minimum data set ’
+### Use ‘dot voting’ to define your ‘minimum data set’
 
 Dot voting is one simple way to collect the opinions of those
 involved in the transfer of care about which pieces of information
@@ -1310,7 +1181,7 @@ could be used as part of the transfer of care?
 You should now have a complete list of all the information you
 will include in your new standard template. The next step is to
 organise this information using a structured communication tool
-such as SBAR (see page 31 ).
+such as SBAR (see page [^31]:).
 
 ```
 A simple flip chart and
@@ -1326,11 +1197,7 @@ should avoid duplication
 of task wherever this is
 safe to do.
 ```
-
-```
-August 2015
-```
-#### Using ‘structured communication t ools
+### Using ‘structured communication tools
 
 Structured communication tools are easy-to-remember
 mechanisms that you can use to frame conversations, especially
@@ -1338,8 +1205,7 @@ critical ones, requiring someone’s (e.g. a clinician’s) immediate
 attention and action. These tools enable you to clarify what
 information should be communicated between members of the
 team, and how. They can also help develop teamwork and foster
-
-#### a culture of patient safety.
+a culture of patient safety.
 
 SBAR is one example. It stands for: Situation, Background, Assessment, Recommendation.
 The tool consists of standardised prompt questions within four key sections, helping to ensure
@@ -1352,16 +1218,12 @@ repetition
  prompts staff to formulate information with the right level of detail.
 
 ```
-‘ HAND ME AN ISOBAR ’ is another example of a
+‘HAND ME AN ISOBAR’ is another example of a
 structured communication tool. Developed by the
 Royal Hobart Hospital in Tasmania, it is one of
 several examples featured in the OSSIE Guide to
 Clinical Handover Improvement (Australian
 Commission on Safety and Quality in Healthcare).
-```
-
-```
-August 2015
 ```
 Once you have chosen the structured communication approach you want to use,
 you need to arrange your minimum data set accordingly.
@@ -1377,7 +1239,7 @@ beginning or end
  ask the team to move the sticky notes to the flipchart they think is most
 appropriate.
 ```
-##### More online...
+More online...
 
 ```
 For prompt cards and other resources to
@@ -1406,10 +1268,6 @@ chosen, e.g. Situation,
 Background, Assessment,
 Recommendation.
 ```
-
-```
-August 2015
-```
 The next step is to design your template based on these information groups.
 
 ```
@@ -1421,14 +1279,14 @@ Don’t worry about getting too technical with document function and layout for 
 someone in your team or organisation with some spreadsheet or word processing skills to mock one up for you. Or simply draw
 one by hand for your initial testing.
 
-#### Document your standard process
+### Document your standard process
 
 As well as standardising the information you are going to communicate, you need to also standardise the process for
 communication. You will develop this process and test your change interventions for the other areas of good practice. You will
 also need to test the best way to document your standard process and communicate it to everyone involved. An example of a
 documented process is attached at Appendix K.
 
-#### Choose and review your measures
+### Choose and review your measures
 
 Once you have developed your change interventions, you will need to decide
 which measures will be most helpful. Choose just a couple of measures that you
@@ -1457,11 +1315,7 @@ change interventions as
 providing a ‘before’ and ‘after’
 snapshot of each test.
 ```
-
-```
-August 2015
-```
-### Pilot and implement
+## Pilot and implement
 
 This is where you use the ‘plan, do, study, act’ (PDSA) cycles in the Model for Improvement.
 The tests are repeated until a reliable change has been established (see Appendix I & J for worked
@@ -1481,21 +1335,16 @@ Act: Is your intervention ready to be implemented? If not you will need to run t
 again. If it is ready for implementation, you will need to plan how you will roll it out to the wider
 department or organisation and, crucially, how you will sustain the improvement in the long term.
 
-##### More online...
+More online...
 
 ```
 Click here for more on the Model for
 Improvement and PDSA:
 ```
-
-```
-August 2015
-```
 Example: PDSA cycle to test a standard transfer of care template (form)
 
-#### Plan: (what, where, when, who, how)
-
 ```
+Plan: (what, where, when, who, how)
 Keep your initial testing small. Test on:
  one patient, resident or client
  one bay or unit
@@ -1536,29 +1385,23 @@ do this?
 record and if so how?
 TIP: When observing tests it is important to note the factors
 that may lead to variability (eg what information gets
+included or left out when it’s ‘busy’ and when it’s ‘quiet’).
 ```
-##### included or left out when it’s ‘busy’ and when it’s ‘quiet’).
-
 ```
 Act:
 Increase the size of your test as you gain confidence
 in the new transfer of care design. Keep going until
 you are happy that the format is suitable to be tested
 for a longer period on its own and not alongside the
+old process.
 ```
-##### old process.
-
 ```
 See Appendix I for a detailed
 example of how one team
 used PDSA to test a new
 handover template.
 ```
-
-```
-August 2015
-```
-#### Plan for implementation
+### Plan for implementation
 
 Once you are confident that your design is about right, start to plan your tests for implementation.
 
@@ -1580,23 +1423,19 @@ printers, electronic devices)?
  Measurement – Plan which measures will be used during and after
 implementation and make sure these are visible to stakeholders.
  Engaging stakeholders – Continue to engage stakeholders and communicate
-the rationale for change (see page 16 ).
+the rationale for change (see page [^16]:).
 (Adapted from Langley, Moen et al, The Improvement Guide 2nd Edition (2009))
 
 To reduce risk and increase user acceptance you might
 want to use a Simulation – this could involve staff trying
-out the new system using a case study?
-See Appendix J for a detailed
+
+out the new system using a case study? See Appendix J for a detailed
 example of how one team used
 PDSA to test the
 implementation of a new
 transfer of care process.
 
-
-```
-August 2015
-```
-**‘** Flexible **’** standardisation
+**‘**Flexible**’** standardisation
 
 You may need to run small tests with each team so that they can make small adjustments that work for them. Instead of a rigid
 approach, consider ‘flexible’ standardisation. This allows teams or departments to make small changes of their own that are shown
@@ -1620,15 +1459,11 @@ communication tool for discharging patients from hospital to care homes, rehabil
  For more information on how to do this, see Sarah W Fraser, Accelerating the Spread of Good Practice: A Workbook for
 Healthcare (2002).
 ```
+## Sustain and share
 
-```
-August 2015
-```
-### Sustain and share
+‘The most successful organisations are those that can implement and sustain effective improvement
 
-##### ‘The most successful organisations are those that can implement and sustain effective improvement
-
-##### initiatives leading to increased quality and patient experience at lower cost.’
+initiatives leading to increased quality and patient experience at lower cost.’
 
 Sustainability Model and Guide
 
@@ -1650,7 +1485,7 @@ the likelihood of sustainability for your improvement initiative.
 Click here to access the Sustainability Model and Guide
 
 ```
-‘ Senior leadership engagement
+‘Senior leadership engagement
 and clinical leadership
 engagement in your project are
 two of the key factors in
@@ -1660,11 +1495,7 @@ improvements’
 ```
 NHS Sustainability Guide
 ```
-
-```
-August 2015
-```
-#### Share and celebrate success
+### Share and celebrate success
 
 Tell people how well the new handover or transfer of care is working. Not only do those doing it need
 to know, but tell other wards, teams, departments, directors and the whole organisation to spread the
@@ -1678,15 +1509,11 @@ how you can spread the word using:
  newsletters
  individual letters/emails.
 ```
-#### Keep measuring....
+### Keep measuring....
 
 Agree to measure processes and outcomes periodically to ensure you are sustaining
 improvements and that staff aren’t tempted to return to old ways of working.
 
-
-```
-August 2015
-```
 ## Useful resources
 
 Reports and standards
@@ -1698,8 +1525,8 @@ guide/
 content/uploads/2012/02/ImplementationToolkitforClinicalHandoverImprovement.pdf
  Communication During Patient Hand-Overs, World Health Organisation Collaborating Centre for Patient Safety Solutions (2007)
 http://www.who.int/patientsafety/solutions/patientsafety/PS-Solution3.pdf
- Safe handover: safe patients - Guidance on clinical handover for clinicians and managers, BMA Junior Doctors Committee, http://www.bma.org.uk
- Acute Care Toolkit: 1 Handover, Royal College of Physicians (2011) http://www.rcplondon.ac.uk/resources/acute-care-toolkit- 1 - handover
+ Safe handover: safe patients - Guidance on clinical handover for clinicians and managers, BMA Junior Doctors Committee, www.bma.org.uk
+ Acute Care Toolkit: 1 Handover, Royal College of Physicians (2011) http://www.rcplondon.ac.uk/resources/acute-care-toolkit-1-handover
  A Clinician’s Guide to Record Standards – Part 2: Standards for the structure and content of medical records and communications when
 patients are admitted to hospital, Academy of Medical Royal Colleges (2008) https://www.rcoa.ac.uk/sites/default/files/FPM-clinicians-
 guide2.pdf
@@ -1716,15 +1543,11 @@ http://www.aci.health.nsw.gov.au/resources/acute-care/safe_clinical_handover/Saf
 Tools and guides
 
 ```
- The Improvement Guide, Langley, Moen et al. Jossey-Bass, 1996 , 2nd Edition 2009
+ The Improvement Guide, Langley, Moen et al. Jossey-Bass, 1996, 2nd Edition 2009
  The trouble with handovers video http://www.focusbiz.co.uk/the-trouble-with-handovers/
  NSW [New South Wales] Health Implementation Toolkit, Standard Key Principles for Clinical Handover
 http://www.aci.health.nsw.gov.au/resources/acute-care/safe_clinical_handover/implementation-toolkit.pdf
  Quality and service improvement tools (process mapping, patient perspectives) http://www.institute.nhs.uk/qualitytools
-```
-
-```
-August 2015
 ```
 ```
  The Productive Series: http://www.institute.nhs.uk/productives
@@ -1740,12 +1563,12 @@ o Process Mapping, Analysis and Redesign http://www.nhsiq.nhs.uk/media/2594717/i
 o Measuring for improvement http://www.nhsiq.nhs.uk/media/2541082/improvement_leaders_guide_-
 _measurement_for_improvement.pdf
  The 7 steps to measurement video https://www.youtube.com/watch?v=Za1o77jAnbw
- Run charts and simple statistical measures (including a video guide) http://www.institute.nhs.uk/spc
+ Run charts and simple statistical measures (including a video guide) www.institute.nhs.uk/spc
  Root cause analysis (including the ‘Five whys’) http://www.institute.nhs.uk/rca
  eHandover https://www.emishealth.com/products/ehandover/
  Structured communications tools
 o SBAR http://www.institute.nhs.uk/sbar
-o The ABC of handover http://emj.bmj.com/content/early/2012/01/03/emermed- 2011 - 200199.full
+o The ABC of handover http://emj.bmj.com/content/early/2012/01/03/emermed-2011-200199.full
 o HAND ME AN ISOBAR http://www.safetyandquality.gov.au/our-work/clinical-communications/clinical-handover/ossie-guide/
 o RSVP http://www.workforce.southcentral.nhs.uk/pdf/NESC_RSVP_0209.pdf
  Sustainability Model and Guide http://www.evidenceintopractice.scot.nhs.uk/media/135265/sustainability_model.pdf
@@ -1754,49 +1577,41 @@ o RSVP http://www.workforce.southcentral.nhs.uk/pdf/NESC_RSVP_0209.pdf
 Case studies and presentations
 
 ```
- Using a communication framework at handover to boost patient outcomes, Christie, P and Robinson, R, Nursing Times, 1 December, 2009 , Vol
-105 , No 47 http://www.nursingtimes.net
+ Using a communication framework at handover to boost patient outcomes, Christie, P and Robinson, R, Nursing Times, 1 December, 2009, Vol
+105, No 47 www.nursingtimes.net
  Improving hospital weekend handover: a user-centered, standardised approach Mehra A and Henein C. BMJ Qual Improv
-Report 2014; 2 : doi:10.1136/bmjquality.u202861.w1655 http://qir.bmj.com/content/2/2/u202861.w1655.full
+Report 2014;2: doi:10.1136/bmjquality.u202861.w1655 http://qir.bmj.com/content/2/2/u202861.w1655.full
  Improving the safety of patient transfer from AMU using a written checklist, Hindmarsh D, Lees L, Acute Med. 2012;11(1):13-7.
 http://www.ncbi.nlm.nih.gov/pubmed/22423341
 ```
-
-```
-August 2015
-```
 ## Appendices
 
-Appendix A: Ollie’s story ................................................................................................................................................................................................ 43
+Appendix A: Ollie’s story................................................................................................................................................................................................43
 
-Appendix B: Good practice checklist – examples of questions to prompt discussion and generate ideas ...................................................................... 45
+Appendix B: Good practice checklist – examples of questions to prompt discussion and generate ideas ......................................................................45
 
-Appendix C: The Model for Improvement ....................................................................................................................................................................... 47
+Appendix C: The Model for Improvement.......................................................................................................................................................................47
 
-Appendix D: SMART aims ............................................................................................................................................................................................. 48
+Appendix D: SMART aims .............................................................................................................................................................................................48
 
-Appendix E: Team Selection Grid Examples .................................................................................................................................................................. 49
+Appendix E: Team Selection Grid Examples..................................................................................................................................................................49
 
-Appendix F: Example project template ........................................................................................................................................................................... 50
+Appendix F: Example project template...........................................................................................................................................................................50
 
-Appendix G: Dot voting .................................................................................................................................................................................................. 51
+Appendix G: Dot voting..................................................................................................................................................................................................51
 
-Appendix H: Good practice checklist – suggested measures ......................................................................................................................................... 52
+Appendix H: Good practice checklist – suggested measures.........................................................................................................................................52
 
-Appendix I: Example PDSA for testing a new handover template .................................................................................................................................. 53
+Appendix I: Example PDSA for testing a new handover template ..................................................................................................................................53
 
-Appendix J: Example PDSA for testing new transfer of care process ............................................................................................................................. 54
+Appendix J: Example PDSA for testing new transfer of care process.............................................................................................................................54
 
-Appendix K: Examples of standardised communication templates ................................................................................................................................. 55
+Appendix K: Examples of standardised communication templates.................................................................................................................................55
 
-Appendix L: Example of how a poster can be used to spread the word about new processes ....................................................................................... 58
+Appendix L: Example of how a poster can be used to spread the word about new processes .......................................................................................58
 
-Appendix M: Summary of the six step improvement process for transfer of care ........................................................................................................... 59
+Appendix M: Summary of the six step improvement process for transfer of care ...........................................................................................................59
 
-
-```
-August 2015
-```
 Appendix A: **Ollie’s** story
 
 This case study tells the story of a real NHS patient. The patient did not die as a result of
@@ -1823,42 +1638,29 @@ in information transfer and lack of clarity and/feasibility for task completion 
 members. Georgette continues to share this story and hopes that one day there will be no
 gaps.
 
-##### Snapshot:
-
-##### In the last year of his life Ollie was
-
-##### admitted to hospital several times.
-
-##### Even though his wife, Georgette,
-
-##### developed an ‘A&E survival pack’ to
-
-##### keep him safe, her planned
-
-##### ‘information handovers’ failed to
-
-##### result in an accurate prescription
-
-##### for his regular epilepsy medicine.
-
-##### When his prescription was wrong,
-
-##### no one seemed to take
-
-##### responsibility to get it put right.
-
-##### Even
+Snapshot:
 
 ```
-Although Ollie understood that going one day
+In the last year of his life Ollie was
+admitted to hospital several times.
+Even though his wife, Georgette,
+developed an ‘A&E survival pack’ to
+keep him safe, her planned
+‘information handovers’ failed to
+result in an accurate prescription
+for his regular epilepsy medicine.
+```
+```
+When his prescription was wrong,
+no one seemed to take
+responsibility to get it put right.
+```
+```
+Although OlEven lie understood that going one day
 without his epilepsy medicine was unlikely to
 trigger a seizure, he still got anxious – and he
 knew that this anxiety COULD make a seizure
 more likely. This worried Georgette too!
-```
-
-```
-August 2015
 ```
 The patient perspective
 
@@ -1885,18 +1687,13 @@ Insanity: doing the same thing over and over
 again and expecting different results.
 Albert Einstein
 ```
-
-```
-August 2015
-```
 Appendix B: Good practice checklist **–** examples of questions to prompt discussion and generate ideas
 
 ```
 What do we need? What does it mean? Think about...
 ```
 ```
-Leadership
-There is a nominated leader
+Leadership There is a nominated leader
 for each transfer of
 care/handover.
 ```
@@ -1906,8 +1703,7 @@ involve ensuring participants attend; introducing and orientating new team
 members; prioritising urgent elements of transfer of care.
 ```
 ```
-Values
-Transfer and handovers are
+Values Transfer and handovers are
 valued as an essential part of
 care and preparation for
 handover is a priority.
@@ -1923,8 +1719,7 @@ training? How will staff be released from clinical duties to attend training?
  Do staff and patients or clients have guidelines on transfer of care?
 ```
 ```
-Right people
-The appropriate people are
+Right people The appropriate people are
 involved.
 ```
 ```
@@ -1941,13 +1736,10 @@ handover?
 processes?
  Who will prepare information and documentation for transfer of care?
 ```
-
-```
-August 2015
-```
 What do we need? What does it mean? **Think about...**
 
 Specified time and
+
 place
 
 ```
@@ -1971,6 +1763,7 @@ be reduced?
  How and where is confidential information transferred?
 ```
 Standardised
+
 process
 
 ```
@@ -2000,10 +1793,6 @@ RSVP etc.) or develop your own?
 be designed to go directly into patient notes?
  How is the agreed transfer of care process documented? How do new staff
 and patients/clients find out about the process?
-```
-
-```
-August 2015
 ```
 Appendix C: The Model for Improvement
 
@@ -2035,21 +1824,13 @@ For more
 Langley GL, Nolan KM, Nolan TW, Norman CL, Provost LP, The
 Improvement Guide: A Practical Approach to Enhancing
 Organizational Performance (2nd Edition). Jossey Bass, San
-Francisco (2009)^ v
-
-##### More online...
-
-```
+Francisco (2009)v More online...
 For more on the Model for Improvement see:
-```
+
 ```
  Quality and service improvement tools
  Improvement Leaders’ Guides – Process Mapping, Analysis and
 Redesign
-```
-
-```
-August 2015
 ```
 Appendix D: SMART aims
 
@@ -2069,10 +1850,6 @@ the impact of the project, e.g. closure of a unit for refurbishment;
 major staff changes; availability of sponsor.
 Time: Set a deadline and stick to it, e.g. by December 2015.
 ```
-
-```
-August 2015
-```
 Appendix E: Team Selection Grid Examples
 
 ```
@@ -2081,7 +1858,7 @@ Authority to make changes
 ```
 YES
 ```
-##### Acute example
+#### Acute example
 
 ```
 YES NO
@@ -2104,12 +1881,16 @@ Junior Staff
 ```
 Directors
 Consultants
-Matron/ Senior Nurse
+Matron/ Senior
+Nurse
 ```
 ```
-Receptionist ward clerk/
-Patient / CarerClient /
-Improvement Specialist
+Receptionist /
+ward clerk
+Patient / Client /
+Carer
+Improvement
+Specialist
 IT expert
 ```
 ```
@@ -2127,7 +1908,7 @@ Detailed Knowledge
 ```
 YES
 ```
-##### Residential home example
+Residential home example
 
 ```
 YES NO
@@ -2147,21 +1928,15 @@ GP
 Reception Staff
 ```
 ```
-Home Manager RelativesResident
-```
-
-```
-August 2015
+Home Manager Resident
+Relatives
 ```
 Appendix F: Example project template
 
-(^) Adapted from outline in the (^) OSSIE Guide to Clinical
-Handover Improvement. Available on Slide Share at
-[http://www.qualityimprovementclinic.com](http://www.qualityimprovementclinic.com)
-
-
 ```
-August 2015
+Adapted from outline in the OSSIE Guide to Clinical
+Handover Improvement. Available on Slide Share at
+www.qualityimprovementclinic.com
 ```
 Appendix G: Dot voting
 
@@ -2183,11 +1958,7 @@ staff.
 ```
 After everyone has voted, the information with the most dots is the information you need to focus on.
 
-
-```
-August 2015
-```
-##### Appendix H: Good practice checklist – suggested measures
+Appendix H: Good practice checklist **–** suggested measures
 
 ```
 What do we
@@ -2197,8 +1968,7 @@ need?
 What does it mean? Suggested measures
 ```
 ```
-Leadership
-There is a nominated leader for each
+Leadership There is a nominated leader for each
 transfer of care/handover.
 ```
 ```
@@ -2207,8 +1977,7 @@ transfer of care/handover.
  Is leader indicated on transfer of care process checklist (if used)?
 ```
 ```
-Valued
-Transfer and handovers are valued
+Valued Transfer and handovers are valued
 as an essential part of care.
 ```
 ```
@@ -2267,15 +2036,11 @@ anything missing or not required?
 should be)
  Number of outstanding actions not completed at end of shift.
 ```
-
-```
-August 2015
-```
 Appendix I: Example PDSA for testing a new handover template
 
 ```
 Plan We plan to.... in order to (aim)
-AimGet staff input to improve the design of the new handover template.
+Aim Get staff input to improve the design of the new handover template.
 Plan
  Use the new ISOBAR handover template for 1 bay of patients at afternoon shift handover.
  Feedback will be gathered during the test and via a flipchart in the nurses office.
@@ -2289,7 +2054,7 @@ The following questions will be asked:
  What support would you like to help you use the template?
 Do: What we did was..... (brief description of actions)
  Bay 3 was handed over by Staff Nurse KS to Staff Nurse YB.
- Time to handover Bay 3 –5:45 minutes
+ Time to handover Bay 3 – 5:45 minutes
  Feedback:
 o Addition of mobility and dietary needs is good
 o Expected Date of Discharge is not required
@@ -2308,103 +2073,75 @@ Act What we plan to do next is .... (state next plan)
  Make agreed changes and test template again with night staff for 2 bays.
  Deliver more training and practice opportunities using SBAR with readback
 ```
-
-```
-August 2015
-```
 Appendix J: Example PDSA for testing new transfer of care process
 
-
-```
-August 2015
-```
 Appendix K: Examples of standardised communication templates
 
 ```
 Reproduced with permission of
 Dr Sebastian Yuen
 ```
-
-```
-August 2015
-```
 Reproduced with permission of the
 Heart of England NHS Foundation
 Trust
 
-
-```
-August 2015
-```
 Standard Nursing Handover
 Procedure - HAND ME AN
 ISOBAR - Example
 
-
-```
-August 2015
-```
 Appendix L: Example of how a poster can be used to spread the word about new processes
 
-
-```
-August 2015
-```
 Appendix M: Summary of the six step improvement process for transfer of care
 
-#### ^1
+**1**
 
-- **Start out (page 10)**
-    - Refer to existing policies and procedures for transfers of care in your organisation
-    - Observe, measure and process map the current communication process
-    - What does good look like? Compare your policy and communication process with the good practice checklist.
-       (Appendix B)
+• Start out (page 10)
+• Refer to existing policies and procedures for transfers of care in your organisation
+• Observe, measure and process map the current communication process
+• What does good look like? Compare your policy and communication process with the good practice checklist.
+(Appendix B)
 
-##### 2
+**2**
 
-- **Define and scope (page 13)**
-    - Begin to answer the three questions of the model for improvement (Appendix C)
-    - Set your project aim and scope and link this to your organisational big issues on a driver diagram (page 22)
-    - Engage staff, patients, clients and residents using patient stories and evidence from useful resources
-    - Choose your project team, include senior and frontline staff and patients/clients/residents
-    - Document your project plan (Appendix F) and use the sustainaiblity guide to think about long term impact of change
+• Define and scope (page 13)
+• Begin to answer the three questions of the model for improvement (Appendix C)
+• Set your project aim and scope and link this to your organisational big issues on a driver diagram (page 22)
+• Engage staff, patients, clients and residents using patient stories and evidence from useful resources
+• Choose your project team, include senior and frontline staff and patients/clients/residents
+• Document your project plan (Appendix F) and use the sustainaiblity guide to think about long term impact of change
 
-##### 3
+**3**
 
-- **Measure and understand (page 19)**
-    - Choose and define your outcomes and process measures, collect baseline data and display on run or SPC charts
+• Measure and understand (page 19)
+• Choose and define your outcomes and process measures, collect baseline data and display on run or SPC charts
 
-##### 4
+**4**
 
-- **Design and plan (page 24)**
-    - Design your standard transfer of care template and test using Plan Do Study Act (PDSA) cycles (Appendix I & J)
-       - Use dot voting to define your minimum data set (Appendix G)
-       - Select a standardised communication tool (e.g. SBAR) to organise your minimum data set
-    - Generate and test other change ideas using the good practice checklist (Appendix B) and examples (Appendix K)
-    - Choose process measures (Appendix H) collect data and display on run or SPC charts
+• Design and plan (page 24)
+• Design your standard transfer of care template and test using Plan Do Study Act (PDSA) cycles (Appendix I & J)
+• Use dot voting to define your minimum data set (Appendix G)
+• Select a standardised communication tool (e.g. SBAR) to organise your minimum data set
+• Generate and test other change ideas using the good practice checklist (Appendix B) and examples (Appendix K)
+• Choose process measures (Appendix H) collect data and display on run or SPC charts
 
-##### 5
+**5**
 
-- **Pilot and implement (page 34)**
-    - Document your new standardised transfer of care process
-    - Plan your tests for implementation using PDSA cycles. Plan training, measurement, resources & stakeholder
-       engagement. (Appendix I & J)
-    - Consider 'flexible standardisation' and spread good practice to other teams, departments and organisations
+• Pilot and implement (page 34)
+• Document your new standardised transfer of care process
+• Plan your tests for implementation using PDSA cycles. Plan training, measurement, resources & stakeholder
+engagement. (Appendix I & J)
+• Consider 'flexible standardisation' and spread good practice to other teams, departments and organisations
 
-##### 6
+**6**
 
-- **Sustain and share (page 38)**
-    - Use the sustainability guide to ensure your changes will be sustained
-    - Celebrate and spread your success through conferences, posters, journal articles etc. (Appendix L)
+• Sustain and share (page 38)
+• Use the sustainability guide to ensure your changes will be sustained
+• Celebrate and spread your success through conferences, posters, journal articles etc. (Appendix L)
 
-
-```
-August 2015
-```
-#### Product timeline
+### Product timeline
 
 ```
-2011 - 2012 - First learning phase
+2011-2012 - First learning phase
 QI project, Patient Safety Leaders Programme, NHS Institute for Innovation and Improvement
 Ali Cole, Quality Improvement Project Lead. Nicola Davey, Topic Expert
 Staff at George Eliot Hospital NHS Trust (see acknowledgements on page 3)
@@ -2415,13 +2152,12 @@ Sandra McNerney, Freelance Writer
 Focus Groups x 2, NHS Institute Associates, Fellows and Critical Friends
 ```
 ```
-2013 - 2014 - Second learning phase
+2013-2014 - Second learning phase
 Nicola Davey, Quality Improvement Practitioner, Quality Improvement Clinic Ltd
 Ali Cole, QI Practitioner and Topic Expert
 ```
 ```
-2014 - 2015 - Second design and testing phase
+2014-2015 - Second design and testing phase
 Nicola Davey, Quality Improvement Practitioner, Quality Improvement Clinic Ltd
 Rachel Hammel, Learning Expert, Quality Improvement Clinic Ltd
 ```
-

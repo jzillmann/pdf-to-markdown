@@ -1,21 +1,12 @@
+##### MADE
 
-**ii Made With Creative Commons**
+##### WITH
 
+##### CRE ATI V E
 
-**Made With Creative Commons iii**
-
-### MADE
-
-### WITH
-
-### CRE ATI V E
-
-### COMMONS
+##### COMMONS
 
 **PAUL STACEY AND SARAH HINCHLIFF PEARSON**
-
-
-**iv Made With Creative Commons**
 
 **Made With Creative Commons**
 by Paul Stacey & Sarah Hinchliff Pearson
@@ -23,7 +14,7 @@ by Paul Stacey & Sarah Hinchliff Pearson
 © 2017, by Creative Commons.
 Published under a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
 
-ISBN 978-87-998733-3-
+ISBN 978-87-998733-3-3
 
 Cover and interior design by Klaus Nielsen, vinterstille.dk
 Content editing by Grace Yaginuma
@@ -36,7 +27,7 @@ Ctrl+Alt+Delete Books
 Husumgade 10, 5.
 2200 Copenhagen N
 Denmark
-[http://www.cadb.dk](http://www.cadb.dk)
+[www.cadb.dk](www.cadb.dk)
 hey@cadb.dk
 
 Printer:
@@ -53,9 +44,6 @@ same license as the original. License details: creativecommons.org/licenses/by-s
 
 Made With Creative Commons is published with the kind support of Creative Commons and
 backers of our crowdfunding-campaign on the Kickstarter.com platform.
-
-
-**Made With Creative Commons v**
 
 “I don’t know a whole lot about non-
 
@@ -79,69 +67,63 @@ our daily lives.”
 
 **- DAVID FOSTER WALLACE**
 
+##### CONTENTS
 
-**vi Made With Creative Commons**
+**Foreword xi**
+**Introduction xv**
 
+**PART 1: THE BIG PICTURE**
 
-## Made With Creative Commons vii
+[^1]: **The New World of Digital Commons by Paul Stacey 3**
+The Commons, the Market, and the State..............................4
+The Four Aspects of a Resource....................................5
+A Short History of the Commons...................................7
+The Digital Revolution......................................... 10
+The Birth of Creative Commons................................... 10
+The Changing Market......................................... 11
+Benefits of the Digital Commons.................................. 13
+Our Case Studies............................................ 14
 
-### CONTENTS
+[^2]: **How to Be Made with Creative Commons by Sarah Hinchliff Pearson 19**
+Problem Zero: Getting Discovered.................................. 22
+Making Money............................................. 26
+Making Human Connections..................................... 30
 
-**Foreword xi
-Introduction xv**
+[^3]: **The Creative Commons Licenses 39**
 
+**PART 2: THE CASE STUDIES**
 
-- 1 The New World of Digital Commons by Paul Stacey PART 1: THE BIG PICTURE
-   - The Commons, the Market, and the State
-   - The Four Aspects of a Resource
-   - A Short History of the Commons
-   - The Digital Revolution.
-   - The Birth of Creative Commons
-   - The Changing Market
-   - Benefits of the Digital Commons
-   - Our Case Studies.
-- 2 How to Be Made with Creative Commons by Sarah Hinchliff Pearson
-   - Problem Zero: Getting Discovered.
-   - Making Money
-   - Making Human Connections
-- 3 The Creative Commons Licenses
-   - Arduino PART 2: THE CASE STUDIES
-   - Ártica
-   - Blender Institute.
-      - Cards Against Humanity
-      - The Conversation
-      - Cory Doctorow.
-      - Figshare.
-      - Figure.nz
-      - Knowledge Unlatched.
-      - Lumen Learning
-      - Jonathan Mann.
-- Noun Project viii Made With Creative Commons
-- Open Data Institute
-- Opendesk.
-- OpenStax
-- Amanda Palmer
-- PLOS (Public Library of Science)
-- Rijksmuseum.
-- Shareable.
-- Siyavula
-- SparkFun
-- TeachAIDS.
-- Tribe of Noise.
-- Wikimedia Foundation
-- Bibliography
-- Acknowledgments.
+```
+Arduino................................................. 47
+Ártica.................................................. 51
+Blender Institute............................................ 55
+Cards Against Humanity....................................... 59
+The Conversation........................................... 63
+Cory Doctorow............................................. 67
+Figshare................................................. 71
+Figure.nz................................................ 75
+Knowledge Unlatched......................................... 79
+Lumen Learning............................................ 83
+Jonathan Mann............................................. 87
+```
+Noun Project.............................................. 91
+Open Data Institute.......................................... 95
+Opendesk................................................ 99
+OpenStax............................................... 105
+Amanda Palmer........................................... 109
+PLOS (Public Library of Science).................................. 113
+Rijksmuseum............................................. 117
+Shareable............................................... 121
+Siyavula................................................ 125
+SparkFun............................................... 131
+TeachAIDS............................................... 135
+Tribe of Noise............................................. 139
+Wikimedia Foundation....................................... 143
 
+Bibliography............................................. 147
+Acknowledgments.......................................... 151
 
-**Made With Creative Commons ix**
-
-
-**x Made With Creative Commons**
-
-
-**Made With Creative Commons xi**
-
-### FOREWORD
+##### FOREWORD
 
 Three years ago, just after I was hired as CEO of
 Creative Commons, I met with Cory Doctorow
@@ -223,9 +205,6 @@ the main thing. She’s practical, detail-oriented,
 and clever. There’s no one on my team that I
 enjoy debating more.
 ```
-
-**xii Made With Creative Commons**
-
 As coauthors, Paul and Sarah complement
 each other perfectly. They researched, ana-
 lyzed, argued, and worked as a team, some-
@@ -266,8 +245,8 @@ verged and their interests came into focus,
 they divided their voices and decided to keep
 them separate in the final product. Working in
 this way requires both humility and self-confi-
-dence, and without question it has made _Made
-with Creative Commons_ a better project.
+dence, and without question it has made _Made_
+_with Creative Commons_ a better project.
 Those who work and share in the com-
 mons are not typical creators. They are part of
 something greater than themselves, and what
@@ -316,15 +295,12 @@ fers a world-changing set of clearly articulated
 values and principles, some essential tools for
 exploring your own business opportunities,
 and two dozen doses of pure inspiration.
-In a 1996 Stanford Law Review article “ The
-Zones of Cyberspace” , CC founder Lawrence Les-
+In a 1996 Stanford Law Review article “The
+Zones of Cyberspace”, CC founder Lawrence Les-
 sig wrote, “Cyberspace is a place. People live
 there. They experience all the sorts of things
 that they experience in real space, there. For
 ```
-
-**Made With Creative Commons xiii**
-
 some, they experience more. They experience
 this not as isolated individuals, playing some
 high tech computer game; they experience it
@@ -339,19 +315,13 @@ ativity and insights, and to the global commu-
 nities that have helped us bring it to you. As CC
 board member Johnathan Nightingale often
 says, “It’s all made of people.”
-That’s the true value of things that are **Made
-with Creative Commons**
+That’s the true value of things that are **Made**
+**with Creative Commons**
 
-_Ryan Merkley
-CEO, Creative Commons_
+_Ryan Merkley_
+_CEO, Creative Commons_
 
-
-**xiv Made With Creative Commons**
-
-
-**Made With Creative Commons xv**
-
-### INTRODUCTION
+##### INTRODUCTION
 
 This book shows the world how sharing can be
 good for business—but with a twist.
@@ -375,8 +345,8 @@ er backers, we set about this project first by
 identifying and selecting a diverse group of
 creators, organizations, and businesses who
 use Creative Commons in an integral way—
-what we call being **Made with Creative Com-
-mons** We interviewed them and wrote up
+what we call being **Made with Creative Com-**
+**mons** We interviewed them and wrote up
 their stories. We analyzed what we heard and
 dug deep into the literature.
 But as we did our research, something in-
@@ -434,9 +404,6 @@ big-picture framework written by Paul. He pro-
 vides some historical context for the digital
 commons, describing the three ways society
 ```
-
-**xvi Made With Creative Commons**
-
 has managed resources and shared wealth—
 the commons, the market, and the state. He
 advocates for thinking beyond business and
@@ -472,8 +439,8 @@ tion-ShareAlike license. Please copy, distribute,
 translate, localize, and build upon this work.
 Writing this book has transformed and in-
 spired us. The way we now look at and think
-about what it means to be **Made with Creative
-Commons** has irrevocably changed. We hope
+about what it means to be **Made with Creative**
+**Commons** has irrevocably changed. We hope
 this book inspires you and your enterprise to
 use Creative Commons and in so doing con-
 tribute to the transformation of our economy
@@ -481,22 +448,19 @@ and world for the better.
 
 _Paul and Sarah_
 
+## Part 1
 
-# Part 1
+##### THE BIG PICTURE
 
-## THE BIG PICTURE
+### 1
 
+##### THE NEW
 
+##### WORLD OF
 
-## 1
+##### DIGITA L
 
-### THE NEW
-
-### WORLD OF
-
-### DIGITA L
-
-### COMMONS
+##### COMMONS
 
 **PAUL STACEY**
 
@@ -509,8 +473,8 @@ the stories of childhood and the processes of
 democracy. Some parts of the commons are
 gifts of nature, others the product of human
 endeavor. Some are new, such as the Internet;
-others are as ancient as soil and calligraphy.”^1
-In **Made with Creative Commons** , we focus
+others are as ancient as soil and calligraphy.”[^1]
+In **Made with Creative Commons**, we focus
 on our current era of digital commons, a com-
 mons of human-produced works. This com-
 mons cuts across a broad range of areas in-
@@ -528,35 +492,33 @@ online over the Internet.
 The commons is not just about shared re-
 sources, however. It’s also about the social
 practices and values that manage them. A re-
-source is a noun, but to common —to put the
-resource into the commons—is a verb.^2 The
+source is a noun, but to common—to put the
+resource into the commons—is a verb.[^2] The
 creators, organizations, and businesses we
 profile are all engaged with commoning. Their
 use of Creative Commons involves them in the
 social practice of commoning, managing re-
 sources in a collective manner with a commu-
-nity of users.^3 Commoning is guided by a set of
+nity of users.[^3] Commoning is guided by a set of
 values and norms that balance the costs and
 benefits of the enterprise with those of the
 community. Special regard is given to equita-
 ble access, use, and sustainability.
 ```
-
-### The Commons, the Market, and the State
-
-```
+**The Commons, the Market, and**
+**the State**
 Historically, there have been three ways to
 manage resources and share wealth: the com-
 mons (managed collectively), the state (i.e., the
 government), and the market—with the last
-two being the dominant forms today.^4
+two being the dominant forms today.[^4]
 The organizations and businesses in our
 case studies are unique in the way they par-
 ticipate in the commons while still engaging
 with the market and/or state. The extent of
 engagement with market or state varies. Some
 operate primarily as a commons with minimal
-or no reliance on the market or state.^5 Others
+or no reliance on the market or state.[^5] Others
 are very much a part of the market or state,
 depending on them for financial sustainabili-
 ty. All operate as hybrids, blending the norms
@@ -569,7 +531,7 @@ Some of our case studies are simply com-
 mons and market enterprises with little or no
 engagement with the state. A depiction of those
 case studies would show the state sphere as
-```
+
 ```
 tiny or even absent. Other case studies are pri-
 marily market-based with only a small engage-
@@ -599,7 +561,6 @@ can all be designed to foster the commons.
 ```
 Fig. 1. Enterprise engagement with commons, state, and market.
 
-
 It’s helpful to understand how the commons,
 market, and state manage resources different-
 ly, and not just for those who consider them-
@@ -611,12 +572,11 @@ stand how best to do so. Participating in and
 using the commons the same way you do the
 market or state is not a strategy for success.
 
-### The Four Aspects of a Resource
-
+**The Four Aspects of a Resource**
 As part of her Nobel Prize–winning work, Eli-
 nor Ostrom developed a framework for ana-
 lyzing how natural resources are managed in a
-commons.^6 Her framework considered things
+commons.[^6] Her framework considered things
 like the biophysical characteristics of common
 resources, the community’s actors and the
 interactions that take place between them,
@@ -680,109 +640,147 @@ possibility of being made into a physical re-
 source. The digital file of a book can be print-
 ```
 ```
-PE
-OP
-L
-E
+PEOPLE
 DIRECT &
 OR
 ```
-(^) IN
-DI
-RE
-CT
-WHO
-HAS
-(^) A
-UT
-HO
-RI
-TY
-WHO (^) C
-AN
-AC
-CE
-SS
-(^) O
-R
-US
-E
-PR
-OC
-E S S E S N O R M S &
-RU
-LES
-GO
-A
-L
-S
-C
-H
-A
-R
-A
-C
-T
-ER
-IS
-TICS
-PH
-YS
-IC
-AL
-O
-R^ D
-IGITAL^
-SC
-AR
-CE
-O
-R^
-ABU
-NDANT
-NA
-TU
-RA
-L^
+```
+INDIRECT
+```
+```
+WHO HAS
+```
+```
+AUTHORIT
+Y
+```
+```
+WHO CAN
+```
+```
+ACCESS
 OR
-PR
-ODUC
-ED
+U
+SE
+```
+```
+PROCESSES
+```
+```
+N
+O
+R
+M
+S
+&
+```
+```
+RULES
+```
+```
+GOALS
+```
+```
+CHA
+```
+```
+RACTERISTICS
+```
+```
+PHYSICAL
+```
+```
+OR
+```
+```
+DIGITAL
+```
+```
+S
+CA
+```
+```
+RCE
+```
+```
+OR
+```
+```
+ABUNDANT
+```
+```
+N
+A
+```
+```
+TU
+```
+```
+RAL
+```
+```
+OR
+```
+```
+PRODUCED
+```
+```
 IN
 FO
 RM
 AL
-(^) (
-NOR
-MS)
+```
+```
+(NORMS)
+```
+```
 FO
 RM
 AL
-(^) (
-LA
-WS)
-(^) USE^ O
-UT
-CO
-ME
-ADDITIV
-E^ O
-R^
-EX
-TR
-AC
-TI
-VE
-USE^ O
-UTC
-OM
-E^
-ME
-AS
-UR
-ES
+```
+```
+(LAWS)
+USE
+```
+```
+OUTCOM
+```
+```
+E
+```
+```
+ADDITIVE
+```
+```
+OR
+```
+```
+EXTRA
+```
+```
+CTIV
+```
+```
+E
+```
+```
+USE OUTCOME
+```
+```
+M
+EA
+```
+```
+SU
+```
+```
+R
+E
+```
+```
+S
+```
 Fig. 2. Four aspects of resource management.
-
 
 ```
 ed on paper and made into a physical book.
@@ -834,7 +832,7 @@ mass-produced, and sold to consumers on the
 basis of a cash transaction.
 In contrast to the state and market, resourc-
 es in a commons are managed more directly
-by the people involved.^7 Creators of human
+by the people involved.[^7] Creators of human
 produced resources can put them in the com-
 mons by personal choice. No permission from
 state or market is required. Anyone can par-
@@ -857,34 +855,15 @@ mous and more personal.
 Fig. 3. How the market, commons, and state conceive of resources.
 ```
 ```
-PR
+PRIVATE ASSET
 ```
 ```
-IVA
-TE^ ASS
-ET
+COMMON RESOURCE
 ```
 ```
-C
-O
-M
-MO
+PUBLIC ASSET
 ```
-```
-N^ RESOU
-RC
-E
-```
-```
-PU
-```
-```
-BLIC
-ASS
-ET
-```
-[]
-
+#### []
 
 **Norms and rules**
 The social interactions between people, and
@@ -911,7 +890,7 @@ largely defined by the community. They weigh
 individual costs and benefits against the costs
 and benefits to the whole community. Consid-
 eration is given not just to economic efficiency
-but also to equity and sustainability.^9
+but also to equity and sustainability.[^9]
 
 **Goals**
 The combination of the aspects we’ve dis-
@@ -925,7 +904,7 @@ the utility of a resource. What we pay for the
 goods we consume is seen as an objective mea-
 sure of the utility they provide. The goal then
 becomes maximizing total monetary value in
-the economy.^10 Units consumed translates to
+the economy.[^10] Units consumed translates to
 sales, revenue, profit, and growth, and these
 are all ways to measure goals of the market.
 The state aims to use and manage resourc-
@@ -955,9 +934,8 @@ depends on their ability to strategically utilize
 and balance these different aspects of manag-
 ing resources.
 ```
-### A Short History of the Commons
-
 ```
+A Short History of the Commons
 Using the commons to manage resources is
 part of a long historical continuum. However,
 in contemporary society, the market and the
@@ -978,7 +956,7 @@ For centuries, indigenous people and pre-
 industrialized societies managed resources,
 including water, food, firewood, irrigation, fish,
 wild game, and many other things collective-
-ly as a commons.^11 There was no market, no
+ly as a commons.[^11] There was no market, no
 global economy. The state in the form of rul-
 ers influenced the commons but by no means
 controlled it. Direct social participation in a
@@ -987,14 +965,13 @@ sources were managed and needs met. (Fig. 4
 illustrates the commons in relation to the state
 and the market.)
 ```
-
 This is followed by a long history of the state
 (a monarchy or ruler) taking over the commons
 for their own purposes. This is called enclosure
-of the commons.^12 In olden days, “commoners”
+of the commons.[^12] In olden days, “commoners”
 were evicted from the land, fences and hedg-
 es erected, laws passed, and security set up to
-forbid access.^13 Gradually, resources became
+forbid access.[^13] Gradually, resources became
 the property of the state and the state be-
 came the primary means by which resources
 were managed. (See Fig. 5).
@@ -1018,13 +995,14 @@ education. Fig. 6 shows how today the market
 ```
 Fig. 4. In preindustrialized society.
 
-##### LONG AGO:
-
+```
+LONG AGO:
+```
 Fig. 5. The commons is gradually superseded by the state.
 
-##### STATE TAKEOVER OF THE COMMONS:
-
-
+```
+STATE TAKEOVER OF THE COMMONS:
+```
 is the primary means by which resources are
 managed.
 However, the world today is going through
@@ -1066,7 +1044,7 @@ age it. Ostrom’s approach to the governance of
 natural resources broke with convention; she
 recognized the importance of the commons as
 an alternative to the market or state for solving
-problems of collective action.^14
+problems of collective action.[^14]
 Hardin failed to consider the actual social
 dynamic of the commons. His model assumed
 that people in the commons act autonomous-
@@ -1084,15 +1062,15 @@ Hardin’s story is based on the premise of de-
 pletable resources. Economists have focused
 almost exclusively on scarcity-based markets.
 Very little is known about how abundance
-works.^15 The emergence of information tech-
+works.[^15] The emergence of information tech-
 nology and the Internet has led to an explosion
 in digital resources and new means of sharing
 ```
 Fig. 6. How the market, the state, and the commons look today.
 
-##### TODAY:
-
-
+```
+TODAY:
+```
 and distribution. Digital resources can never
 be depleted. An absence of a theory or mod-
 el for how abundance works, however, has led
@@ -1106,23 +1084,25 @@ state funded digital works should be that they
 are freely and openly available to the public
 that paid for them.
 
-### The Digital Revolution.
-
+**The Digital Revolution**
 In the early days of computing, programmers
 and developers learned from each other by
 sharing software. In the 1980s, the free-soft-
 ware movement codified this practice of shar-
 ing into a set of principles and freedoms:
 
-- The freedom to run a software program as
-    you wish, for any purpose.
-- The freedom to study how a software pro-
-    gram works (because access to the source
-    code has been freely given), and change it
-    so it does your computing as you wish.
-- The freedom to redistribute copies.
-- The freedom to distribute copies of your
-    modified versions to others.^16
+• The freedom to run a software program as
+you wish, for any purpose.
+
+• The freedom to study how a software pro-
+gram works (because access to the source
+code has been freely given), and change it
+so it does your computing as you wish.
+
+• The freedom to redistribute copies.
+
+• The freedom to distribute copies of your
+modified versions to others.[^16]
 
 These principles and freedoms constitute a set
 of norms and rules that typify a digital com-
@@ -1144,7 +1124,7 @@ a closed, proprietary technology. Free and
 open-source software also generated a net-
 work effect where the value of a product or
 service increases with the number of people
-using it.^17 The dramatic growth of the Internet
+using it.[^17] The dramatic growth of the Internet
 itself owes much to the fact that nobody has
 a proprietary lock on core Internet protocols.
 While open-source software functions as a
@@ -1156,7 +1136,7 @@ managed software code on principles of abun-
 dance rather than scarcity. Eric Raymond’s es-
 say “The Magic Cauldron” does a great job of
 analyzing the economics and business models
-associated with open-source software.^18 These
+associated with open-source software.[^18] These
 models can provide examples of sustainable
 approaches for those Made with Creative
 Commons.
@@ -1181,18 +1161,16 @@ tertaining content. Doing so grows and nour-
 ishes relationships, seeks to change opinions,
 encourages action, and informs others about
 who we are and what we care about. Sharing
-lets us feel more involved with the world.^19
+lets us feel more involved with the world.[^19]
 ```
-### The Birth of Creative Commons
-
 ```
+The Birth of Creative Commons
 In 2001, Creative Commons was created as a
 nonprofit to support all those who wanted to
 share digital content. A suite of Creative Com-
 mons licenses was modeled on those of open-
 source software but for use with digital con-
 ```
-
 tent rather than software code. The licenses
 give everyone from individual creators to large
 companies and institutions a simple, stan-
@@ -1201,10 +1179,10 @@ to their creative work.
 Creative Commons licenses have a three-lay-
 er design. The norms and rules of each license
 are first expressed in full legal language as
-used by lawyers. This layer is called the _legal
-code_. But since most creators and users are
-not lawyers, the licenses also have a _commons
-deed_ , expressing the permissions in plain lan-
+used by lawyers. This layer is called the _legal_
+_code_. But since most creators and users are
+not lawyers, the licenses also have a _commons_
+_deed_, expressing the permissions in plain lan-
 guage, which regular people can read and
 quickly understand. It acts as a user-friend-
 ly interface to the legal-code layer beneath.
@@ -1213,7 +1191,7 @@ making it easy for the Web to know a work
 is Creative Commons–licensed by expressing
 permissions in a way that software systems,
 search engines, and other kinds of technolo-
-gy can understand.^20 Taken together, these
+gy can understand.[^20] Taken together, these
 three layers ensure creators, users, and even
 the Web itself understand the norms and rules
 associated with digital content in a commons.
@@ -1232,7 +1210,7 @@ but so do museums, governments, creative
 industries, manufacturers, and publishers.
 Millions of websites use CC licenses, includ-
 ing major platforms like Wikipedia and Flickr
-and smaller ones like blogs.^21 Users of Creative
+and smaller ones like blogs.[^21] Users of Creative
 Commons are diverse and cut across many dif-
 ferent sectors. (Our case studies were chosen
 to reflect that diversity.)
@@ -1266,7 +1244,7 @@ Partnership was launched in 2011 to provide
 an international platform for governments to
 become more open, accountable, and respon-
 sive to citizens. Since then, it has grown from
-eight participating countries to seventy.^22 In all
+eight participating countries to seventy.[^22] In all
 these countries, government and civil society
 are working together to develop and imple-
 ment ambitious open-government reforms.
@@ -1275,9 +1253,8 @@ ative Commons to ensure works funded with
 taxpayer dollars are open and free to the pub-
 lic that paid for them.
 ```
-### The Changing Market
-
 ```
+The Changing Market
 Today’s market is largely driven by global cap-
 italism. Law and financial systems are struc-
 tured to support extraction, privatization, and
@@ -1285,7 +1262,7 @@ corporate growth. A perception that the mar-
 ket is more efficient than the state has led to
 continual privatization of many public natural
 resources, utilities, services, and infrastruc-
-tures.^23 While this system has been highly ef-
+tures.[^23] While this system has been highly ef-
 ficient at generating consumerism and the
 growth of gross domestic product, the impact
 on human well-being has been mixed. Offset-
@@ -1293,27 +1270,26 @@ ting rising living standards and improvements
 to health and education are ever-increasing
 wealth inequality, social inequality, poverty,
 ```
-
 deterioration of our natural environment, and
-breakdowns of democracy.^24
+breakdowns of democracy.[^24]
 In light of these challenges there is a grow-
 ing recognition that GDP growth should not be
 an end in itself, that development needs to be
 socially and economically inclusive, that envi-
 ronmental sustainability is a requirement not
 an option, and that we need to better balance
-the market, state and community.^25
+the market, state and community.[^25]
 These realizations have led to a resurgence
 of interest in the commons as a means of en-
 abling that balance. City governments like
 Bologna, Italy, are collaborating with their cit-
 izens to put in place regulations for the care
-and regeneration of urban commons.^26 Seoul
+and regeneration of urban commons.[^26] Seoul
 and Amsterdam call themselves “sharing cit-
 ies,” looking to make sustainable and more
 efficient use of scarce resources. They see
 sharing as a way to improve the use of public
-spaces, mobility, social cohesion, and safety.^27
+spaces, mobility, social cohesion, and safety.[^27]
 The market itself has taken an interest in
 the sharing economy, with businesses like
 Airbnb providing a peer-to-peer marketplace
@@ -1327,7 +1303,7 @@ sharing economy is not about the commons
 or building an alternative to a corporate-driv-
 en market economy; it’s about extending the
 deregulated free market into new areas of
-our lives.^28 While none of the people we inter-
+our lives.[^28] While none of the people we inter-
 viewed for our case studies would describe
 themselves as part of the sharing economy,
 there are in fact some significant parallels.
@@ -1352,7 +1328,7 @@ rapidly increasing, but rather than costs going
 up, costs are coming down. Digital technolo-
 gies are getting faster, better, and cheaper. The
 cost of anything built on these technologies
-will always go down until it is close to zero.^29
+will always go down until it is close to zero.[^29]
 Those that are Made with Creative Com-
 mons are looking to leverage the unique
 inherent characteristics of digital resourc-
@@ -1375,7 +1351,7 @@ making abundance possible. But imagining a
 market based on abundance rather than scar-
 city is so alien to the way we conceive of eco-
 nomic theory and practice that we struggle to
-do so.^30 Those that are Made with Creative
+do so.[^30] Those that are Made with Creative
 Commons are each pioneering in this new
 landscape, devising their own economic mod-
 els and practice.
@@ -1393,35 +1369,34 @@ nancially benefit stockholders. But new forms
 of business are emerging. There are benefit
 corporations and social enterprises, which
 ```
-
 broaden their business goals from making a
 profit to making a positive impact on society,
 workers, the community, and the environ-
-ment.^31 Community-owned businesses, work-
+ment.[^31] Community-owned businesses, work-
 er-owned businesses, cooperatives, guilds,
 and other organizational forms offer alterna-
 tives to the traditional corporation. Collective-
 ly, these alternative market entities are chang-
-ing the rules and norms of the market.^32
+ing the rules and norms of the market.[^32]
 “A book on open business models” is how
 we described it in this book’s Kickstarter cam-
-paign. We used a handbook called _Business
-Model Generation_ as our reference for defining
+paign. We used a handbook called _Business_
+_Model Generation_ as our reference for defining
 just what a business model is. Developed over
 nine years using an “open process” involving
 470 coauthors from forty-five countries, it is
 useful as a framework for talking about busi-
-ness models.^33
+ness models.[^33]
 It contains a “business model canvas,” which
 conceives of a business model as having nine
-building blocks.^34 This blank canvas can serve
+building blocks.[^34] This blank canvas can serve
 as a tool for anyone to design their own busi-
 ness model. We remixed this business model
 canvas into an _open_ business model canvas,
 adding three more building blocks relevant
-to hybrid market, commons enterprises: _so -
-cial good_ , _Creative Commons license_ , and _“type
-of open environment that the business fits in.”_^35
+to hybrid market, commons enterprises: _so-_
+_cial good_, _Creative Commons license_, and _“type_
+_of open environment that the business fits in.”_[^35]
 This enhanced canvas proved useful when
 we analyzed businesses and helped start-ups
 plan their economic model.
@@ -1436,8 +1411,8 @@ the market. The more central to the mission
 shared resources and commons values are,
 the less comfort there is in describing your-
 self, or depicting what you do, as a _business_.
-Not all who have endeavors **Made with Cre-
-ative Commons** use business speak; for some
+Not all who have endeavors **Made with Cre-**
+**ative Commons** use business speak; for some
 the process has been experimental, emergent,
 and organic rather than carefully planned us-
 ing a predefined model.
@@ -1453,16 +1428,15 @@ ing, value-add services, patrons . . . the list goes
 on and on. (Initial description of how to earn
 revenue available through reference note. For
 latest thinking see How to Bring In Money in
-the next section.)^36 There is no single magic
+the next section.)[^36] There is no single magic
 bullet, and each endeavor has devised ways
 that work for them. Most make use of more
 than one way. Diversifying revenue streams
 lowers risk and provides multiple paths to sus-
 tainability.
 ```
-### Benefits of the Digital Commons
-
 ```
+Benefits of the Digital Commons
 While it may be clear why commons-based or-
 ganizations want to interact and engage with
 the market (they need money to survive), it
@@ -1494,15 +1468,14 @@ commons provides access to everyone levels
 the playing field and promotes inclusiveness,
 equity, and fairness.
 ```
-
 _The commons maximizes participation._ Re-
 sources in the commons can be used and con-
 tributed to by everyone. Using the resources
 of others, contributing your own, and mixing
 yours with others to create new works are all
 dynamic forms of participation made possible
-by the commons. Being **Made with Creative
-Commons** means you’re engaging as many us-
+by the commons. Being **Made with Creative**
+**Commons** means you’re engaging as many us-
 ers with your resources as possible. Users are
 also authoring, editing, remixing, curating, lo-
 calizing, translating, and distributing. The com-
@@ -1521,7 +1494,7 @@ encourage users to take the resources being
 shared and innovate them. Doing so moves
 research and development (R&D) from being
 solely inside the organization to being in the
-community.^37 Community-based innovation
+community.[^37] Community-based innovation
 will keep an organization or business on its
 toes. It must continue to contribute new ideas,
 absorb and build on top of the innovations of
@@ -1532,8 +1505,8 @@ digital commons is global. Resources may be
 created for a local or regional need, but they go
 far and wide generating a global impact. In the
 digital world, there are no borders between
-countries. When you are **Made with Creative
-Commons** , you are often local and global at
+countries. When you are **Made with Creative**
+**Commons**, you are often local and global at
 the same time: Digital designs being globally
 distributed but made and manufactured lo-
 cally. Digital books or music being globally dis-
@@ -1586,9 +1559,8 @@ market, or state enterprises, choosing to man-
 age resources as a commons ought to be the
 option of choice.
 ```
-### Our Case Studies.
-
 ```
+Our Case Studies
 The creators, organizations, and business-
 es in our case studies operate as nonprofits,
 for-profits, and social enterprises. Regardless
@@ -1596,7 +1568,6 @@ of legal status, they all have a social mission.
 Their primary reason for being is to make the
 world a better place, not to profit. Money is a
 ```
-
 means to a social end, not the end itself. They
 factor public interest into decisions, behavior,
 and practices. Transparency and trust are re-
@@ -1676,82 +1647,82 @@ commons. The remaining sections go deeper
 providing further guidance and insights on
 how it works.
 ```
-
 **Notes**
-1 Jonathan Rowe, _Our Common Wealth_ (San
+[^1]: Jonathan Rowe, _Our Common Wealth_ (San
 Francisco: Berrett-Koehler, 2013), 14.
 
-2 David Bollier, _Think Like a Commoner: A
-Short Introduction to the Life of the Com-
-mons_ (Gabriola Island, BC: New Society,
+[^2]: David Bollier, _Think Like a Commoner: A_
+_Short Introduction to the Life of the Com-_
+_mons_ (Gabriola Island, BC: New Society,
 2014), 176.
 
-3 Ibid., 15.
+[^3]: Ibid., 15.
 
-4 Ibid., 145.
+[^4]: Ibid., 145.
 
-5 Ibid., 175.
+[^5]: Ibid., 175.
 
-6 Daniel H. Cole, “Learning from Lin: Les-
+[^6]: Daniel H. Cole, “Learning from Lin: Les-
 sons and Cautions from the Natural
 Commons for the Knowledge Commons,”
-in _Governing Knowledge Commons_ , eds.
+in _Governing Knowledge Commons_, eds.
 Brett M. Frischmann, Michael J. Madison,
 and Katherine J. Strandburg (New York:
 Oxford University Press, 2014), 53.
 
-7 Max Haiven, _Crises of Imagination, Crises
-of Power: Capitalism, Creativity and the
-Commons_ (New York: Zed Books, 2014),
+[^7]: Max Haiven, _Crises of Imagination, Crises_
+_of Power: Capitalism, Creativity and the_
+_Commons_ (New York: Zed Books, 2014),
+
 93.
 
-8 Cole, “Learning from Lin,” in Frischmann,
-Madison, and Strandburg, _Governing
-Knowledge Commons_ , 59.
+[^8]: Cole, “Learning from Lin,” in Frischmann,
+Madison, and Strandburg, _Governing_
+_Knowledge Commons_, 59.
 
-9 Bollier, _Think Like a Commoner_ , 175.
+[^9]: Bollier, _Think Like a Commoner_, 175.
 
-10 Joshua Farley and Ida Kubiszewski, “The
+[^10]: Joshua Farley and Ida Kubiszewski, “The
 Economics of Information in a Post-Car-
-bon Economy,” in _Free Knowledge: Con-
-fronting the Commodification of Human
-Discovery_ , eds. Patricia W. Elliott and Daryl
+bon Economy,” in _Free Knowledge: Con-_
+_fronting the Commodification of Human_
+_Discovery_, eds. Patricia W. Elliott and Daryl
 H. Hepting (Regina, SK: University of Regi-
 na Press, 2015), 201–4.
 
-11 Rowe, _Our Common Wealth_ , 19; and
-Heather Menzies, _Reclaiming the Com-
-mons for the Common Good: A Memoir
-and Manifesto_ (Gabriola Island, BC: New
+[^11]: Rowe, _Our Common Wealth_, 19; and
+Heather Menzies, _Reclaiming the Com-_
+_mons for the Common Good: A Memoir_
+_and Manifesto_ (Gabriola Island, BC: New
 Society, 2014), 42–43.
 
 ```
-12 Bollier, Think Like a Commoner , 55–78.
+12 Bollier, Think Like a Commoner, 55–78.
 ```
 ```
-13 Fritjof Capra and Ugo Mattei, The Ecolo -
+13 Fritjof Capra and Ugo Mattei, The Ecolo-
 gy of Law: Toward a Legal System in Tune
 with Nature and Community (Oakland, CA:
 Berrett-Koehler, 2015), 46–57; and Bollier,
-Think Like a Commoner , 88.
+Think Like a Commoner, 88.
 ```
 ```
 14 Brett M. Frischmann, Michael J. Madison,
 and Katherine J. Strandburg, “Governing
 Knowledge Commons,” in Frischmann,
 Madison, and Strandburg Governing
-Knowledge Commons , 12.
+Knowledge Commons, 12.
 ```
 ```
 15 Farley and Kubiszewski, “Economics of
 Information,” in Elliott and Hepting, Free
-Knowledge , 203.
+Knowledge, 203.
 ```
 ```
 16 “What Is Free Software?” GNU Operating
 System, the Free Software Foundation’s
 Licensing and Compliance Lab, accessed
-December 30, 2016, http://www.gnu.org
+December 30, 2016, www.gnu.org
 /philosophy/free-sw.
 ```
 ```
@@ -1762,15 +1733,15 @@ last modified November 22, 2016.
 18 Eric S. Raymond, “The Magic Cauldron,”
 in The Cathedral and the Bazaar: Musings
 on Linux and Open Source by an Accidental
-Revolutionary , rev. ed. (Sebastopol, CA:
-O’Reilly Media, 2001), http://www.catb.org/esr
+Revolutionary, rev. ed. (Sebastopol, CA:
+O’Reilly Media, 2001), www.catb.org/esr
 /writings/cathedral-bazaar/.
 ```
 ```
 19 New York Times Customer Insight Group,
 The Psychology of Sharing: Why Do People
 Share Online? (New York: New York Times
-Customer Insight Group, 2011), http://www.iab
+Customer Insight Group, 2011), www.iab
 .net/media/file/POSWhitePaper.pdf.
 ```
 ```
@@ -1784,55 +1755,55 @@ creativecommons.org/share-your-work
 (Mountain View, CA: Creative Commons,
 2015), stateof.creativecommons.org/2015/.
 ```
-
-22 Wikipedia, s.v. “Open Government Part-
+[^22]: Wikipedia, s.v. “Open Government Part-
 nership,” last modified September 24,
 2016, en.wikipedia.org/wiki
 /Open_Government_Partnership.
 
-23 Capra and Mattei, _Ecology of Law_ , 114.
+[^23]: Capra and Mattei, _Ecology of Law_, 114.
 
-24 Ibid., 116.
+[^24]: Ibid., 116.
 
-25 The Swedish International Development
+[^25]: The Swedish International Development
 Cooperation Agency, “Stockholm State-
 ment” accessed February 15, 2017, sida.
 se/globalassets/sida/eng/press
 /stockholm-statement.pdf
 
-26 City of Bologna, _Regulation on Collabora -
-tion between Citizens and the City for the
-Care and Regeneration of Urban Commons_ ,
+[^26]: City of Bologna, _Regulation on Collabora-_
+_tion between Citizens and the City for the_
+_Care and Regeneration of Urban Commons_,
 trans. LabGov (LABoratory for the GOVer-
 nance of Commons) (Bologna, Italy: City
-of Bologna, 2014), [http://www.labgov.it](http://www.labgov.it)
+of Bologna, 2014), www.labgov.it
 /wp-content/uploads/sites/9
 /Bologna-Regulation-on-collaboration
 -between-citizens-and-the-city-for
 -the-cure-and-regeneration-of
 -urban-commons1.pdf.
 
-27 The Seoul Sharing City website is english.
+[^27]: The Seoul Sharing City website is english.
 sharehub.kr; for Amsterdam Sharing City,
-go to [http://www.sharenl.nl/amsterdam](http://www.sharenl.nl/amsterdam)
+go to www.sharenl.nl/amsterdam
 -sharing-city/.
 
-28 Tom Slee, _What’s Yours Is Mine: Against the
-Sharing Economy_ (New York: OR Books,
+[^28]: Tom Slee, _What’s Yours Is Mine: Against the_
+_Sharing Economy_ (New York: OR Books,
 2015), 42.
 
-39 Chris Anderson, _Free: How Today’s Smart -
-est Businesses Profit by Giving Something
-for Nothing_ , Reprint with new preface.
+[^39]: Chris Anderson, _Free: How Today’s Smart-_
+_est Businesses Profit by Giving Something_
+_for Nothing_, Reprint with new preface.
 (New York: Hyperion, 2010), 78.
 
-30 Jeremy Rifkin, _The Zero Marginal Cost Soci -
-ety: The Internet of Things, the Collaborative
-Commons, and the Eclipse of Capitalism_
+[^30]: Jeremy Rifkin, _The Zero Marginal Cost Soci-_
+_ety: The Internet of Things, the Collaborative_
+_Commons, and the Eclipse of Capitalism_
 (New York: Palgrave Macmillan, 2014),
+
 273.
 
-31 Gar Alperovitz, _What Then Must We Do?_
+[^31]: Gar Alperovitz, _What Then Must We Do?_
 
 ```
 Straight Talk about the Next American Rev-
@@ -1848,7 +1819,7 @@ to a Generative Economy (San Francisco:
 Berrett-Koehler, 2012), 8–9.
 ```
 ```
-33 Alex Osterwalder and Yves Pigneur, Busi -
+33 Alex Osterwalder and Yves Pigneur, Busi-
 ness Model Generation (Hoboken, NJ: John
 Wiley and Sons, 2010). A preview of the
 book is available at strategyzer.com
@@ -1888,19 +1859,17 @@ New Imperative for Creating and Profiting
 from Technology (Boston: Harvard Busi-
 ness Review Press, 2006), 31–44.
 ```
+### 2
 
+##### HOW
 
-## 2
+##### TO BE
 
-### HOW
+##### MADE WITH
 
-### TO BE
+##### CRE ATI V E
 
-### MADE WITH
-
-### CRE ATI V E
-
-### COMMONS
+##### COMMONS
 
 **SARAH HINCHLIFF PEARSON**
 
@@ -1939,7 +1908,6 @@ into the motivations, the role of CC licenses,
 modes of revenue generation, definitions of
 success.
 ```
-
 In fairly short order, we realized the book
 we set out to write was quite different from
 the one that was revealing itself in our inter-
@@ -1952,22 +1920,22 @@ that there are business models out there that
 others who want to use CC licensing as part
 of their livelihood or business could replicate.
 What we didn’t realize was just how misguided
-it would be to write a book about being **Made
-with Creative Commons** using only a busi-
+it would be to write a book about being **Made**
+**with Creative Commons** using only a busi-
 ness lens.
-According to the seminal handbook _Business
-Model Generation_ , a business model “describes
+According to the seminal handbook _Business_
+_Model Generation_, a business model “describes
 the rationale of how an organization creates,
-delivers, and captures value.”^1 Thinking about
+delivers, and captures value.”[^1] Thinking about
 sharing in terms of creating and capturing
 value always felt inappropriately transaction-
 al and out of place, something we heard time
 and time again in our interviews. And as Cory
 Doctorow told us in our interview with him,
-“ _Business model_ can mean anything you want
+“_Business model_ can mean anything you want
 it to mean.”
-Eventually, we got it. Being **Made with Cre-
-ative Commons** is more than a business mod-
+Eventually, we got it. Being **Made with Cre-**
+**ative Commons** is more than a business mod-
 el. While we will talk about specific revenue
 models as one piece of our analysis (and in
 more detail in the case studies), we scrapped
@@ -2012,7 +1980,7 @@ Commons expresses an affinity for the value
 of Creative Commons. While there are many
 different flavors of CC licenses and nearly in-
 finite ways to be Made with Creative Com-
-mons , the basic value system is rooted in a
+mons, the basic value system is rooted in a
 fundamental belief that knowledge and cre-
 ativity are building blocks of our culture rather
 than just commodities from which to extract
@@ -2036,7 +2004,6 @@ protectionism. But using a CC license can be a
 symbol of the opposite—of wanting a real hu-
 man relationship, rather than an impersonal
 ```
-
 market transaction. It leaves open the possi-
 bility of connection.
 Being **Made with Creative Commons** not
@@ -2052,7 +2019,7 @@ the type of endeavor. For individual creators,
 it is most often about personal inspiration. In
 some ways, this is nothing new. As Doctorow
 has written, “Creators usually start doing what
-they do for love.”^2 But when you share your
+they do for love.”[^2] But when you share your
 creative work under a CC license, that dynamic
 is even more pronounced. Similarly, for tech-
 nological innovators, it is often less about cre-
@@ -2062,8 +2029,8 @@ you have. The creators of Arduino told us that
 the key question when creating something is
 “Do you as the creator want to use it? It has to
 have personal use and meaning.”
-Many that are **Made with Creative Com-
-mons** have an express social mission that
+Many that are **Made with Creative Com-**
+**mons** have an express social mission that
 underpins everything they do. In many cas-
 es, sharing with Creative Commons expressly
 advances that social mission, and using the
@@ -2080,8 +2047,8 @@ there are so many nonprofit examples of being
 is the result of a labor of love or a tool to drive
 social change, and money is like gas in the car,
 something that you need to keep going but
-not an end in itself. Being **Made with Creative
-Commons** is a different vision of a business or
+not an end in itself. Being **Made with Creative**
+**Commons** is a different vision of a business or
 livelihood, where profit is not paramount, and
 producing social good and human connection
 are integral to success.
@@ -2099,7 +2066,7 @@ there used to be for any creative endeavor.
 Digital technology has made it easier than ever
 to create, and easier than ever to distribute. As
 Doctorow put it in his book Information Doesn’t
-Want to Be Free , “If analog dollars have turned
+Want to Be Free, “If analog dollars have turned
 into digital dimes (as the critics of ad-support-
 ed media have it), there is the fact that it’s
 possible to run a business that gets the same
@@ -2111,7 +2078,7 @@ and money to write a peer-reviewed journal
 article or paint a painting. Technology can’t
 change that. But other costs are dramati-
 cally reduced by technology, particularly in
-production-heavy domains like filmmaking.^3
+production-heavy domains like filmmaking.[^3]
 CC-licensed content and content in the public
 domain, as well as the work of volunteer col-
 laborators, can also dramatically reduce costs
@@ -2123,7 +2090,7 @@ a labor of love.
 Distributing content is almost universally
 cheaper than ever. Once content is created,
 the costs to distribute copies digitally are es-
-sentially zero.^4 The costs to distribute physi-
+sentially zero.[^4] The costs to distribute physi-
 cal copies are still significant, but lower than
 they have been historically. And it is now much
 easier to print and distribute physical copies
@@ -2134,7 +2101,6 @@ and promotion, and even expenses associated
 with the various ways money is being made,
 like touring or custom training.
 ```
-
 It’s important to recognize that the biggest
 impact of technology on creative endeavors
 is that creators can now foot the costs of cre-
@@ -2148,7 +2114,7 @@ powers, this is your time. Where once you had
 no means of reaching an audience without the
 assistance of the industry-dominating mega-
 companies, now you have _hundreds_ of ways to
-do it without them.”^5 Previously, distribution
+do it without them.”[^5] Previously, distribution
 of creative work involved the costs associated
 with sustaining a monolithic entity, now cre-
 ators can do the work themselves. That means
@@ -2160,13 +2126,13 @@ even if you want to make what you’re doing a
 livelihood. You need to build in some support
 for the general operation. This extra bit looks
 different for everyone, but importantly, in
-nearly all cases for those **Made with Creative
-Commons** , the definition of “enough money”
+nearly all cases for those **Made with Creative**
+**Commons**, the definition of “enough money”
 looks a lot different than it does in the world
 of venture capital and stock options. It is more
 about sustainability and less about unlimited
 growth and profit. SparkFun founder Nathan
-Seidle told us, “ _Business model_ is a really gran-
+Seidle told us, “_Business model_ is a really gran-
 diose word for it. It is really just about keeping
 the operation going day to day.”
 
@@ -2185,15 +2151,14 @@ CC licensing can be good for business in fairly
 predictable ways. The first is how it helps solve
 “problem zero.”
 ```
-### Problem Zero: Getting Discovered.
-
 ```
+Problem Zero: Getting Discovered
 Once you create or collect your content, the
 next step is finding users, customers, fans—in
 other words, your people. As Amanda Palmer
 wrote, “It has to start with the art. The songs
 had to touch people initially, and mean some-
-thing, for anything to work at all.”^6 There isn’t
+thing, for anything to work at all.”[^6] There isn’t
 any magic to finding your people, and there is
 certainly no formula. Your work has to connect
 with people and offer them some artistic and/
@@ -2208,7 +2173,7 @@ every particular niche. As Anderson wrote,
 “We are all different, with different wants and
 needs, and the Internet now has a place for all
 of them in the way that physical markets did
-not.”^7 We are no longer limited to what appeals
+not.”[^7] We are no longer limited to what appeals
 to the masses.
 While finding “your people” online is theo-
 retically easier than in the analog world, as a
@@ -2219,13 +2184,13 @@ minute. As a content creator, not only are you
 competing for attention against more content
 creators than ever before, you are competing
 against creativity generated outside the mar-
-ket as well.^8 Anderson wrote, “The greatest
+ket as well.[^8] Anderson wrote, “The greatest
 change of the past decade has been the shift
 in time people spend consuming amateur con-
-tent instead of professional content.”^9 To top
+tent instead of professional content.”[^9] To top
 it all off, you have to compete against the rest
 of their lives, too—“friends, family, music play-
-lists, soccer games, and nights on the town.”^10
+lists, soccer games, and nights on the town.”[^10]
 Somehow, some way, you have to get noticed
 by the right people.
 When you come to the Internet armed
@@ -2233,14 +2198,13 @@ with an all-rights-reserved mentality from the
 start, you are often restricting access to your
 work before there is even any demand for it. In
 ```
-
 many cases, requiring payment for your work
 is part of the traditional copyright system.
 Even a tiny cost has a big effect on demand.
-It’s called the _penny gap_ —the large difference
+It’s called the _penny gap_—the large difference
 in demand between something that is avail-
 able at the price of one cent versus the price of
-zero.^11 That doesn’t mean it is wrong to charge
+zero.[^11] That doesn’t mean it is wrong to charge
 money for your content. It simply means you
 need to recognize the effect that doing so will
 have on demand. The same principle applies
@@ -2253,7 +2217,7 @@ Of course, it’s not that being discovered by
 people who like your work will make you rich—
 far from it. But as Cory Doctorow says, “Recog-
 nition is one of many necessary preconditions
-for artistic success.”^12
+for artistic success.”[^12]
 Choosing not to spend time and energy re-
 stricting access to your work and policing in-
 fringement also builds goodwill. Lumen Learn-
@@ -2273,7 +2237,7 @@ your creative work. If people like your work,
 their natural instinct will be to share it with
 others. But as David Bollier wrote, “Our natu-
 ral human impulses to imitate and share—the
-essence of culture—have been criminalized.”^13
+essence of culture—have been criminalized.”[^13]
 The fact that copying can carry criminal
 penalties undoubtedly deters copying it, but
 copying with the click of a button is too easy
@@ -2310,7 +2274,7 @@ Being Made with Creative Commons
 means you stop thinking about ways to arti-
 ficially make your content scarce, and instead
 leverage it as the potentially abundant re-
-source it is.^14 When you see information abun-
+source it is.[^14] When you see information abun-
 dance as a feature, not a bug, you start think-
 ing about the ways to use the idling capacity of
 your content to your advantage. As my friend
@@ -2319,7 +2283,7 @@ licenses shows you get the Internet.”
 Cory Doctorow says it costs him nothing
 when other people make copies of his work,
 and it opens the possibility that he might get
-something in return.^15 Similarly, the makers of
+something in return.[^15] Similarly, the makers of
 the Arduino boards knew it was impossible to
 stop people from copying their hardware, so
 they decided not to even try and instead look
@@ -2333,7 +2297,6 @@ There are all kinds of way to leverage the
 power of sharing and remix to your benefit.
 Here are a few.
 ```
-
 **Use CC to grow a larger audience**
 Putting a Creative Commons license on your
 content won’t make it automatically go viral,
@@ -2357,14 +2320,14 @@ ing effect, which they track, is a central part of
 the value to their academic authors who want
 to reach as many readers as possible.
 The idea that more eyeballs equates with
-more success is a form of the _max strategy_ ,
+more success is a form of the _max strategy_,
 adopted by Google and other technology com-
 panies. According to Google’s Eric Schmidt, the
 idea is simple: “Take whatever it is you are do-
 ing and do it at the max in terms of distribu-
 tion. The other way of saying this is that since
 marginal cost of distribution is free, you might
-as well put things everywhere.”^16 This strate-
+as well put things everywhere.”[^16] This strate-
 gy is what often motivates companies to make
 their products and services free (i.e., no cost),
 but the same logic applies to making content
@@ -2377,11 +2340,11 @@ users, readers, listeners, or other consumers
 of your work, you can start to benefit from the
 bandwagon effect. The simple fact that there
 are other people consuming or following your
-work spurs others to want to do the same.^17
+work spurs others to want to do the same.[^17]
 This is, in part, because we simply have a ten-
 dency to engage in herd behavior, but it is also
 because a large following is at least a partial
-indicator of quality or usefulness.^18
+indicator of quality or usefulness.[^18]
 
 ```
 Use CC to get attribution and name
@@ -2400,7 +2363,7 @@ ple to provide attribution and otherwise com-
 ply with the CC license terms anyway. This is
 the mark of any well-functioning community,
 within both the marketplace and the society at
-large.^19 CC licenses reflect a set of wishes on
+large.[^19] CC licenses reflect a set of wishes on
 the part of creators, and in the vast majority
 of circumstances, people are naturally inclined
 to follow those wishes. This is particularly the
@@ -2433,7 +2396,6 @@ niture designers to share their designs. Con-
 sumers who like those designs can then get
 matched with local makers who turn the de-
 ```
-
 signs into real-life furniture. The fact that I, sit-
 ting in the middle of the United States, can pick
 out a design created by a designer in Tokyo
@@ -2452,11 +2414,11 @@ when online discourse is plagued with misin-
 formation, being a trusted information source
 is more valuable than ever.
 
-**Use CC-licensed content as a marketing
-tool**
+**Use CC-licensed content as a marketing**
+**tool**
 As we will cover in more detail later, many en-
-deavors that are **Made with Creative Com-
-mons** make money by providing a product
+deavors that are **Made with Creative Com-**
+**mons** make money by providing a product
 or service _other_ than the CC-licensed work.
 Sometimes that other product or service is
 completely unrelated to the CC content. Other
@@ -2480,7 +2442,7 @@ it. Another example came with the advent of
 the radio. Although the music industry did not
 see it coming (and fought it!), free music on the
 radio functioned as advertising for the paid
-version people bought in music stores.^20 Free
+version people bought in music stores.[^20] Free
 can be a form of promotion.
 
 ```
@@ -2521,7 +2483,7 @@ updating, localizing, improving, transforming.
 It enables a work to be customized for partic-
 ular needs, uses, people, and communities,
 which is another distinct value to offer the
-public.^21 Adaptation is more game changing in
+public.[^21] Adaptation is more game changing in
 some contexts than others. With educational
 materials, the ability to customize and update
 the content is critically important for its use-
@@ -2530,30 +2492,29 @@ photo is less important.
 This is a way to counteract a potential
 downside of the abundance of free and open
 content described above. As Anderson wrote
-in Free , “People often don’t care as much about
+in Free, “People often don’t care as much about
 things they don’t pay for, and as a result they
 don’t think as much about how they consume
 ```
-
-them.”^22 If even the tiny act of volition of pay-
+them.”[^22] If even the tiny act of volition of pay-
 ing one penny for something changes our
 perception of that thing, then surely the act
 of remixing it enhances our perception expo-
-nentially.^23 We know that people will pay more
-for products they had a part in creating.^24 And
+nentially.[^23] We know that people will pay more
+for products they had a part in creating.[^24] And
 we know that creating something, no matter
 what quality, brings with it a type of creative
 satisfaction that can never be replaced by con-
-suming something created by someone else.^25
+suming something created by someone else.[^25]
 Actively engaging with the content helps us
 avoid the type of aimless consumption that
 anyone who has absentmindedly scrolled
 through their social-media feeds for an hour
-knows all too well. In his book, _Cognitive Sur-
-plus_ , Clay Shirky says, “To participate is to act
+knows all too well. In his book, _Cognitive Sur-_
+_plus_, Clay Shirky says, “To participate is to act
 as if your presence matters, as if, when you see
 something or hear something, your response
-is part of the event.”^26 Opening the door to
+is part of the event.”[^26] Opening the door to
 your content can get people more deeply tied
 to your work.
 
@@ -2565,7 +2526,7 @@ strategies that are embedded in the tradition-
 al copyright system, like using digital rights
 management (DRM) and signing exclusivity
 contracts, can tie the hands of creators, often
-at the expense of the creator’s best interest.^27
+at the expense of the creator’s best interest.[^27]
 Being **Made with Creative Commons** means
 you can function without those barriers and,
 in many cases, use the increased openness as
@@ -2576,8 +2537,7 @@ not. “Don’t go into a market and play by the in-
 cumbent rules,” David said. “Change the rules
 of engagement.”
 
-### Making Money
-
+**Making Money**
 Like any moneymaking endeavor, those that
 are **Made with Creative Commons** have to
 generate some type of value for their audi-
@@ -2590,7 +2550,7 @@ philanthropic institutions, governments, or
 concerned individuals, provide money to the
 organization out of a sense of pure altruism.
 This is the way traditional nonprofit funding
-operates.^28 But in many cases, the revenue
+operates.[^28] But in many cases, the revenue
 streams used by endeavors that are Made
 with Creative Commons are directly tied to
 the value they generate, where the recipient
@@ -2610,7 +2570,7 @@ ing a different revenue stream (or streams) for
 ongoing expenses. As Shirky wrote, “The trick
 is in knowing when markets are an optimal
 way of organizing interactions and when they
-are not.”^29
+are not.”[^29]
 Our case studies explore in more detail the
 various revenue-generating mechanisms used
 by the creators, organizations, and businesses
@@ -2625,18 +2585,17 @@ abstraction can be instructive.
 Market-based revenue streams
 In the market, the central question when de-
 termining how to bring in revenue is what val-
-ue people are willing to pay for.^30 By definition,
-if you are Made with Creative Commons , the
+ue people are willing to pay for.[^30] By definition,
+if you are Made with Creative Commons, the
 content you provide is available for free and
 not a market commodity. Like the ubiquitous
 freemium business model, any possible mar-
 ket transaction with a consumer of your con-
 tent has to be based on some added value you
-provide.^31
+provide.[^31]
 In many ways, this is the way of the future
 for all content-driven endeavors. In the market,
 ```
-
 value lives in things that are scarce. Because
 the Internet makes a universe of content avail-
 able to all of us for free, it is difficult to get peo-
@@ -2646,11 +2605,11 @@ This is compounded by the fact that at least
 some amount of copying is probably inevita-
 ble. That means you may end up competing
 with free versions of your own content, wheth-
-er you condone it or not.^32 If people can easi-
+er you condone it or not.[^32] If people can easi-
 ly find your content for free, getting people to
 buy it will be difficult, particularly in a context
 where access to content is more important
-than owning it. In _Free_ , Anderson wrote, “Copy-
+than owning it. In _Free_, Anderson wrote, “Copy-
 right protection schemes, whether coded into
 either law or software, are simply holding up a
 price against the force of gravity.”
@@ -2666,7 +2625,7 @@ some way _other_ than the content to provide
 value to your audience or customers. As An-
 derson says, “It’s easy to compete with Free:
 simply offer something better or at least dif-
-ferent from the free version.”^33
+ferent from the free version.”[^33]
 In light of this reality, in some ways endeav-
 ors that are **Made with Creative Commons**
 are at a level playing field with all content-based
@@ -2701,7 +2660,7 @@ ticularly valuable. As Anderson wrote,
 gets the same version) wants to be free.
 Customized information (you get some-
 thing unique and meaningful to you)
-wants to be expensive.”^34 This can be
+wants to be expensive.”[^34] This can be
 anything from the artistic and cultural
 consulting services provided by Ártica to
 the custom-song business of Jonathan
@@ -2713,7 +2672,7 @@ In his book about maker culture, An-
 derson characterizes this model as giv-
 ing away the bits and selling the atoms
 (where bits refers to digital content and
-atoms refer to a physical object).^35 This is
+atoms refer to a physical object).[^35] This is
 particularly successful in domains where
 the digital version of the content isn’t as
 valuable as the analog version, like book
@@ -2741,7 +2700,6 @@ MARKET-BASED
 ```
 MARKET-BASED
 ```
-
 ```
 where every printed copy of the same
 work is likely to be the same quality, so it
@@ -2789,7 +2747,7 @@ content is free increases the size of the audi-
 ence, which in turn makes the offer more valu-
 able to the paying customers. This is a varia-
 tion of a traditional business model built on
-free called _multi-sided platforms_.^36 Access to
+free called _multi-sided platforms_.[^36] Access to
 your audience isn’t the only thing people are
 
 ```
@@ -2803,11 +2761,11 @@ content is advertising. In this version of
 multi-sided platforms, advertisers pay
 for the opportunity to reach the set of
 eyeballs the content creators provide in
-the form of their audience.^37 The Internet
+the form of their audience.[^37] The Internet
 has made this model more difficult be-
 cause the number of potential channels
 available to reach those eyeballs has be-
-come essentially infinite.^38 Nonetheless,
+come essentially infinite.[^38] Nonetheless,
 it remains a viable revenue stream for
 many content creators, including those
 who are Made with Creative Commons.
@@ -2838,7 +2796,7 @@ the content on the Conversation website.
 Charging a transaction fee
 This is a version of a traditional business
 model based on brokering transactions
-between parties.^39 Curation is an import-
+between parties.[^39] Curation is an import-
 ant element of this model. Platforms like
 the Noun Project add value by wading
 through CC-licensed content to curate
@@ -2860,7 +2818,6 @@ MARKET-BASED
 ```
 MARKET-BASED
 ```
-
 ```
 transactions with customers. Other plat-
 forms make money when service pro-
@@ -2922,7 +2879,7 @@ charity. The endeavor exchange value with
 people, just not necessarily synchronous-
 ly or in a way that requires that those values
 be equal. As David Bollier wrote in Think Like
-a Commoner , “There is no self-serving calcula-
+a Commoner, “There is no self-serving calcula-
 tion of whether the value given and received is
 strictly equal.”
 This should be a familiar dynamic—it is the
@@ -2935,9 +2892,9 @@ tion that helps the human species survive and
 evolve.”
 What is rare is to incorporate this sort of rela-
 tionship into an endeavor that also engages with
-the market.^40 We almost can’t help but think of
+the market.[^40] We almost can’t help but think of
 relationships in the market as being centered on
-an even-steven exchange of value.^41
+an even-steven exchange of value.[^41]
 ```
 ```
 Memberships and individual
@@ -2974,7 +2931,6 @@ RECIPROCITY
 ```
 -BASED
 ```
-
 ```
 The pay-what-you-want model
 In the pay-what-you-want model, the
@@ -3010,7 +2966,7 @@ credits the success of her crowdfunding
 on Kickstarter and Patreon to the years
 she spent building her community and
 creating a connection with her fans. She
-wrote in The Art of Asking , “Good art is
+wrote in The Art of Asking, “Good art is
 made, good art is shared, help is offered,
 ears are bent, emotions are exchanged,
 the compost of real, deep connection is
@@ -3033,9 +2989,8 @@ out of a sense of commitment to the li-
 brary community and to the idea of open
 access generally.
 ```
-### Making Human Connections
-
 ```
+Making Human Connections
 Regardless of how they made money, in our
 interviews, we repeatedly heard language like
 “persuading people to buy” and “inviting peo-
@@ -3086,7 +3041,6 @@ people spoke of so much more than copyright
 
 **-BASED**
 
-
 permissions when they explained how sharing
 fit into what they do. I was thinking about shar-
 ing too narrowly, and as a result, I was missing
@@ -3094,8 +3048,8 @@ vast swaths of the meaning packed within Cre-
 ative Commons. Rather than parsing the spe-
 cific and narrow role of the copyright license in
 the equation, it is important not to disaggre-
-gate the rest of what comes with sharing. _You
-have to widen the lens._
+gate the rest of what comes with sharing. _You_
+_have to widen the lens._
 Being **Made with Creative Commons** is
 not just about the simple act of licensing a
 copyrighted work under a set of standardized
@@ -3122,7 +3076,7 @@ looks like.
 
 **Be human**
 Humans are social animals, which means we
-are naturally inclined to treat each other well.^42
+are naturally inclined to treat each other well.[^42]
 But the further removed we are from the per-
 son with whom we are interacting, the less car-
 ing our behavior will be. While the Internet has
@@ -3140,7 +3094,7 @@ strate their humanity. For some, this means
 pouring their lives out on the page. For oth-
 ers, it means showing their creative process,
 giving a glimpse into how they do what they
-do. As writer Austin Kleon wrote, “ Our work
+do. As writer Austin Kleon wrote, “Our work
 doesn’t speak for itself. Human beings want to
 know where things came from, how they were
 made, and who made them. The stories you
@@ -3148,7 +3102,7 @@ tell about the work you do have a huge effect
 on how people feel and what they understand
 about your work, and how people feel and
 what they understand about your work affects
-how they value it.”^43
+how they value it.”[^43]
 A critical component to doing this effec-
 tively is not worrying about being a “brand.”
 That means not being afraid to be vulnerable.
@@ -3172,7 +3126,7 @@ parent, it reminds people that they are dealing
 with something other than an anonymous cor-
 porate entity. In business-speak, this is about
 “humanizing your interactions” with the pub-
-lic.^44 But it can’t be a gimmick. You can’t fake
+lic.[^44] But it can’t be a gimmick. You can’t fake
 being human.
 ```
 ```
@@ -3185,42 +3139,40 @@ ing things you can do in capitalism is just be
 honest with people.” That means sharing the
 good and the bad. As Amanda Palmer wrote,
 “You can fix almost anything by authentically
-communicating.”^45 It isn’t about trying to satis-
-```
-
+communicating.”[^45] It isn’t about trying to satis-
 ```
 fy everyone or trying to sugarcoat mistakes or
 bad news, but instead about explaining your
 rationale and then being prepared to defend it
-when people are critical.^46
+when people are critical.[^46]
 Being accountable does not mean operating
 on consensus. According to James Surowiec-
 ki, consensus-driven groups tend to resort to
 lowest-common-denominator solutions and
 avoid the sort of candid exchange of ideas that
-cultivates healthy collaboration.^47 Instead, it
+cultivates healthy collaboration.[^47] Instead, it
 can be as simple as asking for input and then
 giving context and explanation about deci-
 sions you make, even if soliciting feedback and
 inviting discourse is time-consuming. If you
 don’t go through the effort to actually respond
 to the input you receive, it can be worse than
-not inviting input in the first place.^48 But when
+not inviting input in the first place.[^48] But when
 you get it right, it can guarantee the type of di-
 versity of thought that helps endeavors excel.
 And it is another way to get people involved
 and invested in what you do.
-```
+
 **Design for the good actors**
 Traditional economics assumes people make
 decisions based solely on their own econom-
-ic self-interest.^49 Any relatively introspective
+ic self-interest.[^49] Any relatively introspective
 human knows this is a fiction—we are much
 more complicated beings with a whole range
 of needs, emotions, and motivations. In fact,
 we are hardwired to work together and ensure
-fairness.^50 Being **Made with Creative Com-
-mons** requires an assumption that people will
+fairness.[^50] Being **Made with Creative Com-**
+**mons** requires an assumption that people will
 largely act on those social motivations, motiva-
 tions that would be considered “irrational” in
 an economic sense. As Knowledge Unlatched’s
@@ -3229,18 +3181,18 @@ try to scare you about free riding. That fear
 is based on a very shallow view of what mo-
 tivates human behavior.” There will always be
 people who will act in purely selfish ways, but
-endeavors that are **Made with Creative Com-
-mons** design for the good actors.
+endeavors that are **Made with Creative Com-**
+**mons** design for the good actors.
 The assumption that people will largely do
 the right thing can be a self-fulfilling prophe-
-cy. Shirky wrote in _Cognitive Surplus_ , “Systems
+cy. Shirky wrote in _Cognitive Surplus_, “Systems
 that assume people will act in ways that create
 public goods, and that give them opportunities
 and rewards for doing so, often let them work
 
 ```
 together better than neoclassical economics
-would predict.”^51 When we acknowledge that
+would predict.”[^51] When we acknowledge that
 people are often motivated by something oth-
 er than financial self-interest, we design our
 endeavors in ways that encourage and accen-
@@ -3250,21 +3202,21 @@ people’s behavior, this mode of operating re-
 quires a certain level of trust. We might not
 realize it, but our daily lives are already built
 on trust. As Surowiecki wrote in The Wisdom of
-Crowds , “It’s impossible for a society to rely on
+Crowds, “It’s impossible for a society to rely on
 law alone to make sure citizens act honestly
 and responsibly. And it’s impossible for any or-
 ganization to rely on contracts alone to make
 sure that its managers and workers live up to
 their obligation.” Instead, we largely trust that
 people—mostly strangers—will do what they
-are supposed to do.^52 And most often, they do.
+are supposed to do.[^52] And most often, they do.
 ```
 ```
 Treat humans like, well, humans
 For creators, treating people as humans
 means not treating them like fans. As Kleon
 says, “If you want fans, you have to be a fan
-first.”^53 Even if you happen to be one of the few
+first.”[^53] Even if you happen to be one of the few
 to reach celebrity levels of fame, you are bet-
 ter off remembering that the people who fol-
 low your work are human, too. Cory Doctorow
@@ -3272,7 +3224,7 @@ makes a point to answer every single email
 someone sends him. Amanda Palmer spends
 vast quantities of time going online to commu-
 nicate with her public, making a point to listen
-just as much as she talks.^54
+just as much as she talks.[^54]
 The same idea goes for businesses and or-
 ganizations. Rather than automating its cus-
 tomer service, the music platform Tribe of
@@ -3284,19 +3236,18 @@ ically return the gift in kind. It’s called karma.
 But social relationships are fragile. It is all too
 easy to destroy them if you make the mistake
 of treating people as anonymous customers
-or free labor.^55 Platforms that rely on content
+or free labor.[^55] Platforms that rely on content
 from contributors are especially at risk of cre-
 ating an exploitative dynamic. It is important
 to find ways to acknowledge and pay back the
 ```
-
 value that contributors generate. That does not
 mean you can solve this problem by simply pay-
 ing contributors for their time or contributions.
 As soon as we introduce money into a relation-
 ship—at least when it takes a form of paying
 monetary value in exchange for other value—
-it can dramatically change the dynamic.^56
+it can dramatically change the dynamic.[^56]
 
 **State your principles and stick to them**
 Being **Made with Creative Commons** makes
@@ -3306,8 +3257,8 @@ Commons licenses demonstrates adherence
 to a particular belief system, which generates
 goodwill and connects like-minded people to
 your work. Sometimes people will be drawn to
-endeavors that are **Made with Creative Com-
-mons** as a way of demonstrating their own
+endeavors that are **Made with Creative Com-**
+**mons** as a way of demonstrating their own
 commitment to the Creative Commons value
 system, akin to a political statement. Other
 times people will identify and feel connected
@@ -3329,20 +3280,20 @@ When your end goal is not about making a
 profit, people trust that you aren’t just trying
 to extract value for your own gain. People no-
 tice when you have a sense of purpose that
-transcends your own self-interest.^57 It attracts
+transcends your own self-interest.[^57] It attracts
 committed employees, motivates contribu-
 tors, and builds trust.
 
 **Build a community**
-Endeavors that are **Made with Creative Com-
-mons** thrive when community is built around
+Endeavors that are **Made with Creative Com-**
+**mons** thrive when community is built around
 what they do. This may mean a community col-
 laborating together to create something new,
 
 ```
 or it may simply be a collection of like-minded
 people who get to know each other and ral-
-ly around common interests or beliefs.^58 To a
+ly around common interests or beliefs.[^58] To a
 certain extent, simply being Made with Cre-
 ative Commons automatically brings with it
 some element of community, by helping con-
@@ -3353,18 +3304,18 @@ To be sustainable, though, you have to work
 to nurture community. People have to care—
 about you and each other. One critical piece to
 this is fostering a sense of belonging. As Jono
-Bacon writes in The Art of Community , “If there
+Bacon writes in The Art of Community, “If there
 is no belonging, there is no community.” For
 Amanda Palmer and her band, that meant cre-
 ating an accepting and inclusive environment
 where people felt a part of their “weird little
-family.”^59 For organizations like Red Hat, that
+family.”[^59] For organizations like Red Hat, that
 means connecting around common beliefs
 or goals. As the CEO Jim Whitehurst wrote in
-The Open Organization , “Tapping into passion
+The Open Organization, “Tapping into passion
 is especially important in building the kinds
 of participative communities that drive open
-organizations.”^60
+organizations.”[^60]
 Communities that collaborate together
 take deliberate planning. Surowiecki wrote, “It
 takes a lot of work to put the group together.
@@ -3374,10 +3325,10 @@ And when there’s a lack of trust between the
 members of the group (which isn’t surprising
 given that they don’t really know each other),
 considerable energy is wasted trying to deter-
-mine each other’s bona fides.”^61 Building true
+mine each other’s bona fides.”[^61] Building true
 community requires giving people within the
 community the power to create or influence
-the rules that govern the community.^62 If the
+the rules that govern the community.[^62] If the
 rules are created and imposed in a top-down
 manner, people feel like they don’t have a
 voice, which in turn leads to disengagement.
@@ -3386,23 +3337,22 @@ er, or even simply being connected around
 common interests or values, is in many ways
 what sharing is about.
 ```
-
 **Give more to the commons than you take**
 Conventional wisdom in the marketplace dic-
 tates that people should try to extract as much
 money as possible from resources. This is es-
 sentially what defines so much of the so-called
-sharing economy. In an article on the _Harvard
-Business Review_ website called “The Sharing
+sharing economy. In an article on the _Harvard_
+_Business Review_ website called “The Sharing
 Economy Isn’t about Sharing at All,” authors
 Giana Eckhardt and Fleura Bardhi explained
 how the anonymous market-driven trans-
 actions in most sharing-economy businesses
-are purely about monetizing access.^63 As Lisa
-Gansky put it in her book _The Mesh_ , the prima-
+are purely about monetizing access.[^63] As Lisa
+Gansky put it in her book _The Mesh_, the prima-
 ry strategy of the sharing economy is to sell the
 same product multiple times, by selling access
-rather than ownership.^64 That is not sharing.
+rather than ownership.[^64] That is not sharing.
 Sharing requires adding as much or more
 value to the ecosystem than you take. You
 can’t simply treat open content as a free pool
@@ -3415,7 +3365,7 @@ er ways. The social blogging platform _Medium_
 provides value to its community by incentiv-
 izing good behavior, and the result is an on-
 line space with remarkably high-quality user-
-generated content and limited trolling.^65
+generated content and limited trolling.[^65]
 Opendesk contributes to its community by
 committing to help its designers make money,
 in part by actively curating and displaying their
@@ -3438,10 +3388,10 @@ talents and expertise of people around the
 
 ```
 globe. Chris Anderson calls it the Long Tail
-of talent.^66 But to make collaboration work,
+of talent.[^66] But to make collaboration work,
 the group has to be effective at what it is do-
 ing, and the people within the group have to
-find satisfaction from being involved.^67 This
+find satisfaction from being involved.[^67] This
 is easier to facilitate for some types of cre-
 ative work than it is for others. Groups tied
 together online collaborate best when people
@@ -3449,7 +3399,7 @@ can work independently and asynchronously,
 and particularly for larger groups with loose
 ties, when contributors can make simple im-
 provements without a particularly heavy time
-commitment.^68
+commitment.[^68]
 As the success of Wikipedia demonstrates,
 editing an online encyclopedia is exactly the
 sort of activity that is perfect for massive co-
@@ -3461,7 +3411,7 @@ butions would be less useful for many other
 types of creative work, and people are in-
 herently less motivated to contribute when
 it doesn’t appear that their efforts will make
-much of a difference.^69
+much of a difference.[^69]
 It is easy to romanticize the opportunities
 for global cocreation made possible by the In-
 ternet, and, indeed, the successful examples
@@ -3472,7 +3422,7 @@ part of the equation, even within endeavors
 built on CC content. Shirky wrote, “Some-
 times the value of professional work trumps
 the value of amateur sharing or a feeling of
-belonging.^70 The textbook publisher Open-
+belonging.[^70] The textbook publisher Open-
 Stax, which distributes all of its material for
 free under CC licensing, is an example of this
 dynamic. Rather than tapping the communi-
@@ -3486,95 +3436,94 @@ musician Amanda Palmer, who is famous for
 her openness and involvement with her fans,
 said, “The only department where I wasn’t
 ```
-
 open to input was the writing, the music it-
-self.”^71
+self.”[^71]
 While we tend to immediately think of co-
 creation and remixing when we hear the word
-_collaboration_ , you can also involve others in
+_collaboration_, you can also involve others in
 your creative process in more informal ways,
 by sharing half-baked ideas and early drafts,
 and interacting with the public to incubate
 ideas and get feedback. So-called “making in
 public” opens the door to letting people feel
-more invested in your creative work.^72 And it
+more invested in your creative work.[^72] And it
 shows a nonterritorial approach to ideas and
-information. Stephen Covey (of _The 7 Hab-
-its of Highly Effective People_ fame) calls this
-the _abundance mentality_ —treating ideas like
+information. Stephen Covey (of _The 7 Hab-_
+_its of Highly Effective People_ fame) calls this
+the _abundance mentality_—treating ideas like
 something plentiful—and it can create an en-
-vironment where collaboration flourishes.^73
+vironment where collaboration flourishes.[^73]
 There is no one way to involve people in
 what you do. They key is finding a way for peo-
 ple to contribute on their terms, compelled by
-their own motivations.^74 What that looks like
+their own motivations.[^74] What that looks like
 varies wildly depending on the project. Not
-every endeavor that is **Made with Creative
-Commons** can be _Wikipedia_ , but every en-
+every endeavor that is **Made with Creative**
+**Commons** can be _Wikipedia_, but every en-
 deavor can find ways to invite the public into
 what they do. The goal for any form of collab-
 oration is to move away from thinking of con-
 sumers as passive recipients of your content
-and transition them into active participants.^75
-
+and transition them into active participants.[^75]
 
 **Notes**
-1 Alex Osterwalder and Yves Pigneur, _Busi-
-ness Model Generation_ (Hoboken, NJ: John
+[^1]: Alex Osterwalder and Yves Pigneur, _Busi-_
+_ness Model Generation_ (Hoboken, NJ: John
 Wiley and Sons, 2010), 14. A preview of
 the book is available at strategyzer.com
 /books/business-model-generation.
 
-2 Cory Doctorow, _Information Doesn’t Want
-to Be Free: Laws for the Internet Age_ (San
+[^2]: Cory Doctorow, _Information Doesn’t Want_
+_to Be Free: Laws for the Internet Age_ (San
 Francisco, CA: McSweeney’s, 2014) 68.
 
-3 Ibid., 55.
+[^3]: Ibid., 55.
 
-4 Chris Anderson, _Free: How Today’s Smart-
-est Businesses Profit by Giving Something
-for Nothing_ , reprint with new preface
+[^4]: Chris Anderson, _Free: How Today’s Smart-_
+_est Businesses Profit by Giving Something_
+_for Nothing_, reprint with new preface
 (New York: Hyperion, 2010), 224.
 
-5 Doctorow, _Information Doesn’t Want to Be
-Free_ , 44.
+[^5]: Doctorow, _Information Doesn’t Want to Be_
+_Free_, 44.
 
-6 Amanda Palmer, _The Art of Asking: Or
-How I Learned to Stop Worrying and Let
-People Help_ (New York: Grand Central,
+[^6]: Amanda Palmer, _The Art of Asking: Or_
+_How I Learned to Stop Worrying and Let_
+_People Help_ (New York: Grand Central,
 2014), 121.
 
-7 Chris Anderson, _Makers: The New Indus-
-trial Revolution_ (New York: Signal, 2012),
+[^7]: Chris Anderson, _Makers: The New Indus-_
+_trial Revolution_ (New York: Signal, 2012),
+
 64.
 
-8 David Bollier, _Think Like a Commoner: A
-Short Introduction to the Life of the Com-
-mons_ (Gabriola Island, BC: New Society,
+[^8]: David Bollier, _Think Like a Commoner: A_
+_Short Introduction to the Life of the Com-_
+_mons_ (Gabriola Island, BC: New Society,
 2014), 70.
 
-9 Anderson, _Makers_ , 66.
+[^9]: Anderson, _Makers_, 66.
 
-10 Bryan Kramer, _Shareology: How Sharing Is
-Powering the Human Economy_ (New York:
+[^10]: Bryan Kramer, _Shareology: How Sharing Is_
+_Powering the Human Economy_ (New York:
 Morgan James, 2016), 10.
 
-11 Anderson, _Free_ , 62.
+[^11]: Anderson, _Free_, 62.
 
-12 Doctorow, _Information Doesn’t Want to Be
-Free_ , 38.
+[^12]: Doctorow, _Information Doesn’t Want to Be_
+_Free_, 38.
 
-13 Bollier, _Think Like a Commoner_ , 68.
+[^13]: Bollier, _Think Like a Commoner_, 68.
 
 ```
-14 Anderson, Free , 86.
+14 Anderson, Free, 86.
 ```
 ```
 15 Doctorow, Information Doesn’t Want to Be
-Free , 144.
+Free, 144.
 ```
 ```
-16 Anderson, Free , 123.
+16 Anderson, Free, 123.
 ```
 ```
 17 Ibid., 132.
@@ -3590,20 +3539,20 @@ cess of laws and contracts is how rarely
 they are invoked.”
 ```
 ```
-20 Anderson, Free , 44.
+20 Anderson, Free, 44.
 ```
 ```
 21 Osterwalder and Pigneur, Business Model
-Generation , 23.
+Generation, 23.
 ```
 ```
-22 Anderson, Free , 67.
+22 Anderson, Free, 67.
 ```
 ```
 23 Ibid., 58.
 ```
 ```
-24 Anderson, Makers , 71.
+24 Anderson, Makers, 71.
 ```
 ```
 25 Clay Shirky, Cognitive Surplus: How Tech-
@@ -3615,88 +3564,89 @@ tors (London: Penguin Books, 2010), 78.
 ```
 ```
 27 Doctorow, Information Doesn’t Want to Be
-Free , 43.
+Free, 43.
 ```
 ```
 28 William Landes Foster, Peter Kim, and
 Barbara Christiansen, “Ten Nonprofit
 Funding Models,” Stanford Social Innova-
-tion Review , Spring 2009, ssir.org/articles
+tion Review, Spring 2009, ssir.org/articles
 /entry/ten_nonprofit_funding_models.
 ```
 ```
-29 Shirky, Cognitive Surplus , 111.
+29 Shirky, Cognitive Surplus, 111.
 ```
 ```
 30 Osterwalder and Pigneur, Business Model
-Generation , 30.
+Generation, 30.
 ```
-
-31 Jim Whitehurst, _The Open Organization:
-Igniting Passion and Performance_ (Boston:
+[^31]: Jim Whitehurst, _The Open Organization:_
+_Igniting Passion and Performance_ (Boston:
 Harvard Business Review Press, 2015),
+
 202.
 
-32 Anderson, _Free_ , 71.
+[^32]: Anderson, _Free_, 71.
 
-33 Ibid., 231.
+[^33]: Ibid., 231.
 
-34 Ibid., 97.
+[^34]: Ibid., 97.
 
-35 Anderson, _Makers_ , 107.
+[^35]: Anderson, _Makers_, 107.
 
-36 Osterwalder and Pigneur, _Business Model
-Generation_ , 89.
+[^36]: Osterwalder and Pigneur, _Business Model_
+_Generation_, 89.
 
-37 Ibid., 92.
+[^37]: Ibid., 92.
 
-38 Anderson, _Free_ , 142.
+[^38]: Anderson, _Free_, 142.
 
-39 Osterwalder and Pigneur, _Business Model
-Generation_ , 32.
+[^39]: Osterwalder and Pigneur, _Business Model_
+_Generation_, 32.
 
-40 Bollier, _Think Like a Commoner_ , 150.
+[^40]: Bollier, _Think Like a Commoner_, 150.
 
-41 Ibid., 134.
+[^41]: Ibid., 134.
 
-42 Dan Ariely, _Predictably Irrational: The Hid-
-den Forces That Shape Our Decisions_ , rev.
+[^42]: Dan Ariely, _Predictably Irrational: The Hid-_
+_den Forces That Shape Our Decisions_, rev.
 ed. (New York: Harper Perennial, 2010),
+
 109.
 
-43 Austin Kleon, _Show Your Work: 10 Ways to
-Share Your Creativity and Get Discovered_
+[^43]: Austin Kleon, _Show Your Work: 10 Ways to_
+_Share Your Creativity and Get Discovered_
 (New York: Workman, 2014), 93.
 
-44 Kramer, _Shareology_ , 76.
+[^44]: Kramer, _Shareology_, 76.
 
-45 Palmer, _Art of Asking_ , 252.
+[^45]: Palmer, _Art of Asking_, 252.
 
-46 Whitehurst, _Open Organization_ , 145.
+[^46]: Whitehurst, _Open Organization_, 145.
 
-47 Surowiecki, _Wisdom of Crowds_ , 203.
+[^47]: Surowiecki, _Wisdom of Crowds_, 203.
 
-48 Whitehurst, _Open Organization_ , 80.
+[^48]: Whitehurst, _Open Organization_, 80.
 
-49 Bollier, _Think Like a Commoner_ , 25.
+[^49]: Bollier, _Think Like a Commoner_, 25.
 
 ```
 50 Ibid., 31.
 ```
 ```
-51 Shirky, Cognitive Surplus , 112.
+51 Shirky, Cognitive Surplus, 112.
 ```
 ```
-52 Surowiecki, Wisdom of Crowds , 124.
+52 Surowiecki, Wisdom of Crowds, 124.
 ```
 ```
-53 Kleon, Show Your Work , 127.
+53 Kleon, Show Your Work, 127.
 ```
 ```
-54 Palmer, Art of Asking , 121.
+54 Palmer, Art of Asking, 121.
 ```
 ```
-55 Ariely, Predictably Irrational , 87.
+55 Ariely, Predictably Irrational, 87.
 ```
 ```
 56 Ibid., 105.
@@ -3710,16 +3660,16 @@ ed. (Sebastopol, CA: O’Reilly Media,
 2012), 36.
 ```
 ```
-59 Palmer, Art of Asking , 98.
+59 Palmer, Art of Asking, 98.
 ```
 ```
-60 Whitehurst, Open Organization , 34.
+60 Whitehurst, Open Organization, 34.
 ```
 ```
 61 Surowiecki, Wisdom of Crowds, 200.
 ```
 ```
-62 Bollier, Think Like a Commoner , 29.
+62 Bollier, Think Like a Commoner, 29.
 ```
 ```
 63 Giana Eckhardt and Fleura Bardhi, “The
@@ -3731,47 +3681,53 @@ January 28, 2015, hbr.org/2015/01
 ```
 ```
 64 Lisa Gansky, The Mesh: Why the Future
-of Business Is Sharing , reprint with new
+of Business Is Sharing, reprint with new
 epilogue (New York: Portfolio, 2012).
 ```
 ```
 65 David Lee, “Inside Medium: An Attempt
 to Bring Civility to the Internet,” BBC
-News , March 3, 2016, http://www.bbc.com
+News, March 3, 2016, www.bbc.com
 /news/technology-35709680.
 ```
 ```
-66 Anderson, Makers , 148.
+66 Anderson, Makers, 148.
 ```
 ```
-67 Shirky, Cognitive Surplus , 164.
+67 Shirky, Cognitive Surplus, 164.
 ```
+[^68]: Whitehurst, foreword to _Open_
+_Organization_.
 
-68 Whitehurst, foreword to _Open
-Organization_.
+[^69]: Shirky, _Cognitive Surplus_, 144.
 
-69 Shirky, _Cognitive Surplus_ , 144.
+[^70]: Ibid., 154.
 
-70 Ibid., 154.
+[^71]: Palmer, _Art of Asking_, 163.
 
-71 Palmer, _Art of Asking_ , 163.
+[^72]: Anderson, _Makers_, 173.
 
-72 Anderson, _Makers_ , 173.
+[^73]: Tom Kelley and David Kelley, _Creative_
+_Confidence: Unleashing the Potential within_
+_Us All_ (New York: Crown, 2013), 82.
 
-73 Tom Kelley and David Kelley, _Creative
-Confidence: Unleashing the Potential within
-Us All_ (New York: Crown, 2013), 82.
+[^74]: Whitehurst, foreword to _Open_
+_Organization_.
 
-74 Whitehurst, foreword to _Open
-Organization_.
-
-75 Rachel Botsman and Roo Rogers, _What’s
-Mine Is Yours: The Rise of Collaborative
-Consumption_ (New York: Harper Busi-
+[^75]: Rachel Botsman and Roo Rogers, _What’s_
+_Mine Is Yours: The Rise of Collaborative_
+_Consumption_ (New York: Harper Busi-
 ness, 2010), 188.
 
+### 3
 
-## 3 The Creative Commons Licenses
+##### THE
+
+##### CRE ATI V E
+
+##### COMMONS
+
+##### LICENSES
 
 All of the Creative Commons licenses grant a
 basic set of permissions. At a minimum, a CC-
@@ -3822,7 +3778,6 @@ lows for redistribution,
 commercial and noncommercial, as long as it
 is passed along unchanged with credit to you.
 ```
-
 The Attribution-Non-
 Commercial license (CC
 BY-NC) lets others re-
@@ -3922,7 +3877,6 @@ its educational materials because the medical
 subject matter is particularly important to get
 right.
 ```
-
 There is no one right way. The NonCom-
 mercial and NoDerivs restrictions reflect the
 values and preferences of creators about how
@@ -3945,15 +3899,11 @@ digital commons, start with the Creative
 Commons page called “Share Your Work” at
 creativecommons.org/share-your-work/.
 
+## Part 2
 
+##### THE
 
-# Part 2
-
-## THE
-
-## CASE STUDIES
-
-
+##### CASE STUDIES
 
 The twenty-four case studies in this section
 were chosen from hundreds of nominations
@@ -3974,8 +3924,6 @@ endeavor. The idea for each case study is to
 tell the story about the endeavor and the role
 sharing plays within it, largely the way in which
 it was told to us by those we interviewed.
-
-
 
 In 2005, at the Interaction Design Institute
 Ivrea in northern Italy, teachers and students
@@ -4022,7 +3970,7 @@ and all their work and research just disappear.
 Open-sourcing ensured that Arduino would
 outlive the Ivrea closure. Persistence is one
 ```
-### ARDUINO
+##### ARDUINO
 
 Arduino is a for-profit open-source electronics
 platform and computer hardware and soft-
@@ -4044,7 +3992,6 @@ Interviewees: David Cuartielles and Tom Igoe, cofounders
 ```
 Profile written by Paul Stacey
 ```
-
 thing Tom really likes about open source. If
 key people leave, or a company shuts down,
 an open-source product lives on. In Tom’s
@@ -4140,7 +4087,6 @@ open.
 Tom and David say that a lot of people have
 built companies off of Arduino, with dozens of
 ```
-
 Arduino derivatives out there. But in contrast
 to closed business models that can wring mon-
 ey out of the system over many years because
@@ -4164,7 +4110,7 @@ ing. The full range of official Arduino products
 includes boards, modules (a smaller form-fac-
 tor of classic boards), shields (elements that
 can be plugged onto a board to give it extra
-features), and kits.^1
+features), and kits.[^1]
 
 Arduino’s focus is on high-quality boards,
 well-designed support materials, and the
@@ -4234,7 +4180,6 @@ brand. There was some early backlash with
 
 **BUILDING**
 
-
 a project called Freeduino, but overall, trade-
 marking and branding has been a critical tool
 for Arduino.
@@ -4255,7 +4200,7 @@ a great job of explaining the full complexities
 of how trademarking their brand has played
 out, distinguishing between official boards
 and those that are clones, derivatives, compat-
-ibles, and counterfeits.^2
+ibles, and counterfeits.[^2]
 For David, an exciting aspect of Arduino
 is the way lots of people can use it to adapt
 
@@ -4281,11 +4226,10 @@ ing, and good for manufacturing.
 ```
 ```
 Web links
-1 http://www.arduino.cc/en/Main/Products
+1 www.arduino.cc/en/Main/Products
 2 blog.arduino.cc/2013/07/10/send-in-the
 -clones/
 ```
-
 The story of Mariana Fossatti and Jorge Ge-
 metto’s business, Ártica, is the ultimate ex-
 ample of DIY. Not only are they successful
@@ -4331,7 +4275,7 @@ tomized. They call it an “artisan” process be-
 cause of the time and effort it takes to adapt
 their work for the particular needs of students
 ```
-### Ártica
+##### Á RTICA
 
 Ártica provides online courses and consulting
 services focused on how to use digital tech-
@@ -4353,7 +4297,6 @@ Interviewees: Mariana Fossatti and Jorge Gemetto, cofounders
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 and clients. “Each student or client is paying
 for a specific solution to his or her problems
 and questions,” Mariana said. Rather than sell
@@ -4449,7 +4392,6 @@ as important as the final product.
 
 **FORMATS OR MATERIALS**
 
-
 People and relationships are also just as im-
 portant, sometimes more. “In the educational
 and cultural business, it is more important to
@@ -4505,8 +4447,6 @@ only the traditional type of success, they will
 get frustrated,” Mariana said. “We try to show
 them another image of what it looks like.”
 ```
-
-
 For Ton Roosendaal, the creator of Blender
 software and its related entities, sharing is
 practical. Making their 3-D content creation
@@ -4540,7 +4480,9 @@ cesco Siddi told us, “Ton believes if you don’t
 make content using your tools, then you’re not
 doing anything.”
 ```
-### Blender Institute.
+##### BLENDER
+
+##### INSTITUTE
 
 The Blender Institute is an animation studio
 that creates 3-D films using Blender software.
@@ -4560,7 +4502,6 @@ Interviewee: Francesco Siddi, production coordinator
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 Blender’s history begins in the late 1990s,
 when Ton created the Blender software. Orig-
 inally, the software was an in-house resource
@@ -4627,7 +4568,7 @@ Ton decided to set up the Blender Institute,
 an entity dedicated to hosting open-movie
 projects. The Blender Institute’s next project
 was an even bigger success. The film, Big Buck
-Bunny , went viral, and its animated characters
+Bunny, went viral, and its animated characters
 were picked up by marketers.
 Francesco said that, over time, the Blender
 Institute projects have gotten bigger and more
@@ -4659,7 +4600,6 @@ these projects,” Francesco said.
 While these benefits of each open-movie
 project make a compelling pitch for crowd-
 ```
-
 funding campaigns, Francesco told us the
 Blender Institute has found some limitations in
 the standard crowdfunding model where you
@@ -4734,8 +4674,6 @@ doing.
 
 **ANYTHING**
 
-
-
 If you ask cofounder Max Temkin, there is noth-
 ing particularly interesting about the Cards
 Against Humanity business model. “We make
@@ -4777,7 +4715,9 @@ der the same noncommercial terms. The abili-
 ty to adapt the game is like an entire new game
 unto itself.
 ```
-#### Cards Against Humanity
+##### CARDS AGAINST
+
+##### HUMANITY
 
 Cards Against Humanity is a private, for-profit
 company that makes a popular party game by
@@ -4796,7 +4736,6 @@ Interviewee: Max Temkin, cofounder
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 All together, these factors—the crass tone of
 the game and company, the free download, the
 openness to fans remixing the game—give
@@ -4892,7 +4831,6 @@ with the game and copy, adapt, and promote
 their creations openly. Today there are thou-
 sands of fan expansions of the game.
 ```
-
 Max said, “CC was a no-brainer for us because
 it gets the most people involved. Making the
 game free _and_ available under a CC license led
@@ -4971,8 +4909,9 @@ customers.
 
 **US BECAUSE IT GETS THE MOST**
 
-**PEOPLE INVOLVED MAKING**
-
+```
+PEOPLE INVOLVED MAKING
+```
 **THE GAME FREE AND AVAILABLE**
 
 **UNDER A CC LICENSE LED TO**
@@ -4987,7 +4926,6 @@ customers.
 
 **SPENT A DIME ON MARKETING**
 
-
 “It’s not right for everyone to release every-
 thing under CC licensing,” Max said. “If your
 only goal is to make a lot of money, then CC is
@@ -4995,8 +4933,9 @@ not best strategy. _This_ kind of business model,
 though, speaks to your values, and who you
 are and why you’re making things.”
 
+##### THE
 
-#### The Conversation
+##### CONVERSATION
 
 The Conversation is an independent source of
 news, sourced from the academic and re-
@@ -5024,7 +4963,7 @@ didn’t go away. Andrew made a commitment
 to come up with an alternative model.
 
 Around the time he left his job as editor of the
-Melbourne _Age_ , Andrew wondered where citi-
+Melbourne _Age_, Andrew wondered where citi-
 zens would get news grounded in fact and ev-
 idence rather than opinion or ideology. He be-
 lieved there was still an appetite for journalism
@@ -5033,7 +4972,7 @@ lieved there was still an appetite for journalism
 with depth and substance but was concerned
 about the increasing focus on the sensational
 and sexy.
-While at the Age , he’d become friends with
+While at the Age, he’d become friends with
 a vice-chancellor of a university in Melbourne
 who encouraged him to talk to smart people
 across campus—an astrophysicist, a Nobel
@@ -5056,7 +4995,6 @@ Interviewee: Andrew Jaspan, founder
 ```
 Profile written by Paul Stacey
 ```
-
 municate serious news, findings, and insights.
 It’s not a perfect match.
 Universities are massive repositories of
@@ -5118,7 +5056,7 @@ information.
 Andrew worked hard to reinvent a meth-
 odology for creating reliable, credible content.
 He introduced strict new working practices, a
-charter, and codes of conduct.^1 These include
+charter, and codes of conduct.[^1] These include
 fully disclosing who every author is (with their
 relevant expertise); who is funding their re-
 search; and if there are any potential or real
@@ -5152,7 +5090,6 @@ about 2.9 million unique views per month,
 **SHOULD HAVE ACCESS, LIKE**
 
 **ACCESS TO CLEAN WATER**
-
 
 but through republication they have _thirty-five_
 million readers. This couldn’t have been done
@@ -5246,8 +5183,6 @@ operational revenue at the same time.
 Web link
 1 theconversation.com/us/charter
 ```
-
-
 Cory Doctorow hates the term “business mod-
 el,” and he is adamant that he is not a brand.
 “To me, branding is the idea that you can take
@@ -5263,16 +5198,16 @@ people happened to like and then getting out
 of the way of them sharing it.
 He is a science fiction writer, activist, blog-
 ger, and journalist. Beginning with his first nov-
-el, _Down and Out in the Magic Kingdom_ , in 2003,
+el, _Down and Out in the Magic Kingdom_, in 2003,
 his work has been published under a Creative
 Commons license. Cory is coeditor of the pop-
-ular CC-licensed site _Boing Boing_ , where he
+ular CC-licensed site _Boing Boing_, where he
 
 ```
 writes about technology, politics, and intel-
 lectual property. He has also written several
 nonfiction books, including the most recent
-Information Doesn’t Want to Be Free , about the
+Information Doesn’t Want to Be Free, about the
 ways in which creators can make a living in the
 Internet age.
 Cory primarily makes money by selling phys-
@@ -5289,7 +5224,9 @@ creators and the public interest. He is current-
 ly a special adviser at the Electronic Frontier
 Foundation, where he is involved in a lawsuit
 ```
-#### Cory Doctorow.
+##### CORY
+
+##### DOCTOROW
 
 Cory Doctorow is a science fiction writer, activ-
 ist, blogger, and journalist. Based in the U.S.
@@ -5307,7 +5244,6 @@ Interview date: January 12, 2016
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 challenging the U.S. law that protects DRM.
 Cory says his political work doesn’t directly
 make him money, but if he gave it up, he thinks
@@ -5404,7 +5340,6 @@ tions like Disney that tend to have a hands-off
 relationship with their fan activity, he has a
 symbiotic relationship with his audience. “En-
 ```
-
 gaging with your audience can’t guarantee you
 success,” he said. “And Disney is an example
 of being able to remain aloof and still being
@@ -5430,8 +5365,8 @@ tial buyers in other parts of the world, and he
 thinks it is more difficult to get people to pay
 for translations if there are fan translations al-
 ready available for free.
-In his book _Information Doesn’t Want to Be
-Free_ , Cory likens his philosophy to thinking like
+In his book _Information Doesn’t Want to Be_
+_Free_, Cory likens his philosophy to thinking like
 a dandelion. Dandelions produce thousands
 of seeds each spring, and they are blown into
 the air going in every direction. The strategy is
@@ -5501,7 +5436,6 @@ experiment soon.
 
 **MANY PEOPLE DON’T DO IT**
 
-
 Fans are particularly willing to pay when
 they feel personally connected to the artist.
 Cory works hard to create that personal con-
@@ -5528,7 +5462,6 @@ ple’s hands and minds.”
 It has never been easier to think like a dan-
 delion.
 ```
-
 ```
 Interview date: January 28, 2016
 Interviewee: Mark Hahnel, founder
@@ -5586,7 +5519,7 @@ ring to an object by its DOI is more stable than
 referring to it by its URL, because the location
 of an object (the web page or URL) can often
 ```
-#### Figshare.
+##### FIGSHARE
 
 Figshare is a for-profit company offering an
 online repository where researchers can pre-
@@ -5601,7 +5534,6 @@ figshare.com
 Revenue model: platform providing paid
 services to creators
 ```
-
 change. Mark partnered with DataCite for the
 provision of DOIs for research data.
 As for licenses, Mark chose Creative Com-
@@ -5650,7 +5582,7 @@ sums up its value proposition to researchers
 as “You retain ownership. You license it. You
 get credit. We just make sure it persists.”
 In January 2012, Figshare was launched. (The
-fig in Figshare stands for figures .) Using invest-
+fig in Figshare stands for figures.) Using invest-
 ment funds, Mark made significant improve-
 ments to Figshare. For example, researchers
 could quickly preview their research files with-
@@ -5695,7 +5627,6 @@ gan requesting the research they fund be open
 **USABILITY OF SCHOLARLY**
 
 **RESEARCH**
-
 
 and accessible. They mandated that research-
 ers and academic institutions better manage
@@ -5760,12 +5691,12 @@ to be pulled from Figshare and used in other
 applications. As an example, Mark shared a
 Figshare data set showing the journal subscrip-
 tions that higher-education institutions in the
-United Kingdom paid to ten major publishers.^1
+United Kingdom paid to ten major publishers.[^1]
 Figshare’s API enables that data to be pulled
 into an app developed by a completely differ-
 ent researcher that converts the data into a vi-
 sually interesting graph, which any viewer can
-alter by changing any of the variables.^2
+alter by changing any of the variables.[^2]
 The free version of Figshare has built a com-
 munity of academics, who through word of
 mouth and presentations have promoted and
@@ -5784,7 +5715,7 @@ in the right place at the right time. He also be-
 lieves that the diversification of Figshare’s mod-
 el over time has been key to success. Figshare
 now offers a comprehensive set of services to
-researchers, publishers, and institutions.^3 If he
+researchers, publishers, and institutions.[^3] If he
 had relied solely on revenue from premium
 subscriptions, he believes Figshare would have
 struggled. In Figshare’s early days, their pri-
@@ -5793,7 +5724,6 @@ academics. It has only been because funders
 mandated open licensing that Figshare is now
 being used by the mainstream.
 ```
-
 Today Figshare has 26 million–plus page views,
 7.5 million–plus downloads, 800,000–plus
 user uploads, 2 million–plus articles, 500,000-
@@ -5821,17 +5751,16 @@ but also enabling people to collaborate and
 make new discoveries.
 
 **Web links**
-1 figshare.com/articles
+[^1]: figshare.com/articles
 /Journal_subscription_costs_FOIs_to_UK
 _universities/1186832
-2 retr0.shinyapps.io/journal_costs/?year
+[^2]: retr0.shinyapps.io/journal_costs/?year
 =2014&inst=19,22,38,42,59,64,80,95,136
-3 figshare.com/features
+[^3]: figshare.com/features
 
-
-In the paper _Harnessing the Economic and So-
-cial Power of Data_ presented at the New Zea-
-land Data Futures Forum in 2014,^1 Figure.NZ
+In the paper _Harnessing the Economic and So-_
+_cial Power of Data_ presented at the New Zea-
+land Data Futures Forum in 2014,[^1] Figure.NZ
 founder Lillian Grace said there are thousands
 of valuable and relevant data sets freely avail-
 able to us right now, but most people don’t
@@ -5877,7 +5806,7 @@ ily understood and freely accessed. Initially
 launched as Wiki New Zealand, the original
 idea was that people could contribute their
 ```
-#### Figure.nz
+##### FIGURE.NZ
 
 Figure.NZ is a nonprofit charity that makes an
 online data platform designed to make data
@@ -5898,7 +5827,6 @@ Interviewee: Lillian Grace, founder
 ```
 Profile written by Paul Stacey
 ```
-
 data and visuals via a wiki. However, few peo-
 ple had graphs that could be used and shared,
 and there were no standards or consistency
@@ -5945,7 +5873,7 @@ New Zealand’s government has an open-ac-
 cess and licensing framework called NZGOAL,
 which provides guidance for agencies when
 they release copyrighted and noncopyrighted
-work and material.^2 It aims to standardize the
+work and material.[^2] It aims to standardize the
 licensing of works with government copyright
 
 ```
@@ -5996,7 +5924,6 @@ become a way for a government or any orga-
 nization to differentiate, market, and brand
 itself.
 ```
-
 Figure.NZ spends a lot of time seeking to
 understand the motivations of data collectors
 and to identify the channels where it can pro-
@@ -6044,10 +5971,10 @@ NZ’s efforts. As one example, with their sup-
 port Figure.NZ has been able to create Busi-
 ness Figures, a special way for businesses to
 find useful data without having to know what
-questions to ask.^3
+questions to ask.[^3]
 
 ```
-Figure.NZ also has patrons.^4 Patrons donate
+Figure.NZ also has patrons.[^4] Patrons donate
 to topic areas they care about, directly en-
 abling Figure.NZ to get data together to flesh
 out those areas. Patrons do not direct what
@@ -6093,7 +6020,6 @@ pretation of the data or visuals. Their goal is to
 **WHERE EVERYONE CAN MAKE**
 
 **WELL-INFORMED DECISIONS**
-
 
 teach people how to think, not think for them.
 Figure.NZ wants to create intuitive experienc-
@@ -6179,16 +6105,15 @@ network effect possible.
 ```
 ```
 Web links
-1 http://www.nzdatafutures.org.nz/sites/default
+1 www.nzdatafutures.org.nz/sites/default
 /files/NZDFF_harness-the-power.pdf
-2 http://www.ict.govt.nz/guidance-and-resources
+2 www.ict.govt.nz/guidance-and-resources
 /open-government/new-zealand
 -government-open-access-and
 -licensing-nzgoal-framework/
 3 figure.nz/business/
 4 figure.nz/patrons/
 ```
-
 The serial entrepreneur Dr.  Frances Pinter
 has been at the forefront of innovation in the
 publishing industry for nearly forty years. She
@@ -6227,7 +6152,9 @@ free using a Creative Commons license and to
 see what happened to print sales. Sales went
 up, not down.
 ```
-#### Knowledge Unlatched.
+##### KNOWLEDGE
+
+##### U N L ATCH ED
 
 Knowledge Unlatched is a not-for-profit com-
 munity interest company that brings libraries
@@ -6247,7 +6174,6 @@ Interviewee: Frances Pinter, founder
 ```
 Profile written by Paul Stacey
 ```
-
 In 2008, Bloomsbury Academic, a new im-
 print of Bloomsbury Publishing in the United
 Kingdom, appointed her its founding publish-
@@ -6311,12 +6237,13 @@ Unlatched, and after two years of generating
 interest, she decided to move forward and
 launch a community interest company (a UK
 term for not-for-profit social enterprises) in
-2012.
 ```
+2012.
+
 ```
 She describes the business model in a paper
 called Knowledge Unlatched: Toward an Open
-and Networked Future for Academic Publishing :
+and Networked Future for Academic Publishing:
 ```
 ```
 1 Publishers offer titles for sale reflecting
@@ -6348,12 +6275,11 @@ or similar open license) and are then paid
 the Title Fee which is the total collected
 from the libraries.
 ```
-
-6 Publishers make print copies, e-Pub, and
+[^6]: Publishers make print copies, e-Pub, and
 other digital versions of selected titles
 available to member libraries at a discount
 that reflects their contribution to the Title
-Fee and incentivizes membership.^1
+Fee and incentivizes membership.[^1]
 
 The first round of this model resulted in a
 collection of twenty-eight current titles from
@@ -6367,7 +6293,7 @@ libraries sharing the costs, and the price per
 book came in at just under forty-three dollars.
 The open-access, Creative Commons ver-
 sions of these twenty-eight books are still
-available online.^4 Most books have been li-
+available online.[^4] Most books have been li-
 censed with CC BY-NC or CC BY-NC-ND. Au-
 thors are the copyright holder, not the publish-
 er, and negotiate choice of license as part of
@@ -6445,7 +6371,6 @@ ital copy of a monograph is $5,000 to $50,000.
 A good one costs in the $10,000 to $15,000
 range. Monographs typically don’t sell a lot of
 ```
-
 copies. A publisher who in the past sold three
 thousand copies now typically sells only three
 hundred. That makes unlatching monographs
@@ -6464,7 +6389,7 @@ and therefore awareness. (On the Knowledge
 Unlatched website, you can find interviews
 with the twenty-eight round-one authors de-
 scribing their experience and the benefits of
-taking part.)^5
+taking part.)[^5]
 Library budgets are constantly being
 squeezed, partly due to the inflation of journal
 subscriptions. But even without budget con-
@@ -6535,16 +6460,15 @@ olution.
 ```
 ```
 Web links
-1 http://www.pinter.org.uk/pdfs/Toward_an
+1 www.pinter.org.uk/pdfs/Toward_an
 _Open.pdf
-2 http://www.oapen.org
-3 http://www.hathitrust.org
+2 www.oapen.org
+3 www.hathitrust.org
 4 collections.knowledgeunlatched.org
 /collection-availability-1/
-5 http://www.knowledgeunlatched.org
+5 www.knowledgeunlatched.org
 /featured-authors-section/
 ```
-
 Cofounded by open education visionary Dr. 
 David Wiley and education-technology strat-
 egist Kim Thanos, Lumen Learning is dedi-
@@ -6554,7 +6478,7 @@ tion more affordable by facilitating adoption
 of open educational resources. In 2012, David
 and Kim partnered on a grant-funded project
 called the Kaleidoscope Open Course Initia-
-tive.^1 It involved a set of fully open general-ed-
+tive.[^1] It involved a set of fully open general-ed-
 ucation courses across eight colleges predom-
 inantly serving at-risk students, with goals to
 dramatically reduce textbook costs and collab-
@@ -6586,7 +6510,9 @@ ly require money to be used in certain ways for
 specific deliverables. If you learn things along
 the way that change how you think the grant
 ```
-#### Lumen Learning
+##### LUMEN
+
+##### LEARNING
 
 Lumen Learning is a for-profit company help-
 ing educational institutions use open educa-
@@ -6607,7 +6533,6 @@ Interviewees: David Wiley and Kim Thanos, cofounders
 ```
 Profile written by Paul Stacey
 ```
-
 money should be used, there often isn’t a lot
 of flexibility to do so.
 But as a for-profit, they’d have to convince
@@ -6647,19 +6572,24 @@ titative terms—with facts and figures—and
 in a way that is very student-focused. Lumen
 Learning helps colleges and universities—
 
-- replace expensive textbooks in high-enroll-
-    ment courses with OER;
-- provide enrolled students day one access
-    to Lumen’s fully customizable OER course
-    materials through the institution’s learn-
-    ing-management system;
-       - measure improvements in student success
-          with metrics like passing rates, persistence,
-          and course completion; and
-       - collaborate with faculty to make ongoing
-          improvements to OER based on student
-          success research.
+• replace expensive textbooks in high-enroll-
+ment courses with OER;
 
+• provide enrolled students day one access
+to Lumen’s fully customizable OER course
+materials through the institution’s learn-
+ing-management system;
+
+```
+• measure improvements in student success
+with metrics like passing rates, persistence,
+and course completion; and
+```
+```
+• collaborate with faculty to make ongoing
+improvements to OER based on student
+success research.
+```
 ```
 Lumen has developed a suite of open, Cre-
 ative Commons–licensed courseware in more
@@ -6702,7 +6632,6 @@ men’s business model focuses on getting the
 institutions to pay, not the students. With proj-
 ects they did prior to Lumen, David and Kim
 ```
-
 learned that students who have access to all
 course materials from day one have greater
 success. If students had to pay, Lumen would
@@ -6798,7 +6727,6 @@ As a business, Lumen is committed to open-
 ness. There are two core nonnegotiables: Lu-
 men’s use of CC BY, the most permissive of the
 ```
-
 Creative Commons licenses, for all the materi-
 als it creates; and day-one access for students.
 Having clear nonnegotiables allows them to
@@ -6889,7 +6817,6 @@ about trust.
 Web link
 1 lumenlearning.com/innovative-projects/
 ```
-
 Jonathan Mann thinks of his business model as
 “hustling”—seizing nearly every opportunity
 he sees to make money. The bulk of his income
@@ -6924,7 +6851,9 @@ song each day. He holds the Guinness World
 Record for consecutive daily songwriting, and
 he is widely known as the “song-a-day guy.”
 ```
-#### Jonathan Mann.
+##### JONATH A N
+
+##### MANN
 
 Jonathan Mann is a singer and songwriter
 who is most well known as the “Song A Day”
@@ -6946,7 +6875,6 @@ Interview date: February 22, 2016
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 He fell into this role by, naturally, seizing a
 random opportunity a friend alerted him to
 seven years ago—an event called Fun-A-Day,
@@ -7045,7 +6973,6 @@ a gift for distilling complicated subjects into
 simple concepts and putting them to music. In
 his song “How to Choose a Master Password,”
 ```
-
 Jonathan explained the process of creating a
 secure password in a silly, simple song. He was
 hired to write the song by a client who handed
@@ -7133,8 +7060,6 @@ so much of what drives you would be gone.”
 
 **SHARED**
 
-
-
 The Noun Project creates and shares visual
 language. There are millions who use Noun
 Project symbols to simplify communication
@@ -7161,7 +7086,7 @@ situations.
 With his partner, Sofya Polyakov, he began
 collecting symbols for a website and writing a
 business plan. Inspiration came from the book
-Professor and the Madman , which chronicles
+Professor and the Madman, which chronicles
 the use of crowdsourcing to create the Ox-
 ford English Dictionary in 1870. Edward began
 to imagine crowdsourcing icons and symbols
@@ -7172,9 +7097,9 @@ He decided to give his idea a go, and in 2010
 Edward and Sofya launched the Noun Proj-
 ect with a Kickstarter campaign, back when
 ```
-### NOUN
+##### NOUN
 
-### PROJECT
+##### PROJECT
 
 The Noun Project is a for-profit company
 offering an online platform to display visual
@@ -7195,8 +7120,7 @@ Interviewee: Edward Boatman, cofounder
 ```
 Profile written by Paul Stacey
 ```
-
-Kickstarter was in its infancy.^1 They thought
+Kickstarter was in its infancy.[^1] They thought
 it’d be a good way to introduce the global web
 community to their idea. Their goal was to
 raise $1,500, but in twenty days they got over
@@ -7223,8 +7147,8 @@ global community of designers.
 
 Creative Commons is an integral part of the
 Noun Project’s business model; this decision
-was inspired by Chris Anderson’s book _Free:
-The Future of Radical Price_ , which introduced
+was inspired by Chris Anderson’s book _Free:_
+_The Future of Radical Price_, which introduced
 Edward to the idea that you could build a busi-
 ness model around free content.
 Edward knew he wanted to offer a _free_ visual
@@ -7291,7 +7215,6 @@ to be directly accessed from within other ap-
 plications. Edward knew that the icons and
 symbols would be valuable in a lot of different
 ```
-
 contexts and that they couldn’t possibly know
 all of them in advance, so they built an API with
 a lot of flexibility. Knowing that most API appli-
@@ -7324,7 +7247,7 @@ per download.) Noun Project’s share is higher
 this time as it’s providing more service to the
 user.
 The Noun Project tries to be completely
-transparent about their royalty structure.^2
+transparent about their royalty structure.[^2]
 They tend to over communicate with cre-
 ators about it because building trust is the top
 priority.
@@ -7384,7 +7307,6 @@ who offer graphics, icons, or clip art.
 
 **VISUAL LANGUAGE**
 
-
 Noun Project creators agree. When sur-
 veyed on why they participate in the Noun
 Project, this is how designers rank their rea-
@@ -7420,7 +7342,7 @@ to the creator’s name and profile page; each
 profile features their full collection. Users can
 also search the icons by the creator’s name.
 The Noun Project also builds community
-through Iconathons—hackathons for icons.^2
+through Iconathons—hackathons for icons.[^2]
 In partnership with a sponsoring organization,
 the Noun Project comes up with a theme (e.g.,
 sustainable energy, food bank, guerrilla gar-
@@ -7445,14 +7367,13 @@ to that goal.
 ```
 ```
 Web links
-1 http://www.kickstarter.com/projects/tnp
+1 www.kickstarter.com/projects/tnp
 /building-a-free-collection-of-our-worlds-
 visual-sy/description
 2 thenounproject.com/handbook
 /royalties/#getting_paid
 3 thenounproject.com/iconathon/
 ```
-
 Cofounded by Sir Tim Berners-Lee and Sir
 Nigel Shadbolt in 2012, the London-based
 Open Data Institute (ODI) offers data-relat-
@@ -7489,7 +7410,9 @@ data policy. (The government was an early pio-
 neer in open policy and open-data initiatives.)
 It goes on to say that the ODI wants to—
 ```
-## Open Data Institute
+##### OPEN DATA
+
+##### INSTITUTE
 
 The Open Data Institute is an independent
 nonprofit that connects, equips, and inspires
@@ -7510,25 +7433,27 @@ Interviewee: Jeni Tennison, technical director
 ```
 Profile written by Paul Stacey
 ```
+• demonstrate the commercial value of open
+government data and how open-data poli-
+cies affect this;
 
-- demonstrate the commercial value of open
-    government data and how open-data poli-
-    cies affect this;
-- develop the economic benefits case and
-    business models for open data;
-- help UK businesses use open data; and
-- show how open data can improve public
-    services.^1
+• develop the economic benefits case and
+business models for open data;
+
+• help UK businesses use open data; and
+
+• show how open data can improve public
+services.[^1]
 
 ODI is very explicit about how it wants to
 make _open_ business models, and defining
 what this means. Jeni Tennison, ODI’s techni-
 cal director, puts it this way: “There is a whole
-ecosystem of _open_ —open-source software,
+ecosystem of _open_—open-source software,
 open government, open-access research—
 and a whole ecosystem of _data_. ODI’s work
 cuts across both, with an emphasis on where
-they overlap—with _open data_ .” ODI’s particu-
+they overlap—with _open data_.” ODI’s particu-
 lar focus is to show open data’s potential for
 revenue.
 As an independent nonprofit, ODI secured
@@ -7578,7 +7503,7 @@ at £2,200 a year. Commercial members have
 greater opportunities to connect and collab-
 orate, explore the benefits of open data, and
 unlock new business opportunities. (All mem-
-bers are listed on their website.)^2
+bers are listed on their website.)[^2]
 ODI provides standardized open data train-
 ing courses in which anyone can enroll. The
 initial idea was to offer an intensive and aca-
@@ -7604,7 +7529,6 @@ knowledge as applicable to the organization
 and on the skills needed by their high-level
 executives, management, and technical staff.
 ```
-
 The training tends to generate high interest
 and commitment.
 Education about open data is also a part
@@ -7628,27 +7552,29 @@ more toward commercial organizations.
 On the commercial side, the following value
 propositions seem to resonate:
 
-- Data-driven insights. Businesses need data
-    from outside their business to get more
-    insight. Businesses can generate value and
-    more effectively pursue their own goals if
-    they open up their own data too. Big data
-    is a hot topic.
-- Open innovation. Many large-scale enter-
-    prises are aware they don’t innovate very
-    well. One way they can innovate is to open
-    up their data. ODI encourages them to do
-    so even if it exposes problems and chal-
-    lenges. The key is to invite other people to
-    help while still maintaining organizational
-    autonomy.
-- Corporate social responsibility. While this
-    resonates with businesses, ODI cautions
-    against having it be the sole reason for
-    making data open. If a business is just
-    thinking about open data as a way to be
-    transparent and accountable, they can
-    miss out on efficiencies and opportunities.
+• Data-driven insights. Businesses need data
+from outside their business to get more
+insight. Businesses can generate value and
+more effectively pursue their own goals if
+they open up their own data too. Big data
+is a hot topic.
+
+• Open innovation. Many large-scale enter-
+prises are aware they don’t innovate very
+well. One way they can innovate is to open
+up their data. ODI encourages them to do
+so even if it exposes problems and chal-
+lenges. The key is to invite other people to
+help while still maintaining organizational
+autonomy.
+
+• Corporate social responsibility. While this
+resonates with businesses, ODI cautions
+against having it be the sole reason for
+making data open. If a business is just
+thinking about open data as a way to be
+transparent and accountable, they can
+miss out on efficiencies and opportunities.
 
 ```
 During their early years, ODI wanted to focus
@@ -7677,7 +7603,7 @@ to be part of the network and to use the brand.
 ODI also runs programs to help start-ups in
 the UK and across Europe develop a sustain-
 able business around open data, offering men-
-toring, advice, training, and even office space.^3
+toring, advice, training, and even office space.[^3]
 A big part of ODI’s business model revolves
 around community building. Memberships,
 training, summits, consulting services, nodes,
@@ -7699,7 +7625,6 @@ but through face-to-face events.
 
 **OF CONTENT, DATA, OR CODE**
 
-
 ODI has created an online tool that organi-
 zations can use to assess the legal, practical,
 technical, and social aspects of their open data.
@@ -7707,7 +7632,7 @@ If it is of high quality, the organization can earn
 ODI’s Open Data Certificate, a globally recog-
 nized mark that signals that their open data is
 useful, reliable, accessible, discoverable, and
-supported.^4
+supported.[^4]
 Separate from commercial activities, the
 ODI generates funding through research
 grants. Research includes looking at evidence
@@ -7751,23 +7676,34 @@ has a public dashboard of key performance in-
 dicators. Here are a few metrics as of April 27,
 2016:
 ```
-- Total amount of cash investments unlocked
-    in direct investments in ODI, competition
-    funding, direct contracts, and partner-
-    ships, and income that ODI nodes and ODI
-    start-ups have generated since joining the
-    ODI program: £44.5 million
-- Total number of active members and
-    nodes across the globe: 1,350
-- Total sales since ODI began: £7.44 million
-- Total number of unique people reached
-    since ODI began, in person and online: 2.2
-    million
-- Total Open Data Certificates created:
-    151,000
-- Total number of people trained by ODI and
-    its nodes since ODI began: 5,0805
-
+```
+• Total amount of cash investments unlocked
+in direct investments in ODI, competition
+funding, direct contracts, and partner-
+ships, and income that ODI nodes and ODI
+start-ups have generated since joining the
+ODI program: £44.5 million
+```
+```
+• Total number of active members and
+nodes across the globe: 1,350
+```
+```
+• Total sales since ODI began: £7.44 million
+```
+```
+• Total number of unique people reached
+since ODI began, in person and online: 2.2
+million
+```
+```
+• Total Open Data Certificates created:
+151,000
+```
+```
+• Total number of people trained by ODI and
+its nodes since ODI began: 5,0805
+```
 ```
 Web links
 1 e642e8368e3bf8d5526e-464b4b70b-
@@ -7781,7 +7717,6 @@ theodi.org/open-data-incubator-for
 4 certificates.theodi.org
 5 dashboards.theodi.org/company/all
 ```
-
 Opendesk is an online platform that connects
 furniture designers around the world not
 just with customers but also with local reg-
@@ -7824,7 +7759,7 @@ And now this sector is emerging, and Nick
 and Joni are highly interested in the commer-
 cialization aspects of it. As part of coming up
 ```
-## Opendesk.
+##### OPENDESK
 
 Opendesk is a for-profit company offering an
 online platform that connects furniture de-
@@ -7845,7 +7780,6 @@ Interviewees: Nick Ierodiaconou and Joni Steiner, cofounders
 ```
 Profile written by Paul Stacey
 ```
-
 with a business model, they began investigat-
 ing intellectual property and licensing options.
 It was a thorny space, especially for designs.
@@ -7882,7 +7816,7 @@ of sharing content. They understand that you
 get positive feedback when you’re attributed,
 what Nick and Joni called “reputational glow.”
 And Opendesk does an awesome job profiling
-the designers.^1
+the designers.[^1]
 While designers are largely OK with person-
 al sharing, there is a concern that someone will
 take the design and manufacture the furniture
@@ -7915,7 +7849,7 @@ Building the community by learning from the
 maker community is how we have moved for-
 ward.” Opendesk now has relationships with
 hundreds of makers in countries all around
-the world.^2
+the world.[^2]
 ```
 ```
 The makers are a critical part of the Opendesk
@@ -7927,39 +7861,46 @@ Opendesk’s website:
 When customers buy an Opendesk product di-
 rectly from a registered maker, they pay:
 ```
-- the manufacturing cost as set by the maker
-    (this covers material and labour costs for
-    the product to be manufactured and any
-    extra assembly costs charged by the mak-
-    er)
-- a design fee for the designer (a design fee
-    that is paid to the designer every time their
-    design is used)
-- a percentage fee to the Opendesk platform
-    (this supports the infrastructure and ongo-
-    ing development of the platform that helps
-    us build out our marketplace)
+```
+• the manufacturing cost as set by the maker
+(this covers material and labour costs for
+the product to be manufactured and any
+extra assembly costs charged by the mak-
+er)
+```
+```
+• a design fee for the designer (a design fee
+that is paid to the designer every time their
+design is used)
+```
+```
+• a percentage fee to the Opendesk platform
+(this supports the infrastructure and ongo-
+ing development of the platform that helps
+us build out our marketplace)
+```
+• a percentage fee to the channel through
+which the sale is made (at the moment this
+is Opendesk, but in the future we aim to
+open this up to third-party sellers who can
+sell Opendesk products through their own
+channels—this covers sales and marketing
+fees for the relevant channel)
 
+• a local delivery service charge (the delivery
+is typically charged by the maker, but in
+some cases may be paid to a third-party
+delivery partner)
 
-- a percentage fee to the channel through
-    which the sale is made (at the moment this
-    is Opendesk, but in the future we aim to
-    open this up to third-party sellers who can
-    sell Opendesk products through their own
-    channels—this covers sales and marketing
-    fees for the relevant channel)
-- a local delivery service charge (the delivery
-    is typically charged by the maker, but in
-    some cases may be paid to a third-party
-    delivery partner)
-- charges for any additional services the cus-
-    tomer chooses, such as on-site assembly
-    (additional services are discretionary—in
-    many cases makers will be happy to quote
-    for assembly on-site and designers may
-    offer bespoke design options)
-- local sales taxes (variable by customer and
-    maker location)^3
+• charges for any additional services the cus-
+tomer chooses, such as on-site assembly
+(additional services are discretionary—in
+many cases makers will be happy to quote
+for assembly on-site and designers may
+offer bespoke design options)
+
+• local sales taxes (variable by customer and
+maker location)[^3]
 
 They then go into detail how makers’ quotes
 are created:
@@ -7978,19 +7919,26 @@ Percentage fees are always based on the un-
 derlying manufacturing cost and are typically
 apportioned as follows:
 
-- manufacturing cost: fabrication, finishing
-    and any other costs as set by the maker
-    (excluding any services like delivery or on-
-    site assembly)
-- design fee: 8 percent of the manufacturing
-    cost
-       - platform fee: 12 percent of the manufac-
-          turing cost
-       - channel fee: 18 percent of the manufactur-
-          ing cost
-       - sales tax: as applicable (depends on prod-
-          uct and location)
+• manufacturing cost: fabrication, finishing
+and any other costs as set by the maker
+(excluding any services like delivery or on-
+site assembly)
 
+• design fee: 8 percent of the manufacturing
+cost
+
+```
+• platform fee: 12 percent of the manufac-
+turing cost
+```
+```
+• channel fee: 18 percent of the manufactur-
+ing cost
+```
+```
+• sales tax: as applicable (depends on prod-
+uct and location)
+```
 ```
 Opendesk shares revenue with their com-
 munity of designers. According to Nick and Joni,
@@ -8027,7 +7975,6 @@ tag, a more social, eco-friendly alternative to
 mass-production and an affordable way to
 buy custom-made products.”
 ```
-
 Nick and Joni say that customers like the
 fact that the furniture has a known prove-
 nance. People really like that their furniture
@@ -8044,7 +7991,7 @@ engaging thought leaders and practitioners
 to define this new movement. They have a
 separate Open Making site, which includes a
 manifesto, a field guide, and an invitation to
-get involved in the Open Making community.^4
+get involved in the Open Making community.[^4]
 People can submit ideas and discuss the prin-
 ciples and business practices they’d like to see
 used.
@@ -8066,11 +8013,14 @@ and noncommercial use. Their website states:
 It is unambiguously commercial use when any-
 one:
 ```
-- charges a fee or makes a profit when mak-
-    ing an Opendesk
-- sells (or bases a commercial service on) an
-    Opendesk
-
+```
+• charges a fee or makes a profit when mak-
+ing an Opendesk
+```
+```
+• sells (or bases a commercial service on) an
+Opendesk
+```
 ```
 It follows from this that noncommercial use is
 when you make an Opendesk yourself, with
@@ -8078,18 +8028,23 @@ no intention to gain commercial advantage or
 monetary compensation. For example, these
 qualify as noncommercial:
 ```
-- you are an individual with your own CNC
-    machine, or access to a shared CNC ma-
-    chine, and will personally cut and make a
-    few pieces of furniture yourself
-- you are a student (or teacher) and you use
-    the design files for educational purposes
-    or training (and do not intend to sell the
-    resulting pieces)
-- you work for a charity and get furniture cut
-    by volunteers, or by employees at a fab lab
-    or maker space
-
+```
+• you are an individual with your own CNC
+machine, or access to a shared CNC ma-
+chine, and will personally cut and make a
+few pieces of furniture yourself
+```
+```
+• you are a student (or teacher) and you use
+the design files for educational purposes
+or training (and do not intend to sell the
+resulting pieces)
+```
+```
+• you work for a charity and get furniture cut
+by volunteers, or by employees at a fab lab
+or maker space
+```
 ```
 Whether or not people technically are doing
 things that implicate IP, Nick and Joni have
@@ -8118,7 +8073,6 @@ erates hangs off “open,” not IP.
 
 **CUSTOM-MADE PRODUCTS**
 
-
 The mission of Opendesk is about relocaliz-
 ing manufacturing, which changes the way we
 think about how goods are made. Commercial-
@@ -8133,12 +8087,10 @@ and Joni describe it, they put ideas out there
 that get traction and then have faith in people.
 
 **Web links**
-1 [http://www.opendesk.cc/designers](http://www.opendesk.cc/designers)
-2 [http://www.opendesk.cc/open-making/makers/](http://www.opendesk.cc/open-making/makers/)
-3 [http://www.opendesk.cc/open-making/join](http://www.opendesk.cc/open-making/join)
-4 openmaking.is
-
-
+[^1]: [www.opendesk.cc/designers](www.opendesk.cc/designers)
+[^2]: [www.opendesk.cc/open-making/makers/](www.opendesk.cc/open-making/makers/)
+[^3]: [www.opendesk.cc/open-making/join](www.opendesk.cc/open-making/join)
+[^4]: openmaking.is
 
 OpenStax is an extension of a program called
 Connexions, which was started in 1999 by
@@ -8183,7 +8135,7 @@ of OpenStax was to professionally produce a
 turnkey textbook by investing effort up front,
 with the expectation that this would lead to
 ```
-## OpenStax
+##### OPENSTA X
 
 OpenStax is a nonprofit that provides free,
 openly licensed textbooks for high-enroll-
@@ -8206,7 +8158,6 @@ Interviewee: David Harris, editor-in-chief
 ```
 Profile written by Paul Stacey
 ```
-
 rapid growth through easy downstream adop-
 tions by faculty and students.
 In 2012, OpenStax College launched as a
@@ -8218,7 +8169,7 @@ nation. Today they are fast approaching that
 number. There is data that proves the success
 of their original hypothesis on how many stu-
 dents they could help and how much money
-they could help save.^1 Professionally produced
+they could help save.[^1] Professionally produced
 content scales rapidly. All with no sales force!
 OpenStax textbooks are all Attribution (CC
 BY) licensed, and each textbook is available as
@@ -8251,7 +8202,7 @@ of OpenStax textbooks; there’s even a text-
 book-savings calculator they can use to see
 how much students would save. OpenStax
 keeps a running list of institutions that have
-adopted their textbooks.^2
+adopted their textbooks.[^2]
 
 ```
 Unlike traditional publishers’ monolithic ap-
@@ -8295,14 +8246,13 @@ tions. Partners like Odigia and WebAssign give
 a percentage of the revenue they earn back to
 OpenStax, as mission-support fees. OpenStax
 has already published revisions of their titles,
-such as Introduction to Sociology 2e , using these
+such as Introduction to Sociology 2e, using these
 funds.
 In David’s view, this approach lets the mar-
 ket operate at peak efficiency. OpenStax’s
 partners don’t have to worry about developing
 textbook content, freeing them up from those
 ```
-
 development costs and letting them focus on
 what they do best. With OpenStax textbooks
 available at no cost, they can provide their
@@ -8399,7 +8349,6 @@ with the text. The book is then copyedited to
 
 **EDUCATION TO GET IT**
 
-
 ensure grammatical correctness and a singu-
 lar voice. Finally, it goes into production and
 through a final proofread. The whole process
@@ -8442,20 +8391,27 @@ achieved some impressive results. From the
 _OpenStax at a Glance_ fact sheet from their re-
 cent press kit:
 
-- Books published: 23
-- Students who have used OpenStax: 1.6
-    million
-       - Money saved for students: $155 million
-       - Money saved for students in the 2016/17
-          academic year: $77 million
-       - Schools that have used OpenStax: 2,668
-          (This number reflects all institutions using
-          at least one OpenStax textbook. Out of
-          2,668 schools, 517 are two-year colleges,
-          835 four-year colleges and universities, and
-          344 colleges and universities outside the
-          U.S.)
+• Books published: 23
 
+• Students who have used OpenStax: 1.6
+million
+
+```
+• Money saved for students: $155 million
+```
+```
+• Money saved for students in the 2016/17
+academic year: $77 million
+```
+```
+• Schools that have used OpenStax: 2,668
+(This number reflects all institutions using
+at least one OpenStax textbook. Out of
+2,668 schools, 517 are two-year colleges,
+835 four-year colleges and universities, and
+344 colleges and universities outside the
+U.S.)
+```
 ```
 While OpenStax has to date been focused
 on the United States, there is overseas adop-
@@ -8466,7 +8422,7 @@ essary precursor to international interest.
 OpenStax has primarily focused on intro-
 ductory-level college courses where there is
 high enrollment, but they are starting to think
-about verticals —a broad offering for a specific
+about verticals—a broad offering for a specific
 group or need. David thinks it would be ter-
 rific if OpenStax could provide access to free
 textbooks through the entire curriculum of a
@@ -8491,12 +8447,11 @@ Web links
 -OPENSTAX-2016Infographic-lg-1tahxiu.jpg
 2 openstax.org/adopters
 ```
-
 Since the beginning of her career, Amanda
 Palmer has been on what she calls a “journey
 with no roadmap,” continually experimenting
-to find new ways to sustain her creative work.^1
-In her best-selling book, _The Art of Asking_ ,
+to find new ways to sustain her creative work.[^1]
+In her best-selling book, _The Art of Asking_,
 Amanda articulates exactly what she has been
 and continues to strive for—“the ideal sweet
 spot . . . in which the artist can share freely and
@@ -8527,10 +8482,12 @@ essential few stopped to watch and drop some
 money into her hat to show their appreciation.
 Rather than dwelling on the majority of peo-
 ple who ignored her, she felt thankful for those
-who stopped. “All I needed was . . . some peo -
+who stopped. “All I needed was . . . some peo-
 ple,” she wrote in her book. “Enough people.
 ```
-## Amanda Palmer
+##### AMANDA
+
+##### PALMER
 
 Amanda Palmer is a musician, artist, and writ-
 er. Based in the U.S.
@@ -8550,7 +8507,6 @@ Interview date: December 15, 2015
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 Enough to make it worth coming back the next
 day, enough people to help me make rent and
 put food on the table. Enough so I could keep
@@ -8621,7 +8577,7 @@ were a natural fit.
 ```
 ```
 Amanda embraces the way her fans share and
-build upon her music. In The Art of Asking , she
+build upon her music. In The Art of Asking, she
 wrote that some of her fans’ unofficial videos
 using her music surpass the official videos
 in number of views on YouTube. Rather than
@@ -8649,7 +8605,6 @@ after shows. It helps that Amanda has the kind
 of dynamic, engaging personality that instant-
 ly draws people to her, but a big component of
 ```
-
 her ability to connect with people is her will-
 ingness to listen. “Listening fast and caring im-
 mediately is a skill unto itself,” Amanda wrote.
@@ -8734,8 +8689,9 @@ gy in a way that is joyful to you.”
 
 **APPROACHING ART THROUGH A**
 
-**CAPITALIST LENS THERE IS NO**
-
+```
+CAPITALIST LENS THERE IS NO
+```
 **MORE SATISFYING END GOAL**
 
 **THAN HAVING SOMEONE TELL**
@@ -8743,7 +8699,6 @@ gy in a way that is joyful to you.”
 **YOU THAT WHAT YOU DO IS**
 
 **GENUINELY OF VALUE TO THEM**
-
 
 Yet while Amanda joyfully interacts with her
 fans and involves them in her work as much as
@@ -8784,13 +8739,12 @@ then rather than forcing people to help her,
 she lets them.
 
 **Web link**
-1 [http://www.forbes.com/sites](http://www.forbes.com/sites)
+[^1]: [http://www.forbes.com/sites](http://www.forbes.com/sites)
 /zackomalleygreenburg/2015/04/16
 /amanda-palmer-uncut-the
 -kickstarter-queen-on-spotify
 -patreon-and-taylor-swift
 /#44e20ce46d67
-
 
 The Public Library of Science (PLOS) began in
 2000 when three leading scientists—Harold E.
@@ -8819,7 +8773,11 @@ cal considerations, the article is then peer-re-
 viewed to determine if the quality of the work
 is acceptable for publishing. Once accepted,
 ```
-## PLOS (Public Library of Science)
+##### PLOS
+
+##### (PUBLIC LIBRARY
+
+##### OF SCIENCE)
 
 PLOS (Public Library of Science) is a nonprofit
 that publishes a library of academic journals
@@ -8841,7 +8799,6 @@ Interviewee: Louise Page, publisher
 ```
 Profile written by Paul Stacey
 ```
-
 the publisher takes the article through the
 process of copyediting, typesetting, and even-
 tual publishing in a print or online publication.
@@ -8902,7 +8859,7 @@ PLOS’s journals in biology, medicine, genetics,
 computational biology, neglected tropical dis-
 eases, and pathogens, the article-processing
 charge ranges from $2,250 to $2,900. Arti-
-cle-publication charges for PLOS ONE , a journal
+cle-publication charges for PLOS ONE, a journal
 started in 2006, are just under $1,500.
 PLOS believes that lack of funds should not
 be a barrier to publication. Since its inception,
@@ -8938,7 +8895,6 @@ very clear what rights are associated with the
 content and provides a safe way for research-
 ers to make their work available while ensuring
 ```
-
 they get recognition (appropriate attribution).
 For PLOS, all of this aligns with how they think
 research content should be published and dis-
@@ -9003,7 +8959,7 @@ This is very important in the current debate
 about the integrity and reproducibility of re-
 search because negative or null results can
 then be published as well, which are general-
-ly rejected by traditional journals. PLOS ONE ,
+ly rejected by traditional journals. PLOS ONE,
 like all the PLOS journals, is online only with
 no print version. PLOS passes on the financial
 savings accrued through economies of scale
@@ -9037,7 +8993,6 @@ lication. Louise talked about the potential to
 shift to an open-review process, placing the
 emphasis on transparency rather than dou-
 ```
-
 ble-blind reviews. Louise thinks we’re moving
 into a direction where it’s actually beneficial for
 an author to know who is reviewing their paper
@@ -9092,12 +9047,12 @@ ing pushed out to readers, making the experi-
 ence feel like drinking from a fire hose. To help
 mitigate this, PLOS aggregates and curates
 content from PLOS journals and their network
-of blogs.^1 It also offers something called Arti-
+of blogs.[^1] It also offers something called Arti-
 cle-Level Metrics, which helps users assess re-
 search most relevant to the field itself, based
 on indicators like usage, citations, social book-
 marking and dissemination activity, media and
-blog coverage, discussions, and ratings.^2 Louise
+blog coverage, discussions, and ratings.[^2] Louise
 believes that the journal model could evolve to
 provide a more friendly and interactive user
 experience, including a way for readers to com-
@@ -9136,7 +9091,6 @@ Web links
 1 collections.plos.org
 2 plos.org/article-level-metrics
 ```
-
 The Rijksmuseum, a national museum in the
 Netherlands dedicated to art and history, has
 been housed in its current building since 1885.
@@ -9182,7 +9136,7 @@ them to start talking about events like that as
 having potential. They liked the idea of inviting
 people to do cool stuff with their collection.
 ```
-## Rijksmuseum.
+##### RIJKSMUSEUM
 
 The Rijksmuseum is a Dutch national muse-
 um dedicated to art and history. Founded in
@@ -9202,15 +9156,14 @@ Interviewee: Lizzy Jongma, the data manager of the collections information depar
 ```
 Profile written by Paul Stacey
 ```
-
 What about giving online access to digital rep-
 resentations of the one hundred most import-
 ant pieces in the Rijksmuseum collection? That
-eventually led to why not put _the whole collec-
-tion_ online?
+eventually led to why not put _the whole collec-_
+_tion_ online?
 Then, Lizzy says, Europeana came along.
 Europeana is Europe’s digital library, museum,
-and archive for cultural heritage.^1 As an online
+and archive for cultural heritage.[^1] As an online
 portal to museum collections all across Europe,
 Europeana had become an important online
 platform. In October 2010 Creative Commons
@@ -9276,7 +9229,7 @@ entire collection online.
 Releasing these high-quality images for free
 reduced the number of poor-quality images
 that were proliferating. The high-quality image
-of Vermeer’s Milkmaid , for example, is down-
+of Vermeer’s Milkmaid, for example, is down-
 loaded two to three thousand times a month.
 On the Internet, images from a source like the
 Rijksmuseum are more trusted, and releasing
@@ -9299,7 +9252,6 @@ government. But like many museums, it must
 generate the rest of the funding through other
 means. The admission fee has long been a way
 ```
-
 to generate revenue generation, including for
 the Rijksmuseum.
 As museums create a digital presence for
@@ -9327,7 +9279,7 @@ main website to be mobile friendly and re-
 sponsive to devices like the iPad, the Rijksmu-
 seum also created the Rijksstudio, where us-
 ers and artists could use and do various things
-with the Rijksmuseum collection.^2
+with the Rijksmuseum collection.[^2]
 The Rijksstudio gives users access to over
 two hundred thousand high-quality digital
 representations of masterworks from the col-
@@ -9375,10 +9327,10 @@ sell their creations. One great example you
 can find on Etsy is a kimono designed by An-
 gie Johnson, who used an image of an elabo-
 rate cabinet along with an oil painting by Jan
-Asselijn called The Threatened Swan.^3
+Asselijn called The Threatened Swan.[^3]
 In 2013 the Rijksmuseum organized their
 first high-profile design competition, known as
-the Rijksstudio Award.^4 With the call to action
+the Rijksstudio Award.[^4] With the call to action
 Make Your Own Masterpiece, the competition
 invites the public to use Rijksstudio images to
 ```
@@ -9396,7 +9348,6 @@ invites the public to use Rijksstudio images to
 
 **OWN WEBSITE**
 
-
 make new creative designs. A jury of renowned
 designers and curators selects ten finalists
 and three winners. The final award comes with
@@ -9405,11 +9356,12 @@ attracted a staggering 892 top-class entries.
 Some award winners end up with their work
 sold through the Rijksmuseum store, such as
 the 2014 entry featuring makeup based on a
-specific color scheme of a work of art.^5 The Ri-
+specific color scheme of a work of art.[^5] The Ri-
 jksmuseum has been thrilled with the results.
 Entries range from the fun to the weird to the
 inspirational. The third international edition of
 the Rijksstudio Award started in September
+
 2016.
 For the next iteration of the Rijksstudio, the
 Rijksmuseum is considering an upload tool, for
@@ -9470,21 +9422,20 @@ you and help out.”
 ```
 ```
 Web links
-1 http://www.europeana.eu/portal/en
-2 http://www.rijksmuseum.nl/en/rijksstudio
-3 http://www.etsy.com/ca/listing/175696771
+1 www.europeana.eu/portal/en
+2 www.rijksmuseum.nl/en/rijksstudio
+3 www.etsy.com/ca/listing/175696771
 /fringe-kimono-silk-kimono-kimono-robe
-4 http://www.rijksmuseum.nl/en/rijksstudio-award;
-the 2014 award: http://www.rijksmuseum.nl
+4 www.rijksmuseum.nl/en/rijksstudio-award;
+the 2014 award: www.rijksmuseum.nl
 /en/rijksstudio-award-2014;
-the 2015 award: http://www.rijksmuseum.nl
+the 2015 award: www.rijksmuseum.nl
 /en/rijksstudio-award-2015
-5 http://www.rijksmuseum.nl/nl/rijksstudio
+5 www.rijksmuseum.nl/nl/rijksstudio
 /142328--nominees-rijksstudio-award
 /creaties/ba595afe-452d-46bd-9c8c
 -48dcbdd7f0a4
 ```
-
 In 2013, Shareable faced an impasse. The non-
 profit online publication had helped start a
 sharing movement four years prior, but over
@@ -9528,7 +9479,7 @@ dience. Most are casual readers who come
 across a Shareable story because it happens
 to align with a project or interest they have.
 ```
-## Shareable.
+##### SHAREABLE
 
 Shareable is an online magazine about
 sharing. Founded in 2009 in the U.S.
@@ -9546,7 +9497,6 @@ Interviewee: Neal Gorenflo, cofounder and executive editor
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 But choosing principles over the possibility
 of riding the coattails of the major corporate
 players in the sharing space saved Shareable’s
@@ -9625,7 +9575,7 @@ Share or Die: Voices of the Get Lost Generation
 in an Age of Crisis. The CC-licensed book was
 available in print form for purchase or online
 for free. To this day, the book—along with their
-CC-licensed guide Policies for Shareable Cities —
+CC-licensed guide Policies for Shareable Cities—
 are two of the biggest generators of traffic on
 their website.
 In 2016, Shareable self-published a book of
@@ -9644,7 +9594,6 @@ are working to expand their base of individual
 donors. Ideally, they will eventually be a hun-
 dred percent funded by their audience. Neal
 ```
-
 believes being fully community-supported will
 better represent their vision of the world.
 For Shareable, success is very much about
@@ -9710,8 +9659,6 @@ Shareable puts the tools out there for people
 take the ideas and adapt them to their own
 communities.
 ```
-
-
 Openness is a key principle for Siyavula. They
 believe that every learner and teacher should
 have access to high-quality educational re-
@@ -9741,7 +9688,7 @@ As physicists, Mark and his colleagues were
 advocates of open-source software. To make
 the books open and free, they adopted the
 Free Software Foundation’s GNU Free Docu-
-mentation License.^1 They chose LaTeX, a type-
+mentation License.[^1] They chose LaTeX, a type-
 setting program used to publish scientific doc-
 uments, to author the books. Over a period of
 five years, the Free High School Science Texts
@@ -9757,7 +9704,7 @@ This pleased both the authors and Shuttle-
 worth; Mark remains incredibly proud of this
 accomplishment.
 ```
-## Siyavula
+##### S I Y AV U L A
 
 Siyavula is a for-profit educational-technology
 company that creates textbooks and integrat-
@@ -9778,7 +9725,6 @@ Interviewee: Mark Horner, CEO
 ```
 Profile written by Paul Stacey
 ```
-
 But the development of new textbooks
 froze at this stage. Mark shifted his focus to
 rural schools, which didn’t have textbooks at
@@ -9792,7 +9738,7 @@ activists for a small but lively meeting in Cape
 Town. One result was the Cape Town Open
 Education Declaration, a statement of princi-
 ples, strategies, and commitment to help the
-open-education movement grow.^2 Shuttle-
+open-education movement grow.[^2] Shuttle-
 worth also invited Mark to run a project writ-
 ing open content for all subjects for K–12 in En-
 glish. That project became Siyavula.
@@ -9831,7 +9777,7 @@ remix and edit the content. Mark and his team
 had to come up with an open editable format
 and provide tools for editing. They ended up
 putting all the books they’d acquired and au-
-thored on a platform called Connexions.^3 Si-
+thored on a platform called Connexions.[^3] Si-
 yavula trained many teachers to use Connex-
 ions, but it proved to be too complex and the
 textbooks were rarely edited.
@@ -9873,7 +9819,6 @@ to their website. In addition to print books, Si-
 **GENERATED HUGE SAVINGS FOR**
 
 **THE GOVERNMENT**
-
 
 yavula could also make the books available on
 their website, making it possible for learners
@@ -9973,7 +9918,6 @@ can view the sections they’ve practiced, how
 many points they’ve earned, and how their
 performance is improving.
 ```
-
 Based on the success of this effort, Siyavula
 decided to substantially increase the produc-
 tion of open educational resources so they
@@ -9986,7 +9930,7 @@ In partnership with, and sponsored by, the
 Sasol Inzalo Foundation, Siyavula produced
 a series of natural sciences and technology
 workbooks for grades 4 to 6 called Thunder-
-bolt Kids that uses a fun comic-book style.^4 It’s
+bolt Kids that uses a fun comic-book style.[^4] It’s
 a complete curriculum that also comes with
 teacher’s guides and other resources.
 Through this experience, Siyavula learned
@@ -10070,7 +10014,6 @@ vices provided over the phone, diversifying
 their market to all English-speaking countries
 in Africa, and setting up a consortium that
 ```
-
 makes Intelligent Practice free to all kids by
 selling the nonpersonal data Intelligent Prac-
 tice collects.
@@ -10094,13 +10037,11 @@ been around the block a few times, but both
 he and the company are stronger for it.
 
 **Web links**
-1 [http://www.gnu.org/licenses/fdl](http://www.gnu.org/licenses/fdl)
-2 [http://www.capetowndeclaration.org](http://www.capetowndeclaration.org)
-3 cnx.org
-4 [http://www.siyavula.com/products](http://www.siyavula.com/products)
+[^1]: [www.gnu.org/licenses/fdl](www.gnu.org/licenses/fdl)
+[^2]: [www.capetowndeclaration.org](www.capetowndeclaration.org)
+[^3]: cnx.org
+[^4]: [www.siyavula.com/products](www.siyavula.com/products)
 -primary-school.html
-
-
 
 SparkFun founder and former CEO Nathan Se-
 idle has a picture of himself holding up a clone
@@ -10147,7 +10088,7 @@ cus on product development and improve-
 ment. “Our products are so much better than
 they were five years ago,” Nathan said. “We
 ```
-## SparkFun
+##### S PA R K F U N
 
 SparkFun is an online electronics retailer spe-
 cializing in open hardware. Founded in 2003
@@ -10167,7 +10108,6 @@ Interviewee: Nathan Seidle, founder
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 used to just sell products. Now it’s a product
 plus a video, a seventeen-page hookup guide,
 and example firmware on three different plat-
@@ -10184,7 +10124,7 @@ parts the day they get a service call. They in-
 vest heavily in service and support. “I don’t be-
 lieve businesses should be competing with IP
 [intellectual property] barriers,” Nathan said.
-“ _This_ is the stuff they should be competing on.”
+“_This_ is the stuff they should be competing on.”
 
 SparkFun’s company history began in Nathan’s
 college dorm room. He spent a lot of time ex-
@@ -10262,7 +10202,6 @@ their products. They offer public tours of the
 **EARMARK OF FLATTERY AND**
 
 **SUCCESS**
-
 
 space several times a week, and they open
 their doors to the public for a competition
@@ -10356,8 +10295,6 @@ nimble, innovative business. In other words, it
 makes them the kind of company they set out
 to be.
 ```
-
-
 TeachAIDS is an unconventional media com-
 pany with a conventional revenue model. Like
 most media companies, they are subsidized
@@ -10401,7 +10338,7 @@ ing, for instance. Supported by an interdisci-
 plinary team of experts at Stanford, Piya con-
 ducted similar studies, which corroborated
 ```
-## TeachAIDS.
+##### T E ACH A I DS
 
 TeachAIDS is a nonprofit that creates edu-
 cational materials designed to teach people
@@ -10421,7 +10358,6 @@ Interviewees: Piya Sorcar, the CEO, and Shuman Ghosemajumder, the chair
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 the previous research. They found that the pri-
 mary cause of the limited understanding was
 that HIV, and issues relating to it, were often
@@ -10521,7 +10457,6 @@ on local customs and norms. Those three ver-
 sions are then analyzed and combined into a
 single master translation. TeachAIDS has ad-
 ```
-
 ditional teams of volunteers then translate
 that version back into English to see how well
 it lines up with the original materials. They re-
@@ -10617,7 +10552,6 @@ nations to a cause. “This is something com-
 panies can be proud of internally,” Shuman
 said. Some companies have even built public-
 ```
-
 ity campaigns around the fact that they have
 sponsored these initiatives.
 
@@ -10630,7 +10564,6 @@ furthers that mission, allowing them to safe-
 ly and quickly scale their materials worldwide.
 “The Creative Commons license has been a
 game changer for TeachAIDS,” Piya said.
-
 
 In the early 2000s, Hessel van Oorschot was
 an entrepreneur running a business where he
@@ -10667,7 +10600,9 @@ special.” So after some more research, in ear-
 ly 2008, Hessel and Sandra decided to build a
 platform.
 ```
-## Tribe of Noise.
+##### TRIBE
+
+##### OF NOISE
 
 Tribe of Noise is a for-profit online music plat-
 form serving the film, TV, video, gaming, and
@@ -10687,7 +10622,6 @@ Interviewee: Hessel van Oorschot, cofounder
 ```
 Profile written by Paul Stacey
 ```
-
 Building a platform posed a real chicken-and-
 egg problem. The platform had to build an on-
 line community of music-rights holders and, at
@@ -10714,7 +10648,7 @@ a radio show without the DJ. This opened a
 new opportunity for Tribe of Noise. They start-
 ed their In-store Music Service, using music (li-
 censed with CC BY-SA) uploaded by the Tribe of
-Noise community of musicians.^1
+Noise community of musicians.[^1]
 
 In most countries, artists, authors, and musi-
 cians join a collecting society that manages the
@@ -10780,13 +10714,12 @@ cense fee agreed with this retailer is US$12 per
 month per play-out. So if 42.5% is shared with
 the Tribe musicians in this playlist and your
 share is 1.43%, you end up with US$12 * 1000
-stores * 0.425 * 0.0143 = US$73 per month.^2
+stores * 0.425 * 0.0143 = US$73 per month.[^2]
 ```
 ```
 Tribe of Noise has another model that does
 not involve Creative Commons. In a survey with
 ```
-
 members, most said they liked the exposure
 using Creative Commons gets them and the
 way it lets them reach out to others to share
@@ -10885,7 +10818,6 @@ ing some of their songs under CC BY-SA and
 
 **GENERATE MONEY**
 
-
 opting in others with collecting societies like
 ASCAP or BMI.
 It’s not uncommon for performance-rights
@@ -10924,10 +10856,9 @@ possible to create a new business model for
 music, a model that’s based on trust.
 
 **Web links**
-1 [http://www.instoremusicservice.com](http://www.instoremusicservice.com)
-2 [http://www.tribeofnoise.com](http://www.tribeofnoise.com)
+[^1]: [www.instoremusicservice.com](www.instoremusicservice.com)
+[^2]: [www.tribeofnoise.com](www.tribeofnoise.com)
 /info_instoremusic.php
-
 
 Nearly every person with an online presence
 knows Wikipedia.
@@ -10966,7 +10897,9 @@ are not connected to a particular organization.
 As Wikimedia legal counsel Stephen LaPorte
 told us, “There is a common saying that Wiki-
 ```
-## Wikimedia Foundation
+##### WIKIMEDIA
+
+##### FOUNDATION
 
 The Wikimedia Foundation is the nonprofit or-
 ganization that hosts Wikipedia and its sister
@@ -10986,7 +10919,6 @@ and Stephen LaPorte, legal counsel
 ```
 Profile written by Sarah Hinchliff Pearson
 ```
-
 pedia works in practice but not in theory.”
 While it undoubtedly has its challenges and
 flaws, Wikipedia and its sister projects are a
@@ -11083,7 +11015,6 @@ ways what is best for everyone.”
 Of course, the primary reason no one has
 successfully co-opted Wikipedia is that copycat
 ```
-
 efforts do not have the Wikipedia community
 to sustain what they do. Wikipedia is not sim-
 ply a source of up-to-the-minute content on
@@ -11098,7 +11029,7 @@ is an incredible diversity of motivations,” Ste-
 phen said. For example, there is one editor of
 the English Wikipedia edition who has correct-
 ed a single grammatical error in articles more
-than forty-eight thousand times.^1
+than forty-eight thousand times.[^1]
 Only a fraction of Wikipedia users are also
 editors. But editing is not the only way to con-
 tribute to Wikipedia. “Some donate text, some
@@ -11165,47 +11096,45 @@ Web link
 1 gimletmedia.com/episode/14-the-art-of
 -making-and-fixing-mistakes/
 ```
+##### BIBLIOGRAPHY
 
-
-## Bibliography
-
-Alperovitz, Gar. _What Then Must We Do?
-Straight Talk about the Next American Rev-
-olution; Democratizing Wealth and Building
-a Community-Sustaining Economy from the
-Ground Up._ White River Junction, VT: Chel-
+Alperovitz, Gar. _What Then Must We Do?_
+_Straight Talk about the Next American Rev-_
+_olution; Democratizing Wealth and Building_
+_a Community-Sustaining Economy from the_
+_Ground Up._ White River Junction, VT: Chel-
 sea Green, 2013.
-Anderson, Chris. _Free: How Today’s Smartest
-Businesses Profit by Giving Something for
-Nothing_ , reprint with new preface. New
+Anderson, Chris. _Free: How Today’s Smartest_
+_Businesses Profit by Giving Something for_
+_Nothing_, reprint with new preface. New
 York: Hyperion, 2010.
 ———. _Makers: The New Industrial Revolution_.
 New York: Signal, 2012.
-Ariely, Dan. _Predictably Irrational: The Hidden
-Forces That Shape Our Decisions_. Rev. ed.
+Ariely, Dan. _Predictably Irrational: The Hidden_
+_Forces That Shape Our Decisions_. Rev. ed.
 New York: Harper Perennial, 2010.
 Bacon, Jono. _The Art of Community_. 2nd ed.
 Sebastopol, CA: O’Reilly Media, 2012.
-Benkler, Yochai. _The Wealth of Networks: How
-Social Production Transforms Markets and
-Freedom._ New Haven: Yale University
-Press, 2006. [http://www.benkler.org/Benkler](http://www.benkler.org/Benkler)
+Benkler, Yochai. _The Wealth of Networks: How_
+_Social Production Transforms Markets and_
+_Freedom._ New Haven: Yale University
+Press, 2006. www.benkler.org/Benkler
 _Wealth_Of_Networks.pdf (licensed under
 CC BY-NC-SA).
-Benyayer, Louis-David, ed. _Open Models: Busi-
-ness Models of the Open Economy._ Cachan,
+Benyayer, Louis-David, ed. _Open Models: Busi-_
+_ness Models of the Open Economy._ Cachan,
 France: Without Model, 2016. www
 .slideshare.net/WithoutModel/open
 -models-book-64463892 (licensed under
 CC BY-SA).
-Bollier, David. _Commoning as a Transformative
-Social Paradigm_. Paper commissioned by
+Bollier, David. _Commoning as a Transformative_
+_Social Paradigm_. Paper commissioned by
 the Next Systems Project. Washington, DC:
 Democracy Collaborative, 2016. thenext-
 system.org/commoning-as-a-transforma-
 tive-social-paradigm/.
-———. _Think Like a Commoner: A Short Intro-
-duction to the Life of the Commons_. Gabriola
+———. _Think Like a Commoner: A Short Intro-_
+_duction to the Life of the Commons_. Gabriola
 Island, BC: New Society, 2014.
 Bollier, David, and Pat Conaty. _Democrat-_
 
@@ -11227,11 +11156,12 @@ Press, 2012.
 Botsman, Rachel, and Roo Rogers. What’s
 Mine Is Yours: The Rise of Collaborative
 Consumption. New York: Harper Business,
+```
 2010.
 Boyle, James. The Public Domain: Enclosing the
 Commons of the Mind. New Haven: Yale
 University Press, 2008.
-http://www.thepublicdomain.org/download/
+www.thepublicdomain.org/download/
 (licensed under CC BY-NC-SA).
 Capra, Fritjof, and Ugo Mattei. The Ecology of
 Law: Toward a Legal System in Tune with
@@ -11249,10 +11179,9 @@ City of Bologna. Regulation on Collaboration
 between Citizens and the City for the Care
 and Regeneration of Urban Commons.
 Translated by LabGov (LABoratory for the
-```
 
 GOVernance of Commons). Bologna, Italy:
-City of Bologna, 2014). [http://www.labgov.it](http://www.labgov.it)
+City of Bologna, 2014). www.labgov.it
 /wp-content/uploads/sites/9/Bologna
 -Regulation-on-collaboration-between
 -citizens-and-the-city-for-the-cure-and
@@ -11262,26 +11191,26 @@ and Cautions from the Natural Commons
 for the Knowledge Commons.” Chap. 2 in
 Frischmann, Madison, and Strandburg,
 _Governing Knowledge Commons_.
-Creative Commons. _2015 State of the Com-
-mons_. Mountain View, CA: Creative Com-
+Creative Commons. _2015 State of the Com-_
+_mons_. Mountain View, CA: Creative Com-
 mons, 2015. stateof.creativecommons.
 org/2015/.
-Doctorow, Cory. _Information Doesn’t Want to
-Be Free: Laws for the Internet Age._ San Fran-
+Doctorow, Cory. _Information Doesn’t Want to_
+_Be Free: Laws for the Internet Age._ San Fran-
 cisco: McSweeney’s, 2014.
 Eckhardt, Giana, and Fleura Bardhi. “The Shar-
 ing Economy Isn’t about Sharing at All.”
-_Harvard Business Review_ , January 28, 2015.
+_Harvard Business Review_, January 28, 2015.
 hbr.org/2015/01/the-sharing-economy
 -isnt-about-sharing-at-all.
 Elliott, Patricia W., and Daryl H. Hepting, eds.
-(2015). _Free Knowledge: Confronting the
-Commodification of Human Discovery._ Re-
+(2015). _Free Knowledge: Confronting the_
+_Commodification of Human Discovery._ Re-
 gina, SK: University of Regina Press, 2015.
 uofrpress.ca/publications/Free-Knowledge
 (licensed under CC BY-NC-ND).
-Eyal, Nir. _Hooked: How to Build Habit-Forming
-Products_. With Ryan Hoover. New York:
+Eyal, Nir. _Hooked: How to Build Habit-Forming_
+_Products_. With Ryan Hoover. New York:
 Portfolio, 2014.
 Farley, Joshua, and Ida Kubiszewski. “The Eco-
 nomics of Information in a Post-Carbon
@@ -11289,15 +11218,15 @@ Economy.” Chap. 11 in Elliott and Hepting,
 _Free Knowledge_.
 Foster, William Landes, Peter Kim, and Barba-
 ra Christiansen. “Ten Nonprofit Funding
-Models.” _Stanford Social Innovation Review_ ,
+Models.” _Stanford Social Innovation Review_,
 Spring 2009. ssir.org/articles/entry/ten
 _nonprofit_funding_models.
-Frischmann, Brett M. _Infrastructure: The Social
-Value of Shared Resources._ New York: Ox-
+Frischmann, Brett M. _Infrastructure: The Social_
+_Value of Shared Resources._ New York: Ox-
 ford University Press, 2012.
 Frischmann, Brett M., Michael J. Madison, and
-Katherine J. Strandburg, eds. _Governing
-Knowledge Commons._ New York: Oxford
+Katherine J. Strandburg, eds. _Governing_
+_Knowledge Commons._ New York: Oxford
 University Press, 2014.
 
 ```
@@ -11311,6 +11240,7 @@ ness Is Sharing. Reprint with new epilogue.
 New York: Portfolio, 2012.
 Grant, Adam. Give and Take: Why Helping Oth-
 ers Drives Our Success. New York: Viking,
+```
 2013.
 Haiven, Max. Crises of Imagination, Crises of
 Power: Capitalism, Creativity and the Com-
@@ -11346,60 +11276,59 @@ Powering the Human Economy. New York:
 Morgan James, 2016.
 Lee, David. “Inside Medium: An Attempt to
 Bring Civility to the Internet.” BBC News,
-March 3, 2016. http://www.bbc.com/news
+March 3, 2016. www.bbc.com/news
 /technology-35709680
 Lessig, Lawrence. Remix: Making Art and Com-
-```
 
 _merce Thrive in the Hybrid Economy_. New
 York: Penguin Press, 2008.
-Menzies, Heather. _Reclaiming the Commons for
-the Common Good: A Memoir and Manifesto._
+Menzies, Heather. _Reclaiming the Commons for_
+_the Common Good: A Memoir and Manifesto._
 Gabriola Island, BC: New Society, 2014.
-Mason, Paul. _Postcapitalism: A Guide to Our Fu-
-ture._ New York: Farrar, Straus and Giroux,
+Mason, Paul. _Postcapitalism: A Guide to Our Fu-_
+_ture._ New York: Farrar, Straus and Giroux,
+
 2015.
-New York Times Customer Insight Group. _The
+New York Times Customer Insight Group. The
 Psychology of Sharing: Why Do People Share
-Online?_ New York: New York Times Cus-
-tomer Insight Group, 2011. [http://www.iab.net](http://www.iab.net)
+Online? New York: New York Times Cus-
+tomer Insight Group, 2011. www.iab.net
 /media/file/POSWhitePaper.pdf.
-Osterwalder, Alex, and Yves Pigneur. _Business
-Model Generation._ Hoboken, NJ: John Wiley
+Osterwalder, Alex, and Yves Pigneur. Business
+Model Generation. Hoboken, NJ: John Wiley
 and Sons, 2010. A preview of the book is
 available at strategyzer.com/books
 /business-model-generation.
 Osterwalder, Alex, Yves Pigneur, Greg Ber-
-narda, and Adam Smith. _Value Proposition
-Design._ Hoboken, NJ: John Wiley and Sons,
-
+narda, and Adam Smith. Value Proposition
+Design. Hoboken, NJ: John Wiley and Sons,
 2014. A preview of the book is available at
 strategyzer.com/books/value
 -proposition-design.
-Palmer, Amanda. _The Art of Asking: Or How I
+Palmer, Amanda. The Art of Asking: Or How I
 Learned to Stop Worrying and Let People
-Help._ New York: Grand Central, 2014.
-Pekel, Joris. _Democratising the Rijksmuseum:
+Help. New York: Grand Central, 2014.
+Pekel, Joris. Democratising the Rijksmuseum:
 Why Did the Rijksmuseum Make Available
 Their Highest Quality Material without
-Restrictions, and What Are the Results?_ The
+Restrictions, and What Are the Results? The
 Hague, Netherlands: Europeana Founda-
 tion, 2014. pro.europeana.eu/publication
 /democratising-the-rijksmuseum (licensed
 under CC BY-SA).
-Ramos, José Maria, ed. _The City as Commons: A
-Policy Reader._ Melbourne, Australia: Com-
+Ramos, José Maria, ed. The City as Commons: A
+Policy Reader. Melbourne, Australia: Com-
 mons Transition Coalition, 2016. www
 .academia.edu/27143172/The_City_as
 _Commons_a_Policy_Reader (licensed
 under CC BY-NC-ND).
-Raymond, Eric S. _The Cathedral and the Bazaar:
+Raymond, Eric S. The Cathedral and the Bazaar:
 Musings on Linux and Open Source by an Ac-
-cidental Revolutionary_. Rev. ed. Sebastopol,
+cidental Revolutionary. Rev. ed. Sebastopol,
 CA: O’Reilly Media, 2001. See esp. “The
-Magic Cauldron.” [http://www.catb.org/esr](http://www.catb.org/esr)
+Magic Cauldron.” www.catb.org/esr
 /writings/cathedral-bazaar/.
-Rries, Eric. _The Lean Startup: How Today’s_
+Rries, Eric. The Lean Startup: How Today’s
 
 ```
 Entrepreneurs Use Continuous Innovation to
@@ -11422,6 +11351,7 @@ Makes Consumers into Collaborators. Lon-
 don, England: Penguin Books, 2010.
 Slee, Tom. What’s Yours Is Mine: Against the
 Sharing Economy. New York: OR Books,
+```
 2015.
 Stephany, Alex. The Business of Sharing: Mak-
 ing in the New Sharing Economy. New York:
@@ -11450,7 +11380,6 @@ Openness. Chicago: University of Chicago
 Press, 2015.
 Van Abel, Bass, Lucas Evers, Roel Klaassen,
 and Peter Troxler, eds. Open Design Now:
-```
 
 _Why Design Cannot Remain Exclusive._ Am-
 sterdam: BIS Publishers, with Creative
@@ -11459,8 +11388,8 @@ Netherlands Institute for Design and
 Fashion; and the Waag Society, 2011.
 opendesignnow.org (licensed under CC
 BY-NC-SA).
-Van den Hoff, Ronald. _Mastering the Glob-
-al Transition on Our Way to Society 3.0._
+Van den Hoff, Ronald. _Mastering the Glob-_
+_al Transition on Our Way to Society 3.0._
 Utrecht, the Netherlands: Society 3.0
 Foundation, 2014. society30.com/get-the
 -book/ (licensed under CC BY-NC-ND).
@@ -11468,12 +11397,11 @@ Von Hippel, Eric. _Democratizing Innovation._
 London: MIT Press, 2005. web.mit.edu
 /evhippel/www/democ1.htm (licensed
 under CC BY-NC-ND).
-Whitehurst, Jim. _The Open Organization: Ig-
-niting Passion and Performance._ Boston:
+Whitehurst, Jim. _The Open Organization: Ig-_
+_niting Passion and Performance._ Boston:
 Harvard Business Review Press, 2015.
 
-
-## Acknowledgments.
+###### ACK NOW L EDGM ENTS
 
 We extend special thanks to Creative Com-
 mons CEO Ryan Merkley, the Creative Com-
@@ -11482,8 +11410,8 @@ colleagues for enthusiastically supporting our
 work. Special gratitude to the William and Flora
 Hewlett Foundation for the initial seed funding
 that got us started on this project.
-Huge appreciation to all the **Made with
-Creative Commons** interviewees for sharing
+Huge appreciation to all the **Made with**
+**Creative Commons** interviewees for sharing
 their stories with us. You make the commons
 come alive. Thanks for the inspiration.
 We interviewed more than the twenty-four
@@ -11501,8 +11429,8 @@ Kickstarter co-editors who read early drafts
 of our work and provided invaluable feedback.
 Heartfelt thanks to all of you.
 
-_Co-editor Kickstarter backers (alphabetically by
-first name):_ Abraham Taherivand, Alan Gra-
+_Co-editor Kickstarter backers (alphabetically by_
+_first name):_ Abraham Taherivand, Alan Gra-
 ham, Alfredo Louro, Anatoly Volynets, Aurora
 Thornton, Austin Tolentino, Ben Sheridan, Ben-
 edikt Foit, Benjamin Costantini, Bernd Nurn-
@@ -11556,7 +11484,6 @@ Continues, Mike Stringer, Mustafa K Calik, MD,
 Neal Stimler, Niall McDonagh, Niall Twohig,
 Nicholas Norfolk, Nick Coghlan, Nicole Hick-
 ```
-
 man, Nikki Thompson, Norrie Mailer, Omar
 Kaminski, OpenBuilds, Papp István Péter, Pat
 Sticks, Patricia Brennan, Paul and Iris Brest,
@@ -11579,8 +11506,8 @@ Mackintosh, William Peter Nash, Winie Evers,
 Wolfgang Renninger, Xavier Antoviaque, Yanc-
 ey Strickler
 
-_All other Kickstarter backers (alphabetically by
-first name):_ A. Lee, Aaron C. Rathbun, Aaron
+_All other Kickstarter backers (alphabetically by_
+_first name):_ A. Lee, Aaron C. Rathbun, Aaron
 Stubbs, Aaron Suggs, Abdul Razak Manaf,
 Abraham Taherivand, Adam Croom, Adam Fin-
 er, Adam Hansen, Adam Morris, Adam Procter,
@@ -11656,7 +11583,6 @@ tot, Bruno Girin, Bryan Mock, Bryant Durrell,
 Bryce Barbato, Buzz Technology Limited,
 Byung-Geun Jeon, C. Glen Williams, C. L. Couch,
 ```
-
 Cable Green, Callum Gare, Cameron Callahan,
 Cameron Colby Thomson, Cameron Mulder,
 Camille Bissuel / Nylnook, Candace Robertson,
@@ -11756,7 +11682,6 @@ Eugeen Sablin, Evan Tangman, Evonne Okafor,
 Evtim Papushev, Fabien Cambi, Fabio Natali,
 Fauxton Software, Felix Deierlein, Felix Gebau-
 ```
-
 er, Felix Maximiliano Obes, Felix Schmidt, Felix
 Zephyr Hsiao, Ferdies Food Lab, Fernand Des-
 chambault, Filipe Rodrigues, Filippo Toso, Fio-
@@ -11856,7 +11781,6 @@ Tong, Joshua Tobkin, JP Rangaswami, Juan Car-
 los Belair, Juan Irming, Juan Pablo Carbajal,
 Juan Pablo Marin Diaz, Judith Newman, Judy
 ```
-
 Tuan, Jukka Hellén, Julia Benson-Slaughter, Ju-
 lia Devonshire, Julian Fietkau, Julie Harboe, Ju-
 lien Brossoit, Julien Leroy, Juliet Chen, Julio Ter-
@@ -11956,7 +11880,6 @@ Stewart, Michael Carroll, Michael Cavette, Mi-
 chael Crees, Michael David Johas Teener, Mi-
 chael Dennis Moore, Michael Freundt Karlsen,
 ```
-
 Michael Harries, Michael Hawel, Michael Lew-
 is, Michael May, Michael Murphy, Michael
 Murvine, Michael Perkins, Michael Sauers, Mi-
@@ -12056,7 +11979,6 @@ Ross Williams, Rowan Skewes, Roy Ivy III, Ru-
 ben Flores, Rupert Hitzenberger, Rusi Popov,
 Russ Antonucci, Russ Spollin, Russell Brand,
 ```
-
 Rute Correia, Ruth Ann Carpenter, Ruth White,
 Ryan Mentock, Ryan Merkley, Ryan Price, Ryan
 Sasaki, Ryan Singer, Ryan Voisin, Ryan Weir, S
@@ -12152,8 +12074,3 @@ Hajjar, Yu-Hsian Sun, Yves Deruisseau, Zach
 Chandler, Zak Zebrowski, Zane Amiralis and
 Joshua de Haan, ZeMarmot Open Movie
 ```
-
-
-
-
-

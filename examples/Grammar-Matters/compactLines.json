@@ -1,8 +1,8 @@
 {
   "pages": 116,
   "items": 7792,
-  "groupedItems": 3595,
-  "changes": 1947,
+  "groupedItems": 3597,
+  "changes": 1949,
   "schema": [
     {
       "name": "line",
@@ -846,13 +846,14 @@
 {"page":44,"change":"Addition","str":" We are  tired. (plural subject/plural verb) ","line":6,"x":90.0238,"y":315.17,"width":"215.75","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
 {"page":44,"change":"Addition","str":" The writing assignment  was  due. (singular subject/singular verb) ","line":7,"x":90.0238,"y":301.37,"width":"351.10","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
 {"page":44,"change":"Addition","str":" Several writing assignments  were  due. (plural subject/plural verb) ","line":8,"x":90.0238,"y":287.57,"width":"356.26","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
-{"page":44,"change":"Addition","str":" The student  listens . (singular subject/singular verb)  3 rd  person singular verbs ","line":9,"x":90.0238,"y":273.77,"width":"426.17","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
-{"page":44,"change":"Addition","str":"require an “s . ”","line":10,"x":108.02,"y":259.97,"width":"83.40","height":"12.00","fontName":["BCKRYX+Arial,Bold","SJUTSY+Arial,Bold"],"dir":["ltr"]}
-{"page":44,"change":"Addition","str":"The key to subject verb agreement is locating the subject of the sentence. This can  be ","line":12,"x":72.0238,"y":185.78,"width":"460.00","height":"12.00","fontName":["XYXVPQ+Arial"],"dir":["ltr"]}
-{"page":44,"change":"Addition","str":"Prepositional phrases  can appear in your sentence and disguise the true subject. The ","line":14,"x":72.02379999999994,"y":144.38,"width":"466.75","height":"12.00","fontName":["SJUTSY+Arial,Bold","XYXVPQ+Arial"],"dir":["ltr"]}
-{"page":44,"change":"Addition","str":"phrase when locating the subject. Common prepositions include  of, to, in, from, for, ","line":16,"x":72.0238,"y":116.9,"width":"443.40","height":"12.00","fontName":["XYXVPQ+Arial","WAGUYD+Arial,Italic"],"dir":["ltr"]}
-{"page":44,"change":"Addition","str":"with, at, on, except,  and  between . ","line":17,"x":72.0238,"y":103.10000000000001,"width":"182.15","height":"12.00","fontName":["WAGUYD+Arial,Italic","XYXVPQ+Arial"],"dir":["ltr"]}
-{"page":44,"change":"Addition","str":" The names on the invitation  were  Fred and Mary.  ","line":18,"x":90.02409999999998,"y":75.38400000000001,"width":"274.38","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
+{"page":44,"change":"Addition","str":" The student  listens . (singular subject/singular verb)  3","line":9,"x":90.0238,"y":273.77,"width":"289.30","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
+{"page":44,"change":"Addition","str":"rd  person singular verbs ","line":10,"x":392.94988,"y":273.77,"width":"136.86","height":"12.00","fontName":["SJUTSY+Arial,Bold"],"dir":["ltr"]}
+{"page":44,"change":"Addition","str":"require an “s . ”","line":11,"x":108.02,"y":259.97,"width":"83.40","height":"12.00","fontName":["BCKRYX+Arial,Bold","SJUTSY+Arial,Bold"],"dir":["ltr"]}
+{"page":44,"change":"Addition","str":"The key to subject verb agreement is locating the subject of the sentence. This can  be ","line":13,"x":72.0238,"y":185.78,"width":"460.00","height":"12.00","fontName":["XYXVPQ+Arial"],"dir":["ltr"]}
+{"page":44,"change":"Addition","str":"Prepositional phrases  can appear in your sentence and disguise the true subject. The ","line":15,"x":72.02379999999994,"y":144.38,"width":"466.75","height":"12.00","fontName":["SJUTSY+Arial,Bold","XYXVPQ+Arial"],"dir":["ltr"]}
+{"page":44,"change":"Addition","str":"phrase when locating the subject. Common prepositions include  of, to, in, from, for, ","line":17,"x":72.0238,"y":116.9,"width":"443.40","height":"12.00","fontName":["XYXVPQ+Arial","WAGUYD+Arial,Italic"],"dir":["ltr"]}
+{"page":44,"change":"Addition","str":"with, at, on, except,  and  between . ","line":18,"x":72.0238,"y":103.10000000000001,"width":"182.15","height":"12.00","fontName":["WAGUYD+Arial,Italic","XYXVPQ+Arial"],"dir":["ltr"]}
+{"page":44,"change":"Addition","str":" The names on the invitation  were  Fred and Mary.  ","line":19,"x":90.02409999999998,"y":75.38400000000001,"width":"274.38","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
 {"page":45,"change":"Addition","str":" The information from the president  is  listed below.  ","line":1,"x":90.02416000000005,"y":708.96,"width":"277.44","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
 {"page":45,"change":"Addition","str":" Everyone except Fred  is  attending the party.  ","line":2,"x":90.0238,"y":695.14,"width":"248.16","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
 {"page":45,"change":"Addition","str":" The bill at the restaurant  was  paid in full. ","line":3,"x":90.0238,"y":681.34,"width":"224.12","height":"12.00","fontName":["JJVYXB+Symbol","XYXVPQ+Arial","SJUTSY+Arial,Bold"],"dir":["ltr"]}
@@ -1940,9 +1941,10 @@
 {"page":113,"change":"Addition","str":"You’re  (contraction of the pronoun  you  and the verb  are )  You’re going to be late. You’re ","line":7,"x":72.0238,"y":600.46,"width":"469.07","height":"12.00","fontName":["BCKRYX+Arial,Bold","XYXVPQ+Arial","WAGUYD+Arial,Italic","NYNMFO+Arial,Italic"],"dir":["ltr"]}
 {"page":113,"change":"Addition","str":"Bensky, Pat.  “ Why Is Important to Use Correct Grammar? ” Trackerpress.com  N.p., n.d. Web. 08","line":11,"x":72.0238,"y":224.33,"width":"467.69","height":"11.04","fontName":["XYXVPQ+Arial","FOKXYD+Arial","WAGUYD+Arial,Italic","NYNMFO+Arial,Italic"],"dir":["ltr"]}
 {"page":113,"change":"Addition","str":"Camp, Sue and Marilyn Satterwhite.  College English and Business Communication.  New York: ","line":13,"x":72.02399999999994,"y":185.18,"width":"463.89","height":"11.04","fontName":["XYXVPQ+Arial","WAGUYD+Arial,Italic"],"dir":["ltr"]}
-{"page":113,"change":"Addition","str":"The Chicago Manual of Style . 15 th  ed. Chicago: University of Chicago Press, 2003. ","line":15,"x":72.024,"y":146.0601,"width":"405.16","height":"11.04","fontName":["WAGUYD+Arial,Italic","XYXVPQ+Arial"],"dir":["ltr"]}
-{"page":113,"change":"Addition","str":"Chun, Janean. \"Kyle Wiens Of IFixit Won't Hire The Grammatically Chall enged.\" The Huffington ","line":16,"x":72.02426,"y":121.58000000000001,"width":"464.72","height":"11.04","fontName":["XYXVPQ+Arial","WAGUYD+Arial,Italic"],"dir":["ltr"]}
-{"page":113,"change":"Addition","str":"Post . TheHuffingtonPost.com, 03 Oct. 2012. Web. 08 Sept. 2014.","line":17,"x":108.02050080000001,"y":107.0601,"width":"318.55","height":"11.04","fontName":["WAGUYD+Arial,Italic","XYXVPQ+Arial"],"dir":["ltr"]}
+{"page":113,"change":"Addition","str":"The Chicago Manual of Style . 15","line":15,"x":72.024,"y":146.0601,"width":"159.75","height":"11.04","fontName":["WAGUYD+Arial,Italic","XYXVPQ+Arial"],"dir":["ltr"]}
+{"page":113,"change":"Addition","str":"th  ed. Chicago: University of Chicago Press, 2003. ","line":16,"x":231.77009999999999,"y":146.0601,"width":"245.41","height":"11.04","fontName":["XYXVPQ+Arial"],"dir":["ltr"]}
+{"page":113,"change":"Addition","str":"Chun, Janean. \"Kyle Wiens Of IFixit Won't Hire The Grammatically Chall enged.\" The Huffington ","line":17,"x":72.02426,"y":121.58000000000001,"width":"464.72","height":"11.04","fontName":["XYXVPQ+Arial","WAGUYD+Arial,Italic"],"dir":["ltr"]}
+{"page":113,"change":"Addition","str":"Post . TheHuffingtonPost.com, 03 Oct. 2012. Web. 08 Sept. 2014.","line":18,"x":108.02050080000001,"y":107.0601,"width":"318.55","height":"11.04","fontName":["WAGUYD+Arial,Italic","XYXVPQ+Arial"],"dir":["ltr"]}
 {"page":114,"change":"Addition","str":"Clark, James L. and Lyn R. Clark.  How 13: A Handbook for Office Professionals.  Mason, Ohio: ","line":1,"x":72.02389999999997,"y":709.8000000000001,"width":"462.69","height":"11.04","fontName":["XYXVPQ+Arial","WAGUYD+Arial,Italic"],"dir":["ltr"]}
 {"page":114,"change":"Addition","str":"Covey, Steven R.   Style Guide for Business and Technical Communication: Tools for Highly","line":3,"x":72.02389999999997,"y":670.6602,"width":"445.70","height":"11.04","fontName":["XYXVPQ+Arial","WAGUYD+Arial,Italic"],"dir":["ltr"]}
 {"page":114,"change":"Addition","str":"Effective Communication.  Salt Lake City: FranklinCovey Co., 2012.","line":4,"x":108.02004079999998,"y":656.1403,"width":"325.82","height":"11.04","fontName":["WAGUYD+Arial,Italic","XYXVPQ+Arial"],"dir":["ltr"]}

@@ -1,8 +1,8 @@
 {
   "pages": 255,
   "items": 20093,
-  "groupedItems": 7254,
-  "changes": 404,
+  "groupedItems": 7275,
+  "changes": 425,
   "schema": [
     {
       "name": "line"
@@ -39,18 +39,18 @@
 }
 {"page":16,"change":"ContentChange","types":["LIST"],"str":"- den  Fluss der verwendeten Holzbiomasse","line":7,"x":68.031,"y":494.16890000000006,"width":"173.47","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":16,"change":"ContentChange","types":["LIST"],"str":"- den Fluss der erzeugten Rückstände (Kohle)","line":8,"x":68.03099999999998,"y":480.1919000000001,"width":"183.52","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":33,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"2.66","height":"7.98","transform":["0.00","7.98","-7.98","0.00","70.62","250.32"],"fontName":"PNMSCP+PalatinoLinotype-Roman","x":70.62,"y":250.32,"line":37}
-{"page":33,"change":"ContentChange","types":["NUMBERED_LIST"],"str":".","dir":"ltr","width":"2.00","height":"7.98","transform":["0.00","7.98","-7.98","0.00","120.24","120.18"],"fontName":"JWGNKV+PalatinoLinotype-Italic","x":120.24,"y":120.18,"line":46}
-{"page":33,"change":"ContentChange","types":["LIST"],"str":"- R","line":48,"x":350.7,"y":100.86,"width":"7.99","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":33,"change":"ContentChange","types":["LIST"],"str":"- C","line":50,"x":367.14,"y":100.86,"width":"8.32","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":33,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"2.66","height":"7.98","transform":["0.00","7.98","-7.98","0.00","70.62","250.32"],"fontName":"PNMSCP+PalatinoLinotype-Roman","x":70.62,"y":250.32,"line":38}
+{"page":33,"change":"ContentChange","types":["NUMBERED_LIST"],"str":".","dir":"ltr","width":"2.00","height":"7.98","transform":["0.00","7.98","-7.98","0.00","120.24","120.18"],"fontName":"JWGNKV+PalatinoLinotype-Italic","x":120.24,"y":120.18,"line":47}
+{"page":33,"change":"ContentChange","types":["LIST"],"str":"- R","line":49,"x":350.7,"y":100.86,"width":"7.99","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":33,"change":"ContentChange","types":["LIST"],"str":"- C","line":51,"x":367.14,"y":100.86,"width":"8.32","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":36,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"2.66","height":"7.98","transform":["0.00","7.98","-7.98","0.00","81.96","260.88"],"fontName":"PNMSCP+PalatinoLinotype-Roman","x":81.96,"y":260.88,"line":33}
 {"page":36,"change":"ContentChange","types":["NUMBERED_LIST"],"str":".","dir":"ltr","width":"2.00","height":"7.98","transform":["0.00","7.98","-7.98","0.00","130.68","128.34"],"fontName":"JWGNKV+PalatinoLinotype-Italic","x":130.68,"y":128.34,"line":41}
-{"page":38,"change":"ContentChange","types":["LIST"],"str":"- 0,5 <1 <1 <1 <1 <1 <1 <1 <1","line":11,"x":114.0573,"y":493.4427,"width":"79.14","height":"7.98","fontName":["JWGNKV+PalatinoLinotype-Italic","PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":38,"change":"ContentChange","types":["LIST"],"str":"- 39 ","line":22,"x":114.06,"y":399.48198,"width":"12.81","height":"7.98","fontName":["JWGNKV+PalatinoLinotype-Italic"],"dir":["ltr"]}
-{"page":38,"change":"ContentChange","types":["LIST"],"str":"- 7000 ","line":26,"x":114.06,"y":362.34,"width":"21.03","height":"7.98","fontName":["JWGNKV+PalatinoLinotype-Italic"],"dir":["ltr"]}
-{"page":38,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"2.66","height":"7.98","transform":["0.00","7.98","-7.98","0.00","70.86","238.32"],"fontName":"PNMSCP+PalatinoLinotype-Roman","x":70.86,"y":238.32,"line":37}
-{"page":38,"change":"ContentChange","types":["LIST"],"str":"- R","line":45,"x":352.02,"y":98.4,"width":"7.99","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":38,"change":"ContentChange","types":["LIST"],"str":"- C","line":47,"x":369.06,"y":98.4,"width":"8.32","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":38,"change":"ContentChange","types":["LIST"],"str":"- 0,5","line":11,"x":114.0573,"y":496.25964,"width":"12.88","height":"7.98","fontName":["JWGNKV+PalatinoLinotype-Italic"],"dir":["ltr"]}
+{"page":38,"change":"ContentChange","types":["LIST"],"str":"- 39 ","line":23,"x":114.06,"y":399.48198,"width":"12.81","height":"7.98","fontName":["JWGNKV+PalatinoLinotype-Italic"],"dir":["ltr"]}
+{"page":38,"change":"ContentChange","types":["LIST"],"str":"- 7000 ","line":27,"x":114.06,"y":362.34,"width":"21.03","height":"7.98","fontName":["JWGNKV+PalatinoLinotype-Italic"],"dir":["ltr"]}
+{"page":38,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"2.66","height":"7.98","transform":["0.00","7.98","-7.98","0.00","70.86","238.32"],"fontName":"PNMSCP+PalatinoLinotype-Roman","x":70.86,"y":238.32,"line":38}
+{"page":38,"change":"ContentChange","types":["LIST"],"str":"- R","line":46,"x":352.02,"y":98.4,"width":"7.99","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":38,"change":"ContentChange","types":["LIST"],"str":"- C","line":48,"x":369.06,"y":98.4,"width":"8.32","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":39,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"2.66","height":"7.98","transform":["0.00","7.98","-7.98","0.00","70.62","252.30"],"fontName":"PNMSCP+PalatinoLinotype-Roman","x":70.62,"y":252.3,"line":33}
 {"page":39,"change":"ContentChange","types":["LIST"],"str":"- R","line":41,"x":352.08,"y":111.84,"width":"7.99","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":39,"change":"ContentChange","types":["LIST"],"str":"- C","line":43,"x":369.12,"y":111.84,"width":"8.32","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
@@ -86,8 +86,9 @@
 {"page":65,"change":"ContentChange","types":["LIST"],"str":"- eine zweite Phase, in welch er der Wärmefluss i n Verbindung mit dem me -","line":7,"x":70.92000000000007,"y":508.0889000000001,"width":"303.24","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":65,"change":"ContentChange","types":["LIST"],"str":"- eine  dritte  Phase,  in  der  man  eine  schnelle  Wärmeflussverringerung  be -","line":9,"x":70.91999999999996,"y":480.0719000000001,"width":"303.31","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":68,"change":"ContentChange","types":["LIST"],"str":"- 0.995 bzw.  - 0,990 (n = 7, p = 0,01).  ","line":5,"x":68.04299999999998,"y":522.063,"width":"142.13","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":68,"change":"ContentChange","types":["LIST"],"str":"- 0,439  - 0,358  0,402 -","line":28,"x":110.76,"y":321.3,"width":"67.38","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
-{"page":68,"change":"ContentChange","types":["LIST"],"str":"- 0,990** - 0,600  0,993** 0,497 -","line":31,"x":110.76,"y":286.92,"width":"96.79","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":68,"change":"ContentChange","types":["LIST"],"str":"- 0,995** - 0,625  -","line":26,"x":110.76,"y":355.14,"width":"53.41","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":68,"change":"ContentChange","types":["LIST"],"str":"- 0,439  - 0,358  0,402 -","line":29,"x":110.76,"y":321.3,"width":"67.38","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":68,"change":"ContentChange","types":["LIST"],"str":"- 0,990** - 0,600  0,993** 0,497 -","line":32,"x":110.76,"y":286.92,"width":"96.79","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":71,"change":"ContentChange","types":["LIST"],"str":"- 6,7 ± 0,1 4,8 ± 0,3 2,2 ± 0,4 6 ± 0,3 259 ± 11","line":21,"x":131.52,"y":480.84,"width":"141.26","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":71,"change":"ContentChange","types":["LIST"],"str":"- 6,0 ± 0,1 6,4 ± 0,3 2,8 ± 0,5 8 ± 1 229 ± 11","line":49,"x":131.52,"y":239.04,"width":"135.08","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":89,"change":"ContentChange","types":["LIST"],"str":"- PAK (Σ16 Moleküle) < 6 mg kg TS - 1 ;","line":15,"x":70.94700000000003,"y":387.84,"width":"148.68","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman","QBUDEH+PalatinoLinotype-Roman"],"dir":["ltr"]}
@@ -96,6 +97,10 @@
 {"page":89,"change":"ContentChange","types":["LIST"],"str":"- Cd < 1,5 mg kg TS - 1 ;","line":18,"x":70.923,"y":345.84,"width":"83.60","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":89,"change":"ContentChange","types":["LIST"],"str":"- Cr < 0,5 mg kg TS - 1 ;","line":19,"x":70.917,"y":331.86,"width":"81.71","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":89,"change":"ContentChange","types":["LIST"],"str":"- Zn < 500 mg kg TS - 1","line":20,"x":70.923,"y":317.82,"width":"82.96","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
+{"page":93,"change":"ContentChange","types":["LIST"],"str":"- 1 ; 5 = 17 g char k g Boden","line":7,"x":240.5385,"y":367.14,"width":"62.54","height":"7.02","fontName":["CRDKGT+ArialMT"],"dir":["ltr"]}
+{"page":93,"change":"ContentChange","types":["LIST"],"str":"- 1 ) der drei verschiedenen ","line":8,"x":304.92,"y":367.8,"width":"82.02","height":"7.02","fontName":["CRDKGT+ArialMT"],"dir":["ltr"]}
+{"page":93,"change":"ContentChange","types":["LIST"],"str":"- 1 ; 5 = 17 g char kg Boden","line":16,"x":240.5385,"y":119.64,"width":"62.73","height":"7.02","fontName":["CRDKGT+ArialMT"],"dir":["ltr"]}
+{"page":93,"change":"ContentChange","types":["LIST"],"str":"- 1 ) der drei verschiedenen ","line":17,"x":304.92,"y":120.3,"width":"82.02","height":"7.02","fontName":["CRDKGT+ArialMT"],"dir":["ltr"]}
 {"page":107,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"1. Moarhof Meran 46°40'2.7\"N ","line":14,"x":72.54,"y":508.86,"width":"105.33","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":107,"change":"ContentChange","types":["LIST"],"str":"– B1C  – B2C","line":19,"x":347.52,"y":498.06,"width":"39.08","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":107,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"2. Weißplatter Meran 46°39'17.27\"N ","line":21,"x":72.54,"y":477.18,"width":"125.07","height":"7.98","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
@@ -112,8 +117,8 @@
 {"page":210,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"594. https://doi.org/10.1007/s11104 - 013 - 1806 - x","line":33,"x":82.28699999999981,"y":130.14290000000025,"width":"185.74","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":212,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"523. https://doi.org/10 .1111/gcbb.12266","line":17,"x":82.28700000000009,"y":354.08990000000017,"width":"157.82","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":218,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"3.90","height":"7.02","transform":["0.00","7.02","-7.02","0.00","313.13","148.41"],"fontName":"CRDKGT+ArialMT","x":313.1349,"y":148.4053,"line":3}
-{"page":218,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"1.95","height":"6.37","transform":["0.00","6.38","-6.37","0.00","211.52","165.18"],"fontName":"KITOYT+Calibri-Bold","x":211.5187,"y":165.1778,"line":13}
-{"page":218,"change":"ContentChange","types":["LIST"],"str":"- Extraktion (SOX)","line":22,"x":183.5599,"y":209.8668,"width":"39.38","height":"5.73","fontName":["OORMCL+Calibri"],"dir":["ltr"]}
+{"page":218,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"1.95","height":"6.37","transform":["0.00","6.38","-6.37","0.00","211.52","165.18"],"fontName":"KITOYT+Calibri-Bold","x":211.5187,"y":165.1778,"line":15}
+{"page":218,"change":"ContentChange","types":["LIST"],"str":"- Extraktion (SOX)","line":24,"x":183.5599,"y":209.8668,"width":"39.38","height":"5.73","fontName":["OORMCL+Calibri"],"dir":["ltr"]}
 {"page":219,"change":"ContentChange","types":["LIST"],"str":"- Szenario  1   – Aktuelle  Situation:  Evaluierung  der  aktuell  in  Südtirol  ge -","line":15,"x":70.947,"y":368.06690000000015,"width":"299.80","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":219,"change":"ContentChange","types":["LIST"],"str":"- Szenario 2  – Aktuelle Situation + Extraktion von hochwertigen Verbindun -","line":22,"x":70.95600000000005,"y":270.1019000000002,"width":"301.34","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}
 {"page":219,"change":"ContentChange","types":["LIST"],"str":"- Szenario 3 – Aktuelle Situation +  V erbesserte Vergasung:  e in Szenario mit ","line":30,"x":70.965,"y":158.09690000000026,"width":"303.06","height":"9.00","fontName":["PNMSCP+PalatinoLinotype-Roman"],"dir":["ltr"]}

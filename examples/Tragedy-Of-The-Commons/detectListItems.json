@@ -1,8 +1,8 @@
 {
   "pages": 7,
   "items": 6779,
-  "groupedItems": 1096,
-  "changes": 206,
+  "groupedItems": 1102,
+  "changes": 201,
   "schema": [
     {
       "name": "line"
@@ -47,15 +47,15 @@
 {"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"8. G. Hardin, Ed. Population, Evolution, and","line":118,"x":392.88000000000045,"y":452.5800000000005,"width":"125.04","height":"9.40","fontName":["Courier"],"dir":["ltr"]}
 {"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"9. S. McVay, Sci. Amer. 216 (No. 8>, 13 (1966).","line":121,"x":392.8800000000004,"y":431.4000000000005,"width":"122.82","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
 {"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"10. J. Fletcher, Situation Ethics (Westminster,","line":122,"x":390.12000000000046,"y":424.4400000000005,"width":"130.02","height":"9.40","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"11. Nuimbers D. Lack, The (Clarendon Natural Press, Regulation Oxford, of Animal 1954).","line":124,"x":390.12000000000035,"y":403.2000000000005,"width":"254.82","height":"11.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"12. H. Girvetz, From Wealth to Welfare (Stan-","line":125,"x":390.2400000000004,"y":395.99999000000054,"width":"126.18","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"13. G. Hardin, Perspec. Biol. Med. 6, 366 (1963).","line":127,"x":390.36000000000047,"y":381.84000000000054,"width":"131.40","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"14. U. Thant, Int. Planned Parenthood News, No.","line":128,"x":390.2400000000005,"y":374.5800000000006,"width":"136.20","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"15. K. Davis, Science 158, 730 (1967).","line":130,"x":390.2400000000005,"y":360.6000000000006,"width":"102.48","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"16. S. Tax, Ed., Evolution after Darwin (Univ.","line":131,"x":390.2400000000005,"y":353.4600000000006,"width":"126.84","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"469.","dir":"ltr","width":"12.12","height":"8.30","transform":["5.05","0.00","0.00","8.30","402.12","339.42"],"fontName":"Courier","x":402.1200000000006,"y":339.4200100000006,"line":133}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"17. G. Bateson, D. D. Jackson, J. Haley, J. Weak-","line":134,"x":390.7200000000006,"y":332.2800000000006,"width":"133.44","height":"9.10","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"18. P. Goodman, New York Rev. Books 10(8),","line":136,"x":390.6000000000005,"y":317.8800000000007,"width":"125.64","height":"10.20","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"19. A. Comfort, The Anxiety Makers (Nelson,","line":138,"x":390.9600000000005,"y":303.7200000000006,"width":"127.62","height":"9.90","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"20. C. Frankel, The Case for Modern Man (Har-","line":140,"x":390.7200000000006,"y":289.5600000000006,"width":"131.70","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
-{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"21. J. D. Roslansky, Genetics and the Future of","line":142,"x":390.9600000000006,"y":275.34000000000066,"width":"127.44","height":"9.80","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"11. D. Lack, The Natural Regulation of Animal","line":124,"x":390.12000000000035,"y":410.0400000000005,"width":"130.50","height":"9.50","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"12. H. Girvetz, From Wealth to Welfare (Stan-","line":126,"x":390.2400000000004,"y":395.99999000000054,"width":"126.18","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"13. G. Hardin, Perspec. Biol. Med. 6, 366 (1963).","line":128,"x":390.36000000000047,"y":381.84000000000054,"width":"131.40","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"14. U. Thant, Int. Planned Parenthood News, No.","line":129,"x":390.2400000000005,"y":374.5800000000006,"width":"136.20","height":"9.60","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"15. K. Davis, Science 158, 730 (1967).","line":131,"x":390.2400000000005,"y":360.6000000000006,"width":"102.48","height":"9.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"16. S. Tax, Ed., Evolution after Darwin (Univ.","line":132,"x":390.2400000000005,"y":353.4600000000006,"width":"126.84","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"469.","dir":"ltr","width":"12.12","height":"8.30","transform":["5.05","0.00","0.00","8.30","402.12","339.42"],"fontName":"Courier","x":402.1200000000006,"y":339.4200100000006,"line":134}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"17. G. Bateson, D. D. Jackson, J. Haley, J. Weak-","line":135,"x":390.7200000000006,"y":332.2800000000006,"width":"133.44","height":"9.10","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"18. P. Goodman, New York Rev. Books 10(8),","line":137,"x":390.6000000000005,"y":317.8800000000007,"width":"125.64","height":"10.20","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"19. A. Comfort, The Anxiety Makers (Nelson,","line":139,"x":390.9600000000005,"y":303.7200000000006,"width":"127.62","height":"9.90","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"20. C. Frankel, The Case for Modern Man (Har-","line":141,"x":390.7200000000006,"y":289.5600000000006,"width":"131.70","height":"10.00","fontName":["Courier"],"dir":["ltr"]}
+{"page":5,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"21. J. D. Roslansky, Genetics and the Future of","line":143,"x":390.9600000000006,"y":275.34000000000066,"width":"127.44","height":"9.80","fontName":["Courier"],"dir":["ltr"]}

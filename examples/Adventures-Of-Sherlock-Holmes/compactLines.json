@@ -1,8 +1,8 @@
 {
   "pages": 200,
   "items": 8844,
-  "groupedItems": 8519,
-  "changes": 237,
+  "groupedItems": 8522,
+  "changes": 234,
   "schema": [
     {
       "name": "line",
@@ -90,8 +90,7 @@
 {"page":36,"change":"Addition","str":"ADVENTURE II. THE RED-HEADED LEAGUE 35","line":0,"x":117.828,"y":736.017,"width":"235.44","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":37,"change":"Addition","str":"ADVENTURE II. THE RED-HEADED LEAGUE 36","line":0,"x":117.828,"y":736.017,"width":"235.44","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":38,"change":"Addition","str":"ADVENTURE II. THE RED-HEADED LEAGUE 37","line":0,"x":117.828,"y":736.017,"width":"235.44","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
-{"page":39,"change":"Addition","str":"“ M","line":2,"x":117.828,"y":486.678,"width":"49.74","height":"59.78","fontName":["KKLGKN+NimbusRomNo9L-Regu","NVBKCW+RoyalInitialen"],"dir":["ltr"]}
-{"page":39,"change":"Addition","str":"Y dear fellow,” said Sherlock Holmes as we sat on either side of the fire","line":3,"x":167.836,"y":527.326,"width":"305.88","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
+{"page":39,"change":"Addition","str":"Y dear fellow,” said Sherlock Holmes as we sat on either side of the fire","line":4,"x":167.836,"y":527.326,"width":"305.88","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":40,"change":"Addition","str":"ADVENTURE III. A CASE OF IDENTITY 39","line":0,"x":117.828,"y":736.017,"width":"207.71","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":41,"change":"Addition","str":"ADVENTURE III. A CASE OF IDENTITY 40","line":0,"x":117.828,"y":736.017,"width":"207.71","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":42,"change":"Addition","str":"ADVENTURE III. A CASE OF IDENTITY 41","line":0,"x":117.828,"y":736.017,"width":"207.71","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
@@ -222,8 +221,7 @@
 {"page":162,"change":"Addition","str":"ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 161","line":0,"x":117.828,"y":736.017,"width":"331.91","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":163,"change":"Addition","str":"ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 162","line":0,"x":117.828,"y":736.017,"width":"331.91","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":164,"change":"Addition","str":"ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 163","line":0,"x":117.828,"y":736.017,"width":"331.91","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
-{"page":165,"change":"Addition","str":"“ H","line":3,"x":117.828,"y":456.22499999999997,"width":"46.75","height":"59.78","fontName":["KKLGKN+NimbusRomNo9L-Regu","NVBKCW+RoyalInitialen"],"dir":["ltr"]}
-{"page":165,"change":"Addition","str":"OLMES ,” said I as I stood one morning in our bow-window looking down","line":4,"x":164.84699999999998,"y":496.87199999999996,"width":"311.38","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
+{"page":165,"change":"Addition","str":"OLMES ,” said I as I stood one morning in our bow-window looking down","line":5,"x":164.84699999999998,"y":496.87199999999996,"width":"311.38","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":166,"change":"Addition","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 165","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":167,"change":"Addition","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 166","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":168,"change":"Addition","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 167","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
@@ -243,8 +241,7 @@
 {"page":180,"change":"Addition","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 179","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":181,"change":"Addition","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 180","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":182,"change":"Addition","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 181","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
-{"page":183,"change":"Addition","str":"“ T","line":3,"x":117.828,"y":455.56699999999995,"width":"48.90","height":"59.78","fontName":["KKLGKN+NimbusRomNo9L-Regu","NVBKCW+RoyalInitialen"],"dir":["ltr"]}
-{"page":183,"change":"Addition","str":"O the  man  who  loves  art  for  its  own  sake,”  remarked  Sherlock  Hol-","line":4,"x":166.999,"y":496.215,"width":"305.02","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
+{"page":183,"change":"Addition","str":"O the  man  who  loves  art  for  its  own  sake,”  remarked  Sherlock  Hol-","line":5,"x":166.999,"y":496.215,"width":"305.02","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":184,"change":"Addition","str":"ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 183","line":0,"x":117.828,"y":736.017,"width":"334.56","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":184,"change":"Addition","str":"“D EAR M R . H OLMES :—I am very anxious to consult you as to whether","line":29,"x":145.10100000000006,"y":319.10600000000056,"width":"304.89","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":184,"change":"Addition","str":"venience you. Yours faithfully, V IOLET H UNTER .”","line":32,"x":145.10100000000008,"y":278.45900000000063,"width":"218.66","height":"10.91","fontName":["KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}

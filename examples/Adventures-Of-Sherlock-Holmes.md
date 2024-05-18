@@ -2,50 +2,31 @@
 
 # HOLMES
 
-
-SIR ARTHUR IGNATIUS
+#### SIR ARTHUR IGNATIUS
 
 ## CONAN DOYLE
 
-### 1859–
+```
+1859–1930
+```
+### THE ADVENTURES OF
 
-THE ADVENTURES OF
-
-SHERLOCK HOLMES
+### SHERLOCK HOLMES
 
 ```
 Published by
 PDFREEBOOKS.ORG
 Public domain. No rights reserved.
 ```
-
-
-## Contents
-
-- A Scandal In Bohemia
-- The Red-Headed League
-- A Case Of Identity
-- The Boscombe Valley Mystery
-- The Five Orange Pips
-- The Man With The Twisted Lip
-- The Adventure Of The Blue Carbuncle
-- The Adventure Of The Speckled Band
-- The Adventure Of The Engineer’s Thumb
-- The Adventure Of The Noble Bachelor
-- The Adventure Of The Beryl Coronet
-- The Adventure Of The Copper Beeches
-   -
-
-
-Adventure I
+#### Adventure I
 
 ## A Scandal In Bohemia
 
-I
+##### I
 
-# T
+## T
 
-OSherlock Holmes she is alwaysthewoman. I have seldom heard him
+O Sherlock Holmes she is always the woman. I have seldom heard him
 mention her under any other name. In his eyes she eclipses and pre-
 dominates the whole of her sex. It was not that he felt any emotion
 akin to love for Irene Adler. All emotions, and that one particularly,
@@ -73,11 +54,6 @@ those clues, and clearing up those mysteries which had been abandoned as hopeles
 by the official police. From time to time I heard some vague account of his doings:
 of his summons to Odessa in the case of the Trepoff murder, of his clearing up
 of the singular tragedy of the Atkinson brothers at Trincomalee, and finally of the
-
-### 3
-
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 4
 
 mission which he had accomplished so delicately and successfully for the reigning
 family of Holland. Beyond these signs of his activity, however, which I merely
@@ -124,9 +100,6 @@ you see, my double deduction that you had been out in vile weather, and that you
 had a particularly malignant boot-slitting specimen of the London slavey. As to
 your practice, if a gentleman walks into my rooms smelling of iodoform, with
 
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 5
-
 a black mark of nitrate of silver upon his right forefinger, and a bulge on the right
 side of his top-hat to show where he has secreted his stethoscope, I must be dull,
 indeed, if I do not pronounce him to be an active member of the medical profes-
@@ -170,9 +143,6 @@ to imitate my companion’s processes. “Such paper could not be bought under h
 a crown a packet. It is peculiarly strong and stiff.”
 “Peculiar—that is the very word,” said Holmes. “It is not an English paper at
 all. Hold it up to the light.”
-
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 6
 
 I did so, and saw a large “E” with a small “g,” a “P,” and a large “G” with
 a small “t” woven into the texture of the paper.
@@ -219,9 +189,6 @@ trimmed at the tops with rich brown fur, completed the impression of barbaric op
 lence which was suggested by his whole appearance. He carried a broad-brimmed
 hat in his hand, while he wore across the upper part of his face, extending down
 
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 7
-
 past the cheekbones, a black vizard mask, which he had apparently adjusted that
 very moment, for his hand was still raised to it as he entered. From the lower part
 of the face he appeared to be a man of strong character, with a thick, hanging lip,
@@ -265,9 +232,6 @@ The man sprang from his chair and paced up and down the room in uncontrol-
 lable agitation. Then, with a gesture of desperation, he tore the mask from his face
 and hurled it upon the ground. “You are right,” he cried; “I am the King. Why
 should I attempt to conceal it?”
-
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 8
 
 “Why, indeed?” murmured Holmes. “Your Majesty had not spoken before
 I was aware that I was addressing Wilhelm Gottsreich Sigismond von Ormstein,
@@ -314,9 +278,6 @@ tion.”
 “You have compromised yourself seriously.”
 “I was only Crown Prince then. I was young. I am but thirty now.”
 
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 9
-
 “It must be recovered.”
 “We have tried and failed.”
 “Your Majesty must pay. It must be bought.”
@@ -362,9 +323,6 @@ Kramm.”
 “I tell you that I would give one of the provinces of my kingdom to have that
 photograph.”
 
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 10
-
 “And for present expenses?”
 The King took a heavy chamois leather bag from under his cloak and laid it on
 the table.
@@ -380,7 +338,7 @@ good news for you. And good-night, Watson,” he added, as the wheels of the roy
 brougham rolled down the street. “If you will be good enough to call to-morrow
 afternoon at three o’clock I should like to chat this little matter over with you.”
 
-II
+##### II
 
 At three o’clock precisely I was at Baker Street, but Holmes had not yet returned.
 The landlady informed me that he had left the house shortly after eight o’clock in
@@ -407,9 +365,6 @@ obliged to lie back, limp and helpless, in the chair.
 “What is it?”
 “It’s quite too funny. I am sure you could never guess how I employed my
 morning, or what I ended by doing.”
-
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 11
 
 “I can’t imagine. I suppose that you have been watching the habits, and perhaps
 the house, of Miss Irene Adler.”
@@ -456,9 +411,6 @@ are to understand the situation.”
 to Briony Lodge, and a gentleman sprang out. He was a remarkably handsome
 man, dark, aquiline, and moustached—evidently the man of whom I had heard. He
 
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 12
-
 appeared to be in a great hurry, shouted to the cabman to wait, and brushed past
 the maid who opened the door with the air of a man who was thoroughly at home.
 “He was in the house about half an hour, and I could catch glimpses of him
@@ -503,9 +455,6 @@ in which I ever found myself in my life, and it was the thought of it that start
 me laughing just now. It seems that there had been some informality about their
 license, that the clergyman absolutely refused to marry them without a witness of
 some sort, and that my lucky appearance saved the bridegroom from having to sally
-
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 13
 
 out into the streets in search of a best man. The bride gave me a sovereign, and
 I mean to wear it on my watch-chain in memory of the occasion.”
@@ -552,9 +501,6 @@ to throw, and will, at the same time, raise the cry of fire. You quite follow me
 “It is nothing very formidable,” he said, taking a long cigar-shaped roll from
 his pocket. “It is an ordinary plumber’s smoke-rocket, fitted with a cap at either
 
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 14
-
 end to make it self-lighting. Your task is confined to that. When you raise your
 cry of fire, it will be taken up by quite a number of people. You may then walk to
 the end of the street, and I will rejoin you in ten minutes. I hope that I have made
@@ -599,9 +545,6 @@ been made. We may take it, then, that she does not carry it about with her.”
 to think neither. Women are naturally secretive, and they like to do their own
 secreting. Why should she hand it over to anyone else? She could trust her own
 guardianship, but she could not tell what indirect or political influence might be
-
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 15
 
 brought to bear upon a business man. Besides, remember that she had resolved to
 use it within a few days. It must be where she can lay her hands upon it. It must be
@@ -648,9 +591,6 @@ lamps had been lit, but the blinds had not been drawn, so that I could see Holme
 he lay upon the couch. I do not know whether he was seized with compunction at
 that moment for the part he was playing, but I know that I never felt more heartily
 
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 16
-
 ashamed of myself in my life than when I saw the beautiful creature against whom
 I was conspiring, or the grace and kindliness with which she waited upon the in-
 jured man. And yet it would be the blackest treachery to Holmes to draw back
@@ -696,9 +636,6 @@ overpowering impulse, and I have more than once taken advantage of it. In the
 case of the Darlington substitution scandal it was of use to me, and also in the
 Arnsworth Castle business. A married woman grabs at her baby; an unmarried
 
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 17
-
 one reaches for her jewel-box. Now it was clear to me that our lady of to-day had
 nothing in the house more precious to her than what we are in quest of. She would
 rush to secure it. The alarm of fire was admirably done. The smoke and shouting
@@ -728,7 +665,7 @@ peared to come from a slim youth in an ulster who had hurried by.
 “I’ve heard that voice before,” said Holmes, staring down the dimly lit street.
 “Now, I wonder who the deuce that could have been.”
 
-III
+##### III
 
 I slept at Baker Street that night, and we were engaged upon our toast and coffee
 in the morning when the King of Bohemia rushed into the room.
@@ -742,9 +679,6 @@ and looking eagerly into his face.
 “No, my brougham is waiting.”
 “Then that will simplify matters.” We descended and started off once more for
 Briony Lodge.
-
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 18
 
 “Irene Adler is married,” remarked Holmes.
 “Married! When?”
@@ -782,7 +716,7 @@ all three read it together. It was dated at midnight of the preceding night and 
 this way:
 
 ```
-“MYDEARMR. SHERLOCKHOLMES,—You really did it very
+“MY DEAR MR. SHERLOCK HOLMES,—You really did it very
 well. You took me in completely. Until after the alarm of fire, I had
 not a suspicion. But then, when I found how I had betrayed myself,
 I began to think. I had been warned against you months ago. I had
@@ -792,9 +726,6 @@ me reveal what you wanted to know. Even after I became suspicious,
 I found it hard to think evil of such a dear, kind old clergyman. But,
 you know, I have been trained as an actress myself. Male costume
 ```
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 19
-
 ```
 is nothing new to me. I often take advantage of the freedom which
 it gives. I sent John, the coachman, to watch you, ran up stairs, got
@@ -816,7 +747,7 @@ dear Mr. Sherlock Holmes,
 ```
 ```
 Very truly yours,
-IRENENORTON, ne A ́ DLER.”
+IRENE NORTON, ne A ́ DLER.”
 ```
 “What a woman—oh, what a woman!” cried the King of Bohemia, when we
 had all three read this epistle. “Did I not tell you how quick and resolute she was?
@@ -841,9 +772,6 @@ The King stared at him in amazement.
 “I thank your Majesty. Then there is no more to be done in the matter. I have the
 honour to wish you a very good-morning.” He bowed, and, turning away without
 
-
-### ADVENTURE I. A SCANDAL IN BOHEMIA 20
-
 observing the hand which the King had stretched out to him, he set off in my
 company for his chambers.
 And that was how a great scandal threatened to affect the kingdom of Bohemia,
@@ -852,14 +780,13 @@ used to make merry over the cleverness of women, but I have not heard him do it
 of late. And when he speaks of Irene Adler, or when he refers to her photograph, it
 is always under the honourable title of the woman.
 
-
-Adventure II
+#### Adventure II
 
 ## The Red-Headed League
 
-# I
+## I
 
-HADcalled upon my friend, Mr. Sherlock Holmes, one day in the autumn
+HAD called upon my friend, Mr. Sherlock Holmes, one day in the autumn
 of last year and found him in deep conversation with a very stout, florid-
 faced, elderly gentleman with fiery red hair. With an apology for my
 intrusion, I was about to withdraw when Holmes pulled me abruptly into
@@ -889,11 +816,6 @@ daring than any effort of the imagination.”
 “You did, Doctor, but none the less you must come round to my view, for
 otherwise I shall keep on piling fact upon fact on you until your reason breaks
 down under them and acknowledges me to be right. Now, Mr. Jabez Wilson here
-
-### 21
-
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 22
 
 has been good enough to call upon me this morning, and to begin a narrative which
 promises to be one of the most singular which I have listened to for some time.
@@ -940,9 +862,6 @@ You have worked with it, and the muscles are more developed.”
 “Well, the snuff, then, and the Freemasonry?”
 “I won’t insult your intelligence by telling you how I read that, especially as,
 
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 23
-
 rather against the strict rules of your order, you use an arc-and-compass breastpin.”
 “Ah, of course, I forgot that. But the writing?”
 “What else can be indicated by that right cuff so very shiny for five inches, and
@@ -965,7 +884,7 @@ sir.”
 I took the paper from him and read as follows:
 
 ```
-“TOTHERED-HEADEDLEAGUE: On account of the bequest of
+“TO THE RED-HEADED LEAGUE: On account of the bequest of
 the late Ezekiah Hopkins, of Lebanon, Pennsylvania, U. S. A., there
 is now another vacancy open which entitles a member of the League
 to a salary of 4 pounds a week for purely nominal services. All red-
@@ -987,9 +906,6 @@ Doctor, of the paper and the date.”
 Wilson, mopping his forehead; “I have a small pawnbroker’s business at Coburg
 Square, near the City. It’s not a very large affair, and of late years it has not done
 more than just give me a living. I used to be able to keep two assistants, but now
-
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 24
 
 I only keep one; and I would have a job to pay him but that he is willing to come
 for half wages so as to learn the business.”
@@ -1036,9 +952,6 @@ interfere very much with one’s other occupations.’
 has not been over-good for some years, and an extra couple of hundred would have
 been very handy.
 
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 25
-
 “ ‘Tell me all about it,’ said I.
 “ ‘Well,’ said he, showing me the advertisement, ‘you can see for yourself that
 the League has a vacancy, and there is the address where you should apply for
@@ -1083,9 +996,6 @@ your very interesting statement.”
 behind which sat a small man with a head that was even redder than mine. He said
 a few words to each candidate as he came up, and then he always managed to find
 some fault in them which would disqualify them. Getting a vacancy did not seem
-
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 26
 
 to be such a very easy matter, after all. However, when our turn came the little man
 was much more favourable to me than to any of the others, and he closed the door
@@ -1132,9 +1042,6 @@ pecially Thursday and Friday evening, which is just before pay-day; so it would
 suit me very well to earn a little in the mornings. Besides, I knew that my assistant
 was a good man, and that he would see to anything that turned up.
 
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 27
-
 “ ‘That would suit me very well,’ said I. ‘And the pay?’
 “ ‘Is 4 pounds a week.’
 “ ‘And the work?’
@@ -1180,9 +1087,6 @@ I never dared to leave the room for an instant, for I was not sure when he might
 come, and the billet was such a good one, and suited me so well, that I would not
 risk the loss of it.
 
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 28
-
 “Eight weeks passed away like this, and I had written about Abbots and Arche-
 ry and Armour and Architecture and Attica, and hoped with diligence that I might
 get on to the B’s before very long. It cost me something in foolscap, and I had pretty
@@ -1197,7 +1101,7 @@ He held up a piece of white cardboard about the size of a sheet of note-paper.
 It read in this fashion:
 
 ```
-THERED-HEADEDLEAGUE
+THE RED-HEADED LEAGUE
 IS
 DISSOLVED.
 October 9, 1890.
@@ -1227,9 +1131,6 @@ moved out yesterday.’
 “ ‘Where could I find him?’
 “ ‘Oh, at his new offices. He did tell me the address. Yes, 17 King Edward
 Street, near St. Paul’s.’
-
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 29
 
 “I started off, Mr. Holmes, but when I got to that address it was a manufactory
 of artificial knee-caps, and no one in it had ever heard of either Mr. William Morris
@@ -1275,9 +1176,6 @@ said he. “Have you ever observed that his ears are pierced for earrings?”
 “And has your business been attended to in your absence?”
 “Nothing to complain of, sir. There’s never very much to do of a morning.”
 
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 30
-
 “That will do, Mr. Wilson. I shall be happy to give you an opinion upon the
 subject in the course of a day or two. To-day is Saturday, and I hope that by
 Monday we may come to a conclusion.”
@@ -1309,7 +1207,7 @@ the morning. It was a poky, little, shabby-genteel place, where four lines of di
 two-storied brick houses looked out into a small railed-in enclosure, where a lawn
 of weedy grass and a few clumps of faded laurel-bushes made a hard fight against
 a smoke-laden and uncongenial atmosphere. Three gilt balls and a brown board
-with “JABEZWILSON” in white letters, upon a corner house, announced the place
+with “JABEZ WILSON” in white letters, upon a corner house, announced the place
 where our red-headed client carried on his business. Sherlock Holmes stopped in
 front of it with his head on one side and looked it all over, with his eyes shining
 brightly between puckered lids. Then he walked slowly up the street, and then
@@ -1322,9 +1220,6 @@ here to the Strand.”
 “Third right, fourth left,” answered the assistant promptly, closing the door.
 “Smart fellow, that,” observed Holmes as we walked away. “He is, in my
 judgment, the fourth smartest man in London, and for daring I am not sure that he
-
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 31
 
 has not a claim to be third. I have known something of him before.”
 “Evidently,” said I, “Mr. Wilson’s assistant counts for a good deal in this mys-
@@ -1371,9 +1266,6 @@ was never so truly formidable as when, for days on end, he had been lounging in 
 armchair amid his improvisations and his black-letter editions. Then it was that the
 lust of the chase would suddenly come upon him, and that his brilliant reasoning
 
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 32
-
 power would rise to the level of intuition, until those who were unacquainted with
 his methods would look askance at him as on a man whose knowledge was not
 that of other mortals. When I saw him that afternoon so enwrapped in the music at
@@ -1417,9 +1309,6 @@ frock-coat.
 taking his heavy hunting crop from the rack. “Watson, I think you know Mr. Jones,
 of Scotland Yard? Let me introduce you to Mr. Merryweather, who is to be our
 companion in to-night’s adventure.”
-
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 33
 
 “We’re hunting in couples again, Doctor, you see,” said Jones in his consequen-
 tial way. “Our friend here is a wonderful man for starting a chase. All he wants is
@@ -1466,9 +1355,6 @@ We had reached the same crowded thoroughfare in which we had found our-
 selves in the morning. Our cabs were dismissed, and, following the guidance of
 Mr. Merryweather, we passed down a narrow passage and through a side door,
 
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 34
-
 which he opened for us. Within there was a small corridor, which ended in a very
 massive iron gate. This also was opened, and led down a flight of winding stone
 steps, which terminated at another formidable gate. Mr. Merryweather stopped to
@@ -1513,9 +1399,6 @@ lantern.”
 “I am afraid so. I had brought a pack of cards in my pocket, and I thought
 that, as we were a partie carre, you might have your rubber after all. But I see
 that the enemy’s preparations have gone so far that we cannot risk the presence of
-
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 35
 
 a light. And, first of all, we must choose our positions. These are daring men, and
 though we shall take them at a disadvantage, they may do us some harm unless we
@@ -1562,9 +1445,6 @@ a shock of very red hair.
 Jump, Archie, jump, and I’ll swing for it!”
 Sherlock Holmes had sprung out and seized the intruder by the collar. The
 
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 36
-
 other dived down the hole, and I heard the sound of rending cloth as Jones clutched
 at his skirts. The light flashed upon the barrel of a revolver, but Holmes’ hunting
 crop came down on the man’s wrist, and the pistol clinked upon the stone floor.
@@ -1610,9 +1490,6 @@ and together they manage to secure his absence every morning in the week. From
 the time that I heard of the assistant having come for half wages, it was obvious to
 me that he had some strong motive for securing the situation.”
 
-
-### ADVENTURE II. THE RED-HEADED LEAGUE 37
-
 “But how could you guess what the motive was?”
 “Had there been women in the house, I should have suspected a mere vulgar
 intrigue. That, however, was out of the question. The man’s business was a small
@@ -1653,16 +1530,15 @@ He shrugged his shoulders. “Well, perhaps, after all, it is of some little use
 remarked. “ ‘L’homme c’est rien—l’œuvre c’est tout,’ as Gustave Flaubert wrote
 to George Sand.”
 
-
-Adventure III
+#### Adventure III
 
 ## A Case Of Identity
 
-### “
+“
 
-# M
+## M
 
-Ydear fellow,” said Sherlock Holmes as we sat on either side of the fire
+Y dear fellow,” said Sherlock Holmes as we sat on either side of the fire
 in his lodgings at Baker Street, “life is infinitely stranger than anything
 which the mind of man could invent. We would not dare to conceive
 the things which are really mere commonplaces of existence. If we
@@ -1692,11 +1568,6 @@ or landlady. The crudest of writers could invent nothing more crude.”
 “Indeed, your example is an unfortunate one for your argument,” said Holmes,
 taking the paper and glancing his eye down it. “This is the Dundas separation case,
 and, as it happens, I was engaged in clearing up some small points in connection
-
-### 38
-
-
-### ADVENTURE III. A CASE OF IDENTITY 39
 
 with it. The husband was a teetotaler, there was no other woman, and the conduct
 complained of was that he had drifted into the habit of winding up every meal by
@@ -1743,9 +1614,6 @@ much angry as perplexed, or grieved. But here she comes in person to resolve our
 doubts.”
 As he spoke there was a tap at the door, and the boy in buttons entered to
 
-
-### ADVENTURE III. A CASE OF IDENTITY 40
-
 announce Miss Mary Sutherland, while the lady herself loomed behind his small
 black figure like a full-sailed merchant-man behind a tiny pilot boat. Sherlock
 Holmes welcomed her with the easy courtesy for which he was remarkable, and,
@@ -1790,9 +1658,6 @@ alive.”
 I had expected to see Sherlock Holmes impatient under this rambling and in-
 consequential narrative, but, on the contrary, he had listened with the greatest con-
 centration of attention.
-
-
-### ADVENTURE III. A CASE OF IDENTITY 41
 
 “Your own little income,” he asked, “does it come out of the business?”
 “Oh, no, sir. It is quite separate and was left me by my uncle Ned in Auckland.
@@ -1839,9 +1704,6 @@ come to the house any more.”
 visitors if he could help it, and he used to say that a woman should be happy in her
 own family circle. But then, as I used to say to mother, a woman wants her own
 
-
-### ADVENTURE III. A CASE OF IDENTITY 42
-
 circle to begin with, and I had not got mine yet.”
 “But how about Mr. Hosmer Angel? Did he make no attempt to see you?”
 “Well, father was going off to France again in a week, and Hosmer wrote and
@@ -1886,9 +1748,6 @@ him than I was. Then, when they talked of marrying within the week, I began to
 ask about father; but they both said never to mind about father, but just to tell him
 afterwards, and mother said she would make it all right with him. I didn’t quite
 like that, Mr. Holmes. It seemed funny that I should ask his leave, as he was only
-
-
-### ADVENTURE III. A CASE OF IDENTITY 43
 
 a few years older than me; but I didn’t want to do anything on the sly, so I wrote to
 father at Bordeaux, where the company has its French offices, but the letter came
@@ -1935,9 +1794,6 @@ heavily into it.
 “I shall glance into the case for you,” said Holmes, rising, “and I have no doubt
 that we shall reach some definite result. Let the weight of the matter rest upon
 
-
-### ADVENTURE III. A CASE OF IDENTITY 44
-
 me now, and do not let your mind dwell upon it further. Above all, try to let
 Mr. Hosmer Angel vanish from your memory, as he has done from your life.”
 “Then you don’t think I’ll see him again?”
@@ -1982,9 +1838,6 @@ it.”
 “Well, she had a slate-coloured, broad-brimmed straw hat, with a feather of
 a brickish red. Her jacket was black, with black beads sewn upon it, and a fringe of
 little black jet ornaments. Her dress was brown, rather darker than coffee colour,
-
-
-### ADVENTURE III. A CASE OF IDENTITY 45
 
 with a little purple plush at the neck and sleeves. Her gloves were greyish and
 were worn through at the right forefinger. Her boots I didn’t observe. She had
@@ -2031,9 +1884,6 @@ tweed trousers, with brown gaiters over elastic-sided boots. Known to have been
 employed in an office in Leadenhall Street. Anybody bringing—”
 “That will do,” said Holmes. “As to the letters,” he continued, glancing over
 
-
-### ADVENTURE III. A CASE OF IDENTITY 46
-
 them, “they are very commonplace. Absolutely no clue in them to Mr. Angel, save
 that he quotes Balzac once. There is one remarkable point, however, which will no
 doubt strike you.”
@@ -2077,9 +1927,6 @@ was so dear to him.
 “Well, have you solved it?” I asked as I entered.
 “Yes. It was the bisulphate of baryta.”
 “No, no, the mystery!” I cried.
-
-
-### ADVENTURE III. A CASE OF IDENTITY 47
 
 “Oh, that! I thought of the salt that I have been working upon. There was
 never any mystery in the matter, though, as I said yesterday, some of the details
@@ -2126,9 +1973,6 @@ these days on the typewriter and its relation to crime. It is a subject to which
 devoted some little attention. I have here four letters which purport to come from
 the missing man. They are all typewritten. In each case, not only are the ‘e’s’
 
-
-### ADVENTURE III. A CASE OF IDENTITY 48
-
 slurred and the ‘r’s’ tailless, but you will observe, if you care to use my magnify-
 ing lens, that the fourteen other characteristics to which I have alluded are there as
 well.”
@@ -2173,9 +2017,6 @@ secure on account of the girl’s short sight, he appears as Mr. Hosmer Angel, a
 keeps off other lovers by making love himself.”
 “It was only a joke at first,” groaned our visitor. “We never thought that she
 would have been so carried away.”
-
-
-### ADVENTURE III. A CASE OF IDENTITY 49
 
 “Very likely not. However that may be, the young lady was very decidedly
 carried away, and, having quite made up her mind that her stepfather was in France,
@@ -2222,9 +2063,6 @@ have some strong object for his curious conduct, and it was equally clear that t
 only man who really profited by the incident, as far as we could see, was the step-
 father. Then the fact that the two men were never together, but that the one always
 
-
-### ADVENTURE III. A CASE OF IDENTITY 50
-
 appeared when the other was away, was suggestive. So were the tinted spectacles
 and the curious voice, which both hinted at a disguise, as did the bushy whiskers.
 My suspicions were all confirmed by his peculiar action in typewriting his signa-
@@ -2249,15 +2087,14 @@ Voil tout!”
 snatches a delusion from a woman.’ There is as much sense in Hafiz as in Horace,
 and as much knowledge of the world.”
 
-
-Adventure IV
+#### Adventure IV
 
 ## The Boscombe Valley Mystery
 
-# W
+## W
 
 ```
-Ewere seated at breakfast one morning, my wife and I, when the maid
+E were seated at breakfast one morning, my wife and I, when the maid
 brought in a telegram. It was from Sherlock Holmes and ran in this
 way:
 ```
@@ -2289,12 +2126,6 @@ of note-taking and of meditation, until we were past Reading. Then he suddenly
 rolled them all into a gigantic ball and tossed them up onto the rack.
 “Have you heard anything of the case?” he asked.
 “Not a word. I have not seen a paper for some days.”
-
-```
-51
-```
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 52
 
 “The London press has not had very full accounts. I have just been looking
 through all the recent papers in order to master the particulars. It seems, from what
@@ -2339,9 +2170,6 @@ Mr. McCarthy pass he had seen his son, Mr. James McCarthy, going the same way
 with a gun under his arm. To the best of his belief, the father was actually in sight
 at the time, and the son was following him. He thought no more of the matter until
 he heard in the evening of the tragedy that had occurred.
-
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 53
 
 “The two McCarthys were seen after the time when William Crowder, the
 game-keeper, lost sight of them. The Boscombe Pool is thickly wooded round,
@@ -2388,9 +2216,6 @@ to be gained out of this case.”
 been by no means obvious to Mr. Lestrade. You know me too well to think that
 I am boasting when I say that I shall either confirm or destroy his theory by means
 
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 54
-
 which he is quite incapable of employing, or even of understanding. To take the
 first example to hand, I very clearly perceive that in your bedroom the window
 is upon the right-hand side, and yet I question whether Mr. Lestrade would have
@@ -2434,9 +2259,6 @@ I shook my head. “Many men have been hanged on far slighter evidence,”
 I remarked.
 “So they have. And many men have been wrongfully hanged.”
 “What is the young man’s own account of the matter?”
-
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 55
 
 “It is, I am afraid, not very encouraging to his supporters, though there are one
 or two points in it which are suggestive. You will find it here, and may read it for
@@ -2484,9 +2306,6 @@ Witness: ‘He mumbled a few words, but I could only catch some
 allusion to a rat.’
 The Coroner: ‘What did you understand by that?’
 ```
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 56
-
 ```
 Witness: ‘It conveyed no meaning to me. I thought that he was
 delirious.’
@@ -2533,9 +2352,6 @@ This concluded the examination of the witness.
 “I see,” said I as I glanced down the column, “that the coroner in his concluding
 remarks was rather severe upon young McCarthy. He calls attention, and with
 
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 57
-
 reason, to the discrepancy about his father having signalled to him before seeing
 him, also to his refusal to give details of his conversation with his father, and his
 singular account of his father’s dying words. They are all, as he remarks, very
@@ -2579,9 +2395,6 @@ He had hardly spoken before there rushed into the room one of the most lovely
 young women that I have ever seen in my life. Her violet eyes shining, her lips
 parted, a pink flush upon her cheeks, all thought of her natural reserve lost in her
 overpowering excitement and concern.
-
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 58
 
 “Oh, Mr. Sherlock Holmes!” she cried, glancing from one to the other of us,
 and finally, with a woman’s quick intuition, fastening upon my companion, “I am
@@ -2628,9 +2441,6 @@ money.”
 “Yes, certainly.”
 “Thank you, Miss Turner. You have been of material assistance to me.”
 
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 59
-
 “You will tell me if you have any news to-morrow. No doubt you will go to the
 prison to see James. Oh, if you do, Mr. Holmes, do tell him that I know him to be
 innocent.”
@@ -2675,9 +2485,6 @@ A man dying from a sudden blow does not commonly become delirious. No, it
 was more likely to be an attempt to explain how he met his fate. But what could
 it indicate? I cudgelled my brains to find some possible explanation. And then the
 incident of the grey cloth seen by young McCarthy. If that were true the murderer
-
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 60
 
 must have dropped some part of his dress, presumably his overcoat, in his flight,
 and must have had the hardihood to return and to carry it away at the instant when
@@ -2724,9 +2531,6 @@ all that he has suffered.”
 “Ah! who? I would call your attention very particularly to two points. One
 is that the murdered man had an appointment with someone at the pool, and that
 
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 61
-
 the someone could not have been his son, for his son was away, and he did not
 know when he would return. The second is that the murdered man was heard to
 cry ’Cooee!’ before he knew that his son had returned. Those are the crucial points
@@ -2771,9 +2575,6 @@ the weight of this horror still lay heavy upon it. We called at the door, when t
 maid, at Holmes’ request, showed us the boots which her master wore at the time
 of his death, and also a pair of the son’s, though not the pair which he had then had.
 Having measured these very carefully from seven or eight different points, Holmes
-
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 62
 
 desired to be led to the court-yard, from which we all followed the winding track
 which led to Boscombe Pool.
@@ -2820,9 +2621,6 @@ than to us. “These are young McCarthy’s feet. Twice he was walking, and once
 ran swiftly, so that the soles are deeply marked and the heels hardly visible. That
 bears out his story. He ran when he saw his father on the ground. Then here are
 
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 63
-
 the father’s feet as he paced up and down. What is this, then? It is the butt-end
 of the gun as the son stood listening. And this? Ha, ha! What have we here?
 Tiptoes! tiptoes! Square, too, quite unusual boots! They come, they go, they come
@@ -2867,9 +2665,6 @@ London by the evening train.”
 “But the mystery?”
 “It is solved.”
 “Who was the criminal, then?”
-
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 64
 
 “The gentleman I describe.”
 “But who is he?”
@@ -2916,9 +2711,6 @@ of Ballarat.”
 “It is obvious. And now, you see, I had narrowed the field down considerably.
 The possession of a grey garment was a third point which, granting the son’s state-
 
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 65
-
 ment to be correct, was a certainty. We have come now out of mere vagueness to
 the definite conception of an Australian from Ballarat with a grey cloak.”
 “Certainly.”
@@ -2963,9 +2755,6 @@ deep-lined, craggy features, and his enormous limbs showed that he was possessed
 of unusual strength of body and of character. His tangled beard, grizzled hair, and
 outstanding, drooping eyebrows combined to give an air of dignity and power to
 his appearance, but his face was of an ashen white, while his lips and the corners
-
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 66
 
 of his nostrils were tinged with a shade of blue. It was clear to me at a glance that
 he was in the grip of some deadly and chronic disease.
@@ -3012,9 +2801,6 @@ had a wild, free life of it, sticking up a station from time to time, or stoppin
 wagons on the road to the diggings. Black Jack of Ballarat was the name I went
 under, and our party is still remembered in the colony as the Ballarat Gang.
 
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 67
-
 “One day a gold convoy came down from Ballarat to Melbourne, and we lay in
 wait for it and attacked it. There were six troopers and six of us, so it was a close
 thing, but we emptied four of their saddles at the first volley. Three of our boys
@@ -3060,9 +2846,6 @@ I was already a dying and a desperate man. Though clear of mind and fairly stron
 of limb, I knew that my own fate was sealed. But my memory and my girl! Both
 could be saved if I could but silence that foul tongue. I did it, Mr. Holmes. I would
 
-
-### ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY 68
-
 do it again. Deeply as I have sinned, I have led a life of martyrdom to atone for
 it. But that my girl should be entangled in the same meshes which held me was
 more than I could suffer. I struck him down with no more compunction than if he
@@ -3092,14 +2875,13 @@ counsel. Old Turner lived for seven months after our interview, but he is now de
 and there is every prospect that the son and daughter may come to live happily
 together in ignorance of the black cloud which rests upon their past.
 
-
-Adventure V
+#### Adventure V
 
 ## The Five Orange Pips
 
-# W
+## W
 
-HENI glance over my notes and records of the Sherlock Holmes cases
+HEN I glance over my notes and records of the Sherlock Holmes cases
 between the years ‘82 and ‘90, I am faced by so many which present
 strange and interesting features that it is no easy matter to know which
 to choose and which to leave. Some, however, have already gained
@@ -3129,11 +2911,6 @@ my pen to describe.
 It was in the latter days of September, and the equinoctial gales had set in
 with exceptional violence. All day the wind had screamed and the rain had beaten
 against the windows, so that even here in the heart of great, hand-made London
-
-### 69
-
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 70
 
 we were forced to raise our minds for the instant from the routine of life and to
 recognise the presence of those great elemental forces which shriek at mankind
@@ -3180,9 +2957,6 @@ saved him in the Tankerville Club scandal.”
 “Ah, of course. He was wrongfully accused of cheating at cards.”
 “He said that you could solve anything.”
 
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 71
-
 “He said too much.”
 “That you are never beaten.”
 “I have been beaten four times—three times by men, and once by a woman.”
@@ -3227,9 +3001,6 @@ brandy and smoked very heavily, but he would see no society and did not want any
 friends, not even his own brother.
 “He didn’t mind me; in fact, he took a fancy to me, for at the time when he
 saw me first I was a youngster of twelve or so. This would be in the year 1878,
-
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 72
 
 after he had been eight or nine years in England. He begged my father to let me
 live with him and he was very kind to me in his way. When he was sober he used
@@ -3276,9 +3047,6 @@ I am sorry to give you such a two-edged thing, but I can’t say what turn thing
 going to take. Kindly sign the paper where Mr. Fordham shows you.’
 “I signed the paper as directed, and the lawyer took it away with him. The
 
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 73
-
 singular incident made, as you may think, the deepest impression upon me, and
 I pondered over it and turned it every way in my mind without being able to make
 anything of it. Yet I could not shake off the vague feeling of dread which it left
@@ -3323,9 +3091,6 @@ the repute of a brave soldier. Others were of a date during the reconstruction o
 Southern states, and were mostly concerned with politics, for he had evidently
 taken a strong part in opposing the carpet-bag politicians who had been sent down
 from the North.
-
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 74
 
 “Well, it was the beginning of ‘84 when my father came to live at Horsham,
 and all went as well as possible with us until the January of ‘85. On the fourth day
@@ -3372,9 +3137,6 @@ some foul plot had been woven round him.
 “In this sinister way I came into my inheritance. You will ask me why I did
 not dispose of it? I answer, because I was well convinced that our troubles were
 
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 75
-
 in some way dependent upon an incident in my uncle’s life, and that the danger
 would be as pressing in one house as in another.
 “It was in January, ‘85, that my poor father met his end, and two years and eight
@@ -3419,9 +3181,6 @@ us—no suggestive detail which might help us?”
 “There is one thing,” said John Openshaw. He rummaged in his coat pocket,
 and, drawing out a piece of discoloured, blue-tinted paper, he laid it out upon
 the table. “I have some remembrance,” said he, “that on the day when my uncle
-
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 76
 
 burned the papers I observed that the small, unburned margins which lay amid
 the ashes were of this particular colour. I found this single sheet upon the floor
@@ -3469,9 +3228,6 @@ safety. And yet you cannot guard yourself too closely.”
 “That is well. To-morrow I shall set to work upon your case.”
 “I shall see you at Horsham, then?”
 
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 77
-
 “No, your secret lies in London. It is there that I shall seek it.”
 “Then I shall call upon you in a day, or in two days, with news as to the box
 and the papers. I shall take your advice in every particular.” He shook hands with
@@ -3517,9 +3273,6 @@ ology profound as regards the mud-stains from any region within fifty miles of
 town, chemistry eccentric, anatomy unsystematic, sensational literature and crime
 records unique, violin-player, boxer, swordsman, lawyer, and self-poisoner by co-
 
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 78
-
 caine and tobacco. Those, I think, were the main points of my analysis.”
 Holmes grinned at the last item. “Well,” he said, “I say now, as I said then,
 that a man should keep his little brain-attic stocked with all the furniture that he
@@ -3563,9 +3316,6 @@ new case, and why I urged young Openshaw to caution. The blow has always fallen
 at the end of the time which it would take the senders to travel the distance. But
 this one comes from London, and therefore we cannot count upon delay.”
 “Good God!” I cried. “What can it mean, this relentless persecution?”
-
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 79
 
 “The papers which Openshaw carried are obviously of vital importance to the
 person or persons in the sailing-ship. I think that it is quite clear that there must
@@ -3611,9 +3361,6 @@ until it is recovered.”
 B, and C’—that is, sent the society’s warning to them. Then there are successive
 entries that A and B cleared, or left the country, and finally that C was visited,
 with, I fear, a sinister result for C. Well, I think, Doctor, that we may let some light
-
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 80
 
 into this dark place, and I believe that the only chance young Openshaw has in the
 meantime is to do what I have told him. There is nothing more to be said or to be
@@ -3661,9 +3408,6 @@ I had ever seen him.
 “That hurts my pride, Watson,” he said at last. “It is a petty feeling, no doubt,
 but it hurts my pride. It becomes a personal matter with me now, and, if God sends
 
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 81
-
 me health, I shall set my hand upon this gang. That he should come to me for
 help, and that I should send him away to his death—!” He sprang from his chair
 and paced about the room in uncontrollable agitation, with a flush upon his sallow
@@ -3708,9 +3452,6 @@ papers, following the future career of every vessel which touched at Pondicherry
 in January and February in ‘83. There were thirty-six ships of fair tonnage which
 were reported there during those months. Of these, one, the ‘Lone Star,’ instantly
 
-
-### ADVENTURE V. THE FIVE ORANGE PIPS 82
-
 attracted my attention, since, although it was reported as having cleared from Lon-
 don, the name is that which is given to one of the states of the Union.”
 “Texas, I think.”
@@ -3743,14 +3484,13 @@ that somewhere far out in the Atlantic a shattered stern-post of a boat was seen
 swinging in the trough of a wave, with the letters “L. S.” carved upon it, and that is
 all which we shall ever know of the fate of the “Lone Star.”
 
-
-Adventure VI
+#### Adventure VI
 
 ## The Man With The Twisted Lip
 
-# I
+## I
 
-SAWhitney, brother of the late Elias Whitney, D.D., Principal of the The-
+SA Whitney, brother of the late Elias Whitney, D.D., Principal of the The-
 ological College of St. George’s, was much addicted to opium. The habit
 grew upon him, as I understand, from some foolish freak when he was
 at college; for having read De Quincey’s description of his dreams and
@@ -3780,11 +3520,6 @@ Folk who were in grief came to my wife like birds to a light-house.
 “It was very sweet of you to come. Now, you must have some wine and water,
 and sit here comfortably and tell us all about it. Or should you rather that I sent
 James off to bed?”
-
-### 83
-
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 84
 
 “Oh, no, no! I want the doctor’s advice and help, too. It’s about Isa. He has
 not been home for two days. I am so frightened about him!”
@@ -3831,9 +3566,6 @@ little heed to the words of his neighbour. At the farther end was a small brazie
 burning charcoal, beside which on a three-legged wooden stool there sat a tall, thin
 old man, with his jaw resting upon his two fists, and his elbows upon his knees,
 
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 85
-
 staring into the fire.
 As I entered, a sallow Malay attendant had hurried up with a pipe for me and
 a supply of the drug, beckoning me to an empty berth.
@@ -3877,9 +3609,6 @@ into a doddering, loose-lipped senility.
 the great kindness to get rid of that sottish friend of yours I should be exceedingly
 glad to have a little talk with you.”
 “I have a cab outside.”
-
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 86
 
 “Then pray send him home in it. You may safely trust him, for he appears to
 be too limp to get into any mischief. I should recommend you also to send a note
@@ -3926,9 +3655,6 @@ come with me, won’t you?”
 “Oh, a trusty comrade is always of use; and a chronicler still more so. My room
 at The Cedars is a double-bedded one.”
 
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 87
-
 “The Cedars?”
 “Yes; that is Mr. St. Clair’s house. I am staying there while I conduct the in-
 quiry.”
@@ -3973,9 +3699,6 @@ ing, returning by the 5:14 from Cannon Street every night. Mr. St. Clair is now
 thirty-seven years of age, is a man of temperate habits, a good husband, a very
 affectionate father, and a man who is popular with all who know him. I may add
 that his whole debts at the present moment, as far as we have been able to ascer-
-
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 88
 
 tain, amount to 88 pounds 10s., while he has 220 pounds standing to his credit in
 the Capital and Counties Bank. There is no reason, therefore, to think that money
@@ -4022,9 +3745,6 @@ that the inspector was staggered, and had almost come to believe that Mrs. St. C
 had been deluded when, with a cry, she sprang at a small deal box which lay upon
 the table and tore the lid from it. Out there fell a cascade of children’s bricks. It
 
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 89
-
 was the toy which he had promised to bring home.
 “This discovery, and the evident confusion which the cripple showed, made the
 inspector realise that the matter was serious. The rooms were carefully examined,
@@ -4069,9 +3789,6 @@ upper lip, a bulldog chin, and a pair of very penetrating dark eyes, which prese
 a singular contrast to the colour of his hair, all mark him out from amid the common
 crowd of mendicants and so, too, does his wit, for he is ever ready with a reply to
 any piece of chaff which may be thrown at him by the passers-by. This is the man
-
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 90
 
 whom we now learn to have been the lodger at the opium den, and to have been the
 last man to see the gentleman of whom we are in quest.”
@@ -4118,9 +3835,6 @@ which could have seen the deed. What would he do then? It would of course
 instantly strike him that he must get rid of the tell-tale garments. He would seize
 the coat, then, and be in the act of throwing it out, when it would occur to him that it
 
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 91
-
 would swim and not sink. He has little time, for he has heard the scuffle downstairs
 when the wife tried to force her way up, and perhaps he has already heard from his
 Lascar confederate that the police are hurrying up the street. There is not an instant
@@ -4165,9 +3879,6 @@ the door, one half-raised in her eagerness, her body slightly bent, her head and
 protruded, with eager eyes and parted lips, a standing question.
 “Well?” she cried, “well?” And then, seeing that there were two of us, she gave
 a cry of hope which sank into a groan as she saw that my companion shook his
-
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 92
 
 head and shrugged his shoulders.
 “No good news?”
@@ -4214,9 +3925,6 @@ Sherlock Holmes sprang out of his chair as if he had been galvanised.
 He snatched it from her in his eagerness, and smoothing it out upon the table he
 drew over the lamp and examined it intently. I had left my chair and was gazing at
 
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 93
-
 it over his shoulder. The envelope was a very coarse one and was stamped with the
 Gravesend postmark and with the date of that very day, or rather of the day before,
 for it was considerably after midnight.
@@ -4260,9 +3968,6 @@ to-day.”
 There is so keen a sympathy between us that I should know if evil came upon him.
 On the very day that I saw him last he cut himself in the bedroom, and yet I in the
 dining-room rushed upstairs instantly with the utmost certainty that something had
-
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 94
 
 happened. Do you think that I would respond to such a trifle and yet be ignorant of
 his death?”
@@ -4309,9 +4014,6 @@ fathomed it or convinced himself that his data were insufficient. It was soon ev
 to me that he was now preparing for an all-night sitting. He took off his coat and
 waistcoat, put on a large blue dressing-gown, and then wandered about the room
 
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 95
-
 collecting pillows from his bed and cushions from the sofa and armchairs. With
 these he constructed a sort of Eastern divan, upon which he perched himself cross-
 legged, with an ounce of shag tobacco and a box of matches laid out in front of
@@ -4357,9 +4059,6 @@ dows as we drove through the streets of the Surrey side. Passing down the Waterl
 Bridge Road we crossed over the river, and dashing up Wellington Street wheeled
 sharply to the right and found ourselves in Bow Street. Sherlock Holmes was well
 
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 96
-
 known to the force, and the two constables at the door saluted him. One of them
 held the horse’s head while the other led us in.
 “Who is on duty?” asked Holmes.
@@ -4404,9 +4103,6 @@ and I took the liberty of bringing the tools with me.” He opened the Gladstone
 as he spoke, and took out, to my astonishment, a very large bath-sponge.
 “He! he! You are a funny one,” chuckled the inspector.
 
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 97
-
 “Now, if you will have the great goodness to open that door very quietly, we
 will soon make him cut a much more respectable figure.”
 “Well, I don’t know why not,” said the inspector. “He doesn’t look a credit to
@@ -4450,9 +4146,6 @@ proper authorities. The case would then never go into court at all.”
 “God bless you!” cried the prisoner passionately. “I would have endured im-
 prisonment, ay, even execution, rather than have left my miserable secret as a fam-
 ily blot to my children.
-
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 98
 
 “You are the first who have ever heard my story. My father was a schoolmaster
 in Chesterfield, where I received an excellent education. I travelled in my youth,
@@ -4499,9 +4192,6 @@ My dear wife knew that I had business in the City. She little knew what.
 “Last Monday I had finished for the day and was dressing in my room above
 the opium den when I looked out of my window and saw, to my horror and as-
 
-
-### ADVENTURE VI. THE MAN WITH THE TWISTED LIP 99
-
 tonishment, that my wife was standing in the street, with her eyes fixed full upon
 me. I gave a cry of surprise, threw up my arms to cover my face, and, rushing to
 my confidant, the Lascar, entreated him to prevent anyone from coming up to me.
@@ -4541,14 +4231,14 @@ you reach your results.”
 ing an ounce of shag. I think, Watson, that if we drive to Baker Street we shall just
 be in time for breakfast.”
 
+#### Adventure VII
 
-Adventure VII
 
 ## The Adventure Of The Blue Carbuncle
 
-# I
+## I
 
-HADcalled upon my friend Sherlock Holmes upon the second morning
+HAD called upon my friend Sherlock Holmes upon the second morning
 after Christmas, with the intention of wishing him the compliments of the
 season. He was lounging upon the sofa in a purple dressing-gown, a pipe-
 rack within his reach upon the right, and a pile of crumpled morning
@@ -4576,11 +4266,6 @@ which may be striking and bizarre without being criminal. We have already had
 experience of such.”
 “So much so,” I remarked, “that of the last six cases which I have added to my
 notes, three have been entirely free of any legal crime.”
-
-### 100
-
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 101
 
 “Precisely. You allude to my attempt to recover the Irene Adler papers, to the
 singular case of Miss Mary Sutherland, and to the adventure of the man with the
@@ -4627,9 +4312,6 @@ of the unknown gentleman who lost his Christmas dinner.”
 “Only as much as we can deduce.”
 “From his hat?”
 
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 102
-
 “Precisely.”
 “But you are joking. What can you gather from this old battered felt?”
 “Here is my lens. You know my methods. What can you gather yourself as to
@@ -4675,9 +4357,6 @@ said he; “a man with so large a brain must have something in it.”
 “This hat is three years old. These flat brims curled at the edge came in then.
 It is a hat of the very best quality. Look at the band of ribbed silk and the excellent
 
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 103
-
 lining. If this man could afford to buy so expensive a hat three years ago, and has
 had no hat since, then he has assuredly gone down in the world.”
 “Well, that is clear enough, certainly. But how about the foresight and the
@@ -4722,9 +4401,6 @@ Sherlock Holmes had opened his mouth to reply, when the door flew open, and
 Peterson, the commissionaire, rushed into the apartment with flushed cheeks and
 the face of a man who is dazed with astonishment.
 “The goose, Mr. Holmes! The goose, sir!” he gasped.
-
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 104
 
 “Eh? What of it, then? Has it returned to life and flapped off through the
 kitchen window?” Holmes twisted himself round upon the sofa to get a fairer view
@@ -4772,9 +4448,6 @@ table. Ryder instantly gave the alarm, and Horner was arrested the
 same evening; but the stone could not be found either upon his person
 or in his rooms. Catherine Cusack, maid to the Countess, deposed to
 ```
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 105
-
 ```
 having heard Ryder’s cry of dismay on discovering the robbery, and
 to having rushed into the room, where she found matters as described
@@ -4821,9 +4494,6 @@ against the light. “It’s a bonny thing,” said he. “Just see how it glint
 Of course it is a nucleus and focus of crime. Every good stone is. They are the
 devil’s pet baits. In the larger and older jewels every facet may stand for a bloody
 
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 106
-
 deed. This stone is not yet twenty years old. It was found in the banks of the
 Amoy River in southern China and is remarkable in having every characteristic of
 the carbuncle, save that it is blue in shade instead of ruby red. In spite of its youth,
@@ -4867,9 +4537,6 @@ with the collar turned up, and his lank wrists protruded from his sleeves withou
 a sign of cuff or shirt. He spoke in a slow staccato fashion, choosing his words
 with care, and gave the impression generally of a man of learning and letters who
 had had ill-usage at the hands of fortune.
-
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 107
 
 “We have retained these things for some days,” said Holmes, “because we ex-
 pected to see an advertisement from you giving your address. I am at a loss to
@@ -4916,9 +4583,6 @@ It was a bitter night, so we drew on our ulsters and wrapped cravats about our
 throats. Outside, the stars were shining coldly in a cloudless sky, and the breath of
 the passers-by blew out into smoke like so many pistol shots. Our footfalls rang
 
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 108
-
 out crisply and loudly as we swung through the doctors’ quarter, Wimpole Street,
 Harley Street, and so through Wigmore Street into Oxford Street. In a quarter of an
 hour we were in Bloomsbury at the Alpha Inn, which is a small public-house at the
@@ -4963,9 +4627,6 @@ marble.
 To my surprise the question provoked a burst of anger from the salesman.
 “Now, then, mister,” said he, with his head cocked and his arms akimbo, “what
 are you driving at? Let’s have it straight, now.”
-
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 109
 
 “It is straight enough. I should like to know who sold you the geese which you
 supplied to the Alpha.”
@@ -5012,9 +4673,6 @@ Brixton Road, egg and poultry supplier.’ ”
 “ ‘December 22nd. Twenty-four geese at 7s. 6d.’ ”
 “Quite so. There you are. And underneath?”
 
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 110
-
 “ ‘Sold to Mr. Windigate of the Alpha, at 12s.’ ”
 “What have you to say now?”
 Sherlock Holmes looked deeply chagrined. He drew a sovereign from his
@@ -5060,9 +4718,6 @@ assistance to you.”
 don’t know.”
 “But you can know nothing of this?”
 
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 111
-
 “Excuse me, I know everything of it. You are endeavouring to trace some
 geese which were sold by Mrs. Oakshott, of Brixton Road, to a salesman named
 Breckinridge, by him in turn to Mr. Windigate, of the Alpha, and by him to his
@@ -5106,9 +4761,6 @@ Our visitor staggered to his feet and clutched the mantelpiece with his right
 hand. Holmes unlocked his strong-box and held up the blue carbuncle, which
 shone out like a star, with a cold, brilliant, many-pointed radiance. Ryder stood
 glaring with a drawn face, uncertain whether to claim or to disown it.
-
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 112
 
 “The game’s up, Ryder,” said Holmes quietly. “Hold up, man, or you’ll be into
 the fire! Give him an arm back into his chair, Watson. He’s not got blood enough
@@ -5155,9 +4807,6 @@ the market. All the way there every man I met seemed to me to be a policeman or
 a detective; and, for all that it was a cold night, the sweat was pouring down my
 face before I came to the Brixton Road. My sister asked me what was the matter,
 
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 113
-
 and why I was so pale; but I told her that I had been upset by the jewel robbery at
 the hotel. Then I went into the back yard and smoked a pipe and wondered what it
 would be best to do.
@@ -5203,9 +4852,6 @@ some terrible mistake had occurred. I left the bird, rushed back to my sister’
 hurried into the back yard. There was not a bird to be seen there.
 “ ‘Where are they all, Maggie?’ I cried.
 
-
-### ADVENTURE VII. THE ADVENTURE OF THE BLUE CARBUNCLE 114
-
 “ ‘Gone to the dealer’s, Jem.’
 “ ‘Which dealer’s?’
 “ ‘Breckinridge, of Covent Garden.’
@@ -5240,14 +4886,15 @@ sical problem, and its solution is its own reward. If you will have the goodness
 touch the bell, Doctor, we will begin another investigation, in which, also a bird
 will be the chief feature.”
 
+#### Adventure VIII
 
-Adventure VIII
+## The Adventure Of The Speckled
 
-## The Adventure Of The Speckled Band
+## Band
 
-# O
+## O
 
-Nglancing over my notes of the seventy odd cases in which I have
+N glancing over my notes of the seventy odd cases in which I have
 during the last eight years studied the methods of my friend Sher-
 lock Holmes, I find many tragic, some comic, a large number merely
 strange, but none commonplace; for, working as he did rather for the
@@ -5275,11 +4922,6 @@ morning. Mrs. Hudson has been knocked up, she retorted upon me, and I on you.”
 excitement, who insists upon seeing me. She is waiting now in the sitting-room.
 Now, when young ladies wander about the metropolis at this hour of the morning,
 and knock sleepy people up out of their beds, I presume that it is something very
-
-### 115
-
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 116
 
 pressing which they have to communicate. Should it prove to be an interesting
 case, you would, I am sure, wish to follow it from the outset. I thought, at any rate,
@@ -5326,9 +4968,6 @@ of you from Mrs. Farintosh, whom you helped in the hour of her sore need. It was
 from her that I had your address. Oh, sir, do you not think that you could help me,
 too, and at least throw a little light through the dense darkness which surrounds me?
 
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 117
-
 At present it is out of my power to reward you for your services, but in a month or
 six weeks I shall be married, with the control of my own income, and then at least
 you shall not find me ungrateful.”
@@ -5373,9 +5012,6 @@ disappointed man.
 widow of Major-General Stoner, of the Bengal Artillery. My sister Julia and I were
 twins, and we were only two years old at the time of my mother’s re-marriage. She
 had a considerable sum of money—not less than 1000 pounds a year—and this she
-
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 118
 
 bequeathed to Dr. Roylott entirely while we resided with him, with a provision that
 a certain annual sum should be allowed to each of us in the event of our marriage.
@@ -5422,9 +5058,6 @@ deprived me of my only companion.”
 Sherlock Holmes had been leaning back in his chair with his eyes closed and
 his head sunk in a cushion, but he half opened his lids now and glanced across at
 
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 119
-
 his visitor.
 “Pray be precise as to details,” said he.
 “It is easy for me to be so, for every event of that dreadful time is seared into
@@ -5469,9 +5102,6 @@ subtle are the links which bind two souls which are so closely allied. It was a 
 night. The wind was howling outside, and the rain was beating and splashing
 against the windows. Suddenly, amid all the hubbub of the gale, there burst forth
 the wild scream of a terrified woman. I knew that it was my sister’s voice. I sprang
-
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 120
 
 from my bed, wrapped a shawl round me, and rushed into the corridor. As I opened
 my door I seemed to hear a low whistle, such as my sister described, and a few mo-
@@ -5518,9 +5148,6 @@ there were no marks of any violence upon her.”
 “It is my belief that she died of pure fear and nervous shock, though what it
 was that frightened her I cannot imagine.”
 
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 121
-
 “Were there gipsies in the plantation at the time?”
 “Yes, there are nearly always some there.”
 “Ah, and what did you gather from this allusion to a band—a speckled band?”
@@ -5565,9 +5192,6 @@ possible for us to see over these rooms without the knowledge of your stepfather
 “As it happens, he spoke of coming into town to-day upon some most important
 business. It is probable that he will be away all day, and that there would be nothing
 
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 122
-
 to disturb you. We have a housekeeper now, but she is old and foolish, and I could
 easily get her out of the way.”
 “Excellent. You are not averse to this trip, Watson?”
@@ -5611,9 +5235,6 @@ a hunting-crop swinging in his hand. So tall was he that his hat actually brushe
 the cross bar of the doorway, and his breadth seemed to span it across from side to
 side. A large face, seared with a thousand wrinkles, burned yellow with the sun,
 and marked with every evil passion, was turned from one to the other of us, while
-
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 123
 
 his deep-set, bile-shot eyes, and his high, thin, fleshless nose, gave him somewhat
 the resemblance to a fierce old bird of prey.
@@ -5660,9 +5281,6 @@ which it is concerned. The total income, which at the time of the wife’s death
 little short of 1100 pounds, is now, through the fall in agricultural prices, not more
 than 750 pounds. Each daughter can claim an income of 250 pounds, in case of
 
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 124
-
 marriage. It is evident, therefore, that if both girls had married, this beauty would
 have had a mere pittance, while even one of them would cripple him to a very
 serious extent. My morning’s work has not been wasted, since it has proved that he
@@ -5707,9 +5325,6 @@ spoke her joy. “I have been waiting so eagerly for you,” she cried, shaking 
 with us warmly. “All has turned out splendidly. Dr. Roylott has gone to town, and
 it is unlikely that he will be back before evening.”
 “We have had the pleasure of making the doctor’s acquaintance,” said Holmes,
-
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 125
 
 and in a few words he sketched out what had occurred. Miss Stoner turned white
 to the lips as she listened.
@@ -5756,9 +5371,6 @@ rooms opened. Holmes refused to examine the third chamber, so we passed at once
 to the second, that in which Miss Stoner was now sleeping, and in which her sister
 had met with her fate. It was a homely little room, with a low ceiling and a gaping
 
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 126
-
 fireplace, after the fashion of old country-houses. A brown chest of drawers stood
 in one corner, a narrow white-counterpaned bed in another, and a dressing-table
 on the left-hand side of the window. These articles, with two small wicker-work
@@ -5802,9 +5414,6 @@ Dr. Grimesby Roylott’s chamber was larger than that of his step-daughter, but
 was as plainly furnished. A camp-bed, a small wooden shelf full of books, mostly
 of a technical character, an armchair beside the bed, a plain wooden chair against
 the wall, a round table, and a large iron safe were the principal things which met
-
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 127
 
 the eye. Holmes walked slowly round and examined each and all of them with the
 keenest interest.
@@ -5850,9 +5459,6 @@ there?”
 “Very good. Your windows would be visible from there?”
 “Certainly.”
 
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 128
-
 “You must confine yourself to your room, on pretence of a headache, when
 your stepfather comes back. Then when you hear him retire for the night, you must
 open the shutters of your window, undo the hasp, put your lamp there as a signal
@@ -5896,9 +5502,6 @@ element of danger.”
 visible to me.”
 “No, but I fancy that I may have deduced a little more. I imagine that you saw
 all that I did.”
-
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 129
 
 “I saw nothing remarkable save the bell-rope, and what purpose that could
 answer I confess is more than I can imagine.”
@@ -5945,9 +5548,6 @@ There was little difficulty in entering the grounds, for unrepaired breaches
 gaped in the old park wall. Making our way among the trees, we reached the lawn,
 crossed it, and were about to enter through the window when out from a clump of
 
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 130
-
 laurel bushes there darted what seemed to be a hideous and distorted child, who
 threw itself upon the grass with writhing limbs and then ran swiftly across the lawn
 into the darkness.
@@ -5992,9 +5592,6 @@ another sound became audible—a very gentle, soothing sound, like that of a sma
 jet of steam escaping continually from a kettle. The instant that we heard it, Holmes
 sprang from the bed, struck a match, and lashed furiously with his cane at the bell-
 pull.
-
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 131
 
 “You see it, Watson?” he yelled. “You see it?”
 But I saw nothing. At the moment when Holmes struck the light I heard a low,
@@ -6041,9 +5638,6 @@ It is not necessary that I should prolong a narrative which has already run to t
 great a length by telling how we broke the sad news to the terrified girl, how we
 conveyed her by the morning train to the care of her good aunt at Harrow, of how
 
-
-### ADVENTURE VIII. THE ADVENTURE OF THE SPECKLED BAND 132
-
 the slow process of official inquiry came to the conclusion that the doctor met his
 fate while indiscreetly playing with a dangerous pet. The little which I had yet to
 learn of the case was told me by Sherlock Holmes as we travelled back next day.
@@ -6089,14 +5683,15 @@ flew upon the first person it saw. In this way I am no doubt indirectly responsi
 for Dr. Grimesby Roylott’s death, and I cannot say that it is likely to weigh very
 heavily upon my conscience.”
 
+#### Adventure IX
 
-Adventure IX
+## The Adventure Of The
 
-## The Adventure Of The Engineer’s Thumb
+## Engineer’s Thumb
 
-# O
+## O
 
-Fall the problems which have been submitted to my friend, Mr. Sher-
+F all the problems which have been submitted to my friend, Mr. Sher-
 lock Holmes, for solution during the years of our intimacy, there were
 only two which I was the means of introducing to his notice—that of
 Mr. Hatherley’s thumb, and that of Colonel Warburton’s madness. Of
@@ -6124,11 +5719,6 @@ One morning, at a little before seven o’clock, I was awakened by the maid
 tapping at the door to announce that two men had come from Paddington and were
 waiting in the consulting-room. I dressed hurriedly, for I knew by experience that
 railway cases were seldom trivial, and hastened downstairs. As I descended, my
-
-### 133
-
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 134
 
 old ally, the guard, came out of the room and closed the door tightly behind him.
 “I’ve got him here,” he whispered, jerking his thumb over his shoulder; “he’s
@@ -6176,9 +5766,6 @@ to my thumb, or rather to the place where my thumb used to be.”
 He unwound the handkerchief and held out his hand. It gave even my hardened
 nerves a shudder to look at it. There were four protruding fingers and a horrid red,
 
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 135
-
 spongy surface where the thumb should have been. It had been hacked or torn right
 out from the roots.
 “Good heavens!” I cried, “this is a terrible injury. It must have bled consider-
@@ -6222,9 +5809,6 @@ as well. Would you give me an introduction to him?”
 “We’ll call a cab and go together. We shall just be in time to have a little
 breakfast with him. Do you feel equal to it?”
 “Yes; I shall not feel easy until I have told my story.”
-
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 136
 
 “Then my servant will call a cab, and I shall be with you in an instant.” I rushed
 upstairs, explained the matter shortly to my wife, and in five minutes was inside
@@ -6271,9 +5855,6 @@ His whole face sharpened away into nose and chin, and the skin of his cheeks was
 drawn quite tense over his outstanding bones. Yet this emaciation seemed to be his
 natural habit, and due to no disease, for his eye was bright, his step brisk, and his
 
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 137
-
 bearing assured. He was plainly but neatly dressed, and his age, I should judge,
 would be nearer forty than thirty.
 “ ‘Mr. Hatherley?’ said he, with something of a German accent. ’You have
@@ -6318,9 +5899,6 @@ your opinion about a hydraulic stamping machine which has got out of gear. If yo
 show us what is wrong we shall soon set it right ourselves. What do you think of
 such a commission as that?’
 “ ‘The work appears to be light and the pay munificent.’
-
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 138
 
 “ ‘Precisely so. We shall want you to come to-night by the last train.’
 “ ‘Where to?’
@@ -6367,9 +5945,6 @@ little deposit and that in this way we should earn the money which would enable 
 to buy the neighbouring fields. This we have now been doing for some time, and in
 order to help us in our operations we erected a hydraulic press. This press, as I have
 
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 139
-
 already explained, has got out of order, and we wish your advice upon the subject.
 We guard our secret very jealously, however, and if it once became known that we
 had hydraulic engineers coming to our little house, it would soon rouse inquiry,
@@ -6414,9 +5989,6 @@ could go.”
 a chestnut.”
 “Tired-looking or fresh?”
 “Oh, fresh and glossy.”
-
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 140
 
 “Thank you. I am sorry to have interrupted you. Pray continue your most
 interesting statement.”
@@ -6463,9 +6035,6 @@ where in the passage, but otherwise everything was deadly still. A vague feeling
 of uneasiness began to steal over me. Who were these German people, and what
 were they doing living in this strange, out-of-the-way place? And where was the
 
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 141
-
 place? I was ten miles or so from Eyford, that was all I knew, but whether north,
 south, east, or west I had no idea. For that matter, Reading, and possibly other
 large towns, were within that radius, so the place might not be so secluded, after
@@ -6510,9 +6079,6 @@ be a little close.’
 “He shot one of his suspicious looks at me. ‘Perhaps we had better proceed to
 business, then,’ said he. ‘Mr. Ferguson and I will take you up to see the machine.’
 “ ‘I had better put my hat on, I suppose.’
-
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 142
 
 “ ‘Oh, no, it is in the house.’
 “ ‘What, you dig fuller’s-earth in the house?’
@@ -6559,9 +6125,6 @@ a crust of metallic deposit all over it. I had stooped and was scraping at this 
 exactly what it was when I heard a muttered exclamation in German and saw the
 cadaverous face of the colonel looking down at me.
 
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 143
-
 “ ‘What are you doing there?’ he asked.
 “I felt angry at having been tricked by so elaborate a story as that which he had
 told me. ‘I was admiring your fuller’s-earth,’ said I; ‘I think that I should be better
@@ -6606,9 +6169,6 @@ will see that you are not there. Oh, do not waste the so-precious time, but come
 “This time, at least, I did not scorn her advice. I staggered to my feet and ran
 with her along the corridor and down a winding stair. The latter led to another
 broad passage, and just as we reached it we heard the sound of running feet and the
-
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 144
 
 shouting of two voices, one answering the other from the floor on which we were
 and from the one beneath. My guide stopped and looked about her like one who
@@ -6655,9 +6215,6 @@ upon my hand, all that had passed during those dreadful hours might have been an
 evil dream.
 “Half dazed, I went into the station and asked about the morning train. There
 
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 145
-
 would be one to Reading in less than an hour. The same porter was on duty, I found,
 as had been there when I arrived. I inquired of him whether he had ever heard of
 Colonel Lysander Stark. The name was strange to him. Had he observed a car-
@@ -6702,9 +6259,6 @@ the woman’s entreaties.”
 “I hardly think that likely. I never saw a more inexorable face in my life.”
 “Oh, we shall soon clear up all that,” said Bradstreet. “Well, I have drawn my
 circle, and I only wish I knew at what point upon it the folk that we are in search
-
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 146
 
 of are to be found.”
 “I think I could lay my finger on it,” said Holmes quietly.
@@ -6751,9 +6305,6 @@ a long, sharp nose?”
 The station-master laughed heartily. “No, sir, Dr. Becher is an Englishman,
 and there isn’t a man in the parish who has a better-lined waistcoat. But he has
 
-
-### ADVENTURE IX. THE ADVENTURE OF THE ENGINEER’S THUMB 147
-
 a gentleman staying with him, a patient, as I understand, who is a foreigner, and he
 looks as if a little good Berkshire beef would do him no harm.”
 The station-master had not finished his speech before we were all hastening
@@ -6799,14 +6350,15 @@ a fifty-guinea fee, and what have I gained?”
 you have only to put it into words to gain the reputation of being excellent company
 for the remainder of your existence.”
 
+#### Adventure X
 
-Adventure X
+## The Adventure Of The Noble
 
-## The Adventure Of The Noble Bachelor
+## Bachelor
 
-# T
+## T
 
-HELord St. Simon marriage, and its curious termination, have long ceased
+HE Lord St. Simon marriage, and its curious termination, have long ceased
 to be a subject of interest in those exalted circles in which the unfortu-
 nate bridegroom moves. Fresh scandals have eclipsed it, and their more
 piquant details have drawn the gossips away from this four-year-old
@@ -6835,11 +6387,6 @@ He broke the seal and glanced over the contents.
 “Not social, then?”
 “No, distinctly professional.”
 
-### 148
-
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 149
-
 “And from a noble client?”
 “One of the highest in England.”
 “My dear fellow, I congratulate you.”
@@ -6858,7 +6405,7 @@ St. Simon and his wedding?”
 I will read it to you, and in return you must turn over these papers and let me have
 whatever bears upon the matter. This is what he says:
 
-“MYDEARMR. SHERLOCKHOLMES:—Lord Backwater tells me
+“MY DEAR MR. SHERLOCK HOLMES:—Lord Backwater tells me
 that I may place implicit reliance upon your judgment and discretion.
 I have determined, therefore, to call upon you and to consult you in
 reference to the very painful event which has occurred in connection
@@ -6884,9 +6431,6 @@ his father, was at one time Secretary for Foreign Affairs. They inherit Plantage
 blood by direct descent, and Tudor on the distaff side. Ha! Well, there is nothing
 very instructive in all this. I think that I must turn to you Watson, for something
 more solid.”
-
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 150
 
 “I have very little difficulty in finding what I want,” said I, “for the facts are
 quite recent, and the matter struck me as remarkable. I feared to refer them to
@@ -6932,9 +6476,6 @@ would be passed at Lord Backwater’s place, near Petersfield. Those are all the
 notices which appeared before the disappearance of the bride.”
 “Before the what?” asked Holmes with a start.
 “The vanishing of the lady.”
-
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 151
 
 “When did she vanish, then?”
 “At the wedding breakfast.”
@@ -6982,9 +6523,6 @@ that he had seen a lady leave the house thus apparelled, but had refused
 to credit that it was his mistress, believing her to be with the company.
 On ascertaining that his daughter had disappeared, Mr. Aloysius Do-
 ```
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 152
-
 ```
 ran, in conjunction with the bridegroom, instantly put themselves in
 communication with the police, and very energetic inquiries are be-
@@ -7031,9 +6569,6 @@ delicate cases of this sort, sir, though I presume that they were hardly from th
 same class of society.”
 “No, I am descending.”
 
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 153
-
 “I beg pardon.”
 “My last client of the sort was a king.”
 “Oh, really! I had no idea. And which king?”
@@ -7079,9 +6614,6 @@ to be at bottom a noble woman. I believe that she is capable of heroic self-sacr
 and that anything dishonourable would be repugnant to her.”
 “Have you her photograph?”
 
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 154
-
 “I brought this with me.” He opened a locket and showed us the full face of
 a very lovely woman. It was not a photograph but an ivory miniature, and the artist
 had brought out the full effect of the lustrous black hair, the large dark eyes, and
@@ -7124,9 +6656,6 @@ mind than she had gone to it. What did she do on re-entering her father’s hous
 “And who is her maid?”
 “Alice is her name. She is an American and came from California with her.”
 “A confidential servant?”
-
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 155
 
 “A little too much so. It seemed to me that her mistress allowed her to take
 great liberties. Still, of course, in America they look upon these things in a different
@@ -7173,9 +6702,6 @@ is thought that Flora decoyed my wife out and laid some terrible trap for her.�
 “I did not say a probable one. But you do not yourself look upon this as likely?”
 “I do not think Flora would hurt a fly.”
 
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 156
-
 “Still, jealousy is a strange transformer of characters. Pray what is your own
 theory as to what took place?”
 “Well, really, I came to seek a theory, not to propound one. I have given you
@@ -7219,9 +6745,6 @@ is one of these cases—but, hullo, here is Lestrade! Good-afternoon, Lestrade! 
 will find an extra tumbler upon the sideboard, and there are cigars in the box.”
 The official detective was attired in a pea-jacket and cravat, which gave him
 a decidedly nautical appearance, and he carried a black canvas bag in his hand.
-
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 157
 
 With a short greeting he seated himself and lit the cigar which had been offered to
 him.
@@ -7267,9 +6790,6 @@ You have made two blunders in as many minutes. This dress does implicate Miss
 Flora Millar.”
 “And how?”
 
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 158
-
 “In the dress is a pocket. In the pocket is a card-case. In the card-case is a note.
 And here is the very note.” He slapped it down upon the table in front of him.
 “Listen to this: ‘You will see me when all is ready. Come at once. F.H.M.’ Now my
@@ -7313,9 +6833,6 @@ presently, to my very great astonishment, a quite epicurean little cold supper b
 to be laid out upon our humble lodging-house mahogany. There were a couple of
 brace of cold woodcock, a pheasant, a pt de foie gras pie with a group of ancient
 and cobwebby bottles. Having laid out all these luxuries, my two visitors vanished
-
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 159
 
 away, like the genii of the Arabian Nights, with no explanation save that the things
 had been paid for and were ordered to this address.
@@ -7362,9 +6879,6 @@ his resolution, perhaps, for her pleading face was one which it was hard to resi
 “You’re angry, Robert,” said she. “Well, I guess you have every cause to be.”
 “Pray make no apology to me,” said Lord St. Simon bitterly.
 
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 160
-
 “Oh, yes, I know that I have treated you real bad and that I should have spoken
 to you before I went; but I was kind of rattled, and from the time when I saw Frank
 here again I just didn’t know what I was doing or saying. I only wonder I didn’t
@@ -7409,9 +6923,6 @@ and saw Frank standing and looking at me out of the first pew. I thought it was 
 ghost at first; but when I looked again there he was still, with a kind of question in
 his eyes, as if to ask me whether I were glad or sorry to see him. I wonder I didn’t
 drop. I know that everything was turning round, and the words of the clergyman
-
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 161
 
 were just like the buzz of a bee in my ear. I didn’t know what to do. Should I stop
 the service and make a scene in the church? I glanced at him again, and he seemed
@@ -7458,9 +6969,6 @@ Lord St. Simon had by no means relaxed his rigid attitude, but had listened with
 a frowning brow and a compressed lip to this long narrative.
 “Excuse me,” he said, “but it is not my custom to discuss my most intimate
 
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 162
-
 personal affairs in this public manner.”
 “Then you won’t forgive me? You won’t shake hands before I go?”
 “Oh, certainly, if it would give you any pleasure.” He put out his hand and
@@ -7506,9 +7014,6 @@ which in miners’ parlance means taking possession of that which another person
 has a prior claim to—the whole situation became absolutely clear. She had gone
 off with a man, and the man was either a lover or was a previous husband—the
 
-
-### ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 163
-
 chances being in favour of the latter.”
 “And how in the world did you find them?”
 “It might have been difficult, but friend Lestrade held information in his hands
@@ -7537,14 +7042,15 @@ mercifully and thank our stars that we are never likely to find ourselves in the
 position. Draw your chair up and hand me my violin, for the only problem we have
 still to solve is how to while away these bleak autumnal evenings.”
 
+#### Adventure XI
 
-Adventure XI
+## The Adventure Of The Beryl
 
-## The Adventure Of The Beryl Coronet
+## Coronet
 
-### “
+“
 
-# H
+## H
 
 OLMES,” said I as I stood one morning in our bow-window looking down
 the street, “here is a madman coming along. It seems rather sad that
@@ -7574,11 +7080,6 @@ numbers of the houses.”
 “Yes; I rather think he is coming to consult me professionally. I think that
 I recognise the symptoms. Ha! did I not tell you?” As he spoke, the man, puff-
 ing and blowing, rushed at our door and pulled at our bell until the whole house
-
-### 164
-
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 165
 
 resounded with the clanging.
 A few moments later he was in our room, still puffing, still gesticulating, but
@@ -7625,9 +7126,6 @@ much depends upon our being able to find remunerative investments for our funds
 as upon our increasing our connection and the number of our depositors. One of
 our most lucrative means of laying out money is in the shape of loans, where the
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 166
-
 security is unimpeachable. We have done a good deal in this direction during the
 last few years, and there are many noble families to whom we have advanced large
 sums upon the security of their pictures, libraries, or plate.
@@ -7672,9 +7170,6 @@ to my illustrious client.
 I should not dream of doing so were it not absolutely certain that I should be able
 in four days to reclaim it. It is a pure matter of form. Is the security sufficient?’
 “ ‘Ample.’
-
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 167
 
 “ ‘You understand, Mr. Holder, that I am giving you a strong proof of the con-
 fidence which I have in you, founded upon all that I have heard of you. I rely
@@ -7721,9 +7216,6 @@ I meant it for the best.
 “It was naturally my intention that he should succeed me in my business, but he
 was not of a business turn. He was wild, wayward, and, to speak the truth, I could
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 168
-
 not trust him in the handling of large sums of money. When he was young he
 became a member of an aristocratic club, and there, having charming manners, he
 was soon the intimate of a number of men with long purses and expensive habits.
@@ -7769,9 +7261,6 @@ it myself with the key of the box-room cupboard.’
 “He often had a wild way of talking, so that I thought little of what he said. He
 followed me to my room, however, that night with a very grave face.
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 169
-
 “ ‘Look here, dad,’ said he with his eyes cast down, ‘can you let me have 200
 pounds?’
 “ ‘No, I cannot!’ I answered sharply. ‘I have been far too generous with you in
@@ -7815,9 +7304,6 @@ footsteps moving softly in the next room. I slipped out of bed, all palpitating 
 fear, and peeped round the corner of my dressing-room door.
 “ ‘Arthur!’ I screamed, ‘you villain! you thief! How dare you touch that
 coronet?’
-
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 170
 
 “The gas was half up, as I had left it, and my unhappy boy, dressed only in his
 shirt and trousers, was standing beside the light, holding the coronet in his hands.
@@ -7864,9 +7350,6 @@ forgotten.’
 from me with a sneer. I saw that he was too hardened for any words of mine to
 influence him. There was but one way for it. I called in the inspector and gave him
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 171
-
 into custody. A search was made at once not only of his person but of his room and
 of every portion of the house where he could possibly have concealed the gems; but
 no trace of them could be found, nor would the wretched boy open his mouth for
@@ -7911,9 +7394,6 @@ a household. What did they say, then, of the disappearance of these gems?”
 “They are still sounding the planking and probing the furniture in the hope of
 finding them.”
 “Have they thought of looking outside the house?”
-
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 172
 
 “Yes, they have shown extraordinary energy. The whole garden has already
 been minutely examined.”
@@ -7960,9 +7440,6 @@ hair and eyes, which seemed the darker against the absolute pallor of her skin.
 I do not think that I have ever seen such deadly paleness in a woman’s face. Her
 lips, too, were bloodless, but her eyes were flushed with crying. As she swept
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 173
-
 silently into the room she impressed me with a greater sense of grief than the
 banker had done in the morning, and it was the more striking in her as she was
 evidently a woman of strong character, with immense capacity for self-restraint.
@@ -8008,9 +7485,6 @@ uncle last night that she had been out to see him?”
 “Yes, and she was the girl who waited in the drawing-room, and who may have
 heard uncle’s remarks about the coronet.”
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 174
-
 “I see. You infer that she may have gone out to tell her sweetheart, and that the
 two may have planned the robbery.”
 “But what is the good of all these vague theories,” cried the banker impatiently,
@@ -8055,9 +7529,6 @@ three gems had been torn away.
 which has been so unfortunately lost. Might I beg that you will break it off.”
 The banker recoiled in horror. “I should not dream of trying,” said he.
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 175
-
 “Then I will.” Holmes suddenly bent his strength upon it, but without result.
 “I feel it give a little,” said he; “but, though I am exceptionally strong in the fingers,
 it would take me all my time to break it. An ordinary man could not do it. Now,
@@ -8101,9 +7572,6 @@ in despair. It was not yet three when we found ourselves in our rooms once more.
 He hurried to his chamber and was down again in a few minutes dressed as a com-
 mon loafer. With his collar turned up, his shiny, seedy coat, his red cravat, and his
 worn boots, he was a perfect sample of the class.
-
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 176
 
 “I think that this should do,” said he, glancing into the glass above the fireplace.
 “I only wish that you could come with me, Watson, but I fear that it won’t do. I may
@@ -8150,9 +7618,6 @@ left to a lonely and dishonoured age. One sorrow comes close upon the heels of
 another. My niece, Mary, has deserted me.”
 “Deserted you?”
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 177
-
 “Yes. Her bed this morning had not been slept in, her room was empty, and
 a note for me lay upon the hall table. I had said to her last night, in sorrow and
 not in anger, that if she had married my boy all might have been well with him.
@@ -8160,7 +7625,7 @@ Perhaps it was thoughtless of me to say so. It is to that remark that she refers
 this note:
 
 ```
-“MYDEARESTUNCLE:—I feel that I have brought trouble upon you,
+“MY DEAREST UNCLE:—I feel that I have brought trouble upon you,
 and that if I had acted differently this terrible misfortune might never
 have occurred. I cannot, with this thought in my mind, ever again be
 happy under your roof, and I feel that I must leave you forever. Do not
@@ -8198,9 +7663,6 @@ own son do, should I ever chance to have one.”
 truth is known.”
 “He knows it already. When I had cleared it all up I had an interview with him,
 and finding that he would not tell me the story, I told it to him, on which he had
-
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 178
 
 to confess that I was right and to add the very few details which were not yet quite
 clear to me. Your news of this morning, however, may open his lips.”
@@ -8247,9 +7709,6 @@ exposure of the woman whom he loved. But the instant that she was gone he
 realised how crushing a misfortune this would be for you, and how all-important
 it was to set it right. He rushed down, just as he was, in his bare feet, opened the
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 179
-
 window, sprang out into the snow, and ran down the lane, where he could see a dark
 figure in the moonlight. Sir George Burnwell tried to get away, but Arthur caught
 him, and there was a struggle between them, your lad tugging at one side of the
@@ -8294,9 +7753,6 @@ blood had fallen, to show me that I was not mistaken. Boots had then run down th
 lane, and another little smudge of blood showed that it was he who had been hurt.
 When he came to the highroad at the other end, I found that the pavement had been
 cleared, so there was an end to that clue.
-
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 180
 
 “On entering the house, however, I examined, as you remember, the sill and
 framework of the hall window with my lens, and I could at once see that someone
@@ -8343,9 +7799,6 @@ and I clapped a pistol to his head before he could strike. Then he became a litt
 more reasonable. I told him that we would give him a price for the stones he held—
 1000 pounds apiece. That brought out the first signs of grief that he had shown.
 
-
-### ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 181
-
 ‘Why, dash it all!’ said he, ‘I’ve let them go at six hundred for the three!’ I soon
 managed to get the address of the receiver who had them, on promising him that
 there would be no prosecution. Off I set to him, and after much chaffering I got
@@ -8362,16 +7815,17 @@ your skill can inform me where she is now.”
 George Burnwell is. It is equally certain, too, that whatever her sins are, they will
 soon receive a more than sufficient punishment.”
 
+#### Adventure XII
 
-Adventure XII
+## The Adventure Of The Copper
 
-## The Adventure Of The Copper Beeches
+## Beeches
 
-### “
+“
 
-# T
+## T
 
-Othe man who loves art for its own sake,” remarked Sherlock Hol-
+O the man who loves art for its own sake,” remarked Sherlock Hol-
 mes, tossing aside the advertisement sheet of the Daily Telegraph, “it
 is frequently in its least important and lowliest manifestations that the
 keenest pleasure is to be derived. It is pleasant to me to observe, Wat-
@@ -8399,11 +7853,6 @@ Therefore it is upon the logic rather than upon the crime that you should dwell.
 have degraded what should have been a course of lectures into a series of tales.”
 It was a cold morning of the early spring, and we sat after breakfast on either
 side of a cheery fire in the old room at Baker Street. A thick fog rolled down be-
-
-### 182
-
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 183
 
 tween the lines of dun-coloured houses, and the opposing windows loomed like
 dark, shapeless blurs through the heavy yellow wreaths. Our gas was lit and shone
@@ -8433,10 +7882,11 @@ young ladies from boarding-schools. I think that I have touched bottom at last,
 however. This note I had this morning marks my zero-point, I fancy. Read it!” He
 tossed a crumpled letter across to me.
 It was dated from Montague Place upon the preceding evening, and ran thus:
-“DEARMR. HOLMES:—I am very anxious to consult you as to whether
+
+“DEAR MR. HOLMES:—I am very anxious to consult you as to whether
 I should or should not accept a situation which has been offered to me
 as governess. I shall call at half-past ten to-morrow if I do not incon-
-venience you. Yours faithfully, VIOLETHUNTER.”
+venience you. Yours faithfully, VIOLET HUNTER.”
 “Do you know the young lady?” I asked.
 “Not I.”
 “It is half-past ten now.”
@@ -8448,9 +7898,6 @@ into a serious investigation. It may be so in this case, also.”
 I am much mistaken, is the person in question.”
 As he spoke the door opened and a young lady entered the room. She was
 plainly but neatly dressed, with a bright, quick face, freckled like a plover’s egg,
-
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 184
 
 and with the brisk manner of a woman who has had her own way to make in the
 world.
@@ -8496,9 +7943,6 @@ look at him.
 into the air like a man who is in a boiling passion. ‘How could anyone offer so
 pitiful a sum to a lady with such attractions and accomplishments?’
 
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 185
-
 “ ‘My accomplishments, sir, may be less than you imagine,’ said I. ’A little
 French, a little German, music, and drawing—’
 “ ‘Tut, tut!’ he cried. ‘This is all quite beside the question. The point is, have
@@ -8543,9 +7987,6 @@ you would not object to our little whim. Heh?’
 “ ‘Oh, no.’
 “ ‘Or to cut your hair quite short before you come to us?’
 
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 186
-
 “I could hardly believe my ears. As you may observe, Mr. Holmes, my hair is
 somewhat luxuriant, and of a rather peculiar tint of chestnut. It has been considered
 artistic. I could not dream of sacrificing it in this offhand fashion.
@@ -8582,7 +8023,7 @@ himself. I have it here and I will read it to you:
 
 ```
 “The Copper Beeches, near Winchester.
-DEARMISSHUNTER:—Miss Stoper has very kindly given me
+DEAR MISS HUNTER:—Miss Stoper has very kindly given me
 your address, and I write from here to ask you whether you have re-
 considered your decision. My wife is very anxious that you should
 come, for she has been much attracted by my description of you. We
@@ -8592,9 +8033,6 @@ you. They are not very exacting, after all. My wife is fond of a par-
 ticular shade of electric blue and would like you to wear such a dress
 indoors in the morning. You need not, however, go to the expense of
 ```
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 187
-
 ```
 purchasing one, as we have one belonging to my dear daughter Alice
 (now in Philadelphia), which would, I should think, fit you very well.
@@ -8641,9 +8079,6 @@ Holmes shook his head gravely. “It would cease to be a danger if we could
 define it,” said he. “But at any time, day or night, a telegram would bring me down
 to your help.”
 
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 188
-
 “That is enough.” She rose briskly from her chair with the anxiety all swept
 from her face. “I shall go down to Hampshire quite easy in my mind now. I shall
 write to Mr. Rucastle at once, sacrifice my poor hair to-night, and start for Winch-
@@ -8689,9 +8124,6 @@ scenery. It was an ideal spring day, a light blue sky, flecked with little fleec
 clouds drifting across from west to east. The sun was shining very brightly, and yet
 there was an exhilarating nip in the air, which set an edge to a man’s energy. All
 
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 189
-
 over the countryside, away to the rolling hills around Aldershot, the little red and
 grey roofs of the farm-steadings peeped out from amid the light green of the new
 foliage.
@@ -8723,7 +8155,7 @@ miles of country which makes the danger. Still, it is clear that she is not pers
 threatened.”
 “No. If she can come to Winchester to meet us she can get away.”
 “Quite so. She has her freedom.”
-“Whatcanbe the matter, then? Can you suggest no explanation?”
+“What can be the matter, then? Can you suggest no explanation?”
 “I have devised seven separate explanations, each of which would cover the
 facts as far as we know them. But which of these is correct can only be determined
 by the fresh information which we shall no doubt find waiting for us. Well, there is
@@ -8735,9 +8167,6 @@ a sitting-room, and our lunch awaited us upon the table.
 of you both; but indeed I do not know what I should do. Your advice will be
 altogether invaluable to me.”
 “Pray tell us what has happened to you.”
-
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 190
 
 “I will do so, and I must be quick, for I have promised Mr. Rucastle to be back
 before three. I got his leave to come into town this morning, though he little knew
@@ -8784,9 +8213,6 @@ is small for his age, with a head which is quite disproportionately large. His w
 life appears to be spent in an alternation between savage fits of passion and gloomy
 intervals of sulking. Giving pain to any creature weaker than himself seems to
 
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 191
-
 be his one idea of amusement, and he shows quite remarkable talent in planning
 the capture of mice, little birds, and insects. But I would rather not talk about the
 creature, Mr. Holmes, and, indeed, he has little to do with my story.”
@@ -8831,9 +8257,6 @@ I laughed very heartily at the funny stories of which my employer had an immense
 rpertoire, and which he told inimitably. Then he handed me a yellow-backed novel,
 and moving my chair a little sideways, that my own shadow might not fall upon the
 page, he begged me to read aloud to him. I read for about ten minutes, beginning
-
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 192
 
 in the heart of a chapter, and then suddenly, in the middle of a sentence, he ordered
 me to cease and to change my dress.
@@ -8880,9 +8303,6 @@ huddled up in the darkness.
 “ ‘Don’t be frightened,’ said my employer, laughing at the start which I had
 given. ‘It’s only Carlo, my mastiff. I call him mine, but really old Toller, my
 
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 193
-
 groom, is the only man who can do anything with him. We feed him once a day,
 and not too much then, so that he is always as keen as mustard. Toller lets him
 loose every night, and God help the trespasser whom he lays his fangs upon. For
@@ -8927,9 +8347,6 @@ through this door, his keys in his hand, and a look on his face which made him
 a very different person to the round, jovial man to whom I was accustomed. His
 cheeks were red, his brow was all crinkled with anger, and the veins stood out at
 his temples with passion. He locked the door and hurried past me without a word
-
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 194
 
 or a look.
 “This aroused my curiosity, so when I went out for a walk in the grounds with
@@ -8976,9 +8393,6 @@ I could see by the glimmer from beneath it that the room was not in darkness. Ev
 dently there was a skylight which let in light from above. As I stood in the passage
 gazing at the sinister door and wondering what secret it might veil, I suddenly heard
 
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 195
-
 the sound of steps within the room and saw a shadow pass backward and forward
 against the little slit of dim light which shone out from under the door. A mad,
 unreasoning terror rose up in me at the sight, Mr. Holmes. My overstrung nerves
@@ -9023,9 +8437,6 @@ in in safety and lay awake half the night in my joy at the thought of seeing you
 I had no difficulty in getting leave to come into Winchester this morning, but I must
 be back before three o’clock, for Mr. and Mrs. Rucastle are going on a visit, and
 will be away all the evening, so that I must look after the child. Now I have told
-
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 196
 
 you all my adventures, Mr. Holmes, and I should be very glad if you could tell me
 what it all means, and, above all, what I should do.”
@@ -9072,9 +8483,6 @@ merely for cruelty’s sake, and whether he derives this from his smiling father
 I should suspect, or from his mother, it bodes evil for the poor girl who is in their
 power.”
 
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 197
-
 “I am sure that you are right, Mr. Holmes,” cried our client. “A thousand things
 come back to me which make me certain that you have hit it. Oh, let us lose not an
 instant in bringing help to this poor creature.”
@@ -9118,9 +8526,6 @@ upon the stair. I think, Watson, that it would be as well for you to have your p
 ready.”
 The words were hardly out of his mouth before a man appeared at the door of
 the room, a very fat and burly man, with a heavy stick in his hand. Miss Hunter
-
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 198
 
 screamed and shrunk against the wall at the sight of him, but Sherlock Holmes
 sprang forward and confronted him.
@@ -9167,9 +8572,6 @@ I could learn, Miss Alice had rights of her own by will, but she was so quiet an
 patient, she was, that she never said a word about them but just left everything in
 Mr. Rucastle’s hands. He knew he was safe with her; but when there was a chance
 
-
-### ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 199
-
 of a husband coming forward, who would ask for all that the law would give him,
 then her father thought it time to put a stop on it. He wanted her to sign a paper, so
 that whether she married or not, he could use her money. When she wouldn’t do it,
@@ -9208,5 +8610,4 @@ mes, rather to my disappointment, manifested no further interest in her when onc
 she had ceased to be the centre of one of his problems, and she is now the head
 of a private school at Walsall, where I believe that she has met with considerable
 success.
-
 

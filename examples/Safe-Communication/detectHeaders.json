@@ -1,6 +1,6 @@
 {
   "pages": 60,
-  "items": 3968,
+  "items": 3967,
   "groupedItems": 1429,
   "changes": 118,
   "schema": [
@@ -37,11 +37,11 @@
   ],
   "globals": {}
 }
-{"page":0,"change":"ContentChange","types":["H1"],"str":"Safe C ommun i cation","line":1,"x":99.264,"y":436.9,"width":"395.03","height":"36.00","fontName":["ABCDEE+Lucida Calligraphy"],"dir":["ltr"]}
-{"page":0,"change":"ContentChange","types":["H2"],"str":"Design, implement and measure:  A guide to ","line":2,"x":99.264,"y":387.31,"width":"549.00","height":"26.04","fontName":[null],"dir":["ltr"]}
-{"page":0,"change":"ContentChange","types":["H2"],"str":"improving transfers of care and handover","line":3,"x":99.264,"y":352.99,"width":"507.23","height":"26.04","fontName":[null],"dir":["ltr"]}
-{"page":0,"change":"ContentChange","types":["H3"],"str":"Authors :","line":4,"x":526.63,"y":111.26,"width":"66.46","height":"15.96","fontName":[null],"dir":["ltr"]}
-{"page":0,"change":"ContentChange","types":["H3"],"str":"Nicola Davey & Ali Cole","line":5,"x":526.63,"y":80.04,"width":"175.03","height":"15.96","fontName":[null],"dir":["ltr"]}
+{"page":0,"change":"ContentChange","types":["H1"],"str":"Safe C ommun i cation","line":2,"x":99.264,"y":436.9,"width":"395.03","height":"36.00","fontName":["ABCDEE+Lucida Calligraphy"],"dir":["ltr"]}
+{"page":0,"change":"ContentChange","types":["H2"],"str":"Design, implement and measure:  A guide to ","line":3,"x":99.264,"y":387.31,"width":"549.00","height":"26.04","fontName":[null],"dir":["ltr"]}
+{"page":0,"change":"ContentChange","types":["H2"],"str":"improving transfers of care and handover","line":4,"x":99.264,"y":352.99,"width":"507.23","height":"26.04","fontName":[null],"dir":["ltr"]}
+{"page":0,"change":"ContentChange","types":["H3"],"str":"Authors :","line":5,"x":526.63,"y":111.26,"width":"66.46","height":"15.96","fontName":[null],"dir":["ltr"]}
+{"page":0,"change":"ContentChange","types":["H3"],"str":"Nicola Davey & Ali Cole","line":6,"x":526.63,"y":80.04,"width":"175.03","height":"15.96","fontName":[null],"dir":["ltr"]}
 {"page":1,"change":"ContentChange","types":["H2"],"str":"Contents :","line":1,"x":99.264,"y":512.26,"width":"130.55","height":"27.96","fontName":[null],"dir":["ltr"]}
 {"page":2,"change":"ContentChange","types":["H3"],"str":"Creative Commons Attribution  – non - commercial ","line":25,"x":99.264,"y":130.34,"width":"344.85","height":"15.96","fontName":[null,"Arial"],"dir":["ltr"]}
 {"page":4,"change":"ContentChange","types":["H3"],"str":"Why use this guide?","dir":"ltr","width":"155.37","height":"15.96","transform":["15.96","0.00","0.00","15.96","99.26","284.57"],"x":99.264,"y":284.57,"line":13}

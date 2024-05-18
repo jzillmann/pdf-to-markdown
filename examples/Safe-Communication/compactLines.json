@@ -1,7 +1,7 @@
 {
   "pages": 60,
   "items": 4344,
-  "groupedItems": 1498,
+  "groupedItems": 1499,
   "changes": 926,
   "schema": [
     {
@@ -32,12 +32,12 @@
   ],
   "globals": {}
 }
-{"page":0,"change":"Addition","str":"Quality Improvement Clinic Ltd.  August 2015","line":0,"x":99.264,"y":23.04,"width":"214.60","height":"11.04","fontName":[null],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"Safe C ommun i cation","line":1,"x":99.264,"y":436.9,"width":"395.03","height":"36.00","fontName":["ABCDEE+Lucida Calligraphy"],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"Design, implement and measure:  A guide to ","line":2,"x":99.264,"y":387.31,"width":"549.00","height":"26.04","fontName":[null],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"improving transfers of care and handover","line":3,"x":99.264,"y":352.99,"width":"507.23","height":"26.04","fontName":[null],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"Authors :","line":4,"x":526.63,"y":111.26,"width":"66.46","height":"15.96","fontName":[null],"dir":["ltr"]}
-{"page":0,"change":"Addition","str":"Nicola Davey & Ali Cole","line":5,"x":526.63,"y":80.04,"width":"175.03","height":"15.96","fontName":[null],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"August 2015","line":1,"x":701.74,"y":23.04,"width":"58.74","height":"11.04","fontName":[null],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Safe C ommun i cation","line":2,"x":99.264,"y":436.9,"width":"395.03","height":"36.00","fontName":["ABCDEE+Lucida Calligraphy"],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Design, implement and measure:  A guide to ","line":3,"x":99.264,"y":387.31,"width":"549.00","height":"26.04","fontName":[null],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"improving transfers of care and handover","line":4,"x":99.264,"y":352.99,"width":"507.23","height":"26.04","fontName":[null],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Authors :","line":5,"x":526.63,"y":111.26,"width":"66.46","height":"15.96","fontName":[null],"dir":["ltr"]}
+{"page":0,"change":"Addition","str":"Nicola Davey & Ali Cole","line":6,"x":526.63,"y":80.04,"width":"175.03","height":"15.96","fontName":[null],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"Quality Improvement Clinic Ltd.  P a g e |  2 August 2015","line":0,"x":99.264,"y":30.84,"width":"261.24","height":"11.04","fontName":[null],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"Contents :","line":1,"x":99.264,"y":512.26,"width":"130.55","height":"27.96","fontName":[null],"dir":["ltr"]}
 {"page":1,"change":"Addition","str":"Acknowledgements page 3","line":2,"x":104.66,"y":463.9,"width":"138.33","height":"11.04","fontName":[null],"dir":["ltr"]}

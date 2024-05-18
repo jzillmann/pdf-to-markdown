@@ -1,8 +1,8 @@
 {
   "pages": 535,
   "items": 53922,
-  "groupedItems": 31671,
-  "changes": 693,
+  "groupedItems": 31813,
+  "changes": 663,
   "schema": [
     {
       "name": "line"
@@ -39,8 +39,8 @@
 {"page":54,"change":"ContentChange","str":"© The Author(s) 2019  1","line":0,"x":53.85879801999998,"y":56.70920181,"width":"81.39","height":"8.50","fontName":["MOGBYU+NlttbmRrqjxqWvxgqcTimesLTStd-Roman"],"dir":["ltr"]}
 {"page":58,"change":"ContentChange","str":"© The Author(s) 2019  5","line":0,"x":53.85879801999998,"y":56.70920181,"width":"81.39","height":"8.50","fontName":["VZMDTX+QjfkjqRrbhprHjqhbmTimesLTStd-Roman"],"dir":["ltr"]}
 {"page":77,"change":"ContentChange","str":"© The Author(s) 2019  25","line":0,"x":53.85879801999998,"y":56.70920181,"width":"85.64","height":"8.50","fontName":["CVNJWE+QxgrwgDmkxwmPsqhksTimesLTStd-Roman"],"dir":["ltr"]}
-{"page":82,"change":"ContentChange","str":"emissions 2","line":24,"x":173.59590148,"y":179.01190185,"width":"40.81","height":"9.24","fontName":["RXZLYA+SxqmbgHvxfdvLjxxyxCalibri-Bold"],"dir":["ltr"]}
-{"page":82,"change":"ContentChange","str":"emission 2","line":30,"x":264.9559021,"y":359.1749878,"width":"37.12","height":"9.24","fontName":["RXZLYA+SxqmbgHvxfdvLjxxyxCalibri-Bold"],"dir":["ltr"]}
+{"page":82,"change":"ContentChange","str":"emissions 2","line":25,"x":173.59590148,"y":179.01190185,"width":"40.81","height":"9.24","fontName":["RXZLYA+SxqmbgHvxfdvLjxxyxCalibri-Bold"],"dir":["ltr"]}
+{"page":82,"change":"ContentChange","str":"emission 2","line":31,"x":264.9559021,"y":359.1749878,"width":"37.12","height":"9.24","fontName":["RXZLYA+SxqmbgHvxfdvLjxxyxCalibri-Bold"],"dir":["ltr"]}
 {"page":90,"change":"ContentChange","str":"() = () × () + wr","line":27,"x":109.51450347,"y":356.37850952,"width":"70.25","height":"13.43","fontName":["CYMZWE+XmrcwlVmqqxgJlwbyfSymbolMT","CYMZWE+YgvvngMndpqmPvqbrsTimesLTStd-Italic"],"dir":["ltr"]}
 {"page":90,"change":"ContentChange","str":"∑∑ == ∑ =","line":28,"x":132.10830688,"y":347.31600952,"width":"59.38","height":"15.00","fontName":["CYMZWE+XmrcwlVmqqxgJlwbyfSymbolMT"],"dir":["ltr"]}
 {"page":90,"change":"ContentChange","str":"() × wr , ()","line":31,"x":291.76449584,"y":354.47229003,"width":"44.83","height":"13.43","fontName":["CYMZWE+XmrcwlVmqqxgJlwbyfSymbolMT","CYMZWE+YgvvngMndpqmPvqbrsTimesLTStd-Italic","CYMZWE+VvhkmjSjgmhkYhnylwTimesLTStd-Roman"],"dir":["ltr"]}
@@ -80,12 +80,11 @@
 {"page":144,"change":"ContentChange","str":"© The Author(s) 2019  93","line":0,"x":53.85879801999998,"y":56.70920181,"width":"85.64","height":"8.50","fontName":["LNXWIX+HnpxfkNsnwjjDdfnwjTimesLTStd-Roman"],"dir":["ltr"]}
 {"page":155,"change":"ContentChange","str":"Production (Mb/d) Price (USD 2013/b)","line":39,"x":53.85908217999997,"y":266.97803051,"width":"97.89","height":"5.89","fontName":["ENJBOL+VtsxnfQmctmlNtjjmtArialMT"],"dir":["ltr"]}
 {"page":182,"change":"ContentChange","str":"© The Author(s) 2019  131","line":0,"x":53.85879801999998,"y":56.70920181,"width":"89.89","height":"8.50","fontName":["CSLHWZ+FdpslqMkstnlWqhkkrTimesLTStd-Roman"],"dir":["ltr"]}
-{"page":188,"change":"ContentChange","str":"Powertrain split per transport performance OECD Pacific China India Africa","line":49,"x":57.44520187,"y":112.0401001,"width":"136.55","height":"5.03","fontName":["MPJKGF+GvjjsfFgdlscXjlcgjCalibri"],"dir":["ltr"]}
-{"page":189,"change":"ContentChange","str":"Fuel cell eletric share of total bus pkm 2015 2020 2025 2030 2035 2040 2045 2050","line":49,"x":233.75039672,"y":522.18798829,"width":"151.29","height":"5.00","fontName":["MPJKGF+NvtlfgVgkfkrFspmjbCalibri"],"dir":["ltr"]}
+{"page":189,"change":"ContentChange","str":"Fuel cell eletric share of total bus pkm 2015 2020 2025 2030 2035 2040 2045 2050","line":50,"x":233.75039672,"y":522.18798829,"width":"151.29","height":"5.00","fontName":["MPJKGF+NvtlfgVgkfkrFspmjbCalibri"],"dir":["ltr"]}
 {"page":191,"change":"ContentChange","str":"Powertrain split of world passenger car fleet 2015 2020 2025 2030 2035 2040 2045 2050","line":35,"x":57.94569391000004,"y":504.12770388,"width":"174.26","height":"5.19","fontName":["MPJKGF+BrhdtnByrnwhNjjbxtCalibri"],"dir":["ltr"]}
 {"page":191,"change":"ContentChange","str":"2.0°C 1.5°C","line":38,"x":88.45828241000004,"y":598.62517099,"width":"25.66","height":"6.00","fontName":["MPJKGF+BrhdtnByrnwhNjjbxtCalibri"],"dir":["ltr"]}
 {"page":195,"change":"ContentChange","str":"0.43 0.43","line":26,"x":110.79514312,"y":538.66973876,"width":"25.41","height":"7.16","fontName":["CAJCWZ+SvyqmgTdqmvkTwxynnCalibri"],"dir":["ltr"]}
-{"page":197,"change":"ContentChange","str":"r o t c a f y c n e i c i f f e c i f i c e p s 1.4","line":68,"x":60.59410095,"y":406.72155761,"width":"50.68","height":"4.84","fontName":["MPJKGF+VbgdrlXnpwdkQkmhkcCalibri"],"dir":["ltr"]}
+{"page":197,"change":"ContentChange","str":"r o t c a f 1.4","line":68,"x":60.59410095,"y":442.44155883,"width":"17.24","height":"4.84","fontName":["MPJKGF+VbgdrlXnpwdkQkmhkcCalibri"],"dir":["ltr"]}
 {"page":198,"change":"ContentChange","str":"5.0°C 2.0°C 1.5°C","line":20,"x":194.16360473,"y":419.43328857,"width":"59.65","height":"9.32","fontName":["MPJKGF+FkvrllMbkflwFmfyqdCalibri"],"dir":["ltr"]}
 {"page":202,"change":"ContentChange","str":"USA OECD Europe India China Africa","line":31,"x":137.43195339000007,"y":333.8248901399999,"width":"92.70","height":"6.73","fontName":["MPJKGF+GmtklnGnyjddXmymcfCalibri"],"dir":["ltr"]}
 {"page":202,"change":"ContentChange","str":"5.0 ̊C 2.0 ̊C 1.5 ̊C","line":34,"x":191.94599148000006,"y":345.1698913599999,"width":"42.78","height":"6.73","fontName":["MPJKGF+GmtklnGnyjddXmymcfCalibri"],"dir":["ltr"]}
@@ -119,13 +118,11 @@
 {"page":321,"change":"ContentChange","str":"Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0° C","line":44,"x":80.93529892999999,"y":99.35449981,"width":"274.36","height":"8.59","fontName":["RZTODG+NrkwtgFsrbqmLqtvcrCalibri"],"dir":["ltr"]}
 {"page":323,"change":"ContentChange","str":"Nuclear 41%","line":45,"x":172.60423278,"y":410.23770141,"width":"38.82","height":"8.03","fontName":["MCEFLQ+LmyxrsRtjcpqXqkbjkCalibri-Light"],"dir":["ltr"]}
 {"page":328,"change":"ContentChange","str":"CO [Gt]","line":39,"x":60.97439956,"y":472.52862548,"width":"27.14","height":"8.29","fontName":["MCEFLQ+VgfdvbHxgymvVcphqqArial-BoldMT"],"dir":["ltr"]}
-{"page":328,"change":"ContentChange","str":"emissions  2 ","line":40,"x":60.97439956,"y":489.42590332,"width":"48.39","height":"8.29","fontName":["MCEFLQ+VgfdvbHxgymvVcphqqArial-BoldMT"],"dir":["ltr"]}
 {"page":339,"change":"ContentChange","str":"billion  ct/kWh","line":43,"x":61.93268966,"y":218.71679687,"width":"56.65","height":"9.88","fontName":["RZTODG+NrkwtgFsrbqmLqtvcrCalibri"],"dir":["ltr"]}
 {"page":339,"change":"ContentChange","str":"Spec. Electricity Generation Costs 5.0° C 5.0°C","line":47,"x":94.7602005,"y":112.27749633,"width":"142.17","height":"7.87","fontName":["RZTODG+NrkwtgFsrbqmLqtvcrCalibri"],"dir":["ltr"]}
 {"page":339,"change":"ContentChange","str":"Spec. Electricity Generation Costs 1.5° C Spec. Electricity Generation Costs 2.0° C","line":48,"x":94.76020050999998,"y":99.15950013999999,"width":"250.68","height":"7.87","fontName":["RZTODG+NrkwtgFsrbqmLqtvcrCalibri"],"dir":["ltr"]}
 {"page":341,"change":"ContentChange","str":"Renewable 0%","line":72,"x":223.45587158,"y":382.47009277,"width":"51.54","height":"8.99","fontName":["MCEFLQ+BjnbgvKqcctwHgknfxCalibri"],"dir":["ltr"]}
 {"page":346,"change":"ContentChange","str":"CO [Gt]","line":43,"x":60.8608017,"y":490.6871643,"width":"26.71","height":"8.16","fontName":["MCEFLQ+JxwktwXfnlxfSkcfjlArial-BoldMT"],"dir":["ltr"]}
-{"page":346,"change":"ContentChange","str":"emissions  2 ","line":44,"x":60.8608017,"y":507.30279541,"width":"47.64","height":"8.16","fontName":["MCEFLQ+JxwktwXfnlxfSkcfjlArial-BoldMT"],"dir":["ltr"]}
 {"page":358,"change":"ContentChange","str":"billion  ct/kWh","line":62,"x":62.02289962,"y":290.26159663000004,"width":"57.26","height":"9.99","fontName":["RZTODG+NrkwtgFsrbqmLqtvcrCalibri"],"dir":["ltr"]}
 {"page":358,"change":"ContentChange","str":"Spec. Electricity Generation Costs 5.0°C 5.0°C","line":66,"x":94.67479705,"y":180.42260738000002,"width":"144.64","height":"7.99","fontName":["RZTODG+NrkwtgFsrbqmLqtvcrCalibri"],"dir":["ltr"]}
 {"page":358,"change":"ContentChange","str":"Spec. Electricity Generation Costs 1.5° C Spec. Electricity Generation Costs 2.0° C","line":67,"x":94.67478942,"y":167.16259762000004,"width":"255.10","height":"7.99","fontName":["RZTODG+NrkwtgFsrbqmLqtvcrCalibri"],"dir":["ltr"]}
@@ -162,35 +159,35 @@
 {"page":465,"change":"ContentChange","str":"30 20","line":22,"x":257.68618774,"y":304.0794983,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
 {"page":465,"change":"ContentChange","str":"50 20","line":23,"x":257.68618774,"y":323.38116455,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
 {"page":465,"change":"ContentChange","str":"ns llio Mi bs Direct jo","line":24,"x":117.1544876,"y":90.55809783,"width":"59.84","height":"7.46","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"15 20","line":71,"x":257.68188476,"y":387.56600952,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"20 20","line":72,"x":257.68188476,"y":426.0899353,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"25 20","line":73,"x":257.68188476,"y":445.39230346,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"30 20","line":74,"x":257.68188476,"y":464.6138916,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"50 20","line":75,"x":257.68188476,"y":483.91625976,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"20 20","line":76,"x":257.68862915,"y":522.44018554,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"25 20","line":77,"x":257.68862915,"y":541.74255371,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"30 20","line":78,"x":257.69534301,"y":561.04492187,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"50 20","line":79,"x":257.69534301,"y":580.2664795,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"ns Millio s job ect  Dir","line":80,"x":117.22910308,"y":347.5173645,"width":"60.00","height":"7.46","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"5 01 2","line":116,"x":253.89959716,"y":130.60710144,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 02 2","line":117,"x":253.89660644,"y":169.13049316,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"5 02 2","line":118,"x":253.89860534,"y":188.42999267,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 03 2","line":119,"x":253.89959716,"y":207.73199462,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 05 2","line":120,"x":253.89959716,"y":227.03199768,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 02 2","line":121,"x":253.89959716,"y":265.55300903,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"5 02 2","line":122,"x":253.89959716,"y":284.7749939,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 03 2","line":123,"x":253.89959716,"y":304.07699584,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 05 2","line":124,"x":253.89660644,"y":323.3789978,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"5 1 0 2","line":158,"x":253.90260314,"y":387.56600952,"width":"14.96","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 02 2","line":159,"x":253.90260314,"y":426.08999633,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"5 02 2","line":160,"x":253.90260314,"y":445.39099121,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 3 0 2","line":161,"x":253.90260314,"y":464.61190795,"width":"14.96","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 5 0 2","line":162,"x":253.89959716,"y":483.91290283,"width":"14.96","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 2 0 2","line":163,"x":253.90159606,"y":522.43499755,"width":"14.96","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"5 02 2","line":164,"x":253.89959716,"y":541.73687744,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 03 2","line":165,"x":253.90260314,"y":561.03997802,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"0 05 2","line":166,"x":253.89959716,"y":580.25891113,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
-{"page":465,"change":"ContentChange","str":"i M s ob j t c e r Di","line":167,"x":128.10240173,"y":347.5169983,"width":"41.10","height":"7.46","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"15 20","line":72,"x":257.68188476,"y":387.56600952,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"20 20","line":73,"x":257.68188476,"y":426.0899353,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"25 20","line":74,"x":257.68188476,"y":445.39230346,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"30 20","line":75,"x":257.68188476,"y":464.6138916,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"50 20","line":76,"x":257.68188476,"y":483.91625976,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"20 20","line":77,"x":257.68862915,"y":522.44018554,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"25 20","line":78,"x":257.68862915,"y":541.74255371,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"30 20","line":79,"x":257.69534301,"y":561.04492187,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"50 20","line":80,"x":257.69534301,"y":580.2664795,"width":"14.95","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"ns Millio s job ect  Dir","line":81,"x":117.22910308,"y":347.5173645,"width":"60.00","height":"7.46","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"5 01 2","line":118,"x":253.89959716,"y":130.60710144,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 02 2","line":119,"x":253.89660644,"y":169.13049316,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"5 02 2","line":120,"x":253.89860534,"y":188.42999267,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 03 2","line":121,"x":253.89959716,"y":207.73199462,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 05 2","line":122,"x":253.89959716,"y":227.03199768,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 02 2","line":123,"x":253.89959716,"y":265.55300903,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"5 02 2","line":124,"x":253.89959716,"y":284.7749939,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 03 2","line":125,"x":253.89959716,"y":304.07699584,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 05 2","line":126,"x":253.89660644,"y":323.3789978,"width":"15.04","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"5 1 0 2","line":165,"x":253.90260314,"y":387.56600952,"width":"14.96","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 02 2","line":166,"x":253.90260314,"y":426.08999633,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"5 02 2","line":167,"x":253.90260314,"y":445.39099121,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 3 0 2","line":168,"x":253.90260314,"y":464.61190795,"width":"14.96","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 5 0 2","line":169,"x":253.89959716,"y":483.91290283,"width":"14.96","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 2 0 2","line":170,"x":253.90159606,"y":522.43499755,"width":"14.96","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"5 02 2","line":171,"x":253.89959716,"y":541.73687744,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 03 2","line":172,"x":253.90260314,"y":561.03997802,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"0 05 2","line":173,"x":253.89959716,"y":580.25891113,"width":"15.03","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
+{"page":465,"change":"ContentChange","str":"i M s ob j t c e r Di","line":174,"x":128.10240173,"y":347.5169983,"width":"41.10","height":"7.46","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
 {"page":474,"change":"ContentChange","str":"0 00","line":15,"x":276.0119629,"y":106.2506485,"width":"6.55","height":"3.98","fontName":["LNGVQS+QkgcvjQjrskfBjtwtqArialMT"],"dir":["ltr"]}
 {"page":475,"change":"ContentChange","str":"0 00","line":10,"x":260.37786865,"y":100.78972625,"width":"6.83","height":"4.14","fontName":["HCIXMA+NldvkjGtvynxTynbnfArialMT"],"dir":["ltr"]}
 {"page":483,"change":"ContentChange","str":"© The Author(s) 2019  437","line":0,"x":53.85879801999998,"y":56.70920181,"width":"89.89","height":"8.50","fontName":["CWYJCU+MwbqrqRrbdpnKlvqykTimesLTStd-Roman"],"dir":["ltr"]}

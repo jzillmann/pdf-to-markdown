@@ -1,7 +1,7 @@
 {
   "pages": 200,
   "items": 8844,
-  "groupedItems": 8519,
+  "groupedItems": 8522,
   "changes": 568,
   "schema": [
     {
@@ -67,7 +67,7 @@
 {"page":36,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE II. THE RED-HEADED LEAGUE 35","line":0,"x":117.828,"y":736.017,"width":"235.44","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":37,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE II. THE RED-HEADED LEAGUE 36","line":0,"x":117.828,"y":736.017,"width":"235.44","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":38,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE II. THE RED-HEADED LEAGUE 37","line":0,"x":117.828,"y":736.017,"width":"235.44","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
-{"page":39,"change":"Removal","score":"1.00: (1.00 + 0.00)","str":"38","dir":"ltr","width":"10.91","height":"10.91","transform":["10.91","0.00","0.00","10.91","291.70","95.28"],"fontName":"KKLGKN+NimbusRomNo9L-Regu","x":291.701,"y":95.28300000000031,"line":33}
+{"page":39,"change":"Removal","score":"1.00: (1.00 + 0.00)","str":"38","dir":"ltr","width":"10.91","height":"10.91","transform":["10.91","0.00","0.00","10.91","291.70","95.28"],"fontName":"KKLGKN+NimbusRomNo9L-Regu","x":291.701,"y":95.28300000000031,"line":34}
 {"page":40,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE III. A CASE OF IDENTITY 39","line":0,"x":117.828,"y":736.017,"width":"207.71","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":41,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE III. A CASE OF IDENTITY 40","line":0,"x":117.828,"y":736.017,"width":"207.71","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":42,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE III. A CASE OF IDENTITY 41","line":0,"x":117.828,"y":736.017,"width":"207.71","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
@@ -193,7 +193,7 @@
 {"page":162,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 161","line":0,"x":117.828,"y":736.017,"width":"331.91","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":163,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 162","line":0,"x":117.828,"y":736.017,"width":"331.91","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":164,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE X. THE ADVENTURE OF THE NOBLE BACHELOR 163","line":0,"x":117.828,"y":736.017,"width":"331.91","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
-{"page":165,"change":"Removal","score":"1.00: (1.00 + 0.00)","str":"164","dir":"ltr","width":"16.36","height":"10.91","transform":["10.91","0.00","0.00","10.91","288.97","95.28"],"fontName":"KKLGKN+NimbusRomNo9L-Regu","x":288.974,"y":95.28300000000016,"line":32}
+{"page":165,"change":"Removal","score":"1.00: (1.00 + 0.00)","str":"164","dir":"ltr","width":"16.36","height":"10.91","transform":["10.91","0.00","0.00","10.91","288.97","95.28"],"fontName":"KKLGKN+NimbusRomNo9L-Regu","x":288.974,"y":95.28300000000016,"line":33}
 {"page":166,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 165","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":167,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 166","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":168,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 167","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
@@ -211,7 +211,7 @@
 {"page":180,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 179","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":181,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 180","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":182,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE XI. THE ADVENTURE OF THE BERYL CORONET 181","line":0,"x":117.828,"y":736.017,"width":"327.34","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
-{"page":183,"change":"Removal","score":"1.00: (1.00 + 0.00)","str":"182","dir":"ltr","width":"16.36","height":"10.91","transform":["10.91","0.00","0.00","10.91","288.97","95.28"],"fontName":"KKLGKN+NimbusRomNo9L-Regu","x":288.974,"y":95.28300000000017,"line":32}
+{"page":183,"change":"Removal","score":"1.00: (1.00 + 0.00)","str":"182","dir":"ltr","width":"16.36","height":"10.91","transform":["10.91","0.00","0.00","10.91","288.97","95.28"],"fontName":"KKLGKN+NimbusRomNo9L-Regu","x":288.974,"y":95.28300000000017,"line":33}
 {"page":184,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 183","line":0,"x":117.828,"y":736.017,"width":"334.56","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":185,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 184","line":0,"x":117.828,"y":736.017,"width":"334.56","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}
 {"page":186,"change":"Removal","score":"2.00: (1.00 + 1.00)","str":"ADVENTURE XII. THE ADVENTURE OF THE COPPER BEECHES 185","line":0,"x":117.828,"y":736.017,"width":"334.56","height":"10.91","fontName":["CMEHHO+NimbusRomNo9L-Regu-Slant_167","KKLGKN+NimbusRomNo9L-Regu"],"dir":["ltr"]}

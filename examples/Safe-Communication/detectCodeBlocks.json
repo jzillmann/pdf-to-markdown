@@ -1,8 +1,8 @@
 {
   "pages": 60,
-  "items": 3968,
+  "items": 3967,
   "groupedItems": 1429,
-  "changes": 2531,
+  "changes": 2534,
   "schema": [
     {
       "name": "block"
@@ -40,6 +40,7 @@
   ],
   "globals": {}
 }
+{"page":0,"change":"ContentChange","types":["CODE"],"str":"August 2015","block":0,"line":1,"x":701.74,"y":23.04,"width":"58.74","height":"11.04","fontName":[null],"dir":["ltr"]}
 {"page":1,"change":"ContentChange","types":["CODE"],"str":"1 • Start out page 10","block":7,"line":11,"x":111.91,"y":300.19,"width":"91.13","height":"14.06","fontName":["ABCDEE+Calibri,Bold","Arial",null],"dir":["ltr"]}
 {"page":1,"change":"ContentChange","types":["CODE"],"str":"2 • Define and scope page 13","block":8,"line":12,"x":111.91,"y":275.9,"width":"134.03","height":"14.04","fontName":["ABCDEE+Calibri,Bold","Arial",null],"dir":["ltr"]}
 {"page":1,"change":"ContentChange","types":["CODE"],"str":"3 • Measure and understand page 19","block":9,"line":13,"x":111.91,"y":251.16,"width":"173.22","height":"14.04","fontName":["ABCDEE+Calibri,Bold","Arial",null],"dir":["ltr"]}

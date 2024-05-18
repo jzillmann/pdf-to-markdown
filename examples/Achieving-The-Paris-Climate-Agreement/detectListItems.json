@@ -1,8 +1,8 @@
 {
   "pages": 526,
   "items": 52758,
-  "groupedItems": 31211,
-  "changes": 909,
+  "groupedItems": 31353,
+  "changes": 913,
   "schema": [
     {
       "name": "line"
@@ -297,7 +297,8 @@
 {"page":464,"change":"ContentChange","types":["LIST"],"str":"• In  2050,  there  will  be  29.6  million  energy-sector  jobs  in  the  5.0  °C  Scenario,  ","line":26,"x":53.85829925,"y":195.15979003,"width":"326.71","height":"10.00","fontName":["PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman"],"dir":["ltr"]}
 {"page":464,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"2025. In the 2.0 °C (1.5 °C) Scenario the renewable energy sector will account for ","dir":"ltr","width":"334.40","height":"10.00","transform":["10.00","0.00","0.00","10.00","53.86","105.16"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":53.85829925,"y":105.15979003,"line":33}
 {"page":465,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"0.","dir":"ltr","width":"5.53","height":"6.73","transform":["0.00","6.73","-6.73","0.00","247.95","103.67"],"fontName":"LNGVQS+NcygvmMyjythRykqcwArialMT","x":247.9526062,"y":103.66570281,"line":1}
-{"page":465,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"0.","dir":"ltr","width":"5.68","height":"6.73","transform":["0.00","6.73","-6.73","0.00","247.95","360.55"],"fontName":"LNGVQS+NcygvmMyjythRykqcwArialMT","x":247.9526062,"y":360.54501342,"line":57}
+{"page":465,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"0.","dir":"ltr","width":"5.68","height":"6.73","transform":["0.00","6.73","-6.73","0.00","247.95","360.55"],"fontName":"LNGVQS+NcygvmMyjythRykqcwArialMT","x":247.9526062,"y":360.54501342,"line":58}
+{"page":465,"change":"ContentChange","types":["LIST"],"str":"- h ea","line":158,"x":321.1906128,"y":263.47698974,"width":"13.51","height":"6.73","fontName":["LNGVQS+NcygvmMyjythRykqcwArialMT"],"dir":["ltr"]}
 {"page":466,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"1. Mapping   IRENA’s   job   categories   against   the   International   Standard   ","line":23,"x":53.85828018,"y":259.79379272,"width":"333.12","height":"10.00","fontName":["PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","YEUVQS+SdnkylMywmbtPfwdngTimesLTStd-Bold"],"dir":["ltr"]}
 {"page":466,"change":"ContentChange","types":["NUMBERED_LIST"],"str":"2. Unpacking mid- and low-skill job categories in IRENA’s study : Some of the ","line":32,"x":53.85828018,"y":151.79379272,"width":"329.13","height":"10.00","fontName":["PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","YEUVQS+SdnkylMywmbtPfwdngTimesLTStd-Bold"],"dir":["ltr"]}
 {"page":466,"change":"ContentChange","types":["LIST"],"str":"• ‘Factory    workers’    for    solar    PV    and    onshore    and    offshore    wind    ","line":35,"x":66.35827636,"y":109.79379272,"width":"319.62","height":"10.00","fontName":["PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman"],"dir":["ltr"]}
@@ -306,12 +307,12 @@
 {"page":471,"change":"ContentChange","types":["LIST"],"str":"• At the aggregate level, it is assumed that rising labour productivity over time will ","line":20,"x":53.85829925,"y":333.15979003,"width":"325.34","height":"10.00","fontName":["PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman"],"dir":["ltr"]}
 {"page":471,"change":"ContentChange","types":["LIST"],"str":"• IRENA estimates a single global figure for each occupation, averaged from sur -","line":27,"x":53.85829925,"y":249.15977478,"width":"323.38","height":"10.00","fontName":["PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman"],"dir":["ltr"]}
 {"page":471,"change":"ContentChange","types":["LIST"],"str":"• The breakdown of the category of ‘construction workers’ is based on interviews ","line":36,"x":53.85829925,"y":141.15977478,"width":"325.71","height":"10.00","fontName":["PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman"],"dir":["ltr"]}
-{"page":476,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","198.58"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":198.57922313999956,"line":114}
-{"page":476,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","245.37"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":245.37171887999955,"line":115}
-{"page":476,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","289.29"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":289.29122874999956,"line":116}
-{"page":478,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","203.03"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":203.0333668099991,"line":114}
-{"page":478,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","252.08"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":252.0783802399991,"line":115}
-{"page":478,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","291.75"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":291.7478748699991,"line":116}
+{"page":476,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","198.58"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":198.57922313999956,"line":124}
+{"page":476,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","245.37"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":245.37171887999955,"line":125}
+{"page":476,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","289.29"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":289.29122874999956,"line":126}
+{"page":478,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","203.03"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":203.0333668099991,"line":126}
+{"page":478,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","252.08"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":252.0783802399991,"line":127}
+{"page":478,"change":"ContentChange","types":["LIST"],"str":"–","dir":"ltr","width":"4.25","height":"8.50","transform":["0.00","8.50","-8.50","0.00","335.21","291.75"],"fontName":"PGGTUK+MjlrwvGpnncyLwpvhkTimesLTStd-Roman","x":335.21029176999997,"y":291.7478748699991,"line":128}
 {"page":493,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"2.15","height":"6.46","transform":["6.46","0.00","0.00","6.46","89.71","450.28"],"fontName":"INYTII+HwbqmjXfxjyjFdxlbpArialMT","x":89.71236682,"y":450.2824726,"line":2}
 {"page":494,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"2.06","height":"6.19","transform":["6.19","0.00","0.00","6.19","87.69","131.77"],"fontName":"INYTII+QmcpjdQkdblmPqmhsjArialMT","x":87.68979977,"y":131.77349852,"line":21}
 {"page":495,"change":"ContentChange","types":["LIST"],"str":"-","dir":"ltr","width":"2.05","height":"6.16","transform":["6.16","0.00","0.00","6.16","78.92","169.49"],"fontName":"INYTII+QmcpjdQkdblmPqmhsjArialMT","x":78.92288468000002,"y":169.4902778,"line":24}

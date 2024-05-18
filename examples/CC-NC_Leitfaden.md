@@ -1,15 +1,12 @@
+## Freies Wissen dank
+
+## Creative-Commons-Lizenzen
+
 ```
-Freies Wissen dank
+Paul Klimpel
+Folgen, Risiken und Nebenwirkungen der Bedingung
+»nicht-kommerziell – NC«
 ```
-Creative-Commons-Lizenzen
-
-##### Paul Klimpel
-
-##### Folgen, Risiken und Nebenwirkungen der Bedingung
-
-##### »nicht-kommerziell – NC«
-
-
 ```
 Alle diese Lizenztypen gibt es ergänzt um das NC-Modul (noncommercial; keine kommerzielle Nutzung
 erlaubt). Aus den drei oben beschriebenen Lizenztypen werden dadurch sechs, nämlich noch zusätzlich:
@@ -52,7 +49,7 @@ keine bearbeitungen. kommer-
 zielle Nutzungen sind dagegen
 erlaubt.
 ```
-## CC-Lizenzen
+### CC-Lizenzen
 
 ```
 Außerdem gibt es CC0, um Werke bedingungslos freizugeben. CC0 ist also eine umfas-
@@ -60,7 +57,6 @@ sende Verzichtserklärung hinsichtlich aller rechte. Dadurch soll urhebern die M
 gegeben werden, ihre eigenen Werke selbst in die gemeinfreiheit zu überführen. CC0 soll nach der Vor-
 stellung von Creative Commons besonders für Datenbanken geeignet sein.
 ```
-
 ## vorWort
 
 Weltweit nutzen immer mehr Menschen die Jedermann-Lizenzen von Creative Commons (CC),
@@ -80,50 +76,11 @@ die das mit sich bringt, kennen nur wenige. Wikimedia Deutschland, Creative Comm
 und iRights.info wollen das mit dieser Broschüre ändern. Wir freuen uns über Kritik und Anregungen
 zu diesem Versuch und wünschen viele Aha-Momente beim Nachschlagen.
 
-### John H. Weitzmann
+#### John H. Weitzmann
 
 CC DE Legal Project Lead
 
-
-Vorwort ........................................................................................................................................................................................................................................... 3
-Einführung ................................................................................................................................................................................................................................... 5
-
-1 ���� Was versteht man unter Open Content? .................................................................................................................................................^6
-2 ���� Warum werden Inhalte unter eine
-CC-Lizenz gestellt? .................................................................................................................................................................................................^8
-3 ���� Warum gibt es unterschiedliche CC-Lizenzen? ................................................................................................................................... 9
-4 ���� Wie wirkt sich das NC-Modul darauf aus, wie Inhalte verbreitet werden? ..................................................................... 10
-5 ���� Was ist kommerziell? ........................................................................................................................................................................................... 11
-6 ���� Kann eine CC-Lizenz mit NC-Modul verhindern, dass meine Inhalte durch Rechtsradikale
-oder andere Extremisten genutzt werden? .......................................................................................................................................... 12
-7 ���� Ich will, dass mein Inhalt unter einer CC-Lizenz frei zugänglich bleibt. Ist das NC-Modul die
-einzige Möglichkeit, einer Aneignung von Inhalten durch kommerzielle Unternehmen
-vorzubeugen? ........................................................................................................................................................................................................... 13
-8 ���� Kann ein CC-NC lizenzierter Inhalt in die Wikipedia eingestellt werden? ..................................................................... 14
-9 ���� Kann man einen NC-lizenzierten Inhalt trotz dieser Einschränkung gesondert für Wikipedia
-freigeben? ................................................................................................................................................................................................................... 15
-10 �� Verhindert das NC-Modul, dass Inhalte kommerziell genutzt werden? ........................................................................... 15
-11 �� Bin ich bereit, gegen eine kommerzielle Nutzung meiner Inhalte vorzugehen? ........................................................ 16
-12 �� Können NC-lizenzierte Inhalte in Zeitungen abgedruckt werden? ..................................................................................... 16
-13 �� Können NC lizenzierte Inhalte in allen Schulen, Berufsschulen und Universitäten
-genutzt werden? ..................................................................................................................................................................................................... 17
-14 �� Wie ist es zu bewerten, wenn NC-lizenzierte Inhalte zunächst in der Schule verwendet,
-dann aber auch außerhalb der Schule genutzt werden sollen? ............................................................................................^17
-15 �� Wie wirkt sich NC auf Mashups aus? .......................................................................................................................................................^18
-16 �� Darf ich als GEMA-Mitglied meine Musik zumindest unter eine CC-Lizenz mit
-NC-Modul stellen? ............................................................................................................................................................................................... 19
-17 �� Kann eine kommerzielle Nutzung durch Dritte dem Urheber nutzen? ............................................................................^20
-18 �� Darf ein Nutzer von CC-lizenzierten
-Inhalten den Eindruck erwecken, der Urheber würde die jeweilige Nutzung persönlich
-unterstützen? ............................................................................................................................................................................................................^20
-19 �� Kann das NC-Modul bei CC-Lizenzen sinnvoll sein? ....................................................................................................................^21
-20 �� Unter welcher CC-Lizenz stehen Wikipedia-Inhalte? ...................................................................................................................^21
-
-Literatur und Links zur Vertiefung .............................................................................................................................................................................^22
-Impressum .................................................................................................................................................................................................................................^23
-
 Inhalt
-
 
 ## einFührung
 
@@ -196,26 +153,25 @@ ungewollte Folgen für die Verbreitung von Inhal-
 ten. Die Entscheidung für das NC-Modul sollte
 daher wohl überlegt sein.
 ```
+#### Stell dir eine Welt vor, in der
 
-## Stell dir eine Welt vor, in der
+#### jeder Mensch an der Gesamtheit
 
-## jeder Mensch an der Gesamtheit
+#### des Wissens teilhaben kann.
 
-## des Wissens teilhaben kann.
-
-## Das ist unsere Mission.
+#### Das ist unsere Mission.
 
 Wikimedia Foundation
 
-# 1
+## 1
 
-###### Was versteht man
+## Was versteht man
 
-###### unter Open COntent?
+## unter Open COntent?
 
-###### INhALtE, DIE FREI GENUtZt
+INhALtE, DIE FREI GENUtZt
 
-###### WERDEN KöNNEN.
+WERDEN KöNNEN.
 
 Open Content, »offene Inhalte«, sind Inhalte,
 die offen und frei zugänglich – und zwar von
@@ -286,7 +242,6 @@ ledge Foundation setzt sich für die Veröffentlichung, Nutzung und Wiederverwen
 von offenem Wissen ein. Ermöglicht wird dies durch freie Lizenzen, beispielhaft dafür sind
 Creative Commons und die General Public Licence (GPL).
 
-
 sie eine neue Software schreiben, sondern auf
 dem aufbauen, was andere schon entwickelt
 haben. Zur Absicherung dieses Prinzips wurde
@@ -326,20 +281,19 @@ lich geschützte Inhalte, wie Filme, Musik, Texte,
 Bilder und so weiter, können durch eine solche
 Lizenz frei genutzt werden.
 
-# 2
+## 2
 
-###### Warum Werden
+## Warum Werden
 
-###### Inhalte unter eIne
+## Inhalte unter eIne
 
-###### CC-lIzenz gestellt?
+## CC-lIzenz gestellt?
 
-###### DAMIt SIE LEIChtER
-
-###### GENUtZt WERDEN
-
-###### KöNNEN.
-
+```
+DAMIt SIE LEIChtER
+GENUtZt WERDEN
+KöNNEN.
+```
 ```
 Viele Kreative wollen, dass ihre Texte, ihre
 Musik oder ihre Filme von möglichst vielen
@@ -365,7 +319,6 @@ ausdrücken können: »Jeder darf meine Inhalte
 in folgender Weise und unter folgenden Bedin-
 gungen nutzen.«
 ```
-
 Zur Verbreitung der CC-Lizenzen hat beigetra-
 gen, dass sie – gerade im Vergleich zu anderen
 Lizenzbedingungen – verhältnismäßig einfach
@@ -401,20 +354,18 @@ Oft tragen kommerzielle Nutzungen ganz er-
 heblich zum Erfolg gerade von Kultur- und Bil-
 dungsarbeit bei.
 
-# 3
+## 3
 
-###### Warum gIbt es unter-
+## Warum gIbt es unter-
 
-###### sChIedlIChe CC-lIzenzen?
+## sChIedlIChe CC-lIzenzen?
 
-###### CC-LIZENZEN
-
-###### BERüCKSIChtIGEN DIE UNtER-
-
-###### SChIEDLIChEN INtERESSEN
-
-###### DER URhEBER.
-
+```
+CC-LIZENZEN
+BERüCKSIChtIGEN DIE UNtER-
+SChIEDLIChEN INtERESSEN
+DER URhEBER.
+```
 ```
 Gemeinsam ist allen CC-Lizenzvarianten die
 Haltung, dass sie die Nutzung von Inhalten er-
@@ -431,10 +382,9 @@ zulassen wollen. Einigen ist es besonders wichtig,
 dass ihr Werk unverändert bleibt und nicht ver-
 fälscht wird. Diese Kreativen können sich durch
 das Modul Keine Bearbeitung (abgekürzt ND
-```
-- no derivatives) absichern und trotzdem andere
+– no derivatives) absichern und trotzdem andere
 Nutzungen ihres Werks erlauben.
-
+```
 ```
 Anderen ist dagegen es besonders wichtig, dass
 ihre Werke in Collagen, Remixes und Mashups
@@ -442,7 +392,6 @@ verwendet werden dürfen. Sie begreifen das
 Schaffen von Inhalten lediglich als Zwischen-
 stadium in einem Prozess. Ihre eigenen Inhalte
 ```
-
 sind aus Altem entstanden und sollen zu Neu-
 em weiterentwickelt werden. Wer aus dieser
 Haltung heraus eine CC-Lizenz vergibt, wird
@@ -469,24 +418,22 @@ Nutzungsmöglichkeiten versperrt werden, die
 durchaus im Interesse Kreativen und Rechtein-
 haber liegen.
 
-# 4
+## 4
 
-###### WIe WIrkt sICh das
+## WIe WIrkt sICh das
 
-###### nC-mOdul darauf aus,
+## nC-mOdul darauf aus,
 
-###### WIe Inhalte verbreItet
+## WIe Inhalte verbreItet
 
-###### Werden?
+## Werden?
 
-###### NC-LIZENZIERtE INhALtE
-
-###### KöNNEN NICht SO WEIt UND
-
-###### NICht SO LEICht VERBREItEt
-
-###### WERDEN.
-
+```
+NC-LIZENZIERtE INhALtE
+KöNNEN NICht SO WEIt UND
+NICht SO LEICht VERBREItEt
+WERDEN.
+```
 ```
 Wenn man seine Inhalte als NC kennzeichnet,
 können sie nicht in freie Wissensdatenbanken
@@ -510,7 +457,6 @@ nahmen angewiesen, da sie nicht (ausschließlich)
 Einnahmen führt jedoch dazu, dass diese Institu-
 tionen als kommerziell gelten müssen. Sie dürfen
 ```
-
 also Inhalte, die mit einer CC-Lizenz versehen
 sind, die das NC-Modul beinhaltet, nicht ohne
 Nachfrage nutzen.
@@ -520,23 +466,18 @@ NC-Bedingung unzulässig. Viele Blogger schal-
 ten Werbung, um ihre Server-Kosten zu decken
 oder sich einen Zuverdienst zu ermöglichen.
 Dadurch ist die Nutzung in diesen Blogs nicht
-
-- oder zumindest nicht mehr eindeutig – nicht-
+– oder zumindest nicht mehr eindeutig – nicht-
 kommerziell.
 
-# 5
+## 5
 
-###### Was Ist kOmmerzIell?
+## Was Ist kOmmerzIell?
 
-###### JEDE VERWENDUNG, DIE VOR-
-
-###### RANGIG AUF EINEN GESChäFt-
-
-###### LIChEN VORtEIL ODER EINE
-
-###### GELDWERtE VERGütUNG
-
-###### GERIChtEt ISt.
+JEDE VERWENDUNG, DIE VOR-
+RANGIG AUF EINEN GESChäFt-
+LIChEN VORtEIL ODER EINE
+GELDWERtE VERGütUNG
+GERIChtEt ISt.
 
 Bei kommerzieller Nutzung denken viele zu-
 nächst an multinationale Unternehmen wie
@@ -544,10 +485,10 @@ Microsoft oder Shell, an Börsenspekulationen,
 an das schnelle Geld oder fragwürdige Geschäf-
 temacherei.
 
-**Die Bezeichnung kommerzielle Nutzung hat
-nichts mit einer moralischen Wertung des Ge-
-schäftsgebarens der jeweiligen Institution oder
-Person zu tun, sondern beschreibt nur, dass**
+**Die Bezeichnung kommerzielle Nutzung hat**
+**nichts mit einer moralischen Wertung des Ge-**
+**schäftsgebarens der jeweiligen Institution oder**
+**Person zu tun, sondern beschreibt nur, dass**
 
 ```
 diese einen geschäftlichen Vorteil erringen und
@@ -593,7 +534,6 @@ Die schwierige Abgrenzung führt dazu, dass in
 vielen Fällen die Verantwortlichen vorsichtshal-
 ber keine CC-lizenzierten Inhalte übernehmen,
 ```
-
 wenn das NC-Modul mit in der Lizenz steht,
 selbst wenn sie im Ergebnis als nicht-kommerzi-
 elle Nutzer einzustufen wären.
@@ -641,28 +581,26 @@ betreten wird. Ein Verzicht auf das NC-Modul
 und die Einschränkungen, die es mit sich bringt,
 vermeidet solche Unsicherheiten.
 ```
-# 6
+## 6
 
-###### kann eIne CC-lIzenz
+## kann eIne CC-lIzenz
 
-###### mIt nC-mOdul verhIndern,
+## mIt nC-mOdul verhIndern,
 
-###### dass meIne Inhalte durCh
+## dass meIne Inhalte durCh
 
-###### reChtsradIkale Oder
+## reChtsradIkale Oder
 
-###### andere extremIsten
+## andere extremIsten
 
-###### genutzt Werden?
+## genutzt Werden?
 
-###### NEIN. ExtREMIStEN WOLLEN
-
-###### DIE GESELLSChAFt VERäNDERN
-
-###### UND NICht GESChäFtE
-
-#### MAChEN.
-
+```
+NEIN. ExtREMIStEN WOLLEN
+DIE GESELLSChAFt VERäNDERN
+UND NICht GESChäFtE
+MAChEN.
+```
 ```
 Rechtsradikale und andere Extremisten verfolgen
 politische Ziele. Ihr Streben ist nicht kommerziell,
@@ -675,7 +613,6 @@ siert. Insofern privilegiert eine NC-Lizenzierung
 in gewisser Weise sogar die Nutzung von Inhal-
 ten durch Extremisten.
 ```
-
 Anders ausgedrückt: Ein Wissenschaftler, der eine
 Untersuchung über den politischen Extremismus
 in Deutschland bei einem Verlag veröffentlichen
@@ -687,31 +624,28 @@ ohne die Absicht der Gewinnerzielung, die for-
 mal als Verein auftritt, darf dieselben NC-lizen-
 zierten Inhalte dagegen ohne Weiteres nutzen.
 
-# 7
+## 7
 
-###### ICh WIll, dass meIn Inhalt
+## ICh WIll, dass meIn Inhalt
 
-###### unter eIner CC-lIzenz freI
+## unter eIner CC-lIzenz freI
 
-###### zugänglICh bleIbt. Ist das
+## zugänglICh bleIbt. Ist das
 
-###### nC-mOdul dIe eInzIge mög-
+## nC-mOdul dIe eInzIge mög-
 
-###### lIChkeIt, eIner aneIgnung
+## lIChkeIt, eIner aneIgnung
 
-###### vOn Inhalten durCh kOm-
+## vOn Inhalten durCh kOm-
 
-###### merzIelle unternehmen
+## merzIelle unternehmen
 
-###### vOrzubeugen?
+## vOrzubeugen?
 
-###### NEIN. ES GIBt ANDERE MöG-
-
-###### LIChKEItEN, WIE DAS MODUL
-
-###### »WEItERGABE UNtER GLEIChEN
-
-###### BEDINGUNGEN«.
+NEIN. ES GIBt ANDERE MöG-
+LIChKEItEN, WIE DAS MODUL
+»WEItERGABE UNtER GLEIChEN
+BEDINGUNGEN«.
 
 Ein effizienterer Schutz dagegen, dass Dritte sich
 eines Inhalts bemächtigen und damit Geld verdie-
@@ -760,25 +694,24 @@ kung, dass dadurch die Verbreitung der Inhalte
 generell (auch in Blogs usw.) erschwert wird, ganz
 im Gegenteil: Weil auch für alle Bearbeitungen
 ```
-
 eine CC-Lizenz gilt, kann diese bearbeitete Ver-
 sion nicht nur von dem Bearbeiter, sondern von
 jeden beliebigen Dritten später weiterverwendet
 werden.
 
-# 8
+## 8
 
-###### kann eIn CC-nC lIzenzIerter
+## kann eIn CC-nC lIzenzIerter
 
-###### Inhalt In dIe WIkIpedIa eIn-
+## Inhalt In dIe WIkIpedIa eIn-
 
-###### gestellt Werden?
+## gestellt Werden?
 
-###### NEIN. WIKIPEDIA-INhALtE
+NEIN. WIKIPEDIA-INhALtE
 
-###### WERDEN AUCh KOMMERZIELL
+WERDEN AUCh KOMMERZIELL
 
-###### GENUtZt.
+GENUtZt.
 
 Einer der Gründe für die weite Verbreitung und
 intensive Nutzung der Wikipedia ist, dass ihre
@@ -789,8 +722,8 @@ Websites Wikipedia-Inhalte eins zu eins einbin-
 den, ohne vorher nachzufragen und dafür zu
 zahlen.
 
-**Wikipedia profitiert sehr von der kommerzi-
-ellen Nutzung ihrer Inhalte.** So wird etwa die
+**Wikipedia profitiert sehr von der kommerzi-**
+**ellen Nutzung ihrer Inhalte.** So wird etwa die
 Wikipedia in verschiedene Suchmaschinen integ-
 riert. Das fördert die Verbreitung der Wikipedia-
 Inhalte, also des gemeinsam erarbeiteten Wissens.
@@ -840,26 +773,24 @@ wenn die CC-Lizenz, die standardmäßig bei der
 Wikipedia verwendet wird, das NC-Modul ent-
 halten hätte.
 ```
+## 9
 
-# 9
+## kann man eInen
 
-###### kann man eInen
+## nC-lIzenzIerten Inhalt
 
-###### nC-lIzenzIerten Inhalt
+## trOtz dIeser eInsChrän-
 
-###### trOtz dIeser eInsChrän-
+## kung gesOndert für
 
-###### kung gesOndert für
+## WIkI pedIa freIgeben?
 
-###### WIkI pedIa freIgeben?
+NEIN. DIE NUtZUNGSMöGLICh-
 
-###### NEIN. DIE NUtZUNGSMöGLICh-
+KEItEN VON WIKIPEDIA SOLLEN
 
-###### KEItEN VON WIKIPEDIA SOLLEN
-
-###### NICht UNüBERSIChtLICh
-
-###### WERDEN.
+NICht UNüBERSIChtLICh
+WERDEN.
 
 Wikipedia lehnt Sondervereinbarungen ab – ge-
 nau wie alle anderen Initiativen und Projekte, die
@@ -886,18 +817,18 @@ einer weiteren Zustimmung abhängt, in der
 Wikipedia nicht zulässig sind und gelöscht
 werden.
 ```
-# 10
+## 10
 
-###### verhIndert das nC-mOdul,
+## verhIndert das nC-mOdul,
 
-###### dass Inhalte kOmmerzIell
+## dass Inhalte kOmmerzIell
 
-###### genutzt Werden?
+## genutzt Werden?
 
-###### JA. ABER OFt AN VOLLKOMMEN
-
-###### FALSChER StELLE.
-
+```
+JA. ABER OFt AN VOLLKOMMEN
+FALSChER StELLE.
+```
 ```
 Die NC-Einschränkung bei einer CC-Lizenzie-
 rung verbietet zwar eine kommerzielle Nutzung,
@@ -920,7 +851,6 @@ Dazu gehören öffentliche Institutionen, die mit
 kommerziellen Partnern zusammenarbeiten, aber
 auch Wissensdatenbanken wie Wikipedia, offe-
 ```
-
 ne Medienarchive oder Open-Source-Projekte.
 Alle Projekte, Initiativen und Institutionen, denen
 es ausdrücklich um den freien Zugang zu Wissen
@@ -941,17 +871,17 @@ NC-Modul gerade dort seine größte Beachtung
 erfährt, wo seine Folgen am wenigsten beabsich-
 tigt werden.
 
-# 11
+## 11
 
-###### bIn ICh bereIt, gegen eIne
+## bIn ICh bereIt, gegen eIne
 
-###### kOmmerzIelle nutzung meI-
+## kOmmerzIelle nutzung meI-
 
-###### ner Inhalte vOrzugehen?
+## ner Inhalte vOrzugehen?
 
-###### WENN NICht, SOLLtEN SIE DAS
+WENN NICht, SOLLtEN SIE DAS
 
-###### NC-MODUL üBERDENKEN.
+NC-MODUL üBERDENKEN.
 
 Eine Creative-Commons-Lizenz mittels NC-
 Modul einzuschränken, ist nur dann sinnvoll,
@@ -976,27 +906,25 @@ einer Nutzung absehen werden. Das aber sind
 im Zweifel diejenigen Nutzer, die gar nicht ab-
 geschreckt werden sollen.
 ```
-# 12
+## 12
 
-###### können nC-lIzenzIerte
+## können nC-lIzenzIerte
 
-###### Inhalte In zeItungen
+## Inhalte In zeItungen
 
-###### abgedruCkt Werden?
+## abgedruCkt Werden?
 
-###### NEIN. ZEItUNGEN GEhöREN
-
-###### IN JEDEM FALL ZU DEN KOMMER-
-
-###### ZIELLEN NUtZERN.
-
+```
+NEIN. ZEItUNGEN GEhöREN
+IN JEDEM FALL ZU DEN KOMMER-
+ZIELLEN NUtZERN.
+```
 ```
 Zeitungen werden betrieben, um damit Einnah-
 men zu generieren; sie sind also auf einen ge-
 schäftlichen Vorteil und eine geldwerte Vergütung
 gerichtet. Daran ändert das Grundrecht auf Pres-
 ```
-
 sefreiheit und die große Bedeutung von Zeitun-
 gen für die Meinungsbildung und die öffentliche
 Debatte nichts. Die Einstufungen von Zeitungen
@@ -1012,17 +940,17 @@ zung. Die Stärke der CC-Standardlizenzen be-
 steht jedoch gerade darin, dass nicht in jedem
 Einzelfall etwas vereinbart werden muss.
 
-# 13
+## 13
 
-###### können nC-lIzenzIerte
+## können nC-lIzenzIerte
 
-###### Inhalte In allen sChulen,
+## Inhalte In allen sChulen,
 
-###### berufssChulen und unIver-
+## berufssChulen und unIver-
 
-###### sItäten genutzt Werden?
+## sItäten genutzt Werden?
 
-###### NEIN, NICht IN ALLEN.
+NEIN, NICht IN ALLEN.
 
 Je nach Organisationsform des Bildungsträgers
 können Schulen, Berufsschulen und Universitä-
@@ -1039,10 +967,9 @@ können. Solche Bildungseinrichtungen sind auf
 eigene Einnahmen angewiesen. Mit dieser Ori-
 entierung, eigene Einnahmen zu erzielen, ist ihre
 Tätigkeit auf eine geldwerte Vergütung gerichtet
-```
-- und zwar in einem Maße, das nicht als vernach-
+– und zwar in einem Maße, das nicht als vernach-
 lässigbar gewertet werden kann.
-
+```
 ```
 Je geringer die öffentliche Förderung ist, je grö-
 ßer ist zumeist die Notwendigkeit, zusätzliche
@@ -1055,29 +982,24 @@ mals benachteiligt, weil sie keine CC-lizenzierten
 Inhalte nutzen dürfen, bei denen das NC-Modul
 in der Lizenz enthalten ist.
 ```
-# 14
+## 14
 
-###### WIe Ist es zu beWerten,
+## WIe Ist es zu beWerten,
 
-###### Wenn nC-lIzenzIerte Inhal-
+## Wenn nC-lIzenzIerte Inhal-
 
-###### te zunäChst In der sChule
+## te zunäChst In der sChule
 
-###### verWendet, dann aber auCh
+## verWendet, dann aber auCh
 
-###### ausserhalb der sChule ge-
-
-###### nutzt Werden sOllen?
-
-###### BEI VERWENDUNG AUSSERhALB
-
-###### DER SChULE KANN EINE NUt-
-
-###### ZUNG LEICht ALS KOMMERZIELL
-
-###### BEWERtEt WERDEN.
-
-
+```
+ausserhalb der sChule ge-
+nutzt Werden sOllen?
+BEI VERWENDUNG AUSSERhALB
+DER SChULE KANN EINE NUt-
+ZUNG LEICht ALS KOMMERZIELL
+BEWERtEt WERDEN.
+```
 Die Nutzung von CC-lizenzierten Inhalten, bei
 denen das NC-Modul in der Lizenz enthalten ist,
 ist innerhalb von öffentlichen Schulen kein Prob-
@@ -1149,17 +1071,16 @@ und auf eine Verfolgung verzichten wird. Dann aber
 muss man sich fragen, warum man das NC-Modul
 überhaupt auswählt (siehe Frage 11).
 ```
-# 15
+## 15
 
-###### WIe WIrkt sICh nC auf
+## WIe WIrkt sICh nC auf
 
-###### mashups aus?
+## mashups aus?
 
-###### NICht ALLE CC-LIZENZEN SIND
-
-###### MItEINANDER KOMBINIERBAR.
-
-
+```
+NICht ALLE CC-LIZENZEN SIND
+MItEINANDER KOMBINIERBAR.
+```
 Werke, die unter einer CC-BY-SA-Lizenz (Attri-
 bution-Share-Alike, also Namensnennung und
 Weitergabe unter gleichen Bedingungen) ste-
@@ -1195,22 +1116,21 @@ genutzt hatten, schnell in einen Graubereich,
 in dem man der Nutzung einen kommerziellen
 Charakter zusprechen kann.
 
-# 16
+## 16
 
-###### darf ICh als gema-mItglIed
+## darf ICh als gema-mItglIed
 
-###### meIne musIk zumIndest un-
+## meIne musIk zumIndest un-
 
-###### ter eIne CC-lIzenz mIt nC-
+## ter eIne CC-lIzenz mIt nC-
 
-###### mOdul stellen?
+## mOdul stellen?
 
-###### NEIN. GEMA-MItGLIEDSChAFt
-
-###### UND CC-LIZENZEN SIND NICht
-
-###### MItEINANDER VEREINBAR.
-
+```
+NEIN. GEMA-MItGLIEDSChAFt
+UND CC-LIZENZEN SIND NICht
+MItEINANDER VEREINBAR.
+```
 ```
 Durch einen Wahrnehmungsvertrag mit der
 GEMA übertragen Musiker – genauer gesagt
@@ -1234,7 +1154,6 @@ schließliche Wahrnehmung ihrer Rechte im di-
 gitalen Zeitalter nicht in ihrem Interesse ist. Sie
 wollen selbst entscheiden können, ob sie einzelne
 ```
-
 Stücke unter ein flexibleres Lizenzsystem stellen
 möchten. Einige Künstler sind deshalb bereits
 aus der GEMA ausgetreten. Dies hat jedoch eine
@@ -1250,21 +1169,20 @@ Verwertungsgesellschaften für andere Kunstbe-
 reiche in Deutschland erlauben es ihren Mitglie-
 dern, CC-Lizenzen zu nutzen.
 
-# 17
+## 17
 
-###### kann eIne kOmmerzIelle
+## kann eIne kOmmerzIelle
 
-###### nutzung durCh drItte dem
+## nutzung durCh drItte dem
 
-###### urheber nutzen?
+## urheber nutzen?
 
-###### JA. WENN MAN SEINE INhALtE
+JA. WENN MAN SEINE INhALtE
+WEIt VERBREItEN WILL, SOLLtE
 
-###### WEIt VERBREItEN WILL, SOLLtE
+MAN KOMMERZIELLE NUtZUN-
 
-###### MAN KOMMERZIELLE NUtZUN-
-
-###### GEN ZULASSEN.
+GEN ZULASSEN.
 
 Eine kommerzielle Nutzung ist nicht von vorn-
 herein eine schlechte Nutzung. Überall dort, wo
@@ -1279,26 +1197,25 @@ sollten jeden Verbreitungsweg nutzen, der ih-
 nen offen steht, da die möglichst weite Verbrei-
 tung von Inhalten im Vordergrund steht.
 ```
-# 18
+## 18
 
-###### darf eIn nutzer vOn
+## darf eIn nutzer vOn
 
-###### CC-lIzenzIerten Inhalten
+## CC-lIzenzIerten Inhalten
 
-###### den eIndruCk erWeCken,
+## den eIndruCk erWeCken,
 
-###### der urheber Würde dIe
+## der urheber Würde dIe
 
-###### jeWeIlIge nutzung persön-
+## jeWeIlIge nutzung persön-
 
-###### lICh unterstützen?
+## lICh unterstützen?
 
-###### NEIN. EINE CC-LIZENZ BEINhAL-
-
-###### tEt KEINE PERSöNLIChE
-
-###### UNtERStütZUNG.
-
+```
+NEIN. EINE CC-LIZENZ BEINhAL-
+tEt KEINE PERSöNLIChE
+UNtERStütZUNG.
+```
 ```
 CC lässt die Urheberpersönlichkeitsrechte un-
 angetastet. Ein CC-Lizenzgeber kann verlan-
@@ -1308,18 +1225,17 @@ zen oder gutheißen. Diese in den USA als no
 endorsement bekannte Klausel wurde dort
 schon gerichtlich durchgefochten.
 ```
+## 19
 
-# 19
+## kann das nC-mOdul
 
-###### kann das nC-mOdul
+## beI CC-lIzenzen sInnvOll
 
-###### beI CC-lIzenzen sInnvOll
+## seIn?
 
-###### seIn?
+JA, ABER SEhR VIEL SELtENER,
 
-###### JA, ABER SEhR VIEL SELtENER,
-
-###### ALS VIELE DENKEN.
+ALS VIELE DENKEN.
 
 Für Privatleute gibt es in der Regel keine gu-
 ten Gründe für eine Beschränkung auf nicht-
@@ -1354,14 +1270,15 @@ kommerziellen Bereichen von Bildung und Wis-
 senschaft verbreitet werden, da dies den Absatz
 im klassischen Vertrieb fördern kann.
 ```
-# 20
+## 20
 
-###### unter WelCher CC-lIzenz
+## unter WelCher CC-lIzenz
 
-###### stehen WIkIpedIa-Inhalte?
+## stehen WIkIpedIa-Inhalte?
 
-###### UNtER DER CC-BY-SA-LIZENZ
-
+```
+UNtER DER CC-BY-SA-LIZENZ
+```
 ```
 Damit das Gemeingut des freien Wissens und
 der freien Kultur wächst, verlangt die Wikipe-
@@ -1385,7 +1302,6 @@ Initiative. Die Free Software Foundation hatte
 diese Lizenz ursprünglich für Software-Dokumen-
 tationen entwickelt, deshalb war sie für die Wiki-
 ```
-
 pedia zu kompliziert und eigentlich nicht geeignet.
 Gleichwohl mussten die GFDL-Open-Content-
 Lizenzen nicht umgestellt werden, als Wikipedia
@@ -1408,17 +1324,19 @@ bei Wikipedia folgendes:
 
 Die Namensnennung soll erfolgen:
 
-- durch einen Hyperlink (wenn möglich) oder
-    eine URL auf die Seite, zu der man beigetra-
-    gen hat,
-- durch einen Hyperlink (wenn möglich) oder
-    eine URL auf eine alternative, stabile, frei
-    zugängliche, lizenzkonforme Online-Kopie,
-    welche die Autoren in einer zum ursprüngli-
-    chen Text gleichwertigen Weise nennt, oder
-- durch eine Liste sämtlicher Autoren. Jede
-    Autorenliste kann um sehr kleine oder irre-
-    levante Beiträge gekürzt werden.
+– durch einen Hyperlink (wenn möglich) oder
+eine URL auf die Seite, zu der man beigetra-
+gen hat,
+
+– durch einen Hyperlink (wenn möglich) oder
+eine URL auf eine alternative, stabile, frei
+zugängliche, lizenzkonforme Online-Kopie,
+welche die Autoren in einer zum ursprüngli-
+chen Text gleichwertigen Weise nennt, oder
+
+– durch eine Liste sämtlicher Autoren. Jede
+Autorenliste kann um sehr kleine oder irre-
+levante Beiträge gekürzt werden.
 
 Das Modul No Derivatives (keine Bearbeitun-
 gen – ND) ist für Wikipedia-Beiträge unzulässig.
@@ -1462,13 +1380,11 @@ Nutzungsbedingungen der Wikimediafoundation:
 http://wikimediafoundation.org/wiki/Nutzungsbedin-
 gungen
 ```
-
 ## impressum
 
 Freies Wissen dank Creative-Commons-Lizenzen
 Folgen, Risiken und Nebenwirkungen der Bedin-
 gung »nicht-kommerziell – NC«
-
 Autor: Dr. Paul Klimpel, iRights.info
 
 Redaktion: Valie Djordjevic, John H. Weitzmann,
@@ -1491,7 +1407,7 @@ redaktion@irights.info
 Creative Commons Deutschland
 c/o EEAR gGmbH und newthinking communications
 Graefestraße 59, 10967 Berlin
-[http://www.creativecommons.de](http://www.creativecommons.de)
+[www.creativecommons.de](www.creativecommons.de)
 legal@creativecommons.de
 
 Verantwortlich für den Inhalt:
@@ -1529,7 +1445,7 @@ Eine vereinfachte Darstellung der durch die Lizenz
 gegebenen Freiheiten ist zu finden unter https://creati-
 vecommons.org/licenses/by-sa/3.0/de/
 ```
-## Paul Klimpel
+### Paul Klimpel
 
 ```
 Rechtsanwalt & Leiter iRightsLab Kultur
@@ -1549,7 +1465,6 @@ Kulturelles Erbe und Digitale Welt des Internet &
 Gesellschaft Co:llaboratory. Seit 2012 ist er Leiter des
 iRightsLab Kultur.
 ```
-
 Die
 »Jeder-
 mann-Lizenzen«
@@ -1568,5 +1483,4 @@ Risiken und Nebenwirkungen einer
 Beschränkung der CC-Lizenz
 auf nicht-kommerzielle
 Nutzung.
-
 

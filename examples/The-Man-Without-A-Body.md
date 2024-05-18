@@ -6,55 +6,55 @@
 ```
 {by Edward Page Mitchell}
 ```
-On a shelf in the old Arsenal museum, in the
-Central Park, in the midst of stuffed
-hummingbirds, ermines, silver foxes, and
-bright- colored parakeets, there is a ghastly row
-of human heads. I pass by the mummied
-Peruvian, the Maori chief, and the Flathead
-Indian to speak of a Caucasian head which has
-had a fascinating interest to me ever since it was
-added to the grim collection a little more than a
-year ago.
-I was struck with the Head when I first saw it.
-The pensive intelligence of the features won
-me. The face is remarkable, although the nose
-is gone, and the nasal fossæ are somewhat the
-worse for wear. The eyes are likewise wanting,
-but the empty orbs have an expression of their
-own. The parchmenty skin is so shriveled that
-the teeth show to their roots in the jaws. The
-mouth has been much affected by the ravages
-of decay, but what mouth there is displays
-character. It seems to say: "Barring certain
-deficiencies in my anatomy, you behold a man
-of parts!" The features of the Head are of the
-Teutonic cast, and the skull is the skull of a
-philosopher. What particularly attracted my
-attention, however, was the vague resemblance
-which this dilapidated countenance bore to
-some face which had at some time been familiar
-to me **—** some face which lingered in my
-memory, but which I could not place.
-After all, I was not greatly surprised, when I
-had known the Head for nearly a year, to see it
-acknowledge our acquaintance and express its
-appreciation of friendly interest on my part by
-deliberately winking at me as I stood before its
-glass case.
-This was on a Trustees' day, and I was the
-only visitor in the hall. The faithful attendant
-had gone to enjoy a can of beer with his friend,
-the superintendent of the monkeys.
-The Head winked a second time, and even
-more cordially than before. I gazed upon its
-efforts with the critical delight of an anatomist.
-I saw the masseter muscle flex beneath the
-leathery skin. I saw the play of the buccinators,
-and the beautiful lateral movement of the
-internal pterygoid. I knew the Head was trying
-to speak to me. I noted the convulsive
-twitchings of the risorius and the zygomatie
+**On a shelf in the old Arsenal museum, in the**
+**Central Park, in the midst of stuffed**
+**hummingbirds, ermines, silver foxes, and**
+**bright- colored parakeets, there is a ghastly row**
+**of human heads. I pass by the mummied**
+**Peruvian, the Maori chief, and the Flathead**
+**Indian to speak of a Caucasian head which has**
+**had a fascinating interest to me ever since it was**
+**added to the grim collection a little more than a**
+**year ago.**
+**I was struck with the Head when I firstsaw it.**
+**The pensive intelligence of the features won**
+**me. The face is remarkable, although the nose**
+**is gone, and the nasal fossæ are somewhat the**
+**worse for wear. The eyes are likewise wanting,**
+**but the empty orbs have an expression of their**
+**own. The parchmenty skin is so shriveled that**
+**the teeth show to their roots in the jaws. The**
+**mouth has been much affected by the ravages**
+**of decay, but what mouth there is displays**
+**character. It seems to say: "Barring certain**
+**deficiencies in my anatomy, you behold a man**
+**ofparts!" The features of the Head are of the**
+**Teutonic cast, and the skull is the skull of a**
+**philosopher. What particularly attracted my**
+**attention, however, was the vague resemblance**
+**which this dilapidated countenance bore to**
+**some face which had at some time been familiar**
+**to me—some face which lingered in my**
+**memory, but which I could not place.**
+**After all, I was not greatly surprised, when I**
+**had known the Head for nearly a year, to see it**
+**acknowledge our acquaintance and express its**
+**appreciation offriendly interest on my part by**
+**deliberately winking at me as I stood before its**
+**glass case.**
+**This was on a Trustees' day, and I was the**
+**only visitor in the hall. The faithful attendant**
+**had gone to enjoy a can of beer with his friend,**
+**the superintendentof the monkeys.**
+**The Head winked a second time, and even**
+**more cordially than before. I gazed upon its**
+**efforts with the critical delight of an anatomist.**
+**I saw the masseter muscle flex beneath the**
+**leathery skin. I saw the play of the buccinators,**
+**and the beautiful lateral movement of the**
+**internal pterygoid. I knew the Head was trying**
+**to speak to me. I noted the convulsive**
+**twitchings of the risorius and the zygomatie**
 
 ```
 major, and knew that it was endeavoring to
@@ -108,58 +108,58 @@ even blow my nose [his nose!] decently when I
 get cold in this thundering draught. As to eating
 ```
 
-and drinking, I don't care. My soul is wrapped
-up in Science. Science is my bride, my divinity.
-I worship her footsteps in the past, and hail the
-prophecy of her future progress. I **—** "
-I had heard these sentiments before. In a flash
-I had accounted for the familiar look which had
-haunted me ever since I first saw the Head.
-"Pardon me," I said, "you are the celebrated
-Prof. Dummkopf?"
-"That is, or was, my name," he replied, with
-dignity.
-"And you formerly lived in Boston, where you
-carried on scientific experiments of startling
-originality. It was you who first discovered how
-to photograph smell, how to bottle music, how
-to freeze the aurora borealis. It was you who first
-applied spectrum analysis to Mind."
-"These were some of my minor
-achievements," said the Head, sadly nodding
-itself **—** " small when compared with my final
-invention, the grand discovery which was at the
-same time my greatest triumph and my ruin. I
-lost my Body in an experiment."
-"How was that?" I asked. "I had not heard."
-"No," said the Head. "Living alone and
-friendless, my disappearance was hardly
-noticed. I will tell you **—** "
-There was a sound upon the stairway.
-"Hush!" cried the Head. "Here comes
-somebody. We must not be discovered. You
-must dissemble."
-I hastily closed the door of the glass case,
-locked it just in time to evade the vigilance of
-the returning keeper, and dissembled by
-pretending to examine, with great interest, Anas
-Acuta, or Pin-tailed Duck.
-On the next Trustees' day I revisited the
-Museum and gave the keeper of the Head a
-dollar on the pretense of purchasing
-information in regard to the curiosities in his
-charge. He made the circuit of the hall with me,
-talking volubly all the while.
-"That there," he said, as we stood before the
-Head, "is a relict of morality presented to the
-Museum fifteen months ago. The head of a
-notorious murderer gilteened at Paris in the last
-century, sir."
-I fancied that I saw a slight twitching about
-the corners of Prof. Dummkopf **’** s mouth and an
-almost imperceptible depression of what was
-once his left eyelid, but he kept his face
-remarkably well under the circumstances. I
+**and drinking, I don't care. My soul is wrapped**
+**up in Science. Science is my bride, my divinity.**
+**I worship her footsteps in the past, and hail the**
+**prophecy of her future progress. I—"**
+**I had heard these sentiments before. In a flash**
+**I had accounted for the familiar look which had**
+**haunted me ever since I first saw the Head.**
+**"Pardon me," I said, "you are the celebrated**
+**Prof. Dummkopf?"**
+**"That is, or was, my name," he replied, with**
+**dignity.**
+**"And you formerly lived in Boston, where you**
+**carried on scientific experiments of startling**
+**originality. It was you who first discovered how**
+**to photograph smell, how to bottle music, how**
+**to freeze the aurora borealis. It was you who first**
+**applied spectrum analysis to Mind."**
+**"These were some of my minor**
+**achievements," said the Head, sadly nodding**
+**itself—" small when compared with my final**
+**invention, the grand discovery which was at the**
+**same time my greatest triumph and my ruin. I**
+**lost my Body in an experiment."**
+**"How was that?" I asked. "I had not heard."**
+**"No," said the Head. "Living alone and**
+**friendless, my disappearance was hardly**
+**noticed. I will tell you—"**
+**There was a sound upon the stairway.**
+**"Hush!" cried the Head. "Here comes**
+**somebody. We must not be discovered. You**
+**must dissemble."**
+**I hastily closed the door of the glass case,**
+**locked it just in time to evade the vigilance of**
+**the returning keeper, and dissembled by**
+**pretending to examine, with great interest, Anas**
+**Acuta, or Pin-tailed Duck.**
+**On the next Trustees' day I revisited the**
+**Museum and gave the keeper of the Head a**
+**dollar on the pretense of purchasing**
+**information in regard to the curiosities in his**
+**charge. He made the circuit of the hall with me,**
+**talking volubly all the while.**
+**"That there," he said, as we stood before the**
+**Head, "isa relict of moralitypresented to the**
+**Museum fifteen months ago. The head of a**
+**notorious murderer gilteened at Paris in the last**
+**century, sir."**
+**I fancied that I saw a slight twitching about**
+**the corners of Prof. Dummkopf’s mouth and an**
+**almost imperceptible depression of what was**
+**once his left eyelid, but he kept his face**
+**remarkably well under the circumstances. I**
 
 ```
 dismissed my guide with many thanks for his
@@ -215,58 +215,57 @@ follow me?"
 I conceived a great idea. There was no reason
 why matter could not be telegraphed, or, to be
 ```
-
-etymologically accurate, 'telepomped.' It was
-only necessary to effect at one end of the line the
-disintegration of the molecules into atoms, and
-to convey the vibrations of the chemical
-dissolution by electricity to the other pole,
-where a corresponding reconstruction could be
-effected from other atoms. As all atoms are
-alike, their arrangement into molecules of the
-same order, and the arrangement of those
-molecules into an organization similar to the
-original organization, would be practically a
-reproduction of the original. It would be a
-materialization **—** not in the sense of the
-Spiritualists' cant, but in all the truth and logic
-of stern science. Do you still follow me?"
-"It is a little misty," I said, "but I think I get
-the point. You would telegraph the Idea of the
-matter, to use the word Idea in Plato's sense."
-"Precisely. A candle flame is the same candle
-flame although the burning gas is continually
-changing. A wave on the surface of water is the
-same wave, although the water composing it is
-shifting as it moves. A man is the same man
-although there is not an atom in his body which
-was there five years before. It is the Form, the
-Shape, the Idea, that is essential. The vibrations
-that give individuality to matter may be
-transmitted to a distance by wire just as readily
-as the vibrations that give individuality to
-sound. So I constructed an instrument by which
-I could pull down matter, so to speak, at the
-anode and build it up again on the same plan at
-the cathode. This was my Telepomp."
-"But in practice **—** how did the Telepomp
-work?"
-"To perfection! In my rooms on Joy street, in
-Boston, I had about five miles of wire. I had no
-difficulty in sending simple compounds, such
-as quartz, starch, and water, from one room to
-another over this five-mile coil. I shall never
-forget the joy with which I disintegrated a three-
-cent postage stamp in one room and found it
-immediately reproduced at the receiving
-instrument in another. This success with
-inorganic matter emboldened me to attempt the
-same thing with a living organism. I caught a
-cat **—** a black and yellow cat **—** and I submitted
-him to a terrible current from my two-hundred-
-cup battery. The cat disappeared in a twinkling.
-I hastened to the next room and, to my immense
-satisfaction, found Thomas there, alive and
+**etymologically accurate, 'telepomped.' It was**
+**only necessary to effect at one end of the line the**
+**disintegration of the molecules into atoms, and**
+**to convey the vibrations of the chemical**
+**dissolution by electricity to the other pole,**
+**where a corresponding reconstruction could be**
+**effected from other atoms. As all atoms are**
+**alike, their arrangement into molecules of the**
+**same order, and the arrangement of those**
+**molecules into an organization similar to the**
+**original organization, would be practically a**
+**reproduction of the original. It would be a**
+**materialization—not in the sense of the**
+**Spiritualists' cant, but in all the truth and logic**
+**of stern science. Do you still follow me?"**
+**"It is a little misty," I said, "but I think I get**
+**the point. You would telegraph the Idea of the**
+**matter, to use the word Idea in Plato's sense."**
+**"Precisely. A candle flame is the same candle**
+**flame although the burning gas is continually**
+**changing. A wave on the surface of water is the**
+**same wave, although the water composing it is**
+**shifting as it moves. A man is the same man**
+**although there is not an atom in his body which**
+**was there five years before. It is the Form, the**
+**Shape, the Idea, that is essential. The vibrations**
+**that give individuality to matter may be**
+**transmitted to a distance by wire just as readily**
+**as the vibrations that give individuality to**
+**sound. So I constructed an instrument by which**
+**I could pull down matter, so to speak, at the**
+**anode and build it up again on the same plan at**
+**the cathode. This was my Telepomp."**
+**"But in practice—how did the Telepomp**
+**work?"**
+**"To perfection! In my rooms on Joy street, in**
+**Boston, I had about five miles of wire. I had no**
+**difficulty in sending simple compounds, such**
+**as quartz, starch, and water, from one room to**
+**another over this five-mile coil. I shall never**
+**forget the joy with which I disintegrated a three-**
+**cent postage stamp in one room and found it**
+**immediately reproduced at the receiving**
+**instrument in another. This success with**
+**inorganic matter emboldened me to attempt the**
+**same thing with a living organism. I caught a**
+**cat—a black and yellow cat—and I submitted**
+**him to a terrible current from my two-hundred-**
+**cup battery. The cat disappeared in a twinkling.**
+**I hastened to the next room and, to my immense**
+**satisfaction, found Thomas there, alive and**
 
 ```
 purring, although somewhat astonished. It
@@ -321,59 +320,58 @@ had forgotten to replenish the cups of my
 battery with fresh sulphuric acid, and there was
 not electricity enough to materialize the rest of
 ```
-
-me. I was a Head, but my body was, Lord
-knows where!"
-I did not attempt to offer consolation. Words
-would have been mockery in the presence of
-Prof. Dummkopf's grief.
-"What matters it about the rest?" he sadly
-continued. "The house in Phillips Street was
-full of medical students. I suppose that some of
-them found my Head, and knowing nothing of
-me or of the Telepomp, appropriated it for
-purposes of anatomical study. I suppose that
-they attempted to preserve it by means of some
-arsenical preparation. How badly the work was
-done is shown by my defective nose. I suppose
-that I drifted from medical student to medical
-student, and from anatomical cabinet to
-anatomical cabinet until some would-be
-humorist presented me to this collection as a
-French murderer of the last century. For some
-months I knew nothing, and when I recovered
-consciousness I found myself here.
-"Such," added the Head, with a dry, harsh
-laugh, "is the irony of Fate!"
-"Is there nothing I can do for you?" I asked,
-after a pause.
-"Thank you," the Head replied; "I am
-tolerably cheerful and resigned. I have lost
-pretty much all interest in experimental
-Science. I sit here day after day and watch the
-objects of zoological, ichthyological,
-ethnological, and conchological interest with
-which this admirable museum abounds. I don't
-know of anything you can do for me.
-"Stay," he added, as his gaze fell once more
-upon the exasperating legs of the Oedieneninus
-Longpipes opposite him. "If there is anything I
-do feel the need of, it is out-door exercise.
-Couldn't you manage in some way to take me
-out for a walk?"
-I confess that I was somewhat staggered by
-this request, but promised to do what I could.
-After some deliberation, I formed a plan, which
-was carried out in the following manner:
-I returned to the Museum that afternoon just
-before the closing hour, and hid myself behind
-the mammoth sea cow, or Manatus
-Americanus. The attendant, after a cursory
-glance through the hall, locked up the building
-and departed. Then I came boldly forth and
-removed my friend from his shelf. With a piece
-of stout twine, I lashed his one or two vertebrae
-to the headless vertebrae of a skeleton Moa.
+**me. I was a Head, but my body was, Lord**
+**knows where!"**
+**I did not attempt to offer consolation. Words**
+**would have been mockery in the presence of**
+**Prof. Dummkopf's grief.**
+**"What matters it about the rest?" he sadly**
+**continued. "The house in Phillips Street was**
+**full of medical students. I suppose that some of**
+**them found my Head, and knowing nothing of**
+**me or of the Telepomp, appropriated it for**
+**purposes of anatomical study. I suppose that**
+**they attempted to preserve itby means of some**
+**arsenical preparation. How badly the work was**
+**done is shown by my defective nose. I suppose**
+**that I drifted from medical student to medical**
+**student, and from anatomical cabinet to**
+**anatomical cabinet until some would-be**
+**humorist presented me to this collection as a**
+**French murderer of the last century. For some**
+**months I knew nothing, and when I recovered**
+**consciousness I found myself here.**
+**"Such," added the Head, with a dry, harsh**
+**laugh, "is the irony of Fate!"**
+**"Is there nothing I can dofor you?" I asked,**
+**after a pause.**
+**"Thank you," the Head replied; "I am**
+**tolerably cheerful and resigned. I have lost**
+**pretty much all interest in experimental**
+**Science. I sit here day after day and watch the**
+**objects of zoological, ichthyological,**
+**ethnological, and conchological interest with**
+**which this admirable museum abounds. I don't**
+**know of anything you can do for me.**
+**"Stay," he added, as his gaze fell once more**
+**upon the exasperating legs of theOedieneninus**
+**Longpipes oppositehim. "If there is anything I**
+**do feel the need of, it is out-door exercise.**
+**Couldn't you manage in some way to take me**
+**out for a walk?"**
+**I confess that I was somewhat staggered by**
+**this request, but promised to do what I could.**
+**After some deliberation, I formed a plan, which**
+**was carried out in the following manner:**
+**I returned to the Museum that afternoon just**
+**before the closing hour, andhid myself behind**
+**the mammoth sea cow, or Manatus**
+**Americanus. The attendant, after a cursory**
+**glance through the hall, locked up the building**
+**and departed. Then I came boldly forth and**
+**removed my friend from his shelf. With a piece**
+**of stout twine, I lashedhis one or two vertebrae**
+**to the headless vertebrae of a skeleton Moa.**
 
 ```
 This gigantic and extinct bird of New Zealand

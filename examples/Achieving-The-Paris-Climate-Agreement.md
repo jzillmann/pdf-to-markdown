@@ -12,13 +12,11 @@
 
 ## Pathways for +1.5°C and +2°C
 
-
 #### Achieving the Paris Climate Agreement Goals
-
 
 #### Sven Teske
 
-###### Editor
+Editor
 
 ## Achieving the Paris Climate
 
@@ -30,15 +28,14 @@
 
 ### Pathways for +1.5°C and +2°C
 
-
 ISBN 978-3-030-05842-5 ISBN 978-3-030-05843-2 (eBook)
-https://doi.org/10.1007/978-3-030-05843-
+https://doi.org/10.1007/978-3-030-05843-2
 
 Library of Congress Control Number: 2018966518
 
 © The Editor(s) (if applicable) and The Author(s) 2019.
-**Open Access** This book is licensed under the terms of the Creative Commons Attribution 4.
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+**Open Access** This book is licensed under the terms of the Creative Commons Attribution 4.0
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit
 to the original author(s) and the source, provide a link to the Creative Commons licence and indicate if
 changes were made.
@@ -67,13 +64,11 @@ Sydney, NSW, Australia
 ```
 This book is an open access publication
 ```
-Additional material to this book can be downloaded from [http://extras.springer.com.](http://extras.springer.com.)
-
+Additional material to this book can be downloaded from [http://extras.springer.com](http://extras.springer.com).
 
 _For the next generation._
 
 _For my son, Travis._
-
 
 ```
 vii
@@ -90,13 +85,12 @@ greenhouse gases have already caused around 1.0  °C of warming above pre-
 
 industrial levels.
 
-```
 Continuing at the current rate, we are likely to reach 1.5 °C by 2030 – and all the
-```
+
 evidence suggests that a world beyond 1.5 °C is not one we want to live in.
 
 ```
-While making the 2016 documentary film, Before the Flood , I witnessed first-
+While making the 2016 documentary film, Before the Flood, I witnessed first-
 ```
 hand the impacts of an already-changing climate: the rapid melting of ice in the
 
@@ -108,9 +102,8 @@ breaking impact of human activity on our natural world. It is estimated, for exa
 
 that 60% of animals have been wiped out since 1970.
 
-```
 Higher temperatures and extreme weather events will cause ever more severe
-```
+
 harm to biodiversity and ecosystems and even greater species loss and extinction.
 
 And when we lose biodiversity, we lose resilience. Currently, natural ecosystems
@@ -121,9 +114,8 @@ degrade the natural world, we could lose completely the Earth’s ability to ada
 
 climate change.
 
-```
 A passion for nature conservation and animal protection has driven much of my
-```
+
 foundation’s work over the past 20 years. Ultimately, however, the climate crisis is
 
 a humanitarian one. If business-as-usual continues, the impact on human beings
@@ -138,16 +130,14 @@ migration to safer lands. Fatal floods, droughts, hurricanes, and wildfires are 
 
 #### Climate Model: Foreword
 
-
 viii
 
 new normal, and happening closer to home. An estimated 41 million Americans live
 
 within a 100-year flood zone. Texas saw its third 500-year flood 3 years in a row.
 
-```
 Poor air quality is a public health emergency across the world and now the
-```
+
 fourth-highest cause of death  – contributing to strokes, heart attacks, and lung
 
 cancer – causing public unrest in countries like China and India, where the poorest
@@ -160,9 +150,8 @@ fighting back against gas drilling operations near playgrounds or soccer fields,
 
 where children breathe in poisonous gases.
 
-```
 These health impacts are only part of the story. Climate change, as the US
-```
+
 Pentagon notes, is a national security threat. In a 2017 report by the Environmental
 
 Justice Foundation, senior US military experts pointed to the likelihood of tens of
@@ -175,9 +164,8 @@ environmental factors and access to natural resources. The truth is that, where
 
 ecosystems collapse, societies collapse too.
 
-```
 Politically, there has been a monumental failure to grasp the scale of this problem.
-```
+
 Climate scientists still face disinformation campaigns and a press corps that often
 
 draws a false equivalence between those who support the scientific consensus for
@@ -186,15 +174,14 @@ human-caused climate change and those who do not. Surveys suggest that most
 
 Americans do not know a scientific consensus exists, and scientists like Michael
 
-Mann, who spoke to me for _Before the Flood_ , face abuse for exposing the truth. As
+Mann, who spoke to me for _Before the Flood_, face abuse for exposing the truth. As
 
 a result, scientific research programs, critical to better understanding and addressing
 
 climate change, are often attacked or defunded.
 
-```
 Nevertheless, in the face of these challenges, some progress is being made. With
-```
+
 the growth of the environmental movement, public awareness of the climate crisis
 
 has increased significantly. Governments and the private sector are beginning to
@@ -209,18 +196,16 @@ Agreement now calls upon the world’s governments to keep warming “well below
 
 2°C” while striving for 1.5°C.
 
-```
 While we are beginning to move in the right direction, the reality is that these
-```
+
 efforts are simply not ambitious enough to address the climate crisis at scale. The
 
 IPCC warns that to avoid the worst consequences of climate change, we must stay
 
 below the 1.5 °C limit. But what does that mean in practical terms?
 
-```
 Determined to find solutions, my foundation supported a 2-year research program
-```
+
 led by a team of international climate and energy experts to develop a roadmap for
 
 how we can actually stay below this critical climate threshold. The findings, outlined
@@ -234,41 +219,25 @@ stay below the 1.5 °C limit with technologies that are available right now. It
 ```
 Climate Model: Foreword
 ```
-
 ```
 ix
 ```
 a lot of work, but the costs will be far less than the $5 trillion per year governments
-
 currently spend subsidizing the fossil fuel industries responsible for climate change.
-
-```
 The climate model and energy transition pathways compiled in this book offer an
-```
 exciting, positive, and achievable vision of a better world in which we are no longer
-
 dependent on fossil fuels and where the conservation and restoration of nature is
-
 treated as indispensable to our survival. This is not fantasy. This is science.
-
-```
 Science is showing us the way forward, but you do not need to be a scientist to
-```
 understand that climate change is the defining issue of our time. If our world warms
-
 past 1.5 °C, our way of life will profoundly change for the worse. Why not manage
-
 the transition in a way that is orderly and equitable? Human beings caused this
-
 problem, but with our vast knowledge and ingenuity, we can also fix it.
-
-```
 We are resilient. We can adapt. We can change.
-```
+
 Chairman of the Leonardo DiCaprio Foundation Leonardo DiCaprio
 
 Climate Model: Foreword
-
 
 ```
 xi
@@ -281,64 +250,42 @@ xi
 
 Address: Building 10, 235 Jones Street, Sydney, NSW, Australia 2007/Telephone:
 
-```
 +61 2 9514 4786
-```
+
 https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-
 
-```
 futures
-```
-**Author:** Dr. Sven Teske
 
+**Author:** Dr. Sven Teske
 E-mail: sven.teske@uts.edu.au
 
-```
 Chapters: 1, 2.2, 3.1, 3.2, 3.5, 3.6, 7, 8
 (Power Sector analysis), 9, 10, 13
-```
 **Author:** Prof. Dr. Damien Giurco Chapters: 11, 13
-
 E-mail: damien.giurco@uts.edu.au
-
 **Author:** Tom Morris Chapters: 3.2, 3.5, 3.6, 7
-
 E-mail: tom.morris@uts.edu.au
-
 **Author:** Kriti Nagrath Chapters: 3.2, 7
-
 E-mail: kriti.nagrath@uts.edu.au
-
 **Author:** Franziska Mey Chapter: 10
-
 E-mail: franziska.mey@uts.edu.au
-
 **Author:** Dr Chris Briggs Chapter: 10
-
 E-mail: chris.briggs@uts.edu.au
-
 **Author:** Elsa Dominish Chapter: 10, 11
-
 E-mail: elsa.dominish@uts.edu.au
-
 **Author:** Dr Nick Florin Chapter 11
-
 E-mail: nick.florin@uts.edu.au
 
 **Graduate School of Energy Science, Kyoto University – for Chapter 11**
-
 Author: Takuma Watari,
-
 Author: Benjamin Mclellan
-
 
 xii
 
 **German Aerospace Center (DLR), Institute for Engineering Thermodynamics**
 
-```
-(TT),
-```
+**(TT),**
+
 **Department of Energy Systems Analysis**
 
 Address: Pfaffenwaldring 38-40, Germany D-70569/Telephone: +49-711 6862 355
@@ -371,9 +318,8 @@ Chapters: 3.1, 3.4, 5, 8
 ```
 **German Aerospace Center (DLR), Institute of Vehicle Concepts (FK),**
 
-```
-Department of Vehicle Systems and Technology Assessment
-```
+**Department of Vehicle Systems and Technology Assessment**
+
 Address: Pfaffenwaldring 38-40, Germany D-70569/Telephone: +49-711 6862 533
 
 https://www.dlr.de/fk/en/desktopdefault.aspx/
@@ -398,10 +344,9 @@ E-mail: stephan.schmid@dlr.de
 
 Address: Australian-German Climate and Energy College, Level 1, 187 Grattan
 
-```
 Street, University of Melbourne, Parkville, Victoria, Australia 3010
-```
-[http://www.energy-transition-hub.org](http://www.energy-transition-hub.org)
+
+[www.energy-transition-hub.org](www.energy-transition-hub.org)
 
 **Author:** A/Prof. Dr. Malte Meinshausen Chapters: 2.1, 3.8, 4, 12, 13
 
@@ -424,28 +369,19 @@ Telephone: +61 3 90356760
 ```
 Contact Information
 ```
-
 ```
 xiii
 ```
 #### Executive Summary
 
 **Abstract** An overview of the motivations behind the writing of this book, the sci-
-
 entific background and context of the research. Brief outline of all methodologies
-
 used, followed by assumptions and the storyline of each scenario. Presentation of
-
 main results of the renewable energy resources assessment, transport scenario, long-
-
 term energy pathway, the power sector analysis, employment analysis and an assess-
-
 ment for required metals for renewable energy and storage technologies. Key results
-
 of non-energy greenhouse mitigation scenarios which are developed in support of
-
 the energy scenario in order to achieve the 1.5 °C target. Concluding remarks and
-
 policy recommendations including graphs and tables.
 
 **Introduction** The Paris Climate Agreement aims to hold global warming to well
@@ -462,209 +398,129 @@ detailed bottom-up examination of the potential of the energy sector, in order t
 
 avoid reliance on net negative emissions later on.
 
-```
 The study described in this book focuses on the ways in which humans produce
-```
-energy, because energy-related carbon dioxide (CO 2 ) emissions are the main drivers
 
+energy, because energy-related carbon dioxide (CO[^2]:) emissions are the main drivers
 of climate change. The analysis also considers the development pathways for non-
 
-energy- related emissions and mitigation measures for them because it is essential to
-
+energy-related emissions and mitigation measures for them because it is essential to
 address their contributions if we are to achieve the Paris climate change targets.
 
 **State of Research—Climate** Beyond reasonable doubt, climate change over the
-
 last 250  years has been driven by anthropogenic activities. In fact, the human-
-
 induced release of greenhouse gas emissions into the atmosphere warms the planet
-
 even more than is currently observed as climate change, but some of that greenhouse-
-
-gas- induced warming is masked by the effect of aerosol emissions.
-
+gas-induced warming is masked by the effect of aerosol emissions.
 
 xiv
 
-```
 Carbon dioxide emissions are so large that they are the dominant driver of
-```
-human-induced climate change. A single kilogram of CO 2 emitted will increase the
-
-atmospheric CO 2 concentration over hundreds or even thousands of years. Since the
-
+human-induced climate change. A single kilogram of CO[^2]: emitted will increase the
+atmospheric CO[^2]: concentration over hundreds or even thousands of years. Since the
 Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report, the
-
-finding that cumulative CO 2 emissions are roughly linearly related to temperature
-
-has shaped scientific and political debate. The remaining permissible CO 2 emissions
-
+finding that cumulative CO[^2]: emissions are roughly linearly related to temperature
+has shaped scientific and political debate. The remaining permissible CO[^2]: emissions
 that are consistent with a target temperature increase of 2  °C or 1.5  °C and their
-
 comparison with remaining fossil fuel resources are of key interest.
+The IPCC Fifth Assessment Report concluded that beyond 2011, cumulative CO2
+emissions of roughly 1000 GtCO[^2]: are permissible for a “likely below 2.0 °C” target
 
-```
-The IPCC Fifth Assessment Report concluded that beyond 2011, cumulative CO 2
-```
-emissions of roughly 1000 GtCO 2 are permissible for a “likely below 2.0 °C” target
-
-change, and approximately 400 GtCO 2 are permissible for a 1.5  °C target change.
-
+change, and approximately 400 GtCO[^2]: are permissible for a 1.5  °C target change.
 However, the recently published IPCC Special Report on the 1.5 °C target suggests
 
-substantially higher carbon emissions of 1600 GtCO 2 will achieve a 2.0 °C change
-
+substantially higher carbon emissions of 1600 GtCO[^2]: will achieve a 2.0 °C change
 and 860 GtCO2 will achieve a 1.5 °C change, which must be reduced by a further 100
-
-GtCO 2 to account for additional Earth system feedback over the twenty- first century.
-
+GtCO[^2]: to account for additional Earth system feedback over the twenty-first century.
 One of the key reasons behind this difference is definitional: how far do we consider
-
 that we are away from 1.5 °C warming? While that question seems simple, it is sur-
-
 prisingly complex when the observational data on coverage, the internal variability
-
 and the pre-industrial to early-industrial temperature differences are considered.
-
-```
 This study does not resolve the differences in opinions about carbon budgets, but
-```
 it does provide emission pathways that are consistent with the 1.5 °C target increase
-
 in the 1.5 °C Scenario, or with the “well below 2.0 °C” target increase in the 2.0 °C
-
 Scenario consistent with other scenarios in the literature and classified as such by
-
 the IPCC Special Report on 1.5 °C.
 
 **Global Trends in the Energy Sector** In 2017, the ongoing trends continued: solar
-
 photovoltaics (PV) and wind power dominated the global market for new power
-
 plants; the price of renewable energy technologies continued to decline; and fossil
-
 fuel prices remained low. A new benchmark was reached, in that the new renewable
-
 capacity began to compete favourably with existing fossil fuel power plants in some
-
 markets. Electrification of the transport and heating sectors is gaining attention, and
-
 although the amount of electrification is currently small, the use of renewable
-
 technologies is expected to increase significantly.
 
-```
 The growth of solar PV has been remarkable and is nearly double that of the
-```
 second-ranking wind power. The capacity of new solar PV in 2017 was greater than
-
 the combined increases in the coal, gas and nuclear capacities. Renewable energy
-
 technologies achieved a global average generation share of 23% in the year 2015,
-
 compared with 18% in the year 2005. Storage is increasingly used in combination
-
 with variable renewables as battery costs decline, and solar PV plus storage has
-
 started to compete with gas peaking plants. However, bioenergy (including
-
 traditional biomass) remains the leading renewable energy source in the heating
-
 (buildings and industry) and transport sectors.
-
-```
-Since 2013, global energy-related carbon dioxide (CO 2 ) emissions from fossil
-```
+Since 2013, global energy-related carbon dioxide (CO[^2]:) emissions from fossil
 fuels have remained relatively flat. Early estimates based on preliminary data
-
-suggest that this changed in 2017, with global CO 2 emissions increasing by around
-
+suggest that this changed in 2017, with global CO[^2]: emissions increasing by around
 1.4% (REN21-GSR 2018). These increased emissions were primarily attributable to
 
 ```
 Executive Summary
 ```
-
 ```
 xv
 ```
 increased coal consumption in China, which grew by 3.7% in 2017 after a 3-year
-
 decline. The increased Chinese consumption, as well as a steady growth of around
-
 4% in India, is expected to lead to an upturn in global coal use, reversing the annual
-
 global decline from 2013 to 2016.
-
-```
 In 2017, as in previous years, renewables saw the greatest increases in capacity
-```
 in the power sector, whereas the growth of renewables in the heating, cooling and
-
 transport sectors was comparatively slow. Sector coupling—the interconnection of
-
 power, heating and transport and particularly the electrification of heating and
-
 transport—is gaining increasing attention as a means of increasing the uptake of
-
 renewables in the transport and thermal sectors. Sector coupling also allows the
-
 integration of large proportions of variable renewable energy, although this is still at
-
 an early stage. For example, China is specifically encouraging the electrification of
-
 heating, manufacturing and transport in high-renewable areas, including promoting
-
 the use of renewable electricity for heating to reduce the curtailment of wind, solar
-
 PV and hydropower. Several US states are examining options for electrification,
-
 specifically to increase the overall renewable energy share.
 
 **Methodology for Developing Emission Pathways** The complete decarbonisation
-
 of the global energy supply requires entirely new technical, economic and policy
-
 frameworks for the electricity, heating and cooling sectors as well as for the trans-
-
 port system. To develop a global plan, the authors combined various established
-
 computer models:
 
-- _Generalized Equal Quantile Walk (GQW)_ : This statistical method is used to
-
-```
-complement the CO 2 pathways with non-CO 2 regional emissions for relevant
+• Generalized Equal Quantile Walk (GQW): This statistical method is used to
+complement the CO2 pathways with non-CO2 regional emissions for relevant
 greenhouse gases (GHGs) and aerosols, based on a statistical analysis of the
 large number (~700) of multi-gas emission pathways underlying the recent IPCC
 Fifth Assessment Report and the recently published IPCC Special Report on
-1.5  °C.  The GQW method calculates the median non-CO 2 gas emission levels
-every 5 years—conditional on the energy-related CO 2 emission level percentile
+1.5  °C.  The GQW method calculates the median non-CO2 gas emission levels
+every 5 years—conditional on the energy-related CO2 emission level percentile
 of the “source” pathway. This method is a further development under this
 project—building on an earlier Equal Quantile Walk method—and is now better
 able to capture the emission dynamics of low-mitigation pathways.
-```
-- _Land-based sequestration design_ : A Monte Carlo analysis across temperate,
+• Land-based sequestration design: A Monte Carlo analysis across temperate,
 
 ```
 boreal, subtropical and tropical regions has been performed based on various
 literature-based estimates of sequestration rates, sequestration periods and areas
 available for a number of sequestration options. This approach can be seen as a
-quantified literature-based synthesis of the potential for land-based CO 2
+quantified literature-based synthesis of the potential for land-based CO2
 sequestration, which is not reliant on biomass plus sequestration and storage
 (bioenergy with carbon capture and storage, BECCS).
 ```
-- _Carbon cycle and climate modelling (Model for the Assessment of Greenhouse_
-
-```
-Gas-Induced Climate Change, MAGICC) : This study uses the MAGICC climate
+• Carbon cycle and climate modelling (Model for the Assessment of Greenhouse
+Gas-Induced Climate Change, MAGICC): This study uses the MAGICC climate
 model, which also underlies the classification used by both the IPCC Fifth
 Assessment Report and the IPCC Special Report on 1.5  °C in terms of the
 abilities of various scenarios to maintain the temperature change below 2 °C or
 1.5 °C. MAGICC is constantly evolving, but its core goes back to the 1980s, and
-```
-Executive Summary
 
+Executive Summary
 
 xvi
 
@@ -672,7 +528,7 @@ xvi
 it represents one of the most established reduced-complexity climate models in
 the international community.
 ```
-- _Renewable Resource Assessment [R]E-SPACE_ : RE-SPACE is based on a
+• Renewable Resource Assessment [R]E-SPACE: RE-SPACE is based on a
 
 ```
 Geographic Information Systems (GIS) approach and provides maps of the solar
@@ -683,7 +539,7 @@ renewable energy resources (primarily solar and wind) available in each region.
 It also provides an overview of the existing electricity infrastructures for fossil
 fuel and renewable sources.
 ```
-- _Transport model (TRAEM)_ : The transport scenario model allows the
+• Transport model (TRAEM): The transport scenario model allows the
 
 ```
 representation of long-term transport developments in a consistent and transparent
@@ -692,7 +548,7 @@ calculates the final energy demand by multiplying each transport mode’s specif
 transport demand with powertrain-specific energy demands, using a passenger
 km (pkm) and tonne km (tkm) activity-based bottom-up approach.
 ```
-- _Energy system model (EM)_ : The energy system model (a long-term energy
+• Energy system model (EM): The energy system model (a long-term energy
 
 ```
 scenario model) is used as a mathematical accounting system for the energy
@@ -706,7 +562,7 @@ heat, transport and industry), without applying cost-optimization based on
 uncertain cost assumptions. However, an ex-post analysis of costs and investments
 shows the main economic effects of the pathways.
 ```
-- _Power system models [R]E 24/7_ : Power system models simulate electricity
+• Power system models [R]E 24/7: Power system models simulate electricity
 
 ```
 systems on an hourly basis with geographic resolution to assess the requirements
@@ -721,7 +577,7 @@ in 1 h steps, are required for the power-generation model, and historical solar 
 wind data were used to calculate the possible renewable power generation. In
 terms of demand, either historical demand curves were used, or if unavailable,
 demand curves were calculated based on assumptions of consumer behaviour in
-the use of electrical equipment and common electrical appliances. Figure  1
+the use of electrical equipment and common electrical appliances. Figure 1
 provides an overview of the interaction between the energy- and GIS-based
 models. The climate model is not directly linked with it but provided the carbon
 budgets for the 2.0 °C and the 1.5 °C Scenarios.
@@ -729,15 +585,13 @@ budgets for the 2.0 °C and the 1.5 °C Scenarios.
 ```
 Executive Summary
 ```
-
 ```
 xvii
 ```
 **Output**
 
-```
-Resource model ([R]E SPACE)
-```
+**Resource model ([R]E SPACE)**
+
 ```
 GIS based renewable energy potentials based on weather &
 ```
@@ -745,11 +599,10 @@ GIS based renewable energy potentials based on weather &
 land use data
 ```
 ```
-Transport model (TRAEM) freight & passenger transport
+Transport model (TRAEM)freight & passenger transport
 ```
 ```
-demand by mode full energy balances: final energy
-demand power, heat & transport,supply structure, primary energy
+demand by mode full energy balances: final energy demand power, heat & transport,supply structure, primary energy
 demand by fuel, emission, investment
 ```
 ```
@@ -759,8 +612,7 @@ balanced RE power
 system, storage
 ```
 ```
-demand,
-curtailment
+demand,curtailment
 ```
 ```
 total climate change effects
@@ -784,27 +636,26 @@ budget
 energy-relatedCO
 ```
 ```
-2
-```
-```
-emissions
+emissions2
 ```
 ```
 annual
+```
+```
 energy-relatedCO
 ```
 ```
-emissions 2
+emissions2
 ```
 ```
 annual power
 & supply demand
 ```
-**Modellingcluster**
+```
+Modellingcluster
+```
+**Power system model**
 
-```
-Power system model
-```
 ```
 ([R]E 24/7)
 hourly balancing of
@@ -837,7 +688,7 @@ characteristics
 biofuel constraints
 ```
 ```
-Energy system model (EM) bottom-up simulation of future energy balances based on GDP,
+Energy system model (EM)bottom-up simulation of future energy balances based on GDP,
 ```
 ```
 population, technology,
@@ -849,18 +700,14 @@ population, technology,
 Simplified land-based sequestration model
 ```
 ```
-complementing reforestation,
-```
-```
-restoration,
+complementing reforestation, restoration,
 sustainable use and agroforestry options.
 ```
 ```
 Reduced
 ```
 ```
-complexity carbon cycle and climate model (MAGICC)
-to calculate the climatic effects
+complexity carbon cycle and climate model (MAGICC)to calculate the climatic effects
 ```
 ```
 of multi-gas pathways
@@ -873,47 +720,28 @@ Interactions between the models used in this study
 ```
 Executive Summary
 
-
 xviii
 
-```
 Besides the climate and energy models, employment effects and the metal
-```
 resource requirements for selected materials have been calculated. Now that the
-
 methodology has been outlined, the next sections present the results and assumptions
-
 for the nonenergy GHG mitigation scenarios, followed by the energy sector
-
 scenarios
 
 **Nonenergy-GHG Mitigation Scenarios** The most important sequestration
-
 measure could be large-scale reforestation, particularly in the subtropics and tropics
-
-(see yellow pathways in Fig. 2). The second most important pathway in terms of the
-
-amount of CO 2 sequestered is the sustainable use of existing forests, which basically
-
+(see yellow pathways in Fig. [^2]:). The second most important pathway in terms of the
+amount of CO[^2]: sequestered is the sustainable use of existing forests, which basically
 means reduced logging within those forests. In subtropical, temperate and boreal
-
 regions, this could provide substantial additional carbon uptake over time. The time
-
 horizon for this sequestration option is assumed to be slightly longer in temperate
-
 and boreal regions, consistent with the longer time it takes for these forest ecosystems
-
 to reach equilibrium. The “forest ecosystem restoration” pathway is also important,
-
 which basically assumes a reduction in logging rates to zero in a fraction of forests.
 
-```
-Overall, the median assumed sequestration pathways, shown in Fig. 2, would
-```
+Overall, the median assumed sequestration pathways, shown in Fig. [^2]:, would
 result in the sequestration of 151.9  GtC.  This is approximately equivalent to all
-
-historical land-use-related CO 2 emissions and indicates the substantial challenges
-
+historical land-use-related CO[^2]: emissions and indicates the substantial challenges
 that accompany these sequestration pathways.
 
 Given the competing forms of land use throughout the world today, the challenge of
@@ -932,10 +760,10 @@ underestimated. There would be significant benefits, but also risks, if this
 500
 ```
 ```
-1,
+1,000
 ```
 ```
-1,
+1,500
 ```
 ```
 Annual sequestration (MtC/yr)
@@ -978,61 +806,36 @@ and tropics)
 ```
 Executive Summary
 ```
-
 ```
 xix
 ```
 sequestration option were to be used _instead_ of mitigation. However, the benefits
-
 are clearly manifold, ranging from biodiversity protection, reduced erosion,
-
 improved local climates, protection from wind and potentially reduced air pollution.
 
 **Assumptions for Scenarios** Scenario studies cannot predict the future. Instead,
-
 scenarios describe what is required for a pathway that will limit warming to a certain
-
 level and that is feasible in terms of technology implementation and investment.
-
 Scenarios also allow us to explore the possible effects of transition processes, such
-
 as supply costs and emissions. The energy demand and supply scenarios described
-
 in this study have been constructed based on information about current energy
-
 structures and today’s knowledge of energy resources and the costs involved in
-
 deploying them. As far as possible, the study also takes into account potential
-
 regional constraints and preferences.
 
-```
 The energy modelling used primarily aims to generate transparent and coherent
-```
 scenarios, ambitious but still plausible storylines, out of several possible techno-
-
 economic pathways. Knowledge integration is the core of this approach because we
-
 must consider different technical, economic, environmental and societal factors.
-
 Scenario modelling follows a hybrid bottom-up/top-down approach, with no
-
 objective cost-optimization functions. The analysis considers key technologies for
-
 successful energy transition and focuses on the role and potential utility of efficiency
-
 measures and renewable energies. Wind and solar energies have the highest
-
 economic potential and dominate the pathways on the supply side. However, the
-
 variable renewable power from wind and PV remains limited to a maximum of
-
 65%, because sufficient secured capacity must always be maintained in the
-
 electricity system. Therefore, we also consider concentrating solar power (CSP)
-
 with high-temperature heat storage as a solar option that promises large-scale
-
 dispatchable and secured power generation.
 
 _The 5.0 °C Scenario (Reference Scenario):_ The reference scenario only takes into
@@ -1055,47 +858,31 @@ provides a baseline for comparison with the 2.0 °C and 1.5 °C Scenarios.
 
 _The 2.0 °C Scenario:_ The first alternative scenario aims for an ambitious reduction
 
-in GHG emissions to zero by 2050 and a global energy-related CO 2 emission budget
-
+in GHG emissions to zero by 2050 and a global energy-related CO[^2]: emission budget
 of around 590 Gt between 2015 and 2050. This scenario is close to the assumptions
-
 and results of the Advanced E[R] scenario published in 2015 by Greenpeace (Teske
-
 et  al. 2015). However, it includes an updated base year, more coherent regional
-
 developments in energy intensity, and reconsidered trajectories and shares of the
-
 deployment of renewable energy systems. Compared with the 1.5 °C Scenario, the
 
 Executive Summary
 
-
 xx
 
 2.0 °C Scenario allows for some delays due to political, economic and societal pro-
-
 cesses and stakeholders.
 
 _The 1.5  °C Scenario:_ The second alternative scenario aims to achieve a global
-
-energy-related CO 2 emission budget of around 450 Gt, accumulated between 2015
-
+energy-related CO[^2]: emission budget of around 450 Gt, accumulated between 2015
 and 2050. The 1.5  °C Scenario requires immediate action to realize all available
-
 options. It is a technical pathway, not a political prognosis. It refers to technically
-
 possible measures and options without taking into account societal barriers.
-
 Efficiency and renewable potentials need to be deployed even more quickly than in
-
 the 2.0  °C Scenario, and avoiding inefficient technologies and behaviours is an
-
 essential strategy for developing regions in this scenario.
 
 **Global Transport** Transport emissions have increased at a rapid rate in recent
-
-decades and accounted for 21% of total anthropogenic CO 2 emissions in 2015. The
-
+decades and accounted for 21% of total anthropogenic CO[^2]: emissions in 2015. The
 reason for this steady increase in emissions is that passenger and freight transport
 
 activities are increasing in all world regions, and there is currently no sign that these
@@ -1110,9 +897,8 @@ base, which is why in terms of total numbers, electricity remains an energy carr
 
 with a relatively minor role in the transport sector.
 
-```
 The key results of our transport modelling demonstrate that meeting the 2.0 °C
-```
+
 Scenario, and especially the 1.5  °C Scenario, will require profound measures in
 
 terms of rapid powertrain electrification and the use of biofuels and synthetically
@@ -1164,7 +950,6 @@ commercial electric vehicles and buses could achieve even higher shares of betwe
 ```
 Executive Summary
 ```
-
 ```
 xxi
 ```
@@ -1183,7 +968,7 @@ countries in the oil-producing countries of the Middle East will remain predomin
 dependent on internal combustion engines, using bio- or synthetic-based fuels.
 
 ```
-In the 1.5 °C Scenario , an earlier and more rapid increase in electric powertrain
+In the 1.5 °C Scenario, an earlier and more rapid increase in electric powertrain
 ```
 penetration is required, with the OECD regions at the forefront. The emerging eco-
 
@@ -1201,11 +986,10 @@ nal combustion engine (ICE)-powered cars, fuelled with biofuels or synthetic fue
 
 will still be on the road but will be constantly replaced by electric drivetrains
 
-(Fig. 3).
+(Fig. [^3]:).
 
-```
 Efficiency improvements are modelled across all transport modes until 2050,
-```
+
 resulting in improved energy intensity over time. We project an increase in annual
 
 efficiency of 0.5–1% in terms of MJ/tonnes km or MJ/passenger km, depending on
@@ -1216,19 +1000,17 @@ increasing the efficiency at the MJ/pkm or MJ/tkm level will result from the fol
 
 ing measures:
 
-- Reductions in powertrain losses through more efficient motors, gears, power
+– Reductions in powertrain losses through more efficient motors, gears, power
 
-```
 electronics, etc.
-```
-- Reductions in aerodynamic drag
-- Reductions in vehicle mass through lightweighting
-- The use of smaller vehicles
-- Operational improvements (e.g. through automatic train operation, load factor
 
-```
+– Reductions in aerodynamic drag
+– Reductions in vehicle mass through lightweighting
+– The use of smaller vehicles
+– Operational improvements (e.g. through automatic train operation, load factor
+
 improvements)
-```
+
 Transport performance will increase in all scenarios on a global scale but with dif-
 
 ferent speeds and intensities across modes and world regions. Current trends in
@@ -1267,7 +1049,7 @@ ferent speeds and intensities across modes and world regions. Current trends in
 100% 2.0C 1.5C
 ```
 ```
-Powertrain split of world passenger car fleet^20152020202520302035204020452050
+Powertrain split of world passenger car fleet[^2015][^2020][^2025][^2030][^2035][^2040][^2045][^2050]
 Internal Combuson Engine Plug-In Hybrid Electric Hydrogen
 ```
 ```
@@ -1301,7 +1083,7 @@ Internal Combuson Engine Plug-In Hybrid Electric Hydrogen
 90%
 ```
 ```
-100 %
+100%
 ```
 ```
 2015 2020 2025 2030 2035 2040 2045 2050
@@ -1311,34 +1093,20 @@ Scenario (right)
 
 Executive Summary
 
-
 xxii
 
 transport performance until 2050 are extrapolated for the 5.0 °C Scenario. In rela-
-
 tive terms, all transport carriers will increase their performance from the current
-
 levels, and in particular, energy-intensive aviation, passenger car transport and com-
-
 mercial road transport are projected to grow strongly. In the 2.0  °C Scenario and
-
 1.5 °C Scenario, we project a strong increase in rail traffic (starting from a relatively
-
 low base) and slower growth or even a decline in the use of the other modes in all
-
-world regions (Fig. 4).
-
-```
+world regions (Fig. [^4]:).
 The modal shifts from domestic aviation to rail and from road to rail are mod-
-```
 elled. In the 2.0 °C and 1.5 °C Scenarios, passenger car pkm must decrease in the
-
 OECD countries (but increase in the developing world regions) after 2020 in order
-
 to maintain the carbon budget. The passenger car pkm decline will be partly com-
-
 pensated by an increase in the performances of other transport modes, specifically
-
 public transport rail and bus systems.
 
 ```
@@ -1393,7 +1161,6 @@ and 1.5 °C Scenarios
 ```
 Executive Summary
 ```
-
 ```
 xxiii
 ```
@@ -1419,70 +1186,45 @@ area available, all scenario-relevant regions and subregions were analysed with 
 
 with a defined set of constraints:
 
-- Residential and urban settlements
-- Infrastructure for transport (e.g. rail, roads)
-- Industrial areas
-- Intensive agricultural production land
-- Nature conservation areas and national parks
-- Wetlands and swamps
-- Closed grasslands (as the land-use type)
+– Residential and urban settlements
+– Infrastructure for transport (e.g. rail, roads)
+– Industrial areas
+– Intensive agricultural production land
+– Nature conservation areas and national parks
+– Wetlands and swamps
+– Closed grasslands (as the land-use type)
 
 ```
 In addition to this spatial analysis, the remaining available land areas were cor-
 ```
 related with the available solar and wind resources. For CSP, a minimum solar radi-
 
-ation of 2000 kilowatt hours per square meter and year (kWh/m^2 year) is assumed
+ation of 2000 kilowatt hours per square meter and year (kWh/m[^2] year) is assumed
 
 to be the minimum deployment criterion, whereas the onshore wind potential under
-
 an average annual wind speed of 5 m/s has been omitted.
-
-```
 The 2.0 °C Scenario utilizes only a fraction of the available economic potential
-```
 of the assumed suitable land for utility-scale solar PV and CSP plants. This estimate
-
 does not include solar PV rooftop systems, which have significant additional
-
 potential. India has the highest solar utilization rate of 8.5%, followed by Europe
-
 and the Middle East, each of which utilizes around 5%. Onshore wind potential has
-
 been utilized to a larger extent than solar potential. In the 2.0 °C Scenario, space-
-
 constrained India will utilize about half of all the onshore wind energy utilized,
-
 followed by Europe, which will utilize one fifth. This wind potential excludes
-
 offshore wind, which has significant potential, but mapping the offshore wind
-
 potential was beyond the scope of this analysis.
-
-```
 The 1.5  °C Scenario is based on the accelerated deployment of all renewables
-```
 and the more ambitions implementation of efficiency measures. Thus, the total
-
 installed capacity of solar and wind power plants by 2050 is not necessarily larger
-
 than it is in the 2.0  °C Scenario, and the utilization rate is in the same order of
-
 magnitude. The increased deployment of renewable capacity in the OECD Pacific
-
 (Australia), the Middle East and Africa will be due to the production of synthetic
-
-bunker fuels based on hydrogen or synthetic fuels ( _synfuels_ ) to supply the global
-
+bunker fuels based on hydrogen or synthetic fuels (_synfuels_) to supply the global
 transport energy for international shipping and aviation.
-
-```
-Key results of the global long-term energy scenarios show that the efficiency
-```
+**Key results of the global long-term energy scenarios** show that the efficiency
 and uptake of renewable energy are two sides of the same coin. All sectors, including
 
 Executive Summary
-
 
 xxiv
 
@@ -1545,7 +1287,7 @@ pumps, and, in the transport sector, there will be an increase of about 23,400 
 
 year due to electric mobility. The generation of hydrogen (for transport and
 
-high- temperature process heat) and the manufacture of synthetic fuels for transport
+high-temperature process heat) and the manufacture of synthetic fuels for transport
 
 will add an additional power demand of 18,800 TWh/year. The gross power demand
 
@@ -1574,9 +1316,8 @@ Scenario will have a generation capacity of renewable energy of about 25,700 GW
 
 in 2050.
 
-```
 From 2020 onwards, the continuing growth of wind and PV to 7850  GW and
-```
+
 12,300 GW, respectively, will be complemented by the generation of up to 2060 GW
 
 of solar thermal energy as well as limited biomass-derived (770 GW), geothermal
@@ -1584,90 +1325,49 @@ of solar thermal energy as well as limited biomass-derived (770 GW), geothermal
 ```
 Executive Summary
 ```
-
 ```
 xxv
 ```
 (560 GW) and ocean-derived energy (around 500 GW) in the 2.0 °C Scenario. Both
-
 the 2.0 °C and 1.5 °C Scenarios will lead to the generation of high proportions (38%
-
 and 46%, respectively) of energy from variable power sources (PV, wind and ocean)
-
 by 2030, which will increase to 64% and 65%, respectively, by 2050. This will
-
 require a significant change in how the power system is operated. The main findings
-
 of the power sector analysis are summarized in the section below.
-
-```
-Calculated average electricity-generation costs in 2015 (referring to full costs)
-```
+_Calculated average electricity-generation costs_ in 2015 (referring to full costs)
 were around 6 ct/kWh. In the 5.0 °C Scenario, these generation costs will increase,
-
-assuming rising CO 2 emission costs in the future, until 2050, when they reach
-
+assuming rising CO[^2]: emission costs in the future, until 2050, when they reach
 10.6 ct/kWh. The generation costs will increase in the 2.0 °C and 1.5 °C Scenarios
-
 until 2030, when they will reach 9 ct/kWh, and then drop to 7 ct/kWh by 2050. In
-
 both alternative scenarios, the generation costs will be around 3.5  ct/kWh lower
-
 than in the 5.0 °C Scenario by 2050. Note that these estimates of generation costs
-
 do not take into account integration costs such as power grid expansion, storage and
-
 other load-balancing measures.
-
-```
-Total electricity supply costs in the 5.0 °C Scenario will increase from today’s
-```
+_Total electricity supply costs_ in the 5.0 °C Scenario will increase from today’s
 $1560 billion/year to more than $5 500 billion/year in 2050, due to the growth in
-
 demand and increasing fossil fuel prices. In both alternative scenarios, the total
-
 supply costs will be $5050 billion/year in 2050, about 8% lower than in the 5.0 °C
-
 Scenario.
-
-```
-Global investment in power generation between 2015 and 2050  in the 2.0  °C
-```
+_Global investment in power generation_ between 2015 and 2050  in the 2.0  °C
 Scenario will be around $49,000 billion, which will include additional power plants
-
 to produce hydrogen and synthetic fuels and the plant replacement costs at the end
-
 of their economic lifetimes. This value is equivalent to approximately $1360 billion
-
 per year on average, which is $28,600  billion more than in the 5.0  °C Scenario
-
 ($20,400  billion). An investment of around $51,000  billion for power generation
-
 will be required between 2015 and 2050 in the 1.5 °C Scenario ($1420 billion per
-
 year on average). In both alternative scenarios, the world will shift almost 95% of
-
 its total energy investment to renewables and cogeneration.
 
 _Fuel Cost Savings_ Because renewable energy has no fuel costs other than biomass,
-
 the cumulative savings in fuel cost in the 2.0  °C Scenario will reach a total of
-
 $26,300 billion in 2050, equivalent to $730 billion per year. Therefore, the total fuel
-
 costs in the 2.0 °C Scenario will be equivalent to 90% of the energy investments in
-
 the 5.0  °C Scenario. The fuel cost savings in the 1.5  °C Scenario will sum to
-
 $28,800 billion or $800 billion per year.
 
-```
-Final energy demand for heating will increase by 59% in the 5.0  °C Scenario
-```
+_Final energy demand for heating_ will increase by 59% in the 5.0  °C Scenario
 from 151 EJ/year in 2015 to around 240 EJ/year in 2050. Energy efficiency measures
-
 will help to reduce the energy demand for heating by 36% in 2050  in the 2.0  °C
-
 Scenario, relative to that in the 5.0 °C case, and by 40% in the 1.5 °C Scenario.
 
 _Global Heat Supply_ In 2015, renewables supplied around 20% of the final global
@@ -1680,82 +1380,46 @@ energy demand for heating, mainly from biomass. Renewable energy will provide
 
 Executive Summary
 
-
 xxvi
 
 demand in 2050. This will include the direct use of electricity for heating, which
-
 will increase by a factor of 4.2–4.5 between 2015 and 2050 and will constitute a
-
 final share of 26% in 2050 in the 2.0 °C Scenario and 30% in the 1.5 °C Scenario.
 
-```
-Estimated investments in renewable heating technologies to 2050 will amount to
-```
+_Estimated investments in renewable heating technologies_ to 2050 will amount to
 more than $13,200 billion in the 2.0 °C Scenario (including investments for plant
-
 replacement after their economic lifetimes)—approximately $368 billion per year.
-
 The largest share of investment is assumed to be for heat pumps (around
-
 $5700  billion), followed by solar collectors and geothermal heat use. The 1.5  °C
-
 Scenario assumes an even faster expansion of renewable technologies. However, the
-
 lower heat demand (compared with the 2.0  °C Scenario) will result in a lower
-
 average annual investment of around $344 billion per year.
-
-```
-Energy demand in the transport sector will increase in the 5.0 °C Scenario from
-```
+_Energy demand in the transport sector_ will increase in the 5.0 °C Scenario from
 around 97 EJ/year in 2015 by 50% to 146 EJ/year in 2050. In the 2.0 °C Scenario,
-
 assumed changes in technical, structural and behavioural factors will reduce this by
-
 66% (96  EJ/year) by 2050 compared with the 5.0  °C Scenario. Additional modal
-
 shifts, technological changes and a reduction in the transport demand will lead to
-
 even higher energy savings in the 1.5 °C Scenario of 74% (or 108 EJ/year) in 2050
-
 compared with the 5.0 °C case.
 
 _Transport Energy Supply_ By 2030, electricity will provide 12% (2700 TWh/year)
-
 of the transport sector’s total energy demand in the 2.0 °C Scenario, and, in 2050,
-
 this share will be 47% (6500 TWh/year). In 2050, around 8430 PJ/year of hydrogen
-
 will be used as a complementary renewable option in the transport sector. In the
-
 1.5  °C Scenario, the annual electricity demand will be about 5200  TWh in 2050.
-
 The 1.5  °C Scenario also assumes a hydrogen demand of 6850  PJ/year by 2050.
-
 Biofuel use will be limited to a maximum of around 12,000 PJ/year in the 2.0 °C
-
 Scenario. Therefore, around 2030, synthetic fuels based on power-to-liquid will be
-
 introduced, with a maximum amount of 5820 PJ/year in 2050. Because of the lower
-
 overall energy demand in transport, biofuel use will decrease in the 1.5 °C Scenario
-
 to a maximum of 10,000 PJ/year. The maximum synthetic fuel demand will amount
-
 to 6300 PJ/year.
 
-```
-Global primary energy demand in the 2.0  °C Scenario will decrease by 21%
-```
+_Global primary energy demand_ in the 2.0  °C Scenario will decrease by 21%
 from around 556 EJ/year in 2015 to 439 EJ/year. Compared with the 5.0 °C Scenario,
-
 the overall primary energy demand will decrease by 48% by 2050  in the 2.0  °C
-
 Scenario (5.0  °C, 837 EJ in 2050). In the 1.5  °C Scenario, the primary energy
-
 demand will be even lower (412 EJ) in 2050 because the final energy demand and
-
 conversion losses will be lower.
 
 _Global Primary Energy Supply_ Both the 2.0 °C and 1.5 °C Scenarios aim to rapidly
@@ -1775,38 +1439,25 @@ consumption of natural gas in the 5.0  °C Scenario will sum to 5580  EJ, the
 ```
 Executive Summary
 ```
-
 ```
 xxvii
 ```
 cumulative coal consumption will be about 6360 EJ, and the crude oil consumption
-
 to 6380  EJ.  In the 2.0  °C Scenario, the cumulative gas demand is 3140  EJ, the
-
 cumulative coal demand 2340  EJ and the cumulative oil demand 2960  EJ.  Even
-
 lower fossil fuel use will be achieved under the 1.5 °C Scenario: 2710 EJ for natural
-
 gas, 1570 EJ for coal and 2230 EJ for oil. In both alternative scenarios, the primary
-
-energy supply in 2050 will be based on 100% renewable energy (Fig. 5).
+energy supply in 2050 will be based on 100% renewable energy (Fig. [^5]:).
 
 _Bunker Fuels_ In 2015, the annual bunker fuel consumption was in the order of
-
 16,000 PJ, of which 7400 PJ was for aviation and 8600 PJ for navigation. Annual
-
-CO 2 emissions from bunker fuels accounted for 1.3 Gt in 2015, approximately 4%
-
-of the global energy-related CO 2 emissions. In the 5.0  °C case, we assume the
-
+CO[^2]: emissions from bunker fuels accounted for 1.3 Gt in 2015, approximately 4%
+of the global energy-related CO[^2]: emissions. In the 5.0  °C case, we assume the
 development of the final energy demand for bunkers according to the IEA World
-
 Energy Outlook 2017, Current Policies scenario. This will lead to a further increase
-
 in the demand for bunker fuels by 120% until 2050 compared with the base year
 
-2015. Because no substitution with “green” fuels is assumed, CO 2 emissions will
-
+2015. Because no substitution with “green” fuels is assumed, CO2 emissions will
 rise by the same order of magnitude. Although the use of hydrogen and electricity
 
 in aviation is technically feasible (at least for regional transport) and synthetic gas
@@ -1821,9 +1472,8 @@ use of sustainable biomass potentials and the complementary central production o
 
 power-to-liquid synfuels.
 
-```
 In the 2.0 °C Scenario, this production is assumed to take place in three world
-```
+
 regions: Africa, the Middle East and OECD Pacific (especially Australia), where
 
 synfuel generation for export is expected to be most economic. The 1.5 °C Scenario
@@ -1840,34 +1490,34 @@ capacities. In the case of liquid bunker fuels, these additional renewable
 0
 ```
 ```
-100,00 0
+100,000
 ```
 ```
-200,00 0
+200,000
 ```
 ```
-300,00 0
+300,000
 ```
 ```
-400,00 0
+400,000
 ```
 ```
-500,00 0
+500,000
 ```
 ```
-600,00 0
+600,000
 ```
 ```
-700,00 0
+700,000
 ```
 ```
-800,00 0
+800,000
 ```
 ```
-900,00 0
+900,000
 ```
 ```
-REF2.0°C1.5°CREF2.0°C1.5°C REF2.0°C1.5°CREF2.0°C1.5°C REF2.0°C1.5°C
+REF2.0°C1.5°CREF 2.0°C1.5°C REF2.0°C1.5°CREF 2.0°C1.5°C REF2.0°C1.5°C
 2015 2025 2030 2040 2050
 ```
 ```
@@ -1894,38 +1544,22 @@ scenarios
 
 Executive Summary
 
-
 xxviii
 
-power- generation capacities could amount to 1100 GW in the 2.0 °C Scenario and
-
+power-generation capacities could amount to 1100 GW in the 2.0 °C Scenario and
 more than 1200 GW in the 1.5 °C Scenario if the flexible utilization of 4000 full-
-
 load hours per year can be achieved. However, such a scenario requires high elec-
-
 trolyser capacities and high-volume hydrogen storage to ensure not only flexibility
-
 in the power system but also high utilization rates by downstream synthesis pro-
-
 cesses (e.g. via Fischer-Tropsch plants).
-
-```
-Annual global energy-related CO 2 emissions will increase by 40% in the 5.0 °C
-```
+_Annual global energy-related CO_[^2]: _emissions_ will increase by 40% in the 5.0 °C
 Scenario, from 31,180 Mt in 2015 to more than 43,500 Mt in 2050. The stringent
-
 mitigation measures in both alternative scenarios will cause annual emissions to fall
-
 to 7070 Mt in 2040 in the 2.0 °C Scenario and to 2650 Mt in the 1.5 °C Scenario,
-
 with further reductions to almost zero by 2050. In the 5.0 °C Scenario, the cumulative
-
-CO 2 emissions from 2015 until 2050 will sum to 1388 Gt. In contrast, in the 2.0 °C
-
+CO[^2]: emissions from 2015 until 2050 will sum to 1388 Gt. In contrast, in the 2.0 °C
 and 1.5 °C Scenarios, the cumulative emissions for the period from 2015 until 2050
-
-will be 587 Gt and 450 Gt, respectively. Therefore, the cumulative CO 2 emissions
-
+will be 587 Gt and 450 Gt, respectively. Therefore, the cumulative CO[^2]: emissions
 will decrease by 58% in the 2.0  °C Scenario and by 68% in the 1.5  °C Scenario
 
 compared with the 5.0  °C case. Thus, a rapid reduction in annual emissions will
@@ -1936,7 +1570,7 @@ occur in both alternative scenarios.
 
 Global and regional long-term energy results were used to conduct a detailed power
 
-sector analysis with the methodology described in Sect. 1.7 of Chap. 3. Both the
+sector analysis with the methodology described in Sect. 1.7 of Chap. [^3]:. Both the
 
 2.0  °C and 1.5  °C Scenarios rely on high proportions of variable solar and wind
 
@@ -1971,32 +1605,22 @@ required to develop a more detailed understanding of the power infrastructure ne
 _Development of Global Power Plant Capacities_ The size of the global market for
 
 renewable power plants will increase significantly under the 2.0 °C Scenario. The
-
 annual market for solar PV power must increase by a factor of 4.5, from close to
-
 100 GW in 2017 to an average of 454 GW by 2030. The annual onshore wind mar-
-
 ket must expand to 172 GW by 2025, about three times higher than in 2017. The
-
 offshore wind market will continue to increase in importance within the renewable
-
 power sector. By 2050, offshore wind installations will increase to 32  GW annu-
-
 ally—11 times higher than in 2017. Concentrated solar power (CSP) plants will
-
 play an important role in the generation of dispatchable solar electricity to supply
 
 ```
 Executive Summary
 ```
-
 ```
 xxix
 ```
 bulk power, especially for industry, and to provide secured capacities to power sys-
-
 tems. By 2030, the annual CSP market must increase to 78  GW, compared with
-
 3 GW in 2020 and only 0.1 GW in 2017.
 
 ```
@@ -2027,106 +1651,59 @@ remaining until 2025.
 _Utilization of Power Plant Capacities_ On a global scale, in the 2.0 °C and 1.5 °C
 
 Scenarios, the shares of variable renewable power generation will increase from 4%
-
 in 2015 to 38% and 46%, respectively, by 2030, and will increase to 64% and 65%,
-
 respectively, by 2050. The reason for the variations in the two cases is the different
-
 assumptions made regarding efficiency measures, which may lead to lower overall
-
 demand in the 1.5 °C Scenario than in the 2.0 °C Scenario. During the same period,
-
 dispatchable renewables—CSP plants, bioenergy generation, geothermal energy
-
 and hydropower—will remain around 32% until 2030 on a global average and then
-
 decrease slightly to 29% under the 2.0 °C Scenario (and to 27% under the 1.5 °C
-
 Scenario) by 2050. The system share of dispatchable conventional generation
-
 capacities—mainly coal, oil, gas and nuclear energy—will decrease from a global
-
 average of 60% in 2015 to only 14% in 2040. By 2050, the remaining dispatchable
-
 conventional gas power plants will be converted to operate on hydrogen as a
-
 synthetic fuel, to avoid stranded investments and to achieve higher dispatch power
-
 capacities. Increased variable shares—mainly in the USA, the Middle East region
-
 and Australia—will produce hydrogen for local and the export markets, as fuel for
-
 both renewable power plants and the transport sector.
 
 _Development of Maximum and Residual Loads for the Ten World Regions_ The
-
 maximum load will increase in all regions and within similar ranges under both the
-
 2.0 °C and 1.5 °C Scenarios. The load in OECD countries will rise most strongly in
-
 response to increased electrification, mainly in the transport sector, whereas the load
-
 in developing countries will increase as the overall electricity demand increases in
-
 all sectors.
 
-```
 The most significant increase will be in Africa, where the maximum load will
-```
 surge by 534% over the entire modelling period due to favourable economic
-
 development and increased access to energy services by households. In OECD
-
 Pacific (South Korea, Japan, Australia and New Zealand), efficiency measures will
 
 Executive Summary
 
-
 xxx
 
 reduce the maximum load to 87% by 2030 relative to that in the base year, and it
-
 will increase to 116% by 2050 with the expansion of electric mobility and the
-
 increased electrification of the process heat supply in the industry sector. The 1.5 °C
-
 Scenario calculates slightly higher loads in 2030 due to the accelerated electrifica-
-
 tion of the industry, heating and business sectors, except in three regions (the Middle
-
 East, India and Non-OECD Asia Other Asia), where the early application of effi-
-
 ciency measures will lead to an overall lower demand at the end of the modelling
-
 period, for the same GDP and population growth rates.
-
-```
 In this analysis, the residual load is the load remaining after the variable renew-
-```
 able power generation. Negative values indicate that the energy generated from
-
 solar and wind exceeds the actual load and must be exported to other regions, stored
-
 or curtailed. In each region, the average generation should be consistent with the
-
 average load. However, maximum loads and maximum generations do not usually
-
 occur at the same time, so surplus electricity can be produced and must be exported
-
 or stored as far as possible. In rare individual cases, solar- or wind-based generation
-
 plants can also temporarily reduce their output to a lower load, or some plants can
-
 be shut down. Any reduction in energy generation from solar and wind sources in
-
 response to low demands is defined as “curtailment”. In this analysis, curtailment
-
 rates of up to 5% by 2030 and 10% by 2050 are assumed to have no substantial
-
 negative economic impact on the operation of power plants and therefore will not
-
-trigger an increase in storage capacities. Figure 6 illustrates the development of
-
+trigger an increase in storage capacities. Figure [^6]: illustrates the development of
 maximum loads across all ten world regions under the 2.0 °C and 1.5 °C Scenarios.
 
 _Global Storage and Dispatch Capacities_ The world market for storage and dis-
@@ -2163,9 +1740,8 @@ to 11% (975 h/year) by 2050, converting the gas sector from a supply-driven to 
 
 service-driven industry.
 
-```
 At around 2030, the 1.5 °C Scenario will require more storage throughput than
-```
+
 the 2.0 °C Scenario, but the storage demands for the two scenarios will be equal at
 
 the end of the modelling period. It is assumed that the higher throughput can be
@@ -2177,37 +1753,24 @@ managed with equally higher installed capacities, leading to full-load hours of 
 ```
 Executive Summary
 ```
-
 ```
 xxxi
 ```
 _Trajectories for a Just Transition of the Fossil Fuel Industry_ The implementation of
 
 the 2.0 °C and 1.5 °C Scenarios will have a significant impact on the global fossil
-
 fuel industry. While this may appear to be stating the obvious, current climate
-
 debates have not yet led to an open debate about the orderly withdrawal from the
-
 coal, oil and gas extraction industries. Instead, the political debate about coal, oil
-
 and gas is focused on the security of supply and price security. However, mitigating
-
 climate change is only possible when fossil fuels are phased out.
 
-```
 Coal: Under the 5.0  °C Scenario, the required production of thermal coal—
-```
 excluding coal for nonenergy uses, such as steel production—will remain at 2015
-
 levels, with an annual increase of around 1% per year until 2050. Under the 2.0 °C
-
 Scenario, coal production will decline sharply between 2020 and 2030 at a rate of
-
 around 6% per year. By 2030, global coal production will be equal to China’s annual
-
 production in 2017, at 3.7 billion tonnes, whereas that volume will be reached in
-
 2025 under the 1.5 °C Scenario.
 
 ```
@@ -2248,62 +1811,34 @@ Max Load Development (Base year 2020) [%] Max Load Development (Base year 2020) 
 
 Executive Summary
 
-
 xxxii
 
-```
 Oil: Oil production in the 5.0  °C Scenario will grow steadily by 1% annually
-```
 until the end of the modelling period in 2050. Under the 2.0 °C Scenario, oil produc-
-
 tion will decline by 3% annually until 2025 and then by 5% per year until 2030.
-
 After 2030, oil production will decline by around 7% per year on average, until the
-
 oil produced for energy use is phased out entirely by 2050. The oil production
-
 capacity of the USA, Saudi Arabia and Russia in 2017 would be sufficient to supply
-
 the global demand in 2035 calculated under the 2.0 °C Scenario. The 1.5 °C Scenario
-
 reduces the required production volume by half by 2030, reducing it further to the
-
 equivalent of the 2017 production volume of just one of the three largest oil produc-
-
 ers (USA, Saudi Arabia or Russia) by 2040.
-
-```
 Gas: In the 5.0 °C Scenario, gas production will increase steadily by 2% a year
-```
 for the next two decades, leading to an overall production increase of about 50% by
 
 2050. Compared with coal and oil, the gas phase-out will be significantly slower in
-
 the 2.0  °C and 1.5  °C Scenarios. These scenarios also assume that the gas
-
 infrastructure, such as gas pipelines and power plants, will be used afterwards for
-
 the hydrogen and/or renewable methane produced with electricity from renewable
-
 sources. Under the 2.0 °C Scenario, gas production will only decrease by 0.2% per
-
 year until 2025, by 1% until 2030 and, on average, by 4% annually until 2040. This
-
 represents a rather slow phase-out and will allow the gas industry to gradually
-
 transfer to hydrogen. The phase-out in the 1.5 °C Scenario is equally slow, and a
-
 4%/year reduction will occur after 2025.
-
-```
 The trajectories predicted by the 2.0 °C and 1.5 °C Scenarios for global coal, oil
-```
 and gas production are consistent with the Paris Agreement targets and can be used
-
 to calculate possible employment effects, in terms of job losses in the fossil fuel
-
 industry, job gains in the renewable energy industry and options for transitioning the
-
 gas industry into an industry based on renewably produced hydrogen.
 
 **Employment** The transition to a 100% renewable energy system is not just a tech-
@@ -2341,54 +1876,36 @@ but the results are presented at the global level.
 ```
 Executive Summary
 ```
-
 ```
 xxxiii
 ```
 _Employment—Quantitative Results_ The 2.0 °C and 1.5 °C Scenarios will generate
-
 more energy-sector jobs in the world as a whole at every stage of the projection. The
-
 1.5  °C Scenario will increase renewable energy capacities faster than the 2.0  °C
-
 Scenario, and, therefore, employment will increase faster. By 2050, both scenarios
-
 will create around 47 million jobs, so employment will be within similar ranges.
 
-- In 2025, there will be 30.9 million energy-sector jobs under the 5.0 °C Scenario,
-
-```
+• In 2025, there will be 30.9 million energy-sector jobs under the 5.0 °C Scenario,
 45.5 million under the 2.0 °C Scenario and 52.3 million under the 1.5 °C.
-```
-- In 2030, there will be 31.7 million energy-sector jobs under the 5.0 °C Scenario,
-
-```
+• In 2030, there will be 31.7 million energy-sector jobs under the 5.0 °C Scenario,
 52.9  million under the 2.0  °C Scenario and 58.5  million under the 1.5  °C
 Scenario.
-```
-- In 2050, there will be 29.9 million energy-sector jobs under the 5.0 °C Scenario,
-
-```
+• In 2050, there will be 29.9 million energy-sector jobs under the 5.0 °C Scenario,
 48.7  million under the 2.0  °C Scenario and 46.3  million under the 1.5  °C
 Scenario.
-```
+
 Under the 5.0 °C Scenario, job will drop to 4% below the 2015 levels by 2020 and
-
 then remain quite stable until 2030. Strong growth in renewable energy will lead to
-
 an increase of 44% in total energy-sector jobs by 2025 under the 2.0 °C Scenario and
-
 66% under the 1.5 °C Scenario. In the 2.0 °C (1.5 °C) Scenario, renewable energy
-
 jobs will account for 81% (86%) in 2025 and 87% (89%) in 2030, with PV having
-
 the greatest share of 24% (26%), followed by biomass, wind and solar heating.
 
 _Employment—Occupational Calculations_ Jobs will increase across all occupations
 
 between 2015 and 2025, except in metal trades, which display a minor decline of
 
-2%, as shown in Fig. 7. However, these results are not uniform across regions. For
+2%, as shown in Fig. [^7]:. However, these results are not uniform across regions. For
 
 example, China and India will both experience a reduction in the number of jobs for
 
@@ -2397,175 +1914,214 @@ managers and clerical and administrative workers between 2015 and 2025.
 **Mineral and Metal Requirements Under the 2.0 °C and 1.5 °C Scenarios** Within
 
 the context of the increasing requirements for metal resources by renewable energy
-
 and storage technologies, the rapid increases in demands for both cobalt and lithium
-
 are of greatest concern. The demands for both metals will exceed the current
-
 production rates by 2023 and 2022, respectively. The demands for these metals will
-
 increase more rapidly than will that for silver, partly because solar PV is a more
-
 established technology and silver use has become very efficient, whereas the
-
 electrification of the transport system and the rapid expansion in lithium battery use
-
 have only begun to accelerate in the last few years. The potential to offset primary
-
 demand is different depending on the technology. Offsetting demand through
-
 secondary sources of cobalt and lithium has the most potential to reduce total
-
 primary demand, as these technologies have a shorter lifetime of approximately 10
-
 years. The cumulative demands for both metals will exceed current reserves, but
-
 with high recycling rates, they can remain below the resource levels. However, there
-
 is a delay in the period during which recycling can offset demand, because there
-
 must be sufficient batteries in use and they must exhaust their current purpose before
-
 they can be collected and recycled. This delay could be further extended by strategies
-
 that reuse vehicular batteries as stationary storage, which might reduce costs in the
 
 Executive Summary
 
-
 xxxiv
 
 ```
--2,0
+-2
+,0
 ```
 ```
 00
-,0^00
--1,0
+,0
 ```
 ```
 00
-,0^00
 ```
 ```
-0
+-1
+,0
 ```
 ```
-1,000,
+00
+,0
 ```
 ```
-000
-2,000,
-```
-```
-000
-3,000,
-```
-```
-000
-4,000,
+0 00
+1,
+000,
 ```
 ```
 000
-5,000,
+2,
+000,
 ```
 ```
 000
-6,000,
+3,
+000,
 ```
 ```
 000
-7,000,
+4,
+000,
+```
+```
+000
+5,
+000,
+```
+```
+000
+6,
+000,
+```
+```
+000
+7,
+000,
 ```
 ```
 000
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
 20
+```
+```
 15
 ```
 ```
 20
+```
+```
 25
 ```
 ```
@@ -2604,6 +2160,8 @@ EN
 ```
 ```
 GI
+```
+```
 NE
 ```
 ```
@@ -2619,7 +2177,8 @@ TE
 CH
 ```
 ```
-NICI
+NI
+CI
 ```
 ```
 AN
@@ -2636,6 +2195,8 @@ ER
 ```
 IC
 AL
+```
+```
 &
 ```
 ```
@@ -2643,13 +2204,17 @@ AD
 ```
 ```
 MI
-NIST
+```
+```
+NI
+ST
 ```
 ```
 RA
 ```
 ```
-TIVE
+TI
+VE
 ```
 ```
 CO
@@ -2661,7 +2226,8 @@ NS
 TRUC
 ```
 ```
-TION
+TI
+ON
 ```
 ```
 TR
@@ -2679,7 +2245,8 @@ ME
 TA
 ```
 ```
-L TR
+L
+TR
 ```
 ```
 AD
@@ -2697,7 +2264,8 @@ EC
 TR
 ```
 ```
-ICIA
+IC
+IA
 ```
 ```
 NS
@@ -2715,7 +2283,8 @@ AT
 OR
 ```
 ```
-S &
+S
+&
 ```
 ```
 AS
@@ -2728,6 +2297,8 @@ MB
 ```
 ```
 LE
+```
+```
 RS
 ```
 ```
@@ -2749,7 +2320,9 @@ S
 SH
 ```
 ```
-IP^
+IP
+```
+```
 CR
 ```
 ```
@@ -2763,7 +2336,11 @@ ssil
 ```
 ```
 fu
+```
+```
 el
+```
+```
 jo
 ```
 ```
@@ -2804,6 +2381,8 @@ Of
 ```
 ```
 fs
+```
+```
 ho
 ```
 ```
@@ -2835,6 +2414,8 @@ in
 ```
 ```
 fo
+```
+```
 ss
 ```
 ```
@@ -2852,7 +2433,6 @@ Division of occupations between fossil fuel and renewable energy industries in 2
 ```
 Executive Summary
 ```
-
 ```
 xxxv
 ```
@@ -2862,9 +2442,8 @@ significantly reduces its demand, and this reduction is already happening as man
 
 facturers move towards lower cobalt chemistries.
 
-```
 Increasing the efficiency of the material used is potentially the most successful
-```
+
 strategy to offset the demand for PV metals, and recycling will have a smaller
 
 impact on demand because the lifespan of solar PV panels is long and their potential
@@ -2899,9 +2478,8 @@ seas, not for farmers dependent on rainfall in drought-stricken areas and not fo
 
 communities that are threatened by extreme rainfall events or more intense cyclones.
 
-```
 Here, we use probabilistic methods to examine the scenarios that have been
-```
+
 developed to evaluate their implications for long-term temperature and sea-level
 
 rises, using models and settings that are also used in the recent IPCC Special Report
@@ -2920,25 +2498,17 @@ oped in this study are unable to halt sea-level rise. In fact, a 30 cm rise in 
 
 by 2100, which will continue thereafter, seems to be the unavoidable legacy of our
 
-past use of fossil fuels, unless we remove this CO 2 from the atmosphere in much
-
+past use of fossil fuels, unless we remove this CO[^2]: from the atmosphere in much
 larger amounts than even the complete reforestation of the planet would permit.
 
-```
 Faced with the grim challenge of ongoing climate risks on the one side and the
-```
 many positive effects and economic benefits of switching from fossil fuels to
-
 renewables on the other, the path is clear. A rapid shift towards a new era of smart,
-
 renewable and sector-coupled energy supply, combined with clever demand-side
-
 measures and adaptations to the impacts of climate change, will allow us and our
-
 children to address the legacy of our past reliance on fossil fuels.
 
 Executive Summary
-
 
 ```
 xxxvii
@@ -2947,65 +2517,42 @@ xxxvii
 
 The authors would like to thank the Leonardo DiCaprio Foundation (https://www.
 
-leonardodicaprio.org) which funded the research for Chaps 1, 2, 3, 4, 5, 6, 7, 8, and
+leonardodicaprio.org) which funded the research for Chaps [^1]:, [^2]:, [^3]:, [^4]:, [^5]:, [^6]:, [^7]:, [^8]:, and
 
-9 and Chap. 12. Their ongoing support and dedication to this project was key and
-
+[^9]: and Chap. [^12]:. Their ongoing support and dedication to this project was key and
 kept all researchers highly motivated.
-
-```
 Furthermore, we thank the German Greenpeace Foundation “Umweltstiftung
-```
 Greenpeace” (https://umweltstiftung-greenpeace.de/die-stiftung) for funding the
-
-employment calculation research documented in Chap. 10. Last but not least, our
-
+employment calculation research documented in Chap. [^10]:. Last but not least, our
 thanks also to Earthworks (earthworks.org) for funding the research about metal
-
-requirements presented in Chap. 11.
-
-```
+requirements presented in Chap. [^11]:.
 This project has been supported by numerous people between July 2017 and
-```
 November 2018, and our thanks go to each of them. A special thanks to Karl Burkart
-
 (Leonardo DiCaprio Foundation); Melanie Stoehr and Claudia Voigt (Umweltstiftung
-
 Greenpeace); Payal Sampat (Earthworks); Anna Leidreiter, Anna Skowron and Rob
-
 van Riet from the World Future Council (https://www.worldfuturecouncil.org/); Dr.
-
 Joachim Fuenfgelt from Bread for the World (https://www.brot-fuer-die-welt.de/en/
-
-bread-for-the-world); and Stefan Schurig from F20—Foundations 20 (http://www.
-
+bread-for-the-world); and Stefan Schurig from F20—Foundations 20 ([http://www.](http://www.)
 foundations-20.org/) who provided initial support to make this project possible.
-
 Finally, we would like to thank Greenpeace International and Greenpeace Germany
-
 for their ongoing support of the Energy [R]evolution energy scenario research series
-
 between 2004 and 2015 which resulted in the development of the long-term energy
-
 scenario model, the basis for the long-term energy pathways.
-
 
 ```
 xxxix
 ```
 #### Contents
 
-**1 Introduction** ............................................................................................. 1
+[^1]: **Introduction**............................................................................................. 1
 
-```
 Sven Teske and Thomas Pregger
-```
-**2 State of Research** ..................................................................................... 5
 
-```
+[^2]: **State of Research**..................................................................................... 5
+
 Sven Teske, Malte Meinshausen, and Kate Dooley
-```
-**3 Methodology** ............................................................................................ 25
+
+[^3]: **Methodology**............................................................................................ 25
 
 ```
 Sven Teske, Thomas Pregger, Sonja Simon, Tobias Naegler,
@@ -3013,61 +2560,56 @@ Johannes Pagenkopf, Bent van den Adel, Malte Meinshausen,
 Kate Dooley, C. Briggs, E. Dominish, D. Giurco, Nick Florin,
 Tom Morris, and Kriti Nagrath
 ```
-**4 Mitigation Scenarios for Non-energy GHG** .......................................... 79
+[^4]: **Mitigation Scenarios for Non-energy GHG**.......................................... 79
 
-```
 Malte Meinshausen and Kate Dooley
-```
-**5 Main Assumptions for Energy Pathways** .............................................. 93
 
-```
+[^5]: **Main Assumptions for Energy Pathways**.............................................. 93
+
 Thomas Pregger, Sonja Simon, Tobias Naegler, and Sven Teske
-```
-**6 Transport Transition Concepts** .............................................................. 131
+
+[^6]: **Transport Transition Concepts**.............................................................. 131
 
 ```
 Johannes Pagenkopf, Bent van den Adel, Özcan Deniz,
 and Stephan Schmid
 ```
-**7 Renewable Energy Resource Assessment** ............................................. 161
+[^7]: **Renewable Energy Resource Assessment** ............................................. 161
 
-```
 Sven Teske, Kriti Nagrath, Tom Morris, and Kate Dooley
-```
-**8 Energy Scenario Results** ......................................................................... 175
+
+[^8]: **Energy Scenario Results**......................................................................... 175
 
 ```
 Sven Teske, Thomas Pregger, Tobias Naegler, Sonja Simon,
 Johannes Pagenkopf, Bent van den Adel, and Özcan Deniz
 ```
-**9 Trajectories for a Just Transition of the Fossil Fuel Industry** ............. 403
+[^9]: **Trajectories for a Just Transition of the Fossil Fuel Industry**............. 403
 
-```
 Sven Teske
-```
 
 xl
 
-**10 Just Transition: Employment Projections for the 2.0 °C**
+[^10]: **Just Transition: Employment Projections for the 2.0 °C**
 
 ```
-and 1.5 °C Scenarios ............................................................................... 413
+and 1.5 °C Scenarios............................................................................... 413
 Elsa Dominish, Chris Briggs, Sven Teske, and Franziska Mey
 ```
-**11 Requirements for Minerals and Metals for 100%**
+[^11]: **Requirements for Minerals and Metals for 100%**
 
 ```
 Renewable Scenarios .............................................................................. 437
 Damien Giurco, Elsa Dominish, Nick Florin, Takuma Watari,
 and Benjamin McLellan
 ```
-**12 Implications of the Developed Scenarios**
+[^12]: **Implications of the Developed Scenarios**
 
 ```
-for Climate Change ................................................................................. 459
+for Climate Change................................................................................. 459
 Malte Meinshausen
 ```
-**13 Discussion, Conclusions and Recommendations** .................................. 471
+[^13]: **Discussion, Conclusions and Recommendations**.................................. 471
 
 ```
 Sven Teske, Thomas Pregger, Johannes Pagenkopf,
@@ -3079,54 +2621,28 @@ and Damien Giurco
 ```
 Contents
 ```
-
 ```
 xli
 ```
 Fig. 3.1 Interaction of models in this study ............................................... 30
 
-Fig. 3.2 OECD North America broken down into eight sub-regions ......... 33
-
-Fig. 3.3 Current electricity infrastructure in China .................................... 33
-
+Fig. 3.2 OECD North America broken down into eight sub-regions......... 33
+Fig. 3.3 Current electricity infrastructure in China.................................... 33
 Fig. 3.4 Potential sites for onshore wind generation in Africa .................. 34
-
 Fig. 3.5 Existing and potential solar power sites in Central
-
-```
 and South America ....................................................................... 35
-```
 Fig. 3.6 Overview of the energy system model (EM)
-
-```
-as implemented in Mesap/PlaNet ................................................. 40
-```
-Fig. 3.7 Schematic representation of the [R] E24/7 model structure ......... 44
-
+as implemented in Mesap/PlaNet................................................. 40
+Fig. 3.7 Schematic representation of the [R] E24/7 model structure......... 44
 Fig. 3.8 Spatial concept of the [R]E 24/7 model ....................................... 47
-
 Fig. 3.9 Dispatch order module of the [R]E 24/7 model ........................... 50
-
 Fig. 3.10 Quantitative employment calculation: methodological
-
-```
 overview ....................................................................................... 56
-```
-Fig. 3.11 Distribution of human resources required to manufacture
 
 ```
-the main components of a 50 MW solar photovoltaic
-power plant. (IRENA 2017).......................................................... 58
-```
-Fig. 3.12 Differences between the raw LDF emission scenario data ........... 62
-
-Fig. 3.13 The 2.0 °C and 1.5 °C scenarios and their absolute fossil
-
-```
-and industry CO 2 emissions until 2050. The energy-related CO 2
 emissions pathways from the other chapters are used until
 2050, and then extended beyond 2050 by either keeping
-the CO 2 emissions constant (in the case of the 1.5 °C
+the CO2 emissions constant (in the case of the 1.5 °C
 and 2.0 °C Scenarios, i.e., red and purple dashed lines
 beyond 2050 in the upper panel) or by keeping the percentile
 level within the literature-reported scenarios constant (in the
@@ -3135,1087 +2651,43 @@ upper panel). The percentile rank within the other
 literature-reported scenarios is shown in the lower panel.
 The constant absolute emission level after 2050 in the case
 ```
-#### List of Figures
-
-
-xlii
-
-```
-of the 1.5 °C and 2.0 °C Scenarios can be seen to result
-in an increasing percentile rank among all the
-literature-reported scenarios (increasing purple–red line
-in the lower panel). ....................................................................... 64
-```
-Fig. 3.14 Example distributions of emissions scenario characteristics ........ 66
-
-Fig. 4.1 Land-use sequestration pathways showing annual
-
-```
-sequestration rates over time ........................................................ 80
-```
-Fig. 4.2 Land-use-related CO 2 emission and sequestration rates ............... 82
-
-Fig. 4.3 Global and regional methane emissions from fossil,
-
-```
-industrial, and land-use-related sources ....................................... 84
-```
-Fig. 4.4 Global and regional methane emissions from fossil,
-
-```
-industrial, and land-use-related sources ....................................... 85
-```
-Fig. 4.5 Global SF 6 emission levels from literature-reported scenarios
-
-```
-and the LDF pathways derived in this study ................................ 86
-```
-Fig. 4.6 Global tetrafluoromethane (CF 4 ) emissions from
-
-```
-the collection of assessed literature- reported scenarios
-and the LDF pathways derived in this study ................................ 86
-```
-Fig. 4.7 Global and regional sulfate dioxide (SOX) emissions
-
-```
-in the literature-reported scenarios considered
-and the LDF pathways derived in this study ................................ 87
-```
-Fig. 4.8 Global and regional nitrate aerosol (NOX) emissions
-
-```
-in the literature-reported scenarios considered
-and the LDF pathways derived in this study ................................ 88
-```
-Fig. 4.9 Global and regional black carbon BC emissions
-
-```
-in the literature-reported scenarios considered
-and the LDF pathways derived in this study ................................ 89
-```
-Fig. 4.10 Global and regional organic carbon OC emissions
-
-```
-in the literature-reported scenarios considered
-and the LDF pathways derived in this study ................................ 90
-```
-Fig. 5.1 Historic development and projections of oil prices
-
-```
-(bottom lines) and historical world oil production
-and projections (top lines) by the IEA according
-to Wachtmeister et al. (2018) ........................................................ 104
-```
-Fig. 5.2 Global supply curve for primary biomass in 2030
-
-```
-(IRENA 2014) .............................................................................. 111
-```
-Fig. 5.3 Development of the specific final energy use (per $GDP)
-
-```
-in all stationary sectors (i.e., without transport) per world
-region under the 2.0 °C Scenario (left)
-and 1.5 °C Scenario (right) ........................................................... 119
-```
-Fig. 5.4 Development of the average global RES shares
-
-```
-in total power generation in the 2.0 °C Scenario .......................... 122
-```
-Fig. 5.5 Development of the average global RES shares of future
-
-```
-heat generation options in ‘Industry’ in the 2.0 °C scenario ........ 124
-```
-```
 List of Figures
-```
-
-```
-xliii
-```
-Fig. 5.6 Development of the average global shares of future
-
-```
-heat-generation options in the ‘Residential and other’
-sector under the 2.0 °C scenario ................................................... 125
-```
-Fig. 6.1 World final energy use by transport mode in 2015 ....................... 133
-
-Fig. 6.2 Transport mode performances of road, rail, and aviation ............. 133
-
-Fig. 6.3 Powertrain split for all transport modes in 2015
-
-```
-by transport performance (pkm or tkm) ....................................... 134
-```
-Fig. 6.4 Final energy use by world transport in 2015
-
-```
-according to region ....................................................................... 134
-```
-Fig. 6.5 Powertrain split for all transport modes in 2050
-
-```
-under the 5.0 °C Scenario in terms of transport performance ...... 136
-```
-Fig. 6.6 Powertrain split (fleet) of passenger cars in selected
-
-```
-regions in 2030 ( left ) and 2050 ( right ) under
-the 2.0 °C Scenario ....................................................................... 137
-```
-Fig. 6.7 Battery and trolley electric bus share of total bus pkm
-
-```
-in the 2.0 °C Scenario ( left ) and fuel-cell electric bus share
-of total bus pkm in the 2.0 °C Scenario ( right ) ............................ 138
-```
-Fig. 6.8 Electrification of passenger rail ( _left_ ) and freight rail ( _right_ )
-
-```
-under the 2.0 °C Scenario (in PJ of final energy demand) ........... 138
-```
-Fig. 6.9 Electricity-performed pkm in domestic aviation under
-
-```
-the 2.0 °C Scenario ....................................................................... 139
-```
-Fig. 6.10 Powertrain split of the world passenger car fleet in the 2.0 °C
-
-```
-Scenario ( left ) and 1.5 °C Scenario ( right ) ................................... 140
-```
-Fig. 6.11 Final energy demand in urban and inter-urban passenger
-
-```
-transport modes in 2015 (world averages) .................................... 140
-```
-Fig. 6.12 Final energy demand in freight transport modes in 2015
-
-```
-(world averages) ........................................................................... 141
-```
-Fig. 6.13 World average energy consumption development for
-
-```
-passenger cars per powertrain in 2015 ( left ) and 2050 ( right ) ..... 142
-```
-Fig. 6.14 Average global energy intensities of truck drivetrain
-
-```
-technologies in 2015 and 2050 ..................................................... 143
-```
-Fig. 6.15 Average global energy intensities of bus drivetrain
-
-```
-technologies in 2015 ( left ) and 2050 ( right ) ................................. 144
-```
-Fig. 6.16 Average global energy intensities of two-wheel vehicles
-
-```
-( left ) and three-wheel vehicles ( right ) by drivetrain technology
-in 2015 ( left bar ) and 2050 ( right bar ) ......................................... 145
-```
-Fig. 6.17 MJ/tkm of freight rail trains ( _left_ ) and MJ/pkm of passenger
-
-```
-rail trains ( right ) for 2015 ( left ) and 2050 ( right ) ......................... 146
-```
-Fig. 6.18 Region-specific MJ/tkm and MJ/pkm in 2015 and 2050 for
-
-```
-freight rail trains ( left ) and passenger rail trains ( right ) ............... 146
-```
-Fig. 6.19 Shares of bio- and synfuels in all world regions
-
-```
-under all scenarios ........................................................................ 147
-```
-Fig. 6.20 Relative growth in world transport demand
-
-```
-(2015 = 100% pkm/tkm) in the 5.0 °C scenario ........................... 150
-```
-List of Figures
-
-
-xliv
-
-Fig. 6.21 Relative growth in world transport demand
-
-```
-(2015 = 100% pkm/tkm) in the 2.0 °C Scenario ( left )
-and 1.5 °C Scenario ( right ) ........................................................... 150
-```
-Fig. 6.22 Regional pkm development .......................................................... 151
-
-Fig. 6.23 World pkm development in all scenarios ...................................... 152
-
-Fig. 6.24 World pkm development in the 2.0 °C Scenario .......................... 152
-
-Fig. 6.25 Pkm development in OECD Europe ( _left_ ) Africa (middle),
-
-```
-and China ( right ) in the 2.0 °C Scenario ...................................... 153
-```
-Fig. 6.26 World tkm development in all scenarios....................................... 154
-
-Fig. 6.27 Regional tkm development ........................................................... 154
-
-Fig. 6.28 World tkm development in the 5.0 °C, 2.0 °C,
-
-```
-and 1.5 °C Scenarios ..................................................................... 156
-```
-Fig. 6.29 Road tkm in the 2.0 °C Scenario .................................................. 156
-
-Fig. 6.30 Rail tkm in the 2.0 °C Scenario .................................................... 157
-
-Fig. 6.31 Share of rail tkm in total rail + road tkm
-
-```
-in the 2.0 °C Scenario ................................................................... 157
-```
-Fig. 7.1 Electricity infrastructure in Africa—power plants
-
-```
-(over 1 MW) and high-voltage transmission lines ....................... 166
-```
-Fig. 7.2 Solar potential in Africa ................................................................ 166
-
-Fig. 7.3 Europe’s potential for utility-scale solar power plants ................. 167
-
-Fig. 7.4 OECD North America: existing and potential
-
-```
-wind power sites ........................................................................... 168
-```
-Fig. 7.5 Latin America: potential and existing wind power sites ............... 169
-
-Fig. 8.1 Global: projection of final energy (per $ GDP) intensity
-
-```
-by scenario .................................................................................... 176
-```
-Fig. 8.2 Global: projection of total final energy demand by sector
-
-```
-in the scenarios (without non- energy use or heat from
-combined heat and power [CHP] autoproducers) ......................... 177
-```
-Fig. 8.3 Global: development of gross electricity demand by sector
-
-```
-in the scenarios ............................................................................. 178
-```
-Fig. 8.4 Global: development of final energy demand for transport
-
-```
-by mode in the scenarios .............................................................. 179
-```
-Fig. 8.5 Global: development of heat demand by sector
-
-```
-in the scenarios ............................................................................. 179
-```
-Fig. 8.6 Global: development of the final energy demand by sector
-
-```
-in the scenarios ............................................................................. 180
-```
-Fig. 8.7 Global: development of electricity-generation structure
-
-```
-in the scenarios ............................................................................. 181
-```
-Fig. 8.8 Global: development of total electricity supply costs
-
-```
-and specific electricity generation costs in the scenarios ............. 182
-```
-Fig. 8.9 Global: investment shares for power generation
-
-```
-in the scenarios ............................................................................. 183
-```
-Fig. 8.10 Global: development of heat supply by energy carrier
-
-```
-in the scenarios ............................................................................. 184
-```
-```
-List of Figures
-```
-
-```
-xlv
-```
-Fig. 8.11 Global: development of investment in renewable
-
-```
-heat-generation technologies in the scenarios .............................. 186
-```
-Fig. 8.12 Global: final energy consumption by transport
-
-```
-in the scenarios ............................................................................. 187
-```
-Fig. 8.13 Global: development of CO 2 emissions by sector
-
-```
-and cumulative CO 2 emissions (since 2015) in the
-scenarios (‘Savings’ = lower than in the 5.0 °C Scenario) ........... 188
-```
-Fig. 8.14 Global: projection of total primary energy demand
-
-```
-(PED) by energy carrier in the scenarios ...................................... 189
-```
-Fig. 8.15 Global: scenario of bunker fuel demand for aviation
-
-```
-and navigation and the resulting cumulative CO 2 emissions ........ 190
-```
-Fig. 8.16 Development of maximum load in 10 world regions
-
-```
-in 2020, 2030, and 2050 in the 2.0 °C and 1.5 °C scenarios ........ 202
-```
-Fig. 8.17 OECD North America: development of final energy
-
-```
-demand by sector in the scenarios ................................................ 210
-```
-Fig. 8.18 OECD North America: development of electricity-generation
-
-```
-structure in the scenarios .............................................................. 212
-```
-Fig. 8.19 OECD North America: development of total electricity
-
-```
-supply costs and specific electricity- generation costs
-in the scenarios ............................................................................. 213
-```
-Fig. 8.20 OECD North America: investment shares for power
-
-```
-generation in the scenarios ........................................................... 214
-```
-Fig. 8.21 OECD North America: development of heat supply
-
-```
-by energy carrier in the scenarios ................................................. 215
-```
-Fig. 8.22 OECD North America: development of investments
-
-```
-in renewable heat generation technologies in the scenarios ......... 216
-```
-Fig. 8.23 OECD North America: final energy consumption
-
-```
-by transport in the scenarios ......................................................... 218
-```
-Fig. 8.24 OECD North America: development of CO 2 emissions
-
-```
-by sector and cumulative CO 2 emissions (after 2015)
-in the scenarios (‘Savings’ = reduction compared with
-the 5.0 °C Scenario) ...................................................................... 219
-```
-Fig. 8.25 OECD North America: projection of total primary
-
-```
-energy demand (PED) by energy carrier in the scenarios
-(including electricity import balance) .......................................... 220
-```
-Fig. 8.26 Latin America: development of final energy demand
-
-```
-by sector in the scenarios .............................................................. 231
-```
-Fig. 8.27 Latin America: development of electricity-generation
-
-```
-structure in the scenarios .............................................................. 232
-```
-Fig. 8.28 Latin America: development of total electricity supply
-
-```
-costs and specific electricity- generation costs
-in the scenarios ............................................................................. 233
-```
-Fig. 8.29 Latin America: investment shares for power generation
-
-```
-in the scenarios ............................................................................. 235
-```
-List of Figures
-
-
-xlvi
-
-Fig. 8.30 Latin America: development of heat supply by energy
-
-```
-carrier in the scenarios .................................................................. 236
-```
-Fig. 8.31 Latin America: development of investments for renewable
-
-```
-heat generation technologies in the scenarios .............................. 237
-```
-Fig. 8.32 Latin America: final energy consumption by transport
-
-```
-in the scenarios ............................................................................. 239
-```
-Fig. 8.33 Latin America: development of CO 2 emissions by sector
-
-```
-and cumulative CO 2 emissions (after 2015) in the scenarios
-(‘Savings’ = reduction compared with the 5.0 °C Scenario) ........ 240
-```
-Fig. 8.34 Latin America: projection of total primary energy demand
-
-```
-(PED) by energy carrier in the scenarios (including
-electricity import balance) ............................................................ 241
-```
-Fig. 8.35 OECD Europe: development in the scenarios .............................. 251
-
-Fig. 8.36 OECD Europe: development of electricity-generation
-
-```
-structure in the scenarios .............................................................. 253
-```
-Fig. 8.37 OECD Europe: development of total electricity supply
-
-```
-costs and specific electricity- generation costs
-in the scenarios ............................................................................. 253
-```
-Fig. 8.38 OECD Europe: investment shares for power generation
-
-```
-in the scenarios ............................................................................. 255
-```
-Fig. 8.39 OECD Europe: development of heat supply by energy
-
-```
-carrier in the scenarios .................................................................. 256
-```
-Fig. 8.40 OECD Europe: development of investments for renewable
-
-```
-heat-generation technologies in the scenarios .............................. 257
-```
-Fig. 8.41 OECD Europe: final energy consumption by transport
-
-```
-in the scenarios ............................................................................. 259
-```
-Fig. 8.42 OECD Europe: development of CO 2 emissions by sector
-
-```
-and cumulative CO 2 emissions (after 2015) in the scenarios
-(‘Savings’ = reduction compared with the 5.0 °C Scenario) ........ 260
-```
-Fig. 8.43 OECD Europe: projection of total primary energy demand
-
-```
-(PED) by energy carrier in the scenarios (including
-electricity import balance) ............................................................ 261
-```
-Fig. 8.44 Africa: development of final energy demand by sector
-
-```
-in the scenarios ............................................................................. 269
-```
-Fig. 8.45 Africa: development of electricity-generation structure
-
-```
-in the scenarios ............................................................................. 271
-```
-Fig. 8.46 Africa: development of total electricity supply costs
-
-```
-and specific electricity-generation costs in the scenarios ............. 272
-```
-Fig. 8.47 Africa: investment shares for power generation
-
-```
-in the scenarios ............................................................................. 274
-```
-Fig. 8.48 Africa: development of heat supply by energy carrier
-
-```
-in the scenarios ............................................................................. 274
-```
-Fig. 8.49 Africa: development of investments for renewable
-
-```
-heat-generation technologies in the scenarios .............................. 276
-```
-```
-List of Figures
-```
-
-```
-xlvii
-```
-Fig. 8.50 Africa: final energy consumption by transport
-
-```
-in the scenarios ............................................................................. 278
-```
-Fig. 8.51 Africa: development of CO 2 emissions by sector
-
-```
-and cumulative CO 2 emissions (after 2015) in the scenarios
-(‘Savings’ = reduction compared with the 5.0 °C Scenario) ........ 279
-```
-Fig. 8.52 Africa: projection of total primary energy demand
-
-```
-(PED) by energy carrier in the scenarios (including
-electricity import balance) ............................................................ 279
-```
-Fig. 8.53 Middle East: development of the final energy demand
-
-```
-by sector in the scenarios .............................................................. 287
-```
-Fig. 8.54 Middle East: development of electricity-generation
-
-```
-structure in the scenarios .............................................................. 289
-```
-Fig. 8.55 Middle East: development of total electricity supply
-
-```
-costs and specific electricity- generation costs
-in the scenarios ............................................................................. 290
-```
-Fig. 8.56 Middle East: investment shares for power generation
-
-```
-in the scenarios ............................................................................. 292
-```
-Fig. 8.57 Middle East: development of heat supply by energy
-
-```
-carrier in the scenarios .................................................................. 292
-```
-Fig. 8.58 Middle East: development of investments for renewable
-
-```
-heat-generation technologies in the scenarios .............................. 294
-```
-Fig. 8.59 Middle East: final energy consumption by transport
-
-```
-in the scenarios ............................................................................. 296
-```
-Fig. 8.60 Middle East: development of CO 2 emissions by sector
-
-```
-and cumulative CO 2 emissions (after 2015) in the scenarios
-(‘Savings’ = reduction compared with the 5.0 °C Scenario) ........ 297
-```
-Fig. 8.61 Middle East: projection of total primary energy demand
-
-```
-(PED) by energy carrier in the scenarios (including
-electricity import balance) ............................................................ 297
-```
-Fig. 8.62 Eastern Europe/Eurasia: development of the final
-
-```
-energy demand by sector in the scenarios .................................... 306
-```
-Fig. 8.63 Eastern Europe/Eurasia: development of
-
-```
-electricity-generation structure in the scenarios ........................... 309
-```
-Fig. 8.64 Eastern Europe/Eurasia: development of total electricity
-
-```
-supply costs and specific electricity- generation costs
-in the scenarios ............................................................................. 309
-```
-Fig. 8.65 Eastern Europe/Eurasia: investment shares for power
-
-```
-generation in the scenarios ........................................................... 311
-```
-Fig. 8.66 Eastern Europe/Eurasia: development of heat supply
-
-```
-by energy carrier in the scenarios ................................................. 312
-```
-Fig. 8.67 Eastern Europe/Eurasia: development of investments
-
-```
-for renewable heat-generation technologies in the scenarios ....... 314
-```
-Fig. 8.68 Eastern Europe/Eurasia: final energy consumption by
-
-```
-transport in the scenarios .............................................................. 315
-```
-List of Figures
-
-
-xlviii
-
-Fig. 8.69 Eastern Europe/Eurasia: development of CO 2 emissions
-
-```
-by sector and cumulative CO 2 emissions (after 2015)
-in the scenarios (‘Savings’ = reduction compared
-with the 5.0 °C Scenario) .............................................................. 316
-```
-Fig. 8.70 Eastern Europe/Eurasia: projection of total primary
-
-```
-energy demand (PED) by energy carrier in the scenarios
-(including electricity import balance) .......................................... 317
-```
-Fig. 8.71 Non-OECD Asia: development of the final energy
-
-```
-demand by sector in the scenarios ................................................ 325
-```
-Fig. 8.72 Non-OECD Asia: development of electricity-generation
-
-```
-structure in the scenarios .............................................................. 327
-```
-Fig. 8.73 Non-OECD Asia: development of total electricity supply
-
-```
-costs and specific electricity generation costs
-in the scenarios ............................................................................. 328
-```
-Fig. 8.74 Non-OECD Asia: investment shares for power
-
-```
-generation in the scenarios ........................................................... 329
-```
-Fig. 8.75 Non-OECD Asia: development of heat supply
-
-```
-by energy carrier in the scenarios ................................................. 330
-```
-Fig. 8.76 Non-OECD Asia: development of investments
-
-```
-for renewable heat-generation technologies in the scenarios ....... 332
-```
-Fig. 8.77 Non-OECD Asia: final energy consumption
-
-```
-by transport in the scenarios ......................................................... 333
-```
-Fig. 8.78 Non-OECD Asia: development of CO 2 emissions
-
-```
-by sector and cumulative CO 2 emissions (after 2015)
-in the scenarios (‘Savings’ = reduction compared
-with the 5.0 °C Scenario) .............................................................. 334
-```
-Fig. 8.79 Non-OECD Asia: projection of total primary energy
-
-```
-demand (PED) by energy carrier in the scenarios
-(including electricity import balance) .......................................... 335
-```
-Fig. 8.80 India: development of final energy demand by sector
-
-```
-in the scenarios ............................................................................. 345
-```
-Fig. 8.81 India: development of electricity-generation structure
-
-```
-in the scenarios ............................................................................. 347
-```
-Fig. 8.82 India: development of total electricity supply costs
-
-```
-and specific electricity generation costs in the scenarios ............. 348
-```
-Fig. 8.83 India: investment shares for power generation
-
-```
-in the scenarios ............................................................................. 349
-```
-Fig. 8.84 India: development of heat supply by energy carrier
-
-```
-in the scenarios ............................................................................. 350
-```
-Fig. 8.85 India: development of investments for renewable
-
-```
-heat-generation technologies in the scenarios .............................. 352
-```
-Fig. 8.86 India: final energy consumption by transport
-
-```
-in the scenarios ............................................................................. 353
-```
-Fig. 8.87 India: development of CO 2 emissions by sector
-
-```
-and cumulative CO 2 emissions (after 2015) in the scenarios
-(‘Savings’ = reduction compared with the 5.0 °C Scenario) ........ 354
-```
-```
-List of Figures
-```
-
-```
-xlix
-```
-Fig. 8.88 India: projection of total primary energy demand (PED)
-
-```
-by energy carrier in the scenarios (including electricity
-import balance) ............................................................................. 355
-```
-Fig. 8.89 China: development of final energy demand by sector
-
-```
-in the scenarios ............................................................................. 361
-```
-Fig. 8.90 China: development of electricity-generation structure
-
-```
-in the scenarios ............................................................................. 363
-```
-Fig. 8.91 China: development of total electricity supply costs
-
-```
-and specific electricity-generation costs in the scenarios ............. 364
-```
-Fig. 8.92 China: investment shares for power generation
-
-```
-in the scenarios ............................................................................. 366
-```
-Fig. 8.93 China: development of heat supply by energy carrier
-
-```
-in the scenarios ............................................................................. 366
-```
-Fig. 8.94 China: development of investments for renewable
-
-```
-heat-generation technologies in the scenarios .............................. 369
-```
-Fig. 8.95 China: final energy consumption by transport
-
-```
-in the scenarios ............................................................................. 370
-```
-Fig. 8.96 China: development of CO 2 emissions by sector
-
-```
-and cumulative CO 2 emissions (after 2015)
-in the scenarios (‘Savings’ = reduction compared
-with the 5.0 °C Scenario) .............................................................. 371
-```
-Fig. 8.97 China: projection of total primary energy demand
-
-```
-(PED) by energy carrier in the scenarios (including
-electricity import balance) ............................................................ 371
-```
-Fig. 8.98 OECD Pacific: development of final energy demand
-
-```
-by sector in the scenarios .............................................................. 381
-```
-Fig. 8.99 OECD Pacific: development of electricity-generation
-
-```
-structure in the scenarios .............................................................. 383
-```
-Fig. 8.100 OECD Pacific: development of total electricity
-
-```
-supply costs and specific electricity- generation costs
-in the scenarios ............................................................................. 384
-```
-Fig. 8.101 OECD Pacific: investment shares for power generation
-
-```
-in the scenarios ............................................................................. 385
-```
-Fig. 8.102 OECD Pacific: development of heat supply by energy
-
-```
-carrier in the scenarios .................................................................. 386
-```
-Fig. 8.103 OECD Pacific: development of investments for renewable
-
-```
-heat-generation technologies in the scenarios .............................. 388
-```
-Fig. 8.104 OECD Pacific: final energy consumption by transport
-
-```
-in the scenarios ............................................................................. 389
-```
-Fig. 8.105 OECD Pacific: development of CO 2 emissions by sector
-
-```
-and cumulative CO 2 emissions (after 2015)
-in the scenarios (‘Savings’ = reduction compared
-with the 5.0 °C Scenario) .............................................................. 390
-```
-Fig. 8.106 OECD Pacific: projection of total primary energy demand
-
-```
-(PED) by energy carrier in the scenarios (including
-electricity import balance) ............................................................ 391
-```
-List of Figures
-
-
-l
-
-Fig. 9.1 Global coal production in 1981–2017
-
-```
-(BP 2018—Statistical Review) ..................................................... 405
-```
-Fig. 9.2 Global coal production until 2050 under
-
-```
-the three scenarios ........................................................................ 405
-```
-Fig. 9.3 Global oil production in 1965–2017
-
-```
-(BP 2018—Statistical Review) ..................................................... 406
-```
-Fig. 9.4 Global oil production until 2050 under
-
-```
-the three scenarios ........................................................................ 407
-```
-Fig. 9.5 Global gas production in 1970–2017
-
-```
-(BP 2018—Statistical Review) ..................................................... 408
-```
-Fig. 9.6 Global gas production until 2050 under
-
-```
-the three scenarios ........................................................................ 408
-```
-Fig. 10.1 World employment in the energy sector under
-
-```
-the 5.0 °C and 2.0 °C Scenarios ( left ) and the 5.0 °C
-and 1.5 °C Scenarios ( right ) ......................................................... 418
-```
-Fig. 10.2 Distribution of human resources required to manufacture
-
-```
-the main components of a 50 MW solar photovoltaic
-power plant. (IRENA 2017a) ........................................................ 420
-```
-Fig. 10.3 Division of occupations between fossil fuels and renewable
-
-```
-energy in 2015 and 2025 under the 1.5 °C Scenario .................... 427
-```
-Fig. 10.4 Division of occupations between fossil fuels and
-
-```
-renewable energy in 2015 and 2025 under
-the 2.0 °C Scenario ....................................................................... 428
-```
-Fig. 10.5 Employment changes between 2015 and 2025
-
-```
-by occupational breakdown under the 2.0 °C Scenario ................ 433
-```
-Fig. 10.6 Employment changes between 2015 and 2025
-
-```
-by occupational breakdown under the 1.5 °C Scenario ................ 434
-```
-Fig. 11.1 Overview of key metal requirements and supply
-
-```
-chain for solar PV ......................................................................... 439
-```
-Fig. 11.2 Overview of key metal requirements and supply
-
-```
-chain for wind power .................................................................... 440
-```
-Fig. 11.3 Overview of key metal requirements and supply
-
-```
-chain for LIB and EV ................................................................... 441
-```
-Fig. 11.4 Cumulative demand from renewable energy
-
-```
-and transport technologies to 2050 compared with reserves ........ 446
-```
-Fig. 11.5 Annual demand from renewable energy and storage
-
-```
-technologies in 2050 compared with current production
-rates (note that scale varies across the metals) ............................. 446
-```
-Fig. 11.6 Annual primary demand for cobalt from EVs and storage ........... 447
-
-Fig. 11.7 Cumulative primary demand for cobalt from EVs
-
-```
-and storage by 2050 ...................................................................... 447
-```
-Fig. 11.8 Annual primary demand for lithium from EVs
-
-```
-and storage .................................................................................... 448
-```
-Fig. 11.9 Cumulative primary demand for lithium from EVs
-
-```
-and storage by 2050 ...................................................................... 449
-```
-```
-List of Figures
-```
-
-```
-li
-```
-Fig. 11.10 Annual primary demand for silver from solar PV (c-Si) .............. 449
-
-Fig. 11.11 Cumulative primary demand for silver from solar PV
-
-```
-(c-Si) by 2050 ............................................................................... 450
-```
-Fig. 11.12 Top five oil-producing countries (left) versus
-
-```
-lithium-producing countries (right) .............................................. 453
-```
-Fig. 12.1 Global CO 2 , CH 4 and N 2 O concentrations under
-
-```
-various scenarios. The so-called SSP scenarios are going
-to inform the Sixth Assessment Report by the IPCC,
-the RCP scenarios are the previous generation of scenarios
-and the LDF scenarios are those developed in this study ............. 462
-```
-Fig. 12.2 CO 2 equivalence concentrations and radiative forcing
-
-```
-of main IPCC scenarios for the forthcoming Sixth
-Assessment (so-called SSP scenarios), the RCP scenarios
-underlying the Fifth IPCC Assessment Report and
-the LDF scenarios developed in this study ................................... 463
-```
-Fig. 12.3 Global cumulative CO2 emissions – 2.0 °C and
-
-```
-1.5 °C scenarios ............................................................................ 464
-```
-Fig. 12.4 Global-mean surface air temperature projections ......................... 467
-
-Fig. 12.5 Global-mean sea level rise projections under the three
-
-```
-scenarios developed in this study ................................................. 468
-```
-List of Figures
-
 
 ```
 liii
 ```
 Table 3.1 Overview of regions and sub-regions used in the analysis ........ 31
 
-Table 3.2 Input parameters for the dispatch model .................................... 48
-
-Table 3.3 Output parameters for the dispatch model ................................. 49
-
+Table 3.2 Input parameters for the dispatch model.................................... 48
+Table 3.3 Output parameters for the dispatch model................................. 49
 Table 3.4 Technology groups for dispatch order selection ........................ 51
-
-Table 3.5 Technology options—variable renewable energy ...................... 51
-
-Table 3.6 Technology options—dispatch generation ................................. 51
-
+Table 3.5 Technology options—variable renewable energy...................... 51
+Table 3.6 Technology options—dispatch generation................................. 51
 Table 3.7 Technology options—storage technologies ............................... 52
-
 Table 3.8 Key assumptions ........................................................................ 59
-
 Table 3.9 Regional definitions according to the Integrated
-
-```
-Assessment Modelling community ............................................ 61
-```
+Assessment Modelling community............................................ 61
 Table 3.10 Narrative for each sequestration pathway
-
-```
 per climatic biome ..................................................................... 68
-```
 Table 3.11 Assumptions regarding the four land-use sequestration
+pathways for two climate domain categories............................. 71
 
-```
-pathways for two climate domain categories ............................. 71
-```
-Table 5.1 World regions used in the scenarios ........................................... 96
-
+Table 5.1 World regions used in the scenarios........................................... 96
 Table 5.2 Population growth projections (in millions)............................... 102
-
 Table 5.3 GDP development projections based on average annual
-
-```
 growth rates for 2015–2040 from IEA (WEO 2016a, b)
-and on our own extrapolations ................................................... 103
-```
+and on our own extrapolations................................................... 103
 Table 5.4 Investment cost assumptions for power generation
-
-```
-plants (in $2015/kW) in the scenarios until 2050 ...................... 107
-```
+plants (in $2015/kW) in the scenarios until 2050...................... 107
 Table 5.5 Specific investment cost assumptions (in $2015)
-
-```
 for heating technologies in the scenarios until 2050 ................. 108
-```
 Table 5.6 Development projections for fossil fuel prices
-
-```
-in $2015 (IEA 2017) .................................................................. 110
-```
+in $2015 (IEA 2017).................................................................. 110
 Table 5.7 Biomass price projections for 2030 at 108 EJ
-
-```
-of the biomass demand (IRENA 2014) ...................................... 112
-```
-Table 5.8 CO 2 cost assumptions in the scenarios ....................................... 113
+of the biomass demand (IRENA 2014)...................................... 112
+Table 5.8 CO[^2]: cost assumptions in the scenarios.......................................[^113]
 
 #### List of Tables
-
 
 liv
 
@@ -4223,580 +2695,301 @@ Table 5.9 Assumed average development of specific (per $GDP)
 
 ```
 electricity use for electrical appliances
-in the ‘Industry’ sector ............................................................... 115
+in the ‘Industry’ sector............................................................... 115
 ```
 Table 5.10 Assumed average development in final energy use
 
-```
 for heating in the industry sector (including power-to-heat)
-(per $GDP) ................................................................................. 116
-```
+(per $GDP)................................................................................. 116
 Table 5.11 Assumed average developments of per capita electricity
-
-```
 use in the ‘Residential and other’ sector for electrical
-appliances (without power-to-heat) ........................................... 117
-```
+appliances (without power-to-heat)........................................... 117
 Table 5.12 Assumed average development of specific final energy
-
-```
 use for heating in the ‘Residential and other’ sector
-(including power-to-heat) .......................................................... 118
-```
+(including power-to-heat).......................................................... 118
 Table 5.13 Development of power from co-generation
-
-```
-per $GDP ................................................................................... 126
-```
+per $GDP................................................................................... 126
 Table 5.14 Development of heat from co-generation per $GDP ................. 126
 
 Table 6.1 Pkm “per km” shift from domestic aviation
-
-```
-to trains (in %) ........................................................................... 151
-```
+to trains (in %)........................................................................... 151
 Table 6.2 Global tkm shifts from truck to train in the 2.0 °C
+and 1.5 °C Scenarios (in %)....................................................... 155
 
-```
-and 1.5 °C Scenarios (in %) ....................................................... 155
-```
 Table 7.1 Theoretical and technical renewable energy potentials
-
-```
-versus utilization in 2015 ........................................................... 163
-```
-Table 7.2 [R]E-SPACE: key results part 1 ................................................. 169
-
-Table 7.3 [R]E-SPACE: key results part 2 ................................................. 171
+versus utilization in 2015........................................................... 163
+Table 7.2 [R]E-SPACE: key results part 1................................................. 169
+Table 7.3 [R]E-SPACE: key results part 2................................................. 171
 
 Table 8.1 Global: development of renewable electricity-generation
-
-```
-capacity in the scenarios ............................................................ 180
-```
+capacity in the scenarios............................................................ 180
 Table 8.2 Global: development of renewable heat supply
-
-```
 in the scenarios (excluding the direct use of electricity) ........... 184
-```
 Table 8.3 Global: installed capacities for renewable heat generation
-
-```
 in the scenarios .......................................................................... 185
-```
 Table 8.4 Global: projection of transport energy demand
-
-```
-by mode in the scenarios ............................................................ 187
-```
+by mode in the scenarios............................................................ 187
 Table 8.5 Global: projection of bunker fuel demands for aviation
-
-```
-and navigation by fuel in the scenarios ...................................... 191
-```
+and navigation by fuel in the scenarios...................................... 191
 Table 8.6 Economic potential within a space-constrained scenario
-
-```
-and utilization rates for the 2.0 °C and 1.5 °C scenarios ........... 194
-```
+and utilization rates for the 2.0 °C and 1.5 °C scenarios........... 194
 Table 8.7 World: average annual change in the installed power
-
-```
-plant capacity ............................................................................. 196
-```
-Table 8.8 Global: power system shares by technology group .................... 197
-
+plant capacity............................................................................. 196
+Table 8.8 Global: power system shares by technology group.................... 197
 Table 8.9 Global: capacity factors for _variable_ and _dispatchable_
-
-```
-power generation ........................................................................ 198
-```
-Table 8.10 Global: load, generation, and residual load development .......... 200
-
-Table 8.11 Global: storage and dispatch ...................................................... 205
-
-Table 8.12 Required increases in storage capacities until 2050 ................... 208
+power generation........................................................................ 198
+Table 8.10 Global: load, generation, and residual load development.......... 200
+Table 8.11 Global: storage and dispatch...................................................... 205
+Table 8.12 Required increases in storage capacities until 2050................... 208
 
 ```
 List of Tables
 ```
-
 ```
 lv
 ```
 Table 8.13 Estimated average global investment costs for batty
 
 ```
-and hydro pump storage ............................................................. 209
+and hydro pump storage............................................................. 209
 ```
 Table 8.14 OECD North America: development of renewable
 
-```
-electricity generation capacity in the scenarios ......................... 211
-```
+electricity generation capacity in the scenarios......................... 211
 Table 8.15 OECD North America: development of renewable heat
-
-```
 supply in the scenarios (excluding the direct
 use of electricity) ....................................................................... 215
-```
 Table 8.16 OECD North America: installed capacities
-
-```
-for renewable heat generation in the scenarios .......................... 216
-```
+for renewable heat generation in the scenarios.......................... 216
 Table 8.17 OECD North America: projection of the transport
-
-```
-energy demand by mode in the scenarios .................................. 217
-```
+energy demand by mode in the scenarios.................................. 217
 Table 8.18 OECD North America: average annual change
-
-```
 in installed power plant capacity ............................................... 222
-```
 Table 8.19 OECD North America and sub-regions: power system
-
-```
-shares by technology group ....................................................... 223
-```
+shares by technology group....................................................... 223
 Table 8.20 OECD North America: capacity factors
-
-```
-by generation type ...................................................................... 225
-```
+by generation type...................................................................... 225
 Table 8.21 OECD North America: load, generation, and residual
-
-```
-load development ....................................................................... 226
-```
+load development....................................................................... 226
 Table 8.22 OECD North America: storage and dispatch
-
-```
-service requirements .................................................................. 228
-```
+service requirements.................................................................. 228
 Table 8.23 Latin America: development of renewable
-
-```
-electricity-generation capacity in the scenarios ......................... 232
-```
+electricity-generation capacity in the scenarios......................... 232
 Table 8.24 Latin America: development of renewable heat
-
-```
 supply in the scenarios (excluding the direct
 use of electricity) ....................................................................... 236
-```
 Table 8.25 Latin America: installed capacities for renewable
-
-```
-heat generation in the scenarios ................................................. 238
-```
+heat generation in the scenarios................................................. 238
 Table 8.26 Latin America: projection of transport energy demand
-
-```
-by mode in the scenarios ............................................................ 239
-```
+by mode in the scenarios............................................................ 239
 Table 8.27 Latin America: average annual change in installed
-
-```
-power plant capacity .................................................................. 242
-```
+power plant capacity.................................................................. 242
 Table 8.28 Latin America: power system shares by technology group........ 243
-
-Table 8.29 Latin America: capacity factors by generation type ................... 245
-
+Table 8.29 Latin America: capacity factors by generation type................... 245
 Table 8.30 Latin America: load, generation, and residual
-
-```
-load development ....................................................................... 246
-```
+load development....................................................................... 246
 Table 8.31 Latin America: storage and dispatch service
-
-```
-requirements in the 2.0 °C and 1.5 °C Scenarios ....................... 249
-```
+requirements in the 2.0 °C and 1.5 °C Scenarios....................... 249
 Table 8.32 OECD Europe: development of renewable
-
-```
-electricity-generation capacity in the scenarios ......................... 252
-```
+electricity-generation capacity in the scenarios......................... 252
 Table 8.33 OECD Europe: development of renewable heat
-
-```
 supply in the scenarios (excluding the direct
 use of electricity) ....................................................................... 256
-```
 Table 8.34 OECD Europe: installed capacities for renewable heat
+generation in the scenarios......................................................... 258
 
-```
-generation in the scenarios ......................................................... 258
-```
 List of Tables
-
 
 lvi
 
 Table 8.35 OECD Europe: projection of the transport energy
 
 ```
-demand by mode in the scenarios .............................................. 259
+demand by mode in the scenarios.............................................. 259
 ```
 Table 8.36 OECD Europe: average annual change in installed
 
-```
-power plant capacity .................................................................. 262
-```
-Table 8.37 OECD Europe: power system shares by technology group ....... 263
-
-Table 8.38 OECD Europe: capacity factors by generation type .................. 265
-
+power plant capacity.................................................................. 262
+Table 8.37 OECD Europe: power system shares by technology group....... 263
+Table 8.38 OECD Europe: capacity factors by generation type.................. 265
 Table 8.39 OECD Europe: load, generation, and residual
-
-```
-load development ....................................................................... 266
-```
-Table 8.40 OECD Europe: storage and dispatch service requirements ....... 267
-
+load development....................................................................... 266
+Table 8.40 OECD Europe: storage and dispatch service requirements....... 267
 Table 8.41 Africa: development of renewable electricity-generation
-
-```
-capacity in the scenarios ............................................................ 271
-```
+capacity in the scenarios............................................................ 271
 Table 8.42 Africa: development of renewable heat supply
-
-```
 in the scenarios (excluding the direct use of electricity) ........... 275
-```
 Table 8.43 Africa: installed capacities for renewable heat
-
-```
-generation in the scenarios ......................................................... 276
-```
+generation in the scenarios......................................................... 276
 Table 8.44 Africa: projection of transport energy demand
-
-```
-by mode in the scenarios ............................................................ 277
-```
+by mode in the scenarios............................................................ 277
 Table 8.45 Africa: average annual change in installed power
-
-```
-plant capacity ............................................................................. 281
-```
-Table 8.46 Africa: power system shares by technology group .................... 282
-
+plant capacity............................................................................. 281
+Table 8.46 Africa: power system shares by technology group.................... 282
 Table 8.47 Africa: capacity factors by generation type ............................... 283
-
-Table 8.48 Africa: load, generation, and residual load development ........... 284
-
-Table 8.49 Africa: storage and dispatch service requirements ..................... 285
-
+Table 8.48 Africa: load, generation, and residual load development........... 284
+Table 8.49 Africa: storage and dispatch service requirements..................... 285
 Table 8.50 Middle East: development of renewable
-
-```
-electricity-generation capacity in the scenarios ......................... 289
-```
+electricity-generation capacity in the scenarios......................... 289
 Table 8.51 Middle East: development of renewable heat supply
-
-```
 in the scenarios (excluding the direct use of electricity) ........... 293
-```
 Table 8.52 Middle East: installed capacities for renewable heat
-
-```
-generation in the scenarios ......................................................... 294
-```
+generation in the scenarios......................................................... 294
 Table 8.53 Middle East: projection of transport energy demand
-
-```
-by mode in the scenarios ............................................................ 295
-```
+by mode in the scenarios............................................................ 295
 Table 8.54 Middle East: average annual change in installed
-
-```
-power plant capacity .................................................................. 299
-```
-Table 8.55 Middle East: power system shares by technology group ........... 300
-
-Table 8.56 Middle East: capacity factors by generation type ...................... 302
-
+power plant capacity.................................................................. 299
+Table 8.55 Middle East: power system shares by technology group........... 300
+Table 8.56 Middle East: capacity factors by generation type...................... 302
 Table 8.57 Middle East: load, generation, and residual
-
-```
-load development ....................................................................... 303
-```
-Table 8.58 Middle East: storage and dispatch service requirements ........... 304
-
+load development....................................................................... 303
+Table 8.58 Middle East: storage and dispatch service requirements........... 304
 Table 8.59 Eastern Europe/Eurasia: development of renewable
-
-```
-electricity-generation capacity in the scenarios ......................... 308
-```
+electricity-generation capacity in the scenarios......................... 308
 Table 8.60 Eastern Europe/Eurasia: development of renewable
-
-```
 heat supply in the scenarios (excluding the direct
 use of electricity) ....................................................................... 312
-```
 Table 8.61 Eastern Europe/Eurasia: installed capacities for renewable
+heat generation in the scenarios................................................. 313
 
-```
-heat generation in the scenarios ................................................. 313
-```
 ```
 List of Tables
 ```
-
 ```
 lvii
 ```
 Table 8.62 Eastern Europe/Eurasia: projection of transport energy
 
 ```
-demand by mode in the scenarios .............................................. 315
+demand by mode in the scenarios.............................................. 315
 ```
 Table 8.63 Eurasia: average annual change in installed power
 
-```
-plant capacity ............................................................................. 318
-```
+plant capacity............................................................................. 318
 Table 8.64 Eurasia: power system shares by technology group................... 319
-
-Table 8.65 Eurasia: capacity factors by generation type .............................. 321
-
-Table 8.66 Eurasia: load, generation, and residual load development ......... 322
-
-Table 8.67 Eurasia: storage and dispatch service requirements ................... 323
-
+Table 8.65 Eurasia: capacity factors by generation type.............................. 321
+Table 8.66 Eurasia: load, generation, and residual load development......... 322
+Table 8.67 Eurasia: storage and dispatch service requirements................... 323
 Table 8.68 Non-OECD Asia: development of renewable
-
-```
-electricity-generation capacity in the scenarios ......................... 327
-```
+electricity-generation capacity in the scenarios......................... 327
 Table 8.69 Non-OECD Asia: development of renewable heat
-
-```
 supply in the scenarios (excluding the direct
 use of electricity) ....................................................................... 331
-```
 Table 8.70 Non-OECD Asia: installed capacities for renewable
-
-```
-heat generation in the scenarios ................................................. 332
-```
+heat generation in the scenarios................................................. 332
 Table 8.71 Non-OECD Asia: projection of transport energy demand
-
-```
-by mode in the scenarios ............................................................ 333
-```
+by mode in the scenarios............................................................ 333
 Table 8.72 Non-OECD Asia: average annual change in installed
-
-```
-power plant capacity .................................................................. 337
-```
+power plant capacity.................................................................. 337
 Table 8.73 Non-OECD Asia: power system shares
-
-```
-by technology group .................................................................. 338
-```
+by technology group.................................................................. 338
 Table 8.74 Non-OECD Asia: capacity factors
-
-```
-by generation type ...................................................................... 340
-```
+by generation type...................................................................... 340
 Table 8.75 Non-OECD Asia: load, generation, and residual
-
-```
-load development—2.0 °C Scenario .......................................... 341
-```
+load development—2.0 °C Scenario.......................................... 341
 Table 8.76 Non-OECD Asia: storage and dispatch
-
-```
-service requirements .................................................................. 343
-```
+service requirements.................................................................. 343
 Table 8.77 India: development of renewable electricity-generation
-
-```
-capacity in the scenarios ............................................................ 347
-```
+capacity in the scenarios............................................................ 347
 Table 8.78 India: development of renewable heat supply
-
-```
 in the scenarios (excluding the direct use of electricity) ........... 350
-```
 Table 8.79 India: installed capacities for renewable heat
-
-```
-generation in the scenarios ......................................................... 351
-```
+generation in the scenarios......................................................... 351
 Table 8.80 India: projection of transport energy demand
-
-```
-by mode in the scenarios ............................................................ 353
-```
+by mode in the scenarios............................................................ 353
 Table 8.81 India: average annual change in installed power
-
-```
-plant capacity ............................................................................. 356
-```
-Table 8.82 India: power system shares by technology group ...................... 358
-
+plant capacity............................................................................. 356
+Table 8.82 India: power system shares by technology group...................... 358
 Table 8.83 India: capacity factors by generation type ................................. 358
-
-Table 8.84 India: load, generation, and residual load development ............. 359
-
+Table 8.84 India: load, generation, and residual load development............. 359
 Table 8.85 India: storage and dispatch service requirements....................... 360
-
 Table 8.86 China: development of renewable electricity-generation
-
-```
-capacity in the scenarios ............................................................ 363
-```
+capacity in the scenarios............................................................ 363
 Table 8.87 China: development of renewable heat supply
-
-```
 in the scenarios (excluding the direct use of electricity) ........... 367
-```
-List of Tables
 
+List of Tables
 
 lviii
 
 Table 8.88 China: installed capacities for renewable heat
 
 ```
-generation in the scenarios ......................................................... 368
+generation in the scenarios......................................................... 368
 ```
 Table 8.89 China: projection of transport energy demand
 
-```
-by mode in the scenarios ............................................................ 370
-```
+by mode in the scenarios............................................................ 370
 Table 8.90 China: average annual change in installed power
-
-```
-plant capacity ............................................................................. 373
-```
-Table 8.91 China: power system shares by technology group ..................... 374
-
-Table 8.92 China: capacity factors by generation type ................................ 376
-
+plant capacity............................................................................. 373
+Table 8.91 China: power system shares by technology group..................... 374
+Table 8.92 China: capacity factors by generation type................................ 376
 Table 8.93 China: load, generation, and residual load development ........... 377
-
-Table 8.94 China: storage and dispatch service requirements ..................... 379
-
+Table 8.94 China: storage and dispatch service requirements..................... 379
 Table 8.95 OECD Pacific: development of renewable
-
-```
-electricity-generation capacity in the scenarios ......................... 383
-```
+electricity-generation capacity in the scenarios......................... 383
 Table 8.96 OECD Pacific: development of renewable heat
-
-```
 supply in the scenarios (excluding the direct use
-of electricity) .............................................................................. 387
-```
+of electricity).............................................................................. 387
 Table 8.97 OECD Pacific: installed capacities for renewable
-
-```
-heat generation in the scenarios ................................................. 387
-```
+heat generation in the scenarios................................................. 387
 Table 8.98 OECD Pacific: projection of transport energy demand
-
-```
-by mode in the scenarios ............................................................ 389
-```
+by mode in the scenarios............................................................ 389
 Table 8.99 OECD Pacific: average annual change in installed
-
-```
-power plant capacity .................................................................. 393
-```
-Table 8.100 OECD Pacific: power system shares by technology group ........ 394
-
-Table 8.101 OECD Pacific: capacity factors by generation type ................... 396
-
+power plant capacity.................................................................. 393
+Table 8.100 OECD Pacific: power system shares by technology group........ 394
+Table 8.101 OECD Pacific: capacity factors by generation type................... 396
 Table 8.102 OECD Pacific: load, generation, and residual load
+development............................................................................... 397
+Table 8.103 OECD Pacific: storage and dispatch service requirements........ 398
 
-```
-development ............................................................................... 397
-```
-Table 8.103 OECD Pacific: storage and dispatch service requirements ........ 398
-
-Table 9.1 Fossil reserves, resources, and additional occurrences .............. 404
-
+Table 9.1 Fossil reserves, resources, and additional occurrences.............. 404
 Table 9.2 Summary—coal, oil, and gas trajectories for a just
+transition under the 5.0 °C, 2.0 °C, and 1.5 °C Scenarios......... 410
 
-```
-transition under the 5.0 °C, 2.0 °C, and 1.5 °C Scenarios ......... 410
-```
 Table 10.1 Summary of employment factors used in a global
-
-```
-analysis in 2012 ......................................................................... 415
-```
+analysis in 2012......................................................................... 415
 Table 10.2 Employment factors used for coal fuel supply
-
-```
 (mining and associated jobs) ..................................................... 415
-```
 Table 10.3 Regional multipliers used for the quantitative calculation
-
-```
-of employment ........................................................................... 416
-```
-Table 10.4 Wind and solar PV manufacturing–study methodology ............ 421
-
-Table 10.5 Occupational hierarchy, solar PV construction .......................... 422
-
+of employment........................................................................... 416
+Table 10.4 Wind and solar PV manufacturing–study methodology............ 421
+Table 10.5 Occupational hierarchy, solar PV construction.......................... 422
 Table 10.6 Occupational compositions for renewable and fossil
-
-```
-fuel technologies ........................................................................ 425
-```
+fuel technologies........................................................................ 425
 Table 10.7 Jobs created and lost between 2015 and 2025 under
-
-```
-the 1.5 °C Scenario .................................................................... 429
-```
+the 1.5 °C Scenario.................................................................... 429
 Table 10.8 Jobs created or lost between 2015 and 2025 by region
+under the 1.5 °C Scenario.......................................................... 430
 
-```
-under the 1.5 °C Scenario .......................................................... 430
-```
 ```
 List of Tables
 ```
-
 ```
 lix
 ```
 Table 10.9 Jobs created and lost between 2015 and 2025 under
 
 ```
-the 2.0 °C Scenario .................................................................... 431
+the 2.0 °C Scenario.................................................................... 431
 ```
 Table 10.10 Jobs created or lost between 2015 and 2025 by region
 
 ```
-under the 2.0 °C Scenario .......................................................... 432
+under the 2.0 °C Scenario.......................................................... 432
 ```
-Table 11.1 Summary of metal scenarios ...................................................... 443
-
-Table 11.2 Material intensity and recycling rates ........................................ 444
-
-Table 11.3 Market share ............................................................................... 444
-
-Table 11.4 Metal assumptions ...................................................................... 445
-
-Table 11.5 Comparison of results with other studies ................................... 452
+Table 11.1 Summary of metal scenarios...................................................... 443
+Table 11.2 Material intensity and recycling rates........................................ 444
+Table 11.3 Market share............................................................................... 444
+Table 11.4 Metal assumptions...................................................................... 445
+Table 11.5 Comparison of results with other studies................................... 452
 
 List of Tables
 
-
 © The Author(s) 2019 1
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_1
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 1
+**Chapter 1**
 
 #### Introduction
 
@@ -4818,13 +3011,12 @@ preferences in future energy pathways. Discussion of the advantages and limitati
 
 of scenarios in the energy and climate debate.
 
-```
-UNFCCC Paris Agreement, Article 2:
-```
-1. _This Agreement, in enhancing the implementation of the Convention,_
-    _including its objective, aims to strengthen the global response to the threat_
-    _of climate change,in the context of sustainable development and efforts to_
-    _eradicate poverty, including by:_
+**UNFCCC Paris Agreement, Article 2:**
+
+1. This Agreement, in enhancing the implementation of the Convention,
+including its objective, aims to strengthen the global response to the threat
+of climate change,in the context of sustainable development and efforts to
+eradicate poverty, including by:
 
 ```
 (a) Holding the increase in the global average temperature to well below
@@ -4835,9 +3027,8 @@ this would significantly reduce the risks and impacts of climate change;
 change and foster climate resilience and low greenhouse gas emission
 development, in a manner that does not threaten food production; and
 ```
-```
 (continued)
-```
+
 S. Teske (*)
 Institute for Sustainable Futures, University of Technology Sydney, Sydney, NSW, Australia
 e-mail: sven.teske@uts.edu.au
@@ -4847,7 +3038,6 @@ Department of Energy Systems Analysis, German Aerospace Center (DLR), Institute 
 Engineering Thermodynamics (TT), Pfaffenwaldring, Germany
 e-mail: thomas.pregger@dlr.de
 
-
 2
 
 The Paris Climate Agreement aims to hold global warming to well below 2.0 °C and
@@ -4856,100 +3046,68 @@ to “pursue efforts” to limit it to 1.5 °C. To accomplish this, countries 
 
 Intended Nationally Determined Contributions (INDCs) outlining their post-2020
 
-climate actions (Rogelj et al. 2016 ). The aim of this research is to develop practical
+climate actions (Rogelj et al. [^2016]:). The aim of this research is to develop practical
 
 pathways to achieve the Paris climate goals in an economically feasible and sustain-
 
 able matter.
 
-```
 The study described in this book focuses on changing the ways in which humans
-```
-produce energy, because energy-related CO 2 emissions are the main driver of cli-
 
+produce energy, because energy-related CO[^2]: emissions are the main driver of cli-
 mate change. The analysis also considers the developmental pathways of non-
 
-energy- related emissions and mitigation measures because it is essential to address
-
+energy-related emissions and mitigation measures because it is essential to address
 their contributions if we are to achieve the Paris climate change targets. The analysis
-
 considers options or ‘scenarios’ for the transition to net zero emissions across all
-
 sectors that allow unnecessary techno-economic, societal, and environmental risks
-
 to be avoided.
-
-```
 Scenario studies are an important way of linking expected or assumed anthropo-
-```
 genic activities and their resulting emissions with environmental effects, such as
-
 global warming. They also provide important insights into these techno-economic,
-
 societal, and political options and their various effects. Therefore, they are widely
-
 used to analyse possible carbon emission pathways, to guide decision-makers, and
-
 to motivate or justify interventions and developments. However, comprehensive,
-
 transparent, and robust results and conclusions are required as the bases for such
-
 decision-making. Ideally, this information will come from scenario studies that
-
 investigate a broad range of possible conditions and available options. Such studies
-
 must adopt a holistic approach and integrate comprehensive state-of-the-art back-
-
 ground knowledge, including about the impacts of sectoral and technological
-
 changes, the influence of market developments, and the effects of certain pathways.
-
-```
 Existing global scenario studies do not provide a comprehensive view of the pos-
-```
 sible development pathways and technological options required to achieve these
-
 ambitious climate targets. Each study usually provides a few selected pathways,
-
 representing a narrow range of possible energy futures. One reason for this is that
-
 most scenario models are based on objective cost-optimizing functions, which over-
-
 emphasize the cost efficiency based on uncertain cost assumptions. Another reason
-
 is that disruptive developments are not usually considered in scenario narratives.
-
 The history of scenario-based systems analysis is littered with many examples of
-
 misleading and fallacious ‘optimized’ scenario pathways and derived policy recom-
-
-mendations (see e.g., Mai et al. 2013 ; Mohn 2016 ).
+mendations (see e.g., Mai et al. [^2013]:; Mohn [^2016]:).
 
 ```
 (c) Making finance flows consistent with a pathway towards low green-
 house gas emissions and climate-resilient development.
 ```
-2. _This Agreement will be implemented to reflect equity and the principle of_
-    _common but differentiated responsibilities and respective capabilities, in_
-    _the light of different national circumstances._
+2. This Agreement will be implemented to reflect equity and the principle of
+common but differentiated responsibilities and respective capabilities, in
+the light of different national circumstances.
 
 ```
 S. Teske and T. Pregger
 ```
-
 ```
 3
 ```
-```
 Furthermore, in most existing 2.0  °C and 1.5  °C scenarios, achievement of the
-```
+
 climate targets is based on technologies that have significant, and to some extent
 
 unknown, disadvantages. These technologies include nuclear power generation, car-
 
-bon capture and sequestration, and geoengineering (see e.g., Rogelj et  al. 2018 ;
+bon capture and sequestration, and geoengineering (see e.g., Rogelj et  al. [^2018]:;
 
-Kriegler et al. 2015 ). Such scenarios involve considerable risk. Moreover, the reader
+Kriegler et al. [^2015]:). Such scenarios involve considerable risk. Moreover, the reader
 
 is usually given only limited access to the model assumptions and results, and
 
@@ -4957,9 +3115,8 @@ therefore has limited information about the transparency and traceability of the
 
 tors that influence these model-based analyses and the conclusions drawn from them.
 
-```
 The primary objective of this report is to provide a holistic picture of what will
-```
+
 be involved in the transition to 100% renewable energy. This report examines power,
 
 heat, and fuel supplies on a global scale. Its main focus is on the role of efficiency
@@ -4981,7 +3138,7 @@ tural implications of the two pathways in comparison with a 5.0 °C ‘referenc
 
 nario based on the International Energy Agency (IEA)‘s Current Policies scenario
 
-published in the _Word Energy Outlook 2017_ (IEA-WEO 2017 ). We do not claim that
+published in the _Word Energy Outlook 2017_ (IEA-WEO [^2017]:). We do not claim that
 
 our scenarios are optimal with regard to the economy or society. We want to provide
 
@@ -4997,9 +3154,8 @@ technologies such as nuclear power, unsustainable biomass use, CCS, and
 
 geoengineering.
 
-```
 Another important objective is to combine bottom-up energy scenarios with non-
-```
+
 energy greenhouse gas (GHG)-mitigation scenarios to construct a complete picture
 
 of possible climate mitigation pathways and the contributions of the illustrated strat-
@@ -5027,23 +3183,20 @@ governance will also be required for the fast and deep decarbonisation of the wo
 
 energy systems, especially in relation to carbon pricing and efficiency standards.
 
-```
 However, all perspectives need a common understanding of what is required to
-```
+
 meet the ambitious Paris climate targets. We believe that the results of this study
 
 will contribute to such a common understanding and will demonstrate how urgent is
 
 the need to act.
 
-1 Introduction
-
+[^1]: Introduction
 
 4
 
-```
 The 2.0  °C Scenario represents a far more likely pathway than the 1.5  °C
-```
+
 Scenario. Whereas the 2.0 °C Scenario takes into account unavoidable delays due to
 
 political, economic, and societal processes and stakeholders, the 1.5  °C Scenario
@@ -5082,7 +3235,7 @@ breaking climate targets: The AMPERE study on staged accession scenarios for cli
 Technological Forecasting & Social Change 90 (2015) 24–44
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -5095,12 +3248,10 @@ the copyright holder.
 ```
 S. Teske and T. Pregger
 ```
-
 © The Author(s) 2019 5
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_2
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 2
+**Chapter 2**
 
 #### State of Research
 
@@ -5116,9 +3267,8 @@ outcomes if we continue with business as usual and fail to drastically reduce GH
 
 emissions.
 
-```
 The second part reviews the development of the global energy markets during the
-```
+
 past decade. Trends in the power-, transport- and heating sector in regard to technolo-
 
 gies and investments are provided for the year of writing (2018). The developments
@@ -5133,13 +3283,13 @@ changed in recent decades and the likely outcomes if we continue with ‘busines
 
 usual’ and fail to drastically reduce greenhouse gas emissions.
 
-**_2.1.1 Basics of Climate Change and Radiative Forcing_**
+**2.1.1 Basics of Climate Change and Radiative Forcing**
 
 The Earth’s current climate is the result of a delicate balance between incoming short-
 
 wave solar radiation and outgoing long-wave radiation that moves back to space.
 
-Roughly half (165 W/m^2 ) the incoming short-wave radiation (340 W/m^2 ) reaches the
+Roughly half (165 W/m[^2]) the incoming short-wave radiation (340 W/m[^2]) reaches the
 
 S. Teske (*)
 Institute for Sustainable Futures, University of Technology Sydney, Sydney, NSW, Australia
@@ -5150,244 +3300,141 @@ Australian-German Climate and Energy College, University of Melbourne,
 Parkville, Victoria, Australia
 e-mail: malte.meinshausen@unimelb.edu.au; kate.dooley@unimelb.edu.au
 
-
 6
 
 surface of the Earth. The rest is reflected back to space by clouds, aerosol particles, or
-
-scattering gases, such as N 2 and O 2 (100  W/m^2 ) or is absorbed by the troposphere
-
-(75 W/m^2 ) (Stephens et al. 2012 ). With the exception of clouds and aerosols, this win-
-
+scattering gases, such as N[^2]: and O[^2]: (100  W/m[^2]) or is absorbed by the troposphere
+(75 W/m[^2]) (Stephens et al. [^2012]:). With the exception of clouds and aerosols, this win-
 dow to incoming solar radiation onto Earth’s surface is relatively transparent, so that
-
 most of the Sun’s energy that comes towards Earth is absorbed either in the atmosphere
-
 or on the Earth’s surface. This window is our basic heating engine, and the incoming
-
 radiation that is our energy source is somewhat dimmed by aerosol emissions and by
-
 changes in the amount of sunlight reflected back to space by changes in land use.
-
 However, these are not humanity’s greatest influences on the Earth’s climate.
-
-```
 There is a second window for radiation, through which outgoing long-wave radi-
-```
 ation passes, and we are much more effectively closing this window than the one for
-
 incoming solar radiation. We can imagine that this second atmospheric window
-
 already has a thick curtain across it, largely formed by water vapour. That curtain
-
 prevents surface long-wave radiation from going directly to space. In other words,
-
 that curtain acts like a thick blanket. The long-wave radiation that the Earth loses
-
 back into space originates not from its surface but from much higher atmospheric
-
 layers, which tend to be colder. Without absorbers of long-wave radiation in the
-
 atmosphere, the Earth’s surface would be much colder and inhospitable to humans.
-
-```
 To the parts of the outgoing radiation window that are not yet covered by water
-```
 vapour, humanity is now adding more layers of absorbers of other long-wave radia-
-
 tion in the form of GHGs. By adding an assortment of GHGs, we are thickening the
-
 existing curtain and closing the curtain further across the long-wave radiation win-
-
-dow. Compared with the overall incoming solar radiation at 340 W/m^2 , the ‘curtain’
+dow. Compared with the overall incoming solar radiation at 340 W/m[^2], the ‘curtain’
 
 generated by human-induced increases in the concentrations of long-lived green-
 
-house gases (CO 2 , CH 4 , halocarbons, N 2 O and fluorinated gases) appears to be of
-
-little importance, as it “only” amounts to 2.83 W/m^2. The addition and subtraction
+house gases (CO[^2]:, CH[^4]:, halocarbons, N[^2]:O and fluorinated gases) appears to be of
+little importance, as it “only” amounts to 2.83 W/m[^2]. The addition and subtraction
 
 of many other smaller human influences results in a slightly reduced net current
-
-(year 2011) forcing of 2.29 W/m^2.
+(year 2011) forcing of 2.29 W/m[^2].
 
 **2.1.1.1 Anthropogenic Contribution**
 
 Beyond reasonable doubt, climate change over the last 250 years has been driven by
-
 anthropogenic activities. In fact, the human-induced release of GHGs into the atmo-
-
 sphere has the potential to cause more than 100% of the currently observed climate
-
 change. The reason that climate change is not even greater than it is that some
-
 human-induced changes mask some of the warming attributable to elevated GHG
-
 concentrations. This masking effect arises from the emission of cooling aerosols
-
 and changes in land use that increase the reflectivity of the Earth’s surface.
 
 **2.1.1.2 Carbon Budget and Future Warming**
 
 Although the anthropogenic contribution to climate change occurs via a large set of
-
 GHG emissions (the current emission scenarios that feed into CMIP6 include 43
-
 GHG emission species), and multiple aerosols and land-use changes, there is one
-
-dominant influence: carbon dioxide (CO 2 ) emissions.
+dominant influence: carbon dioxide (CO[^2]:) emissions.
 
 ```
 S. Teske et al.
 ```
-
 ```
 7
 ```
-```
-It is not only the magnitude of the anthropogenic emissions of CO 2 that makes it
-```
+It is not only the magnitude of the anthropogenic emissions of CO[^2]: that makes it
 such a significant driver of human-induced climate change. There is also an inherent
-
-difference between CO 2 and almost all other GHGs and aerosols. Over the time
-
-scales of interest here, CO 2 does not have a finite lifetime in the atmosphere. All
-
+difference between CO[^2]: and almost all other GHGs and aerosols. Over the time
+scales of interest here, CO[^2]: does not have a finite lifetime in the atmosphere. All
 other gases react chemically, become photo-dissociated in the stratosphere, or are,
-
-for example, consumed by the bacteria in soils. However, once CO 2 is released from
-
+for example, consumed by the bacteria in soils. However, once CO[^2]: is released from
 the near-permanent carbon pools of fossil fuel reservoirs, it only travels between a
 
 set of ‘active’ carbon pools. These active pools are the land biosphere, the ocean,
 
-and the atmosphere. Therefore, if CO 2 is added to one, the level in all three pools
-
+and the atmosphere. Therefore, if CO[^2]: is added to one, the level in all three pools
 will rise and over time, a new, higher equilibrium concentration is reached. For
 
-example, whereas CO 2 is consumed by plants during the photosynthesis process and
-
-then built into plant tissue as carbon, this same carbon is released again as CO 2
-
+example, whereas CO[^2]: is consumed by plants during the photosynthesis process and
+then built into plant tissue as carbon, this same carbon is released again as CO2
 when forests burn, when organic matter in the soil decomposes, and when humans
-
-and other animals oxidize the food they eat. Therefore, a kilogram of CO 2 emissions
-
-will increase the atmospheric CO 2 concentration for hundreds or even thousands of
-
-years. Initially, the average CO 2 concentration will shoot up by that kilogram, and
-
+and other animals oxidize the food they eat. Therefore, a kilogram of CO[^2]: emissions
+will increase the atmospheric CO[^2]: concentration for hundreds or even thousands of
+years. Initially, the average CO[^2]: concentration will shoot up by that kilogram, and
 then drop relatively quickly again before a new equilibrium is slowly re-established
-
 by the redistribution of carbon into the land biosphere and the ocean.
-
-```
-The IPCC Fifth Assessment Report highlighted this key difference between CO 2
-```
-and other GHGs. The airborne fraction of CO 2 emissions diminishes over time, as
-
-for other GHGs. However, the airborne CO 2 fraction does not decline to zero over
-
+The IPCC Fifth Assessment Report highlighted this key difference between CO2
+and other GHGs. The airborne fraction of CO[^2]: emissions diminishes over time, as
+for other GHGs. However, the airborne CO[^2]: fraction does not decline to zero over
 100 years, 1000 years, or even longer periods. Furthermore, carbon-cycle feedback
-
-mechanisms mean that higher CO 2 concentrations cause more carbon to remain in
-
-the atmosphere. Acting in the other direction, any extra amount of CO 2 in the atmo-
-
-sphere will have less and less effect on radiative forcing, i.e., how much each CO 2
-
+mechanisms mean that higher CO[^2]: concentrations cause more carbon to remain in
+the atmosphere. Acting in the other direction, any extra amount of CO[^2]: in the atmo-
+sphere will have less and less effect on radiative forcing, i.e., how much each CO2
 molecule contributes to the warming of the planet. These factors act in concert with
-
 another feature of the climate system: the Earth’s inertia to warming. When the
-
 thermostat of your kitchen oven is set to 220 °C, the oven will take a while to heat
-
 to that level. The situation is much the same with the Earth’s climate. The IPCC
-
 Fifth Assessment Report notes that three effects (the carbon cycle and its feedbacks,
-
 the saturation effect of forcing, and the delayed response of the atmosphere to
-
 warming) combine to create what is almost a stepwise function in the warming
-
-caused by CO 2 emissions. In other words, every extra kilogram of CO 2 produces a
-
+caused by CO[^2]: emissions. In other words, every extra kilogram of CO[^2]: produces a
 slightly greater increase in temperature than the preceding kilogram, and the warm-
-
 ing effect is much the same 10 years after the emission of that kilogram as it is after
-
-100 or 500 years. Over time, less of the CO 2 will remain in the atmosphere, but the
-
+100 or 500 years. Over time, less of the CO[^2]: will remain in the atmosphere, but the
 Earth’s inertia will still cause the temperature to reflect the extra warmth arising
-
 from the initial emission.
-
-```
 This feature of the Earth’s warming and the carbon cycle can be exploited to
-```
 derive a very simple linear relationship between cumulative carbon emissions and
-
 warming. In fact, the resultant warming is a simple function of the sum of all the
-
-CO 2 that has ever been emitted, largely independent of when a certain amount of
-
-CO 2 was emitted in the past. Based on this understanding, we can compute the car-
-
+CO[^2]: that has ever been emitted, largely independent of when a certain amount of
+CO[^2]: was emitted in the past. Based on this understanding, we can compute the car-
 bon budgets for specific levels of warming. As a complication, of course, an
-
 unknown amount of warming arises in response to other GHG emissions and aero-
 
-2 State of Research
-
+[^2]: State of Research
 
 8
 
 sols. When deriving carbon budgets, this extra level of warming is normally derived
-
 from a range of future emission scenarios. Therefore, the ultimate level of warming
-
-is the sum of the linear CO 2 -induced warming level (often described as the ‘tran-
-
+is the sum of the linear CO[^2]:-induced warming level (often described as the ‘tran-
 sient climate response to cumulative emissions of carbon’) and a smaller and some-
-
 what uncertain contribution that depends on the other GHGs and aerosols.
 
-**_2.1.2 Carbon Budgets for 1.5 °C and 2.0 °C Warming_**
+**2.1.2 Carbon Budgets for 1.5 °C and 2.0 °C Warming**
 
 The IPCC Fifth Assessment Report used the results of earth system models to derive
-
 its carbon budgets. Earth system models are the most complex computer models we
-
 have of how the Earth, its atmosphere, oceans, and vegetation are interacting with
-
 each other. The IPCC investigated the amounts of cumulative carbon emissions (in
-
 a multi-gas world) that would be consistent with, for example, temperatures main-
-
 tained below either 1.5 °C or 2.0 °C higher than to pre-industrial levels. The recently
-
 published IPCC Special Report on the 1.5  °C degree target cites different carbon
-
 budget numbers, depending on whether a low estimate of historical temperatures is
-
 assumed or surface air temperatures are consistently applied. Therefore, there is
-
 some complexity and uncertainty around the carbon budget, which is related to the
-
 fact that different interpretations can be made about how far we are still away from
-
 the 1.5 °C target (for example). If we assume that we are still 0.63 °C away from
-
 1.5 °C warming (a very optimistic estimate, which is unfortunately based on a too
-
 optimistic account of historical emissions), from January 2018 onwards, we can still
-
-emit 1320 GtCO 2 before reaching 2.0  °C warming (66% chance) and 770 GtCO 2
-
+emit 1320 GtCO[^2]: before reaching 2.0  °C warming (66% chance) and 770 GtCO2
 before reaching 1.5 °C warming (50% chance). These figures must be reduced by a
-
-further 100 GtCO 2 to account for the additional Earth system feedback that has
-
+further 100 GtCO[^2]: to account for the additional Earth system feedback that has
 occurred over the twenty-first century. However, when a more realistic measure of
 
 historical temperature evolution is used (i.e., calculated by consistently using prox-
@@ -5415,7 +3462,7 @@ ferences from earlier IPCC estimates of the carbon budget) is the focus of a cur
 
 intense scientific debate, which is unlikely to be settled in the next few months (see
 
-e.g., Schurer et al. 2017 , 2018; Hawkins et al. 2017 ). As already mentioned, one of
+e.g., Schurer et al. [^2017]:, [^2018]:; Hawkins et al. [^2017]:). As already mentioned, one of
 
 the key factors in deriving a carbon budget is the estimated current level of warm-
 
@@ -5428,7 +3475,6 @@ why the recently derived carbon budgets are more relaxed than expected. When the
 ```
 S. Teske et al.
 ```
-
 ```
 9
 ```
@@ -5440,36 +3486,21 @@ ral variability is superimposed on the long-term warming trend. Other points for
 
 discussion in the determination of carbon budgets include the pre-industrial warm-
 
-ing level and the already-mentioned amount of warming induced by non-CO 2 gases.
-
-```
+ing level and the already-mentioned amount of warming induced by non-CO[^2]: gases.
 This study does not aim to resolve the differences in opinions about carbon bud-
-```
+
 gets, but it does provide emissions pathways that can be considered to be consistent
-
 with both a target level of 1.5 °C warming in the case of the 1.5 °C scenario, and
-
 with a “well-below 2.0 °C” target level in the case of the 2.0 °C scenario.
-
-```
 Whatever the precise carbon budget, recent effects of climate change provide
-```
 another set of stark reminders that it is more urgent than ever to replace fossil fuels.
-
 If we wait for the wild-fire seasons that will occur at global warming levels of
-
 1.5 °C or 2.0 °C, with intensified droughts or ever-more intense hurricane, it might
-
 be much too late to avoid their widespread catastrophic impacts. Even at 1.5  °C
-
 warming, there is a risk that the continuous melting of the Greenland ice sheet will
-
 cause sea levels to rise by meters over the coming centuries. Fossil fuels have
-
 undoubtedly allowed great growth in prosperity across the globe, but their replace-
-
 ment with the cleaner, cheaper and emission-free technologies that are available
-
 today is overdue.
 
 **2.2 Development of Energy Markets—Past and Present**
@@ -5488,7 +3519,7 @@ global context. The research and data in Sect. 2.2.1 are based on the REN21
 
 Renewables 2018—Global Status Report Renewables.
 
-**_2.2.1 Global Trends in Renewable Energy in 2018_**
+**2.2.1 Global Trends in Renewable Energy in 2018**
 
 In 2017, ongoing trends continued: solar photovoltaics (PV) and wind power domi-
 
@@ -5498,7 +3529,7 @@ nologies continued to decline, and fossil fuel prices remained low. A new benchm
 
 was reached, in that the new renewable capacity began to compete favourably with
 
-existing fossil fuel power plants in some markets (Malik 2017 ). Electrification of
+existing fossil fuel power plants in some markets (Malik [^2017]:). Electrification of
 
 the transport and heating sectors is gaining attention, and although the amount of
 
@@ -5506,31 +3537,28 @@ electrification is currently small, the use of renewable technologies is expecte
 
 increase significantly.
 
-2 State of Research
-
+[^2]: State of Research
 
 10
 
-```
 The growth in solar PV has been remarkable, nearly double that of second-
-```
+
 ranking wind power, and the capacity of new solar PV is greater than the combined
 
-increases in the coal, gas, and nuclear capacities (FS-UNEP 2018 ). Storage is
+increases in the coal, gas, and nuclear capacities (FS-UNEP [^2018]:). Storage is
 
 increasingly used in combination with variable renewables as battery costs decline,
 
 and solar PV plus storage has started to compete with gas peaking plants (Carroll
 
-2018 ). However, bioenergy (including traditional biomass) remains the leading
+[^2018]:). However, bioenergy (including traditional biomass) remains the leading
 
 renewable energy source in the heating (buildings and industry) and transport
 
 sectors.
 
-```
 Renewable energy’s share of the total final energy consumption has increased
-```
+
 only modestly in recent years, despite tremendous growth in the modern renewable
 
 energy sector. There are two main reasons for this. One is that the growth in the
@@ -5547,171 +3575,93 @@ renewable energy used, and its use has increased at a rate lower than the growth
 
 total energy consumption.
 
-```
-Since 2013, the global energy-related CO 2 emissions from fossil fuels have
-```
+Since 2013, the global energy-related CO[^2]: emissions from fossil fuels have
 remained relatively flat. Early estimates based on preliminary data suggest that this
-
-changed in 2017, with global CO 2 emissions growing by around 1.4% (REN21-
-
-GSR 2018 ). These increased emissions were primarily due to increased coal con-
-
+changed in 2017, with global CO[^2]: emissions growing by around 1.4% (REN21-
+GSR [^2018]:). These increased emissions were primarily due to increased coal con-
 sumption in China, which grew by 3.7% in 2017 after a 3-year decline (ENERDATA
-
-2018 ). This increased Chinese consumption, as well as steady growth of around 4%
-
+[^2018]:). This increased Chinese consumption, as well as steady growth of around 4%
 in India, is expected to lead to an upturn in global coal use, reversing the annual
-
-global decline observed from 2013 to 2016 (ENERDATA 2018 ).
-
-```
+global decline observed from 2013 to 2016 (ENERDATA [^2018]:).
 In contrast to the upturn in global coal use, in 2017, 26 countries joined the
-```
 Powering Past Coal Alliance, which is committed to phasing-out coal power by
-
 2030, with new pledges from Angola, Denmark, Italy, Mexico, New Zealand, and
-
-the United Kingdom (Carrington 2017 ). An increasing number of companies who
-
+the United Kingdom (Carrington [^2017]:). An increasing number of companies who
 owned, developed or operated coal power plants have moved away from the coal
-
-business (Shearer 2017 ). Also in 2017, 26 of 28 European Union member states
-
+business (Shearer [^2017]:). Also in 2017, 26 of 28 European Union member states
 signed an agreement to build no more coal-fired power plants from 2020 onwards,
-
 and the Port of Amsterdam, which currently handles 16 million tonnes of coal per
-
-year, announced plans to become coal-free by 2030 (Campbell 2017 ).
-
-```
+year, announced plans to become coal-free by 2030 (Campbell [^2017]:).
 The global oil price averaged USD 52.5 per barrel in 2017, equivalent to about
-```
 half the record high prices that occurred between 2011 and 2014, although it was
-
-still almost double the prices from 1996 to 2005 (Statista 2018 ). Natural gas prices
-
+still almost double the prices from 1996 to 2005 (Statista [^2018]:). Natural gas prices
 fell from 2013 to 2016, and early indicators suggest that prices remained low or
-
-decreased further in 2017 (BP 2017 ). Low fossil fuel prices have challenged renew-
-
-able energy markets, especially in the heating and transport sectors (IEA-RE 2016 ).
-
-```
+decreased further in 2017 (BP [^2017]:). Low fossil fuel prices have challenged renew-
+able energy markets, especially in the heating and transport sectors (IEA-RE [^2016]:).
 The value of direct global fossil fuel consumption subsidies in 2016 was esti-
-```
 mated to be about USD 360 billion, a 15% reduction since 2015—but still more
-
 than 20% higher than the total renewable industry turnover in 2017 (IEA-WEB
 
 ```
 S. Teske et al.
 ```
-
 ```
 11
 ```
-2018 ). The value of fossil fuel subsidies also increases by an order of magnitude if
-
-externalities are considered (IMF 2015 ). Although the Group of Twenty (G20) reaf-
-
+[^2018]:). The value of fossil fuel subsidies also increases by an order of magnitude if
+externalities are considered (IMF [^2015]:). Although the Group of Twenty (G20) reaf-
 firmed their 2009 commitment to phasing-out inefficient fossil fuel subsidies in
-
 2017, progress has been slow and there are calls from large investors, insurers, and
-
-civil society to both increase transparency and accelerate the process (G20- 2017 ).
-
+civil society to both increase transparency and accelerate the process (G20-[^2017]:).
 The main problems identified include that the G20 has not defined ‘inefficient sub-
-
 sidies’; there is no mandatory reporting; and there are no timelines for phase-out
-
-commitments (Asmelash 2017 ).
-
-```
+commitments (Asmelash [^2017]:).
 At the global policy level, international climate negotiations have continued to
-```
 influence energy markets. Following the 2015 Paris Agreement of the United
-
 Nations Framework Convention on Climate Change (UNFCCC), a technical meet-
-
 ing on its implementation took place in Bonn, Germany, in November 2017 at the
-
-23rd Conference of the Parties (COP23) (UNFCCC 2017 ). Although renewable
-
+23rd Conference of the Parties (COP23) (UNFCCC [^2017]:). Although renewable
 energy figured prominently in a large proportion of the Nationally Determined
-
 Contributions (NDCs) that countries submitted in the lead-up to COP22 in 2016, the
-
 climate negotiations in 2017 were unable to resolve the question of how NDCs
-
 should be organized, delivered, and updated, leaving uncertainty about how national
-
-renewable energy commitments could be ramped up (Timberley 2017 ).
-
-```
+renewable energy commitments could be ramped up (Timberley [^2017]:).
 Despite these uncertainties, an increasing number of communities, cities, and
-```
 regions have introduced 100% renewable energy targets. The number of cities pow-
-
 ered by at least 70% renewable electricity has more than doubled in 2 years, from
-
 42 in 2015 to 101 in 2017. These cities now include Auckland, Brasilia, Nairobi,
-
-and Oslo (CDP-WEB 2018 ).
-
-```
+and Oslo (CDP-WEB [^2018]:).
 Carbon pricing policies, which include carbon taxes and emission trading
-```
 schemes, were in place in 64 jurisdictions around the world in 2017, up from 61 in
-
-2016_._ In December 2017 (REN21-GSR 2018 ), China launched the first phase of its
-
+[^2016]:_._ In December 2017 (REN21-GSR [^2018]:), China launched the first phase of its
 long-awaited nationwide carbon emissions trading scheme, which will focus on the
-
 power sector. Carbon trading will be based in Shanghai and will include about 1700
+power companies emitting more than 3 billion tonnes of CO[^2]: annually (Xu and
+Mason [^2017]:). For comparison, the emissions trading scheme of the European Union
 
-power companies emitting more than 3 billion tonnes of CO 2 annually (Xu and
-
-Mason 2017 ). For comparison, the emissions trading scheme of the European Union
-
-included around 1.7 billion tonnes of CO 2 in 2016 (EC 2017 ). Reforms to the
-
+included around 1.7 billion tonnes of CO[^2]: in 2016 (EC[^2017]). Reforms to the
 European Union scheme were agreed upon at the end of 2017, which will reduce the
 
 number of emission certificates issued and accelerate the cancellation of surplus
-
-certificates (Agora 2018 ).
-
-```
+certificates (Agora [^2018]:).
 The global investment in renewable energy in 2017 (excluding hydropower
-```
-plants larger than 50 megawatts [MW]) was USD 280 billion (REN21-GSR 2018 ),
-
+plants larger than 50 megawatts [MW]) was USD 280 billion (REN21-GSR [^2018]:),
 up by 2% from 2016, but 13% below the all-time high, which occurred in 2015. It
-
 is noteworthy that each dollar represents more capacity on the ground as prices per
-
 GW decrease. Nearly all the investment was in either solar PV (58%) or wind power
-
 (38%). Developing countries accounted for the largest share of investment for the
-
 third consecutive year, at 63% of the total investment. China alone accounted for
-
 45% of global investment, with a 30% increase since 2016. The United States was
-
 next, with 14%, followed by Japan (5%) and India (4%). Investment remained
-
 steady or trended upwards in Latin America and the USA, but has been falling in
+Europe since about 2010, with a drop of 30% from 2016 to 2017 (UNEP-FS [^2018]:).
 
-Europe since about 2010, with a drop of 30% from 2016 to 2017 (UNEP-FS 2018 ).
-
-2 State of Research
-
+[^2]: State of Research
 
 12
 
-```
 Pressure to diversify and stable growth in the renewables sector over the past
-```
+
 decade has increased the interest of the fossil fuel industry in renewables. Large oil
 
 corporations more than doubled their acquisitions, project investments, and venture
@@ -5722,19 +3672,18 @@ the investment in clean energy companies to USD 6.2 billion over the past 15 ye
 
 with more than 70% of deals involving solar PV or wind, and 16% involving biofu-
 
-els (Bloomberg 2017 ). However, this is dwarfed by the spending of these companies
+els (Bloomberg [^2017]:). However, this is dwarfed by the spending of these companies
 
 on fossil fuels. One estimate is that renewables account for about 3% of the total
 
 annual spending (around USD 100 billion) by the world’s five biggest oil companies
 
-(Schneyer and Bousso 2018 ). Bank finance for fossil fuels increased in 2017 by
+(Schneyer and Bousso [^2018]:). Bank finance for fossil fuels increased in 2017 by
 
-11% relative to that in 2016, after a significant decline in 2016 (RAN 2018 ).
+11% relative to that in 2016, after a significant decline in 2016 (RAN [^2018]:).
 
-```
 In 2017, as in previous years, renewables saw the greatest increases in capacity
-```
+
 in the power sector, whereas the growth of renewables in the heating, cooling, and
 
 transport sectors was comparatively slow. Sector coupling—the interconnection of
@@ -5755,7 +3704,7 @@ of renewable electricity for heating to reduce the curtailment of wind, solar PV
 
 hydropower. Several USA states are examining options for electrification, specifi-
 
-cally to increase the overall renewable energy share (NEEP 2017 ).
+cally to increase the overall renewable energy share (NEEP [^2017]:).
 
 **2.2.1.1 Trends in the Renewable Power Sector**
 
@@ -5777,12 +3726,11 @@ power. Wind and hydropower installations were in second and third positions, con
 
 tributing about 29% and 11% of the increase in renewable generation capacity,
 
-respectively (REN21-GSR 2018 ).
+respectively (REN21-GSR [^2018]:).
 
-```
 In 2017, renewables accounted for an estimated 70% of net additions to the
-```
-global power-generating capacity, up from 63% in 2016 (REN21-GSR 2018 ). The
+
+global power-generating capacity, up from 63% in 2016 (REN21-GSR [^2018]:). The
 
 cost-competitiveness of renewable power generation continued to improve. Wind
 
@@ -5799,85 +3747,45 @@ electricity generation. Offshore wind prices also fell significantly in 2017, as
 ```
 S. Teske et al.
 ```
-
 ```
 13
 ```
 petitive tenders in Germany, the UK, and the Netherlands resulted in bids that were
-
 competitive with new conventional power generation.
-
-```
 By the end of 2017, the countries with the greatest total installed renewable elec-
-```
 tric capacities were China, the USA, Brazil, Germany, and Canada. When only solar
-
 and wind capacities are considered, the top countries were China, the USA, and
-
 Germany, followed by Japan, India, and Italy, and then by Spain and the UK, which
-
 had about equal amounts of capacity by the year’s end.
-
-```
 Seventeen countries have more than 90% renewable electricity, with the majority
-```
 supplied almost completely by hydropower. However, three of these, Uruguay,
-
 Costa Rica, and Ethiopia, also have significant contributions from wind power
-
-(32%, 10%, and 7%, respectively) (REN21-GSR 2018 ). Increasing proportions of
-
+(32%, 10%, and 7%, respectively) (REN21-GSR [^2018]:). Increasing proportions of
 variable renewable electricity (VRE) must be integrated into electricity systems,
-
 and VRE penetration reached locally significant levels in 2017. The countries lead-
-
 ing the way with wind and solar penetration are Denmark (52%), Uruguay (32%),
-
 and Cape Verde (31%), with another three countries at or above the 25% VRE pen-
-
 etration mark. Several countries and regions integrated much higher shares of VRE
-
 into their energy systems as instantaneous shares of the total demand for short peri-
-
 ods during 2017, e.g., South Australia (more than 100% of load from wind power
-
 alone, and 44% of load from solar PV alone on another occasion), Germany (66%
-
 of load from wind and solar combined), Texas (54% of load from wind alone), and
-
-Ireland (60% of load from wind alone) (Parkinson 2017 ).
-
-```
+Ireland (60% of load from wind alone) (Parkinson [^2017]:).
 Curtailment—the forced reduction of wind and solar generation—is an indicator
-```
 of grid integration challenges. In six of the jurisdictions with the highest VRE pen-
-
-etration, the curtailment rates were low (0–6%) in 2016 (Wynn 2018 ). Although
-
+etration, the curtailment rates were low (0–6%) in 2016 (Wynn [^2018]:). Although
 curtailment initially tends to increase as the VRE share increases, some jurisdictions
-
 have successfully introduced measures, such as transmission upgrades, that have
-
-significantly reduced curtailment (Wynn 2018 ). Integration challenges have led to
-
+significantly reduced curtailment (Wynn [^2018]:). Integration challenges have led to
 high curtailment rates in China, the world’s largest wind and solar PV market (ECNS.
-
-CN 2018 ). These were reduced in 2017, with the average curtailment of wind power
-
+CN [^2018]:). These were reduced in 2017, with the average curtailment of wind power
 for the year at around 12%, down from 17% in 2016, and the average curtailment of
-
-solar PV was 6–7%, down 4.3% relative to that in 2016 (Haugwitz 2018 ).
-
-```
+solar PV was 6–7%, down 4.3% relative to that in 2016 (Haugwitz [^2018]:).
 The ongoing increase in the growth and geographic expansion of renewable
-```
 energy was driven by the continued decline in the prices for renewable energy
-
 technologies (in particular, for solar PV and wind power), caused by the increasing
-
 power demand in some countries and by targeted renewable energy support mecha-
-
-nisms.^44 Solar PV and onshore wind power are now competitive with new fossil fuel
+nisms.[^44] Solar PV and onshore wind power are now competitive with new fossil fuel
 
 generation in an increasing number of locations, due in part to declines in system
 
@@ -5885,11 +3793,10 @@ component prices and to improvements in generation efficiency. The bid prices fo
 
 offshore wind power also dropped significantly in Europe during 2016 (FT
 
-12.9. 2017 ).
+12.9.[^2017]:).
 
-```
 Such declines in cost are particularly important in developing and emerging
-```
+
 economies, and in isolated electric systems (such as on islands or in isolated rural
 
 communities) where electricity prices tend to be high (if they are not heavily subsi-
@@ -5898,8 +3805,7 @@ dized), where there is a shortage of generation, and where renewable energy
 
 resources are particularly plentiful, making renewable electricity more competitive
 
-2 State of Research
-
+[^2]: State of Research
 
 14
 
@@ -5913,16 +3819,15 @@ through policies such as tendering or feed-in tariffs, in order to achieve the d
 
 growth quickly.
 
-```
 Approximately 1.06 billion people, most in sub-Saharan Africa, lived without
-```
-electricity in 2016, 223 million fewer than in 2012 (IEA-WEO 2016 ; IEA-EAO
 
-2017 ). Distributed renewables for energy access (DREA) systems were serving an
+electricity in 2016, 223 million fewer than in 2012 (IEA-WEO [^2016]:; IEA-EAO
+
+[^2017]:). Distributed renewables for energy access (DREA) systems were serving an
 
 estimated 300 million people at the end of 2016, and they comprised about 6% of
 
-new electricity connections worldwide between 2012 and 2016 (IRENA-P 2017 ). In
+new electricity connections worldwide between 2012 and 2016 (IRENA-P [^2017]:). In
 
 places where the electricity grid does not reach or is unreliable, DREA technologies
 
@@ -5932,11 +3837,11 @@ of the population of Bangladesh gained access to electricity through solar home
 
 systems (SHS), and more than 50% of the off-grid population in Kenya is served by
 
-DREA systems (Dahlberg 2018 ). Off-grid solar devices, such as solar lanterns and
+DREA systems (Dahlberg [^2018]:). Off-grid solar devices, such as solar lanterns and
 
 SHS, displayed annual growth rates of 60% between 2013 and 2017 (Dahlberg
 
-2018 ).
+[^2018]:).
 
 **2.2.1.2 Heating and Cooling**
 
@@ -5944,30 +3849,29 @@ Energy use for heating and cooling is estimated to have accounted for just over 
 
 of the total world final energy consumption in 2017, with about half of that used for
 
-industrial process heat (IEA-RE 2017 ). Around 27% of this was supplied by renew-
+industrial process heat (IEA-RE [^2017]:). Around 27% of this was supplied by renew-
 
 ables. The largest share of renewable heating was from traditional biomass, which
 
 continued to supply about 16.4% of the global heat demand, predominantly for
 
-cooking in the developing world (IEA-RE 2017 ). Renewable energy—excluding
+cooking in the developing world (IEA-RE [^2017]:). Renewable energy—excluding
 
 traditional biomass—supplied approximately 9% of the total global heat production
 
-in 2017, up from about 6% in 2008 (REN21-GSR 2018 ).
+in 2017, up from about 6% in 2008 (REN21-GSR [^2018]:).
 
-```
 Renewable heating and cooling receives much less attention than renewable
-```
+
 power generation, and has been identified as the ‘sleeping giant of energy policy’
 
-for the past decade (IEA-Collier 2018 ). The use of modern renewable heat has
+for the past decade (IEA-Collier [^2018]:). The use of modern renewable heat has
 
 increased at an average rate close to 3% per year since 2008, gradually increasing
 
 its share of heat supply, but it lags well behind the average annual increase of 17%
 
-in modern renewables for electricity (IEA-RE 2017 ). Renewable energy technolo-
+in modern renewables for electricity (IEA-RE [^2017]:). Renewable energy technolo-
 
 gies for heating and cooling include a variety of solar thermal collectors for differ-
 
@@ -5979,21 +3883,19 @@ and subsequently used for heat; and any type of renewable electricity used for h
 
 ing. Heat may be supplied by on-site equipment or by a district heating network.
 
-```
 A wide range of temperature requirements exist, from temperatures of around
-```
+
 40–70  °C for space and water heating in buildings, to steam at several hundred
 
-degrees Celsius for some industrial processes (Averfalk et  al. 2017 ; USA-EPA
+degrees Celsius for some industrial processes (Averfalk et  al. [^2017]:; USA-EPA
 
-2017 ). The variety in renewable heating systems and applications is much greater
+[^2017]:). The variety in renewable heating systems and applications is much greater
 
 than in the renewable power sector, which makes standardization to reduce costs by
 
 ```
 S. Teske et al.
 ```
-
 ```
 15
 ```
@@ -6011,7 +3913,7 @@ the greatest share, providing an estimated 68% of renewable heat, followed by
 
 renewable electricity at 18%, solar thermal at around 7%, district heating at 4%
 
-(which was nearly all bioenergy), and geothermal at 2% (REN21-GSR 2018 ).
+(which was nearly all bioenergy), and geothermal at 2% (REN21-GSR [^2018]:).
 
 Although additional bio-heat and solar thermal capacities were added in 2017, the
 
@@ -6019,41 +3921,39 @@ growth in both markets continued to slow. The trends in direct geothermal heatin
 
 are unclear.
 
-```
 Bioenergy systems provide individual heating in residential and medium-sized
-```
+
 office buildings, either as stand-alone systems or in addition to an existing central
 
 heating system, and bioenergy also accounts for 95% of district heating (IEA-RE
 
-2017 ). District heating systems are suitable for use in densely populated regions
+[^2017]:). District heating systems are suitable for use in densely populated regions
 
 with an annual heating demand during ≥4 months of the year, such as in the north-
 
 ern part of China, Denmark, Germany, Japan, Poland, Russia, Sweden, the UK, and
 
-the northern United States (IRENA-RE-H 2017 ). However, district heating supplies
+the northern United States (IRENA-RE-H [^2017]:). However, district heating supplies
 
 a very small proportion of global heating needs. The majority of district heating
 
 systems are fuelled by either coal or gas, with the share of renewables ranging from
 
-0% to 42% (IRENA-RE-H 2017 ). Switching existing districting heating systems
+0% to 42% (IRENA-RE-H [^2017]:). Switching existing districting heating systems
 
-from fossil fuels to renewables has considerable potential (IRENA-RE-H 2017 ).
+from fossil fuels to renewables has considerable potential (IRENA-RE-H [^2017]:).
 
 Since the 1980s, Sweden has progressively switched from an almost entirely fossil-
 
 fuelled heating supply to systems supplied by 90% renewables and recycled heat
 
-(Brown 2018 ). District heating can combine different sources of heat, and can play
+(Brown [^2018]:). District heating can combine different sources of heat, and can play
 
 a positive role in the integration of VRE through the use of electric heat pumps.
 
-```
 Solar thermal collector installations continued to decline globally in 2017, with
-```
-a reduction of 3% (REN21-GSR 2018 ) compared with 2016, but the markets in
+
+a reduction of 3% (REN21-GSR [^2018]:) compared with 2016, but the markets in
 
 China and India remained strong. In Europe, hybrid systems, in which solar thermal
 
@@ -6068,7 +3968,7 @@ Electricity accounts for an estimated 6% of the total heating and cooling con-
 ```
 sumption in buildings and industry, with about half of that electricity estimated to
 
-be renewable (IEA-RE 2017 ). The further electrification of heating and cooling
+be renewable (IEA-RE [^2017]:). The further electrification of heating and cooling
 
 drew increasing attention in 2017, particularly in the United States and China.
 
@@ -6080,17 +3980,12 @@ grid, especially when feed-in tariffs for solar electricity are reduced or have 
 
 entirely phased out.
 
-```
-Space cooling accounts for about 2% (REN21-GSR 2018 ) of the total world final
-```
-energy consumption, and is supplied almost entirely by electricity (IEA-RE 2017 ).
-
+Space cooling accounts for about 2% (REN21-GSR [^2018]:) of the total world final
+energy consumption, and is supplied almost entirely by electricity (IEA-RE [^2017]:).
 Solar-based space-cooling systems are still in the minority compared with conven-
-
 tional air-conditioning systems.
 
-2 State of Research
-
+[^2]: State of Research
 
 16
 
@@ -6100,15 +3995,14 @@ The global energy demand for transport increased by an average of 2.1% between
 
 2000 and 2016, and is responsible for approximately 29% of the final global energy
 
-use and 24% of GHG emissions (IEA-WEO 2017 ). The vast majority (92%) of
+use and 24% of GHG emissions (IEA-WEO [^2017]:). The vast majority (92%) of
 
 global transport energy needs are met by oil, with small proportions met by biofuels
 
-(2.9%) and electricity (1.4%) (IEA-WEO 2017 ).
+(2.9%) and electricity (1.4%) (IEA-WEO [^2017]:).
 
-```
 There are three main entry points for renewable energy in the transport sector:
-```
+
 the use of 100% liquid biofuels or biofuels blended with conventional fuels; natural
 
 gas vehicles and infrastructure (these can run on upgraded biogas); and the electri-
@@ -6117,20 +4011,19 @@ fication of transport (if the electricity is itself renewable), which can be via
 
 or hydrogen in fuel cells.
 
-```
 Biofuels (bioethanol and biodiesel) make by far the greatest contribution to
-```
+
 renewable transport. The overall renewable share of road transport energy use was
 
-estimated to be 4.2% in 2016, with nearly all of that from biofuels (IEA-RE 2017 ).
+estimated to be 4.2% in 2016, with nearly all of that from biofuels (IEA-RE [^2017]:).
 
 In 2017, global bioethanol production increased by 2.5% relative to that in 2016,
 
 with a slight decline in Brazil offset by increases in the USA, Europe, and China
 
-(IEA OIL 2018 ). Biodiesel production remained relatively stable in 2017, following
+(IEA OIL [^2018]:). Biodiesel production remained relatively stable in 2017, following
 
-a 9% increase in 2016 relative to 2015 (IEA OIL 2018 ).
+a 9% increase in 2016 relative to 2015 (IEA OIL [^2018]:).
 
 ```
 The technology for producing, purifying, and upgrading biogas for use in trans-
@@ -6141,52 +4034,35 @@ associated infrastructure are increasing slowly but steadily internationally. Ma
 
 countries have relatively well-developed NGV infrastructures, and NGVs provide a
 
-good entry point for biogas in the transport sector (IRENA-RV- 2017 ). The largest
+good entry point for biogas in the transport sector (IRENA-RV-[^2017]:). The largest
 
 producers of biogas for vehicle fuel in 2016 were Germany, Sweden, Switzerland,
 
-the UK, and the USA (IRENA-RV- 2017 ). The main barriers to the further expansion
+the UK, and the USA (IRENA-RV-[^2017]:). The main barriers to the further expansion
 
 of biogas for transport are economic, with supply costs of USD 0.22–1.55 per cubic
 
-metre (m^3 ), compared with natural gas prices, which are as low as USD 0.13 per m^3.
+metre (m[^3]), compared with natural gas prices, which are as low as USD 0.13 per m[^3].
 
 However, the lack of consistent regulation and access to gas grids are also signifi-
-
 cant barriers (IRENA-RV-2017).
-
-```
 Historically, the electrification of the transport sector has been limited to trains,
-```
 light rail, and some buses. In 2017, there were signs that the entire sector would
-
 open to electrification. Fully electric passenger cars, scooters, and bicycles are rap-
-
 idly becoming common-place, and prototypes for heavy-duty trucks, planes, and
-
-ships were released in 2017 (Hawkins 2017 ).
-
-```
+ships were released in 2017 (Hawkins [^2017]:).
 The number of electric vehicles (EVs) on the road passed the three million mark
-```
-in 2017 (Guardian 25.12. 2017 ). Annual sales are still only a very small proportion
-
+in 2017 (Guardian 25.12.[^2017]:). Annual sales are still only a very small proportion
 of the global total (1%), but this is set to change. In 2017, partly influenced by the
-
 scandal over diesel emissions cheating, five countries announced their intention to
-
 ban sales of new diesel and petrol cars from 2030 (India, the Netherlands, and
-
-Slovenia) or 2040 (France and the UK) (Bloomberg 11. 2017 ). The announcement
-
+Slovenia) or 2040 (France and the UK) (Bloomberg 11.[^2017]:). The announcement
 of electric product lines by car manufacturers in 2017 was another breakthrough.
-
 However, the number of EVs on the road is dwarfed by the number of electric bikes.
 
 ```
 S. Teske et al.
 ```
-
 ```
 17
 ```
@@ -6194,15 +4070,14 @@ The global fleet was estimated to be around 200 million at the end of 2016, most
 
 them in China, and 30% of bicycles sold in the Netherlands were e-bikes in 2017
 
-(Wang 2017 ). Electric two- and three-wheel vehicles account for less than 0.5% of
+(Wang [^2017]:). Electric two- and three-wheel vehicles account for less than 0.5% of
 
 all transport energy use, but they account for most of the remaining renewable share
 
-after biofuels (IEA-RE 2017 ).
+after biofuels (IEA-RE [^2017]:).
 
-```
 Further electrification of the transport sector will potentially create a new market
-```
+
 for renewable energy and ease the integration of variable renewable energy, if mar-
 
 ket and policy settings ensure that the charging patterns are effectively harmonized
@@ -6211,19 +4086,17 @@ with the requirements of electricity systems. There are already examples of coun
 
 tries and cities supplying electricity for both heavy and light rail from renewable
 
-electricity, including the Netherlands (BI 2017 ), Delhi (Times of India 2017 ), and
+electricity, including the Netherlands (BI [^2017]:), Delhi (Times of India [^2017]:), and
 
-Santiago de Chile (CT 2017 ).
+Santiago de Chile (CT [^2017]:).
 
-```
 Road transport accounts for 67% of global transport energy use, and two-thirds
-```
+
 of that is used for passenger transport.
 
-```
 Aviation accounts for around 11% of the total energy used in transport
-```
-(US-EIA- 2017 ). In October 2016, the International Civil Aviation Organization
+
+(US-EIA-[^2017]:). In October 2016, the International Civil Aviation Organization
 
 (ICAO), a UN agency, announced a landmark agreement to mitigate GHG emis-
 
@@ -6231,62 +4104,44 @@ sions in the aviation sector. By the end of 2017, 106 states representing 90.8% 
 
 global air traffic had settled on a global emissions reduction scheme (Guardian
 
-6.10. 2016 ). Together with technical and operational improvements, this agreement
+6.10.[^2016]:). Together with technical and operational improvements, this agreement
 
 will support the production and use of sustainable aviation fuels, specifically drop-
 
-in fuels produced from biomass and different types of waste (ICAO 2018 ). In 2017,
+in fuels produced from biomass and different types of waste (ICAO [^2018]:). In 2017,
 
 Norway announced a target of 100% electric short-haul flights by 2040 (Guardian
 
-18.1. 2018 ).
+18.1.[^2018]:).
 
-```
 Shipping consumes around 12% of the global energy used in transport
-```
-(US-EIA- 2017 ) and is responsible for approximately 2.0% of global CO 2 emis-
 
+(US-EIA-[^2017]:) and is responsible for approximately 2.0% of global CO[^2]: emis-
 sions. There are multiple entry points for renewable energy: ships can incorporate
 
 wind (sails) and solar energy directly, and can use biofuels, synthetic fuels, or
-
 hydrogen produced with renewable electricity for propulsion. China saw the launch
-
 of the world’s first all-electric cargo ship in 2017, and in Sweden, two large ferries
-
-were converted from diesel to electricity in 2017 (China Daily 14.11. 2017 ). In 2017,
-
+were converted from diesel to electricity in 2017 (China Daily 14.11.[^2017]:). In 2017,
 the International Maritime Organization’s (IMO’s) Marine Environment Protection
-
 Committee (MEPC) approved a roadmap (2017–2023) to develop a strategy for
-
 reducing GHG emissions from ships. The roadmap includes plans for an initial
-
-GHG strategy to be adopted in 2018 (IMO 2017 ).
-
-```
+GHG strategy to be adopted in 2018 (IMO [^2017]:).
 Rail accounts for around 1.9% of the total energy used in transport and is the
-```
 most highly electrified transport sector. The share of rail transport powered by elec-
-
-tricity was estimated to be 39% in 2015, up from 29% in 2005 (IEA-UIC 2017 ). Just
-
+tricity was estimated to be 39% in 2015, up from 29% in 2005 (IEA-UIC [^2017]:). Just
 over a third of the electricity (9% of rail energy) is estimated to be derived from
-
-renewable sources (IEA-UIC 2017 ). Some jurisdictions are opting to ensure that the
-
+renewable sources (IEA-UIC [^2017]:). Some jurisdictions are opting to ensure that the
 proportion of energy from renewable sources in their transport sectors is well above
-
 the share of renewable energy in their power sectors. For example, the Dutch rail-
 
-2 State of Research
-
+[^2]: State of Research
 
 18
 
 way company NS announced that its target to power all electric trains with 100%
 
-renewable electricity was achieved ahead of schedule in 2017 (Caughill 2017 ), and
+renewable electricity was achieved ahead of schedule in 2017 (Caughill [^2017]:), and
 
 the New South Wales Government in Australia announced a renewable tender for
 
@@ -6301,13 +4156,13 @@ transport sector. At the climate conference in November 2017 in Bonn, Germany, 
 
 multi-stakeholder alliance launched the Transport Decarbonisation Alliance (UN-P
 
-2018 ). France, the Netherlands, Portugal, Costa Rica, and the Paris Process on
+[^2018]:). France, the Netherlands, Portugal, Costa Rica, and the Paris Process on
 
 Mobility and Climate (PPMC) are members of the Alliance, which includes coun-
 
 tries, cities, regions, and private-sector companies committed to ambitious action on
 
-transport and climate change (UN-P 2018 ).
+transport and climate change (UN-P [^2018]:).
 
 **References**
 
@@ -6339,12 +4194,11 @@ energy-2017-natural-gas.pdf According to https://tradingeconomics.com/commodity/
 gas, gas prices fell by 14% between 2 Jan 2017 and 1 January 2018 (viewed 21 March 2018)
 BI (2017) Patrick Caughill, “All Dutch Trains Now Run On 100% Wind Power”, Business Insider. 3 June
 
-2017. [http://uk.businessinsider.com/wind-power-trains-in-netherlands-2017-6?r=US&IR=TT](http://uk.businessinsider.com/wind-power-trains-in-netherlands-2017-6?r=US&IR=TT)
+2017. http://uk.businessinsider.com/wind-power-trains-in-netherlands-2017-6?r=US&IR=TT
 
 ```
 S. Teske et al.
 ```
-
 ```
 19
 ```
@@ -6398,8 +4252,7 @@ Global Trends in Renewable Energy Investment 2018 (Frankfurt: 2018). Page 34.
 FT (12.9.2017), Financial Times, 12 September 2017, Natalie Thomas, Powerful turbines slash price
 of offshore wind farms, https://www.ft.com/content/28b0eb2e-96f1-11e7-a652-cde3f882dd7b
 
-2 State of Research
-
+[^2]: State of Research
 
 20
 
@@ -6431,7 +4284,7 @@ environment/2017/dec/25/electric-and-plug-in-hybrid-cars-3m-worldwide
 ICAO (2018) ICAO Website, Environment, September 2018,https://www.icao.int/environmental-
 protection/GFAAF/Pages/default.aspx
 (IEA- Collier 2018), Ute Collier ,Commentary: More policy attention is needed for renewable
-heat, (Paris, France: International Energy Agency, 25 January 2018), [http://www.iea.org/news-](http://www.iea.org/news-)
+heat, (Paris, France: International Energy Agency, 25 January 2018), [http://www.iea.org/news](http://www.iea.org/news)-
 room/news/2018/january/commentary-more-policy-attention-is-needed-for-renewable-heat.
 html
 IEA-EAO (2017) International Energy Agency, Energy Access Outlook 2017, Table  2.1,
@@ -6450,14 +4303,13 @@ IEA-RE (2017),International Energy Agency Renewables 2017. Analysis and
 Forecasts to 2022. (Paris, France: 2017), Page 121. [http://www.iea.org/](http://www.iea.org/)
 bookshop/761-Market_Report_Series:_Renewables_2017
 IEA-WEO (2017), IEA, World Energy Outlook 2017 (Paris: 2017) p.  648. https://
-[http://www.iea.org/weo2017/](http://www.iea.org/weo2017/) ; GHG emissions share for 2015 from IEA, CO2
+[www.iea.org/weo2017/](www.iea.org/weo2017/) ; GHG emissions share for 2015 from IEA, CO2
 Emissions from Fuel Combustion 2017, (Paris: 2017) p.  12. [http://www.iea.org/](http://www.iea.org/)
 bookshop/757-CO2_Emissions_from_Fuel_Combustion_2017
 
 ```
 S. Teske et al.
 ```
-
 ```
 21
 ```
@@ -6511,8 +4363,7 @@ Shearer (2017), Christine Shearer, “Coal Phase-Out: First Global Survey of Com
 Political Entities Exiting Coal”, Endcoal. 18 October 2017. https://endcoal.org/2017/10/
 coal-phase-out-first-global-survey-of-companies-and-political-entities-exiting-coal/
 
-2 State of Research
-
+[^2]: State of Research
 
 22
 
@@ -6541,7 +4392,7 @@ UNEP-FS (2018), Frankfurt School  - UNEP Collaborating Centre for Climate & Sus
 Energy Finance (FS-UNEP) in co-operation with Bloomberg New Energy Finance. Global
 Trends in Renewable Energy Investment 2018 (Frankfurt, Germany: 2018). Pages 14, 15 & 26.
 UNFCCC (2017), United Nation—Climate Change, UNFCCC—The Paris Agreement, website
-viewed 12th March 2018, [http://unfccc.int/paris_agreement/items/9485.php;](http://unfccc.int/paris_agreement/items/9485.php;) Jocelyn Timperley,
+viewed 12th March 2018, [http://unfccc.int/paris_agreement/items/9485.php](http://unfccc.int/paris_agreement/items/9485.php); Jocelyn Timperley,
 COP23: Key outcomes agreed at the UN climate talks in Bonn, CarbonBrief, 19 November
 2017, https://www.carbonbrief.org/cop23-key-outcomes-agreed-un-climate-talks-bonn
 UN-P (2018), United Nations, Press release, New Transport Decarbonisation Alliance
@@ -6552,7 +4403,7 @@ Heating and Cooling, Renewable Industrial Process Heat, https://www.epa.gov/rhc/
 industrial-process-heat, updated 26 October 2017,
 US-EIA (2017) U.S.  Energy Information Administration. International Energy Outlook 2017.
 Transportation sector passenger transport and energy consumption by region and mode: https://
-[http://www.eia.gov/outlooks/aeo/data/browser/#/?id=50-IEO2017&region=0-0&cases=Reference&](http://www.eia.gov/outlooks/aeo/data/browser/#/?id=50-IEO2017&region=0-0&cases=Reference&)
+[www.eia.gov/outlooks/aeo/data/browser/#/?id=50-IEO2017&region=0-0&cases=Reference&](www.eia.gov/outlooks/aeo/data/browser/#/?id=50-IEO2017&region=0-0&cases=Reference&)
 start=2010&end=2020&f=A&linechart=Reference-d082317.2-50-IEO2017&sourcekey=0
 Wynn (2018), Wynn, G.  Power-Industry Transition, Here and Now: Wind and Solar Won’t
 Break the Grid: Nine Case Studies. Institute for Energy Economics and Financial Analysis.
@@ -6562,7 +4413,6 @@ Transition-Here-and-Now_February-2018.pdf
 ```
 S. Teske et al.
 ```
-
 ```
 23
 ```
@@ -6577,7 +4427,7 @@ us-china-carbon/china-aims-for-emission-trading-scheme-in-big-step-vs-global-war
 idUSKBN1ED0R6
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -6587,14 +4437,12 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-2 State of Research
-
+[^2]: State of Research
 
 © The Author(s) 2019 25
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_3
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 3
+**Chapter 3**
 
 #### Methodology
 
@@ -6616,21 +4464,20 @@ to stay within a 2.0 °C and 1.5 °C global warming limit. The following model
 
 presented:
 
-- For the non-energy GHG emission pathways, the _Generalized Equal Quantile_
+• For the non-energy GHG emission pathways, the Generalized Equal Quantile
 
 ```
 Walk (GQW) method, the land-based sequestration design method and the
 Carbon cycle and climate (MAGICC) model.
 ```
-- For the energy pathways, a renewable energy resources assessment for space
+• For the energy pathways, a renewable energy resources assessment for space
 
 ```
 constrained environments ([R]E-SPACE, the transport scenario model (TRAEM),
 the Energy System Model (EM) and the power system model [R]E 24/7.
 ```
-```
 The methodologies of an employment analysis model, and a metal resource
-```
+
 assessment tool are outlined. These models have been used to examine the analysis
 
 of the energy scenario results.
@@ -6656,39 +4503,23 @@ Australian-German Climate and Energy College, University of Melbourne,
 Parkville, Victoria, Australia
 e-mail: malte.meinshausen@unimelb.edu.au; kate.dooley@unimelb.edu.au
 
-
 26
 
-Achieving the goals of the Paris Climate Agreement (UNFCCC 2015 ) will require
-
+Achieving the goals of the Paris Climate Agreement (UNFCCC [^2015]:) will require
 the total decarbonisation of the energy system by 2050, with a global emissions
-
-peak no later than 2020 (Hare and Roming 2016 ) and a drastic reduction in non-
-
-energy- related greenhouse gases (GHGs), including land-use-related emissions
-
-(Rogelj and den Elzen 2016 ). Over the past decades, numerous computer models
-
+peak no later than 2020 (Hare and Roming [^2016]:) and a drastic reduction in non-
+energy-related greenhouse gases (GHGs), including land-use-related emissions
+(Rogelj and den Elzen [^2016]:). Over the past decades, numerous computer models
 have been developed to analyse different emissions pathways and to investigate the
-
 effects of changes in policy and technology and adjustments in global and regional
-
 economies. A wide range of climate models is used to calculate non-energy-related
-
 GHG emissions pathways and their impacts on the global climate. The
-
 Intergovernmental Panel on Climate Change (IPCC) states that “Climate models
-
 have continued to be developed and improved since the AR4 [published in
-
 2007-author], and many models have been extended into Earth System models by
-
 including the representation of biogeochemical cycles important to climate change”
-
-(Flato and Marotzke 2013 ). Whereas climate models analyse the effects of a variety
-
-of GHG emissions, energy scenarios only cover energy-related CO 2. Their purpose
-
+(Flato and Marotzke [^2013]:). Whereas climate models analyse the effects of a variety
+of GHG emissions, energy scenarios only cover energy-related CO[^2]:. Their purpose
 is to investigate future energy systems to identify feasible technological and/or eco-
 
 nomic pathways. Like climate models, energy models are diverse and vary signifi-
@@ -6699,7 +4530,7 @@ Sources and Climate Change Mitigation states that there is “enormous variation
 
 the detail and structure of the models used to construct the scenarios” (Fischedick
 
-and Schaeffer 2011 ). Energy scenarios with high penetrations of variable renewable
+and Schaeffer [^2011]:). Energy scenarios with high penetrations of variable renewable
 
 power generation—solar photovoltaic (PV) and wind power—require a higher
 
@@ -6707,9 +4538,8 @@ degree of time resolution to assess the security of 24/7 electricity supplies th
 
 those with mainly dispatchable power generation.
 
-```
 Modelling the energy system involves a variety of methodological requirements,
-```
+
 which pose specific challenges when addressed on the global level: the quantitative
 
 projection of developments in (future) technologies and potential markets; a consis-
@@ -6720,71 +4550,52 @@ tions; reliable data on the current situations in all regions; an assessment of 
 
 flows and emissions across all energy subsectors, such as industry, transport, resi-
 
-dential, etc.; and a comprehensive assessment of all CO 2 emissions, in order to assess
-
+dential, etc.; and a comprehensive assessment of all CO[^2]: emissions, in order to assess
 the impact of the energy system on climate change. Finally, analysing and assessing
 
 the energy transition require a long-term perspective on future developments.
-
-```
 Changes to energy markets require long-term decisions to be made because
-```
 infrastructural changes are potentially required, and are therefore independent of
-
 short-term market developments. The power market cannot function optimally
-
 without long-term infrastructure planning. Grid modifications and the roll-out of
-
 smart metering infrastructure, for example, require several years to implement.
-
 These technologies form the basis of the energy market and allow energy trading.
-
 Therefore, the time required for infrastructure planning and other substantial trans-
-
 formation processes must be considered in the scenario-building approach.
-
-```
 Although numerous energy scenarios that provide 100% renewable energy at the
-```
 community, state, and national levels have been published in the past decade
-
-(Elliston and MacGill 2014 ; Teske and Dominish 2016 ; Klaus et al. 2010 ; Teske and
-
-Brown 2012 ), only a handful of analyses have been performed on a global level. The
-
+(Elliston and MacGill [^2014]:; Teske and Dominish [^2016]:; Klaus et al. [^2010]:; Teske and
+Brown [^2012]:), only a handful of analyses have been performed on a global level. The
 main research projects on 100% renewable energy supplies published between 2015
-
 and 2018 were:
 
 ```
 S. Teske et al.
 ```
-
 ```
 27
 ```
-- A Road Map to 100 Percent Renewable Energy in 139 Countries by 2050, Mark
+– A Road Map to 100 Percent Renewable Energy in 139 Countries by 2050, Mark
 
 ```
 Jacobson, Charles Q.  Choi, Stanford Engineering, Stanford University, USA,
-2017 (Jacobson and Choi 2017 );
+2017 (Jacobson and Choi 2017);
 ```
-- Internet of Energy, A 100% Renewable Electricity System, Christian Breyer,
+– Internet of Energy, A 100% Renewable Electricity System, Christian Breyer,
 
 ```
 Neo Carbon Energy, Lappeenranta University of Technology, Finland, 2016
-(Breyer 2016 ; Breyer and Bogdanov 2018 );
+(Breyer 2016; Breyer and Bogdanov 2018);
 ```
-- Energy [R]evolution—A sustainable World Energy Outlook 2015, Greenpeace
+– Energy [R]evolution—A sustainable World Energy Outlook 2015, Greenpeace
 
 ```
 International with the German Aerospace Centre (DLR), Institute of Engineering
 Thermodynamics, System Analysis and Technology Assessment, Stuttgart,
-Germany (Teske and Pregger 2015 ).
-```
+Germany (Teske and Pregger 2015).
 ```
 All the studies listed above share the same modelling horizon until 2050 and focus
-```
+
 clearly on the fast and massive deployment of renewable energy resources (RES).
 
 Options with large uncertainties in terms of techno-economic, societal, and environ-
@@ -6801,31 +4612,20 @@ tion of power demand and supply, in addition to the pathway modelling. On the ot
 
 hand, the Energy [R]evolution study covers the complete energy sector, with detailed
 
-insights into the heat and transport sectors. However, all these studies cover only CO 2
-
+insights into the heat and transport sectors. However, all these studies cover only CO2
 emissions from the energy system, without further investigation of other GHG sources.
 
-```
 Therefore, our project combines these strengths into a single approach by com-
-```
 bining a set of models. The approach is based on the scenario modelling used for the
-
 Energy [R]evolution scenario series developed by the authors between 2004 and
 
 2015. It models scenarios of comprehensive pathways for power, heat, and fuel sup-
-
 ply in 5-year steps, and includes specific insights from a transport model. The sce-
-
 nario building is also complemented by a simulation with hourly resolution to
-
 calculate the electricity storage demand and to increase the spatial resolution from
-
 10 to 72 regions. Another significant improvement over existing studies is its com-
-
 bination with a climate model. The interaction between non-energy GHG pathways
-
 and a high-resolution integrated energy assessment model (IAM) provides addi-
-
 tional information on how to achieve the goals of the Paris Agreement.
 
 **3.1 100% Renewable Energy—Modelling Approach**
@@ -6846,10 +4646,9 @@ Therefore, societal frameworks, measures, and policy interventions are not expli
 
 discussed in this scenario analysis, but they are implicit elements in the definition of
 
-the narratives and assumptions as core step of scenario development (see Chap. 5).
+the narratives and assumptions as core step of scenario development (see Chap. [^5]:).
 
-3 Methodology
-
+[^3]: Methodology
 
 28
 
@@ -6859,63 +4658,53 @@ To develop a global plan, the authors combined various established computer
 
 models:
 
-- Global GHG Model: The non-energy GHG emissions scenarios are calculated
+• Global GHG Model: The non-energy GHG emissions scenarios are calculated
 
-```
 with the following models:
-```
-- Generalized Equal Quantile Walk (GQW): This statistical method is used to
-    complement the CO 2 pathways with the non-CO 2 regional emissions for the
-    relevant GHGs and aerosols, based on a statistical analysis of the large num-
-    ber (~700) of multi-gas emission pathways underlying the recent IPCC Fifth
-    Assessment Report and the recently published IPCC Special Report on
-    1.5 °C. The GQW method calculates the median non-CO 2 gas emission levels
-    every 5 years, conditional on the energy-related CO 2 emission level percentile
-    of the ‘source’ pathway. This method is further developed in this project—
-    building on an earlier ‘Equal Quantile Walk’ method—and is now better able
-    to capture the emission dynamics of low-mitigation pathways.
-- Land-based sequestration design: A Monte Carlo analysis across temperate,
-    boreal, subtropical, and tropical regions has been performed based on various
-    literature-based estimates of sequestration rates, sequestration periods, and the
-    areas available for a number of sequestration options. This approach can be seen
-    as a quantified literature synthesis of the potential for land-based CO 2 sequestra-
-    tion, which is not reliant on bioenergy with sequestration and storage (BECCS)
-- Carbon cycle and climate modelling (MAGICC): This study used the
-    MAGICC climate model, which also underlies the classification of both the
-    IPCC Fifth Assessment Report and the IPCC Special Report on 1.5  °C in
-    terms of the ability of various scenarios to limit the temperature increase to
-    below 2.0  °C or 1.5  °C.  MAGICC is constantly evolving, but its core goes
-    back to the 1980s, and it represents one of the most established reduced-
-    complexity climate models in the international community.
-- Renewable Resource Assessment [R]E-SPACE: This is based on a Geographic
 
-```
+– Generalized Equal Quantile Walk (GQW): This statistical method is used to
+complement the CO2 pathways with the non-CO2 regional emissions for the
+relevant GHGs and aerosols, based on a statistical analysis of the large num-
+ber (~700) of multi-gas emission pathways underlying the recent IPCC Fifth
+Assessment Report and the recently published IPCC Special Report on
+1.5 °C. The GQW method calculates the median non-CO2 gas emission levels
+every 5 years, conditional on the energy-related CO2 emission level percentile
+of the ‘source’ pathway. This method is further developed in this project—
+building on an earlier ‘Equal Quantile Walk’ method—and is now better able
+to capture the emission dynamics of low-mitigation pathways.
+– Land-based sequestration design: A Monte Carlo analysis across temperate,
+boreal, subtropical, and tropical regions has been performed based on various
+literature-based estimates of sequestration rates, sequestration periods, and the
+areas available for a number of sequestration options. This approach can be seen
+as a quantified literature synthesis of the potential for land-based CO2 sequestra-
+tion, which is not reliant on bioenergy with sequestration and storage (BECCS)
+– Carbon cycle and climate modelling (MAGICC): This study used the
+MAGICC climate model, which also underlies the classification of both the
+IPCC Fifth Assessment Report and the IPCC Special Report on 1.5  °C in
+terms of the ability of various scenarios to limit the temperature increase to
+below 2.0  °C or 1.5  °C.  MAGICC is constantly evolving, but its core goes
+back to the 1980s, and it represents one of the most established reduced-
+complexity climate models in the international community.
+• Renewable Resource Assessment [R]E-SPACE: This is based on a Geographic
 Information Systems (GIS) approach and provides maps of the solar and wind poten-
 tials in space-constrained environments. GIS attempts to emulate processes in the real
-world, at a single point in time or over an extended period (Goodchild 2005 ). The
+world, at a single point in time or over an extended period (Goodchild 2005). The
 primary purpose of GIS mapping is to ascertain whether renewable energy resources
 (primarily solar and wind) are sufficiently available in each region. It also provides an
 overview of the existing electricity infrastructures for fossil fuel and renewable sources.
-```
-- Transport model (TRAEM): The transport scenario model allows the representa-
-
-```
+• Transport model (TRAEM): The transport scenario model allows the representa-
 tion of long-term transport developments in a consistent and transparent way.
 The model disaggregates transport into a set of different modes and calculates
 the final energy demand by multiplying the specific transport demand of each
 transport mode with the powertrain-specific energy demands, using passenger–
 km and tonne–km activity-based bottom-up approaches. The model applied is an
 accounting system, without system or ownership cost-optimization.
-```
-- Energy system model (EM): The scenario model is a mathematical accounting
-
-```
+• Energy system model (EM): The scenario model is a mathematical accounting
 system for the energy sector that applies different methodologies. It aims to
-```
+
 ```
 S. Teske et al.
 ```
-
 ```
 29
 ```
@@ -6933,13 +4722,11 @@ application of cost-optimization based on uncertain cost assumptions. However,
 an ex-post analysis of costs and investments shows the main economic effects of
 the pathways.
 ```
-- Power system model [R]E 24/7: This simulates the electricity system on an
-
-```
+• Power system model [R]E 24/7: This simulates the electricity system on an
 hourly basis and at geographic resolution to assess the requirements for infra-
 structure, such as grid connections, between different regions and electricity
 storages, depending on the demand profiles and power-generation characteristics
-(Teske 2015 ). High-penetration or renewable-energy-only scenarios will contain
+(Teske 2015). High-penetration or renewable-energy-only scenarios will contain
 significant proportions of variable solar photovoltaic (PV) and wind power
 because they are inexpensive. Therefore, a power system model is required to
 assess the demand and supply patterns, the efficiency of power generation, and
@@ -6949,86 +4736,63 @@ calculate the possible renewable power generation. On the demand side, either
 historical demand curves are used, or—if unavailable—demand curves are cal-
 culated based on assumptions of consumer behaviour, the electrical equipment
 and common electrical appliances.
-```
-```
+
 Figure 3.1 provides an overview of the interactions between the energy- and
-```
 GIS-based models. The climate model is not directly connected but provided the
-
 probabilistic temperatures for the 2.0  °C and 1.5  °C Scenarios. The land-use and
+non-CO[^2]: emissions modules provide information on additional gases based on the
 
-non-CO 2 emissions modules provide information on additional gases based on the
-
-energy-related CO 2 emissions (output of the energy model). Besides the climate and
-
+energy-related CO[^2]: emissions (output of the energy model). Besides the climate and
 energy models, the effects on employment and the requirements for selected metal
 
 resources have been calculated (see Sects. 3.6 and 3.7).
 
 **3.2 Global Mapping—Renewable Energy Potential in Space-**
-
 **Constrained Environments: [R]E-SPACE**
 
 The primary purpose of GIS mapping is to ascertain the renewable energy resources
-
 (primarily solar and wind) available in each region. It also provides an overview of
-
 the existing electricity infrastructures for fossil fuel and renewable sources.
-
-```
 In this project, mapping was undertaken with the computer software QGIS. QGIS
-```
 is a free, cross-platform, open-source desktop GIS application that supports the
-
 viewing, editing, and analysis of geo-spatial data. It analyses and edits spatial infor-
-
 mation and composes and exports graphical maps, and was used to allocate solar
 
-3 Methodology
-
+[^3]: Methodology
 
 30
 
-**tuptuO**
-
+```
+t upt uO
+```
 **Resource model ([R]E SPACE)**
 
 ```
-GIS based renewable energy
-potentials based on weather &
-```
+GIS based renewable energy potentials based on weather &
 ```
 land use data
-```
+
 **Transport model (TRAEM**
 
 **)**
 
-```
 freight & passenger transport
+
 ```
-```
-demand by mode
-full energy balances: final energy
-demand power, heat & transport,supply structure, primary energy
+demand by mode full energy balances: final energydemand power, heat & transport,supply structure, primary energy
 demand by fuel, emission, investmen
 ```
+**t**
+
+**balanced RE power**
+
+**system, storage**
+
 ```
-t
-```
-```
-balanced RE power
-```
-```
-system, storage
-```
-```
-demand,
-curtailment
+demand,curtailment
 ```
 ```
-total climate
-change effects
+total climatechange effects
 ```
 ```
 energy demand
@@ -7059,8 +4823,7 @@ energy
 CO
 ```
 ```
-2
-emissions
+emissions2
 ```
 ```
 annual
@@ -7076,8 +4839,7 @@ related
 CO
 ```
 ```
-2
-emission
+emission2
 ```
 ```
 s
@@ -7094,38 +4856,37 @@ demand
 ```
 & supply
 ```
-**Modellingcluster**
-
+```
+Modellingcluster
+```
 **Power system model**
 
 **([R]E 24/**
 
 ```
-7
-)
-```
+7)
 ```
 hourly balancing of
-```
-```
+
 electricity supply & demand
-```
-```
+
 in spatial resolutio
-```
-```
+
 n
-```
-```
+
 for sub regional clusters
-```
+
 ```
 Generalized Equal
+```
+```
 Quantile Walk
 Complementing no
 ```
 ```
 n-
+```
+```
 CO
 ```
 ```
@@ -7151,27 +4912,20 @@ s
 
 **M**
 
-```
-)
-```
-```
+**)**
+
 botto
-```
-```
+
 m-
-```
-```
+
 up simulation of future
-```
-```
+
 energy balances based on GDP,
-```
-```
+
 population, technology,
+
 ```
-```
-& energy intensity development in
-all sectors and for 10 world regions
+& energy intensity development inall sectors and for 10 world regions
 ```
 ```
 Simplified land
@@ -7186,29 +4940,19 @@ sequestration mode
 l
 ```
 ```
-complementing reforestation,
-restoration,
+complementing reforestation, restoration,
 sustainable use and agroforestry options.
 ```
+**Reduced**
+
 ```
-Reduced
-```
-```
-complexity carbon cycle and climate model (MAGICC)
-```
-```
-to calculate the climatic effects
+complexity carbon cycle and climate model (MAGICC)to calculate the climatic effects of mult
 ```
 ```
-of mult
-```
-```
-i-
-gas
-```
+i-gas
 ```
 pathways
-```
+
 ```
 Fig. 3.1
 ```
@@ -7218,7 +4962,6 @@ Interaction of models in this study
 ```
 S. Teske et al.
 ```
-
 ```
 31
 ```
@@ -7343,15 +5086,13 @@ South New Zealand
 Australia—NEM
 Australia—SWIS
 ```
-3 Methodology
-
+[^3]: Methodology
 
 32
 
-```
 Wind speed data at different levels, in metres per second (m/s), were obtained
-```
-from Vaisala 2017. For this analysis, wind speed at a height of 80 m was used to
+
+from Vaisala [^2017]:. For this analysis, wind speed at a height of 80 m was used to
 
 determine the electricity-generation potential. Wind speeds are categorized and
 
@@ -7363,17 +5104,15 @@ sites. Land-cover types were constrained to bare soil and grasslands. The model
 
 only accounts for the onshore wind-generation potential.
 
-```
 Land-cover data were obtained from the Global Land Cover 2000 project (Global
-```
-Land Cover 2015 ), hosted by the European Commission’s Joint Research Centre.
+
+Land Cover [^2015]:), hosted by the European Commission’s Joint Research Centre.
 
 The classification was based on the FAO Land Cover Classification System.
 
-```
 Similarly, solar resource data were obtained from the Global Solar Atlas (Global
-```
-Solar Atlas 2016 ), owned by the World Bank Group and provided by SolarGis. Data
+
+Solar Atlas [^2016]:), owned by the World Bank Group and provided by SolarGis. Data
 
 categorized by direct normal irradiation were mapped to estimate the potential PVs
 
@@ -7381,9 +5120,8 @@ in the different regions. To avoid conflict with competing uses of land, only th
 
 cover types ‘bare soil’ and ‘grasslands’ were included in the analysis.
 
-```
 The area of land available for potential solar and wind power generation was
-```
+
 calculated at the cluster level using the Geometry tool in the QGIS-processing tool-
 
 box. Intersects (overlapping areas between different layers) were created between
@@ -7394,9 +5132,8 @@ the total land area available into clusters. A correction was put in place manua
 
 sites that intersected the cluster boundaries and were part of two clusters.
 
-```
 For some maps (India, China, the Middle East, and OECD Pacific) with large
-```
+
 data files, the analysis was performed using raster files for land use and renewable
 
 potentials. The raster tools ‘clipper’ (used to cut a raster file to the size of the clus-
@@ -7418,9 +5155,8 @@ These maps show utility-scale installations. There are much larger expanses of l
 
 available for small-scale distributed energy generation.
 
-```
 The following types of maps were created for 10 world regions:
-```
+
 Regional breakdown into a maximum of eight clusters:
 
 ```
@@ -7437,7 +5173,6 @@ other (see Sect. 3.8).
 ```
 S. Teske et al.
 ```
-
 ```
 33
 ```
@@ -7445,8 +5180,7 @@ S. Teske et al.
 
 **Fig. 3.3** Current electricity infrastructure in China
 
-3 Methodology
-
+[^3]: Methodology
 
 34
 
@@ -7496,13 +5230,12 @@ concentrated solar power plants.
 ```
 S. Teske et al.
 ```
-
 ```
 35
 ```
 **3.3 Transport Energy Model-TRAEM**
 
-**_3.3.1 Transport Model Structure_**
+**3.3.1 Transport Model Structure**
 
 The transport scenario model TRAEM (TRAnsport Energy Model) allows the mod-
 
@@ -7526,9 +5259,8 @@ each of the 10 world regions. The calculation is performed in 5-year steps, from
 
 2015 to 2050.
 
-```
 For all scenarios (5.0 °C, 2.0 °C, and 1.5 °C), the 2015 energy demand by region
-```
+
 was adjusted to the IEA World Energy Balances 2017 and is therefore identical in
 
 all scenarios. The projected total energy demands for the reference scenario (5.0 °C)
@@ -7541,79 +5273,67 @@ Scenario (IEA 2017b). The total energy demands by region for the years 2045 and
 
 **Fig. 3.5** Existing and potential solar power sites in Central and South America
 
-3 Methodology
-
+[^3]: Methodology
 
 36
 
 Scenario was adjusted from 2020 onwards to 2050 in line with the carbon budget of
-
 the 2.0 °C pathway and the 1.5 °C pathway.
-
-```
-In the transport model, the CO 2 emissions from biofuels are given a GHG emis-
-```
+In the transport model, the CO[^2]: emissions from biofuels are given a GHG emis-
 sion factor of zero, because the downstream emissions level out with the upstream
+emissions. The CO[^2]: emissions from synthetic fuels are also given a value of zero,
 
-emissions. The CO 2 emissions from synthetic fuels are also given a value of zero,
-
-because the CO 2 used for producing the fuels upstream level out the downstream
-
+because the CO[^2]: used for producing the fuels upstream level out the downstream
 emissions. The upstream emissions from electricity and hydrogen production and
 
 all other fuels are factored into the energy system model described in Section 5 with
-
 which the transport model has a data interface. The model distinguishes between
-
 road, rail, aviation, and maritime passenger and freight transport modes.
 
 Road passenger transport modes include:
 
-- Light duty vehicles (cars): automobiles, vans and sports utility vehicles with
-    up to eight seats for private transport, which are further distinguished into
-    small, medium and large cars;
-- 2- and 3-wheel vehicles: includes rollers, motorbikes, and rickshaws;
-- Busses: urban, suburban, and long-distance buses and minibuses serving pub-
-    lic and private-company transport services.
+– Light duty vehicles (cars): automobiles, vans and sports utility vehicles with
+up to eight seats for private transport, which are further distinguished into
+small, medium and large cars;
+– 2- and 3-wheel vehicles: includes rollers, motorbikes, and rickshaws;
+– Busses: urban, suburban, and long-distance buses and minibuses serving pub-
+lic and private-company transport services.
 
 Rail passenger:
 
-- Urban metro/light rail vehicles;
-- Regional/intercity trains;
-- High-speed trains.
+– Urban metro/light rail vehicles;
+– Regional/intercity trains;
+– High-speed trains.
 
 Aviation (passenger):
 
-- Small and medium aircrafts for domestic flights;
-- Medium and large aircrafts for international flights, distinguishing narrow-
-    body, wide-body, and regional jets.
+– Small and medium aircrafts for domestic flights;
+– Medium and large aircrafts for international flights, distinguishing narrow-
+body, wide-body, and regional jets.
 
 Road freight:
 
-- Light-duty trucks (< 3.5 t gross vehicle weight [GVW]);
-- Medium-duty trucks (3.5–15 t GVW);
-- Heavy-duty trucks (> 15 t GVW).
+– Light-duty trucks (< 3.5 t gross vehicle weight [GVW]);
+– Medium-duty trucks (3.5–15 t GVW);
+– Heavy-duty trucks (> 15 t GVW).
 
 Rail freight:
 
-- Ordinary freight, intermodal, and low-density high-value freight trains are
-    distinguished.
+– Ordinary freight, intermodal, and low-density high-value freight trains are
+distinguished.
 
 Navigation (freight):
 
-- Inland navigation;
-- Coastal ships for domestic navigation and maritime shipping are distinguished
-    in the model.
+– Inland navigation;
+– Coastal ships for domestic navigation and maritime shipping are distinguished
+in the model.
 
-```
 We assume that energy efficiency improves over time. The changes in the pow-
-```
 ertrain shares over time are mainly driven by fleet electrification. Energy intensities
 
 ```
 S. Teske et al.
 ```
-
 ```
 37
 ```
@@ -7625,59 +5345,36 @@ demands of all transport modes (passenger and freight) are summed to the total
 
 energy demand by region.
 
-```
 Backcasting transport scenarios are modelled iteratively by fitting the drivetrain
-```
+
 shares, transport performance (pkm or tkm), and modal shares until the specific
 
-downstream CO 2 budgets of the world regions are met. The emission reductions are
-
+downstream CO[^2]: budgets of the world regions are met. The emission reductions are
 based on a combination of technical, operational, and behavioural measures during
 
 modelling—such as powertrain electrification, the use of biomass-based and syn-
-
 thetically produced fuels, efficiency increases within transport modes, and modal
-
 shifts towards more-efficient modes.
-
-```
 The replacement of internal combustion engines by electric powertrains is priori-
-```
 tized in our modelling. However, the rapid electrification of fleets is quantity-
-
 restricted over the immediately subsequent years until the capacities for battery
-
 production, battery recharging, hydrogen production, and refuelling stations have
-
 ramped up ubiquitously. Therefore, a shift towards more energy-efficient and elec-
-
 trified passenger and freight transport modes, such as railways, is required and is
-
 therefore one measure implemented in the model. Such modal shifts are especially
-
 required in the OECD countries, to reduce carbon emissions while maintaining
-
 transport performance at the current levels. Supply constraints on biomass and espe-
-
 cially synfuel production will also limit rapid decarbonisation right from the start,
-
 and motivate modal shifts and general restrictions to overall transport activities by
-
 carbon-intensive transport modes. The 1.5  °C Scenario requires electrification,
-
 modal shifts, and alternative fuel uptake to start earlier than the 2.0 °C Scenario and
-
 particularly the 5.0  °C Scenario, and their more rapid implementation. However,
-
 because electrification will remain quantity-restricted until the 2020s in any case,
-
 widespread modal shifts and changes in mobility behaviour are modelled more
-
 stringently within the 1.5 °C Scenario. The detailed modelling results are discussed
+in Chap. [^6]:.
 
-in Chap. 6.
-
-**_3.3.2 Transport Data_**
+**3.3.2 Transport Data**
 
 We have derived historical and current data on transport activities (pkm, tkm) and
 
@@ -7685,25 +5382,23 @@ total energy consumption levels according to transport mode from statistical age
 
 cies, governmental and intergovernmental organizations, etc., including:
 
-- IEA Mobility Model;
-- OECD statistics;
-- World Bank Open Data;
-- National and supranational statistical bodies;
-- UIC IEA Railway Handbook;
-- UIC Railway Synopsis;
-- Railway operators data;
+– IEA Mobility Model;
+– OECD statistics;
+– World Bank Open Data;
+– National and supranational statistical bodies;
+– UIC IEA Railway Handbook;
+– UIC Railway Synopsis;
+– Railway operators data;
 
-3 Methodology
-
+[^3]: Methodology
 
 38
 
-- HBEFA (Handbuch Emissionsfaktoren);
-- EIA Open Data.
+– HBEFA (Handbuch Emissionsfaktoren);
+– EIA Open Data.
 
-```
 However, statistical data are often unavailable or lack consistency with other
-```
+
 derived data (for example, on vehicle stock or occupancy rates in certain world
 
 regions). In these cases, we applied best guesses based on the scientific and grey
@@ -7714,17 +5409,13 @@ German Aerospace Centre (DLR) vehicle databases and the state-of-the-art
 
 literature.
 
-**_3.3.3 Transport Model Output_**
+**3.3.3 Transport Model Output**
 
-Based on the TRAEM model, energy consumption and CO 2 emissions can be calcu-
-
+Based on the TRAEM model, energy consumption and CO[^2]: emissions can be calcu-
 lated for each transport sub-category.
 
-```
 The final energy demand (ED) of the passenger and freight transport modes is
-```
 calculated for every world region and all powertrains in 5-year steps from 2015 to
-
 2050 in the following way:
 
 ```
@@ -7754,58 +5445,60 @@ mi
 ```
 wr
 mi
+()= ()× ()+ wr
 ```
-```
-wr
-()= ()× ()+
-===
-```
-##### ∑∑∑
+##### ∑∑==∑=
 
 ```
 111
 ```
 ```
 ,,, ttSECFtmi
-```
-```
-wr
-()× , ()
-```
+()× wr, ()
 ```
 with:
-```
-- SECFmit
-    wr
-       ,(): specific freight mode energy consumption of powertrain _i_ and
-mode _m_ in world region _wr_ at time step _t_ [MJ/tkm]
-- SECPmit
-    wr
-       ,(): specific passenger mode energy consumption of powertrain _i_ and
-mode _m_ in world region _wr_ at time step _t_ [MJ/pkm]
-- TPFtmi
-    wr
-       ,(): freight transport performance of powertrain _i_ and mode _m_ in world
-region _wr_ at time step _t_ [tkm/a]
-- TPPtmi
-    wr
-       ,(): passenger transport performance of powertrain _i_ and mode _m_ in
-world region _wr_ at time step _t_ [pkm/a]
-- TTED(t): total transport (final) energy demand at time step _t_ [PJ/year]
+
+– SECFmi t
 
 ```
-The estimated plug-in hybrid electric vehicles, battery electric vehicles, and fuel-
+wr
+, (): specific freight mode energy consumption of powertrain i and
+mode m in world region wr at time step t [MJ/tkm]
 ```
+– SECPmi t
+
+```
+wr
+, (): specific passenger mode energy consumption of powertrain i and
+mode m in world region wr at time step t [MJ/pkm]
+```
+– TPFtmi
+
+```
+wr
+, (): freight transport performance of powertrain i and mode m in world
+region wr at time step t [tkm/a]
+```
+– TPPtmi
+
+```
+wr
+, (): passenger transport performance of powertrain i and mode m in
+world region wr at time step t [pkm/a]
+```
+– TTED(t): total transport (final) energy demand at time step t [PJ/year]
+
+The estimated plug-in hybrid electric vehicles, battery electric vehicles, and fuel-
+
 cell-electric vehicles stocks are considered mode by mode, using their respective
 
 battery capacities, vehicle-specific life expectancies, total battery capacity by mode,
 
-world region, and year, to estimate the total transport battery demand (Chap. 11).
+world region, and year, to estimate the total transport battery demand (Chap. [^11]:).
 
 ```
 S. Teske et al.
 ```
-
 ```
 39
 ```
@@ -7819,100 +5512,61 @@ they use a backcasting process to deliver potential transformation pathways for 
 
 energy system. Technical bottom-up scenarios are developed to meet the climate
 
-targets in terms of cumulative CO 2 emissions and are then compared with a refer-
-
+targets in terms of cumulative CO[^2]: emissions and are then compared with a refer-
 ence case. The scenarios are based on detailed input data sets that consider defined
 
 targets, renewable and fossil fuel energy potentials, and specific parameters for
-
 power, heat, and fuel generation in the energy systems. The scenarios are repre-
-
 sented in the Energy System model (EM) developed by the DLR, which is imple-
-
-mented in the energy simulation platform Mesap/PlaNet (Seven2one 2012 ;
-
-Schlenzig 1998 ). Mesap/PlaNet is an accounting framework that allows the calcula-
-
+mented in the energy simulation platform Mesap/PlaNet (Seven2one [^2012]:;
+Schlenzig [^1998]:). Mesap/PlaNet is an accounting framework that allows the calcula-
 tion of detailed and complete energy system balances, from demand to energy sup-
-
 ply, in 5-year steps up to 2050. The model consists of two independent modules:
 
-- a flow calculation module, which balances energy supply and demand annually,
-
-```
+• a flow calculation module, which balances energy supply and demand annually,
 and
-```
-- a cost calculation module for the calculation of the corresponding investment,
-
-```
+• a cost calculation module for the calculation of the corresponding investment,
 generation, and fuel costs.
-```
-```
+
 The strength of the model framework is in its flexible and transparent modelling
-```
 of different normative paths. The approach requires exogenously defined expansion
-
 rates and market shares. It explicitly renounces economic optimization because of
-
 the uncertainty of long-term cost assumptions. Therefore, scenario development
-
 using this modelling approach is mainly based on background knowledge and
-
 derived narratives, and the experience and knowledge of the scenario developer is
-
 essential to the success of the scenario-building process. The model acts as a frame-
-
 work for integrating a wide variety of aspects of the transformation of energy sys-
-
 tems, and therefore differs fundamentally from optimization models. The
-
 standardized cost calculation for the power sector is used for the ex-post evaluation
-
 of the scenarios. The modelling framework combines a database with a graphical
-
 programming interface. The database allows the management of both the input
-
 parameters and the simulation output for the different scenarios calculated. The
-
 graphical interface allows the definition of the structure of the modelled system and
-
 the quantitative interdependences between the individual structural elements at dif-
-
 ferent structural depths.
-
-```
 The scope of the scenario model allows the increasing electrification processes
-```
 in the heating and transport sectors to be considered, such as electric vehicles, elec-
-
 tric boilers, heat pumps, and hydrogen use. Co-generation in different sectors is also
-
 explicitly represented in the model. The EM is implemented in this framework and
-
 Figure 3.6 gives an overview of its structure.
-
-```
 Details of the structure and relevant model equations were also recently described
-```
-by Simon et  al. ( 2018 ). The model calculates the energy flows of a system on an
+by Simon et  al. ([^2018]:). The model calculates the energy flows of a system on an
 
-3 Methodology
-
+[^3]: Methodology
 
 40
 
 annual basis. These flows connect a set of technologies in each sector and for all
-
 relevant energy carriers, using linear equations. The equation system is solved
-
 sequentially and the model thus balances demand and supply. This approach is
-
 applied over the scenario period in 5-year steps until 2050. Ultimately, the overall
-
 final energy is calculated as described in the following equations:
 
 ```
-FDssfe tUED tMSt t
+FDss tUED tMSt t
+```
+```
+fe
 et
 ```
 ```
@@ -7922,22 +5576,17 @@ ss ss
 et
 fe
 ```
-```
-et
-```
-##### ()=∑ ()⋅ ()⋅η ()
+##### ()= ∑ ()⋅ ()⋅ηet ()
 
 ```
-FDfe tFDt
-ss
-```
-```
-ss
-```
-```
+FD tFDt
 fe
+ss
 ```
-##### ()=∑ ()
+```
+ss
+```
+##### ()= ∑ fe ()
 
 ```
 TFDt FD tFDt UEDtMS
@@ -7957,38 +5606,36 @@ ss fe et
 ```
 ss ss
 ```
-```
-et
-```
-##### ()=∑∑()= ∑ ()=∑∑∑ ()⋅ tttfe
+##### ()= ∑∑()= ∑ ()= ∑∑∑ ()⋅ et tttfe
 
 ```
-et
-()⋅η ()
-```
+()⋅ηet ()
 ```
 with:
-```
-- FDss,fe(t): demand of (final) energy carrier _fe_ in sub-sector _ss_^1 at time step _t_ [PJ/
 
-```
+• FDss,
+fe(t): demand of (final) energy carrier fe in sub-sector ss1 at time step t [PJ/
 year]
-```
-- FDss,fe(t): total demand of (final) energy carrier _fe_ at time step _t_ [PJ/year]
-- TFD(t): total final energy demand at time step _t_ [PJ/year]
+• FDss,
+fe(t): total demand of (final) energy carrier fe at time step t [PJ/year]
+• TFD(t): total final energy demand at time step t [PJ/year]
 
-(^1) The sub-sectors include ‘heat’ and ‘non-heat electrical appliances’ in the sectors ‘Industry’ and
+[^1]:The sub-sectors include ‘heat’ and ‘non-heat electrical appliances’ in the sectors ‘Industry’ and
 ‘Residential and other’, aviation, road transport, navigation, rail transport, non-energy consump-
 tion, the conversion sector, and storage and transmission losses for power and district heat.
 Conversion losses are taken into account in the calculation of the primary energy demand.
-**Input Energy System Model Results
-Sectors: Final energy
-demand**
 
-- transport(seeTM)
-- industry
-- residential& service
-    etc.
+```
+Input Energy System Model Results
+```
+```
+Sectors: Final energy
+demand
+```
+•transport(seeTM)
+•industry
+•residential& service
+etc.
 
 ```
 power demand
@@ -7996,37 +5643,37 @@ power demand
 ```
 Heatingtechnologies:
 ```
-- directheating: fossil
-    burner, biomass burner,
-    heat pump, solar
-    collectors, electric heat
-- district heating: CHP &
-    heat plants
+•directheating: fossil
+burner, biomass burner,
+heat pump, solar
+collectors, electric heat
+•district heating: CHP &
+heat plants
 
 ```
 Power sector:
 ```
-- power plants: fossil,
-    nuclear, renewable
-- CHP plants: fossil, fuel cell
-- biomass, geothermal,
+•power plants: fossil,
+nuclear, renewable
+•CHP plants: fossil, fuel cell
+•biomass, geothermal,
 
 ```
 Primary energy
 supply:
 ```
-- fossil: coal, gas, oil
-- nuclear
-- renewable:hydro,
-    wind, solar,
-    biomass,
-    geothermal, wave
+•fossil: coal, gas, oil
+•nuclear
+•renewable:hydro,
+wind, solar,
+biomass,
+geothermal, wave
 
 ```
 heatdemand
 ```
 ```
-CO 2 -emissions
+CO2-emissions
 ```
 ```
 Drivers:
@@ -8045,9 +5692,9 @@ LCOE
 ```
 Fuel production:
 ```
-- H 2 -production
-- biofuels
-- refineriesetc.
+•H2-production
+•biofuels
+•refineriesetc.
 
 ```
 fuel
@@ -8070,38 +5717,28 @@ intensities
 ```
 S. Teske et al.
 ```
-
 ```
 41
 ```
-- UEDss(t): useful energy demand / transport services in sub-sector _ss_ at time step
-
-```
+• UEDss(t): useful energy demand / transport services in sub-sector ss at time step
 t [PJ/year]
-```
-- MSsset(t): market share of end-sector technology _et_ in sub-sector _ss_
-
-```
+• MSss
+et(t): market share of end-sector technology et in sub-sector ss
 [dimensionless]
-```
-- ηfeet(t): efficiency of end-sector technology _et_ using energy carrier _fe_^2 at time step
-
-```
+• ηfe
+et(t): efficiency of end-sector technology et using energy carrier fe2 at time step
 t [dimensionless]
-```
-- _t_ : time step
+• t: time step
+
+The indices denote:
 
 ```
-The indices denote:
-```
-```
-ss : sub-sector
-fe : (final) energy carrier
-et : end-sector technology
-```
+ss: sub-sector
+fe: (final) energy carrier
+et: end-sector technology
 ```
 The primary energy demand (without exports) is calculated as follows:
-```
+
 ```
 PD tFDtMS tt
 pe
@@ -8115,74 +5752,55 @@ fe
 ct
 fe
 ```
-```
-ct
-```
-##### ()=∑∑ ()⋅ ()⋅η ()
+##### ()= ∑∑ ()⋅ ()⋅ηct ()
 
 ```
 TPDt PD t
 pe
 ```
-```
-pe
-```
-##### ()=∑ ()
+##### ()= ∑ pe ()
 
-```
 with
-```
-- PDpe(t): total demand of (primary) energy carrier _pe_ at time step _t_ [PJ/year]
-- TPD(t): total primary energy demand at time step _t_ [PJ/year]
-- MSfect(t): market share of conversion technology _ct_ in the generation of final
 
-```
+• PDpe(t): total demand of (primary) energy carrier pe at time step t [PJ/year]
+• TPD(t): total primary energy demand at time step t [PJ/year]
+• MSfe
+ct(t): market share of conversion technology ct in the generation of final
 energy carrier fe [dimensionless]
-```
-- ηfect(t): efficiency of conversion technology^3 _ct_ using the final energy carrier _fe_ at
-
-```
+• ηfe
+ct(t): efficiency of conversion technology3 ct using the final energy carrier fe at
 time step t [dimensionless]
-```
-```
+
 The indices denote:
-```
-- _pe_ : (primary) energy carrier
-- _ct_ : conversion sector technology^4
 
-```
+• pe: (primary) energy carrier
+• ct: conversion sector technology[^4]
+
 The drivers of energy consumption include forecasts of population growth, gross
-```
 domestic product (GDP), and energy intensities. Specific energy intensities are
-
 assumed for:
 
-- electricity and heat consumption per person and per GDP;
-- the ratio of industrial heat demand to GDP;
+• electricity and heat consumption per person and per GDP;
+• the ratio of industrial heat demand to GDP;
 
-(^2) Note that some technologies (e.g., electric heat pumps) require two energy carriers as inputs
+[^2]:Note that some technologies (e.g., electric heat pumps) require two energy carriers as inputs
 (electricity and environmental heat), with a specific efficiency for each energy carrier.
-(^3) Some conversion technologies produce more than one output, e.g. CHP plants, leading to con-
+[^3]:Some conversion technologies produce more than one output, e.g. CHP plants, leading to con-
 straints on efficiencies or market shares.
-(^4) Power and district heat generation, biofuel, synfuel, and H 2 generation, and refineries.
-3 Methodology
+[^4]:Power and district heat generation, biofuel, synfuel, and H[^2]: generation, and refineries.
 
+[^3]: Methodology
 
 42
 
-- demand for energy services, such as useful heat;
-- different transport modes based on the Transport Model (see Sect. 3.4).
+• demand for energy services, such as useful heat;
+• different transport modes based on the Transport Model (see Sect. 3.4).
 
-```
 The model consists of a broad technology database across the heat, fuel, and
-```
 power sectors, including sector coupling via combined heat and power (CHP),
-
 power-to-heat, and power-to-fuels technologies, and electric mobility.
-
-```
 For both heat and electricity production, the model distinguishes between differ-
-```
+
 ent technologies, characterized by their primary energy sources, efficiency, and
 
 costs. Examples include biomass or gas burners, heat pumps, solar thermal and
@@ -8201,27 +5819,24 @@ costs, and societal, structural, and economic barriers. The model eventually cal
 
 lates the annual energy flows for a set of energy carriers.
 
-```
 The main inputs of the Energy System Model are:
-```
-- IEA World Energy Balances 2017 (IEA 2016a) for the calibration of the model
 
-```
+• IEA World Energy Balances 2017 (IEA 2016a) for the calibration of the model
+
 for each world region in the years 2005–2015;
-```
-- IEA World Energy Outlook 2016/2017 (IEA 2016b, 2017a) for the parameteriza-
 
-```
+• IEA World Energy Outlook 2016/2017 (IEA 2016b, 2017a) for the parameteriza-
+
 tion of the model for the reference case (5.0 °C Scenario);
-```
-- various studies and statistics used for the assumption of further specific values,
+
+• various studies and statistics used for the assumption of further specific values,
 
 ```
 such as the power-to-heat ratios of co-generation plants, coefficients of perfor-
 mance of heat pumps, and the efficiency of hydrogen electrolysers and synthetic
 fuel production plants;
 ```
-- narratives and assumptions regarding the further development of demand and
+• narratives and assumptions regarding the further development of demand and
 
 ```
 supply technologies in line with the climate targets and by taking into account
@@ -8229,32 +5844,29 @@ RES potentials and costs, stable market developments, and the constraints
 imposed by production capacities and regional implementation. These assump-
 tions and narratives are described in detail in Chap. 5, Sect. 4.
 ```
-```
 The main outputs of the model are:
-```
-- the final and primary energy demands, broken down by fuel, technology, and
+
+• the final and primary energy demands, broken down by fuel, technology, and
 
 ```
 energy sectors, as defined by the International Energy Agency (IEA)—industry,
 power generation, transport, and other (buildings, forestry, and fisheries);
 ```
-- the results broken down by the three main types of energy demand—electricity,
+• the results broken down by the three main types of energy demand—electricity,
 
 ```
 heating, and mobility (transport); specifically, the energy required, technology
 deployment, and financial investment for each of these energy demand types;
 ```
-- total energy budget, which is the total cost of energy for the whole power
+• total energy budget, which is the total cost of energy for the whole power
 
-```
 system;
-```
-- energy-related CO 2 emissions over the projected period.
+
+• energy-related CO2 emissions over the projected period.
 
 ```
 S. Teske et al.
 ```
-
 ```
 43
 ```
@@ -8283,12 +5895,10 @@ and consists of two modules:
 1. a flow calculation module, which balances the energy supply and demand; and
 2. a cost calculation module, which calculates the corresponding generation and
 
-```
 fuel costs.
-```
-```
+
 The [R]E 24/7 model examines the influence of the dispatch order of power-
-```
+
 generation technologies, the storage technologies, and the interconnection of up to
 
 eight regions. It calculates the impact of these variables on the overall system costs.
@@ -8301,9 +5911,9 @@ use. The factors and applications used depend on the GDP and population (see Sec
 
 3.2).
 
-**_3.5.1 [R]E 24/7—Model Structure_**
+**3.5.1 [R]E 24/7—Model Structure**
 
-Teske ( 2015 ) has developed a three-level grid model called ‘[R]E 24/7’ as a grid
+Teske ([^2015]:) has developed a three-level grid model called ‘[R]E 24/7’ as a grid
 
 analysis tool that differentiates between four voltage levels. For this analysis, the
 
@@ -8331,18 +5941,17 @@ The data are partly with the GIS tool (see Sect. 3.2) and partly from other info
 
 tion resources, such as publicly available databases of populations (UN PD DB
 
-2018 ), GDP (CIA 2018 ; ST 7- 2018 ), and energy efficiency indicators (WEC 2018 ),
+[^2018]:), GDP (CIA [^2018]:; ST 7-[^2018]:), and energy efficiency indicators (WEC [^2018]:),
 
-3 Methodology
-
+[^3]: Methodology
 
 44
 
 and statistical data on renewable power generation from IRENA (REN21-GSR
 
-2018 ) and the World Resources Institute (WRI 2018 ).
+[^2018]:) and the World Resources Institute (WRI [^2018]:).
 
-**_3.5.2 Development and Calculation of Load Curves_**
+**3.5.2 Development and Calculation of Load Curves**
 
 Energy demand projections and the calculation of load curves are important factors
 
@@ -8355,24 +5964,17 @@ generation. The [R]E 24/7 model calculates the development of the future power
 demand and the resulting possible load curves, because:
 
 (a) Actual demand curves are not available for all countries and/or regions and are
-
-```
 sometimes classified information.
-```
+
 (b) Future load curves with high penetration of storage, electric heating systems
 
-```
 and electric mobility will have a very different shape than current load curves.
-```
 (c) For developing countries with low access to energy rates or little access to suf-
-
-```
 ficient data, the curves must be calculated based on a set of assumptions because
 actual curves are neither available nor representative of future load curves.
-```
-```
+
 The model generates load curves and the resulting annual power demands for
-```
+
 three different consumer groups/sectors:
 
 1. Calculation of each cluster
@@ -8432,7 +6034,7 @@ Distributionof
 HouseholdDemand
 ```
 ```
-Interco nnection
+Interconnection
 ```
 ```
 Storage
@@ -8517,29 +6119,25 @@ CurveProjection
 ```
 S. Teske et al.
 ```
-
 ```
 45
 ```
-- households;
-- industry and business; and
-- transport (public and individual electric mobility).
+• households;
+• industry and business; and
+• transport (public and individual electric mobility).
 
-```
 Although each sector has its specific consumer groups and applications, the same
-```
+
 set of parameters is used to calculate load curves:
 
-- electrical applications in use;
-- demand pattern (24 h);
-- efficiency progress (base year 2015) for 2020 until 2050, and individual effi-
+• electrical applications in use;
+• demand pattern (24 h);
+• efficiency progress (base year 2015) for 2020 until 2050, and individual effi-
 
-```
 ciency input for each year.
-```
-```
+
 The calculations involve detailed bottom-up projections of the increased use of
-```
+
 electricity for heating in buildings, for industrial process heat, for electric mobility,
 
 and for the production of synthetic fuels and hydrogen. They also include increased
@@ -8550,9 +6148,8 @@ patterns, and the household types. This allows detailed demand projections to be
 
 made.
 
-```
 Infrastructure needs, such as power grids combined with storage facilities,
-```
+
 require in-depth knowledge of local loads and generation capacities. In this project,
 
 the annual electricity demand for each of the 10 world regions was calculated with
@@ -8561,126 +6158,98 @@ the long-term EM. The [R]E 24/7 model breaks each region into up to eight sub-
 
 regions (or clusters) to calculate hourly load and generation curves.
 
-**_3.5.3 Load Curve Calculation for Households_**
+**3.5.3 Load Curve Calculation for Households**
 
 The model differentiates nine household groups, with various degrees of electrifica-
 
 tion and equipment:
 
-- Rural—phase 1: Minimal electrification stage
-- Rural—phase 2: White goods are introduced and increase the overall demand
-- Rural—phase 3: Fully equipped western-standard household with electrical
+• Rural—phase 1: Minimal electrification stage
+• Rural—phase 2: White goods are introduced and increase the overall demand
+• Rural—phase 3: Fully equipped western-standard household with electrical
 
-```
 cooking and air conditioning and electric vehicle(s)
-```
-- Urban single: Single-person household with minimal equipment
-- Urban shared flat: 3–5 persons share one apartment; fully equipped western
 
-```
+• Urban single: Single-person household with minimal equipment
+• Urban shared flat: 3–5 persons share one apartment; fully equipped western
+
 household, but without electric vehicles
-```
-- Urban—Family 1: 2 adults and 2–3 children; middle income, middle western
 
-```
+• Urban—Family 1: 2 adults and 2–3 children; middle income, middle western
+
 standard
-```
-- Urban—Family 2: 2 adults and > 3 children and/or higher income, full western
 
-```
+• Urban—Family 2: 2 adults and > 3 children and/or higher income, full western
+
 standard
-```
-- Suburbia 1: average family, middle income, full equipment, high transport
 
-```
+• Suburbia 1: average family, middle income, full equipment, high transport
+
 demand due to extensive commuting
-```
-- Suburbia 2: High-income household, fully equipped, extremely high transport
 
-```
+• Suburbia 2: High-income household, fully equipped, extremely high transport
+
 demand due to high-end vehicles and extensive commuting
-```
-3 Methodology
 
+[^3]: Methodology
 
 46
 
-```
 The following electrical equipment and applications can be selected:
-```
-- Lighting: 4 different light bulb types (LED, three efficiency classes of CFLs),
-- Cooking: 10 different cooking stoves (2+4 burners, electricity, gas, firewood)
-- Entertainment: 3 different efficiency levels of computers, TV, and radio types
-- White goods: 2 different efficiency levels each for washing machine, dryer,
 
-```
+• Lighting: 4 different light bulb types (LED, three efficiency classes of CFLs),
+• Cooking: 10 different cooking stoves (2+4 burners, electricity, gas, firewood)
+• Entertainment: 3 different efficiency levels of computers, TV, and radio types
+• White goods: 2 different efficiency levels each for washing machine, dryer,
+
 fridge, freezer
-```
-- Climatization: 2 different efficiency levels each for fan, air-conditioning
-- Water heating: A selection of direct electric, heat-pump, and solar heating
 
-```
+• Climatization: 2 different efficiency levels each for fan, air-conditioning
+• Water heating: A selection of direct electric, heat-pump, and solar heating
+
 systems
-```
-**_3.5.4 Load Curve Calculation for Business and Industry_**
+
+**3.5.4 Load Curve Calculation for Business and Industry**
 
 The industrial sector is clustered into eight groups based on widely used statistical
 
 categories:
 
-- Agriculture
-- Manufacturing
-- Mining
-- Iron and steel
-- Cement industry
-- Construction industry
-- Chemical industry
-- Service and trade
+• Agriculture
+• Manufacturing
+• Mining
+• Iron and steel
+• Cement industry
+• Construction industry
+• Chemical industry
+• Service and trade
 
-```
 Each sector has a definite energy intensity in energy per dollar GDP (MJ/$GDP),
-```
 which is been converted to electrical units (kW/$GDP) based on an estimated fuel
-
 efficiency factor, electricity shares, and operational hours per year. The calculated
-
 electricity intensity per dollar GDP conversion can only show the required con-
-
 nected load and the specific consumption of an industrial sector to a first approxima-
-
 tion because there is a variety of uncertainty factors, such as:
 
 (a) significant regional differences;
-
 (b) significant demand differences within one industry sector, such as _manufactur-_
-
-```
-ing or chemical industry ;
-```
+_ing_ or _chemical industry_;
 (c) lack of standardized data on industry energy demands, especially for the elec-
-
-```
 tricity sector.
-```
-```
+
 Despite the high degree of uncertainty, we decided to apply this methodology
-```
 because after an initial calibration, the current statistically recorded industrial elec-
-
 tricity consumption in some well-documented countries (e.g., USA) and regions
-
 (e.g., Europe) can be recalculated with a tolerance of ± 10%. However, this method-
-
 ology requires further research.
 
 ```
 S. Teske et al.
 ```
-
 ```
 47
 ```
-**_3.5.5 Load Distribution by Cluster_**
+**3.5.5 Load Distribution by Cluster**
 
 The spatial concept of the [R]E 24/7 is shown in Fig. 3.8. The model calculates the
 
@@ -8720,31 +6289,31 @@ The distribution of the regional load, calculated in Sects. 3.3 and 3.4, is con-
 nected to the projected GDP, population, and power plant capacities for each cluster.
 
 ```
-C 1 C 5
+C1 C5
 LocalGeneration LocalGeneration
 Interconnection- Interconnection-
-CapacityC 1 CapacityC 5
+CapacityC1 CapacityC5
 ```
 ```
-C 2 C 6
+C2 C6
 LocalGeneration LocalGeneration
 Interconnection- Interconnection-
-CapacityC 2 CapacityC 6
+CapacityC2 CapacityC6
 ```
 ```
-C 3 C 7
+C3 C7
 LocalGeneration LocalGeneration
 Interconnection- Interconnection-
-CapacityC 3 CapacityC 7
+CapacityC3 CapacityC7
 ```
 ```
-C 4 C 8
+C4 C8
 LocalGeneration LocalGeneration
 Interconnection- Interconnection-
-CapacityC 4 CapacityC 8
+CapacityC4 CapacityC8
 ```
 ```
-Data:USAStatistics Data:MexicoStatistics
+Data:USAStatistics Data:Mexico Statistics
 ```
 ```
 INTERCONNECTION OF CLUSTERS
@@ -8761,8 +6330,8 @@ Populaon Populaon
 GDPGDP
 ```
 ```
-C 5 C 8
-Cluster=XUSStates Cluster=Country
+C5 C8
+Cluster= X US States Cluster= Country
 ```
 ```
 Data:USAStatistics Data:CANADAStatistics
@@ -8776,8 +6345,8 @@ Populaon Populaon
 GDPGDP
 ```
 ```
-C 1 C 2
-Cluster=USState Cluster= 4 CanadianStates
+C[^1] C[^2]
+Cluster=US State Cluster=4 Canadian States
 ```
 10. Oceania Pacific
 8. IndiaC7. South East USA
@@ -8790,14 +6359,13 @@ Cluster=USState Cluster= 4 CanadianStates
 3. Europe C2. West Canada
 
 ```
-Regions Sub-Regions(Cluster)
+Regions Sub-Regions (Cluster)
 ```
-1. OECD North America e.g.NorthAmerica
+1. OECD North America e.g. North America
 
 **Fig. 3.8** Spatial concept of the [R]E 24/7 model
 
-3 Methodology
-
+[^3]: Methodology
 
 48
 
@@ -8823,7 +6391,7 @@ load curve over one entire year (8760  h). Thus, one region (e.g., OCED North
 
 America) has eight different load curves.
 
-**_3.5.6 The [R]E 24/7 Dispatch Module_**
+**3.5.6 The [R]E 24/7 Dispatch Module**
 
 Although the dispatch module for the [R]E 24/7 energy access model has been
 
@@ -8831,11 +6399,11 @@ developed specifically for this study, integral parts have been taken from a mod
 
 developed to analyse the generation and storage needs for a micro grid on Kangaroo
 
-Island (Dunstan and Fattal 2016 ), the Australian Storage Requirements (Rutovitz
+Island (Dunstan and Fattal [^2016]:), the Australian Storage Requirements (Rutovitz
 
-and James 2017 ), and a 100% Renewable Energy Analysis for Tanzania (Teske and
+and James [^2017]:), and a 100% Renewable Energy Analysis for Tanzania (Teske and
 
-Morris 2017 ). The key objective of this modelling is to calculate the theoretical
+Morris [^2017]:). The key objective of this modelling is to calculate the theoretical
 
 generation and storage requirements for energy adequacy in each cluster and for the
 
@@ -8871,83 +6439,54 @@ Cap Interconnection Capacity Interconnection [MW]
 ```
 S. Teske et al.
 ```
-
 ```
 49
 ```
 tion at hourly resolution. The calculation of one region with eight sub-regions will
-
 require eight calculation intervals. Table 3.4 shows the four different supply tech-
-
 nology groups: variable renewables, dispatch power plants, storage technologies,
-
 and interconnections. The model allows the order in which the technology groups
-
 will be utilized to be changed to satisfy the demand. Storage and interconnection
-
 cannot be selected as the first supply technology. Within each technology group, the
-
 dispatch order can be changed. Tables 3.5, 3.6, and 3.7 provide an overview of all
-
 the available technologies and examples of different dispatch scenarios. While CSP
-
 plants with storage are dispatchable to some extent—depending on the storage size
-
 and the available solar radiation—they are part of the variable renewable group in
-
 the [R]E 24/7 model. Although the model allows the dispatch order to change, the
-
 100% renewable energy analysis always follows the same dispatch logic. The model
-
 identifies excess renewable production, which is defined as potential wind and solar
-
 PV generation greater than the actual hourly demand in MW during a specific hour.
-
 To avoid curtailment, the surplus renewable electricity should be stored with some
-
 form of electric storage technology or exported to a different cluster. Within the
-
 model, the excess renewable production accumulates through the dispatch order. If
-
 storage is present, it will charge the storage within the limits of the input capacity.
-
 If no storage is present, this potential excess renewable production is reported as
-
 ‘potential curtailment’ (pre-storage).
 
 **Limitations:** It is important to note that the calculation of possible interconnection
-
 capacities for transmission grids between sub-regions does not replace technical
-
 grid simulation. Grid services, such as inductive power supply, frequency control,
-
 and stability, should be analysed, although this is beyond the scope of this analysis.
-
 The results of [R]E 24/7 provide a first rough estimate of whether the increased use
-
 of storage or increased interconnection capacities or a mix of both will reduce sys-
-
 tems costs.
 
 **Table 3.3** Output parameters for the dispatch model
-
-```
 Output parameter
 L Initial Initial Load (Cluster + Interconnection) [MW]
-L Post_Var.RE Load after Variable Renewable Supply [MW]
+L Post_Var.RE Load after _Variable Renewable_ Supply [MW]
 S EXECC_VAR.RE Access supply Renewables [MW]
-L Post_Storage Load after Storage Supply [MW]
+L Post_Storage Load after _Storage_ Supply [MW]
 S Storage Storage Requirement/Curtailment [MW]
 CapFact Actual_Storage Utilization Factor Storage [h/year]
-L Post_Dispatch Load after Dispatch Power Plant Supply [MW]
+L Post_Dispatch Load after _Dispatch Power Plant_ Supply [MW]
 S Dispatch Dispatch Requirement [MW]
-CapFact Actual_Dispatch Utilization Factor Dispatch Power Plants [h/year]
-L Post_Interconnection Load after Interconnection Supply [MW]
+CapFact Actual_Dispatch Utilization Factor _Dispatch Power Plants_ [h/year]
+L Post_Interconnection Load after _Interconnection_ Supply [MW]
 S Interconnection Interconnection Requirement [MW]
-CapFact Actual_Interconnection: Utilization Factor Interconnection [h/year]
-```
-3 Methodology
+CapFact Actual_Interconnection: Utilization Factor _Interconnection_ [h/year]
 
+[^3]: Methodology
 
 50
 
@@ -8955,16 +6494,16 @@ CapFact Actual_Interconnection: Utilization Factor Interconnection [h/year]
 INPUT OUTPUT
 ```
 ```
-Equation 1
+Equation1
 ```
 ```
-Equation 2
+Equation2
 ```
 ```
-Equation 3
+Equation3
 ```
 ```
-Equation 4
+Equation4
 ```
 ```
 Result
@@ -9010,7 +6549,7 @@ CapFactActual [h/yr]
 ```
 LPost_Storage [MW/h]
 Cap Dispatch [MW]
-CapFact Max_DP[h/yr]
+CapFact Max_DP [h/yr]
 ```
 ```
 Dispatch
@@ -9024,6 +6563,8 @@ CapFactActual_DP[h/yr]
 ```
 LPost_Dispatch [MW/h]
 Cap Intercon [MW]
+```
+```
 Inter-
 connecon
 ```
@@ -9031,19 +6572,19 @@ connecon
 LPost_IN [MW/h]
 ```
 ```
-CapFactActual_IN[h/yr]
+CapFactActual_IN [h/yr]
 ```
 ```
-ion 1
+ion1
 ```
 ```
-ion 2
+ion2
 ```
 ```
-ion 3
+ion3
 ```
 ```
-ion 4
+ion4
 ```
 ```
 LInial [MW/h]
@@ -9081,24 +6622,17 @@ SIntercon [MW/h]
 ```
 S. Teske et al.
 ```
-
 ```
 51
 ```
-**_3.5.7 Meteorological Data_**
+**3.5.7 Meteorological Data**
 
 Variable power-generation technologies are dependent on the local solar radiation
-
 and wind regimes. Therefore, all installed capacities of this technology group are
-
 connected to cluster-specific time series. The data were derived from the database
-
-_Renewable Ninja_ (RE-N DB 2018 ), which allows the simulation of the hourly
-
+_Renewable Ninja_ (RE-N DB [^2018]:), which allows the simulation of the hourly
 power output from wind and solar power plants at specific geographic positions
-
 throughout the world. Weather data, such as temperature, precipitation, and snow-
-
 fall, for the year 2014 are also available.
 
 **Table 3.4** Technology
@@ -9145,17 +6679,15 @@ Coal Brown Coal
 Brown coal Oil
 Nuclear Nuclear
 ```
-3 Methodology
-
+[^3]: Methodology
 
 52
 
-```
 To utilize climatization technologies for buildings (air-conditioning, electric
-```
+
 heating), the demand curves for households and services are connected to the
 
-cluster- specific temperature time series. The demand for lighting is connected to the
+cluster-specific temperature time series. The demand for lighting is connected to the
 
 solar time series to accommodate the variability in lighting demand across the year,
 
@@ -9183,9 +6715,8 @@ uses (as described in the mapping methodology). A roof-top solar indicative site
 
 was chosen in the demographic centre of the region, usually the capital city.
 
-```
 The onshore wind indicative site selected for each region was situated in an area
-```
+
 of non-competing land use with the highest average wind speed and close to the
 
 transmission network or regional centre or city. The offshore wind indicative site
@@ -9198,9 +6729,8 @@ acceptable wind area within a region was available, in which case the wind poten
 
 was set to zero.
 
-```
 Once the indicative sites were chosen, the hourly output values for typical solar
-```
+
 arrays and wind farms were selected using the database of Stefan Pfenninger at
 
 ETH Zurich and Iain Stafell (Renewables.ninja; see above). The model methodol-
@@ -9209,9 +6739,9 @@ ogy used by the Renewables.ninja database is described by Pfenninger and Staffel
 
 (2016a, b), and is based on weather data from global reanalysis models and satellite
 
-observations (Rienecker and Suarez 2011 ; Müller and Pfeifroth, 2015 ; SARAH
+observations (Rienecker and Suarez [^2011]:; Müller and Pfeifroth, [^2015]:; SARAH
 
-2018 ). It was assumed that the utility solar sites were optimized, and as such, a tilt
+[^2018]:). It was assumed that the utility solar sites were optimized, and as such, a tilt
 
 angle was selected within a couple of degrees of the latitude of the indicative site.
 
@@ -9233,19 +6763,13 @@ H2 H2
 ```
 S. Teske et al.
 ```
-
 ```
 53
 ```
-```
 The wind outputs for both onshore and offshore wind were calculated at an 80 m
-```
 hub height because this reflects the wind data sets used in the mapping exercise.
-
 Although onshore wind and offshore wind are likely be higher than this, 80 m was
-
 considered a reasonable approximation and made our model consistent with the
-
 mapping-based predictions. A turbine model of Vestas V90 2000 was used.
 
 **Limitations:** The solar and wind resources can differ within one cluster. In some
@@ -9266,77 +6790,49 @@ with a large east–west spread requires high-resolution modelling, which is pos
 
 with the [R]E 24/7 model but beyond the scope of this research project.
 
-**_3.5.8 Interconnection Capacities_**
+**3.5.8 Interconnection Capacities**
 
 The interconnection capacities are set as a function of the total generation capacity
-
 within a cluster and a manually set percentage. Defining the relevant percentage of
-
 a country’s overall (peak) capacity and/or total generation capacity is based on
-
 European energy policy. The European Union (EU) proposed in 2002 that all EU
-
 member states must establish a transmission capacity of at least 10% of the peak
-
-demand (in megawatts) by 2005 (EMP-BARCELONA 2002 ). The EU developed
-
+demand (in megawatts) by 2005 (EMP-BARCELONA [^2002]:). The EU developed
 this regulation further, improved the calculation method, and increased the target to
-
-15% (EU-EG 2017 ), whereas the [R]E 24/7 model implements a simplified approach
-
+15% (EU-EG [^2017]:), whereas the [R]E 24/7 model implements a simplified approach
 by taking a percentage of the overall installed capacity. Clusters that are not con-
-
 nected at all to the real energy market (e.g., South Korea, Japan, Australia, and New
-
 Zealand in the OECD Pacific region) are assigned 0% interconnection capacity.
-
 Responsibly well-connected clusters (such as the south-western USA) are set to
-
 15%, and highly interconnected countries (such as Denmark) are assigned up to
-
 40%.
-
-```
 Several simplifications have been made to the [R]E 24/7 model for ease of com-
-```
 putation and to accommodate the paucity of data and uncertainty about the future
-
 when designing the interconnector algorithms:
 
-- Interconnections between the project-defined regions are the only ones consid-
-
-```
-ered, so all intra-regional interconnections or line constraints are excluded (‘ cop-
-per plate ’);
-```
-- Optimal load flow is neglected because policy and price signals are considered to
-
-```
+– Interconnections between the project-defined regions are the only ones consid-
+ered, so all intra-regional interconnections or line constraints are excluded (‘cop-
+per plate’);
+– Optimal load flow is neglected because policy and price signals are considered to
 be the factors dominating the international and inter-regional load flow;
-```
-- Non-adjacent inter-regional interconnections are neglected for computational
-
-```
+– Non-adjacent inter-regional interconnections are neglected for computational
 reasons, e.g., one region cannot buy power from a region with which it does not
 share a border.
-```
-3 Methodology
 
+[^3]: Methodology
 
 54
 
-```
 The algorithm devised for the function of the interconnectors is based on three
-```
+
 key pieces of information for each region in a cluster:
 
-- Excess generation capacity;
-- Unmet load;
-- Interconnection capacity with each adjacent region, both in and out.
+– Excess generation capacity;
+– Unmet load;
+– Interconnection capacity with each adjacent region, both in and out.
 
-```
 The excess generation capacity and unmet load were calculated by running the
-```
+
 model without the interconnectors to determine the excess or shortfall in generation
 
 when the load within the region is met. These excesses and shortfalls were calcu-
@@ -9347,9 +6843,8 @@ consume power, for example, after the variable renewables and dispatchable gen-
 
 erators and before the storage elements.
 
-```
 The interconnection capacity between adjacent regions was defined based on a
-```
+
 percentage of the maximum regional load. The capacity was defined in a matrix,
 
 both to and from every region to every other region. For non-adjacent regions, the
@@ -9360,9 +6855,8 @@ given, so that if the region had an unmet load, it would be served sequentially 
 
 the excess generation of the loads in their defined order.
 
-```
 For every hour and for every region in each cluster, the possible interconnection
-```
+
 inflow or outflow for load balancing was calculated. Each region was considered in
 
 turn, and the algorithm attempted to meet the unmet load with excess generation by
@@ -9373,9 +6867,8 @@ capacities. Each region’s internal load was met first, before its generation r
 
 were considered for other interconnected regions.
 
-```
 Once the total inflow and outflow of the interconnectors were calculated, the
-```
+
 hourly values were fed into the model once more at the position in the cascade to
 
 which they were assigned, and the model was run again to give the total system
@@ -9402,16 +6895,15 @@ clean energy. National statistical agencies classify and collect data on occupat
 
 within the fossil fuel sectors but not within the renewable energy sectors (ABS
 
-2017 ). ISF has developed a model to estimate the volume of renewable energy jobs
+[^2017]:). ISF has developed a model to estimate the volume of renewable energy jobs
 
 under different 100% global renewable energy scenarios (Rutovitz and Dominish
 
-2015 ), and an increasing body of research is estimating the jobs created by
+[^2015]:), and an increasing body of research is estimating the jobs created by
 
 ```
 S. Teske et al.
 ```
-
 ```
 55
 ```
@@ -9421,7 +6913,7 @@ ology. Based on this, UTS/ISF has developed this methodology further, as present
 
 in Sect. 3.2.
 
-**_3.6.1 Quantitative Employment Calculation_**
+**3.6.1 Quantitative Employment Calculation**
 
 In 2015, the Institute for Sustainable Futures (ISF) at the University of Technology
 
@@ -9429,7 +6921,7 @@ Sydney (UTS) developed a quantitative employment model that calculates employ-
 
 ment development in the electricity, heating, and fuel production sectors for the
 
-analysis of future energy pathways (Rutovitz and Dominish 2015 ). Figure 3.10 pro-
+analysis of future energy pathways (Rutovitz and Dominish [^2015]:). Figure 3.10 pro-
 
 vides a simplified overview of how the calculations are performed, based on
 
@@ -9442,51 +6934,45 @@ for each calculated scenario, e.g., the 5.0 °C (Sect. 5.1.1) and 2.0 °C Scen
 ```
 (Sect. 5.1.2),
 
-- the electrical and heating capacity that will be installed each year for each
+• the electrical and heating capacity that will be installed each year for each
 
-```
 technology;
-```
-- the primary energy demand for coal, gas, and biomass fuels in the electricity and
 
-```
+• the primary energy demand for coal, gas, and biomass fuels in the electricity and
+
 heating sectors;
-```
-- the amount of electricity generated per year from nuclear power, oil, and diesel.
 
-```
+• the amount of electricity generated per year from nuclear power, oil, and diesel.
+
 for each technology:
-```
-- ‘employment factors’, or the number of jobs per unit of capacity, separated into
+
+• ‘employment factors’, or the number of jobs per unit of capacity, separated into
 
 ```
 manufacturing, construction, operation, and maintenance, and per unit of pri-
 mary energy for fuel supply;
 ```
-- for the 2020, 2030, and 2050 calculations, a ‘decline factor’ for each technology,
+• for the 2020, 2030, and 2050 calculations, a ‘decline factor’ for each technology,
 
 ```
 which reduces the employment factors by a certain percentage per year. This
 reflects the fact that employment per unit decreases as technology efficiencies
 improve.
 ```
-```
 for each region:
-```
-- the percentage of local manufacturing and domestic fuel production in each
+
+• the percentage of local manufacturing and domestic fuel production in each
 
 ```
 region, to calculate the proportions of jobs in manufacturing and fuel production
 that occur in the region;
 ```
-- the percentage of world trade in coal and gas fuels, and traded renewable compo-
+• the percentage of world trade in coal and gas fuels, and traded renewable compo-
 
-```
 nents that originates in each region.
-```
-```
+
 A ‘regional job multiplier’, which indicates how labour-intensive the economic
-```
+
 activity is in that region compared with the OECD, is used to adjust the OECD
 
 employment factors when local data are not available. The figures for the increase
@@ -9495,8 +6981,7 @@ in electrical capacity and energy use from each scenario are multiplied by the
 
 employment factors for each of the technologies, and then adjusted for regional
 
-3 Methodology
-
+[^3]: Methodology
 
 56
 
@@ -9504,9 +6989,8 @@ labour intensity and the proportion of fuel or manufacturing that occurs locally
 
 calculation is summarized in Fig. 3.10.
 
-```
 A range of data sources were used for the model inputs, including the International
-```
+
 Energy Agency, US Energy Information Administration, BP Statistical Review of
 
 World Energy, US National Renewable Energy Laboratory, International Labour
@@ -9515,9 +6999,8 @@ Organization, World Bank, industry associations, national statistics, company
 
 reports, academic literature, and the ISF’s own research.
 
-```
 These calculations only take into account direct employment; for example, the
-```
+
 construction team required to build a new wind farm. They do not include indirect
 
 employment; for example, the extra services provided in a town to accommodate
@@ -9536,65 +7019,35 @@ under the 5.0 °C and 2.0 °C Scenarios.
 
 ```
 Manufacturing (for
-local use) =
-```
-```
-MW installed per
-year in region x
-```
-```
-Manufacturing
-employment factor x
-```
-```
-Regional job multiplier
-for year x
-```
-```
-%local
+local use) = MW installed per
+year in region x Manufacturing
+employment factor x Regional job multiplier
+for year x %local
 manufacturing
 ```
 ```
 Manufacturing
-(for export) =
-```
-```
-MW exported per
-year x
-```
-```
-Manufacturing
-employment factor x
-```
-```
-Regional job multiplier
+(for export) = MW exported per
+year x Manufacturing
+employment factor x Regional job multiplier
 for year
 ```
 ```
-Construction = MW installed peryear^ x Construction employment factor x Regional job for year multiplier
+Construction = MW installed per
+year x Construction
+employment factor x Regional job multiplier
+for year
 ```
 ```
 Operation and
-Maintenance =Cumulative capacityx
-```
-```
-O&M employment
-factor x
-```
-```
-Regional job multiplier
+Maintenance =Cumulative capacityxO&M employment
+factor x Regional job multiplier
 for year
 ```
 ```
 Fuel supply
-(nuclear) =
-```
-```
-Electricity
-generation xFuel employment factor x
-```
-```
-Regional job multiplier
+(nuclear) = Electricity
+generation xFuel employment factor x Regional job multiplier
 foryear
 ```
 ```
@@ -9615,31 +7068,33 @@ Fuel employment factor
 coal)
 ```
 ```
-x Regional job for year multiplier^ x % of local production
+x Regional job multiplier
+for year x % of local
+production
 ```
 ```
-Heat supply = MW installed peryear^ x Emheat ployment factor for x Regional job for year multiplier^
+Heat supply = MW installed per
+year x Employment factor for
+heat x Regional job multiplier
+for year
 ```
 ```
-Jobs in region = Manufacturing+Construction+Operation and maintenance (O&M) + Fuel + Heat
+Jobs in region = Manufacturing+Construction+Operation and maintenance
+(O&M) + Fuel + Heat
 ```
 ```
 Employment factors at 2020,
-2030 or 2050 =2015 employment factor x Technology decline factor^
-```
-```
-[number of years after 2015]
+2030or 2050 =2015 employment factor x Technology decline factor[number of years after 2015]
 ```
 **Fig. 3.10** Quantitative employment calculation: methodological overview
 
 ```
 S. Teske et al.
 ```
-
 ```
 57
 ```
-**_3.6.2 Occupational Employment Modelling_**
+**3.6.2 Occupational Employment Modelling**
 
 The quantitative employment model documented in Sect. 3.6.1 were further devel-
 
@@ -9651,9 +7106,8 @@ modelling disaggregated occupational change, and this framework is described in
 
 this section.
 
-```
 Quantitative employment studies at the level of technology and project phases
-```
+
 (manufacturing, construction, and O&M) are useful when providing estimates of
 
 aggregate job creation. However, more disaggregated, granular data on the locations
@@ -9672,18 +7126,16 @@ an increase in the supply of labour will probably be required, and to areas wher
 
 effects of dislocation will be greatest.
 
-```
 Using a variety of data sources, ISF has developed a framework for classifying
-```
+
 and measuring job changes at different levels of occupational disaggregation, to
 
 provide a richer picture of the composition of this employment change. The meth-
 
 odology and key figures are detailed below.
 
-```
 Three primary studies that classify and measure the occupational compositions
-```
+
 of renewable energy industries have been conducted by the International Renewable
 
 Energy Agency (IRENA). Using surveys of the participants in around 45 industries
@@ -9692,22 +7144,21 @@ across a range of developed and developing nations, IRENA has estimated the per-
 
 centages of person-days for the various occupations across the solar PV and onshore
 
-and offshore wind farm supply chains (IRENA 2017 ). Figure 3.11 is an example (in
+and offshore wind farm supply chains (IRENA [^2017]:). Figure 3.11 is an example (in
 
 this case, for solar PV manufacturing).
 
-```
 IRENA’s studies are the most detailed estimates available of the occupational
-```
+
 compositions of the solar PV and onshore wind sectors. ISF has extended the
 
-application of IRENA’s work. Chapter 10 provides more details about the methodol-
+application of IRENA’s work. Chapter [^10]: provides more details about the methodol-
 
 ogy and the specific factors used in this analysis.
 
 **3.7 Material and Metal Resources Analysis (UTS-ISF)**
 
-**_3.7.1 Methodology—Material and Metal Resources Analysis_**
+**3.7.1 Methodology—Material and Metal Resources Analysis**
 
 The future demands for metals have been modelled to better understand the resource
 
@@ -9717,46 +7168,30 @@ demands for metals have been modelled for the projection of 100% renewable
 
 energy and the full electrification of the transport system by 2050, as described in in
 
-Chap. 6.
+Chap. [^6]:.
 
-3 Methodology
-
+[^3]: Methodology
 
 58
 
-```
 The predicted demand for the metals required to produce clean energy each year
-```
 is estimated based on the increase in capacity plus an additional amount required to
-
 replace the capacity or vehicles that reach the ends of their lives in each year (based
-
 on a lifetime distribution curve for the average lifetime). From this, the GW of
-
 capacity or number of vehicles introduced in each year is estimated (also accounting
-
 for the replacement stock for end-of-life technologies).
-
-```
-When assuming that the introduced amount of specific technologies in year t is lt ,
-```
-the accumulated stock amount in year _t_ (generation capacity or in-use stock) is _St_ , and
+When assuming that the introduced amount of specific technologies in year _t_ is _lt_ ,
+the accumulated stock amount in year _t_ (generation capacity or in-use stock) is _St_, and
 
 the discarded amount in year _t_ is _Ot_ , can be expressed by:
 
 ```
-SStt =+− 1 IOtt −
-(3.1)
+SStt=+−1 IOtt− (3.1)
 ```
-```
-Where Ot depends on the number of use years of each product. This use year
-```
+Where _Ot_ depends on the number of use years of each product. This use year
 varies from product to product, and even within the same product group introduced
-
 into a society in the same year. The discarded year is not constant and has a lifetime
-
-distribution. Therefore, if the number of use years of the product is assumed as _a_ ,
-
+distribution. Therefore, if the number of use years of the product is assumed as _a_,
 lifetime distribution can be defined as _g(a)_. Hence, is given by following:
 
 ```
@@ -9807,18 +7242,15 @@ Logistics
 4%
 ```
 **Fig. 3.11** Distribution of human resources required to manufacture the main components of a
-50 MW solar photovoltaic power plant. (IRENA 2017 )
+50 MW solar photovoltaic power plant. (IRENA [^2017]:)
 
 ```
 S. Teske et al.
 ```
-
 ```
 59
 ```
-```
-Where amax is the maximum value of the product life. Therefore ,It can be calcu-
-```
+Where _amax_ is the maximum value of the product life. Therefore_,It_ can be calcu-
 lated with equation (3.3).
 
 ```
@@ -9839,21 +7271,15 @@ a
 max
 (3.3)
 ```
-```
 In this book, the Weibull distribution is used to consider the life characteristics of
-```
 the products described above, with the key assumptions shown in Table 3.8.
-
-```
 Based on the annual introduced amount of clean energy technologies given by
-```
 equation (3.3), the metal demand for technology _p_ in year _t_ is estimated as:
 
 ```
-Demandpt ,,=⋅ IMpt etal intensitypt ,
-(3.4)
+Demandpt,,=⋅IMpt etal intensitypt, (3.4)
 ```
-Where _Metal intensity_ (^) _p,t_ is the amount of required metal in technology _p_ in year
+Where _Metal intensity p,t_ is the amount of required metal in technology _p_ in year
 _t_. Because this value can change over time with technological developments, we
 assume that the various scenarios incorporating the material efficiency
 improvement.
@@ -9865,8 +7291,10 @@ the future by increasing metal availability and reducing the environmental impac
 Therefore, we evaluated the effects of recycling by estimating the potential reduction
 in primary production entailed. When the recycling of end-of-life products is con-
 sidered, primary production is given by equation (3.5).
-_Primaryp roductionpt_ ,,=− _Demandpt DiscardRpt_ ,⋅ _ecyclingratep_
-(3.5)
+
+```
+Primaryproductionpt,,=−Demandpt DiscardRpt, ⋅ ecyclingratep (3.5)
+```
 Where _Discardp,t_ is end-of-life technology in year , and is estimated from the
 Weibull distribution, and the _Recycling ratep_ indicates the proportion of metals
 recovered from end-of-life technology. Since this value can be increased by techno-
@@ -9878,158 +7306,106 @@ els), rather than as an average across the use of the metal, as has been done in
 previous studies. This has been chosen as the most appropriate recycling rate to use
 because we assume that by using recycling rates specific to the technology, it is
 more likely to offset demand for new materials for that technology.
+
 **Table 3.8** Key assumptions
 Technology Lifetime (years) Shape parameter
-Solar PV 30 5.38
-Battery 8 3.5
-3 Methodology
+Solar PV [^30]: 5.38
+Battery [^8]: 3.5
 
+[^3]: Methodology
 
 60
 
-```
 Ultimately, the mineral requirements estimated with equations (3.4) and (3.5)
-```
 under the various assumptions were compared with metal reserves and annual pro-
-
 duction (in 2017). A ‘reserve’ is regarded as the amount economically extractable
-
 with the current technologies and at the current metal price, and can change signifi-
-
 cantly over time. However, comparing reserves with estimated future requirements
-
 can provide insight into how the introduction of clean energy technologies will
-
 affect the physical availability of metals in the future. We also compared current
-
 production with the estimated future requirements to estimate the likelihood of a
-
-rapid increase in requirements. The key results are presented in Chap. 11.
+rapid increase in requirements. The key results are presented in Chap. [^11]:.
 
 **3.8 Climate Model**
 
-**_3.8.1 Deriving Non-CO 2 GHG Pathways_**
+**3.8.1 Deriving Non-CO**[^2]: **GHG Pathways**
 
 This section provides an overview of the methodology that has been used to com-
-
-plement the energy-related CO 2 emission pathways for non-energy-related CO 2
-
+plement the energy-related CO[^2]: emission pathways for non-energy-related CO2
 emissions, other GHG emissions, and aerosols.
-
-```
-The energy-related CO 2 emissions were derived using energy-system modelling
-```
-frameworks, but two different approaches have been used to derive the land-use CO 2
-
+The energy-related CO[^2]: emissions were derived using energy-system modelling
+frameworks, but two different approaches have been used to derive the land-use CO2
 emissions and other GHG emissions. First, we will describe the approach that was
-
 used to determine other GHG emissions. This approach can be summarized as a
+statistical analysis of currently published scenarios. To derive non-CO[^2]: pathways
 
-statistical analysis of currently published scenarios. To derive non-CO 2 pathways
+that are consistent with the relevant emission mitigation levels, the non-CO[^2]: emis-
 
-that are consistent with the relevant emission mitigation levels, the non-CO 2 emis-
-
-sions were regressed against the fossil fuel and industrial CO 2 emissions. These
-
-regression characteristics were then used to derive the non-CO 2 emissions. This
-
+sions were regressed against the fossil fuel and industrial CO[^2]: emissions. These
+regression characteristics were then used to derive the non-CO[^2]: emissions. This
 method has been newly developed in the context of this study and can be regarded
-
 as a further development of the Equal Quantile Walk method introduced by
-
-Meinshausen et al. ( 2006 ).
-
-```
+Meinshausen et al. ([^2006]:).
 One challenge in applying the collective knowledge that is enshrined in multi-
-```
-gas- emission scenarios in the literature is that regional and sectoral definitions differ
-
+gas-emission scenarios in the literature is that regional and sectoral definitions differ
 slightly between the various modelling groups. Because most IPCC scenarios work
-
 are based on the emission categories used by the IAM community, their emission
-
-categories and regions have been adopted in this analysis of non-CO 2 emission path-
-
+categories and regions have been adopted in this analysis of non-CO[^2]: emission path-
 ways. The steps in the analysis are described in the following sub-sections.
 
 **3.8.1.1 Regional Definitions**
 
-First, the regional energy-related CO 2 emissions developed in the previous sections
-
+First, the regional energy-related CO[^2]: emissions developed in the previous sections
 must be transformed to match the five Renewable Communities Program (RCP)
-
 regions used by the IAM community, into the regions OECD90 (OECD countries,
 
 ```
 S. Teske et al.
 ```
-
 ```
 61
 ```
 membership status as of 1990), ASIA (Asian countries), REF (economies in transi-
-
 tion), LAM (Latin America), and MAF (Middle East and Africa). Table 3.9 (above)
-
 indicates the overlap and differences between the RCP regions with the other
-
 regions described in this report. As an indicator of how different the regional defini-
-
 tions are, we used the fossil fuel and industrial emissions for the year 2015 accord-
-
-ing to the 2017 update of the PRIMAP database (Gütschow et al. 2016 ).
-
-```
+ing to the 2017 update of the PRIMAP database (Gütschow et al. [^2016]:).
 Table 3.9 provides an overview to the regional definitions used in this study. The
-```
-top row indicates the regions for the CO 2 fossil and industrial emissions, and the
-
-various rows refer to the five regions used in IAMs. To derive the non-CO 2 emis-
-
+top row indicates the regions for the CO[^2]: fossil and industrial emissions, and the
+various rows refer to the five regions used in IAMs. To derive the non-CO[^2]: emis-
 sions, we used the IAM’s five RCP regions. The numbers indicate the fossil fuel and
-
-industrial emissions in the year 2015 in MtCO 2 , aggregated from country-level data.
-
+industrial emissions in the year 2015 in MtCO[^2]:, aggregated from country-level data.
 The colour shading of the cells indicates where most of the 2015 emissions occurred.
-
-```
 Table 3.9 Regional definitions according to the Integrated Assessment Modelling
-```
 community (so-called ‘RCP5’ regions) compared with the other regions used in this
-
 study The overlap and differences between the two sets of regional definitions are
-
-shown with the 2015 fossil and industrial CO 2 emissions. For example, the first row
-
+shown with the 2015 fossil and industrial CO[^2]: emissions. For example, the first row
 indicates that the largest sub-region in the RCP5_Asia group is China, with 8,826
-
-MtCO 2 of emissions.
-
-```
-The transfer of the energy-related CO 2 emission results to fit the IAM’s regional
-```
+MtCO[^2]: of emissions.
+The transfer of the energy-related CO[^2]: emission results to fit the IAM’s regional
 categorization (which is consistent with IEA WEO reports) was performed by first
-
 disaggregating all the results to country-level data. A simple proportional scale was
-
-applied to the 2015 energy-related country-level CO 2 emissions from the PRIMAP
-
+applied to the 2015 energy-related country-level CO[^2]: emissions from the PRIMAP
 database. The disaggregated country-level data were then re-aggregated at the RCP5
 
 regional level.
 
 **3.8.1.2 Harmonization: Emission Category Adjustments**
 
-Before proceeding with the application of CO 2 versus non-CO 2 statistical relation-
-
+Before proceeding with the application of CO[^2]: versus non-CO[^2]: statistical relation-
 ships, a harmonization step is necessary. Various IAM use slightly different catego-
 
 ries, emission factors, and activity data to estimate emissions. This can result in
 
 ```
 Regions
+```
+```
 Developing
 Asia Africa
+```
+```
 Middle
 East
 ```
@@ -10037,6 +7413,8 @@ East
 Central &
 South
 Amer Eurasia China India
+```
+```
 North
 America
 ```
@@ -10044,79 +7422,52 @@ America
 OECD
 Asia
 Oceania Subtotal
-RCP5_Asia 1,561 - - - 19 21 8,826 1,985 - 674 13 ,086
+RCP5_Asia 1,561 - - - 19 21 8,826 1,985 - 674 13,086
 RCP5_REF - 720 - - - 2,153 - - - - 2,873
 RCP5_MAF - - 1,174 2,021 - - - - - - 3,195
-RCP5_OECD 9
-0 2 3,031 - - - - - - 5,766 1,577 10 ,376
+RCP5_OECD9
+0 2 3,031 - - - - - - 5,766 1,577 10,376
 RCP5_LAM - - - - 1,216 - - - 461 - 1,676
-Subtotal 1,563 3,751 1,174 2,021 1,235 2,174 8,826 1,985 6,226 2,251 31 ,206
+Subtotal 1,563 3,751 1,174 2,021 1,235 2,174 8,826 1,985 6,226 2,251 31,206
 ```
 ```
 Europe
 ```
 **Table 3.9** Regional definitions according to the Integrated Assessment Modelling community
 
-3 Methodology
-
+[^3]: Methodology
 
 62
 
 some spread in the current emission estimates for the same regions and categories.
-
 To address this issue, the standard practice in the IAM community is to work with
-
 harmonized emissions scenarios, meaning that the original emissions scenarios
-
 have either been scaled or shifted towards a common reference point. A recent his-
-
 torical emission level is normally chosen as this reference point. Here, we chose the
-
 2015 emissions across the five RCP regions.
-
-```
 Harmonization was performed in two steps. First, emissions were added that
-```
-were related to the CO 2 fossil and industrial emission categories (such as waste-
-
+were related to the CO[^2]: fossil and industrial emission categories (such as waste-
 related emissions) and that were outside the scope of emissions in the energy-related
 
-CO 2 emission chapters. The scenarios from which these ‘other’ energy-related CO 2
-
+CO[^2]: emission chapters. The scenarios from which these ‘other’ energy-related CO2
 emissions were taken were: the SSP2_Ref_SPA0_V25_upscaled_MESSAGE_
 
 GLOBIOM (for the 5.0 °C reference scenario); SSP1_26_SPA1_V25_IMAGE (for
-
 the 2.0  °C Scenario), and SSP1_19_SPA1_V25_IMAGE scenario (for the 1.5°C
-
 Scenario). In the second harmonization step, the overall sum of the complemented
-
-2.0 °C and 1.5 °C scenario CO 2 emissions were compared with the overall fossil and
-
-industrial sum of CO 2 emissions in the year 2015, which were used for scenario
-
+2.0 °C and 1.5 °C scenario CO[^2]: emissions were compared with the overall fossil and
+industrial sum of CO[^2]: emissions in the year 2015, which were used for scenario
 harmonization under the CMIP6 ScenarioMIP process (Meinshausen et al., in prep-
-
 aration). This comparison revealed that there were still differences between the
-
-complemented energy scenarios (see Chapter 8) and the harmonization emission
-
+complemented energy scenarios (see Chapter [^8]:) and the harmonization emission
 levels for the various regions. These differences could again have resulted from dif-
-
 ferent emission factors or activity assumptions, or they could simply reflect genuine
-
 uncertainty in the overall global and regional anthropogenic emissions. Consistent
-
 with the processing steps used in the CMIP6 process, we up- and down-scaled the
-
 raw and regionally disaggregated energy scenario emissions towards the harmoni-
-
 zation emission levels. Figure 3.12 shows the differences between the raw emission
-
 scenario data, the data re-aggregated into the RCP regions, and the CMIP6 emission
-
-harmonization fossil and industrial CO 2 emission levels for 2015 (in GtC). The dif-
-
+harmonization fossil and industrial CO[^2]: emission levels for 2015 (in GtC). The dif-
 ferences were bridged by applying a time-constant scaling factor.
 
 ```
@@ -10136,8 +7487,6 @@ ferences were bridged by applying a time-constant scaling factor.
 ```
 0.91
 0.63 0.51 0.48
-```
-```
 0.00
 ```
 ```
@@ -10165,7 +7514,7 @@ GtC Emissions in 201
 5
 ```
 ```
-Harmonisation of Fossil & Industry CO 2 Emissions
+Harmonisation of Fossil & Industry CO2 Emissions
 ```
 ```
 5.0C (Reference) Harmonised Fossil & Industrial
@@ -10175,122 +7524,70 @@ Harmonisation of Fossil & Industry CO 2 Emissions
 ```
 S. Teske et al.
 ```
-
 ```
 63
 ```
-**3.8.1.3 A New Quantile Regression Method for Non-CO 2 Gases**
+**3.8.1.3 A New Quantile Regression Method for Non-CO**[^2]: **Gases**
 
-The completed fossil and industrial CO 2 emission time series can now be compared
-
+The completed fossil and industrial CO[^2]: emission time series can now be compared
 with the set of scenarios in the literature. In this study, we used 811 scenarios from
-
 CMIP6 databases or the databases underlying the IPCC SR1.5 report. These
-
-literature- reported studies are either reference scenarios or mitigation scenarios
-
+literature-reported studies are either reference scenarios or mitigation scenarios
 with a specific forcing target or climate target. Some of the scenarios aim for 1.5 °C
-
-levels of change, others for 450 ppm CO 2 -equivalence concentrations, and yet oth-
-
+levels of change, others for 450 ppm CO[^2]:-equivalence concentrations, and yet oth-
 ers assume fragmented worlds, with regional rivalries and no consistent policy
-
 approach. In summary, the input assumptions of all these literature-reported sce-
-
 narios vary widely, yet all have some formal energy-system modelling framework
-
-behind them that provides first-level assurance that the envisaged CO 2 , methane,
-
+behind them that provides first-level assurance that the envisaged CO[^2]:, methane,
 nitrous oxide, and other gas emission levels are not set below the limits considered
-
 technologically feasible under a certain set of boundary conditions, such as the
-
 requirement to continuing feeding the human population. The technological and
-
 economic feasibilities of emission pathways are fluid concepts, subject to change in
-
 response to technological advances and changes in policy settings.
-
-```
 This study and the approach it uses are not dependent on absolute levels of miti-
-```
 gation costs or precise definitions of technological feasibility. Instead, the method
-
 used assumes that that non-CO2 gases are reduced with a similar effort as that
-
-required to reduce CO 2 emissions. Therefore, using the emission characteristics
-
+required to reduce CO[^2]: emissions. Therefore, using the emission characteristics
 from a large set of scenarios reported in the literature, we assume similar levels of
-
 technological feasibility, economic mitigation costs, and implementation opportuni-
-
-ties will be required to reduce emissions of CO 2 and various other gases.
-
-```
-More specifically, we derived the non-CO 2 emissions in a particular year by
-```
-ranking all the scenarios against the indicator of fossil and industrial CO 2 emissions
-
+ties will be required to reduce emissions of CO[^2]: and various other gases.
+More specifically, we derived the non-CO[^2]: emissions in a particular year by
+ranking all the scenarios against the indicator of fossil and industrial CO[^2]: emissions
 in that year (see Fig. 3.11 below). By comparing them to the ‘crowd’ of other
-
-literature- reported scenarios, the LDF pathways could also be ranked. Specifically,
-
+literature-reported scenarios, the LDF pathways could also be ranked. Specifically,
 the LDF reference scenario turned out to be around the 75th percentile of the
-
-distribution of the fossil and industrial CO 2 emissions across all 811 scenarios con-
-
+distribution of the fossil and industrial CO[^2]: emissions across all 811 scenarios con-
 sidered. By contrast, the lower 1.5 °C Scenario and 2.0 °C Scenario were not at the
-
 absolute lower boundary of the 811 scenario distribution, but were close to it. The
-
 1.5 °C Scenario ranked between the zero and first percentile—that is, among the 1%
-
 most stringent scenarios in the literature for the years 2025–2045. In the period until
-
 2050, the 2.0 °C Scenario was situated between the 5th and 10th percentiles of the
-
 scenario distribution (see Fig. 3.13).
-
-```
 Figure 3.13 shows the 1.5  °C and 2.0  °C Scenarios, their absolute fossil and
-```
-industry CO 2 emissions until 2050 (upper panel), and their respective locations in
-
+industry CO[^2]: emissions until 2050 (upper panel), and their respective locations in
 the set of 811 literature-reported scenarios considered (lower panel). The post-2050
-
-scenario extensions were extrapolated differently for fossil and industrial CO 2 and
-
-the non-CO 2 gases. To derive the non-CO 2 gases, the 2050 percentile location was
-
+scenario extensions were extrapolated differently for fossil and industrial CO[^2]: and
+the non-CO[^2]: gases. To derive the non-CO[^2]: gases, the 2050 percentile location was
 assumed constant for the remainder of the twenty-first century. For the fossil and
 
-industrial CO 2 emissions in the 2.0 °C and 1.5 °C Scenarios, which do not assume
+industrial CO[^2]: emissions in the 2.0 °C and 1.5 °C Scenarios, which do not assume
 
-3 Methodology
-
+[^3]: Methodology
 
 64
 
 BECCS to achieve net negative emission levels, a continuation of the constant zero
-
 emission level was assumed (straight constant emission level in the upper panel cor-
-
 responding to the increasing percentile level of the red–blue dashed line in the lower
-
 panel).
 
-**3.8.1.4 ‘Pseudo’ Fossil and Industrial CO 2 Extensions Beyond 2050**
+**3.8.1.4 ‘Pseudo’ Fossil and Industrial CO**[^2]: **Extensions Beyond 2050**
 
 By the end of the century, almost 40% of all of 811 scenarios will feature net nega-
-
-tive fossil and industrial CO 2 emissions, largely because there is some level of bio-
-
+tive fossil and industrial CO[^2]: emissions, largely because there is some level of bio-
 mass and CCS deployment. Given that the energy scenarios developed for this study
-
 do not assume, by design, any BECCS-related emission uptake, the extended post-
-
 2050 energy scenarios are assumed to be consistent with other scenarios in which
-
 emissions will be around zero by the end of the century. However, those other
 
 ```
@@ -10329,39 +7626,29 @@ emissions will be around zero by the end of the century. However, those other
 ```
 100%
 ```
-```
 Global F
-```
-```
+
 ossil & Industrial
-```
-```
+
 CO
+
 ```
-```
-Emissions ( 2
-```
+Emissions (2
 ```
 GtC
-```
-```
+
 )
-```
-```
+
 Pe
-```
-```
+
 rcentile of Global
-```
-```
+
 Fo
-```
-```
+
 ssil
-```
-```
+
 & Indsutrial Emissions (%)
-```
+
 ```
 5.0C (Reference)
 ```
@@ -10393,9 +7680,9 @@ Assumed constant post-2050 percentile
 ```
 Assumed constant zero post-2050 emissions
 ```
-**Fig. 3.13** The 2.0 °C and 1.5 °C scenarios and their absolute fossil and industry CO 2 emissions
-until 2050. The energy-related CO 2 emissions pathways from the other chapters are used until
-2050, and then extended beyond 2050 by either keeping the CO 2 emissions constant (in the case of
+**Fig. 3.13** The 2.0 °C and 1.5 °C scenarios and their absolute fossil and industry CO[^2]: emissions
+until 2050. The energy-related CO[^2]: emissions pathways from the other chapters are used until
+2050, and then extended beyond 2050 by either keeping the CO[^2]: emissions constant (in the case of
 the 1.5 °C and 2.0 °C Scenarios, i.e., red and purple dashed lines beyond 2050 in the upper panel)
 or by keeping the percentile level within the literature-reported scenarios constant (in the case of
 the reference scenario, i.e., green solid line in the upper panel). The percentile rank within the other
@@ -10406,106 +7693,60 @@ rank among all the literature-reported scenarios (increasing purple–red line i
 ```
 S. Teske et al.
 ```
-
 ```
 65
 ```
 scenarios with zero emissions by the end of the century tend to reflect a much lower
-
-level of mitigation effort. Therefore, to derive non-CO 2 emissions that involve a
-
+level of mitigation effort. Therefore, to derive non-CO[^2]: emissions that involve a
 level of effort that is comparable to the mitigation effort involved in reducing
-
-energy-related CO 2 emissions, we assumed that the energy scenarios developed for
-
+energy-related CO[^2]: emissions, we assumed that the energy scenarios developed for
 this study were comparable to other scenarios that share zero emissions around
 
 2050. This percentile ‘stringency’ level was then held constant for the remainder of
-
-the twenty-first century. Therefore, whereas the actual fossil and industrial CO 2
-
-emissions in the LDF scenarios are assumed to remain constant at zero, the non-CO 2
-
+the twenty-first century. Therefore, whereas the actual fossil and industrial CO2
+emissions in the LDF scenarios are assumed to remain constant at zero, the non-CO2
 gas emissions are derived from data in the existing literature, as if the scenarios
-
 remained at a stringency level of ~3% in the second half of the twenty-first century
-
 (see the lower panel in Fig. 3.13).
-
-```
-We now have the fossil and industrial CO 2 emission levels throughout the twenty-
-```
+We now have the fossil and industrial CO2 emission levels throughout the twenty-
 first century for each of the three scenarios, and have complemented these with the
-
-‘pseudo’ CO 2 emission levels for the second half of the twenty-first century.
-
-Therefore, we can derive the corresponding non-CO 2 emissions.
-
-```
-In the first step, we derived the total non-CO 2 emissions for a specific year and
-```
+‘pseudo’ CO2 emission levels for the second half of the twenty-first century.
+Therefore, we can derive the corresponding non-CO2 emissions.
+In the first step, we derived the total non-CO2 emissions for a specific year and
 for the world as a whole. In the second step, we determined the shares of global fos-
-
 sil and industrial emissions versus the land-use-related emissions—again regressed
-
-against the overall fossil CO 2 emission level as an indicator of the ‘stringency’ of the
-
+against the overall fossil CO2 emission level as an indicator of the ‘stringency’ of the
 scenario. In the third step, we disaggregated these fossil and land-use-specific emis-
-
 sion time series into regional time series. Again, the shares of the regional emissions
-
 were derived with the same quantile regressions shown in Fig. 3.13 above. With
-
 these three quantile regression steps, we inferred either the lower (if lower quantile
-
 ranges are chosen), medium (for a median 50% quantile regression), or higher emis-
-
 sion levels of the other gases. In this study, we do not intend to provide probabilistic
-
 emission scenarios and therefore limited our quantile regression choice to the
-
 median 50% setting for all regions, sectoral divisions, and other global total gases.
-
-```
 The major advantage of this newly developed method compared with the EQW
-```
-method developed earlier (Meinshausen et al. 2006 ) is that the negative correlations
-
-between CO 2 and other gases can also be taken into account. By performing all
-
-quantile regressions in the space defined by the global fossil and industrial CO 2
-
+method developed earlier (Meinshausen et al. 2006) is that the negative correlations
+between CO2 and other gases can also be taken into account. By performing all
+quantile regressions in the space defined by the global fossil and industrial CO2
 emissions in a particular year, any kind of non-linear, positive or negative relation-
-
-ship with other non-CO 2 gas emission levels, sectoral divisions, or regional divi-
-
+ship with other non-CO2 gas emission levels, sectoral divisions, or regional divi-
 sions are automatically incorporated into the final result—reflecting the overall
-
 characteristics of the chosen set of emission scenarios. Not all the 811 emission
-
 scenarios contained details of all the sectoral and regional divisions, but the step-
-
 wise approach of this method can incorporate the characteristics from all the sce-
-
 narios in whatever detail is available.
-
-```
 Figure 3.14 shows sample distributions of the emission scenario characteristics for
-```
 the year 2040 and a subset of 21 GHGs. The x-axis of each plot shows the global fossil
-
-and industrial CO 2 emissions, and the y-axis shows the global emission levels of
-
+and industrial CO2 emissions, and the y-axis shows the global emission levels of
 another GHG, with one marker (blue dot) for each literature-reported scenario consid-
 
 ered. The five red lines are quantile regressions at the levels of 20%, 33%, 50%
 
 (median), 66%, and 80% of the scenario distribution. It can be clearly seen that some
 
-total gas emissions correlate strongly with the fossil and industrial CO 2 emissions
+total gas emissions correlate strongly with the fossil and industrial CO[^2]: emissions
 
-3 Methodology
-
+[^3]: Methodology
 
 66
 
@@ -10931,7 +8172,8 @@ HFC32
 HFC125
 ```
 ```
--100-5 0510 15 20 25
+-5 0510 15 20 25
+-100
 ```
 ```
 0
@@ -10965,10 +8207,11 @@ HFC125
 HFC134A
 ```
 ```
-Global Fossil & Industrial CO 2 Emissions (GtC)
+Global Fossil & Industrial CO2 Emissions (GtC)
 ```
 ```
--2-5 0510 15 20 25
+-5 0510 15 20 25
+-2
 ```
 ```
 0
@@ -10990,7 +8233,8 @@ Global Fossil & Industrial CO 2 Emissions (GtC)
 HFC227EA
 ```
 ```
--2-5 0510 15 20 25
+-5 0510 15 20 25
+-2
 ```
 ```
 0
@@ -11059,7 +8303,8 @@ Global Emissions (kt)
 Global Emissions (kt)
 ```
 ```
-Global Emissions (kt) Global Emissions (kt)
+Global Emissions (kt)
+Global Emissions (kt)
 ```
 ```
 Global Emissions (kt)
@@ -11096,12 +8341,10 @@ Global Emissions (MtCO)
 ```
 S. Teske et al.
 ```
-
 ```
 67
 ```
 (such as the SOX aerosols in the top-right panel), whereas others correlate less strongly.
-
 This method reflects the level of correlation in the finally derived multi-gas scenarios.
 
 **3.8.1.5 Land-Use Assumptions**
@@ -11110,84 +8353,46 @@ In principle, the same methodological approach can be used for land-use emission
 
 In the IAM scenarios, the emission sequestration with the BECCS technology is
 
-reported as a negative emission in the fossil and industrial CO 2 emission categories.
+reported as a negative emission in the fossil and industrial CO[^2]: emission categories.
 
-Therefore, the quantile regression approach can also be applied to the land-use CO 2
-
+Therefore, the quantile regression approach can also be applied to the land-use CO2
 sector. However, to more explicitly define the land-use choices that are implied by
-
 various land-use scenarios, we developed a new (probabilistic) scenario in conjunc-
-
-tion with another land-use emission project (Dooley et al. 2018 )
-
-```
+tion with another land-use emission project (Dooley et al. [^2018]:)
 This method is based on various literature-reported studies and we provide an
-```
 overall synthesis of four different land-use-based sequestration pathways: ‘forest
-
 ecosystem restoration’, ‘reforestation’, ‘sustainable use of forests’, and ‘agrofor-
-
 estry’. These land-use sequestration pathways are based on the premise that the
-
 better management of terrestrial ecosystems should allow previously degraded car-
-
-bon stocks to be restored, entailing the removal of significant atmospheric CO 2
-
-(DeCicco and Schlesinger 2018 ; Law et  al. 2018 ; Mackey et  al. 2013 ; Mackey
-
-2014 ; Nabuurs et al. 2017 ). We derived the overall pathways separately for the tem-
-
+bon stocks to be restored, entailing the removal of significant atmospheric CO2
+(DeCicco and Schlesinger [^2018]:; Law et  al. [^2018]:; Mackey et  al. [^2013]:; Mackey
+[^2014]:; Nabuurs et al. [^2017]:). We derived the overall pathways separately for the tem-
 perate and boreal regions on the one side and the subtropical and tropical regions on
-
 the other. This distinction is largely consistent with the dominant distinction of dif-
-
-ferent climate domain characteristics in the literature (Grace et al. 2014 ; Houghton
-
-and Nassikas 2018 ; Pan et al. 2011 ), although the temperate and boreal biomes are
-
+ferent climate domain characteristics in the literature (Grace et al. [^2014]:; Houghton
+and Nassikas [^2018]:; Pan et al. [^2011]:), although the temperate and boreal biomes are
 as different in terms of land-use and forest ecosystem characteristics as the tropical
-
 biomes are from each of them. However, we derived only two climate domains
-
 because several of the RCP regions cross both temperate and boreal biomes. A nar-
-
 rative for each of these pathways is available in Table 3.10 below.
-
-```
 Based on literature studies and Food and Agriculture Organization (FAO) statis-
-```
 tics, we then defined the available areas (and their uncertainties) for each of the four
-
 sequestration pathways. Similarly, we sourced average estimates of the maximal
-
 annual sequestration rates for the biomes (and their levels of uncertainty) for those
-
 four sequestration pathways—again distinguished in the large temperate/boreal and
-
 subtropical/tropical climate domains. We assume that after a certain ‘phase-in
-
 period’, this maximal annual sequestration rate can be reached and sustained for a
-
 number of years. We assume that after some decades to centuries, the capacities of
-
 these terrestrial ecosystems as carbon sinks will slowly decline until they reach
-
 equilibrium, termed the ‘saturation’ period. At the equilibrium point, these ecosys-
-
-tems have a net zero effect on atmospheric CO 2 over the time scales of interest here
-
-(Houghton and Nassikas 2018 ). The period over which the maximal sequestration
-
+tems have a net zero effect on atmospheric CO[^2]: over the time scales of interest here
+(Houghton and Nassikas [^2018]:). The period over which the maximal sequestration
 rate is assumed, is reduced by the half-length of the corresponding phase-in and
-
 phase-out periods to account for the cumulative carbon uptake in those periods. As
-
 the last element in this framework, we assume a cap on the median carbon density
-
 change that is achieved over the full period. The difference between a degraded for-
 
-3 Methodology
-
+[^3]: Methodology
 
 68
 
@@ -11210,9 +8415,9 @@ of total)
 Te,B Assume 25% of degraded natural forest put aside for full
 ecosystem and carbon stock recovery. Saturation times in
 temperate and boreal forests can be well over 100, or even
-200 years (Luyssaert et al. 2008 ; Roxburgh et al. 2006 ).
+200 years (Luyssaert et al. 2008; Roxburgh et al. 2006).
 25% set-aside is slightly higher than assumptions made in
-recent literature (Böttcher et al. 2018 ; Nabuurs et al. 2017 ),
+recent literature (Böttcher et al. 2018; Nabuurs et al. 2017),
 but in line with calls from conservation and indigenous
 movements.
 S,Tr Assume 25% of degraded natural forests across the tropics
@@ -11220,10 +8425,10 @@ set aside for full ecosystem and carbon stock recovery.
 Stopping all deforestation, wood harvest and temporary
 use, while traditional and customary uses continue. Net
 Primary Productivity (NPP) is higher across the tropics
-than in temperate and boreal biomes (Anav et al. 2015 ),
+than in temperate and boreal biomes (Anav et al. 2015),
 hence sequestration rates are higher, but saturation times
 are shorter. We assume 60 years to ecosystem maturity
-(Arneth et al. 2017 ; Poorter et al. 2016 ). Sequestration rates
+(Arneth et al. 2017; Poorter et al. 2016). Sequestration rates
 across all biomes for forest ecosystem restoration are lower
 than post-logging recovery rates, as here we assume mixed
 age-class forests which have not been recently logged than
@@ -11244,23 +8449,22 @@ this 350 Mha is assumed to be reforestation for
 conservation purposes, which creates an ongoing sink from
 2030 to 2100, with saturation assumed at 100 years. Boreal
 areas excluded due to albedo effect (Houghton and
-Nassikas 2018 ).
+Nassikas 2018).
 S,Tr Natural forest expansion on recently deforested land as
 described above. We assume 80% of forest expansion
 occurs in the tropics, given 80% of Bonn Challenge pledges
 are in tropical regions (Wheeler et al. in press). All
 regeneration is assumed to be with natural forests rather
 than plantations, as this delivers the highest mitigation and
-biodiversity values (Grace et al., 2014 ; Wheeler et al. in
+biodiversity values (Grace et al., 2014; Wheeler et al. in
 press). Saturation of tropical regrowth forests is assumed at
 60 years, although large trees can take well over a century
-to mature (Poorter et al. 2016 ).
+to mature (Poorter et al. 2016).
 (continued)
 ```
 ```
 S. Teske et al.
 ```
-
 ```
 69
 ```
@@ -11268,9 +8472,9 @@ est ecosystem and its natural carbon-carrying capacity is the maximum potential 
 
 additional sequestration. Therefore, we used biome-averaged values for the per
 
-hectare carbon density of undisturbed forest ecosystems (Keith et al. 2009 ), rather
+hectare carbon density of undisturbed forest ecosystems (Keith et al. [^2009]:), rather
 
-than average global biome values (Liu et al. 2015 ), to define the maximum carbon
+than average global biome values (Liu et al. [^2015]:), to define the maximum carbon
 
 density. Although the LDF scenarios only extend to 2050 or to 2100 for all the other
 
@@ -11278,9 +8482,8 @@ GHGs, we modelled the land-use sequestration pathway assumptions until 2300 to
 
 be able to apply the overall ‘added carbon density’ cap.
 
-```
 Our climate-domain- and sequestration-specific assumptions regarding the
-```
+
 median values, their uncertainty ranges, and confidence intervals are given in
 
 **Table 3.10** (continued)
@@ -11302,122 +8505,88 @@ Te,B Sustainable use of natural production forests (i.e. excluding
 plantations) under continued wood harvest. Multiple studies
 show the potential to double forest carbon stocks in
 production forests through reducing harvest intensity and
-extending rotation lengths (Law et al. 2018 ; Nabuurs et al.
-2017 ; Pingoud et al. 2018 ). Wood harvest is slightly
+extending rotation lengths (Law et al. 2018; Nabuurs et al.
+2017; Pingoud et al. 2018). Wood harvest is slightly
 reduced, requiring reduced demand for wood products,
 more efficient wood use and compensation to land-owners
-(Law et al. 2018 ; Pingoud et al. 2018 ). Including harvested
+(Law et al. 2018; Pingoud et al. 2018). Including harvested
 wood products (HWP) in calculations could increase
-mitigation values (Houghton and Nassikas 2018 ; Nabuurs
-et al. 2017 ), but the life-time of HWP is generally too short
+mitigation values (Houghton and Nassikas 2018; Nabuurs
+et al. 2017), but the life-time of HWP is generally too short
 to realise mitigation value compared to residence times in
-forest biomass (Law et al. 2018 ; Keith et al. 2015 ).
+forest biomass (Law et al. 2018; Keith et al. 2015).
 S,Tr Reduced harvest intensity and management practices such
 as reduced impact logging have not been shown to increase
-carbon stock in tropical forests (Martin et al. 2015 ). Carbon
+carbon stock in tropical forests (Martin et al. 2015). Carbon
 stocks are concentrated in commercially-valuable
 hardwood trees taking >100 years to reach maturity; hence
 selective logging as practiced across the tropics
 significantly decreases standing carbon stocks (Lutz et al.
-2018 ; Zimmerman and Kormos 2012 ). Our scenario
+2018; Zimmerman and Kormos 2012). Our scenario
 assumes no commercial logging of tropical forests, and the
 extent of shifting cultivation is halved, allowing traditional
 practices to continue with lengthened fallow times and/or
-improved swidden practices (Mackey et al. 2018 ; Ziegler
-et al. 2012 ).
+improved swidden practices (Mackey et al. 2018; Ziegler
+et al. 2012).
 Agroforestry (Trees in
 croplands)
 ```
 ```
 T,B We calculate biome-average sequestration rates from the
 literature for above-ground carbon uptake due to a broad
-range of agroforestry practices (Watson et al. 2000 ;
-Nabuurs et al. 2017 ; Ramachandran Nair et al. 2009 ), and
+range of agroforestry practices (Watson et al. 2000;
+Nabuurs et al. 2017; Ramachandran Nair et al. 2009), and
 subtract from this the baseline increase observed by Zomer
-et al. ( 2016 ). We apply this uptake to 20% of permanent
+et al. (2016). We apply this uptake to 20% of permanent
 cropland, and assume the resulting sequestration rate could
-be sustained for 50 years (Watson et al. 2000 ).
+be sustained for 50 years (Watson et al. 2000).
 ```
 ```
 S,Tr
 ```
 These domains are defined as temperate (Te), boreal (B), subtropical (S), or tropical (Tr). Note, this
-narrative overlaps with another land-use-related study (Dooley et al. 2018 )
+narrative overlaps with another land-use-related study (Dooley et al. [^2018]:)
 
-3 Methodology
-
+[^3]: Methodology
 
 70
 
 Table 3.11. Our method of combining these input assumptions is a basic Monte Carlo
-
 ensemble. Given the symmetry or asymmetry and respective confidence intervals of
-
 the factors provided, we then created normal, lognormal, or skewed normal distribu-
-
 tions (the latter is a linear combination of the normal and lognormal distributions to
-
 achieve the desired skewedness). We then made 500 independent draws from all four
-
 factors considered (area, maximum sequestration rate, phase-in time, and phase-out
-
 time). We repeated that process independently for each sequestration pathway and
-
 for each country within each climate domain. The areas for each country within the
-
 climate domains were assumed to be proportionally distributed by the relevant ‘FAO
-
 Scaling Area’ (see third column in Table 3.11), so that the climate domain aggregate
-
 areas matched our input assumptions for the respective sequestration pathway.
-
-```
 After combining all the country-specific and sequestration-pathway-specific
-```
 time series for carbon uptake per sequestration pathway, we then checked whether
-
 the resulting cumulative sequestration over time (specifically its median) was at or
-
 below the specified maximum for the median carbon density change per hectare. If
-
 it was not, we scaled all the country-specific results proportionally, so that the
-
 median matched the cap on the carbon density gain.
 
-**_3.8.2 Model for the Assessment of GHG-Induced Climate_**
-
-**_Change_**
+**3.8.2 Model for the Assessment of GHG-Induced Climate**
+**Change**
 
 To compute GHG concentrations and the implications for radiative forcing, global
-
 mean temperatures, and global mean sea-level rise, we used the reduced-complexity
-
 ‘Model for the Assessment of Greenhouse-gas-induced Climate Change’
-
-(MAGICC), as described by Meinshausen et  al. ( 2011 ). The model has recently
-
+(MAGICC), as described by Meinshausen et  al. ([^2011]:). The model has recently
 been extended by the addition of a newly designed sea-level rise module, as
-
-described in Nauels et al. ( 2016 ).
-
-```
+described in Nauels et al. ([^2016]:).
 The MAGICC model has at its core an upwelling-diffusion ocean with 50 layers,
-```
 in both the northern and southern hemispheres. Some simpler model approaches,
-
 with only a diffusive one-box ocean, for example, tend to overestimate the medium-
-
 term warming compared with the longer-term warming, (i.e., they tend to reach
-
 equilibrium too quickly). In the short term, the MAGICC modelling structure pro-
-
 vides faster warming, but a lower approach to equilibrium, due to the effective cool-
-
 ing cycle that mimics the sinking polar ocean waters.
-
-```
 Although simple in its general structure, the MAGICC model uses a broad cover-
-```
+
 age of GHGs and aerosols. This is much broader than for earth system models,
 
 because it would be too computationally expensive to carry around tracers for every
@@ -11440,7 +8609,6 @@ work to determine the exceedance probabilities of various emission pathways. For
 ```
 S. Teske et al.
 ```
-
 **Table 3.11**
 
 Assumptions regarding the four land-use sequestration pathways for two climate domain categories
@@ -11464,10 +8632,8 @@ Related sources
 Assumed
 ```
 ```
-median
-added carbon
-maximum
-(MgC/h)
+median added carbon
+maximum (MgC/h)
 ```
 ```
 Assumed maximum sequestration rate (MgC/ha/year)
@@ -11500,15 +8666,14 @@ Other Natural Forest Area 2015
 276 (80%: 248–303)
 ```
 ```
-FAO (^2016
+FAO ([^2016]
 ```
 ```
 )
 ```
 ```
 185
-(Keith
-et al. 2009
+(Keith et al.[^2009]
 ```
 ```
 )
@@ -11559,7 +8724,7 @@ S,Tr
 335 (80%: 302–369)
 ```
 ```
-FAO (^2016
+FAO ([^2016]
 ```
 ```
 )
@@ -11583,7 +8748,7 @@ Pan et al. (
 60 (80%: 42–78)
 ```
 ```
-Pan et al. (^2011
+Pan et al. ([^2011]
 ```
 ```
 ), Grace
@@ -11625,7 +8790,7 @@ Change in total forest area from 1990 to 2015
 50 (80%: 45–55)
 ```
 ```
-FAO (^2016
+FAO ([^2016]
 ```
 ```
 )
@@ -11679,7 +8844,7 @@ S,Tr
 300 (80%: 270–330)
 ```
 ```
-FAO (^2016
+FAO ([^2016]
 ```
 ```
 )
@@ -11703,7 +8868,7 @@ IPCC (
 60 (80%: 42–78)
 ```
 ```
-Pan et al. (^2011
+Pan et al. ([^2011]
 ```
 ```
 ), Grace
@@ -11730,10 +8895,8 @@ and Poorter et al. (
 20 (90%: 7–20)
 ```
 ```
-20 (90%: 10 to 100)
-(continued)
+20 (90%: 10 to 100) (continued)
 ```
-
 **Table 3.11**
 
 (continued)
@@ -11757,10 +8920,8 @@ Related sources
 Assumed
 ```
 ```
-median
-added carbon
-maximum
-(MgC/h)
+median added carbon
+maximum (MgC/h)
 ```
 ```
 Assumed maximum sequestration rate (MgC/ha/year)
@@ -11793,20 +8954,17 @@ Production Forest 2015
 743 (80%: 669–817)
 ```
 ```
-FAO (^2016
+FAO ([^2016]
 ```
 ```
 )
 ```
 ```
 185 (an
-upper end estimate,
+upper end estimate, possibly too high,
 ```
 ```
-possibly too high,
 cf. Liu
-```
-```
 et al. 2015
 ```
 ```
@@ -11816,7 +8974,7 @@ et al. 2015
 0.4 (80%: 0.36–0.44)
 ```
 ```
-Nabuurs et al. (^2017
+Nabuurs et al. ([^2017]
 ```
 ```
 )
@@ -11855,7 +9013,7 @@ S,Tr
 419 (80%: 377–461)
 ```
 ```
-FAO (^2016
+FAO ([^2016]
 ```
 ```
 )
@@ -11873,13 +9031,13 @@ Houughton and Nassikas (2018)
 60 (80%: 42 to 78)
 ```
 ```
-Pan et al. (^2011
+Pan et al. ([^2011]
 ```
 ```
 ) and
 ```
 ```
-Grace et al. (^2014
+Grace et al. ([^2014]
 ```
 ```
 )
@@ -11903,13 +9061,13 @@ Permanent crop area 2015
 100 (80%: 90–110)
 ```
 ```
-Zomer et al. (^2016
+Zomer et al. ([^2016]
 ```
 ```
 )
 ```
 ```
-and Watson et al. (^2000
+and Watson et al. ([^2000]
 ```
 ```
 );
@@ -11930,13 +9088,13 @@ et al. 2016
 0.65 (80%: 0.59–0.72)
 ```
 ```
-Nabuurs et al. (^2017
+Nabuurs et al. ([^2017]
 ```
 ```
 ) and
 ```
 ```
-Zomer et al. (^2016
+Zomer et al. ([^2016]
 ```
 ```
 )
@@ -11945,7 +9103,7 @@ Zomer et al. (^2016
 50 (80%: 35 to 65)
 ```
 ```
-Watson et al. (^2000
+Watson et al. ([^2000]
 ```
 ```
 )
@@ -11969,7 +9127,7 @@ S,Tr
 1.09 (80%: 0.98–1.2)
 ```
 ```
-Ramachdradan Nair et al (2009) and Zomer et al. (^2016
+Ramachdradan Nair et al (2009) and Zomer et al. ([^2016]
 ```
 ```
 )
@@ -11978,7 +9136,7 @@ Ramachdradan Nair et al (2009) and Zomer et al. (^2016
 50 (80%: 35–65)
 ```
 ```
-Watson et al. (^2000
+Watson et al. ([^2000]
 ```
 ```
 )
@@ -11989,7 +9147,6 @@ Watson et al. (^2000
 ```
 20 (90%: 10–100)
 ```
-
 ```
 73
 ```
@@ -12047,8 +9204,7 @@ Elliston, B, MacGill, Ian (2014), Ben Elliston, Iain MacGill, Mark Diesendorf, C
 cost scenarios for 100% renewable electricity with low emission fossil fuel scenarios in the
 Australian National Electricity, Market, Elsevier, Renewable Energy, Volume 66, June 2014,
 
-3 Methodology
-
+[^3]: Methodology
 
 74
 
@@ -12111,7 +9267,6 @@ IEA (2017b) World Energy Outlook 2017. OECD Publishing, Paris/IEA, Paris
 ```
 S. Teske et al.
 ```
-
 ```
 75
 ```
@@ -12170,8 +9325,7 @@ Nature Climate Change 3, 552–557. https://doi.org/10.1038/nclimate1804
 Mackey, B., Ware, D., Buckwell, A., Nalau, J., Sahin, O., Flemming, C. M., Smart, J.C., Connollet,
 R., Hallgren, W., 2018. Options and Implementation for Ecosystem-based Adaptation, Tanna
 
-3 Methodology
-
+[^3]: Methodology
 
 76
 
@@ -12232,7 +9386,6 @@ ISBN 978-3-9818911-3-3
 ```
 S. Teske et al.
 ```
-
 ```
 77
 ```
@@ -12291,15 +9444,14 @@ UNFCCC (2015), The Paris Agreement builds upon the Convention and for the first 
 all nations into a common cause to undertake ambitious efforts to combat climate change and
 adapt to its effects, with enhanced support to assist developing countries to do so. As such,
 
-3 Methodology
-
+[^3]: Methodology
 
 78
 
 it charts a new course in the global climate effort. https://unfccc.int/process-and-meetings/
 the-paris-agreement/the-paris-agreement
 (Vaisala 2017) Free Wind and Solar Resource Maps; Accessed 25 October 2018; ONLINE; https://
-[http://www.vaisala.com/en/lp/free-wind-and-solar-resource-maps.](http://www.vaisala.com/en/lp/free-wind-and-solar-resource-maps.)
+[www.vaisala.com/en/lp/free-wind-and-solar-resource-maps](www.vaisala.com/en/lp/free-wind-and-solar-resource-maps).
 Watson, B., Noble, L., Bolin, B., et. al., 2000. Summary for policymakers: land use, land-use
 change, and forestry: a special report of the Intergovernmental Panel on Climate Change.
 Intergovernmental Panel on Climate Change.
@@ -12321,7 +9473,7 @@ tion of agroforestry to global and national carbon budgets. Scientific Reports 6
 org/10.1038/srep29987
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -12334,59 +9486,40 @@ the copyright holder.
 ```
 S. Teske et al.
 ```
-
 © The Author(s) 2019 79
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_4
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 4
+**Chapter 4**
 
 #### Mitigation Scenarios for Non-energy GHG
 
 **Malte Meinshausen and Kate Dooley**
 
 **Abstract** Presentation of non-energy emission pathways in line with the new
-
 UNFCCC Shared Socio-Economic Pathways (SSP) scenario characteristics and the
-
 evaluation of the multi-gas pathways against various temperature thresholds and
-
 carbon budgets (1.5  °C and 2.0  °C) over time, and additionally against a 1.5  °C
-
 carbon budget in 2100, followed by a discussion of the results in the context of the
-
 most recent scientific literature in this field. Presentation of the non-energy GHG
+mitigation scenarios calculated to complement the energy-related CO[^2]: emissions
+derived in Chap. [^8]:.
 
-mitigation scenarios calculated to complement the energy-related CO 2 emissions
+In this section, we present the results for the land-use CO[^2]: and non-CO[^2]: emissions
 
-derived in Chap. 8.
+pathways that complement the 2.0 °C and 1.5 °C energy-related CO[^2]: scenarios.
 
-In this section, we present the results for the land-use CO 2 and non-CO 2 emissions
-
-pathways that complement the 2.0 °C and 1.5 °C energy-related CO 2 scenarios.
-
-**4.1 Land-Use CO 2 emissions**
+**4.1 Land-Use CO**[^2]: **emissions**
 
 This section presents the aggregate results for the land-use sequestration pathways
-
 designed for this study. Figure 4.1 below shows the annual sequestration in the
-
 sequestration pathways over time, differentiated into climate domains. The path-
-
 ways shown are the results of the Monte Carlo analysis described in Table 3.11 in
-
 Sect. 3.8.1.5 and the text. We focus on the median values (thick lines in Fig. 4.1).
-
 Note that the area under the curve for a given pathway is an indication of the cumu-
-
-lative CO 2 uptake. By far the most important sequestration may result from large-
-
+lative CO[^2]: uptake. By far the most important sequestration may result from large-
 scale reforestation measures, particularly in the subtropics and tropics (see yellow
-
 pathways in Fig. 4.1 below). The second most important pathway in terms of the
-
-amount of CO 2 sequestered is the sustainable use of existing forests, which basically
-
+amount of CO[^2]: sequestered is the sustainable use of existing forests, which basically
 means reducing logging within those forests. Although effective mitigation is not
 
 M. Meinshausen (*) · K. Dooley
@@ -12394,10 +9527,9 @@ Australian-German Climate and Energy College, University of Melbourne, Parkville
 Victoria, Australia
 e-mail: malte.meinshausen@unimelb.edu.au; kate.dooley@unimelb.edu.au
 
-
 80
 
-achieved in the tropics (Martin et  al. 2015 ), in the temperate and boreal regions,
+achieved in the tropics (Martin et  al. [^2015]:), in the temperate and boreal regions,
 
 improved forest management could provide substantial additional carbon uptake
 
@@ -12405,47 +9537,35 @@ over time. The time horizon for this sequestration option is assumed to be relat
 
 long in temperate and boreal regions, consistent with the longer time it takes for
 
-these forest ecosystems to reach equilibrium (Roxburgh et al. 2006 ; Luyssaert et al.
+these forest ecosystems to reach equilibrium (Roxburgh et al. [^2006]:; Luyssaert et al.
 
-2008 ). The ‘forest ecosystem restoration’ pathway is also important, which basi-
+[^2008]:). The ‘forest ecosystem restoration’ pathway is also important, which basi-
 
 cally assumes a reduction to zero in logging rates in a fraction of the forest, allowing
 
 these forests to be restored to full ecosystem function, including their carbon stocks
 
-and resilience due to biodiversity (Mackey 2014 ).
+and resilience due to biodiversity (Mackey [^2014]:).
 
 ```
 Overall, the median of all the assumed sequestration pathways, shown in Fig. 4.1,
 ```
 would result in the sequestration of 151.9 GtC by 2150. This is approximately equiv-
 
-alent to all historical land-use-related CO 2 emissions to date (Houghton and Nassikas
-
-2017 ; Mackey et al. 2013 ). The magnitude of these figures indicates the substantial
+alent to all historical land-use-related CO[^2]: emissions to date (Houghton and Nassikas
+[^2017]:; Mackey et al. [^2013]:). The magnitude of these figures indicates the substantial
 
 challenges that go hand in hand with these sequestration pathways. Given the com-
-
 peting forms of land use that exist today, the challenge of converting overall terres-
-
 trial carbon stocks back to pre-industrial levels cannot be underestimated. There
-
 would be significant benefits, but also risks, if this sequestration option were to be
-
 used instead of mitigation. The benefits are clearly manifold, ranging from biodiver-
-
 sity protection, reduced erosion, improved local climates, wind protection, and
-
-potentially a reduction in air pollution (Mackey 2014 ). Despite this, terrestrial car-
-
+potentially a reduction in air pollution (Mackey [^2014]:). Despite this, terrestrial car-
 bon sequestration is inherently impermanent. However, a future warming climate
-
 with an increased fire risk also brings with it the risk of large reversals in sequestered
-
 carbon. Similarly, prolonged droughts in some areas could reverse the gains in ter-
-
 restrial carbon stocks. Although the increased resilience of natural and biodiverse
-
 ecosystems compared with that of monoculture plantations can guard against this
 
 ```
@@ -12504,102 +9624,57 @@ and tropics)
 ```
 M. Meinshausen and K. Dooley
 ```
-
 ```
 81
 ```
-risk (DellaSala, 2019 ; Lindenmayer and Sato 2018 ), a future mitigation pathway
-
+risk (DellaSala, [^2019]:; Lindenmayer and Sato [^2018]:), a future mitigation pathway
 that relies on sequestration _instead of mitigation action_ is ultimately always more
-
 susceptible to higher long-term climate change, given the risk of ‘non-permanence’.
-
-However, in this study, the land-use CO 2 sequestration pathways complement some
-
+However, in this study, the land-use CO[^2]: sequestration pathways complement some
 of the most ambitious mitigation pathways, and should therefore be regarded, not as
-
 ‘offsetting’ mitigation action, but as complementary measures to help reduce the
-
-CO 2 concentrations that have arisen from the overly high emissions in the past.
-
-```
+CO[^2]: concentrations that have arisen from the overly high emissions in the past.
 The thin lines in Fig. 4.1 indicate individual draws in the Monte Carlo analysis.
-```
 The thick lines are the median values from the ensemble of draws for each seques-
-
 tration pathway and domain.
-
-```
 We aggregated the four sequestration pathways from our country-level data to
-```
 the five RCP regions (Fig. 4.2). The country-level data were subject to substantial
-
 uncertainties and simplifications because we used climate-domain average uptakes,
-
 carbon density caps, and saturation periods. The re-aggregated sequestration rates
-
 over the five RCP regions can be considered approximate illustrations of the biome-
-
 average sequestration rates if those sequestration pathways were pursued with a
-
 range of institutional and policy measures.
-
-```
 For the 1.5 °C Scenario, we assumed the full extent of sequestration shown in
-```
 Fig. 4.1, whereas for the 2.0  °C pathway, we assumed that only a third of that
-
 sequestration will occur. The reference scenario is assumed to follow the SSP2
-
 ‘middle of the road’ reference scenario created by the MESSAGE-GLOBIOM
-
 modelling team. As illustrated in Fig. 4.2, the reference scenario does not assume a
-
 complete phasing-out of global land-use-related net emissions over the next 20 or
-
 30 years. Instead, it assumes that they are not phased-out until approximately 2080.
-
-```
 The 2.0  °C pathway (brighter blue in Fig. 4.2) aligns relatively well with the
-```
 SSP1 1.9 and SSP1 2.6 scenarios from the forthcoming CMIP6 model inter-
-
 comparison project. The 1.5 °C pathway, with three times the sequestration rates, is
-
-consistent with the lower land-use CO 2 scenarios analysed here—with mitigation
-
+consistent with the lower land-use CO[^2]: scenarios analysed here—with mitigation
 rates of up to −2 GtC per annum from 2040 to 2050.
-
-```
-Figure 4.2 shows the land-use-related CO 2 emission and sequestration rates of
-```
+Figure 4.2 shows the land-use-related CO[^2]: emission and sequestration rates of
 the 2.0°C and 1.5  °C pathways in this study compared with those in the CMIP6
-
 CEDS scenarios (turquoise) and the scenarios from the IPCC SR1.5 database (thin
-
 green lines). The global total pathway is the sum of the five regional pathways
-
 shown in the lower row of the panels.
 
-**_4.1.1 Other GHG and Aerosol Emissions_**
+**4.1.1 Other GHG and Aerosol Emissions**
 
-This section examines the other main GHGs (methane and N 2 O) and gives examples
-
+This section examines the other main GHGs (methane and N[^2]:O) and gives examples
 of some fluorinated gases. The full results, with the species-by-species time series,
-
 are provided in a data appendix.
-
-```
-Methane (CH 4 ) emissions are the second-largest contributor to anthropogenically
-```
+Methane (CH[^4]:) emissions are the second-largest contributor to anthropogenically
 induced climate change. Our approach, described in the Methods section earlier,
 
 derives pathways for the 1.5 °C and 2.0 °C Scenarios that are close to the lower end
 
 of the overall scenario distribution. This is mainly because the methane distribution at
 
-4 Mitigation Scenarios for Non-energy GHG
-
+[^4]: Mitigation Scenarios for Non-energy GHG
 
 82
 
@@ -12610,70 +9685,40 @@ Fig. 4.2
 Land-use-related CO
 ```
 ```
-emission and sequestration rates 2
+emission and sequestration rates2
 ```
 ```
 M. Meinshausen and K. Dooley
 ```
-
 ```
 83
 ```
-the lower end of the fossil fuel CO 2 emissions is relatively narrow, and there is a
-
-strong correlation between the fossil CO 2 and total CH 4 emissions in the scenarios in
-
+the lower end of the fossil fuel CO[^2]: emissions is relatively narrow, and there is a
+strong correlation between the fossil CO[^2]: and total CH[^4]: emissions in the scenarios in
 any given year (see top-left methane panel in Fig. 3.14). As with almost all literature-
-
 reported scenarios, a lower plateau of methane emissions is associated with agricul-
-
 tural activities required to feed the world’s population. Our quantile regression method
-
 resulted in long-term methane emission levels that are quite similar to those in the two
-
-lower SSP scenarios, SSP1 1.9 and SSP1 2.6 (Fig. 4.3). The derived CH 4 pathways for
-
+lower SSP scenarios, SSP1 1.9 and SSP1 2.6 (Fig. 4.3). The derived CH[^4]: pathways for
 1.5 °C and 2.0 °C track towards the lower of the scenario distributions.
-
-```
-Nitrous oxide (N 2 O) is one of the longer-lived GHGs, although the overall
-```
-amounts in the atmosphere are much smaller than those of methane or CO 2. The
-
-relatively high plateau of global emissions, around 5 MtN 2 O-N for N 2 O, are reflected
-
+Nitrous oxide (N[^2]:O) is one of the longer-lived GHGs, although the overall
+amounts in the atmosphere are much smaller than those of methane or CO[^2]:. The
+relatively high plateau of global emissions, around 5 MtN[^2]:O-N for N[^2]:O, are reflected
 in the SSP1. 1.9 and SSP1 2.6 scenarios (dark green lines in Fig. 4.4) and in the
-
 quantile regression results for the 2.0  °C and 1.5  °C scenarios in this study. This
-
 plateau of emissions is related to agricultural activities, mainly the use of fertilizers,
-
-and combined with the long lifetime of N 2 O, it means that the N 2 O concentrations
-
+and combined with the long lifetime of N[^2]:O, it means that the N[^2]:O concentrations
 are projected to increase further over the course of the century, even for the lower
-
 1.5 °C and 2.0 °C pathways.
-
-```
 The derived methane pathways for 1.5 °C and 2.0 °C track towards the lower of
-```
 the scenario distributions.
-
-```
 Halocarbons and fluorinated gases are another group of important GHGs.
-```
 Recently, some of these gases, such as HFCs, were also subjected to control under
-
 the Montreal Protocol, with clear phase-out schedules. Some of the halocarbons and
-
-fluorinated gases (such as tetrafluoromethane, CF 4 ) are only produced and emitted
-
+fluorinated gases (such as tetrafluoromethane, CF[^4]:) are only produced and emitted
 in relatively small quantities—largely for industrial purposes in the semi-conductor
-
 industry. Some also have applications in the agricultural sector, including methyl
-
-bromide, which is used for soil fumigation. SF 6 is one of the strongest GHGs on a
-
+bromide, which is used for soil fumigation. SF[^6]: is one of the strongest GHGs on a
 per mass basis. It is controlled under the Kyoto Protocol and included in the nation-
 
 ally determined contributions (NDCs) by many countries under the Paris Agreement.
@@ -12682,40 +9727,24 @@ Our applied quantile regression method practically phases-out many of the haloge
 
 nated species over the course of the next 10–20 years, although some small back-
 
-ground emissions remain. The full results for 40 halocarbons, HFCs, PFCs, and SF 6
-
+ground emissions remain. The full results for 40 halocarbons, HFCs, PFCs, and SF6
 are provided in a data appendix (Figs. 4.5 and 4.6).
 
-```
 Aerosols have an important temporary masking effect on GHG-induced warm-
-```
 ing. The most important anthropogenically emitted aerosol coolant in the climate
-
 system is sulfur dioxide or SOX. With higher fuel standards and concerns about local
-
 air pollution, future SOX emissions are projected to be substantially lower than cur-
-
 rent levels. In fact, most emission inventories assume that SOX emissions peaked in
-
 the 1990s. Therefore, even in the most high-fossil-fuel-emitting reference scenarios,
-
 SOX emissions are projected to decrease. Asia produces by far the most SOX emis-
-
 sions of any continent because of the coal-fuelled power plants in China and India.
-
 In the 2.0 °C Scenario, our quantile regression method sets sulfate aerosol emissions
-
 at levels in between those in the SSP1 2.6 and SSP1 1.9 scenarios, whereas in the
-
 1.5 °C Scenario, the level is even lower.
-
-```
 Similarly, the projected emissions of NOX, which is largely a by-product of fossil
-```
 fuel burning, are highest in Asia. In the derived 1.5 °C and 2.0 °C Scenarios, NOX
 
-4 Mitigation Scenarios for Non-energy GHG
-
+[^4]: Mitigation Scenarios for Non-energy GHG
 
 84
 
@@ -12728,7 +9757,6 @@ Global and regional methane emissions from fossil, industrial, and land-use-rela
 ```
 M. Meinshausen and K. Dooley
 ```
-
 ```
 85
 ```
@@ -12738,48 +9766,33 @@ Fig. 4.4
 ```
 Global and regional methane emissions from fossil, industrial, and land-use-related sources
 ```
-4 Mitigation Scenarios for Non-energy GHG
-
+[^4]: Mitigation Scenarios for Non-energy GHG
 
 86
 
 levels are between the levels in the SSP1 2.6 and SSP1 1.9 scenarios for most of the
-
 twenty-first century (Figs. 4.7 and 4.8).
-
-```
 Black and organic carbon emissions are also accruing substantially in the Middle
-```
 East and Africa, largely from biomass burning (Figs. 4.9 and 4.10). Similar to other
-
 aerosol emissions, black and organic carbon emissions are projected to decrease.
-
 Although black carbon is a substantial warming agent, organic carbon is a net cool-
-
 ant. Because both species are often co-emitted, the net effect of policies to reduce
-
 black carbon do not have as large a mitigation benefit as might be initially assumed.
-
 This is because a reduction in the processes and activities that produce black carbon
-
 emissions will also lead to lower organic carbon emissions, partially offsetting both
-
 the warming and cooling effects. The emissions projected as part of the IMAGE
-
 model SSP1 2.6 and SSP1 1.9 scenarios are very low compared with those in other
+studies. Furthermore, the correlation between fossil CO[^2]: emissions and black or
 
-studies. Furthermore, the correlation between fossil CO 2 emissions and black or
-
-**Fig. 4.5** Global SF 6 emission levels from literature-reported scenarios and the LDF pathways
+**Fig. 4.5** Global SF[^6]: emission levels from literature-reported scenarios and the LDF pathways
 derived in this study
 
-**Fig. 4.6** Global tetrafluoromethane (CF 4 ) emissions from the collection of assessed literature-
+**Fig. 4.6** Global tetrafluoromethane (CF[^4]:) emissions from the collection of assessed literature-
 reported scenarios and the LDF pathways derived in this study
 
 ```
 M. Meinshausen and K. Dooley
 ```
-
 ```
 87
 ```
@@ -12792,8 +9805,7 @@ Global and regional sulfate dioxide (SO
 ```
 ) emissions in the literature-reported scenarios considered and the LDF pathways derived in this studyX
 ```
-4 Mitigation Scenarios for Non-energy GHG
-
+[^4]: Mitigation Scenarios for Non-energy GHG
 
 88
 
@@ -12809,7 +9821,6 @@ Global and regional nitrate aerosol (NO
 ```
 M. Meinshausen and K. Dooley
 ```
-
 ```
 89
 ```
@@ -12819,8 +9830,7 @@ Fig. 4.9
 ```
 Global and regional black carbon BC emissions in the literature-reported scenarios considered and the LDF pathways derived in this study
 ```
-4 Mitigation Scenarios for Non-energy GHG
-
+[^4]: Mitigation Scenarios for Non-energy GHG
 
 90
 
@@ -12833,23 +9843,19 @@ Global and regional organic carbon OC emissions in the literature-reported scena
 ```
 M. Meinshausen and K. Dooley
 ```
-
 ```
 91
 ```
-organic carbon is less pronounced than the correlations of fossil CO 2 with other
-
+organic carbon is less pronounced than the correlations of fossil CO[^2]: with other
 aerosols, such as NOX and SOX, partly because it results from biomass burning,
-
 which is not related to the burning of fossil fuels. Therefore, with our quantile
 
 regression method, the black carbon and organic carbon emission pathways are not
 
 as low as those found in the lower SSP scenarios (see Figs. 4.9 and 4.10).
 
-```
-For Tabular overview of three scenarios see Annex
-```
+**For Tabular overview of three scenarios see Annex**
+
 **References**
 
 DellaSala, D.L., 2019. “Real” vs. “Fake” Forests: Why Tree Plantations are Not Forests, in:
@@ -12877,7 +9883,7 @@ Carbon sequestration potential. Journal of Applied Ecology 43, 1149–1159. http
 org/10.1111/j.1365-2664.2006.01221.x
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -12887,14 +9893,12 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-4 Mitigation Scenarios for Non-energy GHG
-
+[^4]: Mitigation Scenarios for Non-energy GHG
 
 © The Author(s) 2019 93
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_5
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 5
+**Chapter 5**
 
 #### Main Assumptions for Energy Pathways
 
@@ -12938,7 +9942,7 @@ is the core of this approach because we must consider different technical,
 
 economic, environmental, and societal factors. The scenario modelling follows a
 
-hybrid bottom- up/top-down approach, with no cost optimising objective functions.
+hybrid bottom-up/top-down approach, with no cost optimising objective functions.
 
 The analysis considers the key technologies required for a successful energy transi-
 
@@ -12954,7 +9958,6 @@ e-mail: thomas.pregger@dlr.de; sonja.simon@dlr.de; tobias.naegler@dlr.de
 S. Teske
 Institute for Sustainable Futures, University of Technology Sydney, Sydney, NSW, Australia
 e-mail: sven.teske@uts.edu.au
-
 
 94
 
@@ -12978,13 +9981,13 @@ perature increases. The (around) 5.0 °C Scenario was calculated based on the C
 
 Policies scenario published by the International Energy Agency (IEA) in World
 
-Energy Outlook 2017 (IEA 2017 ), and the emission budget for this scenario simply
+Energy Outlook 2017 (IEA [^2017]:), and the emission budget for this scenario simply
 
 uses and extrapolates from the corresponding narratives. The 2.0  °C and 1.5  °C
 
 Scenarios were calculated in a normative way to achieve defined emission budgets.
 
-**_5.1.1 The 5.0 °C Scenario (Reference Scenario)_**
+**5.1.1 The 5.0 °C Scenario (Reference Scenario)**
 
 The reference case only takes into account existing international energy and envi-
 
@@ -13002,51 +10005,37 @@ nomic and energy indicators forward to 2050. This provides a baseline for compar
 
 son with the 2.0 °C and 1.5 °C Scenarios.
 
-**_5.1.2 The 2.0 °C Scenario_**
+**5.1.2 The 2.0 °C Scenario**
 
 The first alternative scenario aims to achieve an ambitious emissions reduction to
 
-zero by 2050 and a global energy-related CO 2 emissions budget between 2015 and
-
+zero by 2050 and a global energy-related CO[^2]: emissions budget between 2015 and
 2050 of around 590 Gt. The scenario is close to the assumptions and results of the
 
-Advanced E[R] scenario published in 2015 by Greenpeace (Teske et  al. 2015 ).
-
+Advanced E[R] scenario published in 2015 by Greenpeace (Teske et  al. [^2015]:).
 However, the scenario includes an updated base year, more coherent regional devel-
-
 opments of energy intensities, and reconsidered trajectories and shares of renewable
-
 energy resource (RES) deployment. The 2.0  °C Scenario represents a far more
-
 likely pathway than the 1.5 °C Scenario, because the 2.0 °C case takes into account
-
 unavoidable delays due to political, economic, and societal processes and
-
 stakeholders.
 
 ```
 T. Pregger et al.
 ```
-
 ```
 95
 ```
-**_5.1.3 The 1.5 °C Scenario_**
+**5.1.3 The 1.5 °C Scenario**
 
-The second alternative scenario aims to achieve a global energy-related CO 2 emis-
-
+The second alternative scenario aims to achieve a global energy-related CO[^2]: emis-
 sion budget of around 450 Gt, accumulated between 2015 and 2050. The 1.5  °C
 
 Scenario requires immediate action to realize all available options. It is a technical
-
 pathway, not a political prognosis. It refers to technically possible measures and
-
 options without taking into account societal risks or barriers. Efficiency and renew-
-
 able potentials must be deployed even more quickly than in the 2.0  °C Scenario.
-
 Furthermore, avoiding inefficient technologies and behaviours are essential strate-
-
 gies for developing regions in this time period.
 
 **5.2 Scenario World Regions and Clusters**
@@ -13056,27 +10045,17 @@ The regional implementation of the long-term energy scenarios is defined accordi
 to the breakdown of the ten world regions of the IEA WEO 2016 (IEA 2016a, b).
 
 This approach has been chosen because the IEA also provides the most comprehen-
-
 sive global energy statistics and, in contrast to the regional breakdown of the IEA
-
 WEO 2017, it is also consistent with the Energy [R]evolution study series. Table 5.1
-
 provides a country breakdown of the ten world regions considered in the scenarios.
-
-```
 Regional conditions play an important role in the layout of the scenario path-
-```
 ways. Therefore, scenario building tries to take into account important factors, such
-
 as current demand and supply structures, RES potentials, urbanization rates, and as
-
 far as possible, societal and behavioural factors. The following sections provide
-
 some regional information. Statistical data for the energy systems in the regions can
-
 be found in Sect. 5.3.
 
-**_5.2.1 OECD North America_**
+**5.2.1 OECD North America**
 
 The energy system in OECD North America (USA, Canada, and Mexico) is domi-
 
@@ -13102,8 +10081,7 @@ supply in OECD North America. They will be supplemented by hydro power
 
 (mainly in Canada) and also concentrated solar power (CSP). The high potential for
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 96
 
@@ -13119,7 +10097,7 @@ enter the market earlier and at a faster rate than in many other world regions. 
 
 biomass potentials (residues) mean that biofuels could play important roles as
 
-climate- neutral fuels to bridge the gap until new powertrain technologies dominate
+climate-neutral fuels to bridge the gap until new powertrain technologies dominate
 
 **Table 5.1** World regions used in the scenarios
 
@@ -13200,7 +10178,6 @@ United Arab Emirates, Yemen
 ```
 T. Pregger et al.
 ```
-
 ```
 97
 ```
@@ -13210,53 +10187,35 @@ and biogas will be required as alternative fuels until the (direct or indirect) 
 
 cation of the heat sector is accomplished.
 
-**_5.2.2 Latin America_**
+**5.2.2 Latin America**
 
 Latin America’s energy system is dominated by Brazil, which accounts for around
 
 half the region’s energy demand. In the reference (5.0 °C) scenario, this region has a
 
-particularly high demand for electrification and a strong increase in CO 2 emissions
-
+particularly high demand for electrification and a strong increase in CO[^2]: emissions
 per capita. Latin America has the highest urbanization rate of all non-OECD regions.
 
 This provides opportunities for efficiency measures and the large-scale electrification
-
 of the heat and transport sectors based on renewable resources. Latin America has a
-
 high overall potential for the use of renewable energies (Herreras Martínez et  al.
-
-2015 ) and the largest biomass potential of all regions. It already meets more than
-
+[^2015]:) and the largest biomass potential of all regions. It already meets more than
 60% of its power demand from renewable sources, and higher shares are the focus of
-
-research (Nascimento et al. 2017 ; Barbosa et al. 2017 ; Gils et al. 2017 ). However, in
-
+research (Nascimento et al. [^2017]:; Barbosa et al. [^2017]:; Gils et al. [^2017]:). However, in
 many studies, heat and transport demands are not integrated into the assessments,
-
 even though the region has a large potential for renewable heat and decarbonised
-
 transport. Given the abundance of biomass, there is potential for generating more
-
-than 12 EJ from residues (Seidenberger et al. 2008 ). Biomass will also play a signifi-
-
+than 12 EJ from residues (Seidenberger et al. [^2008]:). Biomass will also play a signifi-
 cant role in the industry sector. Because the region has a long experience of biofuels,
-
 they will play a major role in the 2.0 °C and 1.5 °C Scenarios, especially in Brazil,
-
-where bioethanol for transport is already competitive (Lora and Andrade 2009 ; La
-
-Rovere et al. 2011 ; Nass et al. 2007 ). However, the high urbanization rate in Latin
-
+where bioethanol for transport is already competitive (Lora and Andrade [^2009]:; La
+Rovere et al. [^2011]:; Nass et al. [^2007]:). However, the high urbanization rate in Latin
 America means there is also an opportunity to develop electromobility early. In the
-
 power sector, the use of biomass from residues will help to balance the increasing
-
 share of variable renewable energy from the excellent solar and wind resources. Grid
+extensions will contribute to inter-regional stability (Nascimento et al. [^2017]:).
 
-extensions will contribute to inter-regional stability (Nascimento et al. 2017 ).
-
-**_5.2.3 OECD Europe_**
+**5.2.3 OECD Europe**
 
 The OECD Europe region includes countries with quite different energy supply
 
@@ -13282,8 +10241,7 @@ southern countries. Most European countries, particularly European Union (EU)
 
 member countries, already have policies and market mechanisms for the
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 98
 
@@ -13305,7 +10263,7 @@ current lines has been described in many studies and still represents a promisin
 
 option in the long term, despite the currently difficult political conditions.
 
-**_5.2.4 Eastern Europe/Eurasia_**
+**5.2.4 Eastern Europe/Eurasia**
 
 The Eastern Europe/Eurasia region includes some eastern EU member countries that
 
@@ -13333,7 +10291,7 @@ distribution of economic wealth are some of the major challenges in this region.
 
 far, only low expansion rates for renewable energies have been achieved in the region.
 
-**_5.2.5 The Middle East_**
+**5.2.5 The Middle East**
 
 The Middle East consists of a series of oil-dependent countries, all of which have
 
@@ -13359,18 +10317,17 @@ combined heat and power generation (CHP), which is primarily seen as a transi-
 
 tion technology to provide the most efficient use of the remaining fossil fuels and
 
-low- value biomass wastes. However, because the Middle East has extraordinary
+low-value biomass wastes. However, because the Middle East has extraordinary
 
-solar and wind potentials (Nematollahi et al. 2016 ; Hess 2018 ), the solar market is
+solar and wind potentials (Nematollahi et al. [^2016]:; Hess [^2018]:), the solar market is
 
 ```
 T. Pregger et al.
 ```
-
 ```
 99
 ```
-taking off. Projects with a capacity of 11 GW are planned for 2018 (MESIA 2018 ).
+taking off. Projects with a capacity of 11 GW are planned for 2018 (MESIA [^2018]:).
 
 With the extraordinarily high number of full-load hours, there is also the potential
 
@@ -13382,7 +10339,7 @@ the 1.5 °C Scenarios. Therefore, the Middle East is a model solar and hydrogen
 
 region.
 
-**_5.2.6 Africa_**
+**5.2.6 Africa**
 
 Africa is a very heterogeneous region, both economically and geographically. One
 
@@ -13402,7 +10359,7 @@ outstanding solar irradiation, an excellent renewable energy source. Sub-Saharan
 
 Africa is characterized by low urbanization and a lack of access to electricity for
 
-two-thirds of its people (IEA 2014 ). Its energy supply is characterized by a high
+two-thirds of its people (IEA [^2014]:). Its energy supply is characterized by a high
 
 share of low-efficiency forms of generation, such as traditional biomass use. There
 
@@ -13410,19 +10367,19 @@ is a general lack of energy services. Modernizing traditional biomass use could 
 
 to significant reductions in energy demand, while maintaining or improving energy
 
-services (van der Zwaan et al. 2018 ). A broad variety of renewable energy sources,
+services (van der Zwaan et al. [^2018]:). A broad variety of renewable energy sources,
 
 including biomass, hydro, geothermal, solar, and wind, have great potential.
 
 However, it will be a major challenge to find the investment required to tap these
 
-power sources under the present economic conditions (van der Zwaan et al. 2018 ).
+power sources under the present economic conditions (van der Zwaan et al. [^2018]:).
 
 The picture is somewhat different in South Africa, which has a coal-based energy
 
 system and a comparatively stable and well-connected electricity grid, with access
 
-to electricity for more than 85% of its population (IEA 2014 ). The dependence on
+to electricity for more than 85% of its population (IEA [^2014]:). The dependence on
 
 traditional biomass is extensive in the household and commerce sectors. Over 700
 
@@ -13434,7 +10391,7 @@ provide multiple advantages. The introduction of more-efficient technologies, ev
 
 those as simple as improved cooking stoves (with an average efficiency of 25%) or
 
-biogas stoves (with an average efficiency of 65%) (IEA 2014 ), will reduce the bio-
+biogas stoves (with an average efficiency of 65%) (IEA [^2014]:), will reduce the bio-
 
 mass input and thus the primary energy demand. This will also alleviate the heavy
 
@@ -13450,12 +10407,11 @@ in 2050, while biomass’s share will decrease and be partially replaced by elec
 
 power and solar heat.
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 100
 
-**_5.2.7 Non-OECD Asia_**
+**5.2.7 Non-OECD Asia**
 
 The Non-OECD Asia region includes all the developing countries of Asia, except
 
@@ -13487,7 +10443,7 @@ cal development, even though the outlooks for individual countries deviate widel
 
 from the average.
 
-**_5.2.8 India_**
+**5.2.8 India**
 
 India has a fast-growing population of over 1.2 billion people and is the world’s
 
@@ -13519,7 +10475,7 @@ and overall electricity demand. It is also expected that the need for mobility i
 
 will increase rapidly and more strongly than in other regions of the world.
 
-**_5.2.9 China_**
+**5.2.9 China**
 
 China has great potential renewable energy resources, especially for the generation
 
@@ -13530,7 +10486,6 @@ the east and southeast. Photovoltaic power generation could play an important ro
 ```
 T. Pregger et al.
 ```
-
 ```
 101
 ```
@@ -13542,7 +10497,7 @@ China will face further large increases in energy demand in all sectors of the e
 
 system. Chinese economic prosperity has mainly been underpinned by coal, which
 
-provides over two-thirds of China’s primary energy supply today (IEA WEO 2014 ).
+provides over two-thirds of China’s primary energy supply today (IEA WEO [^2014]:).
 
 The increase in electricity use due to higher electrification rates will be a major fac-
 
@@ -13552,13 +10507,12 @@ transport sectors. In China, nearly all households are connected to the electric
 
 grid. However, according to WEO 2014, about 450 million Chinese still relied on
 
-the traditional use of biomass for cooking in 2012. China has pledged to reduce CO 2
-
+the traditional use of biomass for cooking in 2012. China has pledged to reduce CO2
 emissions before 2030, and already has some ambitious political targets for renew-
 
 able energy deployment.
 
-**_5.2.10 OECD Pacific_**
+**5.2.10 OECD Pacific**
 
 OECD Pacific consists of Japan, New Zealand, the peninsula of South Korea, and
 
@@ -13586,7 +10540,7 @@ for renewable energies, in particular PV, have risen sharply.
 
 **5.3 Key Assumptions for Scenarios**
 
-**_5.3.1 Population Growth_**
+**5.3.1 Population Growth**
 
 Population growth is an important driver of energy demand, directly and through its
 
@@ -13594,7 +10548,7 @@ impact on economic growth and development. The assumptions made in this study
 
 up to 2050 are based on United Nations Development Programme (UNDP) projec-
 
-tions for population growth (UNDP 2017 (medium variant)). Table 5.2 shows that
+tions for population growth (UNDP [^2017]: (medium variant)). Table 5.2 shows that
 
 according to the UNDP, the world’s population is expected to grow by 0.8% per
 
@@ -13606,63 +10560,41 @@ growth will slow over this period, from 1.1% per year during 2015–2020 to 0.6%
 
 per year during 2040–2050. From a regional perspective, Africa’s population growth
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 102
 
 will continue to be the most rapid (on average 2.2%/year), followed by the Middle
-
 East (1.3%/year). In contrast, in China and OECD Pacific, a population decline of
-
 about 0.1%/year. is expected. The populations in OECD Europe and OECD North
-
 America are expected to increase slowly through to 2050. The proportion of the
-
 population living in today’s non-OECD countries will increase from its current 81%
-
 to 85% in 2050. China’s contribution to the world population will drop from 19%
-
 today to 15% in 2050. Africa will remain the region with the highest population
-
 growth, leading to a share of 26% of world population in 2050. Satisfying the energy
-
 needs of a growing population in the developing regions of the world in an environ-
-
 mentally friendly manner is the fundamental challenge in achieving a sustainable
-
 global energy supply.
 
-**_5.3.2 GDP Development_**
+**5.3.2 GDP Development**
 
 Economic growth is a key driver of energy demand. Since 1971, each 1% increase
-
 in the global GDP has been accompanied by a 0.6% increase in primary energy
-
 consumption. Therefore, the decoupling of energy demand and GDP growth is a
-
 prerequisite for the rapid decarbonisation of the global energy industry. In this
-
 study, the economic growth in the model regions is measured in GDP, expressed in
-
 terms of purchasing power parity (PPP) exchange rates. Purchasing power parities
-
 compare the costs in different currencies of fixed baskets of traded and non-traded
-
 goods and services. GDP PPP is a widely used measure of living standards and is
-
 independent of currency exchange rates, which might not reflect a currency’s true
-
 value (purchasing power) within a country. Therefore, GDP PPP is an important
-
 basis of comparison when analysing the main drivers of energy demand or when
-
 comparing the energy intensities of countries.
 
 **Table 5.2** Population growth projections (in millions)
 
 ```
-Million capita 2015 2020 20252030 2035 20402045 2050
+Million capita 2015 2020 2025 2030 2035 2040 2045 2050
 ```
 ```
 Change
@@ -13679,61 +10611,39 @@ Eurasia
 ```
 Middle East 234 254 276 295 314 331 348 363 56%
 Latin America 506 531 552 571 587 599 609 616 22%
-China 1405 1433 14471450 1442 14261403 1374 −2%
-Africa 1194 1353 15221704 1897 21002312 2528 112%
-India 1309 1383 14521513 1565 16051636 1659 27%
-Non-OECD Asia 1132 1203 12691329 1382 14281467 1499 32%
-Global 7383 7795 81858551 8893 92109504 9772 32%
+China 1405 1433 1447 1450 1442 1426 1403 1374 −2%
+Africa 1194 1353 1522 1704 1897 2100 2312 2528 112%
+India 1309 1383 1452 1513 1565 1605 1636 1659 27%
+Non-OECD Asia 1132 1203 1269 1329 1382 1428 1467 1499 32%
+Global 7383 7795 8185 8551 8893 9210 9504 9772 32%
 ```
 Source: UN World Population Prospects—2017 revision, medium variant
 
 ```
 T. Pregger et al.
 ```
-
 ```
 103
 ```
-```
 Although PPP assessments are still relatively imprecise compared with statistics
-```
 based on national incomes, trade, and national price indices, it is argued that they
-
 provide a better basis for global scenario development. Therefore, all the data on
-
 economic development in the IEA World Energy Outlook 2016 (WEO 2016a, b)
-
 refer to purchasing-power-adjusted GDP in international US$ (2015).  However,
-
 because WEO 2016 only covers the time period up to 2040, projections for 2040–
-
 2050 in the 5.0 °C, 2.0 °C, and 1.5 °C Scenarios are based on German Aerospace
-
 Center (DLR) estimates, which are mainly used to extrapolate the GDP trends in the
-
 world regions used in our modelling.
-
-```
 GDP growth in all regions is expected to slow gradually over the coming decades
-```
 (Table 5.3). It is assumed that world GDP will grow on average by 3.2% per year
-
 over the period 2015–2050. China, India, and Africa are expected to grow faster
-
 than other regions, followed by the Middle East, Africa, other non-OECD Asia, and
-
 Latin America. The growth of the Chinese economy will slow as it becomes more
-
 mature, but it will nonetheless become the economically strongest region in the
-
 world in PPP terms by 2020. The GDP in OECD Europe and OECD Pacific is
-
 assumed to grow by 1.3–1.5% per year over the projection period, while economic
-
 growth in OECD North America is expected to be slightly higher (2.1%). The
-
-OECD’s share of global PPP- adjusted GDP will decrease from 45% in 2015 to 28%
-
+OECD’s share of global PPP-adjusted GDP will decrease from 45% in 2015 to 28%
 in 2050.
 
 **Table 5.3** GDP development projections based on average annual growth rates for 2015–2040
@@ -13796,64 +10706,37 @@ Asia
 10,061 11,361 14,577 17,794 21,835 25,876 30,055 34,234 240%
 ```
 ```
-Global 115,108136,578 166,646 196,715231,758266,801306,519346,236 201%
+Global 115,108 136,578 166,646 196,715 231,758 266,801 306,519 346,236 201%
 ```
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 104
 
-**_5.3.3 Technology Cost Projections_**
+**5.3.3 Technology Cost Projections**
 
 The parameterization of the models requires many assumptions about the develop-
-
 ment of the particular characteristics of technologies, such as specific investment
-
 and fuel costs. Therefore, because long-term projections are highly uncertain, we
-
 must define plausible and transparent assumptions based on background informa-
-
 tion and up-to-date statistical and technical information.
-
-```
 The speed of an energy system transition also depends on overcoming economic
-```
 barriers. These largely relate to the relationships between the costs of renewable
-
 technologies and their fossil and nuclear counterparts. For our scenarios, the projec-
-
 tion of these costs is vital in making valid comparisons of energy systems. However,
-
 there have been significant limitations to these projections in the past in relation to
-
 investment and fuel costs.
-
-```
 In addition, efficiency measures also generate costs which are usually difficult to
-```
 determine depending on technical, structural and economic boundary conditions. In
-
 the context of this study, we have therefore assumed uniform average costs of 3 ct
-
 per avoided kWh of electricity consumption in our cost accounting.
-
-```
 During the last decade, fossil fuel prices have seen huge fluctuations. Figure 5.1
-```
 shows oil prices since 1997. After extremely high oil prices in 2012, we are cur-
-
-rently in a low-price phase. Gas prices saw similar development (IEA 2017 ).
-
+rently in a low-price phase. Gas prices saw similar development (IEA [^2017]:).
 Therefore, fossil fuel price projections have also seen considerable variations (IEA
-
-2013 , 2017) and have had a considerable influence on scenario results ever since.
-
-```
+[^2013]:, [^2017]:) and have had a considerable influence on scenario results ever since.
 Although in the past, oil-exporting countries provided the best oil price projec-
-```
 tions, institutional price projections have become increasingly accurate, with the
-
-International Energy Agency (IEA) leading the way in 2018 (Roland Berger 2018 ).
+International Energy Agency (IEA) leading the way in 2018 (Roland Berger [^2018]:).
 
 ```
 0
@@ -13896,8 +10779,6 @@ International Energy Agency (IEA) leading the way in 2018 (Roland Berger 2018 ).
 1950 1960 1970 1980 1990 2000 2010 2020 2030 2040
 ```
 Production (Mb/d) Price (USD 2013/b)
-
-```
 WEO 2000
 WEO 2001
 WEO 2002
@@ -13916,79 +10797,49 @@ WEO 2014
 WEO 2015
 WEO 2016
 Actual
-```
+
 **Fig. 5.1** Historic development and projections of oil prices (bottom lines) and historical world oil
-production and projections (top lines) by the IEA according to Wachtmeister et al. ( 2018 )
+production and projections (top lines) by the IEA according to Wachtmeister et al. ([^2018]:)
 
 ```
 T. Pregger et al.
 ```
-
 ```
 105
 ```
 An evaluation of the oil price projections of the IEA since 2000 by Wachtmeister
-
-et  al. ( 2018 ) showed that price projections have varied significantly over time.
-
+et  al. ([^2018]:) showed that price projections have varied significantly over time.
 Whereas the IEA’s oil production projections seem comparatively accurate, oil price
-
 projections showed errors of 40–60%, even when made for only 10  years ahead.
-
 Between 2007 and 2017, the IEA price projections for 2030 varied from $70 to
-
 $140 per barrel, providing significant uncertainty regarding future costs in the sce-
-
 narios. Despite this limitation, the IEA provides a comprehensive set of price
-
 projections. Therefore, we based our scenario assumptions on these projections, as
-
 described below.
-
-```
 However, because most renewable energy technologies provide energy without
-```
 fuel costs, the projections of investment costs become more important than fuel cost
-
 projections, and this limits the impact of errors in the fuel price projections. It is
-
 only for biomass that the cost of feedstock remains a crucial economic factor for
-
 renewables. Today, these costs range from negative costs for waste wood (based on
-
 credit for the waste disposal costs avoided), through inexpensive residual materials,
-
 to comparatively expensive energy crops. Because bioenergy holds significant mar-
-
 ket shares in all sectors in many regions, a detailed assessment of future price pro-
-
 jections is provided below.
-
-```
 Investment cost projections also pose challenges for scenario development.
-```
 Available short-term projections of investment costs depend largely on the data
-
 available for existing and planned projects. Learning curves are most commonly
-
 used to assess the future development of investment costs as a function of their
-
-future installations and markets (McDonald and Schrattenholzer 2001 ; Rubin et al.
-
-2015 ). Therefore, the reliability of cost projections largely depends on the uncer-
-
+future installations and markets (McDonald and Schrattenholzer [^2001]:; Rubin et al.
+[^2015]:). Therefore, the reliability of cost projections largely depends on the uncer-
 tainty of future markets and the availability of historical data.
-
-```
 Fossil technologies provide a large cost data set featuring well-established mar-
-```
+
 kets and large annual installations. They are also mature technologies, where many
 
 cost reduction potentials have already been exploited.
 
-```
 For renewable technologies, the picture is more mixed. For example, hydro
-```
+
 power is, like fossil fuels, well established and provides reliable data on investment
 
 costs. Other technologies, such as PV and wind, are currently experiencing tremen-
@@ -14001,7 +10852,7 @@ projects. However, their future markets are not easily predicted, as can be seen
 
 the evolution of IEA market projections over recent years in the World Energy
 
-Outlook series (compare for example IEA 2007 , 2014, 2017). For PV and wind,
+Outlook series (compare for example IEA [^2007]:, [^2014]:, [^2017]:). For PV and wind,
 
 small differences in cost assumptions will lead to large deviations in the overall
 
@@ -14019,8 +10870,7 @@ transformed energy system but are not yet widely available. Hydrogen production,
 
 ocean power, and synthetic fuels might deliver important technology options in the
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 106
 
@@ -14028,90 +10878,55 @@ long term after 2040, but their cost reduction potential cannot be assessed with
 
 certainty today.
 
-```
 Thus, cost assumptions are a crucial factor in evaluating scenarios. Because costs
-```
+
 are an external input into the model and are not internally calculated, we assume the
 
 same progressive cost developments for all scenarios. In the next sections, we pres-
 
 ent a detailed overview of our assumptions for power and renewable heat technolo-
 
-gies, including the investment and fuel costs, and the potential CO 2 costs in the
-
+gies, including the investment and fuel costs, and the potential CO[^2]: costs in the
 scenarios.
 
 **5.3.3.1 Power and CHP Technologies**
 
 The focus of cost calculations in our scenario modelling is the power sector. We
-
 compared the specific investment costs estimated in previous studies (Teske et al.
-
-2012 , 2015), which were based on a variety of studies, including the European
-
-Commission-funded NEEDS project (NEEDS 2009 ), projections from the European
-
-Renewable Energy Council (Zervos et al. 2010 ), investment cost projections by the
-
-IEA ( 2014 ), and current cost assumptions by IRENA and IEA (IEA 2016b). We
-
+[^2012]:, [^2015]:), which were based on a variety of studies, including the European
+Commission-funded NEEDS project (NEEDS [^2009]:), projections from the European
+Renewable Energy Council (Zervos et al. [^2010]:), investment cost projections by the
+IEA ([^2014]:), and current cost assumptions by IRENA and IEA (IEA 2016b). We
 found that investment costs generally converged, except for PV. Therefore, for con-
-
 sistency reasons, the investment costs and operation and maintenance costs for the
-
 power sector are based primarily on the investment costs within WEO 2016 (IEA
-
 2016b) up to 2040, including their regional disaggregation. We extended the projec-
-
 tions until 2050 based on the trends in the preceding decade.
-
-```
 For renewable power production, we used investment costs from the 450  ppm
-```
 scenario from IEA 2016b. For technologies not distinguished in the IEA report
-
 (such as geothermal CHP), we used cost assumptions based on our own research,
-
-from the Energy [R]evolution Scenario 2015 (Teske et al. 2015 ). As the cost assump-
-
+from the Energy [R]evolution Scenario 2015 (Teske et al. [^2015]:). As the cost assump-
 tions for PV systems by the IEA do not reflect recent cost degressions, we based our
-
-assumptions on a more recent analysis by Steurer et al. ( 2018 ), which projects lower
-
+assumptions on a more recent analysis by Steurer et al. ([^2018]:), which projects lower
 investment costs for PV in 2050 than does the IEA. The costs for onshore and off-
-
 shore wind in Europe were adapted from the same source, in order to reflect more
-
 recent data. The cost assumptions for hydrogen production come from our own
-
-analysis in the PlanDelyKaD project (Michalski et al. 2017 ). Table 5.4 summarizes
-
+analysis in the PlanDelyKaD project (Michalski et al. [^2017]:). Table 5.4 summarizes
 the cost trends for power technologies derived from the assumptions discussed
-
 above for OECD Europe. It is important to note that the cost reductions are, in real-
-
 ity, not a function of time, but of cumulative capacity (production of units), so
-
 dynamic market development is required to achieve a significant reduction in spe-
-
 cific investment costs. Therefore, we might underestimate the costs of renewables in
-
 the reference (5.0  °C) scenario compared with the 2.0  °C and 1.5  °C Scenarios.
-
 However, our approach is conservative when we compare the reference scenario
-
 with the 2.0 °C or 1.5 °C Scenarios. The cost assumptions for the other nine regions
-
 are in the same range, but differ slightly for different renewable energy technolo-
-
 gies. Fossil fuel power plants have a limited potential for cost reductions because
-
 they are at an advanced stage of technology and market development. Gas and oil
 
 ```
 T. Pregger et al.
 ```
-
 ```
 107
 ```
@@ -14176,8 +10991,7 @@ Hydrogen production $/kW 1380 1220 920 700 570
 aCosts for a system with solar multiple of two and thermal storage for 8 h of turbine operation
 bValues apply to both run-of-the-river and reservoir hydro power
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 108
 
@@ -14190,7 +11004,7 @@ electrolysis. With electrolysers just emerging on larger scale on the markets, t
 
 considerable cost reduction potential. Based on the Plan-DelyKaD studies (Michalski
 
-et al. 2017 ), we assume that costs could decrease to $570/kW in the long term.
+et al. [^2017]:), we assume that costs could decrease to $570/kW in the long term.
 
 **5.3.3.2 Heating Technologies**
 
@@ -14252,19 +11066,15 @@ Residential $/kW 1060 1010 910 800 680
 ```
 T. Pregger et al.
 ```
-
 ```
 109
 ```
 heating purposes at investment costs ranging from €500/kWth (shallow) to €3000/
-
 kWth (deep), with the costs strongly dependent on the drilling depth. The cost reduc-
-
 tion potential is assumed to be around 30% by 2050.
 
-```
 Heat pumps typically provide hot water or space heat for heating systems with
-```
+
 relatively low supply temperatures, or they supplement other heating technologies.
 
 Therefore, they are currently mainly used for small-scale residential applications.
@@ -14273,9 +11083,8 @@ Costs currently cover a large band-width and are expected to decrease by only 20
 
 to $1450/kW by 2050.
 
-```
 For biomass and solar collectors, we assume significant differences between the
-```
+
 sectors. There is a broad portfolio of modern technologies for heat production from
 
 biomass, ranging from small-scale single-room stoves to heating or CHP plants on
@@ -14306,28 +11115,20 @@ market for such grid-connected solar systems, we assume there will be a cost red
 
 tion potential until 2050.
 
-**_5.3.4 Fuel Cost Projections_**
+**5.3.4 Fuel Cost Projections**
 
 **5.3.4.1 Fossil Fuels**
 
 Although fossil fuel price projections have seen considerable variations, as described
-
 above, we based our fuel price assumptions up to 2040 on the WEO 2017 (IEA
-
-2017 ). Beyond 2040, we extrapolated from the price developments between 2035
-
+[^2017]:). Beyond 2040, we extrapolated from the price developments between 2035
 and 2040. Even though these price projections are highly speculative, they provide
-
 a set of prices consistent to our investment assumptions. Fuel prices for nuclear
-
 energy are based on the values in the Energy [R]evolution report 2015 (Teske et al.
-
-2015 ), corrected by the cumulative inflation rate for the Eurozone of 1.82% between
-
+[^2015]:), corrected by the cumulative inflation rate for the Eurozone of 1.82% between
 2012 and 2015 (Table 5.6).
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 110
 
@@ -14335,7 +11136,7 @@ energy are based on the values in the Energy [R]evolution report 2015 (Teske et�
 
 Biomass prices depend on the quality of the biomass (residues or energy crops) and
 
-the regional supply and demand. The variability is large. Lamers et al. ( 2015 ) found
+the regional supply and demand. The variability is large. Lamers et al. ([^2015]:) found
 
 a price range of €4–4.8/GJ for forest residues in Europe in 2020, whereas agricul-
 
@@ -14345,11 +11146,11 @@ pellets from €6/GJ in Malaysia to 8.8€/GJ in Brazil. IRENA modelled a cost s
 
 curve on a global level for 2030 (see Fig. 5.2), ranging from $3/GJ for a potential of
 
-35 EJ/year. up to $8–10/GJ for a potential up to 90–100 EJ/year (IRENA 2014 ) (and
+35 EJ/year. up to $8–10/GJ for a potential up to 90–100 EJ/year (IRENA [^2014]:) (and
 
 up to $17/GJ for an potential extending to 147 EJ).
 
-**Table 5.6** Development projections for fossil fuel prices in $2015 (IEA 2017 )
+**Table 5.6** Development projections for fossil fuel prices in $2015 (IEA [^2017]:)
 
 ```
 Development projections for fossil fuel prices
@@ -14383,112 +11184,65 @@ Nuclear All $/GJ 1.1 1.2 1.5 1.8 2.1
 ```
 T. Pregger et al.
 ```
-
 ```
 111
 ```
-```
 IRENA projected regional supply costs for liquid and other biomass sources in
-```
 2030 based on a global biomass use of around 108 EJ, using current primary bio-
-
 mass prices as a proxy (see Table 5.7). Liquid biofuels demand higher prices because
-
 of their production and transformation processes; ‘other biomass’ includes primary
-
 biomass, such as fuel wood, energy crops, and residues.
-
-```
 The prices cited above hold true for modern biomass applications. Traditional
-```
 biomass use is still often based on firewood or other biomass, which is acquired
-
 without a price (and with the labour cost not considered). No price data are yet
-
 available for a considerable range of residues. Therefore, the average primary bio-
-
 mass costs across the complete energy system in many regions are lower than the
-
 available market prices for biomass commodities. Consequently, today’s market
-
 prices represent the upper limit of today’s biomass costs.
-
-```
 Therefore, for our scenarios, we assumed a lower average biomass price in all
-```
 regions, starting from the lower end of the cost supply curve at around $7.50/GJ for
-
 OECD regions, with predominantly modern applications. For Africa, Latin America,
-
 and Asia, including Russia, which have abundant biomass residue potential, current
-
 prices were assumed to be $3/GJ. For the remaining regions (the Middle East, and
-
 Eastern Europe), we assumed $5/GJ.
-
-```
 The prices for primary biomass will increase proportionately to the IRENA ref-
-```
 erence price for ‘other biomass’ by 2030, following the increasing uptake of modern
 
-**Fig. 5.2** Global supply curve for primary biomass in 2030 (IRENA 2014 )
+**Fig. 5.2** Global supply curve for primary biomass in 2030 (IRENA [^2014]:)
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 112
 
 biomass technologies and increasing trade, representing a further biomass potential
-
 uptake along the supply curve. For the period until 2050, we consider that biomass
-
 prices will be stable. The prices calculated by IRENA are valid for a demand of
-
 108 EJ/year. The biomass demand considered in this study never exceeds a total of
-
 100 EJ/year. However, the international trade in biomass may heavily influence bio-
-
 mass prices in the future, representing a significant source of uncertainty in our
-
 assumptions.
 
-**_5.3.5 CO 2 Costs_**
+**5.3.5 CO**[^2]: **Costs**
 
-The WEO 2017 (IEA 2017 ) considers the future price of CO 2 in the power and
-
+The WEO 2017 (IEA [^2017]:) considers the future price of CO[^2]: in the power and
 industry sectors. There is considerable variation between the current policy sce-
-
 nario, the new policy scenario, and the 450 ppm scenario, not only in value, but also
-
 in regional range. Various studies have indicated a close relationship between decar-
-
-bonisation and the implicit or explicit CO 2 price (regardless of the most efficient
-
+bonisation and the implicit or explicit CO[^2]: price (regardless of the most efficient
 implementation measure). On the one hand, the carbon price is a precondition for a
-
-decarbonisation of the energy sector (Lucena et  al. 2016 ), but on the other hand,
-
-decarbonisation may limit the costs of CO 2 emissions if an efficient pricing measure
-
-is in place (Jacobson et al. 2017 ). Because the scenarios in this study rely heavily on
-
-effective reductions in CO 2 emissions, we used the CO 2 prices of the 450 ppm sce-
-
+decarbonisation of the energy sector (Lucena et  al. [^2016]:), but on the other hand,
+decarbonisation may limit the costs of CO[^2]: emissions if an efficient pricing measure
+is in place (Jacobson et al. [^2017]:). Because the scenarios in this study rely heavily on
+effective reductions in CO[^2]: emissions, we used the CO[^2]: prices of the 450 ppm sce-
 nario in the 2.0 °C and 1.5 °C Scenarios. In the reference case, we deviated from the
-
-WEO 2017, which applies rather low CO 2 emission costs. Instead, we applied CO 2
-
+WEO 2017, which applies rather low CO[^2]: emission costs. Instead, we applied CO2
 costs equivalent to the cost of the resulting climate damage. Based on existing stud-
+ies of fossil-energy-induced damage (Anthoff and Tol [^2013]:; Stern et al. [^2006]:), we
+assumed that $78/t of CO[^2]: is a plausible cost estimate in the wide range of estimates
 
-ies of fossil-energy-induced damage (Anthoff and Tol 2013 ; Stern et al. 2006 ), we
+of the social costs of CO[^2]: emissions (Table 5.8).
 
-assumed that $78/t of CO 2 is a plausible cost estimate in the wide range of estimates
-
-of the social costs of CO 2 emissions (Table 5.8).
-
-**Table 5.7** Biomass price projections for 2030 at 108 EJ of the biomass demand (IRENA 2014 )
-
-```
+**Table 5.7** Biomass price projections for 2030 at 108 EJ of the biomass demand (IRENA [^2014]:)
 Liquid biofuel reference price Other biomass reference price
 US $/GJ US $/GJ
 Africa 36 10
@@ -14498,91 +11252,60 @@ North America 34 15
 OECD Pacific 61 15
 Latin America 59 12
 World 42 11
-```
+
 ```
 T. Pregger et al.
 ```
-
 ```
 113
 ```
 **5.4 Energy Scenario Narratives and Assumptions for World**
-
 **Regions**
 
 The scenario-building process involves many assumptions and explicit, but also
-
 implicit, narratives about how future economies and societies, and ultimately energy
-
 systems, may develop under the overall objective of ‘deep and rapid decarbonisa-
-
 tion’ by 2050. These narratives depend on three main strategic pillars:
 
-- Efficiency improvement and demand reduction: stringent implementation of
-
-```
+• Efficiency improvement and demand reduction: stringent implementation of
 technical and structural efficiency improvements in energy demand and supply.
 These will lead to a continuous reduction in both final and primary energy con-
 sumption. In the 1.5  °C Scenario, these measures must be supplemented with
 responsible energy consumption behaviour by the consumer.
-```
-- Deployment of renewable energies: massive implementation of new technolo-
-
-```
+• Deployment of renewable energies: massive implementation of new technolo-
 gies for the generation of power and heat in all sectors. These will include vari-
 able renewable energies from solar and wind, which have experienced
 considerable cost reductions in recent years, but also more expensive technolo-
 gies, such as large-scale geothermal and ocean energy, small hydro power, and
 CSP.
-```
-- Sector coupling: stringent direct electrification of heating and transport technolo-
-
-```
+• Sector coupling: stringent direct electrification of heating and transport technolo-
 gies in order to integrate renewable energy in the most efficient way. Because
 this strategy has its limitations, it will be complemented by the massive use of
 hydrogen (generated by electrolysis) or other synthetic energy carriers.
-```
-```
+
 Some alternative or probably complementary future technical options are explic-
-```
 itly excluded from the scenarios. In particular, those options with large uncertainties
-
 with respect to technical, economic, societal, and environmental risks, such as large
-
 hydro and nuclear power plants, unsustainable biomass use, carbon capture and
-
 storage (CCS), and geoengineering, are not considered on the supply side as mitiga-
-
 tion measures or—in the case of hydro—not expanded in the future. The sustainable
-
 use of biomass will partly substitute for fossil fuels in all energy sectors. However,
-
 this use will be limited to an annual global energy potential of less than 100 EJ per
-
 year for sustainability reasons, according to the calculations of Seidenberger et al.
-
-(2008), Thrän et al. ( 2011 ), and Schueler et al. ( 2013 ).
-
-```
+([^2008]:), Thrän et al. ([^2011]:), and Schueler et al. ([^2013]:).
 The transformations described in the two alternative scenarios are constrained, to
-```
 a certain degree, by current short- to medium-term investment planning, as described
-
 in the reference case, because most technical and structural options to change the
-
 demand or supply side require years of planning and construction. This means that
 
-**Table 5.8** CO 2 cost assumptions in the scenarios
-
-```
-CO 2 costs
+**Table 5.8** CO[^2]: cost assumptions in the scenarios
+CO[^2]: costs
 2020 2025 2030 2040 2050
-Reference All regions $/t CO 2 0 42 69 78 78
-2.0 °C and 1.5 °C OECD Economies $/t CO 2 0 62 87.6 138 189.0
-Other regions $/t CO 2 0 42 69.5 124 177.5
-```
-5 Main Assumptions for Energy Pathways
+Reference All regions $/t CO2[^0][^42][^69][^78][^78]
+2.0 °C and 1.5 °C OECD Economies $/t CO[^2]: [^0]: [^62]: 87.6 [^138]: 189.0
+Other regions $/t CO[^2]: [^0]: [^42]: 69.5 [^124]: 177.5
 
+[^5]: Main Assumptions for Energy Pathways
 
 114
 
@@ -14598,9 +11321,9 @@ development implausible). This is the case for the IEA estimates of demand devel
 
 opment in some regions and sectors, and it is partly true for investments in fossil-
 
-fuel- based heat and power generation.
+fuel-based heat and power generation.
 
-**_5.4.1 Efficiency and Energy Intensities_**
+**5.4.1 Efficiency and Energy Intensities**
 
 It is obvious that a major increase in energy efficiency is the backbone of each ambi-
 
@@ -14610,7 +11333,7 @@ for energy conversion and infrastructure investment. The development of the futu
 
 global energy demand is determined by three key factors:
 
-- Population growth, which affects the number of people consuming energy or
+• Population growth, which affects the number of people consuming energy or
 
 ```
 using energy services. Associated with this, increasing access to energy services
@@ -14618,14 +11341,14 @@ in developing countries and emerging economies is an additional influencing
 factor, bearing in mind that this could mean power grid access or the implemen-
 tation of isolated, usually small-scale, local power systems.
 ```
-- Economic development, which is commonly measured as GDP. In general, GDP
+• Economic development, which is commonly measured as GDP. In general, GDP
 
 ```
 growth triggers an increase in energy demand, directly via additional industrial
 activities and indirectly via an increase in private consumption arising from the
 higher incomes associated with a prospering economy.
 ```
-- Energy intensity, which is a measure of how much final energy is required in the
+• Energy intensity, which is a measure of how much final energy is required in the
 
 ```
 industrial sector to produce a unit of GDP. Efficiency measures help to reduce
@@ -14651,74 +11374,48 @@ the successful implementation of measures to intensify required investments in e
 
 cient technologies or to change consumer behaviour.
 
-```
 The assumptions made about the potential to further increase the economic and
-```
+
 technical efficiency in all sectors are based on various external studies. However,
 
 the lower benchmarks for the assumptions on efficiency potentials are derived from
 
-the Current Policies scenario of the IEA WEO 2017 (IEA 2017 ). The upper bench-
+the Current Policies scenario of the IEA WEO 2017 (IEA [^2017]:). The upper bench-
 
 ```
 T. Pregger et al.
 ```
-
 ```
 115
 ```
-marks for efficiency potentials per world region are taken from Graus et al. ( 2011 ),
-
-Kermeli et al. ( 2014 ), and recently published low-energy-demand scenarios devel-
-
-oped by Grubler et al. ( 2018 ).
+marks for efficiency potentials per world region are taken from Graus et al. ([^2011]:),
+Kermeli et al. ([^2014]:), and recently published low-energy-demand scenarios devel-
+oped by Grubler et al. ([^2018]:).
 
 **5.4.1.1 Industrial Electricity Demand**
 
 ‘Industrial electricity demand’ refers to many appliances of different sizes and pur-
-
 poses. Large potentials for saving electricity have been identified in various studies
-
 in most branches of industry. This particularly applies to electric drives for com-
-
 pressed air, pumps, and fans. The scenario model approach distinguishes between
-
 electric appliances and power-to-heat devices for space and process heating. The
-
 consumption of electricity per GDP varies widely between regions, depending on
-
 their industrial structures and efficiency standards. The trajectories for industrial
-
 electricity demands are constrained by the abovementioned lower and upper bench-
-
 marks and aim for similar electricity uses per $GDP in the industrial sectors in all
-
 regions by 2050. The resulting trajectories for OECD and non-OECD countries are
-
 shown in Table 5.9. The average global electricity demand for electric appliances in
-
 ‘industry’ (without power-to-heat) will decrease from 55 kWh/$1000 GDP in 2015
-
 to 36 kWh/$1000 in 2050 in the reference case, but to 24 kWh/$1000 in the 2.0 °C
-
 Scenario and 23 kWh/$1000 in the 1.5 °C Scenario. However, the increased electri-
-
 fication of industrial heat in both alternative scenarios almost cancels out the greater
-
 efficiency increases in those two scenarios when compared with the reference case.
-
 The average power-to-heat share in industry will increase in this period from 6% to
-
 34% in 2050 in the 2.0 °C Scenario and to 37% in the 1.5 °C Scenario. In the 1.5 °C
-
 Scenario, the annual electricity demand for industrial electrical appliances will be
-
 around 5% lower than in the 2.0  °C Scenario between 2020 and 2025, and up to
-
 10% lower between 2025 and 2035. However, between 2035 and 2050, the electric-
-
 ity demand for electric appliances in the industry sector converges under the two
-
 scenarios.
 
 **Table 5.9** Assumed average development of specific (per $GDP) electricity use for electrical
@@ -14740,8 +11437,7 @@ Non-OECD regions 65.8 60.9 49.2 42.9 37.2 32.9 28.3 24.8 −62%
 OECD regions 42.8 40.1 33.4 27.4 24.3 22.4 20.7 20.0 −53%
 Non-OECD regions 65.8 58.6 46.4 39.8 34.4 30.8 27.4 24.7 −62%
 ```
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 116
 
@@ -14823,81 +11519,52 @@ Non-OECD regions 911 762 558 428 318 259 212 182 −80%
 ```
 T. Pregger et al.
 ```
-
 ```
 117
 ```
 **5.4.1.3 Electricity Demand in the ‘Residential and Other’ Sector**
 
 The electricity demand in the ‘Residential and other’ sector includes electricity use
-
 in households, for commercial purposes, and in the service and trade sectors, fish-
-
 ery, and agriculture. Besides lighting, information, and communication, a large
-
 amount of electricity is used for cooking, cooling, and hot water. It has been esti-
-
 mated that in 2015, electricity use for heating had a global average share of 5% of
-
 the final energy use for heating. It is assumed that this share will increase signifi-
-
 cantly to 30% in 2050 in the 2.0 °C Scenario and to 37% in the 1.5 °C Scenario.
-
 These increases are attributed to sector coupling, the provision of storage for vari-
-
 able renewable energy in the heat sector, and the provision of high-temperature heat
-
 without fuel combustion. The average global electricity use for appliances in the
-
 ‘Residential and other’ sector will decrease in the reference case from 78 kWh/$1000
-
 GDP in 2015 to 60 kWh/$1000 in 2050, whereas it will decrease to 38 kWh/$1000 in
-
 the 2.0  °C Scenario and to 37  kWh/$1000  in the 1.5  °C Scenario, a reduction of
-
 more than 50% relative to today’s energy consumption. The average global electric-
-
 ity use for appliances in the ‘Residential and other’ sector, which is related to per
-
 capita consumption, will increase in the reference scenario from 1350 kWh/capita
-
 in 2015 to 2370 kWh/capita in 2050, whereas it will increase to only 1490 kWh/
-
 capita in the 2.0  °C Scenario and to 1460  kWh/capita in the 1.5  °C Scenario.
-
 Table 5.11 shows the changes in electricity use for appliances in OECD and non-
-
 OECD countries (without electricity for heating). Significant reduction potentials
-
 are assumed for all world regions. Similar to the development in the industry sector,
-
 between 2020 and 2025, the annual power demand for electrical appliances in the
-
 ‘Residential and other’ sector will be around 5% lower in the 1.5 °C Scenario than
-
 in the 2.0  °C Scenario, and more than 10% lower between 2025 and 2035. After
-
 2035, the two scenarios will converge again, so that in 2050, the global demand will
-
 be only 2% higher in the 2.0 °C Scenario than in the 1.5 °C Scenario.
 
 **Table 5.11** Assumed average developments of per capita electricity use in the ‘Residential and
 other’ sector for electrical appliances (without power-to-heat)
-
-```
-kWh/capita 2015 2020 2025 2030 2035 2040 2045 2050 Change 2050/2015
+kWh/capita [^2015]: [^2020]: [^2025]: [^2030]: [^2035]: [^2040]: [^2045]: [^2050]: Change 2050/2015
 Reference case
-OECD regions 4457 4585 4753 4972 5189 5419 5626 5837 31%
-Non-OECD regions 712 851 977 1191 1366 1532 1661 1788 151%
+OECD regions [^4457]: [^4585]: [^4753]: [^4972]: [^5189]: [^5419]: [^5626]: [^5837]: 31%
+Non-OECD regions [^712]: [^851]: [^977]: [^1191]: [^1366]: [^1532]: [^1661]: [^1788]: 151%
 2.0 °C Scenario
-OECD regions 4457 4526 4366 4137 3837 3590 3304 3023 −32%
-Non-OECD regions 712 834 894 1004 1083 1143 1193 1238 74%
+OECD regions [^4457]: [^4526]: [^4366]: [^4137]: [^3837]: [^3590]: [^3304]: [^3023]: −32%
+Non-OECD regions [^712]: [^834]: [^894]: [^1004]: [^1083]: [^1143]: [^1193]: [^1238]: 74%
 1.5 °C Scenario
-OECD regions 4457 4502 4078 3346 2987 2896 2889 2872 −36%
-Non-OECD regions 712 806 842 928 1001 1086 1164 1224 72%
-```
-5 Main Assumptions for Energy Pathways
+OECD regions [^4457]: [^4502]: [^4078]: [^3346]: [^2987]: [^2896]: [^2889]: [^2872]: −36%
+Non-OECD regions [^712]: [^806]: [^842]: [^928]: [^1001]: [^1086]: [^1164]: [^1224]: 72%
 
+[^5]: Main Assumptions for Energy Pathways
 
 118
 
@@ -15005,7 +11672,6 @@ regions
 ```
 T. Pregger et al.
 ```
-
 ```
 119
 ```
@@ -15031,11 +11697,11 @@ be larger (and faster) in OECD countries. This will result in smaller regional d
 
 ences in the final energy demand compared with the current situation. Compared
 
-with the very ambitious assumptions of Grubler et al. ( 2018 ) for the specific final
+with the very ambitious assumptions of Grubler et al. ([^2018]:) for the specific final
 
 energy demands in northern and southern world regions, the assumptions made in
 
-this study are conservative. In Grubler et al. ( 2018 ), the annual global final energy
+this study are conservative. In Grubler et al. ([^2018]:), the annual global final energy
 
 use, including non-energy consumption, will decrease from 363 EJ in 2015 to 245
 
@@ -15043,7 +11709,7 @@ EJ by 2050, whereas in our study, the annual global value will decrease to 310 E
 
 the 2.0 °C Scenario and to 284 EJ in the 1.5 °C Scenario compared with 586 EJ in
 
-the reference case (see Chap. 8). Because the 1.5  °C target requires a significant
+the reference case (see Chap. [^8]:). Because the 1.5  °C target requires a significant
 
 reduction in emissions before 2030, the 1.5  °C Scenario necessarily reduces the
 
@@ -15051,7 +11717,7 @@ energy demand more rapidly than the 2.0  °C Scenario, but only a slightly lowe
 
 annual consumption is assumed in 2050.
 
-**_5.4.2 RES Deployment for Electricity Generation_**
+**5.4.2 RES Deployment for Electricity Generation**
 
 The power demand will increase significantly in all scenarios. In the 2.0  °C and
 
@@ -15077,7 +11743,7 @@ electrification and sector coupling. The available energy sources for renewable
 2,000
 ```
 ```
-2,50 0
+2,500
 ```
 ```
 3,000
@@ -15095,15 +11761,13 @@ electrification and sector coupling. The available energy sources for renewable
 2010 2020 2030 2040 2050
 ```
 ```
-P
-DG
-$r
-ep
-yg
-re
-ne
-la
-nif
+PDG
+```
+```
+$rep
+```
+```
+ygrenelanif
 ```
 ```
 0
@@ -15112,28 +11776,28 @@ nif
 500
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-1,50 0
+1,500
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-2,50 0
+2,500
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-3,50 0
+3,500
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-4,50 0
+4,500
 ```
 ```
 2010 2020 2030 2040 2050
@@ -15154,12 +11818,10 @@ India
 Non-OECD Asia
 weighted average
 ```
-```
-Fig. 5.3 Development of the specific final energy use (per $GDP) in all stationary sectors (i.e.,
+**Fig. 5.3** Development of the specific final energy use (per $GDP) in all stationary sectors (i.e.,
 without transport) per world region under the 2.0 °C Scenario (left) and 1.5 °C Scenario (right)
-```
-5 Main Assumptions for Energy Pathways
 
+[^5]: Main Assumptions for Energy Pathways
 
 120
 
@@ -15175,16 +11837,15 @@ other renewable options for the highly efficient generation of electricity for f
 
 energy consumption and the generation of synthetic fuels.
 
-```
 Our estimates of the potential for renewable power generation are based on the
-```
-results of the REMix EnDat tool developed (Scholz 2012 ; Stetter 2014 ; Pietzcker
 
-et al. 2014 ). The technical potentials for solar and wind power in each world region
+results of the REMix EnDat tool developed (Scholz [^2012]:; Stetter [^2014]:; Pietzcker
+
+et al. [^2014]:). The technical potentials for solar and wind power in each world region
 
 were estimated while taking into account the different exclusion criteria and con-
 
-straints documented by Stetter ( 2014 ). The analysis was used to estimate the ‘eco-
+straints documented by Stetter ([^2014]:). The analysis was used to estimate the ‘eco-
 
 nomic’ potential for each world region, which is the upper limit of the technological
 
@@ -15235,9 +11896,8 @@ each). The lowest shares, in the range of 20–25%, are in Eurasia, OECD Europe,
 
 Latin America, and China.
 
-```
 Wind power on land will achieve an average global generation share of 25% in
-```
+
 2050 in both alternative scenarios (compared with 8% in the reference case). The
 
 highest generation shares for onshore wind are assumed in India and Eastern
@@ -15259,7 +11919,6 @@ China (6.5%), where the potential is rather limited. The offshore shares under t
 ```
 T. Pregger et al.
 ```
-
 ```
 121
 ```
@@ -15267,9 +11926,8 @@ T. Pregger et al.
 
 and onshore wind as the best options for a very rapid expansion of RES.
 
-```
 Compared with PV and wind power, CSP plants promise highly flexible power
-```
+
 and heat generation, with high capacity factors due to high-temperature heat stor-
 
 age. The use of heat for desalination can also contribute to secure water supplies in
@@ -15321,9 +11979,8 @@ plays only a minor role in the long term in the Middle East (1%), Africa, and In
 
 (each 4%).
 
-```
 Even smaller contributions are assumed for geothermal energy, ocean energy,
-```
+
 and biomass. All three options have comparably high power-generation costs, but
 
 offer complementary characteristics and availabilities that may stabilize future elec-
@@ -15350,12 +12007,11 @@ cells to co-generation. Figure 5.4 shows the basic storyline in global power ge
 
 tion under the 2.0 °C Scenario.
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 122
 
-**_5.4.3 RES Deployment for Heat Generation_**
+**5.4.3 RES Deployment for Heat Generation**
 
 Heat generation covers a broad range of processes, including district heat (either
 
@@ -15412,31 +12068,31 @@ from 5% in 2015 to 30% in the 2.0 °C Scenario and 35% in the 1.5 °C Scenario
 0%
 ```
 ```
-10 %
+10%
 ```
 ```
-20 %
+20%
 ```
 ```
-30 %
+30%
 ```
 ```
-40 %
+40%
 ```
 ```
-50 %
+50%
 ```
 ```
-60 %
+60%
 ```
 ```
-70 %
+70%
 ```
 ```
-80 %
+80%
 ```
 ```
-90 %
+90%
 ```
 ```
 100%
@@ -15445,25 +12101,16 @@ from 5% in 2015 to 30% in the 2.0 °C Scenario and 35% in the 1.5 °C Scenario
 2015 2020 2025 2030 2035 2040 2045 2050
 ```
 ```
-er
-ah
-s
-no
-it
-ar
-en
-eg
-re
-w
-op
-la
-b
-ol
-g
-eg
-ar
-ev
-a
+erahs
+```
+```
+noitarenegre
+```
+```
+woplabolg
+```
+```
+egareva
 ```
 ```
 Hydrogen
@@ -15482,7 +12129,6 @@ Scenario
 ```
 T. Pregger et al.
 ```
-
 ```
 123
 ```
@@ -15550,9 +12196,8 @@ technologies and electrification. The lowest shares are assumed for the Middle E
 
 able potentials.
 
-```
 Solar collectors are suitable for hot water preparation and for supporting heating
-```
+
 systems using heat storage. In heat grids, large heat storage systems can also be used
 
 to balance the seasonal heat demand and solar generation, and the integration of
@@ -15579,67 +12224,39 @@ tems. The global average solar share in the ‘Industry’ sector will increase 
 
 2050. The largest shares are achieved in the Middle East (25%) and Africa (20%)
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 124
 
 and the lowest shares are assumed in Eastern Europe/Eurasia (9%), followed by the
-
 OECD regions (10–13%).
+Heat pumps allow very efficient heat supply. System-wide CO[^2]: emissions depend
 
-```
-Heat pumps allow very efficient heat supply. System-wide CO 2 emissions depend
-```
-on the CO 2 emissions in the power mix. Because of their generation of low-
-
+on the CO[^2]: emissions in the power mix. Because of their generation of low-
 temperature heat, heat pumps play a role in space heating in regions with moderate
 
 or cold climates, but large industrial heat pumps can also generate low-temperature
-
 heat for industrial processes and tap the enormous potential of waste heat. A con-
-
 tinuous improvement in the coefficient of performance of heat pumps, which
-
 describes the ratio of useful energy in the form of heat to the required compressor
-
 energy in the form of electricity, in all existing plants from an average of 3 today to
-
 a value of 4 in 2050 is assumed. The application potential of heat pumps (in terms
-
 of MWth) is assumed to be limited by the low temperature of the heat provided, the
-
 increasing share of the grid-connected heat supply, the assumed increase in exten-
-
 sive building insulation, and the low space heating demand in some world regions.
-
 In addition to heat pumps, an increase in deep geothermal energy use is assumed for
-
 the ‘Industry’ sector, with an increase of up to 11% in the global average share of
-
 final energy by 2050 under both alternative scenarios.
-
-```
 Hydrogen use for direct heating is linked to the increasing substitution of natural
-```
 gas with hydrogen in all sectors, except transport. This will lead to a hydrogen share
-
 of 12–14% in final energy for heating in the ‘Industry’ sector under the two alterna-
-
 tive scenarios and 3% in the ‘Residential and other’ sector under the 2.0 °C Scenario
-
 and 4% under the 1.5 °C Scenario. The highest hydrogen shares in ‘Industry’ are
-
 assumed for OECD North America (22–23%), followed by other OECD regions,
-
 Eastern Europe/Eurasia, China, and the Middle East with shares of 13%–18%. The
-
 lowest shares, below 5%, are assumed for Latin America and Africa, where biomass
-
 from residues provides a flexible alternative. The highest hydrogen shares in the
-
 ‘Residential and other’ sector will be in the Middle East (7–10%), followed by
-
 OECD Pacific (6–8%) and OECD Europe (up to 9%) (Figs. 5.5 and 5.6).
 
 ```
@@ -15679,23 +12296,13 @@ OECD Pacific (6–8%) and OECD Europe (up to 9%) (Figs. 5.5 and 5.6).
 2015 2020 2025 2030 2035 2040 2045 2050
 ```
 ```
-er
-ah
-s
-no
-it
-ar
-en
-eg
-ta
-eh
-la
-bo
-lg
-eg
-ar
-ev
-a
+erahs
+```
+```
+noitarenegtaehlabolg
+```
+```
+egareva
 ```
 ```
 District heat
@@ -15711,11 +12318,10 @@ Electricity
 ```
 T. Pregger et al.
 ```
-
 ```
 125
 ```
-**_5.4.4 Co-generation of Heat and Power and District Heating_**
+**5.4.4 Co-generation of Heat and Power and District Heating**
 
 Compared with condensing power plants with high efficiency losses due to waste
 
@@ -15751,9 +12357,8 @@ parameters according to a defined advanced state of technology, with overall eff
 
 ciencies of 85–90%.
 
-```
 Although absolute electricity generation from CHP will increase in all regions,
-```
+
 all scenarios assume a decreasing power generation share for CHP in the long term
 
 ```
@@ -15793,75 +12398,53 @@ all scenarios assume a decreasing power generation share for CHP in the long ter
 2015 2020 2025 2030 2035 2040 2045 2050
 ```
 ```
-er
-ah
-s
-n
-oi
-ta
-r
-en
-eg
-ta
-e
-hl
-a
-bo
-lg
-eg
-ar
-ev
-a
+erahs
+```
+```
+noitarenegtaehlabolg
+```
+```
+egareva
 ```
 ```
 District heat
+```
+```
 Hydrogen
 ```
 ```
 Geothermal/heat pumps
+```
+```
 Biomass
 ```
 ```
 Solar collectors
+```
+```
 Electricity
 ```
 **Fig. 5.6** Development of the average global shares of future heat-generation options in the
 ‘Residential and other’ sector under the 2.0 °C scenario
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 126
 
 due to the decommissioning of fossil-fuel generators, the limited availability of bio-
-
 mass, and the assumption that heat losses in CHP technologies will be reduced,
-
 leading to higher overall efficiency. Tables 5.13 and 5.14 show the resulting devel-
-
 opments for power and heat as intensities summed across the ‘Industry’ and
-
 ‘Residential and other’ sectors. Whereas the absolute power supply from CHP will
-
 increase in all regions, the power-related intensities will decrease. Under the 2.0 °C
-
 Scenario, higher CHP power production is assumed to be higher than in the refer-
-
 ence case, as a balancing option for variable renewable sources. CHP plants will
-
 play a smaller role in the future, particularly in non-OECD countries.
-
-```
 For heat, the situations are more diverse between the scenarios and regions.
-```
 While the intensity of heat use from CHP will increase in the OECD regions, it will
-
 decrease in the non-OECD regions. Even though the intensity converges between
-
 OECD and non-OECD regions under all scenarios, the 2.0 °C and 1.5 °C Scenarios
-
 will achieve higher levels of intensity. However, the early reduction in demand in
-
 the 1.5 °C Scenario will preclude any additional demand for CHP.
 
 **Table 5.13** Development of power from co-generation per $GDP
@@ -15895,34 +12478,26 @@ OECD regions 39.5 39.7 38.8 39.4 40.2 41.8 43.6 47.2 19%
 Non-OECD regions 108.8 94.8 78.3 67.9 60.0 54.8 50.1 47.9 −56%
 2.0 °C Scenario
 OECD regions 39.5 40.5 49.3 58.1 65.2 70.1 75.2 78.4 98%
-Non-OECD regions108.8 101.2 92.6 89.8 86.3 83.4 77.6 70.4 −35%
+Non-OECD regions 108.8 101.2 92.6 89.8 86.3 83.4 77.6 70.4 −35%
 1.5 °C Scenario
 OECD regions 39.5 41.0 51.9 58.4 60.4 61.6 63.8 66.0 67%
-Non-OECD regions108.8 101.1 93.8 93.3 89.8 84.5 77.9 69.9 −36%
+Non-OECD regions 108.8 101.1 93.8 93.3 89.8 84.5 77.9 69.9 −36%
 ```
 ```
 T. Pregger et al.
 ```
-
 ```
 127
 ```
-**_5.4.5 Other Assumptions for Stationary Processes_**
+**5.4.5 Other Assumptions for Stationary Processes**
 
 Although the energy losses in the production of synthetic fuels are significant, these
-
 fuels are expected to be mandatory in the deep decarbonisation scenarios for sectors
-
 and processes in which the direct use of other renewable sources, including renew-
-
 able power, is not technically feasible. We assume an optimistic increase in the
-
-efficiency^1 of electrolytic hydrogen generation, from 66% today to 77% by 2050
-
-(ratio of energy output [H 2 ] to energy input [electricity]). The generation of syn-
-
-thetic fuels (such as Fischer-Tropsch fuels) from hydrogen, using CO 2 as the carbon
-
+efficiency[^1] of electrolytic hydrogen generation, from 66% today to 77% by 2050
+(ratio of energy output [H[^2]:] to energy input [electricity]). The generation of syn-
+thetic fuels (such as Fischer-Tropsch fuels) from hydrogen, using CO[^2]: as the carbon
 source, is assumed to be a complementary option that will allow the decarbonisation
 
 of long-range transport, particularly aviation and international bunkers, without
@@ -15933,62 +12508,37 @@ shares of power-to-liquid synfuels in the aggregated biofuel/synfuel fraction of
 
 transport modes (according to Sect. 6.3.3.) is a result of the sectoral allocation of the
 
-limited biomass potentials in each world region. The assumed efficiency^2 of synfuel
+limited biomass potentials in each world region. The assumed efficiency[^2] of synfuel
 
 generation will increase from 35% in 2020 to 42% in 2050. As well as in fuel-cell
-
 vehicles, hydrogen can be used to replace natural gas in stationary processes by
-
 2030  in both scenarios, mostly for use in industry and co-generation plants. The
-
 scenarios do not assume a hydrogen economy in the long term. The development of
-
 hydrogen infrastructure is expected to be inefficient, especially for residential use.
-
 However, because hydrogen is assumed to be fed into the gas grid with a share of up
-
 to 100% by 2050, it will also be partly used in the ‘Residential and other’ sector,
-
 which includes various commercial applications.
-
-```
 The allocation of the limited biomass to the power, heat, and transport sectors
-```
 differs significantly between the available scenarios. In this study, the biomass in the
-
 alternative scenarios is mainly for use in transport, co-generation, and industry.
-
 Traditional biomass use is strongly reduced, but biomass remains an important pil-
-
 lar of heat supply in the ‘Residential and other’ sector under the assumption that the
-
 most-efficient technologies are implemented. Biofuel production for transportation
-
 remains limited. An increase in overall efficiency of up to 75% is assumed, implying
-
 the use of residues for heat and power generation.
-
-```
 The efficiency of fossil technologies will also increase, especially for gas power
-```
 plants. This goes along with the decreasing utilization rates that result from the vari-
-
 able feed-in from renewable energies. Therefore, the scenarios implicitly assume
-
 that the future innovations in all combustion technologies will focus on maximum
-
 efficiency at lower utilization rates. Gas power plants will be used for backup,
-
 requiring low investment but providing high flexibility to the power system.
-
 Therefore, a part of the energy transition is the rapid replacement of inflexible
-
 medium- to base-load power plant capacities with flexible gas power plants.
 
-(^1) Ratio energy output (H 2 ) to energy input (electricity)
-(^2) Ratio of energy output (synfuels) to energy input (electricity).
-5 Main Assumptions for Energy Pathways
+[^1]:Ratio energy output (H[^2]:) to energy input (electricity)
+[^2]:Ratio of energy output (synfuels) to energy input (electricity).
 
+[^5]: Main Assumptions for Energy Pathways
 
 128
 
@@ -16006,7 +12556,7 @@ A demand- and supply-side perspective. Energy Efficiency, 4, (3), August 2011, p
 Grubler A, Wilson C, Bento N, Boza-Kiss B, Krey V, McCollum DL, Rao ND, Riahi K, Rogelj
 J, De Stercke S, Cullen J, Frank S, Fricko O, Guo F, Gidden M, Havlík P, Huppmann D,
 Kiesewetter G, Rafaj P, Schoepp W, Valin H (2018) A low energy demand scenario for meeting
-the 1.5 °C target and sustainable development goals without negative emission technologies.
+the 1.5°C target and sustainable development goals without negative emission technologies.
 Nature Energy 3 (6):515–527. doi:https://doi.org/10.1038/s41560-018-0172-6
 Herreras Martínez S, Koberle A, Rochedo P, Schaeffer R, Lucena A, Szklo A, Ashina S, van Vuuren
 DP (2015) Possible energy futures for Brazil and Latin America in conservative and stringent
@@ -16049,7 +12599,6 @@ doi.org/10.1111/gcbb.12162
 ```
 T. Pregger et al.
 ```
-
 ```
 129
 ```
@@ -16072,7 +12621,7 @@ Division); IDB-MG-562
 Nass LL, Pereira PAA, Ellis D (2007) Biofuels in Brazil: An Overview. Crop Science 47 (6):2228–
 
 2237. doi:https://doi.org/10.2135/cropsci2007.03.0166
-NEEDS (2009) The NEEDS Life Cycle Inventory Database. [http://www.needs-project.org/need-](http://www.needs-project.org/need-)
+NEEDS (2009) The NEEDS Life Cycle Inventory Database. http://www.needs-project.org/need-
 swebdb/index.php. Accessed 15th April 2016 2016
 Nematollahi O, Hoghooghi H, Rasti M, Sedaghat A (2016) Energy demands and renewable energy
 resources in the Middle East. Renewable and Sustainable Energy Reviews 54:1172–1181.
@@ -16107,8 +12656,7 @@ Kenndaten. Ministerium für Umwelt Klima und Energiewirtschaft Baden-Württember
 STrise: Universität Stuttgart, Deutsches Zentrum für Luft- und Raumfahrt, Zentrum für
 Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg, Stuttgart
 
-5 Main Assumptions for Energy Pathways
-
+[^5]: Main Assumptions for Energy Pathways
 
 130
 
@@ -16139,7 +12687,7 @@ Zervos A, Lins C, Muth J  (2010) RE-thinking 2050: a 100% renewable energy visi
 European Union. European Renewable Energy Council (EREC)
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -16152,12 +12700,10 @@ the copyright holder.
 ```
 T. Pregger et al.
 ```
-
 © The Author(s) 2019 131
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_6
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 6
+**Chapter 6**
 
 #### Transport Transition Concepts
 
@@ -16183,33 +12729,20 @@ transport modes are provided.
 
 **6.1 Introduction**
 
-Global transport accounted for 23% of total anthropogenic CO 2 emissions in 2010
-
+Global transport accounted for 23% of total anthropogenic CO[^2]: emissions in 2010
 and those emissions have increased at a rapid rate in recent decades, reaching 7 Gt
 
-in 2010 according to the IPCC Fifth Assessment Report (Sims et  al. 2014 ). The
-
+in 2010 according to the IPCC Fifth Assessment Report (Sims et  al. [^2014]:). The
 reason for this steady increase in emissions is that passenger and freight transport
-
 activities are increasing in all world regions, and there is currently no sign that this
-
 growth will slow down in the near future. The increasing energy demand in the
-
 transport sector has mainly been met by greenhouse gas (GHG)-emitting fossil
-
 fuels. Although (battery) electric mobility has recently surged considerably, it has
-
 done so from a very low base, which is why, in terms of total numbers, electricity
-
 still plays a relatively minor role as an energy carrier in the transport sector.
-
-```
 Apart from their impacts on climate, increasing transport levels, especially of
-```
 cars, trucks, and aeroplanes, also have unwanted side-effects, including accidents,
-
 traffic jams, the emission of noise and other pollutants, visual pollution, and the
-
 disruption of landscapes by the large-scale build-up of the transport infrastructure.
 
 J. Pagenkopf (*) · B. van den Adel · Ö. Deniz · S. Schmid
@@ -16218,100 +12751,63 @@ Department of Vehicle Systems and Technology Assessment, German Aerospace Center
 e-mail: johannes.pagenkopf@dlr.de; Bent.vandenAdel@dlr.de; oezcan.deniz@dlr.de;
 stephan.schmid@dlr.de
 
-
 132
 
 However, road, rail, sea, and air transport are also an integral part of our globalized
-
 and interconnected world, and guarantee prosperity and inter-cultural exchange.
-
 Therefore, if we are to cater to people’s desire for mobility while keeping the econ-
-
 omy running and meeting the Paris climate goals, fundamental technical, opera-
-
 tional, and behavioural measures are required immediately.
-
-```
 In this transport chapter, we discuss potential transport activity pathways and
-```
 technological developments by which the requirement that warming does not exceed
-
 pre-industrial levels by more than 2.0 °C or 1.5 °C can be met—while at the same
-
 time maintaining a reasonable standard of mobility.
-
-```
 For our transport scenario modelling, the global warming limits of 2.0  °C and
-```
-1.5  °C were translated into transport CO 2 budgets. We structured our scenario
+1.5  °C were translated into transport CO[^2]: budgets. We structured our scenario
+designs around the following key CO[^2]:-reducing measures[^1]:
 
-designs around the following key CO 2 -reducing measures^1 :
+• Powertrain electrification;
+• Enhancement of energy efficiency through technological development;
+• Use of bio-based and synthetically produced fuels;
+• Modal shifts (from high- to low-energy intensity modes) and overall reductions
 
-- Powertrain electrification;
-- Enhancement of energy efficiency through technological development;
-- Use of bio-based and synthetically produced fuels;
-- Modal shifts (from high- to low-energy intensity modes) and overall reductions
-
-```
 in transport activity in energy-intensive transport modes.
-```
+
 These measures are outlined in more detail in the subsequent chapters.
 
 **6.2 Global Transport Picture in 2015**
 
-The world final energy demand in the transport sector totalled 94,812 PJ^2 in 2015,
-
+The world final energy demand in the transport sector totalled 94,812 PJ[^2] in 2015,
 according to the IEA Energy Balances (IEA 2017a, b, c). Based on this estimate, we
-
 used TRAEM (Sect. 3.3 to model the freight and passenger transport performance
-
 in our transport model with statistical data and energy efficiency figures.
-
-```
 The following paragraphs outline the 2015 transport structure modelled in
-```
 TRAEM, which is the starting point for the subsequent scenario building until 2050.
-
-```
 As can be seen from Fig. 6.1, road passenger transport had the biggest transport
-```
 final energy share of 51% in 2015. Most of this comprised individual road passenger
-
 modes (mostly cars, but also two- and three-wheel vehicles), which accounted for
-
 45% of all end energy in the transport sector. In total, road transport (passenger and
-
 freight) accounted for around 90% of total final energy demand for transport.
-
-```
 The majority of total passenger–km (pkm) in passenger transport (around 85%
-```
 of total pkm) is contributed by road transport modes. Freight is much more rail-
-
 oriented, and has a 42% share of total tonne–km (tkm), as shown in Fig. 6.2. The
-
 tkm share is much larger than the energy share arising from the much higher energy
-
 efficiency of railways compared with trucks.
-
-```
 Figure 6.3 shows the powertrain split of all transport modes in 2015 (by pkm or
-```
 tkm respectively). With a few exceptions, the majority of modes were still heavily
-
 dependent on conventional internal combustion engines (ICE). A small number of
-
 buses had electric powertrains, which were mainly trolleybuses and increasingly
 
-(^1) See also Teske et al. ( 2015 ).
-(^2) International aviation and navigation bunkers are not included in this figure.
+[^1]:See also Teske et al. ([^2015]:).
+[^2]:International aviation and navigation bunkers are not included in this figure.
+
+```
 J. Pagenkopf et al.
-
-
+```
 ```
 133
 ```
-also battery- powered electric buses, predominantly in China. China also has a par-
+also battery-powered electric buses, predominantly in China. China also has a par-
 
 ticularly large number of electric two- and three-wheel vehicles. Almost all battery
 
@@ -16321,25 +12817,21 @@ extent (e.g., metro and high-speed trains), whereas freight trains were predomi-
 
 nantly not electrified.
 
-```
 OECD America and OECD Europe together make up nearly half the total energy
-```
+
 demand (Fig. 6.4), and China is almost on the same level as OECD Europe, although
 
 it has about twice as many inhabitants as OECD Europe.
 
 **6.3 Measures to Reduce and Decarbonise Transport Energy**
-
 **Consumption**
 
 This section describes the measures required to reduce the final energy demand and
-
 decarbonise the transport sector. A variety of actions will be required so that the
-
 transport sector can conform to the <2.0 °C or 1.5 °C global warming pathways. The
 
 ```
-45 %
+45%
 ```
 ```
 6%
@@ -16394,13 +12886,12 @@ pkm
 tkm
 ```
 ```
-pkm/tkm x10^12
+pkm/tkm x10[^12]
 Rail Road Aviation (Domestic & International)
 ```
 **Fig. 6.2** Transport mode performances of road, rail, and aviation
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 134
 
@@ -16423,7 +12914,7 @@ We found that urgent and profound measures must be taken because the emis-
 ```
 sions reduction window will soon close. Therefore, temporary reductions in fossil-
 
-fuel- related transport activities (in terms of pkm and tkm of passenger cars, trucks,
+fuel-related transport activities (in terms of pkm and tkm of passenger cars, trucks,
 
 ```
 0%
@@ -16435,10 +12926,10 @@ fuel- related transport activities (in terms of pkm and tkm of passenger cars, t
 20%
 ```
 ```
-30 %
+30%
 ```
 ```
-40 %
+40%
 ```
 ```
 50%
@@ -16447,10 +12938,10 @@ fuel- related transport activities (in terms of pkm and tkm of passenger cars, t
 60%
 ```
 ```
-70 %
+70%
 ```
 ```
-80 %
+80%
 ```
 ```
 90%
@@ -16470,27 +12961,14 @@ Train
 Freight Train
 ```
 ```
-ec
-na
-mr
-of
-re
-p
-tr
-op
-sn
-ar
-t
-re
-pt
-il
-ps
-ni
-ar
-tr
-e
-wo
-P
+ecna
+```
+```
+mrofreptropsnartreptilps
+```
+```
+niartre
+woP
 ```
 ```
 Internal Combustion Engine Electric
@@ -16520,20 +12998,26 @@ Internal Combustion Engine Electric
 5%
 ```
 ```
-5%4%
+5% 4%
 ```
-###### 2015
+**2015**
 
 ```
 OECD North America
+```
+```
 OECD Europe
 ```
 ```
 China
+```
+```
 Latin America
 ```
 ```
 Non-OECD Asia
+```
+```
 OECD Pacific
 ```
 ```
@@ -16541,6 +13025,8 @@ Middle East
 ```
 ```
 Eurasia
+```
+```
 Africa
 ```
 ```
@@ -16553,7 +13039,6 @@ according to region
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 135
 ```
@@ -16563,7 +13048,7 @@ and aviation) in OECD countries seem nearly unavoidable until the electrificatio
 
 breakthrough.
 
-**_6.3.1 Powertrain Electrification_**
+**6.3.1 Powertrain Electrification**
 
 Increasing the market penetration of highly efficient (battery and fuel-cell) electric
 
@@ -16577,55 +13062,36 @@ Today, only a few countries have significant proportions of electric vehicles in
 
 fleets. The total numbers of electric vehicles, particularly in road transport, are
 
-insignificant, but because road transport is by far the largest CO 2 emitter in overall
-
+insignificant, but because road transport is by far the largest CO[^2]: emitter in overall
 transport, it offers a very powerful lever for decarbonisation. In terms of drivetrain
 
 electrification, we cluster the world regions into three groups, according to the dif-
+fusion theory (Rogers [^2003]:):
 
-fusion theory (Rogers 2003 ):
-
-- _Innovators_ : OECD North America (excluding Mexico), OECD Europe, OECD
-
-```
+• Innovators: OECD North America (excluding Mexico), OECD Europe, OECD
 Pacific, and China
-```
-- _Moderate_ : Mexico, Non-OECD Asia, India, Eurasia, and Latin America
-- _Late adopters_ : Africa and the Middle East.
+• Moderate: Mexico, Non-OECD Asia, India, Eurasia, and Latin America
+• Late adopters: Africa and the Middle East.
 
-```
 Although this clustering is rough, it sufficiently mirrors the basic tendencies we
-```
 modelled. The regions differ in the speed with which novel technologies, especially
-
 electric drivetrains, will penetrate the market.
 
 **6.3.1.1 The 5.0 °C Scenario**
 
 The 5.0 °C Scenario follows the IEA Current Policies Scenario (IEA 2017a) until
-
 2040, with extrapolation to 2050. We model only minor electrification over all
-
 transport modes (see Fig. 6.5), with passenger cars and buses making relevant gains
-
 in _electric vehicle_ (EV) shares. For example, we project a share of 30% for _battery_
-
 _electric vehicles_ (BEV) in China by 2050 due to foreseeable legislation and techno-
-
-logical advancements in that country (Cui and Xiao 2018 ), whereas for the world
-
+logical advancements in that country (Cui and Xiao [^2018]:), whereas for the world
 car fleet, the share is projected to increase to only around 10%. The growth in the
-
 share of the commercial road vehicle fleet and of the fleet of two- and three-wheel
-
 vehicles held of electric powertrains will be small, as will be the increase in further
-
 rail electrification. Aviation and navigation (shipping) will remain fully dependent
-
 on conventional kerosene and diesel, respectively.
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 136
 
@@ -16637,36 +13103,22 @@ electrification until 2020 is assumed in the 2.0 °C Scenario. Moving towards 2
 
 the _innovator_ regions will experience strong electrification, encouraged by purchase
 
-incentives, EV credit systems, and tightened CO 2 fleet emission targets. Passenger
-
+incentives, EV credit systems, and tightened CO[^2]: fleet emission targets. Passenger
 cars and light commercial vehicles are projected to achieve shares of BEVs in the
 
 regional stocks between 21% and 30%, whereas heavy commercial vehicles and
-
 buses will attain even higher EV fleet shares of between 28% and 52% by 2030.
-
 This will require a massive build-up of battery production capacity in the coming
-
 years. Electric city buses and some trolley trucks will make a significant contribu-
-
 tion to this development. Two- and three-wheel vehicles will be nearly completely
-
 electrified (batteries and fuel cells) in a couple of regions. OECD Pacific will head
-
 the _fuel-cell-electric vehicle_ (FCEV) market introduction, which will account for up
-
 to 6% of passenger cars and light commercial vehicles by 2030, with Japan and
-
 South Korea the main market drivers. Higher shares of FCEV in _innovator_ regions
-
 are more likely in the bus and heavy truck sector, which reach up to 10% in 2030.
-
 In 2050 in the innovative regions, only a minor proportion of vehicles will have ICE
-
 (up to 9%). Passenger cars and light commercial vehicles will predominantly be
-
 electrified, with a BEV share of around 80%. FCEV will also gain a significant
-
 share of 17% in OECD Pacific and OECD North America.
 
 ```
@@ -16707,13 +13159,13 @@ Aviation
 (Domestic)
 ```
 ```
-Passenger CarBus 2- & 3-Wheeler TruckPassenger TrainFreig ht Train
+Passenger CarBus 2-& 3-Wheeler TruckPassengerTrainFreightTrain
 ```
 ```
 Powertrain split per transport performance
 ```
 ```
-Internal Combustion Engine Plug-In Hybrid Electric
+InternalCombustionEngine Plug-In Hybrid Electric
 ```
 **Fig. 6.5** Powertrain split for all transport modes in 2050 under the 5.0 °C Scenario in terms of
 transport performance
@@ -16721,7 +13173,6 @@ transport performance
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 137
 ```
@@ -16763,9 +13214,8 @@ remain mostly dependent on ICE in 2050, with shares of around 90%. Only slow
 
 electrification will occur in Africa, with small and cheap BEVs (Fig. 6.6).
 
-```
 As an example of how different the electrification speeds will be across the world
-```
+
 regions, Fig. 6.7 shows the uptake of electric and fuel-cell drivetrains in buses and
 
 two- and three-wheel vehicles, region by region, in terms of pkm. In 2015, a sub-
@@ -16831,9 +13281,14 @@ predominantly relied on diesel locomotives.
 ```
 OECD North
 America
+```
+```
 OECD
 Europe
-Powertrain split per transport performanceOECD PacificChina India Africa
+```
+```
+OECD Pacific China India Africa
+Powertrain split per transport performance
 ```
 ```
 2030
@@ -16841,8 +13296,12 @@ Powertrain split per transport performanceOECD PacificChina India Africa
 ```
 OECD North
 America
+```
+```
 OECD
 Europe
+```
+```
 OECD PacificChina IndiaAfrica
 ```
 ```
@@ -16851,78 +13310,59 @@ OECD PacificChina IndiaAfrica
 ```
 Internal Combustion Engine Plug-In Hybrid Electric Hydrogen
 ```
-**Fig. 6.6** Powertrain split (fleet) of passenger cars in selected regions in 2030 ( _left_ ) and 2050
-( _right_ ) under the 2.0 °C Scenario
+**Fig. 6.6** Powertrain split (fleet) of passenger cars in selected regions in 2030 (_left_) and 2050
+(_right_) under the 2.0 °C Scenario
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 138
 
-```
 In most world regions, nearly all rail traffic is projected to be electric after
-```
 2040 in the 2.0 °C Scenario. Total diesel consumption in rail operations is projected
-
 to increase slowly until 2030, mainly because railway vehicles have long lifespans,
-
 and once diesel cars are put into operation, they are not replaced overnight.
-
 Furthermore, line electrification usually requires several years of planning and
-
 construction.
-
-```
 Aviation will probably remain predominantly powered by liquid fossil fuels (ker-
-```
 osene and bio- and synfuel derivatives) in the medium to long term because of limi-
-
 tations in electrical energy storage. We project a moderate increase in domestic pkm
-
 flown in electric aircrafts starting in 2030, with larger shares in OECD Europe
-
 because the flight distances are shorter than, for example, in the USA (Fig. 6.9).
-
 Norway has announced plans to perform all short-haul flights electrically by 2040
-
-(Agence France-Presse 2018 ).
-
-```
+(Agence France-Presse [^2018]:).
 However, no real electrification breakthrough in aviation is foreseeable unless
-```
 the attainable energy densities of batteries increase to 800–1000  Wh/kg, which
-
 would require fast-charging capable post-lithium battery chemistries.
 
 ```
 0%
 ```
 ```
-10 %
+10%
 ```
 ```
-20 %
+20%
 ```
 ```
-30 %
+30%
 ```
 ```
-40 %
+40%
 ```
 ```
-50 %
+50%
 ```
 ```
-60 %
+60%
 ```
 ```
-70 %
+70%
 ```
 ```
-80 %
+80%
 ```
 ```
-90 %
+90%
 ```
 ```
 100%
@@ -16933,33 +13373,36 @@ Ba
 ```
 ```
 tte
-ry a
+```
+```
+ry
+a
 ```
 ```
 nd
 ```
 ```
-Tro
+Tr
+olle
 ```
 ```
-lle
 y el
 ```
 ```
 ec
-tric
+tr
 ```
 ```
+ic
 sh
 ```
 ```
-are
+ar
+e of
 ```
 ```
-of
-```
-```
-tota
+to
+ta
 ```
 ```
 l
@@ -16977,12 +13420,12 @@ m
 USA Canada Mexico Latin America
 ```
 ```
-Fuel cell eletric share of total bus pkm 2015 2020 2025 2030 2035 2040 2045 2050
-OECD Europe Eurasia
-Africa Middle East India Chin a Non-OECD Asia OECD Pacific
+Fuel cell eletric share of total bus pkm[^2015][^2020][^2025][^2030][^2035][^2040][^2045][^2050]
+OECDEurope Eurasia
+Africa MiddleEast India China Non-OECDAsia OECDPacific
 ```
-**Fig. 6.7** Battery and trolley electric bus share of total bus pkm in the 2.0 °C Scenario ( _left_ ) and
-fuel-cell electric bus share of total bus pkm in the 2.0 °C Scenario ( _right_ )
+**Fig. 6.7** Battery and trolley electric bus share of total bus pkm in the 2.0 °C Scenario (_left_) and
+fuel-cell electric bus share of total bus pkm in the 2.0 °C Scenario (_right_)
 
 ```
 0
@@ -16991,16 +13434,16 @@ fuel-cell electric bus share of total bus pkm in the 2.0 °C Scenario ( _right_
 500
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-1,50 0
+1,500
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-2,50 0
+2,500
 ```
 ```
 passenger rail freight rail
@@ -17018,13 +13461,12 @@ Total Passenger Rail Diesel Electric Biofuel / Synfuel
 2015 2020 2025 2030 2035 2040 2045 2050
 Total Freight Rail
 ```
-**Fig. 6.8** Electrification of passenger rail ( _left_ ) and freight rail ( _right_ ) under the 2.0 °C Scenario (in
+**Fig. 6.8** Electrification of passenger rail (_left_) and freight rail (_right_) under the 2.0 °C Scenario (in
 PJ of final energy demand)
 
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 139
 ```
@@ -17050,7 +13492,7 @@ the 2.0  °C and 1.5  °C Scenarios. The phasing out of internal combustion en
 
 2.0 °C Scenario (Fig. 6.10).
 
-**_6.3.2 Mode-Specific Efficiency and Improvements Over Time_**
+**6.3.2 Mode-Specific Efficiency and Improvements Over Time**
 
 In passenger transport, trains and buses are much more energy efficient per pkm
 
@@ -17064,7 +13506,7 @@ especially ships are clearly more energy efficient than trucks in transporting f
 
 mode by mode, later in this chapter, and these figures are the basis for the rationale
 
-of our discussion in terms of modal shift (Chap. 6, Sect. 4 ). The efficiency data are
+of our discussion in terms of modal shift (Chap. [^6]:, Sect. 4 ). The efficiency data are
 
 ```
 0%
@@ -17090,11 +13532,12 @@ of our discussion in terms of modal shift (Chap. 6, Sect. 4 ). The efficiency da
 ```
 2015 2020 2025 2030 2035 2040 2045 2050
 ```
-```
 Electric share of domestic aviation pkm
-```
+
 ```
 USA
+```
+```
 Canada
 ```
 ```
@@ -17102,6 +13545,8 @@ Mexico
 ```
 ```
 Latin America
+```
+```
 OECD Europe
 ```
 ```
@@ -17109,13 +13554,17 @@ Eurasia
 ```
 ```
 Africa
-Middle East
+```
+```
+MiddleEast
 ```
 ```
 India
 ```
 ```
 China
+```
+```
 Non-OECD Asia
 ```
 ```
@@ -17123,34 +13572,22 @@ OECD Pacific
 ```
 **Fig. 6.9** Electricity-performed pkm in domestic aviation under the 2.0 °C Scenario
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 140
 
 based on literature-reported and transport operator information. The efficiency lev-
-
 els in terms of pkm or tkm depend to a large extent on the underlying capacity uti-
-
 lization of the vehicles, which differs between world regions. The numbers are
-
 average values and differences are evaluated at the regional level.
-
-```
 In addition to powertrain electrification, there are other potential improvements
-```
 in energy efficiency, and their implementation will steadily improve energy intensity
-
 over time. Regardless of the types of powertrains and fuels used, efficiency improve-
-
 ments on the MJ/pkm or MJ/tkm level will result from (for example):
 
-- Reductions in powertrain losses through more-efficient motors, gears, power
-
-```
+• Reductions in powertrain losses through more-efficient motors, gears, power
 electronics, etc.;
-```
-- Reductions in aerodynamic drag;
+• Reductions in aerodynamic drag;
 
 ```
 0.00
@@ -17179,9 +13616,8 @@ electronics, etc.;
 ```
 2.00
 ```
-```
 MJ/pkm (2015)
-```
+
 **Fig. 6.11** Final energy demand in urban and inter-urban passenger transport modes in 2015 (world
 averages)
 
@@ -17219,7 +13655,7 @@ averages)
 100%
 ```
 ```
-Powertrain split of world passenger car fleet 2015 2020 2025 2030 2035 2040 2045 2050
+Powertrain split of world passenger car fleet2015 2020 2025 2030 2035 2040 2045 2050
 Internal Combustion Engine Plug-In Hybrid Electric Hydrogen
 ```
 ```
@@ -17231,27 +13667,24 @@ Internal Combustion Engine Plug-In Hybrid Electric Hydrogen
 ```
 2020 2025 2030 2035 2040 2045 2050
 ```
-**Fig. 6.10** Powertrain split of the world passenger car fleet in the 2.0 °C Scenario ( _left_ ) and 1.5 °C
-Scenario ( _right_ )
+**Fig. 6.10** Powertrain split of the world passenger car fleet in the 2.0 °C Scenario (_left_) and 1.5 °C
+Scenario (_right_)
 
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 141
 ```
-- Reductions in vehicle mass through light-weighting;
-- The use of smaller vehicles;
-- Operational improvements (e.g., through automatic train operation, load factor
+• Reductions in vehicle mass through light-weighting;
+• The use of smaller vehicles;
+• Operational improvements (e.g., through automatic train operation, load factor
 
-```
 improvements).
-```
-```
+
 The measures are discussed in the following mode-specific sub-chapters.
-```
-**_6.3.3 Road Transport_**
+
+**6.3.3 Road Transport**
 
 **6.3.3.1 Passenger Cars**
 
@@ -17259,7 +13692,7 @@ As of 2017, 99% of the passenger cars produced worldwide were estimated to be
 
 equipped with an ICE: the majority of them gasoline or diesel (95%), 3.4% hybrid
 
-electric vehicles (HEV), and 0.7% PHEV (BCG 2017 ). Only about 0.9% of the cars
+electric vehicles (HEV), and 0.7% PHEV (BCG [^2017]:). Only about 0.9% of the cars
 
 sold were pure battery electric vehicles (BEV). There are several options for energy
 
@@ -17267,9 +13700,9 @@ efficiency improvements. The fuel consumption reduction potential of petrol
 
 engines as a result of engine improvements and hybridization is around 25–30%,
 
-and it is around 15–20% for diesel engines (van Basshuysen and Schäfer 2015 ).
+and it is around 15–20% for diesel engines (van Basshuysen and Schäfer [^2015]:).
 
-Maximum efficiencies of 38–40% can be reached by ICE (Schäfer 2016 ), whereas
+Maximum efficiencies of 38–40% can be reached by ICE (Schäfer [^2016]:), whereas
 
 electric drivetrains have efficiencies of 80–85% (including [re]charging losses).
 
@@ -17277,9 +13710,8 @@ Besides the reduction in engine losses, both lightweight construction and reduct
 
 in rolling resistance will result in additional fuel savings.
 
-```
 Hybrid systems increase the complexity of powertrains, resulting in higher
-```
+
 masses and higher costs, but they offer additional fuel-saving potentials. Energy can
 
 thus be recovered by recuperation during braking in hybridized and all-electric
@@ -17314,72 +13746,44 @@ thus be recovered by recuperation during braking in hybridized and all-electric
 ```
 4.50
 ```
-```
 MJ/tkm
-```
-```
+
 (2015)
-```
+
 **Fig. 6.12** Final energy demand in freight transport modes in 2015 (world averages)
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 142
 
 vehicles. In BEV and FCEV, advanced battery technologies can reduce the overall
-
 vehicle mass. However, post-lithium technologies, such as lithium–sulfur and solid-
-
 state batteries with increased energy densities and lower systems masses compared
-
 with today’s Li-ion battery technologies, will probably not enter the transport sector
-
-before 2030 (Schmuch et al. 2018 ).
-
-```
+before 2030 (Schmuch et al. [^2018]:).
 In total, we project a 1% increase in annual efficiency on a per passenger/km
-```
 basis (the same for all drivetrains) for the 5.0  °C and 2.0  °C Scenarios. The effi-
-
 ciency improvements for 2050 in the 2.0 °C Scenario will be achieved in 2040 under
-
 the 1.5 °C Scenario (Fig. 6.13).
 
 **6.3.3.2 Light and Heavy Freight Vehicles**
 
 Like passenger cars, trucks are currently driven almost exclusively by conventional
-
 ICE. With a market share of 84% of diesel-fuelled vehicles in 2015 (IEA 2017c),
-
 the global fleet of trucks was predominantly operating on diesel (IEA 2017b). In
-
 some regions, such as the Middle East, trucks are also powered by gasoline to a
-
 considerable degree. Electric drivetrains will enter the truck sector gradually in
-
 coming years because of changes in exhaust emissions legislation and because the
-
 higher efficiency of electric drivetrains compared with ICE will offer economic
-
 advantages to road carriers (Fig. 6.14). Compared with diesel-powered trucks, fuel-
-
 cell electric drivetrains in trucks can substantially reduce the energy intensity per
-
 tkm, and allow higher operating ranges than battery-powered trucks. To achieve
-
 rapid improvements in energy efficiency in the truck sector, the hybridization of
-
 diesel powertrains, especially those operating in stop-and-go intensive urban envi-
-
-ronments, is promising (Burke and Hengbing 2017 ; Lischke 2017 ). However, after
-
+ronments, is promising (Burke and Hengbing [^2017]:; Lischke [^2017]:). However, after
 2030, the hybrid diesel powertrain will be seen merely as a transitional technology
-
 before the advent of fully electric powertrains (overhead catenary, battery electric,
-
 and fuel-cell electric). Therefore, the development of battery recharging and hydro-
-
 gen refuelling infrastructures will require massive investments in coming years. In
 
 ```
@@ -17430,12 +13834,11 @@ Gasoline Diesel Natural GasElectricHydrogen
 MJ/pkm
 ```
 **Fig. 6.13** World average energy consumption development for passenger cars per powertrain in
-2015 ( _left_ ) and 2050 ( _right_ )
+2015 (_left_) and 2050 (_right_)
 
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 143
 ```
@@ -17449,7 +13852,7 @@ head catenary lines along major highways for trolley trucks (hybridized with die
 
 fuel cells, or batteries). The first pilot lanes are being developed in Germany,
 
-Sweden, and California (USA) (Siemens 2017 ).
+Sweden, and California (USA) (Siemens [^2017]:).
 
 **6.3.3.3 Buses**
 
@@ -17471,13 +13874,13 @@ mature technology. In China, battery electric buses are already an integral part
 
 public bus transport systems, and the city of Shenzen has had a 100% electric bus
 
-fleet since 2016 (over 16,000 battery electric buses) (Sisson 2018 ). Fuel-cell electric
+fleet since 2016 (over 16,000 battery electric buses) (Sisson [^2018]:). Fuel-cell electric
 
 buses still lag behind battery electric buses in terms of numbers, but are increasing.
 
 In 2017, about 80 fuel-cell electric buses were in operation in Europe (Element
 
-Energy Ltd. 2018 ) and 26 in the USA (Eudy and Post 2017 ). Full battery operation
+Energy Ltd. [^2018]:) and 26 in the USA (Eudy and Post [^2017]:). Full battery operation
 
 is more difficult to achieve in regional and long-distance buses and coaches, so the
 
@@ -17550,8 +13953,7 @@ MJ/tkm
 ```
 **Fig. 6.14** Average global energy intensities of truck drivetrain technologies in 2015 and 2050
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 14 4
 
@@ -17569,9 +13971,8 @@ other regions lagging behind the innovators. We also identified a clear trend to
 
 electrification.
 
-```
 We project a 0.5% (diesel, diesel-hybrid and natural gas) to 0.8% (electric and
-```
+
 fuel cell hydrogen electric) increase in efficiency on a per passenger per km basis in
 
 all three scenarios (Fig. 6.15).
@@ -17588,14 +13989,13 @@ electric scooters in the world, with more than 200 million electric scooters on 
 
 road by 2015, that translates to an electric share of about 70%.
 
-```
 Three-wheel vehicles (also country-specifically called ‘rickshaws’ or ‘tuk-tuks’)
-```
+
 have at least two, and usually three or more seats, and are often overloaded in daily
 
 traffic. India alone is reported to have 2.5 million rickshaws on the road, each travel-
 
-ling 70–150  km/day (Abu Mallouh et  al. 2010 ). Most three-wheel vehicles are
+ling 70–150  km/day (Abu Mallouh et  al. [^2010]:). Most three-wheel vehicles are
 
 fuelled by gasoline and some by liquid petroleum gas (LPG), although some com-
 
@@ -17648,13 +14048,12 @@ Natural Gas Electric Hydrogen
 ```
 MJ/pkm
 ```
-**Fig. 6.15** Average global energy intensities of bus drivetrain technologies in 2015 ( _left_ ) and 2050
-( _right_ )
+**Fig. 6.15** Average global energy intensities of bus drivetrain technologies in 2015 (_left_) and 2050
+(_right_)
 
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 145
 ```
@@ -17662,15 +14061,15 @@ munities incentivize the conversion of two-stroke engines to battery electric th
 
 wheel vehicles. Electric tuk-tuks are increasingly emerging in South-East Asia,
 
-together with battery swap stations and solar-powered rickshaws (Moran 2018 ;
+together with battery swap stations and solar-powered rickshaws (Moran [^2018]:;
 
-Reddy et al. 2017 ). Thailand has announced that it plans to convert all existing two-
+Reddy et al. [^2017]:). Thailand has announced that it plans to convert all existing two-
 
-stroke- powered tuk-tuks to battery electric powertrains within 5  years (Coconuts
+stroke-powered tuk-tuks to battery electric powertrains within 5  years (Coconuts
 
-Bangkok 2017 ). In India, too, plans are repeatedly announced to electrify all new
+Bangkok [^2017]:). In India, too, plans are repeatedly announced to electrify all new
 
-two- and three-wheel vehicles within the next two decades (Ghoshal 2017 ).
+two- and three-wheel vehicles within the next two decades (Ghoshal [^2017]:).
 
 ```
 The efficiency of battery electric drivetrains is much better than that of conven-
@@ -17693,7 +14092,7 @@ catenary and tank levels, respectively). According to the International Railway
 
 Association, about 32% of the worldwide rail network was electrified in 2015 (UIC
 
-2017 ). However, in terms of transport performance (pkm or tkm), the ratio of elec-
+[^2017]:). However, in terms of transport performance (pkm or tkm), the ratio of elec-
 
 tric to diesel is higher because electrified rail lines usually experience more traffic
 
@@ -17703,9 +14102,8 @@ has been the state-of-the-art technology for decades and new lines are almost ex
 
 sively equipped with overhead power lines right from the start.
 
-```
 However, line electrification, especially of existing lines, is often difficult to
-```
+
 achieve due to unsettled and complex right-of-way issues, narrow tunnel diameters,
 
 or simply because line electrification is not economically viable due to low line
@@ -17798,46 +14196,30 @@ MJ/pkm
 ```
 3-Wheeler
 ```
-**Fig. 6.16** Average global energy intensities of two-wheel vehicles ( _left_ ) and three-wheel vehicles
-( _right_ ) by drivetrain technology in 2015 ( _left bar_ ) and 2050 ( _right bar_ )
+**Fig. 6.16** Average global energy intensities of two-wheel vehicles (_left_) and three-wheel vehicles
+(_right_) by drivetrain technology in 2015 (_left bar_) and 2050 (_right bar_)
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 146
 
-```
 We project a 0.5% annual increase in efficiency on a per passenger per km basis
-```
 and a 0.8% annual increase in efficiency on a per tonne per km basis (the same for
-
 all drivetrains) in all three scenarios (Fig. 6.17).
-
-```
 The actual efficiency depends on the type of train and the world region. These
-```
 differences are considered in every transport sub-model and are exemplified in
-
 Fig. 6.18 for freight and passenger trains.
 
 **6.3.3.6 Water and Air Transport**
 
 Inland navigation will probably remain predominantly powered by ICE in the next
-
 few decades. Therefore, we did not model the electrification of inland navigation
-
 vessels. However, pilot projects using diesel hybrids, batteries, and fuel cells are in
-
-preparation (DNV GL 2015 ). We assumed the same increase in the share of bio- and
-
+preparation (DNV GL [^2015]:). We assumed the same increase in the share of bio- and
 synthetic fuels over time as in the road and rail sectors.
-
-```
 In aviation, energy efficiency can be improved by measures such as winglets,
-```
 advanced composite-based lightweight structures, powertrain hybridization, and
-
-enhanced air traffic management systems (Madavan 2016 ; Vyas et  al. 2013 ). We
+enhanced air traffic management systems (Madavan [^2016]:; Vyas et  al. [^2013]:). We
 
 project a 1% annual increase in efficiency on a per pkm basis.
 
@@ -17889,6 +14271,8 @@ project a 1% annual increase in efficiency on a per pkm basis.
 ```
 D - FreightNG - FreightE - FreightE - Intermodal
 Freight
+```
+```
 E - LDHV Freight
 ```
 ```
@@ -17904,7 +14288,8 @@ MJ/tkm
 0.24
 ```
 ```
-0.33 0.28
+0.33
+0.28
 ```
 ```
 0.64
@@ -17916,7 +14301,8 @@ MJ/tkm
 0.20
 ```
 ```
-0.28 0.23
+0.28
+0.23
 ```
 ```
 0.00
@@ -17957,8 +14343,8 @@ D - REG/IC NG - REG/IC E - REG/IC E -Metro/LRT E - HST
 ```
 MJ/pkm
 ```
-**Fig. 6.17** MJ/tkm of freight rail trains ( _left_ ) and MJ/pkm of passenger rail trains ( _right_ ) for 2015
-( _left_ ) and 2050 ( _right_ )
+**Fig. 6.17** MJ/tkm of freight rail trains (_left_) and MJ/pkm of passenger rail trains (_right_) for 2015
+(_left_) and 2050 (_right_)
 
 ```
 0
@@ -17980,20 +14366,12 @@ MJ/pkm
 ```
 ```
 1.2
+rotcaf1.4
 ```
 ```
-r1.4
-otc
-af
-yc
-nei
-ciff
-eci
-fic
-eps
-noi
-ge
-R 0
+ycneiciffecificeps
+noigeR
+0
 ```
 ```
 0.25
@@ -18025,46 +14403,33 @@ efficiency
 ```
 factor
 ```
-**Fig. 6.18** Region-specific MJ/tkm and MJ/pkm in 2015 and 2050 for freight rail trains ( _left_ ) and
-passenger rail trains ( _right_ )
+**Fig. 6.18** Region-specific MJ/tkm and MJ/pkm in 2015 and 2050 for freight rail trains (_left_) and
+passenger rail trains (_right_)
 
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 147
 ```
-**_6.3.4 Replacement of Fossil Fuels by Biofuels and Synfuels_**
+**6.3.4 Replacement of Fossil Fuels by Biofuels and Synfuels**
 
-The use of biofuels in the transport sector offers a potential lever to reduce the CO 2
-
+The use of biofuels in the transport sector offers a potential lever to reduce the CO2
 emissions from fossil fuels. Biofuels can be used either as a direct drop-in or as
 
 admixtures to fossil fuels. Biofuels are widely used, especially in Latin America
-
 (e.g., E85  in Brazil, a blend of 85% ethanol and 15% gasoline). Biofuels will be
-
 replaced by synthetic fuels (synfuels) within the next few decades.
-
-```
 In the three scenarios, we use region-specific shares of bio- and synfuels to
-```
 replace fossil fuels such as diesel, gasoline, and kerosene. Figure 6.19 shows the
-
 scenario-specific band-widths. In the 5.0 °C Scenario, Latin America will increase
-
 its proportion of bio- and synfuels to around 15%, whereas in the Middle East,
-
 Mexico, and Eurasia will even not reach a 0.5% share by 2050. Bio-fuel and
-
 especially synfuel shares will remain constant in the 5.0 °C Scenario, whereas they
-
 will increase in the 2.0  °C Scenario between 2030 and 2050 and in the 1.5  °C
-
 Scenario from 2020 onwards.
 
-**_6.3.5 Operational Improvements and Novel Service Concepts_**
+**6.3.5 Operational Improvements and Novel Service Concepts**
 
 In addition to technical improvements, such as the energy efficiency savings
 
@@ -18118,8 +14483,7 @@ bio- and synfuels in all
 world regions under all
 scenarios
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 148
 
@@ -18143,7 +14507,7 @@ They include traditional car sharing (e.g., Zipcar), free-floating car sharing b
 
 nesses (e.g., car2go), and ride-hailing mobility concepts (e.g., Uber, lyft). In Europe,
 
-private ride-sharing mobility platforms, such as _BlaBlaCar_ , are seen as alternative
+private ride-sharing mobility platforms, such as _BlaBlaCar_, are seen as alternative
 
 passenger car usership schemes. All shared-use mobility concepts have in common
 
@@ -18153,14 +14517,13 @@ car is no longer considered a status symbol, but has become simply a mode of tra
 
 port in the Western world.
 
-```
 Flexibility and passenger-friendly usability is becoming increasingly important
-```
+
 to users of public transport. Various app-based on-demand mobility services are
 
 currently being tested in pilot projects—for example, in the German city of
 
-Schorndorf (Brost et  al. 2018 ). Under these business models, innovative vehicle
+Schorndorf (Brost et  al. [^2018]:). Under these business models, innovative vehicle
 
 concepts are tested for suitability. Automated battery electric (mini) buses can make
 
@@ -18174,7 +14537,7 @@ usage. However, decision-makers and transport planners must consider the poten-
 
 tially detrimental rebound effects of highly personalized automated mobility
 
-(Pakusch et al. 2018 ). For example, an increase in total energy consumption may
+(Pakusch et al. [^2018]:). For example, an increase in total energy consumption may
 
 occur as a result of the higher transport demand arising from transport options that
 
@@ -18192,16 +14555,15 @@ nology for partially automated trucks is already available and being tested to m
 
 it widely available. In the Society of Automotive Engineers (SAE) automation level
 
-3 (SAE 2018 ), (multi-brand) truck platooning has become possible, which is a
+3 (SAE [^2018]:), (multi-brand) truck platooning has become possible, which is a
 
-driver-assistance technology (Janssen et  al. 2015 ). With communication between
+driver-assistance technology (Janssen et  al. [^2015]:). With communication between
 
 the first truck and the following trucks, the control of the following vehicles is
 
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 149
 ```
@@ -18209,11 +14571,10 @@ handed over to the leading vehicle. Thus, the following vehicles are driving in 
 
 slipstream and lower air drag is achieved, which can reduce energy consumption by
 
-up to 5% (Daimler 2018 ).
+up to 5% (Daimler [^2018]:).
 
-```
 In urban freight transport, last-mile delivery concepts based on light commercial
-```
+
 vehicles can help reduce fuel consumption. By fragmenting the transport routes into
 
 the main leg and urban traffic (last mile), different vehicle types and modes can be
@@ -18264,9 +14625,8 @@ then discuss the rationales for the mode choices that will result in the transpo
 
 formance projections.
 
-```
 For the 5.0 °C Scenario, we extrapolate current trends in transport performance
-```
+
 until 2050. In relative terms, the transport performance of all transport carriers will
 
 increase from current levels. Aviation, passenger car, and commercial road transport
@@ -18279,9 +14639,8 @@ efficiency potential of these transport modes is realized, energy intensity per 
 
 tkm will remain higher than that of trains, ships, or buses.
 
-```
 In the 2.0 °C Scenario and 1.5 °C Scenario, we project a strong increase in rail
-```
+
 traffic (starting from a relatively low level) and a slower growth or even a reduction
 
 in the use of the other modes in all world regions (Fig. 6.21). The next two sections
@@ -18290,34 +14649,27 @@ describe the specific changes and developments for each type of passenger and
 
 freight transport.
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 150
 
-**_6.4.1 Passenger Transport Modes_**
+**6.4.1 Passenger Transport Modes**
 
-To reduce transport-related CO 2 emissions, a shift towards low-energy-intensity
-
+To reduce transport-related CO[^2]: emissions, a shift towards low-energy-intensity
 modes of transport is required for both ambitious climate-protection scenarios.
 
 Travelling by rail is the most energy-efficient form of transport, and therefore we
-
 suggest a strong shift from domestic aviation to trains, especially high-speed trains
-
 and magnetic levitation trains. The assumed shifts from domestic aviation to trains
-
 are shown in Table 6.1. The mode shift potential differs, depending predominantly
-
 on the country-specific distance between origin–destination pairs. The shifts from
-
 international aviation to trains were not analysed because the potential is lower
 
 ```
 0%
 ```
 ```
-50 %
+50%
 ```
 ```
 100%
@@ -18344,10 +14696,7 @@ international aviation to trains were not analysed because the potential is lowe
 Transpor
 ```
 ```
-t-
-```
-```
-Evolutio
+t-Evolutio
 ```
 ```
 n
@@ -18410,15 +14759,13 @@ volution
 2.0°C1.5°C
 ```
 **Fig. 6.21** Relative growth in world transport demand (2015  =  100% pkm/tkm) in the 2.0  °C
-Scenario ( _left_ ) and 1.5 °C Scenario ( _right_ )
+Scenario (_left_) and 1.5 °C Scenario (_right_)
 
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 151
-```
 ```
 (although not zero). The maximum global shift from domestic aviation to trains will
 be stronger in the 1.5 °C Scenario than in the 2.0 °C Scenario.
@@ -18437,7 +14784,7 @@ regions. In the 2.0  °C Scenario, pkm in the OECD countries will predominantly
 remain on the same level in 2050 as in 2015 due to saturation and sufficiency effects.
 In all the other world regions, we project a growth in pkm, reflecting economic
 catch-up processes in the developing world induced by increases in population and
-```
+
 **Table 6.1** Pkm “per km” shift from domestic aviation to trains (in %)
 
 ```
@@ -18484,12 +14831,9 @@ pkm-Evolution
 ```
 5.0 ̊C 2.0 ̊C 1.5 ̊C
 ```
-```
-Fig. 6.22 Regional pkm development
-```
-```
-6 Transport Transition Concepts
-```
+**Fig. 6.22** Regional pkm development
+
+[^6]: Transport Transition Concepts
 
 152
 
@@ -18503,24 +14847,21 @@ ence continuous economic growth over the next few decades, pkm will rise slowly
 
 compared with that in the 5.0 °C Scenario.
 
-```
 Pkm in absolute numbers in 2050 will be highest in the 5.0 °C Scenario. It will
-```
+
 also increase in the 2.0 °C and 1.5 °C Scenarios, but at a slower rate (Figs. 6.23 and
 
 6.24).
 
-```
 Looking more closely at the 2.0  °C Scenario, the transport modes will evolve
-```
+
 differently in the world regions, both quantitatively and in relative terms (Fig. 6.25)
 
 due to the diverse mobility patterns. For example, Africa has a high bus share in
 
 total pkm today, whereas OECD Europe has a high passenger car share (LDV), but
 
-pkm must decrease by 2020 and in subsequent years to meet the CO 2 reduction
-
+pkm must decrease by 2020 and in subsequent years to meet the CO[^2]: reduction
 targets because fleet electrification will not be able to keep up. In parallel, rail pkm
 
 -
@@ -18617,7 +14958,6 @@ Passenger Train Passenger Car Bus
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 153
 ```
@@ -18633,7 +14973,7 @@ buses. In China, the pkm split among modes is more balanced. All modes are pro-
 
 jected to rise in pkm in the future.
 
-**_6.4.2 Freight Transport Modes_**
+**6.4.2 Freight Transport Modes**
 
 Total freight activity is modelled to increase strongly in the 5.0  °C Scenario and
 
@@ -18667,7 +15007,7 @@ other regions, such as China and India (Figs. 6.26 and 6.27).
 15
 ```
 ```
-20152020 2025 20302035
+2015 2020 2025 2030 2035
 ```
 ```
 Passenger Train Passenger Car Bus 2- & 3- wheeler Aviaon (Domesc)Aviaon (Internaonal)
@@ -18676,16 +15016,17 @@ Passenger Train Passenger Car Bus 2- & 3- wheeler Aviaon (Domesc)Aviaon (Inte
 2040 2045 2050
 ```
 ```
-pkm
+pk
+m
 ```
 ```
 in trillion
 ```
 ```
-20152020 2025 20302035 20402045 2050
+2015 2020 2025 2030 2035 2040 2045 2050
 ```
 ```
-20152020 20252030 2035 20402045 2050
+2015 2020 2025 2030 2035 2040 2045 2050
 ```
 ```
 OECD Europe Africa
@@ -18693,15 +15034,13 @@ OECD Europe Africa
 ```
 China
 ```
-**Fig. 6.25** Pkm development in OECD Europe ( _left_ ) Africa (middle), and China ( _right_ ) in the
+**Fig. 6.25** Pkm development in OECD Europe (_left_) Africa (middle), and China (_right_) in the
 2.0 °C Scenario
 
-6 Transport Transition Concepts
+[^6]: Transport Transition Concepts
 
-
-```
 154
-```
+
 ```
 0
 ```
@@ -18741,9 +15080,8 @@ x 10
 ```
 LDF ADV REF
 ```
-```
-Fig. 6.26 World tkm development in all scenarios
-```
+**Fig. 6.26** World tkm development in all scenarios
+
 ```
 2015
 ```
@@ -18763,8 +15101,7 @@ Fig. 6.26 World tkm development in all scenarios
 200%
 ```
 ```
-tkm-Evolution
-150%
+tkm-Evolution150%
 ```
 ```
 100%
@@ -18779,22 +15116,19 @@ tkm-Evolution
 ```
 OECD Europe
 ```
-```
 5.0°C2.0°C 1.5°C
 USA India ChinaAfrica
-```
+
 **Fig. 6.27** Regional tkm development
 
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 155
 ```
-```
 We modelled the shift from high-energy-intensity modes to low-energy-intensity
-```
+
 modes, especially from road to rail freight. This will require substantial investments
 
 in additional rail infrastructure. Table 6.2 shows the assumed global tkm shift from
@@ -18807,15 +15141,14 @@ the shift to rail freight than light freight trucks (LFT) or medium freight truc
 
 (MFT). In the 2.0 °C Scenario, we assume an average shift of 18% for HFT, whereas
 
-in the 1.5 °C Scenario, the shift is projected to reach up to 27%. The ramp- up of
+in the 1.5 °C Scenario, the shift is projected to reach up to 27%. The ramp-up of
 
 shift potential is slow, because the provision of rail and terminal infrastructures and
 
 rolling stock will require considerable time.
 
-```
 We modelled tkm for truck (road) and rail freight transport. In the 5.0  °C
-```
+
 Scenario, transport activity is projected to increase clearly until 2050. In the 2.0 °C
 
 and 1.5 °C Scenarios, this increase will be slower and the tkm on rail will exceed the
@@ -18831,9 +15164,8 @@ other world regions (Fig. 6.29). Rail tkm in China will temporarily decrease sl
 
 because of an anticipated medium-term decline in coal transport (Fig. 6.30).
 
-```
 In 2015, rail’s share of total tkm differed between regions, but will increase in the
-```
+
 2.0 °C Scenario in all regions except India, where road tkm will increase more than
 
 rail tkm (Fig. 6.31).
@@ -18846,7 +15178,7 @@ and powertrains with specific energy demands, and yields the accumulated demands
 
 for electricity, hydrogen, gas, and liquid fuels across all world regions between 2015
 
-and 2050. The transport energy scenario results are outlined in Chap. 8.
+and 2050. The transport energy scenario results are outlined in Chap. [^8]:.
 
 **Table 6.2** Global tkm shifts from truck to train in the 2.0 °C and 1.5 °C Scenarios (in %)
 
@@ -18859,8 +15191,7 @@ MFT (1.5) 0 2–3 5–10 9–14 13–18 13–19 13–19 13–18
 HFT (2.0) 0 3 5 8 10 13 15 18
 HFT (1.5) 0 2–3 8–18 12–22 16–27 16–27 16–27 18–27
 ```
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 156
 
@@ -18954,7 +15285,6 @@ India
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 157
 ```
@@ -19024,37 +15354,37 @@ India
 0%
 ```
 ```
-10 %
+10%
 ```
 ```
-20 %
+20%
 ```
 ```
-30 %
+30%
 ```
 ```
-40 %
+40%
 ```
 ```
-50 %
+50%
 ```
 ```
-60 %
+60%
 ```
 ```
-70 %
+70%
 ```
 ```
-80 %
+80%
 ```
 ```
-90 %
+90%
 ```
 ```
 100%
 ```
 ```
-20152020202520302035204020452050
+2015 2020 2025 2030 2035 2040 2045 2050
 ```
 ```
 Share of tkm via
@@ -19064,6 +15394,8 @@ rail
 ```
 ```
 USA
+```
+```
 Mexico
 ```
 ```
@@ -19074,6 +15406,8 @@ Latin America
 ```
 ```
 OECD Europe
+```
+```
 Eurasia
 ```
 ```
@@ -19090,8 +15424,7 @@ China
 ```
 **Fig. 6.31** Share of rail tkm in total rail + road tkm in the 2.0 °C Scenario
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 158
 
@@ -19130,7 +15463,7 @@ Madavan N (2016) A Nasa Perspective on Electric Propulsion Technologies for Comm
 Aviation. 5 th UTIAS Workshop on Aviation and Climate Change, Toronto, Canada, 18.-20.
 May 2016
 Moran G (2018) Battery swapping: The future of electric vehicle charging. In: Forbes India. [http://](http://)
-[http://www.forbesindia.com/blog/technology/battery-swapping-the-future-of-electric-vehicle-charg-](http://www.forbesindia.com/blog/technology/battery-swapping-the-future-of-electric-vehicle-charg-)
+[www.forbesindia.com/blog/technology/battery-swapping-the-future-of-electric-vehicle-charg-](www.forbesindia.com/blog/technology/battery-swapping-the-future-of-electric-vehicle-charg-)
 ing/. Accessed 8 Oct 2018
 Pakusch C, Stevens G, Boden A, Bossauer P (2018) Unintended Effects of Autonomous Driving:
 A Study on Mobility Preferences in the Future. Sustainability 10:. doi: https://doi.org/10.3390/
@@ -19152,7 +15485,6 @@ mens.com/press/en/feature/2015/mobility/2015-06-ehighway.php. Accessed 5 Oct 201
 ```
 J. Pagenkopf et al.
 ```
-
 ```
 159
 ```
@@ -19174,10 +15506,10 @@ Wiesbaden, Wiesbaden
 Vyas AD, Patel DM, Bertram KM (2013) Potential for Energy Efficiency Improvement
 Beyond the Light-Duty-Vehicle Sector. Transportation Energy Futures Series. Prepared
 for the U.S.  Department of Energy by Argonne National Laboratory, Argonne, IL.  DOE/
-GO-102013- 3706. 82 pp.
+GO-102013-3706. 82 pp.
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -19187,14 +15519,12 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-6 Transport Transition Concepts
-
+[^6]: Transport Transition Concepts
 
 © The Author(s) 2019 161
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_7
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 7
+**Chapter 7**
 
 #### Renewable Energy Resource Assessment
 
@@ -19222,24 +15552,23 @@ tials in the literature, and all conclude that the total global technical renewa
 
 energy potential is substantially higher than the current global energy demand
 
-(IPCC/SRREN 2011 ). Furthermore, the IPCC has concluded that the _global techni-_
+(IPCC/SRREN [^2011]:). Furthermore, the IPCC has concluded that the _global techni-_
 
 _cal renewable energy potential will not limit continued renewable energy growth_
 
-(IPCC/SRREN 2011 ). However, the technical potential is also much higher than the
+(IPCC/SRREN [^2011]:). However, the technical potential is also much higher than the
 
 sustainable potential, which is limited by factors such as land availability and other
 
 resource constraints.
 
-```
 This chapter provides an overview of various estimates of global renewable
-```
+
 energy (RE) potential. It also provides definitions of different types of RE potential
 
 and presents mapping results for the spatial RE resource analysis (see Sect. 1.3 in
 
-Chap. 3)—[R]E-SPACE. The [R]E-SPACE results provide the upper limit for the
+Chap. [^3]:)—[R]E-SPACE. The [R]E-SPACE results provide the upper limit for the
 
 deployment of all solar and wind technologies used in the 2.0  °C and 1.5  °C
 
@@ -19254,14 +15583,13 @@ Australian-German Climate and Energy College, University of Melbourne,
 Parkville, Victoria, Australia
 e-mail: kate.dooley@unimelb.edu.au
 
-
 162
 
 **7.1 Global Renewable Energy Potentials**
 
 The International Panel on Climate Change—Special Report on Renewable Energy
 
-Sources and Climate Change Mitigation (IPCC-SRRN 2011 ) defines renewable
+Sources and Climate Change Mitigation (IPCC-SRRN [^2011]:) defines renewable
 
 energy (RE) as:
 
@@ -19276,20 +15604,18 @@ For the development of the 2.0 °C and 1.5 °C Scenarios, an additional renewa
 
 energy potential—the economic renewable energy potential in a space-constrained
 
-environment (Sect. 3.2 in Chap. 3)—has been analysed and utilized in this study.
+environment (Sect. 3.2 in Chap. [^3]:)—has been analysed and utilized in this study.
 
-```
 The theoretical and technical potentials of renewable energy are significantly
-```
+
 larger than the current global primary energy demand. The minimum technical
 
-potential of solar energy, shown in Table 7.1 (Turkenburg et al. 2012 ), could supply
+potential of solar energy, shown in Table 7.1 (Turkenburg et al. [^2012]:), could supply
 
 the global primary energy of 2015 112 times over.
 
-```
 However, the technical potential is only a first indication of the extent to
-```
+
 which the resource is available. There are many other limitations, which must be
 
 considered. One of the main constraints on deploying renewable energy tech-
@@ -19297,8 +15623,8 @@ considered. One of the main constraints on deploying renewable energy tech-
 ```
 Different types of renewable energy potentials have been identified by the
 German Advisory Council on Climate Change (WBGU)—World in Transition:
-Towards Sustainable Energy Systems, Chap. 3, page 44, published in 2003 :
-(WBGU 2003 ) (Quote):
+Towards Sustainable Energy Systems, Chap. 3, page 44, published in 2003:
+(WBGU 2003) (Quote):
 ```
 ```
 “Theoretical potential: The theoretical potential identifies the physical upper limit of
@@ -19326,62 +15652,36 @@ ent ecological and socio-economic aspects [...].” (END Quote)
 ```
 S. Teske et al.
 ```
-
 ```
 163
 ```
 nologies is the available space, especially in densely populated areas where there
-
 are competing claims on land use, such as agriculture and nature conservation, to
-
 name just two.
-
-```
 It is neither necessary nor desirable to exploit the entire technical potential. The
-```
 implementation of renewable energy must respect sustainability criteria to achieve
-
 a sound future energy supply. Public acceptance is crucial, especially because the
-
 decentralised character of many renewable energy technologies will move systems
-
 closer to consumers. Without public acceptance, market expansion will be difficult
-
-or even impossible (Teske and Pregger 2015 ). The energy policy framework in a
-
+or even impossible (Teske and Pregger [^2015]:). The energy policy framework in a
 particular country or region will have a profound impact on the expansion of renew-
-
 ables, in terms of both the economic situation and the social acceptance of renew-
-
 able energy projects.
 
-**_7.1.1 Bioenergy_**
+**7.1.1 Bioenergy**
 
 The discrepancy between the technical potential for bioenergy and the likely sus-
-
 tainable potential raises some issues that warrant further discussion. Recent analy-
-
 ses put the technical potential for primary bioenergy supply at 100–300 EJ/year.
-
-(GEA 2012 ; Smith et al. 2014 ). However, the dedicated use of land for bioenergy—
-
+(GEA [^2012]:; Smith et al. [^2014]:). However, the dedicated use of land for bioenergy—
 whether through energy crops or the harvest of forest biomass—raises concerns
-
 over competition for land and the carbon neutrality of bioenergy (Field and Mach
-
-2017 ; Searchinger et  al. 2017 ). Research that focused on the trade-offs between
-
+[^2017]:; Searchinger et  al. [^2017]:). Research that focused on the trade-offs between
 bioenergy production, food security, and biodiversity found that less than 100 EJ /
-
-year. could be produced sustainably (Boysen et al. 2017 ; Heck et al. 2018 ), although
-
+year. could be produced sustainably (Boysen et al. [^2017]:; Heck et al. [^2018]:), although
 such production levels would be dependent on strong global land governance sys-
-
-tems (Creutzig 2017 ).
-
-```
-The carbon neutrality of bioenergy is based on the assumption that the CO 2
-```
+tems (Creutzig [^2017]:).
+The carbon neutrality of bioenergy is based on the assumption that the CO2
 released when bioenergy is combusted is then recaptured when the biomass stock
 
 **Table 7.1** Theoretical and technical renewable energy potentials versus utilization in 2015
@@ -19421,171 +15721,109 @@ Total 76,000–294,500 (Total primary
 energy demand
 2015) 555 EJ/year
 ```
-7 Renewable Energy Resource Assessment
-
+[^7]: Renewable Energy Resource Assessment
 
 16 4
 
-regrows (EASAC 2017 ). Most land is part of the terrestrial carbon sink or is used
-
+regrows (EASAC [^2017]:). Most land is part of the terrestrial carbon sink or is used
 for food production, so that harvesting for bioenergy will either deplete the exist-
-
-ing carbon stock or displace food production (Searchinger et al. 2015 , 2017). The
-
+ing carbon stock or displace food production (Searchinger et al. [^2015]:, [^2017]:). The
 use of harvested forest products (e.g., wood pellets) for bioenergy is not carbon
-
 neutral in the majority of circumstances because an increased harvesting in forests
-
-leads to a permanent increase in the atmospheric CO 2 concentration (Sterman et al.
-
-2018 ; Smyth et  al. 2014 ; Ter Mikaelian et  al. 2015 ). Leaving carbon stored in
+leads to a permanent increase in the atmospheric CO[^2]: concentration (Sterman et al.
+[^2018]:; Smyth et  al. [^2014]:; Ter Mikaelian et  al. [^2015]:). Leaving carbon stored in
 
 intact forests can represent a better climate mitigation strategy (DeCicco and
 
-Schlesinger 2018 ), because increased atmospheric concentrations of CO 2 from the
-
+Schlesinger [^2018]:), because increased atmospheric concentrations of CO[^2]: from the
 burning of bioenergy may worsen the irreversible impacts of climate change before
 
-the forests can grow back to compensate the increase (EASAC 2017 ; Booth 2018 ;
-
-Schlesinger 2018 ).
-
-```
+the forests can grow back to compensate the increase (EASAC [^2017]:; Booth [^2018]:;
+Schlesinger [^2018]:).
 Bioenergy sourced from wastes and residues rather than harvested from dedi-
-```
 cated land can be considered carbon neutral, because of the ‘carbon opportunity
-
 cost’ per hectare of land (i.e., bioenergy production reduces the carbon-carrying
-
-capacity of land) (Searchinger et al. 2017 ). The supply of waste and residues as
-
-a bioenergy source is always inherently limited (Miyake et al. 2012 ). Although
-
+capacity of land) (Searchinger et al. [^2017]:). The supply of waste and residues as
+a bioenergy source is always inherently limited (Miyake et al. [^2012]:). Although
 in some cases, burning residues can still release more emissions into the atmo-
-
-sphere in the mid-term (20–40 years) than allowing them to decay (Booth 2018 ),
-
+sphere in the mid-term (20–40 years) than allowing them to decay (Booth [^2018]:),
 there is general agreement that specific and limited waste materials from the for-
-
 est industry (for example, black liquor or sawdust) can be used with beneficial
-
-climate effects (EASAC 2017 ). The use of secondary residues (cascade utiliza-
-
+climate effects (EASAC [^2017]:). The use of secondary residues (cascade utiliza-
 tion) may reduce the logistical costs and trade-offs associated with waste use
-
-(Smith et al. 2014 ).
+(Smith et al. [^2014]:).
 
 **7.2 Economic Renewable Energy Potential in Space-**
-
 **Constrained Environments**
 
 Land is a scarce resource. The use of land for nature conservation, agricultural pro-
-
 duction, residential areas, and industry, as well as for infrastructure, such as roads
-
 and all aspects of human settlements, limits the amount of land available land for
-
 utility-scale solar and wind projects. Furthermore, solar and wind generation require
-
 favourable climatic conditions, so not all available areas are suitable for renewable
-
 power generation. To assess the renewable energy potential of the available area, all
-
-ten world regions defined in Table 8 in Sect. 1 of Chap. 5 were analysed with the [R]
-
-E-SPACE methodology described in Sect. 3 of Chap. 3.
-
-```
+ten world regions defined in Table 8 in Sect. 1 of Chap. [^5]: were analysed with the [R]
+E-SPACE methodology described in Sect. 3 of Chap. [^3]:.
 Given the issues involved in dedicated land-use for bioenergy outlined above, we
-```
 assume that bioenergy is sourced primarily from cascading residue use and wastes,
-
 and do not analyse the availability of land for dedicated bioenergy crops.
-
-```
 This analysis quantifies the available land area (in square kilometres) in all
-```
 regions and sub-regions with a defined set of constraints.
 
 ```
 S. Teske et al.
 ```
-
 ```
 165
 ```
-**_7.2.1 Constrains for Utility-Scale Solar and Wind Power_**
+**7.2.1 Constrains for Utility-Scale Solar and Wind Power**
 
-**_Plants_**
+**Plants**
 
 The following land-use areas were excluded from the deployment of utility-scale
 
 solar photovoltaic (PV) and concentrated solar power plants:
 
-- Residential and urban settlements;
-- Infrastructure for transport (e.g., rail, roads);
-- Industrial areas;
-- Intensive agricultural production land;
-- Nature conservation areas and national parks;
-- Wetlands and swamps;
-- Closed grasslands (a land-use type) (GLC 2000 ).
+• Residential and urban settlements;
+• Infrastructure for transport (e.g., rail, roads);
+• Industrial areas;
+• Intensive agricultural production land;
+• Nature conservation areas and national parks;
+• Wetlands and swamps;
+• Closed grasslands (a land-use type) (GLC 2000).
 
-**_7.2.2 Mapping Solar and Wind Potential_**
+**7.2.2 Mapping Solar and Wind Potential**
 
 After the spatial analysis, the remaining available land areas were analysed for their
 
 solar and wind resources. For concentrated solar power, a minimum solar radiation
 
-of 2000 kilowatt hours per square meter and year (kWh/m^2 year) is assumed as the
+of 2000 kilowatt hours per square meter and year (kWh/m[^2] year) is assumed as the
 
 minimum deployment criterion, and onshore wind potentials under an average
-
 annual wind speed of 5 m/s have been omitted.
-
-```
 In the next step, the existing electricity infrastructure of power lines and power
-```
-plants was mapped for all regions with WRI ( 2018 ) data. Figure 7.1 provides an
-
+plants was mapped for all regions with WRI ([^2018]:) data. Figure 7.1 provides an
 example of the electricity infrastructure in Africa. These maps provide important
-
 insights into the current situation in the power sector, especially the availability of
-
 transmission grids. This is of particular interest for developing countries because it
-
 allows a comparison of the available land areas that have favourable solar and wind
-
 conditions with the infrastructure available to transport electricity to the demand
-
 centres. This assessment is less important for OECD regions because the energy
-
 infrastructure is usually already fairly evenly distributed across the country—except
-
 in some parts of Canada, the United States, and Australia. For some countries, cov-
-
 erage is not 100% complete due to a lack of public data sources. This is particularly
-
 true for renewable energy generation assets such as solar, wind, biomass, geother-
-
 mal energy, and hydropower resources.
-
-```
 Figure 7.2 shows the solar potential for utility-scale solar power plants—both
-```
 solar PV and concentrated solar power—in Africa. The scale from light yellow to
-
 dark red shows the solar radiation intensity: the darker the area, the better the solar
-
 resource. The green lines show existing transmission lines. All areas that are not
-
 yellow or red are unsuitable for utility-scale solar because there is conflicting land
-
 use and/or there are no suitable solar resources. Africa provides a very extreme
+example of very good solar resources far from existing infrastructure. While roof-top
 
-example of very good solar resources far from existing infrastructure. While roof- top
-
-7 Renewable Energy Resource Assessment
-
+[^7]: Renewable Energy Resource Assessment
 
 166
 
@@ -19597,108 +15835,61 @@ mission lines
 ```
 S. Teske et al.
 ```
-
 ```
 167
 ```
 solar PV can be deployed virtually anywhere and only needs roof space on any sort
-
 of building, bulk power supply via solar—to produce synthetic and hydrogen
-
 fuels—requires a certain minimum of utility-scale solar applications. The vast solar
-
 potential in the north of Africa—as well as in the Middle East—has been earmarked
-
 for the production of synthetic and hydrogen fuels and for the export of renewable
-
 electricity (via sub-sea cable) to Europe in the long-term energy scenarios in the
-
 2.0 °C and 1.5 °C Scenarios.
-
-```
 Europe, in contrast, is densely populated and has fewer favourable utility-scale
-```
 solar sites because of both its lower solar radiation and conflicting land-use patterns.
-
 Figure 7.3 shows Europe’s potential for utility-scale solar power plants. Only the
-
 yellow and red dots across Europe, most visible in the south of Spain, south of the
-
 Alps, south-west Italy, and the Asian part of Turkey, mark regions suitable for
-
-utility- scale solar, whereas roof-top solar can be deployed economically across
-
+utility-scale solar, whereas roof-top solar can be deployed economically across
 Europe, including Scandinavia.
-
-```
 However, Africa and Europe are in a good position, from a technical point of
-```
 view, to form an economic partnership for solar energy exchange.
-
-```
 The situation for onshore wind power differs from that for solar energy. The best
-```
 potential is in areas that are more than 30° north and south of the equator, whereas
-
 the actual equatorial zone is less suitable for wind installation. North America has
-
 significant wind resources and the resource is still largely untapped, even though
-
 there is already a mature wind industry in Canada and the USA. Figure 7.4 shows
-
 the existing and potential wind power sites. While significant wind power
 
 **Fig. 7.3** Europe’s potential for utility-scale solar power plants
 
-7 Renewable Energy Resource Assessment
-
+[^7]: Renewable Energy Resource Assessment
 
 168
 
 installations are already in operation, mainly in the USA, there are still very large
-
 untapped resources across the entire north American continent, in Canada and the
-
 mid-west of the USA.
-
-```
 Unlike the situation in the USA, wind power in Latin America is still in its initial
-```
 stages and the industry, which has great potential, is still in its infancy. Figure 7.5
-
 shows the existing wind farm locations—marked with blue dots—and the potential
-
 wind farm sites, especially in coastal regions and the entire southern parts of
-
 Argentina and Chile.
-
-```
 The available solar and wind potentials are distributed differently across all
-```
 world regions. Whereas some regions have significantly more resources than others,
-
 all regions have enough potential to supply their demand with local solar and wind
-
 resources—together with other renewable energy resources, such as hydro-, bio-,
-
 and geothermal energies.
-
-```
 Table 7.2 provides an overview of the key results of the [R]E-SPACE analysis.
-```
 The available areas (in square kilometres) are based on the space-constrained
-
-assumptions (see Sect. 2.1 in Chap. 7). The installed capacities are calculated based
-
+assumptions (see Sect. 2.1 in Chap. [^7]:). The installed capacities are calculated based
 on the following space requirements (Table 7.2):
 
-- Solar photovoltaic: 1 MW = 0.04 km^2
-- Concentrated solar power: 1 MW = 0.04 km^2
-- Onshore wind: 1 MW = 0.2 km^2
+• Solar photovoltaic: 1 MW = 0.04 km[^2]
+• Concentrated solar power: 1 MW = 0.04 km[^2]
+• Onshore wind: 1 MW = 0.2 km[^2]
 
-```
 Note: Mapping Eurasia was not possible because the data files were
-```
 incomplete.
 
 **Fig. 7.4** OECD North America: existing and potential wind power sites
@@ -19706,7 +15897,6 @@ incomplete.
 ```
 S. Teske et al.
 ```
-
 ```
 169
 ```
@@ -19735,7 +15925,7 @@ installations
 ```
 Space
 potential
-[km^2 ] [GW] [km^2 ] [GW]
+[km[^2]] [GW] [km[^2]] [GW]
 OECD
 North
 America
@@ -19781,8 +15971,7 @@ Alaska
 ```
 (continued)
 ```
-7 Renewable Energy Resource Assessment
-
+[^7]: Renewable Energy Resource Assessment
 
 170
 
@@ -19809,7 +15998,7 @@ installations
 ```
 Space
 potential
-[km^2 ] [GW] [km^2 ] [GW]
+[km[^2]] [GW] [km[^2]] [GW]
 Latin
 America
 ```
@@ -19908,7 +16097,7 @@ Africa
 ```
 ```
 East – Africa 6,378,561 159,464 6,980,497 34,902
-West – Africa8,336,960 208,424 8,669,628 43,348
+West – Africa 8,336,960 208,424 8,669,628 43,348
 Central –
 Africa
 ```
@@ -19932,7 +16121,6 @@ Africa
 ```
 S. Teske et al.
 ```
-
 ```
 171
 ```
@@ -19961,7 +16149,7 @@ installations
 ```
 Space
 potential
-[km^2 ] [GW] [km^2 ] [GW]
+[km[^2]] [GW] [km[^2]] [GW]
 Non-
 OECD
 Asia
@@ -20071,8 +16259,7 @@ and North (NT)
 ```
 2,813,791 70,345 2,762,499 13,812
 ```
-7 Renewable Energy Resource Assessment
-
+[^7]: Renewable Energy Resource Assessment
 
 172
 
@@ -20105,7 +16292,7 @@ Heck, V., Gerten, D., Lucht, W., Popp, A., 2018. Biomass-based negative emission
 oncile with planetary boundaries. Nature Climate Change 8, 151–155. https://doi.org/10.1038/
 s41558-017-0064-y
 Miyake, S., et al., 2012. Land-use and environmental pressures resulting from current and future
-bioenergy crop expansion: A review. _Journal of Rural Studies_ , 28(4), pp. 650–658.
+bioenergy crop expansion: A review. _Journal of Rural Studies_, 28(4), pp. 650–658.
 IPCC, 2011, IPCC: Summary for Policymakers. In: IPCC Special Report on Renewable Energy
 Sources and Climate Change Mitigation; [O.  Edenhofer, R.  Pichs-Madruga, Y.  Sokona,
 K.  Seyboth, P.  Matschoss, S.  Kadner, T.  Zwickel, P.  Eickemeier, G.  Hansen,S.  Schlömer, C.
@@ -20132,7 +16319,6 @@ Working Group III Contribution to the Fifth Assessment Report of the Intergovern
 ```
 S. Teske et al.
 ```
-
 ```
 173
 ```
@@ -20147,31 +16333,33 @@ Change Mitigation, Chapter 1, Prepared by Working Group III of the Intergovernme
 on Climate Change [O. Edenhofer, R. Pichs-Madruga, Y. Sokona, K. Seyboth, P. Matschoss,
 S.  Kadner, T.  Zwickel, P.  Eickemeier, G.  Hansen, S.  Schlömer, C. von Stechow (eds)].
 Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1075 pp.
+
 Sterman, J.D., Siegel, L., Rooney-Varga, J.N., 2018. Does replacing coal with wood lower CO 2
 emissions? Dynamic lifecycle analysis of wood bioenergy. Environmental Research Letters 13,
+
 015007. https://doi.org/10.1088/1748-9326/aaa512
 Ter-Mikaelian, M.T., Colombo, S.J. & Chen, J., 2015. The Burning Question: Does Forest
 Bioenergy Reduce Carbon Emissions? A Review of Common Misconceptions about Forest
-Carbon Accounting. _Journal of Forestry_ , 113(1), pp. 57–68.
+Carbon Accounting. Journal of Forestry, 113(1), pp. 57–68.
 Turkenburg, Arent et  al 2012, Turkenburg, W.  C., D.  J. Arent, R.  Bertani, A.  Faaij, M.  Hand,
 W. Krewitt, E. D. Larson, J. Lund, M. Mehos, T. Merrigan, C. Mitchell, J. R. Moreira, W. Sinke,
 V.  Sonntag-O’Brien, B.  Thresher, W. van Sark, E.  Usher and E.  Usher, 2012: Chapter 11  -
 Renewable Energy. In Global Energy Assessment - Toward a Sustainable Future, Cambridge
 University Press, Cambridge, UK and New York, NY, USA and the International Institute for
 Applied Systems Analysis, Laxenburg, Austria, pp. 761–900.
-Teske, Pregger 2015, Teske, S, Pregger, T., Naegler, T., Simon, S., _Energy [R]evolution  -
-A sustainable World Energy Outlook 2015_ , Greenpeace International with the German
+Teske, Pregger 2015, Teske, S, Pregger, T., Naegler, T., Simon, S., Energy [R]evolution  -
+A sustainable World Energy Outlook 2015, Greenpeace International with the German
 Aerospace Centre (DLR), Institute of Engineering Thermodynamics, System Analysis and
 Technology Assessment, Stuttgart, Germany, https://www.scribd.com/document/333565532/
 Energy-Revolution-2015-Full
-WBGU 2003, _World in Transition Towards Sustainable Energy Systems;_ German Advisory
+WBGU 2003, World in Transition Towards Sustainable Energy Systems; German Advisory
 Council on Global Change (WBGU), H. Graßl, J. Kokott, M. Kulessa, J. Luther, F. Nuscheler,
 R. Sauerborn, H.-J. Schellnhuber, R. Schubert, E.-D. Schulze
 WRI 2018, World Resource Institute (WRI), Global Power Plant Database, web-based database,
-data download June 2018, [http://datasets.wri.org/dataset/globalpowerplantdatabase](http://datasets.wri.org/dataset/globalpowerplantdatabase)
+data download June 2018, http://datasets.wri.org/dataset/globalpowerplantdatabase
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -20181,14 +16369,12 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-7 Renewable Energy Resource Assessment
-
+[^7]: Renewable Energy Resource Assessment
 
 © The Author(s) 2019 175
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_8
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 8
+**Chapter 8**
 
 #### Energy Scenario Results
 
@@ -20246,12 +16432,10 @@ Department of Vehicle Systems and Technology Assessment, German Aerospace Center
 (DLR), Institute of Vehicle Concepts (FK), Pfaffenwaldring, Germany
 e-mail: johannes.pagenkopf@dlr.de; Bent.vandenAdel@dlr.de; oezcan.deniz@dlr.de
 
-
 176
 
-```
 The following global summary of the regional results is presented in the same
-```
+
 structure as that used for individual regions. Consistent with the regional results,
 
 these tables do not include the demand and supply details for the bunker fuels used
@@ -20260,11 +16444,11 @@ in international aviation and navigation. Section 8.2 outlines a global demand a
 
 supply scenario for renewable bunker fuels in the long term, including estimates of
 
-additional CO 2 emissions from fossil bunker fuels between 2015 and 2050.
+additional CO[^2]: emissions from fossil bunker fuels between 2015 and 2050.
 
 **8.1 Global: Long-Term Energy Pathways**
 
-**_8.1.1 Global: Projection of Overall Energy Intensity_**
+**8.1.1 Global: Projection of Overall Energy Intensity**
 
 Combining the assumptions for the power, heat, and fuel demands for all sectors
 
@@ -20322,18 +16506,17 @@ final energy intensity [MJ/$GDP]
 ```
 5.0°C 2.0°C 1.5°C
 ```
-**Fig. 8.1** Global: projection of final energy (per $ GDP) intensity by scenario
+## Fig. 8.1 Global: projection of final energy (per $ GDP) intensity by scenario
 
 ```
 S. Teske et al.
 ```
-
 ```
 177
 ```
-**_8.1.2 Global: Final Energy Demand by Sector_**
+**8.1.2 Global: Final Energy Demand by Sector**
 
-**_(Excluding Bunkers)_**
+**(Excluding Bunkers)**
 
 Combining the assumptions for population growth, GDP growth, and energy inten-
 
@@ -20363,9 +16546,8 @@ efficiency measures in the 2.0 °C and 1.5 °C Scenarios will save 13,200 TWh/
 
 and 13,700 TWh/year, respectively, by 2050.
 
-```
 Electrification will lead to a significant increase in the electricity demand by
-```
+
 2050. In the 2.0  °C Scenario, the electricity demand for heating will be about
 
 ```
@@ -20404,11 +16586,11 @@ Residential & other sectors
 Industry
 Transport
 ```
-**Fig. 8.2** Global: projection of total final energy demand by sector in the scenarios (without non-
+## Fig. 8.2 Global: projection of total final energy demand by sector in the scenarios (without non-
+
 energy use or heat from combined heat and power [CHP] autoproducers)
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 178
 
@@ -20428,9 +16610,8 @@ higher than in the 5.0 °C case. In the 1.5 °C Scenario, the gross electricit
 
 will increase to a maximum of 65,300 TWh/year in 2050.
 
-```
 The efficiency gains in the heating sector could be even larger than in the
-```
+
 electricity sector. In the 2.0 °C and 1.5 °C Scenarios, a final energy consumption
 
 equivalent to about 85.7 EJ/year and 95.4 EJ/year, respectively, is avoided
@@ -20439,7 +16620,7 @@ through efficiency gains by 2050 compared with the 5.0 °C Scenario (Figs. 8.3
 
 8.4, 8.5, and 8.6).
 
-**_8.1.3 Global: Electricity Generation_**
+**8.1.3 Global: Electricity Generation**
 
 The development of the power system is characterized by a dynamically growing
 
@@ -20491,12 +16672,11 @@ Residential & other sectors
 ```
 Industry
 ```
-**Fig. 8.3** Global: development of gross electricity demand by sector in the scenarios
+## Fig. 8.3 Global: development of gross electricity demand by sector in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 179
 ```
@@ -20549,7 +16729,7 @@ PJ/yr
 Rail Road (PC & LDV) Road (HDV)
 Domestic Navigation Domestic Aviation Efficiency
 ```
-**Fig. 8.4** Global: development of final energy demand for transport by mode in the scenarios
+## Fig. 8.4 Global: development of final energy demand for transport by mode in the scenarios
 
 ```
 0
@@ -20579,14 +16759,11 @@ PJ/yr
 ```
 Industry Residential & other sectors Efficiency
 ```
-**Fig. 8.5** Global: development of heat demand by sector in the scenarios
+## Fig. 8.5 Global: development of heat demand by sector in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 **Table 8.1** Global: development of renewable electricity-generation capacity in the scenarios
-
-```
 in GW (°C) 2015 2025 2030 2040 2050
 Hydro 5.0 1202 1420 1558 1757 1951
 2.0 1202 1386 1416 1473 1525
@@ -20601,8 +16778,8 @@ Geothermal 5.0 14 20 26 41 62
 2.0 14 49 125 348 557
 1.5 14 53 147 356 525
 PV 5.0 225 785 1031 1422 2017
-2.0 225 2194 4158 8343 12,306
-1.5 225 2829 5133 10,017 12,684
+2.0 [^225]: [^2194]: [^4158]: [^8343]: 12,306
+1.5 [^225]: [^2829]: [^5133]: 10,017 12,684
 CSP 5.0 4 13 20 39 64
 2.0 4 69 361 1346 2062
 1.5 4 92 474 1540 1990
@@ -20610,9 +16787,9 @@ Ocean 5.0 0 1 3 9 22
 2.0 0 22 82 307 512
 1.5 0 22 80 295 450
 Total 5.0 1971 3285 3902 4899 6195
-2.0 1971 5604 9478 18,243 25,584
-1.5 1971 6644 11,420 20,980 25,723
-```
+2.0 [^1971]: [^5604]: [^9478]: 18,243 25,584
+1.5 [^1971]: [^6644]: 11,420 20,980 25,723
+
 ```
 0
 ```
@@ -20674,8 +16851,7 @@ Industry fuels Industry electricity
 Residential & other sectors fuels Residential & other sectors electricity
 total power demand (incl. synfuels & H2)
 ```
-**Fig. 8.6** Global: development of the final energy demand by sector in the scenarios
-
+## Fig. 8.6 Global: development of the final energy demand by sector in the scenarios
 
 ```
 181
@@ -20692,41 +16868,27 @@ lead to a high proportion of variable power generation (PV, wind, and ocean) of
 
 38% and 46%, respectively, by 2030 and 64% and 65%, respectively, by 2050.
 
-**_8.1.4 Global: Future Costs of Electricity Generation_**
+**8.1.4 Global: Future Costs of Electricity Generation**
 
 Figure 8.8 shows the development of the electricity-generation and supply costs
 
-over time, including the CO 2 emission costs, in all scenarios. The calculated average
-
+over time, including the CO[^2]: emission costs, in all scenarios. The calculated average
 electricity generation costs in 2015 (referring to full costs) were around 6 ct/kWh.
 
 In the 5.0 °C case, the generation costs will increase until 2050, when they reach
-
 10.6 ct/kWh. The generation costs will also increase in the 2.0  °C and 1.5  °C
-
 Scenarios until 2030, when they will reach 9 ct/kWh, and then drop to 7 ct/kWh by
 
 2050. In both alternative scenarios, the generation costs will be around 3.5 ct/kWh
-
 lower than in the 5.0 °C Scenario by 2050. Note that these estimates of generation
-
 costs do not take into account integration costs such as power grid expansion, stor-
-
 age, or other load-balancing measures.
-
-```
 In the 5.0 °C case, the growth in demand and increasing fossil fuel prices will
-```
 cause the total electricity supply costs to increase from today’s $1560 billion/year to
-
 around $5500 billion/year in 2050. In both alternative scenarios, the total supply
-
 costs will be $5050 billion/year in 2050. Therefore, the long-term costs for electric-
-
 ity supply in both alternative scenarios are about 8% lower than in the 5.0  °C
-
 Scenario as a result of the estimated generation costs and the electrification of
-
 heating and mobility.
 
 ```
@@ -20754,7 +16916,7 @@ heating and mobility.
 70,000
 ```
 ```
-5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C
+5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C
 2015 2025 2030 2040 2050
 ```
 ```
@@ -20776,16 +16938,13 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.7** Global: development of electricity-generation structure in the scenarios
+## Fig. 8.7 Global: development of electricity-generation structure in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 182
 
-```
-Compared with these results, the generation costs (without including CO 2 emis-
-```
+Compared with these results, the generation costs (without including CO[^2]: emis-
 sion costs) will increase in the 5.0 °C case to only 7.9 ct/kWh. The generation costs
 
 will increase in the 2.0 °C Scenario until 2030 to 7.7 ct/kWh and to a maximum of
@@ -20802,26 +16961,18 @@ in the 5.0 °C Scenario, again by around 2040. In 2050, the generation costs in
 
 alternative scenarios will be 0.8–0.9 ct/kWh lower than in the 5.0  °C case. If the
 
-CO 2 costs are not considered, the total electricity supply costs in the 5.0 °C case will
-
+CO[^2]: costs are not considered, the total electricity supply costs in the 5.0 °C case will
 rise to about $4150 billion/year in 2050.
 
-**_8.1.5 Global: Future Investments in the Power Sector_**
+**8.1.5 Global: Future Investments in the Power Sector**
 
 In the 2.0  °C Scenario, around $49,000 billion in investment will be required for
-
 power generation between 2015 and 2050—including for additional power plants to
-
 produce hydrogen and synthetic fuels and for the plant replacement costs at the end
-
 of their economic lifetimes. This value will be equivalent to approximately $1360
-
 billion per year on average, and is $28,600 billion more than in the 5.0  °C case
-
 ($20,400 billion). An investment of around $51,000 billion for power generation
-
 will be required between 2015 and 2050 in the 1.5 °C Scenario. On average, this
-
 will be an investment of $1420 billion per year. In the 5.0  °C Scenario, the
 
 ```
@@ -20878,54 +17029,36 @@ billion $ ct/kWh
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-**Fig. 8.8** Global: development of total electricity supply costs and specific electricity generation
+## Fig. 8.8 Global: development of total electricity supply costs and specific electricity generation
+
 costs in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 183
 ```
 investment in conventional power plants will comprises around 40% of total cumu-
-
 lative investments, whereas approximately 60% will be invested in renewable power
-
 generation and co-generation (Fig. 8.9).
-
-```
 However, in the 2.0 °C (1.5 °C) Scenario, the world will shift almost 94% (95%)
-```
 of its total energy investment to renewables and co-generation. By 2030, the fossil
-
 fuel share of the power sector investment will predominantly focus on gas power
-
 plants that can also be operated with hydrogen.
-
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
 fuel cost savings in the 2.0 °C Scenario will reach a total of $26,300 billion in 2050,
-
 equivalent to $730 billion per year. Therefore, the total fuel cost savings in the
-
 2.0  °C Scenario will be equivalent to 90% of the additional energy investments
-
 compared to the 5.0 °C Scenario. The fuel cost savings in the 1.5 °C Scenario will
-
 add up to $28,800 billion, or $800 billion per year.
 
-**_8.1.6 Global: Energy Supply for Heating_**
+**8.1.6 Global: Energy Supply for Heating**
 
 The final energy demand for heating will increase in the 5.0 °C Scenario by 59%, from
-
 151 EJ/year in 2015 to around 240 EJ/year in 2050. In the 2.0 °C Scenario, energy
-
 efficiency measures will help to reduce the energy demand for heating by 36% in
-
 2050, relative to that in the 5.0 °C Scenario, and by 40% in the 1.5 °C Scenario. Today,
-
 renewables supply around 20% of the global final energy demand for heating. The
 
 ```
@@ -20943,15 +17076,15 @@ Renewable
 53%
 ```
 ```
-5.0°C: 2015-205 0
+5.0°C: 2015-2050
 ```
 ```
-total 20,40 0
+total 20,400
 billion $
 ```
 ```
 Fossil (incl.H2)
-5%Nuclear
+5% Nuclear
 1%
 CHP
 9%
@@ -20983,33 +17116,21 @@ billion $
 total 51,100
 billion $
 ```
-**Fig. 8.9** Global: investment shares for power generation in the scenarios
+## Fig. 8.9 Global: investment shares for power generation in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 184
 
 main contribution is from biomass. Renewable energy will provide 42% of the world’s
-
 total heat demand in 2030 in the 2.0 °C Scenario and 56% in the 1.5 °C Scenario. In
-
 both scenarios, renewables will provide 100% of the total heat demand in 2050.
-
-```
 Figure 8.10 shows the development of different technologies for heating world-
-```
 wide over time, and Table 8.2 provides the resulting renewable heat supply for all
-
 scenarios. Until 2030, biomass will remain the main contributor. In the long-term,
-
 the growing use of solar, geothermal, and environmental heat will lead to a biomass
-
 share in total heating of 33% in the 2.0 °C Scenario and 30% in the 1.5 °C Scenario.
-
-```
 Heat from renewable hydrogen will further reduce the dependence on fossil fuels
-```
 in both scenarios. Hydrogen consumption in 2050 will be around 15,900 PJ/year in
 
 ```
@@ -21098,22 +17219,20 @@ Solar heating
 Biomass
 Fossil
 ```
-**Fig. 8.10** Global: development of heat supply by energy carrier in the scenarios
+## Fig. 8.10 Global: development of heat supply by energy carrier in the scenarios
 
 **Table 8.2** Global: development of renewable heat supply in the scenarios (excluding the direct
 use of electricity)
-
-```
 in PJ/year (°C) 2015 2025 2030 2040 2050
 Biomass 5.0 25,470 27,643 28,878 31,568 34,564
 2.0 25,470 32,078 35,134 38,187 37,536
 1.5 25,470 33,493 36,927 36,385 30,151
 Solar heating 5.0 1246 2091 2754 4353 6220
-2.0 1246 6485 12,720 23,329 27,312
-1.5 1246 7656 14,153 21,665 24,725
+2.0 [^1246]: [^6485]: 12,720 23,329 27,312
+1.5 [^1246]: [^7656]: 14,153 21,665 24,725
 Geothermal heat
 and heat pumps
-```
+
 ```
 5.0 563 804 925 1293 1823
 2.0 563 4212 8956 21,115 33,123
@@ -21128,7 +17247,6 @@ Total 5.0 27,278 30,538 32,557 37,214 42,608
 ```
 S. Teske et al.
 ```
-
 ```
 185
 ```
@@ -21140,7 +17258,7 @@ electricity for heating will also increase by a factor of 4.2–4.5 between 2015
 
 the 1.5 °C Scenario (Table 8.2).
 
-**_8.1.7 Global: Future Investments in the Heating Sector_**
+**8.1.7 Global: Future Investments in the Heating Sector**
 
 The roughly estimated investments in renewable heating technologies up to 2050
 
@@ -21158,7 +17276,7 @@ lower heat demand (compared with the 2.0 °C Scenario) will result in a lower a
 
 age annual investment of around $344 billion per year (Table 8.3, Fig. 8.11).
 
-**_8.1.8 Global: Transport_**
+**8.1.8 Global: Transport**
 
 The energy demand in the transport sector will increase in the 5.0 °C Scenario by
 
@@ -21185,13 +17303,12 @@ Solar heating 5.0 378 615 781 1175 1652
 Heat pumps 5.0 89 126 144 199 270
 2.0 89 497 906 1821 2857
 1.5 89 514 967 1726 2430
-Totala **5.0 10,688 10,928 10,871 10,805 10,923
-2.0 10,688 12,469 13,741 15,910 16,036
-1.5 10,688 13,026 14,290 14,517 13,086**
-a Excluding direct electric heating
+Totala **5.0 10,688 10,928 10,871 10,805 10,923**
+**2.0 10,688 12,469 13,741 15,910 16,036**
+**1.5 10,688 13,026 14,290 14,517 13,086**
+aExcluding direct electric heating
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 186
 
@@ -21201,9 +17318,8 @@ of 74% (or 108,000 PJ/year) in 2050 compared with the 5.0  °C case (Table 8.4
 
 Fig. 8.12).
 
-```
 By 2030, electricity will provide 12% (2700 TWh/year) of the transport sector’s
-```
+
 total energy demand in the 2.0 °C Scenario, whereas in 2050, the share will be 47%
 
 (6500 TWh/year). In 2050, around 8430 PJ/year of hydrogen will be used in the
@@ -21214,9 +17330,8 @@ annual electricity demand will be about 5200 TWh in 2050. The 1.5 °C Scenario
 
 also assumes a hydrogen demand of 6850 PJ/year by 2050.
 
-```
 Biofuel use is limited in the 2.0 °C Scenario to a maximum of around 12,000 PJ/
-```
+
 year Therefore, by around 2030, synthetic fuels based on power-to-liquid will be
 
 introduced, with a maximum amount of 5820 PJ/year in 2050. Because of the lower
@@ -21300,32 +17415,27 @@ heat pumps
 1.5°C: 2015-2050
 ```
 ```
-total 12, 400 billion $
+total 12,400 billion $
 ```
-**Fig. 8.11** Global: development of investment in renewable heat-generation technologies in the
+### Fig. 8.11 Global: development of investment in renewable heat-generation technologies in the
+
 scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 187
 ```
-**_8.1.9 Global: Development of CO 2 Emissions_**
+**8.1.9 Global: Development of CO**[^2]: **Emissions**
 
-In the 5.0 °C Scenario, the annual global energy-related CO 2 emissions will increase
-
+In the 5.0 °C Scenario, the annual global energy-related CO[^2]: emissions will increase
 by 40%, from 31,180 Mt. in 2015 to more than 43,500 Mt. in 2050. The stringent
 
 mitigation measures in both alternative scenarios will cause annual emissions to fall
-
 to 7070 Mt. in 2040 in the 2.0 °C Scenario and to 2650 Mt. in the 1.5 °C Scenario,
-
 with further reductions to almost zero by 2050. In the 5.0 °C Scenario, the cumula-
-
-tive CO 2 emissions from 2015 until 2050 will add up to 1388 Gt. In contrast, in the
-
+tive CO[^2]: emissions from 2015 until 2050 will add up to 1388 Gt. In contrast, in the
 2.0  °C and 1.5  °C Scenarios, the cumulative emissions for the period 2015–2050
 
 will be 587 Gt and 450 Gt, respectively.
@@ -21441,25 +17551,19 @@ Biofuels
 Natural Gas
 Oil products
 ```
-**Fig. 8.12** Global: final energy consumption by transport in the scenarios
+## Fig. 8.12 Global: final energy consumption by transport in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 188
 
-```
-Thus, the cumulative CO 2 emissions will decrease by 58% in the 2.0 °C Scenario
-```
+Thus, the cumulative CO[^2]: emissions will decrease by 58% in the 2.0 °C Scenario
 and by 68% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid reduction
-
 in annual emissions will occur in both alternative scenarios. In the 2.0 °C Scenario,
-
 the reduction will be greatest in ‘Power generation’, followed by the ‘Residential
-
 and other’ and ‘Transport’ sectors (Fig. 8.13).
 
-**_8.1.10 Global: Primary Energy Consumption_**
+**8.1.10 Global: Primary Energy Consumption**
 
 The levels of primary energy consumption based on the assumptions discussed
 
@@ -21475,9 +17579,8 @@ demand will decrease by 48% by 2050 in the 2.0 °C Scenario (5.0 °C: 837 EJ 
 
 EJ in 2050) due to the lower final energy demand and lower conversion losses.
 
-```
 Both the 2.0 °C and 1.5 °C Scenarios aim to rapidly phase-out coal and oil. This
-```
+
 will cause renewable energy to have a primary energy share of 35% in 2030 and
 
 92% in 2050 in the 2.0 °C Scenario. In the 1.5 °C Scenario, renewables will have a
@@ -21561,8 +17664,7 @@ cumulated emissions [Gt]
 CO
 ```
 ```
-2
-emissions [Mt/yr]
+emissions [Mt/yr]2
 ```
 ```
 'Power generation' 'Other Conversion'
@@ -21571,13 +17673,13 @@ emissions [Mt/yr]
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.13** Global: development of CO 2 emissions by sector and cumulative CO 2 emissions (since
+## Fig. 8.13 Global: development of CO2 emissions by sector and cumulative CO2 emissions (since
+
 2015) in the scenarios (‘Savings’ = lower than in the 5.0 °C Scenario)
 
 ```
 S. Teske et al.
 ```
-
 ```
 189
 ```
@@ -21607,18 +17709,13 @@ was in the order of 16,000 PJ, of which 7400 PJ was for aviation and 8600 PJ for
 
 navigation. Between 2009 and 2015, bunker fuel consumption increased by 13%.
 
-The annual CO 2 emissions from bunker fuels accounted for 1.3 Gt in 2015, approxi-
+The annual CO[^2]: emissions from bunker fuels accounted for 1.3 Gt in 2015, approxi-
 
-mately 4% of global energy-related CO 2 emissions. In the 5.0  °C Scenario, the
-
+mately 4% of global energy-related CO[^2]: emissions. In the 5.0  °C Scenario, the
 development of the final energy demand for bunker fuels is assumed to be that of the
-
 IEA World Energy Outlook 2017 Current Policies scenario. This will lead to a fur-
-
 ther increase of 120% in the demand for bunker fuels until 2050 compared with that
-
-in the base year, 2015. Because no substitution with ‘green’ fuels is assumed, CO 2
-
+in the base year, 2015. Because no substitution with ‘green’ fuels is assumed, CO2
 emissions will rise by the same order of magnitude.
 
 ```
@@ -21660,27 +17757,45 @@ PJ/yr
 ```
 ```
 Efficiency
+```
+```
 Ocean energy
+```
+```
 Geothermal
+```
+```
 Solar
+```
+```
 Biomass
+```
+```
 Wind
+```
+```
 Hydro
+```
+```
 Natural gas
+```
+```
 Crude oil
+```
+```
 Coal
+```
+```
 Nuclear
 ```
-**Fig. 8.14** Global: projection of total primary energy demand (PED) by energy carrier in the
+## Fig. 8.14 Global: projection of total primary energy demand (PED) by energy carrier in the
+
 scenarios
 
-8 Energy Scenario Results
+[^8]: Energy Scenario Results
 
-
-```
 190
-```
-```
+
 Although the use of hydrogen and electricity in aviation is technically feasible (at
 least for regional transport) and synthetic gas use in navigation is an additional option
 under discussion, this analysis uses a conservative approach and assumes that bunker
@@ -21700,14 +17815,14 @@ in more regions, with lower exports from the supply regions mentioned above, in 
 2.0  °C Scenario. Another assumption is that, consistent with the regional 1.5  °C
 Scenarios, the biomass consumption for energy supply will decrease in the long term,
 whereas power-to-liquid will continue to increase as the main option for international
-aviation and navigation. Finally, the expansion of the power- to- liquid infrastructure
+aviation and navigation. Finally, the expansion of the power-to-liquid infrastructure
 for the generation of bunker fuel will be closely associated with the assumed devel-
 opment of regional synthetic fuel demand and generation for transportation in each
-world region. Figure 8.15 also shows the resulting cumulative CO 2 emissions from
+world region. Figure 8.15 also shows the resulting cumulative CO[^2]: emissions from
 bunker fuel consumption between 2015 and 2050, which amount to around 70 Gt in
 the 5.0  °C case, 30 Gt in the 2.0  °C Scenario, and 21 Gt in the 1.5  °C Scenario.
 Table 8.5 provides more-detailed data for the three bunker fuel scenarios.
-```
+
 ```
 0
 ```
@@ -21774,15 +17889,17 @@ final energy for bunkers [PJ/yr]
 ```
 ```
 Fossil fuels Biofuels Synfuels (liquid) Savings
+```
+```
 5.0°C 2.0°C 1.5°C
 ```
-**Fig. 8.15** Global: scenario of bunker fuel demand for aviation and navigation and the resulting
-cumulative CO 2 emissions
+## Fig. 8.15 Global: scenario of bunker fuel demand for aviation and navigation and the resulting
+
+cumulative CO[^2]: emissions
 
 ```
 S. Teske et al.
 ```
-
 ```
 191
 ```
@@ -22036,7 +18153,7 @@ PJ/year
 CO
 ```
 ```
-emissions 2
+emissions2
 ```
 ```
 Mt/year
@@ -22455,8 +18572,7 @@ TWh/year
 ```
 4375 (continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 192
 
@@ -22500,7 +18616,7 @@ Unit
 CO
 ```
 ```
-emissions 2
+emissions2
 ```
 ```
 Mt/year
@@ -23013,7 +19129,7 @@ TWh/year
 CO
 ```
 ```
-emissions 2
+emissions2
 ```
 ```
 Mt/year
@@ -23045,13 +19161,11 @@ Mt/year
 ```
 S. Teske et al.
 ```
-
 ```
 193
 ```
-```
 The production of synthetic fuels will cause significant additional electricity
-```
+
 demand and a corresponding expansion of the renewable power generation
 
 capacities. In the case of liquid bunker fuels, these additional renewable power
@@ -23066,7 +19180,7 @@ of electrolyser capacity and hydrogen storage to allow not only flexibility in t
 
 power system, but also high utilization rates of the downstream synthesis processes
 
-(e.g., via Fischer- Tropsch plants). Other options for renewable synthetic fuel pro-
+(e.g., via Fischer-Tropsch plants). Other options for renewable synthetic fuel pro-
 
 duction are solar thermal chemical processes, which directly use high-temperature
 
@@ -23078,11 +19192,10 @@ The economic potential, under space constraints, of utility solar PV, concentrat
 
 solar power (CSP), and onshore wind was analysed with the methodology described
 
-in Sect. 3.3 of Chap. 3.
+in Sect. 3.3 of Chap. [^3]:.
 
-```
 The 2.0 °C Scenario utilizes only a fraction of the available economic potential
-```
+
 of the assumed suitable land for utility-scale solar PV and concentrated solar power
 
 plants. This estimate does not include solar PV roof-top systems, which have sig-
@@ -23093,9 +19206,8 @@ rate of 8.5%, followed by Europe (2.0 °C) and the Middle East (2.0 °C), with
 
 and 4.6%, respectively.
 
-```
 Onshore wind potential has been utilized to a larger extent than solar potential.
-```
+
 In the 2.0 °C Scenario, space-constrained India will utilize more than half of onshore
 
 wind, followed by Europe with 20%. This wind potential excludes offshore wind,
@@ -23104,9 +19216,8 @@ which has significant potential but the mapping for the offshore wind potential 
 
 beyond the scope of this analysis (Table 8.6).
 
-```
 The 1.5  °C Scenario is based on the accelerated deployment of all renewables
-```
+
 and the more ambitious implementation of efficiency measures. Therefore, the total
 
 installed capacity of solar and wind generators by 2050 is not necessarily larger than
@@ -23121,8 +19232,7 @@ synthetic bunker fuels from hydrogen to supply global transport energy for inter
 
 tional shipping and aviation.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 194
 
@@ -23600,78 +19710,46 @@ OECD Pacific
 ```
 S. Teske et al.
 ```
-
 ```
 195
 ```
 **8.4 Global: Power Sector Analysis**
 
 The long-term global and regional energy results were used to conduct a detailed
-
-power sector analysis with the methodology described in Sect. 3.5 of Chap. 3. Both
-
+power sector analysis with the methodology described in Sect. 3.5 of Chap. [^3]:. Both
 the 2.0 °C and 1.5 °C Scenarios rely on high shares of variable solar and wind genera-
-
 tion. The aim of the power sector analysis was to gain insight into the power system
-
 stability for each region (subdivided into up to eight sub-regions) and to gauge the
-
 extent to which power grid interconnections, dispatch generation services, and storage
-
 technologies are required. The results presented in this chapter are projections calcu-
-
 lated from publicly available data. Detailed load curves for some of the sub-regions
-
 and countries discussed in this chapter were not available and, in some cases, the rel-
-
 evant information is classified. Therefore, the outcomes of the [R]E 24/7 model are
-
 estimates and require further research with more detailed localized data, especially
-
 regarding the available power grid infrastructure. Furthermore, power sector projec-
-
 tions for developing countries, especially in Africa and Asia, assume unilateral access
-
 to energy services for the residential sector by 2050, and they require transmission and
-
 distribution grids in regions where there are none at the time of writing. Further
-
 research—in cooperation with local utilities and government representatives—is
-
 required to develop a more detailed understanding of power infrastructure needs.
 
-**_8.4.1 Global: Development of Power Plant Capacities_**
+**8.4.1 Global: Development of Power Plant Capacities**
 
 The size of the global market for renewable power plants will increase significantly
-
 under the 2.0  °C Scenario. The annual market for solar PV power must increase
-
-from close to 100 GW in 2017 (REN21-GSR 2018 ) by a factor of 4.5 to an average
-
+from close to 100 GW in 2017 (REN21-GSR [^2018]:) by a factor of 4.5 to an average
 of 454 GW by 2030. The onshore wind market must expand to 172 GW by 2025,
-
-about three times higher than in 2017 (REN21-GSR 2018 ). The offshore wind mar-
-
+about three times higher than in 2017 (REN21-GSR [^2018]:). The offshore wind mar-
 ket will continue to increase in importance within the renewable power sector. By
-
 2050, offshore wind installations will increase to 32 GW annually—11 times higher
-
-than in 2017 (GWEC 2018 ). Concentrated solar power plants will play an important
-
+than in 2017 (GWEC [^2018]:). Concentrated solar power plants will play an important
 role in dispatchable solar electricity generation for the supply of bulk power, espe-
-
 cially for industry, and will provide secured capacity to power systems. By 2030,
-
 the annual CSP market must increase to 78 GW, compared with 3 GW in 2020 and
-
 only 0.1 GW in 2017 (REN21-GSR2018) (Table 8.7).
-
-```
 In the 1.5 °C Scenario, the phase-out of coal and lignite power plants is acceler-
-```
 ated and a total capacity of 618 GW—equivalent to approximately 515 power sta-
-
-tions^1 —must end operation by 2025. The replacement power must come from a
+tions[^1]—must end operation by 2025. The replacement power must come from a
 
 variety of renewable power generators, both variable and dispatchable. The annual
 
@@ -23679,10 +19757,10 @@ market for solar PV must be around 30% higher in 2050 than it was in 2025, as in
 
 2.0 °C Scenario. While the onshore wind market also has an accelerated trajectory
 
-(^1) Assumption: average size of one coal power plant side contains multiple generation blocks, with
+[^1]:Assumption: average size of one coal power plant side contains multiple generation blocks, with
 a total of 1200 MW on average for each location.
-8 Energy Scenario Results
 
+[^8]: Energy Scenario Results
 
 196
 
@@ -23694,7 +19772,7 @@ projects. The same is assumed for CSP plants, which are utility-scale projects a
 
 significantly higher deployment seems unlikely in the time remaining until 2025.
 
-**_8.4.2 Global: Utilization of Power-Generation Capacities_**
+**8.4.2 Global: Utilization of Power-Generation Capacities**
 
 On a global scale, in the 2.0 °C and 1.5 °C Scenarios, the shares of variable renew-
 
@@ -23722,7 +19800,7 @@ power plants will have been converted to operate with hydrogen and synthetic fue
 
 to avoid stranded investments and to achieve higher quantities of dispatch power
 
-capacity. Table 8.8 shows the increasing shares of variable renewable power
+capacity. Table  8.8 shows the increasing shares of variable renewable power
 
 **Table 8.7** World: average annual change in the installed power plant capacity
 
@@ -23736,12 +19814,12 @@ capacity [GW/a]
 ```
 ```
 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
-Hard coal 2 − 107 − 96 − 119 − 68 − 12
-Lignite − 25 − 34 − 16 − 9 − 3 − 1
-Gas 41 70 44 72 − 199 − 28
+Hard coal 2 −107 −96 −119 −68 −12
+Lignite −25 −34 −16 −9 −3 −1
+Gas 41 70 44 72 −199 −28
 Hydrogen-gas 1 17 12 57 240 246
-Oil/diesel − 18 − 32 − 29 − 28 − 6 − 2
-Nuclear − 15 − 27 − 23 − 24 − 7 − 10
+Oil/diesel −18 −32 −29 −28 −6 −2
+Nuclear −15 −27 −23 −24 −7 −10
 Biomass 24 40 26 29 25 21
 Hydro 19 10 7 7 7 8
 Wind (onshore) 121 307 273 333 242 158
@@ -23760,18 +19838,15 @@ co-generation
 ```
 S. Teske et al.
 ```
-
 ```
 197
 ```
 **Table 8.8** Global: power system shares by technology group
-
-```
 Power
 generation
 structure in 10
 world regions 2.0 °C 1.5 °C
-```
+
 ```
 World
 ```
@@ -23839,18 +19914,15 @@ OECD Pacific 2015 4% 34% 61% 4% 34% 61%
 Global
 average
 ```
-```
-2015 4% 35% 60% 4% 34% 62%
-2030 39% 32% 29% 47% 32% 21%
-2050 64% 29% 7% 60% 27% 13%
-```
+[^2015]: 4% 35% 60% 4% 34% 62%
+[^2030]: 39% 32% 29% 47% 32% 21%
+[^2050]: 64% 29% 7% 60% 27% 13%
 Note: Variable renewable generation shares in long term energy pathways and power sector analy-
 sis differ due to different calculation methods. The power sector analysis results are based on the
 sum of up to eight sub-regional simulations, while the long term energy pathway is based on the
 regional average generation excluding variations in solar and wind resources within that region
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 198
 
@@ -23862,12 +19934,12 @@ variable and
 dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
-World 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+World 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 factor – average
 ```
 ```
-[%/yr]49.5% 37% 37% 33% 31% 34% 30% 33% 31%
+[%/yr] 49.5% 37% 37% 33% 31% 34% 30% 33% 31%
 ```
 ```
 Limited
@@ -23876,7 +19948,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]58.7% 34% 34% 24% 16% 25% 10% 17% 9%
+[%/yr] 58.7% 34% 34% 24% 16% 25% 10% 17% 9%
 ```
 ```
 Limited
@@ -23884,74 +19956,53 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]36.9% 45% 45% 42% 36% 58% 31% 39% 34%
+[%/yr] 36.9% 45% 45% 42% 36% 58% 31% 39% 34%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]42.9% 28% 28% 19% 15% 33% 15% 19% 19%
+[%/yr] 42.9% 28% 28% 19% 15% 33% 15% 19% 19%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]43.1% 56% 56% 54% 47% 42% 39% 51% 43%
+[%/yr] 43.1% 56% 56% 54% 47% 42% 39% 51% 43%
 ```
 ```
 Variable:
 renewable
 ```
 ```
-[%/yr]14.6% 14% 14% 28% 26% 28% 26% 29% 27%
+[%/yr] 14.6% 14% 14% 28% 26% 28% 26% 29% 27%
 ```
 generation—solar PV and wind power—under the 2.0 °C and 1.5 °C Scenarios over
-
 the entire modelling period. The main difference between the two scenarios is the
-
 time horizon until variable renewable power generation is implemented, with more
-
 rapid implementation in the 1.5  °C Scenario. Again, increased variable shares—
-
 mainly in the USA, the Middle East region, and Australia—will produce synthetic
-
 fuels for the export market, as fuel for both renewable power plants and the trans-
-
 port sector.
-
-```
 Table 8.9 provides an overview of the capacity factor developments by technol-
-```
 ogy group for the 2.0 °C and 1.5 °C Scenarios. The operational hours shown are
-
 the result of [R]E 24/7 modelling under the _‘Dispatch case’,_ which assumes that
-
 the highest priority is given to the dispatch of power from variable sources, fol-
-
 lowed by dispatchable renewables. Conventional power generation will only pro-
-
 vide power for electricity demand that cannot be met by renewables and storage
-
 technologies. Only imports via interconnections will be assigned a lower priority
-
 than conventional power. The reason that interconnections are placed last in the
-
 supply cascade is the high level of uncertainty about whether these interconnec-
-
 tions can actually be implemented in time. Experience with power grid projects—
-
 especially transmission lines—indicates that planning and construction can take
-
 many years or fail entirely, leaving large-scale utility-based renewable power
-
 projects unbuilt.
 
 ```
 S. Teske et al.
 ```
-
 ```
 199
 ```
@@ -23962,7 +20013,7 @@ nologies is around 45%. For this analysis, we created five different power plant
 
 categories based on their current usual operation times and areas of use:
 
-- **Limited dispatchable fossil and nuclear power plants** : coal, lignite, and
+• Limited dispatchable fossil and nuclear power plants: coal, lignite, and
 
 ```
 nuclear power plants with limited ability to respond to changes in demand. These
@@ -23972,7 +20023,7 @@ able generation, and therefore quick reaction times (to ramp up and down) are
 required. Limited dispatchable power plants cannot deliver these services and are
 therefore being phased-out.
 ```
-- **Limited dispatchable renewable systems** are CSP plants with integrated stor-
+• Limited dispatchable renewable systems are CSP plants with integrated stor-
 
 ```
 age and co-generation systems with renewable fuels (including geothermal heat).
@@ -23980,12 +20031,11 @@ They cannot respond quickly enough to adapt to minute-by-minute changes in
 demand, but can still be used as dispatch power plants for ‘day ahead’
 planning.
 ```
-- **Dispatchable fossil fuel power plants** are gas power plants that have very quick
+• Dispatchable fossil fuel power plants are gas power plants that have very quick
 
-```
 reaction times and therefore provide valid power system services.
-```
-- **Dispatchable renewable power plants** are hydropower plants (although they
+
+• Dispatchable renewable power plants are hydropower plants (although they
 
 ```
 are dependent on the climatic conditions in the region where the plant is used),
@@ -23994,7 +20044,7 @@ synthetic fuel. This technology group is responsible for most of the required
 load-balancing services and is vital for the stability of the power system, as stor-
 age systems, interconnections, and, if possible, demand-side management.
 ```
-- **Variable renewables** are solar PV plants, onshore and offshore wind farms, and
+• Variable renewables are solar PV plants, onshore and offshore wind farms, and
 
 ```
 ocean energy generators. A sub-category of ocean energy plants—tidal energy
@@ -24017,9 +20067,9 @@ share of dispatchable renewables will remain around 45%–50% throughout the
 
 entire modelling period.
 
-**_8.4.3 Global: Development of Load, Generation,_**
+**8.4.3 Global: Development of Load, Generation,**
 
-**_and Residual Load_**
+**and Residual Load**
 
 Table 8.10 shows the development of the maximum and average loads for the 10
 
@@ -24027,8 +20077,7 @@ world regions, the average and maximum power generation in each region in mega-
 
 watts, and the residual loads under both alternative scenarios. The residual load in
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 200
 
@@ -24340,6 +20389,8 @@ Middle East
 ```
 ```
 −
+```
+```
 29
 ```
 ```
@@ -24371,6 +20422,8 @@ Middle East
 ```
 ```
 −
+```
+```
 20
 ```
 ```
@@ -24402,6 +20455,8 @@ Middle East
 ```
 ```
 −
+```
+```
 67
 ```
 ```
@@ -24593,7 +20648,6 @@ Eurasia
 ```
 S. Teske et al.
 ```
-
 ```
 201
 ```
@@ -24936,8 +20990,7 @@ OECD Pacific
 ```
 133%
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 202
 
@@ -24974,101 +21027,60 @@ Load Development by Region
 ```
 2.0C Max Load Development (Base year 2020) [%] 1.5C Max Load Development (Base year 2020) [%]
 ```
-**Fig. 8.16** Development of maximum load in 10 world regions in 2020, 2030, and 2050  in the
+## Fig. 8.16 Development of maximum load in 10 world regions in 2020, 2030, and 2050  in the
+
 2.0 °C and 1.5 °C scenarios
 
 this analysis is the load remaining after variable renewable power generation.
-
 Negative values indicate that the power generation from solar and wind exceeds the
-
 actual load and must be exported to other regions, stored, or curtailed. In each
-
 region, the average generation should be on the same level as the average load. The
-
 maximum loads and maximum generations shown do not usually occur at the same
-
 time, so surplus production of electricity can appear and this should be exported or
-
 stored as much as possible. In rare individual cases, solar or wind generation plants
-
 can also temporarily reduce their output to a lower load, or some plants can be shut
-
 down. Any reduced generation from solar and wind in response to low demand is
-
 defined as _curtailment_.
-
-```
 Figure 8.16 illustrates the development of the maximum loads across all 10
-```
 world regions under the 2.0 °C and 1.5 °C Scenarios. The most significant increase
-
 appears in Africa, where the maximum load surges over the entire modelling period
-
 by 534% in response to favourable economic development and increased access to
 
 ```
 S. Teske et al.
 ```
-
 ```
 203
 ```
 energy services by households. In OECD Pacific, efficiency measures will lead to a
-
 reduction in the maximum load to 87% of the base year value by 2030 and will
-
 increase to 116% by 2050 with the expansion of electric mobility and the increased
-
 electrification of the process heat supply in the industry sector. The 1.5 °C Scenario
-
 has slightly higher loads in response to the accelerated electrification of the indus-
-
 try, heating, and business sectors, except in three regions (the Middle East, India,
-
 and Non OECD Asia), where early action on efficiency measures will lead to an
-
 overall lower demand at the end of the modelling period, with the same GDP and
-
 population growth rates.
 
-**_8.4.4 Global System-Relevant Technologies—Storage_**
-
-**_and Dispatch_**
+**8.4.4 Global System-Relevant Technologies—Storage**
+**and Dispatch**
 
 The global results of introducing system-relevant technologies are shown in
-
 Table 8.8. The first part of this section documents the required power plant markets,
-
 the changes and configurations of power-generation systems, and the development
-
 of loads in response to high electrification rates in the industry, heating, and trans-
-
 port sectors. The next step in the analysis documents the storage and dispatch
-
 demands and possible technology utilization. It is important to note that the results
-
 presented here are not cost-optimized. The mixture of battery storage and pumped
-
 hydropower plants with hydrogen- and synthetic-fuel-based dispatch power plants
-
 presented here represents only one option of many.
-
-```
 Significant simplification is required for the computer simulations of large
-```
 regions, to reduce the data volumes (and calculation times) or simply because there
-
 is not yet any data, because several regions still have no electricity infrastructure in
-
 place. Detailed modelling requires access to detailed data. Although the modelling
-
 tools used for this analysis could be used to develop significantly more-detailed
-
 regional analyses, this is beyond the scope of this research.
-
-```
 The basic concept for the management of power system generation is based on
-```
 four principles:
 
 1. Diversity;
@@ -25085,43 +21097,30 @@ reduce storage and dispatch demands.
 _Flexibility_ involves a significant number of fast-reacting dispatch power plants
 
 operated with fuels produced from renewable electricity (hydrogen and synthetic
-
 fuels). The existing gas infrastructure can be further utilized to avoid stranded
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 204
 
 investments, and the actual fuel production can also be used—with some technical
-
 limitations—for load management, which again will reduce the need for storage
-
 technologies.
 
 _Inter-sectorial connectivity_ involves the connection of the heating (including pro-
-
 cess heat) and transport sectors. Neither the transport sector nor the heating sector
-
 will undergo complete electrification. To supply industrial process heat, the capacity
-
 of co-generation plants—operated with bio-, geothermal, or hydrogen fuels—will
-
 be increased by a factor of 2.5 in the 1.5 °C Scenario. Co-generation heating sys-
-
 tems with heat storage capacities and heat pumps operated with renewable electric-
-
 ity will lead to more flexibility in the management of both load and demand.
-
 However, an analysis of the full potential for these heating systems was not within
-
 the scope of this project, so they have not been included in the modelling. Further
-
 research with localized data is required.
 
 _Resource efficiency_ In addition to energy and GHG modelling, a resource assess-
 
-ment of selected metals has been undertaken (see Chap. 11). A variety of technolo-
+ment of selected metals has been undertaken (see Chap. [^11]:). A variety of technolo-
 
 gies—especially storage technologies—can be used to reduce the pressure on
 
@@ -25144,9 +21143,8 @@ hydrogen production and the amount of hydrogen-based dispatch power plants, is
 
 also shown.
 
-```
 Pumped hydropower will remain the backbone of the storage concept until 2030,
-```
+
 when batteries start to overtake pumped hydropower by volume. The model does
 
 not distinguish between different battery or pumped hydro technologies. Hydrogen-
@@ -25155,26 +21153,20 @@ based dispatch will remain the largest contributor to systems services after 203
 
 until the end of the modelling period.
 
-**_8.4.5 Global: Required Storage Capacities for the Stationary_**
-
-**_Power Sector_**
+**8.4.5 Global: Required Storage Capacities for the Stationary**
+**Power Sector**
 
 The world market for storage and dispatch technologies and services will increase
-
 significantly in the 2.0 °C Scenario. The annual market for new hydro pump storage
-
 plants will grow on average by 6 GW per year to a total capacity of 244 GW in
 
 2030. During the same period, the total installed capacity for batteries will grow to
-
 12 GW, requiring an annual market of 1 GW. Between 2030 and 2050, the energy
-
 service sector for storage and storage technologies must accelerate further. The
 
 ```
 S. Teske et al.
 ```
-
 ```
 205
 ```
@@ -25868,8 +21860,7 @@ Eurasia
 ```
 401,044(continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 206
 
@@ -26464,7 +22455,6 @@ Total global
 ```
 S. Teske et al.
 ```
-
 ```
 207
 ```
@@ -26488,9 +22478,8 @@ the average capacity factor for gas and hydrogen plants will decrease from 29%
 
 supply-driven to a service-driven industry.
 
-```
 At around 2030, the 1.5 °C Scenario requires more storage throughput than does
-```
+
 the 2.0 °C Scenario, but storage demands for the two scenarios will be equal at the
 
 end of the modelling period. It is assumed that this higher throughput can be man-
@@ -26512,7 +22501,7 @@ require research.
 
 **8.5 OECD North America**
 
-**_8.5.1 OECD North America: Long-Term Energy Pathways_**
+**8.5.1 OECD North America: Long-Term Energy Pathways**
 
 **8.5.1.1 OECD North America: Final Energy Demand by Sector**
 
@@ -26544,13 +22533,11 @@ TWh/year (1.5  °C) by 2050. Compared with the 5.0  °C case (6050 TWh/year in
 
 mum of 2710 TWh/year and 3100 TWh/year, respectively.
 
-```
 Electrification will lead to a significant increase in the electricity demand by
-```
+
 2050. The 2.0 °C Scenario will require approximately 1400 TWh/year of electricity
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 208
 
@@ -26576,22 +22563,19 @@ Storage technology share
 Hydrogen-production + dispatch
 ```
 ```
-[Through-
-put]
+[Through-put]
 ```
 ```
 Cumulative capacity
 ```
 ```
-[Through-
-put]
+[Through-put]
 ```
 ```
 Cumulative capacity
 ```
 ```
-[Through-
-put]
+[Through-put]
 ```
 ```
 Cumulative capacity
@@ -26767,7 +22751,6 @@ No data
 ```
 S. Teske et al.
 ```
-
 ```
 209
 ```
@@ -26781,7 +22764,7 @@ Estimated average global investment costs for batty and hydro pump storage
 Estimated storage investment costs (In $ billion)
 ```
 ```
-2015– 2020
+2015–2020
 ```
 ```
 Average annual
@@ -26909,8 +22892,7 @@ Total
 ```
 28.1
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 210
 
@@ -26930,9 +22912,8 @@ TWh/year in 2050 in the 2.0 °C Scenario, 30% higher than in the 5.0 °C case
 
 TWh/year in 2050 for similar reasons.
 
-```
 The efficiency gains in the heating sector will be similar in magnitude to those in
-```
+
 the electricity sector. Under the 2.0  °C and 1.5  °C Scenarios, a final energy con-
 
 sumption equivalent to about 7000 PJ/year and 9400 PJ/year, respectively, will be
@@ -27040,46 +23021,30 @@ Industry fuels Industry electricity
 Residential & other sectors fuels Residential & other sectors electricity
 total power demand (incl. synfuels & H2)
 ```
-**Fig. 8.17** OECD North America: development of final energy demand by sector in the scenarios
+## Fig. 8.17 OECD North America: development of final energy demand by sector in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 211
 ```
 about 1880 GW by 2030 and 3810 GW by 2050. In the 1.5 °C Scenario, the share
-
 of renewable electricity generation in 2030 is assumed to be 84%. The 1.5  °C
-
 Scenario projects a generation capacity from renewable energy of about 3920 GW
-
 in 2050.
-
-```
 Table 8.14 shows the development of the installed capacities of different renew-
-```
 able technologies in OECD North America over time. Figure 8.18 provides an over-
-
 view of the overall power-generation structure in OECD North America. From 2020
-
 onwards, the continuing growth of wind and PV—to 1090 GW and 2130 GW,
-
 respectively—is complemented by up to 210 GW of solar thermal generation, as
-
 well as limited biomass, geothermal, and ocean energy, in the 2.0 °C Scenario. Both
-
 the 2.0  °C and 1.5  °C Scenarios will lead to a high proportion of variable power
-
 generation (PV, wind, and ocean) of 49% and 59%, respectively, by 2030, and 73%
-
 and 74%, respectively, by 2050.
 
 **Table 8.14** OECD North America: development of renewable electricity generation capacity in
 the scenarios
-
-```
 in GW Case 2015 2025 2030 2040 2050
 Hydro 5.0 °C 194 202 207 216 217
 2.0 °C 194 199 202 206 206
@@ -27105,9 +23070,8 @@ Ocean 5.0 °C 0 0 1 2 4
 Total 5.0 °C 338 523 577 678 891
 2.0 °C 338 1115 1878 2729 3810
 1.5 °C 338 1298 2163 3288 3916
-```
-8 Energy Scenario Results
 
+[^8]: Energy Scenario Results
 
 212
 
@@ -27167,50 +23131,30 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.18** OECD North America: development of electricity-generation structure in the scenarios
+## Fig. 8.18 OECD North America: development of electricity-generation structure in the scenarios
 
 **8.5.1.3 OECD North America: Future Costs of Electricity Generation**
 
 Figure 8.19 shows the development of the electricity-generation and supply costs
-
-over time, including CO 2 emission costs, in all scenarios. The calculated electricity-
-
+over time, including CO[^2]: emission costs, in all scenarios. The calculated electricity-
 generation costs in 2015 (referring to full costs) were around 4.9 ct/kWh. In the
-
 5.0 °C case, the generation costs will increase until 2050, when they reach 10.1 ct/
-
 kWh. The generation costs in the 2.0 °C Scenario will increase in a similar way until
-
 2030, when they reach 8.3 ct/kWh, and then drop to 6.8 ct/kWh by 2050. In the
-
 1.5 °C Scenario, they will increase to 8.8 ct/kWh and then drop to 7.1 ct/kWh by
 
 2050. In the 2.0 °C Scenario, the generation costs in 2050 are 3.3 ct/kWh lower than
-
 in the 5.0 °C case. In the 1.5 °C Scenario, the generation costs in 2050 are 3.1 ct/
-
 kWh lower than in the 5.0 °C case. Note that these estimates of generation costs do
-
 not take into account integration costs such as power grid expansion, storage, or
-
 other load-balancing measures.
-
-```
 Under the 5.0  °C case, the growth in demand and increasing fossil fuel prices
-```
 will result in an increase in total electricity supply costs from today’s $270 billion/
-
 year to more than $760 billion/year in 2050. In both alternative scenarios, the total
-
 supply costs in 2050 will be around $690 billion/year The long-term costs for elec-
-
 tricity supply in 2050 will be 8%–9% lower than in the 5.0 °C Scenario as a result
-
 of the estimated generation costs and the electrification of heating and mobility.
-
-```
-Compared with these results, the generation costs when the CO 2 emission costs
-```
+Compared with these results, the generation costs when the CO2 emission costs
 are not considered will increase in the 5.0  °C case to 7.5 ct/kWh. In the 2.0  °C
 
 Scenario, they will increase until 2030, when they reach 7.3 ct/kWh, and then drop
@@ -27224,14 +23168,12 @@ costs will be, at maximum, 1 ct/kWh higher than in the 5.0 °C case, and this w
 ```
 S. Teske et al.
 ```
-
 ```
 213
 ```
 occur in 2030. In the 1.5 °C Scenario, compared with the 5.0 °C Scenario, the maxi-
 
-mum difference in generation costs will be 2 ct/kWh in 2030. If the CO 2 costs are
-
+mum difference in generation costs will be 2 ct/kWh in 2030. If the CO[^2]: costs are
 not considered, the total electricity supply costs in the 5.0 °C case will increase to
 
 $570 billion/year in 2050.
@@ -27239,38 +23181,21 @@ $570 billion/year in 2050.
 **8.5.1.4 OECD North America: Future Investments in the Power Sector**
 
 An investment of around $7600 billion will be required for power generation
-
 between 2015 and 2050 in the 2.0 °C Scenario—including additional power plants
-
 for the production of hydrogen and synthetic fuels and investments in plant replace-
-
 ment after the end of their economic lifetimes. This value is equivalent to approxi-
-
 mately $211 billion per year on average, which is $4400 billion more than in the
-
 5.0 °C case ($3200 billion). In the 1.5 °C Scenario, an investment of around $8180
-
 billion for power generation will be required between 2015 and 2050. On average,
-
 this is an investment of $227 billion per year. In the 5.0 °C Scenario, the investment
-
 in conventional power plants will be around 48% of the total cumulative invest-
-
 ments, whereas approximately 52% will be invested in renewable power generation
-
 and co-generation (Fig. 8.20). However, under the 2.0 °C (1.5 °C) Scenario, OECD
-
 North America will shift almost 93% (93%) of its entire investment to renewables
-
-and co- generation. By 2030, the fossil fuel share of the power sector investment will
-
+and co-generation. By 2030, the fossil fuel share of the power sector investment will
 mainly focus on gas power plants that can also be operated with hydrogen.
-
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
 fuel cost savings in the 2.0 °C Scenario will reach a total of $3240 billion in 2050,
-
 equivalent to $90 billion per year. Therefore, the total fuel cost savings will be
 
 ```
@@ -27358,11 +23283,11 @@ n
 ```
 $
 ```
-**Fig. 8.19** OECD North America: development of total electricity supply costs and specific
-electricity- generation costs in the scenarios
+## Fig. 8.19 OECD North America: development of total electricity supply costs and specific
 
-8 Energy Scenario Results
+electricity-generation costs in the scenarios
 
+[^8]: Energy Scenario Results
 
 214
 
@@ -27462,12 +23387,11 @@ Renewable
 total 9,100
 billion $
 ```
-**Fig. 8.20** OECD North America: investment shares for power generation in the scenarios
+## Fig. 8.20 OECD North America: investment shares for power generation in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 215
 ```
@@ -27510,28 +23434,21 @@ Solar heating
 Biomass
 Fossil
 ```
-**Fig. 8.21** OECD North America: development of heat supply by energy carrier in the scenarios
+## Fig. 8.21 OECD North America: development of heat supply by energy carrier in the scenarios
 
 3000 PJ/year in the 2.0 °C Scenario and 2700 PJ/year in the 1.5 °C Scenario. The
-
 direct use of electricity for heating will also increase by a factor of 4.6–4.9 between
-
 2015 and 2050 and will have a final energy share of 21% in 2050  in the 2.0  °C
-
 Scenario and 26% in the 1.5 °C Scenario.
 
 **8.5.1.6 OECD North America: Future Investments in the Heating Sector**
 
 The roughly estimated investments in renewable heating technologies up to 2050
-
 will amount to around $2580 billion in the 2.0 °C Scenario (including investments
-
 for plant replacement after their economic lifetimes) or approximately $72 billion
 
 **Table 8.15** OECD North America: development of renewable heat supply in the scenarios
 (excluding the direct use of electricity)
-
-```
 in PJ/year Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 1868 2142 2334 2787 3279
 2.0 °C 1868 2758 3019 3493 3686
@@ -27546,15 +23463,13 @@ Hydrogen 5.0 °C 0 0 0 0 0
 2.0 °C 0 144 276 1014 3045
 1.5 °C 0 22 677 2100 2666
 Total 5.0 °C 1991 2369 2629 3256 3994
-2.0 °C 1991 4664 6445 10,176 14,949
-1.5 °C 1991 5095 8180 11,592 12,324
-```
-8 Energy Scenario Results
+2.0 °C [^1991]: [^4664]: [^6445]: 10,176 14,949
+1.5 °C [^1991]: [^5095]: [^8180]: 11,592 12,324
 
+[^8]: Energy Scenario Results
 
 **Table 8.16** OECD North America: installed capacities for renewable heat generation in the
 scenarios
-
 in GW Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 292 315 330 366 411
 2.0 °C 292 381 387 355 272
@@ -27571,7 +23486,8 @@ Heat pumps 5.0 °C 3 3 3 3 3
 Totala 5.0 °C 324 375 410 494 605
 2.0 °C 324 752 1071 1489 1781
 1.5 °C 324 868 1290 1622 1649
-a Excluding direct electric heating
+
+aExcluding direct electric heating
 
 ```
 biomass
@@ -27642,9 +23558,9 @@ heat pumps
 ```
 total 2,800 billion $
 ```
-**Fig. 8.22** OECD North America: development of investments in renewable heat generation tech-
-nologies in the scenarios
+## Fig. 8.22 OECD North America: development of investments in renewable heat generation tech-
 
+nologies in the scenarios
 
 ```
 217
@@ -27675,9 +23591,8 @@ port demand will lead to even higher energy savings in the 1.5 °C Scenario, of
 
 (or 21,100 PJ/year) in 2050 compared with the 5.0 °C case (Table 8.17, Fig. 8.23).
 
-```
 By 2030, electricity will provide 11% (620 TWh/year) of the transport sector’s
-```
+
 total energy demand in the 2.0 °C Scenario, and in 2050, the share will be 44% (930
 
 TWh/year). In 2050, up to 2090 PJ/year of hydrogen will be used in the transport
@@ -27688,9 +23603,8 @@ electricity demand will be 1030 TWh in 2050. The 1.5 °C Scenario also assumes 
 
 hydrogen demand of 2020 PJ/year by 2050.
 
-```
 Biofuel use is limited in the 2.0  °C Scenario to a maximum of 2540 PJ/year
-```
+
 Therefore, around 2030, synthetic fuels based on power-to-liquid will be intro-
 
 duced, with a maximum amount of 270 PJ/year in 2050. Because the reduction in
@@ -27716,46 +23630,29 @@ Total 5.0 °C 30,241 29,779 29,214 28,704 27,664
 2.0 °C 30,241 24,707 19,104 10,273 7354
 1.5 °C 30,241 22,000 14,875 9036 7370
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 218
 
 fossil fuel for transport will be faster, biofuel use will increase in the 1.5 °C Scenario
-
 to a maximum of 5900 PJ/year. The demand for synthetic fuels will decrease to zero
-
 by 2050  in the 1.5  °C Scenario because of the lower overall energy demand by
-
 transport.
 
-**8.5.1.8 OECD North America: Development of CO 2 Emissions**
+**8.5.1.8 OECD North America: Development of CO**[^2]: **Emissions**
 
-In the 5.0 °C Scenario, OECD North America’s annual CO 2 emissions will decrease
-
+In the 5.0 °C Scenario, OECD North America’s annual CO[^2]: emissions will decrease
 by 9% from 6170 Mt. in 2015 to 5612 Mt. in 2050. Stringent mitigation measures
-
 in both the alternative scenarios will lead to reductions in annual emissions to 930
-
 Mt. in 2040 in the 2.0 °C Scenario and to 120 Mt. in the 1.5 °C Scenario, with fur-
-
-ther reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emis-
-
+ther reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emis-
 sions from 2015 until 2050 will add up to 216 Gt. In contrast, in the 2.0  °C and
-
 1.5 °C Scenarios, the cumulative emissions for the period from 2015 until 2050 will
-
 be 99 Gt and 72 Gt, respectively.
-
-```
-Therefore, the cumulative CO 2 emissions will decrease by 54% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 54% in the 2.0  °C
 Scenario and by 67% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 decrease in the annual emissions will occur under both alternative scenarios. In the
-
 2.0 °C Scenario, the reduction will be greatest in ‘Power generation’, followed by
-
 the ‘Transport’ and ‘Residential and other’ sectors (Fig. 8.24).
 
 ```
@@ -27783,7 +23680,7 @@ the ‘Transport’ and ‘Residential and other’ sectors (Fig. 8.24).
 35,000
 ```
 ```
-5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C
+5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C
 20152025 2030 2040 2050
 ```
 ```
@@ -27800,6 +23697,8 @@ Electricity
 ```
 ```
 Synfuels
+```
+```
 Biofuels
 ```
 ```
@@ -27808,38 +23707,26 @@ Natural Gas
 ```
 Oil products
 ```
-**Fig. 8.23** OECD North America: final energy consumption by transport in the scenarios
+## Fig. 8.23 OECD North America: final energy consumption by transport in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 219
 ```
 **8.5.1.9 OECD North America: Primary Energy Consumption**
 
 Taking into account the assumptions discussed above, the levels of primary energy
-
 consumption under the three scenarios are shown in Fig. 8.25. In the 2.0 °C Scenario,
-
 the primary energy demand will decrease by 46%, from around 111,600 PJ/year in
-
 2015 to 60,600 PJ/year in 2050. Compared with the 5.0  °C Scenario, the overall
-
 primary energy demand will decrease by 50% by 2050  in the 2.0  °C Scenario
-
 (5.0 °C: 121,000 PJ in 2050). In the 1.5 °C Scenario, the primary energy demand
-
 will be even lower (56,600 PJ in 2050) because the final energy demand and conver-
-
 sion losses will be lower.
-
-```
 Both the 2.0 °C and 1.5 °C Scenarios aim to rapidly phase-out coal and oil. As a
-```
 result, renewable energy will have a primary energy share of 34% in 2030 and 91%
-
 in 2050 in the 2.0 °C Scenario. In the 1.5 °C Scenario, renewables will have a pri-
 
 ```
@@ -27864,25 +23751,25 @@ in 2050 in the 2.0 °C Scenario. In the 1.5 °C Scenario, renewables will hav
 0
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-7,00 0
+7,000
 ```
 ```
 5.0°C2.0°
@@ -27936,8 +23823,7 @@ cumulated emissions [Gt]
 CO
 ```
 ```
-2
-emissions [Mt/yr]
+emissions [Mt/yr]2
 ```
 ```
 'Power generation' 'Other Conversion'
@@ -27946,53 +23832,36 @@ emissions [Mt/yr]
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.24** OECD North America: development of CO 2 emissions by sector and cumulative CO 2
+## Fig. 8.24 OECD North America: development of CO2 emissions by sector and cumulative CO2
+
 emissions (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 220
 
 mary share of more than 91% in 2050 (including non-energy consumption, which
-
 will still include fossil fuels). Nuclear energy will be phased-out by 2040 under both
-
 the 2.0 °C and the 1.5 °C Scenarios. The cumulative primary energy consumption
-
 of natural gas in the 5.0 °C case will add up to 1290 EJ, the cumulative coal con-
-
 sumption to about 470 EJ, and the crude oil consumption to 1300 EJ. In contrast, in
-
 the 2.0 °C Scenario, the cumulative gas demand will amount to 730 EJ, the cumula-
-
 tive coal demand to 120 EJ, and the cumulative oil demand to 640 EJ. Even lower
-
 cumulative fossil fuel use will be achieved in the 1.5 °C Scenario: 480 EJ for natural
-
 gas, 80 EJ for coal, and 440 EJ for oil.
 
-**_8.5.2 Regional Results: Power Sector Analysis_**
+**8.5.2 Regional Results: Power Sector Analysis**
 
 The key results for all 10 world regions and their sub-regions are presented in this
-
 section, with standardized tables to make them comparable for the reader. Regional
-
 differences and particularities are summarized. It is important to note that the elec-
-
 tricity loads for the sub-regions—which are in several cases also countries—are
-
-calculated (see Chap. 3) and are not real measured values. When information was
-
+calculated (see Chap. [^3]:) and are not real measured values. When information was
 available, the model results are compared with published peak loads and adapted as
-
 far as possible. However, deviations of 10% or more for the base year are in the
-
 range of the probability. The interconnection capacities between sub-regions are
-
 simplified assumptions based on current practices in liberalized power markets, and
-
-include cross-border trade (e.g., between Canada and the USA) (C2ES 2017 ) or
+include cross-border trade (e.g., between Canada and the USA) (C2ES [^2017]:) or
 
 ```
 0
@@ -28040,19 +23909,19 @@ Crude oil
 Coal
 Nuclear
 ```
-**Fig. 8.25** OECD North America: projection of total primary energy demand (PED) by energy
+## Fig. 8.25 OECD North America: projection of total primary energy demand (PED) by energy
+
 carrier in the scenarios (including electricity import balance)
 
 ```
 S. Teske et al.
 ```
-
 ```
 221
 ```
 within the European Union (EU). The EU set a target of 10% interconnection capac-
 
-ity between their member states in 2002 (EU-EG 2017 ). The interconnection capac-
+ity between their member states in 2002 (EU-EG [^2017]:). The interconnection capac-
 
 ities for sub-regions that are not geographically connected are set to zero for the
 
@@ -28060,9 +23929,9 @@ entire modelling period, even when there is current discussion about the impleme
 
 tation of new interconnections, such as for the ASEAN Power Grid (ASEAN-CE
 
-2018 ).
+[^2018]:).
 
-**_8.5.3 OECD North America: Power Sector Analysis_**
+**8.5.3 OECD North America: Power Sector Analysis**
 
 The OECD North America region includes Canada, the USA, and Mexico, and
 
@@ -28110,9 +23979,8 @@ about 5–7 years faster than the 2.0 °C Scenario (Table 8.18).
 
 **8.5.3.2 OECD North America: Utilization of Power-Generation**
 
-```
-Capacities
-```
+**Capacities**
+
 Table 8.19 shows the increasing shares of variable renewable power generation
 
 across all North American regions. Whereas Alaska and Canada are dominated by
@@ -28121,8 +23989,7 @@ variable wind power generation, Mexico and the sunny mid-west of the USA have
 
 significant contributions from CSP. Solar PV is distributed evenly across the entire
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 222
 
@@ -28161,9 +24028,8 @@ them.
 
 **8.5.3.3 OECD North America: Development of Load, Generation,**
 
-```
-and Residual Load
-```
+**and Residual Load**
+
 Table 8.21 shows the development of the maximum load, generation, and resulting
 
 residual load (the load remaining after variable renewable generation). With
@@ -28179,14 +24045,14 @@ of installed capacity [GW/a]
 ```
 2015–2025 2026–2035 2036–2050
 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
-Hard coal − 7 − 16 − 6 − 8 − 4 0
-Lignite − 14 − 18 − 7 0 0 0
-Gas 6 9 12 1 − 55 − 4
+Hard coal −7 −16 −6 −8 −4 0
+Lignite −14 −18 −7 0 0 0
+Gas 6 9 12 1 −55 −4
 Hydrogen-gas 1 10 4 24 55 39
-Oil/diesel − 5 − 7 − 3 − 4 − 1 0
-Nuclear − 4 − 9 − 10 − 10 0 − 1
+Oil/diesel −5 −7 −3 −4 −1 0
+Nuclear −4 −9 −10 −10 0 −1
 Biomass 1 2 1 1 1 0
-Hydro − 5 − 3 0 0 0 2
+Hydro −5 −3 0 0 0 2
 Wind (onshore) 24 48 36 36 24 19
 Wind (offshore) 2 19 11 19 10 3
 PV (roof top) 39 94 64 68 61 55
@@ -28199,7 +24065,6 @@ Renewable fuel based co-generation 1 2 2 2 2 0
 ```
 S. Teske et al.
 ```
-
 ```
 223
 ```
@@ -28231,8 +24096,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -28244,8 +24108,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 USA Alaska
@@ -28754,8 +24617,7 @@ USA South East
 ```
 (continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 224
 
@@ -28781,8 +24643,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -28794,8 +24655,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Mexico
@@ -28935,7 +24795,6 @@ Table 8.19
 ```
 S. Teske et al.
 ```
-
 ```
 225
 ```
@@ -28993,12 +24852,12 @@ dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
 OECD North
-America 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+America 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 Factor – average
 ```
 ```
-[%/yr]53.1% 35% 33% 29% 28% 34% 28% 29% 29%
+[%/yr] 53.1% 35% 33% 29% 28% 34% 28% 29% 29%
 ```
 ```
 Limited
@@ -29007,7 +24866,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]68.6% 40% 10% 28% 2% 20% 6% 10% 10%
+[%/yr] 68.6% 40% 10% 28% 2% 20% 6% 10% 10%
 ```
 ```
 Limited
@@ -29015,31 +24874,30 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]45.9% 46% 57% 37% 39% 59% 36% 36% 35%
+[%/yr] 45.9% 46% 57% 37% 39% 59% 36% 36% 35%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]39.7% 23% 21% 11% 5% 30% 8% 12% 11%
+[%/yr] 39.7% 23% 21% 11% 5% 30% 8% 12% 11%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]44.0% 52% 68% 49% 52% 47% 44% 49% 45%
+[%/yr] 44.0% 52% 68% 49% 52% 47% 44% 49% 45%
 ```
 ```
 Variable:
 renewable
 ```
 ```
-[%/yr]18.9% 12% 12% 25% 26% 34% 27% 28% 28%
+[%/yr] 18.9% 12% 12% 25% 26% 34% 27% 28% 28%
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 226
 
@@ -29502,7 +25360,6 @@ NA – USA North West
 ```
 S. Teske et al.
 ```
-
 ```
 227
 ```
@@ -29731,8 +25588,7 @@ Mexico
 ```
 34
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 228
 
@@ -29767,8 +25623,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -29783,8 +25638,7 @@ Utilization PSH-through-put-
 Total Storage demand (incl. H2)
 ```
 ```
-Dispatch Hydrogen-
-based
+Dispatch Hydrogen-based
 ```
 ```
 [GWh/year]
@@ -30431,7 +26285,6 @@ USA South West
 ```
 S. Teske et al.
 ```
-
 ```
 229
 ```
@@ -30741,8 +26594,7 @@ OECD North America
 ```
 204,967
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 230
 
@@ -30760,9 +26612,8 @@ overcapacities to export electricity via transmission lines and/or to produce sy
 
 thetic and/or hydrogen fuels.
 
-```
 The southern part of the USA will achieve a significant solar PV share by 2050
-```
+
 and storage demand will be highest in this region. Storage and dispatch demand will
 
 increase in all sub-regions between 2025 and 2035. Before 2025, storage demand
@@ -30771,7 +26622,7 @@ will be zero in all regions.
 
 **8.6 Latin America**
 
-**_8.6.1 Latin America: Long-Term Energy Pathways_**
+**8.6.1 Latin America: Long-Term Energy Pathways**
 
 **8.6.1.1 Latin America: Final Energy Demand by Sector**
 
@@ -30801,9 +26652,8 @@ e-mobility) will increase from 740 TWh/year in 2015 to around 1560 TWh/year in
 
 Scenario (1860 TWh/year in 2050).
 
-```
 Electrification will lead to a significant increase in the electricity demand by
-```
+
 2050. In the 2.0 °C Scenario, the electricity demand for heating will be about 600
 
 TWh/year due to electric heaters and heat pumps, and in the transport sector an
@@ -30825,7 +26675,6 @@ increase to a maximum of 3800 TWh/year in 2050.
 ```
 S. Teske et al.
 ```
-
 ```
 231
 ```
@@ -30836,25 +26685,25 @@ S. Teske et al.
 500
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-1,50 0
+1,500
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-2,50 0
+2,500
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-3,50 0
+3,500
 ```
 ```
-4,00 0
+4,000
 ```
 ```
 0
@@ -30928,8 +26777,7 @@ C
 ```
 TW
 h/
-yr
-PJ
+PJ yr
 ```
 ```
 /y
@@ -30943,11 +26791,10 @@ Industry fuels Industry electricity
 Residential & other sectors fuels Residential & other sectors electricity
 total power demand (incl. synfuels & H2)
 ```
-**Fig. 8.26** Latin America: development of final energy demand by sector in the scenarios
+## Fig. 8.26 Latin America: development of final energy demand by sector in the scenarios
 
-```
 Efficiency gains in the heating sector could be even larger than in the electricity
-```
+
 sector. Under the 2.0 °C and 1.5 °C Scenarios, a final energy consumption equiva-
 
 lent to about 4300 PJ/year will be avoided through efficiency gains in both scenarios
@@ -30979,7 +26826,7 @@ tion capacity from renewable energy will be approximately 1210 GW in 2050.
 ```
 Table 8.23 shows the development of different renewable technologies in Latin
 ```
-America over time. Figure 8.27 provides an overview of the overall power-
+America over time. Figure  8.27 provides an overview of the overall power-
 
 generation structure in Latin America. From 2020 onwards, the continuing growth
 
@@ -30987,15 +26834,12 @@ of wind and PV, up to 230 GW and 410 GW, respectively, will be complemented by
 
 up to 60 GW solar thermal generation, as well as limited biomass, geothermal, and
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 232
 
 **Table 8.23** Latin America: development of renewable electricity-generation capacity in the
 scenarios
-
-```
 in GW Case 2015 2025 2030 2040 2050
 Hydro 5.0 °C 161 200 222 269 302
 2.0 °C 161 180 180 183 184
@@ -31021,7 +26865,7 @@ Ocean 5.0 °C 0 0 0 0 4
 Total 5.0 °C 193 270 306 382 456
 2.0 °C 193 395 534 834 1034
 1.5 °C 193 432 640 1167 1209
-```
+
 ```
 0
 ```
@@ -31053,7 +26897,7 @@ Total 5.0 °C 193 270 306 382 456
 4,500
 ```
 ```
-5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C
+5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C
 2015 2025 2030 2040 2050
 ```
 ```
@@ -31075,28 +26919,23 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.27** Latin America: development of electricity-generation structure in the scenarios
+## Fig. 8.27 Latin America: development of electricity-generation structure in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 233
 ```
 ocean energy, in the 2.0 °C Scenario. Both the 2.0 °C and 1.5 °C Scenarios will lead
-
 to a high proportion of variable power generation (PV, wind, and ocean) of 31% and
-
 39%, respectively, by 2030, and 52% and 57%, respectively, by 2050.
 
 **8.6.1.3 Latin America: Future Costs of Electricity Generation**
 
 Figure 8.28 shows the development of the electricity-generation and supply costs
-
-over time, including CO 2 emission costs, under all scenarios. The calculated
-
-electricity- generation costs in 2015 (referring to full costs) were around 4.5 ct/kWh.
+over time, including CO[^2]: emission costs, under all scenarios. The calculated
+electricity-generation costs in 2015 (referring to full costs) were around 4.5 ct/kWh.
 
 In the 5.0 °C case, the generation costs will increase until 2050, when they reach 8.3
 
@@ -31116,9 +26955,8 @@ into account integration costs such as power grid expansion, storage, or other l
 
 balancing measures.
 
-```
 In the 5.0 °C case, the growth in demand and increasing fossil fuel prices will
-```
+
 result in an increase in total electricity supply costs from today’s $70 billion/year to
 
 more than $240 billion/year in 2050. In the 2.0 °C Scenario, the total supply costs
@@ -31194,10 +27032,7 @@ ct
 Wh
 ```
 ```
-b
-```
-```
-illi
+billi
 ```
 ```
 on
@@ -31211,25 +27046,19 @@ $
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-**Fig. 8.28** Latin America: development of total electricity supply costs and specific electricity-
+## Fig. 8.28 Latin America: development of total electricity supply costs and specific electricity-
+
 generation costs in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 234
 
 the 2.0 °C Scenario than in the 5.0 °C Scenario as a result of the estimated genera-
-
 tion costs and the electrification of heating and mobility. Further electrification and
-
 synthetic fuel generation in the 1.5 °C Scenario will result in total power generation
-
 costs that are similar to the 5.0 °C case.
-
-```
-Compared with these results, the generation costs when the CO 2 emission costs
-```
+Compared with these results, the generation costs when the CO[^2]: emission costs
 are not considered will increase in the 5.0  °C case to 7.1 ct/kWh. In the 2.0  °C
 
 Scenario, they will increase until 2030, when they will reach 6.6 ct/kWh, and then
@@ -31244,60 +27073,36 @@ kWh in the 1.5 °C Scenario). The generation costs in 2050 will again be lower 
 
 alternative scenarios than in the 5.0 °C case: 1.2 ct/kWh in the 2.0 °C Scenario and
 
-1.5 ct/kWh in the 1.5 °C Scenario. If CO 2 costs are not considered, the total electric-
-
+1.5 ct/kWh in the 1.5 °C Scenario. If CO[^2]: costs are not considered, the total electric-
 ity supply costs in the 5.0 °C case will increase to about $210 billion/year in 2050.
 
 **8.6.1.4 Latin America: Future Investments in the Power Sector**
 
 An investment of about $1920 billion will be required for power generation between
-
 2015 and 2050  in the 2.0  °C Scenario, including additional power plants for the
-
 production of hydrogen and synthetic fuels and investments in plant replacement
-
 after the ends of their economic lives. This value is equivalent to approximately $53
-
 billion per year, on average, which is $880 billion more than in the 5.0  °C case
-
 ($1040 billion). An investment of around $2190 billion for power generation will be
-
 required between 2015 and 2050 in the 1.5 °C Scenario. On average, this will be an
-
 investment of $61 billion per year. Under the 5.0  °C Scenario, the investment in
-
 conventional power plants will be around 25% of the total cumulative investments,
-
 whereas approximately 75% will be invested in renewable power generation and
-
 co-generation (Fig. 8.29).
-
-```
 However, under the 2.0  °C (1.5  °C) Scenario, Latin America will shift almost
-```
 94% (95%) of its entire investment to renewables and co-generation. By 2030, the
-
 fossil fuel share of the power sector investment will predominantly focus on gas
-
 power plants that can also be operated with hydrogen.
-
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
 fuel cost savings in the 2.0 °C Scenario will reach a total of $820 billion in 2050,
-
 equivalent to $23 billion per year. Therefore, the total fuel cost savings will be
-
 equivalent to 90% of the total additional investments compared to the 5.0  °C
-
 Scenario. The fuel cost savings in the 1.5 °C Scenario will add up to $900 billion,
-
 or $25 billion per year.
 
 ```
 S. Teske et al.
 ```
-
 ```
 235
 ```
@@ -31393,17 +27198,14 @@ Renewable
 total 1,920
 billion $
 ```
-**Fig. 8.29** Latin America: investment shares for power generation in the scenarios
+## Fig. 8.29 Latin America: investment shares for power generation in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 236
 
 **Table 8.24** Latin America: development of renewable heat supply in the scenarios (excluding the
 direct use of electricity)
-
-```
 in PJ/year Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 2684 2760 2888 3335 3622
 2.0 °C 2684 3550 3895 4412 4654
@@ -31420,30 +27222,30 @@ Hydrogen 5.0 °C 0 0 0 0 0
 Total 5.0 °C 2715 2824 2976 3480 3849
 2.0 °C 2715 4077 4817 6255 7202
 1.5 °C 2715 4159 5082 6213 5546
-```
+
 ```
 0
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-8,00 0
+8,000
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-12,00 0
+12,000
 ```
 ```
-14,00 0
+14,000
 ```
 ```
 5.0°C2.0°
@@ -31503,51 +27305,37 @@ r
 Efficiency (compared
 to 5.0°C)
 Hydrogen
-Electric heating
+Electricheating
 Geothermal heat and
 heat pumps
 Solar heating
 Biomass
 Fossil
 ```
-**Fig. 8.30** Latin America: development of heat supply by energy carrier in the scenarios
+### Fig. 8.30 Latin America: development of heat supply by energy carrier in the scenarios
 
-```
 Heat from renewable hydrogen will further reduce the dependence on fossil fuels
-```
 in both scenarios. Hydrogen consumption in 2050 will be around 200 PJ/year in the
-
 2.0 °C Scenario and 400 PJ/year in the 1.5 °C Scenario. The direct use of electricity
-
 for heating will also increase by a factor of 2–4 between 2015 and 2050 and will
-
 attain a final energy share of 20% in 2050 in the 2.0 °C Scenario and 39% in the
-
 1.5 °C Scenario.
 
 ```
 S. Teske et al.
 ```
-
 ```
 237
 ```
 **8.6.1.6 Latin America: Future Investments in the Heating Sector**
 
 The roughly estimated investments in renewable heating technologies up to 2050
-
 will amount to around $580 billion in the 2.0 °C Scenario (including investments in
-
 plant replacement after their economic lifetimes), or approximately $16 billion per
-
 year. The largest share of investment in Latin America is assumed to be for solar
-
 collectors (more than $200 billion), followed by biomass technologies and heat
-
 pumps. The 1.5 °C Scenario assumes an even faster expansion of renewable tech-
-
 nologies, but due to the lower heat demand, the average annual investment will
-
 again be around $16 billion per year (Fig. 8.31, Table 8.25).
 
 ```
@@ -31625,64 +27413,43 @@ heat pumps
 ```
 total 573 billion $
 ```
-**Fig. 8.31** Latin America: development of investments for renewable heat generation technologies
+## Fig. 8.31 Latin America: development of investments for renewable heat generation technologies
+
 in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 238
 
 **8.6.1.7 Latin America: Transport**
 
 Energy demand in the transport sector in Latin America is expected to increase by
-
 63% under the 5.0 °C Scenario, from around 7100 PJ/year in 2015 to 11,700 PJ/year
-
 in 2050. In the 2.0  °C Scenario, assumed technical, structural, and behavioural
-
 changes will save 69% (8090 PJ/year) by 2050 relative to the 5.0  °C Scenario.
-
 Additional modal shifts, technology switches, and a reduction in transport demand
-
 will lead to even greater energy savings in the 1.5 °C Scenario of 77% (or 9040 PJ/
-
 year) in 2050 compared with the 5.0 °C case (Table 8.26, Fig. 8.32).
-
-```
 By 2030, electricity will provide 6% (110 TWh/year) of the transport sector’s
-```
 total energy demand under the 2.0 °C Scenario, whereas in 2050, the share will be
-
 47% (470 TWh/year). In 2050, up to 480 PJ/year of hydrogen will be used in the
-
 transport sector as a complementary renewable option. In the 1.5 °C Scenario, the
-
 annual electricity demand will be 390 TWh in 2050. The 1.5  °C Scenario also
-
 assumes a hydrogen demand of 430 PJ/year by 2050.
-
-```
 Biofuel use is limited in the 2.0  °C Scenario to a maximum of 1340 PJ/year
-```
 Around 2030, synthetic fuels based on power-to-liquid will be introduced, with a
-
 maximum of 190 PJ/year by 2050. Due to the lower overall energy demand in trans-
-
 port, biofuel use will be reduced in the 1.5 °C Scenario to a maximum of 1030 PJ/
-
 year The maximum synthetic fuel demand will amount to 350 PJ/year.
 
-**8.6.1.8 Latin America: Development of CO 2 Emissions**
+**8.6.1.8 Latin America: Development of CO**[^2]: **Emissions**
 
-In the 5.0 °C Scenario, Latin America’s annual CO 2 emissions will increase by 48%,
-
+In the 5.0 °C Scenario, Latin America’s annual CO[^2]: emissions will increase by 48%,
 from 1220 Mt. in 2015 to 1806 Mt. in 2050. The stringent mitigation measures in
 
 both alternative scenarios will cause the annual emissions to fall to 240 Mt. in
 
 **Table 8.25** Latin America: installed capacities for renewable heat generation in the scenarios
-
 in GW Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 549 531 536 552 542
 2.0 °C 549 730 742 657 603
@@ -31699,44 +27466,31 @@ Heat pumps 5.0 °C 0 0 0 0 0
 Totala 5.0 °C 556 546 556 585 594
 2.0 °C 556 835 929 986 1034
 1.5 °C 556 876 955 853 619
-a Excluding direct electric heating
+aExcluding direct electric heating
 
 ```
 S. Teske et al.
 ```
-
 ```
 239
 ```
 2040 in the 2.0 °C Scenario and to 50 Mt. in the 1.5 °C Scenario, with further reduc-
-
-tions to almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emissions from
-
+tions to almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emissions from
 2015 until 2050 will add up to 56 Gt. In contrast, in the 2.0 °C and 1.5 °C Scenarios,
-
 the cumulative emissions for the period from 2015 until 2050 will be 21 Gt and 17
-
 Gt, respectively.
-
-```
-Therefore, the cumulative CO 2 emissions will decrease by 63% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 63% in the 2.0  °C
 Scenario and by 70% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 reduction in annual emissions will occur in both alternative scenarios. In the 2.0 °C
-
 Scenario, the reduction will be greatest in ‘Power generation’, followed by the
-
 ‘Residential and other’ and ‘Industry’ sectors (Fig. 8.33).
 
 **Table 8.26** Latin America: projection of transport energy demand by mode in the scenarios
-
-```
 in PJ/year Case 2015 2025 2030 2040 2050
 Rail 5.0 °C 90 110 122 145 163
 2.0 °C 90 113 133 157 192
 1.5 °C 90 130 145 163 224
-Road 5.0 °C 6662 7486 8102 9754 10,610
+Road 5.0 °C [^6662]: [^7486]: [^8102]: [^9754]: 10,610
 2.0 °C 6662 6424 5799 4107 3112
 1.5 °C 6662 5196 3971 2744 2161
 Domestic aviation 5.0 °C 211 348 453 593 638
@@ -31745,10 +27499,10 @@ Domestic aviation 5.0 °C 211 348 453 593 638
 Domestic navigation 5.0 °C 101 104 107 113 117
 2.0 °C 101 104 107 113 117
 1.5 °C 101 104 107 113 117
-Total 5.0 °C 7064 8047 8783 10,605 11,529
+Total 5.0 °C [^7064]: [^8047]: [^8783]: 10,605 11,529
 2.0 °C 7064 6868 6251 4551 3559
 1.5 °C 7064 5648 4419 3157 2605
-```
+
 ```
 0
 ```
@@ -31774,7 +27528,7 @@ Total 5.0 °C 7064 8047 8783 10,605 11,529
 14,000
 ```
 ```
-5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C
+5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C
 2015 2025 2030 2040 2050
 ```
 ```
@@ -31796,50 +27550,31 @@ Biofuels
 Natural Gas
 Oil products
 ```
-**Fig. 8.32** Latin America: final energy consumption by transport in the scenarios
+## Fig. 8.32 Latin America: final energy consumption by transport in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 240
 
 **8.6.1.9 Latin America: Primary Energy Consumption**
 
 The levels of primary energy consumption under the three scenarios when the
-
 assumptions discussed above are taken into account are shown in Fig. 8.34. In the
-
 2.0  °C Scenario, the primary energy demand will decrease by 2%, from around
-
 28,400 PJ/year in 2015 to 27,900 PJ/year in 2050. Compared with the 5.0  °C
-
 Scenario, the overall primary energy demand will decrease by 38% in 2050 in the
-
 2.0  °C Scenario (5.0  °C: 45000 PJ in 2050). In the 1.5  °C Scenario, the primary
-
 energy demand will be even lower (25,700 PJ in 2050) because the final energy
-
 demand and conversion losses will be lower.
-
-```
 Both the 2.0 °C and 1.5 °C Scenarios aim to rapidly phase-out coal and oil. This
-```
 will cause renewable energy to have a primary energy share of 55% in 2030 and
-
 94% in 2050 in the 2.0 °C Scenario. In the 1.5 °C Scenario, renewables will also
-
 have a primary energy share of more than 94% in 2050 (including non-energy con-
-
 sumption, which will still include fossil fuels). Nuclear energy will be phased-out
-
 by 2035 under both the 2.0 °C and the 1.5 °C Scenarios. The cumulative primary
-
 energy consumption of natural gas in the 5.0  °C case will add up to 290 EJ, the
-
 cumulative coal consumption to about 60 EJ, and the crude oil consumption to 460
-
 EJ. In contrast, in the 2.0 °C Scenario, the cumulative gas demand will amount to
-
 130 EJ, the cumulative coal demand to 20 EJ, and the cumulative oil demand to 200
 
 ```
@@ -31912,11 +27647,12 @@ on
 s
 [G
 t]
+```
+```
 CO
 ```
 ```
-2
-emi
+emi2
 ```
 ```
 ssi
@@ -31932,6 +27668,8 @@ s
 ```
 ```
 t/
+```
+```
 yr
 ```
 ```
@@ -31944,13 +27682,13 @@ yr
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.33** Latin America: development of CO 2 emissions by sector and cumulative CO 2 emissions
+## Fig. 8.33 Latin America: development of CO2 emissions by sector and cumulative CO2 emissions
+
 (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
 ```
 S. Teske et al.
 ```
-
 ```
 2 41
 ```
@@ -32009,14 +27747,15 @@ Crude oil
 Coal
 Nuclear
 ```
-**Fig. 8.34** Latin America: projection of total primary energy demand (PED) by energy carrier in
+## Fig. 8.34 Latin America: projection of total primary energy demand (PED) by energy carrier in
+
 the scenarios (including electricity import balance)
 
 EJ. Even lower fossil fuel use will be achieved in the 1.5 °C Scenario: 110 EJ for
 
 natural gas, 10 EJ for coal, and 150 EJ for oil.
 
-**_8.6.2 Latin America: Power Sector Analysis_**
+**8.6.2 Latin America: Power Sector Analysis**
 
 The Latin American region is extremely diverse. It borders Mexico in the north and
 
@@ -32034,7 +27773,7 @@ power exchange grid between the islands seems impractical. To calculate the
 
 detailed storage demand, island-specific analyses would be required, as has recently
 
-been done for Barbados (Hohmeyer 2015 ). The mainland of South America has
+been done for Barbados (Hohmeyer [^2015]:). The mainland of South America has
 
 been subdivided into the large economic centres of Chile, Argentina, and Brazil, and
 
@@ -32042,8 +27781,7 @@ Central America and the northern part of South America have been clustered into
 
 two parts.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 242
 
@@ -32063,7 +27801,7 @@ to around 23 GW under the 1.5 °C Scenario. The onshore wind market in the 1.5�
 
 Scenario must increase to 15 GW by 2025, compared with the average annual
 
-onshore wind market of around 3 GW between 2014 and 2017 (GWEC 2018 ). By
+onshore wind market of around 3 GW between 2014 and 2017 (GWEC [^2018]:). By
 
 2050, offshore wind will have increased to a moderate annual new installation
 
@@ -32095,12 +27833,12 @@ of installed capacity [GW/a]
 ```
 ```
 2015–2025 2026–2035 2036–2050
-2.0 °C 1.5 °C2.0 °C 1.5 °C2.0 °C 1.5 °C
-Hard coal 0 − 1 0 − 1 − 1 0
+2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
+Hard coal 0 −1 0 −1 −1 0
 Lignite 0 0 0 0 0 0
-Gas 4 2 1 6 − 9 5
+Gas 4 2 1 6 −9 5
 Hydrogen-gas 0 1 1 4 11 14
-Oil/diesel − 1 − 4 − 4 − 3 0 0
+Oil/diesel −1 −4 −4 −3 0 0
 Nuclear 0 0 0 0 0 0
 Biomass 3 5 3 4 4 3
 Hydro 2 0 0 0 0 0
@@ -32116,7 +27854,6 @@ Renewable fuel based co-generation 1 2 2 2 2 1
 ```
 S. Teske et al.
 ```
-
 ```
 243
 ```
@@ -32148,8 +27885,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -32161,8 +27897,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Caribbean
@@ -32671,8 +28406,7 @@ Argentina
 ```
 (continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 244
 
@@ -32698,8 +28432,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -32711,8 +28444,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Chile
@@ -32852,7 +28584,6 @@ Table 8.28
 ```
 S. Teske et al.
 ```
-
 ```
 245
 ```
@@ -32868,9 +28599,8 @@ est share of dispatchable renewables, mainly attributable to existing hydropower
 
 plants.
 
-```
 Compared with other regions of the world, Latin America currently has a small
-```
+
 fleet of coal and nuclear power plants, but they are operated with a high capacity
 
 factor (Table 8.29). The dispatch order for all world regions in all cases is assumed
@@ -32887,9 +28617,8 @@ rather than of an increase in variable power generation.
 
 **8.6.2.3 Latin America: Development of Load, Generation**
 
-```
-and Residual Load
-```
+**and Residual Load**
+
 The sub-regions of Latin America are highly diverse in their geographic features
 
 and population densities, so the maximum loads in the different sub-regions vary
@@ -32906,12 +28635,12 @@ variable and
 dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
-Latin America 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+Latin America 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 factor – average
 ```
 ```
-[%/yr]48.9% 31% 25% 36% 21% 41% 18% 34% 24%
+[%/yr] 48.9% 31% 25% 36% 21% 41% 18% 34% 24%
 ```
 ```
 Limited
@@ -32920,7 +28649,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]73.4% 14% 3% 17% 0% 45% 0% 13% 4%
+[%/yr] 73.4% 14% 3% 17% 0% 45% 0% 13% 4%
 ```
 ```
 Limited
@@ -32928,31 +28657,30 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]26.0% 53% 48% 46% 19% 56% 23% 47% 33%
+[%/yr] 26.0% 53% 48% 46% 19% 56% 23% 47% 33%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]53.2% 24% 11% 31% 2% 37% 6% 31% 11%
+[%/yr] 53.2% 24% 11% 31% 2% 37% 6% 31% 11%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]45.6% 37% 28% 46% 26% 43% 25% 46% 35%
+[%/yr] 45.6% 37% 28% 46% 26% 43% 25% 46% 35%
 ```
 ```
 Variable:
 renewable
 ```
 ```
-[%/yr]12.2% 12% 12% 21% 14% 31% 15% 22% 15%
+[%/yr] 12.2% 12% 12% 21% 14% 31% 15% 22% 15%
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 246
 
@@ -33415,7 +29143,6 @@ Brazil
 ```
 S. Teske et al.
 ```
-
 ```
 247
 ```
@@ -33644,12 +29371,11 @@ Chile
 ```
 1
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 248
 
-load was 1.7 GW in 2012 according to IDB ( 2013 ). Brazil, Uruguay’s direct neigh-
+load was 1.7 GW in 2012 according to IDB ([^2013]:). Brazil, Uruguay’s direct neigh-
 
 bour, has the largest load of close to 100 GW, which will increase by a factor of 2.5
 
@@ -33692,7 +29418,7 @@ gen dispatch.
 
 **8.7 OECD Europe**
 
-**_8.7.1 OECD Europe: Long-Term Energy Pathways_**
+**8.7.1 OECD Europe: Long-Term Energy Pathways**
 
 **8.7.1.1 OECD Europe: Final Energy Demand by Sector**
 
@@ -33727,7 +29453,6 @@ TWh/year in 2050.
 ```
 S. Teske et al.
 ```
-
 ```
 249
 ```
@@ -33762,8 +29487,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -33778,8 +29502,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -34423,8 +30146,7 @@ Uruguay
 ```
 65 (continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 250
 
@@ -34459,8 +30181,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -34475,8 +30196,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -34817,7 +30537,6 @@ Latin America
 ```
 S. Teske et al.
 ```
-
 ```
 251
 ```
@@ -34849,22 +30568,22 @@ S. Teske et al.
 0
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-20,00 0
+20,000
 ```
 ```
-30,00 0
+30,000
 ```
 ```
-40,00 0
+40,000
 ```
 ```
-50,00 0
+50,000
 ```
 ```
-60,00 0
+60,000
 ```
 ```
 5.0°C2.0°
@@ -34914,8 +30633,7 @@ C
 ```
 TW
 h/
-yr
-PJ
+PJ yr
 ```
 ```
 /y
@@ -34931,9 +30649,8 @@ total power demand (incl. synfuels & H2)
 ```
 **Fig. 8.35** OECD Europe: development in three scenarios
 
-```
 Electrification will cause a significant increase in the electricity demand by 2050.
-```
+
 In the 2.0 °C Scenario, the electricity demand for heating will increase to approxi-
 
 mately 1300 TWh/year due to electric heaters and heat pumps, and in the transport
@@ -34952,9 +30669,8 @@ the 2.0 °C Scenario, 28% higher than in the 5.0 °C case. In the 1.5 °C Sce
 
 gross electricity demand will increase to a maximum of 6400 TWh/year by 2050.
 
-```
 Efficiency gains could be even larger in the heating sector than in the electricity
-```
+
 sector. Under the 2.0 °C and 1.5 °C Scenarios, a final energy consumption equiva-
 
 lent to about 6200 PJ/year and 8200 PJ/year, respectively, are avoided by efficiency
@@ -34971,13 +30687,10 @@ able sources. By 2050, 100% of the electricity produced in OECD Europe will come
 
 from renewable energy sources in the 2.0 °C Scenario. ‘New’ renewables—mainly
 
-8 Energy Scenario Results
+[^8]: Energy Scenario Results
 
-
-```
 252
-```
-```
+
 wind, solar, and geothermal energy—will contribute 75% of the total electricity
 generation. Renewable electricity’s share of the total production will be 68% by
 2030 and 89% by 2040. The installed capacity of renewables will reach about 1200
@@ -34992,7 +30705,7 @@ from biomass (ca. 110 GW) CSP and ocean energy (more than 50 GW each), in the
 2.0 °C Scenario. Both the 2.0 °C and 1.5 °C Scenarios will lead to high proportions
 of variable power generation (PV, wind, and ocean) of 38% and 45%, respectively,
 by 2030 and 67% and 68%, respectively, by 2050.
-```
+
 **Table 8.32** OECD Europe: development of renewable electricity-generation capacity in the
 scenarios
 
@@ -35026,7 +30739,6 @@ Total 5.0 °C 484 635 706 780 873
 ```
 S. Teske et al.
 ```
-
 ```
 253
 ```
@@ -35083,16 +30795,13 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.36** OECD Europe: development of electricity-generation structure in the scenarios
+## Fig. 8.36 OECD Europe: development of electricity-generation structure in the scenarios
 
 **8.7.1.3 OECD Europe: Future Costs of Electricity Generation**
 
 Figure 8.37 shows the development of the electricity-generation and supply costs
-
-over time, including the CO 2 emission costs, in all scenarios. The calculated elec-
-
+over time, including the CO[^2]: emission costs, in all scenarios. The calculated elec-
 tricity generation costs in 2015 (referring to full costs) were around 7 ct/kWh. In the
-
 5.0 °C case, generation costs will increase until 2050, when they will reach 10.4 ct/
 
 ```
@@ -35152,46 +30861,29 @@ billion $ ct/kWh
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-**Fig. 8.37** OECD Europe: development of total electricity supply costs and specific electricity-
+## Fig. 8.37 OECD Europe: development of total electricity supply costs and specific electricity-
+
 generation costs in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 254
 
 kWh. The generation costs in both alternative scenarios will increase until 2030,
-
 when they will reach 10.3 ct/kWh, and they will drop by 2050 to 8.9 ct/kWh and 8.8
-
 ct/kWh, respectively, 1.5–1.6 ct/kWh lower than in the 5.0 °C case. Note that these
-
 estimates of generation costs do not take into account integration costs such as
-
 power grid expansion, storage, or other load-balancing measures.
-
-```
 In the 5.0 °C case, the growth in demand and increasing fossil fuel prices will
-```
 result in an increase in total electricity supply costs from today’s $270 billion/year
-
 to more than $550 billion/year in 2050. In the 2.0 °C Scenario, the total supply costs
-
 will be $560 billion/year and in the 1.5 °C Scenario, they will be $590 billion/year
-
 The long-term costs for electricity supply will be more than 2% higher in the 2.0 °C
-
 Scenario than in the 5.0 °C Scenario as a result of the estimated generation costs and
-
 the electrification of heating and mobility. Further electrification and synthetic fuel
-
 generation in the 1.5 °C Scenario will result in total power generation costs that are
-
 8% higher than in the 5.0 °C case.
-
-```
-Compared with these results, the generation costs when the CO 2 emission costs
-```
+Compared with these results, the generation costs when the CO[^2]: emission costs
 are not considered will increase in the 5.0 °C Scenario to 8.8 ct/kWh by 2050. In the
 
 2.0 °C Scenario, they will increase until 2030 when they reach 9.5 ct/kWh, and then
@@ -35204,8 +30896,7 @@ will reach a maximum of 1 ct/kWh higher than in the 5.0 °C case in 2030. In th
 
 1.5  °C Scenario, the maximum difference in generation costs compared with the
 
-5.0 °C Scenario will be 1.2 ct/kWh, which will occur in 2040. If the CO 2 costs are
-
+5.0 °C Scenario will be 1.2 ct/kWh, which will occur in 2040. If the CO[^2]: costs are
 not considered, the total electricity supply costs in the 5.0 °C case will rise to about
 
 $470 billion/year in 2050.
@@ -35213,74 +30904,44 @@ $470 billion/year in 2050.
 **8.7.1.4 OECD Europe: Future Investments in the Power Sector**
 
 An investment of around $4900 billion will be required for power generation
-
 between 2015 and 2050 in the 2.0 °C Scenario—including additional power plants
-
 for the production of hydrogen and synthetic fuels and investments to replace plants
-
 at the ends of their economic lives. This value is equivalent to approximately $136
-
 billion per year on average, which is $2150 billion more than in the 5.0  °C case
-
 ($2750 billion). An investment of around $5340 billion for power generation will be
-
 required between 2015 and 2050 under the 1.5 °C Scenario. On average, this will be
-
 an investment of $148 billion per year. In the 5.0 °C Scenario, investment in conven-
-
 tional power plants will be around 26% of the total cumulative investments, whereas
-
 approximately 74% will be invested in renewable power generation and co-
-
 generation (Fig. 8.38).
-
-```
 However, in the 2.0 °C (1.5 °C) Scenario, OECD Europe will shift almost 96%
-```
 (97%) of its entire investments to renewables and co-generation. By 2030, the fossil
-
 fuel share of the power sector investments will predominantly focus on gas power
-
 plants that can also be operated with hydrogen.
-
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
 fuel cost savings in the 2.0 °C Scenario will reach a total of $2340 billion in 2050,
 
 ```
 S. Teske et al.
 ```
-
 ```
 255
 ```
 equivalent to $65 billion per year. Therefore, the total fuel cost savings will be
-
 equivalent to 110% of the total additional investments compared to the 5.0  °C
-
 Scenario. The fuel cost savings in the 1.5 °C Scenario will add up to $2600 billion,
-
 or $72 billion per year.
 
 **8.7.1.5 OECD Europe: Energy Supply for Heating**
 
 The final energy demand for heating will increase in the 5.0 °C Scenario by 16%,
-
 from 20,600 PJ/year in 2015 to 24,000 PJ/year in 2050. Energy efficiency measures
-
 will help to reduce the energy demand for heating by 26% in 2050  in the 2.0  °C
-
 Scenario relative to that in the 5.0  °C case, and by 34% in the 1.5  °C Scenario.
-
 Today, renewables supply around 19% of OECD Europe’s final energy demand for
-
 heating, with the main contribution from biomass. Renewable energy will provide
-
 44% of OECD Europe’s total heat demand in 2030 under the 2.0 °C Scenario and
-
 53% under the 1.5 °C Scenario. In both scenarios, renewables will provide 100% of
-
 the total heat demand in 2050.
 
 ```
@@ -35341,10 +31002,9 @@ Renewable
 total 4,900
 billion $
 ```
-**Fig. 8.38** OECD Europe: investment shares for power generation in the scenarios
+## Fig. 8.38 OECD Europe: investment shares for power generation in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 256
 
@@ -35359,9 +31019,8 @@ growing use of solar, geothermal, and environmental heat will lead in the long t
 
 to a biomass share of 27% in the 2.0 °C Scenario and 28% in the 1.5 °C Scenario.
 
-```
 Heat from renewable hydrogen will further reduce the dependence on fossil fuels
-```
+
 in both scenarios. Hydrogen consumption in 2050 will be around 1900 PJ/year in
 
 the 2.0 °C Scenario and 2200 PJ/year in the 1.5 °C Scenario. The direct use of elec-
@@ -35397,7 +31056,7 @@ Total 5.0 °C 3003 3623 3931 4537 5325
 0
 ```
 ```
-5,00 0
+5,000
 ```
 ```
 10,000
@@ -35482,12 +31141,11 @@ Biomass
 ```
 Fossil
 ```
-**Fig. 8.39** OECD Europe: development of heat supply by energy carrier in the scenarios
+## Fig. 8.39 OECD Europe: development of heat supply by energy carrier in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 257
 ```
@@ -35524,7 +31182,7 @@ heat use
 ```
 solar
 collectors
-22 %
+22%
 ```
 ```
 heat pumps
@@ -35547,14 +31205,14 @@ heat use
 ```
 solar
 collectors
-45 %
+45%
 ```
 ```
 heat pumps
-50 %
+50%
 ```
 ```
-2.0°C: 2015-205 0
+2.0°C: 2015-2050
 ```
 ```
 total 2,400 billion $
@@ -35562,15 +31220,14 @@ total 2,400 billion $
 ```
 biomass
 technologies
-2%
-geothermal
+2% geothermal
 heat use
 1%
 ```
 ```
 solar
 collectors
-46 %
+46%
 ```
 ```
 heat
@@ -35583,64 +31240,44 @@ pumps
 ```
 total 1,830 billion $
 ```
-**Fig. 8.40** OECD Europe: development of investments for renewable heat-generation technologies
+## Fig. 8.40 OECD Europe: development of investments for renewable heat-generation technologies
+
 in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 258
 
 **8.7.1.7 OECD Europe: Transport**
 
 Energy demand in the transport sector in OECD Europe is expected to decrease by
-
 3% in the 5.0 °C Scenario, from around 14,000 PJ/year in 2015 to 13,600 PJ/year in
 
 2050. In the 2.0 °C Scenario, assumed technical, structural, and behavioural changes
-
 will save 69% (9460 PJ/year) by 2050 compared with the 5.0 °C Scenario. Additional
-
 modal shifts, technology switches, and a reduction in the transport demand will lead
-
 to even higher energy savings in the 1.5 °C Scenario of 76% (or 10,300 PJ/year) in
-
 2050 compared with the 5.0 °C case (Table 8.35, Fig. 8.41).
-
-```
 By 2030, electricity will provide 18% (430 TWh/year) of the transport sector’s
-```
 total energy demand in the 2.0 °C Scenario, whereas in 2050, the share will be 64%
-
 (740 TWh/year). In 2050, up to 840 PJ/year of hydrogen will be used in the trans-
-
 port sector as a complementary renewable option. In the 1.5 °C Scenario, the annual
-
 electricity demand will be 580 TWh in 2050. The 1.5 °C Scenario also assumes a
-
 hydrogen demand of 730 PJ/year by 2050.
-
-```
 Biofuel use is limited in the 2.0  °C Scenario to a maximum of 600  PJ/year
-```
 Therefore, around 2030, synthetic fuels based on power-to-liquid will be intro-
-
 duced, with a maximum amount of 130 PJ/year in 2050. Biofuel use will be reduced
-
 in the 1.5 °C Scenario to a maximum of 590 PJ/year. The maximum synthetic fuel
-
 demand will reach 170 PJ/year.
 
-**8.7.1.8 OECD Europe: Development of CO 2 Emissions**
+**8.7.1.8 OECD Europe: Development of CO**[^2]: **Emissions**
 
-In the 5.0 °C Scenario, OECD Europe’s annual CO 2 emissions will decrease by 15%
-
+In the 5.0 °C Scenario, OECD Europe’s annual CO[^2]: emissions will decrease by 15%
 from 3400 Mt. in 2015 to 2876 Mt. in 2050. The stringent mitigation measures in
 
 both alternative scenarios will cause the annual emissions to fall to 570 Mt. in
 
 **Table 8.34** OECD Europe: installed capacities for renewable heat generation in the scenarios
-
 in GW Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 434 467 486 507 519
 2.0 °C 434 407 339 293 289
@@ -35657,18 +31294,15 @@ Heat pumps 5.0 °C 29 40 46 62 84
 Totala 5.0 °C 504 579 615 681 744
 2.0 °C 504 855 1101 1548 1789
 1.5 °C 504 807 897 1237 1383
-a Excluding direct electric heating
+aExcluding direct electric heating
 
 ```
 S. Teske et al.
 ```
-
 ```
 259
 ```
 **Table 8.35** OECD Europe: projection of the transport energy demand by mode in the scenarios
-
-```
 in PJ/year Case 2015 2025 2030 2040 2050
 Rail 5.0 °C 323 334 335 337 344
 2.0 °C 323 362 409 509 643
@@ -35685,26 +31319,16 @@ Domestic navigation 5.0 °C 227 236 240 248 259
 Total 5.0 °C 13,938 13,665 13,656 13,598 13,541
 2.0 °C 13,938 11,055 8443 5134 4140
 1.5 °C 13,938 9090 5300 4020 3296
-```
+
 2040  in the 2.0  °C Scenario and to 270 Mt. in the 1.5  °C Scenario, with further
-
-reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emissions
-
+reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emissions
 from 2015 until 2050 will add up to 116 Gt. In contrast, in the 2.0 °C and 1.5 °C
-
 Scenarios, the cumulative emissions for the period from 2015 until 2050 will be 55
-
 Gt and 44 Gt, respectively.
-
-```
-Therefore, the cumulative CO 2 emissions will decrease by 53% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 53% in the 2.0  °C
 Scenario and by 62% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 reduction in the annual emissions will occur in both alternative scenarios. In the
-
 2.0 °C Scenario, this reduction will be greatest in ‘Power generation’, followed by
-
 the ‘Transport’ and the ‘Residential and other’ sectors (Fig. 8.42).
 
 ```
@@ -35723,16 +31347,16 @@ the ‘Transport’ and the ‘Residential and other’ sectors (Fig. 8.42).
 8,000
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-12,00 0
+12,000
 ```
 ```
-14,00 0
+14,000
 ```
 ```
-16,00 0
+16,000
 ```
 ```
 5.0°C2.0°
@@ -35805,18 +31429,14 @@ Natural Gas
 ```
 Oil products
 ```
-**Fig. 8.41** OECD Europe: final energy consumption by transport in the scenarios
+## Fig. 8.41 OECD Europe: final energy consumption by transport in the scenarios
 
-8 Energy Scenario Results
+[^8]: Energy Scenario Results
 
-
-```
 260
-```
-```
-8.7.1.9 OECD Europe: Primary Energy Consumption
-```
-```
+
+**8.7.1.9 OECD Europe: Primary Energy Consumption**
+
 The levels of primary energy consumption in the three scenarios when the assump-
 tions discussed above are taken into account are shown in Fig. 8.43. In the 2.0 °C
 Scenario, the primary energy demand will decrease by 44%, from around 71,200
@@ -35837,7 +31457,7 @@ contrast, in the 2.0 °C case, the cumulative gas demand will amount to 420 EJ,
 cumulative coal demand to 100 EJ, and the cumulative oil demand to 320 EJ. Even
 lower fossil fuel use will be achieved in the 1.5 °C Scenario: 340 EJ for natural gas,
 70 EJ for coal, and 240 EJ for oil.
-```
+
 ```
 0
 ```
@@ -35869,25 +31489,25 @@ lower fossil fuel use will be achieved in the 1.5 °C Scenario: 340 EJ for natu
 500
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-1,50 0
+1,500
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-2,50 0
+2,500
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-3,50 0
+3,500
 ```
 ```
-4,00 0
+4,000
 ```
 ```
 5.0°C2.0°
@@ -35945,8 +31565,7 @@ emissions
 CO
 ```
 ```
-2
-emissions
+emissions 2
 ```
 ```
 [Mt/yr]
@@ -35958,13 +31577,13 @@ emissions
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.42** OECD Europe: development of CO 2 emissions by sector and cumulative CO 2 emissions
+## Fig. 8.42 OECD Europe: development of CO2 emissions by sector and cumulative CO2 emissions
+
 (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
 ```
 S. Teske et al.
 ```
-
 ```
 261
 ```
@@ -35972,28 +31591,28 @@ S. Teske et al.
 0
 ```
 ```
-10,00 0
+10,000
 ```
 ```
 20,000
 ```
 ```
-30,00 0
+30,000
 ```
 ```
-40,00 0
+40,000
 ```
 ```
-50,00 0
+50,000
 ```
 ```
-60,00 0
+60,000
 ```
 ```
-70,00 0
+70,000
 ```
 ```
-80,00 0
+80,000
 ```
 ```
 5.0°C2.0°
@@ -36072,10 +31691,11 @@ Nuclear
 ```
 PJ/yr
 ```
-**Fig. 8.43** OECD Europe: projection of total primary energy demand (PED) by energy carrier in
+## Fig. 8.43 OECD Europe: projection of total primary energy demand (PED) by energy carrier in
+
 the scenarios (including electricity import balance)
 
-**_8.7.2 OECD Europe: Power Sector Analysis_**
+**8.7.2 OECD Europe: Power Sector Analysis**
 
 The European power sector is liberalized across the EU and cross-border trade in
 
@@ -36083,11 +31703,11 @@ electricity has a long tradition and is very well documented. The European Netwo
 
 of Transmission System Operators for Electricity (ENTSO-E) publishes detailed
 
-data about the annual cross-border trade (ENTSO-E 2018 ) and produces the _Ten-_
+data about the annual cross-border trade (ENTSO-E [^2018]:) and produces the _Ten-_
 
-_Year- Network Development Plan (TYNDP)_ , which aims to integrate 60% renewable
+_Year-Network Development Plan (TYNDP)_, which aims to integrate 60% renewable
 
-electricity by 2040 (TYNDP 2016 ). While the extent to which the power sector is
+electricity by 2040 (TYNDP [^2016]:). While the extent to which the power sector is
 
 liberalised and open for competition for generation and supply varies significantly
 
@@ -36117,8 +31737,7 @@ connections with its neighbours, Israel has been taken out of the energy balance
 
 OECD Europe and integrated into the Middle East region.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 262
 
@@ -36136,7 +31755,7 @@ However, the 1.5  °C Scenario requires that the size of the onshore wind marke
 
 double between 2020 and 2025. The offshore wind market for both scenarios is
 
-similar and must increase from 3 GW (GWEC 2018 ) in 2017 to around 10 GW per
+similar and must increase from 3 GW (GWEC [^2018]:) in 2017 to around 10 GW per
 
 year throughout the entire modelling period until 2050. All European lignite power
 
@@ -36171,13 +31790,13 @@ annual change of installed capacity [GW/a]
 ```
 ```
 2015–2025 2026–2035 2036–2050
-2.0 °C 1.5 °C2.0 °C 1.5 °C2.0 °C 1.5 °C
-Hard coal − 5 − 9 − 8 − 4 0 0
-Lignite − 5 − 6 − 3 − 2 0 0
-Gas 2 1 0 − 5 − 22 − 19
+2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
+Hard coal −5 −9 −8 −4 0 0
+Lignite −5 −6 −3 −2 0 0
+Gas 2 1 0 −5 −22 −19
 Hydrogen-gas 0 1 2 6 14 14
-Oil/diesel − 7 − 5 − 1 − 2 0 0
-Nuclear − 6 − 9 − 6 − 6 − 2 − 2
+Oil/diesel −7 −5 −1 −2 0 0
+Nuclear −6 −9 −6 −6 −2 −2
 Biomass 5 7 4 3 1 1
 Hydro 1 0 0 0 0 0
 Wind (onshore) 13 28 22 32 13 10
@@ -36192,7 +31811,6 @@ Renewable fuel based co-generation 3 6 4 4 1 1
 ```
 S. Teske et al.
 ```
-
 ```
 263
 ```
@@ -36224,8 +31842,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -36237,8 +31854,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Central
@@ -36675,8 +32291,7 @@ Nordic
 ```
 (continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 264
 
@@ -36702,8 +32317,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -36715,8 +32329,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Turkey
@@ -36856,7 +32469,6 @@ Table 8.37
 ```
 S. Teske et al.
 ```
-
 ```
 265
 ```
@@ -36864,9 +32476,8 @@ Across the EU, it is assumed that the average interconnection capacities will in
 
 to 20% of the regional peak load.
 
-```
 Both alternative scenarios assume that limited dispatchable power generation—
-```
+
 namely coal, lignite, and nuclear—will not have priority dispatch and will be last in
 
 the dispatch queue. Therefore, the average calculated capacity factor will decrease
@@ -36882,9 +32493,8 @@ plants will fill the gap and their capacity factors will increase.
 
 **8.7.2.3 OECD Europe: Development of Load, Generation,**
 
-```
-and Residual Load
-```
+**and Residual Load**
+
 The loads of the European sub-regions will not increase until 2030 in the two alter-
 
 native scenarios, as shown in Table 8.39. The only exception is Turkey, which will
@@ -36893,7 +32503,7 @@ have a constantly increasing load. This is attributed to Turkey’s assumed econ
 
 development and increasing per capita electricity demand, which is currently lower
 
-than in most EU countries (WB-DB 2018 ). The calculated load will increase in all
+than in most EU countries (WB-DB [^2018]:). The calculated load will increase in all
 
 sub-regions between 2030 and 2050 due to the increased deployment of electric
 
@@ -36911,12 +32521,12 @@ variable and
 dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
-World 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+World 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 factor – average
 ```
 ```
-[%/yr]45.2% 37% 37% 48% 44% 35% 36% 39% 38%
+[%/yr] 45.2% 37% 37% 48% 44% 35% 36% 39% 38%
 ```
 ```
 Limited
@@ -36925,7 +32535,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]57.5% 14% 14% 3% 2% 19% 1% 20% 9%
+[%/yr] 57.5% 14% 14% 3% 2% 19% 1% 20% 9%
 ```
 ```
 Limited
@@ -36933,31 +32543,30 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]54.0% 60% 60% 52% 48% 60% 39% 41% 40%
+[%/yr] 54.0% 60% 60% 52% 48% 60% 39% 41% 40%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]32.0% 20% 20% 7% 7% 30% 10% 15% 16%
+[%/yr] 32.0% 20% 20% 7% 7% 30% 10% 15% 16%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]43.7% 67% 67% 67% 61% 39% 49% 52% 50%
+[%/yr] 43.7% 67% 67% 67% 61% 39% 49% 52% 50%
 ```
 ```
 Variable:
 renewable
 ```
 ```
-[%/yr]22.5% 22% 22% 40% 38% 29% 35% 36% 35%
+[%/yr] 22.5% 22% 22% 40% 38% 29% 35% 36% 35%
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 266
 
@@ -37576,7 +33185,6 @@ Turkey
 ```
 S. Teske et al.
 ```
-
 ```
 267
 ```
@@ -37611,8 +33219,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -37627,8 +33234,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -38271,10 +33877,11 @@ Nordic
 ```
 ```
 78,294
+```
+```
 (continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 268
 
@@ -38303,8 +33910,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -38319,8 +33925,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -38565,65 +34170,53 @@ Table 8.40
 ```
 S. Teske et al.
 ```
-
 ```
 269
 ```
 the Iberian Peninsula, and the UK have the highest storage demands, as shown in
-
 Table 8.40. This corresponds to the calculated results for increased interconnec-
-
 tions. To avoid curtailment, renewably produced hydrogen will be used to store
-
 surplus generation for dispatch when required. Finding the optimal mix of battery
-
 capacity, pumped hydro capacity, hydrogen production, and expansion of transmis-
-
 sion capacity was beyond the scope of this analysis, and further research is required
-
 on this issue.
 
 **8.8 Africa**
 
-**_8.8.1 Africa: Long-Term Energy Pathways_**
+**8.8.1 Africa: Long-Term Energy Pathways**
 
 **8.8.1.1 Africa: Final Energy Demand by Sector**
 
 The development pathways for Africa’s final energy demand when the assumptions
-
 on population growth, GDP growth, and energy intensity are combined are shown in
-
 Fig. 8.44 for the 5.0 °C, 2.0 °C, and 1.5 °C Scenarios. In the 5.0 °C Scenario, the total
-
 final energy demand will increase by 103% from the current 23,200 PJ/year to 47,100
-
 PJ/year in 2050. In the 2.0 °C Scenario, the final energy demand will increase at a
-
 much slower rate, by 39% compared with current consumption, and will reach
 
 ```
 0
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-7,00 0
+7,000
 ```
 ```
 0
@@ -38632,31 +34225,31 @@ much slower rate, by 39% compared with current consumption, and will reach
 5,000
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-15,00 0
+15,000
 ```
 ```
-20,00 0
+20,000
 ```
 ```
-25,00 0
+25,000
 ```
 ```
-30,00 0
+30,000
 ```
 ```
-35,00 0
+35,000
 ```
 ```
-40,00 0
+40,000
 ```
 ```
-45,00 0
+45,000
 ```
 ```
-50,00 0
+50,000
 ```
 ```
 5.0°C2.0°
@@ -38715,10 +34308,9 @@ Industry fuels Industry electricity
 Residential & other sectors fuels Residential & other sectors electricity
 total power demand (incl. synfuels & H2)
 ```
-**Fig. 8.44** Africa: development of final energy demand by sector in the scenarios
+## Fig. 8.44 Africa: development of final energy demand by sector in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 270
 
@@ -38738,9 +34330,8 @@ efficiency measures will reduce the specific energy consumption by appliances, t
 
 scenarios consider higher consumption to achieve higher living standards.
 
-```
 Electrification will lead to a significant increase in the electricity demand by
-```
+
 2050. In the 2.0  °C Scenario, the electricity demand for heating will increase to
 
 approximately 1200 TWh/year due to electric heaters and heat pumps, and in the
@@ -38812,13 +34403,10 @@ by 2030, and 71% by 2050.
 ```
 S. Teske et al.
 ```
-
 ```
 271
 ```
 **Table 8.41** Africa: development of renewable electricity-generation capacity in the scenarios
-
-```
 in GW Case 2015 2025 2030 2040 2050
 Hydro 5.0 °C 28 47 58 84 117
 2.0 °C 28 46 49 51 54
@@ -38844,30 +34432,30 @@ Ocean 5.0 °C 0 0 0 0 0
 Total 5.0 °C 35 81 110 180 279
 2.0 °C 35 144 359 1243 2036
 1.5 °C 35 223 481 1464 2284
-```
+
 ```
 0
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-7,00 0
+7,000
 ```
 ```
 5.0°C2.0°
@@ -38933,52 +34521,32 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.45** Africa: development of electricity-generation structure in the scenarios
+## Fig. 8.45 Africa: development of electricity-generation structure in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 272
 
 **8.8.1.3 Africa: Future Costs of Electricity Generation**
 
 Figure 8.46 shows the development of the electricity-generation and supply costs
-
-over time, including the CO 2 emission costs, in all scenarios. The calculated
-
-electricity- generation costs in 2015 (referring to full costs) were around 5.4 ct/kWh.
-
+over time, including the CO[^2]: emission costs, in all scenarios. The calculated
+electricity-generation costs in 2015 (referring to full costs) were around 5.4 ct/kWh.
 In the 5.0 °C case, generation costs will increase until 2030, when they reach 11 ct/
-
 kWh, and will then stabilize at 10.8 ct/kWh by 2050. In the 2.0  °C and 1.5  °C
-
 Scenarios, the generation costs will increase until 2030, when they reach 8.4 ct/kWh
-
 and 8.2 ct/kWh, respectively. They will then drop to 5.6 ct/kWh by 2050  in both
-
 scenarios, 5.2 ct/kWh lower than in the 5.0  °C case. Note that these estimates of
-
 generation costs do not take into account integration costs such as power grid expan-
-
 sion, storage, or other load-balancing measures.
-
-```
 In the 5.0 °C case, the growth in demand and increasing fossil fuel prices will
-```
 cause the total electricity supply costs to increase from today’s $40 billion/year to
-
 more than $290 billion/year in 2050. In the 2.0 °C Scenario, the total supply costs
-
 will be $350 billion/year, and in the 1.5 °C Scenario, they will be $380 billion/year
-
 The long-term costs of electricity supply will be more than 23% higher under the
-
 2.0 °C Scenario than under the 5.0 °C Scenario as a result of the estimated genera-
-
 tion costs and the electrification of heating and mobility. Further electrification and
-
 synthetic fuel generation in the 1.5 °C Scenario will result in total power generation
-
 costs that are 34% higher than in the 5.0 °C case.
 
 ```
@@ -39038,28 +34606,25 @@ costs that are 34% higher than in the 5.0 °C case.
 ```
 billion ct/kWh
 ```
-```
 $
-```
+
 ```
 2.0°C efficiency measures 2.0°C
 1.5°C efficiency measures 1.5°C
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-**Fig. 8.46** Africa: development of total electricity supply costs and specific electricity-generation
+## Fig. 8.46 Africa: development of total electricity supply costs and specific electricity-generation
+
 costs in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 273
 ```
-```
-Compared with these results, the generation costs when the CO 2 emission costs
-```
+Compared with these results, the generation costs when the CO[^2]: emission costs
 are not considered will increase in the 5.0  °C case to 8.1 ct/kWh. In the 2.0  °C
 
 Scenario, they will increase until 2030, when they reach 6.8 ct/kWh, and then drop
@@ -39068,8 +34633,7 @@ to 5.6 ct/kWh by 2050. In the 1.5 °C Scenario, they will increase to 7.2 ct/kW
 
 then drop to 5.6 ct/kWh by 2050. Therefore, the generation costs in both alternative
 
-scenarios are, at maximum, 2.5 ct/kWh lower than in the 5.0  °C case. If the CO 2
-
+scenarios are, at maximum, 2.5 ct/kWh lower than in the 5.0  °C case. If the CO2
 costs are not considered, the total electricity supply costs in the 5.0  °C case will
 
 increase to about $220 billion/year in 2050.
@@ -39077,69 +34641,39 @@ increase to about $220 billion/year in 2050.
 **8.8.1.4 Africa: Future Investments in the Power Sector**
 
 An investment of around $3500 billion will be required for power generation
-
 between 2015 and 2050 in the 2.0 °C Scenario—including additional power plants
-
 for the production of hydrogen and synthetic fuels and investments in plant replace-
-
 ment at the ends of their economic lives. This value is equivalent to approximately
-
 $97 billion per year, on average, and is $2590 billion more than in the 5.0 ° C case
-
 ($910 billion). An investment of around $3910 billion for power generation will be
-
 required between 2015 and 2050  in the 1.5  °C Scenario. On average, this is an
-
 investment of $109 billion per year. In the 5.0 °C Scenario, the investment in con-
-
 ventional power plants will be around 45% of the total cumulative investments, and
-
 approximately 55% will be invested in renewable power generation and co-genera-
-
 tion (Fig. 8.47).
-
-```
 However, in the 2.0 °C (1.5 °C) Scenario, Africa will shift almost 93% (94%) of
-```
 its entire investments to renewables and co-generation. By 2030, the fossil fuel
-
 share of power sector investments will focus predominantly on gas power plants
-
 that can also be operated with hydrogen.
-
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
 fuel cost savings in the 2.0 °C Scenario will reach a total of $1510 billion in 2050,
-
 equivalent to $42 billion per year. Therefore, the total fuel cost savings will be
-
 equivalent to 60% of the total additional investments compared to the 5.0  °C
-
 Scenario. The fuel cost savings in the 1.5 °C Scenario will add up to $1610 billion,
-
 or $45 billion per year.
 
 **8.8.1.5 Africa: Energy Supply for Heating**
 
 The final energy demand for heating will increase in the 5.0 °C Scenario by 166%,
-
 from 7600 PJ/year in 2015 to 20,200 PJ/year in 2050. Energy efficiency measures
-
 will help to reduce the energy demand for heating by 18% in 2050 in both alterna-
-
 tive scenarios, relative to the 5.0 °C case. Today, renewables supply around 61% of
-
 Africa’s final energy demand for heating, with the main contribution from biomass.
-
 Renewable energy will provide 71% of Africa’s total heat demand in 2030 under the
-
 2.0 °C Scenario and 79% under the 1.5 °C Scenario. In both scenarios, renewables
-
 will provide 100% of the total heat demand from renewable energy in 2050.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 274
 
@@ -39161,16 +34695,16 @@ share of 51% in the 2.0 °C Scenario and 40% in the 1.5 °C Scenario.
 5,000
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-15,00 0
+15,000
 ```
 ```
-20,00 0
+20,000
 ```
 ```
-25,00 0
+25,000
 ```
 ```
 5.0°C2.0°
@@ -39231,7 +34765,7 @@ and heat pumps
 Solar heating
 Biomass
 ```
-**Fig. 8.48** Africa: development of heat supply by energy carrier in the scenarios
+## Fig. 8.48 Africa: development of heat supply by energy carrier in the scenarios
 
 ```
 Fossil
@@ -39284,19 +34818,16 @@ Renewable
 total 3,900
 billion $
 ```
-```
-Fig. 8.47 Africa: investment shares for power generation in the scenarios
-```
+## Fig. 8.47 Africa: investment shares for power generation in the scenarios
+
 ```
 S. Teske et al.
 ```
-
 ```
 275
 ```
-```
 Heat from renewable hydrogen will further reduce the dependence on fossil fuels
-```
+
 in both scenarios. Hydrogen consumption in 2050 will be around 720 PJ/year in
 
 both the 2.0 °C Scenario and 1.5 °C Scenario. The direct use of electricity for heat-
@@ -39348,8 +34879,7 @@ Total 5.0 °C 4593 5797 6404 7440 8684
 2.0 °C 4593 5598 7047 10,061 12,793
 1.5 °C 4593 6037 7444 10,067 10,464
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 276
 
@@ -39399,7 +34929,7 @@ heat
 pumps
 47%
 ```
-2.0°C: 2015-205 0
+2.0°C: 2015-2050
 
 ```
 total 790 billion $
@@ -39417,7 +34947,7 @@ heat use
 ```
 solar
 collectors
-29 %
+29%
 ```
 ```
 heat
@@ -39430,11 +34960,11 @@ pumps
 ```
 total 760 billion $
 ```
-**Fig. 8.49** Africa: development of investments for renewable heat-generation technologies in the
+## Fig. 8.49 Africa: development of investments for renewable heat-generation technologies in the
+
 scenarios
 
 **Table 8.43** Africa: installed capacities for renewable heat generation in the scenarios
-
 in GW Case 2015 2025 2030 2040 2050
 Biomass 5 0 °C 3655 4036 4100 3973 3870
 2 0 °C 3655 3276 3063 2792 2251
@@ -39451,68 +34981,45 @@ Heat pumps 5 0 °C 0 0 0 0 0
 Totala 5 0 °C 3656 4043 4116 4017 3962
 2 0 °C 3656 3324 3239 3253 3169
 1 5 °C 3656 3610 3244 2912 2225
-a Excluding direct electric heating
+
+aExcluding direct electric heating
 
 ```
 S. Teske et al.
 ```
-
 ```
 277
 ```
 **8.8.1.7 Africa: Transport**
 
 The energy demand in the transport sector in Africa is expected to increase by 131%
-
 in the 5.0 °C Scenario, from around 4400 PJ/year in 2015 to 10,100 PJ/year in 2050.
-
 In the 2.0 °C Scenario, assumed technical, structural, and behavioural changes will
-
 save 53% (5410 PJ/year) by 2050 compared with the 5.0 °C Scenario. Additional
-
 modal shifts, technology switches, and a reduction in the transport demand will lead
-
 to even higher energy savings in the 1.5 °C Scenario of 63% (or 6360 PJ/year) in
-
 2050 compared with the 5.0 °C case (Table 8.44, Fig. 8.50).
-
-```
 By 2030, electricity will provide 4% (50 TWh/year) of the transport sector’s total
-```
 energy demand in the 2.0 °C Scenario, whereas by 2050, the share will be 28% (370
-
 TWh/year). In 2050, up to 410 PJ/year of hydrogen will be used in the transport
-
 sector as a complementary renewable option. In the 1.5  °C Scenario, the annual
-
 electricity demand will be 360 TWh in 2050. The 1.5 °C Scenario also assumes a
-
 hydrogen demand of 340 PJ/year by 2050.
-
-```
 Biofuel use is limited in the 2.0  °C Scenario to a maximum of 2300 PJ/year.
-```
 Therefore, around 2030, synthetic fuels based on power-to-liquid will be introduced,
-
 with a maximum amount of 700 PJ/year in 2050. With the lower overall energy
-
 demand by transport, biofuel use will be reduced in the 1.5 °C Scenario to a maxi-
-
 mum of 1700 PJ/year The maximum synthetic fuel demand will amount to 470 PJ/
-
 year.
 
-**8.8.1.8 Africa: Development of CO 2 Emissions**
+**8.8.1.8 Africa: Development of CO**[^2]: **Emissions**
 
-In the 5.0 °C Scenario, Africa’s annual CO 2 emissions will increase by 126%, from
-
+In the 5.0 °C Scenario, Africa’s annual CO[^2]: emissions will increase by 126%, from
 1140 Mt. in 2015 to 2585 Mt. in 2050. The stringent mitigation measures in both
 
 alternative scenarios will cause annual emissions to fall to 400 Mt. in 2040 in the
 
 **Table 8.44** Africa: projection of transport energy demand by mode in the scenarios
-
-```
 in PJ/year Case 2015 2025 2030 2040 2050
 Rail 5.0 °C 46 52 58 67 74
 2.0 °C 46 58 71 96 110
@@ -39526,85 +35033,63 @@ Domestic aviation 5.0 °C 105 159 198 256 272
 Domestic navigation 5.0 °C 32 35 37 40 44
 2.0 °C 32 35 37 40 44
 1.5 °C 32 35 37 40 44
-Total 5.0 °C 4366 5246 6105 7885 10,027
+Total 5.0 °C [^4366]: [^5246]: [^6105]: [^7885]: 10,027
 2.0 °C 4366 4895 5045 4877 4714
 1.5 °C 4366 4707 4648 4164 3765
-```
-8 Energy Scenario Results
 
+[^8]: Energy Scenario Results
 
 278
 
 2.0 °C Scenario and to 200 Mt. in the 1.5 °C Scenario, with further reductions to
 
-almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emissions from 2015
-
+almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emissions from 2015
 until 2050 will add up to 66 Gt. In contrast, in the 2.0 °C and 1.5 °C Scenarios, the
 
 cumulative emissions for the period from 2015 until 2050 will be 27 Gt and 22 Gt,
-
 respectively.
-
-```
-Therefore, the cumulative CO 2 emissions will decrease by 59% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 59% in the 2.0  °C
 Scenario and by 67% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 reduction in annual emissions will occur in both alternative scenarios. In the 2.0 °C
-
 Scenario, this reduction will be greatest in ‘Power generation’, followed by the
-
 ‘Industry’ and ‘Residential and other’ sectors (Fig. 8.51).
 
 **8.8.1.9 Africa: Primary Energy Consumption**
 
 The levels of primary energy consumption in the three scenarios when the assump-
-
 tions discussed above are taken into account are shown in Fig. 8.52. In the 2.0 °C
-
 Scenario, the primary energy demand will increase by 50% from around 33,200 PJ/
-
 year in 2015 to around 50,000 PJ/year in 2050. Compared with the 5.0 °C Scenario,
-
 the overall primary energy demand will decrease by 26% by 2050  in the 2.0  °C
-
 Scenario (5.0  °C: 67700 PJ in 2050). In the 1.5  °C Scenario, the primary energy
-
 demand will be even lower (48,000 PJ in 2050) because the final energy demand
-
 and conversion losses will be lower.
-
-```
 Both the 2.0 °C and 1.5 °C Scenarios aim to rapidly phase-out coal and oil. This
-```
 will cause renewable energy to have a primary energy share of 56% in 2030 and
-
 98% in 2050 in the 2.0 °C Scenario. In the 1.5 °C Scenario, renewables will have a
-
 primary energy share of more than 98% in 2050 (including non-energy consump-
-
 tion, which will still include fossil fuels). Nuclear energy will be phased-out by
 
 ```
 0
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-8,00 0
+8,000
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-12,00 0
+12,000
 ```
 ```
 5.0°C2.0°
@@ -39675,12 +35160,11 @@ Natural Gas
 ```
 Oil products
 ```
-**Fig. 8.50** Africa: final energy consumption by transport in the scenarios
+### Fig. 8.50 Africa: final energy consumption by transport in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 279
 ```
@@ -39799,7 +35283,8 @@ emissions
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.51** Africa: development of CO 2 emissions by sector and cumulative CO 2 emissions (after
+## Fig. 8.51 Africa: development of CO2 emissions by sector and cumulative CO2 emissions (after
+
 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
 ```
@@ -39827,7 +35312,7 @@ emissions
 70,000
 ```
 ```
-80,00 0
+80,000
 ```
 ```
 5.0°C2.0°
@@ -39908,13 +35393,15 @@ Crude oil
 ```
 ```
 Coal
+```
+```
 Nuclear
 ```
-**Fig. 8.52** Africa: projection of total primary energy demand (PED) by energy carrier in the sce-
+## Fig. 8.52 Africa: projection of total primary energy demand (PED) by energy carrier in the sce-
+
 narios (including electricity import balance)
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 280
 
@@ -39932,7 +35419,7 @@ EJ. Even lower fossil fuel use will achieved in the 1.5 °C Scenario: 110 EJ f
 
 ral gas, 50 EJ for coal, and 150 EJ for oil.
 
-**_8.8.2 Africa: Power Sector Analysis_**
+**8.8.2 Africa: Power Sector Analysis**
 
 The African continent has 54 countries and its geographic, economic, and climatic
 
@@ -39948,7 +35435,7 @@ Eastern Africa Power Pool (EAPP) with the Southern Africa Power Pool (SAPP). It
 
 was politically endorsed in January 2014 at the Assembly of the International
 
-Renewable Energy Agency (IRENA 2014 ).
+Renewable Energy Agency (IRENA [^2014]:).
 
 **8.8.2.1 Africa: Development of Power Plant Capacities**
 
@@ -39968,7 +35455,7 @@ transition times in the two scenarios differ. Africa must build up solar PV and
 
 onshore wind markets equal to the market sizes in China in 2017: 50 GW of solar
 
-PV installation (REN21-GSR2018) and 23 GW of onshore wind (GWEC 2018 ).
+PV installation (REN21-GSR2018) and 23 GW of onshore wind (GWEC [^2018]:).
 
 The market for CSP plants must reach about 1 GW per year by 2025, increasing
 
@@ -39993,13 +35480,11 @@ African Clean Energy Corridor (ACEC) will be implemented successfully.
 ```
 S. Teske et al.
 ```
-
 ```
 281
 ```
-```
 The development of average capacity factors for each generation type will follow
-```
+
 the same trend as in most world regions. Table 8.47 shows the significant drop in the
 
 capacity factors of limited dispatchable power plants under the 1.5 °C Scenario.
@@ -40049,12 +35534,12 @@ change of installed capacity [GW/a]
 ```
 ```
 2015–2025 2026–2035 2036–2050
-2.0 °C 1.5 °C2.0 °C 1.5 °C2.0 °C 1.5 °C
-Hard coal 2 0 − 2 − 7 − 4 0
+2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
+Hard coal 2 0 −2 −7 −4 0
 Lignite 0 0 0 0 0 0
 Gas 6 3 10 16 13 14
 Hydrogen-gas 0 0 1 3 15 32
-Oil/diesel − 1 − 2 − 2 − 2 − 1 − 1
+Oil/diesel −1 −2 −2 −2 −1 −1
 Nuclear 0 0 0 0 0 0
 Biomass 1 3 2 3 2 3
 Hydro 2 1 1 1 0 0
@@ -40067,8 +35552,7 @@ Solar thermal power plants 0 2 4 9 18 16
 Ocean energy 0 1 1 1 3 3
 Renewable fuel based co-generation 1 2 2 2 1 1
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 282
 
@@ -40097,8 +35581,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -40110,8 +35593,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 North Africa
@@ -40605,7 +36087,6 @@ Africa
 ```
 S. Teske et al.
 ```
-
 ```
 283
 ```
@@ -40870,8 +36351,7 @@ Variable: renewable
 ```
 27%
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 284
 
@@ -41412,7 +36892,6 @@ South Africa
 ```
 S. Teske et al.
 ```
-
 ```
 285
 ```
@@ -41447,8 +36926,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -41463,8 +36941,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -42106,13 +37583,9 @@ South Africa
 3924
 ```
 ```
-0
+0 (continued)
 ```
-```
-(continued)
-```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 286
 
@@ -42141,8 +37614,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -42157,8 +37629,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -42301,40 +37772,28 @@ Table 8.49
 ```
 S. Teske et al.
 ```
-
 ```
 287
 ```
 one of the global renewable fuel production regions and it is assumed that all sub-
-
 regions of Africa have equal amounts of energy export potential. However, a more
-
 detailed examination of export energy is required, which is beyond the scope of this
-
 project.
 
 **8.9 The Middle East**
 
-**_8.9.1 The Middle East: Long-Term Energy Pathways_**
+**8.9.1 The Middle East: Long-Term Energy Pathways**
 
 **8.9.1.1 The Middle East: Final Energy Demand by Sector**
 
 The future development pathways for the Middle East’s final energy demand when
-
 the assumptions on population growth, GDP growth, and energy intensity are com-
-
 bined are shown in Fig. 8.53 for the 5.0  °C, 2.0  °C, and 1.5  °C Scenarios. In the
-
 5.0 °C Scenario, the total final energy demand will increase by 133% from the cur-
-
 rent 17,100 PJ/year to around 40,000 PJ/year in 2050. In the 2.0 °C Scenario, the
-
 final energy demand will decrease by 8% compared with current consumption and
-
 will reach 15,800 PJ/year by 2050. The final energy demand in the 1.5 °C Scenario
-
 will reach 13,600 PJ, 20% below the 2015 demand level. In the 1.5 °C Scenario, the
-
 final energy demand in 2050 will be 14% lower than in the 2.0 °C Scenario. The
 
 ```
@@ -42344,37 +37803,37 @@ final energy demand in 2050 will be 14% lower than in the 2.0 °C Scenario. The
 500
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-1,50 0
+1,500
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-2,50 0
+2,500
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-3,50 0
+3,500
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-4,50 0
+4,500
 ```
 ```
-5,00 0
+5,000
 ```
 ```
 0
 ```
 ```
-5,00 0
+5,000
 ```
 ```
 10,000
@@ -42457,10 +37916,9 @@ Industry fuelsIndustry electricity
 Residential & other sectors fuels Residential & other sectors electricity
 total power demand (incl. synfuels & H2)
 ```
-**Fig. 8.53** Middle East: development of the final energy demand by sector in the scenarios
+## Fig. 8.53 Middle East: development of the final energy demand by sector in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 288
 
@@ -42474,9 +37932,8 @@ year in 2050), the efficiency measures in the 2.0 °C and 1.5 °C Scenarios wi
 
 a maximum of 1100 TWh/year and 1170 TWh/year, respectively.
 
-```
 Electrification will lead to a significant increase in the electricity demand. In the
-```
+
 2.0 °C Scenario, the electricity demand for heating will rise to approximately 800
 
 TWh/year due to electric heaters and heat pumps, and in the transport sector, the
@@ -42550,14 +38007,11 @@ ocean) of 39% and 46%, respectively, by 2030, and 64% and 66%, respectively, by
 ```
 S. Teske et al.
 ```
-
 ```
 289
 ```
 **Table 8.50** Middle East: development of renewable electricity-generation capacity in the
 scenarios
-
-```
 in GW Case 2015 2025 2030 2040 2050
 Hydro 5.0 °C 16 20 22 25 29
 2.0 °C 16 22 22 25 29
@@ -42583,27 +38037,27 @@ Ocean 5.0 °C 0 0 0 0 0
 Total 5.0 °C 16 32 45 79 132
 2.0 °C 16 174 427 1290 1911
 1.5 °C 16 197 500 1449 1699
-```
+
 ```
 0
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
 5.0°C2.0°
@@ -42669,10 +38123,9 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.54** Middle East: development of electricity-generation structure in the scenarios
+## Fig. 8.54 Middle East: development of electricity-generation structure in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 290
 
@@ -42680,45 +38133,26 @@ Coal
 
 Figure 8.55 shows the development of the electricity-generation and supply costs
 
-over time, including the CO 2 emission costs, in all scenarios. The calculated
-
-electricity- generation costs in 2015 (referring to full costs) were around 7.1 ct/kWh.
+over time, including the CO[^2]: emission costs, in all scenarios. The calculated
+electricity-generation costs in 2015 (referring to full costs) were around 7.1 ct/kWh.
 
 In the 5.0 °C case, the generation costs will increase until 2030, when they reach
-
 14.8 ct/kWh, and then drop to 13.7 ct/kWh by 2050. The generation costs in the
-
 2.0  °C Scenario will increase until 2030, when they reach 11.1 ct/kWh, and then
-
 drop to 6.1 ct/kWh by 2050. In the 1.5 °C Scenario, they will increase to 10.7 ct/
-
 kWh, and then drop to 7.3 ct/kWh by 2050. In the 2.0 °C Scenario, the generation
-
 costs in 2050 will be 7.6 ct/kWh lower than in the 5.0 °C case. In the 1.5 °C Scenario,
-
 the generation costs in 2050 will be 6.4 ct/kWh lower than in the 5.0 °C case. Note
-
 that these estimates of generation costs do not take into account integration costs
-
 such as power grid expansion, storage, or other load-balancing measures.
-
-```
 In the 5.0 °C case, growth in demand and increasing fossil fuel prices will cause
-```
 the total electricity supply costs to rise from today’s $70 billion/year to more than
-
 $410 billion/year in 2050. In the 2.0 °C Scenario, the total supply costs will be $300
-
 billion/year and in the 1.5  °C Scenario, they will be $310 billion/year. The long-
-
 term cost of electricity supply will be more than 27% lower in the 2.0 °C Scenario
-
 than in the 5.0  °C Scenario as a result of the estimated generation costs and the
-
 electrification of heating and mobility. Further demand reductions in the 1.5  °C
-
 Scenario will result in total power-generation costs that are 24% lower than in the
-
 5.0 °C case.
 
 ```
@@ -42784,28 +38218,25 @@ Scenario will result in total power-generation costs that are 24% lower than in 
 ```
 billion ct/kWh
 ```
-```
 $
-```
+
 ```
 2.0°C efficiency measures 2.0°C
 1.5°C efficiency measures 1.5°C
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-**Fig. 8.55** Middle East: development of total electricity supply costs and specific electricity-
+## Fig. 8.55 Middle East: development of total electricity supply costs and specific electricity-
+
 generation costs in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 291
 ```
-```
-The generation costs without the CO 2 emission costs will increase in the 5.0 °C
-```
+The generation costs without the CO[^2]: emission costs will increase in the 5.0 °C
 case to 11.1 ct/kWh by 2030, and then stabilize at 10.8 ct/kWh by 2050. In the
 
 2.0 °C Scenario and the 1.5 °C Scenario, they will increase to a maximum of 9 ct/
@@ -42818,73 +38249,44 @@ In the 2.0  °C Scenario, the generation costs will be 4.7 ct/kWh lower than in
 
 the maximum difference in generation costs compared with the 5.0 °C case will be
 
-3.5 ct/kWh in 2050. If the CO 2 costs are not considered, the total electricity supply
-
+3.5 ct/kWh in 2050. If the CO[^2]: costs are not considered, the total electricity supply
 costs in the 5.0 °C case will rise to about $320 billion/year by 2050.
 
 **8.9.1.4 The Middle East: Future Investments in the Power Sector**
 
 An investment of around $3450 billion will be required for power generation
-
 between 2015 and 2050 in the 2.0 °C Scenario—including additional power plants
-
 for the production of hydrogen and synthetic fuels and investments in plant replace-
-
 ment at the ends of their economic lives. This value will be equivalent to approxi-
-
 mately $96 billion per year on average, and this is $2720 billion more than in the
-
 5.0 °C case ($730 billion). An investment of around $3470 billion for power genera-
-
 tion will be required between 2015 and 2050 in the 1.5 °C Scenario, or on average,
-
 $96 billion per year. In the 5.0 °C Scenario, the investment in conventional power
-
 plants will be around 68% of the total cumulative investments, whereas approxi-
-
 mately 32% will be invested in renewable power generation and co-generation
-
 (Fig. 8.56). However, in both alternative scenarios, the Middle East will shift almost
-
 94% of its entire investments to renewables and co-generation. By 2030, the fossil
-
 fuel share of power sector investment will predominantly focus on gas power plants
-
 that can also be operated with hydrogen.
-
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
 fuel cost savings in the 2.0 °C Scenario will reach a total of $2900 billion in 2050,
-
 equivalent to $81 billion per year. Therefore, the total fuel cost savings will be
-
 equivalent to 110% of the total additional investments compared to the 5.0  °C
-
 Scenario. The fuel cost savings in the 1.5 °C Scenario will add up to $3100 billion,
-
 or $86 billion per year.
 
 **8.9.1.5 The Middle East: Energy Supply for Heating**
 
 The final energy demand for heating will increase by 139% in the 5.0 °C Scenario,
-
 from 7100 PJ/year in 2015 to 17,100 PJ/year in 2050. Energy efficiency measures
-
 will help to reduce the energy demand for heating by 59% in 2050  in the 2.0  °C
-
 Scenario, relative to the 5.0  °C case, and by 62% in the 1.5  °C Scenario. Today,
-
 renewables supply almost none of the Middle East’s final energy demand for heat-
-
 ing. Renewable energy will provide 23% of the Middle East’s total heat demand in
-
 2030  in the 2.0  °C Scenario and 25% in the 1.5  °C Scenario. In both scenarios,
-
 renewables will provide 100% of the total heat demand in 2050.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 292
 
@@ -42899,16 +38301,16 @@ for all scenarios. The growing use of solar, geothermal, and environmental heat 
 0
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-8,00 0
+8,000
 ```
 ```
 10,000
@@ -42985,7 +38387,7 @@ Solar heating
 Biomass
 Fossil
 ```
-**Fig. 8.57** Middle East: development of heat supply by energy carrier in the scenarios
+## Fig. 8.57 Middle East: development of heat supply by energy carrier in the scenarios
 
 ```
 Fossil
@@ -43039,12 +38441,11 @@ Renewable 0%
 total 3,470
 billion $
 ```
-**Fig. 8.56** Middle East: investment shares for power generation in the scenarios
+## Fig. 8.56 Middle East: investment shares for power generation in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 293
 ```
@@ -43070,44 +38471,27 @@ Total 5.0 °C 28 149 370 947 1404
 1.5 °C 28 601 1307 3025 3746
 ```
 supplement electrification, with solar heat becoming the main direct renewable heat
-
 source in the 2.0 °C Scenario and 1.5 °C Scenario.
-
-```
 Heat from renewable hydrogen will further reduce the dependence on fossil fuels
-```
 in both scenarios. Hydrogen consumption in 2050 will be around 950 PJ/year in the
-
 2.0 °C Scenario and 920 PJ/year in the 1.5 °C Scenario. The direct use of electricity
-
 for heating will also increase by a factor of 9–10 between 2015 and 2050, and its
-
 final energy share will be 36% in 2050 in the 2.0 °C Scenario and 43% in the 1.5 °C
-
 Scenario (Fig. 8.57).
 
 **8.9.1.6 The Middle East: Future Investments in the Heating Sector**
 
 The roughly estimated investments in renewable heating technologies to 2050 will
-
 amount to less than $440 billion in the 2.0 °C Scenario (including investments for
-
 plant replacement after their economic lifetimes), or approximately $12 billion per
-
 year. The largest share of investments in the Middle East is assumed to be for heat
-
 pumps (more than $200 billion), followed by solar collectors and geothermal heat
-
 use. The 1.5 °C Scenario assumes an even faster expansion of renewable technolo-
-
 gies. However, the lower heat demand (compared with the 2.0  °C Scenario) will
-
 result in a lower average annual investment of around $10 billion per year
-
 (Table 8.52, Fig. 8.58).
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 ```
 biomass
@@ -43181,16 +38565,16 @@ pumps
 39%
 ```
 ```
-1.5°C: 2015-205 0
+1.5°C: 2015-2050
 ```
 ```
 total 360 billion $
 ```
-**Fig. 8.58** Middle East: development of investments for renewable heat-generation technologies in
+## Fig. 8.58 Middle East: development of investments for renewable heat-generation technologies in
+
 the scenarios
 
 **Table 8.52** Middle East: installed capacities for renewable heat generation in the scenarios
-
 in GW Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 4 10 14 25 38
 2.0 °C 4 13 15 18 14
@@ -43207,8 +38591,8 @@ Heat pumps 5.0 °C 0 0 0 0 0
 Totala 5.0 °C 6 26 65 164 237
 2.0 °C 6 99 183 297 418
 1.5 °C 6 96 178 286 330
-a Excluding direct electric heating
 
+aExcluding direct electric heating
 
 ```
 295
@@ -43216,51 +38600,30 @@ a Excluding direct electric heating
 **8.9.1.7 The Middle East: transport**
 
 Energy demand in the transport sector in the Middle East is expected to increase in
-
 the 5.0 °C Scenario by 133%, from around 5700 PJ/year in 2015 to 13,300 PJ/year
-
 in 2050. In the 2.0  °C Scenario, assumed technical, structural, and behavioural
-
 changes will save 67% (8860 PJ/year) by 2050 compared with the 5.0 °C Scenario.
-
 Additional modal shifts, technology switches, and a reduction in the transport
-
 demand will lead to even higher energy savings in the 1.5 °C Scenario of 79% (or
-
 10,400 PJ/year) in 2050 compared with the 5.0 °C case (Table 8.53, Fig. 8.59).
-
-```
 By 2030, electricity will provide 4% (70 TWh/year) of the transport sector’s total
-```
 energy demand in the 2.0 °C Scenario, whereas in 2050, the share will be 39% (480
-
 TWh/year). In 2050, up to 620 PJ/year of hydrogen will be used in the transport
-
 sector as a complementary renewable option. In the 1.5  °C Scenario, the annual
-
 electricity demand will be 350 TWh in 2050. The 1.5 °C Scenario also assumes a
-
 hydrogen demand of 450 PJ/year by 2050.
-
-```
 Biofuel use is limited in the 2.0  °C Scenario to a maximum of 370 PJ/year.
-```
 Therefore, around 2030, synthetic fuels based on power-to-liquid will be intro-
-
 duced, with a maximum consumption of 1670 PJ/year in 2050. Biofuel use in the
-
 1.5 °C Scenario with have a maximum of 430 PJ/year. The maximum synthetic fuel
-
 demand will amount to 920 PJ/year.
 
 **Table 8.53** Middle East: projection of transport energy demand by mode in the scenarios
-
-```
 in PJ/year Case 2015 2025 2030 2040 2050
 Rail 5.0 °C 184 38 48 65 75
 2.0 °C 184 64 103 169 157
 1.5 °C 184 89 117 161 194
-Road 5.0 °C 5425 6613 7802 10,999 12,992
+Road 5.0 °C [^5425]: [^6613]: [^7802]: 10,999 12,992
 2.0 °C 5425 5928 5732 4510 4194
 1.5 °C 5425 5246 4528 2899 2618
 Domestic aviation 5.0 °C 57 83 103 136 146
@@ -43269,76 +38632,59 @@ Domestic aviation 5.0 °C 57 83 103 136 146
 Domestic navigation 5.0 °C 0 0 0 0 0
 2.0 °C 0 0 0 0 0
 1.5 °C 0 0 0 0 0
-Total 5.0 °C 5666 6734 7954 11,200 13,213
+Total 5.0 °C [^5666]: [^6734]: [^7954]: 11,200 13,213
 2.0 °C 5666 6051 5893 4726 4388
 1.5 °C 5666 5392 4697 3096 2840
-```
-8 Energy Scenario Results
 
+[^8]: Energy Scenario Results
 
 296
 
-**8.9.1.8 The Middle East: Development of CO 2 Emissions**
+**8.9.1.8 The Middle East: Development of CO**[^2]: **Emissions**
 
-In the 5.0  °C Scenario, the Middle East’s annual CO 2 emissions will increase by
-
+In the 5.0  °C Scenario, the Middle East’s annual CO[^2]: emissions will increase by
 76% from 1760 Mt. in 2015 to 3094 Mt. in 2050. The stringent mitigation measures
 
 in both alternative scenarios will cause the annual emissions to fall to 510 Mt. in
 
 2040  in the 2.0  °C Scenario and to 220 Mt. in the 1.5  °C Scenario, with further
 
-reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emissions
-
+reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emissions
 from 2015 until 2050 will add up to 90 Gt. In contrast, in the 2.0  °C and 1.5  °C
 
 Scenarios, the cumulative emissions for the period from 2015 until 2050 will be 38
-
 Gt and 31 Gt, respectively.
-
-```
-Therefore, the cumulative CO 2 emissions will decrease by 58% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 58% in the 2.0  °C
 Scenario and by 66% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 reduction in annual emissions will occur in both alternative scenarios. In the 2.0 °C
-
 Scenario, this reduction will be greatest in ‘Industry’ followed by the ‘Power gen-
-
 eration’ and ‘Transport’ sectors (Fig. 8.60).
 
 **8.9.1.9 The Middle East: Primary Energy Consumption**
 
 The levels of primary energy consumption in the three scenarios when the assump-
-
 tions discussed above are taken into account are shown in Fig. 8.61. In the 2.0 °C
-
 Scenario, the primary energy demand will decrease by 16%, from around 30,300
-
 PJ/year in 2015 to 25,400 PJ/year in 2050. Compared with the 5.0 °C Scenario, the
-
 overall primary energy demand will decrease by 59% by 2050 in the 2.0 °C Scenario
-
 (5.0 °C: 61,700 PJ in 2050). In the 1.5 °C Scenario, the primary energy demand will
-
 be even lower (22,300 PJ in 2050) because the final energy demand and conversion
-
 losses will be lower.
 
 ```
 0
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-8,00 0
+8,000
 ```
 ```
 10,000
@@ -43418,12 +38764,11 @@ Natural Gas
 ```
 Oil products
 ```
-**Fig. 8.59** Middle East: final energy consumption by transport in the scenarios
+## Fig. 8.59 Middle East: final energy consumption by transport in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 297
 ```
@@ -43554,14 +38899,15 @@ emissions
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.60** Middle East: development of CO 2 emissions by sector and cumulative CO 2 emissions
+## Fig. 8.60 Middle East: development of CO2 emissions by sector and cumulative CO2 emissions
+
 (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
 ```
 0
 ```
 ```
-10,00 0
+10,000
 ```
 ```
 20,000
@@ -43570,16 +38916,16 @@ emissions
 30,000
 ```
 ```
-40,00 0
+40,000
 ```
 ```
-50,00 0
+50,000
 ```
 ```
-60,00 0
+60,000
 ```
 ```
-70,00 0
+70,000
 ```
 ```
 5.0°C2.0°
@@ -43642,6 +38988,8 @@ Geothermal
 ```
 ```
 Solar
+```
+```
 Biomass
 ```
 ```
@@ -43658,19 +39006,20 @@ Crude oil
 ```
 ```
 Coal
+```
+```
 Nuclear
 ```
-**Fig. 8.61** Middle East: projection of total primary energy demand (PED) by energy carrier in the
+## Fig. 8.61 Middle East: projection of total primary energy demand (PED) by energy carrier in the
+
 scenarios (including electricity import balance)
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 298
 
-```
 Both the 2.0 °C and 1.5 °C Scenarios aim to rapidly phase-out coal and oil. This
-```
+
 will cause renewable energy to have a primary energy share of 18% in 2030 and
 
 88% in 2050 in the 2.0 °C Scenario. In the 1.5 °C Scenario, renewables will have a
@@ -43693,7 +39042,7 @@ fuel use will be achieved in the 1.5 °C Scenario: 280 EJ for natural gas, 0.9 
 
 coal, and 270 EJ for oil.
 
-**_8.9.2 The Middle East: Power Sector Analysis_**
+**8.9.2 The Middle East: Power Sector Analysis**
 
 The Middle East has significant renewable energy potential. The region’s solar radi-
 
@@ -43729,7 +39078,7 @@ wind market must expand to 10 GW by 2025 in both scenarios. This represents a
 
 very ambitious target because the market for wind power plants in the Middle East
 
-has never been higher than 117 MW (GWEC 2018 ) (in 2015). Parts of the offshore
+has never been higher than 117 MW (GWEC [^2018]:) (in 2015). Parts of the offshore
 
 oil and gas industry can be transitioned into an offshore wind industry. The total
 
@@ -43737,12 +39086,11 @@ capacity assumed for the Middle East by 2050 is 20–25 GW under both scenarios.
 
 For comparison, the UK had an installed capacity for offshore wind of 6.8 GW and
 
-Germany of 5.4 GW in 2017 (GWEC 2018 ). The vast solar resources in the Middle
+Germany of 5.4 GW in 2017 (GWEC [^2018]:). The vast solar resources in the Middle
 
 ```
 S. Teske et al.
 ```
-
 ```
 299
 ```
@@ -43754,7 +39102,7 @@ annual change of installed capacity [GW/a]
 ```
 ```
 2015–2025 2026–2035 2036–2050
-2.0 °C 1.5 °C2.0 °C 1.5 °C2.0 °C 1.5 °C
+2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Hard coal 0.0 0.0 0.0 0.0 0.0 0.0
 Lignite 0.0 0.0 0.0 0.0 0.0 0.0
 Gas 1.5 7.0 1.9 6.2 −19.1 3.0
@@ -43798,9 +39146,8 @@ renewables will have a stable market share of around 15%–20% over the entire
 
 modelling period in the 2.0 °C Scenario and 15%–20% in the 1.5 °C Scenario.
 
-```
 Average capacity factors correspond to the results for the other world regions.
-```
+
 Table 8.56 shows that the limited dispatchable fossil and nuclear generation will
 
 drop quickly, whereas the significant gas power plant capacity within the region can
@@ -43811,8 +39158,7 @@ early stage. The calculation results are attributed to the assumed dispatch orde
 
 which prioritizes gas over coal and nuclear.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 300
 
@@ -43844,8 +39190,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -43857,8 +39202,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Israel
@@ -44295,7 +39639,6 @@ Iraq-ME
 ```
 S. Teske et al.
 ```
-
 ```
 301
 ```
@@ -44428,16 +39771,14 @@ Middle East
 ```
 13%
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 302
 
 **8.9.2.3 The Middle East: Development of Load, Generation,**
 
-```
-and Residual Load
-```
+**and Residual Load**
+
 The Middle East is assumed to be one of the exporters of solar electricity into the
 
 EU, so the calculated solar installation capacities throughout the region will be sig-
@@ -44453,9 +39794,8 @@ tion of renewables is almost constantly higher than the demand. This electricity
 
 been calculated as exports from the Middle East and imports to Europe.
 
-```
 The Middle East will be one of three dedicated renewable energy export regions.
-```
+
 These exports are in the form of renewable fuels and electricity. The [R]E 24/7
 
 model does not calculate electricity exchange in 1 h steps between the world regions,
@@ -44491,12 +39831,12 @@ variable and
 dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
-Middle East 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+Middle East 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 factor – average
 ```
 ```
-[%/yr]52.6% 45% 43% 27% 24% 34% 21% 29% 25%
+[%/yr] 52.6% 45% 43% 27% 24% 34% 21% 29% 25%
 ```
 ```
 Limited
@@ -44505,7 +39845,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]31.1% 13% 13% 5% 2% 19% 3% 10% 5%
+[%/yr] 31.1% 13% 13% 5% 2% 19% 3% 10% 5%
 ```
 ```
 Limited
@@ -44513,21 +39853,21 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]26.3% 34% 34% 47% 42% 50% 21% 28% 30%
+[%/yr] 26.3% 34% 34% 47% 42% 50% 21% 28% 30%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]52.9% 41% 40% 15% 10% 45% 8% 17% 16%
+[%/yr] 52.9% 41% 40% 15% 10% 45% 8% 17% 16%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]38.9% 83% 83% 66% 57% 43% 20% 36% 38%
+[%/yr] 38.9% 83% 83% 66% 57% 43% 20% 36% 38%
 ```
 ```
 Variable:
@@ -44539,7 +39879,6 @@ renewable
 ```
 S. Teske et al.
 ```
-
 ```
 303
 ```
@@ -45266,8 +40605,7 @@ Iran-ME
 ```
 214
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 304
 
@@ -45302,8 +40640,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -45318,8 +40655,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -45762,7 +41098,6 @@ UAE
 ```
 S. Teske et al.
 ```
-
 ```
 305
 ```
@@ -46174,43 +41509,29 @@ Middle East
 ```
 8630
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 306
 
 **8.10 Eastern Europe/Eurasia**
 
-**_8.10.1 Eastern Europe/Eurasia: Long-Term Energy Pathways_**
+**8.10.1 Eastern Europe/Eurasia: Long-Term Energy Pathways**
 
 **8.10.1.1 Eastern Europe/Eurasia: Final Energy Demand by Sector**
 
 The future development pathways for Eastern Europe/Eurasia’s final energy demand
-
 when the assumptions on population growth, GDP growth, and energy intensity are
-
 combined are shown in Fig. 8.62 for the 5.0 °C, 2.0 °C, and 1.5 °C Scenarios. In the
-
 5.0 °C Scenario, the total final energy demand will increase by 45%, from the cur-
-
 rent 25,500 PJ/year to 37,000 PJ/year in 2050. In the 2.0  °C Scenario, the final
-
 energy demand will decrease by 25% compared with current consumption and will
-
 reach 19,100 PJ/year by 2050. The final energy demand in the 1.5 °C Scenario will
-
 reach 17,800 PJ, 30% below the 2015 level. In the 1.5 °C Scenario, the final energy
-
 demand in 2050 will be 7% lower than in the 2.0  °C Scenario. The electricity
-
 demand for ‘classical’ electrical devices (without power-to-heat or e-mobility) will
-
 increase from 910 TWh/year in 2015 to 1000 TWh/year (2.0 °C) or 940 TWh/year
-
 (1.5  °C) by 2050. Compared with the 5.0  °C case (1600 TWh/year in 2050), the
-
 efficiency measures in the 2.0 °C and 1.5 °C Scenarios will save a maximum of 600
-
 TWh/year and 660 TWh/year, respectively.
 
 ```
@@ -46289,19 +41610,18 @@ Industry fuels Industry electricity
 Residential & other sectors fuels Residential & other sectors electricity
 total power demand (incl. synfuels & H2)
 ```
-**Fig. 8.62** Eastern Europe/Eurasia: development of the final energy demand by sector in the
+## Fig. 8.62 Eastern Europe/Eurasia: development of the final energy demand by sector in the
+
 scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 307
 ```
-```
 Electrification will lead to a significant increase in the electricity demand by
-```
+
 2050. In the 2.0  °C Scenario, the electricity demand for heating will be approxi-
 
 mately 700 TWh/year due to electric heaters and heat pumps, and in the transport
@@ -46320,9 +41640,8 @@ Scenario, 88% higher than in the 5.0 °C case. In the 1.5 °C Scenario, the gr
 
 tricity demand will increase to a maximum of 4800 TWh/year in 2050.
 
-```
 Efficiency gains could be even larger in the heating sector than in the electricity
-```
+
 sector. In the 2.0 °C and 1.5 °C Scenarios, a final energy consumption equivalent to
 
 more than 10,700 PJ/year is avoided by 2050 compared with the 5.0 °C Scenario
@@ -46372,8 +41691,7 @@ wind, and ocean) of 28% and 32%, respectively, by 2030, and 62% and 61%,
 
 respectively, by 2050.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 308
 
@@ -46381,24 +41699,16 @@ respectively, by 2050.
 
 Figure 8.64 shows the development of the electricity-generation and supply costs
 
-over time, including the CO 2 emission costs, in all scenarios. The calculated
-
-electricity- generation costs in 2015 (referring to full costs) were around 4.5 ct/kWh.
+over time, including the CO[^2]: emission costs, in all scenarios. The calculated
+electricity-generation costs in 2015 (referring to full costs) were around 4.5 ct/kWh.
 
 In the 5.0 °C case, the generation costs will increase until 2050, when they reach 10
-
 ct/kWh. In the 2.0 °C Scenario, the generation costs will increase until 2050, when
-
 they will reach 8.6 ct/kWh. In the 1.5 °C Scenario, they will increase to 9.3 ct/kWh,
-
 and then drop to 8.8 ct/kWh by 2050. In the 2.0 °C Scenario, the generation costs in
-
 2050 will be 1.4 ct/kWh lower than in the 5.0 °C case. In the 1.5 °C Scenario, the
-
 generation costs in 2050 will be 1.1 ct/kWh lower than in the 5.0 °C case. Note that
-
 these estimates of generation costs do not take into account integration costs such as
-
 power grid expansion, storage, or other load-balancing measures.
 
 **Table 8.59** Eastern Europe/Eurasia: development of renewable electricity-generation capacity in
@@ -46434,7 +41744,6 @@ Total 5.0 °C 108 126 136 159 186
 ```
 S. Teske et al.
 ```
-
 ```
 309
 ```
@@ -46442,22 +41751,22 @@ S. Teske et al.
 0
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
 5.0°C2.0°
@@ -46526,7 +41835,8 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.63** Eastern Europe/Eurasia: development of electricity-generation structure in the
+## Fig. 8.63 Eastern Europe/Eurasia: development of electricity-generation structure in the
+
 scenarios
 
 ```
@@ -46577,45 +41887,31 @@ scenarios
 ```
 billion ct/kWh
 ```
-```
 $
-```
+
 ```
 2.0°C efficiency measures 2.0°C
 1.5°C efficiency measures 1.5°C
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-```
-Fig. 8.64 Eastern Europe/Eurasia: development of total electricity supply costs and specific
-electricity- generation costs in the scenarios
-```
-```
-8 Energy Scenario Results
-```
+## Fig. 8.64 Eastern Europe/Eurasia: development of total electricity supply costs and specific
+
+electricity-generation costs in the scenarios
+
+[^8]: Energy Scenario Results
 
 310
 
-```
 In the 5.0 °C case, the growth of demand and increasing fossil fuel prices will
-```
 cause the total electricity supply costs to rise from today’s $120 billion/year to more
-
 than $320 billion/year in 2050. In both alternative scenarios, the total supply costs
-
 will be $490 billion/year in 2050. The long-term costs of electricity supply will be
-
 more than 54% higher in the 2.0 °C Scenario than in the 5.0 °C Scenario as a result
-
 of the estimated generation costs and the electrification of heating and mobility.
-
 Further electrification and synthetic fuel generation in the 1.5  °C Scenario will
-
 result in total power generation costs that are 55% higher than in the 5.0 °C case.
-
-```
-Compared with these results, the generation costs when the CO 2 emission costs
-```
+Compared with these results, the generation costs when the CO[^2]: emission costs
 are not considered will increase in the 5.0  °C case to 6.9 ct/kWh. In the 2.0  °C
 
 Scenario, the generation costs will increase continuously until 2050, when they
@@ -46630,63 +41926,37 @@ mum difference in generation costs compared with the 5.0 °C case will be 2.6 c
 
 kWh in 2040. The generation costs in 2050 will still be 2 ct/kWh higher than in the
 
-5.0 °C case. If the CO 2 costs are not considered, the total electricity supply costs in
-
+5.0 °C case. If the CO[^2]: costs are not considered, the total electricity supply costs in
 the 5.0 °C case will rise to about $240 billion in 2050.
 
 **8.10.1.4 Eastern Europe/Eurasia: Future Investments in the Power**
+**Sector**
 
-```
-Sector
-```
 An investment of around $3600 billion will be required for power generation
-
 between 2015 and 2050 in the 2.0 °C Scenario—including additional power plants
-
 for the production of hydrogen and synthetic fuels and investments in plant replace-
-
 ment at the end of their economic lives. This value is equivalent to approximately
-
 $100 billion per year on average, and is $2660 billion more than in the 5.0 °C case
-
 ($940 billion). An investment of around $3770 billion for power generation will be
-
 required between 2015 and 2050  in the 1.5  °C Scenario. On average, this is an
-
 investment of $105 billion per year. In the 5.0 °C Scenario, the investment in con-
-
 ventional power plants will be around 40% of the total cumulative investments,
-
 whereas approximately 60% will be invested in renewable power generation and
-
 co-generation (Fig. 8.65).
-
-```
 However, in the 2.0  °C (1.5  °C) scenario, Eastern Europe/Eurasia will shift
-```
 almost 97% (98%) of its entire investments to renewables and co-generation. By
-
 2030, the fossil fuel share of the power sector investments will predominantly focus
-
 on gas power plants that can also be operated with hydrogen.
-
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
 fuel cost savings in the 2.0 °C Scenario will reach a total of $1730 billion in 2050,
-
 equivalent to $48 billion per year. Therefore, the total fuel cost savings will be
-
 equivalent to 70% of the total additional investments compared to the 5.0  °C
-
 Scenario. The fuel cost savings in the 1.5 °C Scenario will add up to $1900 billion,
-
 or $53 billion per year.
 
 ```
 S. Teske et al.
 ```
-
 ```
 311
 ```
@@ -46706,9 +41976,8 @@ CHP
 Renewable
 34%
 ```
-```
 5.0°C: 2015-2050
-```
+
 ```
 total 938
 billion $
@@ -46738,74 +42007,53 @@ H2)
 ```
 ```
 CHP
-24 %
+24%
 ```
 ```
 Renewable
 73%
 ```
-```
 1.5°C: 2015-2050
-```
+
 ```
 total 3,770
 billion $
 ```
-**Fig. 8.65** Eastern Europe/Eurasia: investment shares for power generation in the scenarios
+## Fig. 8.65 Eastern Europe/Eurasia: investment shares for power generation in the scenarios
 
 **8.10.1.5 Eastern Europe/Eurasia: Energy Supply for Heating**
 
 The final energy demand for heating will increase in the 5.0 °C Scenario by 46%,
-
 from 15,700 PJ/year in 2015 to 22,900 PJ/year in 2050. Energy efficiency measures
-
 will help to reduce the energy demand for heating by 47% in 2050 in both alterna-
-
 tive scenarios. Today, renewables supply around 4% of Eastern Europe/Eurasia’s
-
 final energy demand for heating, with the main contribution from biomass.
-
 Renewable energy will provide 29% of Eastern Europe/Eurasia’s total heat demand
-
 in 2030 in the 2.0 °C Scenario and 42% in the 1.5 °C Scenario. In both scenarios,
-
 renewables will provide 100% of the total heat demand in 2050.
-
-```
 Figure 8.66 shows the development of different technologies for heating in
-```
 Eastern Europe/Eurasia over time, and Table 8.60 provides the resulting renewable
-
 heat supply for all scenarios. Until 2030, biomass will remain the main contributor.
-
 In the long term, the growing use of solar, geothermal, and environmental heat will
-
 lead to a biomass share of 28% in both alternative scenarios.
-
-```
 Heat from renewable hydrogen will further reduce the dependence on fossil fuels
-```
 in both scenarios. Hydrogen consumption in 2050 will be around 1900 PJ/year in
-
 the 2.0 °C Scenario and 2000 PJ/year in the 1.5 °C Scenario.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 312
 
-```
 The direct use of electricity for heating will also increases by a factor of 2.7
-```
+
 between 2015 and 2050, and its final energy share will be 18% in 2050 in the 2.0 °C
 
 Scenario and 19% in the 1.5 °C Scenario.
 
 **8.10.1.6 Eastern Europe/Eurasia: Future Investments in the Heating**
 
-```
-Sector
-```
+**Sector**
+
 The roughly estimated investment in renewable heating technologies up to 2050
 
 will amount to around $1070 billion in the 2.0 °C Scenario (including investments
@@ -46839,16 +42087,16 @@ Total 5.0 °C 548 829 897 1044 1226
 5,000
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-15,00 0
+15,000
 ```
 ```
-20,00 0
+20,000
 ```
 ```
-25,00 0
+25,000
 ```
 ```
 5.0°C2.0°
@@ -46918,18 +42166,16 @@ Biomass
 ```
 Fossil
 ```
-**Fig. 8.66** Eastern Europe/Eurasia: development of heat supply by energy carrier in the scenarios
+## Fig. 8.66 Eastern Europe/Eurasia: development of heat supply by energy carrier in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 313
 ```
 **Table 8.61** Eastern Europe/Eurasia: installed capacities for renewable heat generation in the
 scenarios
-
 in GW Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 107 150 157 169 183
 2.0 °C 107 230 249 263 172
@@ -46946,7 +42192,8 @@ Heat pumps 5.0 °C 1 1 2 2 3
 Totala 5.0 °C 109 154 162 177 196
 2.0 °C 109 325 483 841 839
 1.5 °C 109 361 522 758 805
-a Excluding direct electric heating
+
+aExcluding direct electric heating
 
 per year. The largest share of the investments in Eastern Europe/Eurasia is assumed
 
@@ -46976,53 +42223,33 @@ transport demand will lead to even higher energy savings in the 1.5 °C Scenari
 
 62% (or 4970 PJ/year) in 2050 compared with the 5.0 °C case (Table 8.62, Fig. 8.68).
 
-```
 By 2030, electricity will provide 14% (240 TWh/year) of the transport sector’s
-```
 total energy demand in the 2.0 °C Scenario, whereas in 2050, the share will be 54%
-
 (630 TWh/year). In 2050, up to 410 PJ/year of hydrogen will be used in the trans-
-
 port sector as a complementary renewable option. In the 1.5 °C Scenario, the annual
-
 electricity demand will be 510 TWh in 2050. The 1.5 °C Scenario also assumes a
-
 hydrogen demand of 330 PJ/year by 2050.
-
-```
 Biofuel use is limited in the 2.0  °C Scenario to a maximum of 720 PJ/year
-```
 Therefore, around 2030, synthetic fuels based on power-to-liquid will be intro-
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 314
 
 duced, with a maximum amount of 880 PJ/year in 2050. With the lower overall
-
 energy demand in transport, biofuel use will also be reduced in the 1.5 °C Scenario
-
 to a maximum of 700 PJ/year The maximum synthetic fuel demand will amount to
-
 540 PJ/year.
 
-**8.10.1.8 Eastern Europe/Eurasia: Development of CO 2 Emissions**
+**8.10.1.8 Eastern Europe/Eurasia: Development of CO**[^2]: **Emissions**
 
-In the 5.0 °C Scenario, Eastern Europe/Eurasia’s annual CO 2 emissions will increase
-
+In the 5.0 °C Scenario, Eastern Europe/Eurasia’s annual CO[^2]: emissions will increase
 by 14%, from 2420 Mt. in 2015 to 2768 Mt. in 2050. The stringent mitigation mea-
-
 sures in both alternative scenarios will cause the annual emissions to fall to 590 Mt.
-
 in 2040 in the 2.0 °C Scenario and to 340 Mt. in the 1.5 °C Scenario, with further
-
-reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emissions
-
+reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emissions
 from 2015 until 2050 will add up to 95 Gt. In contrast, in the 2.0  °C and 1.5  °C
-
 Scenarios, the cumulative emissions for the period from 2015 until 2050 will be 45
-
 Gt and 36 Gt, respectively.
 
 ```
@@ -47094,13 +42321,13 @@ heat pumps
 ```
 total 1,060 billion $
 ```
-**Fig. 8.67** Eastern Europe/Eurasia: development of investments for renewable heat-generation
+## Fig. 8.67 Eastern Europe/Eurasia: development of investments for renewable heat-generation
+
 technologies in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 315
 ```
@@ -47226,65 +42453,39 @@ Natural Gas
 ```
 Oil products
 ```
-**Fig. 8.68** Eastern Europe/Eurasia: final energy consumption by transport in the scenarios
+## Fig. 8.68 Eastern Europe/Eurasia: final energy consumption by transport in the scenarios
 
-```
-Therefore, the cumulative CO 2 emissions will decrease by 53% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 53% in the 2.0  °C
 Scenario and by 62% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 reduction in annual emissions will occur in both alternative scenarios. In the 2.0 °C
-
 Scenario, this reduction will be greatest in ‘Power generation’, followed by the
-
 ‘Residential and other’ and ‘Industry’ sectors (Fig. 8.69).
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 316
 
 **8.10.1.9 Eastern Europe/Eurasia: Primary Energy Consumption**
 
 The levels of primary energy consumption in the three scenarios when the assump-
-
 tions discussed above are taken into account are shown in Fig. 8.70. In the 2.0 °C
-
 Scenario, the primary energy demand will decrease by 25%, from around 46,000
-
 PJ/year in 2015 to 34,600 PJ/year in 2050. Compared with the 5.0 °C Scenario, the
-
 overall primary energy demand will decrease by 40% by 2050 in the 2.0 °C Scenario
-
 (5.0 °C: 57,700 PJ in 2050). In the 1.5 °C Scenario, the primary energy demand will
-
 be even lower (33,600 PJ in 2050) because the final energy demand and conversion
-
 losses will be lower.
-
-```
 Both the 2.0 °C and 1.5 °C Scenarios aim to rapidly phase-out coal and oil. This
-```
 will cause renewable energy to have a primary energy share of 26% in 2030 and
-
 91% in 2050 in the 2.0 °C Scenario. In the 1.5 °C Scenario, renewables will have a
-
 primary energy share of more than 90% in 2050 (including non-energy consump-
-
 tion, which will still include fossil fuels). Nuclear energy will be phased-out by
-
 2040  in both the 2.0  °C Scenario and 1.5  °C Scenario. The cumulative primary
-
 energy consumption of natural gas in the 5.0  °C case will add up to 840 EJ, the
-
 cumulative coal consumption to about 290 EJ, and the crude oil consumption to 340
-
 EJ. In contrast, in the 2.0 °C Scenario, the cumulative gas demand will amount to
-
 510 EJ, the cumulative coal demand to 100 EJ, and the cumulative oil demand to
-
 160 EJ. Even lower fossil fuel use will be achieved in the 1.5 °C Scenario: 450 EJ
-
 for natural gas, 70 EJ for coal, and 120 EJ for oil.
 
 ```
@@ -47315,19 +42516,19 @@ for natural gas, 70 EJ for coal, and 120 EJ for oil.
 500
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-1,50 0
+1,500
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-2,50 0
+2,500
 ```
 ```
-3,00 0
+3,000
 ```
 ```
 5.0°C2.0°
@@ -47385,8 +42586,7 @@ emissions
 CO
 ```
 ```
-2
-emissions
+emissions 2
 ```
 ```
 [Mt/yr]
@@ -47398,13 +42598,13 @@ emissions
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.69** Eastern Europe/Eurasia: development of CO 2 emissions by sector and cumulative CO 2
+### Fig. 8.69 Eastern Europe/Eurasia: development of CO2 emissions by sector and cumulative CO2
+
 emissions (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
 ```
 S. Teske et al.
 ```
-
 ```
 317
 ```
@@ -47515,10 +42715,11 @@ Coal
 ```
 Nuclear
 ```
-**Fig. 8.70** Eastern Europe/Eurasia: projection of total primary energy demand (PED) by energy
+## Fig. 8.70 Eastern Europe/Eurasia: projection of total primary energy demand (PED) by energy
+
 carrier in the scenarios (including electricity import balance)
 
-**_8.10.2 Eastern Europe/Eurasia: Power Sector Analysis_**
+**8.10.2 Eastern Europe/Eurasia: Power Sector Analysis**
 
 This region sits between the strong economic hubs of the EU, China, and India.
 
@@ -47528,15 +42729,14 @@ and gas, and supplies all surrounding countries. Therefore, Eurasia will be key 
 
 future energy developments. Its renewable energy industry is among the smallest in
 
-the world, but recent developments indicate growth in both the wind (WPM 3- 2018 )
+the world, but recent developments indicate growth in both the wind (WPM 3-[^2018]:)
 
-and solar industries (PVM 3- 2018 ).
+and solar industries (PVM 3-[^2018]:).
 
 **8.10.2.1 Eurasia: Development of Power Plant Capacities—2.0 °C**
 
-```
-Scenario
-```
+**Scenario**
+
 The northern part of Eurasia and Mongolia have significant wind potential, whereas
 
 the southern part, especially in Central Asia, has substantial possibilities for utility-
@@ -47553,8 +42753,7 @@ Eurasia, especially in the European part, Russia, and the agricultural regions a
 
 the Caspian Sea (Table 8.63).
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 318
 
@@ -47577,9 +42776,8 @@ Central Asia, the area around the Caspian Sea, and Mongolia will remain low due 
 
 geographic distances.
 
-```
 Compared with other world regions, it will take longer for the capacity factor of
-```
+
 the limited dispatchable power plants to drop below economic viability, as shown in
 
 Table 8.65.
@@ -47607,13 +42805,13 @@ change of installed capacity [GW/a]
 ```
 ```
 2015–2025 2026–2035 2036–2050
-2.0 °C 1.5 °C2.0 °C 1.5 °C2.0 °C 1.5 °C
-Hard coal − 1 − 6 − 6 − 4 0 0
-Lignite − 3 − 4 − 2 − 1 0 0
-Gas 4 1 0 − 2 − 17 − 5
+2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
+Hard coal −1 −6 −6 −4 0 0
+Lignite −3 −4 −2 −1 0 0
+Gas 4 1 0 −2 −17 −5
 Hydrogen-gas 0 2 2 4 20 17
-Oil/Diesel − 2 − 2 − 1 − 1 0 0
-Nuclear − 2 − 3 − 2 − 4 − 1 0
+Oil/Diesel −2 −2 −1 −1 0 0
+Nuclear −2 −3 −2 −4 −1 0
 Biomass 3 8 3 5 4 2
 Hydro 2 1 1 1 0 0
 Wind (onshore) 7 20 26 28 24 21
@@ -47628,7 +42826,6 @@ Renewable fuel based co-generation 2 7 4 7 5 3
 ```
 S. Teske et al.
 ```
-
 ```
 319
 ```
@@ -47660,8 +42857,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -47673,8 +42869,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Eastern Europe
@@ -48111,8 +43306,7 @@ East Caspian Sea
 ```
 (continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 320
 
@@ -48138,8 +43332,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -48151,8 +43344,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Central Asia
@@ -48292,7 +43484,6 @@ Table 8.64
 ```
 S. Teske et al.
 ```
-
 ```
 321
 ```
@@ -48304,13 +43495,13 @@ variable and
 dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
-Eurasia 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+Eurasia 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 factor –
 average
 ```
 ```
-[%/yr]36.8% 31% 40% 48% 47% 34% 34% 34% 34%
+[%/yr] 36.8% 31% 40% 48% 47% 34% 34% 34% 34%
 ```
 ```
 Limited
@@ -48319,7 +43510,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]43.8% 31% 30% 22% 18% 19% 0% 7% 4%
+[%/yr] 43.8% 31% 30% 22% 18% 19% 0% 7% 4%
 ```
 ```
 Limited
@@ -48327,63 +43518,46 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]39.3% 42% 42% 57% 54% 60% 39% 39% 40%
+[%/yr] 39.3% 42% 42% 57% 54% 60% 39% 39% 40%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]27.6% 18% 17% 7% 6% 31% 8% 12% 15%
+[%/yr] 27.6% 18% 17% 7% 6% 31% 8% 12% 15%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]38.7% 48% 73% 73% 68% 41% 49% 50% 51%
+[%/yr] 38.7% 48% 73% 73% 68% 41% 49% 50% 51%
 ```
 ```
 Variable:
 renewable
 ```
 ```
-[%/yr]10.5% 11% 11% 40% 39% 25% 32% 32% 33%
-```
+[%/yr] 10.5% 11% 11% 40% 39% 25% 32% 32% 33%
 ```
 Table 8.64. However, after 2030, significant increases will be required by 2050,
-```
 especially in Russia. The export of renewable electricity can also take place via
-
 existing gas pipelines with power-to-gas technologies. Between 2030 and 2050, the
-
 loads for all regions will double, due to the increased electrification of the heating,
-
 industry, and transport sectors (Table 8.66).
-
-```
 In Eurasia, the main storage technology for both scenarios is pumped hydro,
-```
 whereas hydrogen plays a major role for the grid integration of variable generation
-
 (Table 8.67). Hydrogen production can also be used for load management, although
-
 not for short peak loads. Due to the technical and economic limitations associated
-
 with the increased interconnection via transmission lines and pumped hydro storage
-
 systems, curtailment will be higher than the scenario target (a maximum of 10% by
-
 2050). For Eastern Europe, Kazakhstan, Mongolia, and the East Caspian Sea, the
-
 calculated curtailment will be between 10% and 14%, whereas the West Caspian
-
 Region will have the highest curtailment of 19% in the 2.0 °C Scenario and 17% in
-
 the 1.5 °C Scenario. Further research and optimization are required.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 322
 
@@ -49002,7 +44176,6 @@ Central Asia
 ```
 S. Teske et al.
 ```
-
 ```
 323
 ```
@@ -49037,8 +44210,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -49053,8 +44225,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -49696,11 +44867,9 @@ East Caspian Sea
 1775
 ```
 ```
-30,852
-(continued)
+30,852(continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 324
 
@@ -49735,8 +44904,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -49751,8 +44919,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -49991,7 +45158,6 @@ Eurasia Eastern Europe
 ```
 S. Teske et al.
 ```
-
 ```
 325
 ```
@@ -49999,46 +45165,46 @@ S. Teske et al.
 0
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-7,00 0
+7,000
 ```
 ```
 0
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-20,00 0
+20,000
 ```
 ```
 30,000
 ```
 ```
-40,00 0
+40,000
 ```
 ```
-50,00 0
+50,000
 ```
 ```
-60,00 0
+60,000
 ```
 ```
 5.0°C2.0°
@@ -50097,49 +45263,33 @@ Industry fuelsIndustry electricity
 Residential & other sectors fuels Residential & other sectors electricity
 total power demand (incl. synfuels & H2)
 ```
-**Fig. 8.71** Non-OECD Asia: development of the final energy demand by sector in the scenarios
+## Fig. 8.71 Non-OECD Asia: development of the final energy demand by sector in the scenarios
 
 **8.11 Non-OECD Asia**
 
-**_8.11.1 Non-OECD Asia: Long-Term Energy Pathways_**
+**8.11.1 Non-OECD Asia: Long-Term Energy Pathways**
 
 **8.11.1.1 Non-OECD Asia: Final Energy Demand by Sector**
 
 The future development pathways for Non-OECD Asia’s final energy demand when
-
 the assumptions on population growth, GDP growth, and energy intensity are com-
-
 bined are shown in Fig. 8.71 for the 5.0  °C, 2.0  °C, and 1.5  °C Scenarios. In the
-
 5.0 °C Scenario, the total final energy demand will increase by 111% from the cur-
-
 rent 24,500 PJ/year to 51,800 PJ/year in 2050. In the 2.0  °C Scenario, the final
-
 energy demand will increase at a much lower rate by 16% compared with current
-
 consumption, and will reach 28,300 PJ/year by 2050. The final energy demand in
-
 the 1.5 °C Scenario will reach 25,700 PJ, 5% above the 2015 demand. In the 1.5 °C
-
 Scenario, the final energy demand in 2050 will be 9% lower than in the 2.0  °C
-
 Scenario. The electricity demand for ‘classical’ electrical devices (without power-
-
-to- heat or e-mobility) will increase from 830 TWh/year in 2015 to 2480 TWh/year
-
+to-heat or e-mobility) will increase from 830 TWh/year in 2015 to 2480 TWh/year
 in 2050 in both alternative scenarios. Compared with the reference case (3880 TWh/
-
 year in 2050), the efficiency measures in the 2.0 °C and 1.5 °C scenarios will save
-
 1400 TWh/year in 2050.
-
-```
 Electrification will lead to a significant increase in the electricity demand by
-```
+
 2050. In the 2.0  °C Scenario, the electricity demand for heating will be approxi-
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 326
 
@@ -50159,9 +45309,8 @@ rise from 1400 TWh/year in 2015 to 6400 TWh/year in 2050 in the 2.0 °C Scenar
 
 demand will increase to a maximum of 6000 TWh/year in 2050.
 
-```
 The efficiency gains in the heating sector could be even larger than those in the
-```
+
 electricity sector. In the 2.0 °C and 1.5 °C Scenarios, a final energy consumption
 
 equivalent to about 6900 PJ/year and 8100 PJ/year, respectively, will be avoided by
@@ -50213,27 +45362,21 @@ respectively, by 2050.
 
 Figure 8.73 shows the development of the electricity-generation and supply costs
 
-over time, including the CO 2 emission costs, in all scenarios. The calculated elec-
-
+over time, including the CO[^2]: emission costs, in all scenarios. The calculated elec-
 tricity generation costs in 2015 (referring to full costs) were around 5.2 ct/kWh. In
 
 the 5.0 °C case, the generation costs will increase until 2050, when they reach 11.7
-
 ct/kWh. The generation costs will increase in the 2.0 °C Scenario until 2030, when
-
 they will reach 8.1 ct/kWh, and will drop to 6.3 ct/kWh by 2050. In the 1.5  °C
 
 ```
 S. Teske et al.
 ```
-
 ```
 327
 ```
 **Table 8.68** Non-OECD Asia: development of renewable electricity-generation capacity in the
 scenarios
-
-```
 in GW Case 2015 2025 2030 2040 2050
 Hydro 5.0 °C 63 85 124 151 183
 2.0 °C 63 86 86 90 91
@@ -50259,7 +45402,7 @@ Ocean 5.0 °C 0 0 0 0 0
 Total 5.0 °C 78 113 191 257 348
 2.0 °C 78 276 610 1518 2432
 1.5 °C 78 373 804 1658 2325
-```
+
 ```
 0
 ```
@@ -50285,7 +45428,7 @@ Total 5.0 °C 78 113 191 257 348
 7,000
 ```
 ```
-5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C
+5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C
 2015 2025 2030 2040 2050
 ```
 ```
@@ -50307,10 +45450,9 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.72** Non-OECD Asia: development of electricity-generation structure in the scenarios
+## Fig. 8.72 Non-OECD Asia: development of electricity-generation structure in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 328
 
@@ -50365,50 +45507,33 @@ Coal
 ```
 billion ct/kWh
 ```
-```
 $
-```
+
 ```
 2.0°C efficiency measures 2.0°C
 1.5°C efficiency measures 1.5°C
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-**Fig. 8.73** Non-OECD Asia: development of total electricity supply costs and specific electricity
+## Fig. 8.73 Non-OECD Asia: development of total electricity supply costs and specific electricity
+
 generation costs in the scenarios
 
 Scenario, they will increase to 7.9 ct/kWh, and drop to 6.1 ct/kWh by 2050. In both
-
 alternative scenarios, the generation costs in 2050 will be around 5.5 ct/kWh lower
-
 than in the 5.0 °C case. Note that these estimates of generation costs do not take into
-
 account integration costs such as power grid expansion, storage, or other load-
-
 balancing measures.
-
-```
 In the 5.0 °C case, the growth in demand and increasing fossil fuel prices will
-```
 cause the total electricity supply costs to rise from today’s $70 billion/year to more
-
 than $560 billion/year in 2050. In the 2.0 °C Scenario, the total supply costs will be
-
 $430 billion/year and in the 1.5  °C Scenario they will be $390 billion/year. The
-
 long-term costs for electricity supply will be more than 24% lower in the 2.0  °C
-
 Scenario than in the 5.0 °C Scenario as a result of the estimated generation costs and
-
 the electrification of heating and mobility. Further reductions in demand in the
-
 1.5 °C Scenario will result in total power generation costs that are 30% lower than
-
 in the 5.0 °C case.
-
-```
-Compared with these results, the generation costs when the CO 2 emission costs
-```
+Compared with these results, the generation costs when the CO[^2]: emission costs
 are not considered will increase in the 5.0  °C case to 7.4 ct/kWh. In the 2.0  °C
 
 Scenario, they still increase until 2030, when they reach 6.5 ct/kWh, and then drop
@@ -50419,8 +45544,7 @@ then drop to 6.1 ct/kWh by 2050. In the 2.0 °C case, the generation costs will
 
 maximum in 2050, and 1.1 ct/kWh lower than in the 5.0 °C, whereas they will be
 
-1.3 ct/kWh in the 1.5  °C Scenario. If the CO 2 costs are not considered, the total
-
+1.3 ct/kWh in the 1.5  °C Scenario. If the CO[^2]: costs are not considered, the total
 electricity supply costs in the 5.0 °C case will increase to about $360 billion/year in
 
 2050.
@@ -50428,41 +45552,25 @@ electricity supply costs in the 5.0 °C case will increase to about $360 billio
 ```
 S. Teske et al.
 ```
-
 ```
 329
 ```
 **8.11.1.4 Non-OECD Asia: Future Investments in the Power Sector**
 
 An investment of $4030 billion will be required for power generation between 2015
-
 and 2050 in the 2.0 °C Scenario—including investment in additional power plants
-
 for the production of hydrogen and synthetic fuels and investments in plant replace-
-
 ment at the end of their economic lifetimes. This value is equivalent to approxi-
-
 mately $112 billion per year on average, and is $2660 billion more than in the
-
 5.0 °C case ($1370 billion). An investment of around $3950 billion for power gen-
-
 eration will be required between 2015 and 2050 in the 1.5 °C Scenario. On average,
-
 this is an investment of $110 billion per year. In the 5.0 °C Scenario, the investment
-
 in conventional power plants will be around 55% of the total cumulative invest-
-
 ments, whereas approximately 45% will be invested in renewable power generation
-
 and co-generation (Fig. 8.74).
-
-```
 However, in the 2.0 °C (1.5 °C) Scenario, Non-OECD Asia will shift almost 93%
-```
 (95%) of its entire investment to renewables and co-generation. By 2030, the fossil
-
 fuel share of power sector investment will predominantly focus on gas power plants
-
 that can also be operated with hydrogen.
 
 ```
@@ -50481,9 +45589,8 @@ CHP
 Renewable
 44%
 ```
-```
 5.0°C: 2015-2050
-```
+
 ```
 total 1,366
 billion $
@@ -50520,72 +45627,45 @@ CHP
 Renewable
 89%
 ```
-```
 1.5°C: 2015-2050
-```
+
 ```
 total 3,950
 billion $
 ```
-**Fig. 8.74** Non-OECD Asia: investment shares for power generation in the scenarios
+## Fig. 8.74 Non-OECD Asia: investment shares for power generation in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 330
 
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative fuel
-```
 cost savings in the 2.0 °C Scenario will reach a total of $2610 billion in 2050, equiva-
-
 lent to $73 billion per year. Therefore, the total fuel cost savings will be equivalent to
-
 98% of the total additional investments compared to the 5.0 °C Scenario. The fuel cost
-
 savings in the 1.5 °C Scenario will add up to $2770 billion, or $77 billion per year.
 
 **8.11.1.5 Non-OECD Asia: Energy Supply for Heating**
 
 The final energy demand for heating will increase by 103% in the 5.0 °C scenario,
-
 from 10,800 PJ/year in 2015 to 21,900 PJ/year in 2050. Energy efficiency measures
-
 will help to reduce the energy demand for heating by 32% by 2050 in the 2.0 °C
-
 Scenario, relative to the 5.0  °C case, and by 37% in the 1.5  °C Scenario. Today,
-
 renewables supply around 43% of Non-OECD Asia’s final energy demand for heat-
-
 ing, with the main contribution from biomass. Renewable energy will provide 57%
-
 of Non-OECD Asia’s total heat demand in 2030 in the 2.0 °C Scenario and 70% in
-
 the 1.5 °C Scenario. In both scenarios, renewables will provide 100% of the total
-
 heat demand in 2050.
-
-```
 Figure 8.75 shows the development of different technologies for heating in Non-
-```
 OECD Asia over time, and Table 8.69 provides the resulting renewable heat supply
-
 for all scenarios. Up to 2030, biomass remains the main contributor. In the long
-
 term, the growing use of solar, geothermal, and environmental heat will lead to a
-
 biomass share of 40% in the 2.0 °C Scenario and 38% in the 1.5 °C Scenario. The
-
 heat from renewable hydrogen will further reduce the dependence on fossil fuels in
-
 both scenarios. The hydrogen consumption in 2050 will be around 900 PJ/year in
-
 the 2.0 °C Scenario and 1300 PJ/year in the 1.5 °C Scenario. The direct use of elec-
-
 tricity for heating will also increase by a factor of 5-5.7 between 2015 and 2050.
-
 Energy for heating will have a final energy share of 34% in 2050  in the 2.0  °C
-
 Scenario and 32% in the 1.5 °C Scenario.
 
 ```
@@ -50595,16 +45675,16 @@ Scenario and 32% in the 1.5 °C Scenario.
 5,000
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-15,00 0
+15,000
 ```
 ```
-20,00 0
+20,000
 ```
 ```
-25,00 0
+25,000
 ```
 ```
 5.0°C2.0°
@@ -50674,12 +45754,11 @@ Biomass
 ```
 Fossil
 ```
-**Fig. 8.75** Non-OECD Asia: development of heat supply by energy carrier in the scenarios
+## Fig. 8.75 Non-OECD Asia: development of heat supply by energy carrier in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 331
 ```
@@ -50719,11 +45798,8 @@ transport demand will lead to even higher energy savings in the 1.5 °C Scenari
 
 73% (or 9660 PJ/year) by 2050 compared to the 5.0 °C case (Table 8.71, Fig. 8.77).
 
-```
 By 2030, electricity will provide 6% (120 TWh/year) of the transport sector’s
-```
 total energy demand in the 2.0 °C Scenario, whereas in 2050, the share will be 36%
-
 (480 TWh/year). In 2050, up to 650 PJ/year of hydrogen will be used in the trans-
 
 **Table 8.69** Non-OECD Asia: development of renewable heat supply in the scenarios (excluding
@@ -50747,8 +45823,7 @@ Total 5.0 °C 4464 4811 4821 4948 5047
 2.0 °C 4464 5222 6398 8501 9942
 1.5 °C 4464 5542 7083 8516 9411
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 332
 
@@ -50828,11 +45903,11 @@ heat pumps
 ```
 total 1,005 billion $
 ```
-**Fig. 8.76** Non-OECD Asia: development of investments for renewable heat-generation technolo-
+## Fig. 8.76 Non-OECD Asia: development of investments for renewable heat-generation technolo-
+
 gies in the scenarios
 
 **Table 8.70** Non-OECD Asia: installed capacities for renewable heat generation in the scenarios
-
 Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 1886 1925 1767 1610 1459
 2.0 °C 1886 1850 1557 1150 821
@@ -50849,12 +45924,12 @@ Heat pumps 5.0 °C 0 0 0 0 0
 Totala 5.0 °C 1888 1928 1777 1631 1496
 2.0 °C 1888 1981 1954 1944 1825
 1.5 °C 1888 2004 2127 1847 1598
-a Excluding direct electric heating
+
+aExcluding direct electric heating
 
 ```
 S. Teske et al.
 ```
-
 ```
 333
 ```
@@ -50864,9 +45939,8 @@ electricity demand will be 350 TWh in 2050. The 1.5 °C Scenario also assumes a
 
 hydrogen demand of 500 PJ/year by 2050.
 
-```
 Biofuel use is limited in the 2.0  °C Scenario to a maximum of 1940 PJ/year
-```
+
 Therefore, around 2030, synthetic fuels based on power-to-liquid will be intro-
 
 duced, with a maximum amount of 530 PJ/year in 2050. Due to the lower overall
@@ -50909,13 +45983,13 @@ Total 5.0 °C 6521 7789 10,010 11,970 13,153
 8,000
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-12,00 0
+12,000
 ```
 ```
-14,00 0
+14,000
 ```
 ```
 5.0°C2.0°
@@ -50969,6 +46043,8 @@ PJ/yr
 Efficiency
 (compared to
 5.0°C)
+```
+```
 Hydrogen
 ```
 ```
@@ -50986,44 +46062,30 @@ Natural Gas
 ```
 Oil products
 ```
-**Fig. 8.77** Non-OECD Asia: final energy consumption by transport in the scenarios
+## Fig. 8.77 Non-OECD Asia: final energy consumption by transport in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 334
 
 maximum of 1540 PJ/year. The maximum synthetic fuel demand will amount to
-
 280 PJ/year.
 
-**8.11.1.8 Non-OECD Asia: Development of CO 2 Emissions**
+**8.11.1.8 Non-OECD Asia: Development of CO**[^2]: **Emissions**
 
-In the 5.0 °C Scenario, Non-OECD Asia’s annual CO 2 emissions will increase by
-
+In the 5.0 °C Scenario, Non-OECD Asia’s annual CO[^2]: emissions will increase by
 160%, from 1880 Mt. in 2015 to 4880 Mt. in 2050. The stringent mitigation mea-
 
 sures in both alternative scenarios will cause the annual emissions to fall to 630 Mt.
-
 in 2040 in the 2.0 °C Scenario and to 330 Mt. in the 1.5 °C Scenario, with further
-
-reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emissions
-
+reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emissions
 from 2015 until 2050 will add up to 121 Gt. In contrast, in the 2.0 °C and 1.5 °C
-
 Scenarios, the cumulative emissions for the period from 2015 until 2050 will be 42
-
 Gt and 32 Gt, respectively.
-
-```
-Therefore, the cumulative CO 2 emissions will decrease by 65% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 65% in the 2.0  °C
 Scenario and by 74% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 reduction in annual emissions will occur in both alternative scenarios. In the 2.0 °C
-
 Scenario, this reduction will be greatest in ‘Power generation’, followed by the
-
 ‘Residential and other’ and ‘Industry’ sectors (Fig. 8.78).
 
 ```
@@ -51054,22 +46116,22 @@ Scenario, this reduction will be greatest in ‘Power generation’, followed by
 0
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
 5.0°C2.0°
@@ -51139,13 +46201,13 @@ emissions 2
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.78** Non-OECD Asia: development of CO 2 emissions by sector and cumulative CO 2 emis-
+## Fig. 8.78 Non-OECD Asia: development of CO2 emissions by sector and cumulative CO2 emis-
+
 sions (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
 ```
 S. Teske et al.
 ```
-
 ```
 335
 ```
@@ -51167,9 +46229,8 @@ be even lower (39,300 PJ in 2050) because the final energy demand and conversion
 
 losses will be lower.
 
-```
 Both the 2.0 °C Scenario and 1.5 °C Scenario aim to rapidly phase-out coal and
-```
+
 oil. This will cause renewable energy to have a primary energy share of 40% in 2030
 
 and 93% in 2050  in the 2.0  °C Scenario. In the 1.5  °C Scenario, renewables will
@@ -51297,11 +46358,11 @@ Coal
 ```
 Nuclear
 ```
-**Fig. 8.79** Non-OECD Asia: projection of total primary energy demand (PED) by energy carrier in
+## Fig. 8.79 Non-OECD Asia: projection of total primary energy demand (PED) by energy carrier in
+
 the scenarios (including electricity import balance)
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 336
 
@@ -51313,11 +46374,11 @@ EJ. In contrast, in the 2.0 °C Scenario, the cumulative gas demand will amoun
 
 for natural gas, 70 EJ for coal, and 190 EJ for oil.
 
-**_8.11.2 Non-OECD Asia: Power Sector Analysis_**
+**8.11.2 Non-OECD Asia: Power Sector Analysis**
 
 Non-OECD Asia is the most heterogeneous region of all IEA world energy regions
 
-because it includes not only all the ASEAN countries (ASEAN 2018 ) of South East
+because it includes not only all the ASEAN countries (ASEAN [^2018]:) of South East
 
 Asia, but also central and south Asian nations, as well all 16 Pacific Island states. As
 
@@ -51368,7 +46429,6 @@ able, and that there will not be any at the end of the modelling period (Table 
 ```
 S. Teske et al.
 ```
-
 ```
 337
 ```
@@ -51378,9 +46438,8 @@ around 25% in all sub-regions, whereas dispatchable renewables will remain stabl
 
 at around 25%–30% until 2050.
 
-```
 Compared with other world regions, the capacity factors for limited dispatchable
-```
+
 fossil and nuclear energy will remain relatively high until 2030, as shown in
 
 Table 8.74. The time required for variable power generation to replace fossil and
@@ -51393,9 +46452,8 @@ all coal capacities across the region will be phased out by 2030, except for 4 G
 
 **8.11.2.3 Non-OECD Asia: Development of Load, Generation,**
 
-```
-and Residual Load
-```
+**and Residual Load**
+
 Because both scenarios were calculated under the assumption that there are no
 
 interconnection capacities at the sub-regional level, more dispatch capacity will be
@@ -51414,12 +46472,12 @@ annual change of installed capacity [GW/a]
 ```
 ```
 2015–2025 2026–2035 2036–2050
-2.0 °C 1.5 °C2.0 °C 1.5 °C2.0 °C 1.5 °C
-Hard coal 2 − 6 − 7 − 4 − 1 0
-Lignite − 2 − 4 − 1 − 2 0 0
-Gas 4 10 19 14 − 26 − 22
+2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
+Hard coal 2 −6 −7 −4 −1 0
+Lignite −2 −4 −1 −2 0 0
+Gas 4 10 19 14 −26 −22
 Hydrogen-gas 0 1 0 6 33 24
-Oil/diesel 0 − 5 − 4 − 5 − 1 0
+Oil/diesel 0 −5 −4 −5 −1 0
 Nuclear 0 0 0 0 0 0
 Biomass 2 1 1 1 1 1
 Hydro 3 2 0 0 0 0
@@ -51432,8 +46490,7 @@ Solar thermal power plants 1 6 9 8 17 13
 Ocean energy 0 0 1 1 3 2
 Renewable fuel based co-generation 1 2 1 1 1 1
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 338
 
@@ -51462,8 +46519,7 @@ Dispatch RE
 Dispatch Fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -51475,8 +46531,7 @@ Dispatch RE
 Dispatch Fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Asia West: Pakistan, Afghanistan, Nepal, Bhutan
@@ -51913,7 +46968,6 @@ Asia South West: Malaysia, Brunei
 ```
 S. Teske et al.
 ```
-
 ```
 339
 ```
@@ -52118,14 +47172,13 @@ Non-OECD Asia
 ```
 17%
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 340
 
 variable renewable generation. According to the Philippine Department of Energy,
 
-the peak demand in the Philippines in 2016 was 13.3 GW (PR-DoE 2016 ) (9.7 GW
+the peak demand in the Philippines in 2016 was 13.3 GW (PR-DoE [^2016]:) (9.7 GW
 
 in Luzon, 1.9 GW in the Visayas, and 1.7 GW in Mindanao). The calculated load for
 
@@ -52135,9 +47188,8 @@ to 75.5 GW by 2050 under the 2.0  °C Scenario. The results for all Asian regio
 
 show a quadrupling of load by 2050.
 
-```
 The lack of interconnection potential between or even within most sub-regions
-```
+
 will lead to some curtailment.
 
 ```
@@ -52158,7 +47210,7 @@ dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
 Non-OECD
-Asia 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+Asia 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 factor – average
 ```
@@ -52172,7 +47224,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]71.4% 52% 53% 44% 33% 31% 13% 25% 0%
+[%/yr] 71.4% 52% 53% 44% 33% 31% 13% 25% 0%
 ```
 ```
 Limited
@@ -52180,33 +47232,32 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]40.5% 61% 61% 59% 56% 58% 53% 45% 49%
+[%/yr] 40.5% 61% 61% 59% 56% 58% 53% 45% 49%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]50.2% 32% 33% 23% 27% 37% 13% 28% 12%
+[%/yr] 50.2% 32% 33% 23% 27% 37% 13% 28% 12%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]34.4% 75% 75% 74% 69% 41% 58% 53% 51%
+[%/yr] 34.4% 75% 75% 74% 69% 41% 58% 53% 51%
 ```
 ```
 Variable:
 renewable
 ```
 ```
-[%/yr]13.1% 19% 19% 36% 35% 26% 31% 30% 29%
+[%/yr] 13.1% 19% 19% 36% 35% 26% 31% 30% 29%
 ```
 ```
 S. Teske et al.
 ```
-
 ```
 341
 ```
@@ -52744,8 +47795,7 @@ Asia South West: Malaysia, Brunei
 ```
 (continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 342
 
@@ -52962,7 +48012,6 @@ Table 8.75
 ```
 S. Teske et al.
 ```
-
 ```
 343
 ```
@@ -52997,8 +48046,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -53013,8 +48061,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -53556,8 +48603,7 @@ Asia Central North: Viet Nam, Laos and Cambodia
 ```
 45,848(continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 344
 
@@ -53586,8 +48632,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -53602,8 +48647,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -54052,107 +49096,90 @@ Table 8.76
 ```
 S. Teske et al.
 ```
-
 ```
 345
 ```
 **8.12 India**
 
-**_8.12.1 India: Long-Term Energy Pathways_**
+**8.12.1 India: Long-Term Energy Pathways**
 
 **8.12.1.1 India: Final Energy Demand by Sector**
 
 The future development pathways for India’s final energy demand when the assump-
-
 tions on population growth, GDP growth, and energy intensity are combined are
-
 shown in Fig. 8.80 for the 5.0  °C, 2.0  °C, and 1.5  °C Scenarios. In the 5.0  °C
-
 Scenario, the total final energy demand will increase by 201% from the current
-
 22,200 PJ/year to 66,800 PJ/year by 2050. In the 2.0 °C Scenario, the final energy
-
 demand will increase at a much slower rate by 57% compared with current con-
-
 sumption and will reach 34,900 PJ/year by 2050. The final energy demand in the
-
 1.5  °C Scenario will reach 31,900 PJ, 44% above the 2015 level. In the 1.5  °C
-
 Scenario, the final energy demand in 2050 will be 9% lower than in the 2.0  °C
-
 Scenario. The electricity demand for ‘classical’ electrical devices (without power-
-
-to- heat or e-mobility) will increase from 750 TWh/year in 2015 to 3200 TWh/year
-
+to-heat or e-mobility) will increase from 750 TWh/year in 2015 to 3200 TWh/year
 in 2050 in both alternative scenarios. Compared with the 5.0 °C case (4720 TWh/
-
 year in 2050), efficiency measures in the 2.0  °C and 1.5  °C Scenarios will save
-
 around 1520 TWh/year by 2050.
-
-```
 Electrification will lead to a significant increase in the electricity demand by
-```
-2050. In the 2.0 °C Scenario, the electricity demand for heating will be approximately
 
+2050. In the 2.0 °C Scenario, the electricity demand for heating will be approximately
 1900 TWh/year due to electric heaters and heat pumps, and in the transport sector,
 
 ```
 0
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-7,00 0
+7,000
 ```
 ```
-8,00 0
+8,000
 ```
 ```
-9,00 0
+9,000
 ```
 ```
 0
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-20,00 0
+20,000
 ```
 ```
-30,00 0
+30,000
 ```
 ```
-40,00 0
+40,000
 ```
 ```
-50,00 0
+50,000
 ```
 ```
-60,00 0
+60,000
 ```
 ```
-70,00 0
+70,000
 ```
 ```
-80,00 0
+80,000
 ```
 ```
 5.0°C2.0°
@@ -54217,10 +49244,9 @@ total power demand (incl. synfuels & H2)
 ```
 PJ/yr
 ```
-**Fig. 8.80** India: development of final energy demand by sector in the scenarios
+## Fig. 8.80 India: development of final energy demand by sector in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 346
 
@@ -54238,9 +49264,8 @@ from 1400 TWh/year in 2015 to 8400 TWh/year in 2050  in the 2.0  °C Scenario,
 
 demand will increases to a maximum of 7700 TWh/year in 2050.
 
-```
 Efficiency gains in the heating sector could be even larger than in the electricity
-```
+
 sector. In the 2.0 °C and 1.5 °C Scenarios, a final energy consumption equivalent to
 
 about 9500 PJ/year and 9800 PJ/year, respectively, will be avoided through effi-
@@ -54290,32 +49315,23 @@ tively, by 2030, and 75% and 72%, respectively, by 2050.
 
 Figure 8.82 shows the development of the electricity-generation and supply costs
 
-over time, including the CO 2 emission costs, in all scenarios. The calculated elec-
-
+over time, including the CO[^2]: emission costs, in all scenarios. The calculated elec-
 tricity generation costs in 2015 (referring to full costs) were around 5.4 ct/kWh. In
 
 the 5.0 °C case, the generation costs will increase until 2040, when they reach 11 ct/
-
 kWh, and then drop to 10.7 ct/kWh by 2050. The generation costs will increase in
-
 the 2.0 °C Scenario until 2030, when they reach 8.4 ct/kWh, and then drop to 5.7 ct/
-
 kWh by 2050. In the 1.5  °C Scenario, they will increase to 7.8 ct/kWh, and then
-
 drop to 5.8 ct/kWh by 2050. In the 2.0 °C Scenario, the generation costs in 2050 will
-
 be 5 ct/kWh lower than in the 5.0 °C case. In the 1.5 °C Scenario, the generation
 
 ```
 S. Teske et al.
 ```
-
 ```
 347
 ```
 **Table 8.77** India: development of renewable electricity-generation capacity in the scenarios
-
-```
 in GW Case 2015 2025 2030 2040 2050
 Hydro 5.0 °C 46 68 81 97 117
 2.0 °C 46 68 72 80 87
@@ -54341,7 +49357,7 @@ Ocean 5.0 °C 0 0 0 0 0
 Total 5.0 °C 84 279 415 648 936
 2.0 °C 84 532 1061 2381 3360
 1.5 °C 84 742 1361 2540 3037
-```
+
 ```
 0
 ```
@@ -54395,47 +49411,28 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.81** India: development of electricity-generation structure in the scenarios
+## Fig. 8.81 India: development of electricity-generation structure in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 348
 
 costs in 2050 will be 4.9 ct/kWh lower than in the 5.0 °C case. Note that these esti-
-
 mates of generation costs do not take into account integration costs such as power
-
 grid expansion, storage, or other load-balancing measures.
-
-```
 In the 5.0 °C case, the growth in demand and increasing fossil fuel prices will
-```
 cause the total electricity supply costs to rise from today’s $75 billion/year to more
-
 than $690 billion/year in 2050. In the 2.0 °C case, the total supply costs will be $500
-
-billion/year and in the 1.5 °C Scenario, they will be $470 billion/year. The long- term
-
+billion/year and in the 1.5 °C Scenario, they will be $470 billion/year. The long-term
 costs for electricity supply will be more than 27% lower in the 2.0 °C Scenario than
-
 in the 5.0 °C Scenario as a result of the estimated generation costs and the electrifi-
-
 cation of heating and mobility. Further demand reductions in the 1.5  °C Scenario
-
 will result in total power generation costs that are 32% lower than in the 5.0 °C case.
-
-```
-Compared with these results, the generation costs, when the CO 2 emission costs
-```
+Compared with these results, the generation costs, when the CO[^2]: emission costs
 are not considered, will increase in the 5.0 °C case to only 6.9 ct/kWh. In both alter-
-
 native scenarios, they will still increase until 2030, when they reach 6.7 ct/kWh, and
-
 then drop to around 5.8 ct/kWh by 2050. The maximum difference in generation
-
-costs will be around 1 ct/kWh in 2050. If the CO 2 costs are not considered, the total
-
+costs will be around 1 ct/kWh in 2050. If the CO[^2]: costs are not considered, the total
 electricity supply costs in the 5.0 °C case will rise to about $430 billion/year in 2050.
 
 **8.12.1.4 India: Future Investments in the Power Sector**
@@ -54508,56 +49505,37 @@ billion $ ct/kWh
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-**Fig. 8.82** India: development of total electricity supply costs and specific electricity generation
+## Fig. 8.82 India: development of total electricity supply costs and specific electricity generation
+
 costs in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 349
 ```
 billion per year on average, and is $3310 billion more than in the 5.0 °C case ($2330
-
 billion). An investment of around $5560 billion for power generation will be required
-
 between 2015 and 2050 in the 1.5 °C Scenario. On average, this will be an investment
-
 of $154 billion per year. In the 5.0 °C Scenario, the investment in conventional power
-
 plants will be around 48% of the total cumulative investments, whereas approximately
-
 52% will be invested in renewable power generation and co-generation (Fig. 8.83).
-
-```
 However, in the 2.0 °C (1.5 °C) Scenario, India will shift almost 94% (95%) of
-```
 its entire investment to renewables and co-generation. By 2030, the fossil fuel share
-
 of the power sector investment will predominantly focus on gas power plants that
-
 can also be operated with hydrogen.
-
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
 fuel cost savings in the 2.0 °C Scenario will reach a total of $3110 billion in 2050,
-
 equivalent to $86 billion per year. Therefore, the total fuel cost savings will be
-
 equivalent to 90% of the total additional investments compared to the 5.0  °C
-
 Scenario. The fuel cost savings in the 1.5 °C Scenario will add up to $3330 billion,
-
 or $93 billion per year.
 
 **8.12.1.5 India: Energy Supply for Heating**
 
 The final energy demand for heating will increase in the 5.0 °C Scenario by 133%,
-
 from 11,900 PJ/year in 2015 to 27,800 PJ/year in 2050. Energy efficiency measures
-
 will help to reduce the energy demand for heating by 34% in 2050  in the 2.0  °C
 
 ```
@@ -54573,9 +49551,8 @@ CHP
 Renewable
 52%
 ```
-```
 5.0°C: 2015-2050
-```
+
 ```
 total 2,330
 billion $
@@ -54584,6 +49561,8 @@ billion $
 Fossil
 (incl. H2)
 6%
+```
+```
 CHP
 4%
 ```
@@ -54610,17 +49589,15 @@ CHP
 Renewable
 91%
 ```
-```
 1.5°C: 2015-2050
-```
+
 ```
 total 5,560
 billion $
 ```
-**Fig. 8.83** India: investment shares for power generation in the scenarios
+## Fig. 8.83 India: investment shares for power generation in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 350
 
@@ -54645,16 +49622,15 @@ increasing use of solar, geothermal, and environmental heat will lead to a bioma
 
 share of 38% in the 2.0 °C Scenario and 36% in the 1.5 °C Scenario.
 
-```
 Heat from renewable hydrogen will further reduce the dependence on fossil fuels
-```
+
 under both scenarios. Hydrogen consumption in 2050 will be around 1400 PJ/year
 
 ```
 0
 ```
 ```
-5,00 0
+5,000
 ```
 ```
 10,000
@@ -54731,7 +49707,7 @@ Solar heating
 Biomass
 Fossil
 ```
-**Fig. 8.84** India: development of heat supply by energy carrier in the scenarios
+## Fig. 8.84 India: development of heat supply by energy carrier in the scenarios
 
 **Table 8.78** India: development of renewable heat supply in the scenarios (excluding the direct use
 of electricity)
@@ -54757,57 +49733,38 @@ Total 5.0 °C 5572 5711 5781 5796 5653
 ```
 S. Teske et al.
 ```
-
 ```
 351
 ```
 in the 2.0 °C Scenario and 1600 PJ/year in the 1.5 °C Scenario. The direct use of
-
 electricity for heating will also increase by a factor of about 21 between 2015 and
-
 2050, and the electricity for heating will have a final energy share of 36% in 2050 in
-
 both alternative scenarios.
 
 **8.12.1.6 India: Future Investments in the Heating Sector**
 
 The roughly estimated investments in renewable heating technologies up to 2050
-
 amount to around $930 billion in the 2.0  °C Scenario (including investments for
-
 replacement after the economic lifetimes of the plants), or approximately $26 billion
-
 per year. The largest share of investment in India is assumed to be for solar collectors
-
 (around $490 billion), followed by heat pumps and biomass technologies. The 1.5 °C
-
 Scenario assumes an even faster expansion of renewable technologies and results in a
-
 higher average annual investment of around $29 billion per year (Table 8.79, Fig. 8.85).
 
 **8.12.1.7 India: Transport**
 
 The energy demand in the transport sector in India is expected to increase in the
-
 5.0 °C Scenario by 377%, from around 3600 PJ/year in 2015 to 17,200 PJ/year in
 
 2050. In the 2.0 °C Scenario, assumed technical, structural, and behavioural changes
-
 will save 66% (11,280 PJ/year) by 2050 compared to the 5.0 °C Scenario. Additional
-
 modal shifts, technology switches, and a reduction in the transport demand will lead
-
 to even higher energy savings in the 1.5 °C Scenario of 81% (or 13,930 PJ/year) in
-
 2050 compared with the 5.0 °C case (Table 8.80, Fig. 8.86).
-
-```
 By 2030, electricity will provide 10% (160 TWh/year) of the transport sector’s
-```
 total energy demand in the 2.0 °C Scenario, whereas in 2050, the share will be 58%
 
 **Table 8.79** India: installed capacities for renewable heat generation in the scenarios
-
 in GW Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 2049 1923 1836 1633 1432
 2.0 °C 2049 1954 1798 1311 856
@@ -54824,36 +49781,25 @@ Heat pumps 5.0 °C 0 0 0 0 0
 Totala 5.0 °C 2055 1940 1861 1676 1499
 2.0 °C 2055 2094 2177 2052 1802
 1.5 °C 2055 2122 2300 2039 1715
-a Excluding direct electric heating
+aExcluding direct electric heating
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 352
 
 (950 TWh/year). In 2050, up to 860 PJ/year of hydrogen will be used in the trans-
-
 port sector as a complementary renewable option. In the 1.5 °C Scenario, the annual
-
 electricity demand will be 560 TWh in 2050. The 1.5 °C Scenario also assumes a
-
 hydrogen demand of 590 PJ/year by 2050.
-
-```
 Biofuel use is limited in the 2.0 °C Scenario to a maximum of around 1000 PJ/year.
-```
 Therefore, around 2030, synthetic fuels based on power-to-liquid will be introduced,
-
 with a maximum amount of 610 PJ/year in 2050. Due to the lower overall energy
-
 demand in transport, biofuel use will be reduced in the 1.5 °C Scenario to a maximum
-
 of 510 PJ/year. The maximum synthetic fuel demand will amount to 310 PJ/year.
 
-**8.12.1.8 India: Development of CO 2 Emissions**
+**8.12.1.8 India: Development of CO**[^2]: **Emissions**
 
-In the 5.0 °C Scenario, India’s annual CO 2 emissions will increase by 236%, from
-
+In the 5.0 °C Scenario, India’s annual CO[^2]: emissions will increase by 236%, from
 2060 Mt. in 2015 to 6950 Mt. in 2050. The stringent mitigation measures in both
 
 alternative scenarios will cause the annual emissions to fall to 930 Mt. in 2040 in the
@@ -54937,39 +49883,30 @@ pumps
 ```
 total 1,040 billion $
 ```
-**Fig. 8.85** India: development of investments for renewable heat-generation technologies in the
+## Fig. 8.85 India: development of investments for renewable heat-generation technologies in the
+
 scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 353
 ```
-almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emissions from 2015
-
+almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emissions from 2015
 until 2050 will add up to 169 Gt. In contrast, in the 2.0 °C and 1.5 °C Scenarios, the
-
 cumulative emissions for the period from 2015 until 2050 will be 55 Gt and 38 Gt,
-
 respectively.
-
-```
-Therefore, the cumulative CO 2 emissions will decrease by 67% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 67% in the 2.0  °C
 Scenario and by 78% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 reduction in the annual emissions will occur in both alternative scenarios. In the
 
 **Table 8.80** India: projection of transport energy demand by mode in the scenarios
-
-```
 in PJ/year Case 2015 2025 2030 2040 2050
 Rail 5.0 °C 180 238 278 353 423
 2.0 °C 180 270 325 421 526
 1.5 °C 180 219 234 332 446
-Road 5.0 °C 3294 5861 7880 12,152 16,455
+Road 5.0 °C [^3294]: [^5861]: [^7880]: 12,152 16,455
 2.0 °C 3294 5017 5562 5301 5285
 1.5 °C 3294 4253 3125 2977 2730
 Domestic aviation 5.0 °C 84 131 166 216 231
@@ -54978,10 +49915,10 @@ Domestic aviation 5.0 °C 84 131 166 216 231
 Domestic navigation 5.0 °C 29 34 36 40 52
 2.0 °C 29 34 36 40 52
 1.5 °C 29 34 36 40 52
-Total 5.0 °C 3587 6263 8360 12,762 17,161
+Total 5.0 °C [^3587]: [^6263]: [^8360]: 12,762 17,161
 2.0 °C 3587 5410 6006 5828 5914
 1.5 °C 3587 4590 3470 3401 3268
-```
+
 ```
 0
 ```
@@ -55016,7 +49953,7 @@ Total 5.0 °C 3587 6263 8360 12,762 17,161
 20,000
 ```
 ```
-5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C5.0°C2.0°C1.5°C
+5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C 5.0°C2.0°C1.5°C
 2015 2025 2030 2040 2050
 ```
 ```
@@ -55026,6 +49963,8 @@ PJ/yr
 Efficiency
 (compared to
 5.0°C)
+```
+```
 Hydrogen
 ```
 ```
@@ -55043,10 +49982,9 @@ Natural Gas
 ```
 Oil products
 ```
-**Fig. 8.86** India: final energy consumption by transport in the scenarios
+## Fig. 8.86 India: final energy consumption by transport in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 354
 
@@ -55072,9 +50010,8 @@ will be even lower (47,100 PJ in 2050) because the final energy demand and conve
 
 sion losses will be lower.
 
-```
 Both the 2.0 °C and 1.5 °C Scenarios aim to rapidly phase-out coal and oil. This
-```
+
 will cause renewable energy to have a primary energy share of 40% in 2030 and
 
 94% in 2050 in the 2.0 °C Scenario. In the 1.5 °C Scenario, renewables will have a
@@ -55157,7 +50094,7 @@ cumulated emissions [Gt]
 CO
 ```
 ```
-emissions [Mt/yr] 2
+emissions [Mt/yr]2
 ```
 ```
 'Power generation' 'Other Conversion'
@@ -55166,13 +50103,13 @@ emissions [Mt/yr] 2
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.87** India: development of CO 2 emissions by sector and cumulative CO 2 emissions (after
+## Fig. 8.87 India: development of CO2 emissions by sector and cumulative CO2 emissions (after
+
 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
 ```
 S. Teske et al.
 ```
-
 ```
 355
 ```
@@ -55184,7 +50121,7 @@ fossil fuel use will be achieved in the 1.5 °C Scenario: 130 EJ for natural ga
 
 EJ for coal, and 150 EJ for oil.
 
-**_8.12.2 India: Power Sector Analysis_**
+**8.12.2 India: Power Sector Analysis**
 
 The electricity market in India is in dynamic development. The government of India
 
@@ -55192,13 +50129,13 @@ is making great efforts to increase the reliability of the power supply and at t
 
 time, it is developing universal access to electric power. In 2017, about 300 million
 
-Indians (RF 2018 ) had no power or inadequate power. In 2017, the Indian
+Indians (RF [^2018]:) had no power or inadequate power. In 2017, the Indian
 
-Government launched _The Third National Electricity Plan_ , which covers two 5-year
+Government launched _The Third National Electricity Plan_, which covers two 5-year
 
 periods: 2017–2022 and 2022–2027. According to the International Energy Agency
 
-(IEA) Policies and Measures Database (IEA P + M DB 2018 ):
+(IEA) Policies and Measures Database (IEA P + M DB [^2018]:):
 
 ```
 [...] “the plan covers short- and long-term demand forecasts in different regions and recom-
@@ -55223,10 +50160,10 @@ coal will be added – except for the coal power plants under construction [...
 80,000
 ```
 ```
-100,00 0
+100,000
 ```
 ```
-120,00 0
+120,000
 ```
 ```
 5.0°C2.0°
@@ -55309,11 +50246,11 @@ Crude oil
 Coal
 Nuclear
 ```
-**Fig. 8.88** India: projection of total primary energy demand (PED) by energy carrier in the sce-
+### Fig. 8.88 India: projection of total primary energy demand (PED) by energy carrier in the sce-
+
 narios (including electricity import balance)
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 356
 
@@ -55357,13 +50294,13 @@ of installed capacity [GW/a]
 ```
 ```
 2015–2025 2026–2035 2036–2050
-2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
-Hard coal 7 − 7 − 6 − 7 − 15 − 6
-Lignite 0 − 1 − 1 − 2 − 2 − 1
-Gas 9 13 7 7 − 14 17
+2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
+Hard coal 7 −7 −6 −7 −15 −6
+Lignite 0 −1 −1 −2 −2 −1
+Gas 9 13 7 7 −14 17
 Hydrogen-Gas 0 0 1 1 32 32
-Oil/Diesel 0 − 1 − 1 − 1 0 0
-Nuclear 1 0 0 0 − 1 − 1
+Oil/Diesel 0 −1 −1 −1 0 0
+Nuclear 1 0 0 0 −1 −1
 Biomass 2 2 2 2 4 4
 Hydro 3 2 1 1 1 1
 Wind (onshore) 20 55 54 59 44 21
@@ -55378,7 +50315,6 @@ Renewable fuel based co-generation 0 1 2 2 3 3
 ```
 S. Teske et al.
 ```
-
 ```
 357
 ```
@@ -55396,9 +50332,8 @@ will reach 40% in most regions, whereas dispatchable renewables will supply abou
 
 one quarter of the demand by 2030 (Table 8.82).
 
-```
 India’s average capacity factors for the entire power plant fleet remain at around
-```
+
 35% over the entire modelling period, as the calculation results in Table 8.83 show.
 
 Contributions from limited dispatchable fossil and nuclear power plants will remain
@@ -55442,8 +50377,7 @@ very low due to a relatively moderate increase in the gas and hydrogen capacitie
 
 India.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 358
 
@@ -55455,7 +50389,7 @@ variable and
 dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
-India 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+India 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 factor – average
 ```
@@ -55469,7 +50403,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]67.7% 57% 61% 48% 38% 37% 27% 37% 12%
+[%/yr] 67.7% 57% 61% 48% 38% 37% 27% 37% 12%
 ```
 ```
 Limited
@@ -55477,21 +50411,21 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]17.1% 24% 26% 38% 34% 58% 39% 44% 42%
+[%/yr] 17.1% 24% 26% 38% 34% 58% 39% 44% 42%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]44.7% 12% 19% 11% 12% 30% 29% 24% 29%
+[%/yr] 44.7% 12% 19% 11% 12% 30% 29% 24% 29%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]39.8% 60% 68% 57% 45% 40% 52% 65% 57%
+[%/yr] 39.8% 60% 68% 57% 45% 40% 52% 65% 57%
 ```
 ```
 Variable:
@@ -55501,13 +50435,11 @@ renewable
 [%/yr] 9.0% 8% 8% 19% 20% 27% 25% 29% 28%
 ```
 **Table 8.82** India: power system shares by technology group
-
-```
 Power
 generation
 structure and
 interconnection
-```
+
 ```
 2.0 °C 1.5 °C
 ```
@@ -55584,7 +50516,6 @@ India 2015 4% 32% 64%
 ```
 S. Teske et al.
 ```
-
 ```
 359
 ```
@@ -55730,8 +50661,7 @@ India-Northern Region
 0
 ```
 ```
-India-North-
-Eastern Region
+India-North-Eastern Region
 ```
 ```
 2020
@@ -56042,8 +50972,7 @@ India-Southern Region
 ```
 122
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 360
 
@@ -56078,8 +51007,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -56094,8 +51022,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -56128,8 +51055,7 @@ based
 [GWh/year]
 ```
 ```
-India-
-Northern Region
+India-Northern Region
 ```
 ```
 2020
@@ -56231,9 +51157,7 @@ Northern Region
 8647
 ```
 ```
-India-
-North-
-Eastern Region
+India-North-Eastern Region
 ```
 ```
 2020
@@ -56335,8 +51259,7 @@ Eastern Region
 11
 ```
 ```
-India-
-Eastern Region
+India-Eastern Region
 ```
 ```
 2020
@@ -56438,8 +51361,7 @@ Eastern Region
 5715
 ```
 ```
-India-
-Western Region
+India-Western Region
 ```
 ```
 2020
@@ -56541,8 +51463,7 @@ Western Region
 2020
 ```
 ```
-India-
-Southern Region
+India-Southern Region
 ```
 ```
 2020
@@ -56748,13 +51669,12 @@ India
 ```
 S. Teske et al.
 ```
-
 ```
 361
 ```
 **8.13 China**
 
-**_8.13.1 China: Long-Term Energy Pathways_**
+**8.13.1 China: Long-Term Energy Pathways**
 
 **8.13.1.1 China: Final Energy Demand by Sector**
 
@@ -56844,10 +51764,9 @@ Industry fuelsIndustry electricity
 Residential & other sectors fuelsResidential & other sectors electricity
 total power demand (incl. synfuels & H2)
 ```
-**Fig. 8.89** China: development of final energy demand by sector in the scenarios
+## Fig. 8.89 China: development of final energy demand by sector in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 362
 
@@ -56855,9 +51774,8 @@ by 2050. Compared with the 5.0 °C case (9480 TWh/year in 2050), the efficiency
 
 measures in the 2.0 °C and 1.5 °C Scenarios save around 4250 TWh/year by 2050.
 
-```
 Electrification will lead to a significant increase in the electricity demand by
-```
+
 2050. In the 2.0  °C Scenario, the electricity demand for heating will be approxi-
 
 mately 2800 TWh/year due to electric heaters and heat pumps and in the transport
@@ -56927,13 +51845,10 @@ by 2030, and 51% and 52%, respectively, by 2050.
 ```
 S. Teske et al.
 ```
-
 ```
 363
 ```
 **Table 8.86** China: development of renewable electricity-generation capacity in the scenarios
-
-```
 in GW Case 2015 2025 2030 2040 2050
 Hydro 5.0 °C 320 395 424 477 525
 2.0 °C 320 383 396 420 450
@@ -56959,7 +51874,7 @@ Ocean 5.0 °C 0 0 0 1 1
 Total 5.0 °C 505 1029 1196 1490 1819
 2.0 °C 505 1390 2175 4015 5421
 1.5 °C 505 1592 2555 4322 5307
-```
+
 ```
 0
 ```
@@ -57010,49 +51925,30 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.90** China: development of electricity-generation structure in the scenarios
+## Fig. 8.90 China: development of electricity-generation structure in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 364
 
 **8.13.1.3 China: Future Costs of Electricity Generation**
 
 Figure 8.91 shows the development of the electricity-generation and supply costs
-
-over time, including the CO 2 emission costs, in all scenarios. The calculated elec-
-
+over time, including the CO[^2]: emission costs, in all scenarios. The calculated elec-
 tricity generation costs in 2015 (referring to full costs) were around 4.7 ct/kWh. In
-
 the 5.0 °C case, the generation costs will increase until 2030, when they reach 9.2
-
 ct/kWh, and then drop to 8.8 ct/kWh by 2050. The generation costs will increase in
-
 the alternative scenarios until 2030, when they reach around 8 ct/kWh, and will then
-
 drop to 6.5 ct/kWh by 2050, 2.3 ct/kWh lower than in the 5.0 °C Scenario. Note that
-
 these estimates of generation costs do not take into account integration costs such as
-
 power grid expansion, storage, or other load-balancing measures.
-
-```
 In the 5.0 °C case, the growth in demand and increasing fossil fuel prices will
-```
 cause total electricity supply costs to rise from today’s $310 billion/year to more
-
 than $1230 billion/year in 2050. In the 2.0 °C case, the total supply costs will be
-
 $1030 billion/year and $1010 billion/year in the 1.5  °C Scenario. Therefore, the
-
 long-term costs for electricity supply will be more than 16% lower in the alternative
-
 scenarios than in the 5.0 °C case.
-
-```
-Compared with these results, the generation costs when the CO 2 emission costs
-```
+Compared with these results, the generation costs when the CO[^2]: emission costs
 are not considered will increase in the 5.0 °C case to 5.7 ct/kWh in 2030 and stabi-
 
 lize at 5.5 ct/kWh in 2050. In the 2.0 °C Scenario, they increase continuously until
@@ -57132,13 +52028,13 @@ billion $ ct/kWh
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-**Fig. 8.91** China: development of total electricity supply costs and specific electricity-generation
+## Fig. 8.91 China: development of total electricity supply costs and specific electricity-generation
+
 costs in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 365
 ```
@@ -57146,8 +52042,7 @@ occur in 2050. In the 1.5 °C Scenario, compared to the 5.0 °C Scenario, the 
 
 mum difference in generation costs will be 1.6 ct/kWh in 2040. The generation costs
 
-in 2050 will be 1.1 ct/kWh higher than in the 5.0 °C case. If the CO 2 costs are not
-
+in 2050 will be 1.1 ct/kWh higher than in the 5.0 °C case. If the CO[^2]: costs are not
 considered, the total electricity supply costs in the 5.0  °C case will rise to about
 
 $810 billion/year in 2050.
@@ -57155,74 +52050,41 @@ $810 billion/year in 2050.
 **8.13.1.4 China: Future Investments in the Power Sector**
 
 An investment of around $9740 billion will be required for power generation
-
 between 2015 and 2050 in the 2.0 °C Scenario—including additional power plants
-
 for the production of hydrogen and synthetic fuels and investments for plant replace-
-
 ment at the end of their economic lifetimes. This value will be equivalent to approx-
-
 imately $271 billion per year on average and will be $5680 billion more than in the
-
 5.0 °C case ($4060 billion). An investment of around $9840 billion for power gen-
-
 eration will be required between 2015 and 2050 in the 1.5 °C Scenario. On average,
-
 this will be an investment of $273 billion per year. In the 5.0 °C Scenario, the invest-
-
 ment in conventional power plants will be around 29% of the total cumulative
-
 investments, whereas approximately 71% will be invested in renewable power gen-
-
 eration and co-generation (Fig. 8.92).
-
-```
 However, in the 2.0 °C (1.5 °C) Scenario, China will shift almost 97% (98%) of
-```
 its entire investment to renewables and co-generation. By 2030, the fossil fuel share
-
 of the power sector investment will predominantly focus on gas power plants that
-
 can also be operated with hydrogen.
-
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
 fuel cost savings in both alternative scenarios will reach a total of more than $6200
-
 billion in 2050, equivalent to $173 billion per year. Therefore, the total fuel cost
-
 savings will be equivalent to 110% of the total additional investments compared to
-
 the 5.0 °C Scenario.
 
 **8.13.1.5 China: Energy Supply for Heating**
 
 The final energy demand for heating will increase in the 5.0 °C Scenario by 38%
-
 from 42,300 PJ/year in 2015 to 58,200 PJ/year in 2050. Energy efficiency measures
-
 will help to reduce the energy demand for heating by 42% in 2050  in the 2.0  °C
-
 Scenario, relative to the 5.0  °C case, and by 47% in the 1.5  °C Scenario. Today,
-
 renewables supply around 11% of China’s final energy demand for heating, with the
-
 main contribution from biomass. Renewable energy will provide 32% of China’s
-
 total heat demand in 2030 in the 2.0 °C Scenario and 46% in the 1.5 °C Scenario. In
-
 both scenarios, renewables will provide 100% of the total heat demand in 2050.
-
-```
 Figure 8.93 shows the development of different technologies for heating in China
-```
 over time, and Table 8.87 provides the resulting renewable heat supply for all sce-
-
 narios. Up to 2030, biomass will remain the main contributor. In the long term, the
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 366
 
@@ -57230,9 +52092,8 @@ growing use of solar, geothermal, and environmental heat will lead to a biomass
 
 share of 24% in both alternative scenarios.
 
-```
 Heat from renewable hydrogen will further reduce the dependence on fossil fuels
-```
+
 in both scenarios. Hydrogen consumption in 2050 will be around 4100 PJ/year in
 
 ```
@@ -57241,7 +52102,7 @@ Fossil
 ```
 ```
 Nuclear
-10 %
+10%
 ```
 ```
 CHP
@@ -57251,9 +52112,8 @@ CHP
 Renewable
 63%
 ```
-```
 5.0°C: 2015-2050
-```
+
 ```
 total 4,065
 billion $
@@ -57261,18 +52121,17 @@ billion $
 ```
 Fossil
 (incl.H2)
-3%Nuclear
+3% Nuclear
 1%
 CHP
-14 %
+14%
 ```
 ```
 Renewable
 82%
 ```
-```
 2.0°C: 2015-2050
-```
+
 ```
 total 9,740
 billion $
@@ -57289,16 +52148,15 @@ CHP
 ```
 ```
 Renewable
-83 %
-```
+83%
 ```
 1.5°C: 2015-2050
-```
+
 ```
 total 9,850
 billion $
 ```
-**Fig. 8.92** China: investment shares for power generation in the scenarios
+## Fig. 8.92 China: investment shares for power generation in the scenarios
 
 ```
 0
@@ -57347,12 +52205,11 @@ Biomass
 ```
 Fossil
 ```
-**Fig. 8.93** China: development of heat supply by energy carrier in the scenarios
+## Fig. 8.93 China: development of heat supply by energy carrier in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 367
 ```
@@ -57415,59 +52272,37 @@ Total 5.0 °C 3974 3844 4120 4996 6438
 2.0 °C 3974 7978 11,237 19,417 24,727
 1.5 °C 3974 9011 12,396 18,031 22,237
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 368
 
 Additional modal shifts, technology switches, and a reduction in transport demand
-
 will lead to even higher energy savings in the 1.5 °C Scenario of 76% (or 19,900 PJ/
-
 year) in 2050 compared with the 5.0 °C case (Table 8.89, Fig. 8.95).
-
-```
 By 2030, electricity will provide 21% (680 TWh/year) of the transport sector’s
-```
 total energy demand in the 2.0 °C Scenario, whereas in 2050, the share will be 51%
-
 (1170 TWh/year). In 2050, up to 1600 PJ/year of hydrogen will be used in the trans-
-
 port sector as a complementary renewable option. In the 1.5 °C Scenario, the annual
-
 electricity demand is 860 TWh in 2050. The 1.5 °C Scenario also assumes a hydro-
-
 gen demand of 1100 PJ/year by 2050.
-
-```
 Biofuel use is limited in the 2.0  °C Scenario to a maximum of 1900 PJ/year.
-```
 Therefore, around 2030, synthetic fuels based on power-to-liquid will be intro-
-
 duced, with a maximum amount of 560 PJ/year in 2050. Due to the lower overall
-
 energy demand in transport, biofuel use will be reduced in the 1.5 °C Scenario to a
-
 maximum of around 1400 PJ/year. The maximum synthetic fuel demand will
-
 amount to 720 PJ/year.
 
-**8.13.1.8 China: Development of CO 2 Emissions**
+**8.13.1.8 China: Development of CO**[^2]: **Emissions**
 
-In the 5.0 °C Scenario, China’s annual CO 2 emissions will increase by 25%, from
-
+In the 5.0 °C Scenario, China’s annual CO[^2]: emissions will increase by 25%, from
 9060 Mt. in 2015 to 11,320 Mt. in 2050. The stringent mitigation measures in both
 
 alternative scenarios will cause annual emissions to fall to 1990 Mt. in 2040 in the
-
 2.0 °C Scenario and to 760 Mt. in the 1.5 °C Scenario, with further reductions to
-
-almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emissions from 2015
-
+almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emissions from 2015
 until 2050 will add up to 392 Gt. In contrast, in the 2.0 °C and 1.5 °C Scenarios, the
 
 **Table 8.88** China: installed capacities for renewable heat generation in the scenarios
-
 in GW Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 1194 764 648 519 468
 2.0 °C 1194 1284 1214 921 578
@@ -57484,12 +52319,11 @@ Heat pumps 5.0 °C 52 76 89 126 174
 Totala 5.0 °C 1527 1250 1214 1263 1441
 2.0 °C 1527 2048 2355 3103 2954
 1.5 °C 1527 2111 2491 2549 2361
-a Excluding direct electric heating
+aExcluding direct electric heating
 
 ```
 S. Teske et al.
 ```
-
 ```
 369
 ```
@@ -57497,25 +52331,17 @@ cumulative emissions for the period from 2015 until 2050 will be 174 Gt and 132
 
 Gt, respectively.
 
-```
-Therefore, the cumulative CO 2 emissions will decrease by 56% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 56% in the 2.0  °C
 Scenario and by 66% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 reduction in annual emissions will occur in both alternative scenarios. In the 2.0 °C
-
 Scenario the reduction will be greatest in the ‘Residential and other’ sector, fol-
-
 lowed by ‘Power generation’ and ‘Transport’ sectors (Fig. 8.96).
 
 **8.13.1.9 China: Primary Energy Consumption**
 
 The levels of primary energy consumption in the three scenarios when the assump-
-
 tions discussed above are taken into account are shown in Fig. 8.97. In the 2.0 °C
-
 Scenario, the primary energy demand will decrease by 30%, from around 125,000
-
 PJ/year in 2015 to 87,800 PJ/year in 2050. Compared with the 5.0 °C Scenario, the
 
 ```
@@ -57531,12 +52357,12 @@ heat use
 ```
 solar
 collectors
-24 %
+24%
 ```
 ```
 heat
 pumps
-51 %
+51%
 ```
 ```
 5.0°C: 2015-2050
@@ -57557,7 +52383,7 @@ heat use
 ```
 solar
 collectors
-34 %
+34%
 ```
 ```
 heat
@@ -57582,12 +52408,12 @@ heat use
 ```
 solar
 collectors
-40 %
+40%
 ```
 ```
 heat
 pumps
-39 %
+39%
 ```
 ```
 1.5°C: 2015-2050
@@ -57595,11 +52421,11 @@ pumps
 ```
 total 2,400 billion $
 ```
-**Fig. 8.94** China: development of investments for renewable heat-generation technologies in the
+## Fig. 8.94 China: development of investments for renewable heat-generation technologies in the
+
 scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 370
 
@@ -57611,9 +52437,8 @@ will be even lower (80,700 PJ in 2050) because the final energy demand and conve
 
 sion losses will be lower.
 
-```
 Both the 2.0 °C and 1.5 °C Scenarios aim to rapidly phase-out coal and oil. This
-```
+
 will cause renewable energy to have a primary energy share of 28% in 2030 and
 
 92% in 2050 in the 2.0 °C Scenario. In the 1.5 °C Scenario, renewables will have a
@@ -57681,12 +52506,11 @@ Biofuels
 Natural Gas
 Oil products
 ```
-**Fig. 8.95** China: final energy consumption by transport in the scenarios
+## Fig. 8.95 China: final energy consumption by transport in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 371
 ```
@@ -57752,7 +52576,7 @@ cumulated emissions [Gt]
 CO
 ```
 ```
-emissions [Mt/yr] 2
+emissions [Mt/yr]2
 ```
 ```
 'Power generation' 'Other Conversion'
@@ -57761,7 +52585,8 @@ emissions [Mt/yr] 2
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.96** China: development of CO 2 emissions by sector and cumulative CO 2 emissions (after
+## Fig. 8.96 China: development of CO2 emissions by sector and cumulative CO2 emissions (after
+
 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
 ```
@@ -57780,22 +52605,22 @@ emissions [Mt/yr] 2
 80,000
 ```
 ```
-100,00 0
+100,000
 ```
 ```
-120,00 0
+120,000
 ```
 ```
-140,00 0
+140,000
 ```
 ```
-160,00 0
+160,000
 ```
 ```
-180,00 0
+180,000
 ```
 ```
-200,00 0
+200,000
 ```
 ```
 5.0°C2.0°
@@ -57878,11 +52703,11 @@ Coal
 ```
 Nuclear
 ```
-**Fig. 8.97** China: projection of total primary energy demand (PED) by energy carrier in the sce-
+## Fig. 8.97 China: projection of total primary energy demand (PED) by energy carrier in the sce-
+
 narios (including electricity import balance)
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 372
 
@@ -57902,7 +52727,7 @@ demand to 430 EJ. Even lower fossil fuel use will be achieved in the 1.5 °C S
 
 440 EJ for natural gas, 930 EJ for coal, and 340 EJ for oil.
 
-**_8.13.2 China: Power Sector Analysis_**
+**8.13.2 China: Power Sector Analysis**
 
 China has by far the largest power sector of all world regions—about one quarter of
 
@@ -57910,7 +52735,7 @@ the world’s total electricity generation. China’s National Energy Administra
 
 (NEA) released the _13th Energy Five-Year Plan (FYP)_ in January 2016 (IEA RED
 
-2016 ). The FYP that is in force from 2016 to 2020 introduces framework legislation
+[^2016]:). The FYP that is in force from 2016 to 2020 introduces framework legislation
 
 that defines energy development for the next 5 years in China. In parallel to the main
 
@@ -57918,7 +52743,7 @@ Energy FYP, there are 14 additional supporting FYPs, such as the Renewable
 
 Energy 13th FYP, the Wind FYP, and the Electricity FYP, which were all released
 
-at about the same time (GWEC-NL 2018 ). According to the Renewable Energy 13th
+at about the same time (GWEC-NL [^2018]:). According to the Renewable Energy 13th
 
 FYP, by 2020, the total RE electricity installations will reach 680 GW, with electric-
 
@@ -57928,7 +52753,7 @@ tion. The wind power target is set to reach 210 GW by 2020, with electricity
 
 production of 420 TWh, supplying 6% of China’s total electricity demand. The
 
-target for offshore wind is 5 GW by 2020 (GWEC-NL 2018 ). For other renewable
+target for offshore wind is 5 GW by 2020 (GWEC-NL [^2018]:). For other renewable
 
 power-generation technologies, the 2020 targets are 150 GW for solar PV, 10 GW
 
@@ -57965,7 +52790,6 @@ rent solar PV market in China must remain at the 2017 level, and to achieve the
 ```
 S. Teske et al.
 ```
-
 ```
 373
 ```
@@ -58002,7 +52826,7 @@ power plants will remain at around 30% until 2030 under the 2.0 °C Scenario. T
 
 relatively low factor indicates an overcapacity in China’s power market. The curtail-
 
-ment rates of 20% (REW 1- 2018 ) and more in 2017—mainly for wind farms—con-
+ment rates of 20% (REW 1-[^2018]:) and more in 2017—mainly for wind farms—con-
 
 firm this.
 
@@ -58014,13 +52838,13 @@ of installed capacity [GW/a]
 ```
 ```
 2015–2025 2026–2035 2036–2050
-2.0 °C 1.5 °C2.0 °C 1.5 °C2.0 °C 1.5 °C
-Hard coal 5 − 51 − 55 − 81 − 41 − 5
+2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
+Hard coal 5 −51 −55 −81 −41 −5
 Lignite 0 0 0 0 0 0
-Gas 4 28 6 30 − 16 − 17
+Gas 4 28 6 30 −16 −17
 Hydrogen-Gas 0 0 1 3 24 38
-Oil/Diesel 0 − 1 0 − 1 0 0
-Nuclear 3 0 − 2 0 − 3 − 4
+Oil/Diesel 0 −1 0 −1 0 0
+Nuclear 3 0 −2 0 −3 −4
 Biomass 6 10 9 8 5 5
 Hydro 8 5 3 3 3 3
 Wind (onshore) 31 65 46 64 36 29
@@ -58032,8 +52856,7 @@ Solar thermal power plants 1 13 34 29 40 30
 Ocean energy 0 1 2 2 5 4
 Renewable fuel based co-generation 4 9 10 9 8 8
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 374
 
@@ -58065,8 +52888,7 @@ Dispatch RE
 Dispatch Fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -58078,8 +52900,7 @@ Dispatch RE
 Dispatch fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 China-North
@@ -58516,7 +53337,6 @@ China-East
 ```
 S. Teske et al.
 ```
-
 ```
 375
 ```
@@ -58721,8 +53541,7 @@ China
 ```
 9%
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 376
 
@@ -58767,7 +53586,7 @@ variable and
 dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
-China 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+China 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 factor – average
 ```
@@ -58781,7 +53600,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]39.2% 34% 29% 32% 25% 20% 17% 9% 16%
+[%/yr] 39.2% 34% 29% 32% 25% 20% 17% 9% 16%
 ```
 ```
 Limited
@@ -58789,33 +53608,32 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]47.3% 20% 17% 21% 14% 68% 19% 47% 27%
+[%/yr] 47.3% 20% 17% 21% 14% 68% 19% 47% 27%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]30.7% 28% 40% 46% 34% 24% 37% 11% 37%
+[%/yr] 30.7% 28% 40% 46% 34% 24% 37% 11% 37%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]59.1% 27% 31% 28% 23% 47% 34% 62% 39%
+[%/yr] 59.1% 27% 31% 28% 23% 47% 34% 62% 39%
 ```
 ```
 Variable:
 renewable
 ```
 ```
-[%/yr]17.9% 15% 15% 17% 16% 22% 17% 22% 17%
+[%/yr] 17.9% 15% 15% 17% 16% 22% 17% 22% 17%
 ```
 ```
 S. Teske et al.
 ```
-
 ```
 377
 ```
@@ -58959,6 +53777,8 @@ China-North
 ```
 ```
 −
+```
+```
 133.4
 ```
 ```
@@ -59038,6 +53858,8 @@ China-Northwest
 ```
 ```
 −
+```
+```
 48.1
 ```
 ```
@@ -59117,6 +53939,8 @@ China-Northeast
 ```
 ```
 −
+```
+```
 22.8
 ```
 ```
@@ -59368,8 +54192,7 @@ China-East
 ```
 (continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 378
 
@@ -59513,6 +54336,8 @@ China-South
 ```
 ```
 −
+```
+```
 49.1
 ```
 ```
@@ -59583,6 +54408,8 @@ Taiwan
 ```
 ```
 −
+```
+```
 4.0
 ```
 ```
@@ -59591,7 +54418,6 @@ Taiwan
 ```
 S. Teske et al.
 ```
-
 ```
 379
 ```
@@ -59626,8 +54452,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -59642,8 +54467,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -59676,8 +54500,7 @@ based
 [GWh/year]
 ```
 ```
-China-
-North
+China-North
 ```
 ```
 2020
@@ -59779,8 +54602,7 @@ North
 17,528
 ```
 ```
-China-
-Northwest
+China-Northwest
 ```
 ```
 2020
@@ -59882,8 +54704,7 @@ Northwest
 10,080
 ```
 ```
-China-
-Northeast
+China-Northeast
 ```
 ```
 2020
@@ -59985,8 +54806,7 @@ Northeast
 10,012
 ```
 ```
-China-
-Tibet
+China-Tibet
 ```
 ```
 2020
@@ -60088,8 +54908,7 @@ Tibet
 230
 ```
 ```
-China-
-Central Baltic
+China-Central Baltic
 ```
 ```
 2020
@@ -60292,8 +55111,7 @@ China-East
 ```
 18,866(continued)
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 380
 
@@ -60328,8 +55146,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -60344,8 +55161,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -60378,8 +55194,7 @@ based
 [GWh/year]
 ```
 ```
-China-
-South
+China-South
 ```
 ```
 2020
@@ -60687,47 +55502,31 @@ China
 ```
 S. Teske et al.
 ```
-
 ```
 381
 ```
 **8.14 OECD Pacific**
 
-**_8.14.1 OECD Pacific: Long-Term Energy Pathways_**
+**8.14.1 OECD Pacific: Long-Term Energy Pathways**
 
 **8.14.1.1 OECD Pacific: Final Energy demand by Sector**
 
 The future development pathways for OECD Pacific’s final energy demand when
-
 the assumptions on population growth, GDP growth, and energy intensity are com-
-
 bined are shown in Fig. 8.98 for the 5.0  °C, 2.0  °C, and 1.5  °C Scenarios. In the
-
 5.0 °C Scenario, the total final energy demand will decrease by 2%, from the current
-
 20,100 PJ/year to 19,600 PJ/year in 2050. In the 2.0 °C Scenario, the final energy
-
 demand will decrease by 46% compared with current consumption and will reach
-
 10,800 PJ/year by 2050. The final energy demand in the 1.5 °C Scenario will reach
-
 10,200 PJ, 49% below the 2015 demand. In the 1.5 °C Scenario, the final energy
-
 demand in 2050 will be 6% lower than in the 2.0  °C Scenario. The electricity
-
 demand for ‘classical’ electrical devices (without power-to-heat or e-mobility) will
-
 decrease from 1520 TWh/year in 2015 to 1150 TWh/year in 2050 in both alternative
-
 scenarios. Compared with the 5.0 °C case (1890 TWh/year in 2050), the efficiency
-
 measures in the 2.0 °C and 1.5 °C Scenarios will save 740 TWh/year in 2050.
-
-```
 Electrification will lead to a significant increase in the electricity demand by
-```
-2050. The 2.0 °C Scenario has an electricity demand for heating of approximately
 
+2050. The 2.0 °C Scenario has an electricity demand for heating of approximately
 400 TWh/year due to electric heaters and heat pumps, and in the transport sector,
 
 ```
@@ -60737,40 +55536,40 @@ Electrification will lead to a significant increase in the electricity demand by
 500
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-1,50 0
+1,500
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-2,50 0
+2,500
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-3,50 0
+3,500
 ```
 ```
 0
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-15,00 0
+15,000
 ```
 ```
-20,00 0
+20,000
 ```
 ```
-25,00 0
+25,000
 ```
 ```
 5.0°C2.0°
@@ -60829,10 +55628,9 @@ Industry fuelsIndustry electricity
 Residential & other sectors fuelsResidential & other sectors electricity
 total power demand (incl. synfuels & H2)
 ```
-**Fig. 8.98** OECD Pacific: development of final energy demand by sector in the scenarios
+## Fig. 8.98 OECD Pacific: development of final energy demand by sector in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 382
 
@@ -60902,31 +55700,23 @@ proportion of variable power generation (PV, wind, and ocean) of 40% and 47% by
 
 Figure 8.100 shows the development of the electricity-generation and supply costs
 
-over time, including the CO 2 emission costs, in all scenarios. The calculated
-
-electricity- generation costs in 2015 (referring to full costs) were around 8 ct/kWh.
+over time, including the CO[^2]: emission costs, in all scenarios. The calculated
+electricity-generation costs in 2015 (referring to full costs) were around 8 ct/kWh.
 
 In the 5.0 °C case, the generation costs will increase until 2030, when they reach
-
 11.1 ct/kWh, and then drop to 10.9 ct/kWh by 2050. The generation costs will
-
 increase in the 2.0 °C Scenario until 2030, when they reach 10.5 ct/kWh, and then
-
 drop to 8.3 ct/kWh by 2050. In the 1.5 °C Scenario, they will increase to 10.7 ct/
-
 kWh, and then drop to 8.5 ct/kWh by 2050. In the 2.0 °C Scenario, the generation
 
 ```
 S. Teske et al.
 ```
-
 ```
 383
 ```
 **Table 8.95** OECD Pacific: development of renewable electricity-generation capacity in the
 scenarios
-
-```
 in GW Case 2015 2025 2030 2040 2050
 Hydro 5.0 °C 69 73 76 78 78
 2.0 °C 69 76 78 82 84
@@ -60952,7 +55742,7 @@ Ocean 5.0 °C 0 1 1 2 4
 Total 5.0 °C 132 197 221 246 275
 2.0 °C 132 409 681 1176 1416
 1.5 °C 132 444 774 1345 1594
-```
+
 ```
 0
 ```
@@ -60960,25 +55750,25 @@ Total 5.0 °C 132 197 221 246 275
 500
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-1,50 0
+1,500
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-2,50 0
+2,500
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-3,50 0
+3,500
 ```
 ```
-4,00 0
+4,000
 ```
 ```
 5.0°C2.0°
@@ -61047,43 +55837,26 @@ Gas
 Lignite
 Coal
 ```
-**Fig. 8.99** OECD Pacific: development of electricity-generation structure in the scenarios
+## Fig. 8.99 OECD Pacific: development of electricity-generation structure in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 384
 
 costs in 2050 will be 2.6 ct/kWh lower than in the 5.0 °C case, and in the 1.5 °C
-
 Scenario, this difference will 2.4 ct/kWh. Note that these estimates of generation
-
 costs do not take into account integration costs such as power grid expansion, stor-
-
 age, or other load-balancing measures.
-
-```
 In the 5.0 ° C case, the growth in demand and increasing fossil fuel prices will
-```
 cause the total electricity supply costs to rise from today’s $160 billion/year to more
-
 than $270 billion/year in 2050. In the 2.0 °C Scenario, the total supply costs will be
-
 $270 billion/year, and in the 1.5  °C Scenario, they will be $310 billion/year. The
-
 long-term costs for electricity supply will be only 2% higher in the 2.0 °C Scenario
-
 than in the 5.0  °C Scenario as a result of the estimated generation costs and the
-
 electrification of heating and mobility. Further electrification and synthetic fuel gen-
-
 eration in the 1.5  °C Scenario will result in total power generation costs that are
-
 17% higher than in the 5.0 °C case.
-
-```
-Compared with these results, the generation costs when the CO 2 emission costs
-```
+Compared with these results, the generation costs when the CO[^2]: emission costs
 are not considered will increase in the 5.0 °C case to 8.3 ct/kWh in 2050. The gen-
 
 eration costs in the 2.0 °C Scenario will increase until 2030, when they will reach
@@ -61098,8 +55871,7 @@ and this will occur in 2040. In the 1.5  °C Scenario, compared with the 5.0  
 
 Scenario, the maximum difference in the generation costs will be 1.4 ct/kWh, again
 
-in 2040. If the CO 2 costs are not considered, the total electricity supply costs in the
-
+in 2040. If the CO[^2]: costs are not considered, the total electricity supply costs in the
 5.0 °C case will rise to about $200 billion/year in 2050.
 
 ```
@@ -61159,16 +55931,18 @@ billion $ ct/kWh
 ```
 2.0°C efficiency measures 2.0°C
 1.5°C efficiency measures 1.5°C
+```
+```
 Spec. Electricity Generation Costs 5.0°C 5.0°C
 Spec. Electricity Generation Costs 1.5°C Spec. Electricity Generation Costs 2.0°C
 ```
-**Fig. 8.100** OECD Pacific: development of total electricity supply costs and specific electricity-
+## Fig. 8.100 OECD Pacific: development of total electricity supply costs and specific electricity-
+
 generation costs in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 385
 ```
@@ -61196,18 +55970,16 @@ investments, whereas approximately 44% will be invested in renewable power gen-
 
 eration and co-generation (Fig. 8.101).
 
-```
 However, in the 2.0 °C (1.5 °C) Scenario, OECD Pacific will shift almost 93%
-```
+
 (95%) of its entire investment to renewables and co-generation. By 2030, the fossil
 
 fuel share of the power sector investment will predominantly focused on gas power
 
 plants that can also be operated with hydrogen.
 
-```
 Because renewable energy has no fuel costs, other than biomass, the cumulative
-```
+
 fuel cost savings in the 2.0 °C Scenario will reach a total of $1420 billion in 2050,
 
 equivalent to $39 billion per year. Therefore, the total fuel cost savings will be
@@ -61249,9 +56021,8 @@ CHP
 Renewable
 83%
 ```
-```
 2.0°C: 2015-2050
-```
+
 ```
 5.0°C: 2015-2050
 ```
@@ -61281,10 +56052,9 @@ Renewable
 total 3,100
 billion $
 ```
-**Fig. 8.101** OECD Pacific: investment shares for power generation in the scenarios
+## Fig. 8.101 OECD Pacific: investment shares for power generation in the scenarios
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 386
 
@@ -61317,9 +56087,8 @@ growing use of solar, geothermal, and environmental heat will lead, in the long 
 
 to a biomass share of 37% in the 2.0 °C Scenario and of 35% in the 1.5 °C Scenario.
 
-```
 Heat from renewable hydrogen will further reduce the dependence on fossil fuels
-```
+
 in both scenarios. The hydrogen consumption in 2050 will be around 700 PJ/year in
 
 the 2.0 °C Scenario and 800 PJ/year in the 1.5 °C Scenario. The direct use of elec-
@@ -61387,14 +56156,15 @@ Geothermal heat
 and heat pumps
 Solar heating
 Biomass
+```
+```
 Fossil
 ```
-**Fig. 8.102** OECD Pacific: development of heat supply by energy carrier in the scenarios
+## Fig. 8.102 OECD Pacific: development of heat supply by energy carrier in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 387
 ```
@@ -61428,7 +56198,6 @@ Total 5.0 °C 390 580 629 769 988
 1.5 °C 390 1107 1946 3473 4124
 ```
 **Table 8.97** OECD Pacific: installed capacities for renewable heat generation in the scenarios
-
 in GW Case 2015 2025 2030 2040 2050
 Biomass 5.0 °C 44 60 63 69 75
 2.0 °C 44 77 92 117 94
@@ -61445,10 +56214,9 @@ Heat pumps 5.0 °C 5 5 5 5 6
 Totala 5.0 °C 62 87 95 117 150
 2.0 °C 62 156 250 397 426
 1.5 °C 62 171 287 413 401
-a Excluding direct electric heating
+aExcluding direct electric heating
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 388
 
@@ -61468,9 +56236,8 @@ demand will lead to even higher energy savings in the 1.5 °C Scenario of 59% (
 
 2300 PJ/year) in 2050 compared with the 5.0 °C case (Table 8.98, Fig. 8.104).
 
-```
 By 2030, electricity will provide 20% (200 TWh/year) of the transport sector’s
-```
+
 total energy demand in the 2.0 °C Scenario, whereas in 2050, the share will be 53%
 
 (300 TWh/year). In 2050, up to 480 PJ/year of hydrogen will be used in the trans-
@@ -61569,13 +56336,13 @@ pumps
 ```
 total 545 billion $
 ```
-**Fig. 8.103** OECD Pacific: development of investments for renewable heat-generation technolo-
+## Fig. 8.103 OECD Pacific: development of investments for renewable heat-generation technolo-
+
 gies in the scenarios
 
 ```
 S. Teske et al.
 ```
-
 ```
 389
 ```
@@ -61583,25 +56350,25 @@ S. Teske et al.
 0
 ```
 ```
-1,00 0
+1,000
 ```
 ```
-2,00 0
+2,000
 ```
 ```
-3,00 0
+3,000
 ```
 ```
-4,00 0
+4,000
 ```
 ```
-5,00 0
+5,000
 ```
 ```
-6,00 0
+6,000
 ```
 ```
-7,00 0
+7,000
 ```
 ```
 5.0°C2.0°
@@ -61670,7 +56437,7 @@ Natural Gas
 ```
 Oil products
 ```
-**Fig. 8.104** OECD Pacific: final energy consumption by transport in the scenarios
+## Fig. 8.104 OECD Pacific: final energy consumption by transport in the scenarios
 
 **Table 8.98** OECD Pacific: projection of transport energy demand by mode in the scenarios
 
@@ -61692,38 +56459,24 @@ Total 5.0 °C 6176 5182 4908 4576 3890
 2.0 °C 6176 4631 3624 2419 2002
 1.5 °C 6176 3533 2551 1893 1586
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 390
 
-**8.14.1.8 OECD Pacific: Development of CO 2 Emissions**
+**8.14.1.8 OECD Pacific: Development of CO**[^2]: **Emissions**
 
-In the 5.0  °C Scenario, OECD Pacific’s annual CO 2 emissions will decrease by
-
+In the 5.0  °C Scenario, OECD Pacific’s annual CO[^2]: emissions will decrease by
 21%, from 2080 Mt in 2015 to 1640 Mt in 2050. The stringent mitigation measures
-
 in both alternative scenarios will cause the annual emissions to fall to 280  Mt in
-
 2040  in the 2.0  °C Scenario and to 160 Mt. in the 1.5  °C Scenario, with further
-
-reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO 2 emissions
-
+reductions to almost zero by 2050. In the 5.0 °C case, the cumulative CO[^2]: emissions
 from 2015 until 2050 will add up to 67  Gt. In contrast, in the 2.0  °C and 1.5  °C
-
 Scenarios, the cumulative emissions for the period from 2015 until 2050 will be
-
 31 Gt and 26 Gt, respectively.
-
-```
-Therefore, the cumulative CO 2 emissions will decrease by 54% in the 2.0  °C
-```
+Therefore, the cumulative CO[^2]: emissions will decrease by 54% in the 2.0  °C
 Scenario and by 61% in the 1.5 °C Scenario compared with the 5.0 °C case. A rapid
-
 reduction in the annual emissions will occur under both alternative scenarios. In the
-
 2.0 °C Scenario, this reduction will be greatest in ‘Power generation’, followed by
-
 ‘Transport’ and ‘Industry’ (Fig. 8.105).
 
 ```
@@ -61782,8 +56535,7 @@ cumulated emissions [Gt]
 CO
 ```
 ```
-2
-emissions [Mt/yr]
+emissions [Mt/yr]2
 ```
 ```
 'Power generation' 'Other Conversion'
@@ -61792,13 +56544,13 @@ emissions [Mt/yr]
 5.0°C 2.0°C
 1.5°C
 ```
-**Fig. 8.105** OECD Pacific: development of CO 2 emissions by sector and cumulative CO 2 emis-
+## Fig. 8.105 OECD Pacific: development of CO2 emissions by sector and cumulative CO2 emis-
+
 sions (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
 ```
 S. Teske et al.
 ```
-
 ```
 391
 ```
@@ -61820,9 +56572,8 @@ be even lower (19,900 PJ in 2050) because the final energy demand and conversion
 
 losses will be lower.
 
-```
 Both the 2.0 °C Scenario and 1.5 °C Scenario aim to rapidly phase-out coal and
-```
+
 oil. This will cause renewable energy to have a primary energy share of 33% in 2030
 
 and 88% in 2050  in the 2.0  °C Scenario. In the 1.5  °C Scenario, renewables will
@@ -61845,7 +56596,7 @@ lative coal demand to 100 EJ, and the cumulative oil demand to 230 EJ. Even l
 0
 ```
 ```
-5,00 0
+5,000
 ```
 ```
 10,000
@@ -61949,84 +56700,56 @@ Coal
 ```
 Nuclear
 ```
-**Fig. 8.106** OECD Pacific: projection of total primary energy demand (PED) by energy carrier in
+## Fig. 8.106 OECD Pacific: projection of total primary energy demand (PED) by energy carrier in
+
 the scenarios (including electricity import balance)
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 392
 
 fossil fuel use will be achieved in the 1.5 °C Scenario: 150 EJ for natural gas, 70 EJ
-
 for coal, and 190 EJ for oil.
 
-**_8.14.2 OECD Pacific: Power Sector Analysis_**
+**8.14.2 OECD Pacific: Power Sector Analysis**
 
 South Korea, Japan, Australia, and New Zealand form the OECD Pacific region
-
 (also referred to as OECD Asia Pacific or OECD Asia Oceania). Like Non-OECD
-
 Asia, a regional interconnected power market with regular electricity exchange is
-
 unlikely. Therefore, the region is broken down into seven sub-regions: (1) South
-
 Korea; (2) the north of Japan; (3) the south of Japan; (4) Australia’s National
-
 Electricity Market (NEM) (covering the entire east coast); (5) the SWIS-NT grid
-
 region (comprising Western Australia and the Northern Territory); (6) the North
-
 Island of New Zealand; and (7) the South Island of New Zealand. The sub-regions
-
 have very different electricity policies, power-generation structures, and demand
-
 patterns. In this analysis, simplifications that may not reflect the local conditions are
-
 made to ensure that the results comparable on a global level. Therefore, the results
-
 for specific countries are only estimates.
 
 **8.14.2.1 OECD Pacific: Development of Power Plant Capacities**
 
 The region has significant potential for all renewables, including the dominant
-
 renewable power technologies of solar PV and onshore wind. Japan has significant
-
 geothermal power resources, and offshore wind potentials are substantial across the
-
 region. There is also potential for ocean energy across the region, although it is cur-
-
 rently a niche technology. Australia has one of the best solar resources in the world,
-
 so concentrated solar power plants will be an important part of both scenarios in
-
 Australia. Coal and nuclear capacities will be phased-out as plants come to the end
-
 of their lifetimes. In the 1.5 °C Scenario, the last coal power plant will be phased out
-
 just after 2030.
-
-```
 The solar PV market will reach 8 GW in 2020 under the 2.0 °C Scenario—the
-```
-same level as the actual regional market of 8.3 GW (REN21-GSR 2018 ) in 2017—
-
+same level as the actual regional market of 8.3 GW (REN21-GSR [^2018]:) in 2017—
 and increase rapidly to 43 GW by 2030. The 1.5 °C Scenario requires that solar PV
-
 will achieve an equal market size by 2030 and remain at this level until 2040.
-
-```
 However, the onshore market must increase significantly compared with the mar-
-```
-ket in 2017, which was only 0.54 GW (GWEC-NL 2018 ). By 2025, 12  GW of
+
+ket in 2017, which was only 0.54 GW (GWEC-NL [^2018]:). By 2025, 12  GW of
 
 onshore wind capacity must be installed annually across the region under the 2.0 °C
 
 ```
 S. Teske et al.
 ```
-
 ```
 393
 ```
@@ -62069,13 +56792,13 @@ change of installed capacity [GW/a]
 ```
 ```
 2015–2025 2026–2035 2036–2050
-2.0 °C 1.5C°2.0 °C 1.5 °C2.0 °C 1.5 °C
-Hard coal − 4 − 9 − 5 − 4 − 1 0
-Lignite 0 − 1 − 2 − 2 0 0
-Gas 2 − 2 − 1 − 3 − 14 0
+2.0 °C 1.5C° 2.0 °C 1.5 °C 2.0 °C 1.5 °C
+Hard coal −4 −9 −5 −4 −1 0
+Lignite 0 −1 −2 −2 0 0
+Gas 2 −2 −1 −3 −14 0
 Hydrogen-gas 0 1 1 5 12 12
-Oil/diesel − 3 − 2 − 2 − 2 − 1 − 1
-Nuclear 0 − 5 − 3 − 3 − 2 − 2
+Oil/diesel −3 −2 −2 −2 −1 −1
+Nuclear 0 −5 −3 −3 −2 −2
 Biomass 2 1 1 1 1 1
 Hydro 2 1 0 1 0 0
 Wind (onshore) 7 18 12 17 7 6
@@ -62087,8 +56810,7 @@ Solar thermal power plants 1 2 3 4 2 3
 Ocean energy 0 1 2 2 2 2
 Renewable fuel based co-generation 1 1 1 2 1 1
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 394
 
@@ -62120,8 +56842,7 @@ Dispatch RE
 Dispatch Fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 Variable RE
@@ -62133,8 +56854,7 @@ Dispatch RE
 Dispatch Fossil
 ```
 ```
-Inter-
-connection
+Inter-connection
 ```
 ```
 South Korea
@@ -62499,7 +57219,6 @@ Australia West and North (SWIS + NT)
 ```
 S. Teske et al.
 ```
-
 ```
 395
 ```
@@ -62704,43 +57423,38 @@ OECD Pacific
 ```
 14%
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 396
 
 **8.14.2.3 OECD Pacific: Development of Load, Generation,**
 
-```
-and Residual Load
-```
+**and Residual Load**
+
 Table 8.102 shows the development of the maximum load, generation, and resulting
 
 residual load in the Pacific region. To verify the calculation results, we compared
 
 the peak demands in Australia and Japan.
 
-```
 The peak load for Australia’s NEM was calculated to be 32.6 GW in 2020, which
-```
+
 corresponds to the reported summer peak of 32.5 GW in the summer of 2017/2018
 
-(AER 2018 ). Japan’s peak demand was 152  GW in 2015 according to the Tokyo
+(AER [^2018]:). Japan’s peak demand was 152  GW in 2015 according to the Tokyo
 
-Electric Power Company (TEPCO - 2018 ) and TEPCO predicts that it will be
+Electric Power Company (TEPCO -[^2018]:) and TEPCO predicts that it will be
 
 136 GW in 2020, which is 11% lower.
 
-```
 In the long term, the Pacific region will be a renewable fuel producer for the
-```
+
 export market. Therefore, the calculated increased interconnection capacities indi-
 
 cate overproduction, which will be used for international bunker fuels.
 
-```
 The storage and dispatch requirements for all sub-regions are shown in
-```
+
 Table 8.103. The Pacific region has vast solar and wind resources and will therefore
 
 be one of the production hubs for synthetic fuels and hydrogen, which may be used
@@ -62767,12 +57481,12 @@ variable and
 dispatchable
 power
 generation: 2015 2020 2020 2030 2030 2040 2040 2050 2050
-OECD Pacific 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C 2.0 °C1.5 °C
+OECD Pacific 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C 2.0 °C 1.5 °C
 Capacity
 factor – average
 ```
 ```
-[%/yr]54.8% 55% 55% 29% 29% 29% 29% 34% 31%
+[%/yr] 54.8% 55% 55% 29% 29% 29% 29% 34% 31%
 ```
 ```
 Limited
@@ -62781,7 +57495,7 @@ fossil and
 nuclear
 ```
 ```
-[%/yr]65.1% 54% 54% 26% 31% 19% 29% 25% 32%
+[%/yr] 65.1% 54% 54% 26% 31% 19% 29% 25% 32%
 ```
 ```
 Limited
@@ -62789,33 +57503,32 @@ dispatchable:
 renewable
 ```
 ```
-[%/yr]42.7% 63% 54% 29% 30% 54% 25% 27% 25%
+[%/yr] 42.7% 63% 54% 29% 30% 54% 25% 27% 25%
 ```
 ```
 Dispatchable:
 fossil
 ```
 ```
-[%/yr]48.6% 48% 50% 20% 23% 35% 21% 19% 26%
+[%/yr] 48.6% 48% 50% 20% 23% 35% 21% 19% 26%
 ```
 ```
 Dispatchable:
 renewable
 ```
 ```
-[%/yr]43.1% 73% 73% 50% 52% 37% 46% 49% 46%
+[%/yr] 43.1% 73% 73% 50% 52% 37% 46% 49% 46%
 ```
 ```
 Variable:
 renewable
 ```
 ```
-[%/yr]23.2% 17% 17% 20% 20% 27% 27% 31% 28%
+[%/yr] 23.2% 17% 17% 20% 20% 27% 27% 31% 28%
 ```
 ```
 S. Teske et al.
 ```
-
 ```
 397
 ```
@@ -63422,8 +58135,7 @@ New Zealand – South Island
 ```
 3
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 398
 
@@ -63458,8 +58170,7 @@ Utilization PSH-through-put-
 Total Storage demand (incl. H2)
 ```
 ```
-Dispatch Hydrogen-
-based
+Dispatch Hydrogen-based
 ```
 ```
 Required to avoid curtailment
@@ -63474,8 +58185,7 @@ Utilization PSH-through-put-
 Total storage demand (incl. H2)
 ```
 ```
-Dispatch hydrogen-
-based
+Dispatch hydrogen-based
 ```
 ```
 [GWh/year]
@@ -64020,7 +58730,6 @@ Australia West and North (SWIS + NT)
 ```
 S. Teske et al.
 ```
-
 ```
 399
 ```
@@ -64330,8 +59039,7 @@ OECD Pacific
 ```
 59,243
 ```
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 400
 
@@ -64386,12 +59094,11 @@ FzdXJlcy8iPlBvbGljaWVzIGFuZCBNZWFzdXJlczwvYT4gJnJhcXVvOyA8YSBocmVmP-
 SIvcG9saWNpZXNhbmRtZWFzdXJlcy9jbGltYXRlY2hhbmdlLyI-Q2xpbWF0ZSBDaGFu-
 Z2U8L2E-PC9uYXY
 IRENA (2014), African Clean Energy Corridor  – internet page viewed September 2018, [http://](http://)
-[http://www.irena.org/cleanenergycorridors/Africa-Clean-Energy-Corridor](http://www.irena.org/cleanenergycorridors/Africa-Clean-Energy-Corridor)
+[www.irena.org/cleanenergycorridors/Africa-Clean-Energy-Corridor](www.irena.org/cleanenergycorridors/Africa-Clean-Energy-Corridor)
 
 ```
 S. Teske et al.
 ```
-
 ```
 401
 ```
@@ -64425,7 +59132,7 @@ partners plan Leningrad wind farm, 27th March 2018, https://www.windpowermonthly
 article/1460599/russian-partners-plan-leningrad-wind-farm
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -64435,14 +59142,12 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-8 Energy Scenario Results
-
+[^8]: Energy Scenario Results
 
 © The Author(s) 2019 403
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_9
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 9
+**Chapter 9**
 
 #### Trajectories for a Just Transition
 
@@ -64500,10 +59205,9 @@ S. Teske (*)
 Institute for Sustainable Futures, University of Technology Sydney, Sydney, NSW, Australia
 e-mail: sven.teske@uts.edu.au
 
-
 404
 
-(GEA 2012 ), an integrated assessment of the global energy system, has published a
+(GEA [^2012]:), an integrated assessment of the global energy system, has published a
 
 comprehensive overview of estimated available fossil fuel reserves and resources.
 
@@ -64515,9 +59219,8 @@ the current technology (exploration and production) and market conditions. The
 
 resource data are not cumulative and do not include reserves (GEA 2012).
 
-```
 The assessment shows that there is no shortage of fossil fuels. There might be a
-```
+
 shortage of conventional oil and gas, but unconventional resources are still signifi-
 
 cantly larger than our climate can cope with. Reducing global fossil fuel consump-
@@ -64526,7 +59229,7 @@ tion for reasons of resource scarcity alone is not essential, even though there 
 
 substantial price fluctuations and regional or structural shortages, as we have seen
 
-in the past (Teske and Pregger 2015 ).
+in the past (Teske and Pregger [^2015]:).
 
 **9.2 Coal—Past Production and Future Trajectories**
 
@@ -64547,15 +59250,14 @@ and Kazakhstan. These countries account for 90% of the global coal production.
 ```
 Figure 9.1 shows the historical time series for global coal production. The data
 ```
-are based on the BP Statistical Review 2018 (BP 2018 ), as are the following over-
+are based on the BP Statistical Review 2018 (BP [^2018]:), as are the following over-
 
 views of oil and gas. Production volumes have declined in recent years, mainly due
 
 to changes in demand in China, but they rose again in 2017.
 
-```
 Under the 5.0  °C scenario, the required production of thermal coal (excluding
-```
+
 coal for non-energy uses, such as steel production) will remain at the 2015 level,
 
 with an annual increase of around 1% per year until 2050. As shown in Fig. 9.2,
@@ -64593,37 +59295,27 @@ Coal 17,300–21,000 291,000–435,000 16.5
 ```
 S. Teske
 ```
-
 ```
 405
 ```
-```
 9,000
-```
-```
+
 8,000
-```
-```
+
 7,000
-```
-```
+
 6,000
-```
-```
+
 5,000
-```
-```
+
 4,000
-```
-```
+
 3,000
-```
-```
+
 2,000
-```
-```
+
 1,000
-```
+
 ```
 0
 1981198219831984198519861987198819891990199119921993199419951996199719981999200020012002200320042005200620072008200920192011201220132014201520162017
@@ -64657,8 +59349,7 @@ Global - 5.0C Global 2.0C Global 1.5C
 ```
 **Fig. 9.2** Global coal production until 2050 under the three scenarios
 
-9 Trajectories for a Just Transition of the Fossil Fuel Industry
-
+[^9]: Trajectories for a Just Transition of the Fossil Fuel Industry
 
 406
 
@@ -64711,31 +59402,31 @@ Saudi Arabia, or Russia) by 2040.
 0
 ```
 ```
-10,00 0
+10,000
 ```
 ```
-20,00 0
+20,000
 ```
 ```
-30,00 0
+30,000
 ```
 ```
-40,00 0
+40,000
 ```
 ```
-50,00 0
+50,000
 ```
 ```
-60,00 0
+60,000
 ```
 ```
-70,00 0
+70,000
 ```
 ```
-80,00 0
+80,000
 ```
 ```
-90,00 0
+90,000
 ```
 100,000
 
@@ -64777,49 +59468,29 @@ Latin America
 ```
 S. Teske
 ```
-
 ```
 407
 ```
 **9.4 Gas—Past Production and Future Trajectories**
-
 **Under the Three Scenarios**
 
 Gas production has grown steadily over the past four decades, leading to an overall
-
 production of 3500 billion cubic meters—3.5 times higher than in 1970. The pro-
-
 duction of natural gas is even more widely distributed than oil production. According
-
 to 2017 figures, by far the largest producers are the USA, with 20% of the global
-
 volume, and Russia with 17%. Four countries have market share of around 5% each:
-
 Canada (4.8%), Iran (6.1%), Qatar (4.8%), and China (4.1%). The remaining 43%
-
 of global gas production is distributed over 42 countries (Fig. 9.5).
-
-```
 In the 5.0 °C Scenario, gas production will increase steadily by 2% a year for the
-```
 next two decades, leading to an overall production increase of about 50% by 2050.
-
 Compared with coal and oil, the gas phase-out will be significantly slower in the
-
 2.0 °C and 1.5 °C Scenarios. Furthermore, these scenarios assume that infrastruc-
-
 ture, such as gas pipelines and power plants, will be used after this phase-out for
-
 hydrogen and/or renewable methane produced with electricity from renewable
-
-sources (see Chap. 5, Sect 5.2). Under the 2.0 °C Scenario, gas production will only
-
+sources (see Chap. [^5]:, Sect 5.2). Under the 2.0 °C Scenario, gas production will only
 decrease by 0.2% per year until 2025, then by 1% until 2030, and on average by 4%
-
 annually until 2040. This represents a rather slow phase-out and will allow the gas
-
 industry to gradually transfer to hydrogen. The phase-out under the 1.5 °C Scenario
-
 will be equally slow, and a 4%/year reduction will occur after 2025 (Fig. 9.6).
 
 ```
@@ -64849,8 +59520,7 @@ OIL Global 5.0C 5.0 C OIL Global 2.0C 2.0 C OIL Global 1.5C 1.5 C
 ```
 **Fig. 9.4** Global oil production until 2050 under the three scenarios
 
-9 Trajectories for a Just Transition of the Fossil Fuel Industry
-
+[^9]: Trajectories for a Just Transition of the Fossil Fuel Industry
 
 408
 
@@ -64911,7 +59581,6 @@ Global 5.0C Global 2.0C Global 1.5C
 ```
 S. Teske
 ```
-
 ```
 409
 ```
@@ -64931,20 +59600,19 @@ countries, and for the communities and workers involved. The idea of a ‘just t
 
 tion’ is well documented in the international literature. According to the International
 
-Labour Organization (ILO 2015 ), the concept was first mentioned in the 1990s,
+Labour Organization (ILO [^2015]:), the concept was first mentioned in the 1990s,
 
 when North American unions began developing the concept of just transition.
 
-```
 Initially, trade unionists understood ‘just transition’ to be a program of support
-```
+
 for workers who lost their jobs due to environmental protection policies. Since then,
 
 several UNFCCC Climate Conferences have referred to the ‘just transition’ con-
 
 cept. The Paris Climate Agreement 2015, during the 21st session of the Conference
 
-of the Parties (COP 21) “ _decided to continue and improve the forum on the impact_
+of the Parties (COP 21) “_decided to continue and improve the forum on the impact_
 
 _of the implementation of response measures (hereinafter referred to as the improved_
 
@@ -64952,7 +59620,7 @@ _forum), and adopted the work programme, comprising two areas: (1) economic_
 
 _diversification and transformation; and (2) just transition of the workforce, and the_
 
-_creation of decent work and quality jobs_ ” (UNFCCC-JT 2016 ).
+_creation of decent work and quality jobs_” (UNFCCC-JT [^2016]:).
 
 ```
 Table 9.2 provides possible trajectories for global coal, oil, and gas production,
@@ -64961,7 +59629,7 @@ consistent with the Paris Agreement targets. These trajectories are the results 
 
 2.0 °C and 1.5 °C Scenarios, documented in detail over the previous six chapters of
 
-this book. Chapter 10 uses these trajectories to calculate possible employment
+this book. Chapter [^10]: uses these trajectories to calculate possible employment
 
 effects, both in terms of job losses in the fossil fuel industry, job gains in the renew-
 
@@ -64969,8 +59637,7 @@ able energy industry, and options for transitioning the gas industry towards a r
 
 ably produced hydrogen industry.
 
-9 Trajectories for a Just Transition of the Fossil Fuel Industry
-
+[^9]: Trajectories for a Just Transition of the Fossil Fuel Industry
 
 410
 
@@ -65083,7 +59750,6 @@ per day]
 ```
 S. Teske
 ```
-
 ```
 411
 ```
@@ -65094,9 +59760,9 @@ loaded in September 2018, https://www.bp.com/en/global/corporate/energy-economic
 tical-review-of-world-energy/downloads.html
 GEA (2012): Global Energy Assessment  - Toward a Sustainable Future, Cambridge University
 Press, Cambridge, UK and New  York, NY, USA and the International Institute for Applied
-Systems Analysis, Laxenburg, Austria; [http://www.globalenergyassessment.org](http://www.globalenergyassessment.org)
+Systems Analysis, Laxenburg, Austria; [www.globalenergyassessment.org](www.globalenergyassessment.org)
 ILO (2015), International Labour Organization, Just Transition  – A report for the OECD, May
-2017, Just Transition Centre, [http://www.ituc-csi.org/just-transition-centre](http://www.ituc-csi.org/just-transition-centre)
+2017, Just Transition Centre, [www.ituc-csi.org/just-transition-centre](www.ituc-csi.org/just-transition-centre)
 Teske, Pregger (2015), Teske, S, Pregger, T., Naegler, T., Simon, S., Energy [R]evolution  -
 A sustainable World Energy Outlook 2015, Greenpeace International with the German
 Aerospace Centre (DLR), Institute of Engineering Thermodynamics, System Analysis and
@@ -65107,7 +59773,7 @@ Quality Jobs – Technical paper, United Nations – Framework Convention on C
 (UNFCCC) 20 https://unfccc.int/sites/default/files/resource/Just%20transition.pdf
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -65117,14 +59783,12 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-9 Trajectories for a Just Transition of the Fossil Fuel Industry
-
+[^9]: Trajectories for a Just Transition of the Fossil Fuel Industry
 
 © The Author(s) 2019 413
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_10
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 10
+**Chapter 10**
 
 #### Just Transition: Employment Projections
 
@@ -65154,13 +59818,13 @@ also a socially and economically challenging process, and it is imperative that 
 
 transition is managed in a fair and equitable way. One of the key concerns is the
 
-employment of workers in the affected industries (UNFCCC 2016 ; ILO 2015 ).
+employment of workers in the affected industries (UNFCCC [^2016]:; ILO [^2015]:).
 
 However, it should be noted that the ‘just transition’ concept is concerned not only
 
 with workers’ rights, but also with the well-being of the broader community (Smith
 
-2017 ; Jenkins et al. 2016 ; Sovacool and Dworkin 2014 ). This includes, for example,
+[^2017]:; Jenkins et al. [^2016]:; Sovacool and Dworkin [^2014]:). This includes, for example,
 
 community participation in decision-making processes, public dialogue, and policy
 
@@ -65168,9 +59832,8 @@ mechanisms to create an enabling environment for new industries, to ensure local
 
 economic development.
 
-```
 Although it is acknowledged that a just transition is important, there are limited
-```
+
 data on the impacts that the transition will have on employment. There is even less
 
 information on the types of occupations that will be affected by the transition, either
@@ -65186,28 +59849,21 @@ Institute for Sustainable Futures, University of Technology Sydney, Sydney, NSW,
 e-mail: elsa.dominish@uts.edu.au; chris.briggs@uts.edu.au; sven.teske@uts.edu.au;
 franziska.mey@uts.edu.au
 
-
 414
 
-scenario from the Leonardo Di Caprio project (see Chap. 3 ff. This study is funded
-
+scenario from the Leonardo Di Caprio project (see Chap. [^3]: ff. This study is funded
 by the German Greenpeace Foundation and builds on the methodology developed
-
-by UTS/ISF (Rutovitz et al. 2015 ), with an updated framework that disaggregates
-
+by UTS/ISF (Rutovitz et al. [^2015]:), with an updated framework that disaggregates
 jobs by specific occupations. Projected employment is calculated regionally, but in
-
 this chapter, we present an overview of the global data, which are an aggregate of the
-
 results for the 10 world regions. Further details, including a further regional break-
-
-down of employment data, are provided in the full report (Dominish et al. 2018 ).
+down of employment data, are provided in the full report (Dominish et al. [^2018]:).
 
 **10.2 Quantitative Employment Modelling**
 
 This section discusses the calculation factors used for the quantitative employment
 
-modelling (an overview of the methodology is given in Sect. 3.6 of Chap. 3). The
+modelling (an overview of the methodology is given in Sect. 3.6 of Chap. [^3]:). The
 
 factors were analysed on a regional basis where possible, to take into account the
 
@@ -65215,7 +59871,7 @@ significant economic differences between world regions. The results are then pre
 
 sented in the following section.
 
-**_10.2.1 Employment Factors_**
+**10.2.1 Employment Factors**
 
 Employment factors were used to calculate the number of jobs required per unit of
 
@@ -65233,9 +59889,8 @@ adjustments were made when a local factor was not available (see Sect. 10.2.2). 
 
 employment factors used in the calculations are shown in Table 10.1.
 
-```
 The employment factors were based on coal supplies, because employment per
-```
+
 tonne varies significantly across the world regions and because coal plays a signifi-
 
 cant role in energy production in many countries. In Australia and the USA, coal is
@@ -65267,7 +59922,6 @@ many major coal-producing countries as possible, and coverage was obtained for
 ```
 E. Dominish et al.
 ```
-
 ```
 415
 ```
@@ -65317,15 +59971,11 @@ decommissioning
 Combined heat
 and power
 ```
-```
 CHP technologies use the factor for the technology, i.e. coal, gas, biomass,
 geothermal, etc., increased by a factor of 1.5 for O&M only.
-```
-Note: For details of sources and derivation of factors see Dominish et al. ( 2018 )
+Note: For details of sources and derivation of factors see Dominish et al. ([^2018]:)
 
 **Table 10.2** Employment factors used for coal fuel supply (mining and associated jobs)
-
-```
 Employment factor
 Jobs per PJ Tonnes per person per year (coal equivalent)
 World average 36.2 943
@@ -65339,62 +59989,43 @@ Eastern Europe/Eurasia 36.0 948
 Developing Asia 6.5 5273
 Latin America 12.5 2725
 Middle East Used world average because no employment data were available
-```
-10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 
+[^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 
 416
 
-**_10.2.2 Regional Adjustments_**
+**10.2.2 Regional Adjustments**
 
 The employment factors used in this model for energy technologies other than coal
-
 mining were usually for OECD regions, which are typically wealthier than other
-
 regions. A regional multiplier was applied to make the jobs per MW more realistic
-
 for other parts of the world. In developing countries, there are generally more jobs
-
 per unit of electricity because those countries have more labour-intensive practices.
-
 The multipliers change over the study period, consistent with the projections for
-
 GDP per worker. This reflects the fact that as prosperity increases, labour intensity
-
 tends to fall. The multipliers are shown in Table 10.3.
 
 **10.2.2.1 Local Employment Factors**
 
 Local employment factors were used where possible. These region-specific factors
-
 were:
 
-- _OECD Americas—_ gas and coal fuel, photovoltaics (PV) and offshore wind (all
-
-```
+• OECD Americas—gas and coal fuel, photovoltaics (PV) and offshore wind (all
 factors), and solar thermal power (construction and operation and maintenance
 (O&M)
-```
-- _OECD Europe—_ gas and coal fuel, offshore wind (all factors), solar thermal
-
-```
+• OECD Europe—gas and coal fuel, offshore wind (all factors), solar thermal
 power (construction and O&M), and solar heating
-```
-- _OECD Pacific—_ gas and coal fuel
-- _Africa_ —gas, coal, and biomass fuel
-- _China—_ gas and coal fuel, and solar heating
-- _Eastern Europe/Eurasia—_ gas and coal fuel
-- _Developing Asia_ —coal fuel
-- _India_  – coal fuel and solar heating
-- _Latin America—_ coal and biomass fuels, onshore wind (all factors), nuclear (con-
-
-```
+• OECD Pacific—gas and coal fuel
+• Africa—gas, coal, and biomass fuel
+• China—gas and coal fuel, and solar heating
+• Eastern Europe/Eurasia—gas and coal fuel
+• Developing Asia—coal fuel
+• India – coal fuel and solar heating
+• Latin America—coal and biomass fuels, onshore wind (all factors), nuclear (con-
 struction and O&M), large hydro (O&M), and small hydro (construction and
 O&M).
-```
-**Table 10.3** Regional multipliers used for the quantitative calculation of employment
 
-```
+**Table 10.3** Regional multipliers used for the quantitative calculation of employment
 2015 2020 2030 2040 2050
 OECD (North America, Europe, Pacific) 1.0 1.0 1.0 1.0 1.0
 Latin America 3.4 3.4 3.4 3.1 2.9
@@ -65404,15 +60035,14 @@ Eastern Europe/Eurasia 2.4 2.4 2.2 2.0 1.8
 India 7.0 5.6 3.7 2.7 2.0
 Developing Asia 6.1 5.3 4.2 3.5 2.9
 China 2.6 2.2 1.6 1.3 1.1
-```
-Source: Derived from ILO ( 2012 ) Key Indicators of the Labour Market, eighth edition software,
+
+Source: Derived from ILO ([^2012]:) Key Indicators of the Labour Market, eighth edition software,
 with growth in GDP per capita derived from IEA World Energy Outlook 2018 and World Bank
 data
 
 ```
 E. Dominish et al.
 ```
-
 ```
 417
 ```
@@ -65444,9 +60074,9 @@ production processes are scaled up. Generally, jobs per MW are projected to fall
 
 parallel with this trend. The cost projections for each of the calculated energy sce-
 
-nario regions (see Sect. 5.3 of Chap. 5) were used to derive these factors.
+nario regions (see Sect. 5.3 of Chap. [^5]:) were used to derive these factors.
 
-**_10.2.3 Results of Quantitative Employment Modelling_**
+**10.2.3 Results of Quantitative Employment Modelling**
 
 The 2.0 °C and 1.5 °C Scenarios will result in an increase in energy-sector jobs in
 
@@ -65458,21 +60088,18 @@ than in the 2.0 °C Scenario. By 2050, employment in te energy sector will be w
 
 the same range in both scenarios, at around 48–50 million jobs.
 
-- In 2025, there will be 29.6 million energy-sector jobs in the 5.0  °C Scenario,
+• In 2025, there will be 29.6 million energy-sector jobs in the 5.0  °C Scenario,
 
-```
 42.3 million in the 2.0 °C Scenario, and 48.1 million in the 1.5 °C Scenario.
-```
-- In 2030, there will be 30.3 million energy-sector jobs in the 5.0  °C Scenario,
 
-```
+• In 2030, there will be 30.3 million energy-sector jobs in the 5.0  °C Scenario,
+
 49.2 million in the 2.0 °C Scenario, and 53.8 million in the 1.5 °C Scenario.
-```
-- In 2050, there will be 29.6 million energy-sector jobs in the 5.0  °C Scenario,
 
-```
+• In 2050, there will be 29.6 million energy-sector jobs in the 5.0  °C Scenario,
+
 50.4 million in the 2.0 °C Scenario, and 47.8 million in the 1.5 °C Scenario.
-```
+
 ```
 Figure 10.1 shows the changes in job numbers under the 5.0  °C, 2.0  °C, and
 ```
@@ -65490,14 +60117,12 @@ total energy-sector jobs in the 2.0 °C Scenario and 66% in the 1.5 °C Scenar
 
 24% (26%), followed by biomass, wind, and solar heating.
 
-10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
-
+[^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 
 418
 
-```
 0.
-```
+
 ```
 0
 10
@@ -65526,34 +60151,34 @@ total energy-sector jobs in the 2.0 °C Scenario and 66% in the 1.5 °C Scenar
 .0
 ```
 ```
-2015
+1520
 ```
 ```
 2020
 ```
 ```
-2025
+2520
 ```
 ```
-2030
+3020
 ```
 ```
-2050
+5020
 ```
 ```
 2020
 ```
 ```
-2025
+2520
 ```
 ```
-2030
+3020
 ```
 ```
-2050
+5020
 ```
 ```
-ns Millio bs Direct jo
+nsllioMi bs Direct jo
 ```
 ```
 Co
@@ -65642,16 +60267,19 @@ rS
 ```
 ```
 ol
+```
+```
 ar
 ```
--
-heat
-
+```
+- heat
+```
 ```
 Geothermal & heat pump
 ```
-```
 0.
+
+```
 0
 10
 ```
@@ -65679,34 +60307,34 @@ Geothermal & heat pump
 .0
 ```
 ```
-2015
+1520
 ```
 ```
 2020
 ```
 ```
-2025
+2520
 ```
 ```
-2030
+3020
 ```
 ```
-2050
+5020
 ```
 ```
 2020
 ```
 ```
-2025
+2520
 ```
 ```
-2030
+3020
 ```
 ```
-2050
+5020
 ```
 ```
-ns Millios jobect Dir
+ns Millio s job ect Dir
 ```
 ```
 Co
@@ -65815,38 +60443,37 @@ we
 r
 ```
 ```
-5012
+5 012
 ```
 ```
-0022
+0 022
 ```
 ```
-5022
+5 022
 ```
 ```
-0032
+0 032
 ```
 ```
-0052
+0 052
 ```
 ```
-0022
+0 022
 ```
 ```
-5022
+5 022
 ```
 ```
-0032
+0 032
 ```
 ```
-0052
+0 052
 ```
 ```
 C
-oa
 ```
 ```
-l
+oal
 ```
 ```
 G
@@ -65858,37 +60485,30 @@ as
 , oil
 ```
 ```
-&
-```
-```
-dies
+& dies
 ```
 ```
 el
 ```
 ```
 N
-uc
 ```
 ```
-le
+ucle
 ```
 ```
 ar
 ```
 ```
-B
-io
-m
+Biom
 ```
 ```
-as
-```
-```
-s
+ass
 ```
 ```
 H
+```
+```
 ydr
 ```
 ```
@@ -65898,8 +60518,7 @@ o
 W
 ```
 ```
-in
-d
+ind
 ```
 ```
 P
@@ -65909,50 +60528,26 @@ V
 G
 ```
 ```
-eo
-```
-```
-th
-```
-```
-er
-```
-```
-m
+eotherm
 ```
 ```
 al
 ```
 ```
-po
-```
-```
-w
-e
-ww
+poweww
 ```
 ```
 r
 ```
 ```
 S
-ol
-ar
+olar
 ```
 ```
-th
+therm
 ```
 ```
-er
-```
-```
-m
-```
-```
-al
-```
-```
-po
+alpo
 ```
 ```
 w
@@ -65961,37 +60556,28 @@ w
 er
 ```
 ```
-S
-ol
-ar
+Solar
 ```
--
-hea
+-hea
 
 ```
 t
 ```
 ```
-0.
-0
-10
+0.[^0]
+10.[^0]
+20.[^0]
+30.[^0]
+40.[^0]
 ```
-.^0
-20
-.^0
-30
-.^0
-40
-.^0
-
 ```
 5102
 ```
 ```
-0022
+0 022
 ```
 ```
-5022
+5 022
 ```
 ```
 0302
@@ -66003,69 +60589,52 @@ t
 0202
 ```
 ```
-5022
+5 022
 ```
 ```
-0032
+0 032
 ```
 ```
-0052
+0 052
 ```
 ```
-iM sobjtcerDi
+i M s obj tcer Di
 ```
 ```
 C
-oa
 ```
 ```
-l
+oal
 ```
 ```
 G
 ```
 ```
-as
+as,oil
 ```
 ```
-,o
-```
-```
-il
 &
 ```
 ```
-di
-```
-```
-es
-```
-```
-el
+diesel
 ```
 ```
 N
-uc
 ```
 ```
-le
-```
-```
-ar
+uclear
 ```
 ```
 B
-io
-m
+iom
 ```
 ```
-as
-```
-```
-s
+ass
 ```
 ```
 H
+```
+```
 ydyy
 ```
 ```
@@ -66075,8 +60644,7 @@ ro
 W
 ```
 ```
-in
-d
+ind
 ```
 ```
 P
@@ -66086,25 +60654,14 @@ V
 G
 ```
 ```
-eo
+eotherm
 ```
 ```
-th
+alpow
 ```
 ```
-er
-```
-```
-m
-```
-```
-al
-```
-```
-po
-```
-```
-weww
+e
+ww
 ```
 ```
 r
@@ -66114,22 +60671,13 @@ S
 ola
 ```
 ```
-r^ tr
+rtr
 ```
 ```
-he
+herm
 ```
 ```
-rm
-```
-```
-al
-```
-```
-po
-```
-```
-w
+alpow
 ```
 ```
 er
@@ -66137,9 +60685,10 @@ er
 ```
 Solar
 ```
+```
 -
 he
-
+```
 ```
 at
 ```
@@ -66163,59 +60712,45 @@ he
 ```
 ```
 at
+```
+```
 pu
 ```
 ```
 mp
 ```
-```
 5.0°C
-```
-```
+
 scenari
-```
-```
+
 o
-```
-```
+
 2.0°
-```
-```
+
 Cs
-```
-```
+
 ce
-```
-```
+
 nari
-```
-```
+
 o
-```
-```
+
 5.0°
-```
-```
+
 Cs
-```
-```
+
 cenari
-```
-```
+
 o
-```
-```
+
 1.5°
-```
-```
+
 Cs
-```
-```
+
 cenari
-```
-```
+
 o
-```
+
 ```
 Fig. 10.1
 ```
@@ -66237,47 +60772,32 @@ right
 ```
 E. Dominish et al.
 ```
-
 ```
 419
 ```
 **10.3 Occupational Employment Modelling**
 
 To plan for a just transition, it is important to understand the occupations and loca-
-
 tions at which jobs are likely to be lost or created. The modelling of employment by
-
 type of occupation is based on a new framework developed by UTS/ISF and financed
-
 by the German Greenpeace Foundation. The framework is applied to the results of
-
 the employment modelling discussed in Sect. 10.2. This information can be used to
-
 attempt to understand where labour is likely to be required in the renewable energy
-
 transition, and where job losses are likely to occur.
 
-**_10.3.1 Background: Development of Occupational_**
-
-**_Employment Modelling_**
+**10.3.1 Background: Development of Occupational**
+**Employment Modelling**
 
 The occupational employment modelling framework used in this study was devel-
-
 oped for renewable energy (solar PV, onshore wind, offshore wind) and fossil fuels
-
 (coal and gas). The three primary studies that classified and measured the occupa-
-
 tional composition of renewable energy industries were conducted by the
-
 International Renewable Energy Agency (IRENA). Through surveys of around 45
-
 industry participants across a range of developed and developing nations, IRENA
-
 estimated the percentages of person–days for the various occupations across the
-
 solar PV and onshore and offshore wind farm supply chains (IRENA 2017a, b,
 
-2018 ). Figure 10.2 is an example (in this case, for solar PV manufacturing).
+[^2018]:). Figure 10.2 is an example (in this case, for solar PV manufacturing).
 
 ```
 IRENA’s studies are the most detailed estimates of the occupational composi-
@@ -66286,7 +60806,7 @@ tions of the solar PV and onshore wind industries to date. ISF has extended the
 
 application of IRENA’s work in two key ways:
 
-1. **Mapping IRENA’s job categories against the International Standard**
+1. Mapping IRENA’s job categories against the International Standard
 
 ```
 Classification of Occupations (ISCO): IRENA uses its own occupational clas-
@@ -66298,26 +60818,24 @@ renewable energy technologies and fossil fuel sectors. The best fit for each of 
 occupations in the IRENA studies has been identified at one-digit, two-digit,
 three-digit, and four-digit levels of the ISCO.
 ```
-2. **Unpacking mid- and low-skill job categories in IRENA’s study** : Some of the
+2. Unpacking mid- and low-skill job categories in IRENA’s study: Some of the
 
 ```
 categories in the IRENA studies containe jobs that are of interest from a just
 transition perspective. Specifically, IRENA combines:
 ```
-- ‘Factory workers’ for solar PV and onshore and offshore wind
-    manufacturing
-- ‘Ship crews’ for offshore wind construction and operation and maintenance
-- ‘Construction workers’ for solar PV, onshore wind farm construction, and
-    operation and maintenance.
+• ‘Factory workers’ for solar PV and onshore and offshore wind
+manufacturing
+• ‘Ship crews’ for offshore wind construction and operation and maintenance
+• ‘Construction workers’ for solar PV, onshore wind farm construction, and
+operation and maintenance.
 
-10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
-
+[^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 
 420
 
-```
 These categories combine a range of technicians, trades, machinery operators,
-```
+
 drivers, and assemblers, and labourers.
 
 ```
@@ -66335,14 +60853,14 @@ Zealand Standard Classification of Industry framework (which is based on the int
 
 national classification standard) (Australian Bureau of Statistics & Statistics New
 
-Zealand 2013 ).
+Zealand [^2013]:).
 
 ```
 Data from the Australian census on the occupational composition of these manu-
 ```
 facturing sectors were then used to derive the breakdown of employment (Australian
 
-Bureau of Statistics 2017 ). The census includes a comprehensive stocktake of
+Bureau of Statistics [^2017]:). The census includes a comprehensive stocktake of
 
 employment, with data at one-, two-, three- and four-digit levels for each industry.
 
@@ -66393,61 +60911,36 @@ Logistics
 ```
 E. Dominish et al.
 ```
-
 ```
 421
 ```
-tries’ (CEMAC 2017 ). To clarify construction worker categories for onshore wind
-
+tries’ (CEMAC [^2017]:). To clarify construction worker categories for onshore wind
 and PV construction, and for the operation and maintenance of solar PV, interviews
-
 were conducted with project managers who were currently overseeing or had
-
 recently completed construction projects (Table 10.4).
-
-```
 The IRENA studies are the richest data source on employment in solar PV and
-```
 onshore wind projects, but further work is required to directly match renewable
-
 energy job levels against existing fossil fuel sectors and to generate data on mid- and
-
 low-skill jobs, which are of primary interest from a just transition perspective.
-
-```
 As an example, Table 10.5 shows the occupational hierarchy for solar PV con-
-```
 struction and how it is matched against ISCO. ISCO classifies occupations from a
-
 one-digit level (left) to a four-digit level (right). Each level is more detailed than the
-
 previous one in terms of the labour force required for the type of work. This meth-
-
 odology has been transferred to an occupational hierarchy that has been constructed
-
 for solar PV, onshore wind, and offshore wind using IRENA and other data sources
-
 to map jobs against the ISCO. The result is a matrix with percentages allocated to
-
 each occupation at the one-, two-, three-, and four-digit levels of aggregation.
-
-```
 The framework for fossil fuels was derived from labour statistics from the
-```
 Australian 2016 national census for coal mining, gas supply, and coal and gas gen-
-
-eration (Australian Bureau of Statistics 2017 ). Although these data are specific to
-
+eration (Australian Bureau of Statistics [^2017]:). Although these data are specific to
 Australia, these statistics provide the best source of data, and regional multipliers in
-
 the quantitative modelling can adjust the results to account for economic differences
-
 between regions.
 
 **Table 10.4** Wind and solar PV manufacturing–study methodology
 
 ```
-TechnologyComponent
+Technology Component
 ```
 ```
 I-O Industry
@@ -66511,8 +61004,7 @@ manufacturing
 Cells
 Wafers
 ```
-10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
-
+[^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 
 422
 
@@ -66723,7 +61215,6 @@ Civil engineering technicians (3112)
 ```
 E. Dominish et al.
 ```
-
 ```
 423
 ```
@@ -66930,12 +61421,10 @@ Civil engineering Labourers (9312)
 ```
 10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 ```
-
 424
 
-```
 For each modelling run, the results for the installed capacity of the renewable
-```
+
 energy technologies (MW) and full-time-equivalent jobs (FTE/MW) were used to
 
 generate an aggregate level of employment for construction, manufacturing, and
@@ -66974,7 +61463,7 @@ occupations, but much lower proportions of machinery operators and drivers.
 
 **10.3.1.1 Methodology and Limitations**
 
-- At the aggregate level, it is assumed that rising labour productivity over time will
+• At the aggregate level, it is assumed that rising labour productivity over time will
 
 ```
 reduce the labour intensity (i.e., less FTE/MW) that is applied in the construc-
@@ -66984,7 +61473,7 @@ intensity between occupations. Over time, we would expect that the proportion
 of less-skilled jobs would fall as a result of mechanization. Therefore, the share
 of less-skilled jobs is likely to be overestimated.
 ```
-- IRENA estimates a single global figure for each occupation, averaged from sur-
+• IRENA estimates a single global figure for each occupation, averaged from sur-
 
 ```
 veys of industry participants across different global markets. In practice, there
@@ -66996,7 +61485,7 @@ turing, operation and maintenance), but not at the disaggregated level. Therefor
 it is likely that the proportion of less-skilled jobs is overestimated for rich econo-
 mies and underestimated for less-developed economies.
 ```
-- The breakdown of the category of ‘construction workers’ is based on interviews
+• The breakdown of the category of ‘construction workers’ is based on interviews
 
 ```
 with some Australian solar and wind project managers. The project managers
@@ -67007,7 +61496,6 @@ and further research is required to generate more-accurate estimates.
 ```
 E. Dominish et al.
 ```
-
 **Table 10.6**
 
 Occupational compositions for renewable and fossil fuel technologies
@@ -67492,51 +61980,32 @@ Ship crew
 ```
 70.3%
 ```
-
 426
 
-**_10.3.2 Results of Occupational Employment Modelling_**
+**10.3.2 Results of Occupational Employment Modelling**
 
 There will be an increase in jobs in the 1.5 °C Scenario across all occupations
-
 between 2015 and 2025, except in metal trades, which will display a minor decline
-
 of 2%, as shown in Fig. 10.3.
-
-```
 There will be an increase in jobs across all occupations between 2015 and 2025 in
-```
 the 2.0 °C Scenario, as shown in Fig. 10.4. The occupations with the highest number
-
 of jobs will be plant and machine operators and assemblers, followed by technicians
-
 (including electrical, mechanical, civil, and IT technicians) and electricians. The
-
 occupations that will have the largest percentage increase in jobs from 2015 to 2025
-
 will be labourers, engineers, electricians, and construction trades. The results are
-
 similar in the 1.5  °C Scenario, except for managers and metal trades, which will
-
 experience minor reductions in overall jobs (3% each) (Table 10.7).
-
-```
 However, the results are not uniform across regions. For example, China and
-```
 India will both experience a reduction in the number of jobs for managers and cleri-
-
 cal and administrative workers between 2015 and 2025, as shown in Table 10.8.
-
-```
 Table 10.8 and Fig. 10.6 show the employment changes between 2015 and 2025
-```
+
 under the 1.5 °C Scenario. Across all eight employment groups, the net effect of the
 
 energy transition will positive or stable (Fig. 10.5).
 
-```
 However, the results are not uniform across regions. For example, China and
-```
+
 India both foresee a reduction in the number of jobs for managers and clerical and
 
 administrative workers between 2015 and 2025, as shown in Table 10.9.
@@ -67553,364 +62022,196 @@ needs for all employment groups.
 **10.4 Conclusions**
 
 Under both the 1.5 °C and 2.0 °C Scenarios, the renewable energy transition is pro-
-
 jected to increase employment. Importantly, this analysis has reviewed the locations
-
 and types of occupations and found that the jobs created in wind and solar PV alone
-
 are enough to replace the jobs lost in the fossil fuel industry across all occupation
-
 types. Further research is required to identify the training needs and supportive poli-
-
 cies needed to ensure a just transition for all employment groups.
 
 ```
 E. Dominish et al.
 ```
-
 ```
 427
 ```
 ```
--3,0
-```
-```
-00 ,0
-```
-```
-00
--2,0
-```
-```
-00 ,0
+-3
+,0
 ```
 ```
 00
--1,0
+,0
 ```
 ```
-00 ,0
+00
+-2
+,0
 ```
-(^000)
-1,000,
+```
+00
+,0
+```
+```
+00
+-1
+,0
+```
+```
+00
+,0
+```
+```
+0 00
+1,
+000,
+```
+```
 000
-2,000,
+2,
+000,
+```
+```
 000
-3,000,
+3,
+000,
+```
+```
 000
-4,000,
+4,
+000,
+```
+```
 000
-5,000,
+5,
+000,
+```
+```
 000
-6,000,
+6,
+000,
+```
 000
-7,000,
+7,
+000,
+
 000
+
+```
 2015
+```
+```
 20
 25
+```
+```
 20
 15
+```
+```
 20
 25
+```
+```
 20
 15
+```
+```
 20
 25
+```
+```
 20
 15
-2025
-20
-15
+```
+```
 20
 25
+```
+```
 20
 15
+```
+```
 20
 25
+```
+```
 20
 15
+```
+```
 20
 25
+```
+```
 20
 15
+```
+```
 20
 25
-2015
-2025
+```
+```
 20
 15
+```
+```
 20
 25
+```
+```
 20
 15
+```
+```
 20
 25
+```
+```
+20
+15
+```
+```
+20
+25
+```
+```
+20
+15
+```
+```
+20
+25
+```
+```
 MA
+```
+```
 NA
+```
+```
 GE
+```
+```
 RS
+```
+```
 PR
+```
+```
 OF
+```
+```
 ES
+```
+```
 SI
 ON
-AL
-S
-EN
-GINE
-ER
-S
-TE
-CH
-NICI
-AN
-S
-CL
-ER
-IC
-AL
-&
-AD
-MI
-NIST
-RA
-TIVE
-CO
-NS
-TR
-UCT
-ION
-TR
-AD
-ES
-ME
-TA
-L TR
-AD
-ES
-EL
-EC
-TR
-ICIA
-NS
-OP
-ER
-AT
-OR
-S &
-AS
-SE
-MB
-LE
-RS
-LA
-BO
-UR
-ER
-S
-SH
-IP^
-CR
-EW
-Fo
-ss
-il fu
-el
-jo
-bs
-PV
-jo
-bs
-Onsh
-ore
-wi
-nd
-jo
-bs
-Offs
-ho
-re
-wi
-nd
-jo
-bs
-Ch
-an
-ge
-in
-fo
-ss
-il f
-uel
-jo
-bs
-**Fig. 10.3**
-Division of occupations between fossil fuels and renewable energy in 2015 and 2025 under the 1.5 °C Scenario
-10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
-
-
-428
-
-```
--2,0
-```
-```
-00
-,0^00
--1,0
-```
-```
-00
-,0^00
-0
-```
-```
-1,000,
-```
-```
-000
-2,000,
-```
-```
-000
-3,000,
-```
-```
-000
-4,000,
-```
-```
-000
-5,000,
-```
-```
-000
-6,000,
-```
-```
-000
-7,000,
-```
-```
-000
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-20
-```
-```
-15
-```
-```
-20
-25
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-20
-15
-```
-```
-20
-25
-```
-```
-MA
-```
-```
-NA
-```
-```
-GE
-```
-```
-RS
-```
-```
-PR
-```
-```
-OF
-```
-```
-ES
-```
-```
-SION
 ```
 ```
 AL
+```
+```
 S
 ```
 ```
@@ -67934,17 +62235,23 @@ CH
 ```
 ```
 NI
-CIAN
+CI
+```
+```
+AN
 ```
 ```
 S
 ```
 ```
 CL
+```
+```
 ER
 ```
 ```
-ICAL
+IC
+AL
 ```
 ```
 &
@@ -67954,13 +62261,17 @@ AD
 ```
 ```
 MI
-NIST
+NI
+```
+```
+ST
 ```
 ```
 RA
 ```
 ```
-TIVE
+TI
+VE
 ```
 ```
 CO
@@ -67969,11 +62280,14 @@ CO
 NS
 ```
 ```
-TRUC
+TR
 ```
 ```
-TI
-ON
+UCT
+```
+```
+IO
+N
 ```
 ```
 TR
@@ -67991,7 +62305,8 @@ ME
 TA
 ```
 ```
-L TR
+L
+TR
 ```
 ```
 AD
@@ -68009,7 +62324,8 @@ EC
 TR
 ```
 ```
-ICIA
+IC
+IA
 ```
 ```
 NS
@@ -68022,10 +62338,13 @@ ER
 ```
 ```
 AT
+```
+```
 OR
 ```
 ```
-S &
+S
+&
 ```
 ```
 AS
@@ -68062,6 +62381,494 @@ SH
 ```
 ```
 IP
+```
+```
+CR
+```
+```
+EW
+```
+```
+Fo
+```
+```
+ss
+```
+```
+il
+fu
+```
+```
+el
+```
+```
+jo
+bs
+```
+```
+PV
+```
+```
+jo
+bs
+```
+```
+Onsh
+```
+```
+ore
+```
+```
+wi
+```
+```
+nd
+```
+```
+jo
+bs
+```
+```
+Offs
+```
+```
+ho
+```
+```
+re
+```
+```
+wi
+```
+```
+nd
+```
+```
+jo
+bs
+```
+```
+Ch
+```
+```
+an
+```
+```
+ge
+```
+```
+in
+```
+```
+fo
+ss
+```
+```
+il
+fuel
+```
+```
+jo
+bs
+```
+```
+Fig. 10.3
+```
+```
+Division of occupations between fossil fuels and renewable energy in 2015 and 2025 under the 1.5 °C Scenario
+```
+[^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
+
+428
+
+```
+-2
+,0
+```
+```
+00
+,0
+```
+```
+00
+```
+```
+-1
+,0
+```
+```
+00
+,0
+```
+```
+0 00
+1,
+000,
+```
+```
+000
+2,
+000,
+```
+```
+000
+3,
+000,
+```
+```
+000
+4,
+000,
+```
+```
+000
+5,
+000,
+```
+```
+000
+6,
+000,
+```
+```
+000
+7,
+000,
+```
+```
+000
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+20
+```
+```
+15
+```
+```
+20
+```
+```
+25
+```
+```
+MA
+```
+```
+NA
+```
+```
+GE
+```
+```
+RS
+```
+```
+PR
+```
+```
+OF
+```
+```
+ES
+```
+```
+SI
+ON
+```
+```
+AL
+```
+```
+S
+```
+```
+EN
+```
+```
+GI
+```
+```
+NE
+```
+```
+ER
+```
+```
+S
+```
+```
+TE
+```
+```
+CH
+```
+```
+NI
+CI
+```
+```
+AN
+```
+```
+S
+```
+```
+CL
+```
+```
+ER
+```
+```
+IC
+AL
+```
+```
+&
+```
+```
+AD
+```
+```
+MI
+```
+```
+NI
+ST
+```
+```
+RA
+```
+```
+TI
+VE
+```
+```
+CO
+```
+```
+NS
+```
+```
+TRUC
+```
+```
+TI
+ON
+```
+```
+TR
+```
+```
+AD
+```
+```
+ES
+```
+```
+ME
+```
+```
+TA
+```
+```
+L
+TR
+```
+```
+AD
+```
+```
+ES
+```
+```
+EL
+```
+```
+EC
+```
+```
+TR
+```
+```
+IC
+IA
+```
+```
+NS
+```
+```
+OP
+```
+```
+ER
+```
+```
+AT
+```
+```
+OR
+```
+```
+S
+&
+```
+```
+AS
+```
+```
+SE
+```
+```
+MB
+```
+```
+LE
+```
+```
+RS
+```
+```
+LA
+```
+```
+BO
+```
+```
+UR
+```
+```
+ER
+```
+```
+S
+```
+```
+SH
+```
+```
+IP
+```
+```
 CR
 ```
 ```
@@ -68078,6 +62885,8 @@ fu
 ```
 ```
 el
+```
+```
 jo
 ```
 ```
@@ -68115,6 +62924,8 @@ Of
 ```
 ```
 fs
+```
+```
 ho
 ```
 ```
@@ -68143,6 +62954,8 @@ in
 ```
 ```
 fo
+```
+```
 ss
 ```
 ```
@@ -68160,7 +62973,6 @@ Division of occupations between fossil fuels and renewable energy in 2015 and 20
 ```
 E. Dominish et al.
 ```
-
 ```
 429
 ```
@@ -68208,6 +63020,8 @@ Managers
 ```
 ```
 −
+```
+```
 505,000
 ```
 ```
@@ -68236,6 +63050,8 @@ Professionals (Social, Legal, finance, scientific)
 ```
 ```
 −
+```
+```
 430,000
 ```
 ```
@@ -68264,6 +63080,8 @@ Engineers (Industrial, electrical & civil)
 ```
 ```
 −
+```
+```
 225,000
 ```
 ```
@@ -68292,6 +63110,8 @@ Technicians (Electrical, mechanical, civil & IT)
 ```
 ```
 −
+```
+```
 900,000
 ```
 ```
@@ -68320,6 +63140,8 @@ Clerical & administrative workers
 ```
 ```
 −
+```
+```
 395,000
 ```
 ```
@@ -68375,6 +63197,8 @@ Metal trades
 ```
 ```
 −
+```
+```
 970,000
 ```
 ```
@@ -68403,6 +63227,8 @@ Electricians
 ```
 ```
 −
+```
+```
 560,000
 ```
 ```
@@ -68431,6 +63257,8 @@ Plant & machine operators & assemblers
 ```
 ```
 −
+```
+```
 1,700,000
 ```
 ```
@@ -68459,6 +63287,8 @@ Labourers (Manufacturing, construction & transport)
 ```
 ```
 −
+```
+```
 235,000
 ```
 ```
@@ -68515,9 +63345,9 @@ Total
 ```
 Ship crew
 ```
--
--
--
+–
+–
+–
 
 ```
 490,000
@@ -68534,8 +63364,7 @@ Ship crew
 ```
 4000%
 ```
-10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
-
+[^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 
 430
 
@@ -68610,6 +63439,8 @@ Managers
 ```
 ```
 −
+```
+```
 24%
 ```
 ```
@@ -68719,6 +63550,8 @@ Technicians (Electrical, mechanical, civil & IT)
 ```
 ```
 −
+```
+```
 5%
 ```
 ```
@@ -68759,6 +63592,8 @@ Clerical & administrative workers
 ```
 ```
 −
+```
+```
 13%
 ```
 ```
@@ -68832,6 +63667,8 @@ Metal trades
 ```
 ```
 −
+```
+```
 36%
 ```
 ```
@@ -68905,6 +63742,8 @@ Plant & machine operators & assemblers
 ```
 ```
 −
+```
+```
 29%
 ```
 ```
@@ -69012,7 +63851,6 @@ Ship crew
 ```
 E. Dominish et al.
 ```
-
 ```
 431
 ```
@@ -69258,6 +64096,8 @@ Metal trades
 ```
 ```
 −
+```
+```
 39,479
 ```
 ```
@@ -69389,9 +64229,9 @@ Total
 ```
 Ship crew
 ```
--
--
--
+–
+–
+–
 
 ```
 355,791
@@ -69408,8 +64248,7 @@ Ship crew
 ```
 2917%
 ```
-10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
-
+[^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 
 432
 
@@ -69902,15 +64741,13 @@ Ship crew
 ```
 E. Dominish et al.
 ```
-
 ```
 433
 ```
 **Fig. 10.5** Employment changes between 2015 and 2025 by occupational breakdown under the
 2.0 °C Scenario
 
-10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
-
+[^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 
 434
 
@@ -69920,18 +64757,16 @@ E. Dominish et al.
 ```
 E. Dominish et al.
 ```
-
 ```
 435
 ```
 **References**
 
-```
 Australian Bureau of Statistics (2017), Employment in Renewable Energy Activities – Explanatory
-Notes. http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/4631.0Explanatory+Notes12015-16.
+Notes. [http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/4631.0Explanatory+Notes12015-16](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/4631.0Explanatory+Notes12015-16).
 Accessed September 16 2018.
 Australian Bureau of Statistics & Statistics New Zealand (2013), Australian and New Zealand
-Standard Classification of Occupations, http://www.abs.gov.au/ANZSCO, Accessed September
+Standard Classification of Occupations, [http://www.abs.gov.au/ANZSCO](http://www.abs.gov.au/ANZSCO), Accessed September
 16 2018
 Clean Energy Manufacturing Analysis Center (CEMAC), 2017. Benchmarks of global clean
 energy manufacturing. Available at: https://www.nrel.gov/docs/fy17osti/65619.pdf
@@ -69940,31 +64775,31 @@ plan for the fossil fuel industry. Report prepared by ISF for German Greenpeace 
 November 2018.
 International Labour Office (2012), International Standard Classification of Occupations, Geneva,
 ILO
-International Labour Office. (2015). Guidelines for a just transition towards environmentally sus-
-tainable economies and societies for all. Geneva
-IRENA (2017a) Renewable Energy Benefits: Leveraging Local Capacity for Onshore Wind,
-IRENA, Abu Dhabi ;
-IRENA (2017b) Renewable Energy Benefits: Leveraging Local Capacity for Solar PV, IRENA,
-Abu Dhabi.
-IRENA (2018) Renewable Energy Benefits: Leveraging Local Capacity for Offshore Wind, IRENA,
-Abu Dhabi.
+International Labour Office. (2015). _Guidelines for a just transition towards environmentally sus-_
+_tainable economies and societies for all_. Geneva
+IRENA (2017a) _Renewable Energy Benefits: Leveraging Local Capacity for Onshore Wind,_
+_IRENA, Abu Dhabi_;
+IRENA (2017b) _Renewable Energy Benefits: Leveraging Local Capacity for Solar PV, IRENA,_
+_Abu Dhabi._
+IRENA (2018) _Renewable Energy Benefits: Leveraging Local Capacity for Offshore Wind, IRENA,_
+_Abu Dhabi._
 Jenkins, K., McCauley, D., Heffron, R., Stephan, H., & Rehner, R. (2016). Energy justice: A con-
-ceptual review. Energy Research and Social Science , 11 , 174–182. https://doi.org/10.1016/j.
+ceptual review**.** _Energy Research and Social Science_**,** [^11]:, 174–182**.** https://doi.org/10.1016/j.
 erss.2015.10.004
-Rutovitz, J., Dominish, E., & Downes, J.  (2015). Calculating global energy sector jobs: 2015
-methodology. Prepared for Greenpeace International by the Institute for Sustainable Futures,
+Rutovitz, J., Dominish, E., & Downes, J.  (2015). _Calculating global energy sector jobs: 2015_
+_methodology_. Prepared for Greenpeace International by the Institute for Sustainable Futures,
 University of Technology Sydney.
-Smith, S. (2017). Just Transition – A Report for the OECD. Brussels. Retrieved from https://www.
+Smith, S. (2017)**.** Just Transition – A Report for the OECD. Brussels. Retrieved from https://www.
 oecd.org/environment/cc/g20-climate/collapsecontents/Just-Transition-Centre-report-just-
 transition.pdf
-Sovacool, B.  K., & Dworkin, M.  H. (2014). Global energy justice: Problems, principles, and
-practices. Global energy justice: Problems, principles, and practices. https://doi.org/10.1017/
+Sovacool, B.  K., & Dworkin, M.  H. (2014)**.** _Global energy justice: Problems, principles, and_
+_practices. Global energy justice: Problems, principles, and practices_. https://doi.org/10.1017/
 CBO9781107323605
-UNFCCC. (2016). Just transition of the workforce, and the creation of decent work and quality
-jobs: Technical paper by the Secretariat. Paris. https://doi.org/10.1186/1750-9378-6-S2-S6
-```
+UNFCCC. (2016)**.** _Just transition of the workforce, and the creation of decent work and quality_
+_jobs: Technical paper by the Secretariat_. Paris**.** https://doi.org/10.1186/1750-9378-6-S2-S6
+
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -69974,40 +64809,28 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-```
-10 Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
-```
+[^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
 
 © The Author(s) 2019 437
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_11
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 11
+**Chapter 11**
 
 #### Requirements for Minerals and Metals
 
 #### for 100% Renewable Scenarios
 
 **Damien Giurco, Elsa Dominish, Nick Florin, Takuma Watari,**
-
 **and Benjamin McLellan**
 
 **Abstract** This chapter explores the magnitude of the changes in patterns of material
-
 use that will be associated with the increasing deployment of renewable energy and
-
 discusses the implications for sustainable development. In particular, this chapter
-
 focuses on the increased use of lithium and cobalt, metals which are used extensively
-
 in battery technologies, and silver used in solar cells. Consistent with the strong
-
 growth in renewable energy and electrification of the transport system required in a
-
 1.5°C scenario, the material requirements also rise dramatically, particularly for
-
 cobalt and lithium. Scenarios developed for this study show that increasing recycling
-
 rates and material efficiency can significantly reduce primary demand for metals.
 
 **11.1 Introduction**
@@ -70016,7 +64839,7 @@ Globally, recent investments in new renewable energy infrastructure have been do
 
 ble the investments in new energy from fossil fuels and nuclear power (REN21
 
-2018 ). This is strong evidence of the increasing momentum of the energy transition
+[^2018]:). This is strong evidence of the increasing momentum of the energy transition
 
 away from fossil fuels. A rapid transition to 100% renewables offers hope for reduc-
 
@@ -70028,9 +64851,8 @@ requirements for new patterns of material use to support the renewable energy in
 
 structure, including wind turbines, solar cells, batteries, and other technologies.
 
-```
 This chapter explores the magnitude of the changes in patterns of material use
-```
+
 that will be associated with the increasing deployment of renewable energy, and
 
 discusses the implications for sustainable development. In particular, this chapter
@@ -70044,66 +64866,35 @@ e-mail: damien.giurco@uts.edu.au; elsa.dominish@uts.edu.au; nick.florin@uts.edu.
 T. Watari · B. McLellan
 Graduate School of Energy Science, Kyoto University, Kyoto, Japan
 
-
 438
 
 cobalt (again used in batteries, particularly for vehicles), and silver (used in solar
-
 cells because it is an excellent conductor of electricity).
-
-```
 The importance of understanding how material use is affected by renewable
-```
-energy technologies is already established (Ali et  al. 2017 ; Valero et  al. 2018 ). A
-
+energy technologies is already established (Ali et  al. [^2017]:; Valero et  al. [^2018]:). A
 range of studies have identified different aspects of the challenges associated with
-
 the supply of the materials needed for renewable energy. The first aspect is the avail-
-
-ability of mineral supplies. For example, Mohr et al. ( 2012 ) developed commodity-
-
+ability of mineral supplies. For example, Mohr et al. ([^2012]:) developed commodity-
 focused supply projections for lithium, with an emphasis on the origins and locations
-
 of available lithium deposits over time, which are contrasted with a simple demand
-
 function. Other studies have placed more emphasis on demand scenarios, either for
-
-a specific geographic location, such as Germany (Viebahn et al. 2015 ) or globally
-
-(Valero et al. 2018 ; Watari et al. 2018 ), and some have explored the role of technol-
-
-ogy mixes and material substitution in detail (Månberger and Stenqvist 2018 ).
-
-```
+a specific geographic location, such as Germany (Viebahn et al. [^2015]:) or globally
+(Valero et al. [^2018]:; Watari et al. [^2018]:), and some have explored the role of technol-
+ogy mixes and material substitution in detail (Månberger and Stenqvist [^2018]:).
 In addition to issues of resource availability, environmental and social issues
-```
-have also been explored (Giurco et  al. 2014 ; Florin and Dominish 2017 ) and the
-
-need for improved resource governance has been highlighted (Prior et al. 2013 ; Ali
-
-et al. 2017 ). This chapter evaluates the total demand to determine which metals may
-
+have also been explored (Giurco et  al. [^2014]:; Florin and Dominish [^2017]:) and the
+need for improved resource governance has been highlighted (Prior et al. [^2013]:; Ali
+et al. [^2017]:). This chapter evaluates the total demand to determine which metals may
 present bottlenecks to the supply of renewable energy technologies. The potential to
-
 offset primary demand is explored through a range of scenarios for technology type,
-
 material efficiency, and recycling rates. This chapter draws on the results of a larger
-
 study funded by Earthworks (see Dominish et al. 2019).
-
-```
 This chapter has five sections. Following this introductory section, the second
-```
 section outlines the material requirements for key renewable energy infrastructure
-
 technologies, namely solar photovoltaics (PV), wind turbines, and batteries. The
-
 key assumptions, and the energy and resource scenarios are described in Sect. 11.3,
-
 together with a summary of the methodology, which is described in detail in Chap.
-
-3. The requirements for selected materials (lithium, cobalt, and silver) are presented
-
+[^3]:. The requirements for selected materials (lithium, cobalt, and silver) are presented
 in Sect. 11.4. Following the results, a discussion is presented in Sect. 11.5.
 
 **11.2 Overview of Metal Requirements for each Technology**
@@ -70116,7 +64907,7 @@ technologies, which add to the complexity of material considerations. The key me
 
 als used for solar PV, wind power, batteries, and EV are discussed below.
 
-**_11.2.1 Solar PV_**
+**11.2.1 Solar PV**
 
 A typical crystalline silicon (c-Si) PV panel, which is currently the dominant tech-
 
@@ -70131,58 +64922,39 @@ lines) and other metals (e.g., tin and lead). Thin film technologies,
 ```
 D. Giurco et al.
 ```
-
 ```
 439
 ```
 copper–indium–gallium–(di)selenide (CIGS) and cadmium telluride (CdTe), make
-
 up the remainder of the market. These technologies require less material overall
-
 than crystalline silicon. For CdTe panels, the composition is 96–97% glass, 3%–4%
-
 polymer, and less than 1% semi-conductor materials (CdTe) and other metals (e.g.,
-
 nickel, zinc, tin). CIGS contain about 88%–89% glass, 7% aluminium, 4% polymer,
-
 and less than 1% semi-conductor material (indium, gallium, selenium) and other
-
-metals (e.g., copper) (Weckend et al. 2016 ). Figure 11.1 provides a simplified dia-
-
+metals (e.g., copper) (Weckend et al. [^2016]:). Figure 11.1 provides a simplified dia-
 gram of the PV supply chain, including key materials and sub-components.
 
-**_11.2.2 Wind_**
+**11.2.2 Wind**
 
 The major raw materials required for the manufacture of wind turbine components
-
 are bulk commodities: iron ore, copper, aluminium, limestone, and carbon. Wind
-
 turbines use steel for the towers, nacelle structural components, and the drivetrain,
-
 accounting for about 80% of the total weight. Some turbine generator designs use
-
 direct-drive magnetics, which contain the rare earth metals neodymium and dyspro-
-
-sium **(** Fig. 11.2 **).** The development of direct-drive permanent magnet generators
-
+sium **(**Fig. 11.2**).** The development of direct-drive permanent magnet generators
 (PMG) by major producers (e.g., Siemens and General Electric) simplifies the
-
 design by eliminating the gearbox, and this is attractive for offshore applications
-
-because it reduces maintenance (Zimmermann et al. 2013 ). It is estimated that about
-
+because it reduces maintenance (Zimmermann et al. [^2013]:). It is estimated that about
 20% of all installed wind turbines (both onshore and offshore) use rare earth mag-
-
-nets (CEMAC 2017 ).
+nets (CEMAC [^2017]:).
 
 **Fig. 11.1** Overview of key metal requirements and supply chain for solar PV
 
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
-
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 440
 
-**_11.2.3 Batteries and Electric Vehicles_**
+**11.2.3 Batteries and Electric Vehicles**
 
 This study focuses on lithium ion batteries (LIBs), which power almost all electric
 
@@ -70202,7 +64974,7 @@ these components are typically housed in an aluminium container. LIBs are gener-
 
 ally referred to by the material content of the cathode, which accounts for 90% of
 
-the material value and about 25% of the total weight (Gratz et al. 2014 ).
+the material value and about 25% of the total weight (Gratz et al. [^2014]:).
 
 ```
 The size and type of the LIB has the greatest impact on the material require-
@@ -70215,21 +64987,20 @@ in the cathode. The most common LIB types for EV applications are nickel–manga
 
 nese–cobalt (NMC), lithium–iron phosphate (LFP), nickel–cobalt–aluminium
 
-(NCA), and lithium–manganese oxide (LMO) (Vaalma et  al. 2018 ). NMC is the
+(NCA), and lithium–manganese oxide (LMO) (Vaalma et  al. [^2018]:). NMC is the
 
 most common battery type for passenger vehicles, and NCA is also common, with
 
 a small share for LMO. However, in China, LFP is the dominant chemistry. Electric
 
-buses have traditionally used LFP batteries (BNEF 2018 ) and lead–acid batteries are
+buses have traditionally used LFP batteries (BNEF [^2018]:) and lead–acid batteries are
 
 most commonly used for two-wheel vehicles. However, the application of LIBs in
 
-this market sector is growing (Yan et al. 2018 ).
+this market sector is growing (Yan et al. [^2018]:).
 
-```
 For energy storage, NMC and NCA are the most commonly used chemistries. A
-```
+
 simplified overview of the lithium-ion battery supply chain, including its key metals
 
 **Fig. 11.2** Overview of key metal requirements and supply chain for wind power
@@ -70237,7 +65008,6 @@ simplified overview of the lithium-ion battery supply chain, including its key m
 ```
 D. Giurco et al.
 ```
-
 ```
 4 41
 ```
@@ -70251,11 +65021,11 @@ lower-cost materials, are under development and are already used in some vehicle
 
 However, rare earth magnets are expected to remain the standard for the foreseeable
 
-future because of their higher performance characteristics (Widmer et al. 2015 ).
+future because of their higher performance characteristics (Widmer et al. [^2015]:).
 
 **11.3 Scenarios and Key Assumptions**
 
-**_11.3.1 Electricity and Transport Scenarios_**
+**11.3.1 Electricity and Transport Scenarios**
 
 The energy scenarios presented here were developed to achieve the climate target in
 
@@ -70271,8 +65041,7 @@ tric mobility, will not change. In contrast, many scenarios have been proposed i
 
 **Fig. 11.3** Overview of key metal requirements and supply chain for LIB and EV
 
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
-
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 442
 
@@ -70286,18 +65055,16 @@ the Paris targets. The scenario proposed here includes both a shift to 100% rene
 
 electricity and a shift to renewable electricity and fuels in the transport sector.
 
-```
 In this scenario, solar PV will account for more than one-third of the installed
-```
+
 capacity by 2050, with the remainder from wind and other renewables. Lithium-ion
 
 batteries will account for approximately 6% of energy storage (which will be domi-
 
 nated by pumped hydro and hydrogen).
 
-```
 In the transport system, we focus on the material requirements for the batteries
-```
+
 used in road transport, because other types of transport do not require batteries to
 
 power drivetrains or are assumed to rely on other forms of energy (e.g., biofuels for
@@ -70334,7 +65101,7 @@ commercial vehicles. Lead–acid batteries are also the main type of battery for
 
 tric bikes and scooters, although lithium-ion may replace these in future.
 
-**_11.3.2 Resource Scenario Development_**
+**11.3.2 Resource Scenario Development**
 
 Five resource scenarios were developed to estimate the metal demand for 100%
 
@@ -70346,7 +65113,7 @@ nology. Our aim is to understand how primary demand can be offset through change
 
 in technology or recycling rates.
 
-**_11.3.3 Technology Assumptions_**
+**11.3.3 Technology Assumptions**
 
 The total metal demand for renewable energy and battery technology each year is
 
@@ -70357,62 +65124,36 @@ each technology introduced in a specific year. This introduced stock will accoun
 ```
 D. Giurco et al.
 ```
-
 ```
 443
 ```
 for the new capacity and the replacement of technologies at the end of their lives,
-
 based on a lifetime distribution curve for the average lifetime.
-
-```
 The values for metal intensity are given in tonnes/GW (for solar PV) or tonnes/
-```
 GWh (for batteries) of capacity, and two values are given for each metal to evaluate
-
 the impact of improving the material efficiency (for solar PV) and technology shifts
-
 (for batteries). To evaluate the impact of recycling, the primary demand is estimated
-
 by multiplying the discarded products by the recycling rate. The recycling rate is
-
 obtained by multiplying the collection rate by the recovery efficiency of a metal
-
 from a specific technology. This recycling rate is also varied to obtain a current rate
-
 and a potential rate. The potential recycling rate is technologically possible, but is
-
 not currently applicable because it is not economic. The detailed assumptions for
-
 batteries and solar PV are explained in detail in the following section.
 
-**_11.3.4 Batteries_**
+**11.3.4 Batteries**
 
 The ‘current materials intensity’ for LIB for EVs and storage (Table 11.2) is esti-
-
 mated based on the assumed market shares of the LIB technologies: NMC (60%),
-
-LMO (20%), NCA (15%), and LFP (5%) (Vaalma et al. 2018 ). The dominant bat-
-
+LMO (20%), NCA (15%), and LFP (5%) (Vaalma et al. [^2018]:). The dominant bat-
 tery technologies in the future are not likely to be the same as those commercialized
-
 today. Therefore, for the ‘future technology scenario’, we assume that lithium–sul-
-
-fur batteries will replace LIB for EVs (Cano et al. 2018 ). We have modelled a future
-
+fur batteries will replace LIB for EVs (Cano et al. [^2018]:). We have modelled a future
 market (Table 11.3) in which Li–S will achieve a 50% market share for EVs by
-
 2050, with deployment scaling up at a linear rate, assuming the first commercializa-
-
 tion in 2030. In this scenario, the technology does not change for storage batteries.
-
-```
 We have assumed a collection efficiency of 100% for all batteries and a recovery
-```
-rate of 90% for Co and Ni (Georgi-Maschler et al. 2012 ). A 10% recovery rate is
-
+rate of 90% for Co and Ni (Georgi-Maschler et al. [^2012]:). A 10% recovery rate is
 assumed for Li, acknowledging that pyrometallurgical processing routes account
-
 for most of the current global capacity, and Li recovery may not be possible by this
 
 **Table 11.1** Summary of metal scenarios
@@ -70475,49 +65216,34 @@ recycling rates
 ```
 Light blue
 ```
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
-
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 444
 
-route (King et  al. 2018 ). For scenarios that assume a ‘potential future recycling’
-
+route (King et  al. [^2018]:). For scenarios that assume a ‘potential future recycling’
 rate, we have assumed 95% recovery for all metals. This is reasonable given that
+100% recovery has been reported in the laboratory (Gratz et al. [^2014]:).[^1] However,
+some losses during processing seem unavoidable.[^2]
 
-100% recovery has been reported in the laboratory (Gratz et al. 2014 ).^1 However,
-
-some losses during processing seem unavoidable.^2
-
-**_11.3.5 Solar PV_**
+**11.3.5 Solar PV**
 
 For solar PV, we assume that the technology types do not change until 2050, and
-
 that they retain their current market shares, so that crystalline silicon will remain the
-
 dominant technology. We have modelled the potential to offset demand through
-
 increases in material efficiency and increases in recycling.
-
-```
 A high and a low value are given for silver to show the impact of material effi-
-```
 ciency on silver demand. The current data on silver intensity are from a survey of the
-
-PV industry (ITRPV 2018 ), and the future material efficiency is based on an assumed
-
-minimum amount of silver (Kavlak et  al. 2015 ). The ‘current recycling rate’ sce-
-
+PV industry (ITRPV [^2018]:), and the future material efficiency is based on an assumed
+minimum amount of silver (Kavlak et  al. [^2015]:). The ‘current recycling rate’ sce-
 narios assume a current collection rate of 85% for all panels, consistent with the
-
-target of the EU WEEE Directive.^3 This should be considered an average rate, not-
-
+target of the EU WEEE Directive.[^3] This should be considered an average rate, not-
 ing that remote and/or distributed roof-top systems will be more costly to collect and
-
 transport than large utility-scale PV. We assume that no recycling is currently occur-
 
-(^1) See: https://americanmanganeseinc.com/investor-info-3/investment-proposition/
-(^2) Pers comms Boxall, N.
-(^3) More details available here: [http://ec.](http://ec.) europa.eu/environment/waste/weee/index_en.htm
+[^1]:See: https://americanmanganeseinc.com/investor-info-3/investment-proposition/
+[^2]:Pers comms Boxall, N.
+[^3]:More details available here: http://ec. europa.eu/environment/waste/weee/index_en.htm
+
 **Table 11.2** Material intensity and recycling rates
 Solar PV Batteries
 Materials Silver Lithium Cobalt
@@ -70525,93 +65251,70 @@ Current materials intensity 20 t/GW 113 t/GWh 124 t/GWh
 Future technology 4 t/GW 411 t/GWh
 Current recycling rate [%] 0% 0% 90%
 Potential recycling rate [%] 81% 95% 95%
+
 **Table 11.3** Market share
+
+```
 Solar PV Batteries
 Technology c-Si Li-ion Li-S
-Current market share95.8% 100%
+Current market share 95.8% 100%
 Future market share Decreases to 50% by
 2050
+```
+```
 50% by 2050, beginning from 2030
+```
+```
 D. Giurco et al.
-
-
+```
 ```
 445
 ```
 ring for silver from PV, but that 95% recovery may be possible. Therefore, for the
-
 ‘potential recycling rate’ scenarios, we assume a 95% recovery efficiency and an
-
 85% collection rate, which will result in an 81% metal recycling rate.
 
-**_11.3.6 Metal Assumptions_**
+**11.3.6 Metal Assumptions**
 
 For each scenario, the annual primary demand is compared with the current produc-
-
 tion (2017 data), and the cumulative demand to 2050 is compared with current
-
 reserves. The data presented (Table 11.4) highlight the annual production, total
-
 resources, and reserves. ‘Reserves’ are the subset of the total resources that can be
-
 economically mined under current conditions. They are dependent on a multitude of
-
 factors and can change over time. By contrast, resources are less certain economi-
-
 cally and there may be no firm plan to mine them. Over time, new resources can be
-
 discovered and as economic conditions change, resources may be upgraded to
-
 reserves (for example, where the price for the metal increases, thus making lower-
-
-grade or more- challenging ores profitable or where a new technology for extraction
-
+grade or more-challenging ores profitable or where a new technology for extraction
 allows lower cost processing). In contrast, reserve estimates can also be downgraded
-
 over time (as occurred with coal reserve estimates in UK and Germany).
 
 **11.4 Results for Lithium, Cobalt, and Silver**
 
 The cumulative demand from renewable energy technologies for cobalt, lithium, and
-
 silver by 2050 has been modelled, and is compared to current reserves in Fig. 11.4.
-
 The cumulative demand for cobalt from renewable energy and transport exceeds the
-
 current reserves in all scenarios, and for lithium, the cumulative demand is exceeded
-
 in all scenarios, except the ‘potential recycling scenario’. For silver, the total demand
-
 for silver from renewable energy will reach around 50% of current reserves.
-
-```
 The annual demand in 2050 is compared with the current rates of production
-```
 (based on 2017 data). Both cobalt and lithium have annual demands that far exceed
-
 the current rates of production—particularly lithium in the ‘future technology’ sce-
-
 nario. However, the annual demand for silver will remain below current production
-
 levels (Fig. 11.5).
-
-```
 The detailed results for each metal are shown in the following section.
-```
-**Table 11.4** Metal assumptions
 
-```
+**Table 11.4** Metal assumptions
 Metal Production 2017 (tonnes/year) Reserve (tonnes) Resources (tonnes)
 Cobalt 110,000 7,100,000 25,000,000
 Lithium 46,500 16,000,000 53,000,000
 Silver 25,000 530,000 N/A
-```
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
 
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 446
 
-**_11.4.1 Cobalt_**
+**11.4.1 Cobalt**
 
 The annual demand for cobalt from EVs and storage could exceed the current pro-
 
@@ -70625,9 +65328,8 @@ the primary demand in both the current technology and future technology
 
 scenarios.
 
-```
 The cumulative total demand to 2050 (with current technology and no recycling)
-```
+
 could exceed current reserves by 400%, and exceed current resources by 20%. Even
 
 with recycling and a shift to technologies that use less cobalt, the cumulative demand
@@ -70794,29 +65496,28 @@ with current production rates (note that scale varies across the metals)
 ```
 D. Giurco et al.
 ```
-
 ```
 447
 ```
 ```
-(5 00,000)
+(500,000)
 ```
 -
 
 ```
-500,00 0
+500,000
 ```
 ```
-1,000, 000
+1,000,000
 ```
 ```
-1,500, 000
+1,500,000
 ```
 ```
-2,000, 000
+2,000,000
 ```
 ```
-2,500, 000
+2,500,000
 ```
 ```
 2015 202020252030203520402045 2050
@@ -70854,7 +65555,7 @@ Future technology & potential recycling Current production
 0
 ```
 ```
-5,000,00 0
+5,000,000
 ```
 ```
 10,000,000
@@ -70896,10 +65597,7 @@ m
 et
 ```
 ```
-al
-```
-```
-demand
+aldemand
 ```
 ```
 (tonnes
@@ -70915,56 +65613,38 @@ Future technology & potential recycling
 ```
 **Fig. 11.7** Cumulative primary demand for cobalt from EVs and storage by 2050
 
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
-
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 448
 
-**_11.4.2 Lithium_**
+**11.4.2 Lithium**
 
 The annual demand for lithium for EVs and storage could exceed the current pro-
-
 duction rates by around 2022 (in all scenarios). In the ‘future technology and no
-
 recycling’ scenario, a shift to Li–S will increase the demand for lithium, because
-
 these batteries have a higher amount of lithium. Increasing recycling from its cur-
-
 rent low levels (which are assumed to be 10%) will offer the greatest potential to
-
 offset the primary demand for lithium.
-
-```
 The cumulative demand for lithium by 2050 will be below the resource levels for
-```
 all scenarios, but will exceed the reserves unless there is a shift to a high recycling
-
 rate. The cumulative demand could be as high as 170% of the current reserves with
-
 the current technology, and could be 280% of current reserves with a switch to Li–S
-
 batteries (Figs. 11.8 and 11.9).
 
-**_11.4.3 Silver_**
+**11.4.3 Silver**
 
 The total annual demand for silver could reach more than 40% of the current pro-
-
 duction rates by 2050, assuming no recycling and that the materials efficiency does
-
 not change (Fig. 11.10). The cumulative demand to 2050 could reach around half
-
 the current reserves with the current technology, and around one-quarter if the tech-
-
 nology improves (Fig. 11.11). The reduction in material intensity in the ‘future tech-
-
 nology’ scenario, in which silver use decreases from 20 to 4 tonnes/GW, has the
-
 greatest potential to reduce demand.
 
 -
 
 ```
-500, 000
+500,000
 ```
 ```
 1,000,000
@@ -71027,7 +65707,6 @@ Future technology & potential recycling Current production
 ```
 D. Giurco et al.
 ```
-
 ```
 449
 ```
@@ -71126,13 +65805,12 @@ ary
 me
 ```
 ```
-ta
-```
-```
-lde
+talde
 ```
 ```
 m
+```
+```
 an
 ```
 ```
@@ -71145,10 +65823,7 @@ tonnes
 /ye
 ```
 ```
-ar
-```
-```
-)
+ar)
 ```
 ```
 Total demand (no recycling) Potential recycling
@@ -71157,81 +65832,56 @@ Current production
 ```
 **Fig. 11.10** Annual primary demand for silver from solar PV (c-Si)
 
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
-
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 450
 
 **11.5 Discussion**
 
 Within the context of the increasing metal resource requirements for the renewable
-
 energy and storage technologies, the rapid increase in the demand for both cobalt
-
 and lithium is of greatest concern, and the demand for both metals will exceed the
-
 current production rates by 2023 and 2022, respectively. The demand for these met-
-
 als will increase more rapidly than it does for silver, partly because solar PV is a
-
 more established technology and silver use has become very efficient, whereas the
-
 electrification of the transport system and the rapid expansion of lithium battery
-
 usage has only begun to accelerate in the last few years.
-
-```
 The potential to offset the primary demand differs, depending on the technology.
-```
 Offsetting demand through secondary sources of cobalt and lithium has the most
-
 potential to reduce total primary demand for these metals, as batteries have a com-
-
 paratively short lifetime of approximately 10 years. The cumulative demand for both
-
 metals will exceed current reserves, but with high recycling rates, they can remain
-
 below resource levels. However, there is a delay until the period in which recycling
-
 will offset demand, because there must be enough batteries in use and reaching the
-
 ends of their lives to be collected and recycled. This delay could be further extended
-
 by strategies for the reuse of vehicular batteries as stationary storage, which might
-
 save costs in the short term and increase the uptake of PV. The efficiency of cobalt
-
 use in batteries also significantly reduces demand, and this is already happening as
-
 manufacturers shift towards lower-cobalt chemistries (Energy Insights by McKinsey
-
-2018 ). However, this is also likely to lead to an increase in the demand for lithium.
-
-```
+[^2018]:). However, this is also likely to lead to an increase in the demand for lithium.
 Increasing the efficiency of material use has the biggest potential utility in offset-
-```
 ting the demand for PV metals, whereas recycling will have a smaller impact on
 
 ```
 0
 ```
 ```
-100,00 0
+100,000
 ```
 ```
-200,00 0
+200,000
 ```
 ```
-300,00 0
+300,000
 ```
 ```
-400,00 0
+400,000
 ```
 ```
-500,00 0
+500,000
 ```
 ```
-600,00 0
+600,000
 ```
 ```
 Cumula
@@ -71258,10 +65908,7 @@ ld
 em
 ```
 ```
-an
-```
-```
-d(
+and(
 ```
 ```
 ton
@@ -71282,7 +65929,6 @@ Future technology & no recycling Future technology & potential recycling
 ```
 D. Giurco et al.
 ```
-
 ```
 451
 ```
@@ -71294,13 +65940,13 @@ the growth of silver and its demand in 2050 are still considerable. This is impo
 
 especially when considering that solar PV currently consumes approximately 9% of
 
-end-use silver (The Silver Institute & Thomson Reuters 2018 ), and although it is
+end-use silver (The Silver Institute & Thomson Reuters [^2018]:), and although it is
 
 possible to create silver-less solar panels, these panels are not expected to be on the
 
 market in the near future (ITRPV 2018).
 
-**_11.5.1 Limitations_**
+**11.5.1 Limitations**
 
 This study only focuses on the metal demand for renewable energy and transport. It
 
@@ -71328,9 +65974,8 @@ their importance. However, further analysis is required of other metals that wil
 
 important in the renewable energy transition.
 
-```
 Another important limitation is that this analysis does not consider the impact of
-```
+
 the demand for a mineral on the mining of that mineral and therefore on the amount
 
 of energy required for this mining and processing activity. In particular, as the
@@ -71339,11 +65984,11 @@ potential ore grade declines, and polymetallic ore processing and the mining of
 
 deeper ore bodies increase, it is possible that this feedback loop could have a more-
 
-than- marginal influence on the overall sectoral energy consumption. To examine
+than-marginal influence on the overall sectoral energy consumption. To examine
 
 this is an area accurately will require much more-complex modelling.
 
-**_11.5.2 Comparison with Other Studies_**
+**11.5.2 Comparison with Other Studies**
 
 A large number of studies have examined scenarios for renewable energy and stor-
 
@@ -71357,62 +66002,35 @@ potential constraints that certain minerals may impose. This increased interest 
 
 been prompted to some extent by China’s rare earth export restrictions of
 
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
-
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 452
 
 2009–2011, which reflect the sense that mineral supply chains are still quite inse-
-
 cure. Most of these studies have addressed specific technologies or specific coun-
-
 tries or regions, rather than global climate targets. A number of studies have
-
 specifically and directly addressed the Paris Agreement targets (ensuring that the
-
 temperature rise does not exceed 2.0 °C), although the modelling frameworks have
-
 been slightly different. Some of the authors of the present chapter have been
-
-involved in these studies (Tokimatsu et al. 2017 ; Watari et al. 2018 ).
-
-```
+involved in these studies (Tokimatsu et al. [^2017]:; Watari et al. [^2018]:).
 A range of variables affect the results, including the installed capacity and tech-
-```
 nology type in the energy scenario; the assumed market demand of technology
-
 types (e.g., type of battery or solar panel); and the material intensity assumptions.
-
 The projected future demand for lithium is higher than in previous studies, and that
-
-for cobalt is similar or higher (Månberger and Stenqvist 2018 ; Watari et al. 2018 ;
-
-Valero et  al. 2018 ; Watari et  al. 2018 ), as shown in Table 11.5. This is primarily
-
+for cobalt is similar or higher (Månberger and Stenqvist [^2018]:; Watari et al. [^2018]:;
+Valero et  al. [^2018]:; Watari et  al. [^2018]:), as shown in Table 11.5. This is primarily
 attributable to the ambitious renewable energy scenario used in this study, which
-
 includes achieving a 100% renewable transport system by 2050, whereas the other
-
 studies have still included a large share of gasoline-powered cars in 2050. This
-
 study also includes batteries for stationary energy storage, whereas the other studies
-
 have only included batteries for road transport. Moreover, this study assumes a
-
 shorter battery life of 10 years, based on current warranties, whereas some scenarios
-
 assume a longer life.
-
-```
 The results for silver are in the middle of the range of results given by other stud-
-```
 ies. Our scenario includes a higher installed capacity of PV in 2050 than the other
-
 studies. However, this study also assumes a lower metal intensity than previous
-
 studies, because new data have been published based on the current material use by
-
-the PV industry (ITRPV 2018 ).
+the PV industry (ITRPV [^2018]:).
 
 **11.6 Supply Impacts and Challenges**
 
@@ -71440,7 +66058,7 @@ scenario
 420% 170% 50%
 ```
 ```
-Watari et al. ( 2018 ) Beyond 2 degree scenario (IEA) 180% 130% 78%
+Watari et al. (2018) Beyond 2 degree scenario (IEA) 180% 130% 78%
 Månberger and Stenqvist
 (2018)
 ```
@@ -71448,79 +66066,51 @@ Månberger and Stenqvist
 Beyond 2 degree scenario (IEA) 440% 100% 18%
 ```
 ```
-Valero et al. ( 2018 ) 2 degree scenario 70% 40% 70%
+Valero et al. (2018) 2 degree scenario 70% 40% 70%
 ```
 ```
 D. Giurco et al.
 ```
-
 ```
 453
 ```
-**_11.6.1 Geopolitical Landscape_**
+**11.6.1 Geopolitical Landscape**
 
 The geopolitical shift underway in the supply of the resources required for the
-
 globe’s future energy mix is clearly illustrated in Fig. 11.12. Whereas the value of
-
 the lithium industry is much less than the value of the oil industry, this comparison
-
 highlights a distinct shift in the energy commodities that society values. Oil’s rate of
-
-use is projected to decline somewhat in the decade ahead (Mohr et al. 2015 ), whereas
-
-lithium’s production is expected to grow rapidly (Mohr et al. 2012 ).
-
-```
+use is projected to decline somewhat in the decade ahead (Mohr et al. [^2015]:), whereas
+lithium’s production is expected to grow rapidly (Mohr et al. [^2012]:).
 Although it is not a key focus of this particular chapter, the dominance of China
-```
 in the supply of rare earths has encouraged manufacturing countries to look at diver-
-
 sifying their supply sources, including through the recovery of rare earths from
-
 recycled material. A similar situation of heavily concentrated supply occurs for
-
 cobalt, where the Democratic Republic of the Congo is the largest supplier, at
-
 around 66,000 tonnes per year. The next four largest cobalt-producing countries
-
 (China, Canada, Russia, and Australia) only produce 5–7000 tonnes per year each.
-
 The supply chain is also concentrated downstream, with around 50% of cobalt
-
 smelted and refined in China.
 
-**_11.6.2 Social and Environmental Impacts_**
+**11.6.2 Social and Environmental Impacts**
 
 The mining and supply chain for these metals can have adverse social and environ-
-
 mental consequences for workers, local communities, and the environment. These
-
 impacts are most significant for the cobalt mined in the Democratic Republic of
-
 Congo, where there are human rights violations, child labour, and severe environ-
-
-mental pollution affecting health (Florin and Dominish 2017 ).
-
-```
+mental pollution affecting health (Florin and Dominish [^2017]:).
 These types of impacts at mine sites and along the supply chain also influence the
-```
 availability of primary resources. For example, whereas Australia and Chile are
-
 large producers of lithium, large deposits remain undeveloped in Bolivia, due in part
-
 to local concerns over the social and environmental impacts. The global silver mar-
-
 ket receives less media attention than the market for lithium, but the world’s second-
-
 largest silver mine (Escobal) in Guatemala is currently closed by a constitutional
 
-```
 Top 5 Oil
 producing countries:
 Northern hemisphere
 features heavily
-```
+
 ```
 Top 5 Lithium
 producing countries:
@@ -71529,25 +66119,23 @@ features heavily
 ```
 **Fig. 11.12** Top five oil-producing countries (left) versus lithium-producing countries (right)
 
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
-
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 454
 
 court ruling that the Xinca Indigenous peoples were not adequately consulted before
 
-a mine licence was granted (Jamasmie 2018 ).
+a mine licence was granted (Jamasmie [^2018]:).
 
-```
 The increased use of materials such as lithium, cobalt, and silver has economic
-```
+
 implications for the future of battery manufacture. For example, the cost of cobalt
 
 has risen dramatically from US$20000/t in 2016 to US$80000 in 2018 (Tchetvertakov
 
-2018 ). This is prompting manufacturers to look for alternatives, such as nickel,
+[^2018]:). This is prompting manufacturers to look for alternatives, such as nickel,
 
-vanadium, and zinc (Tchetvertakov 2018 ). At the same time, a significant propor-
+vanadium, and zinc (Tchetvertakov [^2018]:). At the same time, a significant propor-
 
 tion of these price fluctuations are attributable to non-industrial factors, such as
 
@@ -71567,7 +66155,7 @@ recycling. The collection systems and infrastructure required to recycle metals 
 
 renewable energy technologies are not well established. For example, although sil-
 
-ver has an overall recycling rate of 30–50% (Graedel et al. 2011 ), almost no recy-
+ver has an overall recycling rate of 30–50% (Graedel et al. [^2011]:), almost no recy-
 
 cling of silver from PV panels occurs, because most recycling of PV panels focuses
 
@@ -71581,11 +66169,10 @@ cement. It should also be noted that the recycling of some key energy materials,
 
 such as rare earths in magnets, does not offer significant cost savings or environ-
 
-mental benefits over their extraction from primary resources (McLellan et al. 2013 ).
+mental benefits over their extraction from primary resources (McLellan et al. [^2013]:).
 
-```
 The establishment of effective collection networks is important for recycling.
-```
+
 Collection networks must be easily understood and must provide easily accessible
 
 deposit mechanisms. Recycling can be both informal and formal, and whereas in
@@ -71624,7 +66211,6 @@ Cobalt Initiative, the Cobalt Institute, the Initiative for Responsible Mining
 ```
 D. Giurco et al.
 ```
-
 ```
 455
 ```
@@ -71642,12 +66228,11 @@ conflict and environmental damage. However, cobalt is not explicitly mentioned i
 
 the Dodd-Frank Act.
 
-```
 International resource governance that looks beyond renewable energy and
-```
+
 beyond a single commodity focus is increasingly recognised as a missing area in
 
-environmental policy (Ali et al. 2017 ). The transition to renewable energy and the
+environmental policy (Ali et al. [^2017]:). The transition to renewable energy and the
 
 associated requirements for resources to support this transition could be a catalyst
 
@@ -71695,8 +66280,7 @@ FINAL_APPROVED_2.original.pdf
 Cano, Z.P., Banham, D., Ye, S., Hintennach, A., Lu, J., Fowler, M. and Chen, Z., 2018. Batteries
 and fuel cells for emerging electric vehicle markets. Nature Energy, 3(4), p.279.
 
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
-
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 456
 
@@ -71742,7 +66326,7 @@ Tchetvertakov, G. (2018). “Panasonic and Tesla seek to remove cobalt from elec
 tric car batteries.” Retrieved 15 September 2018, from https://smallcaps.com.au/
 panasonic-tesla-remove-cobalt-electric-car-battery/.
 The Silver Institute and Thomson Reuters, 2018. World Silver Survey 2018. Available at: https://
-[http://www.silverinstitute.org/wp-content/uploads/2018/04/WSS-2018.pdf](http://www.silverinstitute.org/wp-content/uploads/2018/04/WSS-2018.pdf)
+[www.silverinstitute.org/wp-content/uploads/2018/04/WSS-2018.pdf](www.silverinstitute.org/wp-content/uploads/2018/04/WSS-2018.pdf)
 Tokimatsu, K., H. Wachtmeister, B. McLellan, S. Davidsson, S. Murakami, M. Höök, R. Yasuoka
 and M. Nishio (2017). “Energy modeling approach to the global energy-mineral nexus: A first
 look at metal requirements and the 2 °C target.” Applied Energy 207: 494–509.
@@ -71757,7 +66341,6 @@ renewables.” Renewable and Sustainable Energy Reviews 49: 655–671.
 ```
 D. Giurco et al.
 ```
-
 ```
 457
 ```
@@ -71776,7 +66359,7 @@ Zimmermann, T., Rehberger, M. and Gößling-Reisemann, S., 2013. Material flows 
 large scale deployment of wind energy in Germany. Resources, 2(3), pp.303–334.
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -71786,14 +66369,12 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-11 Requirements for Minerals and Metals for 100% Renewable Scenarios
-
+[^11]: Requirements for Minerals and Metals for 100% Renewable Scenarios
 
 © The Author(s) 2019 459
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_12
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 12
+**Chapter 12**
 
 #### Implications of the Developed Scenarios
 
@@ -71802,50 +66383,30 @@ https://doi.org/10.1007/978-3-030-05843-2_12
 **Malte Meinshausen**
 
 **Abstract** This section provides a summary of the implications of the developed
-
 2.0 °C and 1.5 °C scenarios for global mean climate change. Specifically, we con-
-
-sider atmospheric CO 2 concentrations, radiative forcing, global-mean surface air
-
+sider atmospheric CO[^2]: concentrations, radiative forcing, global-mean surface air
 temperatures and sea level rise.
 
 The question addressed in this section is what the implications are for future climate
-
-change if the world were to follow the energy-related CO 2 emissions developed here,
-
-complemented by land-use CO 2 emissions and those of other greenhouses gases
-
-(GHGs). According to the high- emission scenario with unabated fossil fuel use, the
-
-world could experience 1400 ppm CO 2 concentrations by the end of 2100, which is
-
+change if the world were to follow the energy-related CO[^2]: emissions developed here,
+complemented by land-use CO[^2]: emissions and those of other greenhouses gases
+(GHGs). According to the high-emission scenario with unabated fossil fuel use, the
+world could experience 1400 ppm CO[^2]: concentrations by the end of 2100, which is
 five times higher than the pre-industrial background concentration of 278 ppm. Our
-
-ice-core records have shown that over the last 850,000 years, the CO 2 concentrations
-
+ice-core records have shown that over the last 850,000 years, the CO[^2]: concentrations
 have only oscillated between approximately 180 ppm and 280 ppm. In fact, for the
+last 10  million years on this planet, the CO[^2]: concentrations have probably not
 
-last 10  million years on this planet, the CO 2 concentrations have probably not
-
-exceeded the CO 2 concentrations that our thirst for fossil fuels would propel the
-
+exceeded the CO[^2]: concentrations that our thirst for fossil fuels would propel the
 world into in just two centuries.
 
-```
 That is a dramatic change to the thin layer of atmosphere that wraps our planet.
-```
 Even if any climate change consequences that follow from this dramatic change in
-
-CO 2 concentrations are disregarded, the consequences will be dramatic. At atmo-
-
-spheric CO 2 concentrations above 900 ppm, the acidity level in the oceans will drop
-
+CO[^2]: concentrations are disregarded, the consequences will be dramatic. At atmo-
+spheric CO[^2]: concentrations above 900 ppm, the acidity level in the oceans will drop
 below the so-called ‘aragonite saturation level’, which is the level required for coral
-
 reefs and other organisms with calciferous shells to sustain their structures (Ricke
-
-et al. 2013 ). Therefore, without even considering ocean warming and the associated
-
+et al. [^2013]:). Therefore, without even considering ocean warming and the associated
 bleaching, this would mean the end of much marine life as we know it.
 
 M. Meinshausen (*)
@@ -71853,194 +66414,118 @@ Australian-German Climate and Energy College, University of Melbourne, Parkville
 Victoria, Australia
 e-mail: malte.meinshausen@unimelb.edu.au
 
-
 460
 
 **12.1 Background on the Investigated Scenarios**
 
 The international community uses various scenarios to explore these future changes
-
-to CO 2 , involving other GHGs and ultimately, temperature, precipitation changes,
-
+to CO[^2]:, involving other GHGs and ultimately, temperature, precipitation changes,
 and changes involving extreme events. Here, we compare the scenarios developed
-
 in this study with the standard scenarios developed for the forthcoming
-
 Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report. The
-
 scenarios used in the forthcoming IPCC Sixth Assessment Report are the so-called
-
 ‘SSP scenarios’. The full range of those nine SSP scenarios spans cases of unabated
-
 fossil fuel use at the higher-emissions end to two scenarios at the lower-emission
-
 end that are considered to be consistent with a 2  °C and 1.5  °C warming target.
-
 These two scenarios are called ‘SSP1_26’ and ‘SSP1_19’, respectively.
-
-```
 Both of those lower-emissions scenarios imply a substantial amount of biomass
-```
-use for energy, combined with CCS, to draw down atmospheric CO 2 levels. This is
-
+use for energy, combined with CCS, to draw down atmospheric CO[^2]: levels. This is
 the key difference from the scenarios developed in the present study. Whereas we
-
-use a substantial amount of negative CO 2 emissions in the reforestation and forest
-
+use a substantial amount of negative CO[^2]: emissions in the reforestation and forest
 restoration options, our analysis does not depend on the assumption that biomass,
-
 combined with CCS, must be used on large scale to achieve either the 2 °C or 1.5 °C
-
 target.
-
-```
-If we do not rely on some negative CO 2 emission options, in particular biomass
-```
+If we do not rely on some negative CO[^2]: emission options, in particular biomass
 and CCS, the questions are: (1) to what extent are those negative emissions created
-
-by other means (e.g., reforestation); or (2) whether CO 2 emissions can be reduced
-
+by other means (e.g., reforestation); or (2) whether CO[^2]: emissions can be reduced
 in the first place so that we do not need to rely on negative emissions options; or (3)
 
-whether other non-CO 2 gases can be reduced even further to make negative CO 2
-
+whether other non-CO[^2]: gases can be reduced even further to make negative CO2
 emissions unnecessary. The scenarios developed in this study use all three options,
 
-as outlined in the previous chapters. Not only will energy-related CO 2 emissions be
-
-radically reduced, CO 2 uptake via reforestation and forest restoration will also play
-
-an important role. This study takes a more conservative approach to non-CO 2 gases
-
+as outlined in the previous chapters. Not only will energy-related CO[^2]: emissions be
+radically reduced, CO[^2]: uptake via reforestation and forest restoration will also play
+an important role. This study takes a more conservative approach to non-CO[^2]: gases
 by being consistent with other stringent mitigation scenarios. Thereby, we ensure
-
 that the feasibility constraints implicitly or explicitly set by other modelling frame-
-
 works are not violated.
 
-**12.2 Comparison of Atmospheric CO 2 Concentrations**
-
+**12.2 Comparison of Atmospheric CO**[^2]: **Concentrations**
 **and Radiative Forcing**
 
 As mentioned above, unabated fossil fuel use over the last century and the twenty-
-
 first century will dramatically change the oceans, simply by creating an atmospheric
-
-CO 2 concentration beyond that present on the Earth for the last 10 million years.
-
+CO[^2]: concentration beyond that present on the Earth for the last 10 million years.
 Currently, we just exceeded the historical maximum level of 400 ppm atmospheric
-
-CO 2 and are continuing to add 2–3 ppm a year. If we consider the most stringent
-
+CO[^2]: and are continuing to add 2–3 ppm a year. If we consider the most stringent
 mitigation scenario used in the preparation of the forthcoming IPCC Sixth
-
 Assessment Report, SSP1_19, then we will reach 400 ppm concentrations again in
-
 the latter half of the century. Staying below 400 ppm is a prerequisite in the long
-
 term for remaining below 2 °C or reaching 1.5 °C warming.
 
 ```
 M. Meinshausen
 ```
-
 ```
 461
 ```
-```
-Figure 12.1 shows the global CO 2 , CH 4 , and N 2 O concentrations under the key
-```
+Figure 12.1 shows the global CO[^2]:, CH[^4]:, and N[^2]:O concentrations under the key
 RCP and SSP scenarios and the three scenarios developed as part of this study. Our
-
-1.5 °C scenario is clearly lower in terms of its CO 2 concentrations than the lowest
-
+1.5 °C scenario is clearly lower in terms of its CO[^2]: concentrations than the lowest
 SSP scenario, SSP1_19, for practically the entire twenty-first century (upper panel).
-
-Only towards the end of the twenty-first century do the strongly negative CO 2 emis-
-
-sions in the SSP1_19 scenario bring the CO 2 concentration closer towards our
-
+Only towards the end of the twenty-first century do the strongly negative CO[^2]: emis-
+sions in the SSP1_19 scenario bring the CO[^2]: concentration closer towards our
 1.5 °C scenario.
-
-```
 Aggregating all the greenhouse gas and aerosol emissions by their radiative forc-
-```
 ing, and expressing the resulting radiative forcing again as if it were only caused by
-
-CO 2 yields the so-called ‘CO 2 equivalence concentrations’. In Fig. 12.2, the CO 2
-
+CO[^2]: yields the so-called ‘CO[^2]: equivalence concentrations’. In Fig. 12.2, the CO2
 equivalence concentrations for the four RCP scenarios, the nine SSP scenarios, and
-
 three scenarios developed in this study are shown. The reference scenario in this
-
 study is quite similar to both the RCP6.0 and SSP4_60 scenarios, providing a
-
-medium-high reference case. The radiative forcing and CO 2 equivalence concentra-
-
+medium-high reference case. The radiative forcing and CO[^2]: equivalence concentra-
 tion of the 2 °C scenario of this study is actually quite closely aligned with the lower
 
 SSP1_19 scenario, at least initially until the middle of the second half of this cen-
 
-tury. Thereafter, the net negative CO 2 emissions implied by the SSP1_19 scenario
-
+tury. Thereafter, the net negative CO[^2]: emissions implied by the SSP1_19 scenario
 lead to stronger reductions in radiative forcing than the 2.0 °C scenario of our study.
 
 However, our lower 1.5 °C scenario first undercuts the radiative forcing trajectory
-
 of the SSP1_19 scenario, but then ends up at a similar radiative forcing level by
 
 2100.
-
-```
-Figure 12.2 shows CO 2 equivalence concentrations (upper panel) and radiative
-```
+Figure 12.2 shows CO2 equivalence concentrations (upper panel) and radiative
 forcing (lower panel) of the main scenarios used in IPCC Assessment Reports and
-
 this study’s scenarios. The RCP scenarios (shown in thin dotted lines) underlie the
-
 IPCC Fifth Assessment Report and the so-called ‘SSP scenarios’ provide the main
-
 basis for the scenarios considered in the IPCC Sixth Assessment Report. The three
-
 scenarios developed in this study are shown in thick blue lines.
 
-**12.3 Comparison of Cumulative CO 2 Emissions**
+**12.3 Comparison of Cumulative CO**[^2]: **Emissions**
 
-Since the IPCC Fifth Assessment Report, cumulative CO 2 emissions have been
-
+Since the IPCC Fifth Assessment Report, cumulative CO[^2]: emissions have been
 introduced as a key metric into the international climate debate. Every tonne of
-
-additional CO 2 emitted will add to that cumulative burden and warm the planet for
-
+additional CO[^2]: emitted will add to that cumulative burden and warm the planet for
 the next hundreds and in fact thousands of years. The only way to halt further global
-
-warming is to halt cumulative CO 2 emissions, which means bringing the annual CO 2
-
+warming is to halt cumulative CO[^2]: emissions, which means bringing the annual CO2
 emissions to basically zero levels. Only with net negative emissions can the tem-
-
 perature thermostat of the Earth be dialled back again. Therefore, while achieving
-
 such net negative emissions is tremendously challenging, it is the only way to main-
-
 tain long-term climate change at levels close to those of today or well below
-
 1.5 °C. Few scenarios include very strong near-term reductions and no substantially
-
-negative CO 2 emissions and can limit the temperature increase to 1.5 °C, with no or
-
+negative CO[^2]: emissions and can limit the temperature increase to 1.5 °C, with no or
 only a slight overshoot (IPCC Special Report on 1.5 °C). In this study, as well as
-
-very strong near-term reductions in energy-related CO 2 emissions, we have used a
-
+very strong near-term reductions in energy-related CO[^2]: emissions, we have used a
 range of land-use-based sequestration options. These are not unambitious, as
 
-12 Implications of the Developed Scenarios for Climate Change
-
+[^12]: Implications of the Developed Scenarios for Climate Change
 
 462
 
 ```
 1850 1900 1950 2000 2050 2100
+```
+```
 250
 ```
 ```
@@ -72072,7 +66557,7 @@ range of land-use-based sequestration options. These are not unambitious, as
 ```
 ```
 750
-Global CO 2 Concentrations
+Global CO2 Concentrations
 ```
 ```
 Global mean atmospheric CO
@@ -72094,6 +66579,8 @@ O concentrations (ppb) 2
 ```
 ```
 1850 1900 1950 2000 2050 2100
+```
+```
 500
 ```
 ```
@@ -72119,10 +66606,12 @@ O concentrations (ppb) 2
 ```
 ```
 4,500
-Global CH 4 Concentrations
+Global CH4 Concentrations
 ```
 ```
 1850 1900 1950 2000 2050 2100
+```
+```
 260
 ```
 ```
@@ -72148,29 +66637,37 @@ Global CH 4 Concentrations
 ```
 ```
 420
-Global N 2 O Concentrations
 ```
 ```
-1.5C2.0C
-5.0CRCP26
-RCP45RCP60
+Global N2O Concentrations
+```
+```
+1.5C
+2.0C
+5.0C
+RCP26
+RCP45
+RCP60
 RCP85
 ```
 ```
-SSP1_19SSP1_26
+SSP1_19
+SSP1_26
 SSP2_45
-SSP3_70SSP3_70_LowNTCF
-SSP4_34SSP4_60
-SSP5_34_OSSSP5_85
+SSP3_70
+SSP3_70_LowNTCF
+SSP4_34
+SSP4_60
+SSP5_34_OS
+SSP5_85
 ```
-**Fig. 12.1** Global CO 2 , CH 4 and N 2 O concentrations under various scenarios. The so-called SSP
+**Fig. 12.1** Global CO[^2]:, CH[^4]: and N[^2]:O concentrations under various scenarios. The so-called SSP
 scenarios are going to inform the Sixth Assessment Report by the IPCC, the RCP scenarios are the
 previous generation of scenarios and the LDF scenarios are those developed in this study
 
 ```
 M. Meinshausen
 ```
-
 ```
 463
 ```
@@ -72205,7 +66702,7 @@ M. Meinshausen
 Co2 Equivalence Concentrations (ppm)
 ```
 ```
-CO 2 Equivalence concentrations
+CO2 Equivalence concentrations
 ```
 ```
 1850 1900 1950 2000 2050 2100
@@ -72246,9 +66743,8 @@ CO 2 Equivalence concentrations
 ```
 Effecive Radiative Forcing (W/m2)
 ```
-```
-Radiative Forcing
-```
+**Radiative Forcing**
+
 ```
 1.5C
 2.0C
@@ -72269,30 +66765,21 @@ SSP4_60
 SSP5_34_OS
 SSP5_85
 ```
-**Fig. 12.2** CO 2 equivalence concentrations and radiative forcing of main IPCC scenarios for the
+**Fig. 12.2** CO[^2]: equivalence concentrations and radiative forcing of main IPCC scenarios for the
 forthcoming Sixth Assessment (so-called SSP scenarios), the RCP scenarios underlying the Fifth
 IPCC Assessment Report and the LDF scenarios developed in this study
 
-12 Implications of the Developed Scenarios for Climate Change
-
+[^12]: Implications of the Developed Scenarios for Climate Change
 
 464
 
 outlined in previous chapters. In fact, in the case of the 1.5 °C scenario, they practi-
-
 cally require that the Earth’s forests be returned to their pre-industrial coverage—a
-
 substantial challenge given the widespread deforestation that has occurred over the
-
-last 100  years. By the end of the century, the cumulative CO 2 emissions beyond
-
-levels will constitute around 300 GtCO 2 (see Fig. 12.3).
-
-```
+last 100  years. By the end of the century, the cumulative CO[^2]: emissions beyond
+levels will constitute around 300 GtCO[^2]: (see Fig. 12.3).
 Without going into too much detail about why cumulative emission numbers dif-
-```
-fer between various studies, the key point is that CO 2 emissions must be reduced to
-
+fer between various studies, the key point is that CO[^2]: emissions must be reduced to
 zero. Otherwise, cumulative emissions and global warming will continue to increase.
 
 Therefore, there is no way to avoid emissions-free electricity, transport, and indus-
@@ -72309,23 +66796,14 @@ and complete cessation of all fossil fuel use. This is the simple and powerful l
 
 of carbon budgets.
 
-```
-Global cumulative CO 2 emissions for the scenarios developed in this study (thick
-```
+Global cumulative CO[^2]: emissions for the scenarios developed in this study (thick
 blue lines) and other literature-reported scenarios from the RCP and SSP sets. It is
-
 clear that this study’s 2.0 °C pathway initially reaches a similar cumulative emis-
-
-sions level as the SSP1_19 scenario, before the cumulative CO 2 emissions are
-
-reduced again in SSP1_19 with large-scale net negative CO 2 emissions via bioen-
-
-ergy with carbon capture and storage. In contrast, the reduction of cumulative CO 2
-
+sions level as the SSP1_19 scenario, before the cumulative CO[^2]: emissions are
+reduced again in SSP1_19 with large-scale net negative CO[^2]: emissions via bioen-
+ergy with carbon capture and storage. In contrast, the reduction of cumulative CO2
 emissions in this study’s 1.5 °C scenarios starts to plateau much earlier (by 2035)
-
 and are then reduced by land -based sequestration options, such as reforestation and
-
 forest restoration (thick blue line at the lower end). The stated blue 1.5 °C carbon
 
 ```
@@ -72381,9 +66859,7 @@ Cumulative Carbon Emissions (GtC
 ```
 ```
 2,500
-```
-```
-Global Cumulative CO 2 Emissions LDF_REF
+Global Cumulative CO2 Emissions LDF_REF
 ```
 ```
 RCP26
@@ -72427,7 +66903,7 @@ SSP5_85
 Cumulative Carbon Emissions (GtCO
 ```
 ```
-) 2
+)2
 ```
 ```
 1.5C Carbon Budget
@@ -72441,195 +66917,117 @@ Cumulative Carbon Emissions so far (until 2011)
 ```
 M. Meinshausen
 ```
-
 ```
 465
 ```
 budget range is the effective central value presented in the recent IPCC Special
-
-Report on 1.5 °C warming.^1
+Report on 1.5 °C warming.[^1]
 
 **12.4 Implications for Temperature and Sea-Level Rise**
 
 This section examines the implications of the three scenarios developed in this
-
 study for the probabilistic global mean temperature and sea level rise. Based on the
-
 latest version 7 of the reduced complexity carbon cycle and climate model MAGICC,
-
 we can derive a range of projections for every scenarios that provides a good mea-
-
 sure of the projection uncertainties over the twenty-first century. We ran this model
-
 600 times for each scenario, varying wide ranges of feedback and forcing parame-
-
 ters. For the sea-level rise projections, we used the new sea-level rise module of
-
-MAGICC7, as described by Nauels et al. ( 2017 ) and drove that with our probabilis-
-
+MAGICC7, as described by Nauels et al. ([^2017]:) and drove that with our probabilis-
 tic temperature projections. We did not include the recent finding that possible
-
 Antarctic ice sheet instability could lead to a much greater sea-level rise this cen-
-
 tury. These extra contributions to sea-level rise are also assumed to affect the higher
-
 end of the projections for high-emission scenarios, and do not therefore change the
-
 sea-level rise projections of the lower-emissions scenarios.
-
-```
 A key question regarding future temperature projections is whether the scenarios
-```
 will stay below the envisaged 1.5  °C and 2.0  °C warming levels relative to pre-
-
 industrial levels. When answering this question in terms of the consistency of the
-
 1.5 °C and 2.0 °C warming levels, the uncertainty in historical reconstructions of
-
 temperatures must play a role. The latest IPCC Special Report on 1.5 °C warming
-
-estimated from an average of four studies that the difference between early- industrial
-
+estimated from an average of four studies that the difference between early-industrial
 (1850–1900) and recent surface air temperature levels (2006–2015) was 0.97 °C. If
-
 we accept here the slightly oversimplified assumption that the 1850–1900 tempera-
-
 ture levels can be equated with pre-industrial temperatures, we can evaluate the
-
 difference towards a 1.5 °C warming level, namely 0.53 °C. Note that this distance
-
 could be shorter—a matter of ongoing scientific debate.
-
-```
 Anyway, the median temperatures for the (lowest) 1.5 °C Scenario in this study
-```
 do indeed—somewhat by design—reach the 1.5 °C target level by 2100. This means
-
 that after a slight overshoot, there will be a 50% chance by 2100 that the global
-
 mean temperature is at or below 1.5  °C warming—and without the widespread
-
 deployment of bioenergy with carbon capture and storage (BECCS).
 
-(^1) The IPCC Special Report estimates for a 0.53 °C distance of the 1.5 °C degree target from the
-2006–2015 level, a carbon budget of 560 GtCO 2 from 1 January 2018 onwards. Reduced by 100
-GtCO 2 for additional Earth System Feedbacks (see Table 2.2 in the IPCC Special Report on 1.5 °C)
-and adding approximately 270 GtCO 2 emissions for the period from 2011 to 2017, the central
+[^1]:The IPCC Special Report estimates for a 0.53 °C distance of the 1.5 °C degree target from the
+2006–2015 level, a carbon budget of 560 GtCO[^2]: from 1 January 2018 onwards. Reduced by 100
+GtCO[^2]:for additional Earth System Feedbacks (see Table 2.2in the IPCC Special Report on 1.5 °C)
+and adding approximately 270 GtCO[^2]: emissions for the period from 2011 to 2017, the central
 estimate for a 50% chance of staying below 1.5 °C warming as stated by IPCC is approximately
-730 GtCO 2 from 2011 onwards. This is for a definition of historical warming that is based on a
+
+730 GtCO[^2]: from 2011 onwards. This is for a definition of historical warming that is based on a
 consistent surface air temperature estimate over the land and oceans. A further reduction of
-approximately 150 GtCO 2 would result, if we take into account that the IPCC carbon budget esti-
+approximately 150 GtCO[^2]: would result, if we take into account that the IPCC carbon budget esti-
 mate refer to a 1850–1900 early industrial reference period for the 1.5 °C warming, rather than a
 1750 pre-industrial reference period (which makes approximately a 0.1 °C difference, with +− 0.1
 °C uncertainty).
-12 Implications of the Developed Scenarios for Climate Change
 
+[^12]: Implications of the Developed Scenarios for Climate Change
 
 466
 
-```
 In the case of our 2 °C Scenario, the centric 66% range is almost entirely below
-```
 the 2 °C warming level, which means that the chance of maintaining temperature
-
 change below 2 °C is 80%–85%, in the modelling framework used. This warming
-
 level and likelihood fits well with the adapted Paris Agreement target, which shifted
-
 from a ‘below 2 °C’ to a ‘well below 2°C’ formulation.
-
-```
 Of course, there are several uncertainties that are not addressed in those probabi-
-```
 listic temperature projections. Therefore, future investigations might shift the
-
 estimates for a 50%, lower, or higher chance of staying below 1.5 °C warming level
-
 relative to the pre-industrial level.
-
-```
 Figure 12.4 shows the global mean surface air temperature projections, and their
-```
 66% and 90% ranges, for the three scenarios developed in this study. The reference
-
 scenario is shown in red, the 2.0 °C pathway is shown in blue, and the 1.5 °C path-
-
-way is shown in green. For historical temperatures, a mixture between ocean- surface
-
+way is shown in green. For historical temperatures, a mixture between ocean-surface
 and land-surface air temperatures is shown, namely the HadCRUT4 dataset. The
-
 most recent estimate by the IPCC of the pre-industrial air surface temperature levels
-
 is that they were around 0.97 °C below the 2006–2015 levels. The median projec-
-
 tions of the three scenarios are shown in thick solid lines.
-
-```
 As a first approximation, the global mean temperature is proportional to the sum
-```
-of all historical CO 2 emissions. In a similar vein, sea-level rise is the sum over all
-
+of all historical CO[^2]: emissions. In a similar vein, sea-level rise is the sum over all
 past temperature rises relative to the pre-industrial level. Combining these two
 
 approximations yields the rule of thumb that sea-level rise is proportional to the
 
-double integral of CO 2 emissions. Therefore, whereas temperatures are relatively
+double integral of CO[^2]: emissions. Therefore, whereas temperatures are relatively
 
-agnostic about when CO 2 emissions occurred, sea-level rise will be higher the lon-
-
-ger ago the CO 2 emission occurred.
-
-```
+agnostic about when CO[^2]: emissions occurred, sea-level rise will be higher the lon-
+ger ago the CO[^2]: emission occurred.
 This proportionality has implications for our scenarios. As we saw previously,
-```
 our scenarios are relatively low in terms of radiative forcing early in the twenty-first
-
 century compared with the lower scenarios of the SSP and RCP sets. Towards the
-
 end of this century, the strongly net negative emissions of the SSP1_19 scenario will
-
 cause radiative forcing (and approximate temperature) to be similar under SSP1_19
-
 and our 1.5 °C scenario. That our scenarios will first entail lower and then similar
-
 forcing and temperature levels suggests that the implied sea-level rise will be lower
-
 for the second half of the twenty-first century and beyond, even though the 2100
-
 temperature level might be similar. This is a clear benefit of our scenarios and should
-
 be investigated further in the future.
-
-```
 Thus, there is clearly an advantage in undertaking concerted early action rather a
-```
 slower decline in emissions followed by strong negative emissions. This is impor-
-
 tant. However, in the larger scheme of things, it is clearly a second-order effect.
-
 Even under the strongest mitigation scenarios, we cannot expect sea-level rise to
-
 stop any time soon. To halt sea-level rise in the 21st or even the twenty-second cen-
-
-tury, we will require massively negative CO 2 emissions, drawing back out of the
-
-atmosphere a lot of the CO 2 that we emitted this century. Therefore, even under our
-
+tury, we will require massively negative CO[^2]: emissions, drawing back out of the
+atmosphere a lot of the CO[^2]: that we emitted this century. Therefore, even under our
 low 1.5 °C and 2.0 °C scenarios, the expected sea-level rise by 2100 will be above
-
 30 cm relative to the 2010 levels—and will continue to rise to 2100 (Fig. 12.5).
 
 ```
 M. Meinshausen
 ```
-
 ```
 467
 ```
 **Fig. 12.4** Global-mean surface air temperature projections
 
-12 Implications of the Developed Scenarios for Climate Change
-
+[^12]: Implications of the Developed Scenarios for Climate Change
 
 468
 
@@ -72638,7 +67036,6 @@ M. Meinshausen
 ```
 M. Meinshausen
 ```
-
 ```
 469
 ```
@@ -72652,7 +67049,7 @@ long-term sea level rise projections-the MAGICC sea level model v2. 0. Geoscient
 Development, 10(6).
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -72662,14 +67059,12 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-12 Implications of the Developed Scenarios for Climate Change
-
+[^12]: Implications of the Developed Scenarios for Climate Change
 
 © The Author(s) 2019 471
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2_13
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
-###### Chapter 13
+**Chapter 13**
 
 #### Discussion, Conclusions
 
@@ -72687,9 +67082,8 @@ chapters. The key findings as well as the research limitations and further resea
 
 requirements are given for following topics:
 
-```
 Renewable energy potential mapping, Transport scenario and long-term energy
-```
+
 scenario development, power sector analysis, employment and mineral resource
 
 implications for the 2.0C and 1.5C scenarios and non-energy GHG scenarios,
@@ -72728,84 +67122,46 @@ industrial levels and to pursue efforts to limit the temperature
 increase even further to 1.5 °C.
 ```
 ```
-UNFCCC ( 2015 )
+UNFCCC (2015)
 ```
-
 472
 
 The Paris Agreement’s goals require significant change in how we use and produce
-
 energy on a global level. This energy transition must be started immediately and
-
 without further delay, and concerns energy-producing industry and utilities as well
-
 as every energy consumer—from the industry level down to the residential sector. A
-
 combination of energy efficiency and the use of renewable energies will involve
-
 new business concepts for the energy sector, which will require entirely new poli-
-
 cies that provide a new market framework. The implementation of new technologies
-
 and business concepts will include policy changes on the community level as well
-
 as by national governments and international organizations. While the 2.0  °C
-
 Scenario allows for a 3–5 years transition period in which to implement policy mea-
-
 sures, the 1.5 °C Scenario allows no further delay but requires an immediate start,
-
 at the latest in 2020. Therefore, the 1.5 °C Scenario presented in this book provides
-
 a technical pathway that assumes and allows no political delay, and may therefore
-
 be seen as a technical benchmark scenario.
-
-```
 However, this energy transition cannot be seen in isolation. To stay within the
-```
 Paris Agreement Goal requires reductions in greenhouse gas (GHG) emission that
-
-are greater than can be delivered by the energy transition alone (see Chap. 4).
-
+are greater than can be delivered by the energy transition alone (see Chap. [^4]:).
 However, there are technical and logistical limits to how fast new technologies can
-
 be implemented. The establishment of efficient transport systems and industry pro-
-
 cesses, or simply the provision of required renewable energy and storage technolo-
-
 gies will require a minimum time. Production capacities must increase significantly,
-
 people must be trained, and existing buildings must be retro-fitted. Infrastructural
-
 changes, such as smart power grids, must be planed, construction permits must be
-
 issued. The energy transition will require political determination and public accep-
-
 tance. Therefore, the planning process will require resolute stakeholder involve-
-
 ment. Furthermore, a fundamental shift in today’s resource-intensive lifestyles
-
 seems unavoidable if we are to limit global warming. In particular, the way con-
-
 sumption and mobility are organized in developed countries today will challenge
-
 planetary boundaries to the extreme if they remain at their current levels.
-
-```
 During the development of the energy scenario pathways, it became clear that
-```
 even the most ambitious ‘man-on-the-moon’ program—if focussed only on the
-
 energy sector—would not be enough. Therefore, the political framework required to
-
 implement the Paris Agreement on national levels must also take the land-use sec-
-
-tor, as well as the main GHGs, methane, N 2 O, and fluorinated gases, into account.
-
-```
+tor, as well as the main GHGs, methane, N[^2]:O, and fluorinated gases, into account.
 The following sections present the main findings and lessons of this research proj-
-```
+
 ect, and highlight its limitations and further research requirements. Finally, we pro-
 
 vide policy recommendations for the energy sector in order to implement the -energy
@@ -72815,17 +67171,15 @@ scenarios.
 **13.1 Findings and Limitations—Modelling**
 
 The following section focuses on the main findings in all parts of the research, with
-
 priority given to high-level lessons, to avoid the repetition of previous chapters.
 
 ```
 S. Teske et al.
 ```
-
 ```
 473
 ```
-**_13.1.1 Key Findings—Renewable Energy Potential Mapping_**
+**13.1.1 Key Findings—Renewable Energy Potential Mapping**
 
 Various research projects have analysed renewable energy potentials and all have in
 
@@ -72845,9 +67199,9 @@ regions and 75 sub-regions examined had sufficient renewable energy resources to
 
 meet the regional needs.
 
-**_13.1.2 Limitations and Further Research—Renewable Energy_**
+**13.1.2 Limitations and Further Research—Renewable Energy**
 
-**_Potential_**
+**Potential**
 
 The quality of data varies significantly across the regions and especially detailed
 
@@ -72867,7 +67221,7 @@ are generally better at these elevations. Therefore, further research is require
 
 open source data for onshore and offshore wind data at the 100 m level.
 
-**_13.1.3 Key Findings—Transport Scenario_**
+**13.1.3 Key Findings—Transport Scenario**
 
 Transport modelling has shown that the 2.0  °C and 1.5  °C pathways can be met
 
@@ -72898,8 +67252,7 @@ so for the 1.5 °C pathway. This will apply particularly to the car use habits 
 
 OECD countries. In essence, definite limitations on transport activities and modal
 
-13 Discussion, Conclusions and Recommendations
-
+[^13]: Discussion, Conclusions and Recommendations
 
 474
 
@@ -72915,9 +67268,9 @@ long-sighted infrastructural and transport policy framework settings on both int
 
 and intra-governmental levels.
 
-**_13.1.4 Limitations and Further Research_**
+**13.1.4 Limitations and Further Research**
 
-**_Requirement—Transport_**
+**Requirement—Transport**
 
 The statistical databases for several world regions on transport activities and fleet
 
@@ -72939,7 +67292,7 @@ research is required to refine the coupling of renewable energy potentials, tran
 
 infrastructure upgrades, and the expansion of on-board energy storage usage.
 
-**_13.1.5 Key Findings—Long-Term Energy Scenario_**
+**13.1.5 Key Findings—Long-Term Energy Scenario**
 
 The 2.0 °C and the 1.5 °C scenarios both represent ambitious pathways that require
 
@@ -72976,7 +67329,6 @@ $GDP in the ‘Industry’ sector, which will decrease by 65% in OECD regions an
 ```
 S. Teske et al.
 ```
-
 ```
 475
 ```
@@ -72984,9 +67336,8 @@ technology change and replacement strategies and supporting regulatory and gover
 
 nance measures to trigger huge investments for its realization.
 
-```
 On the energy supply side, considerable contributions in the future are assumed
-```
+
 from wind and solar power, electrification and synthetic fuel use in transport and
 
 heating, sustainable biomass use, especially for co-generation and biofuels, and dis-
@@ -73045,37 +67396,30 @@ global growth in the demand for energy services, at least for as long as fossil 
 
 gies dominate the energy supply structures.
 
-```
 Besides the structural similarities between both the 2.0 °C and 1.5 °C Scenarios,
-```
+
 one main difference between them is the rate of transformation: To maintain the
 
 average global temperature increase due to climate change below 1.5 °C, the trans-
 
 formation must be accomplished as fast as technically possible. The trend in increas-
 
-ing global energy-related CO 2 emissions must be reversed as soon as possible (in
-
+ing global energy-related CO[^2]: emissions must be reversed as soon as possible (in
 the early 2020s, at the latest) and emissions must be reduced by 70% in 2035 and by
 
 85% in 2040 (compared with emission levels in 1990). Every single year without
-
 significant emission reductions on the global level will dramatically reduce our
-
 chance to confine global warming to 1.5  °C.  In contrast, in the 2.0  °C Scenario,
-
 emission reductions in 2035 may be in the order of 40% and 65% in 2040, leaving
-
 a little more time for the transition process.
 
-13 Discussion, Conclusions and Recommendations
-
+[^13]: Discussion, Conclusions and Recommendations
 
 476
 
-**_13.1.6 Limitations and Further Research Requirement—_**
+**13.1.6 Limitations and Further Research Requirement—**
 
-**_Long-Term Energy Scenario_**
+**Long-Term Energy Scenario**
 
 The 1.5  °C Scenario may seem more difficult than similarly ambitious scenarios
 
@@ -73095,9 +67439,8 @@ climate damage and the greater will be the technical and economic challenges tha
 
 will be encountered in the energy system transformation.
 
-```
 The coarse regional resolution of such global scenarios does not allow sufficient
-```
+
 account to be taken of sub-regional differences in energy demand and the character-
 
 istic and favourable possibilities of sustainable supply. However, it can provide
@@ -73124,9 +67467,8 @@ yses can then form the basis for the further investigation of the economic impli
 
 tions of these pathways.
 
-```
 Another limitation of this approach is that the economic, technical, and market
-```
+
 assumptions made probably have limited consistency. Carbon, fuel, and technology
 
 costs are assumed independently of the assumptions regarding overall economic
@@ -73143,7 +67485,7 @@ is whether the current market mechanisms are capable of supporting the fundamen-
 
 tal paradigm shift of this target-oriented energy transition.
 
-**_13.1.7 Key Findings—Power Sector Analysis_**
+**13.1.7 Key Findings—Power Sector Analysis**
 
 Although there are significant differences across all the regions and sub-regions
 
@@ -73158,7 +67500,6 @@ heating sectors. Higher loads will require the adaptation of power-lines and
 ```
 S. Teske et al.
 ```
-
 ```
 477
 ```
@@ -73209,9 +67550,9 @@ and synthetic fuels will be beneficial. The hydrogen produced can be used for th
 management of demand, and hydrogen-fuelled power plants can provide valu-
 able dispatch services.
 ```
-**_13.1.8 Limitations and Further Research Requirement—_**
+**13.1.8 Limitations and Further Research Requirement—**
 
-**_Power Sector Analysis_**
+**Power Sector Analysis**
 
 Measured load curves for regions, countries, or states/provinces are often unavail-
 
@@ -73227,105 +67568,65 @@ range. However, verification was not possible for several regions. Therefore, ou
 
 analysis may over- or underestimate the current loads and therefore the future
 
-13 Discussion, Conclusions and Recommendations
-
+[^13]: Discussion, Conclusions and Recommendations
 
 478
 
 projections of loads as well. Therefore, the optimal ratio of maximum load to
-
 installed variable capacity requires further research.
-
-```
 More research is also required to verify the thesis of an optimal ratio between the
-```
 variable generation and maximum load, because the sample size of this study was
-
 not sufficient to ensure validity. Furthermore, the optimal mix of solar and wind
-
 requires better meteorological data and actual measured load profiles. Access to
-
 more detailed data to calculate more case studies is vital to determining the possible
-
 optimal combination of wind and solar.
 
-**_13.1.9 Key Findings—Non-energy Scenarios_**
+**13.1.9 Key Findings—Non-energy Scenarios**
 
 The key finding of the land-use-related emission scenarios is that a dedicated con-
-
 certed effort to sequester carbon by reforestation and forest restoration could re-
-
 establish the terrestrial carbon stock of pre-industrial times. That would undoubtedly
-
 come with multiple co-benefits, but would not be without challenges. After all, there
-
 is a reason why humans in the various corners of the planet pursued deforestation,
-
 whether for short-term and short-sighted gains or to establish agricultural areas that
-
 fed an increasing population. Therefore, land-use conflicts and trade offs are an
-
-inherent part of future mitigation actions, whether CO 2 sequestration is pursued by
-
+inherent part of future mitigation actions, whether CO[^2]: sequestration is pursued by
 reforestation sequestration or by some biomass and CCS use. Nevertheless, the
-
-important result of this study is that the addition of land-use CO 2 and other GHG
-
+important result of this study is that the addition of land-use CO[^2]: and other GHG
 emission pathways to energy-related scenarios yields scenarios that stay below or
 
-get below 1.5 °C warming without a reliance on massive net negative CO 2 emission
-
+get below 1.5 °C warming without a reliance on massive net negative CO[^2]: emission
 potentials towards the second half of this century.
 
-```
-Going beyond the land-use CO 2 emission pathways that we sketched for a series
-```
+Going beyond the land-use CO[^2]: emission pathways that we sketched for a series
 of sequestration options, we also designed trajectories for all the other GHGs and
-
 aerosols. An unprecedented wealth of scenario information is now available thanks
-
 to the recent concerted efforts of the larger integrated assessment community.
-
 Designing a novel method here, the Generalized Quantile Walk method, we were
-
-able to distil non-CO 2 pathways from this rich scenario database—in a way that
-
-respects the correlations and dependencies between energy-related CO 2 and other
-
+able to distil non-CO[^2]: pathways from this rich scenario database—in a way that
+respects the correlations and dependencies between energy-related CO[^2]: and other
 gas emissions. This is not only a new methodological advance in scenario research,
-
-but also key to the proper estimation of the climate effects of the energy-related CO 2
-
+but also key to the proper estimation of the climate effects of the energy-related CO2
 scenarios designed in the main part of this study.
 
-**_13.1.10 Limitations and Further Research Requirement—_**
-
-**_Non-energy Scenarios_**
+**13.1.10 Limitations and Further Research Requirement—**
+**Non-energy Scenarios**
 
 There are a number of limitations associated with the derived non-energy-related
-
 emission trajectories. Possibly the most important opportunity for future research
-
 will involve a more fine-grained look at land-use-based sequestration options in
 
 ```
 S. Teske et al.
 ```
-
 ```
 479
 ```
 various countries and biomes. This study assumed only a rather coarse approxima-
-
 tion of the available land areas, sequestration rates, and cumulative changes in land
-
 carbon stocks to estimate the potential and time trajectories of those reforestation,
-
 forest restoration, agroforestry, and other land-based sequestration options.
-
-```
-In terms of the non-CO 2 emission trajectories, this study relied heavily on the
-```
+In terms of the non-CO[^2]: emission trajectories, this study relied heavily on the
 collective wisdom embodied within a large set of literature-reported scenarios.
 
 Although we have designed probably the most advanced method to distil that
@@ -73336,86 +67637,54 @@ pathways, this meta-analytical approach is not without its limitations. In parti
 
 a bottom-up energy-system and land-use/agricultural model must be able to esti-
 
-mate methane and N 2 O emissions from various agricultural activities in a more
-
+mate methane and N[^2]:O emissions from various agricultural activities in a more
 coherent way, which could provide results on a regional level. Such regionally and
 
 sectorally specific information would, in turn, allow the examination of various
-
-mitigation options for non-CO 2 emissions. This bottom-up modelling capacity is
-
+mitigation options for non-CO[^2]: emissions. This bottom-up modelling capacity is
 missing from our meta-analytical approach.
 
-**_13.1.11 Key Findings—Employment Analysis_**
+**13.1.11 Key Findings—Employment Analysis**
 
 The occupational employment analysis was developed in 2018 to improve the data-
-
 base for the ‘just transition’ concept. Not only is the number of jobs that will be
-
 created or lost as a result of a global or regional energy transition important, but also
-
 the specific occupations that will be to develop a socially sound transition. This
-
 analysis breaks new grounds because very little information has been available.
-
 However, the results indicate that even within the seven occupation types, job losses
-
 are the exception and almost all trades will gain more jobs.
-
-```
 Very specialized jobs, such as machine operators in coal mines, will be lost and
-```
 there will be no replacement. Therefore, a detailed analysis of all sectors is required
-
 to identify those highly specialized tasks and to develop re-training possibilities.
 
-**_13.1.12 Limitations and Further Research Requirement—_**
-
-**_Employment Analysis_**
+**13.1.12 Limitations and Further Research Requirement—**
+**Employment Analysis**
 
 The data available on the detailed employment requirements for renewable energies
-
 are very limited. Although there are some data for solar PV and onshore and off-
-
 shore wind, there are almost none for concentrated solar power plants or geothermal
-
 energy. Furthermore, occupational surveys of the heating and energy efficiency sec-
-
 tors are required.
 
-13 Discussion, Conclusions and Recommendations
-
+[^13]: Discussion, Conclusions and Recommendations
 
 480
 
-**_13.1.13 Key Findings—Mineral Resource Analysis_**
+**13.1.13 Key Findings—Mineral Resource Analysis**
 
 Lithium sees the highest projected increase from mined ore of around 40 times cur-
-
 rent production to above 80 times current production should future technologies be
-
 introduced without recycling.
-
-```
 Cumulative primary lithium demand by 2050 for the majority of scenarios is
-```
 above current reserves of lithium except for the “potential recycling” scenario but
-
 less than known resources. The scenarios anticipate a scale up in resource explora-
-
 tion, discovery and production for primary resources to meet demand—assuming
-
 lithium-ion batteries continue to dominate as the chemistry of choice. It is important
-
 that future mines be responsibly developed and that battery designs be compatible
-
 with circular-economy thinking. Significant infrastructure for reuse and recycling
-
 will need to be developed to achieve high rates of lithium recycling.
-
-```
 For cobalt, future scenarios exceed currently known reserves and approach cur-
-```
+
 rently known resources in 2050. Given the concentrated supply source from the
 
 Democratic Republic of Congo, this will continue to keep pressure on exploring
@@ -73434,46 +67703,32 @@ because of supply limitations, the social and environmental challenges provide a
 
 further driver for increasing recycling.
 
-```
 For silver, the potential of materials efficiency (using less silver per GW solar PV
-```
+
 panel) has potential to reduce demand owing to the long lifetimes of PV panels.
 
 Under some scenarios using future technology with recycling, the levels of silver
 
 demand are similar to current production.
 
-**_13.1.14 Limitations and Further Research Requirement—_**
-
-**_Mineral Resource Analysis_**
+**13.1.14 Limitations and Further Research Requirement—**
+**Mineral Resource Analysis**
 
 This study focuses only on the metal demand for renewable energy (generation and
-
 storage) and transport and does not consider other demands for these metals.
-
 However, it is expected that with the increase in renewable energy, renewable energy
-
 technologies will consume a greater share of these metals and it is anticipated that
-
 this growth will have significant influence on overall market dynamics, including
-
 influencing prices, which may feedback to efforts to reduce material intensity and
-
 invest in reuse and recycling infrastructure.
-
-```
 Promoting the transition to circular economy for both renewable energy and
-```
 resource cycles; and adopting a systems view that considers available supply as well
-
 as social and environmental factors is critically important. To support sustainable
-
 development goals, both the primary and secondary sources of the resources
 
 ```
 S. Teske et al.
 ```
-
 ```
 481
 ```
@@ -73507,7 +67762,7 @@ jurisdictions. That said, it is assumed that the Paris Agreement will be the glo
 
 basis.
 
-**_13.2.1 Energy_**
+**13.2.1 Energy**
 
 The energy sector is not a homogeneous sector but is highly diverse. Therefore,
 
@@ -73523,16 +67778,14 @@ indirectly connected via resources and energy markets, policy interventions can
 
 have different effects.
 
-```
 The basic principles for the development of the 2.0  °C and 1.5  °C Scenarios
-```
+
 derive from the long-term experiences with scenario development of the authorship
 
 team, and have led to a ‘seven-step logic’.
 
-```
 This logic extends from the definition of the final state of the energy systems in
-```
+
 the long-term future to the key drivers of the energy demand and the energy effi-
 
 ciency potentials, a technological analysis of supply and demand and the market
@@ -73541,35 +67794,29 @@ development potential, and the specific policy measures required to implement a
 
 theoretical concept in the real market-place.
 
-```
 The seven steps are:
-```
+
 1. Define the maximum carbon budget and other targets, milestones, and con-
 
-```
 straints to achieve the climate goal;
-```
+
 2. Define the renewable energy resource potentials and limits within a space-
 
-```
 constrained environment;
-```
-13 Discussion, Conclusions and Recommendations
 
+[^13]: Discussion, Conclusions and Recommendations
 
 482
 
 3. Identify the economic and societal drivers of demand;
 4. Define the efficiency potentials and energy intensities by energy service and
 
-```
 sector;
-```
+
 5. Establish time lines and narratives for the technology implementation on the
 
-```
 end-user and supply sides;
-```
+
 6. Estimate the infrastructure needs, generation costs, and other effects;
 7. Identify the required policies and discuss the policy options.
 
@@ -73585,14 +67832,13 @@ effectively develop energy policy and its regulative interventions. The most imp
 
 tant interventions to accelerate the energy transition are:
 
-- Renewable energy targets and incentives for their deployment and expansion;
-- Internalization of external costs by carbon tax or surcharge;
-- Phase-out of fossil fuel subsidies;
-- Accelerated replacement of fossil and inefficient technologies.
+• Renewable energy targets and incentives for their deployment and expansion;
+• Internalization of external costs by carbon tax or surcharge;
+• Phase-out of fossil fuel subsidies;
+• Accelerated replacement of fossil and inefficient technologies.
 
-```
 Renewable energy targets are vital to accelerate the deployment of renewable
-```
+
 energy. Experiences of the past two decades clearly show the effectiveness of renew-
 
 able energy policy development. The Renewable Policy Network for the 21st
@@ -73603,7 +67849,7 @@ Century (REN21) states in their annual market analysis, Renewables 2018, that
 
 mitment to renewable energy deployment. Targets are enacted for economy-wide
 
-energy development as well as for specific sectors” (REN21-GSR- 2018 ). To achieve
+energy development as well as for specific sectors” (REN21-GSR-[^2018]:). To achieve
 
 these goals, innovation processes must be initiated, markets developed, and
 
@@ -73613,20 +67859,19 @@ able. It is important in this context to guarantee investment security and to en
 
 long-term but appropriate revenues.
 
-```
 Climate change leads to a number of types of environmental damage. Carbon
-```
+
 emissions lead to climate change. Therefore, it is vital to put a price on carbon to
 
 internalize the external costs. Carbon-pricing schemes can be established as _cap-_
 
-_and- trade_ schemes or taxes. Carbon pricing is not sufficient on its own to achieve
+_and-trade_ schemes or taxes. Carbon pricing is not sufficient on its own to achieve
 
 the objective of the Paris Agreement, and many leading international agencies and
 
 institutions argue that a much more concerted and widespread global take-up of
 
-carbon pricing will be necessary (Carbon Tracker 2018 ). To make carbon pricing an
+carbon pricing will be necessary (Carbon Tracker [^2018]:). To make carbon pricing an
 
 efficient measure, the price of carbon must be sufficient to reflect the environmental
 
@@ -73634,9 +67879,8 @@ damage it causes and it must be reliable. Therefore, a minimum price should be
 
 implemented to provide planning security.
 
-```
 Subsidies of fossil fuels counteract any efforts to make energy efficiency and
-```
+
 renewable energy competitive. According to the International Energy Agency, the
 
 total amount of global fossil fuel subsidies was estimated to be around US$260 bil-
@@ -73644,24 +67888,22 @@ total amount of global fossil fuel subsidies was estimated to be around US$260 b
 ```
 S. Teske et al.
 ```
-
 ```
 483
 ```
-lion in 2016 (IEA-DB 2018 ). The governments of the G20 and the Asia-Pacific
+lion in 2016 (IEA-DB [^2018]:). The governments of the G20 and the Asia-Pacific
 
-Economic Cooperation (APEC) reached an agreement to “ _rationalize and phase out_
+Economic Cooperation (APEC) reached an agreement to “_rationalize and phase out_
 
 _over the medium term inefficient fossil fuel subsidies that encourage wasteful con-_
 
-_sumption_ ” (OECD-IEA 2018 ).
+_sumption_” (OECD-IEA [^2018]:).
 
-```
 Setting legally binding national targets for 100% renewable energy pathways
-```
+
 will lead to an orderly phase-out of fossil fuels. This is vital in planning the socio-
 
-economic effects of the energy transition (see Chap. 10). Supporting measures to
+economic effects of the energy transition (see Chap. [^10]:). Supporting measures to
 
 achieve the replacement of fossil and inefficient technologies and energy sources
 
@@ -73677,9 +67919,8 @@ definitions and stringent enforcement of international standards will accelerate
 
 implementation of the best available technologies in the industry.
 
-```
 Both a minimum price on carbon and the immediate phase-out of fossil fuel
-```
+
 subsidies must be implemented in order to support the global energy transition.
 
 Policy support for technology innovation is another important measure to create the
@@ -73690,7 +67931,7 @@ basis for the energy transition processes.
 
 To reduce the energy demands of existing building stock and new buildings, con-
 
-stantly most stringent energy demand standards (= _building energy codes_ ) are
+stantly most stringent energy demand standards (= _building energy codes_) are
 
 required for all building types and across all countries. The goal must be to achieve
 
@@ -73708,7 +67949,7 @@ strategy that balances insulation, local heating systems, and the grid-connected
 
 supply in regions with a significant space-heating demand. An analysis of building
 
-energy codes in 15 countries (Young 2014 ) distinguished between residential and
+energy codes in 15 countries (Young [^2014]:) distinguished between residential and
 
 commercial buildings and listed six technical requirement categories, ranging from
 
@@ -73728,8 +67969,7 @@ fuel subsidies, could support efforts to save energy. However, they must be acco
 
 panied by social policies.
 
-13 Discussion, Conclusions and Recommendations
-
+[^13]: Discussion, Conclusions and Recommendations
 
 484
 
@@ -73749,7 +67989,7 @@ gies are required. These efficiency standards must be dynamic and designed to su
 
 port competition for the most efficient design. The Japanese front runner system
 
-(IEA-PM 2018 ) is a positive example of dynamic efficiency standards. Labelling
+(IEA-PM [^2018]:) is a positive example of dynamic efficiency standards. Labelling
 
 programmes and purchase subsidies for the best available technologies can support
 
@@ -73786,42 +68026,26 @@ battery recharging and hydrogen refuelling infrastructures for road vehicles. In
 
 passenger car and truck context, direct subsidies or tax incentives for electric
 
-vehicles will speed up the electrification of fleets. CO 2 taxation, road tolls, and con-
-
+vehicles will speed up the electrification of fleets. CO[^2]: taxation, road tolls, and con-
 gestion charges could be applied, in addition to parking-space management schemes
 
 to reduce road traffic and thus internal combustion engines in a transition to car-
-
 reduced cities. The assignment of parking lots and driving lanes exclusively to elec-
-
 tric cars will speed the phase-out of internal combustion engines.
-
-```
-In aviation, measures could include the taxation of jet fuel and CO 2 , the applica-
-```
+In aviation, measures could include the taxation of jet fuel and CO[^2]:, the applica-
 tion of an emission trading scheme on the direct and indirect climate effects of flight
-
 at high altitudes. Direct and indirect public subsidies for carriers and airports should
-
 be abolished (investment and operational grants should be reduced and funding
-
 should be allocated to a competitive and attractive rail system).
-
-```
 All measures curtailing the use of individual passenger transport should be
-```
 accompanied by the promotion of ubiquitous, fast, comfortable, and price-
-
 competitive public transport systems, ride and car sharing and on-demand services
-
 (especially for less densely populated semi-urban and rural areas). Last but not
-
 least, an attractive and safe infrastructure for bicycles and e-bikes will help to reduce
 
 ```
 S. Teske et al.
 ```
-
 ```
 485
 ```
@@ -73837,9 +68061,8 @@ reducing the need for motorized individual mobility and freeing up space for rec
 
 ation and green spaces.
 
-```
 Cities in developed countries should aim to transform their transport systems
-```
+
 (often) from passenger-car-centred urban structures and policies towards pedes-
 
 trian-, bike-, and mass-transport-friendly environments. The often densely popu-
@@ -73908,8 +68131,7 @@ vital to push the technological limits further. Innovative approaches to the rea
 
 tion of material cycles and recycling options, the recovery of industrial waste heat,
 
-13 Discussion, Conclusions and Recommendations
-
+[^13]: Discussion, Conclusions and Recommendations
 
 486
 
@@ -73925,7 +68147,7 @@ with significant shares of variable power generation. The traditional electricit
 
 ket framework has been developed for central suppliers operating dispatchable and
 
-limited dispatchable (‘ _base load_ ’) thermal power plants. The electricity markets of
+limited dispatchable (‘_base load_’) thermal power plants. The electricity markets of
 
 the future will be dominated by variable generation without marginal/fuel costs. The
 
@@ -73951,9 +68173,8 @@ guided by the objective of facilitating the integration of renewables and to ach
 
 100% renewable electricity system.
 
-```
 To establish fair and equal market conditions, the ownership of electrical grids
-```
+
 should be completely disengaged from the ownership of power-generation and sup-
 
 ply companies. To encourage new businesses, relevant grid data must be made avail-
@@ -73966,9 +68187,8 @@ grids. Legislation to support and expand demand-side management is required to
 
 create new markets for the flexibility services for renewable electricity integration.
 
-```
 Public funding for research and development is required to further develop and
-```
+
 implement technologies that allow variable power integration, such as smart grid
 
 technology, virtual power stations, low-cost storage solutions, and responsive
@@ -73989,7 +68209,6 @@ database, viewed October 2018, https://www.iea.org/statistics/resources/energysu
 ```
 S. Teske et al.
 ```
-
 ```
 487
 ```
@@ -74000,15 +68219,15 @@ OECD-IEA (2018), OECD website, OECD-IEA analysis of fossil fuels and other suppo
 October 2018, [http://www.oecd.org/site/tadffss/](http://www.oecd.org/site/tadffss/)
 UNFCCC (2015), The Paris Agreement, website, viewed October 2018, https://unfccc.int/
 process-and-meetings/the-paris-agreement/the-paris-agreement
-REN21-GSR (2018), REN21, 2018, Renewables 2018, Global Status Report, Paris/France, [http://](http://)
-[http://www.ren21.net/status-of-renewables/global-status-report/](http://www.ren21.net/status-of-renewables/global-status-report/) page 20
+REN21-GSR (2018), REN21, 2018, Renewables 2018, Global Status Report, Paris/France, http://
+[www.ren21.net/status-of-renewables/global-status-report/](www.ren21.net/status-of-renewables/global-status-report/) [page](page) [20](20)
 Young, R. (2014), Young, Rachel, Global Approaches: A Comparison of Building Energy Codes
 in 15 Countries, American Council for an Energy-Efficient Economy, 2014 ACEEE Summer
 Study on Energy Efficiency in Buildings, https://aceee.org/files/proceedings/2014/data/
 papers/3-606.pdf
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
-International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
 adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
 credit to the original author(s) and the source, provide a link to the Creative Commons licence and
 indicate if changes were made.
@@ -74018,8 +68237,7 @@ included in the chapter’s Creative Commons licence and your intended use is no
 statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
 the copyright holder.
 
-13 Discussion, Conclusions and Recommendations
-
+[^13]: Discussion, Conclusions and Recommendations
 
 ```
 489
@@ -74058,34 +68276,28 @@ CdTd Cadmium Telluride (Solar photovoltaic cell technology)
 
 CEDS Community Emissions Data System (for Historical Climate rel-
 
-```
 evant Emissions)
-```
+
 CHP Combine Heat and Power (=co-generation)
 
 CIGS Copper Indium Gallium Di-Selenide (Solar photovoltaic cell
 
-```
 technology)
-```
+
 CMIP6 Coupled Model Inter-comparison Project Phase 6 (computer cli-
 
-```
 mate model)
-```
+
 CO2 Carbon Dioxide
 
 CSP Concentrated Solar Power
 
 DBFZ Deutsches Biomasse Forschungs-Zentrum (German Bio Mass
 
-```
 Research Centre)
-```
-© The Author(s) 2019
-S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_ ,
-https://doi.org/10.1007/978-3-030-05843-2
 
+© The Author(s) 2019
+S. Teske (ed.), _Achieving the Paris Climate Agreement Goals_,
 
 490
 
@@ -74101,21 +68313,18 @@ EJ Exa-Joule
 
 ENTSO-E European Network of Transmission System Operators for
 
-```
 Electricity
-```
+
 ESM Earth System Model (computer climate model)
 
 ETP Energy Technology Perspectives (publication of the International
 
-```
 Energy Agency)
-```
+
 EU-WEEE Waste electronic equipment  – Environment, Directive of the
 
-```
 European Commission
-```
+
 EV Electric Vehicles
 
 FAO Food and Agriculture Organization of the United Nations
@@ -74163,9 +68372,8 @@ ILO International Labour Organization
 
 IMAGE Integrated Model to Assess the Global Environment (computer
 
-```
 climate model)
-```
+
 IMO International Maritime Organization
 
 INDC Intended Nationally Determined Contributions
@@ -74183,7 +68391,6 @@ LDV Light Duty Vehicle (= passenger car)
 ```
 Annex
 ```
-
 ```
 491
 ```
@@ -74191,16 +68398,14 @@ LIB lithium Ion Batteries
 
 MAGICC Model for the Assessment of Greenhouse-gas Induced Climate
 
-```
 Change
-```
+
 MEPC Marine Environment Protection Committee
 
 MESSAGE Model for Energy Supply Strategy Alternatives and their General
 
-```
 Environmental Impact (computer energy model)
-```
+
 MJ/year Mega-Joule per year
 
 MW Megawatt
@@ -74229,9 +68434,8 @@ PPP Purchasing Power Parity (economic term)
 
 PRIMAP Potsdam Real-time Integrated Model for probabilistic Assessment
 
-```
 of emissions Paths (computer climate model)
-```
+
 PV Photovoltaic
 
 QGIS Quantum - Global Information System (open source software)
@@ -74258,9 +68462,8 @@ TYNDP Ten-Year-Network Development Plan
 
 UIC Union Internationale des Chemins de fer; International union of
 
-```
 raiways
-```
+
 UNFCCC United Nations Framework Convention on Climate Change
 
 USA-EPA United States of America – Environmental Protection Agency
@@ -74271,16 +68474,13 @@ UTCE Union for the Coordination of the Transmission of Electricity
 
 UTS-ISF University of Technology Sydney  – Institute for Sustainable
 
-```
 Futures
-```
+
 VRE Variable Renewable Energy
 
 WEO World Energy Outlook (publication of the International Energy
 
-```
 Agency)
-```
-Annex
 
+Annex
 

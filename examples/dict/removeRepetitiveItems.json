@@ -1,8 +1,8 @@
 {
   "pages": 221,
   "items": 51638,
-  "groupedItems": 8774,
-  "changes": 668,
+  "groupedItems": 8863,
+  "changes": 694,
   "schema": [
     {
       "name": "line"
@@ -97,6 +97,8 @@
 {"page":54,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 4.1. Menger’s theorem 55","line":0,"x":100.35,"y":738.022,"width":"167.52","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":55,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"56 Chapter 4. Menger’s theorem, flows, and circulations","line":0,"x":72,"y":738.022,"width":"283.72","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":56,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 4.1. Menger’s theorem 57","line":0,"x":100.35,"y":738.022,"width":"167.52","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
+{"page":56,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"⋃","dir":"ltr","width":"12.12","height":"10.91","transform":["10.91","0.00","0.00","10.91","186.45","121.12"],"fontName":"TICOHQ+CMEX10","x":186.445634,"y":121.11792200000012,"line":38}
+{"page":56,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"⋃","dir":"ltr","width":"12.12","height":"10.91","transform":["10.91","0.00","0.00","10.91","225.81","121.12"],"fontName":"TICOHQ+CMEX10","x":225.811692,"y":121.11792200000012,"line":41}
 {"page":57,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"58 Chapter 4. Menger’s theorem, flows, and circulations","line":0,"x":72,"y":738.022,"width":"283.72","height":"11.96","fontName":["LERRTL+CMR12","EHNRCF+CMSL12"],"dir":["ltr"]}
 {"page":58,"change":"Removal","score":"1.43: (1.00 + 0.43)","str":"Section 4.2. Flows in networks 59","line":0,"x":100.35,"y":738.022,"width":"168.39","height":"11.96","fontName":["EHNRCF+CMSL12","LERRTL+CMR12"],"dir":["ltr"]}
 {"page":58,"change":"Removal","score":"1.00: (0.00 + 1.00)","str":"∑","dir":"ltr","width":"17.27","height":"11.96","transform":["11.96","0.00","0.00","11.96","231.76","711.91"],"fontName":"TICOHQ+CMEX10","x":231.75898999999998,"y":711.913,"line":2}

@@ -1,6 +1,6 @@
 {
   "pages": 137,
-  "items": 24829,
+  "items": 24828,
   "groupedItems": 3105,
   "changes": 10553,
   "schema": [
@@ -40,11 +40,11 @@
   ],
   "globals": {}
 }
-{"page":6,"change":"ContentChange","types":["CODE"],"str":"NICHOLS AND NoC|TE>3.","block":6,"line":6,"x":78.44382,"y":65.08251,"width":"106.31","height":"12.05","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"ContentChange","types":["CODE"],"str":"iS6S.","dir":"ltr","width":"20.40","height":"6.80","transform":["6.80","0.00","0.00","6.80","131.31","48.56"],"x":131.31438,"y":48.56046,"line":7,"block":7}
-{"page":6,"change":"ContentChange","types":["CODE"],"str":"'","dir":"ltr","width":"0.43","height":"0.72","transform":["0.72","0.00","0.00","0.72","171.83","49.57"],"x":171.82932,"y":49.56615,"line":8,"block":8}
-{"page":6,"change":"ContentChange","types":["CODE"],"str":"'*\"^\" '^'","block":9,"line":9,"x":176.7141,"y":52.72689,"width":"21.84","height":"5.65","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"ContentChange","types":["CODE"],"str":"J > . ' 5","block":10,"line":10,"x":215.505,"y":63.50214,"width":"9.05","height":"3.35","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"ContentChange","types":["CODE"],"str":"NICHOLS AND NoC|TE>3.","block":6,"line":7,"x":78.44382,"y":65.08251,"width":"106.31","height":"12.05","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"ContentChange","types":["CODE"],"str":"iS6S.","dir":"ltr","width":"20.40","height":"6.80","transform":["6.80","0.00","0.00","6.80","131.31","48.56"],"x":131.31438,"y":48.56046,"line":8,"block":7}
+{"page":6,"change":"ContentChange","types":["CODE"],"str":"'","dir":"ltr","width":"0.43","height":"0.72","transform":["0.72","0.00","0.00","0.72","171.83","49.57"],"x":171.82932,"y":49.56615,"line":9,"block":8}
+{"page":6,"change":"ContentChange","types":["CODE"],"str":"'*\"^\" '^'","block":9,"line":10,"x":176.7141,"y":52.72689,"width":"21.84","height":"5.65","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"ContentChange","types":["CODE"],"str":"J > . ' 5","block":10,"line":11,"x":215.505,"y":63.50214,"width":"9.05","height":"3.35","fontName":[null],"dir":["ltr"]}
 {"page":7,"change":"ContentChange","types":["CODE"],"str":"THE NEW YORK","block":11,"line":0,"x":146.83074,"y":363.62877,"width":"58.62","height":"10.93","fontName":[null],"dir":["ltr"]}
 {"page":7,"change":"ContentChange","types":["CODE"],"str":"PUBLIC LIBRARY^","block":12,"line":1,"x":138.35421,"y":350.26745999999997,"width":"81.32","height":"9.70","fontName":[null],"dir":["ltr"]}
 {"page":7,"change":"ContentChange","types":["CODE"],"str":"793478 A","block":13,"line":2,"x":145.53771,"y":334.7511,"width":"65.37","height":"16.16","fontName":[null],"dir":["ltr"]}

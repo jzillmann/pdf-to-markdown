@@ -1,8 +1,8 @@
 {
   "pages": 140,
   "items": 25968,
-  "groupedItems": 3305,
-  "changes": 5,
+  "groupedItems": 3306,
+  "changes": 0,
   "schema": [
     {
       "name": "line"
@@ -31,4 +31,3 @@
   ],
   "globals": {}
 }
-{"page":6,"change":"ContentChange","str":"T OooulO^I ^ 4le.^A\\-^","line":0,"x":55.16928,"y":403.28168999999997,"width":"113.07","height":"23.47","fontName":[null],"dir":["ltr"]}

@@ -1,8 +1,8 @@
 {
   "pages": 137,
-  "items": 24829,
+  "items": 24828,
   "groupedItems": 3105,
-  "changes": 37,
+  "changes": 36,
   "schema": [
     {
       "name": "line"
@@ -38,9 +38,9 @@
   "globals": {}
 }
 {"page":3,"change":"ContentChange","types":["H1"],"str":"(l^,^^^^i^<jiM'^^^>^ ^","line":0,"x":35.055479999999996,"y":384.02991,"width":"97.70","height":"45.97","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"ContentChange","types":["H1"],"str":"T OooulO^I ^ 4le.^A\\-^","line":0,"x":55.16928,"y":403.28168999999997,"width":"113.07","height":"23.47","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"ContentChange","types":["H2"],"str":"LIFE OF GOD","line":2,"x":39.22191,"y":324.40686,"width":"161.05","height":"32.33","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"ContentChange","types":["H5"],"str":"SOUL OF MAN","line":3,"x":75.13941,"y":226.56759,"width":"104.45","height":"21.23","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"ContentChange","types":["H1"],"str":"OooulO^I ^ 4le.^A\\-^","line":0,"x":58.18635,"y":417.79236,"width":"98.99","height":"11.34","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"ContentChange","types":["H2"],"str":"LIFE OF GOD","line":3,"x":39.22191,"y":324.40686,"width":"161.05","height":"32.33","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"ContentChange","types":["H5"],"str":"SOUL OF MAN","line":4,"x":75.13941,"y":226.56759,"width":"104.45","height":"21.23","fontName":[null],"dir":["ltr"]}
 {"page":18,"change":"ContentChange","types":["H6"],"str":"THE LIFE OF GOD","line":0,"x":63.07113,"y":257.16929999999996,"width":"123.13","height":"18.12","fontName":[null],"dir":["ltr"]}
 {"page":24,"change":"ContentChange","types":["H2"],"str":"T CHOOSE to express it by the name oi life","line":9,"x":28.302989999999998,"y":219.38409,"width":"172.55","height":"13.01","fontName":[null],"dir":["ltr"]}
 {"page":30,"change":"ContentChange","types":["H2"],"str":"T3 Y this time I hope it doth appear, that","line":2,"x":33.33144,"y":324.26319,"width":"156.17","height":"13.41","fontName":[null],"dir":["ltr"]}

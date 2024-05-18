@@ -1,7 +1,7 @@
 {
   "pages": 140,
   "items": 25968,
-  "groupedItems": 3305,
+  "groupedItems": 3306,
   "changes": 3239,
   "schema": [
     {
@@ -33,12 +33,12 @@
   "globals": {}
 }
 {"page":3,"change":"Addition","str":"(l^,^^^^i^<jiM'^^^>^ ^","line":0,"x":35.055479999999996,"y":384.02991,"width":"97.70","height":"45.97","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"Addition","str":"OooulO^I ^ 4le.^A\\-^ T","line":0,"x":55.16928,"y":403.28168999999997,"width":"113.07","height":"23.47","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"Addition","str":"LIFE OF GOD","line":2,"x":39.22191,"y":324.40686,"width":"161.05","height":"32.33","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"Addition","str":"SOUL OF MAN","line":3,"x":75.13941,"y":226.56759,"width":"104.45","height":"21.23","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"Addition","str":"NICHOLS AND NoC|TE>3.","line":6,"x":78.44382,"y":65.08251,"width":"106.31","height":"12.05","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"Addition","str":"'*\"^\" '^'","line":9,"x":176.7141,"y":52.72689,"width":"21.84","height":"5.65","fontName":[null],"dir":["ltr"]}
-{"page":6,"change":"Addition","str":"J > . ' 5","line":10,"x":215.505,"y":63.50214,"width":"9.05","height":"3.35","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"OooulO^I ^ 4le.^A\\-^","line":0,"x":58.18635,"y":417.79236,"width":"98.99","height":"11.34","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"LIFE OF GOD","line":3,"x":39.22191,"y":324.40686,"width":"161.05","height":"32.33","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"SOUL OF MAN","line":4,"x":75.13941,"y":226.56759,"width":"104.45","height":"21.23","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"NICHOLS AND NoC|TE>3.","line":7,"x":78.44382,"y":65.08251,"width":"106.31","height":"12.05","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"'*\"^\" '^'","line":10,"x":176.7141,"y":52.72689,"width":"21.84","height":"5.65","fontName":[null],"dir":["ltr"]}
+{"page":6,"change":"Addition","str":"J > . ' 5","line":11,"x":215.505,"y":63.50214,"width":"9.05","height":"3.35","fontName":[null],"dir":["ltr"]}
 {"page":7,"change":"Addition","str":"THE NEW YORK","line":0,"x":146.83074,"y":363.62877,"width":"58.62","height":"10.93","fontName":[null],"dir":["ltr"]}
 {"page":7,"change":"Addition","str":"PUBLIC LIBRARY^","line":1,"x":138.35421,"y":350.26745999999997,"width":"81.32","height":"9.70","fontName":[null],"dir":["ltr"]}
 {"page":7,"change":"Addition","str":"793478 A","line":2,"x":145.53771,"y":334.7511,"width":"65.37","height":"16.16","fontName":[null],"dir":["ltr"]}
