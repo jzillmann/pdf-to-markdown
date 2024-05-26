@@ -9,6 +9,7 @@
 ```
 1859–1930
 ```
+
 ### THE ADVENTURES OF
 
 ### SHERLOCK HOLMES
@@ -18,6 +19,7 @@ Published by
 PDFREEBOOKS.ORG
 Public domain. No rights reserved.
 ```
+
 #### Adventure I
 
 ## A Scandal In Bohemia
@@ -726,6 +728,7 @@ me reveal what you wanted to know. Even after I became suspicious,
 I found it hard to think evil of such a dear, kind old clergyman. But,
 you know, I have been trained as an actress myself. Male costume
 ```
+
 ```
 is nothing new to me. I often take advantage of the freedom which
 it gives. I sent John, the coachman, to watch you, ran up stairs, got
@@ -745,10 +748,12 @@ always secure me from any steps which he might take in the future.
 I leave a photograph which he might care to possess; and I remain,
 dear Mr. Sherlock Holmes,
 ```
+
 ```
 Very truly yours,
 IRENE NORTON, ne A ́ DLER.”
 ```
+
 “What a woman—oh, what a woman!” cried the King of Bohemia, when we
 had all three read this epistle. “Did I not tell you how quick and resolute she was?
 Would she not have made an admirable queen? Is it not a pity that she was not on
@@ -893,6 +898,7 @@ twenty-one years, are eligible. Apply in person on Monday, at eleven
 o’clock, to Duncan Ross, at the offices of the League, 7 Pope’s Court,
 Fleet Street.”
 ```
+
 “What on earth does this mean?” I ejaculated after I had twice read over the
 extraordinary announcement.
 Holmes chuckled and wriggled in his chair, as was his habit when in high spir-
@@ -1106,6 +1112,7 @@ IS
 DISSOLVED.
 October 9, 1890.
 ```
+
 Sherlock Holmes and I surveyed this curt announcement and the rueful face
 behind it, until the comical side of the affair so completely overtopped every other
 consideration that we both burst out into a roar of laughter.
@@ -2098,12 +2105,14 @@ E were seated at breakfast one morning, my wife and I, when the maid
 brought in a telegram. It was from Sherlock Holmes and ran in this
 way:
 ```
+
 ```
 “Have you a couple of days to spare? Have just been wired for
 from the west of England in connection with Boscombe Valley tra-
 gedy. Shall be glad if you will come with me. Air and scenery perfect.
 Leave Paddington by the 11:15.”
 ```
+
 “What do you say, dear?” said my wife, looking across at me. “Will you go?”
 “I really don’t know what to say. I have a fairly long list at present.”
 “Oh, Anstruther would do your work for you. You have been looking a little
@@ -2306,6 +2315,7 @@ Witness: ‘He mumbled a few words, but I could only catch some
 allusion to a rat.’
 The Coroner: ‘What did you understand by that?’
 ```
+
 ```
 Witness: ‘It conveyed no meaning to me. I thought that he was
 delirious.’
@@ -2349,6 +2359,7 @@ yards of it?’
 ‘Yes, but with my back towards it.’
 This concluded the examination of the witness.
 ```
+
 “I see,” said I as I glanced down the column, “that the coroner in his concluding
 remarks was rather severe upon young McCarthy. He calls attention, and with
 
@@ -3201,6 +3212,7 @@ St. Augustine.
 10th. John Swain cleared.
 12th. Visited Paramore. All well.”
 ```
+
 “Thank you!” said Holmes, folding up the paper and returning it to our visitor.
 “And now you must on no account lose another instant. We cannot spare time even
 to discuss what you have told me. You must get home instantly and act.”
@@ -3403,6 +3415,7 @@ the deceased had been the victim of an unfortunate accident, which
 should have the effect of calling the attention of the authorities to the
 condition of the riverside landing-stages.”
 ```
+
 We sat in silence for some minutes, Holmes more depressed and shaken than
 I had ever seen him.
 “That hurts my pride, Watson,” he said at last. “It is a petty feeling, no doubt,
@@ -4448,6 +4461,7 @@ table. Ryder instantly gave the alarm, and Horner was arrested the
 same evening; but the stone could not be found either upon his person
 or in his rooms. Catherine Cusack, maid to the Countess, deposed to
 ```
+
 ```
 having heard Ryder’s cry of dismay on discovering the robbery, and
 to having rushed into the room, where she found matters as described
@@ -4459,6 +4473,7 @@ fused to deal summarily with the offence, but referred it to the Assizes.
 Horner, who had shown signs of intense emotion during the proceed-
 ings, fainted away at the conclusion and was carried out of court.”
 ```
+
 “Hum! So much for the police-court,” said Holmes thoughtfully, tossing aside
 the paper. “The question for us now to solve is the sequence of events leading from
 a rifled jewel-case at one end to the crop of a goose in Tottenham Court Road at
@@ -5747,6 +5762,7 @@ I took it up and glanced at it.
 “Mr. Victor Hatherley, hydraulic engineer, 16A, Victoria Street (3rd
 floor).”
 ```
+
 That was the name, style, and abode of my morning visitor. “I regret that I have
 kept you waiting,” said I, sitting down in my library-chair. “You are fresh from
 a night journey, I understand, which is in itself a monotonous occupation.”
@@ -6523,6 +6539,7 @@ that he had seen a lady leave the house thus apparelled, but had refused
 to credit that it was his mistress, believing her to be with the company.
 On ascertaining that his daughter had disappeared, Mr. Aloysius Do-
 ```
+
 ```
 ran, in conjunction with the bridegroom, instantly put themselves in
 communication with the police, and very energetic inquiries are be-
@@ -6534,6 +6551,7 @@ caused the arrest of the woman who had caused the original distur-
 bance, in the belief that, from jealousy or some other motive, she may
 have been concerned in the strange disappearance of the bride.”
 ```
+
 “And is that all?”
 “Only one little item in another of the morning papers, but it is a suggestive
 one.”
@@ -7633,6 +7651,7 @@ worry about my future, for that is provided for; and, above all, do not
 search for me, for it will be fruitless labour and an ill-service to me.
 In life or in death, I am ever your loving,—MARY.’
 ```
+
 “What could she mean by that note, Mr. Holmes? Do you think it points to
 suicide?”
 “No, no, nothing of the kind. It is perhaps the best possible solution. I trust,
@@ -8033,6 +8052,7 @@ you. They are not very exacting, after all. My wife is fond of a par-
 ticular shade of electric blue and would like you to wear such a dress
 indoors in the morning. You need not, however, go to the expense of
 ```
+
 ```
 purchasing one, as we have one belonging to my dear daughter Alice
 (now in Philadelphia), which would, I should think, fit you very well.
@@ -8046,6 +8066,7 @@ are very light. Now do try to come, and I shall meet you with the dog-
 cart at Winchester. Let me know your train. Yours faithfully, JEPHRO
 RUCASTLE.”
 ```
+
 “That is the letter which I have just received, Mr. Holmes, and my mind is
 made up that I will accept it. I thought, however, that before taking the final step
 I should like to submit the whole matter to your consideration.”

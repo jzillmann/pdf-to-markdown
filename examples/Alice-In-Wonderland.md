@@ -10,6 +10,7 @@ with fourty-two illustrations by John Tenniel
 This book is in public domain.
 No rigths reserved. Free for copy and distribution.
 ```
+
 This PDF book is designed and published by PDFREEBOOKS.ORG
 
 ## Poem
@@ -37,6 +38,7 @@ Anon, to sudden silence won,
 In fancy they pursue
 The dream-child moving through a land
 ```
+
 ```
 Of wonders wild and new,
 In friendly chat with bird or beast –
@@ -60,6 +62,7 @@ In Memory’s mystic band,
 Like pilgrim’s wither’d wreath of flowers
 Pluck’d in a far-off land.
 ```
+
 ## Chapter I
 
 ## Down the Rabbit-Hole
@@ -245,6 +248,7 @@ So she set to work, and very soon finished off the cake.
 ```
 * * * * * * * * * *
 ```
+
 ## Chapter II
 
 ## The Pool of Tears
@@ -273,6 +277,7 @@ HEARTHRUG,
 NEAR THE FENDER,
 (WITH ALICE’S LOVE).
 ```
+
 Oh dear, what nonsense I’m talking!’
 Just then her head struck against the roof of the hall;
 in fact she was now more than nine feet high and she at
@@ -336,6 +341,7 @@ How neatly spread his claws,
 And welcome little fishes in
 With gently smiling jaws!’
 ```
+
 ‘I’m sure those are not the right words,’ said poor Alice, and her eyes filled
 with tears again as she went on, ‘I must be Mabel after all, and I shall have to go
 and live in that poky little house and have next to no toys to play with, and oh! ever
@@ -924,6 +930,7 @@ Alice folded her hands, and began:
 And yet you incessantly stand on your head –
 Do you think, at your age, it is right?’
 ```
+
 ```
 ‘In my youth,’ Father William replied to his son,
 ‘I feared it might injure the brain;
@@ -934,12 +941,14 @@ And have grown most uncommonly fat;
 Yet you turned a back-somersault in at the door –
 Pray, what is the reason of that?’
 ```
+
 ```
 ‘In my youth,’ said the sage, as he shook his grey locks,
 ‘I kept all my limbs very supple
 By the use of this ointment – one shilling the box –
 Allow me to sell you a couple?’
 ```
+
 ‘You are old,’ said the youth, ‘and your jaws are too weak
 For anything tougher than suet;
 Yet you finished the goose, with the bones and the beak –
@@ -951,18 +960,21 @@ And argued each case with my wife;
 And the muscular strength, which it gave to my jaw,
 Has lasted the rest of my life.’
 ```
+
 ```
 ‘You are old,’ said the youth, ‘one would hardly suppose
 That your eye was as steady as ever;
 Yet you balanced an eel on the end of your nose –
 What made you so awfully clever?’
 ```
+
 ```
 ‘I have answered three questions, and that is enough,’
 Said his father; ‘don’t give yourself airs!
 Do you think I can listen all day to such stuff?
 Be off, or I’ll kick you down stairs!’
 ```
+
 ‘That is not said right,’ said the Caterpillar.
 ‘Not quite right, I’m afraid,’ said Alice, timidly, ‘some of the words have got
 altered.’
@@ -1210,6 +1222,7 @@ Chorus
 (in which the cook and the baby joined)
 ‘Wow! wow! wow!’
 ```
+
 While the Duchess sang the second verse of the song, she kept tossing the
 baby violently up and down and the poor little thing howled so, that Alice could
 hardly hear the words:
@@ -1222,6 +1235,7 @@ The pepper when he pleases!’
 Chorus
 ‘Wow! wow! wow!’
 ```
+
 ‘Here! you may nurse it a bit, if you like!’ the Duchess said to Alice, flinging
 the baby at her as she spoke, ‘I must go and get ready to play croquet with the
 Queen,’ and she hurried out of the room. The cook threw a frying-pan after her as
@@ -1472,16 +1486,19 @@ I had to sing
 “Twinkle, twinkle, little bat!
 How I wonder what you’re at!”
 ```
+
 ```
 You know the song, perhaps?’
 ‘I’ve heard something like it,’ said Alice.
 ‘It goes on, you know,’ the Hatter continued, ‘in this way:
 ```
+
 ```
 “Up above the world you fly,
 Like a tea-tray in the sky.
 Twinkle, twinkle – ” ’
 ```
+
 Here the Dormouse shook itself and began singing in its sleep ‘Twinkle, twin-
 kle, twinkle, twinkle – ’ and went on so long that they had to pinch it to make it
 stop.
@@ -2133,6 +2150,7 @@ They are waiting on the shingle – will you come and join the dance?
 Will you, won’t you, will you, won’t you, will you join the dance?
 Will you, won’t you, will you, won’t you, won’t you join the dance?
 ```
+
 ```
 “You can really have no notion how delightful it will be
 When they take us up and throw us, with the lobsters, out to sea!”
@@ -2143,12 +2161,14 @@ Would not, could not, would not, could not, could not join the dance.
 ‘ “What matters it how far we go?” his scaly friend replied.
 “There is another shore, you know, upon the other side.
 ```
+
 ```
 The further off from England the nearer is to France –
 Then turn not pale, beloved snail, but come and join the dance.
 Will you, won’t you, will you, won’t you, will you join the dance?
 Will you, won’t you, will you, won’t you, won’t you join the dance?” ’
 ```
+
 ‘Thank you, it’s a very interesting dance to watch,’ said Alice, feeling very
 glad that it was over at last, ‘and I do so like that curious song about the whiting!’
 ‘Oh, as to the whiting,’ said the Mock Turtle, ‘they – you’ve seen them, of
@@ -2228,6 +2248,7 @@ And will talk in contemptuous tones of the Shark,
 But, when the tide rises and sharks are around,
 His voice has a timid and tremulous sound.
 ```
+
 ‘That’s different from what I used to say when
 I was a child,’ said the Gryphon.
 ‘Well, I never heard it before,’ said the Mock
@@ -2260,6 +2281,7 @@ Was kindly permitted to pocket the spoon;
 While the Panther received knife and fork with a growl,
 And concluded the banquet –
 ```
+
 ‘What is the use of repeating all that stuff,’ the Mock Turtle interrupted, ‘if you
 don’t explain it as you go on? It’s by far the most confusing thing I ever heard!’
 ‘Yes, I think you’d better leave off,’ said the Gryphon; and Alice was only too
@@ -2293,6 +2315,7 @@ Beau – ootiful Soo – oop!
 Soo – oop of the e – e – evening,
 Beautiful, beauti – ful Soup!’
 ```
+
 ‘Chorus again!’ cried the Gryphon, and the Mock Turtle had just begun to
 repeat it, when a cry of ‘The trial’s beginning!’ was heard in the distance.
 ‘Come on!’ cried the Gryphon, and, taking Alice by the hand, it hurried off,
@@ -2305,6 +2328,7 @@ breeze that followed them, the melancholy words:
 ‘Soo – oop of the e – e – evening,
 Beautiful, beautiful Soup!’
 ```
+
 ## Chapter XI
 
 ## Who Stole the Tarts?
@@ -2369,6 +2393,7 @@ All on a summer day;
 The Knave of Hearts, he stole those tarts,
 And took them quite away!’
 ```
+
 ‘Consider your verdict,’ the King said to the jury.
 ‘Not yet, not yet!’ the Rabbit hastily interrupted, ‘There’s a great deal to come
 before that!’
@@ -2616,6 +2641,7 @@ What would become of you?
 I gave her one, they gave him two,
 You gave us three or more;
 ```
+
 ```
 They all returned from him to you,
 Though they were mine before.
@@ -2632,6 +2658,7 @@ For this must ever be
 A secret kept from all the rest,
 Between yourself and me.’
 ```
+
 ‘That’s the most important piece of evidence we’ve heard yet,’ said the King,
 rubbing his hands, ‘so now let the jury – ’
 ‘If any one of them can explain it,’ said Alice, (she had grown so large in the

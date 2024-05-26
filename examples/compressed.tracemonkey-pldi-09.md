@@ -7,17 +7,23 @@ Andreas Gal∗+, Brendan Eich∗, Mike Shaver∗, David Anderson∗, David Mande
 Mohammad R. Haghighat$, Blake Kaplan∗, Graydon Hoare∗, Boris Zbarsky∗, Jason Orendorff∗,
 Jesse Ruderman∗, Edwin Smith#, Rick Reitmaier#, Michael Bebenita+, Mason Chang+#, Michael Franz+
 ```
+
 ```
 Mozilla Corporation∗
 {gal,brendan,shaver,danderson,dmandelin,mrbkap,graydon,bz,jorendorff,jruderman}@mozilla.com
 ```
+
 ```
 Adobe Corporation#
 {edwsmith,rreitmai}@adobe.com
 ```
+
 ```
 Intel Corporation$
 {mohammad.r.haghighat}@intel.com
+```
+
+```
 University of California, Irvine+
 {mbebenit,changm,franz}@uci.edu
 ```
@@ -39,7 +45,7 @@ have measured speedups of 10x and more for certain benchmark
 programs.
 
 Categories and Subject Descriptors D.3.4 [Programming Lan-
-guages]: Processors —Incremental compilers, code generation.
+guages]: Processors — Incremental compilers, code generation.
 
 General Terms Design, Experimentation, Measurement, Perfor-
 mance.
@@ -103,6 +109,7 @@ one mapping of values to types. When the VM executes a compiled
 trace, it cannot guarantee that the same path will be followed
 or that the same types will occur in subsequent loop iterations.
 ```
+
 Hence, recording and compiling a tracespeculatesthat the path and
 typing will be exactly as they were during recording for subsequent
 iterations of the loop.
@@ -177,82 +184,102 @@ Section 8. In Section 7 we evaluate our dynamic compiler based on
 5 primes[k] = false;
 6 }
 ```
+
 ```
 Figure 1. Sample program: sieve of Eratosthenes. primes is
 initialized to an array of 100 false values on entry to this code
 snippet.
 ```
+
 ```
 Interpret
 Bytecodes
 ```
+
 ```
 Monitor
 ```
+
 ```
 Record
-LIRTrace
+LIR Trace
 ```
+
 ```
 Execute
-CompiledTrace
+Compiled Trace
 ```
+
 ```
 Enter
-CompiledTrace
+Compiled Trace
 ```
+
 ```
 Compile
-LIRTrace
+LIR Trace
 ```
+
 ```
 Leave
-CompiledTrace
+Compiled Trace
 ```
+
 ```
 loop
 edge
 ```
+
 ```
 hot
 loop/exit
 ```
+
 ```
 abort
 recording
 ```
+
 ```
 finish at
 loop header
 ```
+
 ```
 cold/blacklisted
 loop/exit
 ```
+
 ```
 compiled trace
 ready
 ```
+
 ```
 loop edge with
 same types
 ```
+
 ```
 side exit to
 existing trace
 ```
+
 ```
 side exit,
 no existing trace
 ```
+
 ```
 Overhead
 Interpreting
 Native
 ```
+
 ```
 Symbol Key
 ```
+
 ```
 Figure 2. State machine describing the major activities of Trace-
 Monkey and the conditions that cause transitions to a new activ-
@@ -264,10 +291,12 @@ the white boxes. The best case is a loop where the types at the loop
 edge are the same as the types on entry–then TM can stay in native
 code until the loop is done.
 ```
+
 ```
 a set of industry benchmarks. The paper ends with conclusions in
 Section 9 and an outlook on future work is presented in Section 10.
 ```
+
 2. Overview: Example Tracing Run
 This section provides an overview of our system by describing
 how TraceMonkey executes an example program. The example
@@ -370,6 +399,7 @@ the current trace. Recording continues until execution reaches line
 1, and at which point TraceMonkey finishes and compiles a trace
 for the outer loop, T16.
 ```
+
 i=4.On this iteration, TraceMonkey calls_T_[^16]:. Becausei=4, the
 if statement on line 2 is taken. This branch was not taken in the
 original trace, so this causes _T_[^16]: to fail a guard and take a side exit.
@@ -501,6 +531,7 @@ relationships and object representations can change during execu-
 tion, so the simplified code requires guard instructions that ensure
 the object representation is the same. In TraceMonkey, objects’ rep-
 ```
+
 resentations are assigned an integer key called the object shape.
 Thus, the guard is a simple equality check on the object shape.
 Representation specialization: numbers. JavaScript has no
@@ -633,6 +664,7 @@ a counter for each side exit, and when the counter reaches a hotness
 threshold, recording starts. Recording stops exactly as for the root
 trace, using the loop header of the root trace as the target to reach.
 ```
+
 Our implementation does not extend at all side exits. It extends
 only if the side exit is for a control-flow branch, and only if the side
 exit does not leave the loop. In particular we do not want to extend
@@ -702,18 +734,22 @@ at that point. For example, the first recorded trace may be a cycle
 ```
 T
 ```
+
 ```
 Trunk Trace
 ```
+
 ```
 Tree Anchor
 ```
+
 ```
 Trace Anchor
 Branch Trace
 Guard
 Side Exit
 ```
+
 ```
 Figure 5. A tree with two traces, a trunk trace and one branch
 trace. The trunk trace contains a guard to which a branch trace was
@@ -721,56 +757,73 @@ attached. The branch trace contain a guard that may fail and trigger
 a side exit. Both the trunk and the branch trace loop back to the tree
 anchor, which is the beginning of the trace tree.
 ```
+
 ```
 Trace 1 Trace 2 Trace 1 Trace 2
 ```
+
 ```
 Closed Linked Linked Linked
 ```
+
 ```
 Number
 ```
+
 ```
 Number
 ```
+
 ```
 String
 ```
+
 ```
 String String
 String
 ```
+
 ```
 Boolean
 ```
+
 ```
 Trace 1 Trace 2 Trace 3
 ```
+
 ```
 Linked
 Linked Linked Closed
 ```
+
 ```
 Number
 ```
+
 ```
 Number Number
 ```
+
 ```
 Boolean Number
 ```
+
 ```
 Boolean Number
 ```
+
 ```
 Boolean
 ```
+
 ```
 (a) (b)
 ```
+
 ```
 (c)
 ```
+
 ```
 Figure 6. We handle type-unstable loops by allowing traces to
 compile that cannot loop back to themselves due to a type mis-
@@ -782,6 +835,7 @@ call an inner tree (or in this case a forest of inner trees), since inner
 loops frequently have initially undefined values which change type
 to a concrete value after the first iteration.
 ```
+
 ```
 through the inner loop, {i2, i3, i5, α}. The α symbol is used to
 indicate that the trace loops back the tree anchor.
@@ -797,45 +851,59 @@ exit, recording another branch trace incorporating the outer loop:
 {i2, i4, i5, i7, i1, i6, i7, i1, α}. Thus, the outer loop is recorded and
 compiled twice, and both copies must be retained in the trace cache.
 ```
+
 ```
 i2
 ```
+
 ```
 i3 i4
 ```
+
 ```
 i5
 ```
+
 ```
 i1
 ```
+
 ```
 i6
 ```
+
 ```
 i7
 ```
+
 ```
 t1
 ```
+
 ```
 t2
 ```
+
 ```
 Tree Call
 ```
+
 ```
 Outer Tree
 ```
+
 ```
 Nested Tree
 ```
+
 ```
 Exit Guard
 ```
+
 ```
 (a) (b)
 ```
+
 Figure 7. Control flow graph of a nested loop with an if statement
 inside the inner most loop (a). An inner tree captures the inner
 loop, and is nested inside an outer tree which “calls” the inner tree.
@@ -843,7 +911,7 @@ The inner tree returns to the outer tree once it exits along its loop
 condition guard (b).
 
 In general, if loops are nested to depth _k_, and each loop has _n_ paths
-(on geometric average), this näıve strategy yields _O_(_nk_) traces,
+(on geometric average), this na ̈ıve strategy yields _O_(_nk_) traces,
 which can easily fill the trace cache.
 In order to execute programs with nested loops efficiently, a
 tracing system needs a technique for covering the nested loops with
@@ -890,42 +958,54 @@ while saving only a few iterations in the interpreter.
 ```
 i2
 ```
+
 ```
 i3
 ```
+
 ```
 i1
 ```
+
 ```
 i6
 ```
+
 ```
 i4
 ```
+
 ```
 i5
 ```
+
 ```
 t2
 ```
+
 ```
 t1
 ```
+
 ```
 t4
 ```
+
 ```
 Exit Guard
 ```
+
 ```
 Nested Tree
 ```
+
 ```
 Figure 8. Control flow graph of a loop with two nested loops (left)
 and its nested trace tree configuration (right). The outer tree calls
 the two inner nested trace trees and places guards at their side exit
 locations.
 ```
+
 ```
 loop is entered with m different type maps (on geometric average),
 then we compile O(mk) copies of the innermost loop. As long as
@@ -948,6 +1028,7 @@ the inner tree. If an inner tree side exit happens during execution of
 a compiled trace for the outer tree, we simply exit the outer trace
 and start recording a new branch in the inner tree.
 ```
+
 ```
 4.2 Blacklisting with Nesting
 The blacklisting algorithm needs modification to work well with
@@ -967,6 +1048,7 @@ outer loop for aborting previously. We also undo the backoff so that
 the outer tree can start immediately trying to compile the next time
 we reach it.
 ```
+
 5. Trace Tree Optimization
 This section explains how a recorded trace is translated to an
 optimized machine code trace. The trace compilation subsystem,
@@ -1048,12 +1130,14 @@ xx1 number 31-bit integer representation
 null, or
 undefined
 ```
+
 ```
 Figure 9. Tagged values in the SpiderMonkey JS interpreter.
 Testing tags, unboxing (extracting the untagged value) and boxing
 (creating tagged values) are significant costs. Avoiding these costs
 is a key benefit of tracing.
 ```
+
 ```
 heuristic selects v with minimum vm. The motivation is that this
 frees up a register for as long as possible given a single spill.
@@ -1064,6 +1148,7 @@ vs was used. The register that was assigned to vs is marked free for
 the preceding code, because that register can now be used freely
 without affecting the following code
 ```
+
 6. Implementation
 To demonstrate the effectiveness of our approach, we have im-
 plemented a trace-based dynamic compiler for the SpiderMonkey
@@ -1106,6 +1191,7 @@ global values are then copied from the interpreter state to the trace
 activation record. Then, the trace is called like a normal C function
 pointer.
 ```
+
 When a trace call returns, the monitor restores the interpreter
 state. First, the monitor checks the reason for the trace exit and
 applies blacklisting if needed. Then, it pops or synthesizes inter-
@@ -1221,6 +1307,7 @@ codes only during recording. When running purely interpretatively
 (i.e. code that has been blacklisted), the interpreter directly and ef-
 ficiently executes the fat opcodes.
 ```
+
 ```
 6.4 Preemption
 SpiderMonkey, like many VMs, needs to preempt the user program
@@ -1240,6 +1327,7 @@ This solution can make the normal case slightly faster, but then
 preemption becomes very slow. The implementation was also very
 complex, especially trying to restart execution after the preemption.
 ```
+
 6.5 Calling External Functions
 
 Like most interpreters, SpiderMonkey has a foreign function inter-
@@ -1310,87 +1398,115 @@ ple, we suspected bugs in TraceMonkey’s handling of type-unstable
 ```
 !"# $!"# %!"# &!"# '!"# (!"# )!"# *!"# +!"# ,!"# $!!"#
 ```
+
 ```
 &-./012#3%4%56#
 ```
+
 ```
 &-.789:;#3%4,56#
 ```
+
 ```
 &-.9<=>9</2#3$4%56#
 ```
+
 ```
 <//2??.1@A<9=.>922?#3!4,56#
 ```
+
 ```
 <//2??.B<AAC0/;#3%4%56#
 ```
+
 ```
 <//2??.A18-=#3'4%56#
 ```
+
 ```
 <//2??.A?@2D2#3&4!56#
 ```
+
 ```
 1@>8:?.&1@>.1@>?.@A.1=>2#3%(4(56#
 ```
+
 ```
 1@>8:?.1@>?.@A.1=>2#3+4*56#
 ```
+
 ```
 1@>8:?.1@>E@?2.<A-#3%(4%56#
 ```
+
 ```
 1@>8:?.A?@2D2.1@>?#3%4*56#
 ```
+
 ```
 /8A>98FG8E.92/09?@D2#3$4!56#
 ```
+
 ```
 /9=:>8.<2?#3$4)56#
 ```
+
 ```
 /9=:>8.7-(#3%4&56#
 ```
+
 ```
 /9=:>8.?;<$#3(4,56#
 ```
+
 ```
 -<>2.B897<>.>8H2#3$4$56#
 ```
+
 ```
 -<>2.B897<>.5:<91#3$4!56#
 ```
+
 ```
 7<>;./89-@/#3'4,56#
 ```
+
 ```
 7<>;.:<9I<F.?07?#3(4,56#
 ```
+
 ```
 7<>;.?:2/>9<F.A897#3*4$56#
 ```
+
 ```
 92J25:.-A<#3'4%56#
 ```
+
 ```
 ?>9@AJ.1<?2)'#3%4(56#
 ```
+
 ```
 ?>9@AJ.B<?><#3$4(56#
 ```
+
 ```
 ?>9@AJ.><J/F80-#3$4$56#
 ```
+
 ```
 ?>9@AJ.0A:</C./8-2#3$4%56#
 ```
+
 ```
 ?>9@AJ.D<F@-<>2.@A:0>#3$4,56#
 ```
+
 ```
 KA>29:92># L<ID2#
 ```
+
 ```
 Figure 11. Fraction of dynamic bytecodes executed by inter-
 preter and on native traces. The speedup vs. interpreter is shown
@@ -1401,10 +1517,12 @@ recording. In most of the tests, almost all the bytecodes are exe-
 cuted by compiled traces. Three of the benchmarks are not traced
 at all and run in the interpreter.
 ```
+
 ```
 loops and heavily branching code, and a specialized fuzz tester in-
 deed revealed several regressions which we subsequently corrected.
 ```
+
 7. Evaluation
 We evaluated our JavaScript tracing implementation using Sun-
 Spider, the industry standard JavaScript benchmark suite. SunSpi-
@@ -1438,30 +1556,39 @@ spectral-norm, string-base64, string-validate-input).
 ```
 !"
 ```
+
 ```
 #"
 ```
+
 ```
 $!"
 ```
+
 ```
 $#"
 ```
+
 ```
 %!"
 ```
+
 ```
 %#"
 ```
+
 ```
 &'()*+,"
 ```
+
 ```
 -./"
 ```
+
 ```
 01"
 ```
+
 Figure 10. Speedup vs. a baseline JavaScript interpreter (SpiderMonkey) for our trace-based JIT compiler, Apple’s SquirrelFish Extreme
 inline threading interpreter and Google’s V8 JS compiler. Our system generates particularly efficient code for programs that benefit most from
 type specialization, which includes SunSpider Benchmark programs that perform bit manipulation. We type-specialize the code in question
@@ -1505,6 +1632,7 @@ forms one very long trace. We expect to improve performance
 on this programs by improving the compilation speed of nano-
 jit.
 ```
+
 • Some programs trace very well, and speed up compared to
 the interpreter, but are not as fast as SFX and/or V8, namely
 bitops-bits-in-byte, bitops-nsieve-bits, access-
@@ -1530,6 +1658,7 @@ simple model of tracing performance. These estimates should be
 considered very rough, as the values observed on the individual
 benchmarks have large standard deviations (on the order of the
 ```
+
 ```
 Loops Trees Traces Aborts Flushes Trees/Loop Traces/Tree Traces/Loop Speedup
 3d-cube 25 27 29 3 0 1.1 1.1 1.2 2.20x
@@ -1559,9 +1688,11 @@ string-tagcloud 3 6 6 5 0 2.0 1.0 2.0 1.09x
 string-unpack-code 4 4 37 0 0 1.0 9.3 9.3 1.20x
 string-validate-input 6 10 13 1 0 1.7 1.3 2.2 1.86x
 ```
+
 ```
 Figure 13. Detailed trace recording statistics for the SunSpider benchmark set.
 ```
+
 mean). We exclude regexp-dna from the following calculations,
 because most of its time is spent in the regular expression matcher,
 which has much different performance characteristics from the
@@ -1600,6 +1731,7 @@ outperform the fastest available JavaScript compiler (V8) and the
 fastest available JavaScript inline threaded interpreter (SFX) on 9
 of 26 benchmarks.
 ```
+
 8. Related Work
 Trace optimization for dynamic languages. The closest area of
 related work is on applying trace optimization to type-specialize
@@ -1633,87 +1765,115 @@ tually inlined parts of outer loops within the inner loops (because
 ```
 !"# $!"# %!"# &!"# '!"# (!!"#
 ```
+
 ```
 )*+,-./#0$1$23#
 ```
+
 ```
 )*+45678#0$1923#
 ```
+
 ```
 )*+6:;<6:,/#0(1$23#
 ```
+
 ```
 :,,/==+.>?:6;+<6//=#0!1923#
 ```
+
 ```
 :,,/==+@:??A-,8#0$1$23#
 ```
+
 ```
 :,,/==+?.5*;#0%1$23#
 ```
+
 ```
 :,,/==+?=>/B/#0)1!23#
 ```
+
 ```
 .><57=+).><+.><=+>?+.;</#0$C1C23#
 ```
+
 ```
 .><57=+.><=+>?+.;</#0'1D23#
 ```
+
 ```
 .><57=+.><E>=/+:?*#0$C1$23#
 ```
+
 ```
 .><57=+?=>/B/+.><=#0$1D23#
 ```
+
 ```
 ,5?<65FG5E+6/,-6=>B/#0(1!23#
 ```
+
 ```
 ,6;7<5+:/=#0(1&23#
 ```
+
 ```
 ,6;7<5+4*C#0$1)23#
 ```
+
 ```
 ,6;7<5+=8:(#0C1923#
 ```
+
 ```
 *:</+@564:<+<5H/#0(1(23#
 ```
+
 ```
 *:</+@564:<+27:6.#0(1!23#
 ```
+
 ```
 4:<8+,56*>,#0%1923#
 ```
+
 ```
 4:<8+7:6I:F+=-4=#0C1923#
 ```
+
 ```
 4:<8+=7/,<6:F+?564#0D1(23#
 ```
+
 ```
 6/J/27+*?:#0%1$23#
 ```
+
 ```
 =<6>?J+.:=/&%#0$1C23#
 ```
+
 ```
 =<6>?J+@:=<:#0(1C23#
 ```
+
 ```
 =<6>?J+<:J,F5-*#0(1(23#
 ```
+
 ```
 =<6>?J+-?7:,A+,5*/#0(1$23#
 ```
+
 ```
 =<6>?J+B:F>*:</+>?7-<#0(1923#
 ```
+
 ```
 K?</676/<# L5?><56# M/,56*# N547>F/# N:FF#O6:,/# M-?#O6:,/#
 ```
+
 Figure 12. Fraction of time spent on major VM activities. The
 speedup vs. interpreter is shown in parentheses next to each test.
 Most programs where the VM spends the majority of its time run-
@@ -1778,6 +1938,7 @@ Google’s V8 is a JavaScript implementation primarily based
 on inline threading, with call threading only for very complex
 operations.
 ```
+
 9. Conclusions
 This paper described how to run dynamic languages efficiently by
 recording hot traces and generating type-specialized native code.
@@ -1821,6 +1982,7 @@ reprints for Governmental purposes notwithstanding any copyright
 annotation thereon. Any opinions, findings, and conclusions or rec-
 ommendations expressed here are those of the author and should
 ```
+
 not be interpreted as necessarily representing the official views,
 policies or endorsements, either expressed or implied, of the Na-
 tional Science foundation (NSF), any other agency of the U.S. Gov-
@@ -1854,10 +2016,12 @@ gramming Language. In Proceedings of the ACM SIGPLAN 1989
 Conference on Programming Language Design and Implementation,
 pages 146–160. ACM New York, NY, USA, 1989.
 ```
+
 ```
 [10] A. Gal. Efficient Bytecode Verification and Compilation in a Virtual
 Machine Dissertation. PhD thesis, University Of California, Irvine,
 ```
+
 2006.
 [11] A. Gal, C. W. Probst, and M. Franz. HotpathVM: An effective JIT
 compiler for resource-constrained devices. In Proceedings of the

@@ -5,6 +5,7 @@
 ```
 Software for the automated detection of microplastic
 ```
+
 ```
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by
 the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0
@@ -14,9 +15,11 @@ acceptance of these terms and conditions, and the Licensor grants You such right
 consideration of benefits the Licensor receives from making the Licensed Material
 available under these terms and conditions.
 ```
+
 ```
 Section 1 – Definitions.
 ```
+
 a. Adapted Material means material subject to Copyright and Similar Rights that is derived
 from or based upon the Licensed Material and in which the Licensed Material is translated,
 altered, arranged, transformed, or otherwise modified in a manner requiring permission
@@ -76,6 +79,7 @@ License. Your has a corresponding meaning.
 ```
 Section 2 – Scope.
 ```
+
 a. License grant.
 
 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You
@@ -101,6 +105,7 @@ necessary to circumvent Effective Technological Measures. For purposes of this P
 License, simply making modifications authorized by this Section 2(a)(4) never produces
 Adapted Material.
 ```
+
 5. Downstream recipients.
 
 A. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material
@@ -137,9 +142,11 @@ Licensor expressly reserves any right to collect such royalties.
 ```
 Section 3 – License Conditions.
 ```
+
 ```
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 ```
+
 a. Attribution.
 
 1. If You Share the Licensed Material (including in modified form), You must:
@@ -151,6 +158,7 @@ receive attribution, in any reasonable manner requested by the Licensor (includi
 pseudonym if designated);
 ii. a copyright notice;
 ```
+
 iii. a notice that refers to this Public License;
 
 iv. a notice that refers to the disclaimer of warranties;
@@ -159,6 +167,7 @@ v. a URI or hyperlink to the Licensed Material to the extent reasonably practica
 ```
 Citing siMPle in academic papers:
 ```
+
 - Primpke, S., A. Dias, P., Gerdts, G., Anal. Methods 11, 2138–2147. (2019)
 - Liu, F., Olesen, K.B., Borregaard, A.R., Vollertsen, J., Sci. Total Environ. 671. (2019)
 - Raman database: Cabernard, L.; Roscher, L.; Lorenz, C.; Gerdts, G.; Primpke, S., Environmental Science
@@ -170,6 +179,7 @@ modifications; and
 C. indicate the Licensed Material is licensed under this Public License, and include the text
 of, or the URI or hyperlink to, this Public License.
 ```
+
 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the
 medium, means, and context in which You Share the Licensed Material. For example, it
 may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource
@@ -182,6 +192,7 @@ b. ShareAlike.
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce,
 the following conditions also apply.
 ```
+
 1. The Adapter’s License You apply must be a Creative Commons license with the same
 License Elements, this version or later, or a BY-SA Compatible License.
 2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply.
@@ -194,10 +205,12 @@ rights granted under the Adapter's License You apply.
 ```
 Section 4 – Sui Generis Database Rights.
 ```
+
 ```
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of
 the Licensed Material:
 ```
+
 a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse,
 reproduce, and Share all or a substantial portion of the contents of the database;
 
@@ -214,9 +227,11 @@ For the avoidance of doubt, this Section 4 supplements and does not replace Your
 obligations under this Public License where the Licensed Rights include other Copyright
 and Similar Rights.
 ```
+
 ```
 Section 5 – Disclaimer of Warranties and Limitation of Liability.
 ```
+
 a. Unless otherwise separately undertaken by the Licensor, to the extent possible, the
 Licensor offers the Licensed Material as-is and as-available, and makes no representations
 or warranties of any kind concerning the Licensed Material, whether express, implied,
@@ -241,6 +256,7 @@ and waiver of all liability.
 ```
 Section 6 – Term and Termination.
 ```
+
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here.
 However, if You fail to comply with this Public License, then Your rights under this Public
 License terminate automatically.
@@ -256,6 +272,7 @@ Your discovery of the violation; or
 For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may
 have to seek remedies for Your violations of this Public License.
 ```
+
 c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under
 separate terms or conditions or stop distributing the Licensed Material at any time;
 however, doing so will not terminate this Public License.
@@ -265,6 +282,7 @@ d. Sections [^1]:, [^5]:, [^6]:, [^7]:, and [^8]: survive termination of this Pu
 ```
 Section 7 – Other Terms and Conditions.
 ```
+
 a. The Licensor shall not be bound by any additional or different terms or conditions
 communicated by You unless expressly agreed.
 
@@ -275,6 +293,7 @@ Public License.
 ```
 Section 8 – Interpretation.
 ```
+
 a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to,
 reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could
 lawfully be made without permission under this Public License.
@@ -305,6 +324,8 @@ with any unauthorized modifications to any of its public licenses or any other
 arrangements, understandings, or agreements concerning use of licensed material. For
 the avoidance of doubt, this paragraph does not form part of the public licenses.
 ```
+
 ```
 Creative Commons may be contacted at creativecommons.org.
 ```
+

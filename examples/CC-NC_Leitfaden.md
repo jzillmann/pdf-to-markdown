@@ -7,17 +7,21 @@ Paul Klimpel
 Folgen, Risiken und Nebenwirkungen der Bedingung
 »nicht-kommerziell – NC«
 ```
+
 ```
 Alle diese Lizenztypen gibt es ergänzt um das NC-Modul (noncommercial; keine kommerzielle Nutzung
 erlaubt). Aus den drei oben beschriebenen Lizenztypen werden dadurch sechs, nämlich noch zusätzlich:
 ```
+
 ```
 Nur diese beiden Lizenztypen sind als freie Lizenzen im Sinne der Definition von freedomdefined.org anerkannt und stellen
 sicher, dass die damit versehenen Werke nachhaltig frei nutzbar bleiben.
 ```
+
 ```
 AttributioN; NAMeNSNeNNuNg
 ```
+
 ```
 Neben dem Hinweis auf den Autor, die Quelle,
 rechteinhaber und die Lizenz enthält diese CC-Va-
@@ -26,29 +30,34 @@ er ist in der Verwendung des Werkes frei, kann es in
 jeder Form bearbeiten. Damit ist auch die Nutzung
 in remixes oder Mashups möglich.
 ```
+
 ```
 AttributioN – SHAre ALike;
 NAMeNSNeNNuNg – WeitergAbe
 uNter gLeiCHeN beDiNguNgeN
 ```
+
 ```
 Auch dieser Lizenztyp erlaubt sowohl bearbeitungen
 als auch kommerzielle Nutzungen. bearbeitungen
 dürfen aber nur unter den gleichen oder vergleich-
 baren Lizenzbestimmungen veröffentlicht werden.
 ```
+
 ```
 AttributioN – No
 DeriVAtiVeS; NAMeNS-
 NeNNuNg – keiNe
 beArbeituNg
 ```
+
 ```
 Dieser Lizenztyp gestattet
 keine bearbeitungen. kommer-
 zielle Nutzungen sind dagegen
 erlaubt.
 ```
+
 ### CC-Lizenzen
 
 ```
@@ -57,6 +66,7 @@ sende Verzichtserklärung hinsichtlich aller rechte. Dadurch soll urhebern die M
 gegeben werden, ihre eigenen Werke selbst in die gemeinfreiheit zu überführen. CC0 soll nach der Vor-
 stellung von Creative Commons besonders für Datenbanken geeignet sein.
 ```
+
 ## vorWort
 
 Weltweit nutzen immer mehr Menschen die Jedermann-Lizenzen von Creative Commons (CC),
@@ -122,6 +132,7 @@ oder Rechteinhaber die Befugnisse des Urheber-
 rechts vor. Erreicht wird das über ein Baukasten-
 system aus verschiedenen Lizenzmodulen.
 ```
+
 ```
 Unter den unterschiedlichen Modulen der Crea-
 tive-Commons-Lizenzen erfreut sich insbesonde-
@@ -139,6 +150,7 @@ Kompilationen und Mashups – und das, obwohl
 oft gerade solche Nutzungen von den Urhebern
 sogar gewünscht werden.
 ```
+
 ```
 Diese Broschüre klärt darüber auf, welche Folgen
 die Einschränkung der CC-Lizenz auf nicht-
@@ -153,6 +165,7 @@ ungewollte Folgen für die Verbreitung von Inhal-
 ten. Die Entscheidung für das NC-Modul sollte
 daher wohl überlegt sein.
 ```
+
 #### Stell dir eine Welt vor, in der
 
 #### jeder Mensch an der Gesamtheit
@@ -194,6 +207,7 @@ gemacht werden. Das Ideal des freien Wissen, je-
 derzeit für jedermann zugänglich, braucht eine
 internettaugliche rechtliche Fundierung.
 ```
+
 ```
 Insbesondere Wissenschaftler haben die großen
 Potentiale des Internets und eines freien Aus-
@@ -202,6 +216,7 @@ deutsche Wissenschaftsorganisationen in der
 Berliner Erklärung den freien Zugang zu wis-
 senschaftlichen Werken:
 ```
+
 ```
 »Unsere Aufgabe Wissen weiterzugeben ist nur
 halb erfüllt, wenn diese Informationen für die
@@ -222,6 +237,7 @@ kunft durch Nachhaltigkeit, Interaktivität und
 Transparenz auszeichnet. Inhalte und Software
 müssen offen zugänglich und kompatibel sein.«
 ```
+
 ```
 Im Bereich der Software wurde dafür das Open-
 Source-Prinzip entwickelt. Open Source bedeu-
@@ -294,6 +310,7 @@ DAMIt SIE LEIChtER
 GENUtZt WERDEN
 KöNNEN.
 ```
+
 ```
 Viele Kreative wollen, dass ihre Texte, ihre
 Musik oder ihre Filme von möglichst vielen
@@ -319,6 +336,7 @@ ausdrücken können: »Jeder darf meine Inhalte
 in folgender Weise und unter folgenden Bedin-
 gungen nutzen.«
 ```
+
 Zur Verbreitung der CC-Lizenzen hat beigetra-
 gen, dass sie – gerade im Vergleich zu anderen
 Lizenzbedingungen – verhältnismäßig einfach
@@ -366,6 +384,7 @@ BERüCKSIChtIGEN DIE UNtER-
 SChIEDLIChEN INtERESSEN
 DER URhEBER.
 ```
+
 ```
 Gemeinsam ist allen CC-Lizenzvarianten die
 Haltung, dass sie die Nutzung von Inhalten er-
@@ -385,6 +404,7 @@ das Modul Keine Bearbeitung (abgekürzt ND
 – no derivatives) absichern und trotzdem andere
 Nutzungen ihres Werks erlauben.
 ```
+
 ```
 Anderen ist dagegen es besonders wichtig, dass
 ihre Werke in Collagen, Remixes und Mashups
@@ -392,6 +412,7 @@ verwendet werden dürfen. Sie begreifen das
 Schaffen von Inhalten lediglich als Zwischen-
 stadium in einem Prozess. Ihre eigenen Inhalte
 ```
+
 sind aus Altem entstanden und sollen zu Neu-
 em weiterentwickelt werden. Wer aus dieser
 Haltung heraus eine CC-Lizenz vergibt, wird
@@ -434,6 +455,7 @@ KöNNEN NICht SO WEIt UND
 NICht SO LEICht VERBREItEt
 WERDEN.
 ```
+
 ```
 Wenn man seine Inhalte als NC kennzeichnet,
 können sie nicht in freie Wissensdatenbanken
@@ -449,6 +471,7 @@ gration in Suchmaschinen; beides zählt aber als
 kommerzielle Nutzung und wäre laut NC-Mo-
 dul nicht erlaubt.
 ```
+
 ```
 Im Bereich von Bildung und Weiterbildung sind
 ein großer Teil der Institutionen auf eigene Ein-
@@ -457,6 +480,7 @@ nahmen angewiesen, da sie nicht (ausschließlich)
 Einnahmen führt jedoch dazu, dass diese Institu-
 tionen als kommerziell gelten müssen. Sie dürfen
 ```
+
 also Inhalte, die mit einer CC-Lizenz versehen
 sind, die das NC-Modul beinhaltet, nicht ohne
 Nachfrage nutzen.
@@ -497,6 +521,7 @@ len will. Und auf diese sind alle angewiesen,
 die nicht durch den Staat oder durch Spenden
 finanziert werden.
 ```
+
 ```
 Ganz klar eine kommerzielle Nutzung ist es,
 wenn ein Unternehmen ein Bild oder einen
@@ -510,6 +535,7 @@ tenzuschuss bezahlen musste, um die Publikation
 überhaupt zu ermöglichen. Der Verlag als solches
 handelt in jedem Fall kommerziell.
 ```
+
 ```
 Schwieriger ist es dagegen, zu entscheiden, ob
 private Blogs als kommerziell gelten, wenn sie
@@ -529,11 +555,13 @@ Wenn die Werbeeinnahmen die Betriebskosten
 oder erst, wenn tatsächlich ein nennenswertes
 Einkommen generiert wird?
 ```
+
 ```
 Die schwierige Abgrenzung führt dazu, dass in
 vielen Fällen die Verantwortlichen vorsichtshal-
 ber keine CC-lizenzierten Inhalte übernehmen,
 ```
+
 wenn das NC-Modul mit in der Lizenz steht,
 selbst wenn sie im Ergebnis als nicht-kommerzi-
 elle Nutzer einzustufen wären.
@@ -581,6 +609,7 @@ betreten wird. Ein Verzicht auf das NC-Modul
 und die Einschränkungen, die es mit sich bringt,
 vermeidet solche Unsicherheiten.
 ```
+
 ## 6
 
 ## kann eIne CC-lIzenz
@@ -601,6 +630,7 @@ DIE GESELLSChAFt VERäNDERN
 UND NICht GESChäFtE
 MAChEN.
 ```
+
 ```
 Rechtsradikale und andere Extremisten verfolgen
 politische Ziele. Ihr Streben ist nicht kommerziell,
@@ -613,6 +643,7 @@ siert. Insofern privilegiert eine NC-Lizenzierung
 in gewisser Weise sogar die Nutzung von Inhal-
 ten durch Extremisten.
 ```
+
 Anders ausgedrückt: Ein Wissenschaftler, der eine
 Untersuchung über den politischen Extremismus
 in Deutschland bei einem Verlag veröffentlichen
@@ -656,6 +687,7 @@ unter gleichen Bedingungen), das die Veröffentli-
 chung von Bearbeitungen nur unter gleichen oder
 vergleichbaren Lizenzbedingungen erlaubt.
 ```
+
 ```
 Firmen oder Privatleute, die sich einen kreati-
 ven Inhalt aneignen wollen, können dies nor-
@@ -687,6 +719,7 @@ der Allgemeinheit unter Share Alike zur Ver-
 fügung stellen – und dazu sind die wenigsten
 Firmen bereit.
 ```
+
 ```
 Das Share-Alike-Modul hat zugleich – anders
 als das NC-Modul – nicht die negative Auswir-
@@ -694,6 +727,7 @@ kung, dass dadurch die Verbreitung der Inhalte
 generell (auch in Blogs usw.) erschwert wird, ganz
 im Gegenteil: Weil auch für alle Bearbeitungen
 ```
+
 eine CC-Lizenz gilt, kann diese bearbeitete Ver-
 sion nicht nur von dem Bearbeiter, sondern von
 jeden beliebigen Dritten später weiterverwendet
@@ -754,6 +788,7 @@ Wikimedia-Medienarchiv durch eine Bildspen-
 de von 10.000 Reproduktionen gemeinfreier
 Kunstwerke.
 ```
+
 ```
 Das Geschäftsmodell der Wikipedia-DVD
 funktionierte, weil durch die Software neue
@@ -773,6 +808,7 @@ wenn die CC-Lizenz, die standardmäßig bei der
 Wikipedia verwendet wird, das NC-Modul ent-
 halten hätte.
 ```
+
 ## 9
 
 ## kann man eInen
@@ -817,6 +853,7 @@ einer weiteren Zustimmung abhängt, in der
 Wikipedia nicht zulässig sind und gelöscht
 werden.
 ```
+
 ## 10
 
 ## verhIndert das nC-mOdul,
@@ -829,6 +866,7 @@ werden.
 JA. ABER OFt AN VOLLKOMMEN
 FALSChER StELLE.
 ```
+
 ```
 Die NC-Einschränkung bei einer CC-Lizenzie-
 rung verbietet zwar eine kommerzielle Nutzung,
@@ -839,6 +877,7 @@ CC-Lizenzen Verstöße gegen die dort gemachten
 Einschränkungen häufig. Das NC-Modul macht
 da keine Ausnahme.
 ```
+
 ```
 Hierbei ist zu bedenken, dass manche Firmen in
 Urheberrechtsverletzungen lediglich ein Kosten-
@@ -851,6 +890,7 @@ Dazu gehören öffentliche Institutionen, die mit
 kommerziellen Partnern zusammenarbeiten, aber
 auch Wissensdatenbanken wie Wikipedia, offe-
 ```
+
 ne Medienarchive oder Open-Source-Projekte.
 Alle Projekte, Initiativen und Institutionen, denen
 es ausdrücklich um den freien Zugang zu Wissen
@@ -906,6 +946,7 @@ einer Nutzung absehen werden. Das aber sind
 im Zweifel diejenigen Nutzer, die gar nicht ab-
 geschreckt werden sollen.
 ```
+
 ## 12
 
 ## können nC-lIzenzIerte
@@ -919,12 +960,14 @@ NEIN. ZEItUNGEN GEhöREN
 IN JEDEM FALL ZU DEN KOMMER-
 ZIELLEN NUtZERN.
 ```
+
 ```
 Zeitungen werden betrieben, um damit Einnah-
 men zu generieren; sie sind also auf einen ge-
 schäftlichen Vorteil und eine geldwerte Vergütung
 gerichtet. Daran ändert das Grundrecht auf Pres-
 ```
+
 sefreiheit und die große Bedeutung von Zeitun-
 gen für die Meinungsbildung und die öffentliche
 Debatte nichts. Die Einstufungen von Zeitungen
@@ -970,6 +1013,7 @@ Tätigkeit auf eine geldwerte Vergütung gerichtet
 – und zwar in einem Maße, das nicht als vernach-
 lässigbar gewertet werden kann.
 ```
+
 ```
 Je geringer die öffentliche Förderung ist, je grö-
 ßer ist zumeist die Notwendigkeit, zusätzliche
@@ -982,6 +1026,7 @@ mals benachteiligt, weil sie keine CC-lizenzierten
 Inhalte nutzen dürfen, bei denen das NC-Modul
 in der Lizenz enthalten ist.
 ```
+
 ## 14
 
 ## WIe Ist es zu beWerten,
@@ -1000,6 +1045,7 @@ DER SChULE KANN EINE NUt-
 ZUNG LEICht ALS KOMMERZIELL
 BEWERtEt WERDEN.
 ```
+
 Die Nutzung von CC-lizenzierten Inhalten, bei
 denen das NC-Modul in der Lizenz enthalten ist,
 ist innerhalb von öffentlichen Schulen kein Prob-
@@ -1052,6 +1098,7 @@ den privaten Nutzern ihrer Infrastruktur durch
 ihre allgemeinen Geschäftsbedingungen das
 Recht gesichert, Schadenersatz zu verlangen.
 ```
+
 ```
 Dies ist ein weiterer Grund, warum auf eine
 NC-Einschränkung bei Inhalten für Schulen
@@ -1063,6 +1110,7 @@ Sorglosigkeit zu entwickeln, die sie außerhalb
 der Schule mit dem Gesetz in Konflikt bringen
 könnte.
 ```
+
 ```
 Nun kann man als Kreativer natürlich auf dem
 Standpunkt stehen, dass man solche ungewollten
@@ -1071,6 +1119,7 @@ und auf eine Verfolgung verzichten wird. Dann aber
 muss man sich fragen, warum man das NC-Modul
 überhaupt auswählt (siehe Frage 11).
 ```
+
 ## 15
 
 ## WIe WIrkt sICh nC auf
@@ -1081,6 +1130,7 @@ muss man sich fragen, warum man das NC-Modul
 NICht ALLE CC-LIZENZEN SIND
 MItEINANDER KOMBINIERBAR.
 ```
+
 Werke, die unter einer CC-BY-SA-Lizenz (Attri-
 bution-Share-Alike, also Namensnennung und
 Weitergabe unter gleichen Bedingungen) ste-
@@ -1131,6 +1181,7 @@ NEIN. GEMA-MItGLIEDSChAFt
 UND CC-LIZENZEN SIND NICht
 MItEINANDER VEREINBAR.
 ```
+
 ```
 Durch einen Wahrnehmungsvertrag mit der
 GEMA übertragen Musiker – genauer gesagt
@@ -1154,6 +1205,7 @@ schließliche Wahrnehmung ihrer Rechte im di-
 gitalen Zeitalter nicht in ihrem Interesse ist. Sie
 wollen selbst entscheiden können, ob sie einzelne
 ```
+
 Stücke unter ein flexibleres Lizenzsystem stellen
 möchten. Einige Künstler sind deshalb bereits
 aus der GEMA ausgetreten. Dies hat jedoch eine
@@ -1197,6 +1249,7 @@ sollten jeden Verbreitungsweg nutzen, der ih-
 nen offen steht, da die möglichst weite Verbrei-
 tung von Inhalten im Vordergrund steht.
 ```
+
 ## 18
 
 ## darf eIn nutzer vOn
@@ -1216,6 +1269,7 @@ NEIN. EINE CC-LIZENZ BEINhAL-
 tEt KEINE PERSöNLIChE
 UNtERStütZUNG.
 ```
+
 ```
 CC lässt die Urheberpersönlichkeitsrechte un-
 angetastet. Ein CC-Lizenzgeber kann verlan-
@@ -1225,6 +1279,7 @@ zen oder gutheißen. Diese in den USA als no
 endorsement bekannte Klausel wurde dort
 schon gerichtlich durchgefochten.
 ```
+
 ## 19
 
 ## kann das nC-mOdul
@@ -1270,6 +1325,7 @@ kommerziellen Bereichen von Bildung und Wis-
 senschaft verbreitet werden, da dies den Absatz
 im klassischen Vertrieb fördern kann.
 ```
+
 ## 20
 
 ## unter WelCher CC-lIzenz
@@ -1279,6 +1335,7 @@ im klassischen Vertrieb fördern kann.
 ```
 UNtER DER CC-BY-SA-LIZENZ
 ```
+
 ```
 Damit das Gemeingut des freien Wissens und
 der freien Kultur wächst, verlangt die Wikipe-
@@ -1295,6 +1352,7 @@ Wikipedia eingehen, wenn sie unter einer CC-
 BY-SA-Lizenz oder zumindest unter einer damit
 kompatiblen Lizenz stehen.
 ```
+
 ```
 Bis 2009 verwendete die Wikipedia die Free
 Documentation Licence (GFDL) der GNU-
@@ -1302,6 +1360,7 @@ Initiative. Die Free Software Foundation hatte
 diese Lizenz ursprünglich für Software-Dokumen-
 tationen entwickelt, deshalb war sie für die Wiki-
 ```
+
 pedia zu kompliziert und eigentlich nicht geeignet.
 Gleichwohl mussten die GFDL-Open-Content-
 Lizenzen nicht umgestellt werden, als Wikipedia
@@ -1347,6 +1406,7 @@ deren verbessert, weiterentwickelt und bearbeitet
 werden. ND ist mit dem Konzept der Wikipedia
 unvereinbar.
 ```
+
 ```
 Zulässig ist das Modul ND bei Wikipedia für
 Quellen. Die Abbildung eines Gemäldes bei-
@@ -1355,9 +1415,11 @@ Lizenz stehen, die Bildbeschreibung und Analyse
 sowie die biographischen Angaben zum Autor
 dagegen nicht.
 ```
+
 ```
 Literatur & Links zur Vertiefung
 ```
+
 ```
 Markus Eidenberger; Andreas Ortner
 Kreativität in Fesseln, in Dobusch, Leonard (Hrsg.)
@@ -1380,6 +1442,7 @@ Nutzungsbedingungen der Wikimediafoundation:
 http://wikimediafoundation.org/wiki/Nutzungsbedin-
 gungen
 ```
+
 ## impressum
 
 Freies Wissen dank Creative-Commons-Lizenzen
@@ -1445,11 +1508,13 @@ Eine vereinfachte Darstellung der durch die Lizenz
 gegebenen Freiheiten ist zu finden unter https://creati-
 vecommons.org/licenses/by-sa/3.0/de/
 ```
+
 ### Paul Klimpel
 
 ```
 Rechtsanwalt & Leiter iRightsLab Kultur
 ```
+
 ```
 Studium der Rechtswissenschaften, Philosophie, Psy-
 chologie und Sozialwissenschaften. Nach Abschluss des
@@ -1465,6 +1530,7 @@ Kulturelles Erbe und Digitale Welt des Internet &
 Gesellschaft Co:llaboratory. Seit 2012 ist er Leiter des
 iRightsLab Kultur.
 ```
+
 Die
 »Jeder-
 mann-Lizenzen«

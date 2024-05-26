@@ -7,6 +7,7 @@
 ```
 avec le soutien de
 ```
+
 _Etude n° 2_
 
 ```
@@ -20,6 +21,7 @@ récipients de la vie courante permettant de
 maintenir de l’eau chaude à 60°C pendant
 au moins 1/2 heure. Voici l’étude
 ```
+
 CC $
 BY NC ND
 
@@ -60,12 +62,14 @@ ETUDE de décroissance de température d’eau chaude
 en vue du lavage de masques barrières en tissu
 dans un cadre familial confiné
 ```
+
 ```
 - Faire bouillir 1,5 l d’eau dans une bouilloire électrique jusqu’à son arrêt automatique
 - Verser l’eau dans le récipient
 - Prise de mesure de référence
 - Relève des mesures toutes les 5 minutes
 ```
+
 ```
 L’expérience a été réalisée par 2 fois et dans 2 cas de figures : - sans couvercle
 - avec couvercle (dépose)
@@ -77,22 +81,27 @@ Fluide : eau municipale
 Les mesures de température sont faites en °C.
 Date et lieu : le 29-03-20 - Paris
 ```
+
 ```
 Résultats :
 ```
+
 ```
 La température moyenne constatée en référence est de 92 °C pour les récipients inox et plastique
 et de 87°C pour la porcelaine. La différence s’explique par le fait que le récipient en porcelaine a une
 épaisseur plus épaisse que les autres et absorbe dans un premier temps, plus de chaleur.
 ```
+
 ```
 Les résultats les plus convaincants sont dans les prises de mesure «récipient + couvercle».
 Tous les matériaux sont performants, avec une légère supériorité pour le plastique.
 ```
+
 ```
 En moyenne, il faut 40 mn pour que la T° arrive à la limite de 60°C. La Température minimale de
 départ pour tenir 30 mn est d’environ 75°C quelque soit le récipient.
 ```
+
 ```
 Conclusion
 • La garantie de conserver la température à 60°C pendant 30 mn comme préconisé dans le guide
@@ -101,6 +110,7 @@ faire dans n’importe quel récipient à condition de bien le couvrir.
 • Si vous avez une bouilloire électrique modulable, vous pouvez régler la température maximale à
 70°C.
 ```
+
 ETUDE (suite)
 
 ```
@@ -108,9 +118,11 @@ NOTE :
 Cette étude a été réalisée dans la cadre particulier du confinement. L’expérience a été réalisée avec rigueur et reste informa-
 tive. L’auteur ne peut être rendue responsable de l’interprétation outre mesure des résultats par un tiers.
 ```
+
 ```
 mn
 ```
+
 ## Qui sommes-nous?
 
 ## Les liens d’accès
@@ -135,9 +147,11 @@ Ingénieur textile, IFM, actuellement chef de projet R&D et Développement durab
 Jean-Baptiste Chot-Plassot
 Ingénieur généraliste, IFM, actuellement ingénieur projet innovation - Mode & Textile
 ```
+
 ```
 Certaines illustrations ont été réalisées par la styliste et illustratrice Virginie Boy.
 ```
+
 ```
 Techtera est le pôle de compétitivité dédié à la filière textile française soutenu par l’Etat,
 La Direction Générale de l’Armement et les collectivités territoriales. Il anime un réseau de
@@ -148,12 +162,16 @@ cés pour un budget total de 556,5 millions d’Euros, à destination des march�
 tion de la santé, des sports et loisirs, du transport, du bâtiment, de la protection et de la
 sécurité, de l’habillement et de la décoration.
 ```
+
 ```
 Techtera - Actualités
 ```
+
 ```
 avec le soutien de
 ```
+
 ```
 Sable Chaud - COVID-19
 ```
+

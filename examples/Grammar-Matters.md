@@ -21,12 +21,14 @@ you responded with one of the following emails.
 ```
  We used Lowes for our carpet installation. Great! The message is clear.
 ```
+
 ```
  We sued Lowes for our carpet installation. The message is clear, but the
 meaning is very different. Two letters were reversed in the word used, and it
 changed the entire meaning. Typos can sometimes form correctly spelled words
 with very different meanings.
 ```
+
 2. Correct grammar reveals the writer’s attention to detail, competency, and
 professionalism. If it seems like the writer is too distracted or sloppy to learn the rules
 of grammar, it begs the question, where else are they distracted and sloppy. Your
@@ -47,6 +49,7 @@ competitive market, I will pass on a great programmer who cannot write.
 Applicants who don’t think writing is important are likely to think lots of other
 (important) things also aren’t important. After all, sloppy is as sloppy does.”
 ```
+
 3. In business writing you are representing your company and yourself. No
 company wants their employees to send out messages filled with grammar errors. It
 makes the company look sloppy and unprofessional. Studies have shown that a single
@@ -121,33 +124,43 @@ to specific things. **Common nouns are not capitalized**, and they refer to gene
 ```
 Nouns Proper Common
 ```
+
 ```
 People Fred Smith student
 ```
+
 ```
 Dr. Sam Jones doctor
 ```
+
 ```
 Mrs. Mary Johnson instructor
 ```
+
 ```
 Places Seattle city
 ```
+
 ```
 Sea-Tac Airport airport
 ```
+
 ```
 United States country
 ```
+
 ```
 Things iPhone cell phone
 ```
+
 ```
 New York Times newspaper
 ```
+
 ```
 Thanksgiving, Christmas holidays
 ```
+
 **Pronouns**
 Pronouns take the place of a noun in a sentence and provide efficiency to your writing.
 Without pronouns, writing becomes bogged down in nouns. For example:
@@ -181,6 +194,7 @@ and _had_.
  Mary has passed everyone in the marathon.
  Mary will win the race.
 ```
+
 Verbs will be covered in more detail in Chapters 5 and 6. For now, it is important to be
 able to identify if a sentence has a verb. A sentence is not complete without a verb.
 
@@ -195,6 +209,7 @@ one, how many, what color, and what kind.
  Fluffy cat (which one?)
  Siamese cat (what kind?)
 ```
+
 These are all adjectives that are working to describe the cat. Adjectives usually appear
 in front of the nouns and pronouns that they describe, but they can also appear after a
 linking verb.
@@ -203,6 +218,7 @@ linking verb.
  The cat is orange.
  The cat is fluffy.
 ```
+
 _A, an_, and _the_ form a unique group of adjectives called **articles.** These will be
 discussed further in Chapter 7. For now, just know that articles are part of the adjective
 team.
@@ -217,6 +233,7 @@ how, when, where, or to what extent the action takes place.
  Mary‟s family waited for her there. (Where did they wait?)
  She was very relieved to have a few days of rest. (To what extent?)
 ```
+
 Adverbs often end in –ly, but some of the most common adverbs do not. _There, then,_
 _now, sometimes, very, today,_ and _inside_ are all common adverbs that do not end in –ly.
 Adverbs (not adjectives) describe and modify verbs. The word _verb_ is even inside the
@@ -236,6 +253,7 @@ reveal a more abstract relationship.
 ```
  Mary is against the new law, but Fred is for it.
 ```
+
 Prepositions are usually very short words. Some of the most common prepositions are
 _at, by, for, from, in, of to,_ and _with_.
 
@@ -248,6 +266,7 @@ clauses. The most common conjunctions are _and, but,_ and _or._
  Mary drank coffee, but Fred drank tea.
  Either Fred or Mary needs to run to the store.
 ```
+
 **Interjections**
 Interjections are the interrupters of the group. Interjections express strong feelings and
 emotions. When these expressions stand alone as a sentence, an exclamation point is
@@ -258,6 +277,7 @@ used. When the emotion is not as strong, the interjection is set apart with a co
  Oh well, I had planned to order the soup, but they are sold out. (Interjection set
 apart with a comma)
 ```
+
 Interjections show strong emotion and excitement. Avoid overusing interjections in
 formal writing. Too many interjections and exclamation points give the impression that
 the writer is shouting.
@@ -289,12 +309,15 @@ shows a state of being.
 ```
 Simple Subject Simple Predicate
 ```
+
 ```
 Mary ran.
 ```
+
 ```
 Cars drive.
 ```
+
 These are very basic sentences, but they are still complete sentences. They fulfill all the
 requirements for being a complete sentence. Most people do not spend their time
 writing only two-word sentences. Our language would be very choppy and inefficient if
@@ -304,12 +327,15 @@ sentence?
 ```
 Complete Subject Complete Predicate
 ```
+
 ```
 Mary and Sarah ran the race.
 ```
+
 ```
 Cars on the freeway drive slowly during rush hour.
 ```
+
 The **complete subject** is the simple subject and all of its modifiers. The **complete**
 **predicate** is the simple predicate plus all of its modifiers. The simple subjects and
 simple predicates are underlined. The simple subject can be more than one noun. In the
@@ -340,12 +366,14 @@ are called declarative sentences because the sentence declares something.
  It is raining outside.
  I left my umbrella in my car.
 ```
+
 **Questions** A direct question asks something and needs to end with a question mark.
 
 ```
  Is it still raining?
  Is it going to rain tomorrow?
 ```
+
 **Commands** A command gives an order and ends with a period. If the command is
 very strong, then it can end with an exclamation point. Most of the time, the subject in a
 command is not stated. Instead, it is understood that the subject is _you_.
@@ -354,6 +382,7 @@ command is not stated. Instead, it is understood that the subject is _you_.
  Check the weather for tomorrow. (You should check the weather for tomorrow.)
  Take your umbrella. (You should take your umbrella.)
 ```
+
 **Exclamations** Exclamations show strong feelings or excitement. An exclamation
 can be a complete sentence, but it does not have to be a complete sentence. An
 exclamation does not have to have a subject and a predicate. In exclamations, often the
@@ -363,6 +392,7 @@ subject and the predicate are implied.
  Wow! It is raining very hard!
  Oh no! He forgot his umbrella!
 ```
+
 Do not overuse exclamations in formal writing. Exclamations show a lot of emotion and
 give the impression that the writer is shouting.
 
@@ -375,21 +405,27 @@ sentence, but they cannot stand alone as complete sentences.
 ```
 Phrases
 ```
+
 ```
 on the roof prepositional phrase
 ```
+
 ```
 from another planet prepositional phrase
 ```
+
 ```
 could have gone verb phrase
 ```
+
 ```
 to study the chapter infinitive phrase
 ```
+
 ```
 the coffee that she drank noun phrase
 ```
+
 It isn‟t necessary to memorize each type of phrase, but it is important to recognize that
 each of these phrases could not be a complete sentence on their own.
 
@@ -417,6 +453,7 @@ because than wherever
 before that whether
 even if though while
 ```
+
 If you begin a sentence with one of these words, it can turn an independent clause into
 a dependent clause. Once the clause is dependent, it is no longer a complete sentence.
 A dependent clause is a fragment, and great writers avoid fragments. Dependent
@@ -426,15 +463,19 @@ setting up a great joke and leaving off the punch line.
 ```
 Independent Clause Dependent Clause
 ```
+
 ```
 The cat ran up the stairs. Because the cat ran up the stairs.
 ```
+
 ```
 The sun came out at noon. Although the sun came out at noon.
 ```
+
 ```
 The students arrived on time. When the students arrived on time.
 ```
+
 **How can you fix dependent clauses?** There are two ways to fix a dependent clause.
 You can remove the subordinating conjunction (_although, because, if, when_). Often just
 removing that word will reveal an independent clause.
@@ -449,15 +490,19 @@ sense.
 ```
 Dependent Clause Independent Clause
 ```
+
 ```
 When the students arrived, the instructor handed out notes.
 ```
+
 ```
 After she ordered, she waited patiently for her coffee.
 ```
+
 ```
 If Fred cooks dinner, Mary washes the dishes.
 ```
+
 **Punctuating Dependent Clauses** Did you notice the punctuation in the examples? If
 a dependent clause appears before the independent clause in the sentence, add a
 comma to separate the two clauses. If the dependent clause appears after the
@@ -466,15 +511,19 @@ dependent clause, no comma is needed.
 ```
 Independent Clause Dependent Clause
 ```
+
 ```
 The instructor handed out notes when the students arrived.
 ```
+
 ```
 She waited patiently for her coffee after she ordered.
 ```
+
 ```
 Mary washes the dishes if Fred cooks dinner.
 ```
+
 #### Sentence Varieties
 
 Have you ever written a paragraph and realized that every sentence looked the same?
@@ -494,6 +543,7 @@ contain only one complete thought.
  Dave‟s favorite places to visit are Paris, Las Vegas, New York, and Boston. (one
 independent clause)
 ```
+
 Simple sentences contain only one independent clause. Children‟s books are written
 with simple sentences because they are easy to understand. Why do we need other
 sentence varieties? Imagine that you received the following email:
@@ -501,6 +551,7 @@ sentence varieties? Imagine that you received the following email:
 ```
  I went for a run. Now I am tired. I ran five miles.
 ```
+
 While this email is grammatically correct and easy to understand, it sounds choppy and
 stilted. Other sentence varieties help break up the choppiness of simple sentences.
 Occasionally the choppiness of a simple sentence is exactly what the paragraph needs.
@@ -511,6 +562,7 @@ sentence varieties.
  I went for a run, and now I am tired. I ran five miles. (Simple sentence following
 compound sentence adds emphasis to simple sentence)
 ```
+
 A **compound sentence** contains two independent clauses with related topics.
 Compound sentences can be punctuated in three different ways. Two independent
 clauses can be joined with a comma and a coordinating conjunction (_for, and, nor, but,_
@@ -528,6 +580,7 @@ independent clauses joined with a semicolon.)
  Sarah flew to Hawaii on Tuesday; however, her suitcase arrived on Friday. (Two
 independent clauses joined with a semicolon and a conjunctive adverb.)
 ```
+
 A trick to remember all of the coordinating conjunctions is the acronym **FANBOYS**.
 Each letter represents one of the coordinating conjunctions: **F**or, **A**nd, **N**or, **B**ut, **O**r, **Y**et,
 **S**o.
@@ -543,6 +596,7 @@ appears first in the sentence, so a comma is needed between the clauses.)
  Sarah had to go shopping because her suitcase was lost. (Independent clause
 appears first in the sentence, so no comma is needed between the clauses.)
 ```
+
 A **compound-complex sentence** contains at least two independent clauses and one
 dependent clause. These sentences can be very long, so do not overuse them.
 
@@ -550,6 +604,7 @@ dependent clause. These sentences can be very long, so do not overuse them.
  Although Sarah‟s luggage was lost, she enjoyed her vacation in Hawaii; she is
 already planning her next trip.
 ```
+
 #### Sentence Faults: Fragments, Comma Splices, and
 
 #### Run-Ons
@@ -563,30 +618,39 @@ being a complete sentence.
 ```
 Fragment After the restaurant closed. They went to a movie.
 ```
+
 ```
 Fixed After the restaurant closed, they went to a movie.
 ```
+
 ```
 The fragment is fixed by joining it to the independent clause.
 ```
+
 ```
 Fragment Mary plays many sports. Such as soccer, softball, and lacrosse.
 ```
+
 ```
 Fixed Mary plays many sports such as soccer, softball, and lacrosse.
 ```
+
 ```
 The fragment is fixed by joining it to the independent clause.
 ```
+
 ```
 Fragment Due on Saturday, May 17.
 ```
+
 ```
 Fixed The assignment is due on Saturday, May 17.
 ```
+
 ```
 The fragment is fixed by adding a subject and a helping verb.
 ```
+
 Fragments can sneak into your writing because they are often punctuated as if they
 were complete sentences. Some sentence fragments can be fixed by changing the
 punctuation and joining the fragment to a complete sentence. Other sentence fragments
@@ -616,6 +680,7 @@ a semicolon)
  Mary ordered coffee; however, Fred ordered a scone. (Fixed by adding a
 conjunctive adverb, a semicolon, and a comma)
 ```
+
 **Run-On Sentences**
 
 A run-on sentence does not mean that it is a long sentence. In fact, a run-on sentence
@@ -635,6 +700,7 @@ between the independent clauses)
  Fred enjoys cooking; however, he does not enjoy cleaning. (Fixed by adding a
 semicolon, a conjunctive adverb, and a comma)
 ```
+
 **Chapter 3**
 
 ## Nouns
@@ -654,21 +720,27 @@ _City_, and _Italy_ are all proper nouns.
 ```
 Proper nouns Common nouns
 ```
+
 ```
 The White House house
 ```
+
 ```
 Mt. Rainier mountain
 ```
+
 ```
 Pacific Ocean ocean
 ```
+
 ```
 Thanksgiving holiday
 ```
+
 ```
 Friday day
 ```
+
 If you get confused, just ask yourself if the noun is referring to something specific.
 Nouns that name specific people, places, and things are capitalized.
 
@@ -686,6 +758,7 @@ tree trees
 sock socks
 book books
 ```
+
 ```
  Nouns that end in s, x, z, ch, sh, or z, add es.
 dress dresses
@@ -693,9 +766,11 @@ tax taxes
 lunch lunches
 wash washes
 ```
+
 ```
  Nouns that end in y are formed two ways.
 ```
+
 1. When letter before y is a vowel, add s.
 valley valleys
 key keys
@@ -711,6 +786,7 @@ blueberry blueberries
 ```
  Nouns that end in o are formed two ways.
 ```
+
 1. When the letter before the o is a vowel, add s. Musical terms ending in o are
 formed by adding an s.
 kilo kilos
@@ -732,6 +808,7 @@ calf calves
 leaf leaves
 belief beliefs
 ```
+
 ```
  Irregular nouns become plural by changing their spelling. Check a dictionary if
 you are unsure of the plural form. It is helpful to memorize the plural form of the
@@ -741,6 +818,7 @@ child children
 man men
 tooth teeth
 ```
+
 ```
  Some nouns do not change when they become plural. These nouns have the
 same spelling when they are singular and plural.
@@ -749,10 +827,12 @@ trout
 salmon
 moose
 ```
+
 ```
 When dictionaries show two different forms of the plural noun, the preferred
 form is shown first.
 ```
+
 **Family names and other proper nouns**
 
 When _the_ appears before the last name, the last name is always plural. For example,
@@ -769,6 +849,7 @@ Lopez Lopezes The Lopezes The Lopez family
 Woods Woodses The Woodses The Woods family
 Ontario Ontarios The Ontarios The Ontario family
 ```
+
 **All other proper nouns become plural by adding s**.
 
 ```
@@ -777,6 +858,7 @@ Smith Smiths
 Pepsi Pepsis
 Disneyland Disneylands
 ```
+
 **Compound nouns**
 
 Compound nouns are two or more words that are combined to form a single noun.
@@ -793,6 +875,7 @@ brother-in-law brothers-in-law
 editor-in-chief editors-in-chief
 vice president vice presidents
 ```
+
 If the compound noun does not have a main noun, then the final part of the compound
 noun is made plural.
 
@@ -800,6 +883,7 @@ noun is made plural.
 start-up start-ups
 eight-year-old eight-year-olds
 ```
+
 Some compound nouns have two acceptable plural forms. In the dictionary, the
 preferred spelling is shown first, but both are considered acceptable.
 
@@ -807,6 +891,7 @@ preferred spelling is shown first, but both are considered acceptable.
 attorney general attorneys general or attorney generals
 teaspoonful teaspoonfuls or teaspoonsful
 ```
+
 **Abbreviations, degrees, numerals, and alphabet letters**
 
 Numerals, academic degrees, abbreviations, and capital alphabet letters (except A, I,
@@ -816,6 +901,7 @@ M, and U) become plural by adding a lowercase _s._
 12s 1990s
 MBAs all Bs and Cs
 ```
+
 All lowercase letters and the capital letters A, I, M, and U are made plural by adding an
 apostrophe and _s_. The apostrophe is added for clarity. This is the only time that a plural
 is formed by adding an apostrophe and s. If you did not add the apostrophe, the words
@@ -825,6 +911,7 @@ might be confused as the words _us, as_, and _is_.
 dot your i‟s all A‟s and Bs
 M‟s U‟s
 ```
+
 Abbreviations for units of measurement often have identical singular and plural forms.
 
 ```
@@ -832,6 +919,7 @@ oz. ounce or ounces
 ft. foot or feet
 km kilometer or kilometers
 ```
+
 Some measurements have more than one plural form. In addition, the measurement
 abbreviations are acceptable with or without periods. The important thing is to remain
 consistent with your measurement throughout your document. Do not switch between
@@ -843,6 +931,7 @@ lb. or lbs. (without periods is also acceptable) pounds
 qt. or qts. (without periods is also acceptable quarts
 yd. or yds. (without periods is also acceptable) yards
 ```
+
 #### Possessive Nouns
 
 Possessive nouns show ownership, origin, or time. To make a noun possessive, you
@@ -853,6 +942,7 @@ add an apostrophe and _s_.
  Hawaii‟s weather (origin)
  five years‟ time (time)
 ```
+
 Writers can also show possession by using a prepositional phrase instead of a
 possessive noun.
 
@@ -861,6 +951,7 @@ possessive noun.
  The weather of Hawaii
  The time of five years
 ```
+
 Both options are grammatically correct. It is important to know how to form a possessive
 noun both ways. In most cases, it is more efficient to use the possessive noun.
 Some sentences require knowledge of both tricks for forming the possessive. **Back-to-**
@@ -872,6 +963,7 @@ one of the possessives as a prepositional phrase.
  My sister‟s boss‟s recommendation (awkward and wordy)
  The recommendation of my sister‟s boss (improved)
 ```
+
 If it sounds awkward and confusing, rewrite the sentence.
 
 #### Using the Apostrophe
@@ -888,6 +980,7 @@ Usually the nouns appear together in a sentence, and the first noun shows owners
  the instructor‟s notes
  Hawaii‟s beaches
 ```
+
 2. Reverse the nouns
 If you are not sure if the nouns are possessive, try reversing the nouns. Use the second
 noun to make a prepositional phrase.
@@ -897,6 +990,7 @@ noun to make a prepositional phrase.
  The notes of the instructor
  The beaches of Hawaii
 ```
+
 3. Determine if the noun is singular or plural
 People often get confused about where to put the apostrophe. It depends on two things:
 whether the noun is singular or plural and if the noun ends in s.
@@ -904,30 +998,39 @@ whether the noun is singular or plural and if the noun ends in s.
 ```
 Singular possessive noun Plural possessive noun
 ```
+
 ```
 Noun does not Add an apostrophe and s Add an apostrophe and s
 ```
+
 ```
 end in s student‟s assignments
 ```
+
 ```
 woman's shoes women's shoes
 ```
+
 ```
 child's toy children's toy
 ```
+
 ```
 Ends in s Add an apostrophe and s Add an apostrophe only
 ```
+
 ```
 students‟ assignments
 ```
+
 ```
 actress's costume actresses' costumes
 ```
+
 ```
 witness's testimony witnesses' testimony
 ```
+
 **TIP:** When making plural, possessive nouns, it is helpful to make the noun plural first.
 Once the noun is plural, then you can determine how to make it possessive.
 
@@ -949,6 +1052,7 @@ it is describing the type of department.
  United States Army (not United States‟ Army)
  Sales Department (not Sales‟ Department)
 ```
+
 **Compound nouns** become possessive by adding an apostrophe or an apostrophe
 _s_ to the end of the compound word.
 
@@ -957,6 +1061,7 @@ _s_ to the end of the compound word.
  Sisters-in-law‟s (plural and possessive)
  Start-ups‟ (plural and possessive)
 ```
+
 **Family names** become possessive by following the same rules as other nouns.
 Singular names form their possessive by adding an apostrophe and _s_. Plural names
 already end in _s_. Add an apostrophe to make the plural name possessive.
@@ -964,12 +1069,15 @@ already end in _s_. Add an apostrophe to make the plural name possessive.
 ```
 Singular Name Singular Possessive Plural Possessive
 ```
+
 ```
 Mr. Jones Mr. Jones's house the Joneses' house
 ```
+
 ```
 Mrs. Johnson Mrs. Johnson's yacht the Johnsons' vacation
 ```
+
 This rule is broken a lot. Holiday cards are often signed, “_Happy Holidays from the_
 _Smith’s!_” It is incorrect. Apostrophes make nouns possessive, not plural.
 
@@ -982,6 +1090,7 @@ plural and ends in _s_, then you only add the apostrophe.
  Both CEOs‟ signatures were required (plural and ends in s)
  CBS‟s fall schedule (singular and ends in s)
 ```
+
 **Company and organization names** that include possessives may not use
 correct grammar. It is important to use the company‟s legal name, even if it uses
 incorrect grammar. Consult the company‟s website for their preferred spelling.
@@ -991,6 +1100,7 @@ incorrect grammar. Consult the company‟s website for their preferred spelling.
  McDonald‟s
  Macy‟s (uses a star in place of the apostrophe)
 ```
+
 **Time and money** can show possession, and they need to be punctuated properly.
 
 ```
@@ -1000,6 +1110,7 @@ incorrect grammar. Consult the company‟s website for their preferred spelling.
  twenty dollars‟ worth (the worth of twenty dollars)
  today‟s class (the class of today)
 ```
+
 If the possessive construction seems awkward, then it is perfectly acceptable to use the
 prepositional phrase instead. Both options are grammatically correct.
 
@@ -1012,6 +1123,7 @@ off.
  The family will meet at Mary‟s for the party. (Mary‟s house is implied.)
  This year‟s price is better than last year‟s. (Last year‟s price is implied.)
 ```
+
 **Compound possession** happens when two nouns own something together or
 separately. It can confuse the best of us. If two or more nouns share ownership, then
 you only need one apostrophe and _s_.
@@ -1025,6 +1137,7 @@ suitcases.)
  Sarah‟s and Theresa‟s cats are striped. (Separate ownership. Sarah and
 Theresa each own a striped cat.)
 ```
+
 **Academic degrees** should be written as possessives. These degrees are not
 capitalized unless they are used as an abbreviation.
 
@@ -1034,6 +1147,7 @@ capitalized unless they are used as an abbreviation.
  He has a bachelor‟s and a master‟s. (possessive form is required even if the
 word degree is implied)
 ```
+
 **Apostrophes make nouns possessive, not plural.**
 Do not rely on computer software to catch errors with plural and possessive nouns. The
 placement of the apostrophe can change the meaning of the sentence. The following
@@ -1044,10 +1158,12 @@ two sentences are both grammatically correct, but they have different meanings.
  The students‟ cupcake smelled delicious. (More than one student sharing one
 cupcake.)
 ```
+
 ```
  The teacher began class by calling the students names. (Very rude!)
  The teacher began class by calling the students‟ names. (Much better!)
 ```
+
 **Chapter 4**
 
 ## Pronouns
@@ -1061,12 +1177,14 @@ pronouns)
  Fred asked Mary if she could pick him up at his office. (Pronouns are
 underlined.)
 ```
+
 The first sentence is grammatically correct, but it is very inefficient. It‟s also a bit
 confusing and boring. The noun that a pronoun is referring to is called the **antecedent**.
 
 ```
  Fred bought flowers and he gave them to Mary.
 ```
+
 The pronoun _he_ refers to the antecedent _Fred_. The pronoun _them_ refers to the
 antecedent _flowers_. If you are using a pronoun, it is important that the antecedent is
 clear.
@@ -1082,16 +1200,19 @@ Subjective
 Case
 Sing. Plural
 ```
+
 ```
 Objective
 Case
 Sing. Plural
 ```
+
 ```
 Possessive
 Case
 Sing. Plural
 ```
+
 **First Person**
 (person speaking)
 
@@ -1099,6 +1220,7 @@ Sing. Plural
 I we me us my our
 mine ours
 ```
+
 **Second Person**
 (person is speaking to you)
 
@@ -1106,6 +1228,7 @@ mine ours
 you you you you your your
 yours yours
 ```
+
 **Third Person**
 (person or thing spoken of)
 
@@ -1114,15 +1237,18 @@ he they
 she
 it
 ```
+
 ```
 him them
 her
 it
 ```
+
 ```
 his, her theirs
 hers, its theirs
 ```
+
 **Subjective case pronouns** perform the action of the verb. Verbs show the action
 of the sentence, and the subject shows who or what is performing that action. If the
 subject is a pronoun, then the pronoun must be in the subjective case. Only subjective
@@ -1134,6 +1260,7 @@ a sentence, then it must be in the subjective case.
  You need to study for the test. (Second person subjective case)
  They work well together. (Third person subjective case)
 ```
+
 Subjective case pronouns also follow all forms of the verb _be_ (am, is, are, was, were,
 be, been). This can be confusing, and it might initially sound strange because objective
 case pronouns usually follow verbs.
@@ -1142,6 +1269,7 @@ case pronouns usually follow verbs.
  This is she. (not her)
  It was they. (not them)
 ```
+
 It can sound a bit unnatural and stuffy, but it is grammatically correct. If it sounds too
 stuffy for your style, then rewrite your sentence. Often rewriting involves taking the
 pronoun out and using the antecedent instead.
@@ -1150,6 +1278,7 @@ pronoun out and using the antecedent instead.
  This is Sarah. (Instead of she)
  It was Mary, Fred, and Dan. (Instead of they)
 ```
+
 **Objective case pronouns** work as the object of a verb. A direct object shows who
 or what receives the action of the verb. The direct object is not performing the action,
 
@@ -1162,6 +1291,7 @@ objective case.
  Fred drove them to the park. (Fred performed the action of the verb.)
  Sarah carried it to the park. (Sarah performed the action of the verb.)
 ```
+
 In all of the examples, the objective case pronoun is not performing the action of the
 verb. It is just hanging out and receiving the action of the verb.
 
@@ -1179,6 +1309,7 @@ objective case.
  Keep the secret between you and me. (Object of the preposition between)
  Everyone except Mary and him saw the movie. (Object of the preposition except)
 ```
+
 This rule gets mixed up a lot, and it might take a while to train your brain to use this rule
 correctly. The biggest mistake is saying “between you and I.” The correct way to say it is
 “between you and me.” _Me_ might sound casual or non-academic, but it is just as formal
@@ -1205,6 +1336,7 @@ apostrophes like possessive nouns.
  The shoes by the door must be yours. (Second person possessive case)
  The tickets are theirs. (Third person possessive case)
 ```
+
 When possessive pronouns describe nouns, they are acting as adjectives. Her car, his
 motorcycle, their vacation, your assignment, are all examples of possessive pronouns
 acting as adjectives. This will be covered more in Chapter 7.
@@ -1233,6 +1365,7 @@ pronoun is referring to, then the sentence is too vague.
  It was on the table. (What is it?)
  Mary told Sarah that she was in trouble. (Who is in trouble?)
 ```
+
 2. Pronouns must have the same number (singular or plural) as the antecedent. If
 a pronoun is replacing a plural noun, then the pronoun also needs to be plural. Singular
 pronouns replace singular nouns.
@@ -1244,6 +1377,7 @@ antecedent, singular pronoun)
  Mary, Sarah, and Fred drove to their favorite restaurant. (Plural antecedent,
 plural pronoun)
 ```
+
 3. Pronouns must have the same gender (masculine, feminine, or neutral) as the
 antecedent. A masculine pronoun replaces a masculine noun. A feminine pronoun
 replaces a feminine noun. It is important that the pronoun agrees with the antecedent.
@@ -1252,6 +1386,7 @@ replaces a feminine noun. It is important that the pronoun agrees with the antec
  Mary ordered her favorite meal. (Feminine antecedent, feminine pronoun)
  The soup had a fly in it. (Neutral antecedent, neutral pronoun)
 ```
+
 The English language is lacking a singular, third-person, gender-neutral pronoun. This
 is fine when referring to something such as soup, but it creates a problem when
 referring to people that could be male or female.
@@ -1259,6 +1394,7 @@ referring to people that could be male or female.
 ```
  Every student must submit (his, her, its, his or her) assignment by Tuesday.
 ```
+
 Which pronoun is correct? There isn‟t a perfect answer here. _Its_ sounds like the student
 is not human. In the past, writers were instructed to choose the masculine pronoun in
 these situations. This kind of writing sounds antiquated and sexist today. Writers can
@@ -1274,6 +1410,7 @@ too.
  Students must submit their assignments by Tuesday. (Plural antecedent, plural
 pronoun)
 ```
+
 In casual conversation, many people use _they_ as a singular, gender neutral, third-
 person pronoun. _They_ is a plural pronoun, not a singular pronoun, so it is not correct to
 use this in formal documents. English is always evolving, so eventually _they_ might fill
@@ -1291,6 +1428,7 @@ sentence, the pronoun remains the same.)
  My brother and me like coffee. (Wrong. Me is an objective pronoun, and it has no
 business acting as part of the subject.)
 ```
+
 The trick to choosing the correct pronoun for the sentence is to ignore the other noun
 and the conjunction (usually and). You can cover it with your hand if that is helpful.
 
@@ -1304,6 +1442,7 @@ correct objective case pronoun.)
  My brother and I like coffee. (Ignore “My brother and” to select the correct
 subjective case pronoun.)
 ```
+
 **Reflexive Pronouns**
 Reflexive pronouns end in -self or -selves and _reflect_ back to their antecedents in the
 same sentence. Think of them as vain pronouns that need a mirror to reflect their
@@ -1319,6 +1458,7 @@ the students.)
  Mary looked at herself in the mirror. (Herself reflects on Mary.)
  I am going to treat myself to a scone. (Myself reflects on I.)
 ```
+
 Problems show up when people use a reflexive pronoun instead of a personal pronoun.
 Some people feel uncomfortable using _me_ in a sentence, so they choose _myself_
 instead. One is not more formal or more intellectual than the other, but _me_ and _myself_
@@ -1331,6 +1471,7 @@ instead.
 has nothing to reflect on in the sentence.)
  Please email Fred or me with questions. (Correct.)
 ```
+
 **Subject Complements**
 Subjective case pronouns (_I, you, he, she, they, it_) follow linking verbs. Linking verbs
 are all forms of the verb _be_, including _am, is, are, was, were, be, been_, and _has been_.
@@ -1342,6 +1483,7 @@ stiff at first.
  That was he.
  Was it she who called earlier?
 ```
+
 If it sounds too stiff, you can rewrite the sentence to sound more natural. _It is I_ becomes
 _I am here._ Another rewriting option is to not use a pronoun at all, and switch the
 pronoun back to a noun. _That was he_ becomes _That was Fred_. _Was it she who called_
@@ -1375,6 +1517,7 @@ antecedent Many is plural.)
  Each email address has its own unique password. (The antecedent Each is
 singular and neutral.)
 ```
+
 **Collective Nouns**
 Collective nouns such as _team, faculty, flock, union_, and _committee_ refer to a group.
 When talking about the group as a unit, they are considered singular. If the collective
@@ -1394,6 +1537,7 @@ candies?
  The jury handed down its verdict. (Jury is working as one unit.)
  The jury could not agree on their verdict. (Jury is not working as one unit.)
 ```
+
 It can sound awkward to use a singular pronoun with a noun that sounds plural. In those
 cases, rewrite your sentence by adding a plural noun as the antecedent.
 
@@ -1407,11 +1551,13 @@ pronoun and works as the subject of a verb.
  Who called? (Who is the subject of the verb)
  Who is going to the conference? (Who is the subject of the verb)
 ```
+
 Who also follows linking verbs and acts as the subject complement.
 
 ```
  His manager is who? (Who follows the linking verb is)
 ```
+
 _Whom_ is an objective case pronoun, and acts as the object of the verb or the object of
 the preposition. _Whom_ is not performing the action of the verb. _Whom_ can either receive
 the action of the verb or be the object of the preposition.
@@ -1421,6 +1567,7 @@ the action of the verb or be the object of the preposition.
  Fred works for whom? (Whom follows the preposition for)
  Mary drives whom to school? (Whom is the object of the verb drives)
 ```
+
 _Who_ is used as a subjective case pronoun, and _whom_ is used as an objective case
 pronoun. Still not 100 percent clear? There are a few tricks to make this easier.
 
@@ -1440,6 +1587,7 @@ remember that _him_ and _whom_ go together because they both end with the letter
  Him brought the doughnuts. (Incorrect. This does not make sense.)
  The correct choice is: Who brought the doughnuts?
 ```
+
 This trick doesn‟t work for every sentence. If it doesn‟t work for your sentence, the next
 trick will work.
 
@@ -1457,6 +1605,7 @@ Who = he
 Whom = him
 Whom should I thank for this free coffee? (Correct!)
 ```
+
 ```
  Who/whom is coming to the concert?
 He is coming to the concert. (Correct!)
@@ -1465,6 +1614,7 @@ Who = he
 Whom = him
 Who is coming to the concert? (Correct!)
 ```
+
 ```
  I do not care who/whom she took to the dance. (This is not a question, so isolate
 the who/whom phrase and read it as a question.)
@@ -1474,6 +1624,7 @@ She took him to the dance. (Correct!)
 She took he to the dance. (Wrong.)
 I do not care whom she took to the dance. (Correct!)
 ```
+
 Academy of Learning Video on who/whom:
 https://www.youtube.com/watch?v=x3aEGrmsZ5c
 
@@ -1488,6 +1639,7 @@ a contraction of words _who is_ or _who has_.
  Do you know who‟s coming to the conference? (contraction)
  Who‟s responded to the invitation? (contraction)
 ```
+
 Chapter 5
 
 ## Verbs
@@ -1500,6 +1652,7 @@ without verbs. They do not make sense without verbs.
  Dan is the new manager. (State of being)
  Sarah flew to Hawaii. (Action)
 ```
+
 #### Types of Verbs
 
 Verbs can be sorted into three different categories: action verbs, linking verbs, and
@@ -1518,6 +1671,7 @@ soup.)
  Fred made. (Incorrect. Made is a transitive verb and needs a direct object in
 order for the sentence to make sense. This sentence does not make any sense.)
 ```
+
 An **intransitive verb** does not have a direct object. Intransitive verbs do not need direct
 objects in order for the sentence to make sense.
 
@@ -1527,6 +1681,7 @@ complete the meaning of the sentence.)
  Sarah stood. (Stood is an intransitive verb. It does not need a direct object to
 complete the meaning of the sentence.)
 ```
+
 Most verbs are both transitive and intransitive. It just depends on how the verb is being
 used in a sentence.
 
@@ -1535,6 +1690,7 @@ used in a sentence.
  Mary drove the car. (Transitive. Car is the direct object and is receiving the action
 of the verb drove.)
 ```
+
 There is a quick way to figure out if a verb is transitive or intransitive. Immediately after
 the verb, ask the question _whom?_ or _what?_ If you can answer the question with
 information in the sentence, then that is the direct object. Transitive verbs have direct
@@ -1546,6 +1702,7 @@ direct object. Flew is a transitive verb.)
  Fred drove the kids to school. (Fred drove whom? Fred drove the kids. Kids acts
 as the direct object for the transitive verb drove.)
 ```
+
 For more help with transitive and intransitive verbs:
 https://www.youtube.com/watch?v=_1FL05uW4Fg (Video on Transitive and Intransitive
 Verbs)
@@ -1563,6 +1720,7 @@ the meaning of the subject.
  The bird is red. (The linking verb is links bird to the complement, red.)
  The car was dirty. (The linking verb was links car to the complement, dirty.)
 ```
+
 Some sensing verbs act as both linking verbs and action verbs. _Feels, appears, tastes,_
 _seems, sounds, looks_, and _smells_ are all verbs that describe the senses. Sometimes
 
@@ -1584,6 +1742,7 @@ this case, felt is a linking verb.
  She felt the wind in her hair. Action verb or linking verb? She is the wind in her
 hair. No, that doesn‟t make any sense. Felt is an action verb in this case.
 ```
+
 #### Helping Verbs
 
 Helping verbs show up in sentences to help out other verbs. Helping verbs never show
@@ -1600,6 +1759,7 @@ cooking is a verb phrase.)
  Mary can show you the report. (Can is the helping verb. Show is the main verb.
 Can show is a verb phrase.)
 ```
+
 #### Active Voice and Passive Voice
 
 Transitive verbs can be sorted even further into active voice and passive voice. In
@@ -1611,6 +1771,7 @@ Active voice is very clear, strong, and effective.
  Mary ran the race. (Mary is performing the action of the verb.)
  Dan sent an email to Sarah. (Dan is performing the action of the verb.)
 ```
+
 In **passive voice** the direct object of the verb becomes the subject of the sentence. The
 subject of the sentence is not performing the action of the verb in passive sentences.
 Often these sentences omit who is performing the action of the sentence. These
@@ -1625,6 +1786,7 @@ direct object.
  The race was run. (Who ran the race?)
  An email was sent to Sarah. (Who sent the email to Sarah?)
 ```
+
 Active voice is usually shorter, clearer, and more direct than passive voice. In most
 cases, active voice is the preferred way to get your point across. Passive voice can
 sound wordy, awkward, and weaker than active voice. There are some instances when
@@ -1645,6 +1807,7 @@ Verbs have a lot of work to do in a sentence!
  Fred and Mary walk five miles every evening. (habitual action)
  Mary drives the car to work. (habitual action)
 ```
+
 **Past tense** verbs show action that happened in the past. Regular verbs form the past
 tense by adding -ed or -d.
 
@@ -1652,6 +1815,7 @@ tense by adding -ed or -d.
  Sarah traveled to Hawaii. (Event happened in the past)
  Dan worked on the report. (Event happened in the past)
 ```
+
 **Future tense** verbs show action that will happen in the future. The helping verb _will_ is
 added to the principal verb to form the future tense. _Shall_ is another helping verb that
 can be used to form the future tense, but it is not as common.
@@ -1660,12 +1824,15 @@ can be used to form the future tense, but it is not as common.
  Dave will travel to Las Vegas next week. (Event will happen in the future)
  You will receive an invitation in the mail. (Event will happen in the future)
 ```
+
 ```
 Present Tense Past Tense Future Tense
 ```
+
 ```
 Singular Plural Singular Plural Singular Plural
 ```
+
 **First**
 **Person**
 
@@ -1673,14 +1840,17 @@ Singular Plural Singular Plural Singular Plural
 I walk we
 walk
 ```
+
 ```
 I walked we
 walked
 ```
+
 ```
 I will walk we will
 walk
 ```
+
 **Second**
 **Person**
 
@@ -1688,14 +1858,17 @@ walk
 you walk you
 walk
 ```
+
 ```
 you walked you
 walked
 ```
+
 ```
 you will walk you will
 walk
 ```
+
 **Third**
 **Person**
 
@@ -1703,26 +1876,32 @@ walk
 he, she, it
 walks
 ```
+
 ```
 they
 walk
 ```
+
 ```
 he, she, it
 walked
 ```
+
 ```
 they
 walked
 ```
+
 ```
 he, she, it
 will walk
 ```
+
 ```
 they will
 walk
 ```
+
 Note that third-person singular verbs are different than all of the other present tense
 verbs. Third-person singular verbs require an -s ending. Add -es if the verb ends in s,
 sh, ch, x, or z.
@@ -1732,6 +1911,7 @@ sh, ch, x, or z.
  Stephanie teaches (not teach) many subjects.
  Mary drives (not drive) the kids to school.
 ```
+
 #### Participles What are participles? Participles are another form that a verb takes.
 
 Every verb has five forms: present, past, present participle, past participle, and infinitive.
@@ -1783,6 +1963,7 @@ the past participle of the verb blend.)
  Sarah had studied all night. (Had is the helping verb. Studied is the past
 participle of the verb study.)
 ```
+
 2. Present and past participles can also work as adjectives. Adjectives describe
 nouns or pronouns.
  Sarah enjoyed her swimming lessons. (The present participle swimming is
@@ -1807,6 +1988,7 @@ acting as a gerund.)
 verb travel and is acting as a gerund. Traveling is the direct object of the verb
 enjoys.)
 ```
+
 **If a pronoun is modifying a gerund, then it must be in the possessive form.** There
 are a few exceptions, but it changes the meaning of the sentence. In most cases, the
 possessive form is needed.
@@ -1818,6 +2000,7 @@ requires the possessive pronoun his.)
 object to you, but to the action of your buying the tickets. Buying is a gerund and
 requires the possessive pronoun your.)
 ```
+
 Remember that past and present participles cannot act as a verb without helping verbs.
 If a participle is hanging out in your sentence without helping verbs, it is either acting as
 an adjective or as a noun (gerund).
@@ -1835,15 +2018,18 @@ a noun. It is the direct object of the verb refused.)
  Fred raced home to watch the football game. (To watch is the infinitive and is
 acting as an adverb. It is modifying the verb raced.)
 ```
+
 A common error with infinitives happens when people change “to” to the conjunction
 “and.”
 
 ```
  Be sure to call when you arrive. (Not be sure and call when you arrive.)
 ```
+
 ```
  Try to arrive on time. (Not try and arrive on time.)
 ```
+
 An infinitive is both words: _to_ plus the present form of the verb. It was once considered a
 grammatical crime to add any other words between _to_ and the verb. This is called a split
 infinitive. In Latin, infinitives are only one word, so they cannot be split. Two words form
@@ -1858,6 +2044,7 @@ or effect. Be aware that splitting infinitives can lead to awkward sentences.
  She decided to, on her way home from work, call her sister. (awkward)
  On her way home from work, she decided to call her sister. (better)
 ```
+
 #### Participle Phrases
 
 Participles and gerunds are often used to form phrases; these are called participle
@@ -1880,6 +2067,7 @@ phone is standing in line at Starbucks.)
 introductory phrase is modifying Mary. This sentence means that Mary is
 standing in line, and she heard her phone ring.)
 ```
+
 Errors with participle phrases are sometimes called dangling participles. An incorrect
 participle phrase is just dangling there and modifying the wrong noun. Careful writers
 make sure that the introductory participle phrase is modifying the intended noun.
@@ -1901,6 +2089,7 @@ father. (correct)
 the couch? Or were the shoes under the couch? Illogical and confusing.)
  Dan found the lost shoes lying under the couch. (Correct)
 ```
+
 If you want your sentences to be taken seriously, be sure that your phrases modify the
 correct nouns and pronouns.
 
@@ -1915,39 +2104,51 @@ is that these are words we use a lot.
 ```
 Present Tense Past Tense Present Participle Past Participle
 ```
+
 ```
 bring brought bringing brought
 ```
+
 ```
 catch caught catching caught
 ```
+
 ```
 drive drove driving driven
 ```
+
 ```
 fly flew flying flown
 ```
+
 ```
 forgive forgave forgiving forgiven
 ```
+
 ```
 ring rang ringing rung
 ```
+
 ```
 see saw seeing seen
 ```
+
 ```
 swim swam swimming swum
 ```
+
 ```
 think thought thinking thought
 ```
+
 ```
 throw threw throwing thrown
 ```
+
 ```
 write wrote writing written
 ```
+
 Most irregular verbs are words that we use regularly. If it is not a word that you are
 familiar with, be sure to check a dictionary for the correct way to form the past tense,
 present participle, and past participle.
@@ -1974,28 +2175,33 @@ People _lie_ down. _Down_ is not the direct object; it is just showing how peopl
  I will lie down for a nap. (present tense. Down is not a direct object.)
  Fred told the dog to lie down. (Present tense)
 ```
+
 _Lay_ is a transitive verb. _Lay_ requires a direct object in order to make sense.
 
 ```
  He lay the book on the table. (Book is the direct object.)
  Mary lay the baby in the crib. (Baby is the direct object.)
 ```
+
 Things get confusing when we move out of present tense.
 
 ```
 Present Past Present
 Participle
 ```
+
 ```
 Past
 Participle
 ```
+
 **Lie** (Intransitive) No Direct
 Object
 
 ```
 lie lay lying lain
 ```
+
 **Lay** (Transitive) Direct
 Object Required
 
@@ -2003,9 +2209,11 @@ Object Required
 lay laid (not
 laying)
 ```
+
 ```
 laying laid
 ```
+
 The mix up with these two words happens because the past tense of _lie_ is _lay_. This is
 where it becomes very important to know if the verb is transitive or intransitive.
 
@@ -2019,6 +2227,7 @@ meaning of the sentence. The subject is performing the action of the verb _lie_.
  Those newspapers have lain on the counter for weeks. (Past participle of the
 verb lie)
 ```
+
 Lay is a transitive verb and requires a direct object in order to complete the meaning of
 the sentence.
 
@@ -2032,6 +2241,7 @@ lay. Flooring is the direct object.)
  She has laid tile flooring before. (Past participle of the verb lay. Flooring is the
 direct object.)
 ```
+
 Popular music gets lay and lie wrong all time. Bob Dylan, Woodie Guthrie, Kris
 Kristofferson, Chasing Cars, Miley Cyrus, Eric Clapton, and many other musicians use
 lay/lie incorrectly in their music. Why do they use it incorrectly? Musicians might be
@@ -2061,6 +2271,7 @@ singular verbs. Plural subjects need plural verbs.
 rd person singular verbs
 require an “s.”
 ```
+
 #### Finding the subject
 
 The key to subject verb agreement is locating the subject of the sentence. This can be
@@ -2074,11 +2285,13 @@ _with, at, on, except,_ and _between_.
 ```
  The names on the invitation were Fred and Mary.
 ```
+
 ```
  The information from the president is listed below.
  Everyone except Fred is attending the party.
  The bill at the restaurant was paid in full.
 ```
+
 Subjects can be difficult to find when they appear near phrases that begin with the
 words _along with, as well as, in addition to, such as, including, together with, plus, and_
 _other._ These are called **parenthetical phrases**, and they are often set apart from the
@@ -2092,6 +2305,7 @@ ignore them when locating the subject of the sentence.
  The manager, along with all of her employees, has received a raise.
  The job application, plus tips on how to ace an interview, is listed online.
 ```
+
 If the sentence seems awkward, you can rewrite it to sound more natural. One option is
 to add the information in the parenthetical phrase to the subject. This creates a
 compound subject because it contains two subjects. Rewriting sentence with a
@@ -2105,6 +2319,7 @@ subject/plural verb)
  The job application and tips on how to ace an interview are listed online. (plural
 subject/plural verb)
 ```
+
 It can be challenging to find the subject in **inverted sentences.** Look for the true subject
 **after** the verb. Sentences beginning with _here_ and _there_ are always inverted. Questions
 are also written in inverted order. Look for the subject after the verb. If it helps clarify the
@@ -2118,6 +2333,7 @@ on the fence there.)
  How important are good grades? (Restoring subject-verb pattern: Good grades
 are how important?)
 ```
+
 #### Basic Rules for Subject-Verb Agreement
 
 Once you have located the subject, decide whether the subject is singular or plural and
@@ -2139,6 +2355,7 @@ plural.)
 subject, joined by the word and. Debbie and Dave is plural, so the verb are is
 plural.)
 ```
+
 **Subjects joined by and are singular in only two cases.**
 
 1. When the subjects are preceded by the words each or every, the verb is singular.
@@ -2150,6 +2367,7 @@ Think of it as each and every single thing.
  Each report and check needs to be signed. (Think of the sentence as, “Each
 individual report and each individual check needs to be signed.”)
 ```
+
 2. When the subject joined by and represents a single person or thing, it is considered
 singular. For example, macaroni and cheese is a singular noun. It refers to one dish.
 
@@ -2157,6 +2375,7 @@ singular. For example, macaroni and cheese is a singular noun. It refers to one 
  Macaroni and cheese is her favorite meal. (Macaroni and cheese represents a
 single dish, so the subject is singular.)
 ```
+
 **Subjects joined by or or nor**
 When two or more subjects are joined by _or_ or _nor_, the conjunction _or_ and _nor_ means it
 is either one or the other. _Or_ does not add the subjects together. _Or_ implies a choice
@@ -2168,6 +2387,7 @@ correct verb.
  Either you or Sam was responsible for bringing the coffee. (The closest subject is
 Sam. The verb agrees with Sam.)
 ```
+
 ```
  Either Sam or you were responsible for bringing the coffee. (The closest subject
 is you. The verb agrees with you.)
@@ -2176,6 +2396,7 @@ agrees with dog.)
  Neither the dog nor the cats are eating. (The closest subject is cats. The verb
 agrees with cats.)
 ```
+
 When dealing with subjects joined by _or_ or _nor_, if one part is singular and the other part
 is plural, it often sounds more natural to put the plural part closer to the verb.
 
@@ -2185,6 +2406,7 @@ correct, but might sound awkward.)
  Neither the letter nor the packages were delivered on time. (Grammatically
 correct and sounds natural.)
 ```
+
 **TIP: Either always pairs up with or. Neither always pairs up with nor.**
 
 **Company and Organization Names**
@@ -2201,6 +2423,7 @@ name of a single company.)
  Jones & Associates is located in Phoenix. (Jones & Associates is the name of a
 single company.)
 ```
+
 #### Challenges with Subject/Verb Agreement
 
 **Indefinite Pronouns**
@@ -2227,33 +2450,43 @@ verb)
  Most of her coffee is gone. (Most is singular in this sentence. The prepositional
 phrase reveals that most refers to her coffee. Singular subject/singular verb)
 ```
+
 ```
 Always Singular Always Plural Singular or plural
 ```
+
 ```
 Anyone anybody both all
 ```
+
 ```
 Anything each few any
 ```
+
 ```
 Either every many more
 ```
+
 ```
 Everyone everybody several most
 ```
+
 ```
 Everything neither none
 ```
+
 ```
 No one nobody some
 ```
+
 ```
 Nothing someone
 ```
+
 ```
 Somebody something
 ```
+
 **Collective Nouns as Subjects**
 
 Collective nouns such as _committee, jury, team, group, family, crowd, class, flock,_ and
@@ -2276,6 +2509,7 @@ The jury members were divided in their opinions.)
 as a unit, so it is considered plural. It sounds awkward. It sounds better to say
 The team members were practicing individually before the game.)
 ```
+
 **Distinction between the number and a number**
 When the word _number_ is the subject of a sentence, the adjective article (_the_ or _a_)
 reveals whether the noun is singular or plural.
@@ -2291,6 +2525,7 @@ verb)
  The number of text messages sent last month is too high. (singular
 subject/singular verb)
 ```
+
 **Quantities and Measures**
 When quantities and measures refer to total amounts, the subject is singular.
 
@@ -2300,6 +2535,7 @@ the total amount. Singular subject/singular verb)
  Ten miles is a long way to run in an afternoon. (Ten miles is the total amount.
 Singular subject/singular verb)
 ```
+
 If the quantities are referring to individual amounts, then the subject is considered plural.
 
 ```
@@ -2308,6 +2544,7 @@ unit, but as 200 individual quarters. Plural subject/plural verb)
  Four days a month are set aside for meetings. (The four days are not acting as a
 unit, but as four individual days. Plural subject/plural verb)
 ```
+
 **Fractions, portions, and percentages**
 Fractions, portions, and percentages can serve as the subject of a sentence. Fractions,
 portions, and percentages may be singular or plural depending on the nouns they refer
@@ -2324,6 +2561,7 @@ because it refers to a single report.)
  A percentage of the books were checked out by Mary. (A percentage is plural
 because it refers to many books.)
 ```
+
 **Chapter 7**
 
 ## Adjectives and Adverbs
@@ -2338,6 +2576,7 @@ language would sound bland.
  (Without adjectives or adverbs) She wore a hat.
  (With adjectives and adverbs) She proudly wore a gigantic, blue cowboy hat.
 ```
+
 Both sentences are grammatically correct, but the second sentence provides more
 information.
 
@@ -2354,6 +2593,7 @@ _what color is it?, which one is it?_, or _how many are there_?
 one?)
  Three birds sat on the fence. (Adjectives answer the question how many?)
 ```
+
 Adjectives also follow linking verbs. Linking verbs are all forms of the verb _be_, and can
 also be sensing verbs such as _taste, smell, look_, or _feel_. If the sensing verb is
 describing an action, then it is working as an action verb. If the sensing verb is
@@ -2369,6 +2609,7 @@ sense of touch.)
  Mary looks good in her new outfit. (Not well. The adjective good follows the
 linking verb looks.)
 ```
+
 **Articles**
 
 Articles are a specific category of adjectives. _A, an,_ and _the_ are adjectives that appear
@@ -2381,6 +2622,7 @@ immediately before nouns, making the noun specific or nonspecific.
  She went to the store. (she went to a specific store)
  He wants the motorcycle. (He wants a specific motorcycle)
 ```
+
 **A and an** are **indefinite articles** and are used to describe people, places, or things in
 general. When do you use _a_ and when do you use _an_? It depends on the word that
 comes next. **A** is used before words with a consonant sound, such as _a shop, a coffee,_
@@ -2391,6 +2633,7 @@ _a bike, a book, a one-week trip,_ and _a unit_.
  She went to a store. (it doesn‟t matter which store)
  He wants a motorcycle. (He wants a motorcycle, and he doesn‟t care which one.)
 ```
+
 **An** is used before words with a vowel sound, such as _an honor, an hour, an employee_,
 and _an umbrella_. The word does not have to begin with a vowel, but it has to make the
 vowel sound. Be careful with words that start with _h, u,_ and _o_. These letters can make
@@ -2401,6 +2644,7 @@ consonant sounds and vowel sounds.
  She took an umbrella on a Utopian vacation.
  Fred left an onion on the counter when he went on a one-week vacation.
 ```
+
 **Demonstrative Adjectives**
 
 _This, that, these_, and _those_ are all demonstrative adjectives. Demonstrative adjectives
@@ -2422,6 +2666,7 @@ a distance.)
  This class is my favorite. (The adjective and the noun are singular. The class is
 nearby.)
 ```
+
 **Possessive Adjectives**
 
 Possessive adjectives appear before the nouns they describe. _My car, our garden, your_
@@ -2431,6 +2676,7 @@ _vacation, his hat, her coffee, its schedule,_ and _their retreat_.
  His car was in the shop, but he got a ride in her car.
  I lost my book at your house.
 ```
+
 **Compound Adjectives**
 
 Compound adjectives are formed when two or more words are joined together to form a
@@ -2447,16 +2693,19 @@ after)
  A 15-year loan takes 15 years to pay off. (hyphenated before the noun, but not
 after)
 ```
+
 ```
  Dave and Sarah had first-class seats to a well-known resort. (permanently
 hyphenated compound adjectives)
 ```
+
 **Hyphens are used even if part of the compound adjective is implied.**
 
 ```
  Several two- and three-bedroom apartments are for rent.
  They are hiring many part- and full-time employees.
 ```
+
 Compound adjectives can use hyphens, but adverbs are not hyphenated when they
 appear before a noun. _Newly opened clinic, freshly painted room, individually wrapped_
 _candy_, and _highly respected musician_ would not be hyphenated because they contain
@@ -2483,11 +2732,13 @@ comma is needed between them.
 comma. Does it pass the test? The yellow and fluffy cat sat in the window. It still
 makes sense. A comma is needed between the adjectives.)
 ```
+
 ```
  Sarah is an intelligent, motivated student. (Coordinating adjectives separated
 with a comma. Does it pass the test? Sarah is a motivated and intelligent
 student. It still makes sense. A comma is needed between the adjectives.)
 ```
+
 If the sentence does not pass the test, then do not add the comma between the
 adjectives. These adjectives are called **cumulative adjectives** because they build on
 one another and need to stay in a specific order. No commas are needed between
@@ -2499,11 +2750,13 @@ comma separating the adjectives. Does it pass the comma test? The
 administrative and efficient assistant got the work done in record time. It does not
 pass the test, so no commas are needed between the adjectives.)
 ```
+
 ```
  The red sports car was speeding. (No comma separating the adjectives. Does it
 pass the comma test? The sports and red car was speeding. It does not pass the
 test, so no commas are needed between the adjectives.)
 ```
+
 ## Adverbs
 
 Adverbs describe and modify verbs, adjectives, and other adverbs. Adverbs can also
@@ -2519,6 +2772,7 @@ _where, when, how_, and _to what extent_.
  Mary ran so quickly that she finished early. (Adverb explains to what extent,
 how, and when.)
 ```
+
 Adverbs also follow action verbs.
 
 ```
@@ -2527,6 +2781,7 @@ action verbs)
  The dinner party went smoothly. (Not smooth. Adverbs follow action verbs)
  It rained unusually hard on Sunday. (Both unusually and hard are adverbs.)
 ```
+
 Some adverbs have two acceptable forms: slow, slowly; quick, quickly; deep, deeply;
 direct, directly; and close, closely.
 
@@ -2535,6 +2790,7 @@ direct, directly; and close, closely.
  Fred called the president directly. (Or less formal: Fred called the president
 direct.)
 ```
+
 **Double Negatives**
 
 Double negatives occur when a negative adverb (_no, not, nothing, none, hardly, barely_)
@@ -2546,11 +2802,13 @@ unprofessional and grammatically incorrect.
  He doesn’t drink coffee. (correct)
  He never drinks coffee. (correct)
 ```
+
 ```
  Mary can’t barely see without her glasses. (Double negative)
  Mary can barely see without her glasses. (correct)
  Mary can’t see without her glasses. (correct, but changes the meaning slightly)
 ```
+
 ## Comparative and Superlative Forms
 
 Do you need to compare something in your sentence? Adjectives work to compare
@@ -2583,6 +2841,7 @@ Used to compare two
 persons or things
 (usually add r or er)
 ```
+
 ```
 Superlative
 Used to compare three
@@ -2590,6 +2849,7 @@ or more persons or
 things
 (usually add st or est)
 ```
+
 **One syllable** old older oldest
 
 **Two syllables** quiet quieter quietest
@@ -2602,6 +2862,7 @@ things
 ```
 useful more/less useful most/least useful
 ```
+
 **Three or more**
 **syllables**
 
@@ -2609,15 +2870,18 @@ useful more/less useful most/least useful
 advantageous more/less
 advantageous
 ```
+
 ```
 most/least
 advantageous
 ```
+
 ```
  Mary‟s shoes are new. (Positive degree)
  Sarah‟s shoes are newer than Mary‟s shoes. (Comparative degree)
  Fred‟s shoes are the newest in the family. (Superlative degree)
 ```
+
 ```
  The new copy machine is efficient. (Positive degree)
  The new copy machine is more efficient than the last copy machine.
@@ -2625,6 +2889,7 @@ advantageous
  The new copy machine is the most efficient one on campus. (Superlative
 degree)
 ```
+
 Some adjectives do not follow the rules when forming their comparative and superlative
 degrees. These are called irregular adjectives. They play by their own rules.
 
@@ -2658,6 +2923,7 @@ Add st or est to one-
 syllable adverbs. Most use
 most/least.
 ```
+
 **One syllable** fast faster fastest
 
 **Two or more**
@@ -2666,18 +2932,21 @@ most/least.
 ```
 neatly more/less neatly most/least neatly
 ```
+
 **Two or more**
 **syllables**
 
 ```
 carefully more/less carefully most/least carefully
 ```
+
 **Two or more**
 **syllables**
 
 ```
 beautifully more/less beautifully most/least beautifully
 ```
+
 Some adverbs form their comparative and superlative degrees irregularly. These are
 called irregular adverbs, and they play by their own rules. It is a good idea to check a
 current dictionary if you are uncertain.
@@ -2738,6 +3007,7 @@ project done.)
  Mary can only get the project done. (Mary cannot do anything else. She can only
 get the project done.)
 ```
+
 Be sure to proofread your sentences carefully. Even when the adverb or adjective is
 close to the word it is modifying, the placement can affect the entire meaning of the
 sentence.
@@ -2748,14 +3018,17 @@ person at the meeting taking notes.)
  The boss noticed that Fred only took notes at the meeting. (Fred didn‟t
 participate in any other way at the meeting. He only took notes.)
 ```
+
 ```
  He hit almost every car in the parking lot. (He hit a majority of the cars in the
 parking lot.)
 ```
+
 ```
  He almost hit every car in the parking lot. (He came close to hitting a majority of
 the cars in the parking lot, but he missed them all.)
 ```
+
 [http://www.grammarbook.com/grammar/adjAdv.asp](http://www.grammarbook.com/grammar/adjAdv.asp) (Adjectives and Adverbs)
 [http://www.chompchomp.com/terms/adjective.htm](http://www.chompchomp.com/terms/adjective.htm) (Adjectives)
 
@@ -2792,6 +3065,7 @@ preposition is couch. The is a modifier)
  Christie went to class. (To is the preposition. The object of the preposition is
 class.)
 ```
+
 #### Prepositions and Pronouns
 
 If the object of a preposition is a pronoun, then it must be in the objective case (him,
@@ -2805,6 +3079,7 @@ objects of the preposition are Nancy and him.
  Dave sat beside me at the concert. (Not I) Beside is the preposition. The object
 of the preposition is me.
 ```
+
 #### Common Preposition Errors
 
 **Would’ve, could’ve, should’ve**
@@ -2819,6 +3094,7 @@ _could have (_or _could’ve)_ and _should have (_or _should’ve)_. _Would of_ 
  Steve could have won the race. (Not could of)
  He would have brought the doughnuts, but the shop was closed. (Not would of)
 ```
+
 **From, off, off of**
 _From_ and _off_ are both prepositions, but they do not mean the same thing. They are not
 interchangeable. _Off_ is the opposite of _on_; be sure that meaning works in your sentence.
@@ -2831,10 +3107,12 @@ documents, do not add “of” unless it is necessary for clarity.
 Sarah, then the book would need to first be “on” Sarah. Is she wearing the book?
 Probably not. Does she own the book? Yes. Fred borrowed the book from Sarah.
 ```
+
 ```
  Mary jumped off the diving board. (Not off of) The meaning is clear and concise
 without the additional preposition.
 ```
+
 **To and too**
 
 _To_ and _too_ are have different meanings and they are not interchangeable. The
@@ -2844,9 +3122,11 @@ or also.”
 ```
  They wanted to go to the movie.
 ```
+
 ```
  The movie was too long.
 ```
+
 #### Commonly Confused Prepositions
 
 Many prepositions do similar jobs, so it is common to get confused about which one to
@@ -2860,6 +3140,7 @@ use.
  The border between California and Oregon is very mountainous.
  Please divide the pie evenly among the six children.
 ```
+
 **Beside/besides**
 **Beside** means _next to_.
 **Besides** means _in addition to_.
@@ -2868,6 +3149,7 @@ use.
  The woman standing beside me in line ordered the last scone.
  Besides the scone, she ordered two lattes and a muffin.
 ```
+
 **Except/accept**
 _Except_ and _accept_ are different parts of speech. They might sound similar when
 spoken, but they are different.
@@ -2878,6 +3160,7 @@ spoken, but they are different.
  Everyone except Andrew was at school.
  Ava will accept the award on his behalf.
 ```
+
 **In, into, in to**
 **In** shows a location or position
 **Into** has three meanings and all of them show action:
@@ -2895,6 +3178,7 @@ can show up next to each other in a sentence.
  He bumped into Steve last week. (making contact)
  The caterpillar turned into a butterfly. (changing form)
 ```
+
 **Like, as, as if, as though**
 _Like_ can be used as a preposition to introduce a noun or a pronoun. Do not use it to
 introduce a clause. If everything after the word _like_ could form a complete sentence,
@@ -2908,6 +3192,7 @@ clause.)
  As I said in my text message, I am going to Starbucks now. (Not like. I said in my
 text message is an independent clause.)
 ```
+
 #### Necessary and Unnecessary Prepositions
 
 **Necessary prepositions**
@@ -2921,6 +3206,7 @@ sentence. Be careful when two prepositions modify a single object in your senten
  My interest in and commitment to your program remain high. (In and to are both
 prepositions with the same object: program.)
 ```
+
 **Unnecessary prepositions**
 
 Too many prepositions can clutter sentences up with unnecessary wordiness. Business
@@ -2933,6 +3219,7 @@ sentence.
  Both students performed well on the test. (Not both of the students)
  Mary jumped off the diving board. (Not off of the diving board)
 ```
+
 Many writers overuse the preposition “of.” Grammar Girl writes, “Of is a preposition, and
 although it‟s not an inherently evil word, overusing it can make your writing sound
 passive and fussy.” [http://www.quickanddirtytips.com/education/grammar/do-you-](http://www.quickanddirtytips.com/education/grammar/do-you-)
@@ -2956,10 +3243,12 @@ Ending a sentence with a preposition is acceptable in informal writing.
  When you called earlier, whom did you speak to? (informal)
  When you called earlier, to whom did you speak? (formal)
 ```
+
 ```
  What are these cookies made of? (informal)
  What ingredients are in these cookies? (formal)
 ```
+
 According to Grammarmonster.com
 _Try to avoid ending a sentence with a preposition. This is not really a rule, but_
 _lots of people think it is. So, to ensure you don't annoy your readers, just avoid_
@@ -3047,6 +3336,7 @@ FANBOYS, which represents **for, and, nor, but, or, yet,** and **so**.
 home. (But joins equal clauses.)
  Neither Mary nor Fred remembered to call home. (Nor joins equal nouns.)
 ```
+
 _Yet_ and _for_ are not as common as the other coordinating conjunctions.
 
 ```
@@ -3055,6 +3345,7 @@ clauses.)
  They visited the new ski resort, yet they stayed at their favorite hotel in town.
 (Yet joins equal clauses.)
 ```
+
 The word _so_ should only be used as a coordinating conjunction in informal writing. In
 formal writing, the conjunctive adverbs **therefore** and **consequently** can be substituted
 for the coordinating conjunction _so_. Conjunctive adverbs require a semicolon and a
@@ -3077,6 +3368,7 @@ needed between the clauses.
  Mary‟s car broke down on her way to work; consequently, she had to take the
 bus. (Formal) Conjunctive adverb used
 ```
+
 #### Punctuating compound sentences
 
 A compound sentence contains two or more independent clauses. Independent clauses
@@ -3093,6 +3385,7 @@ phone. (comma + conjunction)
  Mary cooked dinner on Monday, but Fred cooked dinner the rest of the week.
 (comma + conjunction)
 ```
+
 **Do not use commas when coordinating conjunctions join compound verbs,**
 **objects, or phrases. If the words after the conjunction do not form a complete**
 **sentence, do not use a comma after the conjunction.**
@@ -3106,10 +3399,12 @@ students is not a complete sentence.)
  Fred rode to the concert and parked his motorcycle in an underground parking
 garage. (No comma is needed because and joins the compound verbs rode and
 ```
+
 ```
 parked. Parked his motorcycle in an underground parking garage is not a
 complete sentence.)
 ```
+
 **Independent clause + comma + FANBOYS + independent clause = compound**
 **sentence**
 
@@ -3139,6 +3434,7 @@ after the conjunctive adverb because thus is only one syllable.)
  Fred forgot his wallet at home; consequently, he was unable to pay for the
 meal.
 ```
+
 #### Parenthetical Adverbs
 
 Many conjunctive adverbs also work as parenthetical adverbs, so be sure to pay
@@ -3157,6 +3453,7 @@ interrupts the flow of the sentence. It is set apart with commas.)
 parenthetical adverb interrupts the flow of the sentence. It does not join two
 independent clauses. It is set apart with commas.)
 ```
+
 **How can you tell parenthetical adverbs and conjunctive adverbs apart?**
 Conjunctive adverbs join two independent clauses together. An independent clause
 must appear on both sides of the conjunctive adverb. Parenthetical adverbs appear
@@ -3184,22 +3481,26 @@ information or breaks the flow of the sentence, a comma should be used for clari
 subordinating conjunction introduces the dependent clause at the beginning of
 the sentence, and it is set apart from the independent clause with a comma.)
 ```
+
 ```
  Because it was too crowded to sit inside the coffeehouse, we took our coffees to
 the park. (The subordinating conjunction introduces the dependent clause at the
 beginning of the sentence, and it is set apart from the independent clause with a
 comma.)
 ```
+
 ```
  We took our coffees to the park because it was too crowded to sit inside the
 coffeehouse. (The subordinating conjunction is terminal. The dependent clause
 ends the sentence; therefore, no comma is needed.)
 ```
+
 ```
  I am certain that I paid my cell phone bill, although I cannot find my receipt. (The
 terminal dependent clause adds unnecessary information and is set apart with a
 comma for clarity.)
 ```
+
 #### Parenthetical Clauses
 
 Parenthetical clauses interrupt the flow of the sentence with additional and nonessential
@@ -3211,6 +3512,7 @@ campus. (Nonessential information is set apart with commas)
  Her shoes, that she bought on sale last week, were ruined in the rain.
 (Nonessential information is set apart with commas)
 ```
+
 #### Relative Clauses
 
 Relative clauses are clauses introduced by the relative pronouns _who, whom, whose,_
@@ -3236,6 +3538,7 @@ needed to identify which students must attend class regularly.)
  A dog that is adopted from the shelter is happy to have a home. (The relative
 pronoun refers to a dog, and it introduces an essential clause.)
 ```
+
 A nonessential clause contains information that might be interesting, but it is not
 necessary. The main clause is understandable without this additional information. If the
 clause is nonessential, it is set apart from the sentence with commas on both sides of
@@ -3248,6 +3551,7 @@ nonessential information.)
  Fred, who lives in South Carolina, is an excellent cook. (The relative pronoun
 refers to Fred, but it introduces nonessential information.)
 ```
+
 **Correlative Conjunctions**
 Correlative conjunctions join grammatically equal sentence elements and are always
 used in pairs. **Both... and, not only... but, either... or,** and **neither... nor**.
@@ -3259,10 +3563,12 @@ coordinating conjunctions.
  I not only have the energy for the marathon, but time. (Not parallel)
  I not only have the energy for the marathon, but I have the time too. (Parallel)
 ```
+
 ```
  Either Dave was flying to London or to Tucson. (Not parallel)
  Dave was flying either to London or to Tucson. (Parallel)
 ```
+
 #### Punctuation Review
 
 **Independent Clause, + FANBOYS + Independent Clause** (A comma is used when a
@@ -3298,18 +3604,22 @@ comma if only two items are listed.
  She enjoys running, swimming, and rock climbing. (Series of words. Notice that a
 comma precedes and; this comma is called the serial comma.)
 ```
+
 ```
  She enjoys running on the track, swimming in the pool, and rock climbing at the
 gym. (Series of phrases.)
 ```
+
 ```
  Mary is the owner, Fred is the manager, and Dan is the marketing assistant.
 (Series of clauses.)
 ```
+
 ```
  She enjoys swimming and rock climbing. (Only two items listed. No comma
 required.)
 ```
+
 The items in the series must have the same grammatical structure. This is called
 **parallel construction**. If two of the three items in a series have articles, then the third
 item needs to be rewritten with an article too.
@@ -3321,6 +3631,7 @@ is a phrase.)
  The new student is intelligent, dependable, and punctual. (Parallel
 construction. All items on the list are adjectives.)
 ```
+
 ```
  He asked for a hat, a Lego set, and for a gift card. (Not parallel construction.
 Two of the items in the series begin with a preposition. This needs to be
@@ -3330,6 +3641,7 @@ first item is preceded by a preposition.)
  He asked for a hat, for a Lego set, and for a gift card. (Parallel construction, but
 a bit wordy.)
 ```
+
 NOTE: Newspapers follow AP Style. AP Style omits the final comma in a series
 unless it is needed for clarity. This final comma is known as the serial comma or the
 Oxford comma. This final comma is controversial. Some people insist that you can
@@ -3348,13 +3660,16 @@ commas.
  Sarah, do you have the realtor‟s phone number? (At the beginning of the
 sentence)
 ```
+
 ```
  Are you, the future leaders of America, ready to take the next step? (In the
 middle of the sentence)
 ```
+
 ```
  Let‟s eat, grandma! (At the end of the sentence)
 ```
+
 This comma is important. If you forget to place this comma, it changes the meaning of
 the sentence.
 
@@ -3371,6 +3686,7 @@ sense, then move on to the second rule.
  2. Mentally reverse the order of the adjectives. Does the sentence still make
 sense?
 ```
+
 If the sentence still makes sense, then the adjectives are working independently and a
 comma is needed between them.
 
@@ -3379,6 +3695,7 @@ comma is needed between them.
 beautiful and talented actress.)
  The fluffy, yellow cat sat in the sun. (The yellow and fluffy cat sat in the sun.)
 ```
+
 #### Independent Clauses
 
 When two independent clauses are joined together with a coordinating conjunction, a
@@ -3388,6 +3705,7 @@ comma is needed before the conjunction.
  Fred and Mary walked their dog to the park, but they left when it started to rain.
  The rain finally stopped, and the children went to the park to play.
 ```
+
 #### Introductory Dependent Clauses
 
 Dependent clauses that begin sentences are set apart from the independent clause with
@@ -3402,6 +3720,7 @@ dependent clause separated with a comma.)
  If you go out in the rain, be sure to wear a coat. (Introductory dependent clause
 separated with a comma.)
 ```
+
 #### Terminal Dependent Clauses
 
 When a dependent clause appears at the end of the sentence, a comma is usually not
@@ -3420,6 +3739,7 @@ needed.)
 them earlier if you choose. (The dependent clause provides nonessential
 information, so a comma is required.)
 ```
+
 #### Parenthetical Expressions
 
 Parenthetical words, phrases, and clauses interrupt the flow of the sentence and offer
@@ -3430,10 +3750,12 @@ separate parenthetical elements from the rest of the sentence.
 ```
  No, I will not be attending the conference. (At the beginning of the sentence)
 ```
+
 ```
  We know, for example, that the book is overpriced. (In the middle of the
 sentence)
 ```
+
 ```
  You have checked your writing assignment for accuracy, no doubt. (At the end
 of the sentence)
@@ -3442,6 +3764,7 @@ are needed because the information is unnecessary.)
  The sweatshirt, which happened to be bright yellow, sat on the sale rack for
 weeks. (Commas are needed because the information is unnecessary.)
 ```
+
 **DO NOT use commas to set off clauses that contain essential information**. If the
 clause contains information that is needed to complete the meaning of the sentence,
 then no commas are needed. This information is also covered in Chapter 9.
@@ -3454,6 +3777,7 @@ meaning of the sentence.)
 neighborhood. (No commas are necessary because the clause is essential to the
 meaning.)
 ```
+
 #### Commas and Appositives
 
 Appositives rename nouns or pronouns. Usually an appositive appears right next to the
@@ -3464,10 +3788,12 @@ should be set off by commas.
  Sam Jones, the union representative, is here. (The appositive adds
 nonessential information; commas set it off.)
 ```
+
 ```
  You may pick up your order at the location closest to your home, our Lynnwood
 branch. (The appositive adds nonessential information.)
 ```
+
 When an appositive is needed to identify the noun or pronoun referred to earlier in the
 sentence, do not set it off with commas.
 
@@ -3476,11 +3802,13 @@ sentence, do not set it off with commas.
 appositive is needed to identify the specific book; therefore, no commas are
 used.)
 ```
+
 Closely related one-word appositives do not require commas.
 
 ```
  My brother Dan sometimes uses my computer.
 ```
+
 #### Commas and the Adverb too
 
 The adverb _too_ requires different punctuation depending on its meaning in the
@@ -3499,6 +3827,7 @@ apart with commas.
  That joke was too funny. (Too means excessively in this sentence. No commas
 are needed.)
 ```
+
 #### Commas and Introductory Phrases
 
 **Introductory Verbal Phrases**
@@ -3512,6 +3841,7 @@ verb phrase separated with a comma)
  Working long hours, we finished the project early. (Introductory verb phrase
 separated with a comma)
 ```
+
 **Introductory Prepositional Phrases**
 Prepositional phrases can also introduce sentences. Introductory prepositional phrases
 with four words or more should be followed by a comma.
@@ -3522,6 +3852,7 @@ prepositional phrase is only 2 words)
  By the middle of March, the sun will shine more often in Seattle. (Introductory
 prepositional phrase separated with a comma)
 ```
+
 #### Dates, Time Zones, Addresses, and Geographic
 
 #### Locations
@@ -3536,18 +3867,22 @@ separated with commas.
  On March 4 we will celebrate a special holiday. (Only two parts. No comma
 needed.)
 ```
+
 ```
  On March 4, 2014, we will celebrate a special holiday. (Two commas set off the
 third part.)
 ```
+
 ```
  On Tuesday, March 4, 2014, we will finish the chapter. (Month and date are
 never separated with commas. Commas separate other parts in this list.)
 ```
+
 ```
  In March 2012 investors saw the stock price increase substantially. (Only two
 parts. No comma needed.)
 ```
+
 **Time Zones**
 When writing a sentence that contains a time zone, commas separate the time zone
 from the rest of the sentence. Note that commas are used on both sides of the time
@@ -3557,9 +3892,11 @@ zone.
  Our flight leaves Seattle at 8:55 a.m., PST, and arrives in New York at 5:05 p.m.,
 EST.
 ```
+
 ```
  Dan ordered the flowers at 11:58 p.m., PST, and the coupon expired at midnight.
 ```
+
 **Addresses**
 When addresses are written in a sentence, separate each part of the address with
 commas. Do not place a comma between the state and the zip code.
@@ -3569,11 +3906,13 @@ commas. Do not place a comma between the state and the zip code.
 Place, Seattle, WA 98101, before your trip. (Commas are used between all
 elements except the state and zip code, which are considered a single unit.)
 ```
+
 ```
  Edmonds Community College is located at 20000 68th Avenue West, Lynnwood,
 WA 98036. (Commas are used between all elements except state and zip code,
 which are considered a single unit.)
 ```
+
 **Geographic Locations**
 When referring to a location with both the city and the state, separate the city from the
 state with commas. Commas are used on both sides of the state name unless the state
@@ -3587,11 +3926,13 @@ separate the city, state, and country with commas.
  The Jones family moved from Portland, Oregon, to Billings, Montana. (Two
 commas set off the state unless it appears at the end of the sentence.)
 ```
+
 ```
  The 12-hour flight from London, England, to Seattle, Washington, was filled with
 business travelers. (Two commas set off the country unless it appears at the end
 of the sentence.)
 ```
+
 #### Contrasting Statements
 
 Commas are used to set apart two related, but contrasting, statements. Contrasting
@@ -3605,6 +3946,7 @@ contrasting statements, separate the contrasting statements with commas.
  The more she complains, the more we ignore her. (One comma sets off a
 contrasting statement at the end of the sentence.)
 ```
+
 #### Clarity
 
 Commas can help eliminate confusion in a sentence. Commas are used to separate
@@ -3618,6 +3960,7 @@ clarity.)
  They waited a very, very long time for a table at the restaurant. (Comma added
 between the repeated words.)
 ```
+
 #### Short Quotations
 
 A comma is used before the quotation mark to set off a short quotation from the rest of
@@ -3629,6 +3972,7 @@ of the quotation.
  “Discipline,” said Abraham Lincoln, “is choosing between what you want now and
 what you want most.”
 ```
+
 #### Degrees, Abbreviations, and Numbers
 
 **Degrees and Abbreviations**
@@ -3641,6 +3985,7 @@ separated with commas.
  Mary Elizabeth, MD, is currently accepting new patients.
  Fred Jones Sr. is the father of Fred Jones Jr.
 ```
+
 **Company Abbreviations**
 Some companies have the abbreviations Inc. and Ltd. in their company name. Inc. and
 Ltd. are not set off with commas unless the company‟s legal name includes the
@@ -3650,6 +3995,7 @@ commas. (This is not common.)
  Pixar Inc. creates animated movies and short films. (no comma needed)
  Apple Inc. invented the iPhone. (no comma needed)
 ```
+
 **Numbers**
 To avoid potential confusion, use a comma when unrelated numbers appear side by
 side in a sentence. Numbers of more than three digits require commas. Calendar
@@ -3663,6 +4009,7 @@ side by side are separated with a comma.)
 than three digits.)
  Their zip code is 98052. (No internal comma needed in a zip code)
 ```
+
 #### Quick List of Comma Rules
 
 1. Use a comma to separate three or more items in a series.
@@ -3700,6 +4047,7 @@ now.
 ```
  By September 2014, 13 new cafes will be opening on campus.
 ```
+
 **Chapter 11**
 
 ## Semicolons, Colons, and Other
@@ -3721,10 +4069,12 @@ closely related, then a semicolon is not the right choice.
  Winter quarter is almost finished; finals take place in two weeks. (Correct! These
 two independent clauses are closely related.)
 ```
+
 ```
  Summer quarter begins in July; I like coffee. (Incorrect! These two independent
 clauses are not closely related.)
 ```
+
 Independent clauses can work as their own sentence. If the clause cannot function as
 an independent sentence, then the semicolon is not the right choice. In addition, **never**
 use coordinating conjunctions with semicolons. Semicolons and coordinating
@@ -3740,6 +4090,7 @@ half of the sentence is a prepositional phrase and not an independent clause.)
 location. (Incorrect! Semicolons and coordinating conjunctions are never used
 together.)
 ```
+
 **Semicolons are used to connect two independent clauses with the addition of a**
 **conjunctive adverb.** Conjunctive adverbs provide a transition between one clause and
 the next clause. A semicolon appears before the conjunctive adverb, and a comma
@@ -3757,6 +4108,7 @@ information that was on the exam.
 many notifications when she turned her phone back on. (No comma needed after
 hence.)
 ```
+
 **Semicolons are used to separate items in a series when those items already have**
 **commas.** Usually you only use commas to separate items in a series, but when the
 items already contain commas, semicolons are added for clarity.
@@ -3768,6 +4120,7 @@ separate the locations, which are already written as city, country.)
 York, New York. (Semicolons separate the locations, which are written with
 internal commas separating the city and the state.)
 ```
+
 **Semicolons are used to separate three or more independent clauses that appear**
 **in a series.** These sentences can be long and wordy. If the sentence becomes too
 cumbersome, it is time to rewrite it.
@@ -3777,6 +4130,7 @@ cumbersome, it is time to rewrite it.
 coffeehouse offered only coffee; and the third coffeehouse offered coffee,
 muffins, and music.
 ```
+
 #### Colons
 
 **The colon is used to introduce lists, quotations, and explanations.** Colons alert the
@@ -3801,10 +4155,12 @@ of each item on the list.
 Orleans. (Do not place the colon after “are” because it is a verb. You can usually
 add “the following” to make the phrase an independent clause.)
 ```
+
 ```
  She had only one request that morning: coffee. (Colon introduces the one item
 on her list.)
 ```
+
 ```
  During November and December, Starbucks offers the following coffee
 beverages:
@@ -3812,16 +4168,19 @@ o Pumpkin Spice Lattes
 o Peppermint Lattes
 o Peppermint Mochas
 ```
+
 ```
  Mary‟s favorite cities are
 o Paris
 o London
 o Prague
 ```
+
 ```
 (No colon is used for this list because the sentence would not form an
 independent clause before the colon.)
 ```
+
 **Use a colon to introduce long one-sentence quotations and quotations longer**
 **than one sentence.** The entire quotation needs to be inside the quotation marks,
 including the sentence punctuation.
@@ -3831,6 +4190,7 @@ including the sentence punctuation.
 anyone can start today and make a new ending.” (Long one-sentence quotation
 introduced with a colon.)
 ```
+
 Long quotations that fill more than three lines should be moved to a separate paragraph
 without quotation marks. The paragraph should be indented on the right and the left,
 and the quotation should be separated from the rest of the text with a blank line before
@@ -3845,6 +4205,7 @@ do. If you haven't found it yet, keep looking. Don't settle. As
 with all matters of the heart, you'll know when you find it.
 --Steve Jobs
 ```
+
 **Use a colon to connect two independent clauses if the second clause explains or**
 **supplements the first clause.** If the information after the colon does not explain or
 illustrate the first clause, then a semicolon is a better punctuation choice.
@@ -3854,6 +4215,7 @@ illustrate the first clause, then a semicolon is a better punctuation choice.
 game. (What was their huge problem? The second clause explains what the
 “huge problem” is.)
 ```
+
 **Colons are used after the salutation of a business letter.**
 
 ```
@@ -3861,12 +4223,14 @@ game. (What was their huge problem? The second clause explains what the
  Dear Dr. Mary Jones:
  To Whom it May Concern:
 ```
+
 **Colons are used to separate hours and minutes.**
 
 ```
  10:59 p.m.
  6:30 a.m.
 ```
+
 **Colons are used to separate the title and the subtitle of books, articles, and other**
 **publications.**
 
@@ -3875,6 +4239,7 @@ game. (What was their huge problem? The second clause explains what the
  Woe is I: The Grammarphobe‟s Guide to Better English in Plain English (book
 title)
 ```
+
 #### Periods
 
 Periods are most commonly used to end a sentence, but periods have other uses too.
@@ -3906,6 +4271,7 @@ suggestion)
  Will you please let me know if you have any questions. (polite request)
  Could you please arrive ten minutes early for your appointment. (polite request)
 ```
+
 Punctuating polite requests can be confusing. As the writer, you have control over how
 the sentence is written. Rewrite the sentence as a statement if a period seems
 awkward.
@@ -3917,6 +4283,7 @@ request rewritten as a statement)
  Please arrive ten minutes early for your appointment. (polite request rewritten as
 a statement)
 ```
+
 **Use periods to punctuate lower case abbreviations.**
 
 ```
@@ -3927,6 +4294,7 @@ a statement)
  St. (street)
  EXCEPTIONS: mph (miles per hour), wpm (words per minute)
 ```
+
 **Use periods to punctuate abbreviations containing capital and lowercase letters.**
 
 ```
@@ -3935,6 +4303,7 @@ a statement)
  Mrs. (Misses)
  Est. (Established)
 ```
+
 **No periods are used to punctuate abbreviations containing all capital letters.**
 Businesses, organizations, academic degrees, geographic areas, television stations,
 federal agencies, and professional certificates do not use periods.
@@ -3951,6 +4320,7 @@ a person‟s name, such as J. K. Rowling.
  EXCEPTION: use periods when United States is abbreviated and used as an
 adjective (U.S. government)
 ```
+
 **Punctuating after an abbreviation**
 If the abbreviation appears at the end of a sentence, you do not add an additional
 period to the end of the sentence. If your sentence ends with a different punctuation
@@ -3963,10 +4333,12 @@ your sentence.
  Did you mark the course in ft. or yds.? (period used for abbreviation and question
 mark used to end the question)
 ```
+
 ```
  Did you mark the course in feet or yards? (rewritten using the words feet and
 yards instead of their abbreviations)
 ```
+
 #### Question Marks
 
 **Use a question mark to punctuate a direct question.**
@@ -3975,6 +4347,7 @@ yards instead of their abbreviations)
  Have you seen my keys?
  What do you want for dinner?
 ```
+
 **Use a question mark to punctuate tag questions added to statements.** These
 questions are added to the end of a statement and turn the entire sentence into a
 question.
@@ -3984,6 +4357,7 @@ question.
  That was the best movie, don‟t you think?
  You didn‟t forget your wallet again, did you?
 ```
+
 **Use a question mark to punctuate statements that are meant to be read as**
 **question or to show surprise.** Adding a question mark changes the meaning of the
 sentence. If you want the sentence to be read as a question, then add a question mark.
@@ -3996,12 +4370,14 @@ sentence. Why are we going out at midnight?)
  The shoes cost $300? (The question mark changes the meaning of the
 sentence.)
 ```
+
 **Use a question mark within parentheses to show doubt or uncertainty.**
 
 ```
  She graduated from college (1996?) after years of studying.
  He started his job a few years ago (2010?).
 ```
+
 #### Exclamation Points
 
 The exclamation point expresses strong emotions, excitement, horror, urgency, and
@@ -4011,6 +4387,7 @@ panic. Use it sparingly to avoid the impression that you are shouting.
  Wow! I won the lottery!
  That is amazing!
 ```
+
 #### Hyphens
 
 Hyphens reveal a connection between words. It alerts the reader that these words go
@@ -4024,6 +4401,7 @@ four-hour shifts.)
  The doctors worked twenty-four hour shifts. (The doctors worked twenty-four
 separate hour-long shifts.)
 ```
+
 **Use a hyphen to create compound nouns, verbs, and adjectives.**
 
 ```
@@ -4033,6 +4411,7 @@ separate hour-long shifts.)
  double-space
  full-time
 ```
+
 **Use a hyphen to create words with the following prefixes: ex, self, or quasi.**
 
 ```
@@ -4040,6 +4419,7 @@ separate hour-long shifts.)
  She has a lot of self-esteem.
  The ex-president of the company was invited to the meeting.
 ```
+
 **Use a hyphen to write family titles that contain ex, great, or in-law. The prefixes**
 **step, half, or grand are not hyphenated.**
 
@@ -4050,6 +4430,7 @@ separate hour-long shifts.)
  stepsister
  stepbrother
 ```
+
 **Use a hyphen to divide a word over two lines.** This rule only applies if you are
 working on a typewriter. Most word processing software will adjust the spacing, and
 move the word to the next line.
@@ -4090,6 +4471,7 @@ for clarity.)
 meeting. (Parenthetical element contains internal commas. Dashes used for
 clarity.)
 ```
+
 If you place parenthetical elements between dashes instead of commas, it emphasizes
 the parenthetical element.
 
@@ -4097,10 +4479,12 @@ the parenthetical element.
  All students--including Sam Jones--must take the test again. (Parenthetical
 element is emphasized.)
 ```
+
 ```
  All of the desserts--especially the cheesecake--were devoured by the students.
 (Parenthetical element is emphasized.)
 ```
+
 **Use a dash to show an interruption of thought, an abrupt change of thought, or an**
 **afterthought.** This is an abrupt form of punctuation for an afterthought. It is often better
 to rewrite the sentence.
@@ -4111,6 +4495,7 @@ of a thought)
  Let‟s meet for coffee on Thursday--no, let‟s meet Friday instead. (Abrupt change
 of thought. Rewriting would improve this sentence.)
 ```
+
 **Use a dash to connect an introductory list with a summarizing statement.** If this
 seems awkward, you can rewrite the sentence without the dash.
 
@@ -4121,6 +4506,7 @@ popular iPhone games. (with the dash)
 popular iPhone games. (No dash. Coordinating conjunction added to connect the
 list to the summary.)
 ```
+
 **Use a dash to attribute a quotation.** The dash immediately precedes the source of the
 quotation. The dash and source should appear on a separate line and aligned to the
 right.
@@ -4130,6 +4516,7 @@ right.
 any other one thing.
 --Abraham Lincoln
 ```
+
 #### Parentheses
 
 Parentheses are always used in pairs to enclose a complete sentence, a word, a
@@ -4149,6 +4536,7 @@ emphasis placed on the parenthetical information.)
  The advertisement (which appears on page 5) has a major spelling error. (Least
 emphasis placed on the parenthetical information.)
 ```
+
 **Use parentheses to enclose numbers in formal documents.** In legal, business, and
 formal documents, numbers usually appear in both word and numeral form. Using the
 written form of the number and the numeral form should be reserved for formal
@@ -4158,6 +4546,7 @@ documents.
  Payment is due in thirty (30) days.
  The boat cost twenty thousand dollars ($20,000).
 ```
+
 **Use parentheses to enclose numbers or letters that list items in a sentence.** Use
 numbers to list items that require a specific order. Letters are used for lists that do not
 require a specific order.
@@ -4170,6 +4559,7 @@ payment, and (5) click the submit button to complete your purchase.
 appropriate running shoes, (b) break in new shoes before the race, (c)
 incorporate a rest day every week, and (d) stretching is required.
 ```
+
 **Parentheses and Sentence Punctuation**
 If the entire sentence is inside parentheses, then the period is also inside the
 parentheses.
@@ -4178,6 +4568,7 @@ parentheses.
  (Check Canvas for all upcoming due dates.)
  (See page 5 for more information.)
 ```
+
 If only part of the sentence is enclosed with parentheses, and that section appears at
 the end of the sentence; then the punctuation stays outside of the parentheses.
 Semicolons, colons, and commas that appear in the sentence stay outside of the
@@ -4187,10 +4578,12 @@ parentheses.
  Sarah will travel to Hawaii next week (June 4). (The period is outside the
 parentheses.)
 ```
+
 ```
  When we start Spring quarter (April 7), the weather will be warmer. (Comma is
 outside the parentheses)
 ```
+
 If a complete sentence appears in parentheses, and the parenthetical sentence is
 embedded inside another sentence, do not capitalize the first letter of the parenthetical
 sentence. If the sentence in parentheses requires a question mark or an exclamation
@@ -4209,6 +4602,7 @@ home) to watch the sunset. (A complete sentence is embedded within the
 sentence. Do not add a period to this sentence! Do not capitalize the first letter of
 the sentence inside the parentheses.)
 ```
+
 #### Quotation Marks
 
 Quotation marks always appear in pairs. One quotation mark appears at the beginning
@@ -4224,6 +4618,7 @@ do not use quotation marks.
  Walt Disney said that curiosity and imagination are important. (indirect quotation
 requires no quotation marks)
 ```
+
 **Use quotation marks to enclose the titles of magazine articles, songs, short**
 **stories, television episodes, or a chapter of a larger book.**
 
@@ -4231,6 +4626,7 @@ requires no quotation marks)
  The kids love the song “In Summer” from the movie Frozen.
  Dave‟s favorite episode of Lost was “The Constant.”
 ```
+
 **Quotation Marks and Punctuation**
 **Periods and commas are always placed inside the quotation marks**.
 
@@ -4240,6 +4636,7 @@ requires no quotation marks)
  Fred said, “Order me a latte,” but Mary accidently ordered him a mocha. (comma
 is inside the quotation marks)
 ```
+
 **Colons and semicolons are always placed outside the quotation marks.**
 
 ```
@@ -4248,6 +4645,7 @@ appears outside the quotation marks)
  The following characters appeared in the episode “The Constant”: Kate, Jack,
 Desmond, and Locke.
 ```
+
 Question marks and exclamation point can be placed inside or outside the quotation
 mark, but it is determined by the sentence. Question marks and exclamation points are
 placed inside the quotation mark if they are part of the quotation. If the quotation is a
@@ -4262,6 +4660,7 @@ quotation. An additional punctuation mark is not needed.)
 entire sentence is a question. The quotation is not a question. The question mark
 is placed outside the quotation mark.)
 ```
+
 #### Italics
 
 **Use italics for the titles of books, magazines, movies, shows, plays, newspapers,**
@@ -4272,6 +4671,7 @@ is placed outside the quotation mark.)
  Friends was a popular television show in the 1990s. (Television show title is in
 italics)
 ```
+
 **Use italics for words or phrases used as examples in your sentence.** Using italics,
 you can write about a specific word, without including the meaning of the word in your
 sentence.
@@ -4287,6 +4687,7 @@ personal preference.
  Andy thought the dessert was epic! (Slang)
  Ava‟s soccer goal was wicked. (Slang)
 ```
+
 #### Brackets
 
 **Use brackets to set apart editorial comments within a quotation.** The comments
@@ -4302,6 +4703,7 @@ speaker said it.
 newspaper.
  “Your vacation package price [$3,960] also includes all meals and beverages.”
 ```
+
 #### Apostrophes
 
 **Use an apostrophe to form possessive nouns.** Apostrophes show ownership or
@@ -4312,6 +4714,7 @@ origin. Apostrophes never make a noun plural.
  Ava‟s toys (the toys belonging to Ava)
  The Joneses‟ house (the house belonging to the Jones family)
 ```
+
 **Use an apostrophe to form contractions.** Contractions are shortened words that
 formed by joining two words. An apostrophe takes the place of the missing letters.
 
@@ -4321,12 +4724,14 @@ formed by joining two words. An apostrophe takes the place of the missing letter
  Could‟ve (contraction of could have)
  It‟s (contraction of it is or it has)
 ```
+
 **Use an apostrophe in place of omitted letters or numbers.**
 
 ```
  „70s (1970s)
  Class of „14 (class of 2014)
 ```
+
 **Use an apostrophe as the symbol for feet in measurement.** The quotation mark is
 used as the symbol for inches.
 
@@ -4334,6 +4739,7 @@ used as the symbol for inches.
  The room is 15‟ x 25‟. (15 feet by 25 feet)
  She is 5‟ 4” tall. (5 feet four inches)
 ```
+
 **Chapter 12**
 
 ## Capitalization
@@ -4360,12 +4766,14 @@ a company name that is not capitalized, it is better to rewrite your sentence.
  iPhones are very popular smartphones. (Technically correct, but it looks so
 awkward that it is better to rewrite it.)
 ```
+
 **Capitalize the pronoun I.** It is never correct to use the pronoun _I_ as a lowercase letter.
 
 ```
  If I were you, I would turn in the writing assignment on time.
  Dave and I enjoy drinking coffee.
 ```
+
 **Capitalize proper nouns.** Proper nouns name specific people, places, or things.
 People‟s names are always capitalized. Company names, product names, and
 nicknames are all capitalized. Historical events are always capitalized. Specific
@@ -4384,6 +4792,7 @@ colleges.
 general subjects of accounting, English, and history are not capitalized unless
 the subject contains a proper noun like English.
 ```
+
 **Capitalize geographic locations.** The names of specific cities, counties, states,
 countries, continents, lakes, rivers, oceans, and mountains are capitalized. The word
 _city_ is only capitalized if it is included in the official name of the city. Salt Lake City
@@ -4394,6 +4803,7 @@ includes the word _city_ in its official name, so it is capitalized.
  Specific countries: France, Canada, Spain, and Italy
  Specific continents: North America, South America, Africa, and Asia
 ```
+
 **Capitalize the name of specific celestial bodies.** Do not capitalize sun or moon.
 Many planets have suns and moons, so these are common nouns. Earth is sometimes
 capitalized and sometimes lowercased. When it shows up in a list of other planets,
@@ -4405,6 +4815,7 @@ something other than space travel or our specific planet, then it is lowercase.
  Why on earth did you do that?
  The beauty queen wished for peace on earth.
 ```
+
 **Capitalize days, months, and holidays.** Seasons are lowercase unless they are
 included in a proper noun. Seasons that are combined with a year are considered
 proper nouns because it refers to a specific season.
@@ -4417,6 +4828,7 @@ noun.)
  The Fall 2014 course catalog will be available soon. (Fall is capitalized because it
 is combined with the year to form a proper noun.)
 ```
+
 **Capitalize the first word and all main words naming specific newspapers,**
 **journals, books, and articles.** Do not capitalize the conjunctions _(and, but)_,
 prepositions _(to, of, for)_, and articles _(a, an, the)_ unless they are the first word in the title.
@@ -4427,6 +4839,7 @@ grammar book.
  Capital in the Twenty-First Century is currently on top of the New York Times
 best seller list, but it is not a book about capital letters.
 ```
+
 **Capitalize formal titles (political, professional, military, nobility) that appear**
 **before someone’s name.** Formal titles that appear after someone‟s name are not
 capitalized. The titles Mr., Mrs., Miss, and Dr. are capitalized when they appear before
@@ -4445,6 +4858,7 @@ House.
 Professor Jones.
  Prince William and Prince Harry are princes.
 ```
+
 **Capitalize family titles only if they precede the person’s name or are substituting**
 **for a person’s name**. Aunt Sarah and Uncle Al are both capitalized because the title
 precedes their names. A broad reference to aunts, uncles, and cousins is not
@@ -4464,12 +4878,14 @@ possessive pronouns.)
  Andy has eight cousins. (Cousins is not capitalized because it is a general
 reference and not part of someone‟s name.)
 ```
+
 **Capitalize specific religions and nationalities.**
 
 ```
  Religions: Christianity, Catholicism, Buddhism, and Judaism.
  Nationalities: American, French, British, Korean, Japanese, and Russian.
 ```
+
 **Capitalize direction names if they are referring to a specific location**. Do not
 capitalize compass directions if they are used to describe a direction.
 
@@ -4479,6 +4895,7 @@ Coast, the Northern Hemisphere, Western Washington, and the South.
  General compass directions are lower case: travel south, drive east, turn
 north, and walk west.
 ```
+
 **Capitalize the main words naming specific departments, bureaus, divisions,**
 **agencies, and committees.** If the noun refers to a general committee or agency, then it
 is not capitalized.
@@ -4491,12 +4908,14 @@ Department of the Treasury. (Refers to a specific bureau and department)
  The Accounting Department handles payroll. (Refers to a specific department)
  Microsoft‟s Xbox Division is very profitable. (Refers to a specific division)
 ```
+
 **Capitalize the first word in a quotation.**
 
 ```
  The instructor said, “Turn in your writing assignments.”
  Dave said, “Do not forget to buy coffee at the store.”
 ```
+
 **Capitalize the first word of each item in a vertical list.**
 
 The instructor covered the following topics in class today:
@@ -4517,6 +4936,7 @@ twenty dollars.
  They need to work out a peace treaty. (Not capitalized because this is a general
 reference to a treaty and does not name a specific treaty)
 ```
+
 **Quick List of Capitalization Rules**
 
 1. Capitalize the first letter of the first word in a sentence.
@@ -4559,6 +4979,7 @@ addresses, zip codes, serial numbers, account numbers, and page numbers.
  The balance on the account is $14,300.
  Her zip code is 98052.
 ```
+
 **The numbers one through ten are written out as words. Numbers above ten are**
 **written as numerals.** This is referred to as the Rule of Ten.
 
@@ -4566,6 +4987,7 @@ addresses, zip codes, serial numbers, account numbers, and page numbers.
  The fruit bowl contains two bananas and three apples.
  The class has 23 students.
 ```
+
 If numbers under ten and over ten are used in the same sentence, use numerals for all
 numbers. The highest number in the sentence sets the rule for all of the numbers in the
 sentence.
@@ -4576,6 +4998,7 @@ number sets the rule for the sentence.)
  The class has 2 instructors and 23 students. (The highest number sets the rule
 for the sentence.)
 ```
+
 **Numbers that begin sentences are written out as words**. If the written out number
 consists of more than two words, spare the reader and rewrite your sentence.
 
@@ -4585,12 +5008,14 @@ consists of more than two words, spare the reader and rewrite your sentence.
 (Rewrite! This sentence is too cumbersome.)
  The conference was attended by 3,415 people. (Better!)
 ```
+
 It is acceptable to begin a sentence with a number if that number refers to a calendar
 year.
 
 ```
  2011 was a busy year for the family.
 ```
+
 **Money**
 **Use numbers to express amounts of money.** A decimal point is unnecessary in
 whole dollar amounts. For clarity, always include a comma in dollar amounts of $1,000
@@ -4603,6 +5028,7 @@ than $1, it is acceptable to write the amounts as cents. Do not use the cents sy
  The bake sale sold items for $.25, $.75, and $3.
  The bananas cost 75 cents each.
 ```
+
 **Dates**
 **Use numbers (1, 2, 3) if the date follows the month**. Do not use _th, nd, rd_, or _st_ after
 the figure if the date follows the calendar month. Some word processing programs,
@@ -4615,6 +5041,7 @@ when necessary.
  May 17, 2008, was an exceptionally warm day in Seattle.
  They are scheduled to arrive on July 2, 2014.
 ```
+
 **Use ordinal numbers (1st, 2nd, 3rd) if the date precedes the month or if the date is**
 **used without the month.**
 
@@ -4622,6 +5049,7 @@ when necessary.
  Seattle was exceptionally warm on the 17th of May.
  They are scheduled to arrive on the 2nd.
 ```
+
 **Addresses**
 **Use numerals for address numbers except for the number One**. Use numbers for
 zip codes, address numbers, suite numbers, apartment numbers, or route numbers.
@@ -4630,6 +5058,7 @@ zip codes, address numbers, suite numbers, apartment numbers, or route numbers.
  Her address is One Elm Street, Apt. 2, Redmond, WA 98052.
  His address is 7319 Maple Drive, Suite 310, Edmonds, WA 98020.
 ```
+
 **Street names numbered ten and below are written out as words (First, Second,**
 **Third)**. Street names numbered greater than ten are written as ordinal numbers (11th,
 12th, 13th).
@@ -4639,6 +5068,7 @@ zip codes, address numbers, suite numbers, apartment numbers, or route numbers.
  18061 85th Ave North
  2025 Second Street
 ```
+
 **Adjacent Numbers**
 **When two numbers appear side-by-side in a sentence, write the first number in**
 **words and second number as a numeral.** If the first number cannot be written in two
@@ -4650,6 +5080,7 @@ words. If both numbers are long, rewrite the sentence.
  The light fixture required ten 120-watt bulbs.
  The campus dorms consist of twelve 200-unit apartments.
 ```
+
 **Time**
 **Use numbers to express time with a.m. and p.m.**
 
@@ -4657,6 +5088,7 @@ words. If both numbers are long, rewrite the sentence.
  The meeting starts at 11 a.m.
  The meeting starts at eleven a.m. (Incorrect)
 ```
+
 **Numbers or words can precede o’clock, in the morning, in the afternoon, or in the**
 **evening.**
 
@@ -4664,6 +5096,7 @@ words. If both numbers are long, rewrite the sentence.
  The meeting starts at 11 o‟clock in the morning. (Acceptable)
  The meeting starts at eleven o‟clock in the morning. (Acceptable)
 ```
+
 Use one way to express time in a document and remain consistent. Do not use more
 than one way to express a single unit of time.
 
@@ -4671,6 +5104,7 @@ than one way to express a single unit of time.
  The meeting starts at 11 a.m. in the morning. (Incorrect. This is redundant
 because a.m. already explains that this time is in the morning.)
 ```
+
 **Measurements**
 **Use numbers to express weights, measurements, and temperatures.**
 
@@ -4679,6 +5113,7 @@ because a.m. already explains that this time is in the morning.)
  Seattle reached 75 degrees Fahrenheit today.
  The recipe requires 12 ounces of cheese.
 ```
+
 **Large numbers**
 **Use a combination of numbers and words to express large numbers. It is easier**
 **to read as a combination.**
@@ -4687,6 +5122,7 @@ because a.m. already explains that this time is in the morning.)
  Cleveland, Ohio‟s Balloon Fest released 1.4 million balloons into the air in 1986.
  In 2013 the state of Washington had 6.97 million residents.
 ```
+
 **Percentages**
 **Use numbers to express percentages and spell out the word percent.** The percent
 sign (%) is only used in technical documents and tables.
@@ -4696,6 +5132,7 @@ sign (%) is only used in technical documents and tables.
  The flight arrives early 85 percent of the time.
  Mary received a 25 percent discount.
 ```
+
 **Fractions**
 **Simple fractions are written as words when they can be expressed in two words**
 **and when it is the only fraction in a sentence.**
@@ -4704,6 +5141,7 @@ sign (%) is only used in technical documents and tables.
  One fourth of the class turned in the assignment early.
  We ate one half of the cookies before the party.
 ```
+
 **Use numbers to express long fractions, mixed fractions (whole numbers and**
 **fractions together), and multiple fractions within the same sentence.** An extra
 space is added between the whole number and the fraction.
@@ -4712,6 +5150,7 @@ space is added between the whole number and the fraction.
  The room measured 12 ½ feet by 18 ½ feet.
  The smartphone was only ⅝ of an inch thick.
 ```
+
 **Decimals**
 **Use numbers to express figures with decimals.** If the figure is less than zero, a zero
 is placed before the decimal point.
@@ -4721,6 +5160,7 @@ is placed before the decimal point.
 because the amount is less than zero.)
  Seattle had 3.2 inches of rain last week.
 ```
+
 **Grades, scores, voting results**
 **Use numbers to express grades, scores, and voting results.** When writing scores,
 place a hyphen between the winning and losing scores.
@@ -4730,6 +5170,7 @@ place a hyphen between the winning and losing scores.
  Mary earned a 99 on her writing assignment.
  The vote was 5-to-3 favoring the expansion.
 ```
+
 **Company Names, Organization Names, and Product Names**
 Some companies, organizations, and products have numbers in their legal business
 names. Write the name exactly how the organization writes it, even if it defies all of the
@@ -4744,6 +5185,7 @@ rules regarding numbers.
  Pac-12
  Big Ten
 ```
+
 #### Quick Rules for Numbers
 
 1. When writing numbers as figures, use a comma to separate groups of three
@@ -4786,9 +5228,11 @@ fractions together), and multiple fractions within the same sentence.
 You keep using that word. I do not think it means what you
 think it means.
 ```
+
 ```
 -Inigo Montoya, The Princess Bride
 ```
+
 Spell check will only catch words that do not appear in the dictionary. Spell check will
 not catch words that are used incorrectly. The following are the most commonly mixed
 up words. When in doubt, look up the words in the dictionary.

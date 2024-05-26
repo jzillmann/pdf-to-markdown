@@ -7,6 +7,7 @@
 ```
 www.catrionarobertson.wordpress.com
 ```
+
 Cover photo: Brian Robert Marshall under Creative Commons Licence.
 
 Photos on pages 9 (lower), 11 (top), 23, 24, 25, 26 and 27 (top) have
@@ -62,6 +63,7 @@ districts in the county. There are
 three levels of local government:
 Oxford County Council, West
 ```
+
 ```
 Oxfordshire District Council (local
 authority) and Witney Town
@@ -84,55 +86,69 @@ the 2011 Census are not yet
 available and the 2001 data are now
 rather out of date.
 ```
+
 ```
 St John the Evangelist
 Hailey
 ```
+
 ```
 Parish of Witney churches
 ```
+
 ```
 St Mary the Virgin
 ```
+
 ```
 Holy Trinity
 Wood Green
 ```
+
 St John the Baptist
 Curbridge
 
 ```
 Witney West ward
 ```
+
 ```
 Witney North ward
 ```
+
 ```
 Witney East ward
 ```
+
 ```
 Witney South ward
 ```
+
 ```
 Witney Central ward
 ```
+
 ```
 Hailey, Minster Lovell and Leafield ward
 ```
+
 ```
 Ducklington ward
 ```
+
 ```
 Ward boundaries and Parish of
 Witney churches in and around
 Witney
 ```
+
 ```
 A social audit for St Mary’s Church, Witney, was commissioned as part of
 the appeal for the restoration and renewal of the church building within
 the context of the parish, its four churches, the town of Witney and the
 surrounding area.
 ```
+
 ## Introduction
 
 More recent information (for
@@ -167,76 +183,98 @@ The social audit explores the
 opportunities for St Mary’s to serve
 the area as a whole.
 ```
+
 ```
 Lower Layer Super Output Areas
 ® St Mary’s falls within SOA 010E, on the border of 010F.
 (Map downloaded from ONS via Oxford Data Observatory)
 ```
+
 ```
 009B
 ```
+
 ```
 008D
 ```
+
 ```
 007C
 ```
+
 ```
 007B
 ```
+
 ```
 010B
 ```
+
 ```
 ®
 009D
 010D
 ```
+
 ```
 010C
 010F
 ```
+
 ```
 010E
 ```
+
 ```
 008A
 ```
+
 ```
 008B
 ```
+
 ```
 008C
 ```
+
 ```
 009A
 ```
+
 ```
 008F
 008E
 ```
+
 ```
 009C
 ```
+
 ```
 West Oxon 007
 ```
+
 ```
 West Oxon 009 West Oxon 010
 ```
+
 ```
 West Oxon 008
 ```
+
 ```
 Middle Layer Super Output Areas in Witney, Hailey & Curbridge.
 (Map downloaded from ONS via Oxford Data Observatory)
 ```
+
 ```
 009B
 ```
+
 ```
 Map downloaded from A Church Near You
 ```
+
 More recent information (for example
 the Indices of Multiple Deprivation
 [^2010]:, which uses data from 2008) is
@@ -266,6 +304,7 @@ The social audit explores the
 opportunities for St Mary’s to serve
 the area as a whole.
 ```
+
 ## History
 
 ```
@@ -284,6 +323,7 @@ present building, which was
 dedicated in the mid-thirteenth
 century.
 ```
+
 ```
 Additions, restoration and re-
 ordering have taken place over the
@@ -300,6 +340,7 @@ grazed sheep on their large estates
 on the river Windrush and in the
 thirteenth century Bishop Peter
 ```
+
 The last mill, Early’s, closed in 2002, but Witney
 blankets still fetch a price.
 ([www.thebuckettree.bigcartel.com](www.thebuckettree.bigcartel.com))
@@ -318,6 +359,7 @@ economic base had diversified. Instead of facing decline, Witney has
 seen a steady rise in small, medium and large businesses and a
 quadrupling of its population over the last sixty years.
 ```
+
 Detail showing St Mary’s Church at the top of the Green, and what became the Market
 Square and Corn Street, from Trevor J Cooper’s _Conjectural Reconstruction of the Bishop’s_
 _New Town of Witney c 1300_, from A Walk Round Witney by Witney and District Historical
@@ -387,6 +429,7 @@ A map showing Witney in the
 1950s (see right) shows Church
 Green, Market Square and Corn
 ```
+
 ```
 Maps from West Oxfordshire District Council (Cogges Link Road enquiry, 2011,
 p22 & p28) show the growth of Witney 1950s-2000s: the upper map shows the
@@ -394,6 +437,7 @@ medieval town centre of St Mary’s, Church Green and Market Square extended to
 Wood Green; the lower map shows the extensive housing and business
 developments since 1960.
 ```
+
 ## History
 
 ```
@@ -418,6 +462,7 @@ London.
 Witney has retained and
 developed its historic centre.
 ```
+
 ```
 Local schools such as The Batt
 School, St Mary’s Infant School and
@@ -435,6 +480,7 @@ history, and current use continue
 to inform and support a wide range
 of community activities.
 ```
+
 The Witney Feast bring people together from across the town. The Elvis
 Evening, held in St Mary’s, was a popular part of the weekend in 2010.
 
@@ -447,6 +493,7 @@ population of Witney as the
 restoration and renewal gets
 underway.
 ```
+
 ## Setting and context
 
 St Mary’s is one of four churches in
@@ -506,6 +553,7 @@ centre of town but nevertheless a
 landmark building in a protected
 conservation area, gives it a wide
 ```
+
 **Location**
 St Mary’s Church holds a striking position at the top of Witney’s Church
 Green (see cover) and the graceful spire is a focal point for miles around.
@@ -515,9 +563,11 @@ close to the heart of the busy market town.
 ```
 Witney lies to the west of Oxford, within West Oxfordshire District.
 ```
+
 ```
 Holy Trinity Church at Wood Green, one of the four churches in the parish.
 ```
+
 ## Setting and context
 
 ```
@@ -553,6 +603,7 @@ Station Lane Industrial Estate.
 As well as those who enter the
 church for a service, a social event or
 ```
+
 to visit the historic building, there
 are some who use it as a place for
 quiet reflection. The prayer board is
@@ -626,6 +677,7 @@ wards (see page 13) and is also the
 area of Witney expected to see the
 least increase in population by 2016.
 ```
+
 Population
 
 Witney’s population has more than quadrupled from 6,554 in 1951 to
@@ -636,134 +688,176 @@ and housing developments are planned.
 Population of Witney from 1951, with projections to
 2016
 ```
+
 ```
 0
 ```
+
 ```
 5000
 ```
+
 ```
 10000
 ```
+
 ```
 15000
 ```
+
 ```
 20000
 ```
+
 ```
 25000
 ```
+
 ```
 30000
 ```
+
 ```
 35000
 ```
+
 ```
 1951 1961 1971 1981 1991 2001 2011 2012 2013 2014 2015 2016
 ```
+
 ```
 Witney wards by age (ONS estimates 2008)
 ```
+
 ```
 0% 20% 40% 60% 80% 100%
 ```
+
 ```
 Witney Central
 ```
+
 ```
 Witney East
 ```
+
 ```
 Witney North
 ```
+
 ```
 Witney South
 ```
+
 ```
 Witney West 0-15
 ```
+
 ```
 16-29
 ```
+
 ```
 30-44
 ```
+
 ```
 45-64 (males) or 45-59
 (females)
 pensionable age
 ```
+
 ```
 Population of Witney's wards: ONS Population
 Estimates 2008
 ```
+
 ```
 4526
 ```
+
 ```
 7377
 ```
+
 ```
 3974
 ```
+
 ```
 5904
 ```
+
 ```
 4181
 ```
+
 ```
 0 1000 2000 3000 4000 5000 6000 7000 8000
 ```
+
 ```
 Witney Central
 ```
+
 ```
 Witney East
 ```
+
 ```
 Witney North
 ```
+
 ```
 Witney South
 ```
+
 ```
 Witney West
 Oxfordshire small area population forecasts by ward 2012-
 2016, based on South East Plan, 2009.
 ```
+
 ```
 0
 ```
+
 ```
 1000
 ```
+
 ```
 2000
 ```
+
 ```
 3000
 ```
+
 ```
 4000
 ```
+
 ```
 5000
 ```
+
 ```
 6000
 ```
+
 ```
 7000
 ```
+
 ```
 8000
 ```
+
 ```
 2012 2013 2014 2015 2016
 ```
+
 ```
 Witney Central
 Witney East
@@ -771,6 +865,7 @@ Witney North
 Witney South
 Witney West
 ```
+
 ## Witney’s people
 
 ```
@@ -781,6 +876,7 @@ The majority of adults are married or live in couples, around a fifth are
 single people and a small proportion are divorced or separated (see left).
 Nearly a tenth of the adults in Witney Central and South are widowed.
 ```
+
 ```
 The majority (78% - a significantly higher proportion than the figure for
 England as a whole, which is 71%) of Witney residents stated their religion
@@ -792,60 +888,79 @@ Lower Layer Super Output Areas 8B (Cogges), 10F (from the Leys,
 through the Crofts to Marriott’s Walk), 9C (Deer Park) and 9A (Smiths)
 (see lower map on p 6).
 ```
+
 ```
 Population Density (Census 2001)
 ```
+
 ```
 17.85
 ```
+
 ```
 29.49
 ```
+
 ```
 19.32
 ```
+
 ```
 25.78
 ```
+
 ```
 42.9
 ```
+
 ```
 0
 ```
+
 ```
 10
 ```
+
 ```
 20
 ```
+
 ```
 30
 ```
+
 ```
 40
 ```
+
 ```
 50
 ```
+
 ```
 Witney Central
 ```
+
 ```
 Witney East
 ```
+
 ```
 Witney South Witney North
 ```
+
 ```
 Witney West
 ```
+
 ```
 Living arrangements (Census 2001)
 ```
+
 ```
 0
 ```
+
 10
 
 20
@@ -866,22 +981,26 @@ couple:
 Married or
 re-married
 ```
+
 ```
 Living in a
 couple:
 Cohabiting
 ```
+
 ```
 Single
 (never
 married)
 ```
+
 ```
 Not living in
 a couple:
 Married or
 re-married
 ```
+
 ```
 Not living in
 a couple:
@@ -890,40 +1009,51 @@ Separated
 legally
 married)
 ```
+
 ```
 Not living in
 a couple:
 Divorced
 ```
+
 ```
 Not living in
 a couple:
 Widow ed
 ```
+
 ```
 Witney South
 ```
+
 ```
 Witney Central
 ```
+
 ```
 Witney East
 ```
+
 ```
 Witney North
 ```
+
 ```
 Witney West
 ```
+
 ```
 Stated Religion (Census 2001), Witney
 ```
+
 ```
 78%
 ```
+
 ```
 15%
 ```
+
 ```
 7% Christian
 Buddhist
@@ -935,6 +1065,7 @@ Any other religion
 No religion
 Religion not stated
 ```
+
 ## Health
 
 ```
@@ -942,9 +1073,11 @@ The shaded area (SOA 10F) has the least good health in Witney (within
 the 40% of areas in England which are most deprived within the Health and
 Disability domain. Indices of Multiple Depriviation 2010).
 ```
+
 ```
 NHS priorities in West Oxfordshire include increasing physical activity for children and the elderly
 ```
+
 There are pockets of Witney where
 there is less good health, most
 notably the area which sweeps from
@@ -1007,6 +1140,7 @@ behaviour
 programmes to reduce hip
 fractures
 ```
+
 Witney residents, along with West Oxfordshire’s citizens, enjoy
 comparatively good health and life expectancy compared to the country
 as a whole.
@@ -1040,6 +1174,7 @@ second (21%), followed by public
 administration, education and health
 (20%).
 ```
+
 ```
 The median gross earnings (2011)
 for employees working in West
@@ -1066,11 +1201,13 @@ claiming Job Seeker’s Allowance, but
 this figure is lower than the national
 average of 3.8% (see left).
 ```
+
 ```
 Large companies as well as smaller niche
 enterprises offer employment at Witney’s
 business parks.
 ```
+
 ```
 As blanket manufacture declined, Witney planned carefully to ensure the
 working age population found suitable employment.
@@ -1080,11 +1217,13 @@ the multi-national packaging company Smurfit Kappa and furniture
 manufacturers Corndell Furniture.
 Retailing and the care and hospitality sectors are major employers.
 ```
+
 ```
 Employee Jobs, ONS annual business inquiry employee analysis (2008)
 West Oxon West Oxon South East GB
 (employee jobs) (%) (%) (%)
 ```
+
 ```
 Total employee jobs 38,900 - - -
 Full-time 26,800 68.8 69.0 68.8
@@ -1100,6 +1239,7 @@ Public admin, education & health 7,700 19.8 25.6 27.0
 Other services 3,600 9.2 5.6 5.3
 Tourism-related† 4,800 12.4 8.2 8.2
 ```
+
 **Jobseeker’s Allowance Claimants**
 **(no and % of working age residents, by ward), November 2011**
 
@@ -1122,6 +1262,7 @@ Burwell (above)
 Deer Park (centre)
 Thorney Leys (right)
 ```
+
 The residential population of an area
 is mostly determined by the housing
 available and Witney has attracted
@@ -1140,6 +1281,7 @@ the population and include
 ü Madley Park
 ü Jacobs Mill
 ```
+
 Property prices are lower in Witney
 than in nearby Oxford and some of
 the West Oxfordshire villages.
@@ -1193,6 +1335,7 @@ residents. Plans for nearby Carterton
 include 1,600 new homes (4,000
 people) by 2026.
 ```
+
 ## Crime and safety
 
 ```
@@ -1218,6 +1361,7 @@ perception
 The Witney Neighbourhood Action
 Group has identified anti-social
 ```
+
 ```
 behaviour, underage drinking and
 disorderly conduct on the Leys and
@@ -1242,6 +1386,7 @@ Crime maps and details of local
 police officers can also be found at
 the Police.uk website.
 ```
+
 **Crime in West Oxfordshire**
 
 **Year 2008-09 2009-10 2010-11**
@@ -1257,6 +1402,7 @@ In the eight months to November 2011, the total number of crimes in
 West Oxfordshire dropped by 13% from 3,221 to 2,805, which places the
 district within the best performing quartile nationally.
 ```
+
 **Crime rates in West Oxfordshire 1st April - 30th November 2011**
 **Crimes recorded Rate per 1000 people**
 Violence against the person with injury [^221]: 2.13%
@@ -1273,6 +1419,7 @@ The area around St Mary’s
 is relatively free from anti-
 social behaviour and crime.
 ```
+
 ## Education
 
 ```
@@ -1287,6 +1434,7 @@ The Kings School 90% 100% 94% Jan 12
 (Performance tables for 2011 are published by the Department for Education at the end
 of January 2012)
 ```
+
 Witney’s schools are popular and
 the pupils achieve good results.
 The Henry Box School is situated
@@ -1350,6 +1498,7 @@ around Hailey Road) fall within the
 20% most deprived areas in West
 Oxfordshire. In contrast, Madley
 ```
+
 ## Education
 
 ```
@@ -1384,6 +1533,7 @@ to ensure they feel welcome and
 are able to find something of value
 when they visit, whether or not
 ```
+
 ```
 they are church-goers. Vox pops
 surveys amongst secondary school
@@ -1413,6 +1563,7 @@ curriculum - including language,
 drama, science, business studies,
 history, maths, music and RE.
 ```
+
 Resources for learning are plentiful in and
 around St Mary’s: the memorial to Henry Box
 (d 1660) whose generosity founded the nearby
@@ -1422,6 +1573,7 @@ school.
 The prayer board at St Mary’s is used by school
 pupils and many others.
 ```
+
 ## Transport
 
 Witney is well known for its excellent
@@ -1470,29 +1622,36 @@ to work, compared to the England
 average of 55%. Eight per cent walked
 and 4% took the bus.
 ```
+
 ```
 Witney bus services to nearby towns are frequent. This
 Oxfordshire County Council guide can be downloaded.
 ```
+
 ```
 The route of the proposed Cogges Link road, which would end close to St
 Mary’s Church.
 ```
+
 ```
 Witney residents - means of travel to work (Census 2001)
 ```
+
 ```
 0 10 20 30 40 50 60 70
 ```
+
 Driving a Car or Van
 
 ```
 Passenger in a Car
 or Van
 ```
+
 ```
 On foot
 ```
+
 ```
 Bus, Mini Bus or
 Coach
@@ -1500,6 +1659,7 @@ England
 South East
 Witney
 ```
+
 ## Lifestyle and deprivation
 
 ```
@@ -1524,6 +1684,7 @@ planning has ensured a mix of
 housing tenure and size. There are
 no obvious areas of deprivation.
 ```
+
 ```
 Compared to other areas in
 England, Witney only twice falls into
@@ -1547,6 +1708,7 @@ deprived quintile in all the IMD
 domains: income, employment,
 health and disability, education,
 ```
+
 West Oxfordshire’s predominant Acorn classification is Wealthy Achievers (in yellow
 above), whilst Witney classification also includes Comfortably Off (turquoise) and
 Hard-pressed (dark blue).
@@ -1561,10 +1723,12 @@ Both sets of data are available through the Oxfordshire Data Observatory.
 The Indices of Multiple Deprivation 2010 (IMD) show levels of deprivation
 in a variety of domains.
 ```
+
 ```
 Mosaic classifies most of West Oxfordshire’s population as ‘Higher income older
 champions of village communities’ (in blue above).
 ```
+
 ## Lifestyle and deprivation
 
 ```
@@ -1573,17 +1737,20 @@ broad brush approach which illustrates some characteristics of a
 neighbourhood.
 All maps have been downloaded from Oxfordshire Data Observatory.
 ```
+
 ```
 Childless new
 owner occupiers
 in cramped new
 homes
 ```
+
 ```
 Busy executives in
 town houses in
 dormitory settlements
 ```
+
 ```
 Young parents
 new to their
@@ -1593,26 +1760,31 @@ Low income down roots
 communities reliant on
 low skill industrial jobs
 ```
+
 ```
 Often indebted
 families living in
 low rise estates
 ```
+
 ```
 Higher income older
 champions of village
 communities
 ```
+
 ```
 Self-employed trades
 people living in smaller
 communities
 ```
+
 ```
 Better off empty
 nesters in low density
 estates on town fringes
 ```
+
 Maps showing in orange the most (above) and least (below)
 deprived areas (across all domains) in West Oxfordshire, both of
 which are found in Witney, according to the Indices of Multiple
@@ -1648,6 +1820,7 @@ enable St Mary’s to host larger
 ecumenical and civic events than is
 possible at present.
 ```
+
 ```
 When the restoration and renewal
 is complete, the improvements will
@@ -1671,10 +1844,12 @@ A high proportion describe
 themselves as Christian. The town
 has seventeen active churches,
 ```
+
 ```
 The church draws people all year round.
 Views to St Mary’s are protected by law.
 ```
+
 ```
 Witney is a very successful market town which is growing rapidly. It has
 a strong sense of its medieval heritage, its part in the wool trade and its
@@ -1683,6 +1858,7 @@ St Mary’s has been part of this history from the beginning and has renewed
 opportunities to be of service to the current population, its civic
 structures, schools, businesses and visitors.
 ```
+
 The church’s acoustic attracts musicians from many different traditions -
 solo folk singers, brass bands, chamber music and full orchestras and choirs.
 
@@ -1692,6 +1868,7 @@ solo folk singers, brass bands, chamber music and full orchestras and choirs.
 The west window at St Mary’s (top) and the church filled with
 visitors to the model exhibition (above)
 ```
+
 including a strong and busy
 Methodist centre on the High
 Street which has a suite of rooms, a
@@ -1759,6 +1936,7 @@ as a major venue for cultural events
 and a good source of information
 and signposting.
 ```
+
 ## What St Mary’s offers
 
 ```
@@ -1778,6 +1956,7 @@ well used - an upgraded kitchen
 would allow professional catering to
 be provided on site for weddings,
 ```
+
 ```
 funerals, special church services and
 cultural events.
@@ -1795,6 +1974,7 @@ crossing. There are plans to bring
 the central focus for worship and
 performances a little further west,
 ```
+
 St Mary’s has been a focal point for Witney and
 the surrounding countryside for centuries.
 
@@ -1812,14 +1992,17 @@ restoring it to its full glory will benefit local people, have a transformative
 impact on cultural and community life and secure the future of its
 centuries-old building.
 ```
+
 ```
 The spacious interior makes a striking setting for a wide range of activities.
 ```
+
 ## What St Mary’s offers
 
 ```
 Floorplan of St Mary’s (top) and the spacious interior (above)
 ```
+
 to accommodate the sight-lines of
 those seated to the north and south.
 St Mary’s is already used by film
@@ -1882,14 +2065,17 @@ to become a major cultural asset in
 West Oxfordshire will benefit the
 wider community for generations.
 ```
+
 ## Recommendations
 
 ```
 asdfasdf
 ```
+
 ```
 Interior of St Mary’s (top) and new housing near Bridge Street (above)
 ```
+
 1. Encourage St Mary’s to develop its position as mother parish church (or minster) serving
 Holy Trinity, St John’s Hailey and St John’s Curbridge in their diverse roles and to continue
 to place its liturgical life at the heart of its work.
@@ -1957,6 +2143,7 @@ Draft Core Strategy, 2011
 Conservation area covering St
 Mary’s, showing protected view lines.
 ```
+
 ```
 Joint Strategic Needs Assessment,
 NHS Oxfordshire & Oxfordshire
@@ -1966,6 +2153,7 @@ West Oxfordshire health Profile 2011
 Draft Air Quality Action Plan, West
 Oxfordshire District Council, Dec
 ```
+
 2010.
 UpMyStreet
 Cottsway Housing Association

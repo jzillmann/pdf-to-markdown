@@ -13,42 +13,55 @@ BOSTON:
 ```
 NICHOLS AND NoC|TE>3.
 ```
+
 ```
 iS6S.
 ```
+
 ```
 '
 ```
+
 ```
 '*"^" '^'
 ```
+
 ```
 J >. '[^5]
 ```
+
 ```
 THE NEW YORK
 ```
+
 ```
 PUBLIC LIBRARY^
 ```
+
 ```
 793478 A
 ```
+
 ```
 ASTOR, LENOX AND
 ```
+
 ```
 TlLDtN FOUNDATIONS!
 ```
+
 ```
 H[^1935] L
 ```
+
 ```
 CAMBRIDGE t
 ```
+
 ```
 fRESS OF JOHN WILSON AND SON.
 ```
+
 I r C c< <
 
 PREFACE.
@@ -56,50 +69,65 @@ PREFACE.
 ```
 nr^HERE are books which never grow old :
 ```
+
 ```
 and this precious Httle volume, by Henry
 ```
+
 ```
 ScouGAL, is to be numbered among them.
 ```
+
 ```
 In it is an eternal freshness and beauty, its
 ```
+
 ```
 bloom actually brightening wdth advancing
 ```
+
 ```
 time. These words, for two centuries, have
 ```
+
 ```
 been bread of life to thousands. They have,
 ```
+
 ```
 through that long period, guided, comforted,
 ```
+
 ```
 and inspired ; from that fact, they possess ad-
 ```
+
 ```
 ditional interest, for they have stood the severest
 ```
+
 ```
 test, and been found adequate to meet the deep-
 ```
+
 ```
 est Avants of human nature in its most trying-
 ```
+
 ```
 needs. This "Life of God in the Soul of
 ```
+
 ```
 Man " has somethino- of that divine life within
 ```
+
 .itself wliich can impart of its own fulness to
 
 ```
 every soul ready to receive. The very breath
 ```
+
 of Jehovah may be felt through it. It kindles
 
 in the soul a sympathetic power, and lifts it
@@ -123,6 +151,7 @@ tude and love. To the young, it will prove,
 ```
 armor of strength ; to the aged, perpetual reno-
 ```
+
 vation ; while Christians of all communions
 
 will find within it a foretaste of immortality.
@@ -136,6 +165,7 @@ of a heaven without end. To all who hold in
 ```
 honor Christ and his gospel, to those who would
 ```
+
 love God and man, to each one who would so
 
 live in time as to make it the joyous gate-
@@ -147,34 +177,43 @@ should be heartily welcome ; and we doubt not
 ```
 such welcome it will widely receive.
 ```
+
 ```
 Henry Scougal was the son of the Bishop
 ```
+
 ```
 of Aberdeen, in Scotland. Born, June, 1650,
 ```
+
 ```
 at the age of fifteen he entered the Universit}',
 ```
+
 ```
 and at the early ao-e of twenty he became
 ```
+
 ```
 professor of philosophy. Haying most ac-
 ```
+
 ```
 ceptabl}^ fulfilled this important office for four
 ```
+
 3^ears, he prepared himself for the ministry,
 
 ```
 and was established in a small yillage about
 ```
+
 twenty miles from Aberdeen. From this place,
 
 ```
 howeyer, he was soon urged to enter upon
 ```
+
 the Professorship of Diyinity in King's Col-
 
 leo-e, which duties he discharij^ed with honor :
@@ -220,6 +259,7 @@ good."
 ```
 Some time after, another edition of this in-
 ```
+
 comparable treatise was published, with a
 
 preface by the Principal of the College of
@@ -245,6 +285,7 @@ impressed upon every heart.''
 ```
 Among other special excellencies, the same
 ```
+
 writer dwells upon '"the prudence and charity.
 
 the author discovers, in avoidino- matters ot
@@ -273,6 +314,7 @@ considerably abate."
 ```
 The present edition of this volume is pub-
 ```
+
 lished by the request of one who, for nearly
 
 eighty years, has found in it a continued re-
@@ -296,6 +338,7 @@ enlv Vision which kindles before the eve of
 ```
 Faith, is associated with this little volume,
 ```
+
 familiar to him from his 3^outh. Having de-
 
 rived so much happiness and advantage from
@@ -311,6 +354,7 @@ of increasino- crood.
 ```
 R. C. W.
 ```
+
 Boston. December, 1S67.
 
 ###### THE LIFE OF GOD
@@ -318,17 +362,21 @@ Boston. December, 1S67.
 ```
 SOUL OF ^lAX.
 ```
+
 ```
 THE LIFE OF GOD
 ```
+
 ```
 SOUL OF MAN.
 ```
+
 IV /TY Dear Friend, —This designation doth
 
 ```
 give vou a title to all the endeavors
 ```
+
 whereby I can serve 3'our interests ; and your
 
 pious inclinations do so happily conspire v/ith
@@ -362,6 +410,7 @@ ter helps of this nature than any I can offer
 ```
 The Life of God
 ```
+
 you ; nor are 3^ou like to meet with any thing
 
 here which you knew not before ; yet I am
@@ -399,20 +448,25 @@ only consider to whom I am writing.
 ```
 T CANNOT speak of religion, but I must
 ```
+
 ```
 lament, that, among so many pretenders to
 ```
+
 it, so few understand w^iat it means : some
 
 ```
 placing it in the understanding, in orthodox
 ```
+
 ```
 notions and opinions ; and all the account they
 ```
+
 ```
 can give of their religion is, that they are of
 ```
+
 this or the other persuasion, and have joined
 
 themselves to one of those many sects where-
@@ -420,9 +474,11 @@ themselves to one of those many sects where-
 ```
 into Christendom is most unhappily divided.
 ```
+
 ```
 Others place it in the outward man, in a con-
 ```
+
 stant course of external duties, and a model of
 
 performances : if they live peaceably with their
@@ -474,6 +530,7 @@ heathens were wont to worship their gods
 ```
 :
 ```
+
 there are but too many Christians who would
 
 consecrate their vices, and hallow their corrupt
@@ -497,14 +554,17 @@ of Christian couracre and resolution.
 ```
 TDUT certainly religion is quite another thing ;
 ```
+
 ```
 and they who are acquainted with it, will
 ```
+
 entertain far different thoughts, and disdain
 
 ```
 all those shadows and false imitations of it.
 ```
+
 They know by experience, that true religion
 
 is an union of the soul with God, a real parti-
@@ -512,9 +572,11 @@ is an union of the soul with God, a real parti-
 ```
 cipation of the divine nature, the very image
 ```
+
 ```
 of God drawn upon the soul ; or, in the Apos-
 ```
+
 tie's phrase, it is Christ formed zuithin tis.
 
 Briefly, I know not how the nature of religion
@@ -532,49 +594,63 @@ a life, and then how it is termed divine.
 ```
 RELIGION.
 ```
+
 ## T CHOOSE to express it by the name oi life
 
 ```
 ;
 ```
+
 ```
 first, because of its permanency and stabil-
 ```
+
 ```
 ity. Religion is not a sudden start, or passion
 ```
+
 of the mind ; not though it should rise to the
 
 ```
 height of a rapture and seem to transport a
 ```
+
 ```
 man to extraordinary performances. There
 ```
+
 ```
 are few but have convictions of the necessity
 ```
+
 ```
 of doing something for the salvation of their
 ```
+
 ```
 souls, which may push them forward some
 ```
+
 ```
 steps with a great deal of seeming haste. But
 ```
+
 ```
 anon they flag and give over : thev were in a
 ```
+
 ```
 hot mood, but now they are cooled : they did
 ```
+
 ```
 shoot forth fresh and high, but are quickly
 ```
+
 ```
 withered, because they had no root in them-
 ```
+
 selves. These sudden fits may be compared
 
 to the violent and convulsive motions of bodies
@@ -612,12 +688,15 @@ THE FREEDOM AND UNXONSTRAINEDXESS OF
 ```
 RELIGION.
 ```
+
 ```
 A GAIN, religion may be defined by the
 ```
+
 ```
 name of life^ because it is an inward,
 ```
+
 free, and self-moving principle ; and those w^ho
 
 have made progress in it, are not actuated only
@@ -625,6 +704,7 @@ have made progress in it, are not actuated only
 ```
 in the Soid of Man,
 ```
+
 by external motives, driven merely by threat-
 
 enings, nor bribed by promises, nor constrained
@@ -640,22 +720,27 @@ God and goodness, is not so much by virtue of
 ```
 a command enjoining him so to do, as by a
 ```
+
 new nature instructing and prompting him to it
 
 ```
 ;
 ```
+
 nor doth he pay his devotions as an unavoid-
 
 ```
 able tribute, only to appease the divine justice,
 ```
+
 ```
 or quiet his clamorous conscience ; but those
 ```
+
 ```
 religious exercises are the proper emanations
 ```
+
 of the divine lite, the natural employments
 
 of the new^-born soul. He prays, and gives
@@ -667,6 +752,7 @@ things are commanded, but rather because he
 ```
 is sensible of his w^ants, and of the divine
 ```
+
 goodness, and of the folly and misery of a sin-
 
 ful life. His charity is not Ibrced, nor his
@@ -674,6 +760,7 @@ ful life. His charity is not Ibrced, nor his
 ```
 alms extorted from him : his love makes him
 ```
+
 willing to give ; and though there were no out
 
 •
@@ -719,72 +806,95 @@ come a law unto themselves.
 ```
 Qiiis legem det amantibus?
 ```
+
 ```
 Major est amor lex ipse sibi.
 ```
+
 ```
 Who shall prescribe a law to those that love?
 ```
+
 ```
 Love's a more powerful law which doth them move.
 ```
+
 ```
 In a word, what our blessed Saviour said of
 ```
+
 ```
 himself, is in some measure applicable to his
 ```
+
 ```
 followers, that it is their meat and drink to do
 ```
+
 ```
 their Father's zvill: and as the natural appe-
 ```
+
 ```
 tite is carried out toward food, though we
 ```
+
 ```
 should not reflect on the necessity of it for the
 ```
+
 ```
 preservation of our lives ; so are they carried
 ```
+
 ```
 with a natural and unforced propension toward
 ```
+
 ```
 that which is good and commendable. It is
 ```
+
 ```
 true, external motives are many times of great
 ```
+
 ```
 use to excite and stir up this inward principle,
 ```
+
 ```
 especially in its infancy and weakness, when
 ```
+
 ```
 it is often so languid that the man himself can
 ```
+
 ```
 scarce discern it, hardl}^ being able to move
 ```
+
 ```
 one step forward, but when he is pushed by
 ```
+
 ```
 his hopes, or his fears ; by the pressure of an
 ```
+
 ```
 affliction, or the sense of a mercy ; by the au-
 ```
+
 ```
 thority of the law, or the persuasion of others.
 ```
+
 ```
 Now, if such a person be conscientious and
 ```
+
 uniform in his obedience, and earnestly groan-
 
 ing under the sense of his dulness, and is de-
@@ -792,12 +902,15 @@ ing under the sense of his dulness, and is de-
 ```
 sirous to perform his duties with more spirit
 ```
+
 ```
 and vigor : these are the first motions of the
 ```
+
 ```
 divine life, which, though it be faint and
 ```
+
 weak, will surely be cherished by the influ-
 
 ences of heaven, and grow unto greater ma-
@@ -815,15 +928,19 @@ custom, by the fear of hell, or carnal notions
 ```
 of heaven, can no more be accounted a reli-
 ```
+
 ```
 gious person, than a puppet can be called a
 ```
+
 ```
 man. This forced and artificial religion is
 ```
+
 ```
 commonly heavy and languid, like the motion
 ```
+
 of a weight forced upward : it is cold and
 
 spiritless, like the uneasy compliance of a
@@ -865,40 +982,51 @@ him.
 ```
 RELIGION A DIVINE PRINCIPLE.
 ```
+
 ## T3 Y this time I hope it doth appear, that
 
 ```
 rehgion is, with a great deal of reason,
 ```
+
 ```
 termed a lifc^ or vital principle ; and that it
 ```
+
 ```
 is ver}' necessary to distinguish between it, and
 ```
+
 ```
 that obedience which is constrained and de-
 ```
+
 ```
 pends on external causes. I come next to
 ```
+
 ```
 give an account why I defined it by the name
 ```
+
 ```
 of divine life. And so it may be called, not
 ```
+
 ```
 only in regard to its fountain and original,
 ```
+
 ```
 having God for its author, and being wrought
 ```
+
 in the souls of men by the power of his Holy
 
 ```
 Spirit ; but also in regard of its nature, reli-
 ```
+
 gion being a resemblance of the divine perfec-
 
 tions, the image of the Almighty shining in
@@ -922,6 +1050,7 @@ T3EFORE I descend to a more particular
 ```
 consideration of that divine life wherein
 ```
+
 true religion doth consist, it will be fit to speak
 
 a little of that natural or animal life which
@@ -965,6 +1094,7 @@ and welfare of their lives. These are instead
 ```
 /;/ the Soul of Alan.
 ```
+
 of a law unto the brute beasts, whereby they
 
 are directed towards the ends for w4iich they
@@ -984,14 +1114,17 @@ higher and more noble designs of his creation.
 ```
 Our natural affections are not w^ioll}" to be ex-
 ```
+
 tirpated and destroyed, but only to be mod-
 
 ```
 erated and overruled by a superior and more
 ```
+
 ```
 excellent principle. In a word, the difference
 ```
+
 between a religious and a wicked man is, that
 
 in the one divine lile bears sway, in the other
@@ -1003,29 +1136,37 @@ THE DIFFERENT TEXDENXIES OF THE NATU-
 ```
 RAL LIFE.
 ```
+
 ```
 "pUT it is strange to observe, unto what dit-
 ```
+
 ```
 ferent courses this natural principle will
 ```
+
 ```
 sometimes carry those who are wholly guided
 ```
+
 ```
 by it, according to the diverse circumstances
 ```
+
 ```
 that concur with it to determine them ; and
 ```
+
 ```
 l6 The Life of God
 ```
+
 then not considering this, doth frequently oc-
 
 ```
 casion very dangerous mistakes, making men
 ```
+
 think well of themselves by reason of that
 
 seeming difference which is between them and
@@ -1039,6 +1180,7 @@ nal. If we consider the natural temper and
 ```
 constitution of men's souls, we shall find some
 ```
+
 to be airv, frolicsome, and light, which makes
 
 their behavior extravagant and ridiculous
@@ -1046,6 +1188,7 @@ their behavior extravagant and ridiculous
 ```
 ;
 ```
+
 whereas others are naturally serious and se-
 
 vere, and their whole carriage composed into
@@ -1053,6 +1196,7 @@ vere, and their whole carriage composed into
 ```
 such gravity as gains them a great deal of
 ```
+
 reverence and esteem. Some are of an humor-
 
 some, rugged, and morose temper, and can
@@ -1080,45 +1224,59 @@ that nature hath provided this complexional
 ```
 tenderness to supply the defect of true charity
 ```
+
 ```
 in the world, and to incline men to do some-
 ```
+
 ```
 thing for one another's welfare. Again, in
 ```
+
 ```
 regard of education, some have never been
 ```
+
 ```
 taught to follow any other rules, than those
 ```
+
 ```
 of pleasure or advantage : but others are so
 ```
+
 ```
 inured to observe the strictest rules of decency
 ```
+
 ```
 and honor, and some instances of virtue, that
 ```
+
 ```
 they are hardly capable of doing any thing
 ```
+
 ```
 which they have been accustomed to look
 ```
+
 ```
 upon as base and unworthy.
 ```
+
 ```
 In line, it is no small difference in the de-
 ```
+
 ```
 portment of mere natural men, that doth arise
 ```
+
 ```
 from the strength or weakness of their wit or
 ```
+
 judgment, and from their care or negligence
 
 in using them. Intemperance and lust, in-
@@ -1144,27 +1302,35 @@ sort of vices, and spring up unto fair imita-
 ```
 2
 ```
+
 ```
 8
 ```
+
 ```
 tions of virtue and goodness. If a man have
 ```
+
 ```
 but so much reason as to consider the preju-
 ```
+
 ```
 dice which intemperance and inordinate lust
 ```
+
 ```
 do bring upon his health, his fortune, and his
 ```
+
 ```
 reputation, self-love may suffice to restrain
 ```
+
 ```
 him ; and one may observe the rules of moral
 ```
+
 justice in dealing with others, as the best way
 
 to secure his own interest, and maintain his
@@ -1172,138 +1338,181 @@ to secure his own interest, and maintain his
 ```
 credit in the world. But this is not all. This
 ```
+
 ```
 natural principle, by the help of reason, may
 ```
+
 take a higher flight, and come nigher the
 
 ```
 instances of piety and religion. It may in-
 ```
+
 ```
 cline a man to the diligent study of divine
 ```
+
 ```
 truths : for why should not these, as well as
 ```
+
 ```
 other speculations, be pleasant and grateful to
 ```
+
 ```
 curious and inquisitive minds? It may make
 ```
+
 ```
 men zealous in maintaining and propagating
 ```
+
 ```
 such opinions as they have espoused, and be
 ```
+
 ```
 very desirous that others should submit unto
 ```
+
 ```
 their judgment, and approve the choice of re-
 ```
+
 ```
 ligion which they themselves have made. It
 ```
+
 ```
 may make them delight to hear and compose
 ```
+
 ```
 excellent discourses about the matters of reli-
 ```
+
 ```
 gion ; for eloquence is very pleasant whatever
 ```
+
 ```
 be the subject. Nay, some it may dispose to
 ```
+
 ```
 no small height of sensible devotion. The
 ```
+
 ```
 glorious things that are spoken of heaven,
 ```
+
 ```
 may make even a carnal heart in love with
 ```
+
 ```
 it ; the metaphors and similitudes made use of
 ```
+
 ```
 in scripture, of crowns and sceptres, and rivers
 ```
+
 ```
 of pleasure, &c. will easily affect a man's
 ```
+
 ```
 fancy, and make him wish to be there, though
 ```
+
 ```
 he neither understand nor desire those spirit-
 ```
+
 ```
 ual pleasures which are described and shad-
 ```
+
 ```
 owed forth by them : and when such a person
 ```
+
 ```
 comes to believe that Christ has purchased
 ```
+
 ```
 those glorious things for him, he may feel a
 ```
+
 ,kind of tenderness and affection towards so
 
 ```
 great a benefactor, and imagine that he is
 ```
+
 ```
 mightily enamoured with him, and vet all the
 ```
+
 ```
 while continue a stranger to the holy temper
 ```
+
 ```
 and spirit of the blessed Jesus. And what
 ```
+
 ```
 hand the natural constitution may have in the
 ```
+
 ```
 rapturous devotions of some melancholy per-
 ```
+
 ```
 sons, hath been excellently discovered of late
 ```
+
 ```
 by several learned and judicious pens.
 ```
+
 ```
 To conclude : there is nothing proper to
 ```
+
 ```
 make a man's life pleasant, or himself emi-
 ```
+
 ```
 nent and conspicuous in the world, but this
 ```
+
 ```
 natural principle, assisted by wit and reason,
 ```
+
 may prompt him to it. And though I do not
 
 ```
 condemn these things in themselves, yet it
 ```
+
 ```
 concerns us nearty to know and consider their
 ```
+
 ```
 nature, both that we may keep within due
 ```
+
 bounds, and also that we may learn never to
 
 value ourselves on the account of such attain-
@@ -1311,18 +1520,23 @@ value ourselves on the account of such attain-
 ```
 ments, nor lay the stress of religion upon our
 ```
+
 ```
 natural appetites or performances.
 ```
+
 ```
 \VHEREIN THE DIVINE LIFE DOTH CONSIST.
 ```
+
 ```
 TT is now time to return to the consideration
 ```
+
 ```
 of that divine life whereof I was discours-
 ```
+
 ing before ; that life which is hid with Christ
 
 in God, and therefore hath no glorious show
@@ -1348,30 +1562,39 @@ inclinations, that they may never be able to
 ```
 betray us to those things which we know
 ```
+
 ```
 to be blamable. The root of the divine Hfe
 ```
+
 ```
 is faith ; the chief branches are, love to God,
 ```
+
 ```
 charity to man, purity and humihty : for (as
 ```
+
 ```
 an excellent person hath well observed) how-
 ```
+
 ```
 ever these names be common and vulgar, and
 ```
+
 ```
 make no extraordinary sound ; yet do they
 ```
+
 ```
 carry such a mighty sense, that the tongue of
 ```
+
 ```
 man or angel can pronounce nothing more
 ```
+
 weighty or excellent. Faith hath the same
 
 place in the divine life which sense hath in
@@ -1397,6 +1620,7 @@ narily termed faith in Jesus Christ,
 ```
 The love of God is a delightful and affec-
 ```
+
 tionate sense of the divine perfections, which
 
 makes the soul resign and sacrifice itself
@@ -1408,22 +1632,27 @@ please him, and delighting in nothing so much
 ```
 as in fellowship and communion with him, and
 ```
+
 being ready to do or suffer any thing for his
 
 ```
 sake, or at his pleasure. Though this affec-
 ```
+
 tion may have its first rise from the favors
 
 ```
 and mercies of God towards ourselves, yet
 ```
+
 ```
 doth it in its growth and progress transcend
 ```
+
 ```
 such particular considerations, and ground
 ```
+
 itself on his infinite goodness manifested in
 
 all the works of creation and providence. A
@@ -1461,6 +1690,7 @@ to himself.
 ```
 ^y j)iirity, I understand a due abstractedness
 ```
+
 from the bodv, and mastery over the inferior
 
 appetites ; or such a temper and disposition of
@@ -1488,6 +1718,7 @@ nimity may come under this head.
 ```
 Humility imports a deep sense of our own
 ```
+
 weakness, with a hearty and affectionate ac-
 
 knowledgment of our owing all that we are to
@@ -1503,6 +1734,7 @@ of the world, and applause of men.
 ```
 These are the highest perfections that either
 ```
+
 men or angels are capable of; the verv founda-
 
 tion of heaven laid in the soul. x\nd he who
@@ -1524,6 +1756,7 @@ God may give him assurance of God's favor to
 ```
 him ; and those beginnings of happiness which
 ```
+
 he feels in the conformity of the powers of his
 
 soul to the nature of God, and compliance with
@@ -1547,18 +1780,23 @@ RELIGION BETTER UNDERSTOOD BY ACTIONS
 ```
 THAN BY WORDS.
 ```
+
 ```
 "\"\ 7'HEN we have said all that we can, the
 ```
+
 ```
 secret m3'steries of a new nature and di-
 ```
+
 ```
 vine life can never be sufficiently expressed
 ```
+
 ```
 ;
 ```
+
 language and words cannot reach them : nor can
 
 they be truly understood but by those souls that
@@ -1588,87 +1826,113 @@ those in wiiom they reside ; especially as they
 ```
 are perfectly exemplified in the holy life of our
 ```
+
 blessed Saviour ; a main part of whose busi-
 
 ```
 ness in this world, was, to teach by his practice
 ```
+
 ```
 what he did require of others, and to make his
 ```
+
 ```
 own conversation an exact resemblance of those
 ```
+
 ```
 unparalleled rules which he prescribed : so that
 ```
+
 ```
 if ever true goodness was visible to mortal eyes,
 ```
+
 ```
 it w^as then when his presence did beautify and
 ```
+
 ```
 illustrate this lower world.
 ```
+
 ```
 DIVINE LOVE EXEMPLIFIED IN OUR SAVIOUR:
 ```
+
 ```
 His diligence in doing God's ivill, and His patience in
 ```
+
 ```
 bearing it.
 ```
+
 ```
 "^ I ^HAT sincere and devout affection where-
 ```
+
 ```
 with his blessed soul did constantly burn
 ```
+
 ```
 towards his heavenly Father, did express itself
 ```
+
 ```
 in an entire resignation to his will. It was his
 ```
+
 ```
 very meat^ to do the zuill, and finish the work
 ```
+
 ```
 of hivi that sent him. This was the exercise of
 ```
+
 ```
 his childhood, and the constant employment
 ```
+
 ```
 of his riper age. He spared no travail or pains
 ```
+
 ```
 while he was about his Father's business, but
 ```
+
 ```
 took such infinite content and satisfaction in the
 ```
+
 ```
 performance of it, that when, being faint and
 ```
+
 ```
 weary with his journey, he rested himself on
 ```
+
 Jacob's well, and entreated water of the Sama-
 
 ```
 ritan woman ; the success of his conference
 ```
+
 ```
 with her, and the accession that was made to
 ```
+
 the kingdom of God, filled his mind with such
 
 ```
 delight, as seemed to have redounded to his very
 ```
+
 body, refreshing his spirits, and making him
 
 forget the thirst whereof he complained before,
@@ -1676,15 +1940,19 @@ forget the thirst whereof he complained before,
 ```
 and refuse the meat which he had sent his dis-
 ```
+
 ```
 ciples to buy. Nor was he less patient and
 ```
+
 ```
 submissive in suffering the will of God, than
 ```
+
 ```
 diligent in doing of it. He endured the sharp-
 ```
+
 est afflictions and extremest miseries that ever
 
 were inflicted on any mortal, without a repining
@@ -1710,15 +1978,19 @@ that severe dispensation of Providence, and
 ```
 willingly acquiesced in it.
 ```
+
 ```
 And he prayed to God, that (f it werepossi-
 ```
+
 ```
 ble^ (or, as one of the Evangelists hath it, if he
 ```
+
 ```
 were zvilling,) that cup anight be removed;
 ```
+
 yet he gendy added. Nevertheless, not my
 
 zvill, but thine be done. Of what strange
@@ -1726,18 +1998,23 @@ zvill, but thine be done. Of what strange
 ```
 importance are the expressions, fohn xii. 27,
 ```
+
 ```
 where he first acknowledgeth the anguish
 ```
+
 ```
 of his spirit, Novj is my soul troubled; which
 ```
+
 ```
 would seem to produce a kind of demur. And
 ```
+
 ```
 what shall I say f and then he goes on to
 ```
+
 deprecate his sufferings, Father^ save mefrom
 
 this hour; which he had no sooner uttered, but
@@ -1775,9 +2052,11 @@ content but desirous to suffer it.
 ```
 A NOTHER instance of his love to God,
 ```
+
 ```
 w^as, his delight in conversing with him
 ```
+
 by prayer ; w^hich made him frequently retire
 
 from the world, and with the greatest devotion
@@ -1787,35 +2066,45 @@ and pleasure spend whole nights in that heav-
 ```
 enly exercise, though he had no sins to confess,
 ```
+
 ```
 and but few secular interests to pray for ; which,
 ```
+
 ```
 alas! are almost the only things that are w^ont
 ```
+
 ```
 to drive us to our devotions. Nay, we may
 ```
+
 ```
 say his w^hole life w^as a kind of prayer, a con-
 ```
+
 ```
 stant course of communion with God ; if the
 ```
+
 ```
 sacrifice was not always offering, yet was the
 ```
+
 ```
 fire still kept alive : nor was ever the blessed
 ```
+
 Jesus surprised with that dulness or tepidity of
 
 ```
 spirit which we must many times wrestle with,
 ```
+
 ```
 before we can be fit for the exercise of devo-
 ```
+
 tion.
 
 ## OUR SAVIOUR'S CHARITY TO MEN.
@@ -1823,17 +2112,21 @@ tion.
 ```
 TN the second place, I should speak of his
 ```
+
 ```
 love and charity towards all men. But he
 ```
+
 who would express it, must transcribe the his-
 
 ```
 tory of the gospel, and comment upon it : for
 ```
+
 ```
 scarce anv thino; is recorded to have been done
 ```
+
 or spoken by him, which was not designed for
 
 the good and advantage of some one or other.
@@ -1841,6 +2134,7 @@ the good and advantage of some one or other.
 ```
 All his miraculous works were instances of his
 ```
+
 goodness, as well as his power; and they ben-
 
 efited those on ^Yhom they were wrought, as
@@ -1866,6 +2160,7 @@ brotheri and sister, and mother.
 ```
 Never was any unwelcome to him who came
 ```
+
 with an honest intention ; nor did he deny any
 
 request which tended to the good of those that
@@ -1909,6 +2204,7 @@ be happy?
 ```
 And what shall I speak of his meekness,
 ```
+
 who could encounter the monstrous ingratitude
 
 and dissimulation of that miscreant who be-
@@ -1918,6 +2214,7 @@ trayed him, in no harsher terms than these,
 ```
 yudas, hetraycst thoit the Son of man zuifh a
 ```
+
 kiss f What further evidence could we desire
 
 of his fervent and unbounded charity, than that
@@ -1925,20 +2222,25 @@ of his fervent and unbounded charity, than that
 ```
 he willingly laid down his life even for his most
 ```
+
 bitter enemies ; and, mingling his prayers with
 
 ```
 his blood, besought the Father that his death
 ```
+
 ```
 might not be laid to their charge, but might be-
 ```
+
 ```
 come the means of eternal life to those very
 ```
+
 ```
 persons who procured it?
 ```
+
 ### T
 
 ## OUR SAVIOUR'S PURITY.
@@ -1946,9 +2248,11 @@ persons who procured it?
 ```
 HE third branch of the divine life is
 ```
+
 ```
 ptirity ; which, as I said, consists in a
 ```
+
 neglect of worldly enjoyments and accommo-
 
 dations, and a resolute enduring of all such
@@ -2026,6 +2330,7 @@ tained an army powerful enough to have jostled
 ```
 CcBsar out of his throne ; having oftener than
 ```
+
 once fed several thousands with a few loaves
 
 and small fishes. But, to show how small
@@ -2039,11 +2344,13 @@ a condition, that though the foxes had holes
 ```
 ^
 ```
+
 and the birds of the air had nests., yet he who
 
 ```
 was lord and heir of all things, had 7iot
 ```
+
 whereon to lay his head. He did not frequent
 
 the courts of princes, nor afiect the acquaint-
@@ -2051,52 +2358,67 @@ the courts of princes, nor afiect the acquaint-
 ```
 ance or converse of great ones ; but, being
 ```
+
 ```
 reputed the son of a carpenter, he had fisher-
 ```
+
 ```
 men and such other poor people for his com-
 ```
+
 ```
 3
 ```
+
 ```
 panions, and lived at such a rate as suited with
 ```
+
 ```
 the meanness of that condition.
 ```
+
 ## OUR SAVIOUR'S HUMILITY.
 
 ```
 A ND thus I am brought unawares to speak
 ```
+
 ```
 of his humility^ the last branch of the
 ```
+
 ```
 divine life ; wherein he was a most eminent
 ```
+
 ```
 pattern to us, that we might learn ofhim to he
 ```
+
 ```
 meek and lozvly in heart. I shall not now
 ```
+
 ```
 speak of that infinite condescension of the
 ```
+
 ```
 eternal Son of God, in taking our nature upon
 ```
+
 him ; but only reflect on our Saviour's lowly
 
 ```
 and humble deportment while he was in the
 ```
+
 ```
 world. He had none of those sins and im-
 ```
+
 perfections which may justly humble the best
 
 of men ; but he was so entirely swallowed up
@@ -2122,68 +2444,89 @@ them. Hence did he refuse that ordinary com-
 ```
 pellation of good master, when addressed to
 ```
+
 ```
 his human nature, by one whom it seems was
 ```
+
 ```
 ignorant of his divinity : Why callest thou me
 ```
+
 good P there is none good, but God only: As
 
 ```
 if he had said, The goodness of any creature
 ```
+
 ```
 (and such only thou takest me to be) is not
 ```
+
 ```
 worthy to be named or taken notice of; it is
 ```
+
 ```
 God alone who is originally and essentially
 ```
+
 ```
 good. He never made use of his miraculous
 ```
+
 ```
 power for vanity or ostentation. He would
 ```
+
 ```
 not gratify the curiosity of the Jews with a
 ```
+
 ```
 sign from heaven, some prodigious appearance
 ```
+
 ```
 in the air : nor would he follow the advice of
 ```
+
 ```
 his countrymen and kindred, who would have
 ```
+
 ```
 had all his great works perlbrmed in the eyes
 ```
+
 ```
 of the world, for gaining him the greater fame.
 ```
+
 ```
 But when his charity had prompted him to the
 ```
+
 ```
 relief of the miserable, his humility made him
 ```
+
 ```
 many times enjoin the concealment of the mir-
 ```
+
 ```
 acle ; and when the glory of God, and the
 ```
+
 ```
 design for which he came into the world, re-
 ```
+
 ```
 quired the publication of them, he ascribed the
 ```
+
 honor of all to his Father, telling them, that of
 
 himself he was able to do 7iothing.
@@ -2191,6 +2534,7 @@ himself he was able to do 7iothing.
 ```
 I cannot insist on all the instances of hu-
 ```
+
 mility in his deportment towards men ; his
 
 withdrawing himself when they would have
@@ -2222,6 +2566,7 @@ scribe.
 ```
 But now, that I may lessen your trouble of
 ```
+
 reading a long letter, by making some pauses
 
 in it, let me here subjoin a prayer that might
@@ -2237,57 +2582,75 @@ discover what it is.
 ```
 " TNFINITE and eternal Majesty, author and
 ```
+
 ```
 fountain of being and blessedness, how
 ```
+
 ```
 little do we poor sinful creatures know of thee,
 ```
+
 ```
 or the way to serve and please thee! We talk
 ```
+
 ```
 of religion, and pretend unto it: but alas I how
 ```
+
 ```
 few are there that know and consider what it
 ```
+
 ```
 means! How easily do we mistake the affec-
 ```
+
 ```
 tions of our nature, and the issues of self-love
 ```
+
 ```
 for those divine graces which alone can render
 ```
+
 ```
 us acceptable in thy sight I It may justly
 ```
+
 ```
 grieve me, to consider, that I should have
 ```
+
 ```
 wandered so long, and contented myself so
 ```
+
 ```
 often with vain shadows and false images of
 ```
+
 ```
 pietv and religion : yet I cannot but acknowl-
 ```
+
 ```
 edge and adore thy goodness, who hast been
 ```
+
 ```
 pleased in some measure to open mine eyes,
 ```
+
 ```
 and let me see what it is at which I ought to
 ```
+
 ```
 aim. I rejoice to consider what mighty im-
 ```
+
 provements my nature is capable of, and what
 
 a divine temper of spirit doth shine in those
@@ -2311,86 +2674,113 @@ be always in my thoughts, and before mine
 ```
 eyes, till I receive a deep sense and impression
 ```
+
 ```
 of those excellent graces that shined so emi-
 ```
+
 ```
 nently in him ; and let me never cease my en-
 ```
+
 ```
 deavors, till that new and divine nature prevail
 ```
+
 ```
 in my soul and Christ be formed within me."
 ```
+
 ```
 THE EXCELLENXY AND ADVANTAGE OF
 ```
+
 ```
 RELIGION.
 ```
+
 ```
 A ND now, my dear friend, having discov-
 ```
+
 ```
 ered the nature of true religion, before I
 ```
+
 ```
 proceed any further^, it will not perhaps be
 ```
+
 ```
 unfit to fix our meditations a little on the excel-
 ```
+
 ```
 lency and advantages of it ; that we may be
 ```
+
 ```
 excited to the more vigorous and diligent prose-
 ```
+
 ```
 cution of those methods whereby we may at-
 ```
+
 ```
 tain so £ri*eat a felicitv. But alas! what words
 ```
+
 ```
 shall we find to express that inward satisfaction,
 ```
+
 ```
 those hidden pleasures which can never be
 ```
+
 ```
 righdy understood, but by those holy souls who
 ```
+
 ```
 feel them? A stranger intermeddleth not with
 ```
+
 ```
 their joy. Holiness is the right temper, the
 ```
+
 ```
 vigorous and healthful constitution of the soul.
 ```
+
 ```
 Its faculties had formerl}^ been enfeebled and
 ```
+
 ```
 disordered, so that they could not exercise their
 ```
+
 ```
 natural functions ; it had wearied itself w^ith
 ```
+
 ```
 endless tossings and rollings, and was never
 ```
+
 ```
 able to find any rest : now, that distemper
 ```
+
 being removed, it feels itself well ; there is
 
 ```
 a due harmony in its faculties, and a sprightly
 ```
+
 vigor possesseth every part. The understand-
 
 ing can discern what is good, and the will can
@@ -2412,9 +2802,11 @@ ble things.
 ```
 ET us descend, if you please, into a nearer
 ```
+
 ```
 and more particular view of religion, in
 ```
+
 those several branches of it which were named
 
 before. Let us consider that love and affec-
@@ -2440,50 +2832,65 @@ love. He who loveth mean and sordid things,
 ```
 doth thereby become base and vile ; but a
 ```
+
 ```
 noble and well-placed affection, doth advance
 ```
+
 ```
 and nnprove the spirit into a conformit}^ with
 ```
+
 the perfections which it loves. The images
 
 ```
 of these do frequently present themselves unto
 ```
+
 ```
 the mind, and, by a secret force and energy,
 ```
+
 ```
 insinuate into the very constitution of the soul,
 ```
+
 ```
 and mould and fashion it unto their own like-
 ```
+
 ```
 ness. Hence we may see how easily lovers
 ```
+
 ```
 or friends do slide into the imitation of the per-
 ```
+
 ```
 sons w^hom they affect, and how, even before
 ```
+
 ```
 they are aware, they begin to resemble them,
 ```
+
 ```
 not only in the more considerable instances
 ```
+
 ```
 of their deportment, but also in their voice
 ```
+
 ```
 and gesture, and that which we call their mien
 ```
+
 ```
 and air. And certainly we should as well
 ```
+
 transcribe the virtues and inward beauties of
 
 the soul, if they were the object and motive
@@ -2579,6 +2986,7 @@ say, That divine love doth in a manner give
 ```
 God unto himsef by the complacency it takes
 ```
+
 in the happiness and perfection of his nature.
 
 But though this may seem too strained an ex-
@@ -2592,6 +3000,7 @@ debased when we bestow it another way.
 ```
 When this affection is misplaced, it doth
 ```
+
 often vent itself in such expressions as point at
 
 its genuine and proper object, and insinuate
@@ -2619,29 +3028,37 @@ ought to be bestowed on him who really is so.
 ```
 Those unlimited submissions, which would
 ```
+
 ```
 debase the soul if directed to any other, will
 ```
+
 ```
 exalt and ennoble it when placed here. Those
 ```
+
 ```
 chains and cords of love are infinitely more
 ```
+
 ```
 glorious than liberty itself; this slavery is more
 ```
+
 ```
 noble than ail the empires in the world.
 ```
+
 ## THE ADVANTAGES OF DIVINE LOVE.
 
 ```
 \ GAIN, as div^ine love doth advance and
 ```
+
 ```
 ^ ^ elevate the soul, so it is that alone which
 ```
+
 can make it happy. The highest and most
 
 ravishing pleasures, the most solid and substan-
@@ -2677,27 +3094,35 @@ the love of God delivers us from them all.
 ```
 L^IRST, I say, love must needs be misera-
 ```
+
 ```
 ble, and full of trouble and disquietude,
 ```
+
 ```
 when there is not worth and excellency enough
 ```
+
 ```
 in the object to answer the vastness of its ca-
 ```
+
 ```
 pacity. So eager and violent a passion, can-
 ```
+
 ```
 not but fret and torment the spirit, where it finds
 ```
+
 ```
 not wherewith to satisfy its cravings. And, in-
 ```
+
 ```
 deed, so large and unbounded is its nature, that
 ```
+
 it must be extremely pinched and straitened,
 
 when confined to any creature ; nothing below
@@ -2729,95 +3154,123 @@ one. Hence love, which is strong- as death,
 ```
 occasioneth jealousy which is cruel as the
 ```
+
 grave; the coals whereof are coals of fire,
 
 ```
 which hath a most violent flame.
 ```
+
 ```
 But divine love hath no mixture of this gall
 ```
+
 ```
 ;
 ```
+
 ```
 when once the soul is fixed on that supreme
 ```
+
 ```
 and all-sufficient good, it finds so much per-
 ```
+
 ```
 fection and goodness, as doth not only answer
 ```
+
 ```
 and satisfy its affection, but master and over-
 ```
+
 ```
 power it too : it finds all its love to be too faint
 ```
+
 ```
 and languid for such a noble object, and is only
 ```
+
 ```
 sorry that it can command no more. It wisheth
 ```
+
 ```
 for the flames of a serafh. and longs for the
 ```
+
 ```
 time when it shall be wholly melted and dis-
 ```
+
 ```
 solved into love : and because it can do so little
 ```
+
 ```
 itself, it desires the assistance of the whole crea-
 ```
+
 ```
 tion, that angels and men would concur with it
 ```
+
 ```
 in the admiration and love of those infinite per-
 ```
+
 ```
 fections.
 ```
+
 ## THE CERTAINTY TO BE BELOVED AGAIN.
 
 ```
 A GAIN, love is accompanied with trouble,
 ```
+
 ```
 when it misseth a suitable return of affec-
 ```
+
 ```
 tion : love is the most valuable thina" we can
 ```
+
 ```
 bestow, and by giving it, we do in effect give
 ```
+
 ```
 all that we have ; and therefore it needs must
 ```
+
 ```
 be afflicting to find so great a gift despised,
 ```
+
 ```
 that the present which one hath made of his
 ```
+
 ```
 whole heart, cannot prevail to obtain any re-
 ```
+
 turn. Perfect love is a kind of self-dereliction,
 
 ```
 a wandering out of ourselves ; it is a kind of
 ```
+
 voluntary death, wherein the lover dies to him-
 
 ```
 self, and all his own interest, not thinking of
 ```
+
 them, nor caring for them an}^ more, and mind-
 
 ing nothing but how he may please and gratify
@@ -2847,6 +3300,7 @@ so unto the other.
 ```
 But why should I enlarge on so known a
 ```
+
 matter? Nothing can be more clear, than that
 
 the happiness of love depends on the return it
@@ -2870,90 +3324,119 @@ possible that God should deny his love to a
 ```
 soul wholly devoted to him, and which desires
 ```
+
 ```
 nothing so much as to serve and please him.
 ```
+
 ```
 He cannot disdain his own image, nor the heart
 ```
+
 ```
 in which it is engraven. Love is all the trib-
 ```
+
 ```
 ute which we can pay him, and it is the sacri-
 ```
+
 ```
 fice which he will not despise.
 ```
+
 ```
 THE PRESENXE OF THE BELOVED PERSON.
 ```
+
 ```
 A XOTHER thing which disturbs the pleas-
 ```
+
 ```
 ure of love, and renders it a miserable
 ```
+
 ```
 and unquiet passion, is absence and separation
 ```
+
 ```
 from those we love. It is not without a sensi-
 ```
+
 ```
 ble affliction that friends do part, though for
 ```
+
 ```
 some little time. It is sad to be deprived of
 ```
+
 ```
 that society which is so delightful ; our life be-
 ```
+
 ```
 comes tedious, being spent in an impatient ex-
 ```
+
 ```
 pectation of the happy hour wherein we may
 ```
+
 ```
 meet again. But if Death hath made the sep-
 ```
+
 ```
 aration, as sometime or other it must, this occa-
 ```
+
 ```
 sions a grief scarce to be paralleled by all the
 ```
+
 ```
 misfortunes of human life, and wherein we pay
 ```
+
 ```
 dear enough for the comforts of our friendship.
 ```
+
 ```
 But oh how happy are those who have placed
 ```
+
 ```
 their love on him who can never be absent from
 ```
+
 ```
 them! They need but open their eyes, and
 ```
+
 ```
 they shall everywhere behold the traces of his
 ```
+
 ```
 presence and glory, and converse with him
 ```
+
 ```
 whom their soul loveth. And this makes the
 ```
+
 ```
 darkest prison, or the wildest desert, not only
 ```
+
 ```
 supportable, but delightful to them.
 ```
+
 ## THE DIVINE LOVE MAKES US PARTAKE OF
 
 ## AN INFINITE HAPPINESS.
@@ -2963,6 +3446,7 @@ TN fine, a lover is miserable if the person
 ```
 whom he loveth be so. They who have
 ```
+
 made an exchange of hearts by love, get
 
 thereby an interest in one another's happiness
@@ -2972,40 +3456,51 @@ and misery : and this makes love a troublesome
 ```
 4
 ```
+
 ```
 passion when placed on earth. The most for-
 ```
+
 ```
 tunate person hath grief enough to mar the
 ```
+
 ```
 tranquiUity of his friend ; and it is hard to hold
 ```
+
 ```
 out, when we are attacked on all hands, and
 ```
+
 ```
 suffer not only in our own person but in anoth-
 ```
+
 ```
 er's. But if God were the object of our love,
 ```
+
 ```
 we should share in an infinite happiness, with-
 ```
+
 out any mixture or possibility of diminution ;
 
 ```
 we should rejoice to behold the glor}" of God,
 ```
+
 ```
 and receive comfort and pleasure from all the
 ```
+
 praises wherewith men and angels do extol him.
 
 ```
 It should delight us beyond all expression, to
 ```
+
 consider, that the beloved of our souls is in,
 
 finitely happy in himself, and that all his ene-
@@ -3019,6 +3514,7 @@ he fleascth.
 ```
 Behold, on what sure foundations bis happi-
 ```
+
 ness is built, whose soul is possessed with di-
 
 vine love ; whose will is transformed into the
@@ -3040,6 +3536,7 @@ T^T'HAT an infinite pleasure must it needs
 ```
 be, thus, as it were, to lose ourselves
 ```
+
 in him, and, being swallowed up in the over-
 
 coming sense of his goodness, to offer our-
@@ -3067,6 +3564,7 @@ and I am his : I am content to be any thing
 ```
 for him, and care not for myself, but that I
 ```
+
 may serve him. A. person moulded into this
 
 temper, would find pleasure in all the dispen-
@@ -3076,44 +3574,57 @@ sations of providence. Temporal enjoyments
 ```
 would have another relish, when he should
 ```
+
 taste the divine goodness in them, and con-
 
 ```
 sider them as tokens of love sent by his dear-
 ```
+
 ```
 est Lord and master. And chastisements,
 ```
+
 ```
 though they be not joyous but grievous,
 ```
+
 ```
 would hereby lose their sting : the rod as
 ```
+
 ```
 well as the staff would comfort him : he
 ```
+
 ```
 would snatch a kiss from the hand that was
 ```
+
 ```
 smiting him, and gather sweetness from that
 ```
+
 ```
 severity. Nay, he would rejoice, that though
 ```
+
 ```
 God did not the will of such a worthless and
 ```
+
 ```
 foolish creature as himself, yet he did his own
 ```
+
 ```
 will, and accomplished his own designs, which
 ```
+
 ```
 are infinitely more holy and wise.
 ```
+
 ## THE DUTIES OF RELIGION ARE DELIGHTFUL
 
 ## TO HIM.
@@ -3121,29 +3632,37 @@ are infinitely more holy and wise.
 ```
 ^ I ^HE exercises of religion, which to others
 ```
+
 ```
 are insipid and tedious, do yield the
 ```
+
 ```
 highest pleasure and delight to souls pos-
 ```
+
 ```
 sessed with divine love. They rejoice when
 ```
+
 ```
 they are called to go up to the house of the
 ```
+
 ```
 Lo7'd, that they may see his -power and his
 ```
+
 glory^ as they have formerly seen it in his
 
 ```
 sanctuary. They never think themselves so
 ```
+
 ```
 happy as when, having retired from the
 ```
+
 world, and gotten free from the noise and
 
 hurry of affau's, and silenced all their clamor-
@@ -3181,6 +3700,7 @@ menting its former unkindness.
 ```
 The severities of a holy life, and that con-
 ```
+
 stant watch which we are obliged to keep
 
 over our hearts and ways, are very trouble-
@@ -3206,89 +3726,117 @@ with explicit commands, but with the most
 ```
 secret notices of the beloved's pleasure ; and
 ```
+
 is ingenious in discovering what will be most
 
 ```
 grateful and acceptable unto him. It makes
 ```
+
 ```
 mortification and self-denial change their
 ```
+
 ```
 harsh and dreadful names, and become easy,
 ```
+
 ```
 sweet, and dehghtful things.
 ```
+
 ```
 But I find this part of my letter swell bigger
 ```
+
 ```
 than I desi^jned : indeed who would not be
 ```
+
 ```
 tempted to dwell on so pleasant a theme? I
 ```
+
 ```
 shall endeavor to compensate it by brevity in
 ```
+
 ```
 the other points.
 ```
+
 ```
 THE EXCELLE^XY OF CHARITY.
 ```
+
 ```
 'T^HE next branch of the divine life is an
 ```
+
 ```
 universal charity and love. The excel-
 ```
+
 ```
 lency of this grace will be easily acknowl-
 ```
+
 ```
 edged. For what can be more noble and
 ```
+
 ```
 generous than a heart enlarged to embrace
 ```
+
 ```
 the whole world, whose wishes and designs
 ```
+
 ```
 are levelled at the good and welfare of the
 ```
+
 ```
 universe, which considereth every man's inter-
 ```
+
 ```
 est as its own? He who loveth his neighbor
 ```
+
 ```
 as himself can never entertain any base or
 ```
+
 ```
 injurious thought, or be wanting in expres-
 ```
+
 ```
 sions of bounty : he had rather suffer a thou-
 ```
+
 ```
 sand wrongs, than be guilty of one ; and never
 ```
+
 ```
 accounts himself happy, but when some one
 ```
+
 ```
 or other hath been benefited by him. The
 ```
+
 ```
 malice or ingratitude of men is not able to
 ```
+
 ```
 resist his love : he overlooks their injuries,
 ```
+
 and pities their folly, and overcomes their
 
 evil with good ; and never designs any other
@@ -3320,18 +3868,23 @@ effecting the highest things. Those heroic
 ```
 actions which we are wont to read with admi-
 ```
+
 ```
 ration, have for the most part been the effects
 ```
+
 ```
 of the love of one's country, or of particular
 ```
+
 ```
 friendships ; and certainly a more extensive
 ```
+
 ```
 and universal affection must be much more
 ```
+
 powerful and efficacious.
 
 ## THE PLEASURE THAT ATTENDS CHARITY.
@@ -3339,9 +3892,11 @@ powerful and efficacious.
 ```
 A GAIN, as charity flows from a noble and
 ```
+
 ```
 excellent temper, so it is accompanied
 ```
+
 with the greatest satisfaction and pleasure.
 
 It delights the soul to feel itself thus enlarged,
@@ -3371,57 +3926,75 @@ ward prosperity : every thing that did benefit
 ```
 in the Soul of Man. 57
 ```
+
 ```
 and advantage them, would afford me com-
 ```
+
 ```
 fort and pleasure. And though I should fre-
 ```
+
 ```
 quenth^ meet with occasions of grief and
 ```
+
 ```
 compassion, yet there is a sweetness in com-
 ```
+
 ```
 miseration, which makes it infinitely more
 ```
+
 ```
 desirable than a stupid insensibility : and the
 ```
+
 ```
 consideration of that infinite goodness and
 ```
+
 ```
 wisdom which governs the world, might re-
 ```
+
 ```
 press any excessive trouble for particular
 ```
+
 ```
 calamities that happen in it: and the hopes
 ```
+
 ```
 or possibility of men's after-happiness, might
 ```
+
 ```
 moderate their sorrow for their present mis-
 ```
+
 ```
 fortunes. Certainly, next to the love and
 ```
+
 ```
 enjoyment of God, that ardent charity and
 ```
+
 ```
 affection wherewith blessed souls do embrace
 ```
+
 ```
 one another, is justly to be reckoned as the
 ```
+
 ```
 greatest felicity of those regions above : and
 ```
+
 did it universally prevail in the world, it would
 
 anticipate that blessedness, and make us taste
@@ -3435,6 +4008,7 @@ of the joys of heaven upon earth.
 ```
 of rehgion, was purity : and you may
 ```
+
 remember I described it to consist in a con-
 
 tempt of sensual pleasures, and resoluteness
@@ -3458,37 +4032,47 @@ that which is obtained over them. Never
 ```
 can that person be capable of any thing that
 ```
+
 is noble and worth}', who is sunk in the gross
 
 ```
 and feculent pleasures of sense, or bewitched
 ```
+
 ```
 with the light and airy gratifications of fancy.
 ```
+
 ```
 But the religious soul is of a more sublime
 ```
+
 ```
 and divine temper ; it knows it was made for
 ```
+
 ```
 higher things, and scorns to step aside one
 ```
+
 ```
 foot out of the way of holiness, for the obtain-
 ```
+
 ```
 ing any of these.
 ```
+
 ## THE DELIGHT AFFORDED BY PURITY.
 
 ```
 A ND this purity is accompanied with a
 ```
+
 ```
 great deal of pleasure : whatsoever
 ```
+
 defiles the soul disturbs it too ; all impure
 
 delights have a sting in them, and leave
@@ -3516,24 +4100,31 @@ upon as any violent and uneasy restraint, but
 ```
 as the effect of better choice, that their minds
 ```
+
 ```
 are taken up in the pursuit of more sublime
 ```
+
 ```
 and refined delights, so that they cannot be
 ```
+
 ```
 concerned in these. Any person that is en-
 ```
+
 ```
 gaged in a violent and passionate affection,
 ```
+
 ```
 will easily forget his ordinary gratifications,
 ```
+
 ```
 will be little curious about his diet, or his
 ```
+
 bodily ease, or the divertisements he was
 
 wont to delic^ht in. No wonder then if souls
@@ -3551,20 +4142,25 @@ pertinent to their main happiness, and those
 ```
 higher enjoyments they are pursuing. As for
 ```
+
 the hardships they meet with, they rejoice in
 
 ```
 them, as opportunities to exercise and testify
 ```
+
 ```
 their affection : and since they are able to do
 ```
+
 ```
 so litde for God, they are glad of the honor to
 ```
+
 ```
 suffer for him.
 ```
+
 ## THE EXCELLENCY OF HUMILITY.
 
 ## 'T^HE last branch of religion is Juimility
@@ -3572,68 +4168,89 @@ suffer for him.
 ```
 ;
 ```
+
 ```
 and however to vulgar and carnal eyes
 ```
+
 ```
 this may appear an abject, base, and despica-
 ```
+
 ```
 ble quality, yet really the soul of man is not
 ```
+
 ```
 capable of a higher and more noble endow-
 ```
+
 ```
 ment. It is a silly ignorance that begets pride :
 ```
+
 ```
 but humility arises from a nearer acquaintance
 ```
+
 ```
 with excellent things, which keeps men from
 ```
+
 ```
 doating on trifles, or admiring themselves be-
 ```
+
 ```
 cause of some pretty attainments. Noble and
 ```
+
 ```
 well educated souls have no such high opinion
 ```
+
 ```
 of riches, beauty, strength, and other such like
 ```
+
 ```
 advantages, as to value themselves for them,
 ```
+
 ```
 or despise those that want them : and as for
 ```
+
 ```
 inward worth and real goodness, the sense they
 ```
+
 ```
 have of the divine perfections makes them
 ```
+
 ```
 think very meanlv of any thing they have
 ```
+
 ```
 hitherto attained, and be still endeavorin<r to
 ```
+
 ```
 surmount themselves, and make nearer ap-
 ```
+
 ```
 proaches to those infinite excellencies which
 ```
+
 they admire.
 
 ```
 I know not what thoughts people may have
 ```
+
 of humility, but I see almost every person pre-
 
 tending to it, and shunning such expressions
@@ -3667,9 +4284,11 @@ counted so necessary a part of good breeding?
 ```
 A GAIN, this grace, is accompanied with a
 ```
+
 ```
 great deal of happiness and tranquilHty :
 ```
+
 the proud and arrogant person is a trouble to
 
 all that converse with him, but most of all unto
@@ -3717,6 +4336,7 @@ trays a man into a thousand inconveniences,
 ```
 which those of a meek and lowly temper sel-
 ```
+
 dom meet with. True and genuine humility
 
 begetteth both a veneration and love among all
@@ -3730,6 +4350,7 @@ that honor it makes him pretend to.
 ```
 But as the chief exercises of humilitv are
 ```
+
 those which relate unto Almighty God, so
 
 these are accompanied with the greatest satis-
@@ -3763,26 +4384,33 @@ tions, Lord, zuhat is man f and can utter it
 ```
 with the same affection. Never did any
 ```
+
 ```
 haughty and ambitious person receive the
 ```
+
 ```
 praises and applauses of men with so much
 ```
+
 ```
 pleasure, as the humble and religious do re-
 ```
+
 nounce them : Not unto 21s, O Lord., not unto
 
 ```
 us, but unto thy name, give glory, dec.
 ```
+
 ```
 Thus have I spoken something of the ex-
 ```
+
 ```
 cellencies and advantage of religion in its
 ```
+
 several branches ; but should be very inju-
 
 rious to the subject, did I pretend to have
@@ -3814,6 +4442,7 @@ f~^ OOD God! what a mighty feHcity is this
 ```
 to which we are called! How graciousl}^
 ```
+
 hast thou joined our duty and happiness to-
 
 gether ; and prescribed that for our work, the
@@ -3841,45 +4470,59 @@ souls that have broken the fetters of self-love,
 ```
 and disentangled their affection from every
 ```
+
 ```
 narrow and particular good ; whose under-
 ```
+
 ```
 standings are enlightened by the Holy Spirit,
 ```
+
 ```
 and their wills enlarged to the extent of thine ;
 ```
+
 ```
 who love thee above all things, and all man-
 ```
+
 ```
 kind for thy sake! I am persuaded, O God!
 ```
+
 ```
 I am persuaded, that I can never be happ}',
 ```
+
 ```
 till my carnal and corrupt affections be morti-
 ```
+
 ```
 5
 ```
+
 ```
 fied, and the pride and vanity of my spirit be
 ```
+
 ```
 subdued, and till I come seriously to despise
 ```
+
 ```
 the world, and think nothing of myself. But
 ```
+
 ```
 oh when shall it once be! Oh when wilt thou
 ```
+
 ```
 come unto me, and satisfy my soul with th}^
 ```
+
 likeness, making me holy as thou art holy,
 
 even in all manner of conversation! Hast
@@ -3913,60 +4556,79 @@ THINGS.
 ```
 T HAVE hitherto considered wherein true re-
 ```
+
 ```
 ligion doth consist, and how desirable a
 ```
+
 ```
 thing it is. But wliQii one sees how infinitely
 ```
+
 ```
 distant the common temper and frame of men
 ```
+
 ```
 are from it, he may perhaps be ready to de-
 ```
+
 ```
 spond and give over, and think it utterly im-
 ```
+
 ```
 possible to be attained. He may sit down in
 ```
+
 ```
 sadness, and bemoan himself, and say, in the
 ```
+
 ```
 anguish and bitterness of his spirit, " They
 ```
+
 ```
 are happy indeed w^hose souls are awakened
 ```
+
 ```
 unto the divine life, who are thus renewed in
 ```
+
 ```
 the spirit of their minds. But, alas! I am
 ```
+
 ```
 quite of another constitution, and am not able
 ```
+
 ```
 to effect so mighty a change. If outward ob-
 ```
+
 ```
 servances could have done the business, I
 ```
+
 ```
 might have hoped to acquit m3'self by diligence
 ```
+
 ```
 and care : but since nothing but a new nature
 ```
+
 ```
 can serve the turn, what am I able to do? I
 ```
+
 ```
 could bestow all my goods in oblations to God,
 ```
+
 or alms to the poor ; but cannot command that
 
 love and charity, without which this expense
@@ -3996,63 +4658,83 @@ of the doors, are always getting in by the win-
 ```
 dows. I am many times convinced of m}^ own
 ```
+
 ```
 meanness, of the weakness of my body, and
 ```
+
 ```
 the far greater weakness of my soul ; but this
 ```
+
 ```
 doth rather beget indignation and discontent,
 ```
+
 ```
 than true humility in my spirit : and though I
 ```
+
 ```
 should come to think meanly of myself, yet
 ```
+
 ```
 I cannot endure that others should think so too.
 ```
+
 ```
 In a word, when I reflect on my highest and
 ```
+
 ```
 most specious attainments, I have reason to
 ```
+
 ```
 suspect, that they are all but the effects of na-
 ```
+
 ```
 ture, the issues of self-love acting vmder several
 ```
+
 ```
 disguises : and this principle is so powerful and
 ```
+
 ```
 so deeply rooted in me, that I can never hope
 ```
+
 ```
 to be delivered from the dominion of it. I may
 ```
+
 ```
 toss and turn as a door on the hinges ; but can
 ```
+
 ```
 never get clear off, or be quite unhinged of self,
 ```
+
 ```
 which is still the centre of all my motions.
 ```
+
 ```
 So that all the advantage I can draw from the
 ```
+
 ```
 discovery of religion, is but to see at a huge
 ```
+
 ```
 distance that felicity which I am not able to
 ```
+
 reach : like a man in a shipwreck, who dis-
 
 cerns the land, and envies the happiness of
@@ -4068,6 +4750,7 @@ for himself to get ashore."
 ```
 thoutrhts, mav arise in the minds of
 ```
+
 those persons w^ho begin to conceive some-
 
 what more of the nature and excellency of
@@ -4101,18 +4784,23 @@ friend, let us encourage ourselves with those
 ```
 mighty aids we are to expect in this spiritual
 ```
+
 ```
 warfare ; for greater is he that is for us, than
 ```
+
 ```
 all that can rise up against us : The eternal
 ```
+
 ```
 God is otir refuge^ and itnderneath are the
 ```
+
 ```
 everlasting arms. Let 21s be strong in the
 ```
+
 Lord, and tn the -power of his might; for
 
 he it is that shall tread dozvn our enemies.
@@ -4120,9 +4808,11 @@ he it is that shall tread dozvn our enemies.
 ```
 God hath a tender regard unto the souls of
 ```
+
 ```
 men, and is infinitely willing to promote their
 ```
+
 welfare. He hath condescended to our weak-
 
 ness, and declared with an oath, that he hath
@@ -4158,6 +4848,7 @@ his tabernacle amongst the sons of men, that
 ```
 he might recover and propagate the divine
 ```
+
 life, and restore the image of God in their
 
 souls? All the mighty works which he per-
@@ -4233,6 +4924,7 @@ drown it. Whenever this day begins to dawn,
 ```
 and the day-star to arise in the hearty it will
 ```
+
 easily dispel the powers of darkness, and make
 
 ignorance and folly, and all the corrupt and
@@ -4250,6 +4942,7 @@ shineth more and more tmto the -perfect day.
 ```
 They shall go on from stre^igth to strength,
 ```
+
 till every one of them appear before God in
 
 Zion
@@ -4259,12 +4952,15 @@ Zion
 ```
 Why should we think it impossible, that true
 ```
+
 ```
 goodness and universal love should ever com.e
 ```
+
 ```
 m the Soul of Man. 73
 ```
+
 to sway and prevail in our souls? Is not this
 
 their primitive state and condition ; their native
@@ -4316,6 +5012,7 @@ aliens f
 ```
 No sooner shall we take up arms in this holy
 ```
+
 war, but we shall have all the saints on earth,
 
 and all the angels in heaven engaged on our
@@ -4353,9 +5050,11 @@ us, are more than they that be against ns.
 ```
 \ WAY then with all perplexing fears and
 ```
+
 ```
 desponding thoughts. To undertake vig-
 ```
+
 orously, and rely confidently on the divine as-
 
 sistance, is more than half the conquest. Let
@@ -4415,47 +5114,61 @@ useless or unnecessary. So likewise the hu-
 ```
 76 The Ltfe of God
 ```
+
 ```
 man soul is immediately created by God ; it is
 ```
+
 ```
 he who both formeth and enliveneth the child :
 ```
+
 ```
 and yet he hath appointed the marriage-bed as
 ```
+
 ```
 the ordinary means for the propagation of man-
 ```
+
 ```
 kind. Though there must intervene a stroke
 ```
+
 ```
 of Omnipotence to effect this mighty change in
 ```
+
 ```
 our souls, yet ought we to do what we can to
 ```
+
 ```
 fit and prepare ourselves. For we must break
 ```
+
 ```
 up our fallow ground, and root out the weeds,
 ```
+
 ```
 and pull up the thorns, that so we may be more
 ```
+
 ```
 ready to receive the seeds of grace, and the
 ```
+
 ```
 dew of heaven. It is true, God hath been
 ```
+
 found of some who souijht him not ; he hath
 
 ```
 cast himself in their way, who were quite out
 ```
+
 of his ; he hath laid hold upon them, and
 
 stopped their course of a sudden : for so was
@@ -4491,11 +5204,13 @@ to contradict and oppose them, more than phy-
 ```
 sicians do, when the}' prescribe several reme-
 ```
+
 dies for the same disease, which perhaps are
 
 ```
 all useful and good. Every one may propose
 ```
+
 the method he judges most proper and con-
 
 venient ; but he doth not thereby pretend that
@@ -4503,53 +5218,69 @@ venient ; but he doth not thereby pretend that
 ```
 the cure can never be effected, unless that be
 ```
+
 ```
 exactly observed. I doubt it hath occasioned
 ```
+
 ```
 much unnecessary disquietude to some holy
 ```
+
 ```
 persons, that they have not found such a regular
 ```
+
 ```
 and orderly transaction in their souls, as they
 ```
+
 ```
 have seen described in books : that they have
 ```
+
 ```
 not passed through all those steps and stages
 ```
+
 ```
 of conversion, which some (who perhaps have
 ```
+
 ```
 felt them in themselves) have too peremptorily
 ```
+
 ```
 prescribed unto others. God hath several
 ```
+
 ```
 ways of dealing with the souls of men : and
 ```
+
 ```
 it sufficeth if the work be accomplished, what-
 ```
+
 ```
 ever the methods have been.
 ```
+
 ```
 Again, though, in proposing directions, I
 ```
+
 ```
 must follow that order w^hich the nature of
 ```
+
 things shall lead to ; yet I do not mean that the
 
 ```
 same method should be so punctually observed
 ```
+
 in the practice, as if the latter rules were never
 
 to be heeded, till some considerable time have
@@ -4569,6 +5300,7 @@ to perform them.
 ```
 "DUT now, that I may detain you no longer,
 ```
+
 "^ if we desire to have our souls moulded to
 
 this holy frame, to become partakers of the di-
@@ -4636,9 +5368,11 @@ WE MUST KNOW WHAT THINGS ARE SINFUL.
 ```
 \ ND, first, let us inform ourselves well, what
 ```
+
 ```
 those sins are from which we ought to
 ```
+
 abstain. And here we must not take our meas-
 
 ures from the maxims of the world, or the
@@ -4650,63 +5384,83 @@ good men. Most people have very light appre-
 ```
 hensions of these things, and are not sensible
 ```
+
 ```
 of any fault, unless it be gross and flagitious
 ```
+
 ```
 ;
 ```
+
 ```
 and scarce reckon any so great as that which
 ```
+
 ```
 they call preciseness : and those who are more
 ```
+
 ```
 serious, do many times allow themselves too
 ```
+
 ```
 great latitude and freedom. Alas! how much
 ```
+
 ```
 pride and vanity, and passion and humor: how
 ```
+
 ```
 much weakness, folly, and sin, doth every day
 ```
+
 ```
 show itself in their converse and behavior. It
 ```
+
 ```
 may be they are humbled for it, and striving
 ```
+
 ```
 against it, and are daily gaining some ground
 ```
+
 ```
 ;
 ```
+
 ```
 but then the progress is so small, and their
 ```
+
 ```
 failings so many, that we have need to choose
 ```
+
 ```
 an exacter pattern. Every one of us must
 ```
+
 ```
 answer for himself, and the practices of others
 ```
+
 ```
 will never warrant and secure us. It is the
 ```
+
 ```
 171 the Soul of Alan. 8i
 ```
+
 ```
 highest folly to regulate our actions by any
 ```
+
 other standard than that by which they must be
 
 judged. If ever we would cleanse our ivay^ it
@@ -4714,60 +5468,79 @@ judged. If ever we would cleanse our ivay^ it
 ```
 must be by taking heed thereunto according- to
 ```
+
 ```
 the word of God, And that word which is
 ```
+
 ```
 quick and -powerful^ and sharper than any
 ```
+
 ```
 two-edged sword, piercing even to the dividing
 ```
+
 ```
 asunder of soul and spirit, and of the joints
 ```
+
 ```
 and marrow, and is a discerner of the thoughts
 ```
+
 ```
 and intents ofthe heart, will certainly discover
 ```
+
 ```
 many things to be sinful and heinous, which
 ```
+
 ```
 pass for very innocent in the eyes of the world :
 ```
+
 ```
 let us therefore imitate the Psalmist, who saith,
 ```
+
 ```
 Concerning the works of men, by the words of
 ```
+
 ```
 thy lips, I have kept myself from the paths
 ```
+
 ```
 of the destroyer. Let us acquaint ourselves
 ```
+
 ```
 with the strict and holy laws of our religion ;
 ```
+
 ```
 let us consider the discourses of our blessed
 ```
+
 ```
 Saviour, (especially that divine sermon on the
 ```
+
 ```
 mount,) and the writings of his holy apostles,
 ```
+
 ```
 W'here an ingenuous and unbiassed mind may
 ```
+
 ```
 clearly discern those limits and bounds by
 ```
+
 which our actions ought to be confined. And
 
 then let us never look upon any sin as light and
@@ -4777,6 +5550,7 @@ inconsiderable ; but be fully persuaded that the
 ```
 6
 ```
+
 smallest is infinitely heinous in the sight of
 
 God, and prejudicial to the souls of men ; and
@@ -4800,6 +5574,7 @@ WE MUST RESIST THE TEMPTATIONS OF SIN,
 ```
 discover to be sinful, there will be some,
 ```
+
 unto which, through the disposition of our na-
 
 ture, or long custom, or the endearments of
@@ -4807,33 +5582,43 @@ ture, or long custom, or the endearments of
 ```
 pleasure, we are so much wedded, that it will
 ```
+
 ```
 be like cutting off the right hand, or pulling
 ```
+
 ```
 out the right eye, to abandon them. But must
 ```
+
 ```
 we therefore sit down and wait till all difficul-
 ```
+
 ```
 ties are over, and every temptation be gone?
 ```
+
 ```
 This were to imitate the fool in the poet, who
 ```
+
 ```
 stood the whole day at the river side, till all the
 ```
+
 ```
 waters should run by. We must not indulge
 ```
+
 ```
 our inclinations, as we do little children, till
 ```
+
 ```
 they grow weary of the thing they are unwill-
 ```
+
 ing to let go ; we must not continue our sinful
 
 practices, in hopes that the divine grace will
@@ -4845,6 +5630,7 @@ hate them for their own deformity.
 ```
 Let us suppose the worst, that we are utterly
 ```
+
 destitute of any supernatural principle, and
 
 want that taste by which we should discern and
@@ -4860,44 +5646,57 @@ lives. If the inward deformity and heinous
 ```
 nature of sin cannot affect us, at least we may
 ```
+
 be frighted by those dreadful consequences that
 
 ```
 attend it : that same selfish principle which
 ```
+
 ```
 pusheth us forward unto the pursuit of sinful
 ```
+
 ```
 pleasures, will make us loath to buy them at the
 ```
+
 ```
 rate of everlasting misery. Thus we may en-
 ```
+
 ```
 counter self-love with its own weapons, and
 ```
+
 ```
 employ one natural inclination for repressing
 ```
+
 ```
 the exorbitances of another. Let us therefore
 ```
+
 ```
 accustom ourselves to consider seriously, what
 ```
+
 ```
 a fearful thing it must needs be to irritate and
 ```
+
 ```
 offend that infinite Being, on whom we hang
 ```
+
 ```
 and depend every moment ; who needs but to
 ```
+
 ```
 withdraw his mercies to make us miserable, or
 ```
+
 [^84]: The Life of God
 
 his assistance to make us nothing. Let us fre-
@@ -4921,42 +5720,55 @@ think what horror must needs seize the guilty
 ```
 soul, to find itself naked and all alone before
 ```
+
 ```
 the severe and impartial judge of the world, to
 ```
+
 ```
 render an exact account, not only of its more
 ```
+
 ```
 important and considerable transactions, but of
 ```
+
 ```
 every word that the tongue hath uttered, and
 ```
+
 ```
 the swittest and most secret thous^ht that ever
 ```
+
 ```
 passed through the mind. Let us sometimes rep-
 ```
+
 ```
 resent unto ourselves the terrors of that dread-
 ```
+
 ```
 ful day, when the foundations of the earth shall
 ```
+
 ```
 be shaken, and the heavens shall pass away
 ```
+
 ```
 with a great noise, and the elements shall melt
 ```
+
 ```
 with fervent heat, and the present frame of na-
 ```
+
 ```
 ture be dissolved, and our eyes shall see the
 ```
+
 blessed Jesus (who came once into the world
 
 in all humility to visit us, to purchase pardon
@@ -4966,53 +5778,69 @@ for us, and beseech us to accept of it) now
 ```
 appearing in the majesty of his glory, and
 ```
+
 ```
 descending from heaven in flaming fire, to take
 ```
+
 ```
 vengeance on those that have despised his
 ```
+
 ```
 mercy, and persisted in rebeUion against him :
 ```
+
 ```
 when all the hidden things of darkness shall
 ```
+
 ```
 be brought to light, and the counsels of the
 ```
+
 ```
 heart shall be made manifest : when those
 ```
+
 ```
 secret impurities and subtle frauds whereof
 ```
+
 ```
 the world did never suspect us, shall be ex-
 ```
+
 ```
 posed and laid open to public view, and manv
 ```
+
 ```
 thousand actions w^hich we never dreamed to
 ```
+
 ```
 be sinful, or else had altogether forgotten,
 ```
+
 ```
 shall be charged home to our consciences,
 ```
+
 ```
 with such evident convictions of guilt, that we
 ```
+
 ```
 shall neither be able to deny nor excuse them.
 ```
+
 Then shall the angels in heaven, and all the
 
 ```
 saints that ever lived on the earth, approve
 ```
+
 that dreadful sentence which shall be passed
 
 on wicked men ; and those who perhaps did
@@ -5042,51 +5870,63 @@ together the importance of all these expres-
 ```
 sions, and added unto them whatever our
 ```
+
 fancy can conceive of misery and torment,
 
 ```
 we must still remember, that all this comes
 ```
+
 ```
 infinitely short of the truth and reality of the
 ```
+
 ```
 thincj.
 ```
+
 ```
 It is true, this is a sad and melancholy sub-
 ```
+
 ject ; there is anguish and horror in the con-
 
 ```
 sideration of it ; but sure it must be infinitely
 ```
+
 ```
 more dreadful to endure it : and such thoughts
 ```
+
 ```
 as these may be very useful to fright us from
 ```
+
 the courses that would lead us thither ; how
 
 ```
 fond soever we may be of sinful pleasures, the
 ```
+
 fear of hell would make us abstain : our most
 
 ```
 forward inclinations will startle and give back,
 ```
+
 when pressed with that question in the prophet.
 
 ```
 Who among us can dzvcll with everlasting
 ```
+
 hitrnings?
 
 ```
 To this verv purpose it is, that the terrors
 ```
+
 of another world are so frequenth^ represented
 
 in holv writ, and that in such terms as are
@@ -5094,21 +5934,27 @@ in holv writ, and that in such terms as are
 ```
 most proper to affect and influence a carnal
 ```
+
 ```
 mind : these fears can never suffice to make
 ```
+
 ```
 any person truly good, but certainly they may
 ```
+
 ```
 restrain us from much evil, and have often
 ```
+
 ```
 made way for more ingenuous and kindly
 ```
+
 ```
 impressions.
 ```
+
 ## WE MUST KEEP A CONSTANT WATCH OVER
 
 OURSELVES.
@@ -5116,18 +5962,23 @@ OURSELVES.
 ```
 "DUT it will not suffice to consider these
 ```
+
 ```
 things once and again, nor to form some
 ```
+
 ```
 resolutions of abandoning our sins, unless we
 ```
+
 ```
 maintain a constant guard, and be continually
 ```
+
 ```
 watching against them. Sometimes the mind
 ```
+
 is awakened to see the dismal consequences
 
 of a vicious life, and straight we are resolved
@@ -5183,131 +6034,173 @@ under the all-seeing eye of that divine Maj-
 ```
 estv, as in the midst of an infinite globe of
 ```
+
 ```
 light, which compasseth us about both behind
 ```
+
 ```
 and before, and pierceth to the innermost
 ```
+
 ```
 corners of our soul. The sense and remem-
 ```
+
 ```
 brance of the divine presence is the most
 ```
+
 ```
 ready and effectual means, both to discover
 ```
+
 ```
 what is unlawful, and to restrain us from it.
 ```
+
 ```
 There are some things a person could make
 ```
+
 ```
 shift to palliate or defend, and yet he dares
 ```
+
 ```
 not look almighty God in the face, and adven-
 ```
+
 ```
 ture upon them. If we look unto him, we;
 ```
+
 ```
 shall be lightened ; if we set him always be-
 ```
+
 fo7'e us, he will guide us by his eye, and in-
 
 ```
 struct us in the zvay wherein we ought to
 ```
+
 ```
 walk.
 ```
+
 ```
 ^VE MUST OFTEN EXAMINE OUR ACTIONS.
 ```
+
 ```
 ^ I ^HIS care and watchfulness over our ac-
 ```
+
 ```
 tions, must be seconded by frequent and
 ```
+
 ```
 serious reflections upon them, not only that
 ```
+
 ```
 we may obtain the divine mercy and pardon
 ```
+
 ```
 for our sins, by an humble and sorrowful
 ```
+
 ```
 acknowledgment of them ; but also that we
 ```
+
 ```
 may re-enforce and strengthen our resolutions,
 ```
+
 ```
 and learn to decline or resist the temptations
 ```
+
 ```
 by which we have been formerly foiled. It is
 ```
+
 ```
 an advice worthy of a Christian, though it did
 ```
+
 ```
 first drop from a heathen pen, "That before
 ```
+
 ```
 we betake ourselves to rest, we renew and
 ```
+
 ```
 examine all the passages of the day, that we
 ```
+
 ```
 mav have the comfort of what we have done
 ```
+
 ```
 aright, and may redress what we find to have
 ```
+
 ```
 been amiss, and make the shipwrecks of one
 ```
+
 ```
 day be as marks to direct our course in an-
 ```
+
 ```
 other." This may be called the very art of
 ```
+
 ```
 virtuous living, and would contribute w^onder-
 ```
+
 ```
 fully to advance our reformation, and preserve
 ```
+
 ```
 our innocency. But, withal, we must not for-
 ```
+
 ```
 get to implore the divine assistance, especially
 ```
+
 ```
 against those sins that do most easily beset us :
 ```
+
 ```
 and though it be supposed that our hearts are
 ```
+
 ```
 not yet moulded into that spiritual frame which
 ```
+
 ```
 should render our devotions acceptable, yet,
 ```
+
 ```
 methinks, such considerations as have been
 ```
+
 proposed to deter us from sin, may also stir
 
 us up to some natural seriousness, and make
@@ -5315,65 +6208,81 @@ us up to some natural seriousness, and make
 ```
 our prayers against it as earnest, at least, as
 ```
+
 they are wont to be against other calamities :
 
 ```
 and I doubt not but God, w^ho heareth the cry
 ```
+
 of the ravens, will have some regard even to
 
 ```
 such petitions as proceed from those natural
 ```
+
 passions which himself hath implanted in us.
 
 ```
 Besides, that those prayers against sin, wdll
 ```
+
 be powerful engagements on ourselves to ex-
 
 ```
 cite us to watchfulness and care ; and common
 ```
+
 ingenuity will make us ashamed to relapse into
 
 ```
 those faults, which we have lately bewailed be-
 ```
+
 ```
 fore God, and against w^hich we have begged
 ```
+
 ```
 his assistance.
 ```
+
 ```
 IT IS FIT TO RESTRAIN OURSELVES IN MANY
 ```
+
 ```
 LAWFUL THINGS.
 ```
+
 ```
 'T^HUS are we to make the first essay for
 ```
+
 ```
 recovering the divine life, by restraining
 ```
+
 the natural inclinations, that they break not
 
 ```
 out into sinful practices : but now I must add,
 ```
+
 ```
 that Christian prudence will teach us to ab-
 ```
+
 ```
 stain from gratifications that are not simply
 ```
+
 unlawful, and that not only that we may se-
 
 ```
 cure our innocence, w^hich would be in con-
 ```
+
 tinual hazard if we should strain our liberty
 
 to the utmost point; but also, that hereby we
@@ -5423,14 +6332,17 @@ even from good, till once we have gotten some
 ```
 command over that unruly member. Thus, I
 ```
+
 sav, we may bind up our natural inclinations,
 
 ```
 and make our appetites more moderate in their
 ```
+
 ```
 cravings, bv accustoming them to frequent re-
 ```
+
 fusals : but it is not enough to have them
 
 under violence and restraint.
@@ -5440,11 +6352,13 @@ WE MUST STRIVE TO PUT OURSELVES OUT OF
 ```
 LOVE WITH THE WORLD.
 ```
+
 /^UR next essay must be to wean our atlec-
 
 ```
 tions from created things, and all the
 ```
+
 delights and entertainments of the lower life,
 
 which sink and depress the souls of men, and
@@ -5454,6 +6368,7 @@ retard their motions towards God and heaven
 ```
 ;
 ```
+
 and this we must do by possessing our minds
 
 with a deep persuasion of the vanity and
@@ -5485,6 +6400,7 @@ take up all our thoughts, and engross all our
 ```
 affections ; they stifle the better inclinations of
 ```
+
 our soul, and inveigle us into many a sin. It
 
 may be, in a sober mood, we give them the
@@ -5494,75 +6410,97 @@ slight, and resolve to be no longer deluded
 ```
 with them ; but these thoughts seldom outlive
 ```
+
 the next temptation ; the vanities which we
 
 ```
 have shut out at the door get in at a postern :
 ```
+
 there are still some pretensions, some hopes
 
 ```
 that flatter us : and after we have been frus-
 ```
+
 ```
 trated a thousand times, we must be continu-
 ```
+
 ```
 ally repeating the experiment : the least dif-
 ```
+
 ```
 ference of circumstances is enough to delude
 ```
+
 .us, and make us expect that satisfaction in
 
 ```
 one thing which w^e have missed in another :
 ```
+
 ```
 but could we once get clearly off, and come
 ```
+
 ```
 to a real and serious contempt of worldly
 ```
+
 ```
 things, this were a very considerable advance-
 ```
+
 ```
 ment in our way. The soul of man is of a
 ```
+
 ```
 vigorous and active nature, and hath in it a
 ```
+
 ```
 raging and inextinguishable thirst, an imma-
 ```
+
 ```
 terial kind of fire, always catching at some
 ```
+
 ```
 object or other, in conjunction wherewith it
 ```
+
 ```
 thinks to be happy ; and were it once rent
 ```
+
 ```
 from the world, and all the bewitching enjoy-
 ```
+
 ```
 ments under the sun, it would quickly search
 ```
+
 ```
 after some higher and more excellent object,
 ```
+
 ```
 to satisfy its ardent and importunate cravings
 ```
+
 ```
 ;
 ```
+
 ```
 and being no longer dazzled with glittering
 ```
+
 vanities, would fix on that supreme and all-
 
 sufficient Good, where it would discover such
@@ -5580,6 +6518,7 @@ rise : when our natural inclinations prosper,
 ```
 and the creature is exalted in our soul, religion
 ```
+
 is faint, and doth languish : but when earthly
 
 objects wither away and lose their beauty, and
@@ -5591,42 +6530,55 @@ tion of them, then the seeds of grace take root,
 ```
 and the divine life begins to flourish and pre-
 ```
+
 ```
 vail. It doth, therefore, nearh' concern us,
 ```
+
 ```
 to convince ourselves of the emptiness and
 ```
+
 ```
 vanity of creature-enjoyments, and reason our
 ```
+
 ```
 hearts out of love with them : let us seriously
 ```
+
 ```
 consider all that our reason, or our faith, our
 ```
+
 ```
 own experience, or the observation of others,
 ```
+
 ```
 can suggest to this effect ; let us ponder the
 ```
+
 ```
 matter over and over, and fix our thoughts on
 ```
+
 ```
 this truth, till we become really persuaded of
 ```
+
 ```
 it. Amidst all our pursuits and designs, let
 ```
+
 ```
 us stop and ask ourselves, For w^hat end is all
 ```
+
 ```
 this? at what do I aim? can the gross and
 ```
+
 muddy pleasures of sense, or a heap of white
 
 and yellow earth, or the esteem and affection
@@ -5664,27 +6616,35 @@ ble of no higher enjoyments I
 ```
 I cannot insist on this subject : and there
 ```
+
 ```
 is the less need, when I remember to whom I
 ```
+
 ```
 am writing. Yes, my dear friend, you have
 ```
+
 ```
 had as great experience of the emptiness and
 ```
+
 ```
 vanity of human things, and have at present as
 ```
+
 ```
 few worldly engagements as any that I know.
 ```
+
 ```
 I have sometimes reflected on those passages
 ```
+
 ```
 of your life wherewith you have been pleased
 ```
+
 to acquaint me; and methinks, through all,
 
 I can discern a design of the divine Providence
@@ -5704,57 +6664,75 @@ ture, nor the advantages of fortune, are suffi-
 ```
 cient for happiness ; that every rose hath its
 ```
+
 ```
 thorn, and there may be a worm at the root of
 ```
+
 ```
 the fairest gourd ; some secret and undiscerned
 ```
+
 ```
 grief, which may make a person deserve the
 ```
+
 ```
 pity of those who perhaps do admire or envy
 ```
+
 ```
 their supposed felicity. If any earthly com-
 ```
+
 ```
 forts have got too much of your heart, I think
 ```
+
 ```
 they have been your relations and friends ; and
 ```
+
 ```
 the dearest of these are removed out of the
 ```
+
 ```
 world, so that you must raise your mind to-
 ```
+
 ```
 wards heaven, when you would think upon
 ```
+
 ```
 them. Thus God hath provided that your
 ```
+
 ```
 heart may be loosed from the world, and that
 ```
+
 ```
 he may not have any rival in your affection,
 ```
+
 ```
 which I have always observed to be so large
 ```
+
 ```
 and unbounded, so noble and disinterested,
 ```
+
 ```
 that 110 inferior object can answer or deserve it.
 ```
+
 ```
 7
 ```
+
 ## WE MUST DO THOSE OUTWARD ACTIONS THAT
 
 ## ARE COMMANDED.
@@ -5764,6 +6742,7 @@ that 110 inferior object can answer or deserve it.
 ```
 strained, and our natural appetites and
 ```
+
 inclinations towards worldly things in some
 
 measure subdued, we must proceed to such ex-
@@ -5805,23 +6784,29 @@ we not omit any occasion of doing them good :
 ```
 if our hearts be haughty and proud, we must
 ```
+
 ```
 nevertheless study a modest and humble de-
 ```
+
 ```
 portment. These external performances are of
 ```
+
 ```
 little value in themselves, yet they may help us
 ```
+
 ```
 forward to better things. The apostle indeed
 ```
+
 tells us, that bodily exercise frojiteth little; but
 
 ```
 he seems not to affirm that it is altogether use-
 ```
+
 less : it is always good to be doing what we
 
 can, for then God is wont to pity our weakness,
@@ -5861,6 +6846,7 @@ T3UT as inward acts have a more immediate
 ```
 influence on the soul, to mould it to a
 ```
+
 right temper and frame, so ought we to be most
 
 frequent and sedulous in the exercise of them.
@@ -5896,6 +6882,7 @@ vinced that his will is always just and good
 ```
 ;
 ```
+
 and therefore desire him to do with us whatso-
 
 ever he pleaseth, whether we will or not. And
@@ -5911,6 +6898,7 @@ person that we see ; and when we have done
 ```
 any thing for the relief of the miserable, we
 ```
+
 may second it with earnest desires that God
 
 would take care of them, and deliver them out
@@ -5920,6 +6908,7 @@ of all their distresses.
 ```
 Thus should we exercise ourselves unto god-
 ```
+
 liness. And when we are employing the pow-
 
 ers that we have, the Spirit of God is wont to
@@ -5939,14 +6928,17 @@ freedom and ease.
 ```
 CONSIDERATION A GREAT INSTRUMENT OF
 ```
+
 ```
 RELIGION.
 ```
+
 T SHALL mention but two other means for
 
 ```
 begetting that holy and divine temper of
 ```
+
 spirit which is the subject of the present dis-
 
 course. And the first is, a deep and serious
@@ -5954,77 +6946,101 @@ course. And the first is, a deep and serious
 ```
 consideration of the truths of our reHgion, and
 ```
+
 ```
 that both as to the certainty and importance of
 ```
+
 ```
 them. The assent which is ordinarily given to
 ```
+
 ```
 divine truths, is very faint and languid ; very
 ```
+
 ```
 weak and ineffectual ; flowing only from a
 ```
+
 ```
 blind inclination to follow that religion which is
 ```
+
 ```
 in fashion, or a lazy indifference and uncon-
 ```
+
 ```
 cernedness whether things be so or not. Men
 ```
+
 ```
 are unwilling to quarrel with the religion of
 ```
+
 ```
 their country, and since all their neighbors are
 ```
+
 ```
 Christians, the}^ are content to be so too ; but
 ```
+
 ```
 they are seldom at the pains to consider the
 ```
+
 ```
 evidences of those truths, or to ponder the im-
 ```
+
 ```
 portance and tendency of them ; and thence it
 ```
+
 ```
 is that they have so little influence on their
 ```
+
 ```
 affections and practice. Those spiritless and
 ```
+
 paralytic thoughts (as one doth rightly term
 
 ```
 them) are not able to move the will and direct
 ```
+
 ```
 the hand : we must therefore endeavor to work
 ```
+
 ```
 up our minds to a serious belief and full per-
 ```
+
 ```
 suasion of divine truths, unto a sense and feel-
 ```
+
 ```
 ing of spiritual things. Our thoughts must
 ```
+
 ```
 dwell upon them, till we are both convinced of
 ```
+
 ```
 them, and deeply affected with them. Let us
 ```
+
 ```
 urge forward our spirits, and make them ap-
 ```
+
 proach the invisible world ; and fix our minds
 
 upon immaterial things, till we clearly perceive
@@ -6058,30 +7074,37 @@ than flesh and blood and bones ; even a divine
 ```
 spark, capable to know and love and enjoy
 ```
+
 our Maker ; and though it be now exceedingly
 
 ```
 clogged with its dull and lumpish companion,
 ```
+
 yet ere long it shall be delivered, and can sub-
 
 ```
 sist without the body, as well as that can do
 ```
+
 without the clothes which we throw oft' at our
 
 ```
 pleasure. Let us often withdraw our thoughts
 ```
+
 ```
 from this earth, this scene of misery, folly, and
 ```
+
 ```
 sin, and raise them towards that more vast and
 ```
+
 ```
 glorious world, whose innocent and blessed
 ```
+
 inhabitants solace themselves eternally in the
 
 divine presence, and know no other passion but
@@ -6121,6 +7144,7 @@ Spirit, as the sun reacheth us with his beams.
 ```
 these, and such other divine truths, is the
 ```
+
 most proper method to beget that lively faith
 
 which is the foundation of religion, the spring
@@ -6128,68 +7152,89 @@ which is the foundation of religion, the spring
 ```
 and root of the divine life. Let me further
 ```
+
 ```
 suggest some particular subjects of meditation
 ```
+
 ```
 for producing the several branches of it. And,
 ```
+
 ```
 first, to inflame our souls with the love of God,
 ```
+
 ```
 let us consider the excellency of his nature,
 ```
+
 ```
 and his love and kindness towards us. It is
 ```
+
 ```
 little we know of the divine perfection, and yet
 ```
+
 ```
 that litde may suffice to fill our souls with
 ```
+
 ```
 admiration and love ; to ravish our affections as
 ```
+
 ```
 well as to raise our wonder : for we are not
 ```
+
 ```
 merely creatures of sense, that we should be
 ```
+
 ```
 incapable of any other affection but that which
 ```
+
 ```
 entereth by the eyes. The character of any
 ```
+
 ```
 excellent person whom we have never seen,
 ```
+
 ```
 will many times engage our hearts, and make
 ```
+
 ```
 us hugely concerned in all his interests. And
 ```
+
 ```
 what is it, I pra}^ you, that engages us so much
 ```
+
 ```
 to those with whom we converse? I cannot
 ```
+
 ```
 think that it is merely the color of their face, or
 ```
+
 ```
 their comely proportions ; for then wx should
 ```
+
 fall in love with statues and pictures and flow-
 
 ```
 ers. These outward accomplishments may a
 ```
+
 little delight the eye, but would never be able
 
 to prevail so much on the heart, if they did not
@@ -6239,133 +7284,175 @@ faint rays of the same perfections which we
 ```
 meet with in our fellow-creatures? Shall we
 ```
+
 ```
 doat on the scattered pieces of a rude and im-
 ```
+
 ```
 perfect picture, and never be affected with the
 ```
+
 ```
 original beauty? This were an unaccountable
 ```
+
 ```
 stupidity and blindness. Whatever we find
 ```
+
 ```
 lovely in a friend, or in a saint, ought not to
 ```
+
 ```
 engross, but to elevate our affection. We
 ```
+
 ```
 should conclude with ourselves, that if there be
 ```
+
 ```
 so much sweetness in a drop, there must be
 ```
+
 ```
 infinitely more in the fountain ; if there be so
 ```
+
 ```
 much splendor in a ray, what must the sun be
 ```
+
 ```
 in its glory?
 ```
+
 ```
 Nor can we pretend the remoteness of the
 ```
+
 ```
 object, as if God were at too great a distance
 ```
+
 ```
 for our converse or our love : He is not far
 ```
+
 from every one ofus; for in him we live^ and
 
 ```
 move, and have our being. We cannot open
 ```
+
 ```
 our eyes, but we must behold some footsteps of
 ```
+
 ```
 his glory ; and we cannot turn them toward
 ```
+
 ```
 him, but we shall be sure to find his intent upon
 ```
+
 ```
 us; waiting, as it were, to catch a look, ready
 ```
+
 ```
 to entertain the most intimate fellowship and
 ```
+
 ```
 communion with us. Let us therefore en-
 ```
+
 ```
 deavor to raise our minds to the clearest con-
 ```
+
 ```
 ceptions of the divine nature. Let us consider
 ```
+
 ```
 all that his works do declare, or his word doth
 ```
+
 ```
 discover of him unto us ; and let us especially
 ```
+
 ```
 contemplate that visible representation of him
 ```
+
 ```
 which was made in our own nature by his Son,
 ```
+
 ```
 who was the brightness ofhis glory, and the ex-
 ```
+
 fress image oj"his person; and who appeared
 
 ```
 in the world to discover at once what God is,
 ```
+
 ```
 and what w^e ought to be. Let us represent
 ```
+
 ```
 him unto our minds as w^e find him described
 ```
+
 ```
 in the gospel ; and there we shall behold the
 ```
+
 ```
 perfections of the divine nature, though cov-
 ```
+
 ```
 ered with the veil of human infirmities ; and
 ```
+
 ```
 when w^e have framed unto ourselves the clear-
 ```
+
 ```
 est notion that we can of a Being, infinite in
 ```
+
 ```
 powder, in wisdom, and goodness ; the author
 ```
+
 ```
 and fountain of all perfections, let us fix the
 ```
+
 ```
 eyes of our soul upon it, that our eyes may
 ```
+
 ```
 affect our heart, and while we are musing, the
 ```
+
 ```
 fire w'ill burn.
 ```
+
 ## WE SHOULD MEDITATE ON GOD'S GOODNESS
 
 ## AND LOVE.
@@ -6373,21 +7460,27 @@ fire w'ill burn.
 ```
 "PSPECIALLY, if hereunto we add the con-
 ```
+
 ```
 sideration of God's favor and good-will
 ```
+
 ```
 towards us ; nothing is more powerful to en-
 ```
+
 ```
 gage our affection, than to find that we are
 ```
+
 ```
 beloved. Expressions of kindness are always
 ```
+
 ```
 pleasing and acceptable unto us, though the
 ```
+
 person should be otherwise mean and con-
 
 temptible ; but to have the love of one who
@@ -6429,52 +7522,67 @@ preparing for us against another. He sweet-
 ```
 eneth our lives with innumerable comforts, and
 ```
+
 ```
 gratifieth every faculty with suitable objects
 ```
+
 ```
 ;
 ```
+
 the eye of his providence is always upon us,
 
 ```
 and he watcheth for our safety when we are
 ```
+
 ```
 fast asleep, neither minding him nor ourselves.
 ```
+
 ```
 But lest we should think these testimonies of
 ```
+
 ```
 his kindness less considerable, because they
 ```
+
 ```
 are the easy issues of his omnipotent power,
 ```
+
 ```
 and do not put him to any trouble or pain, he
 ```
+
 ```
 hath taken a more wonderful method to endear
 ```
+
 ```
 himself to us : he hath testified his affection
 ```
+
 ```
 to us, by suffering as well as by doing ; and
 ```
+
 because he could not suffer in his own nature
 
 ```
 he assumed ours. The eternal Son of God did
 ```
+
 ```
 clothe himself with the infirmities of our flesh,
 ```
+
 ```
 and left the company of those innocent and
 ```
+
 blessed spirits, w^ho knew well how to love and
 
 adore him, that he might dwell among men,
@@ -6550,6 +7658,7 @@ fulness of God.
 ```
 We ought also frequently to reflect on those
 ```
+
 particular tokens of favor and love, which God
 
 hath bestowed on ourselves ; how long he hath
@@ -6599,9 +7708,11 @@ not the design of those benefits which he be-
 ```
 stows.
 ```
+
 ```
 If these considerations had once begotten in
 ```
+
 our hearts a real love and affection towards
 
 Almighty God, that would easily lead us unto
@@ -6613,6 +7724,7 @@ shall need say the less of them.
 ```
 TO BEGET CHARITY WE MUST REMEMBER
 ```
+
 ## THAT ALL MEN ARE NEARLY RELATED
 
 ## UNTO GOD.
@@ -6622,6 +7734,7 @@ TO BEGET CHARITY WE MUST REMEMBER
 ```
 towards men, by considering the rela-
 ```
+
 tion wherein they stand unto God, and the im-
 
 presses of his image which are stamped upon
@@ -6653,18 +7766,23 @@ that relation, so long as God hath not abdicated
 ```
 and disowned him by a final sentence, he will
 ```
+
 ```
 have us to acknowledge him as one of his, and
 ```
+
 ```
 as such to embrace him with a sincere and cor-
 ```
+
 ```
 dial affection. You know what a great con-
 ```
+
 ```
 8
 ```
+
 cernment we are wont to have for those that do
 
 anywise belong to the person whom we love
@@ -6672,6 +7790,7 @@ anywise belong to the person whom we love
 ```
 ;
 ```
+
 how gladly we lay hold on every opportunity
 
 to gratify the child or servant of a friend ; and
@@ -6695,9 +7814,11 @@ great a price lor their redemption.
 ```
 A GAIN, as all men stand in a near relation
 ```
+
 ```
 to God, so they have still so much of his
 ```
+
 image stamped upon them, as may oblige and
 
 excite us to love them ; in some this image is
@@ -6741,39 +7862,51 @@ shall consider these evil qualities as the diseases
 ```
 and distempers of a soul, which in itself is
 ```
+
 ```
 capable of all that wisdom and goodness where-
 ```
+
 ```
 with the best of saints have ever been adorned,
 ```
+
 ```
 and which may one day come to be raised unto
 ```
+
 ```
 such heights of perfection as shall render it
 ```
+
 ```
 a fit companion for the holy angels, this will
 ```
+
 ```
 turn our aversion into pity, and make us behold
 ```
+
 ```
 him with such resentments as we should have
 ```
+
 ```
 when we look upon a beautiful body that was
 ```
+
 ```
 mangled with wounds, or disfigured by some
 ```
+
 ```
 loathsome disease ; and however we hate the
 ```
+
 ```
 vices, we shall not cease to love the man.
 ```
+
 ## TO BEGET PURITY, WE SHOULD CONSIDER
 
 ## THE DIGNITY OF OUR NATURE.
@@ -6781,9 +7914,11 @@ vices, we shall not cease to love the man.
 ```
 TN the next place, for purifying our souls, and
 ```
+
 ```
 disentangling our affections from the pleas-
 ```
+
 ures and enjoyments of this lower life, let us
 
 frequently ponder the excellency and dignity of
@@ -6825,9 +7960,11 @@ pleasures.
 ```
 TT will be very effectual to the same purpose,
 ```
+
 ```
 that we frequently raise our minds towards
 ```
+
 heaven, and represent to our thoughts the joys
 
 that are at God's right hand, those pleasures
@@ -6861,6 +7998,7 @@ w^hich these joys are sometimes represented
 ```
 ;
 ```
+
 for this might, perhaps, have quite a contrary
 
 effect ; it might entangle us further in carnal
@@ -6886,21 +8024,27 @@ the hopes and forethoughts of that blessed
 ```
 estate ; oh how mean and contemptible will
 ```
+
 ```
 all things here below appear in our eyes I with
 ```
+
 ```
 what disdain shall we reject the gross and
 ```
+
 ```
 muddy pleasures that would deprive us of those
 ```
+
 ```
 celestial enjoyments, or an}^ way unfit and
 ```
+
 ```
 indispose us for them.
 ```
+
 ## HUMILITY ARISES FROM THE CONSIDERATION
 
 ## OF OUR FAILINGS.
@@ -6908,27 +8052,35 @@ indispose us for them.
 ```
 ^
 ```
+
 ```
 I ^HE last branch of religion is humility, and
 ```
+
 ```
 sure we can never want matter of con-
 ```
+
 ```
 sideration for begetting it : all our wickednesses
 ```
+
 ```
 and imperfections, all our follies and our sins,
 ```
+
 ```
 mav help to pull down that fond and overween-
 ```
+
 ```
 ing conceit which we are apt to entertain of
 ```
+
 ```
 ourselves. That which makes any body esteem
 ```
+
 us, is their knowledge or apprehension of some
 
 little good, and their ignorance of a great deal
@@ -6958,6 +8110,7 @@ vanity of our spirits. Thus holy men have
 ```
 come really to think w^orse of themselves than
 ```
+
 of any other person in the world : not but that
 
 they knew that gross and scandalous vices are,
@@ -6965,24 +8118,31 @@ they knew that gross and scandalous vices are,
 ```
 in their nature, more heinous than the surpri-
 ```
+
 ```
 sals of temptations and infirmity ; but because
 ```
+
 ```
 they w^ere much more intent on their owm mis-
 ```
+
 ```
 carriages, than on those of their neighbors, and
 ```
+
 ```
 did consider all the aggravations of the one,
 ```
+
 ```
 and every thing that might be supposed to
 ```
+
 ```
 diminish and alleviate the other.
 ```
+
 ## THOUGHTS OF GOD GIVE US THE LOWEST
 
 ## THOUGHTS OF OURSELVES.
@@ -6992,6 +8152,7 @@ TI)UT it is well observed by a pious writer,
 ```
 that the deepest and most pure humility
 ```
+
 doth not so much arise from the consideration
 
 of our own faults and defects, as from a calm
@@ -7015,6 +8176,7 @@ for which we are wont to value ourselves
 ```
 !
 ```
+
 That humility which cometh from a view of
 
 our own sinfulness and miser}', is more turbu-
@@ -7038,6 +8200,7 @@ PRAYER, ANOTHER INSTRUxMENT OF RELIGION,
 ```
 getting a holy and religious disposition
 ```
+
 in the soul ; and that is, fervent and hearty
 
 prayer. Holiness is the gift of God ; indeed
@@ -7127,6 +8290,7 @@ impulse of the previous meditation.
 ```
 This mental prayer is of all others the most
 ```
+
 effectual to purify the soul, and dispose it unto
 
 a holy and religious temper, and may be
@@ -7164,6 +8328,7 @@ of the heart which are wont to accompany it,
 ```
 are something oppressive to nature, and make
 ```
+
 it hard to continue long in them. But certainly
 
 a few of these inward aspirations will do more
@@ -7175,26 +8340,33 @@ sions.
 ```
 4
 ```
+
 ```
 RELIGION IS TO BE ADVANXED BY THE SAME
 ```
+
 ```
 MEANS BY WHICH IT IS BEGUN; AND THE
 ```
+
 ```
 USE OF THE HOLY SACRAMENT TOWARDS
 ```
+
 ```
 IT.
 ```
+
 ^
 
 ```
 I ^HUS, my dear friend, I have briefly pro-
 ```
+
 ```
 posed the method which I judge proper
 ```
+
 for moulding the soul into a holy frame ; and
 
 the same means which serve to beget this di-
@@ -7228,6 +8400,7 @@ and lay the strictest obligations on ourselves
 ```
 ;
 ```
+
 then are our minds raised to the highest con-
 
 tempt of the world, and every grace doth ex-
@@ -7235,6 +8408,7 @@ tempt of the world, and every grace doth ex-
 ```
 ercise itself ^Yith the greatest activity and
 ```
+
 vigor ; all the subjects of contemplation do
 
 there present themselves unto us with the
@@ -7242,6 +8416,7 @@ there present themselves unto us with the
 ```
 greatest advantage ; and then, if ever, doth
 ```
+
 the soul make its most powerful sallies towards
 
 heaven, and assault it with a holy and accepta-
@@ -7257,6 +8432,7 @@ makes us continue of so low a size.
 ```
 But it is time I should put a close to this
 ```
+
 letter, which is grown to a far greater bulk
 
 than at first I intended : if these poor papers
@@ -7280,6 +8456,7 @@ owes you.
 ```
 and Fountain of mercy and goodness,
 ```
+
 who hast blessed us with the knowledge of our
 
 happiness, and the way that leadeth unto it, ex-
@@ -7341,51 +8518,67 @@ the astonishing expressions of thy goodness and
 ```
 love, may conquer and overpower our hearts,
 ```
+
 ```
 that they may be constantly rising toward thee
 ```
+
 ```
 in flames of the devoutest affection, and en-
 ```
+
 ```
 larging themselves in sincere and cordial love
 ```
+
 ```
 towards all the world, for thy sake; and that
 ```
+
 ```
 we may cleanse ourselves from all filthiness of
 ```
+
 ```
 flesh and spirit, perfecting holiness in thy fear,
 ```
+
 ```
 without which we can never hope to behold
 ```
+
 ```
 and enjoy thee. Finally, O God, grant that
 ```
+
 ```
 the consideration of what thou art, and what
 ```
+
 ```
 we ourselves are, may both humble and lay us
 ```
+
 ```
 low before thee, and also stir up in us the
 ```
+
 ```
 strongest and most ardent aspirations towards
 ```
+
 ```
 thee. We desire to resign and give up our-
 ```
+
 ```
 selves to the conduct of thy Holy Spirit ; lead
 ```
+
 ```
 us in thy truth, and teach us, for thou art the
 ```
+
 God of our salvation ; guide us with thy coun-
 
 sel, and afterwards receive us unto glory, for
@@ -7397,8 +8590,10 @@ our Saviour." Amen,
 ```
 THE END.
 ```
+
 ```
 CAMBRIDGE : PRESS OF JOHN WILSON AND SON.
 ```
+
 t;
 

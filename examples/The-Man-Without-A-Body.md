@@ -6,6 +6,7 @@
 ```
 {by Edward Page Mitchell}
 ```
+
 **On a shelf in the old Arsenal museum, in the**
 **Central Park, in the midst of stuffed**
 **hummingbirds, ermines, silver foxes, and**
@@ -16,7 +17,7 @@
 **had a fascinating interest to me ever since it was**
 **added to the grim collection a little more than a**
 **year ago.**
-**I was struck with the Head when I firstsaw it.**
+**I was struck with the Head when I first saw it.**
 **The pensive intelligence of the features won**
 **me. The face is remarkable, although the nose**
 **is gone, and the nasal fossæ are somewhat the**
@@ -28,7 +29,7 @@
 **of decay, but what mouth there is displays**
 **character. It seems to say: "Barring certain**
 **deficiencies in my anatomy, you behold a man**
-**ofparts!" The features of the Head are of the**
+**of parts!" The features of the Head are of the**
 **Teutonic cast, and the skull is the skull of a**
 **philosopher. What particularly attracted my**
 **attention, however, was the vague resemblance**
@@ -39,13 +40,13 @@
 **After all, I was not greatly surprised, when I**
 **had known the Head for nearly a year, to see it**
 **acknowledge our acquaintance and express its**
-**appreciation offriendly interest on my part by**
+**appreciation of friendly interest on my part by**
 **deliberately winking at me as I stood before its**
 **glass case.**
 **This was on a Trustees' day, and I was the**
 **only visitor in the hall. The faithful attendant**
 **had gone to enjoy a can of beer with his friend,**
-**the superintendentof the monkeys.**
+**the superintendent of the monkeys.**
 **The Head winked a second time, and even**
 **more cordially than before. I gazed upon its**
 **efforts with the critical delight of an anatomist.**
@@ -151,7 +152,7 @@ get cold in this thundering draught. As to eating
 **charge. He made the circuit of the hall with me,**
 **talking volubly all the while.**
 **"That there," he said, as we stood before the**
-**Head, "isa relict of moralitypresented to the**
+**Head, "is a relict of morality presented to the**
 **Museum fifteen months ago. The head of a**
 **notorious murderer gilteened at Paris in the last**
 **century, sir."**
@@ -215,6 +216,7 @@ follow me?"
 I conceived a great idea. There was no reason
 why matter could not be telegraphed, or, to be
 ```
+
 **etymologically accurate, 'telepomped.' It was**
 **only necessary to effect at one end of the line the**
 **disintegration of the molecules into atoms, and**
@@ -320,6 +322,7 @@ had forgotten to replenish the cups of my
 battery with fresh sulphuric acid, and there was
 not electricity enough to materialize the rest of
 ```
+
 **me. I was a Head, but my body was, Lord**
 **knows where!"**
 **I did not attempt to offer consolation. Words**
@@ -331,7 +334,7 @@ not electricity enough to materialize the rest of
 **them found my Head, and knowing nothing of**
 **me or of the Telepomp, appropriated it for**
 **purposes of anatomical study. I suppose that**
-**they attempted to preserve itby means of some**
+**they attempted to preserve it by means of some**
 **arsenical preparation. How badly the work was**
 **done is shown by my defective nose. I suppose**
 **that I drifted from medical student to medical**
@@ -343,7 +346,7 @@ not electricity enough to materialize the rest of
 **consciousness I found myself here.**
 **"Such," added the Head, with a dry, harsh**
 **laugh, "is the irony of Fate!"**
-**"Is there nothing I can dofor you?" I asked,**
+**"Is there nothing I can do for you?" I asked,**
 **after a pause.**
 **"Thank you," the Head replied; "I am**
 **tolerably cheerful and resigned. I have lost**
@@ -354,8 +357,8 @@ not electricity enough to materialize the rest of
 **which this admirable museum abounds. I don't**
 **know of anything you can do for me.**
 **"Stay," he added, as his gaze fell once more**
-**upon the exasperating legs of theOedieneninus**
-**Longpipes oppositehim. "If there is anything I**
+**upon the exasperating legs of the Oedieneninus**
+**Longpipes opposite him. "If there is anything I**
 **do feel the need of, it is out-door exercise.**
 **Couldn't you manage in some way to take me**
 **out for a walk?"**
@@ -364,13 +367,13 @@ not electricity enough to materialize the rest of
 **After some deliberation, I formed a plan, which**
 **was carried out in the following manner:**
 **I returned to the Museum that afternoon just**
-**before the closing hour, andhid myself behind**
+**before the closing hour, and hid myself behind**
 **the mammoth sea cow, or Manatus**
 **Americanus. The attendant, after a cursory**
 **glance through the hall, locked up the building**
 **and departed. Then I came boldly forth and**
 **removed my friend from his shelf. With a piece**
-**of stout twine, I lashedhis one or two vertebrae**
+**of stout twine, I lashed his one or two vertebrae**
 **to the headless vertebrae of a skeleton Moa.**
 
 ```
@@ -393,6 +396,8 @@ the moonlight, and wandered arm in arm along
 the shores of the quiet lake and through the
 mazy paths of the Ramble.
 ```
-## {THE END}
 
+```
+{THE END}
+```
 

@@ -24,22 +24,27 @@ Distributed Proofreading Team at http://www.pgdp.net
 ```
 BY
 ```
+
 ## J. BERG ESENWEIN
 
 ```
 AUTHOR OF
 ```
+
 **"HOW TO ATTRACT AND HOLD AN AUDIENCE,"**
 
 ```
 "WRITING THE SHORT-STORY,"
 ```
+
 ```
 "WRITING THE PHOTOPLAY," ETC., ETC.,
 ```
+
 ```
 AND
 ```
+
 ## DALE CARNAGEY
 
 **PROFESSOR OF PUBLIC SPEAKING, BALTIMORE SCHOOL OF**
@@ -52,37 +57,48 @@ AND
 ```
 THE WRITER'S LIBRARY
 ```
+
 ```
 EDITED BY J. BERG ESENWEIN
 ```
+
 ```
 THE HOME CORRESPONDENCE SCHOOL
 ```
+
 ```
 SPRINGFIELD, MASS.
 ```
+
 ```
 PUBLISHERS
 ```
+
 ```
 Copyright 1915
 THE HOME CORRESPONDENCE SCHOOL
 ```
+
 ```
 ALL RIGHTS RESERVED
 ```
+
 ```
 TO
 ```
+
 ```
 F. ARTHUR METCALF
 ```
+
 ```
 FELLOW-WORKER AND FRIEND
 ```
+
 ```
 Table of Contents
 ```
+
 THINGS TO THINK OF FIRST—A FOREWORD
 
 CHAPTER I—ACQUIRING CONFIDENCE BEFORE AN AUDIENCE
@@ -155,12 +171,15 @@ TREATMENT
 APPENDIX D—SPEECHES FOR STUDY AND PRACTISE
 GENERAL INDEX
 ```
+
 ```
 THINGS TO THINK OF FIRST
 ```
+
 ```
 A FOREWORD
 ```
+
 The efficiency of a book is like that of a man, in one important respect: its
 attitude toward its subject is the first source of its power. A book may be full of
 good ideas well expressed, but if its writer views his subject from the wrong
@@ -237,6 +256,7 @@ methods it will be like dressing a wooden image in the clothes of a man.
 ```
 J. BERG ESENWEIN.
 ```
+
 NARBERTH, PA.,
 JANUARY [^1]:, [^1]:[^9]:[^1]:[^5]:.
 
@@ -249,21 +269,26 @@ Apothecary Shops, that those Pots that are Empty, or have Things of
 small Value in them, are as gaudily Dress'd as those that are full of
 precious Drugs.
 ```
+
 ```
 They that soar too high, often fall hard, making a low and level
 Dwelling preferable. The tallest Trees are most in the Power of the
 Winds, and Ambitious Men of the Blasts of Fortune. Buildings have
 need of a good Foundation, that lie so much exposed to the Weather.
 ```
+
 ```
 —WILLIAM PENN.
 ```
+
 ```
 CHAPTER I
 ```
+
 ```
 ACQUIRING CONFIDENCE BEFORE AN AUDIENCE
 ```
+
 ```
 There is a strange sensation often experienced in the presence of an
 audience. It may proceed from the gaze of the many eyes that turn
@@ -278,6 +303,7 @@ speak: after the inward fires of oratory are fanned into flame the
 eyes of the audience lose all terror.—WILLIAM PITTENGER, Extempore
 Speech.
 ```
+
 Students of public speaking continually ask, "How can I overcome self-
 consciousness and the fear that paralyzes me before an audience?"
 
@@ -478,6 +504,7 @@ sound again and again.
 ```
 QUESTIONS AND EXERCISES.
 ```
+
 [^1]:. What is the cause of self-consciousness?
 
 [^2]:. Why are animals free from it?
@@ -507,12 +534,15 @@ two or more victims.
 ```
 CHAPTER II
 ```
+
 ```
 THE SIN OF MONOTONY
 ```
+
 ```
 One day Ennui was born from Uniformity.—MOTTE.
 ```
+
 Our English has changed with the years so that many words now connote more
 than they did originally. This is true of the word _monotonous_. From "having but
 one tone," it has come to mean more broadly, "lack of variation."
@@ -635,6 +665,7 @@ ideal, for we must strive after idealized nature, in fruit, tree, and speech.
 ```
 QUESTIONS AND EXERCISES.
 ```
+
 [^1]:. What are the causes of monotony?
 
 [^2]:. Cite some instances in nature.
@@ -655,14 +686,17 @@ of speakers?
 ```
 CHAPTER III
 ```
+
 ```
 EFFICIENCY THROUGH EMPHASIS AND SUBORDINATION
 ```
+
 ```
 In a word, the principle of emphasis... is followed best, not by
 remembering particular rules, but by being full of a particular
 feeling.—C.S. BALDWIN, Writing and Speaking.
 ```
+
 The gun that scatters too much does not bag the birds. The same principle
 applies to speech. The speaker that fires his force and emphasis at random into a
 sentence will not get results. Not every word is of special importance—therefore
@@ -765,16 +799,19 @@ words _you_, _had_, _would_, are all emphatic, because they have been made diffe
 ```
 He looked at her in angry astonishment.
 ```
+
 ```
 "Well, what do you call it if it isn't cowardice—to slink off and
 marry a defenseless girl like that!"
 ```
+
 ```
 "Did you expect me to give you a chance to destroy me and poison
 Jacqueline's mind? If I had been guilty of the thing with which you
 charge me, what I have done would have been cowardly. Otherwise,
 it is justified."
 ```
+
 A Fifth Avenue bus would attract attention up at Minisink Ford, New York,
 while one of the ox teams that frequently pass there would attract attention on
 Fifth Avenue. To make a word emphatic, deliver it differently from the manner
@@ -824,6 +861,7 @@ in a word, as _absolutely_ in the following sentence:
 ```
 I ab-so-lute-ly refuse to grant your demand.
 ```
+
 Now and then this principle should be applied to an emphatic sentence by
 stressing each word. It is a good device for exciting special attention, and it
 furnishes a pleasing variety. Patrick Henry's notable climax could be delivered in
@@ -838,10 +876,12 @@ burdens we must carry, the assaults we must endure—knowing full
 well the cost—yet we enlist, and we enlist for the war. For we know
 the justice of our cause, and we know, too, its certain triumph.
 ```
+
 ```
 —From "Pass Prosperity Around," by ALBERT J. BEVERIDGE, before
 the Chicago National Convention of the Progressive Party.
 ```
+
 Strongly emphasizing a single word has a tendency to suggest its antithesis.
 Notice how the meaning changes by merely putting the emphasis on different
 words in the following sentence. The parenthetical expressions would really not
@@ -850,22 +890,28 @@ be needed to supplement the emphatic words.
 ```
 I intended to buy a house this Spring (even if you did not).
 ```
+
 ```
 I INTENDED to buy a house this Spring (but something prevented).
 ```
+
 ```
 I intended to BUY a house this Spring (instead of renting as
 heretofore).
 ```
+
 ```
 I intended to buy a HOUSE this Spring (and not an automobile).
 ```
+
 ```
 I intended to buy a house THIS Spring (instead of next Spring).
 ```
+
 ```
 I intended to buy a house this SPRING (instead of in the Autumn).
 ```
+
 When a great battle is reported in the papers, they do not keep emphasizing the
 same facts over and over again. They try to get new information, or a "new
 slant." The news that takes an important place in the morning edition will be
@@ -911,9 +957,11 @@ protracted childhood makes it possible to hand over to the boy all
 the accumulated stores achieved by races and civilizations through
 thousands of years.
 ```
+
 ```
 —Anonymous.
 ```
+
 You must understand that there are no steel-riveted rules of emphasis. It is not
 always possible to designate which word must, and which must not be
 
@@ -926,6 +974,7 @@ guide—and greatly to your profit.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. What is emphasis?
 
 [^2]:. Describe one method of destroying monotony of thought-presentation.
@@ -963,6 +1012,7 @@ _shading of the gradations, lie the excellence of emphatic speech_.
 ```
 I would call him Napoleon, but Napoleon made his way to empire
 ```
+
 ```
 over broken oaths and through a sea of blood. This man never broke
 his word. "No Retaliation" was his great motto and the rule of his
@@ -974,6 +1024,7 @@ into his grave. I would call him Washington, but the great Virginian
 held slaves. This man risked his empire rather than permit the slave-
 trade in the humblest village of his dominions.
 ```
+
 ```
 You think me a fanatic to-night, for you read history, not with your
 eyes, but with your prejudices. But fifty years hence, when Truth
@@ -985,9 +1036,11 @@ then, dipping her pen in the sunlight, will write in the clear blue,
 above them all, the name of the soldier, the statesman, the martyr,
 TOUSSAINT L'OUVERTURE.
 ```
+
 ```
 —WENDELL PHILLIPS, Toussaint l'Ouverture.
 ```
+
 Practise on the following selections for emphasis: Beecher's "Abraham Lincoln,"
 page [^7]:[^6]:; Lincoln's "Gettysburg Speech," page [^5]:[^0]:; Seward's "Irrepressible
 Conflict," page [^6]:[^7]:; and Bryan's "Prince of Peace," page [^4]:[^4]:[^8]:.
@@ -995,9 +1048,11 @@ Conflict," page [^6]:[^7]:; and Bryan's "Prince of Peace," page [^4]:[^4]:[^8]:.
 ```
 CHAPTER IV
 ```
+
 ```
 EFFICIENCY THROUGH CHANGE OF PITCH
 ```
+
 ```
 Speech is simply a modified form of singing: the principal
 difference being in the fact that in singing the vowel sounds are
@@ -1007,6 +1062,7 @@ being specially prolonged and the intervals between the words being
 more distinct. The fact that in singing we have a larger range of
 tones does not properly distinguish it from ordinary speech. In
 ```
+
 ```
 speech we have likewise a variation of tones, and even in ordinary
 conversation there is a difference of from three to six semi-tones, as
@@ -1014,6 +1070,7 @@ I have found in my investigations, and in some persons the range is
 as high as one octave.—WILLIAM SCHEPPEGRELL, Popular Science
 Monthly.
 ```
+
 By pitch, as everyone knows, we mean the relative position of a vocal tone—as,
 high, medium, low, or any variation between. In public speech we apply it not
 only to a single utterance, as an exclamation or a monosyllable (_Oh!_ or _the_) but
@@ -1087,30 +1144,35 @@ memorized words. If it does, it is wrong.
 ```
 A SIMILAR CASE
 ```
+
 ```
 Jack, I hear you've gone and done it.—Yes, I know; most fellows
 will; went and tried it once myself, sir, though you see I'm single
 still. And you met her—did you tell me—down at Newport, last
 July, and resolved to ask the question at a soirée? So did I.
 ```
+
 ```
 I suppose you left the ball-room, with its music and its light; for they
 say love's flame is brightest in the darkness of the night. Well, you
 walked along together, overhead the starlit sky; and I'll bet—old
 man, confess it—you were frightened. So was I.
 ```
+
 ```
 So you strolled along the terrace, saw the summer moonlight pour
 all its radiance on the waters, as they rippled on the shore, till at
 length you gathered courage, when you saw that none was nigh—
 did you draw her close and tell her that you loved her? So did I.
 ```
+
 ```
 Well, I needn't ask you further, and I'm sure I wish you joy. Think I'll
 wander down and see you when you're married—eh, my boy? When
 the honeymoon is over and you're settled down, we'll try—What?
 the deuce you say! Rejected—you rejected? So was I.—Anonymous.
 ```
+
 The necessity for changing pitch is so self-evident that it should be grasped and
 applied immediately. However, it requires patient drill to free yourself from
 monotony of pitch.
@@ -1134,6 +1196,7 @@ hardly put more upon a man than he can bear. Worry is rust upon the
 blade. It is not the revolution that destroys the machinery but the
 friction.—HENRY WARD BEECHER.
 ```
+
 _Change of Pitch Produces Emphasis_
 
 This is a highly important statement. Variety in pitch maintains the hearer's
@@ -1147,6 +1210,7 @@ are simple illustrations of the power of contrast.
 ```
 "What is Congress going to do next?
 ```
+
 -----------------------------------
 (High pitch) |
 | I do not know."
@@ -1178,6 +1242,7 @@ low, a moderate, or a high pitch.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Name two methods of destroying monotony and gaining force in speaking.
 
 [^2]:. Why is a continual change of pitch necessary in speaking?
@@ -1195,6 +1260,7 @@ parenthetical expression like the following:
 He started—that is, he made preparations to start—on September
 third.
 ```
+
 [^6]:. Speak the following lines with as marked variations in pitch as your
 interpretation of the sense may dictate. Try each line in two different ways.
 Which, in each instance, is the more effective—and why?
@@ -1202,20 +1268,25 @@ Which, in each instance, is the more effective—and why?
 ```
 What have I to gain from you? Nothing.
 ```
+
 ```
 To engage our nation in such a compact would be an infamy.
 ```
+
 ```
 Note: In the foregoing sentence, experiment as to where the change
 in pitch would better be made.
 ```
+
 ```
 Once the flowers distilled their fragrance here, but now see the
 devastations of war.
 ```
+
 ```
 He had reckoned without one prime factor—his conscience.
 ```
+
 [^7]:. Make a diagram of a conversation you have heard, showing where high and
 low pitches were used. Were these changes in pitch advisable? Why or why not?
 
@@ -1259,6 +1330,7 @@ adequately paid, and MORE THAN ADEQUATELY protected. IT
 CAN SHIFT ITS CHANNELS; it can vary according to the supply
 and demand.
 ```
+
 ```
 IF A MAN FAILS AS A MINISTER, why, he becomes a railway
 conductor. IF THAT DOESN'T SUIT HIM, he goes West, and
@@ -1272,33 +1344,40 @@ AND MUST RUN IN THE GREAT RUTS OF BUSINESS,—they are
 the men whose inadequate protection, whose unfair share of the
 general product, claims a movement in their behalf.
 ```
+
 ```
 —WENDELL PHILLIPS.
 ```
+
 ```
 KNOWING THE PRICE WE MUST PAY, THE SACRIFICE WE
 ```
+
 ```
 MUST MAKE, THE BURDENS WE MUST CARRY, THE ASSAULTS
 WE MUST ENDURE—KNOWING FULL WELL THE COST—yet
 we enlist, and we enlist for the war. FOR WE KNOW THE JUSTICE
 OF OUR CAUSE, and we know, too, its certain triumph.
 ```
+
 ```
 NOT RELUCTANTLY THEN, but eagerly, not with faint hearts BUT
 STRONG, do we now advance upon the enemies of the people. FOR
 THE CALL THAT COMES TO US is the call that came to our
 fathers. As they responded so shall we.
 ```
+
 ```
 "HE HATH SOUNDED FORTH A TRUMPET that shall never call
 retreat. HE IS SIFTING OUT THE HEARTS OF MEN before His
 judgment seat. OH, BE SWIFT OUR SOULS TO ANSWER HIM, BE
 JUBILANT OUR FEET, Our God is marching on."
 ```
+
 ```
 —ALBERT J. BEVERIDGE.
 ```
+
 Remember that two sentences, or two parts of the same sentence, which contain
 changes of thought, cannot possibly be given effectively in the same key. Let us
 repeat, every big change of thought requires a big change of pitch. What the
@@ -1324,6 +1403,7 @@ workers rested at its base—while startled kings and emperors gazed
 and marveled that from the rude touch of this handful cast on a bleak
 and unknown shore should have come the embodied genius of
 ```
+
 _human government AND THE PERFECTED MODEL OF HUMAN_
 _LIBERTY!_ God bless the memory of those immortal workers, and
 prosper the fortunes of their living sons—and perpetuate the
@@ -1397,6 +1477,7 @@ _the nations of the earth, must come in God's appointed time!_
 ```
 —HENRY W. GRADY, The Race Problem.
 ```
+
 ... I WOULD CALL HIM NAPOLEON, but Napoleon made his way
 to empire over broken oaths and through a sea of blood. This man
 never broke his word. "No Retaliation" was his great motto and the
@@ -1411,6 +1492,7 @@ I WOULD CALL HIM WASHINGTON, but the great Virginian held
 slaves. THIS MAN RISKED HIS EMPIRE rather than permit the
 slave-trade in the humblest village of his dominions.
 ```
+
 ```
 YOU THINK ME A FANATIC TO-NIGHT, for you read history, not
 with your eyes, BUT WITH YOUR PREJUDICES. But fifty years
@@ -1423,9 +1505,11 @@ the sunlight, will write in the clear blue, above them all, the name of
 THE SOLDIER, THE STATESMAN, THE MARTYR, TOUSSAINT
 L'OUVERTURE.
 ```
+
 ```
 —WENDELL PHILLIPS, Toussaint l'Ouverture.
 ```
+
 Drill on the following selections for change of pitch: Beecher's "Abraham
 Lincoln," p. [^7]:[^6]:; Seward's "Irrepressible Conflict," p. [^6]:[^7]:; Everett's "History of
 Liberty," p. [^7]:[^8]:; Grady's "The Race Problem," p. [^3]:[^6]:; and Beveridge's "Pass
@@ -1434,18 +1518,22 @@ Prosperity Around," p. [^4]:[^7]:[^0]:.
 ```
 CHAPTER V
 ```
+
 ```
 EFFICIENCY THROUGH CHANGE OF PACE
 ```
+
 ```
 Hear how he clears the points o' Faith
 Wi' rattlin' an' thumpin'!
 Now meekly calm, now wild in wrath,
 He's stampin' an' he's jumpin'.
 ```
+
 ```
 —ROBERT BURNS, Holy Fair.
 ```
+
 The Latins have bequeathed to us a word that has no precise equivalent in our
 tongue, therefore we have accepted it, body unchanged—it is the word _tempo_,
 and means _rate of movement_, as measured by the time consumed in executing
@@ -1499,6 +1587,7 @@ same rapidity and note the difference.
 I can't recall what I did with my knife. Oh, now I remember I gave it
 to Mary.
 ```
+
 We see here that a change of tempo often occurs in the same sentence—for
 tempo applies not only to single words, groups of words, and groups of
 sentences, but to the major parts of a public speech as well.
@@ -1506,6 +1595,7 @@ sentences, but to the major parts of a public speech as well.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. In the following, speak the words "long, long while" very slowly; the rest of
 the sentence is spoken in moderately rapid tempo.
 
@@ -1516,6 +1606,7 @@ last,
 Which of our coming and departure heeds,
 As the seven seas should heed a pebble cast.
 ```
+
 Note: In the following selections the passages that should be given a fast tempo
 are in italics; those that should be given in a slow tempo are in small capitals.
 Practise these selections, and then try others, changing from fast to slow tempo
@@ -1533,22 +1624,26 @@ sincerity, oftenest SELF-CONCEIT mainly. The GREAT MAN'S
 SINCERITY is of a kind he CANNOT SPEAK OF. Is NOT
 CONSCIOUS of.—THOMAS CARLYLE.
 ```
+
 ```
 3. TRUE WORTH is in BEING—NOT SEEMING—in doing each
 day that goes by SOME LITTLE GOOD, not in DREAMING of
 GREAT THINGS to do by and by. For whatever men say in their
 BLINDNESS, and in spite of the FOLLIES of YOUTH, there is
 ```
+
 ```
 nothing so KINGLY as KINDNESS, and nothing so ROYAL as
 TRUTH.—Anonymous.
 ```
+
 [^4]:. To get a natural effect, where would you use slow and where fast tempo in the
 following?
 
 ```
 FOOL'S GOLD
 ```
+
 ```
 See him there, cold and gray,
 Watch him as he tries to play;
@@ -1572,6 +1667,7 @@ Didn't let a sorrow hurt him,
 Let his friends and kin desert him,
 While he planned and plugged and hurried
 ```
+
 ```
 On his quest for gold and power.
 Every single wakeful hour
@@ -1583,6 +1679,7 @@ He would take the time to play;
 But, say—he was wrong.
 Life's a song;
 ```
+
 In the spring
 Youth can sing and can fling;
 But joys wing
@@ -1642,9 +1739,11 @@ Any price if the day
 Could be made not so gray.
 He can't play.
 ```
+
 ```
 —HERBERT KAUFMAN. Used by permission of Everybody's Magazine.
 ```
+
 _Change of Tempo Prevents Monotony_
 
 The canary in the cage before the window is adding to the beauty and charm of
@@ -1656,6 +1755,7 @@ auto with only one speed.
 ```
 EXERCISES
 ```
+
 [^1]:. Note the change of tempo indicated in the following, and how it gives a
 pleasing variety. Read it aloud. (Fast tempo is indicated by italics, slow by small
 capitals.)
@@ -1667,6 +1767,7 @@ can SING and can FLING; BUT JOYS WING WHEN WE'RE
 OLDER, LIKE THE BIRDS when it's COLDER. The roses were red
 as he went rushing by, and glorious tapestries hung in the sky.
 ```
+
 [^2]:. Turn to "Fools Gold," on Page [^4]:[^2]:, and deliver it in an unvaried tempo: note
 how monotonous is the result. This poem requires a great many changes of
 tempo, and is an excellent one for practise.
@@ -1678,12 +1779,14 @@ much of variety would really be a return to monotony.
 ```
 THE MOB
 ```
+
 ```
 "A MOB KILLS THE WRONG MAN" was flashed in a newspaper
 headline lately. The mob is an IRRESPONSIBLE, UNTHINKING
 MASS. It always destroys BUT NEVER CONSTRUCTS. It
 criticises BUT NEVER CREATES.
 ```
+
 ```
 Utter a great truth AND THE MOB WILL HATE YOU. See how it
 condemned DANTE to EXILE. Encounter the dangers of the
@@ -1691,6 +1794,7 @@ unknown world for its benefit, AND THE MOB WILL DECLARE
 YOU CRAZY. It ridiculed COLUMBUS, and for discovering a new
 world GAVE HIM PRISON AND CHAINS.
 ```
+
 ```
 Write a poem to thrill human hearts with pleasure, AND THE MOB
 WILL ALLOW YOU TO GO HUNGRY: THE BLIND HOMER
@@ -1699,6 +1803,7 @@ to save labor AND THE MOB WILL DECLARE YOU ITS
 ENEMY. Less than a hundred years ago a furious rabble smashed
 Thimonier's invention, the sewing machine.
 ```
+
 ```
 BUILD A STEAMSHIP TO CARRY MERCHANDISE AND
 ACCELERATE TRAVEL and the mob will call you a fool. A MOB
@@ -1706,6 +1811,7 @@ LINED THE SHORES OF THE HUDSON RIVER TO LAUGH AT
 THE MAIDEN ATTEMPT OF "FULTON'S FOLLY," as they called
 his little steamboat.
 ```
+
 ```
 Emerson says: "A mob is a society of bodies voluntarily bereaving
 themselves of reason and traversing its work. The mob is man
@@ -1714,9 +1820,11 @@ activity is NIGHT. ITS ACTIONS ARE INSANE, like its whole
 constitution. It persecutes a principle—IT WOULD WHIP A
 RIGHT. It would tar and feather justice by inflicting fire and outrage
 ```
+
 ```
 upon the house and persons of those who have these."
 ```
+
 ```
 The mob spirit stalks abroad in our land today. Every week gives a
 fresh victim to its malignant cry for blood. There were 48 persons
@@ -1724,6 +1832,7 @@ killed by mobs in the United States in 1913; 64 in 1912, and 71 in
 1911. Among the 48 last year were a woman and a child. Two
 victims were proven innocent after their death.
 ```
+
 ```
 IN 399 B.C. A DEMAGOG APPEALED TO THE POPULAR MOB
 TO HAVE SOCRATES PUT TO DEATH and he was sentenced to
@@ -1736,9 +1845,11 @@ MASS., WITHIN SIX MONTHS FOR WITCHCRAFT. Two
 thousand years ago the mob yelled, "RELEASE UNTO US
 BARABBAS"—AND BARABBAS WAS A MURDERER!
 ```
+
 ```
 —From an Editorial by D.C. in "Leslie's Weekly," by permission.
 ```
+
 ```
 Present-day business is as unlike OLD-TIME BUSINESS as the
 OLD-TIME OX-CART is unlike the present-day locomotive.
@@ -1755,6 +1866,7 @@ business, which always comes out on top, SO MUCH AS IT HURTS
 ALL OTHER BUSINESS WHICH, IN SUCH A WARFARE,
 NEVER COME OUT ON TOP.—A.J. BEVERIDGE.
 ```
+
 _Change of Tempo Produces Emphasis_
 
 Any big change of tempo is emphatic and will catch the attention. You may
@@ -1808,6 +1920,7 @@ horizon grew, larger grew my riches, too; all the world I saw or
 knew seemed a complex Chinese toy, fashioned for a barefoot boy!
 —J.G. WHITTIER.
 ```
+
 Be careful in regulating your tempo not to get your movement too fast. This is a
 common fault with amateur speakers. Mrs. Siddons rule was, "Take time." A
 hundred years ago there was used in medical circles a preparation known as "the
@@ -1820,6 +1933,7 @@ when mixed.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Define tempo.
 
 [^2]:. What words come from the same root?
@@ -1849,6 +1963,7 @@ you like best?
 ```
 DEDICATION OF GETTYSBURG CEMETERY
 ```
+
 ```
 Fourscore and seven years ago, our fathers brought forth upon this
 continent a new nation, conceived in liberty and dedicated to the
@@ -1856,12 +1971,14 @@ proposition that all men are created equal. Now we are engaged in a
 great civil war, testing whether that nation—or any nation so
 conceived and so dedicated—can long endure.
 ```
+
 ```
 We are met on a great battlefield of that war. We are met to dedicate
 a portion of it as the final resting-place of those who have given their
 lives that that nation might live. It is altogether fitting and proper
 that we should do this.
 ```
+
 ```
 But, in a larger sense, we cannot dedicate, we cannot consecrate, we
 cannot hallow, this ground. The brave men, living and dead, who
@@ -1869,6 +1986,7 @@ struggled here, have consecrated it, far above our power to add or to
 detract. The world will very little note nor long remember what we
 say here; but it can never forget what they did here.
 ```
+
 ```
 It is for us, the living, rather, to be dedicated here to the unfinished
 work they have thus far so nobly carried on. It is rather for us to be
@@ -1880,12 +1998,15 @@ shall, under God, have a new birth of freedom, and that government
 of the people, by the people, for the people, shall not perish from the
 earth.
 ```
+
 ```
 —ABRAHAM LINCOLN.
 ```
+
 ```
 A PLEA FOR CUBA
 ```
+
 [This deliberative oration was delivered by Senator Thurston in the United States Senate on
 March [^2]:[^4]:, [^1]:[^8]:[^9]:[^8]:. It is recorded in full in the _Congressional Record_ of that date. Mrs.
 Thurston died in Cuba. As a dying request she urged her husband, who was investigating
@@ -2033,6 +2154,7 @@ As He died to make men holy, let us die to
 make men free.
 While God is marching on."
 ```
+
 Others may hesitate, others may procrastinate, others may plead for
 further diplomatic negotiation, which means delay; but for me, I am
 ready to act now, and for my action I am ready to answer to my
@@ -2041,12 +2163,15 @@ conscience, my country, and my God.
 ```
 —JAMES MELLEN THURSTON.
 ```
+
 ```
 CHAPTER VI
 ```
+
 ```
 PAUSE AND POWER
 ```
+
 The true business of the literary artist is to plait or weave his
 meaning, involving it around itself; so that each sentence, by
 successive phrases, shall first come into a kind of knot, and then,
@@ -2054,10 +2179,12 @@ successive phrases, shall first come into a kind of knot, and then,
 ```
 after a moment of suspended meaning, solve and clear itself.
 ```
+
 ```
 —GEORGE SAINTSBURY, on English Prose
 Style, in Miscellaneous Essays.
 ```
+
 ... pause... has a distinctive value, expressed in silence; in other
 words, while the voice is waiting, the music of the movement is
 going on... To manage it, with its delicacies and compensations,
@@ -2069,6 +2196,7 @@ pin or fastening had fallen out.
 ```
 —JOHN FRANKLIN GENUNG, The Working Principles of Rhetoric.
 ```
+
 Pause, in public speech, is not mere silence—it is silence made designedly
 eloquent.
 
@@ -2100,6 +2228,7 @@ One man is pleading the cause of another:
 "This man, my friends, has made this wonderful sacrifice—for you
 and me."
 ```
+
 Did not the pause surprisingly enhance the power of this statement? See how he
 gathered up reserve force and impressiveness to deliver the words "for you and
 me." Repeat this passage without making a pause. Did it lose in effectiveness?
@@ -2216,6 +2345,7 @@ the dashes illustrate pauses and we have the following:
 "It was my privilege to hear—the great evangelist—Dwight L.
 Moody.—I came to regard him—as the greatest preacher of his day."
 ```
+
 The unskilled speaker would have rattled this off with neither pause nor
 suspense, and the sentences would have fallen flat upon the audience. It is
 precisely the application of these small things that makes much of the difference
@@ -2264,18 +2394,22 @@ follow your own course—if you are individual enough to blaze an original trail
 A moment's halt—a momentary taste of being from the well amid
 the waste—and lo! the phantom caravan has reached—the nothing it
 ```
+
 ```
 set out from—Oh make haste!
 ```
+
 ```
 The worldly hope men set their hearts upon—turns ashes—or it
 prospers;—and anon like snow upon the desert's dusty face—
 lighting a little hour or two—is gone.
 ```
+
 ```
 The bird of time has but a little way to flutter,—and the bird is on
 the wing.
 ```
+
 You will note that the punctuation marks have nothing to do with the pausing.
 You may run by a period very quickly and make a long pause where there is no
 kind of punctuation. Thought is greater than punctuation. It must guide you in
@@ -2286,6 +2420,7 @@ A book of verses underneath the bough,—a jug of wine, a loaf of
 bread—and thou beside me singing in the wilderness—Oh—
 wilderness were paradise enow.
 ```
+
 You must not confuse the pause for emphasis with the natural pauses that come
 through taking breath and phrasing. For example, note the pauses indicated in
 this selection from Byron:
@@ -2295,6 +2430,7 @@ But hush!—hark!—that deep sound breaks in once more,
 And nearer!—clearer!—deadlier than before.
 Arm, ARM!—it is—it is the cannon's opening roar!
 ```
+
 It is not necessary to dwell at length upon these obvious distinctions. You will
 observe that in natural conversation our words are gathered into clusters or
 phrases, and we often pause to take breath between them. So in public speech,
@@ -2330,6 +2466,7 @@ high!'"
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Name four methods for destroying monotony and gaining power in speaking.
 
 [^2]:. What are the four special effects of pause?
@@ -2347,6 +2484,7 @@ Soon the night will pass; and when, of the Sentinel on the ramparts
 of Liberty the anxious ask: | "Watchman, what of the night?" his
 answer will be | "Lo, the morn appeareth."
 ```
+
 ```
 Knowing the price we must pay, | the sacrifice | we must make, | the
 burdens | we must carry, | the assaults | we must endure, | knowing
@@ -2354,14 +2492,17 @@ full well the cost, | yet we enlist, and we enlist | for the war. | For we
 know the justice of our cause, | and we know, too, its certain
 triumph. |
 ```
+
 ```
 Not reluctantly, then, | but eagerly, | not with faint hearts, | but
 ```
+
 ```
 strong, do we now advance upon the enemies of the people. | For the
 call that comes to us is the call that came to our fathers. | As they
 responded, so shall we.
 ```
+
 ```
 "He hath sounded forth a trumpet | that shall
 never call retreat,
@@ -2371,10 +2512,12 @@ Oh, be swift | our souls to answer Him, | be
 jubilant our feet,
 Our God | is marching on."
 ```
+
 ```
 —ALBERT J. BEVERIDE, From his speech as temporary chairman of
 Progressive National Convention, Chicago, 1912.
 ```
+
 [^6]:. Bring out the contrasting ideas in the following by using the pause:
 
 ```
@@ -2392,9 +2535,11 @@ shall continue that trade, or at once be silenced by not getting a fifth
 part of the votes. A happy fortune, do you see, you have enjoyed,
 that you should denounce mine as miserable!
 ```
+
 ```
 —DEMOSTHENES.
 ```
+
 [^7]:. After careful study and practice, mark the pauses in the following:
 
 ```
@@ -2405,6 +2550,7 @@ see thousands of assemblages, and hear the appeals of orators; we
 see the pale cheeks of women and the flushed faces of men; and in
 those assemblages we see all the dead whose dust we have covered
 ```
+
 ```
 with flowers. We lose sight of them no more. We are with them
 when they enlist in the great army of freedom. We see them part
@@ -2421,9 +2567,11 @@ with the babe in her arms—standing in the sunlight sobbing; at the
 turn of the road a hand waves—she answers by holding high in her
 loving hands the child. He is gone—and forever.
 ```
+
 ```
 —ROBERT J. INGERSOLL, to the Soldiers of Indianapolis.
 ```
+
 [^8]:. Where would you pause in the following selections? Try pausing in different
 places and note the effect it gives.
 
@@ -2432,6 +2580,7 @@ The moving finger writes; and having writ moves on: nor all your
 piety nor wit shall lure it back to cancel half a line, nor all your tears
 wash out a word of it.
 ```
+
 ```
 The history of womankind is a story of abuse. For ages men beat,
 sold, and abused their wives and daughters like cattle. The Spartan
@@ -2443,6 +2592,7 @@ world still refuses them the right to participate in the government
 and everywhere women bear the brunt of an unequal standard of
 morality.
 ```
+
 ```
 But the women are on the march. They are walking upward to the
 sunlit plains where the thinking people rule. China has ceased
@@ -2450,21 +2600,25 @@ binding their feet. In the shadow of the Harem Turkey has opened a
 school for girls. America has given the women equal educational
 advantages, and America, we believe, will enfranchise them.
 ```
+
 ```
 We can do little to help and not much to hinder this great movement.
 ```
+
 ```
 The thinking people have put their O.K. upon it. It is moving
 forward to its goal just as surely as this old earth is swinging from
 the grip of winter toward the spring's blossoms and the summer's
 harvest.[[^1]]
 ```
+
 [^9]:. Read aloud the following address, paying careful attention to pause wherever
 the emphasis may thereby be heightened.
 
 ```
 THE IRREPRESSIBLE CONFLICT
 ```
+
 ... At last, the Republican party has appeared. It avows, now, as the
 Republican party of 1800 did, in one word, its faith and its works,
 "Equal and exact justice to all men." Even when it first entered the
@@ -2494,18 +2648,23 @@ back again all the fields and all the castles which have been lost, and
 to confound and overthrow, by one decisive blow, the betrayers of
 the Constitution and freedom forever.—W.H. SEWARD.
 ```
+
 ```
 FOOTNOTES:
 ```
+
 ```
 [1] From an editorial by D.C. in Leslie's Weekly, June 4, 1914. Used by permission.
 ```
+
 ```
 CHAPTER VII
 ```
+
 ```
 EFFICIENCY THROUGH INFLECTION
 ```
+
 ```
 How soft the music of those village bells,
 Falling at intervals upon the ear
@@ -2515,9 +2674,11 @@ Clear and sonorous, as the gale comes on!
 With easy force it opens all the cells
 Where Memory slept.
 ```
+
 ```
 —WILLIAM COWPER, The Task.
 ```
+
 Herbert Spencer remarked that "Cadence"—by which he meant the modulation
 of the tones of the voice in speaking—"is the running commentary of the
 emotions upon the propositions of the intellect." How true this is will appear
@@ -2557,30 +2718,39 @@ or curved, thus:
 ```
 lines
 ```
+
 ```
 Sharp rising
 ```
+
 ```
 Long rising
 ```
+
 ```
 Level
 ```
+
 ```
 Long falling
 ```
+
 ```
 Sharp falling
 ```
+
 ```
 Sharp rising and falling
 ```
+
 ```
 Sharp falling and rising
 ```
+
 ```
 Hesitating
 ```
+
 These may be varied indefinitely, and serve merely to illustrate what wide
 varieties of combination may be effected by these two simple inflections of the
 voice.
@@ -2620,12 +2790,15 @@ Note how light and short the inflections are in the following brief quotation fr
 ```
 At Sea—March 28th.
 ```
+
 ```
 This evening I told Sir Robert What's His Name he was a fool.
 ```
+
 ```
 I was quite right in this. He is.
 ```
+
 ```
 Every evening since the ship left Vancouver he has presided over the
 round table in the middle of the smoking-room. There he sips his
@@ -2633,10 +2806,12 @@ coffee and liqueur, and holds forth on every subject known to the
 mind of man. Each subject is his subject. He is an elderly person,
 with a bad face and a drooping left eyelid.
 ```
+
 ```
 They tell me that he is in the British Service—a judge somewhere
 down in Malaysia, where they drink more than is good for them.
 ```
+
 Deliver the two following selections with great earnestness, and note how the
 inflections differ from the foregoing. Then reread these selections in a light,
 superficial manner, noting that the change of attitude is expressed through a
@@ -2647,15 +2822,18 @@ When I read a sublime fact in Plutarch, or an unselfish deed in a line
 of poetry, or thrill beneath some heroic legend, it is no longer
 fairyland—I have seen it matched.—WENDELL PHILLIPS.
 ```
+
 ```
 Thought is deeper than all speech,
 Feeling deeper than all thought;
 Souls to souls can never teach
 What unto themselves was taught.
 ```
+
 ```
 —CRANCH
 ```
+
 It must be made perfectly clear that inflection deals mostly in subtle, delicate
 shading _within single words_, and is not by any means accomplished by a general
 rise or fall in the voice in speaking a sentence. Yet certain sentences may be
@@ -2665,6 +2843,7 @@ making no modulation until you come to the last two syllables, as indicated,
 ```
 And yet I told him dis-
 ```
+
 --------------------------
 (high) |
 | tinctly.
@@ -2695,6 +2874,7 @@ inflections would help to make expressive?
 ```
 ADDRESS IN THE DARTMOUTH COLLEGE CASE
 ```
+
 ```
 This, sir, is my case. It is the case not merely of that humble
 institution; it is the case of every college in our land. It is more; it is
@@ -2708,19 +2888,23 @@ through your work; you must extinguish, one after another, all those
 great lights of science which, for more than a century, have thrown
 their radiance over our land!
 ```
+
 ```
 It is, sir, as I have said, a small college, and yet—there are those who
 love it!
 ```
+
 ```
 Sir, I know not how others may feel, but as for myself when I see
 my alma mater surrounded, like Cæsar in the senate house, by those
 who are reiterating stab after stab, I would not for this right hand
 have her turn to me and say, And thou, too, my son!
 ```
+
 ```
 —DANIEL WEBSTER.
 ```
+
 Be careful not to over-inflect. Too much modulation produces an unpleasant
 effect of artificiality, like a mature matron trying to be kittenish. It is a short step
 between true expression and unintentional burlesque. Scrutinize your own tones.
@@ -2749,9 +2933,11 @@ best	that	could	be	used	to	bring	out	the	meaning?	Criticise	and	illustrate.
 ```
 Has the gentleman done? Has he completely done?
 ```
+
 ```
 And God said, Let there be light: and there was light.
 ```
+
 [^9]:. Invent an indirect question and show how it would naturally be inflected.
 
 [^1]:[^0]:. Does a direct question always require a rising inflection? Illustrate.
@@ -2771,12 +2957,15 @@ the following sentences. State your preference.
 ```
 Gentlemen, I am persuaded, nay, I am resolved to speak.
 ```
+
 ```
 It is sown a natural body; it is raised a spiritual body.
 ```
+
 ```
 SELECTIONS FOR PRACTISE
 ```
+
 In the following selections secure emphasis by means of long falling inflections
 rather than loudness.
 
@@ -2792,6 +2981,7 @@ the voice itself flexible.
 ```
 CHARLES I
 ```
+
 ```
 We charge him with having broken his coronation oath; and we are
 told that he kept his marriage vow! We accuse him of having given
@@ -2805,12 +2995,15 @@ is to such considerations as these, together with his Vandyke dress,
 his handsome face, and his peaked beard, that he owes, we verily
 believe, most of his popularity with the present generation.
 ```
+
 ```
 —T.B. MACAULAY.
 ```
+
 ```
 ABRAHAM LINCOLN
 ```
+
 ```
 We needed not that he should put on paper that he believed in
 slavery, who, with treason, with murder, with cruelty infernal,
@@ -2822,12 +3015,14 @@ Never, while time lasts, while heaven lasts, while hell rocks and
 groans, will it be forgotten that slavery, by its minions, slew him,
 and in slaying him made manifest its whole nature and tendency.
 ```
+
 ```
 But another thing for us to remember is that this blow was aimed at
 the life of the government and of the nation. Lincoln was slain;
 America was meant. The man was cast down; the government was
 smitten at. It was the President who was killed. It was national life,
 ```
+
 breathing freedom and meaning beneficence, that was sought. He,
 the man of Illinois, the private man, divested of robes and the
 insignia of authority, representing nothing but his personal self,
@@ -2878,6 +3073,7 @@ many inarticulate words, pleads for fidelity, for law, for liberty!
 ```
 THE HISTORY OF LIBERTY
 ```
+
 The event which we commemorate is all-important, not merely in
 our own annals, but in those of the world. The sententious English
 poet has declared that "the proper study of mankind is man," and of
@@ -2913,6 +3109,7 @@ we blast the hopes of the friends of liberty throughout our continent,
 ```
 throughout Europe, throughout the world, to the end of time.
 ```
+
 ```
 History is not without her examples of hard-fought fields, where the
 banner of liberty has floated triumphantly on the wildest storm of
@@ -2920,6 +3117,7 @@ battle. She is without her examples of a people by whom the dear-
 bought treasure has been wisely employed and safely handed down.
 The eyes of the world are turned for that example to us....
 ```
+
 ```
 Let us, then, as we assemble on the birthday of the nation, as we
 gather upon the green turf, once wet with precious blood—let us
@@ -2930,12 +3128,15 @@ resolve that our children shall have cause to bless the memory of
 their fathers, as we have cause to bless the memory of ours!
 —EDWARD EVERETT.
 ```
+
 ```
 CHAPTER VIII
 ```
+
 ```
 CONCENTRATION IN DELIVERY
 ```
+
 ```
 Attention is the microscope of the mental eye. Its power may be high
 or low; its field of view narrow or broad. When high power is used
@@ -2948,9 +3149,11 @@ illumined, heated, set on fire. Impressions are so deep that they can
 never be effaced. Attention of this sort is the prime condition of the
 most productive mental labor.
 ```
+
 ```
 —DANIEL PUTNAM, Psychology.
 ```
+
 Try to rub the top of your head forward and backward at the same time that you
 are patting your chest. Unless your powers of coördination are well developed
 you will find it confusing, if not impossible. The brain needs special training
@@ -3010,6 +3213,7 @@ Hamlet's uncle. He laments thus pointedly:
 My words fly up, my thoughts remain below:
 Words without thoughts never to heaven go.
 ```
+
 The truth is, that as a speaker your words must be born again every time they are
 spoken, then they will not suffer in their utterance, even though perforce
 committed to memory and repeated, like Dr. Russell Conwell's lecture, "Acres of
@@ -3040,6 +3244,7 @@ Concentrate—and you will win.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Select from any source several sentences suitable for speaking aloud; deliver
 them first in the manner condemned in this chapter, and second with due regard
 for emphasis toward the close of each sentence.
@@ -3067,10 +3272,12 @@ _CONCENTRATE._
 ```
 WAR!
 ```
+
 ```
 The last of the savage instincts is war. The cave man's club made
 law and procured food. Might decreed right. Warriors were saviours.
 ```
+
 ```
 In Nazareth a carpenter laid down the saw and preached the
 brotherhood of man. Twelve centuries afterwards his followers
@@ -3079,12 +3286,14 @@ the worship of the God of Love. Triumphantly they wrote "In
 Solomon's Porch and in his temple our men rode in the blood of the
 Saracens up to the knees of their horses."
 ```
+
 ```
 History is an appalling tale of war. In the seventeenth century
 Germany, France, Sweden, and Spain warred for thirty years. At
 Magdeburg 30,000 out of 36,000 were killed regardless of sex or
 age. In Germany schools were closed for a third of a century, homes
 ```
+
 burned, women outraged, towns demolished, and the untilled land
 became a wilderness.
 
@@ -3117,6 +3326,7 @@ court
 Given to redeem this world from error,
 There would be no need of arsenal and fort.
 ```
+
 War only defers a question. No issue will ever really be settled until
 it is settled rightly. Like rival "gun gangs" in a back alley, the nations
 of the world, through the bloody ages, have fought over their
@@ -3131,30 +3341,37 @@ are citizens, not of a nation, but of the world, the armies and navies
 of the earth will constitute an international police force to preserve
 the peace and the dove will take the eagle's place.
 ```
+
 ```
 Our differences will be settled by an international court with the
 power to enforce its mandates. In times of peace prepare for peace.
 The wages of war are the wages of sin, and the "wages of sin is
 death."
 ```
+
 ```
 —Editorial by D.C., Leslie's Weekly; used by permission.
 ```
+
 ```
 CHAPTER IX
 ```
+
 ```
 FORCE
 ```
+
 ```
 However, 'tis expedient to be wary:
 Indifference, certes, don't produce distress;
 And rash enthusiasm in good society
 Were nothing but a moral inebriety.
 ```
+
 ```
 —BYRON, Don Juan.
 ```
+
 You have attended plays that seemed fair, yet they did not move you, grip you.
 In theatrical parlance, they failed to "get over," which means that their message
 did not get over the foot-lights to the audience. There was no punch, no jab to
@@ -3201,6 +3418,7 @@ are capable of nothing but inexplicable dumb show, and noise. I
 would have such a fellow whipped for o'er-doing Termagant; it out-
 herods Herod. Pray you avoid it.
 ```
+
 ```
 Be not too tame, neither, but let your discretion be your tutor: suit
 the action to the word, the word to the action; with this special
@@ -3216,11 +3434,13 @@ there be players that I have seen play—and heard others praise, and
 that highly—not to speak it profanely, that, neither having the accent
 of Christians, nor the gait of Christian, pagan, or man, have so
 ```
+
 ```
 strutted and bellowed that I have thought some of Nature's
 journeymen had made men, and not made them well, they imitated
 humanity so abominably.[[^3]]
 ```
+
 Force is both a cause and an effect. Inner force, which must precede outer force,
 is a combination of four elements, acting progressively. First of all, _force arises_
 _from conviction_. You must be convinced of the truth, or the importance, or the
@@ -3271,6 +3491,7 @@ delineates the man who
 Pushes his prudent purpose to resolve,
 Resolves, and re-resolves, and dies the same.
 ```
+
 Let not your force "die a-borning,"—bring it to full life in its conviction,
 emotional tension, resolve, and propulsive power.
 
@@ -3454,6 +3675,7 @@ delivery—be forceful.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Illustrate, by repeating a sentence from memory, what is meant by employing
 force in speaking.
 
@@ -3505,6 +3727,7 @@ they may make their little motions, and pass their little laws in
 Washington, but that Faneuil Hall repeals them in the name of
 humanity and the old Bay State!
 ```
+
 My advice to workingmen is this:
 
 If you want power in this country; if you want to make yourselves
@@ -3547,6 +3770,7 @@ resistance. This is the only view an American, the child of 1620 and
 1776, can take of Nihilism. Any other unsettles and perplexes the
 ethics of our civilization.
 ```
+
 ```
 Born within sight of Bunker Hill—son of Harvard, whose first
 pledge was "Truth," citizen of a republic based on the claim that no
@@ -3555,6 +3779,7 @@ and which assumes to lead in asserting the rights of humanity—I at
 least can say nothing else and nothing less—no not if every tile on
 Cambridge roofs were a devil hooting my words!
 ```
+
 For practise on forceful selections, use "The Irrepressible Conflict," page [^6]:[^7]:;
 "Abraham Lincoln," page [^7]:[^6]:, "Pass Prosperity Around," page [^4]:[^7]:[^0]:; "A Plea for
 Cuba," page [^5]:[^0]:.
@@ -3563,19 +3788,24 @@ Cuba," page [^5]:[^0]:.
 [2] Those who sat in the pit or the parquet.
 [3] Hamlet, Act III, Scene 2.
 ```
+
 ```
 CHAPTER X
 ```
+
 ```
 FEELING AND ENTHUSIASM
 ```
+
 ```
 Enthusiasm is that secret and harmonious spirit that hovers over the
 production of genius.
 ```
+
 ```
 —ISAAC DISRAELI, Literary Character.
 ```
+
 If you are addressing a body of scientists on such a subject as the veins in a
 butterfly's wings, or on road structure, naturally your theme will not arouse much
 feeling in either you or your audience. These are purely mental subjects. But if
@@ -3630,6 +3860,7 @@ may aspire after it; they cannot reach it. It comes, if it come at all,
 like the outbreak of a fountain from the earth, or the bursting forth of
 volcanic fires, with spontaneous, original, native force.
 ```
+
 ```
 "The graces taught in the schools, the costly ornaments and studied
 contrivances of speech, shock and disgust men, when their own
@@ -3642,11 +3873,13 @@ eloquent. The clear conception outrunning the deductions of logic,
 the high purpose, the firm resolve, the dauntless spirit, speaking on
 the tongue, beaming from the eye, informing every feature, and
 ```
+
 ```
 urging the whole man onward, right onward to his subject—this, this
 is eloquence; or rather, it is something greater and higher than all
 eloquence; it is action, noble, sublime, godlike action."
 ```
+
 When traveling through the Northwest some time ago, one of the present writers
 strolled up a village street after dinner and noticed a crowd listening to a "faker"
 speaking on a corner from a goods-box. Remembering Emerson's advice about
@@ -3798,6 +4031,7 @@ conscious of."
 ```
 QUESTIONS AND EXERCISES
 ```
+
 It is one thing to convince the would-be speaker that he ought to put feeling into
 his speeches; often it is quite another thing for him to do it. The average speaker
 is afraid to let himself go, and continually suppresses his emotions. When you
@@ -3819,9 +4053,11 @@ Men were then willing to go out and die for liberty.
 ```
 PATRICK HENRY'S SPEECH
 ```
+
 ```
 BEFORE THE VIRGINIA CONVENTION OF DELEGATES
 ```
+
 ```
 Mr. President, it is natural to man to indulge in the illusions of hope.
 We are apt to shut our eyes against a painful truth, and listen to the
@@ -3833,6 +4069,7 @@ temporal salvation? For my part, whatever anguish of spirit it may
 cost, I am willing to know the whole truth; to know the worst, and to
 provide for it.
 ```
+
 ```
 I have but one lamp by which my feet are guided; and that is the
 lamp of experience. I know of no way of judging of the future but by
@@ -3850,10 +4087,12 @@ be reconciled, that force must be called in to win back our love? Let
 us not deceive ourselves, sir. These are the implements of war and
 subjugation, the last "arguments" to which kings resort.
 ```
+
 ```
 I ask gentlemen, sir, what means this martial array, if its purpose be
 not to force us to submission? Can gentlemen assign any other
 ```
+
 possible motive for it? Has Great Britain any enemy in this quarter
 of the world, to call for all this accumulation of navies and armies?
 No, sir, she has none. They are meant for us; they can be meant for
@@ -3915,6 +4154,7 @@ sweet, as to be purchased at the price of chains and slavery? Forbid
 it, Almighty Powers!—I know not what course others may take; but
 as for me, give me liberty or give me death!
 ```
+
 [^2]:. Live over in your imagination all the solemnity and sorrow that Lincoln felt at
 the Gettysburg cemetery. The feeling in this speech is very deep, but it is quieter
 and more subdued than the preceding one. The purpose of Henry's address was
@@ -3937,12 +4177,14 @@ trifles, for the sake of making bubbles of pleasure for transient effect
 on mercurial audiences. So far from that, it is the consecration of the
 whole man to the noblest purposes to which one can address himself
 ```
+
 ```
 —the education and inspiration of his fellow men by all that there is
 in learning, by all that there is in thought, by all that there is in
 feeling, by all that there is in all of them, sent home through the
 channels of taste and of beauty.—HENRY WARD BEECHER.
 ```
+
 [^4]:. What in your opinion are the relative values of thought and feeling in a
 speech?
 
@@ -3984,23 +4226,29 @@ bombast, pomposity and over-enthusiasm. Imitate him.
 ```
 CHAPTER XI
 ```
+
 ```
 FLUENCY THROUGH PREPARATION
 ```
+
 ```
 Animis opibusque parati—Ready in mind and resources.
 ```
+
 ```
 —Motto of South Carolina.
 ```
+
 ```
 In omnibus negotiis prius quam aggrediare, adhibenda est præparatio
 diligens—In all matters before beginning a diligent preparation
 should be made.
 ```
+
 ```
 —CICERO, De Officiis.
 ```
+
 Take your dictionary and look up the words that contain the Latin stem _flu_—the
 results will be suggestive.
 
@@ -4133,6 +4381,7 @@ gathering ideas and in private practise of speaking you will find amply rewarded
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. What advantages has the fluent speaker over the hesitating talker?
 
 [^2]:. What influences, within and without the man himself, work against fluency?
@@ -4151,19 +4400,24 @@ sentence.
 ```
 Machinery has created a new economic world.
 ```
+
 ```
 The Socialist Party is a strenuous worker for peace.
 ```
+
 ```
 He was a crushed and broken man when he left prison.
 ```
+
 ```
 War must ultimately give way to world-wide arbitration.
 ```
+
 ```
 The labor unions demand a more equal distribution of the wealth
 that labor creates.
 ```
+
 [^6]:. Put the sentiments of Mr. Bryan's "Prince of Peace," on page [^4]:[^4]:[^8]:, into your
 own words. Honestly criticise your own effort.
 
@@ -4176,92 +4430,116 @@ you must practise, _practise_, _PRACTISE_.
 There lives more faith in honest doubt,
 Believe me, than in half the creeds.
 ```
+
 ```
 —TENNYSON, In Memoriam.
 ```
+
 ```
 Howe'er it be, it seems to me,
 'Tis only noble to be good.
 Kind hearts are more than coronets,
 And simple faith than Norman blood.
 ```
+
 ```
 —TENNYSON, Lady Clara Vere de Vere.
 ```
+
 ```
 'Tis distance lends enchantment to the view
 And robes the mountain in its azure hue.
 ```
+
 ```
 —CAMPBELL, Pleasures of Hope.
 ```
+
 ```
 His best companions, innocence and health,
 And his best riches, ignorance of wealth.
 ```
+
 ```
 —GOLDSMITH, The Deserted Village.
 ```
+
 ```
 Beware of desperate steps! The darkest day,
 Live till tomorrow, will have passed away.
 ```
+
 ```
 —COWPER, Needless Alarm.
 ```
+
 ```
 My country is the world, and my religion is to do
 good.
 ```
+
 ```
 —PAINE, Rights of Man.
 ```
+
 ```
 Trade it may help, society extend,
 But lures the pirate, and corrupts the friend:
 It raises armies in a nation's aid,
 But bribes a senate, and the land's betray'd.
 ```
+
 ```
 —POPE, Moral Essays.[[^5]]
 ```
+
 ```
 O God, that men should put an enemy in their mouths to
 steal
 away their brains!
 ```
+
 ```
 —SHAKESPEARE, Othello.
 ```
+
 ```
 It matters not how strait the gate,
 How charged with punishment the scroll,
 I am the master of my fate,
 I am the captain of my soul.
 ```
+
 ```
 —HENLEY, Invictus.
 ```
+
 ```
 The world is so full of a number of things,
 I am sure we should all be happy as kings.
 ```
+
 ```
 —STEVENSON, A Child's Garden of Verses.
 ```
+
 ```
 If your morals are dreary, depend upon it they are
 wrong.
 ```
+
 ```
 —STEVENSON, Essays.
 ```
+
 ```
 Every advantage has its tax. I learn to be content.
 ```
+
 ```
 —EMERSON, Essays.
 ```
+
 [^8]:. Make a two-minute speech on any of the following general subjects, but you
 will find that your ideas will come more readily if you narrow your subject by
 
@@ -4273,6 +4551,7 @@ creating more leisure. In this way you may expand this subject list indefinitely
 ```
 GENERAL THEMES
 ```
+
 ```
 Law.
 Politics.
@@ -4307,6 +4586,7 @@ Haste.
 Leisure.
 Happiness.
 ```
+
 Health.
 Business.
 America.
@@ -4339,24 +4619,30 @@ Our Greatest Need.
 ```
 FOOTNOTES:
 ```
+
 ```
 [4] See chapter on "Increasing the Vocabulary."
 [5] Money.
 ```
+
 ```
 CHAPTER XII
 ```
+
 ```
 THE VOICE
 ```
+
 ```
 Oh, there is something in that voice that
 reaches
 The innermost recesses of my spirit!
 ```
+
 ```
 —LONGFELLOW, Christus.
 ```
+
 The dramatic critic of The London _Times_ once declared that acting is nine-tenths
 voice work. Leaving the message aside, the same may justly be said of public
 speaking. A rich, correctly-used voice is the greatest physical factor of
@@ -4434,6 +4720,7 @@ O " No. O " No. O " Ooze.
 A " All. OO " Foot. A " Ah.
 E " Eat. OO " Ooze. E " Eat.
 ```
+
 All the activity of breathing must be centered, not in the throat, but in the middle
 of the body—you must breathe from the diaphragm. Note the way you breathe
 when lying flat on the back, undressed in bed. You will observe that all the
@@ -4582,6 +4869,7 @@ that it is a pleasant sensation.
 What ho, my jovial mates. Come on! We will frolic it like fairies,
 frisking in the merry moonshine.
 ```
+
 _Purity of Voice_
 
 This quality is sometimes destroyed by wasting the breath. Carefully control the
@@ -4610,6 +4898,7 @@ practise.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. What are the prime requisites for good voice?
 
 [^2]:. Tell why each one is necessary for good voice production.
@@ -4632,16 +4921,20 @@ development of your voice?
 ```
 CHAPTER XIII
 ```
+
 ```
 VOICE CHARM
 ```
+
 ```
 A cheerful temper joined with innocence will make beauty
 attractive, knowledge delightful, and wit good-natured.
 ```
+
 ```
 —JOSEPH ADDISON, The Tattler.
 ```
+
 Poe said that "the tone of beauty is sadness," but he was evidently thinking from
 cause to effect, not contrariwise, for sadness is rarely a producer of beauty—that
 is peculiarly the province of joy.
@@ -4685,6 +4978,7 @@ registers, and develop range—_with brightness_.
 ```
 Sing-song. Ding-dong. Hong-kong. Long-thong.
 ```
+
 Practise in the falsetto voice develops a bright quality in the normal speaking-
 voice. Try the following, and any other selections you choose, in a falsetto voice.
 A man's falsetto voice is extremely high and womanish, so men should not
@@ -4694,6 +4988,7 @@ practise in falsetto after the exercise becomes tiresome.
 She perfectly scorned the best of his clan, and declared the ninth of
 any man, a perfectly vulgar fraction.
 ```
+
 The actress Mary Anderson asked the poet Longfellow what she could do to
 improve her voice. He replied, "Read aloud daily, joyous, lyric poetry."
 
@@ -4725,9 +5020,11 @@ _to commit each selection to memory._
 ```
 SELECTIONS FOR PRACTISE
 ```
+
 ```
 FROM MILTON'S "L'ALLEGRO"
 ```
+
 Haste thee, Nymph, and bring with thee
 Jest, and youthful Jollity,
 Quips and Cranks and wanton Wiles,
@@ -4780,6 +5077,7 @@ Under the hawthorn in the dale.
 ```
 THE SEA
 ```
+
 The sea, the sea, the open sea,
 The blue, the fresh, the fever free;
 Without a mark, without a bound,
@@ -4822,9 +5120,11 @@ But never have sought or sighed for change:
 And death, whenever he comes to me,
 Shall come on the wide, unbounded sea!
 ```
+
 ```
 —BARRY CORNWALL.
 ```
+
 The sun does not shine for a few trees and flowers, but for the wide
 world's joy. The lonely pine upon the mountain-top waves its
 sombre boughs, and cries, "Thou art my sun." And the little meadow
@@ -4839,6 +5139,7 @@ mine."—HENRY WARD BEECHER.
 ```
 THE LARK
 ```
+
 ```
 Bird of the wilderness,
 Blithesome and cumberless,
@@ -4847,6 +5148,7 @@ Emblem of happiness,
 Blest is thy dwelling-place:
 Oh, to abide in the desert with thee!
 ```
+
 ```
 Wild is thy lay, and loud,
 Far in the downy cloud,—
@@ -4854,9 +5156,11 @@ Love gives it energy; love gave it birth.
 Where, on thy dewy wing
 Where art thou journeying?
 ```
+
 ```
 Thy lay is in heaven; thy love is on earth.
 ```
+
 ```
 O'er fell and fountain sheen,
 O'er moor and mountain green,
@@ -4865,6 +5169,7 @@ Over the cloudlet dim,
 Over the rainbow's rim,
 Musical cherub, soar, singing, away!
 ```
+
 ```
 Then, when the gloaming comes,
 Low in the heather blooms,
@@ -4873,9 +5178,11 @@ Emblem of happiness,
 Blest is thy dwelling-place.
 Oh, to abide in the desert with thee!
 ```
+
 ```
 —JAMES HOGG.
 ```
+
 In joyous conversation there is an elastic touch, a delicate stroke, upon the
 central ideas, generally following a pause. This elastic touch adds vivacity to the
 voice. If you try repeatedly, it can be sensed by feeling the tongue strike the
@@ -4893,6 +5200,7 @@ responsive tongue is absolutely essential to good voice work.
 FROM NAPOLEON'S ADDRESS TO THE DIRECTORY ON HIS
 RETURN FROM EGYPT
 ```
+
 ```
 What have you done with that brilliant France which I left you? I left
 you at peace, and I find you at war. I left you victorious and I find
@@ -4901,9 +5209,11 @@ spoliation and poverty. What have you done with the hundred
 thousand Frenchmen, my companions in glory? They are dead!...
 This state of affairs cannot last long; in less than three years it would
 ```
+
 ```
 plunge us into despotism.
 ```
+
 Practise the following selection, for the development of elastic touch; say it in a
 joyous spirit, using the exercise to develop voice charm in _all_ the ways
 suggested in this chapter.
@@ -4911,91 +5221,108 @@ suggested in this chapter.
 ```
 THE BROOK
 ```
+
 ```
 I come from haunts of coot and hern,
 I make a sudden sally,
 And sparkle out among the fern,
 To bicker down a valley.
 ```
+
 ```
 By thirty hills I hurry down,
 Or slip between the ridges;
 By twenty thorps, a little town,
 And half a hundred bridges.
 ```
+
 ```
 Till last by Philip's farm I flow
 To join the brimming river;
 For men may come and men may go,
 But I go on forever.
 ```
+
 ```
 I chatter over stony ways,
 In little sharps and trebles,
 ```
+
 ```
 I bubble into eddying bays,
 I babble on the pebbles.
 ```
+
 ```
 With many a curve my banks I fret,
 By many a field and fallow,
 And many a fairy foreland set
 With willow-weed and mallow.
 ```
+
 ```
 I chatter, chatter, as I flow
 To join the brimming river;
 For men may come and men may go,
 But I go on forever.
 ```
+
 ```
 I wind about, and in and out,
 ```
+
 ```
 With here a blossom sailing,
 And here and there a lusty trout,
 And here and there a grayling,
 ```
+
 ```
 And here and there a foamy flake
 Upon me, as I travel,
 With many a silvery water-break
 Above the golden gravel,
 ```
+
 ```
 And draw them all along, and flow
 To join the brimming river,
 For men may come and men may go,
 But I go on forever.
 ```
+
 ```
 I steal by lawns and grassy plots,
 I slide by hazel covers,
 I move the sweet forget-me-nots
 That grow for happy lovers.
 ```
+
 ```
 I slip, I slide, I gloom, I glance,
 Among my skimming swallows;
 I make the netted sunbeam dance
 Against my sandy shallows,
 ```
+
 ```
 I murmur under moon and stars
 In brambly wildernesses,
 I linger by my shingly bars,
 I loiter round my cresses;
 ```
+
 ```
 And out again I curve and flow
 To join the brimming river;
 For men may come and men may go,
 But I go on forever.
 ```
+
 ```
 —ALFRED TENNYSON.
 ```
+
 The children at play on the street, glad from sheer physical vitality, display a
 resonance and charm in their voices quite different from the voices that float
 through the silent halls of the hospitals. A skilled physician can tell much about
@@ -5028,6 +5355,7 @@ voice.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Define (_a_) charm; (_b_) joy; (_c_) beauty.
 
 [^2]:. Make a list of all the words related to _joy_.
@@ -5064,28 +5392,36 @@ A miser filling his most hoarded chest,
 Feel rapture; but not such true joy are reaping
 As they who watch o'er what they love while sleeping.
 ```
+
 ```
 —BYRON, Don Juan.
 ```
+
 ```
 CHAPTER XIV
 ```
+
 ```
 DISTINCTNESS AND PRECISION OF UTTERANCE
 ```
+
 ```
 In man speaks God.
 ```
+
 ```
 —HESIOD, Words and Days.
 ```
+
 ```
 And endless are the modes of speech, and far
 Extends from side to side the field of words.
 ```
+
 ```
 —HOMER, Iliad.
 ```
+
 In popular usage the terms "pronunciation," "enunciation," and "articulation" are
 synonymous, but real pronunciation includes three distinct processes, and may
 therefore be defined as, _the utterance of a syllable or a group of syllables with_
@@ -5159,6 +5495,7 @@ Who said at Cambridge, mŏst instead of mōst,
 But knit her brows and stamped her angry foot
 To hear a Teacher call a rōōt a rŏŏt.
 ```
+
 The foregoing examples are all monosyllables, but bad articulation is frequently
 the result of joining sounds that do not belong together. For example, no one
 finds it difficult to say _beauty_, but many persist in pronouncing _duty_ as though it
@@ -5247,6 +5584,7 @@ directions to the players.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Practise repeating the following rapidly, paying particular attention to the
 consonants.
 
@@ -5254,20 +5592,25 @@ consonants.
 "Foolish Flavius, flushing feverishly, fiercely found fault with
 Flora's frivolity.[[^7]]"
 ```
+
 ```
 Mary's matchless mimicry makes much mischief.
 ```
+
 ```
 Seated on shining shale she sells sea shells.
 ```
+
 ```
 You youngsters yielded your youthful yule-tide yearnings yesterday.
 ```
+
 [^2]:. Sound the _l_ in each of the following words, repeated in sequence:
 
 ```
 Blue black blinkers blocked Black Blondin's eyes.
 ```
+
 [^3]:. Do you say a _bloo_ sky or a _blue_ sky?
 
 [^4]:. Compare the _u_ sound in _few_ and in _new_. Say each aloud, and decide which is
@@ -5281,9 +5624,11 @@ friends Horatio and Marcellus that he intends to act a part:
 Horatio. O day and night, but this is wondrous
 strange!
 ```
+
 ```
 Hamlet. And therefore as a stranger give it welcome.
 ```
+
 ```
 There are more things in heaven and earth, Horatio,
 Than are dreamt of in your philosophy.
@@ -5302,6 +5647,7 @@ That you know aught of me: this not to do,
 So grace and mercy at your most need help you,
 Swear.
 ```
+
 —_Act I. Scene V._
 
 [^6]:. Make a list of common errors of pronunciation, saying which are due to faulty
@@ -5319,10 +5665,12 @@ caricature the word. Be _moderate_ in reading the following:
 ```
 THE LAST SPEECH OF MAXIMILIAN DE ROBESPIERRE
 ```
+
 ```
 The enemies of the Republic call me tyrant! Were I such they would
 grovel at my feet. I should gorge them with gold, I should grant
 ```
+
 them immunity for their crimes, and they would be grateful. Were I
 such, the kings we have vanquished, far from denouncing
 Robespierre, would lend me their guilty support; there would be a
@@ -5372,25 +5720,31 @@ oppressors of the People a terrible testament, which I proclaim with
 the independence befitting one whose career is so nearly ended; it is
 the awful truth—"Thou shalt die!"
 ```
+
 ```
 FOOTNOTES:
 ```
+
 ```
 [6] School and College Speaker, Mitchell.
 [7] School and College Speaker, Mitchell.
 ```
+
 ```
 CHAPTER XV
 ```
+
 ```
 THE TRUTH ABOUT GESTURE
 ```
+
 ```
 When Whitefield acted an old blind man advancing by slow steps
 toward the edge of the precipice, Lord Chesterfield started up and
 cried: "Good God, he is gone!"—NATHAN SHEPPARD, Before an
 Audience.
 ```
+
 Gesture is really a simple matter that requires observation and common sense
 rather than a book of rules. Gesture is an outward expression of an inward
 condition. It is merely an effect—the effect of a mental or an emotional impulse
@@ -5693,6 +6047,7 @@ the expression come out.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. From what source do you intend to study gesture?
 
 [^2]:. What is the first requisite of good gestures? Why?
@@ -5760,6 +6115,7 @@ instructions, she began to apologize to the poet; he smilingly
 reassured her, however; the gesture was then admirable, because it
 was irrepressible.—REDWAY, The Actor's Art.
 ```
+
 [^2]:[^3]:. Render the following with suitable gestures:
 
 ```
@@ -5777,15 +6133,19 @@ sailors in the congregation, utterly swept away by the dramatic
 description, leaped to their feet and cried: "The longboat!—take to
 the longboat!"
 ```
+
 ```
 —NATHAN SHEPPARD, Before an Audience.
 ```
+
 ```
 CHAPTER XVI
 ```
+
 ```
 METHODS OF DELIVERY
 ```
+
 ```
 The crown, the consummation, of the discourse is its delivery.
 Toward it all preparation looks, for it the audience waits, by it the
@@ -5802,9 +6162,11 @@ this that sends such thrills of indescribable joy through the orator's
 whole being when he has achieved a success—it is like the mother
 forgetting her pangs for the joy of bringing a son into the world.
 ```
+
 ```
 —J.B.E., How to Attract and Hold an Audience.
 ```
+
 There are four fundamental methods of delivering an address; all others are
 modifications of one or more of these: reading from manuscript, committing the
 written speech and speaking from memory, speaking from notes, and
@@ -5979,41 +6341,51 @@ I. INTRODUCTION.
 Attention indispensable to the performance of any
 great work. Anecdote.
 ```
+
 II. DEFINED AND ILLUSTRATED.
 
 ```
 1. From common observation.
 ```
+
 ```
 2. From the lives of great men {Carlyle, Robert E. Lee.}
 ```
+
 III. ITS RELATION TO OTHER MENTAL POWERS.
 
 ```
 1. Reason.
 ```
+
 ```
 2. Imagination.
 ```
+
 ```
 3. Memory.
 ```
+
 ```
 4. Will. Anecdote.
 ```
+
 IV. ATTENTION MAY BE CULTIVATED.
 
 ```
 1. Involuntary attention.
 ```
+
 ```
 2. Voluntary attention. Examples.
 ```
+
 V. CONCLUSION.
 
 ```
 The consequences of inattention and of attention.
 ```
+
 Few briefs would be so precise as this one, for with experience a speaker learns
 to use little tricks to attract his eye—he may underscore a catch-word heavily,
 draw a red circle around a pivotal idea, enclose the key-word of an anecdote in a
@@ -6109,6 +6481,7 @@ finish of style and fire in utterance.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Which in your judgment is the most suitable of delivery for you? Why?
 
 [^2]:. What objections can you offer to, (_a_) memorizing the entire speech; (_b_)
@@ -6151,22 +6524,28 @@ review of the principles of delivery discussed in the preceding chapters.
 ```
 CHAPTER XVII
 ```
+
 ```
 THOUGHT AND RESERVE POWER
 ```
+
 ```
 Providence is always on the side of the last reserve.
 ```
+
 ```
 —NAPOLEON BONAPARTE.
 ```
+
 ```
 So mightiest powers by deepest calms are fed,
 And sleep, how oft, in things that gentlest be!
 ```
+
 ```
 —BARRY CORNWALL, The Sea in Calm.
 ```
+
 What would happen if you should overdraw your bank account? As a rule the
 check would be protested; but if you were on friendly terms with the bank, your
 check might be honored, and you would be called upon to make good the
@@ -6340,6 +6719,7 @@ Don't give me the man who thinks he knows,
 But give me the man who knows he thinks,
 And I have the man who knows he knows!"
 ```
+
 _Reading As a Stimulus to Thought_
 
 No matter how dry the cow, however, nor how poor our ability to milk, there is
@@ -6360,6 +6740,7 @@ unseen depths.
 ```
 THE USES OF BOOKS AND READING[[^9]]
 ```
+
 ```
 Each Kingsley approaches a stone as a jeweler approaches a casket
 to unlock the hidden gems. Geikie causes the bit of hard coal to
@@ -6370,6 +6751,7 @@ trees and shrubs as eating, drinking and marrying. We see certain
 date groves in Palestine, and other date groves in the desert a
 hundred miles away, and the pollen of the one carried upon the trade
 ```
+
 winds to the branches of the other. We see the tree with its strange
 system of water-works, pumping the sap up through pipes and
 mains; we see the chemical laboratory in the branches mixing flavor
@@ -6417,6 +6799,7 @@ of Washington. Washington received his weapons at the hands of
 Hampden and Cromwell. The great Puritans lock hands with Luther
 and Savonarola.
 ```
+
 ```
 The unbroken procession brings us at length to Him whose Sermon
 on the Mount was the very charter of liberty. It puts us under a
@@ -6434,6 +6817,7 @@ moods Byron's mind did its best work. The true book stimulates the
 mind as no wine can ever quicken the blood. It is reading that brings
 us to our best, and rouses each faculty to its most vigorous life.
 ```
+
 We recognize this as pure cream, and if it seems at first to have its secondary
 source in the friendly milkman, let us not forget that the theme is "The Uses of
 Books and Reading." Dr. Hillis both sees and thinks.
@@ -6527,6 +6911,7 @@ and—to adopt an exceedingly expressive bit of slang—_then_ some.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Robert Houdin trained his son to give one swift glance at a shop window in
 passing and be able to report accurately a surprising number of its contents. Try
 this several times on different windows and report the result.
@@ -6559,13 +6944,16 @@ Students on the Art of Study," Cramer; "As a Man Thinketh," Allen.
 ```
 FOOTNOTES:
 ```
+
 ```
 [8] How to Attract and Hold an Audience, J. Berg Esenwein.
 [9] Used by permission.
 ```
+
 ```
 CHAPTER XVIII
 ```
+
 SUBJECT AND PREPARATION
 
 ```
@@ -6574,13 +6962,16 @@ And ponder well your subject, and its length;
 Nor lift your load, before you're quite aware
 What weight your shoulders will, or will not, bear.
 ```
+
 ```
 —BYRON, Hints from Horace.
 ```
+
 ```
 Look to this day, for it is life—the very life of life. In its brief course
 lie all the verities and realities of your existence: the bliss of growth,
 ```
+
 ```
 the glory of action, the splendor of beauty. For yesterday is already a
 dream and tomorrow is only a vision; but today, well lived, makes
@@ -6588,9 +6979,11 @@ every yesterday a dream of happiness and every tomorrow a vision
 of hope. Look well, therefore, to this day. Such is the salutation of
 the dawn.
 ```
+
 ```
 —From the Sanskrit.
 ```
+
 In the chapter preceding we have seen the influence of "Thought and Reserve
 Power" on general preparedness for public speech. But preparation consists in
 something more definite than the cultivation of thought-power, whether from
@@ -6850,6 +7243,7 @@ General article on S., Howells', Dec. 1913
 "Socialism in Ancient Life," Original Ms.,
 Env. 102
 ```
+
 On the card illustrated above, clippings are indexed by giving the number of the
 envelope in which they are filed. The envelopes may be of any size desired and
 kept in any convenient receptacle. On the foregoing example, "Progress of S.,
@@ -6939,112 +7333,141 @@ Here is an outline arranged with more regard for argument:
 ```
 FOREIGN IMMIGRATION SHOULD BE RESTRICTED[[^1][^1]]
 ```
+
 ```
 I. FACT AS CAUSE: Many immigrants are practically paupers. (Proofs
 involving statistics or statements of authorities.)
 ```
+
 ```
 II. FACT AS EFFECT: They sooner or later fill our alms-houses and
 become public charges. (Proofs involving statistics or statements of
 authorities.)
 ```
+
 ```
 III. FACT AS CAUSE: Some of them are criminals. (Examples of
 recent cases.)
 ```
+
 ```
 IV. FACT AS EFFECT: They reënforce the criminal classes. (Effects on
 our civic life.)
 ```
+
 ```
 V. FACT AS CAUSE: Many of them know nothing of the duties of free
 citizenship. (Examples.)
 ```
+
 ```
 VI.FACT AS EFFECT: Such immigrants recruit the worst element in
 our politics. (Proofs.)
 ```
+
 A more highly ordered grouping of topics and subtopics is shown in the
 following:
 
 ```
 OURS A CHRISTIAN NATION
 ```
+
 ```
 I. INTRODUCTION: Why the subject is timely. Influences operative
 against this contention today.
 ```
+
 ```
 II. CHRISTIANITY PRESIDED OVER THE EARLY HISTORY
 OF AMERICA.
 ```
+
 ```
 1. First practical discovery by a Christian explorer. Columbus
 worshiped God on the new soil.
 ```
+
 ```
 2. The Cavaliers.
 ```
+
 ```
 3. The French Catholic settlers.
 ```
+
 ```
 4. The Huguenots.
 ```
+
 ```
 5. The Puritans.
 ```
+
 ```
 III. THE BIRTH OF OUR NATION WAS UNDER CHRISTIAN AUSPICES.
 ```
+
 ```
 1. Christian character of Washington.
 ```
+
 ```
 2. Other Christian patriots.
 ```
+
 ```
 3. The Church in our Revolutionary struggle. Muhlenberg.
 ```
+
 ```
 IV. OUR LATER HISTORY HAS ONLY EMPHASIZED OUR
 NATIONAL ATTITUDE. Examples of dealings with foreign nations
 show Christian magnanimity. Returning the Chinese Indemnity;
 fostering the Red Cross; attitude toward Belgium.
 ```
+
 ```
 V. OUR GOVERNMENTAL FORMS AND MANY OF OUR
 LAWS ARE OF A CHRISTIAN TEMPER.
 ```
+
 ```
 1. The use of the Bible in public ways, oaths, etc.
 ```
+
 ```
 2. The Bible in our schools.
 ```
+
 ```
 3. Christian chaplains minister to our law-making bodies, to our
 army, and to our navy.
 ```
+
 ```
 4. The Christian Sabbath is officially and generally recognized.
 ```
+
 ```
 5. The Christian family and the Christian system of morality are at
 the basis of our laws.
 ```
+
 ```
 VI. THE LIFE OF THE PEOPLE TESTIFIES OF THE POWER OF
 CHRISTIANITY. Charities, education, etc., have Christian tone.
 ```
+
 ```
 VII. OTHER NATIONS REGARD US AS A CHRISTIAN PEOPLE.
 ```
+
 ```
 VIII. CONCLUSION: The attitude which may reasonably be expected of
 all good citizens toward questions touching the preservation of our
 standing as a Christian nation.
 ```
+
 _Writing and Revision_
 
 After the outline has been perfected comes the time to write the speech, if write
@@ -7073,6 +7496,7 @@ and likely to excite interest.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Define (_a_) introduction; (_b_) climax; (_c_) peroration.
 
 [^2]:. If a thirty-minute speech would require three hours for specific preparation,
@@ -7136,24 +7560,30 @@ which you have listened for this purpose.
 ```
 FOOTNOTES:
 ```
+
 ```
 [10] How to Attract and Hold an Audience, J. Berg Esenwein.
 [11] Adapted from Competition-Rhetoric, Scott and Denny, p. 241.
 ```
+
 ```
 CHAPTER XIX
 ```
+
 ```
 INFLUENCING BY EXPOSITION
 ```
+
 ```
 Speak not at all, in any wise, till you have somewhat to speak; care
 not for the reward of your speaking, but simply and with undivided
 mind for the truth of your speaking.
 ```
+
 ```
 —THOMAS CARLYLE, Essay on Biography.
 ```
+
 A complete discussion of the rhetorical structure of public speeches requires a
 fuller treatise than can be undertaken in a work of this nature, yet in this chapter,
 and in the succeeding ones on "Description," "Narration," "Argument," and
@@ -7214,6 +7644,7 @@ haze. Exposition, then, is the test of clear understanding. To speak
 effectively you must be able to see your subject clearly and
 comprehensively, and to make your audience see it as you do."[[^1][^4]]
 ```
+
 There are pitfalls on both sides of this path. To explain too little will leave your
 audience in doubt as to what you mean. It is useless to argue a question if it is
 not perfectly clear just what is meant by the question. Have you never come to a
@@ -7265,9 +7696,11 @@ much. The following is a simple example:
 To expound is to set forth the nature, the significance, the
 characteristics, and the bearing of an idea or a group of ideas.
 ```
+
 ```
 —ARLO BATES, Talks on Writing English.
 ```
+
 **Contrast and Antithesis** are often used effectively to amplify definition, as in
 this sentence, which immediately follows the above-cited definition:
 
@@ -7276,6 +7709,7 @@ Exposition therefore differs from Description in that it deals directly
 with the meaning or intent of its subject instead of with its
 appearance.
 ```
+
 This antithesis forms an expansion of the definition, and as such it might have
 been still further extended. In fact, this is a frequent practise in public speech,
 where the minds of the hearers often ask for reiteration and expanded statement
@@ -7296,6 +7730,7 @@ will to the best of your ability picture to him this familiarly
 wonderful machine. If you explain it to him, you are not describing
 but expounding it.
 ```
+
 The chief value of example is that it makes clear the unknown by referring the
 mind to the known. Readiness of mind to make illuminating, apt comparisons for
 the sake of clearness is one of the speaker's chief resources on the platform—it is
@@ -7315,6 +7750,7 @@ christianize and civilize the man, you put story upon story, for you
 develop faculty after faculty; and you have to supply every story
 with your productions.
 ```
+
 **Discarding** is a less common form of platform explanation. It consists in
 clearing away associated ideas so that the attention may be centered on the main
 thought to be discussed. Really, it is a negative factor in exposition though a
@@ -7337,6 +7773,7 @@ on the evidence is whether this man did with revengeful intent
 commit the murder that every impartial witness has solemnly laid at
 his door.
 ```
+
 **Classification** assigns a subject to its class. By an allowable extension of the
 definition it may be said to assign it also to its order, genus, and species.
 Classification is useful in public speech in narrowing the issue to a desired
@@ -7354,6 +7791,7 @@ constitutional government for the masses, of the opium traffic, of the
 serf, and of the slave—not as matters of economic and political
 expediency but as questions of right and wrong.
 ```
+
 **Analysis** separates a subject into its essential parts. This it may do by various
 principles; for example, analysis may follow the order of time (geologic eras),
 order of place (geographic facts), logical order (a sermon outline), order of
@@ -7370,9 +7808,11 @@ philosophy or humanity. For all things are marked and stamped with
 this triple character, of the power of God, the difference of nature,
 and the use of man.
 ```
+
 ```
 —LORD BACON, The Advancement of Learning.[[^1][^6]]
 ```
+
 **Division** differs only from analysis in that analysis follows the inherent divisions
 of a subject, as illustrated in the foregoing passage, while division arbitrarily
 separates the subject for convenience of treatment, as in the following none-too-
@@ -7388,9 +7828,11 @@ rough drafts of history; and antiquities are history defaced, or some
 remnants of history which have casually escaped the shipwreck of
 time.
 ```
+
 ```
 —LORD BACON, The Advancement of Learning.[[^1][^6]A]
 ```
+
 **Generalization** states a broad principle, or a general truth, derived from
 examination of a considerable number of individual facts. This synthetic
 exposition is not the same as argumentative generalization, which supports a
@@ -7405,6 +7847,7 @@ water with a flat plate or piston, which fits the interior of the
 cylinder perfectly; then apply heat to the water, and we shall witness
 the following phenomena. After the lapse of some minutes the water
 ```
+
 ```
 will begin to boil, and the steam accumulating at the upper surface
 will make room for itself by raising the piston slightly. As the
@@ -7418,6 +7861,7 @@ since raising such a weight as the piston is a form of doing work,
 this apparatus, clumsy and inconvenient though it may be, answers
 the definition precisely.[[^1][^7]]
 ```
+
 **Reference to Experience** is one of the most vital principles in exposition—as in
 every other form of discourse.
 
@@ -7443,23 +7887,28 @@ The man of science, in fact, simply uses with scrupulous exactness
 the methods which we all habitually, and at every moment, use
 carelessly.
 ```
+
 ```
 —THOMAS HENRY HUXLEY, Lay Sermons.
 ```
+
 ```
 Do you set down your name in the scroll of youth, that are written
 down old with all the characters of age? Have you not a moist eye? a
 dry hand? a yellow cheek? a white beard? a decreasing leg? an
 ```
+
 ```
 increasing belly? is not your voice broken? your wind short? your
 chin double? your wit single? and every part about you blasted with
 antiquity? and will you yet call yourself young? Fie, fie, fie, Sir
 John!
 ```
+
 ```
 —SHAKESPEARE, The Merry Wives of Windsor.
 ```
+
 Finally, in preparing expository material ask yourself these questions regarding
 your subject:
 
@@ -7474,6 +7923,7 @@ What examples illustrate it?
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. What would be the effect of adhering to any one of the forms of discourse in a
 public address?
 
@@ -7533,6 +7983,7 @@ virtue, sneers at love; to him the maiden plighting her troth is an
 artful schemer, and he sees even in the mother's kiss nothing but an
 empty conventionality."
 ```
+
 Write, commit and deliver two similar passages based on your choice from this
 list: (_a_) "the egotist;" (_b_) "the sensualist;" (_c_) "the hypocrite;" (_d_) "the timid
 man;" (_e_) "the joker;" (_f_) "the flirt;" (_g_) "the ungrateful woman;" (_h_) "the
@@ -7552,19 +8003,24 @@ Shakespeare's characterization of Sir John Falstaff, page [^2]:[^2]:[^7]:.
 [18] Effective Speaking, Arthur Edward Phillips. This work covers the preparation of
 public speech in a very helpful way.
 ```
+
 ```
 CHAPTER XX
 ```
+
 ```
 INFLUENCING BY DESCRIPTION
 ```
+
 ```
 The groves of Eden vanish'd now so long,
 Live in description, and look green in song.
 ```
+
 ```
 —ALEXANDER POPE, Windsor Forest.
 ```
+
 ```
 The moment our discourse rises above the ground-line of familiar
 facts, and is inflamed with passion or exalted thought, it clothes
@@ -7576,6 +8032,7 @@ imagery is spontaneous. It is the blending of experience with the
 present action of the mind. It is proper creation.—RALPH WALDO
 EMERSON, Nature.
 ```
+
 Like other valuable resources in public speaking, description loses its power
 when carried to an extreme. Over-ornamentation makes the subject ridiculous. A
 dust-cloth is a very useful thing, but why embroider it? Whether description
@@ -7635,6 +8092,7 @@ explanation:
 ```
 Description for Public Speakers
 ```
+
 ```
 Objects { Still
 Objects { In motion
@@ -7648,6 +8106,7 @@ Actions {Physical
 Persons { Internal
 Persons { External
 ```
+
 Some of the foregoing processes will overlap, in certain instances, and all are
 more likely to be found in combination than singly.
 
@@ -7722,6 +8181,7 @@ mastiff mouth, and a broad copper nose, which was supposed in
 those days to have acquired its fiery hue from the constant
 neighborhood of his tobacco pipe.
 ```
+
 ```
 He was exactly five feet six inches in height, and six feet five inches
 in circumference. His head was a perfect sphere, and of such
@@ -7733,6 +8193,7 @@ body was of an oblong form, particularly capacious at bottom; which
 was wisely ordered by Providence, seeing that he was a man of
 sedentary habits, and very averse to the idle labor of walking.
 ```
+
 The foregoing is too long for the platform, but it is so good-humored, so full of
 delightful exaggeration, that it may well serve as a model of humorous character
 picturing, for here one inevitably sees the inner man in the outer.
@@ -7749,6 +8210,7 @@ Too low. Don't strike. Too high. Don't strike. There it comes like
 lightning. Strike! Away it soars! Higher! Higher! Run! Another
 base! Faster! Faster! Good! All around at one stroke!
 ```
+
 Observe the remarkable way in which the lecturer fused speaker, audience,
 spectators, and players into one excited, ecstatic whole—just as you have found
 yourself starting forward in your seat at the delivery of the ball with "three on
@@ -7768,9 +8230,11 @@ Blue-distant, a mountain of carven stone appeared before them,—the
 Temple, lifting to heaven its wilderness of chiseled pinnacles,
 flinging to the sky the golden spray of its decoration.
 ```
+
 ```
 —LAFCADIO HEARN, Chinese Ghosts.
 ```
+
 ```
 The stars were clear, colored, and jewel-like, but not frosty. A faint
 silvery vapour stood for the Milky Way. All around me the black fir-
@@ -7780,9 +8244,11 @@ of her tether; I could hear her steadily munching at the sward; but
 there was not another sound save the indescribable quiet talk of the
 runnel over the stones.
 ```
+
 ```
 —ROBERT LOUIS STEVENSON, Travels with a Donkey.
 ```
+
 ```
 It was full autumn now, late autumn—with the nightfalls gloomy,
 and all things growing dark early in the old cottage, and all the
@@ -7794,6 +8260,7 @@ profane airs, or despairing dirges; at other times it would come close
 to the door, and lift up a howl like wild beasts.—PIERRE LOTI, An
 Iceland Fisherman.
 ```
+
 ```
 I see the great refectory,[[^2][^2]] where a battalion might have drilled; I
 see the long tables, the five hundred heads bent above the plates, the
@@ -7805,9 +8272,11 @@ dishes, the deafening noise, the voices choked with food crying out:
 herculean strength of jaw, the exuberant life and spirits of those far-
 off days.[[^2][^3]]
 ```
+
 ```
 —EDMONDO DE AMICIS, College Friends.
 ```
+
 _Suggestions for the Use of Description_
 
 Decide, on beginning a description, what point of view you wish your hearers to
@@ -7863,6 +8332,7 @@ SELECTIONS FOR PRACTISE
 ```
 THE HOMES OF THE PEOPLE
 ```
+
 ```
 I went to Washington the other day, and I stood on the Capitol Hill;
 my heart beat quick as I looked at the towering marble of my
@@ -7876,6 +8346,7 @@ honor and wisdom and justice abided therein, the world would at last
 owe to that great house in which the ark of the covenant of my
 country is lodged, its final uplifting and its regeneration.
 ```
+
 ```
 Two days afterward, I went to visit a friend in the country, a modest
 man, with a quiet country home. It was just a simple, unpretentious
@@ -7885,6 +8356,7 @@ in the front yard was mingled with the aroma of the orchard and of
 the gardens, and resonant with the cluck of poultry and the hum of
 bees.
 ```
+
 ```
 Inside was quiet, cleanliness, thrift, and comfort. There was the old
 clock that had welcomed, in steady measure, every newcomer to the
@@ -7895,6 +8367,7 @@ with the fingers of hands long since still, and wet with the tears of
 eyes long since closed, holding the simple annals of the family and
 the heart and the conscience of the home.
 ```
+
 ```
 Outside, there stood my friend, the master, a simple, upright man,
 with no mortgage on his roof, no lien on his growing crops, master
@@ -7902,6 +8375,7 @@ of his land and master of himself. There was his old father, an aged,
 trembling man, but happy in the heart and home of his son. And as
 they started to their home, the hands of the old man went down on
 ```
+
 the young man's shoulder, laying there the unspeakable blessing of
 the honored and grateful father and ennobling it with the knighthood
 of the fifth commandment.
@@ -7977,6 +8451,7 @@ green shutters at the inn at Burford.
 ```
 —R.L. STEVENSON, A Gossip on Romance.
 ```
+
 _FROM "MIDNIGHT IN LONDON"_
 
 Clang! Clang! Clang! the fire-bells! Bing! Bing! Bing! the alarm! In
@@ -8074,6 +8549,7 @@ hangs over the ruins like a formidable, blackened pall.
 ```
 And the noon of night is passed.—ARDENNES JONES-FOSTER.
 ```
+
 QUESTIONS AND ANSWERS
 
 [^1]:. Write two paragraphs on one of these: the race horse, the motor boat, golfing,
@@ -8118,6 +8594,7 @@ between two jutting heights of collar, serene and whiskerless before
 you. It seemed to say, on the part of Mr. Pecksniff, "There is no
 deception, ladies and gentlemen, all is peace, a holy calm pervades
 ```
+
 ```
 me." So did his hair, just grizzled with an iron gray, which was all
 brushed off his forehead, and stood bolt upright, or slightly drooped
@@ -8127,9 +8604,11 @@ was soft and oily. In a word, even his plain black suit, and state of
 widower, and dangling double eye-glass, all tended to the same
 purpose, and cried aloud, "Behold the moral Pecksniff!"
 ```
+
 ```
 —CHARLES DICKENS, Martin Chuzzlewit.
 ```
+
 [^1]:[^3]:. Which of the following do you prefer, and why?
 
 ```
@@ -8137,17 +8616,21 @@ She was a blooming lass of fresh eighteen, plump as a partridge, ripe
 and melting and rosy-cheeked as one of her father's peaches.
 —IRVING.
 ```
+
 ```
 She was a splendidly feminine girl, as wholesome as a November
 pippin, and no more mysterious than a window-pane.
 ```
+
 ```
 —O. HENRY.
 ```
+
 ```
 Small, shining, neat, methodical, and buxom was Miss Peecher;
 cherry-cheeked and tuneful of voice.—DICKENS.
 ```
+
 [^1]:[^4]:. Invent five epithets, and apply them as you choose (p. [^2]:[^3]:[^5]:).
 
 [^1]:[^5]:. (_a_) Make a list of five figures of speech; (_b_) define them; (_c_) give an example
@@ -8184,6 +8667,7 @@ may have heard recently.
 ```
 FOOTNOTES:
 ```
+
 ```
 [19] Writing the Short-Story, J. Berg Esenwein.
 [20] For fuller treatment of Description see Genung's Working Principles of Rhetoric,
@@ -8194,12 +8678,15 @@ pp. 28-35; and Writing the Short-Story, J. Berg Esenwein, pp. 152-162; 231-240.
 [22] In the Military College of Modena.
 [23] This figure of speech is known as "Vision."
 ```
+
 ```
 CHAPTER XXI
 ```
+
 ```
 INFLUENCING BY NARRATION
 ```
+
 ```
 The art of narration is the art of writing in hooks and eyes. The
 principle consists in making the appropriate thought follow the
@@ -8207,10 +8694,12 @@ appropriate thought, the proper fact the proper fact; in first preparing
 the mind for what is to come, and then letting it come.—WALTER
 BAGEHOT, Literary Studies.
 ```
+
 ```
 Our very speech is curiously historical. Most men, you may observe,
 speak only to narrate; not in imparting what they have thought,
 ```
+
 ```
 which indeed were often a very small matter, but in exhibiting what
 they have undergone or seen, which is a quite unlimited one, do
@@ -8220,6 +8709,7 @@ handfuls, and among the foolish utterly evaporate! Thus, as we do
 nothing but enact History, we say little but recite it.—THOMAS
 CARLYLE, On History.
 ```
+
 Only a small segment of the great field of narration offers its resources to the
 public speaker, and that includes the anecdote, biographical facts, and the
 narration of events in general.
@@ -8297,6 +8787,7 @@ Two solemn-looking gentlemen were riding together in a railway
 carriage. One gentleman said to the other: "Is your wife entertaining
 this summer?" Whereupon the other gentleman replied: "Not very."
 ```
+
 Other anecdotes need harnessing to the particular truth the speaker wishes to
 carry along in his talk. Sometimes the application is made before the story is told
 and the audience is prepared to make the comparison, point by point, as the
@@ -8310,6 +8801,7 @@ new things to be despised. The shoemaker who put over his door,
 young rival across the street who hung out this sign: "Bill Jones.
 Established 1886. No old stock kept in this shop."
 ```
+
 In two anecdotes, told also in "The New South," Mr. Grady illustrated another
 way of enforcing the application: in both instances he split the idea he wished to
 drive home, bringing in part before and part after the recital of the story. The fact
@@ -8324,12 +8816,15 @@ tripping on the top step, fell, with such casual interruptions as the
 landings afforded, into the basement, and, while picking himself up,
 had the pleasure of hearing his wife call out:
 ```
+
 ```
 "John, did you break the pitcher?
 ```
+
 ```
 "No, I didn't," said John, "but I be dinged if I don't."
 ```
+
 ```
 So, while those who call to me from behind may inspire me with
 energy, if not with courage, I ask an indulgent hearing from you. I
@@ -8344,6 +8839,7 @@ hundred and forty cubits long, forty cubits wide, built of gopher
 wood, and covered with pitch inside and out." He was naturally
 puzzled at this. He read it again, verified it, and then said, "My
 ```
+
 ```
 friends, this is the first time I ever met this in the Bible, but I accept
 it as an evidence of the assertion that we are fearfully and
@@ -8351,6 +8847,7 @@ wonderfully made." If I could get you to hold such faith to-night, I
 could proceed cheerfully to the task I otherwise approach with a
 sense of consecration.
 ```
+
 Now and then a speaker will plunge without introduction into an anecdote,
 leaving the application to follow. The following illustrates this method:
 
@@ -8362,14 +8859,17 @@ buckets. The darky listened, with his head on one side until the
 rocketing echo had quite died away. Then he heaved a deep sigh and
 remarked to himself:
 ```
+
 ```
 "Dar she go. Dinner time for some folks—but jes' 12 o'clock fur
 me!"
 ```
+
 ```
 That is the situation in thousands of American factories, large and
 small, today. And why? etc., etc.
 ```
+
 Doubtless the most frequent platform use of the anecdote is in the pulpit. The
 sermon "illustration," however, is not always strictly narrative in form, but tends
 to extended comparison, as the following from Dr. Alexander Maclaren:
@@ -8391,11 +8891,13 @@ your washing, or the water, that will clean you? Wash and be clean!
 Naaman's cleaning was only a test of his obedience, and a token that
 it was God who cleansed him. There was no power in Jordan's
 ```
+
 ```
 waters to take away the taint of leprosy. Our cleansing is in that
 blood of Jesus Christ that has the power to take away all sin, and to
 make the foulest amongst us pure and clean.
 ```
+
 One final word must be said about the introduction to the anecdote. A clumsy,
 inappropriate introduction is fatal, whereas a single apt or witty sentence will
 kindle interest and prepare a favorable hearing. The following extreme
@@ -8408,11 +8910,13 @@ fall of 1905 (or it may have been 1906), when I was visiting Boston
 —at least, I think it was Boston; it may have been Washington (my
 memory is so bad).
 ```
+
 ```
 I happened to run across a most amusing man whose name I forget
 —Williams or Wilson or Wilkins; some name like that—and he told
 me this story while we were waiting for a trolley car.
 ```
+
 ```
 I can still remember how heartily I laughed at the time; and again,
 that evening, after I had gone to bed, how I laughed myself to sleep
@@ -8421,6 +8925,7 @@ quite extraordinarily funny. In fact, I can truthfully affirm that it is
 quite the most amusing story I have ever had the privilege of
 hearing. Unfortunately, I've forgotten it.
 ```
+
 _Biographical Facts_
 
 Public speaking has much to do with personalities; naturally, therefore, the
@@ -8436,10 +8941,12 @@ chain:
 ```
 MARIUS IN PRISON
 ```
+
 ```
 The peculiar sublimity of the Roman mind does not express itself,
 nor is it at all to be sought, in their poetry. Poetry, according to the
 ```
+
 ```
 Roman ideal of it, was not an adequate organ for the grander
 movements of the national mind. Roman sublimity must be looked
@@ -8455,6 +8962,7 @@ Roman countenance and in a soldier's attitude. If this had an
 imperatorial—what follows had a consular majesty, and is almost
 the grandest story upon record.
 ```
+
 ```
 Marius, the man who rose to be seven times consul, was in a
 dungeon, and a slave was sent in with commission to put him to
@@ -8477,9 +8985,11 @@ ground—turned round upon his hands and feet—and, crawling out
 of the prison like any other vermin, left Marius standing in solitude
 as steadfast and immovable as the capitol.
 ```
+
 ```
 —THOMAS DE QUINCY.
 ```
+
 Here is a similar example, prefaced by a general historical statement and
 concluding with autobiographical details:
 
@@ -8532,6 +9042,7 @@ Obedience to God." I keep them both "Sacred to Liberty and the
 Rights of Mankind," to use them both "In the Sacred Cause of God
 and my Country."—THEODORE PARKER.
 ```
+
 _Narration of Events in General_
 
 In this wider, emancipated narration we find much mingling of other forms of
@@ -8559,6 +9070,7 @@ Newman, to show lanterns from the belfry of the Old North Church
 —"One if by land, and two if by sea"—as a signal of the march of
 the British.
 ```
+
 The following, from the same oration, beautifully mingles description with
 narration:
 
@@ -8569,6 +9081,7 @@ waved in the fields, and the air was sweet with the blossoming
 orchards. Already the robins whistled, the bluebirds sang, and the
 benediction of peace rested upon the landscape. Under the cloudless
 ```
+
 ```
 moon the soldiers silently marched, and Paul Revere swiftly rode,
 galloping through Medford and West Cambridge, rousing every
@@ -8576,12 +9089,14 @@ house as he went spurring for Lexington and Hancock and Adams,
 and evading the British patrols who had been sent out to stop the
 news.
 ```
+
 In the succeeding extract from another of Mr. Curtis's addresses, we have a free
 use of allegory as illustration:
 
 ```
 THE LEADERSHIP OF EDUCATED MEN
 ```
+
 ```
 There is a modern English picture which the genius of Hawthorne
 might have inspired. The painter calls it, "How they met
@@ -8612,6 +9127,7 @@ as they fondly believe, are whispering to yonder maids; it is your
 younger selves who, in the days that are no more, are murmuring to
 the fairest mothers and grandmothers of those maids.
 ```
+
 ```
 Happy the worn and weary man and woman in the picture could
 they have felt their older eyes still glistening with that earlier light,
@@ -8621,12 +9137,15 @@ whatever left undone, if, returning to the home of our earlier years,
 we bring with us the illimitable hope, the unchilled resolution, the
 inextinguishable faith of youth.
 ```
+
 ```
 —GEORGE WILLIAM CURTIS.
 ```
+
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Clip from any source ten anecdotes and state what truths they may be used to
 illustrate.
 
@@ -8667,12 +9186,15 @@ pathos?
 ```
 [24] How to Attract and Hold an Audience, J. Berg Esenwein.
 ```
+
 ```
 CHAPTER XXII
 ```
+
 ```
 INFLUENCING BY SUGGESTION
 ```
+
 ```
 Sometimes the feeling that a given way of looking at things is
 undoubtedly correct prevents the mind from thinking at all.... In
@@ -8685,9 +9207,11 @@ not designed to be in conflict, and so long as any one of them is not
 perverted or allowed to run to excess, it necessarily aids and
 strengthens the others in their normal functions.
 ```
+
 ```
 —NATHAN C. SCHAEFFER, Thinking and Learning to Think.
 ```
+
 When we weigh, compare, and decide upon the value of any given ideas, we
 reason; when an idea produces in us an opinion or an action, without first being
 subjected to deliberation, we are moved by suggestion.
@@ -8855,6 +9379,7 @@ of the little maid, who, bidden to learn to swim, was yet adjured,
 "Now, go, my darling; hang your clothes on a hickory limb, and
 don't go near the water."
 ```
+
 ```
 The stoutest apostle of the Church, they say, is the missionary, and
 the missionary, wherever he unfurls his flag, will never find himself
@@ -8868,6 +9393,7 @@ misunderstanding and estrangement; if these may be counted to
 steady undisciplined speech and to strengthen an untried arm—then,
 sir, I shall find the courage to proceed.
 ```
+
 Note also Mr. Bryan's attempt to secure the confidence of his audience in the
 following introduction to his "Cross of Gold" speech delivered before the
 National Democratic Convention in Chicago, [^1]:[^8]:[^9]:[^6]:. He asserts his own inability
@@ -8886,6 +9412,7 @@ citizen in all the land, when clad in the armor of a righteous cause, is
 stronger than all the hosts of error. I come to speak to you in defense
 of a cause as holy as the cause of liberty—the cause of humanity.
 ```
+
 Some speakers are able to beget confidence by their very manner, while others
 can not.
 
@@ -8931,54 +9458,66 @@ Note the utter assurance in these selections:
 I know not what course others may take, but as for me give me
 liberty or give me death.—PATRICK HENRY.
 ```
+
 ```
 I ne'er will ask ye quarter, and I ne'er will be
 your slave;
 But I'll swim the sea of slaughter, till I sink
 beneath its wave.
 ```
+
 ```
 —PATTEN.
 ```
+
 ```
 Come one, come all. This rock shall fly
 From its firm base as soon as I.
 ```
+
 ```
 —SIR WALTER SCOTT
 ```
+
 ```
 INVICTUS
 ```
+
 ```
 Out of the night that covers me,
 Black as the pit from pole to pole,
 I thank whatever Gods may be
 For my unconquerable soul.
 ```
+
 ```
 In the fell clutch of circumstance
 ```
+
 ```
 I have not winced nor cried aloud;
 Under the bludgeonings of chance
 My head is bloody, but unbowed.
 ```
+
 ```
 Beyond this place of wrath and tears
 Looms but the Horror of the shade,
 And yet the menace of the years
 Finds and shall find me unafraid.
 ```
+
 ```
 It matters not how strait the gate,
 How charged with punishments the scroll,
 I am the master of my fate;
 I am the captain of my soul.
 ```
+
 ```
 —WILLIAM ERNEST HENLEY.
 ```
+
 _Authority is a factor in suggestion._ We generally accept as truth, and without
 criticism, the words of an authority. When he speaks, contradictory ideas rarely
 arise in the mind to inhibit the action he suggests. A judge of the Supreme Court
@@ -9034,6 +9573,7 @@ foods, but losing his digestion. He adds that the modern white slave
 traffic, orphan asylums, and tenement house life in factory towns,
 make a black page in the history of the twentieth century.
 ```
+
 ```
 Professor Wallace's views are reinforced by the report of the
 commission of Parliament on the causes of the deterioration of the
@@ -9047,13 +9587,16 @@ that the flood of immigration means a Niagara of muddy waters
 fouling the pure springs of American life. In his address in New
 Haven Professor Kellogg calls the roll of the signs of race
 ```
+
 ```
 degeneracy and tells us that this deterioration even indicates a trend
 toward race extinction.
 ```
+
 ```
 —NEWELL DWIGHT HILLIS.
 ```
+
 ```
 From every side come warnings to the American people. Our
 medical journals are filled with danger signals; new books and
@@ -9068,9 +9611,11 @@ than with them, and tell them, as he did, that the issue of money is a
 function of government, and that the banks ought to go out of the
 governing business.
 ```
+
 ```
 —WILLIAM JENNINGS BRYAN.
 ```
+
 Authority is the great weapon against doubt, but even its force can rarely prevail
 against prejudice and persistent wrong-headedness. If any speaker has been able
 to forge a sword that is warranted to piece such armor, let him bless humanity by
@@ -9118,9 +9663,11 @@ The war is actually begun. The next gale that sweeps from the North
 will bring to our ears the clash of resounding arms. Our brethren are
 already in the field. Why stand ye here idle?
 ```
+
 ```
 —PATRICK HENRY.
 ```
+
 ```
 With a zeal approaching the zeal which inspired the Crusaders who
 followed Peter the Hermit, our silver Democrats went forth from
@@ -9136,9 +9683,11 @@ contest been waged, and we have assembled here under as binding
 and solemn instructions as were ever imposed upon representatives
 of the people.
 ```
+
 ```
 —WILLIAM JENNINGS BRYAN.
 ```
+
 _Figurative and indirect language has suggestive force_, because it does not make
 statements that can be directly disputed. It arouses no contradictory ideas in the
 minds of the audience, thereby fulfilling one of the basic requisites of
@@ -9161,6 +9710,7 @@ Waterloo. Not only that, but as he listens he can hear with ever-
 increasing distinctness the sound of the waves as they beat upon the
 lonely shores of St. Helena.
 ```
+
 Had Thomas Carlyle said: "A false man cannot found a religion," his words
 would have been neither so suggestive nor so powerful, nor so long remembered
 as his implication in these striking words:
@@ -9175,6 +9725,7 @@ conform himself to Nature's laws, be verily in communion with
 Nature and the truth of things, or Nature will answer him, No, not at
 all!
 ```
+
 Observe how the picture that Webster draws here is much more emphatic and
 forceful than any mere assertion could be:
 
@@ -9184,6 +9735,7 @@ my alma mater surrounded, like Caesar in the senate house, by those
 who are reiterating stab after stab, I would not for this right hand
 have her turn to me and say, "And thou, too, my son!"—WEBSTER.
 ```
+
 A speech should be built on sound logical foundations, and no man should dare
 to speak in behalf of a fallacy. Arguing a subject, however, will necessarily
 arouse contradictory ideas in the mind of your audience. When immediate action
@@ -9193,6 +9745,7 @@ both are judiciously mixed, the effect is irresistible.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Make an outline, or brief, of the contents of this chapter.
 
 [^2]:. Revise the introduction to any of your written addresses, with the teachings of
@@ -9226,9 +9779,11 @@ suggestive style.
 ```
 CHAPTER XXIII
 ```
+
 ```
 INFLUENCING BY ARGUMENT
 ```
+
 ```
 Common sense is the common sense of mankind. It is the product of
 common observation and experience. It is modest, plain, and
@@ -9238,9 +9793,11 @@ and no mysteries. It never equivocates, and never trifles. Its
 language is always intelligible. It is known by clearness of speech
 and singleness of purpose.
 ```
+
 ```
 —GEORGE JACOB HOLYOAKE, Public Speaking and Debate.
 ```
+
 The very name of logic is awesome to most young speakers, but so soon as they
 come to realize that its processes, even when most intricate, are merely technical
 statements of the truths enforced by common sense, it will lose its terrors. In
@@ -9283,6 +9840,7 @@ I. THE QUESTION UNDER DISCUSSION
 ```
 1. Is it clearly stated?
 ```
+
 (_a_) Do the terms of statement mean the same to each
 disputant? (For example, the meaning of the term "gentleman" may not
 be mutually agreed upon.)
@@ -9290,117 +9848,149 @@ be mutually agreed upon.)
 ```
 (b) Is confusion likely to arise as to its purpose?
 ```
+
 ```
 2. Is it fairly stated?
 ```
+
 ```
 (a) Does it include enough?
 ```
+
 ```
 (b) Does it include too much?
 ```
+
 ```
 (c) Is it stated so as to contain a trap?
 ```
+
 ```
 3. Is it a debatable question?
 ```
+
 ```
 4. What is the pivotal point in the whole question?
 ```
+
 ```
 5. What are the subordinate points?
 ```
+
 II. THE EVIDENCE
 
 ```
 1. The witnesses as to facts
 ```
+
 (_a_) Is each witness impartial? What is his relation to the
 subject at issue?
 
 ```
 (b) Is he mentally competent?
 ```
+
 ```
 (c) Is he morally credible?
 ```
+
 (_d_) Is he in a position to know the facts? Is he an
 eye-witness?
 
 ```
 (e) Is he a willing witness?
 ```
+
 ```
 (f) Is his testimony contradicted?
 ```
+
 ```
 (g) Is his testimony corroborated?
 ```
+
 (_h_) Is his testimony contrary to well-known facts or general
 principles?
 
 ```
 (i) Is it probable?
 ```
+
 ```
 2. The authorities cited as evidence
 ```
+
 ```
 (a) Is the authority well-recognized as such?
 ```
+
 ```
 (b) What constitutes him an authority?
 ```
+
 ```
 (c) Is his interest in the case an impartial one?
 ```
+
 ```
 (d) Does he state his opinion positively and clearly?
 ```
+
 (_e_) Are the non-personal authorities cited (books, etc.)
 reliable and unprejudiced?
 
 ```
 3. The facts adduced as evidence
 ```
+
 ```
 (a) Are they sufficient in number to constitute proof?
 ```
+
 ```
 (b) Are they weighty enough in character?
 ```
+
 ```
 (c) Are they in harmony with reason?
 ```
+
 ```
 (d) Are they mutually harmonious or contradictory?
 ```
+
 ```
 (e) Are they admitted, doubted, or disputed?
 ```
+
 ```
 4. The principles adduced as evidence
 ```
+
 ```
 (a) Are they axiomatic?
 ```
+
 ```
 (b) Are they truths of general experience?
 ```
+
 ```
 (c) Are they truths of special experience?
 ```
+
 ```
 (d) Are they truths arrived at by experiment?
 Were such experiments special or general?
 Were the experiments authoritative and conclusive?
 ```
+
 III. THE REASONING
 
 ```
 1. Inductions
 ```
+
 (_a_) Are the facts numerous enough to warrant accepting the
 generalization as being conclusive?
 
@@ -9410,6 +10000,7 @@ light of this explanation as a conclusion?
 ```
 (c) Have you overlooked any contradictory facts?
 ```
+
 (_d_) Are the contradictory facts sufficiently explained when
 this inference is accepted as true?
 
@@ -9419,12 +10010,15 @@ untenable?
 ```
 (f) Have you accepted mere opinions as facts?
 ```
+
 ```
 2. Deductions
 ```
+
 ```
 (a) Is the law or general principle a well-established one?
 ```
+
 (_b_) Does the law or principle clearly include the fact you
 wish to deduce from it, or have you strained the inference?
 
@@ -9434,24 +10028,29 @@ important an inference?
 ```
 (d) Can the deduction be shown to prove too much?
 ```
+
 ```
 3. Parallel cases
 ```
+
 (_a_) Are the cases parallel at enough points to warrant an
 inference of similar cause or effect?
 
 ```
 (b) Are the cases parallel at the vital point at issue?
 ```
+
 ```
 (c) Has the parallelism been strained?
 ```
+
 (_d_) Are there no other parallels that would point to a
 stronger contrary conclusion?
 
 ```
 4. Inferences
 ```
+
 (_a_) Are the antecedent conditions such as would make the
 allegation probable? (Character and opportunities of the accused, for
 example.)
@@ -9462,12 +10061,15 @@ or numerous enough to warrant its acceptance as fact?
 ```
 (c) Are the signs cumulative, and agreeable one with the other?
 ```
+
 ```
 (d) Could the signs be made to point to a contrary conclusion?
 ```
+
 ```
 5. Syllogisms
 ```
+
 (_a_) Have any steps been omitted in the syllogisms?
 (Such as in a syllogism _in enthymeme_.) If so, test any such by
 filling out the syllogisms.
@@ -9481,6 +10083,7 @@ does not follow? (A _non sequitur_.)
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Show why an unsupported assertion is not an argument.
 
 [^2]:. Illustrate how an irrelevant fact may be made to seem to support an argument.
@@ -9504,6 +10107,7 @@ desist from drinking alcoholic beverages. Under efforts directed by
 the Government the British Army is fast becoming an army of total
 abstainers.
 ```
+
 ```
 The Governments of continental Europe followed the lead of the
 British Government. The French Government has placarded France
@@ -9516,6 +10120,7 @@ undertaken to eliminate even the drinking of beer, so far as possible,
 from the German Army and Navy.—RICHMOND PEARSON HOBSON,
 Before the U.S. Congress.
 ```
+
 [^4]:. Since the burden of proof lies on him who attacks a position, or argues for a
 change in affairs, how would his opponent be likely to conduct his own part of a
 debate?
@@ -9531,6 +10136,7 @@ Men ought not to smoke tobacco, because to do so is contrary to best
 medical opinion. My physician has expressly condemned the
 practise, and is a medical authority in this country.
 ```
+
 [^7]:. Criticise this reasoning:
 
 ```
@@ -9540,6 +10146,7 @@ to the Moral Law because it is contrary to the Scriptures. It is
 contrary to the Scriptures because it is contrary to the will of God,
 and we know it is contrary to God's will because it is wrong.
 ```
+
 [^8]:. Criticise this syllogism:
 
 ```
@@ -9547,14 +10154,17 @@ MAJOR PREMISE: All men who have no cares are happy.
 MINOR PREMISE: Slovenly men are careless.
 CONCLUSION: Therefore, slovenly men are happy.
 ```
+
 [^9]:. Criticise the following major, or foundation, premises:
 
 ```
 All is not gold that glitters.
 ```
+
 ```
 All cold may be expelled by fire.
 ```
+
 [^1]:[^0]:. Criticise the following fallacy (_non sequitur_):
 
 ```
@@ -9562,17 +10172,20 @@ MAJOR PREMISE: All strong men admire strength.
 MINOR PREMISE: This man is not strong.
 CONCLUSION: Therefore this man does not admire strength.
 ```
+
 [^1]:[^1]:. Criticise these statements:
 
 ```
 Sleep is beneficial on account of its soporific qualities.
 ```
+
 ```
 Fiske's histories are authentic because they contain accurate
 accounts of American history, and we know that they are true
 accounts for otherwise they would not be contained in these
 authentic works.
 ```
+
 [^1]:[^2]:. What do you understand from the terms "reasoning from effect to cause" and
 "from cause to effect?" Give examples.
 
@@ -9583,6 +10196,7 @@ What is the police power of the States? The police power of the
 Federal Government or the State—any sovereign State—has been
 defined. Take the definition given by Blackstone, which is:
 ```
+
 ```
 The due regulation and domestic order of the Kingdom, whereby the
 inhabitants of a State, like members of a well-governed family, are
@@ -9590,23 +10204,28 @@ bound to conform their general behavior to the rules of propriety, of
 neighborhood and good manners, and to be decent, industrious, and
 inoffensive in their respective stations.
 ```
+
 ```
 Would this amendment interfere with any State carrying on the
 promotion of its domestic order?
 ```
+
 ```
 Or you can take the definition in another form, in which it is given
 by Mr. Tiedeman, when he says:
 ```
+
 ```
 The object of government is to impose that degree of restraint upon
 human actions which is necessary to a uniform, reasonable
 enjoyment of private rights. The power of the government to impose
 this restraint is called the police power.
 ```
+
 ```
 Judge Cooley says of the liquor traffic:
 ```
+
 ```
 The business of manufacturing and selling liquor is one that affects
 the public interests in many ways and leads to many disorders. It has
@@ -9614,12 +10233,15 @@ a tendency to increase pauperism and crime. It renders a large force
 of peace officers essential, and it adds to the expense of the courts
 and of nearly all branches of civil administration.
 ```
+
 ```
 Justice Bradley, of the United States Supreme Court, says:
 ```
+
 ```
 Licenses may be properly required in the pursuit of many
 ```
+
 ```
 professions and avocations, which require peculiar skill and training
 or supervision for the public welfare. The profession or avocation is
@@ -9631,6 +10253,7 @@ industrial pursuits, are and ought to be free and open to all, subject
 only to such general regulations, applying equally to all, as the
 general good may demand.
 ```
+
 ```
 All such regulations are entirely competent for the legislature to
 make and are in no sense an abridgment of the equal rights of
@@ -9638,6 +10261,7 @@ citizens. But a license to do that which is odious and against
 common right is necessarily an outrage upon the equal rights of
 citizens.
 ```
+
 [^1]:[^4]:. What method did Jesus employ in the following:
 
 ```
@@ -9645,11 +10269,13 @@ Ye are the salt of the earth; but if the salt have lost his savour,
 wherewith shall it be salted? It is thenceforth good for nothing but to
 be cast out, and to be trodden under foot of men.
 ```
+
 ```
 Behold the fowls of the air; for they sow not, neither do they reap
 nor gather into barns; yet your heavenly Father feedeth them. Are ye
 not much better than they?
 ```
+
 ```
 And why take ye thought for raiment? Consider the lilies of the
 field; how they grow; they toil not, neither do they spin; And yet I
@@ -9658,6 +10284,7 @@ one of these. Wherefore, if God so clothe the grass of the field,
 which today is, and tomorrow is cast into the oven, shall he not
 much more clothe you, O ye of little faith?
 ```
+
 ```
 Or what man is there of you, whom if his son ask bread, will he give
 him a stone? Or if he ask a fish, will he give him a serpent? If ye
@@ -9665,6 +10292,7 @@ then, being evil, know how to give good gifts unto your children,
 how much more shall your Father which is in heaven give good
 things to them that ask him?
 ```
+
 [^1]:[^5]:. Make five original syllogisms[[^2][^6]] on the following models:
 
 ```
@@ -9672,10 +10300,12 @@ MAJOR PREMISE: He who administers arsenic gives poison. MINOR
 PREMISE: The prisoner administered arsenic to the victim.
 CONCLUSION: Therefore the prisoner is a poisoner.
 ```
+
 ```
 MAJOR PREMISE: All dogs are quadrupeds. MINOR PREMISE: This
 animal is a biped. CONCLUSION: Therefore this animal is not a dog.
 ```
+
 [^1]:[^6]:. Prepare either the positive or the negative side of the following question for
 debate: _The recall of judges should be adopted as a national principle_.
 
@@ -9712,48 +10342,60 @@ BRIEF OF AFFIRMATIVE ARGUMENT
 ```
 First speaker—Chafee
 ```
+
 Armed intervention for collection of private claims from any American
 nation is not justifiable, for
 
 ```
 1. It is wrong in principle, because
 ```
+
 (_a_) It violates the fundamental principles of international law for a
 very slight cause
 
 ```
 (b) It is contrary to the proper function of the State, and
 ```
+
 ```
 (c) It is contrary to justice, since claims are exaggerated.
 ```
+
 ```
 Second speaker—Hurley
 ```
+
 ```
 2. It is disastrous in its results, because
 ```
+
 ```
 (a) It incurs danger of grave international complications
 ```
+
 (_b_) It tends to increase the burden of debt in the South American
 republics
 
 ```
 (c) It encourages a waste of the world's capital, and
 ```
+
 ```
 (d) It disturbs peace and stability in South America.
 ```
+
 ```
 Third speaker—Bruce
 ```
+
 ```
 3. It is unnecessary to collect in this way, because
 ```
+
 ```
 (a) Peaceful methods have succeeded
 ```
+
 (_b_) If these should fail, claims should be settled by The Hague
 Tribunal
 
@@ -9768,6 +10410,7 @@ BRIEF OF NEGATIVE ARGUMENT
 ```
 First speaker—Branch
 ```
+
 Armed intervention for the collection of private financial claims
 against some American States is justifiable, for
 
@@ -9777,46 +10420,56 @@ _against any nation is essentially proper_, because
 ```
 (a) Justice should always be secured
 ```
+
 ```
 (b) Non-enforcement of payment puts a premium on dishonesty
 ```
+
 (_c_) Intervention for this purpose is sanctioned by the best
 international authority
 
 ```
 (d) Danger of undue collection is slight and can be avoided entirely by
 ```
+
 submission of claims to The Hague Tribunal before intervening.
 
 ```
 Second speaker—Stone
 ```
+
 [^2]:. _Armed intervention is necessary to secure justice in tropical_
 _America_, for
 
 ```
 (a) The governments of this section constantly repudiate just debts
 ```
+
 (_b_) They insist that the final decision about claims shall rest with
 their own corrupt courts
 
 ```
 (c) They refuse to arbitrate sometimes.
 ```
+
 ```
 Third speaker—Dennett
 ```
+
 [^3]:. _Armed intervention is beneficial in its results_, because
 
 ```
 (a) It inspires responsibility
 ```
+
 ```
 (b) In administering custom houses it removes temptation to revolutions
 ```
+
 ```
 (c) It gives confidence to desirable capital.
 ```
+
 Among others, the following books were used in the preparation of the
 arguments:
 
@@ -9826,28 +10479,35 @@ N. "The Monroe Doctrine," by T.B. Edgington. Chapters [^2]:[^2]:-[^2]:[^8]:.
 ```
 proceedings before Hague Tribunal in 1903.
 ```
+
 ```
 "Statesman's Year Book" (for statistics).
 ```
+
 A. Minister Drago's appeal to the United States, in Foreign
 
 ```
 Relations of United States, 1903.
 ```
+
 ```
 President Roosevelt's Message, 1905, pp. 33-37.
 ```
+
 And articles in the following magazines (among many others):
 
 ```
 "Journal of Political Economy," December, 1906.
 ```
+
 ```
 "Atlantic Monthly," October, 1906.
 ```
+
 ```
 "North American Review," Vol. 183, p. 602.
 ```
+
 All of these contain material valuable for both sides, except those marked "N"
 and "A," which are useful only for the negative and affirmative, respectively.
 
@@ -9869,6 +10529,7 @@ be a greater social evil than one of $[^5]:[^0]:[^0]:,[^0]:[^0]:[^0]:,000
 ```
 2. Danger of wealth depends on its wrong accumulation and use
 ```
+
 [^3]:. _Inheritance tax will not prevent rebates, monopoly,_
 _discrimination, bribery, etc._
 
@@ -9880,15 +10541,18 @@ B. It would be evaded
 ```
 1. Low rates are evaded
 ```
+
 ```
 2. Rate must be high to result in distribution of great fortunes.
 ```
+
 [^2]:[^6]:. Class exercises: Mock Trial for (_a_) some serious political offense; (_b_) a
 burlesque offense.
 
 ```
 FOOTNOTES:
 ```
+
 ```
 [25] McCosh's Logic is a helpful volume, and not too technical for the beginner. A
 brief digest of logical principles as applied to public speaking is contained in How to
@@ -9907,35 +10571,43 @@ the members of that class."
 in debate with the Dartmouth College team, and the negative briefs were used in
 debate with the Williams College team. From The Speaker, by permission.
 ```
+
 ```
 CHAPTER XXIV
 ```
+
 ```
 INFLUENCING BY PERSUASION
 ```
+
 ```
 She hath prosperous art
 When she will play with reason and discourse,
 And well she can persuade.
 ```
+
 ```
 —SHAKESPEARE, Measure for Measure.
 ```
+
 ```
 Him we call an artist who shall play on an assembly of men as a
 master on the keys of a piano,—who seeing the people furious, shall
 soften and compose them, shall draw them, when he will, to laughter
 and to tears. Bring him to his audience, and, be they who they may,
 ```
+
 ```
 —coarse or refined, pleased or displeased, sulky or savage, with
 their opinions in the keeping of a confessor or with their opinions in
 their bank safes,—he will have them pleased and humored as he
 chooses; and they shall carry and execute what he bids them.
 ```
+
 ```
 —RALPH WALDO EMERSON, Essay on Eloquence.
 ```
+
 More good and more ill have been effected by persuasion than by any other form
 of speech. _It is an attempt to influence by means of appeal to some particular_
 _interest held important by the hearer._ Its motive may be high or low, fair or
@@ -9972,6 +10644,7 @@ sheaves with them, in the shape of other thousands of sick and
 wounded and insane to drag out miserable lives, wrecked in body
 and mind. You make the American flag in the eyes of a numerous
 ```
+
 ```
 people the emblem of sacrilege in Christian churches, and of the
 burning of human dwellings, and of the horror of the water torture.
@@ -9983,6 +10656,7 @@ and soldiers are humane. But in some cases they have carried on
 your warfare with a mixture of American ingenuity and Castilian
 cruelty.
 ```
+
 ```
 Your practical statesmanship has succeeded in converting a people
 who three years ago were ready to kiss the hem of the garment of the
@@ -9991,6 +10665,7 @@ your men, when they landed on those islands, with benediction and
 gratitude, into sullen and irreconcilable enemies, possessed of a
 hatred which centuries cannot eradicate.
 ```
+
 ```
 Mr. President, this is the eternal law of human nature. You may
 struggle against it, you may try to escape it, you may persuade
@@ -10000,6 +10675,7 @@ Government without the consent of the governed—authority which
 heaven never gave—can only be supported by means which heaven
 never can sanction.
 ```
+
 ```
 The American people have got this one question to answer. They
 may answer it now; they can take ten years, or twenty years, or a
@@ -10009,6 +10685,7 @@ brute force of arms, the right to hold in subjugation an unwilling
 people, and to impose on them such constitution as you, and not
 they, think best for them?
 ```
+
 Senator Hoar then went on to make another sort of appeal—the appeal to fact
 and experience:
 
@@ -10018,6 +10695,7 @@ fathers answered it in 1776, and founded the Republic upon their
 answer, which has been the corner-stone. John Quincy Adams and
 James Monroe answered it again in the Monroe Doctrine, which
 ```
+
 ```
 John Quincy Adams declared was only the doctrine of the consent of
 the governed. The Republican party answered it when it took
@@ -10030,9 +10708,11 @@ be. You answered it again yourselves when you said that Cuba, who
 had no more title than the people of the Philippine Islands had to
 their independence, of right ought to be free and independent.
 ```
+
 ```
 —GEORGE F. HOAR.
 ```
+
 Appeal to the things that man holds dear is another potent form of persuasion.
 
 Joseph Story, in his great Salem speech ([^1]:[^8]:[^2]:[^8]:) used this method most
@@ -10046,6 +10726,7 @@ encroachment upon your liberties, resist every attempt to fetter your
 consciences, or smother your public schools, or extinguish your
 system of public instruction.
 ```
+
 ```
 I call upon you, mothers, by that which never fails in woman, the
 love of your offspring; teach them, as they climb your knees, or lean
@@ -10053,18 +10734,21 @@ on your bosoms, the blessings of liberty. Swear them at the altar, as
 with their baptismal vows, to be true to their country, and never to
 forget or forsake her.
 ```
+
 ```
 I call upon you, young men, to remember whose sons you are;
 whose inheritance you possess. Life can never be too short, which
 brings nothing but disgrace and oppression. Death never comes too
 soon, if necessary in defence of the liberties of your country.
 ```
+
 ```
 I call upon you, old men, for your counsels, and your prayers, and
 your benedictions. May not your gray hairs go down in sorrow to the
 grave, with the recollection that you have lived in vain. May not
 your last sun sink in the west upon a nation of slaves.
 ```
+
 ```
 No; I read in the destiny of my country far better hopes, far brighter
 visions. We, who are now assembled here, must soon be gathered to
@@ -10076,6 +10760,7 @@ free, happy, and virtuous people. May he have reason to exult as we
 do. May he, with all the enthusiasm of truth as well as of poetry,
 exclaim, that here is still his country.—JOSEPH STORY.
 ```
+
 The appeal to prejudice is effective—though not often, if ever, justifiable; yet so
 long as special pleading endures this sort of persuasion will be resorted to.
 Rudyard Kipling uses this method—as have many others on both sides—in
@@ -10093,16 +10778,19 @@ power which, for the last twenty years, has devoted itself to
 organizing and preparing for this war; the power which is now
 fighting to conquer the civilized world.
 ```
+
 ```
 For the last two generations the Germans in their books, lectures,
 speeches and schools have been carefully taught that nothing less
 than this world-conquest was the object of their preparations and
 their sacrifices. They have prepared carefully and sacrificed greatly.
 ```
+
 ```
 We must have men and men and men, if we, with our allies, are to
 check the onrush of organized barbarism.
 ```
+
 ```
 Have no illusions. We are dealing with a strong and magnificently
 equipped enemy, whose avowed aim is our complete destruction.
@@ -10111,6 +10799,7 @@ against Russia, are only steps by the way. The German's real
 objective, as she always has told us, is England, and England's
 wealth, trade and worldwide possessions.
 ```
+
 ```
 If you assume, for an instant, that the attack will be successful,
 England will not be reduced, as some people say, to the rank of a
@@ -10118,6 +10807,7 @@ second rate power, but we shall cease to exist as a nation. We shall
 become an outlying province of Germany, to be administered with
 that severity German safety and interest require.
 ```
+
 ```
 We are against such a fate. We enter into a new life in which all the
 facts of war that we had put behind or forgotten for the last hundred
@@ -10126,17 +10816,20 @@ fathers. It will be a long and a hard road, beset with difficulties and
 discouragements, but we tread it together and we will tread it
 together to the end.
 ```
+
 ```
 Our petty social divisions and barriers have been swept away at the
 outset of our mighty struggle. All the interests of our life of six
 weeks ago are dead. We have but one interest now, and that touches
 the naked heart of every man in this island and in the empire.
 ```
+
 ```
 If we are to win the right for ourselves and for freedom to exist on
 earth, every man must offer himself for that service and that
 sacrifice.
 ```
+
 From these examples it will be seen that the particular way in which the speakers
 appealed to their hearers was _by coming close home to their interests, and by_
 _themselves showing emotion_—two very important principles which you must
@@ -10197,17 +10890,21 @@ appealed to:
 Revenge! About! Seek! Burn! Fire! Kill! Slay! Let not a traitor live!
 —SHAKESPEARE, Julius Cæsar.
 ```
+
 ```
 Strike—till the last armed foe expires,
 Strike—for your altars and your fires,
 ```
+
 ```
 Strike—for the green graves of your sires,
 God—and your native land!
 ```
+
 ```
 —FITZ-GREENE HALLECK, Marco Bozzaris.
 ```
+
 Believe, gentlemen, if it were not for those children, he would not
 come here to-day to seek such remuneration; if it were not that, by
 your verdict, you may prevent those little innocent defrauded
@@ -10226,6 +10923,7 @@ sin, and sorrow of this example!
 ```
 —CHARLES PHILLIPS, Appeal to the jury in behalf of Guthrie.
 ```
+
 So I appeal from the men in silken hose who danced to music made
 by slaves and called it freedom, from the men in bell-crown hats
 who led Hester Prynne to her shame and called it religion, to that
@@ -10249,19 +10947,23 @@ true republicanism, and true patriotism, distrust of watchwords and
 labels, shams and heroes, belief in our country and ourselves. It was
 not Cotton Mather, but John Greenleaf Whittier, who cried:
 ```
+
 ```
 Dear God and Father of us all,
 Forgive our faith in cruel lies,
 Forgive the blindness that denies.
 ```
+
 ```
 Cast down our idols—overturn
 Our Bloody altars—make us see
 Thyself in Thy humanity!
 ```
+
 ```
 —HENRY WATTERSON, Puritan and Cavalier.
 ```
+
 Goethe, on being reproached for not having written war songs against the
 French, replied, "In my poetry I have never shammed. How could I have written
 songs of hate without hatred?" Neither is it possible to plead with full efficiency
@@ -10278,6 +10980,7 @@ persuasion.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. (_a_) What elements of appeal do you find in the following? (_b_) Is it too florid?
 (_c_) Is this style equally powerful today? (_d_) Are the sentences too long and
 involved for clearness and force?
@@ -10292,6 +10995,7 @@ and marked with vengeance. If it be not, farewell to the virtues of
 your country; farewell to all confidence between man and man;
 farewell to that unsuspicious and reciprocal tenderness, without
 ```
+
 ```
 which marriage is but a consecrated curse. If oaths are to be
 violated, laws disregarded, friendship betrayed, humanity trampled,
@@ -10310,6 +11014,7 @@ the stately, and magnificent memorials, that rearing their majesty
 amid surrounding ruins, serve at once as the landmarks of the
 departed glory, and the models by which the future may be erected.
 ```
+
 ```
 Preserve those virtues with a vestal fidelity; mark this day, by your
 verdict, your horror of their profanation; and believe me, when the
@@ -10318,9 +11023,11 @@ asks it, traceless in the grave, many a happy home will bless its
 consequences, and many a mother teach her little child to hate the
 impious treason of adultery.
 ```
+
 ```
 —CHARLES PHILLIPS.
 ```
+
 [^2]:. Analyze and criticise the forms of appeal used in the selections from Hoar,
 Story, and Kipling.
 
@@ -10406,9 +11113,11 @@ widow.
 ```
 CHAPTER XXV
 ```
+
 ```
 INFLUENCING THE CROWD
 ```
+
 ```
 Success in business, in the last analysis, turns upon touching the
 imagination of crowds. The reason that preachers in this present
@@ -10419,6 +11128,7 @@ students of human nature, and have boned down harder to the art of
 touching the imaginations of the crowds.—GERALD STANLEY LEE,
 Crowds.
 ```
+
 In the early part of July, [^1]:[^9]:[^1]:[^4]:, a collection of Frenchmen in Paris, or Germans in
 Berlin, was not a crowd in a psychological sense. Each individual had his own
 special interests and needs, and there was no powerful common idea to unify
@@ -10528,6 +11238,7 @@ became a unit—a mob.
 ```
 ANTONY'S ORATION OVER CÆSAR'S BODY
 ```
+
 ```
 Friends, Romans, countrymen! Lend me your ears;
 I come to bury Cæsar, not to praise him.
@@ -10540,6 +11251,7 @@ And grievously hath Cæsar answered it.
 Here, under leave of Brutus, and the rest—
 For Brutus is an honorable man,
 ```
+
 ```
 So are they all, all honorable men—
 Come I to speak in Cæsar's funeral.
@@ -10554,6 +11266,7 @@ Ambition should be made of sterner stuff:
 Yet Brutus says, he was ambitious;
 And Brutus is an honorable man.
 ```
+
 You all did see, that, on the Lupercal,
 I thrice presented him a kingly crown,
 Which he did thrice refuse. Was this ambition?
@@ -10776,20 +11489,25 @@ We'll burn his body in the holy place,
 And with the brands fire the traitors' houses.
 Take up the body.
 ```
+
 ```
 2 Ple. Go, fetch fire.
 ```
+
 ```
 3 Ple. Pluck down benches.
 ```
+
 ```
 4 Ple. Pluck down forms, windows, anything.
 [Exeunt Citizens, with the body.
 ```
+
 ```
 Ant. Now let it work. Mischief, thou art afoot,
 Take thou what course thou wilt!
 ```
+
 To unify single, auditors into a crowd, express their common needs, aspirations,
 dangers, and emotions, deliver your message so that the interests of one shall
 appear to be the interests of all. The conviction of one man is intensified in
@@ -10801,6 +11519,7 @@ universal:
 Then I, and you, and all of us fell down,
 Whilst bloody treason flourished over us.
 ```
+
 Applause, generally a sign of feeling, helps to unify an audience. The nature of
 the crowd is illustrated by the contagion of applause. Recently a throng in a New
 York moving-picture and vaudeville house had been applauding several songs,
@@ -10873,31 +11592,39 @@ mobs—and, alas, more efficient murderers.
 ```
 FOOTNOTES:
 ```
+
 ```
 [28] Sesame and Lilies.
 ```
+
 ```
 CHAPTER XXVI
 ```
+
 ```
 RIDING THE WINGED HORSE
 ```
+
 ```
 To think, and to feel, constitute the two grand divisions of men of
 genius—the men of reasoning and the men of imagination.
 ```
+
 ```
 —ISAAC DISRAELI, Literary Character of Men of Genius.
 ```
+
 ```
 And as imagination bodies forth
 The forms of things unknown, the poet's pen
 Turns them to shapes and gives to airy nothing
 A local habitation and a name.
 ```
+
 ```
 —SHAKESPEARE, Midsummer-Night's Dream.
 ```
+
 It is common, among those who deal chiefly with life's practicalities, to think of
 imagination as having little value in comparison with direct thinking. They smile
 with tolerance when Emerson says that "Science does not know its debt to the
@@ -10916,6 +11643,7 @@ should become more apparent as we go on.
 ```
 I. WHAT IS IMAGINATION?
 ```
+
 Let us not seek for a definition, for a score of varying ones may be found, but let
 us grasp this fact: By imagination we mean either the faculty or the process of
 forming mental images.
@@ -11063,6 +11791,7 @@ be" upon the foundation of "what is."
 ```
 II. THE USES OF IMAGING IN PUBLIC SPEAKING
 ```
+
 By this time you will have already made some general application of these ideas
 to the art of the platform, but to several specific uses we must now refer.
 
@@ -11094,10 +11823,12 @@ the city man know that the grass-green goddess is upon her throne.
 He sits at his breakfast eggs and toast, begirt by stone walls, opens
 his morning paper and sees journalism leave vernalism at the post.
 ```
+
 ```
 For whereas Spring's couriers were once the evidence of our finer
 senses, now the Associated Press does the trick.
 ```
+
 ```
 The warble of the first robin in Hackensack, the stirring of the maple
 sap in Bennington, the budding of the pussy willows along the main
@@ -11114,14 +11845,17 @@ Corners—these are the advanced signs of the burgeoning season that
 are wired into the wise city, while the farmer sees nothing but winter
 upon his dreary fields.
 ```
+
 ```
 But these be mere externals. The true harbinger is the heart. When
 ```
+
 ```
 Strephon seeks his Chloe and Mike his Maggie, then only is Spring
 arrived and the newspaper report of the five foot rattler killed in
 Squire Pettregrew's pasture confirmed.
 ```
+
 A hackneyed writer would probably have said that the newspaper told the city
 man about spring before the farmer could see any evidence of it, but that the real
 harbinger of spring was love and that "In the Spring a young man's fancy lightly
@@ -11153,6 +11887,7 @@ into pictures of their own.
 ```
 III. HOW TO ACQUIRE THE IMAGING HABIT
 ```
+
 You remember the American statesman who asserted that "the way to resume is
 to resume"? The application is obvious. Beginning with the first simple analyses
 of this chapter, test your own qualities of image-making. One by one practise the
@@ -11178,6 +11913,7 @@ All in all, master your images—let not them master you.
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Give original examples of each kind of reproductive imagination.
 
 [^2]:. Build two of these into imaginary incidents for platform use, using your
@@ -11231,6 +11967,7 @@ bridge in process of building.
 ```
 The strikers suffered bitter poverty last winter in New York.
 ```
+
 ```
 Last winter a woman visiting the East Side of New York City saw
 another woman coming out of a tenement house wringing her hands.
@@ -11244,6 +11981,7 @@ month later she returned. The father of the family knelt down before
 her, and calling her an angel said that she had saved their lives, for
 the milk she had provided was all the food they had had.
 ```
+
 In the two preceding paragraphs we have substantially the same story, told twice.
 In the first paragraph we have a fact stated in general terms. In the second, we
 have an outline picture of a specific happening. Now expand this outline into a
@@ -11253,18 +11991,22 @@ dramatic recital, drawing freely upon your imagination.
 ```
 FOOTNOTES:
 ```
+
 ```
 [29] Inquiries into Human Faculty.
 [30] Consult any good rhetoric. An unabridged dictionary will also be of help.
 [31] For a full discussion of the form see, The Art of Story-Writing, by J. Berg
 Esenwein and Mary D. Chambers.
 ```
+
 ```
 CHAPTER XXVII
 ```
+
 ```
 GROWING A VOCABULARY
 ```
+
 ```
 Boys flying kites haul in their white winged birds;
 You can't do that way when you're flying words.
@@ -11274,9 +12016,11 @@ Thoughts unexpressed many sometimes fall back
 dead;
 But God Himself can't kill them when they're said.
 ```
+
 ```
 —WILL CARLETON, The First Settler's Story.
 ```
+
 The term "vocabulary" has a special as well as a general meaning. True, _all_
 vocabularies are grounded in the everyday words of the language, out of which
 grow the special vocabularies, but each such specialized group possesses a
@@ -11329,22 +12073,26 @@ again unsuccessful, and always unsuccessful; but at least in these
 vain bouts I got some practice in rhythm, in harmony, in
 construction and coördination of parts.
 ```
+
 ```
 I have thus played the sedulous ape to Hazlitt, to Lamb, to
 Wordsworth, to Sir Thomas Browne, to Defoe, to Hawthorne, to
 Montaigne.
 ```
+
 ```
 That, like it or not, is the way to learn to write; whether I have
 profited or not, that is the way. It was the way Keats learned, and
 there never was a finer temperament for literature than Keats'.
 ```
+
 ```
 It is the great point of these imitations that there still shines beyond
 the student's reach, his inimitable model. Let him try as he please, he
 is still sure of failure; and it is an old and very true saying that
 failure is the only highroad to success.
 ```
+
 _Form the Reference-Book Habit_
 
 Do not be content with your general knowledge of a word—press your study
@@ -11522,6 +12270,7 @@ he got it—and he got it. The laddie is a genius!"
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. What is the derivation of the word _vocabulary_?
 
 [^2]:. Briefly discuss any complete speech given in this volume, with reference to
@@ -11550,35 +12299,43 @@ Honest, Inherent.
 ```
 FOOTNOTES:
 ```
+
 ```
 [32] How to Attract and Hold an Audience, J. Berg Esenwein.
 [33] A book of synonyms and antonyms is in preparation for this series, "The Writer's
 Library."
 [34] Composition and Rhetoric, J.M. Hart.
 ```
+
 ```
 CHAPTER XXVIII
 ```
+
 ```
 MEMORY TRAINING
 ```
+
 ```
 Lulled in the countless chambers of the brain,
 ```
+
 ```
 Our thoughts are linked by many a hidden chain;
 Awake but one, and lo! what myriads rise!
 Each stamps its image as the other flies!
 ```
+
 ```
 Hail, memory, hail! in thy exhaustless mine
 From age to age unnumber'd treasures shine!
 Thought and her shadowy brood thy call obey,
 And Place and Time are subject to thy sway!
 ```
+
 ```
 —SAMUEL ROGERS, Pleasures of Memory.
 ```
+
 Many an orator, like Thackeray, has made the best part of his speech to himself
 —on the way home from the lecture hall. Presence of mind—it remained for
 Mark Twain to observe—is greatly promoted by absence of body. A hole in the
@@ -11788,6 +12545,7 @@ matter.
 ```
 THE REIGN OF THE COMMON PEOPLE
 ```
+
 ```
 I do not suppose that if you were to go and look upon the experiment
 of self-government in America you would have a very high opinion
@@ -11805,6 +12563,7 @@ pick out the men that do know, and they send them to the Legislature
 to think for them, and then the people afterward ratify or disallow
 them.
 ```
+
 ```
 But when you come to the Legislature I am bound to confess that the
 thing does not look very much more cheering on the outside. Do
@@ -11817,6 +12576,7 @@ care of legislators' salaries. The old miracle of the prophet and the
 meal and the oil is outdone immeasurably in our days, for they go
 there poor one year, and go home rich; in four years they become
 ```
+
 ```
 moneylenders, all by a trust in that gracious providence that takes
 care of legislators' salaries. Their next duty after that is to serve the
@@ -11827,13 +12587,16 @@ the kitchen to see where it is cooked; if a man wishes to respect and
 obey the law, he had better not go to the Legislature to see where
 that is cooked.
 ```
+
 ```
 —HENRY WARD BEECHER.
 ```
+
 ```
 From a lecture delivered in Exeter Hall, London, 1886, when
 making his last tour of Great Britain.
 ```
+
 _In Case of Trouble_
 
 But what are you to do if, notwithstanding all your efforts, you should forget
@@ -11883,6 +12646,7 @@ training for fluency in speaking. _Stock up with ideas._
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Pick out and state briefly the nine helps to memorizing suggested in this
 chapter.
 
@@ -11912,22 +12676,27 @@ from memory?
 ```
 CHAPTER XXIX
 ```
+
 ```
 RIGHT THINKING AND PERSONALITY
 ```
+
 ```
 Whatever crushes individuality is despotism, by whatever name it
 may be called.—JOHN STUART MILL, On Liberty.
 ```
+
 ```
 Right thinking fits for complete living by developing the power to
 appreciate the beautiful in nature and art, power to think the true and
 to will the good, power to live the life of thought, and faith, and
 hope, and love.
 ```
+
 ```
 —N.C. SCHAEFFER, Thinking and Learning to Think.
 ```
+
 The speaker's most valuable possession is personality—that indefinable,
 imponderable something which sums up what we are, and makes us different
 from others; that distinctive force of self which operates appreciably on those
@@ -12065,6 +12834,7 @@ regeneration of the world."
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. What, in your own words, is personality?
 
 [^2]:. How does personality in a speaker affect you as a listener?
@@ -12078,21 +12848,27 @@ QUESTIONS AND EXERCISES
 ```
 CHAPTER XXX
 ```
+
 ```
 AFTER-DINNER AND OTHER OCCASIONAL SPEAKING
 ```
+
 ```
 The perception of the ludicrous is a pledge of sanity.
 ```
+
 ```
 —RALPH WALDO EMERSON, Essays.
 ```
+
 ```
 And let him be sure to leave other men their turns to speak.
 ```
+
 ```
 —FRANCIS BACON, Essay on Civil and Moral Discourse.
 ```
+
 Perhaps the most brilliant, and certainly the most entertaining, of all speeches are
 those delivered on after-dinner and other special occasions. The air of well-fed
 content in the former, and of expectancy well primed in the latter, furnishes an
@@ -12132,6 +12908,7 @@ will go back fifty or a hundred years, to your early married life, and
 recontemplate your first baby—you will remember that he amounted
 to a good deal—and even something over.
 ```
+
 "As a vessel is known by the sound, whether it be cracked or not," said
 Demosthenes, "so men are proved by their speeches whether they be wise or
 foolish." Surely the occasional address furnishes a severe test of a speaker's
@@ -12184,9 +12961,11 @@ SELECTIONS FOR STUDY
 ```
 LAST DAYS OF THE CONFEDERACY
 ```
+
 ```
 (Extract)
 ```
+
 ```
 The Rapidan suggests another scene to which allusion has often
 been made since the war, but which, as illustrative also of the spirit
@@ -12205,6 +12984,7 @@ and pathetic notes rolled over the water and thrilled through the
 spirits of the soldiers, the hills reverberated with a thundering
 response from the united voices of both armies. What was there in
 ```
+
 this old, old music, to so touch the chords of sympathy, so thrill the
 spirits and cause the frames of brave men to tremble with emotion?
 It was the thought of home. To thousands, doubtless, it was the
@@ -12217,6 +12997,7 @@ boy.
 ```
 —GENERAL J.B. GORDON, C.S.A.
 ```
+
 _WELCOME TO KOSSUTH_
 
 (Extract)
@@ -12245,6 +13026,7 @@ ancestors had met with a fate like theirs.
 ```
 —WILLIAM CULLEN BRYANT.
 ```
+
 _THE INFLUENCE OF UNIVERSITIES_
 
 (Extract)
@@ -12381,13 +13163,16 @@ redeem?
 When, like our sires, our sons are
 gone.
 ```
+
 ```
 —JOHN WARWICK DANIEL, on the unveiling of Lee's statue at
 Washington and Lee University, Lexington, Virginia, 1883.
 ```
+
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Why should humor find a place in after-dinner speaking?
 
 [^2]:. Briefly give your impressions of any notable after-dinner address that you
@@ -12418,29 +13203,37 @@ A business men's association dinner.
 A manufacturers' club dinner.
 An alumni banquet.
 ```
+
 An old home week barbecue.
 
 ```
 [35] See also page 205.
 ```
+
 ```
 CHAPTER XXXI
 ```
+
 ```
 MAKING CONVERSATION EFFECTIVE
 ```
+
 ```
 In conversation avoid the extremes of forwardness and reserve.
 ```
+
 ```
 —CATO.
 ```
+
 ```
 Conversation is the laboratory and workshop of the student.
 ```
+
 ```
 —EMERSON, Essays: Circles.
 ```
+
 The father of W.E. Gladstone considered conversation to be both an art and an
 accomplishment. Around the dinner table in his home some topic of local or
 national interest, or some debated question, was constantly being discussed. In
@@ -12485,6 +13278,7 @@ sure to listen to Holmes's advice:
 And when you stick on conversational burs,
 Don't strew your pathway with those dreadful urs.
 ```
+
 Here bring your will into action, for your trouble is a wandering attention. You
 must _force_ your mind to persist along the chosen line of conversation and
 resolutely refuse to be diverted by _any_ subject or happening that may
@@ -12581,6 +13375,7 @@ reading week after week?
 ```
 QUESTIONS AND EXERCISES
 ```
+
 [^1]:. Give a short speech describing the conversational bore.
 
 [^2]:. In a few words give your idea of a charming converser.
@@ -12613,9 +13408,11 @@ vulgarism; (_f_) neologism.
 ```
 APPENDIX A
 ```
+
 ```
 FIFTY QUESTIONS FOR DEBATE
 ```
+
 [^1]:. Has Labor Unionism justified its existence?
 
 [^2]:. Should all church printing be brought out under the Union Label?
@@ -12746,9 +13543,11 @@ business, or profession, before becoming pastors?
 ```
 APPENDIX B
 ```
+
 ```
 THIRTY THEMES FOR SPEECHES
 ```
+
 With Source References for Material.
 
 [^1]:. KINSHIP, A FOUNDATION STONE OF CIVILIZATION.
@@ -12823,12 +13622,15 @@ Article in _Literary Digest_, November [^2]:[^8]:, [^1]:[^9]:[^1]:[^4]:.
 ```
 Article in Literary Digest, November 14, 1914.
 ```
+
 ```
 APPENDIX C
 ```
+
 ```
 SUGGESTIVE SUBJECTS FOR SPEECHES[[^3][^6]]
 ```
+
 With Occasional Hints on Treatment
 
 [^1]:. MOVIES AND MORALS.
@@ -12866,6 +13668,7 @@ The cost of collecting funds for, and administering help to, the
 needy. The weakness of organized philanthropy as compared with
 the giving that gives itself.
 ```
+
 [^1]:[^1]:. THE ECONOMY OF ORGANIZED CHARITY.
 The other side of the picture.
 
@@ -13125,21 +13928,26 @@ A fair-minded examination of the uses and abuses of the political
 ```
 FOOTNOTES:
 ```
+
 ```
 [36] It must be remembered that the phrasing of the subject will not necessarily serve
 for the title.
 ```
+
 ```
 APPENDIX D
 ```
+
 **SPEECHES FOR STUDY AND PRACTISE**
 
 ```
 NEWELL DWIGHT HILLIS
 ```
+
 ```
 BRAVE LITTLE BELGIUM
 ```
+
 Delivered in Plymouth Church, Brooklyn, N.Y., October [^1]:[^8]:, [^1]:[^9]:[^1]:[^4]:.
 Used by permission.
 
@@ -13192,6 +14000,7 @@ antagonisms and economic and political differences.
 ```
 WHY LITTLE BELGIUM HAS THE CENTER OF THE STAGE
 ```
+
 Tonight our study concerns little Belgium, her people, and their part
 in this conflict. Be the reasons what they may, this little land stands
 in the center of the stage and holds the limelight. Once more David,
@@ -13226,6 +14035,7 @@ comfortably within the limits of our country.
 ```
 THE LIFE OF THE PEOPLE
 ```
+
 And yet, little Belgium has no gold or silver mines, and all the
 treasures of copper and zinc and lead and anthracite and oil have
 been denied her. The gold is in the heart of her people. No other land
@@ -13288,6 +14098,7 @@ administered in the interest of the men of small affairs.
 ```
 THE GREAT BELGIUM PLAIN IN HISTORY
 ```
+
 But the institutions of Belgium and the industrial prosperity of her
 people alone are not equal to the explanation of her unique heroism.
 Long ago, in his Commentaries, Julius Cæsar said that Gaul was
@@ -13330,6 +14141,7 @@ god of lightnings.
 ```
 A THRILLING CHAPTER FROM BELGIUM'S HISTORY
 ```
+
 Perhaps one or two chapters torn from the pages of Belgium history
 will enable us to understand her present-day heroism, just as one
 golden bough plucked from the forest will explain the richness of the
@@ -13372,6 +14184,7 @@ soldier to use his dagger and put the girl out of her misery.
 ```
 THE HORRORS OF THE INQUISITION
 ```
+
 Having looted Antwerp, the treasure chest of Belgium, the Spaniards
 set up the Inquisition as an organized means of securing property. It
 is a strange fact that the Spaniard has excelled in cruelty as other
@@ -13429,6 +14242,7 @@ Belgium and Holland like a red rose upon his heart.
 ```
 THE DEATH OF EGMONT
 ```
+
 But some of you will say that the Belgian people must have been
 rebels and guilty of some excess, and that had they remained
 quiescent, and not fomented treason, that no such fate could have
@@ -13476,6 +14290,7 @@ June, [^1]:[^5]:[^6]:[^8]:.
 ```
 "LAMORAL D' EGMONT."
 ```
+
 Thus died a man who did as much probably for Holland as John
 Eliot for England, or Lafayette for France, or Samuel Adams for this
 young republic.
@@ -13483,6 +14298,7 @@ young republic.
 ```
 THE WOE OF BELGIUM
 ```
+
 And now out of all this glorious past comes the woe of Belgium.
 Desolation has come like the whirlwind, and destruction like a
 tornado. But ninety days ago and Belgium was a hive of industry,
@@ -13544,12 +14360,15 @@ comfort her as a Father comforteth his well-beloved child.
 ```
 HENRY WATTERSON
 ```
+
 ```
 THE NEW AMERICANISM
 ```
+
 ```
 (Abridged)
 ```
+
 Eight years ago tonight, there stood where I am standing now a
 young Georgian, who, not without reason, recognized the
 "significance" of his presence here, and, in words whose eloquence I
@@ -13609,20 +14428,25 @@ not Cotton Mather, but John Greenleaf Whittier, who cried:—
 Forgive our faith in cruel lies,
 Forgive the blindness that denies.
 ```
+
 ```
 "Cast down our idols—overturn
 Our bloody altars—make us see
 Thyself in Thy humanity!"
 ```
+
 ```
 JOHN MORLEY
 ```
+
 ```
 FOUNDER'S DAY ADDRESS
 ```
+
 ```
 (Abridged)
 ```
+
 Carnegie Institute, Pittsburgh, Pa., November [^3]:, [^1]:[^9]:[^0]:[^4]:.
 
 What is so hard as a just estimate of the events of our own time? It is
@@ -13977,12 +14801,15 @@ when Napoleon arose to scourge the world.
 ```
 ROBERT TOOMBS
 ```
+
 ```
 ON RESIGNING FROM THE SENATE, 1861
 ```
+
 ```
 (Abridged)
 ```
+
 The success of the Abolitionists and their allies, under the name of
 the Republican party, has produced its logical results already. They
 have for long years been sowing dragons' teeth and have finally got
@@ -14160,6 +14987,7 @@ of any law or regulation therein, be discharged from such
 service or labor, but shall be delivered up on claim of the
 party to whom such service or labor may be due."
 ```
+
 This language is plain, and everybody understood it the same way
 for the first forty years of your government. In [^1]:[^7]:[^9]:[^3]:, in
 Washington's time, an act was passed to carry out this provision. It
@@ -14239,12 +15067,15 @@ fact is, freemen with arms in their hands.
 ```
 THEODORE ROOSEVELT
 ```
+
 ```
 INAUGURAL ADDRESS
 ```
+
 ```
 (1905)
 ```
+
 MY FELLOW CITIZENS:—No people on earth have more cause to
 be thankful than ours, and this is said reverently, in no spirit of
 boastfulness in our own strength, but with gratitude to the Giver of
@@ -14350,9 +15181,11 @@ who preserved this Republic in the days of Abraham Lincoln.
 ```
 ON AMERICAN MOTHERHOOD[[^3][^8]]
 ```
+
 ```
 (1905)
 ```
+
 In our modern industrial civilization there are many and grave
 dangers to counterbalance the splendors and the triumphs. It is not a
 good thing to see cities grow at disproportionate speed relatively to
@@ -14592,13 +15425,16 @@ call her blessed.
 ```
 ALTON B. PARKER
 ```
+
 ```
 THE CALL TO DEMOCRATS
 ```
+
 ```
 From a speech opening the National Democratic
 Convention at Baltimore, Md., June, 1912.
 ```
+
 It is not the wild and cruel methods of revolution and violence that
 are needed to correct the abuses incident to our Government as to all
 things human. Neither material nor moral progress lies that way. We
@@ -14646,13 +15482,16 @@ shall be chosen.
 ```
 JOHN W. WESCOTT
 ```
+
 ```
 NOMINATING WOODROW WILSON
 ```
+
 ```
 At the National Democratic Convention, Baltimore,
 Maryland, June, 1912.
 ```
+
 The New Jersey delegation is commissioned to represent the great
 cause of Democracy and to offer you as its militant and triumphant
 leader a scholar, not a charlatan; a statesman, not a doctrinaire; a
@@ -14717,13 +15556,16 @@ Woodrow Wilson.
 ```
 HENRY W. GRADY
 ```
+
 ```
 THE RACE PROBLEM
 ```
+
 ```
 Delivered at the annual banquet of the Boston Merchants'
 Association, at Boston, Mass., December 12, 1889.
 ```
+
 MR. PRESIDENT:—Bidden by your invitation to a discussion of
 the race problem—forbidden by occasion to make a political speech
 —I appreciate, in trying to reconcile orders with propriety, the
@@ -15349,13 +16191,16 @@ come in God's appointed time!
 ```
 WILLIAM McKINLEY
 ```
+
 ```
 LAST SPEECH
 ```
+
 ```
 Delivered at the World's Fair, Buffalo, N.Y., on
 September 5, 1901, the day before he was assassinated.
 ```
+
 I am glad again to be in the city of Buffalo and exchange greetings
 with her people, to whose generous hospitality I am not a stranger,
 and with whose good will I have been repeatedly and signally
@@ -15582,13 +16427,16 @@ blessings to all the peoples and powers of earth.
 ```
 JOHN HAY
 ```
+
 ```
 TRIBUTE TO MCKINLEY
 ```
+
 ```
 From his memorial address at a joint session of the Senate
 and House of Representatives on February 27, 1903.
 ```
+
 For the third time the Congress of the United States are assembled to
 commemorate the life and the death of a president slain by the hand
 of an assassin. The attention of the future historian will be attracted
@@ -15850,15 +16698,19 @@ and he became at last,
 The pillar of a people's hope,
 The center of a world's desire."
 ```
+
 ```
 WILLIAM JENNINGS BRYAN
 ```
+
 ```
 THE PRINCE OF PEACE[[^3][^9]]
 ```
+
 ```
 (1894)
 ```
+
 I offer no apology for speaking upon a religious theme, for it is the
 most universal of all themes. I am interested in the science of
 government, but I am interested more in religion than in
@@ -16422,6 +17274,7 @@ heart
 Deeply hath sunk the lesson thou hast given,
 And shall not soon depart.
 ```
+
 ```
 He who, from zone to zone,
 Guides through the boundless sky thy certain
@@ -16429,6 +17282,7 @@ flight,
 In the long way that I must tread alone,
 Will lead my steps aright.
 ```
+
 Christ promoted peace by giving us assurance that a line of
 communication can be established between the Father above and the
 child below. And who will measure the consolations of the hour of
@@ -16619,12 +17473,14 @@ whether he dies in the midst of the conflict.
 ```
 "Yea, tho thou lie upon the dust,
 ```
+
 ```
 When they who helped thee flee in
 fear,
 Die full of hope and manly trust,
 Like those who fell in battle here.
 ```
+
 ```
 Another hand thy sword shall
 wield,
@@ -16634,6 +17490,7 @@ pealed,
 The blast of triumph o'er thy
 grave."
 ```
+
 Only those who _believe_ attempt the seemingly impossible, and, by
 attempting, prove that one, with God, can chase a thousand and that
 two can put ten thousand to flight. I can imagine that the early
@@ -16680,15 +17537,19 @@ decay,
 And life's last shade be brightened by
 thy ray."
 ```
+
 ```
 RUFUS CHOATE
 ```
+
 ```
 EULOGY OF WEBSTER
 ```
+
 ```
 Delivered at Dartmouth College, July 27, 1853.
 ```
+
 Webster possessed the element of an impressive character, inspiring
 regard, trust and admiration, not unmingled with love. It had, I think,
 intrinsically a charm such as belongs only to a good, noble, and
@@ -16945,13 +17806,16 @@ wholly free.
 ```
 ALBERT J. BEVERIDGE
 ```
+
 ```
 PASS PROSPERITY AROUND
 ```
+
 ```
 Delivered as Temporary Chairman of Progressive
 National Convention, Chicago, Ill., June, 1911.
 ```
+
 We stand for a nobler America. We stand for an undivided Nation.
 We stand for a broader liberty, a fuller justice. We stand for a social
 brotherhood as against savage individualism. We stand for an
@@ -17635,12 +18499,15 @@ Oh, be swift our souls to answer Him, be jubilant
 our feet,
 Our God is marching on."
 ```
+
 ```
 RUSSELL CONWELL
 ```
+
 ```
 ACRES OF DIAMONDS[[^4][^0]]
 ```
+
 I am astonished that so many people should care to hear this story
 over again. Indeed, this lecture has become a study in psychology; it
 often breaks all rules of oratory, departs from the precepts of
@@ -18330,6 +19197,7 @@ To join the brimming river,
 Men may come, and men may go,
 But I go on forever."
 ```
+
 But as this man looked into the brook, he leaped off that ash barrel
 and managed to catch the trout with his fingers, and sent it to
 Worcester. They wrote back that they would give him a five dollar
@@ -18602,12 +19470,15 @@ who acts the best."
 ```
 VICTOR HUGO
 ```
+
 ```
 HONORE DE BALZAC
 ```
+
 ```
 Delivered at the Funeral of Balzac, August 20, 1850.
 ```
+
 Gentlemen: The man who now goes down into this tomb is one of
 those to whom public grief pays homage.
 
@@ -18717,9 +19588,11 @@ time, Mr. John Wanamaker said that if the proceeds had been put out at compound
 interest the sum would aggregate eight millions of dollars. Dr. Conwell has uniformly
 devoted his lecturing income to works of benevolence.
 ```
+
 ```
 GENERAL INDEX
 ```
+
 Names of speakers and writers referred to are set in CAPITALS. Other
 references are printed in "lower case," or "small," type. Because of the large
 number of fragmentary quotations made from speeches and books, no titles are
@@ -18740,6 +19613,7 @@ Applause, 317.
 Argument, 280-294.
 ARISTOTLE, 344.
 ```
+
 Articulation, [^1]:[^4]:[^8]:-[^1]:[^4]:[^9]:.
 Association of ideas, [^3]:[^4]:[^7]:, [^3]:[^4]:[^8]:.
 Attention, [^3]:[^4]:[^6]:, [^3]:[^4]:[^7]:.
@@ -19255,6 +20129,7 @@ of receipt of the work.
 ```
 distribution of Project Gutenberg-tm works.
 ```
+
 [^1]:.E.[^9]:. If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
 forth in this agreement, you must obtain permission in writing from
@@ -19423,6 +20298,7 @@ Most people start at our Web site which has the main PG search facility:
 ```
 http://www.gutenberg.net
 ```
+
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to

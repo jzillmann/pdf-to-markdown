@@ -1,6 +1,7 @@
 ```
 From Blog to Book.
 ```
+
 ’www.wateredsoul.com’
 
 # Contents
@@ -25,6 +26,7 @@ Favor Has Its Own Cost (2010-12-21 13:25)........................... 411
 Speak Up (2010-12-29 13:46)................................... 414
 Traveling Shoes (2010-12-31 09:00)................................ 417
 ```
+
 **2 2011 421**
 
 ```
@@ -46,10 +48,12 @@ Discover the Way to Love (2011-02-14 16:56).......................... 448
 Hello (2011-02-21 02:12)...................................... 449
 When is long better than short? (2011-02-21 13:48)...................... 450
 ```
+
 ```
 Review: iShine Bible (2011-02-22 08:00)............................. 451
 The Life Ready Woman (2011-02-26 14:23)........................... 453
 ```
+
 2.3 March............................................... 456
 
 The Winner is...(Revised) (2011-03-01 12:30).......................... 456
@@ -91,6 +95,7 @@ Xed Out (2011-04-29 00:29).................................... 516
 Still Say Yes (2011-04-30 03:04).................................. 517
 Z is for Zip (2011-04-30 14:37).................................. 518
 ```
+
 2.5 May................................................ 520
 
 Morning Manna (2011-05-04 05:45)................................ 520
@@ -163,6 +168,7 @@ Get Your Aim Right (2011-12-12 00:30)............................. 628
 It Takes the Stinky Stuff (2011-12-14 06:45)........................... 631
 CEB Bible Giveaway Winner (2011-12-16 06:23)........................ 634
 ```
+
 ```
 Treasured Thoughts (2011-12-19 06:05)............................. 635
 Favor Is Not Without Cost (2011-12-22 07:45)......................... 637
@@ -170,6 +176,7 @@ Merry Christmas (2011-12-24 21:53)............................... 638
 11 Favorite Posts in 2011 (2011-12-27 09:26)........................... 639
 Standing on the Crux of Eve (2011-12-30 23:30)........................ 642
 ```
+
 **3 2012 645**
 
 ```
@@ -177,6 +184,7 @@ Standing on the Crux of Eve (2011-12-30 23:30)........................ 642
 A-Z Scripture Memory Challenge (2012-01-02 07:14)...................... 645
 A Brand New Beginning, Now What? (2012-01-03 06:23)................... 647
 ```
+
 ### Chapter 1
 
 ## 2010
@@ -212,15 +220,18 @@ tions, and new mercies. In Jesus name. Amen
 mom2six (2010-03-16 01:52:56)
 Just came to your site from High Calling Blogs. Great analogy - great encouragement. Thanks.
 ```
+
 ```
 Just Be Real/God Whispers In The Wind (2010-03-16 10:10:57)
 Wanda, thank you for sharing and the prayer has touched me. Also, thank you for your kind comments of encourage-
 ment to me on my blog. I needed to read them.
 ```
+
 ```
 Mike (2010-03-16 10:10:57)
 take a little time to observe the newness thats happening with you. I like that. Thanks for an encouraging post!
 ```
+
 ```
 Living Water (2010-03-17 07:32:51)
 I can understand the feeling of juxtaposed spring and winter very well. Not all things turns out the way we hope,
@@ -230,12 +241,14 @@ In all these, may we learn to understand that God knows His plans for us, for we
 a future and a hope (Jeremiah 29:11).
 God bless.
 ```
+
 ```
 Finally Free (2010-03-17 12:40:51)
 Thanks for stopping by my blog. :) Last year was a year of major pruning for me, so I can relate.
 Blessings,
 Tammy
 ```
+
 ```
 Proverbs 27:19 (2010-03-18 01:11:28)
 Hello Wanda! Thanks a bunch for stopping by ”My Heart Speaks...” and leaving a comment.
@@ -243,6 +256,7 @@ It’s nice to ”meet” you!
 smooches,
 Larie
 ```
+
 ## Any Mud on Your Soul? (2010-03-18 05:01)
 
 [1]
@@ -289,10 +303,12 @@ Dena Dyer (2010-03-23 15:05:48)
 I love that image of God washing ”mud” from my soul.
 Welcome to High Calling Blogs, by the way. It’s great to have you! :)
 ```
+
 ```
 Wanda (2010-03-24 01:30:57)
 Thanks for the welcome Dena and I appreciate you stopping by.
 ```
+
 ## Mindful Ponderings (2010-03-20 04:10)
 
 My mind is pondering about peace. Are there certain images that come to mind when you hear the word
@@ -310,10 +326,12 @@ Faith Imagined (2010-03-20 14:10:00)
 I was reading about this topic just yesterday! It seems that a lot of Christians, including myself, tuck this precious
 gift away!
 ```
+
 ```
 Pet (2010-03-22 22:07:09)
 Hi Wanda, thank you for the visit and the comment. Be bless and please come again.
 ```
+
 ## Hide & Seek (2010-03-22 14:00)
 
 [1]
@@ -344,22 +362,27 @@ Blessings,
 Christy
 Exemplify Singles Channel Editor
 ```
+
 ```
 Mariel (2010-03-23 01:06:46)
 great verse...cute pic! :)
 ```
+
 ```
 Just Be Real/God Whispers In The Wind (2010-03-25 10:18:00)
 This is good Wanda! Wo- thanks.
 ```
+
 ```
 LaMecia (2010-03-28 22:53:49)
 Really good!
 ```
+
 ```
 LisaShaw (2010-03-30 00:40:52)
 Praise the Lord Wanda!!!
 ```
+
 ## Always Forever (2010-03-23 14:00)
 
 Came across this verse while reading last night.
@@ -382,14 +405,17 @@ So much swirls around sometimes in ways that just don’t make sense that withou
 know if I’d make it...
 Thank you for your visit to my blog and your sweet words left for me. You have blessed me!
 ```
+
 ```
 Just Be Real/God Whispers In The Wind (2010-03-25 10:17:34)
 Amen Wanda. Thanks for sharing dear.
 ```
+
 ```
 LaMecia (2010-03-28 22:51:01)
 enjoyed this
 ```
+
 ```
 LisaShaw (2010-03-30 00:42:28)
 Amen and Praise the Lord!!!
@@ -397,6 +423,7 @@ I’m thankful that He is always with me and as such I shall not be moved. As I 
 favorite Books in the Bible) it reminds me also of Isaiah 41:10.
 God bless!!
 ```
+
 ## If Not Him, Then Who? (2010-03-29 11:01)
 
 By golly, who knew that I’d find God at the zoo? Yes it’s true! If not Him, then who could have created such
@@ -418,6 +445,7 @@ purpose for my life.
 [2]Create your own scrapbook - Powered by Smilebox
 Make a scrapbooking design
 ```
+
 [3]
 
 1. http://smilebox.com/play/4d5455334f4449784e54513d0d0a&blogview=true&campaign=blog_playback_link
@@ -450,21 +478,25 @@ be posting an update on my site later today acknowledging your post today.
 I am thrilled to have you joining us and I hope you find the challenge to be fun and rewarding.
 Lee
 ```
+
 ```
 Shannon (2010-03-31 23:54:44)
 Thanks for naming my blog in your post wanda..glad to see your joining in on the fun! Can’t wait to see what
 tomorrow brings!
 ```
+
 ```
 The Alliterative Allomorph (2010-04-01 08:48:11)
 Hi! I’m a new follower. Good luck fellow challenger :)
 ```
+
 ```
 Wanda (2010-04-01 11:03:02)
 @Arlee and Shannon, you are welcome. This will definitely be an interesting challenge.
 @ Alliterative Allomorph, glad to have you join my blog and I appreciate the well wishes on the challenge. I’ll definitely
 need it.
 ```
+
 ## 1.2 April
 
 ## Ready, Set, Go (2010-04-01 10:25)
@@ -502,6 +534,7 @@ in techology sometimes I do wonder if it’s all for the best.
 Have a good day.
 Yvonne.
 ```
+
 The Alliterative Allomorph (2010-04-01 11:12:32)
 Thanks for joining my blog :) Lovely post. One does wonder when we are ever going to be available nowadays. Our
 lives are so choatic ...
@@ -679,17 +712,20 @@ Amen! That’s why today is called ”Good Friday”... because we can celebrate
 fact that he was buried & rose again! Wanda, I wanted to thank you for stopping by my blog... I a greatly appreciate
 you taking the time! :-) Added you to my blog reading list! Talk soon!
 ```
+
 ```
 arlee bird (2010-04-03 13:25:40)
 Blessings to you, Wanda and a big amen to what you have said here.
 Lee
 ```
+
 ```
 Bud Ezekiel H. (2010-04-04 00:23:00)
 hi Wanda,
 like what the man said about the seed:)
 Have a Wonderful Easter!
 ```
+
 ## Contractually Connected to a Covenant Keeping Christ (2010-04-03 07:00)
 
 Ok, perhaps I went a little bit crazy with the c-words in my title. But oh contraire, it does complement
@@ -725,6 +761,7 @@ A most enjoyable post to read and an excellent one for the challenge.
 Have a lovely day.
 Yvonne.
 ```
+
 ```
 arlee bird (2010-04-03 13:31:52)
 C-Saturday is indeed a day for many C words. Christ sent his followers to fulful the great comission– how many are
@@ -732,10 +769,12 @@ are doing it? Contracts between us here on here can be easily broken. We often l
 stated a message that many should hear and heed.
 Lee
 ```
+
 ```
 LaMecia Pree (2010-04-03 13:50:57)
 That it awesome. Never thought of covenant dealing with the whole you. Awesome!
 ```
+
 ```
 The Voice (2010-04-03 16:50:26)
 I must admit, that at the moment God and I are in deep negotiations. Obviously, somewhere in our contract I must
@@ -744,6 +783,7 @@ understood what I was supposed to learn. Situations are smacking me hard and may
 wasn’t listening clearly during the interview process. Anyway, I’m signed on for the Eternal Life deal and there is no
 turning back.
 ```
+
 ```
 Caledonia Lass (2010-04-03 20:50:58)
 You know, the fact that commitment is lacking in society, even the smallest of commitments, is what makes things
@@ -752,20 +792,24 @@ Not only that, there are so many out there who don’t truly understand what a c
 gratification.
 Great C post, Wanda and I’m very glad to meet you through the A-Z challenge. :D
 ```
+
 ```
 Lisa (2010-04-03 22:17:42)
 A great and eye-opening post! Thanks Wanda and I hope you have a blessed Easter!
 Lisa
 ```
+
 ```
 Alex J. Cavanaugh (2010-04-03 22:27:40)
 You’re right - we can’t put our faith in people, because humans are imperfect and will fail us every time... but God
 will not. Ever.
 ```
+
 ```
 AprilC - GaFlyGirl (2010-04-04 02:08:41)
 Great C- post. So true! Always something new to gain from God’s word each day! New insight! Thanks for the post!
 ```
+
 ```
 Wanda (2010-04-04 03:31:05)
 Thanks everybody for stopping by. @Arlee-the great commission is another great c.
@@ -774,6 +818,7 @@ an excellent point about commitment lacking in our society.
 @Voice-God often doesn’t give us the memo about the mess in the middle but he’s definitely promised us VICTORY
 in the end.
 ```
+
 ## Time for Revisiting the Tomb (2010-04-04 03:42)
 
 This is actually a repost from March but felt it fitting as we approach Easter.
@@ -833,15 +878,18 @@ Happy Resurrection Day!
 Mike (2010-04-04 06:25:38)
 A blessed Easter to you!
 ```
+
 ```
 Gregg (2010-04-05 00:33:49)
 Thank you for stopping by and leaving a comment. I appreciated it. I enjoyed looking over you site. I will be back. I
 trust you had a great Resurrection Sunday!
 ```
+
 ```
 Just Be Real/God Whispers In The Wind (2010-04-06 01:04:52)
 Wanda thank you so much for sharing and thank you for your encouraging words to me. Mean a lot! Blessings.
 ```
+
 ## D is the Day (2010-04-05 05:01)
 
 D-day has dawned and I found myself in a dilemma. Didn’t quite know what to decide. Do I discuss delicious
@@ -936,10 +984,12 @@ Oh Wanda, that was so cute. I love the ”D”. I am going to follow you so I ca
 what else is happening in your life.
 Take care and have a blessed and wonderful day.
 ```
+
 ```
 Tori Cooper (2010-04-07 00:00:57)
 Ay Que Cute! Totally love the pics! Definitely enjoyed reading your topic for D! Yay!
 ```
+
 ## The Eyes Have It (2010-04-06 05:10)
 
 [1] [2][3]When you look into the mirror, what color are the eyes peeking back at
@@ -993,10 +1043,12 @@ senses and instincts to see what’s really ahead of us.
 To me, eyes are just like the amber traffic light. They warn us, caution us, but they do not tell :)
 Beautiful post.
 ```
+
 ```
 Mike (2010-04-06 07:44:52)
 Great reflection! May the Spirit open our eyes :)
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-04-06 09:52:58)
 A most interesting post, very pleasurable to read.
@@ -1005,10 +1057,12 @@ importanr to me.
 Take care.
 Yvonne.
 ```
+
 ```
 Pet (2010-04-06 16:36:33)
 Interesting. God bless.
 ```
+
 ```
 LaVonne (2010-04-06 19:07:57)
 Amen! It is tragic, in the spirit and in the natural, to see without really seeing and observing and taking in what is
@@ -1016,24 +1070,29 @@ in the line of vision. Sight is a line, not a dot...it is long, it points toward
 Continue speaking the Word in this time of famine of the Word.
 LaVonne
 ```
+
 ```
 Raquel Byrnes (2010-04-06 19:39:02)
 That was a great post. I loved the way you started out with eye color, moved onto types of vision, and then likened
 it all to spiritual perception. Nice work.
 ```
+
 ```
 Tori Cooper (2010-04-07 00:09:46)
 Great job on your E post! Excellent insight on perception... sometimes we get so caught up in what we ”can” see that
 we forget to use our other senses... another great verse is 2 Corinthians 5:7 We live by faith not by sight... :-)
 ```
+
 ```
 Wanda (2010-04-07 00:47:02)
 That is another good scripture indeed Tori.
 ```
+
 ```
 Interesting analogy alitterative regarding the amber caution light. Thanks for all the encouraging words LaVonne,
 Yvonne, Pet, Raquel and Mike
 ```
+
 ## F is for F.A.M.I.L.Y. (2010-04-07 10:06)
 
 Short or tall. Young or old. Big or small. We all were born into some type of family of sort. The composition
@@ -1073,40 +1132,48 @@ ABBA’s Family through Jesus Christ is awesome!
 Thanks for sharing!
 Blessings to you...
 ```
+
 ```
 Shannon (2010-04-07 16:18:42)
 Oh so true! Being in God’s family is so much better that being in our own dysfunctional families...don’t get me wrong,
 I love my wonderful family, but I love being an heir to the Throne, don’t you! Following you now, so glad I found
 you!This has been a fun challenge so far!
 ```
+
 ```
 Raquel Byrnes (2010-04-07 18:57:56)
 Great ponderings on the disfunction of families being a timeless, human, folly. Great post.
 ```
+
 ```
 Dee (2010-04-07 19:41:00)
 I envy you your family. Make sure to tell them how much you love them, and hug them a lot. Many of us can’t...
 ```
+
 ```
 Lisa (2010-04-07 23:38:23)
 I enjoyed reading this and agree that the greatest family we can be a part of is the family of God!
 ```
+
 ```
 Kierah Jane Reilly (2010-04-08 00:46:01)
 Your post reminded me of what my mother told me when I got engaged. She told me ”you can’t choose your family,
 but you can choose your spouse, and you only live with your family for 18 years or so, but you will live with your
 husband for the rest of your life.” And marrying my husband was the best decision I’ve ever made. Thanks for sharing!
 ```
+
 ```
 Wanda (2010-04-08 03:48:25)
 Indeed being apart of family of Christ is the best. He super excees what any human can do. @ Kierah I’m glad to
 hear you have a happy marriage. Great news to a single girl :-)
 ```
+
 ```
 Will Burke (2010-04-08 03:54:30)
 Thanks for sharing! All good thing to remember as I have a fresh people that needs to learn everything about this
 place!
 ```
+
 ## Are You Growing? (2010-04-08 05:15)
 
 [1]
@@ -1154,6 +1221,7 @@ Wanda, that was a creative approach with an important message. I’ll give you a
 Lee
 [1]Blogging From A to Z April Challenge
 ```
+
 1. http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html
 WELCOME TO MY WORLD OF POETRY: (2010-04-08 09:37:18)
 A wonderful post to read, a real pleasure.
@@ -1164,6 +1232,7 @@ Wanda (2010-04-08 11:36:29)
 An A+ really,Arlee...oh my I’m excited. Always did love to receive that grade.
 Thanks Yvonne.
 ```
+
 ```
 Lisa (2010-04-08 18:11:01)
 Such a beautiful post. As I go through a time of growth in my spiritual life right now, I can so relate to what you’ve
@@ -1172,34 +1241,41 @@ Him. I read another post similar in content to that just the other day. Maybe He
 I’m listening Lord! :)
 Have a blessed day!
 ```
+
 ```
 Pet (2010-04-08 18:47:18)
 This is a nice post. Thank you. I have to check out the challengers.
 ```
+
 ```
 Bud Ezekiel H. (2010-04-08 20:00:03)
 what an amazing day! love this post! getting fed today, that’s for sure!
 ```
+
 ```
 Linda (2010-04-08 23:28:55)
 Loving your blog! I am going to be a follower cause I think you are going to have great things to say. I love this
 challenge - I write about the first word that comes into my head when I think about each letter. Sometimes it is
 random...
 ```
+
 ```
 melodygreen (2010-04-09 00:50:27)
 Love the truth amid creativity. :) I am so in agreement with you on areas we need to grow... even the not-so-fun
 parts like obstacles...
 ```
+
 ```
 Patricia Stoltey (2010-04-09 02:26:43)
 Hi Wanda – Thanks for dropping by my blog. I just finished reading through several of your posts and really like your
 style and topic choices. I’ll be checking back for more.....Patricia
 ```
+
 ```
 Wanda (2010-04-09 03:55:33)
 Thanks Lisa, Pet, Patricia, Bud, Linda! You’ve definitely brighten my day. God bless you.
 ```
+
 ```
 Tori Cooper (2010-04-10 21:25:01)
 I hear you on the whole feeling like a girl back in grade school... I’m so behind on my comments! Catching up is not
@@ -1207,6 +1283,7 @@ an easy task... thank God I have today and tomorrow! Wanda, thank you for visiti
 want you to know that I’m doing my best to keep up with you and your beautiful postings! Your entries are always
 refreshing and graceful! Love it!
 ```
+
 ```
 Shanda (2011-05-15 16:26:19)
 Thank you so much for this post. I am on my personal A to Z challange of thankfulness and slightly regretting it as I
@@ -1214,6 +1291,7 @@ have limited myself so much in my decision to make the word something I am grate
 to the end with the ’hard’ letters. This post was just what I needed to encourage me to keep going and also to focus
 on the scriptures you gave RE obsticles and weappons.
 ```
+
 ## Power in Your Hands (2010-04-09 06:00)
 
 [1]
@@ -1289,38 +1367,45 @@ WELCOME TO MY WORLD OF POETRY: (2010-04-09 11:03:46)
 An amazing blog, It was such a pleasure to read, set me up for the day. Thank you.
 Yvonne.
 ```
+
 ```
 Linda (2010-04-09 15:02:46)
 I have chills reading your blog - good chills. You are a fantastic writer - and you are so right about the hands of the
 A-Z challenge creator uniting us in a way that would never have happened in our ordinary lives.
 ```
+
 ```
 Watery Tart (2010-04-09 15:07:34)
 Very interesting way to think of it. I hope some day a pen in my hand is worth more that the 3 for a dollar it cost
 me...
 Makes me think we should all listen to the voice that is telling us what WE ought to be doing to best use our hands.
 ```
+
 ```
 Wanda (2010-04-09 15:33:16)
 Thanks Yvonne. @Linda, God bless you. I’ve never thought of myself as much of a writer but the challenge has been
 a blessing to meet so many other talented bloggers. @ Watery Tart, there’s just no telling the plans the Master has
 for those hands of yours.
 ```
+
 ```
 Bud Ezekiel H. (2010-04-09 16:06:47)
 i think you’re post today IS a real winner!!!
 very impressive, Wanda!!!
 ```
+
 ```
 Rae (2010-04-09 22:19:19)
 What a gentle, thought-provoking post...I love realizing that God does guide our hands. It would do us all well to
 fold them together in prayer more often.
 Looking forward to ”I”.
 ```
+
 ```
 Just Be Real/God Whispers In The Wind (2010-04-10 10:52:58)
 Wanda, words to touch my heart. Thank you. I needed this.
 ```
+
 ```
 Andrea (2010-04-10 12:13:51)
 Awesome post!
@@ -1328,6 +1413,7 @@ Thank you so much for your sweet comments on arise 2 write. Sorry it has taken m
 You have an awesome blog. I have joined to follow and look forward to getting to know you.
 Blessings, andrea
 ```
+
 ## I is for (2010-04-10 12:25)
 
 I is for the many ideas for topics that are swimming around in my head. However, I’ve yet to pull them
@@ -1345,28 +1431,34 @@ BLUEBUTTERFLY (2010-04-10 12:50:43)
 Wanda, enjoy your day swimming in inspiration. Can’t wait to see what flows from you. Thanks for the mention.
 Love above all,
 ```
+
 ```
 Andrea (2010-04-10 13:43:50)
 Hope you have an awesome day.
 Blessings, andrea
 ```
+
 ```
 Bud Ezekiel H. (2010-04-10 18:29:54)
 will be keeping an eye out for it. pun intended:)
 ```
+
 ```
 Bud Ezekiel H. (2010-04-10 18:31:05)
 which reminds me...eye haven’t written my own yet!
 ```
+
 ```
 LaTonya Bynum (2010-04-10 19:10:48)
 I feel the same way about the many ideas in my head. I wrote a post titled Why I Don’t Blog As Much As I should.
 It helped me to overcome some of the shyness about blogging.
 ```
+
 ```
 Will Burke (2010-04-11 11:02:21)
 Yeah, I had the hardest time sitting to write before the challenge too!
 ```
+
 ## Imposter on the Loose (2010-04-10 23:31)
 
 [1]
@@ -1387,6 +1479,7 @@ I’m am not the house I live in, I’m not the car I drive
 I’m not the job I work, You can’t define my worth
 By nothing on God’s green earth, my identity is found in Christ.
 ```
+
 I believe one of the greatest thefts in the body of Christ is stolen identities. The enemy fights hard to keep
 us locked away from the truth of who God has called us to be. As long as we don’t know who we are and
 the power and authority that he has placed within these earthen vessels, the enemy is able to steal, kill, and
@@ -1405,14 +1498,17 @@ this happened to me was when i got back into sin, it was ten times worse to get 
 people fail to recognize is that the enemy really wants to kill us literally not figuratively. if he can’t get to us, he will
 use someone closer to us. abiding is my only hope!
 ```
+
 ```
 Wanda (2010-04-11 01:31:04)
 Oh yes, he’s a real enemy who aims to complete his assignment by any means necessary.
 ```
+
 ```
 Raquel Byrnes (2010-04-11 02:50:16)
 Awesome post. I agree whole-heartedly.
 ```
+
 ```
 Roland D. Yeomans (2010-04-11 04:00:41)
 I read your profile and loved it. You’re right. The Father would not have given us the Dream if He did not want us
@@ -1423,17 +1519,20 @@ of principle as it is now.
 http://rolandyeomans.blogspot.com/.
 Thanks, Roland
 ```
+
 ```
 Linda (2010-04-11 11:46:24)
 Good choice for I-day. If my ID card has heaven as my ”home address”, do people who know me and ”look” at my ID
 card see me as identified with Christ? That is my question to ponder today.
 ```
+
 ```
 Gregg (2010-04-11 12:32:13)
 Good post and great analogy! We do need to know who we are in Christ. Although we have a large part in the
 responsibility of knowing this, the fault lies with poor teaching on the part of biblical teachers. We have such a
 shortage of them today and it the problem continues to grow worse.
 ```
+
 ```
 Wanda (2010-04-11 13:21:24)
 @Raquel-thanks
@@ -1441,6 +1540,7 @@ Wanda (2010-04-11 13:21:24)
 @Linda, good point, I was reading a scripture the other day and was pondering the same thing about self.
 @Gregg, true we perish due to lack of knowledge.
 ```
+
 ```
 Lisa (2010-04-11 15:36:52)
 Great post Wanda. I read the last paragraph twice so that I could fully grasp what you were saying, with my heart.
@@ -1449,25 +1549,30 @@ Thanks friend for being His vessel.
 Hugs,
 Lisa
 ```
+
 ```
 Ellie (2010-04-11 17:17:45)
 Great post, you put a lot of great info in here Love the lyrics, you really tied this up nicely!
 ```
+
 ```
 Wanda (2010-04-12 03:14:37)
 @ Lisa being close to what is authentic helps us to recognize the counterfeit.
 @ Ellie thanks!
 ```
+
 ```
 Mike (2010-04-12 15:48:20)
 Great post. I pray that God will reveal more and more who we are in Christ. Awesome :)
 ```
+
 ```
 Tori Cooper (2010-04-15 22:12:45)
 So true what you say... we got to get to the point where we believe what God says we are instead of all those lies...
 the bible says Satan is the father of lies... although it is easy to believe them... freedom lies behind truth... They
 shall know the truth, and the truth shall set them free! JOHN 8:32 God’s word is truth (JOhn 17;17)
 ```
+
 ## Capturing the Journey (2010-04-12 05:01)
 
 A place to reflect on days gone by...
@@ -1494,40 +1599,48 @@ and read some of the things that were happening at the time. It is strange how s
 wishes were so shallow. And it is bittersweet to see my family and my life’s story bloom from the pages.
 Sadly, I haven’t kept a journal (other than my blogs) for several years now.
 ```
+
 ```
 Just Be Real/God Whispers In The Wind (2010-04-12 10:44:22)
 That is wonderful that you were able to journal your feelings and progress over the years. Blessings.
 ```
+
 ```
 Linda (2010-04-12 12:43:56)
 Well friend, we were thinking alike. I wrote about journey also. My journal is becoming my blog - and hopefully this
 will progress into a journal for my children and grandchildren to read and learn about life and about me.
 ```
+
 ```
 Andrea (2010-04-12 15:10:15)
 I have journaled every day for years. It has been my way to release and work through many things in my life.
 Blessings, andrea
 ```
+
 ```
 Lisa (2010-04-12 15:34:19)
 I have recently started a gratitude journal. I try to document, every day, 10 things I’m thankful for from that day. It
 puts so much into perspective and makes me realize how incredibly blessed I really am. Great post!
 ```
+
 ```
 Debra Harris-Johnson (2010-04-12 16:13:34)
 Hi Wanda it’s Debra from Dream Weaver thanks for visiting me this morning. I love your blog and I love that you
 said ”a safe place to dream in.” Talk again soon. Trying to leave everyone at least 1comment this month.
 ```
+
 ```
 Gregg (2010-04-12 16:47:15)
 I have just started journaling in my morning devotions. it is strange for.
 Funny how things change as time goes by, huh?
 ```
+
 ```
 Jen (2010-04-12 17:24:20)
 Beautiful word, Journey is definietly true for me in every aspect of life and I love to document my journey’s in note-
 books and with photos when I can!
 ```
+
 ```
 Wanda (2010-04-12 17:34:04)
 -Linda, that’s great that you’re leaving a legacy for your children and grandchildren through your blog.
@@ -1538,6 +1651,7 @@ there’s a lot to be grateful.
 -Greg, yes it’s funny to see the progress made in life.
 -Jen, life’s a journey indeed.
 ```
+
 Mary McDonald (2010-04-12 17:40:42)
 Beautiful post, Wanda. You definitely have a way with words. I never did any journal writing until about six weeks
 ago. I’m enjoying it and hope it becomes a habit.
@@ -1616,33 +1730,40 @@ WELCOME TO MY WORLD OF POETRY: (2010-04-13 07:13:25)
 Thank you for a wonderful post,most enjoyable to read.
 Yvonne,
 ```
+
 ```
 Wanda (2010-04-13 12:04:05)
 Thanks Yvonne!
 ```
+
 ```
 Linda (2010-04-13 13:07:21)
 Beautifully said. Reading your posts is always an inspiration.
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-13 13:53:47)
 Wanda, thanks for the reminder that the least will be the greatest. Some people stress themselves trying to be No. 1
 with man while forgetting the God who created them to just be...be still and know that He is.
 Love above all.
 ```
+
 ```
 Andrea (2010-04-13 14:41:13)
 Blessings and prayers,
 andrea
 ```
+
 ```
 Bud Ezekiel H. (2010-04-13 19:09:08)
 wish i could say things so well as you do....in shorter posts:)
 ```
+
 ```
 Raquel Byrnes (2010-04-13 19:46:30)
 Inspirational and thought provoking. Great post.
 ```
+
 Kierah Jane Reilly (2010-04-13 22:46:43)
 You said that so well!
 
@@ -1722,78 +1843,93 @@ Sad, but true! You brought so much to the table with the label. I loved it! I re
 labels. We as a society need to stop summing people up with labels. There are many facets to a personality and
 people’s talents. Great post!
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-14 15:08:13)
 Wanda, it is all so true and sad. Many opportunities are missed when we look at labels. We miss the chances to give
 and receive.
 May we continue to do all to God’s glory.
 ```
+
 ```
 Lisa (2010-04-14 16:22:53)
 My goodness what an interesting spin you put on labels and the effect that can have on our lives. I’m so glad that
 our Redeemer has the ”Goo Gone” to remove those labels once and for all!
 Great post!
 ```
+
 ```
 Mike (2010-04-14 16:40:20)
 Great post. I had this experience where God gave me a new name. I’ve never told anyone what it is. My challenge
 is, can they ’see’ what my new name is through my life? Blessings :)
 ```
+
 ```
 Beth (2010-04-14 17:18:43)
 What a wonderful post! LOVE this! Sorry I seem to have missed you before. I keep thinking I have made it to all
 the A to Z blogs and then I find another that I had managed to miss. I’ll blame it on my blonde roots! :) Anyway ...
 I’m following your blog now and look forward to hearing/reading more of your heart!
 ```
+
 ```
 Andrea (2010-04-14 19:39:03)
 WOW..great post! Very thought provoking.
 Blessings, hugs, and prayers,
 andrea
 ```
+
 ```
 Raquel Byrnes (2010-04-14 19:40:07)
 Awesome post. So true and hopeful to know that we are not what people say we are.
 ```
+
 ```
 Elizabeth West (2010-04-14 20:41:50)
 True. I lived with a label growing up that made my life very hard. I’m still fighting it because family originated it,
 and is still perpetuating it in some ways.
 How very difficult it is to shed those labels. We should try our best to avoid categorizing people as much as we can.
 ```
+
 ```
 Gregg (2010-04-14 21:31:49)
 Very good use of the idea of labels. Very imaginative and a good analogy.
 ```
+
 ```
 Linda (2010-04-14 22:35:53)
 I love your take on labels - especially about the part where sometimes the old labels don’t always come off. I am so
 thankful God gives us a new label. I talked about labels today too though in a totally different vein.
 ```
+
 ```
 Bud Ezekiel H. (2010-04-14 23:02:12)
 loved your approach. encouraging too:)
 ```
+
 ```
 Grammy (2010-04-15 01:42:41)
 Hi, Putting the wrong ”label” on someone can totally mess up their lives. You are correct in your take on labels.
 Thanks for a really thought provoking post.
 Ruby
 ```
+
 ```
 Debra Harris-Johnson (2010-04-15 03:23:07)
 I hate when someone label kids dumb, ugly, fat etc; all those negative things tend to stick and stay.
 What a great blog. I love it!
 ```
+
 ```
 Wanda (2010-04-15 04:20:02)
 Thanks to each of you for sharing thoughts. Blessings to you.
 ```
+
 ```
 Tori Cooper (2010-04-15 22:07:50)
 Love it! I like how you talked about bathing our minds in His Words... when we fill our hearts and mind with the
 Word of God and start to belief it all those ”labels” start to fade... great post topic!
 ```
+
 ## My Mind is Pondering (2010-04-15 06:30)
 
 [1]
@@ -1822,6 +1958,7 @@ Lots of prayer
 Unconditional love
 Hugs, andrea
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-15 13:36:15)
 Hello Wanda! Marriage...what a word to think on. Trust is the core. We can’t have a relationship with God if we
@@ -1831,6 +1968,7 @@ God. That trust in God gives us what we need to make wise decisions, including t
 should marry. TRUST, TRUST & TRUST! Without it, there is no honesty, no humility, no Godly submission, no
 love. There must be trust.
 ```
+
 ```
 arlee bird (2010-04-15 14:52:00)
 As one who is on his 3rd marriage I might not seem like the go to guy on this topic. Believe me, I was not happy
@@ -1844,6 +1982,7 @@ one of the worst things I’ve ever had to deal with and I don’t recommend it 
 Lee
 [1]Blogging From A to Z April Challenge
 ```
+
 1. http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html
 Bud Ezekiel H. (2010-04-15 15:52:32)
 ...disqualify myself to answer this one:)
@@ -1857,6 +1996,7 @@ our minds, so don’t make them, tell them what you want because they really don
 men are wired visually, it’s a fact, God made them that way! These are my secrets, if you want to call them that, to
 a wonderful marriage!
 ```
+
 Linda (2010-04-15 17:30:32)
 Commitment. Start like you want to finish - together. And everything Lee said.
 
@@ -1912,11 +2052,13 @@ n’ take relationship, sometimes you have to take the high road. It takes a lot
 LaMecia Ward-Pree (2010-04-16 04:16:59)
 Enjoyed each comments. Really good blog also
 ```
+
 ```
 Wanda (2010-04-16 22:28:08)
 Thanks Mary, Lisa, Living Water, and Lamecia. Lisa experience is a good teacher to know what to avoid. I appreciate
 you sharing what you learned.
 ```
+
 ```
 Kathleen (2010-04-21 05:55:31)
 I have pondered this often what makes a good marriage. I have been married for almost 17 years now.
@@ -1937,6 +2079,7 @@ agenda and that helps.
 The Love & Respect book is good. I recommend that as well.
 Kathleen
 ```
+
 ```
 prochaskas (2010-04-21 12:49:18)
 Realistic expectations. Honeymoon infatuation and the chills don’t last and aren’t designed to. Expect lots of ordinary
@@ -1947,10 +2090,12 @@ We are committed, we keep trying to stay connected and to trust God and one anot
 made lots of progress in accepting each other and the chronic conflicts we have, and accepting baby steps instead of
 sweeping changes. There are still dark days, but we trust.
 ```
+
 ```
 Wanda (2010-04-21 17:38:02)
 Kathleen and Prochaskas what a wealth of wisdome you’ve both shared. And thanks for the book recommendation.
 ```
+
 ## Never Say Never (2010-04-16 07:00)
 
 NEVER...not ever; at no time, not in any degree, not under any condition. Have you ever found yourself
@@ -1976,27 +2121,32 @@ getting to read all the new blogs, I’ve discovered through the [1]A-Z challeng
 The Alliterative Allomorph (2010-04-16 09:38:48)
 I never say never, either :) OOPS ...
 ```
+
 ```
 Just Be Real/God Whispers In The Wind (2010-04-16 10:43:28)
 Wanda, I really like this post. I need improvement in my ”never” category. Thanks for this inspiring post. Blessings
 to you.
 ```
+
 ```
 Will Burke (2010-04-16 11:28:30)
 I noticed that ”Never” (and ”Always”) work better as poetic devices than actual statements. There’s usually an ex-
 ception to whatever defining statement I wish to make!
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-16 16:23:31)
 Wanda, I laughed as I read your post. I tend to say NOPE, NO and NEVER to stuff that doesn’t seem to fit my
 purpose, but I’ve learned along the way that the stuff I’m trying to reject is exactly what is in God’s plan for me.
 Love above all.
 ```
+
 ```
 Linda (2010-04-16 18:16:39)
 Some of the most fun I have had has been when I said Yes to God especially on something I knew nothing about! I
 agree with the Never say Never - except for what Gospel Drive Disciples wrote today! Check that one out.
 ```
+
 ```
 Wanda (2010-04-16 22:21:03)
 @Alliterative- :0)
@@ -2006,36 +2156,43 @@ Wanda (2010-04-16 22:21:03)
 end.
 @Linda, I’ll be sure to check out that post. Always interesting to see someone else take on a subject.
 ```
+
 ```
 Gregg (2010-04-17 00:02:09)
 First of all, Linda, thank you for the plug.
 Second, Wanda, I agree we have to be very careful about saying never, especially to a sovereign God who is Lord over
 this universe!
 ```
+
 ```
 Beth (2010-04-17 01:52:07)
 I’ve found that every time I say that I will never do something God makes a point of making sure I eat those words!
 :)
 ```
+
 ```
 CeCe Wilson (2010-04-17 02:12:05)
 I said NEVER once when I told God and my husband (before we got married) that I would NEVER, NEVER, NEVER
 live in Tennessee! Those five years in TN were the best I’ve ever had and when I grow up I plan to go back...
 ```
+
 ```
 Lisa (2010-04-17 02:41:50)
 I have really enjoyed your posts, Wanda. I know that when I come here, I will be uplifted in some way. Thank you!
 ```
+
 ```
 Ellie (2010-04-17 04:00:02)
 I said, Never once, and then I never did again! I like how you ended on a positive note, with New! It is
 a pleasure to read your view...great stuff!
 ```
+
 ```
 Tori Cooper (2010-04-20 05:18:57)
 Once I said, I would never move to San Diego... and guess where God told me to move...? San Diego. God is good...
 and he does have a plan! Not for evil but good! Yay!
 ```
+
 ## Open to Opportunity (2010-04-17 15:02)
 
 Opportunities are around us daily. Opportunities to choose joy over sadness, to try something new over
@@ -2106,21 +2263,25 @@ Will Burke (2010-04-17 15:13:07)
 I can see why ”conquoring fear” was #1. I’ve found that the absence of fear is a mental disorder, and the spite of fear
 is courage.
 ```
+
 ```
 Will Burke (2010-04-17 15:13:12)
 I can see why ”conquoring fear” was #1. I’ve found that the absence of fear is a mental disorder, and the spite of fear
 is courage.
 ```
+
 ```
 Bud Ezekiel H. (2010-04-17 15:34:22)
 ...so true! Wanda, you’ve written some terrific posts. this one especially i can relate to all too well!!! you deserve an
 award for this one...IMHO! i hope you have a WONDERFULLLLL weekend IN HIS PRESENCE!!!
 ```
+
 ```
 Shannon (2010-04-17 16:33:47)
 Wonderfully done and well said! I so agree that we do miss so many opportunities because of one thing or an-
 other...thanks for sharing and for the reminder to just trust God!
 ```
+
 Mary McDonald (2010-04-17 17:37:08)
 I wonder how many opportunities I’ve missed because I didn’t know they were staring me in the face?
 
@@ -2175,10 +2336,12 @@ not to fear.
 Gregg (2010-04-18 22:45:01)
 Good post, always good to be reminded by these things and to take stock.
 ```
+
 ```
 Ellie (2010-04-19 00:59:59)
 Great post; I love the way you think and how you bring key points to attention, Well Done!!!
 ```
+
 ## Essential Ps in the Race of Life (2010-04-19 20:25)
 
 [1]
@@ -2237,10 +2400,12 @@ Lisa (2010-04-19 22:14:12)
 I love this! I’m struggling with waiting, but know that He has already answered – but I still have to trust Him. ”In
 your patience possess ye your souls” Luke 21:19
 ```
+
 ```
 Wanda (2010-04-19 22:43:20)
 Thanks for sharing that scripture Lisa. I’ll be meditating on that one.
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-19 23:32:01)
 Wanda, the proof is in the pressing. Endure to the end in His unfailing love. – ”Have you never heard? Have you
@@ -2249,26 +2414,31 @@ No one can measure the depths of his understanding. He gives strength to the wea
 weak.” -Isaiah 40:28-29
 Peace, wonderful peace.
 ```
+
 ```
 Ellie (2010-04-20 00:42:09)
 I have patience, but not when it comes to myself. I will have think about my soul more and God’s will!
 ```
+
 ```
 Wanda (2010-04-20 02:16:54)
 @ Bluebutterfly, good reference verse.
 @ Ellie, it’s often easier to be more patient with others than ourselves.
 ```
+
 ```
 Andrea (2010-04-20 02:22:43)
 We definitely need patience and perseverance...I am a work in progress with both of these GODLY traits.
 Blessings, andrea
 ```
+
 ```
 Julie (2010-04-20 03:05:58)
 Wanda, It sure is hard to be patient in losing weight.
 I want it to fall off of me instantly. But it’s taking it’s own sweet time. It’s hard when you don’t see the fruit of the
 choices you are making...
 ```
+
 ```
 It’s hard in waiting on God as well. So often I want to see some evidence that something is happening, but so often
 I don’t get to see that. It’s when the perseverance kicks into gear... I must continue on even when I can’t see things
@@ -2277,6 +2447,7 @@ Thanks for your visit to my blog and your sweet words. I’ve been out of pocket
 miscarried last week. I’ve appreciated your visits to my blog and your sweet words.
 Have a blessed day!
 ```
+
 ```
 Grammy (2010-04-20 03:57:29)
 Hi, I once heard that if one prays for patience, then God is going to send us situations that will test our patience,
@@ -2284,15 +2455,18 @@ because that is how we build it up. I don’t know if that is true or not, but i
 it with a husband who has dementia.
 Ruby
 ```
+
 ```
 Tori Cooper (2010-04-20 05:16:32)
 Yes & Amen! Thank you for sharing those verses... love it! I like how you said it plain- patience is my attitude during
 the wait! :-D Great reminders- I think we all have to deal with learning patience... it’s a humanoid thing!
 ```
+
 ```
 Mike (2010-04-20 08:05:55)
 Great encouragement! Thank you :)
 ```
+
 ```
 Wanda (2010-04-20 21:33:38)
 @ Andrea, me too!
@@ -2300,11 +2474,13 @@ Wanda (2010-04-20 21:33:38)
 @Grammy, I believe that our answer to prayers do come in ways in which we least expect them.
 @ Tori & Mike, God bless you
 ```
+
 ```
 Gregg (2010-04-20 23:26:28)
 Patience is tough. No one including me likes to wait. It is a viture that by God’s HS and our responsibility He adds
 to us. Great post!
 ```
+
 ## Quiet Please (2010-04-20 10:30)
 
 Life can be quite noisy at times. Were inundated with music, television, family and friends to occupy our
@@ -2333,6 +2509,7 @@ Mike (2010-04-20 11:00:18)
 Great advice. Very appropriate as I live next to Heathrow and the quiet is just amazing, made me realise the noise
 that we put up with!
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-04-20 11:25:17)
 I always have music in the background, to me that is relaxing and I can get an inner peace, living on a busy road the
@@ -2341,10 +2518,12 @@ Everyone is different otherwise how dull a world this would be,
 Have a smashing day,
 Yvonne,
 ```
+
 ```
 Rae (2010-04-20 11:59:11)
 I totally agree! I wrote my ”Q” about quiet, too! Thanks for your reminder that we should all take some quiet time.
 ```
+
 ```
 Wanda (2010-04-20 12:04:16)
 Thanks Mike hope you find time to enjoy a little bit of quiet today.
@@ -2352,32 +2531,38 @@ Yvonne, you’re right we’re all different. I find that music or listening to 
 Rae-great minds think a like I guess, I’ll be sure to take a look at your take on ”quiet” after work.
 Hope you all have a blessed day. And may your souls be quiet even if there’s noise all around you.
 ```
+
 ```
 SonshineMusic i.e. Rebecca T. (2010-04-20 12:52:48)
 That was a sweet post. Thanks for stopping by my blog :) When I have some time I’ll try to get to some of your
 other A-Z posts
 ```
+
 ```
 Kelly (2010-04-20 13:44:44)
 Wonderful scriptures. Quiet time with God is SO important.
 ```
+
 ```
 Andrea (2010-04-20 14:29:58)
 I need quiet time with GOD to keep me sane.
 Blessings,
 andrea
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-20 17:23:19)
 Amen, Wanda. One of my favorite things to do is to walk down to the lake just before sunrise. No cars, gadgets ...
 nothing but being still and silent. Always refreshes and restores.
 Peace and love,
 ```
+
 ```
 Linda (2010-04-20 18:40:35)
 I especially love the scripture that says He will quiet you. Some of my favorite - and very rare - days are those when
 I am home alone and nothing is on - no radio, no TV, quiet. Love it.
 ```
+
 Robin (2010-04-20 19:08:07)
 So true! I found myself blogging this message too this past week. Love your blog! Robin
 
@@ -2442,18 +2627,21 @@ Bud-I just recently came across that scripture and I just love it. I understand 
 time keeping up these days.
 Grammy-yes it certainly does.
 ```
+
 ```
 Wanda (2010-04-21 18:16:11)
 Dragon’s Muse, it’s easy to get busy and forget just how essential quiet time with Him is.
 Kathleen, thanks for the lovely comment.
 Blessings to you guys
 ```
+
 ```
 Trudy (2010-04-27 05:50:20)
 A beautiful ’Q’ post...I’m a bit late catching up on blogs here. It is so easy to get away from the quietness of life
 without realizing it, but I know when I haven’t had my quiet time with the Lord, I can feel it after a few days!
 Love the Scripture you have chosen to accompany your post too!
 ```
+
 ## Re (2010-04-21 13:20)
 
 [1]
@@ -2491,51 +2679,62 @@ I, too am thankful for the do overs in my life.
 Blessings,
 andrea
 ```
+
 ```
 Jen (2010-04-21 15:20:32)
 Thank goodness for do-overs, sometimes they are necessary in life, oh I can’t wait for the Rewards when I get to
 heaven!
 ```
+
 ```
 Shannon (2010-04-21 16:05:37)
 Great post...so glad for God’s renewal and rewards!
 ```
+
 ```
 Pet (2010-04-21 16:08:18)
 Great post.
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-21 16:09:51)
 My, My, My...you had me humming like Aretha through this post. God is soooooooo faithful! Let’s release the past
 and rekindle the fire for the future.
 Blessings,
 ```
+
 ```
 Wanda (2010-04-21 17:42:41)
 Thanks Andrea, Jen, Shannon and Pet for stopping by always glad to have you.
 @Bluebutterfly, lol...God sure is GOOD.
 ```
+
 ```
 Beth (2010-04-21 19:54:37)
 How blessed we truly are! :)
 ```
+
 ```
 Linda (2010-04-22 01:05:25)
 Oh I loved this post. And I hope in the reruns of life with the name and location changes, I do learn the lessons placed
 in front of me! Thank you for the reminder.
 ```
+
 ```
 Lisa (2010-04-22 02:11:05)
 Wanda - this was beautiful to read. My soul is rejuvenated! Glory to God for His unspeakable gift!!!
 ```
+
 ```
 Bud Ezekiel H. (2010-04-22 20:33:16)
 He will along a word to revive me...or sisters/brothers:) thank you for helping Him yesterday, sis:)
 ```
+
 ```
 Ellie (2010-04-23 03:17:34)
 R was a rewarding post to read; I almost did reinvent. Great post!!!
 ```
+
 ## Satisfaction Guaranteed (2010-04-22 22:02)
 
 Rather late getting my post up today. My mind was not settled on what ”s” topic I wanted to discuss last
@@ -2575,11 +2774,13 @@ Until ”T” time tomorrow, I hope enjoy a wonderful evening.
 Shannon (2010-04-22 23:31:30)
 Beautiful Wanda, thanks, it was worth the wait!
 ```
+
 ```
 Andrea (2010-04-23 01:28:19)
 Praising GOD with you,
 andrea
 ```
+
 ```
 Lisa (2010-04-23 01:53:32)
 What you wrote about today is something I am continuing to learn. I don’t have a job and no income at all (denied
@@ -2588,26 +2789,31 @@ lesson to learn, but I am learning. My Jesus NEVER ceases to amaze me. I’m gla
 This song is beautiful. ”Show me Your Face, I want to see You” that is indeed my heart’s cry!
 Praise Him!!
 ```
+
 ```
 Ellie (2010-04-23 03:15:49)
 Well put and so true!
 ```
+
 ```
 Grammy (2010-04-23 04:33:02)
 Paul’s words on being satisfied in what ever condition he found hinself is one of my very favorites. Thank you for
 bringing it once again to our minds!
 Ruby
 ```
+
 ```
 Mike (2010-04-23 09:58:47)
 When I know and trust that where I am is not outside of God’s radar, I can be confident that He is orchestrating all
 things and that there is indeed a plan for my life. Therefore, I can patiently wait on Him. Those are great lines and
 bring me particular comfort with a situation I am going through. Love the song too!
 ```
+
 ```
 Rae (2010-04-23 12:21:22)
 Thanks for a great start to my blessed morning!
 ```
+
 ```
 Wanda (2010-04-23 12:40:04)
 Bless you Shannon & Andrea.
@@ -2617,23 +2823,27 @@ Grammy, something I’m certainly trying to learn.
 Mike,glad you found encouragement here. He certainly knows right where you are.
 Rae, blessings to you
 ```
+
 ```
 Gregg (2010-04-23 13:17:29)
 Apart from the bible the best book on satisfaction or contentment that you will ever read is a book called The Rare
 Jewel of Christian Contentment by Jeremiah Burroughs.
 It is published by The Banner of Truth Trust - it is a must read for every believer!
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-23 16:27:16)
 Amen! Amen! The one place we should never settle is in our zeal for more of God. Oh, how I love Jesus (I’m humming
 that little Sunday school song).
 Have a blessed day!
 ```
+
 ```
 Linda (2010-04-23 17:14:29)
 Your posts never fail to stimulate thought. The idea of satisfaction - being satisfied where we are - but most of all
 with Jesus.
 ```
+
 ## Quench Your Thirst (2010-04-23 17:57)
 
 [1]
@@ -2667,32 +2877,38 @@ Now teeter on over and see what other A-Z Challengers are discussing [2]here.
 Bud Ezekiel H. (2010-04-23 18:26:41)
 Great job, sis! sometimes other things draw me away from Him. but He picks me up every time:)
 ```
+
 ```
 Chris Weigand (2010-04-23 19:19:56)
 Great post. It’s amazing when the most perfect quencher is out there and attainable how we always reach for the
 things that will only quench for a short time if at all. What is even more amazing is that Jesus continues to wait for
 us long past the time when we would have given up.
 ```
+
 ```
 Beth (2010-04-23 20:13:58)
 Perfect Q Post! :) Guilty of some times trying to quench those thirsts with other things. Silly! Cause I know that
 NOTHING satisfies like Jesus!
 ```
+
 ```
 Gregg (2010-04-23 22:36:58)
 John 4 & John 7 tells us Christ is the living water. How sad and tragic that we don’t believe him, that we run back to
 the leeks, garlics, and onions like the Israelites did. May God’s grace continualy call us to drink deeply of the living
 water!
 ```
+
 ```
 Marjorie (2010-04-23 22:39:33)
 Beautiful post!
 ```
+
 ```
 Ellie (2010-04-23 23:31:43)
 Really nice; I prefer water, but once in awhile, I enjoy the artificial, but there isn’t anything like the real thing! Thanks
 for the reminder
 ```
+
 ```
 arlee bird (2010-04-23 23:40:24)
 Jesus used a great metaphor in referring to ”Living Water” and ”quenching our thirst”. We should accept no substi-
@@ -2700,6 +2916,7 @@ tutes. Good post, Wanda.
 Lee
 [1]A to Z Challenge Reflections Mega Post
 ```
+
 1. http://tossingitout.blogspot.com/2010/04/q-is-for-quotes-what-people-have-said.html
 
 Linda (2010-04-24 00:34:09)
@@ -2787,20 +3004,24 @@ I hope you enjoy a wonderful weekend.
 Will Burke (2010-04-24 19:56:31)
 Timely message, this challenge hase definitely been a ’Dive-Right-In’ experience, alright!
 ```
+
 ```
 Raquel Byrnes (2010-04-24 20:27:46)
 Its been a pleasure to go through this challenge with you as well.
 ```
+
 ```
 The Alliterative Allomorph (2010-04-24 21:28:59)
 I couldn’t agree with you more. If we don’t live the moment we miss out on life. Beautiful post. ::)
 ```
+
 ```
 Dragons Muse (2010-04-24 22:22:36)
 What a great post. I’m all for doing things in God’s time but there are days when He is nudging and I say wait until...
 I need to remind myself everyday that God is not going to wait until when He has decided the time is right. So I had
 better be ready to go when He is or I will miss out on something glorious.
 ```
+
 Ellie (2010-04-24 22:29:21)
 Wanda, I am so happy you leaped; Your post struck a nerve with me.
 I have done this and still done..it is time to journal more and help myself move forward! Thank you,this really speaks
@@ -2923,28 +3144,33 @@ Very encouraging post and filled with truth! I especially love this sentence, �
 size and shape of our vessels are not the same but the fact remains that your cargo is full of treasure.” I also love the
 song!!!
 ```
+
 ```
 Lisa (2010-04-26 17:05:34)
 ”I’m a vessel full of power, with a treasure from the Lord.” AMEN! I’m so glad to be a vessel that is being steered by
 the Creator of the Universe! Beautiful song!!
 ```
+
 ```
 Andrea (2010-04-26 18:37:21)
 AMEN!
 Blessings and prayers,
 andrea
 ```
+
 ```
 Linda (2010-04-26 22:38:47)
 Always love your posts. Thinking about the ships and life’s storms I was reminded of the song ”In Times Like These”
 - some of the words talk about being sure our anchor holds and grips the solid rock: Jesus.
 ```
+
 ```
 Gregg (2010-04-26 23:07:00)
 That treasure is Christ. There is nothing within us that warrants being called or considered treasure. He chose to
 place Himself, as the greatest gift to be treasured in this earthen vessle in order for us to reflect His glorious character
 to this world so that they too might desire this treasure!
 ```
+
 ```
 Wanda (2010-04-27 01:00:15)
 Faith Imagined & Lisa, glad you enjoyed the song.
@@ -2954,17 +3180,20 @@ Linda, no greater anchor than Christ.
 Gregg, certainly Christ is the ultimate treasure. Yet He created each us to fulfill a purpose in this life, which makes
 us significant.
 ```
+
 ```
 melodygreen (2010-04-27 04:31:02)
 I really liked this post! It is so easy to let storms of life beat us down and forget that we carry precious cargo – thanks
 for posting this reminder!
 ```
+
 ```
 Trudy (2010-04-27 05:34:08)
 I LOVE this post Wanda! Such a fabulous analogy between the ship as a vessel and our own lives as vessels! Praise
 Him!
 Have a blessed day!
 ```
+
 ## Never Walk Alone (2010-04-27 11:02)
 
 It’s something about walking in the morning that clears my head and helps to get my day off to a great start.
@@ -2987,21 +3216,25 @@ Just Be Real (2010-04-27 11:08:31)
 Amen Wanda. I love my early morning walks as well. On those walks I get a lot of inspiration that I know is only
 from the Lord. Thank you for sharing dear one. Blessings.
 ```
+
 ```
 Will Burke (2010-04-27 11:23:45)
 That’s one of my favorite part of having a dog, daily excuse to go for a walk! Well-said, have a great day!
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-27 14:18:43)
 Hallelujah! Getting out in the morning is a great reminder of His presence. I always think of His grace in those
 moments.
 Blessed beyond,
 ```
+
 ```
 Shannon (2010-04-27 16:22:40)
 I love to walk with the Lord in the morning, but sadly have not been able to as of late due to being ill! I enjoyed this
 very much!
 ```
+
 ```
 arlee bird (2010-04-27 17:34:27)
 I’ve been doing the morning walks and think of those things like you say as I look at the trees, plants, and flowers.
@@ -3010,6 +3243,7 @@ still thanking and praising God for letting me have such a blessed life.
 Lee
 [1]May 3rd A to Z Challenge Reflections Mega Post
 ```
+
 1. http://tossingitout.blogspot.com/2010/04/whats-next.html
 Bud Ezekiel H. (2010-04-27 19:03:01)
 :)...you know, i love this post! it’s along my thought patterns today. God bless you, sis!
@@ -3019,19 +3253,23 @@ PRAISE ADONAI !!!
 Ellie (2010-04-28 01:57:00)
 Hi Wanda, I feel the same way! It is like moving meditation, it frees us, so we are open to listen!
 ```
+
 ```
 Patricia Stoltey (2010-04-28 04:11:05)
 There is something about being alone outside in the early morning that reaches all of us. When I lived in Florida, it
 was the ocean in the early morning. Now in Colorado it’s the hiking trails. It’s a good feeling.
 ```
+
 ```
 Wanda (2010-04-28 16:52:01)
 Thanks guys for stopping by. Good to see so many of us find fresh manna in the mornings.
 ```
+
 ```
 Mike (2010-04-28 21:32:19)
 Wonderful scripture! Thank you :)
 ```
+
 ## Random Things about Me (2010-04-28 00:37)
 
 [1]
@@ -3067,6 +3305,7 @@ it away.
 And books? Girl. Don’t get me started ;)
 Thank for joining us today Wanda! I love learning more about you beautiful ladies.
 ```
+
 ```
 Alyssa Rose (2010-04-28 01:15:06)
 Thanks for stopping by, Wanda! That is so cool that you had a Pontiac as your first car! I did, too! But mine was a
@@ -3075,27 +3314,32 @@ My favorite B &B Works scent is Enchanted Orchid but they discontinued it. So, n
 Woods!
 Hope you are having a fabulous day!
 ```
+
 ```
 ModernDayDrifter (2010-04-28 02:31:33)
 I love these random fact things that people do! You learn so much cool stuff that normally wouldn’t come up in
 conversation! So cool! I think you inspired me to do one of these soon.
 ```
+
 ```
 Bud Ezekiel H. (2010-04-28 03:45:10)
 hey sis, love the photo and the verse.
 recovering pefectionist?
 that made me smile. what are you recovering toooo???
 ```
+
 ```
 Melissa Lea (2010-04-28 06:53:39)
 OH MY GRACIOUS.
 I love paperback swap. :)
 Thanks for stopping by my blog earlier! I love your layout...very chic!
 ```
+
 ```
 Rae (2010-04-28 11:00:02)
 It’s always nice to know personal little things about the people who write my favorite blogs! Thanks for sharing!
 ```
+
 ```
 Wanda (2010-04-28 15:17:16)
 Critty, it was my pleasure. Sorry I missed it last month.
@@ -3106,10 +3350,12 @@ learning to relax more Him I feel more at peace.
 Melissa, thanks
 Rae, oh gosh u list mine among your favorites :)
 ```
+
 ```
 Tori Cooper (2010-04-29 22:53:41)
 Fun, Fun, Fun! By the way, I’m really liking your new blog format! :-D
 ```
+
 ## X Marks the Spot (2010-04-28 15:10)
 
 [1]
@@ -3146,47 +3392,57 @@ BLUEBUTTERFLY (2010-04-28 16:25:55)
 X-Rated? Ha Ha! Thank the Lord He’s not shown me the eXit yet!
 Blessings,
 ```
+
 ```
 Wanda (2010-04-28 16:49:58)
 lol...x-rated NOT. Yep, I’m grateful that my sins has been X out. Thanks for stopping by.
 ```
+
 ```
 Lisa (2010-04-28 21:48:39)
 Thank goodness it’s not x-rated! I know that’s not how you roll though sister! :)
 Great ”X” post!
 ```
+
 ```
 Wanda (2010-04-28 22:58:35)
 Lisa, I’m glad you’ve come to know that about me.
 ```
+
 ```
 Bud Ezekiel H. (2010-04-28 23:34:56)
 ahhhh:) three more posts. do you think you would do another A to Z challenge, Wanda?
 you nailed this one!
 ```
+
 ```
 Patricia Stoltey (2010-04-28 23:41:45)
 Well done, Wanda – seems like this challenge went really fast, now that it’s almost over.
 ```
+
 ```
 Ellie (2010-04-29 02:55:12)
 Hi Wanda, fun post, nice curve ball!
 Hard to believe we are near the end; it went by quickly! Phew, the dreaded X is over!
 ```
+
 ```
 Wanda (2010-04-29 03:28:19)
 Bud, I just might give it a try again in the future. It’s been a learning experience.
 Patricia and Ellie, it seems like yesterday I was debating about joining the challenge and not it’s pratically over.
 ```
+
 ```
 Niki (2010-04-29 07:51:34)
 I agree, this challenge has gone so fast. It will be good to get some sleep now though. haha
 ```
+
 ```
 Linda (2010-04-29 12:03:57)
 New design on the blog? Love it! And great X post. I had to do a little dictionary reading also, then decided to go
 with the only X word I could think of. Another A-Z challenge? I don’t know...
 ```
+
 ```
 Watery Tart (2010-04-29 13:17:16)
 What a great reminder to be thankful for what we have–healthy enough limbs to write AND literacy. It is so foreign
@@ -3194,11 +3450,13 @@ to think about a day when people couldn’t do that (or had to carry about a sta
 read and write) but we forget that there are people today with huge challenges. I think if I lost my ability to write,
 my sanity would soon follow right behind.
 ```
+
 ```
 Tori Cooper (2010-04-29 22:56:30)
 Funny how our posts correlate... :-) I wrote about XO’s- Hugs & Kisses... how legend has it that people used an X to
 sign their name & then they would kiss it to finalize everything...I had no idea people still signed with X’s! COOL!
 ```
+
 ## Y is for Yield (2010-04-29 20:31)
 
 Hi y’all (in my southern drawl). Hard to believe that we’re already at the letter ”Y”. Today Y is for yield.
@@ -3233,27 +3491,32 @@ Are you yielding to the right things in your life? Have you given the Master a y
 Mariel (2010-04-29 20:33:09)
 oh, this is so good! love your A-Z Challenge!
 ```
+
 ```
 Linda (2010-04-29 22:46:22)
 Oh you did good. Yield is a great Y word, especially the way you explain it. I am sorry to hear that something is
 bothering you and I hope that won’t last.
 ```
+
 ```
 Lisa (2010-04-29 22:48:57)
 I will say YES! Great song and great post. I have issues with yielding those same things that you mentioned. I want
 to ALWAYS give God the right-of-way in my life – YIELD to Him! :)
 ```
+
 ```
 Tori Cooper (2010-04-29 22:52:44)
 Love it! God is good! Thank you for sharing this... and the verses too! :-) Yield to the LORD! Connects well with
 what I posted today... :-D
 ```
+
 ```
 Ellie (2010-04-30 02:33:37)
 I agree great word, you did it proud!
 It makes me think, I have had moments that were easy to yield and
 some that were not! Powerful, as always
 ```
+
 ```
 Grammy (2010-04-30 03:25:26)
 Hi,
@@ -3261,19 +3524,23 @@ Another great Christian song is ”Yield not to temptation, for yielding is sin�
 Good post for Y.
 Ruby
 ```
+
 ```
 Rae (2010-04-30 10:43:14)
 I hope your worries are lessened with each day. Thinking of you and my need to yield...Thanks!
 ```
+
 ```
 Wanda (2010-04-30 18:34:55)
 Thanks to each of you for stopping by. Linda & Rae, I appreciate your concern.
 ```
+
 ```
 CeCe Wilson (2010-05-01 01:23:21)
 Thanks for your insightful and thoughtful posts. Always a good word when I need it. Yield. Let go of the right away
 and let God. I like it :0)
 ```
+
 ## Z is for (2010-04-30 13:34)
 
 Z is Zenith TV.
@@ -3304,52 +3571,62 @@ some extra time. But in the mean time, zap over to [5]Tossing It Out find out wh
 Shannon (2010-04-30 15:05:08)
 Love the picture of the deer..so funny! So glad to have met you sweetie!
 ```
+
 ```
 Raquel Byrnes (2010-04-30 16:39:35)
 My grandma totally had one of those monster televisions! Loved the cute picture. Congrats on finishing the challenge!
 ```
+
 ```
 BLUEBUTTERFLY (2010-04-30 16:53:43)
 A Zenith! Oh my Lord. My Aunt had one of those TVs, and I swore at least one child could hide in there for days.
 She refused to give up that TV no matter what techology advances were made.
 She is in heaven now. I hope there’s a Zenith up there!
 ```
+
 ```
 Wanda (2010-04-30 18:25:48)
 Good to have met you too Shannon.
 Raquel congrats to you as well.
 Bluebutterfly lol, hopefully she’s watching the Zenith in the sky
 ```
+
 ```
 Linda (2010-04-30 18:42:28)
 Okay I am feeling a little old. Dear Hubby and I had a Zenith and it looks just like the one in the pic! DH has
 kept right up with technology though so we have all the latest and greatest, I think. Wanda - where did you find the
 beautiful blog layout?
 ```
+
 ```
 Bud Ezekiel H. (2010-04-30 18:49:50)
 hi Wanda! looks familiar to me as well. you’re stirring up memories now sister! looking forward to reading many,
 many,many more posts from you and others!:)
 ```
+
 ```
 Gregg (2010-04-30 19:53:04)
 WE had a Zenith floor model way back in the day. I saw my first console TV when I was in the 6th grade.
 ```
+
 ```
 Just Be Real (2010-05-01 00:51:27)
 That is one skinny deer. I remember having a tv similar growing up, but it was b &w.
 Blessings and thank you for sharing.
 ```
+
 ```
 Lisa (2010-05-01 02:29:23)
 I remember those floor TVs. :)
 I just love that picture. Did you get it at the Ft. Worth zoo, too?
 Great post Sister!
 ```
+
 ```
 Amydeanne (2010-05-03 18:17:08)
 oh I remember those tvs! lol great letter Z posts! & thanks for visiting my blog too!
 ```
+
 ## 1.3 May
 
 ## Z is for Zachariah (2010-05-01 03:54)
@@ -3392,17 +3669,20 @@ SonshineMusic i.e. Rebecca T. (2010-05-01 04:04:01)
 What a great reminder of how we need to be open to the things God has for us, even if we think it’s past the time we
 thought it would come. :)
 ```
+
 ```
 Lisa (2010-05-01 04:05:39)
 I always glean something from your posts Wanda. It’s obvious you know the Word of God. I enjoyed reading your
 take on this well known portion of the Bible. :)
 ```
+
 ```
 Tori Cooper (2010-05-01 04:33:07)
 Congratulations Wanda! You did such a great job on all of your posts! I wish I had more time to give your blog more
 attention. However, every time I was able to visit I was blessed! I’m glad to have met you in this challenge! I hope
 to keep connected after this challenge.. looking forward to May 3
 ```
+
 ```
 Ellie (2010-05-01 05:10:19)
 Wanda, you posts always make me pause and reflect on what is going on in my life. It is a difficult journey, sometimes
@@ -3410,26 +3690,31 @@ to wonder why our path is a certain way! I think
 your insight is amazing! I look forward to following you, after the challenge! Thanks for all your valued, inspiring
 posts!
 ```
+
 ```
 Bud Ezekiel H. (2010-05-01 16:39:50)
 hi Wanda!:) congratulations on another wonderful post and finish!
 looking forward to many more...
 ```
+
 ```
 Carol Fleisher (2010-05-02 00:32:19)
 Great post. I think we all struggle sometimes with trusting God as much we should. Great job on the challenge. I
 also love your new blog layout. Have a great weekend.
 ```
+
 ```
 arlee bird (2010-05-02 01:28:03)
 You have brought your A to Z posting to a very appropriate conclusion. It was a thought provoking post. Thank you,
 Wanda, for the wonderful job you did with your posts and your encouraging comments. You did a great job.
 ```
+
 ```
 I look forward to reading your Reflections post.
 Lee
 [1]Tossing It Out
 ```
+
 1. http://tossingitout.blogspot.com/
 Debra Harris-Johnson (2010-05-02 17:39:27)
 Wanda I loved all your postings and you really inspire me. I am happy to call you friend and want to congratulate
@@ -3442,11 +3727,13 @@ just awarded you with the ”Sunshine Award” you can pick it up here: http://w
 5/shout-out-sunshine-award.h tml
 Come & get it!
 ```
+
 ```
 Tori Cooper (2010-05-04 03:33:43)
 Did you pick the award yet? Make sure to come & get it! :-D
 http://www.journeycalledlife1.com/2010/05/shout-out-sunshine-award.h tml
 ```
+
 ## Reflections on the A to Z Challenge (2010-05-03 16:51)
 
 As with any endeavor you undertake, I found a sense of personal satisfaction in not just starting but com-
@@ -3533,17 +3820,20 @@ other’s dedication to our Father, Son, and Holy Spirit. it makes/made a differ
 sisters standing alongside me. i loved reading your posts that always reflected Him in your life. ”we” have a long ways
 to go together, sister:) congratulations and thank you for the award as well!
 ```
+
 ```
 Bud Ezekiel H. (2010-05-03 17:43:54)
 btw Wanda, i can certainly understand why you received the comment award!!! you have commented on all of my
 posts, i think. if not all, then certainly the majority of them. it really surprised me to get your award and Tori’s.
 when all this hoopla dies down after today, i’m surely going to pass them along:)
 ```
+
 ```
 Kierah Jane Reilly (2010-05-03 18:00:14)
 Wanda, I really enjoyed your posts and I’m glad to have ”met” you through this challenge. Even though I didn’t
 comment everyday, I did read often!
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-03 18:18:18)
 Wanda I would like to thank you for the support you gave me and congratulations on finishing the challenge AND
@@ -3551,6 +3841,7 @@ the well deserved award. I enjoyed your blogs and I know you will go far.
 Take care. see you soon.
 Yvonne.
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-03 18:18:19)
 Wanda I would like to thank you for the support you gave me and congratulations on finishing the challenge AND
@@ -3558,20 +3849,24 @@ the well deserved award. I enjoyed your blogs and I know you will go far.
 Take care. see you soon.
 Yvonne.
 ```
+
 ```
 Beth (2010-05-03 18:18:33)
 Wanda You are a blessing to me. I haven’t been the most faithful of commenters lately but I always enjoy my visits
 to your blog!
 ```
+
 ```
 Andrea (2010-05-03 19:02:54)
 Blessings and prayers,
 andrea
 ```
+
 ```
 Gregg (2010-05-03 20:29:28)
 Good job - it was a pleasure to read your blog!
 ```
+
 ```
 Lisa (2010-05-03 22:02:19)
 YOU DID IT!!! :O)
@@ -3579,6 +3874,7 @@ Your blog has been one of my favorites, Wanda. You always had a great Word to gi
 felt a kinship with you because of our sistership in Christ Jesus, our Lord.
 Thank you for the sweet award – I appreciate it so much! :O)
 ```
+
 Linda (2010-05-03 22:13:26)
 Just blogging since February? No way.. .you are too good! I love your insights, your thoughts - and I will keep
 reading what you have to say. And as soon as I can figure out how to post the award, I will (have a lesson on blogging
@@ -3650,6 +3946,7 @@ Shannon, glad I discovered it through you.
 Alliterative Allomorph, no worries
 Ellie, you’re quite welcome and quite deserving. I love your posts.
 ```
+
 ```
 Carola... (2010-05-05 06:48:30)
 Hey! I hadn’t heard of the A-Z challenge before, but I have to say, I love it when people do something, unique, like
@@ -3658,6 +3955,7 @@ this and set out to take on the challenge, conquer, and appreciate what they hav
 I popped over to say hi, from Australia, via the Sassy Single Bloggers link-up. Because, frankly, we simply just ROCK!
 GBU!
 ```
+
 ```
 Ellie (2010-05-05 13:21:03)
 Hi Wanda,
@@ -3666,6 +3964,7 @@ I’d like to know what you would say...
 Hope you have a Wonderful Wednesday
 I like the look of your site!
 ```
+
 ```
 Patricia Stoltey (2010-05-06 05:17:12)
 I enjoyed the blog challenge so much, but honestly, Wanda, I still haven’t visited all the blogs on Arlee’s list. I’m
@@ -3673,6 +3972,7 @@ determined to get to all of them though.
 One thing I’ve noticed is that some blogs are especially restful and comforting places to visit. Yours is like that. I’m
 glad you’re here.
 ```
+
 ## Word Filled Wednesday (2010-05-05 05:21)
 
 [1]
@@ -3697,17 +3997,20 @@ Bud Ezekiel H. (2010-05-05 06:55:22)
 ...so this is going to be your posts for Wdenesdays i take it? this will be interesting to follow because we’ll find out
 what things appeal to you:)
 ```
+
 ```
 Andrea (2010-05-05 07:54:02)
 AMEN Girlfriend!!
 Blessings, hugs, and prayers,
 andrea
 ```
+
 ```
 BLUEBUTTERFLY (2010-05-05 09:26:01)
 Surely I will bless you and multiply you. Hebrews 6:14
 Faith, hope, and above all, love.
 ```
+
 Lisa (2010-05-05 09:58:56)
 I love that scripture and the photo is beautiful, too. I need to get back to WFW. I did it for a while, but let other
 things take precedence. Nothing should take precedence over God’s Word!!
@@ -3761,47 +4064,57 @@ Blessings, friend!
 Deborah (2010-05-06 04:29:38)
 So glad you decided to join. Beautiful photo/verse that truly spoke to my heart this morning.
 ```
+
 ```
 ozjane (2010-05-06 07:59:36)
 I feel like a paddle in those waves.....how wonderful that we can cast our care on Him and then with empty hands
 reach out for His blessings.
 ```
+
 ```
 Kaye Swain (2010-05-06 11:01:52)
 What a lovely photo! And I have to tell you, that encouraing Bible verse is exactly what I need today! :)
 ```
+
 ```
 Karen (2010-05-06 11:42:11)
 Amen! Great scripture promise...lovely picture....
 ```
+
 ```
 melodygreen (2010-05-06 12:25:03)
 I needed this reminder today (and every day)... I think I’ll be joining in on this from time to time!
 ```
+
 ```
 Amydeanne (2010-05-06 14:35:19)
 yes he does! Amen!
 ```
+
 ```
 Wanda (2010-05-06 21:31:14)
 Thanks ladies for stopping by. God bless each of you.
 ```
+
 ```
 Just Be Real (2010-05-06 21:44:55)
 Wanda this was beautiful and touched my heart. Thank you for sharing and all your encouraging comments to me as
 well. Blessings.
 ```
+
 ```
 Sherry (2010-05-07 19:06:57)
 Beautiful verse and pic! He will fill us with peace, when we give Him our worries! :D
 Sherry
 ```
+
 ```
 jo.attalife (2010-05-08 00:20:54)
 Hi, Wanda, thanks for visiting and commenting on my blog. Thanks, too, for sharing this verse... this meme is greatly
 used by God to give me gentle nudges and reminders and I always end up being so blessed. Like with the verse you
 used today. Amen.
 ```
+
 ## I’m It but You May Be Next (2010-05-06 11:59)
 
 Two of my blogger friends, Lisa and Ellie, tagged me to participate in the 5 for 5 meme. I’m suppose to
@@ -3859,6 +4172,7 @@ i used to love watching survivor. but after the second show i lost interest. the
 and the young woman. imho
 think it took place in Australia? i’m not into TV like i used to be.....
 ```
+
 ```
 Ellie (2010-05-06 20:33:08)
 I loved your answers, very admirable!
@@ -3867,17 +4181,20 @@ I use to watch Survivor, I want them to go to Alaska...or have Men have to funct
 perms,manicures, pedicures, panty hose, rollers, perms...they can’t do the pregnancy thang. They could do the
 high heels and see how long they survive!
 ```
+
 ```
 Wanda (2010-05-06 21:29:30)
 Bud, I didn’t get into the show at first but the past few seasons I’ve been hooked.
 Ellie..lol, men functioning as woman would make a very interesting show.
 ```
+
 ```
 Lisa (2010-05-10 18:32:31)
 How did I miss this? I don’t know...I just haven’t seen any of your posts coming up in my reader.
 Thank you for participating Wanda. I enjoyed reading your answers. You and I seem to have a lot in common. The
 #1 thing being our love for Jesus Christ! :O)
 ```
+
 ## Imprisoned Thoughts (2010-05-07 03:58)
 
 [1]
@@ -3919,12 +4236,14 @@ Thx for dropping by my blog. You have a lovely home here.
 Blessings,
 Vickie
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-07 13:15:09)
 Most interesting to read.
 Have a good week-end.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2010-05-07 16:30:28)
 Wow! Great things to meditate on. I know the thoughts that come into your mind. As a man thinketh in his
@@ -3946,17 +4265,20 @@ The conclusion, when all has been heard, is: fear God and keep His commandments,
 person. For God will bring every act to judgment, everything which is hidden, whether it is good or evil. - Ecclesiastes
 12:13-14
 ```
+
 ```
 Trudy (2010-05-07 20:59:25)
 A very powerful verse indeed. So important to remember that it is a twofold process, getting rid of the old (sinful
 thoughts) and replacing it with the new (creative thoughts).
 Great post Wanda! God bless you!
 ```
+
 ```
 Just Be Real (2010-05-07 22:23:53)
 Wanda, my first reaction to what I was thinking while I was reading this post was, I was thinking about what I was
 reading. Great post. Thanks for sharing.
 ```
+
 Tori Cooper (2010-05-07 23:04:56)
 Excellent Post! I know what it feels like to be a prisoner to my thoughts and feelings... thank God I have been able
 to escape. Great word of encouragement! Keep up the good work!
@@ -4007,18 +4329,22 @@ Thank you for your best wishes, the flowers are lovely.
 Have a peaceful Sunday.
 Yvonne.
 ```
+
 ```
 Slushpile Slut (2010-05-09 14:28:32)
 Happy Mother’s Day to you too Wanda!
 ```
+
 ```
 BLUEBUTTERFLY (2010-05-09 14:33:09)
 Blessings to all who do the work of mothers! Be blessed and highly favored, Wanda.
 ```
+
 ```
 Ellie (2010-05-11 02:44:12)
 Wonderful wishes with gorgeous flowers! Thank you,so much!!!
 ```
+
 ## The Blahs (2010-05-11 12:38)
 
 [1]
@@ -4043,6 +4369,7 @@ Will Burke (2010-05-11 12:45:47)
 We all kinda go in these cycles, and they’re hard to weather. My prefered antidote is music; something I haven’t
 heard in awhile (see: cassetts!).
 ```
+
 ```
 The Alliterative Allomorph (2010-05-11 12:53:18)
 Everybody has these down days. I sure do! Imagine what boring people we would be if we were happy all the time.
@@ -4050,10 +4377,12 @@ We would never have opinions, questions, or inspiration to learn new things if w
 makes us better people. I’d cherish it now and again, if I were you. I do. I embrace it, feel it, then let it fly away. I
 hope you feel better soon. xx
 ```
+
 ```
 Carol Fleisher (2010-05-11 13:17:01)
 Hang in there. We all have days like that. What helps me is music and to get out and soak up some sun. ((HUGS)))
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-11 13:24:11)
 I think everyone suddenly they realise they do the same routine everyday,go to the same shops.....they can’t have
@@ -4061,27 +4390,32 @@ changed overnight, what direction is their life taking them, it may last a few d
 people worse of than myself and suddenly those shops look different, your routine becomes a joy and you feel back to
 normal again.
 ```
+
 ```
 BLUEBUTTERFLY (2010-05-11 14:18:05)
 Relax in His arms: I have stilled and quieted my soul; like a weaned child with its mother, like a weaned child is my
 soul within me. - Psalm 131:2
 ```
+
 ```
 Andrea (2010-05-11 14:50:10)
 Blessings and prayers,
 andrea
 ```
+
 ```
 Lisa (2010-05-11 16:51:46)
 You’ve raised up a standard against the enemy by relying on the Word of God. You’ve got the weapons of warfare
 and are using them. YAY for you! I know your day will be better.
 (((hugs)))
 ```
+
 ```
 Wanda (2010-05-12 03:17:57)
 Thanks to each of you for your encouraging words. A drive, sun and P & W music helped to lift my spirits some.
 Blessings to each of you.
 ```
+
 ```
 Bud Ezekiel H. (2010-05-12 03:25:58)
 now that’s good to hear, sister!:)
@@ -4089,16 +4423,19 @@ i get days like that too. never know from one day to the next wether i’m going
 my face, or groveling...
 ...love that song, God on the Mountain
 ```
+
 ```
 Pet (2010-05-12 11:10:46)
 This was my feelings for the pass few days. But I can tell you God is good and peace will follow before you know it.
 Blessings!
 ```
+
 ```
 ̃ Being Woven (2010-05-13 13:45:06)
 Yes, I must remember this verse as well!! Waiting and praising... yes indeed.
 Thanks again, linda
 ```
+
 ## Some Things Don’t Change (2010-05-12 06:30)
 
 Life is full of changes-seasons change, businesses open and close, relationships that started out full of hope
@@ -4128,16 +4465,19 @@ Oh I love those green mountains....and I love that book of Isaiah.
 Thanks for being my first visitor.
 It is after 11pm so I am going to stop reading for tonight and head for bed.
 ```
+
 ```
 Will Burke (2010-05-12 07:49:11)
 Welcome back from your funk!
 ```
+
 ```
 Julie (2010-05-12 08:08:49)
 It’s hard to funtion when you’re done and out but your a woman and we always bounce back. I love your picture and
 verse. Thank you for sharing.
 I hope that you have a great and blessed day. Take care!
 ```
+
 WELCOME TO MY WORLD OF POETRY: (2010-05-12 08:48:09)
 A lovely post and those beautiful green hills was a joy to see.
 Yvonne.
@@ -4240,11 +4580,13 @@ Amen! I am so glad he never changes! Beautiful image!
 Blessings,
 Myrna
 ```
+
 ```
 Wanda (2010-05-14 13:53:19)
 Thanks to each of you for stopping by and I’m glad that glad to be feeling myself again. May continue to bless and
 keep you.
 ```
+
 ## Steps Along the Way (2010-05-14 20:30)
 
 [1]
@@ -4282,11 +4624,13 @@ I enjoyed your post very much,
 I hope you have a wonderful week-end.
 Yvonne.
 ```
+
 ```
 Nativa (2010-05-14 20:56:01)
 You know many of us take the wrong path in life but hopefully we eventually get back on track. These ’detours’ make
 us better human beings if we decide to learn from the experience.
 ```
+
 ```
 Lisa (2010-05-14 22:32:38)
 Amen Wanda, Amen! I am learning this truth through my current journey and have realized my need for Jesus more
@@ -4294,6 +4638,7 @@ than ever before. It’s a great feeling knowing He’s there beside me, every s
 (((hugs)))
 Lisa
 ```
+
 ```
 Bud Ezekiel H. (2010-05-15 01:30:32)
 :)
@@ -4301,6 +4646,7 @@ this reminded me once again of His promisee. all too often i’ve taken those de
 He was taking me. yes, He brought me back to the path. again. and again. and again...and again. this journey has
 been incredibly long for me. but i know it’s He who is bringing me to a better place. grat post sister Wanda!:)
 ```
+
 ```
 Amy in Peru (2010-05-15 02:43:43)
 Don’t give me the easy path!
@@ -4311,19 +4657,23 @@ Thanks for your thoughts today and the inspiration to meditate on these truths :
 amy in peru
 ps. Your blog is beautiful!
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-15 07:39:57)
 Hi if you go to my post ”A New Beginning” there’s an award for you. I appreciate all the support you have given me.
 Yvonne.
 ```
+
 ```
 Rae (2010-05-15 13:33:52)
 Words I will keep with me on my journey... Thank you!
 ```
+
 ```
 Mike (2010-05-15 14:34:11)
 Thank you :)
 ```
+
 ```
 AnooCre8ion (2010-05-15 16:26:40)
 Great post Wanda. The beauty about it all is that even when we take steps out of the plan HE has for us, He always
@@ -4331,6 +4681,7 @@ has a back-up plan to bring us right back on track. That’s because nothing sur
 Blessings,
 Vickie
 ```
+
 ```
 Gregg (2010-05-15 22:22:09)
 All of our steps are ordered by the Lord. Even the ”ones that seemed to lead to a dead end.” God orders them for a
@@ -4339,6 +4690,7 @@ reason, hopefully, as He reveals the reason we are open and responsive. There is
 He is also teaching, blessing, discipling, disciplining, correcting, buidling us in every step. I am afraid we miss so much
 of it becasue we are not in tune to him but to the things around us.
 ```
+
 ```
 Wanda (2010-05-17 01:02:21)
 Thanks to each of you for sharing your thoughts. I believe that God in His sovereignty always knows the steps we
@@ -4346,6 +4698,7 @@ will take even before we take them. However, I believe that sometimes we make ch
 routes than He had wished for us. Just like in the case of the Israelites. But He is able to reroute us back to the
 correct path.
 ```
+
 ## Finding My Strength (2010-05-16 03:14)
 
 For the Sovereign Lord, the Holy One of Israel, says, ”Only in returning to me and waiting for me will you
@@ -4366,46 +4719,56 @@ BLUEBUTTERFLY (2010-05-16 04:21:25)
 Amen, Wanda, Amen. Hope in Him, wait on Him.
 Be blessed above.
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-16 06:14:30)
 Wonderfully inspirational.
 Yvonne.
 ```
+
 ```
 Will Burke (2010-05-16 10:40:33)
 Silence is becomming harder to acheive, but well worth the effort.
 ```
+
 ```
 Lisa (2010-05-16 20:24:33)
 It’s so simple if we’ll just obey. What are we gonna do with our hardheaded selves?!
 Wonderful Wanda – I loved this!
 ```
+
 ```
 Wanda (2010-05-17 01:04:46)
 Will, I imagine it is with a busy baby.
 Lisa, yes we’re so hard headed at times. Thanks be to God that He’s patient and merciful.
 ```
+
 ```
 Just Be Real (2010-05-17 11:21:51)
 Wanda, this has touched me. Thank you!
 ```
+
 ```
 Mike (2010-05-17 11:24:55)
 Confidently wait.. that is the challenge. Thank you Wanda.
 ```
+
 ```
 Karen (2010-05-17 17:35:34)
 Amen...this is right on the mark! Thanks for the reminder....
 ```
+
 ```
 Together We Save (2010-05-17 18:18:59)
 So beautiful!! Thanks.
 ```
+
 ```
 Godzheart (2010-05-17 18:44:09)
 Thanks for visiting my blog and encouraging me. You have a good thing going on right here wow. To God be all
 glory!
 ```
+
 ## Quiet Confidence (2010-05-17 22:00)
 
 In [1]Saturdays post I shared how I was reflecting on Isaiah 30:15, particularly the part about in quietness
@@ -4441,39 +4804,47 @@ Hallelujah! Hallelujah! PEACE...BE STILL! So timely in all the chaos. God is spe
 those who choose to listen.
 Blessings, Wanda!
 ```
+
 ```
 Carol Fleisher (2010-05-17 23:32:57)
 great post. What a wonderful thing Christ offers if we only choose to listen and obey.
 ```
+
 ```
 Shannon (2010-05-17 23:54:30)
 Thanks I needed that today Wanda!
 ```
+
 ```
 Andrea (2010-05-18 00:02:54)
 Another great post!
 Blessings and prayers,
 andrea
 ```
+
 ```
 Bud Ezekiel H. (2010-05-18 00:13:37)
 :)....pondering
 ```
+
 ```
 Karen (2010-05-18 02:10:55)
 Very good post...I needed to be reminded of being quiet instead of arguing my point all the time....
 ```
+
 ```
 Lisa (2010-05-18 02:31:55)
 I need to write those last four points down and memorize them!
 Great post Sis!
 ```
+
 ```
 Edie (2010-05-19 02:02:35)
 I’m working on developing more quietness and confidence quite a bit these days. :)
 Glad you like the scripture tags!
 Enjoy your week!
 ```
+
 ```
 arlee bird (2010-05-21 21:17:59)
 Such great words of advice. It’s like the admonition always given to writers: ”Show, don’t tell.”
@@ -4481,9 +4852,11 @@ Likewise, don’t brag about what you can do, just quietly do it and speak throu
 me about what God’s going to do to me, but show me how God works through you by your actions.
 Lee
 ```
+
 ```
 [1]Tossing It Out
 ```
+
 1. http://tossingitout.blogspot.com/
 
 ## You’re Unforgettable (2010-05-19 06:31)
@@ -4506,12 +4879,14 @@ Visit today’s host, Amydeanne at [3]The 160 Acre Woods for other Word Filled W
 Karen (2010-05-19 06:56:55)
 Oh...I LOVE this picture for this precious scripture promise....
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-19 07:08:46)
 A wonderful picture and the words gbrought tears to my eyes (for personal reasons) Thanks for sharing.
 Have a good day.
 Yvonne.
 ```
+
 ```
 Ginger (2010-05-19 10:13:47)
 Oh, Wanda, that is so beautiful.
@@ -4520,6 +4895,7 @@ My hubby did our sites. I am glad you like hers. Check us out if you want him to
 Have a blessed day.
 Ginger (and Rena)
 ```
+
 ```
 lori (2010-05-19 10:41:03)
 Wanda....
@@ -4527,23 +4903,28 @@ This is beautiful! What a blessing!
 peace!
 lori
 ```
+
 ```
 BLUEBUTTERFLY (2010-05-19 11:01:19)
 Wanda, that particular Scripture has given me much comfort over the years. God is faithful!
 ```
+
 ```
 Kaye Swain - SandwichINK (2010-05-19 12:36:11)
 What an awesome and encouraging Bible verse and photo. Thank you! :)
 ```
+
 ```
 hip chick (2010-05-19 12:37:54)
 Beautiful words and picture.
 ```
+
 ```
 GlowinGirl (2010-05-19 13:13:04)
 I love that God has such tender, unforgetable love for us. And what a perfect picture to go with it. I’ll be thinking
 about this today!
 ```
+
 ```
 Rena (2010-05-19 14:52:18)
 Hi Wanda! I LOVE this beautiful picture and verse!
@@ -4551,39 +4932,48 @@ Thank you for stopping by and for leaving your comment. I wanted to stop by and 
 Come back and visit!
 Rena @ insertgracehere
 ```
+
 ```
 Mike (2010-05-19 15:03:42)
 Mike likes this.
 ```
+
 ```
 Missie (2010-05-19 17:07:36)
 Missie likes this too ;)
 ```
+
 ```
 Denise (2010-05-19 18:24:05)
 Such a touching post.
 ```
+
 ```
 Lisa (2010-05-19 19:14:22)
 What an amazing WFW! Love it Wanda!!
 ```
+
 ```
 partialemptynester (2010-05-19 21:33:20)
 So true! Thanks for stopping by and commenting on my post, I needed that encouragement today :)
 ```
+
 ```
 Brian the old man (2010-05-19 22:42:38)
 I love this photo and verse. Thanks for sharing and for your kind words on my blog today.
 ```
+
 ```
 Amydeanne (2010-05-20 07:25:08)
 i remember reading this book as a new mom and having it really hit me!
 Thanks for the reminder today!
 ```
+
 ```
 Laurencita (2010-05-20 23:59:29)
 Beautiful and touching words, thanks for sharing.
 ```
+
 ```
 Beth in NC (2010-05-21 04:40:00)
 That is so beautiful Wanda!
@@ -4591,6 +4981,7 @@ Thank you for visiting me yesterday. I am going to follow you. I hope you’ll v
 Many blessings!
 Beth
 ```
+
 ```
 daylily777 (2010-05-21 12:46:18)
 Beautiful promise from our God ,wonderful illustration!
@@ -4598,6 +4989,7 @@ Blessings,
 Myrna
 ps. I have a sister named Wanda. : )
 ```
+
 ## Your View of Windows (2010-05-21 11:18)
 
 I was just curious to know if any you have upgraded to Windows 7. If so what has been your experience
@@ -4614,6 +5006,7 @@ WELCOME TO MY WORLD OF POETRY: (2010-05-21 11:32:44)
 I have to get a new laptop, on looking most are windows 7 so I’d be grateful also if anyone could let me know.
 Yvonne,
 ```
+
 Rae (2010-05-21 12:00:37)
 My new laptop came with Windows 7 and I actually like it a lot. Especially when you have several screens going for
 internet searches- they pop up from the bar and you can see them all at a glance- click one and you are there.
@@ -4668,12 +5061,14 @@ Andrea (2010-05-24 16:41:46)
 Thank you for praying for my friend, MaryGrace.
 andrea
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-24 17:32:48)
 A lovely post, I do so like that relaxing scene at the top of your page.
 Take care.
 Yvonne,
 ```
+
 ```
 Ellie (2010-05-24 20:56:39)
 You really narrow the focus and it is done so eloquently!
@@ -4682,18 +5077,22 @@ I changed my blog and accidentally
 deleted my sunshine award. I didn’t
 want you to think I removed it...I love it! So, I will have to figure out how to put it back ;-D
 ```
+
 ```
 Bud Ezekiel H. (2010-05-24 22:29:51)
 i agree with Ellie. this is like....simple yet carries an impact.
 ```
+
 ```
 Lorena G. Sims (2010-05-24 23:42:21)
 A very good reminder.
 ```
+
 ```
 Karen (2010-05-25 01:06:30)
 Amen! He is all we need!
 ```
+
 ## Teaser Tuesday (2010-05-25 22:17)
 
 Being the book lover that I am and having finished reading a great book, I decided to participate in Teaser
@@ -4714,6 +5113,7 @@ MY TEASER
 her burn in shame. Never had she dressed so provactively, but the garments he asked her to wear
 for him turned her into a Jezebel.” A Stray Drop of Blood by Roseanna M. White, pg 76
 ```
+
 Reading a good book? Do share
 
 [3]
@@ -4729,27 +5129,33 @@ woman with a gift for weaving rugs who is forced to become a concubine at one po
 http://www.bloodofflowers.com/
 Thanks for stopping by my own blog. :)
 ```
+
 ```
 Ellie (2010-05-26 04:32:41)
 How fun, wow, that was powerful and so descript! I’m intrigued
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-26 07:12:33)
 Fun and most enjoyable.
 Yvonne.
 ```
+
 ```
 Rae (2010-05-26 11:33:22)
 Neat idea! Wish I had my favorite book handy- I loaned it out!
 ```
+
 ```
 PatriciaW (2010-05-26 13:45:53)
 It’s never too late for a teaser, Wanda. Glad you decided to join in. That’s an intriguing one.
 ```
+
 ```
 Lorena G. Sims (2010-05-26 19:33:28)
 The book sure sounds interesting.
 ```
+
 ## Overloaded? (2010-05-25 23:01)
 
 The Lord helps the fallen
@@ -4778,29 +5184,35 @@ Good day Wanda loved the qoute,
 Have a super day.
 Yvonne.
 ```
+
 ```
 Denise (2010-05-26 02:20:19)
 Such comforting truth.
 ```
+
 ```
 GlowinGirl (2010-05-26 04:40:16)
 That He does, Praise Him!! He is so good.
 (Love your picture for the verse, too!)
 ```
+
 ```
 Susan (2010-05-26 06:16:57)
 Wanda!
 This was beautiful. I needed this word today.
 Thanks so much for joining us this WFW?
 ```
+
 ```
 Karen (2010-05-26 07:52:18)
 Awesome! What a promise....
 ```
+
 ```
 ozjane (2010-05-26 08:00:52)
 Lovely image and verse to match.
 ```
+
 BLUEBUTTERFLY (2010-05-26 08:06:54)
 Yes, Wanda, that is our Lord. We lift His name and He lift us up, restores us, revives us and carries the load.
 Blessings.
@@ -4854,15 +5266,18 @@ Great WFW!
 Perfectly Blended (2010-05-27 01:06:28)
 The picture goes well with the verse. Such a great encouragement. Thanks for sharing!
 ```
+
 ```
 Wrigley (2010-05-27 01:07:02)
 Such a comforting WFW!
 ```
+
 ```
 One Heart (2010-05-27 21:36:55)
 I needed this my friend. Just right. Thanks for stopping by my place earlier. I don’t know if I mentioned this in my
 last comment when I last visited you, but your blog is beautiful. Blessings!
 ```
+
 ## Lessons Learned Along the Way (2010-05-26 23:55)
 
 As a part of Exemplify Online Singles Channel, Christy has asked Sassy Single Bloggers to share what God
@@ -4912,6 +5327,7 @@ Bud Ezekiel H. (2010-05-27 00:04:55)
 hi Wanda:)
 an excellent post! Re-visiting the Tomb was/is...as well!!!
 ```
+
 ```
 wisdomvirtueandrubies (2010-05-27 00:50:52)
 Just as I suspected... The Lord continues to teach me through the lessons of others. He’s so faithful that way. I can
@@ -4920,23 +5336,27 @@ mobility.” This one really caught me. For me, the tactic used to paralyze me i
 Lord for revealing this to me, then nudging me to keep moving. Thank you, Wanda, for sharing your ”lessons learned
 along the way”.
 ```
+
 ```
 Ellie (2010-05-27 02:53:37)
 These are great; for me, patience and persistence. I have some goals
 to accomplish, not just personal ones. I want to get my family to walk for some causes, volunteer and
 etc. Try, try again...
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-27 06:40:51)
 An excellent post Wanda, enjoyed the read.
 Yvonne,
 ```
+
 ```
 Rae (2010-05-27 10:18:22)
 I’ve learned to not let people suck me into their troubled worlds and hearts. When someone gets negative or nasty- I
 just walk away. A year ago- I would have nodded in agreement and taken their side. just to fit in and not be shunned.
 Life is so much better with positive insights and daily prayer.
 ```
+
 ```
 Mike (2010-05-27 11:35:14)
 Importance of recognizing and celebrating the small victories. Most of the time our healing or overcoming doesn’t come
@@ -4945,10 +5365,12 @@ My lesson this year is that I am too self sufficient and need to lean on Him in 
 just the things I don’t think I can cope with.
 Blessings :)
 ```
+
 ```
 BLUEBUTTERFLY (2010-05-27 14:22:11)
 The more I live the more I believe, without doubting, that His Word is the most important thing in my life.
 ```
+
 ```
 Wanda (2010-05-31 19:02:47)
 Thank you Bud, Yvonne,!
@@ -4958,6 +5380,7 @@ Mike, that’s a great lesson. I think we’re often guilty of believing we can 
 urges us to acknowledge Him in all our ways.
 Bluebutterfly, good one!
 ```
+
 ## The If(s) (2010-05-27 08:30)
 
 If, is such a small word but one that often has one looking back in regret. At other times it has us glancing
@@ -4997,6 +5420,7 @@ WELCOME TO MY WORLD OF POETRY: (2010-05-27 09:10:45)
 Loved your answers Wanda, I did this one last week, had alot of fun doing it.
 Take care,
 ```
+
 Yvonne,
 
 Rae (2010-05-27 10:03:23)
@@ -5060,14 +5484,17 @@ They will not be forgotten.
 Have a good day.
 Yvonne.
 ```
+
 ```
 Karen (2010-05-31 18:11:57)
 Love that graphic...beautiful tribute....
 ```
+
 ```
 sarah (2010-05-31 18:51:51)
 I too am really grateful for their courage....
 ```
+
 ## Favorite Finds (2010-05-31 21:35)
 
 Last week I came across a couple of interesting or inspiring reads as I explored the blogosphere. My intention
@@ -5138,39 +5565,47 @@ Karen (2010-05-31 22:32:16)
 I enjoyed visiting your links, Wanda...
 Congrats on your awards! Thanks for sharing one with me....
 ```
+
 ```
 Lisa (2010-06-01 00:53:48)
 Great learning more about you Ms. Wanda. :) Congrats on the awards and to your recipients. I hope you had a nice,
 long holiday weekend!
 ```
+
 ```
 rachelwojnarowski (2010-06-01 01:28:14)
 Thanks for the link girl! Keep up the spirit! You post fantastic info.
 ```
+
 ```
 Wanda (2010-06-01 01:36:45)
 You’re welcome Karen and Rachel. Lisa, I definitely did enjoy the extended weekend and tomorrow it’s back to making
 the donuts :)
 ```
+
 ```
 Maxine (2010-06-01 03:30:44)
 Thank you, Wanda, for passing your award on to me, and congrats on getting one. I look forward to getting to know
 you better through our blogs!
 ```
+
 ```
 GlowinGirl (2010-06-01 10:24:19)
 Thanks, Wanda, for the award. :)
 OH, and I agree with your number 5! It drives me crazy too. It was fun getting to know a bit about you!
 ```
+
 ```
 GlowinGirl (2010-06-01 10:24:20)
 Thanks, Wanda, for the award. :)
 OH, and I agree with your number 5! It drives me crazy too. It was fun getting to know a bit about you!
 ```
+
 ```
 PatriciaW (2010-06-01 16:37:52)
 Aawww, thanks for the award, Wanda. I appreciate your support and am loving your blog too.
 ```
+
 ```
 Amy in Peru (2010-06-18 19:49:57)
 wanda! oh my goodness. I’m sorry I haven’t been over here. actually, I did come and the page wasn’t loading right,
@@ -5180,6 +5615,7 @@ thanks so much for thinking of me :) so sweet!
 I hope you’ve had an excellent week!
 amy in peru
 ```
+
 ## Teaser Tuedays (2010-05-31 23:02)
 
 Today’s teaser comes from Women Food and God by Geneen Roth
@@ -5189,6 +5625,7 @@ Today’s teaser comes from Women Food and God by Geneen Roth
 events. It gives you the illusion of feeling everything whithout having to be vulnerable to any-
 thing.”
 ```
+
 Teaser Tuesdays is a weekly bookish meme, hosted by MizB of [1]Should Be Reading. Anyone can play
 along! Just do the following:
 Grab your current read
@@ -5212,25 +5649,30 @@ It’s like banging your head against a brick wall.
 Have a good day Wanda,
 Yvonne,
 ```
+
 ```
 JBR (2010-06-01 03:37:06)
 Wanda good teaser. Thank you for sharing. Blessings to you and yours.
 ```
+
 ```
 Creations by Laurel-Rain Snow (2010-06-01 05:12:01)
 Wow, that one makes me think!
 Here’s mine:
 http://rainysnowday.wordpress.com/2010/06/01/teaser-tuesdays-14/
 ```
+
 ```
 Karen (2010-06-01 06:08:51)
 Very interesting....
 ```
+
 ```
 Marg (2010-06-01 07:30:26)
 I think I will revisit this teaser in the morning. It looks good
 My teaser is [1]here
 ```
+
 1. http://readingadventures.blogspot.com/2010/06/teaser-tuesday-cottage-by-sea-by-ciji.html
 Lisa (2010-06-01 07:44:30)
 [1]Here’s mine
@@ -5255,6 +5697,7 @@ Today’s teaser comes from Women Food and God by Geneen Roth
 events. It gives you the illusion of feeling everything whithout having to be vulnerable to any-
 thing.”
 ```
+
 Teaser Tuesdays is a weekly bookish meme, hosted by MizB of [1]Should Be Reading. Anyone can play
 along! Just do the following:
 Grab your current read
@@ -5277,31 +5720,37 @@ It’s like banging your head against a brick wall.
 Have a good day Wanda,
 Yvonne,
 ```
+
 ```
 JBR (2010-06-01 09:37:06)
 Wanda good teaser. Thank you for sharing. Blessings to you and yours.
 ```
+
 ```
 Creations by Laurel-Rain Snow (2010-06-01 11:12:01)
 Wow, that one makes me think!
 Here’s mine:
 http://rainysnowday.wordpress.com/2010/06/01/teaser-tuesdays-14/
 ```
+
 ```
 Karen (2010-06-01 12:08:51)
 Very interesting....
 ```
+
 ```
 Marg (2010-06-01 13:30:26)
 I think I will revisit this teaser in the morning. It looks good
 My teaser is [1]here
 ```
+
 1. http://readingadventures.blogspot.com/2010/06/teaser-tuesday-cottage-by-sea-by-ciji.html
 
 ```
 Lisa (2010-06-01 13:44:30)
 [1]Here’s mine
 ```
+
 1. http://when-she-reads.blogspot.com/2010/06/teaser-tuesday-center-of-attention.html
 Lady Q (2010-06-01 15:47:05)
 That’s a thought-provoking teaser! Here’s my teaser for [1]The Smoke Thief.
@@ -5361,23 +5810,28 @@ my side and he is will NOT be defeated.
 Thanks for the good word!
 PS - I like your new signature line!
 ```
+
 ```
 BLUEBUTTERFLY (2010-06-01 19:03:56)
 Amen! Amen! Amen!!!!!!!!! I’m just going to step on it and do a little dance! Holy! Holy! Holy!
 ```
+
 ```
 Lorena G. Sims (2010-06-01 20:17:07)
 Such an inspirations, Wanda, thank you.. It is so true that our enemy is so persistent and doesn’t give up easily..
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-06-01 21:21:45)
 A wonderful write Wanda, if only you knew how the last four lines hit home to me. Thank you.
 Yvonne,
 ```
+
 ```
 Karen (2010-06-01 21:53:06)
 Amen! Standing my ground till the victory comes....
 ```
+
 ```
 wisdomvirtueandrubies (2010-06-02 00:24:34)
 I’m learning that sometimes we have it twisted. We think that fear is supposed to go away in order for us to move
@@ -5386,6 +5840,7 @@ His word and evidence of His character and principles in everyday encounters lik
 your yard. The NERVE of the enemy, and then the Glory of the Almighty! I love it! Thank you for sharing this. I’m
 adding it to my ”list” of lessons from my walk the other day. ;-)
 ```
+
 ```
 Trudy (2010-06-02 01:39:28)
 A beautiful post Wanda and what a powerful message the Lord delivered to you through the dogs. He does show up
@@ -5393,12 +5848,14 @@ in the most unlikely places, doesn’t He?
 Praise Him indeed that He has already defeated the prince of this earth!!!!
 God bless you dear!
 ```
+
 ```
 Ruth (2010-06-02 02:09:17)
 what an encouraging post Wanda. its something i needed to hear. God sure does have a sense of humor...
 Love your blog. following you.
 God bless you mighty!!
 ```
+
 Ruth (2010-06-02 02:09:49)
 p.s: thank you so much for dropping by my blog...
 
@@ -5447,11 +5904,13 @@ WELCOME TO MY WORLD OF POETRY: (2010-06-02 00:21:37)
 Lovely words,
 Yvonne.
 ```
+
 ```
 GlowinGirl (2010-06-02 04:04:29)
 The LORD Himself!! I love those words. And what a great picture to show that verse. I need reminding that I don’t
 need to get discouraged because He is before me, with me, behind me!
 ```
+
 ```
 lori (2010-06-02 04:55:51)
 Glowin Girl picked up on the SAME words that I did...The LORD Himself. I need this today and I have several
@@ -5460,11 +5919,13 @@ Thank you Wanda for sharing this!
 peace,
 lori
 ```
+
 ```
 Beth in NC (2010-06-02 05:25:21)
 That is so encouraging. I’m glad I saw this reminder today.
 Thanks Sister!
 ```
+
 Beth
 
 Karen (2010-06-02 06:05:32)
@@ -5577,6 +6038,7 @@ than others, certain stages of our lives last longer than others.
 Mike (2010-06-03 09:55:56)
 Thankyou.
 ```
+
 ```
 Sonya Schroeder (2010-06-03 12:54:06)
 Hi Wanda my first time at your blog. I love it. Thanks for your words today. I for some reason love to start things
@@ -5586,11 +6048,13 @@ Thank you for the great reminder.
 Serving with Joy,
 Sonya
 ```
+
 ```
 BLUEBUTTERFLY (2010-06-03 13:31:55)
 Amen! He never leavs us, never forsakes us and is with us until completion.
 Amazing God! Amazing grace!
 ```
+
 Chelle (2010-06-03 13:36:10)
 Thank you for sharing! Great post!!!
 
@@ -5650,11 +6114,13 @@ give up on me.
 In Christ,
 Erin
 ```
+
 ```
 Living Water (2010-06-15 09:39:28)
 So much truth in this! Yes, Jesus is the author and finisher of our faith, who for the joy that was set before Him
 endured the cross, despising the shame, and is set down at the right hand of the throne of God (Hebrews 12:2 KJV).
 ```
+
 ## Interesting Finds (2010-06-04 09:00)
 
 As I cruised cyberspace this week, I came across some posts that made me laugh; others made me ponder,
@@ -5695,21 +6161,25 @@ Will Burke (2010-06-04 10:51:24)
 I’m enjoying some writing blogs I’ve encountered through the A-Z, like Southern City Mysteries and Old Silly’s Free
 Spirit Blog. Thanks for sharing.
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-06-04 11:03:09)
 There are many blogs I enjoy so to pick one out will be an in justice to the others,
 Enjoy your day,
 Yvonne.
 ```
+
 ```
 Ruth (2010-06-04 16:21:40)
 these are interesting finds... thanks fr sharing with us.
 ```
+
 ```
 wisdomvirtueandrubies (2010-06-04 20:27:41)
 After reading your post, the post ”Blogging is Powerful” over at Just Enjoy Him immediately comes to mind. Stumbled
 across it on the Wordpress home page this morning.
 ```
+
 ```
 LisaShaw (2010-06-04 21:01:55)
 Hi Wanda,
@@ -5720,12 +6190,14 @@ I’m blessed with every blog I visit but the ones above spoke to my heart throu
 Blessings to you.
 Lisa
 ```
+
 ```
 Wanda (2010-06-06 23:32:28)
 Will, the A to Z challenge was a great opportunity to find new blogs for me as well.
 Monica, I’ll have to peep over there when I get a chance.
 Thanks for sharing Lisa. I haven’t heard of those blogs but I’ll be sure to check them out.
 ```
+
 ## Making Sense of the Nonsense (2010-06-06 02:37)
 
 Today marks a week ago since I learned about the tragic deaths of a former schoolmate and her two children
@@ -5754,15 +6226,18 @@ Ruth (2010-06-06 03:13:26)
 absolutely Wanda, will pray for the bereaved family. Most often than not, we don’t seem to understand God’s ways...
 but we know that Father has our best interest at heart...
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-06-06 06:26:39)
 I will pray for the family Wanda but it’s at times like this I do wonder why?
 Yvonne.
 ```
+
 ```
 Chelle (2010-06-06 12:48:04)
 Heartache of earth vs the hope of Heaven. Never easy. Praying.
 ```
+
 ```
 LisaShaw (2010-06-06 20:50:41)
 Wanda,
@@ -5775,32 +6250,39 @@ and saddened for the tender hearts of the loved ones who I know are in pain. May
 them.
 Blessings...
 ```
+
 ```
 Bud Ezekiel H. (2010-06-06 22:19:03)
 ...okay, praying sis.
 ```
+
 ```
 Godzheart (2010-06-06 22:38:31)
 That is a difficult news. Uplifting the family in prayer even as write this comment.
 ```
+
 ```
 Wanda (2010-06-06 23:28:58)
 Thanks to each of you for including this family in your prayers. On this side of eternity the whys are often left
 unanswered but I believe that God will surround this family in their time of bereavement.
 ```
+
 ```
 BLUEBUTTERFLY (2010-06-07 12:44:04)
 Thank You Lord for your You indescribable gift. Lord, we lift up this family. Peace, wonderful peace. Let us dwell in
 Your presence, Lord. Perfect peace.
 ```
+
 ```
 Lorena G. Sims (2010-06-07 19:11:10)
 Lifting them up in my prayers..
 ```
+
 ```
 Karen (2010-06-08 10:04:41)
 Praying for the family and friends...
 ```
+
 ## Discarded Things (2010-06-08 05:01)
 
 As I walked this morning, my mind began to reflect on my walking companion-my sweet dog Bella. Just a
@@ -5831,20 +6313,24 @@ Jesus name.
 Ruth (2010-06-08 05:03:38)
 Amen to the beautiful prayer! what an encouraging post... Thank You!!
 ```
+
 ```
 Suz (2010-06-08 06:24:15)
 Wanda, thank you for visiting. God’s grace to you. Suz.
 ```
+
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-06-08 06:34:52)
 Thanks for sharing this wonderful up lifting post.
 Have a good day.
 Yvonne,
 ```
+
 ```
 Karen (2010-06-08 10:07:02)
 Amen! Regardless of the value or non-value placed on us by others...we are His beloved...and that’s all that matters!
 ```
+
 Andrea (2010-06-08 12:06:23)
 Thank you so much for your prayers, encouragement, and support.
 Blessings,
@@ -5887,6 +6373,7 @@ For I will give you abundant water to quench your thirst and to moisten your par
 And I will pour out my Spirit and my blessings on your children. They will thrive like watered
 grass, like willows on riverbanks.
 ```
+
 Isaiah 44:3-4 is a scripture I’ve been meditating on and praying over my extended family for the past few
 days. Thirst has been a recurring theme for me this year.
 At times, I’ve been guilty of using substitute sources in an attempt to quench my thirsty soul. For there
@@ -6015,18 +6502,22 @@ A wonderful promise to us Blessings
 Joanne Sher (2010-06-10 01:22:36)
 WOW, Wanda - this is so powerful, and a reminder I so needed. So glad I stopped by today. Happy WFW!
 ```
+
 ```
 shopannies (2010-06-10 01:22:45)
 love your post
 ```
+
 ```
 LauraLee Shaw (2010-06-10 01:32:16)
 Yes, a prayer of my heart.
 ```
+
 ```
 Bud Ezekiel H. (2010-06-10 01:40:19)
 loved the scripture and your post, Wanda.
 ```
+
 ```
 Laurie (2010-06-10 03:35:35)
 Your prayer is so appreciated, and I pray for you also, that we would be able to be overcomers of, as you said, any
@@ -6034,12 +6525,14 @@ substitute water source, and that we will indeed be filled to overflow with His 
 Blessings,
 Laurie
 ```
+
 ```
 Donna (2010-06-10 12:35:19)
 A wonderful and inspiring post! Thank you for the reminder that Jesus is our source for a fresh drink! May we drink
 from Him today!
 Thank you for stopping by my blog. It is greatly appreciated!
 ```
+
 ## You Choose What to Carry (2010-06-10 12:09)
 
 [1]
@@ -6066,38 +6559,46 @@ Just beautiful to read Wanda,
 Enjoy your day.
 Yvonne.
 ```
+
 ```
 Karen (2010-06-10 13:17:09)
 Beautiful, Wanda....filling up my suitcase now....
 ```
+
 ```
 Ruth (2010-06-10 14:55:56)
 Amen Amen! oh what a beautiful prayer Wanda. Bless you...
 Ruth
 ```
+
 ```
 Beth in NC (2010-06-10 19:18:57)
 Amen. What a wonderful prayer!
 ```
+
 ```
 Godzheart (2010-06-10 20:04:40)
 Amen to that.
 ```
+
 ```
 Bev (2010-06-10 20:31:48)
 soothing words for today...
 thank you for visiting my blog...i am thankful to have found yours!
 ```
+
 ```
 Lorena G. Sims (2010-06-10 23:10:47)
 Amen!
 ```
+
 ```
 arlee bird (2010-06-11 03:00:52)
 Yes! and I concur with that.
 Lee
 [1]Tossing It Out
 ```
+
 1. http://tossingitout.blogspot.com/
 Just Be Real (2010-06-11 12:56:48)
 Wanda, so very powerful words! Amen.
@@ -6106,11 +6607,13 @@ Wanda, so very powerful words! Amen.
 Sherry @ Lamp Unto My Feet (2010-06-12 02:05:28)
 So needed to read this today.. Thank you!!
 ```
+
 ```
 One Heart (2010-06-12 12:59:11)
 Great prayer, Wanda. I also loved reading ”Extinguish My Drought, Lord.” Thank you for stopping by on WOW and
 leaving your encouraging words. My blessings to you today dear sister.
 ```
+
 ## Like Three P’s in a Pod (2010-06-11 13:52)
 
 [1]
@@ -6131,11 +6634,13 @@ information or to register visit [2]Empowering Christian Woman
 Karen (2010-06-11 13:54:11)
 I need more of those 3 ”P’s”, too...thanks for the link....
 ```
+
 ```
 Brian the old man (2010-06-11 17:21:10)
 Prayer, Purpose and Passion sound a whole lot better than veggies. lol I wish I could have attended, maybe next
 time. I hope you enjoyed it. God bless.
 ```
+
 ```
 welcome to my world of poetry (2010-06-11 18:02:46)
 Not long ago I wrote a poem....about a garden pea. I think Arlee would remember it,
@@ -6144,10 +6649,12 @@ I enjoyed your three ”Ps” very good ideal.
 enjoy your week-end.
 Yvonne.
 ```
+
 ```
 Bud Ezekiel H. (2010-06-11 19:25:07)
 ...could use more of that too.
 ```
+
 ```
 Bev (2010-06-11 19:51:23)
 i gotta tell ya, i love the picture of the peas for your post...too cute! and very creative...
@@ -6156,14 +6663,17 @@ i am putting this on my monitor. right now!
 enjoy the weekend!
 xo
 ```
+
 ```
 Beth in NC (2010-06-12 02:03:40)
 I like that! What a great visual. I pray you enjoyed it today!
 ```
+
 ```
 wisdomvirtueandrubies (2010-06-12 13:35:32)
 I love the ”3 peas in a pod” anology. I wish I’d been available for the webinar. How was it?
 ```
+
 ```
 Wanda (2010-06-12 17:48:41)
 Yes, yes...I enjoyed it very much. Perhaps I’ll get around to sharing to a few of the notes I took.
@@ -6173,6 +6683,7 @@ Brian, I’m with you those p’s are much more advertising to me since I’m no
 Yvonne, it surprising me how you’re able to write about all types of subject matter through poems.
 Thanks Bev, morgue file has lots of free to use photos.
 ```
+
 ## Things That Made Me Go...Hmmm (2010-06-12 17:42)
 
 As usual I read some great posts as I ventured out in blog world, today I’m sharing just a few of those that
@@ -6191,6 +6702,7 @@ show Himself strong through it. There are consequences for disobedience, but God
 not only forgive, but it brings blessings out of sins and failures. God will fight for us just as He
 did for Israel.”
 ```
+
 • I’m using [4]Saucy tips, which I found at [5]Tidy Mom for the perfect cupcakes from a mix everytime
 today for the cupcakes I’m baking for church.
 • And I’m thinking of trying to make the [6]Marshmallow Pops from Hostess with the Mostess. They’re
@@ -6232,25 +6744,30 @@ atmosphere in the family so I sat down and wrote how I felt.
 Have a good week-end.
 Yvonne.
 ```
+
 ```
 Ellie (2010-06-12 20:07:44)
 How fun, I love to find new blogs; Thanks for sharing...great idea!
 I think I will try that next week.
 I have a little something for you; Come visit me ;-D
 ```
+
 ```
 Missie (2010-06-13 01:44:48)
 I am going to start doing this too so that everyone else knows how amazing other bloggers are!
 ```
+
 ```
 BLUEBUTTERFLY (2010-06-13 14:45:13)
 Thank You, Lord, for all you’ve done, and are doing, through your vessels of honor.
 Faith, hope and, above all, love.
 ```
+
 ```
 Karen (2010-06-13 19:43:54)
 Great links, Wanda...thanks for sharing!
 ```
+
 ```
 CeCe Wilson (2010-06-25 12:22:00)
 Hi Wanda! I haven’t been on blogger in a minute, you know, life. Anyway, thank you for sharing you blog list. I was
@@ -6258,9 +6775,11 @@ truly blessed by Lisa’s post. I spoke to right where I am and what God has bee
 I’m getting ready to push! Love you for sharing so much good food ;0)
 Yours in His service,
 ```
+
 ```
 CeCe
 ```
+
 ## Where Does the Time Go? (2010-06-15 08:00)
 
 What book are you giving the most face time? God’s book, Facebook or perhaps some other book? Sometimes
@@ -6286,11 +6805,13 @@ on in the outside world,
 Enjoy your day,
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2010-06-15 14:09:30)
 Wow, Wanda. I did the same thing with FB about a month ago. I now only use it to connect with clients and
 associates outside my immediate geographic area.
 ```
+
 ```
 One Heart (2010-06-15 14:37:34)
 Wanda, right on target as usual. If you read my page titled, ”About Me?” you’ll see how God practically had to pry
@@ -6304,12 +6825,14 @@ too, but another friend shared how it is a much more purposeful place when used 
 In the end, none of it makes any sense if we are too distracted from abiding in His Word and in His presence. Good
 post my sister.
 ```
+
 ```
 Missie (2010-06-15 14:48:18)
 I have decided that i am only going to read novels, magazines and the like on weekend. Blogs and the Bible are my
 only weekday friends.
 I probably should start less time on Facebook or Twitter too!
 ```
+
 Thanks for your post!
 
 Joanne Sher (2010-06-15 16:32:35)
@@ -6370,19 +6893,23 @@ welcome to my world of poetry (2010-06-16 00:48:08)
 A goodd issue put ina wonderful way with words.
 Yvonne.
 ```
+
 ```
 Denise (2010-06-16 03:18:32)
 Well said sweetie.
 ```
+
 ```
 GlowinGirl (2010-06-16 04:42:57)
 Isn’t this the truth! So much of the time I’ve tried to do it MY way (think Sinatra now). His ways are puzzling to us
 at times, but the song and dance much more amazing when surrendered to His writing!
 ```
+
 ```
 God Whispers In The Wind (2010-06-16 04:46:32)
 Wanda this was delightful. Thank you for sharing. Blessings.
 ```
+
 Karen (2010-06-16 05:44:15)
 I absolutely loved your take on this scripture...my husband and I are in the music business, so I can really relate to
 this...great WFW!
@@ -6485,21 +7012,25 @@ Wonderful object lesson. Very well said! I enjoyed this post.
 Blessings,
 e-Mom @ Chrysalis?
 ```
+
 ```
 ceemee (2010-06-16 22:12:13)
 I absolutely love this WFW, sometimes I forget to surrender to God and be His instrument. This is our purpose, to
 be in tune with His calling.
 ```
+
 ```
 pathfromtheheadtotheheart (2010-06-18 09:02:55)
 Oh, AMEN! What a beautiful post and reminder, Wanda!!! Thank you for that!
 ```
+
 ```
 daylily777 (2010-06-19 07:08:41)
 Wonderful WFW! Great verse & illustration!
 Blessings,
 Myrna
 ```
+
 ## God of the Detours (2010-06-17 11:52)
 
 Being a bit directionally challenged (as I like to call it), I like to take a familiar route. And on the occasions
@@ -6532,6 +7063,7 @@ Me. I have so many blessings that I want to give to you but you keep looking and
 to be a ONE WAY KIND OF GOD, BECAUSE I BLESSED YOU THAT WAY LAST WEEK
 YOU LOOK FOR IT TO COME AGAIN THAT WAY AND WHEN YOU DO,YOU MISS THE
 ```
+
 ```
 DETOUR SIGNS AND IT KEEPS ME BLOCKED, BARRICADED AND LOCKED FROM
 RELEASING THE BLESSING. BECAUSE YOU STILL TRAVELING ON A ROAD THAT’S
@@ -6545,6 +7077,7 @@ Whatever DETOUR you’re on right now, don’t despise it, IT just may be your R
 BLESSING!
 Author: Christie Williams
 ```
+
 [1]
 
 1. http://www.mylivesignature.com/
@@ -6558,6 +7091,7 @@ I had this kind of thing happen, last week, driving to Yorktown. We have a GPS, 
 Meanwhile, the car behind me is flashing me warning lights. He wanted to pass, but someone had sped up in the
 other lane. Then he floors it and goes around me, next thing I know so does another car, with a woman, age around
 ```
+
 80. Huh?! I was stunned...no one was going the speed limit; crazy! You are not alone in the direction, road blocked
 world :-D
 
@@ -6565,16 +7099,19 @@ world :-D
 Missie (2010-06-17 14:43:33)
 Road of blessing! I love that!
 ```
+
 ```
 Karen (2010-06-17 17:06:29)
 I loved this analogy! Written directions and a GPS can sometimes give the wrong information...and we become
 lost...much like our spiritual life...we can only stay on track if we follow the infallible Word of God....
 ```
+
 ```
 Lorena G. Sims (2010-06-17 18:35:03)
 That is so wonderful and so encouraging..God of the Detours. Thank you for sharing that and give my thanks to your
 cousin too.
 ```
+
 ```
 welcome to my world of poetry (2010-06-17 19:16:14)
 Yes I too join in and thank you for sharing, also it is very comforting when there are changes taking place and one is
@@ -6582,26 +7119,31 @@ trying to reason it out.
 Take care.
 Yvonne,
 ```
+
 ```
 Bev (2010-06-17 21:01:32)
 amazingly symbolic and applicable to many of us...i take it to heart very much right now in my life...thank you for
 this insight!!
 ```
+
 ```
 Barbie (2010-06-18 05:41:29)
 That was a wonderful Word. Thank you for sharing. So true about much of my life. I need to stop looking at my
 detours as obstacles and start looking at them as opportunities.
 ```
+
 ```
 Mike (2010-06-18 19:08:04)
 So relevant to me at the moment as I am trying to work on listening to the Holy Spirit. Sometimes He says some
 surprising things... often encouraging me to break out of my spiritual routine. It’s hard to trust that voice and obey
 but He is always right!
 ```
+
 ```
 Bud Ezekiel H. (2010-06-19 04:49:34)
 ...this gives me pause to wonder! great post sis!:)
 ```
+
 ```
 Trudy (2010-06-21 03:03:29)
 What a beautiful message your cousin received from the Lord, she was truly blessed. I get nervous when I lose my
@@ -6610,10 +7152,12 @@ Thank you for sharing such a powerful message Wanda!
 God bless you!
 Trudy
 ```
+
 ```
 Yolanda (2010-06-29 20:39:09)
 Great post and beautiful blog! Blessings!
 ```
+
 ## To The Fathers... (2010-06-20 06:00)
 
 Happy Father’s Day!
@@ -6630,28 +7174,34 @@ house; and his righteousness shall endureth forever Psalm 112:1-3
 Ruth (2010-06-20 07:02:46)
 Hi Wanda, Happy Father’s Day! Thanks for the verse.
 ```
+
 ```
 Mike (2010-06-20 07:09:15)
 Have a blessed Sunday... great scripture!
 ```
+
 ```
 welcome to my world of poetry (2010-06-20 08:39:09)
 Have a peaceful day.
 Yvonne.
 ```
+
 ```
 Brian the old man (2010-06-21 00:41:14)
 First, thank you for stopping by my blog and wishing me a Happy Fathers Day. I really like and appreciate the verse
 ```
+
 ```
 you chose for today. Thank you.
 ```
+
 ```
 Trudy (2010-06-21 03:00:37)
 What a perfect passage for fathers today!
 God bless you dear!
 Trudy
 ```
+
 ```
 Heart2Heart (2010-06-21 16:34:49)
 Wanda,
@@ -6660,10 +7210,12 @@ email me with your mailing information, No P.O. Boxes, and I can get that out to
 Congratulations again and I look forward to hearing from you soon,
 Love and Hugs Kat
 ```
+
 ```
 Karen (2010-06-21 18:16:35)
 Wanda, May you have a wonderful week.
 ```
+
 ## Access Granted... (2010-06-22 07:30)
 
 Those two words were the first thoughts embedded in my mind when I awoke Sunday morning. Access
@@ -6714,18 +7266,22 @@ welcome to my world of poetry (2010-06-22 07:57:07)
 This was a wonderful post Wanda, I really enjoyed the read.
 Yvonne.
 ```
+
 ```
 Pet (2010-06-22 11:17:42)
 Nice post. Good morning and sending blessings your way.
 ```
+
 ```
 Amydeanne (2010-06-22 15:29:04)
 great post Wanda!
 ```
+
 ```
 BLUEBUTTERFLY (2010-06-22 17:45:45)
 Amen! ... Seek the Lord while He may be found; Call upon Him while He is near. - Isaiah 55:6
 ```
+
 ```
 Bud Ezekiel H. (2010-06-22 23:22:45)
 hi Wanda:)
@@ -6734,23 +7290,27 @@ between us? that comment you left in my blog wasn’t just a ”coincidence.” 
 a confirmation from Him. it also means it to me that it isn’t my idea....but His. this one has questions too. so lets
 pray for one another for His spirit of revelation. what do you think about this?
 ```
+
 ```
 Wanda (2010-06-23 00:13:23)
 Thanks, Yvonne, Pet, and Amy.
 Bluebutterfly great scripture reference.
 Bud, your post was confirmation to me as well. Sounds like a good idea my friend.
 ```
+
 ```
 Bud Ezekiel H. (2010-06-23 01:37:57)
 :)...okay and Thank You!!!
 Praise Adonai !!!
 ```
+
 ```
 One Heart (2010-06-23 12:51:00)
 Wanda, this is such a spirit-stirring post. I’m filled with anticipation. Now I too shall seek His revelation. Praying
 with you my sister–for revelation, clarity, and the wisdom on how to handle it once the direction is made clear. You
 are right about an open door signifying an entrance OR and exit. Praying.
 ```
+
 ## Cant Afford to Trash it (2010-06-23 00:00)
 
 [1]
@@ -6778,10 +7338,12 @@ If one loses ones condidence then that’s a big thing in life to lose,
 Whatever life throws at you confidence is needed.
 Yvonne.
 ```
+
 ```
 Wanda (2010-06-23 02:40:22)
 So true, Yvonne. I appreciate your visits here. Wishing you a blessed WFW!
 ```
+
 jo.attalife (2010-06-23 03:07:35)
 What a great reminder for me today. I tend to hold on the ugly and nasty, and yet throw out my confidence so hastily.
 God just spoke to me right now. Thank you!
@@ -6935,6 +7497,7 @@ There is no better confidence than in God! :D What a wonderful devotional post t
 Have a great weekend!
 Sherry
 ```
+
 ```
 Janis@Open My Ears Lord (2010-06-25 23:18:56)
 Wanda,
@@ -6942,20 +7505,24 @@ What a beautiful blog. I love your banner photo.
 I needed to hear your post today. The storms of life can tempt us to throw away our confidence.
 Janis
 ```
+
 ```
 Karen (2010-06-26 20:03:29)
 Very timely word! Thank you!
 ```
+
 ```
 Mike (2010-06-27 15:23:54)
 It’s a great encouragement to persevere... thank you :)
 ```
+
 ```
 Lisa (2010-06-29 21:37:13)
 Confidence in our Lord is a priceless commodity. One that I know I will never have to do without. Great post Sis.
 I’m proud to be a part of the family of God and to call you Sister.
 (((Hugs)))
 ```
+
 ## Linky Love (2010-06-25 13:46)
 
 [1] Sharing some link love today. Although I havent been able to spend much time in blog land
@@ -7005,24 +7572,29 @@ welcome to my world of poetry (2010-06-25 21:02:07)
 I enjoyed your write, it was lovely to sit back and read.
 Yvonne.
 ```
+
 ```
 Missie (2010-06-26 13:41:37)
 Thanks for the links!
 ```
+
 ```
 Just Be Real (2010-06-26 21:11:16)
 Thanks for sharing Wanda. Blessings.
 ```
+
 ```
 Gregg (2010-06-26 22:04:31)
 This is a good idea. I applaud you. It is nice to see what is out there that can be helpful or useful.
 ```
+
 ```
 Beth in NC (2010-06-26 23:08:04)
 Thanks for sharing these links with us Wanda.
 I pray you have a wonderful evening & Sunday!
 Beth
 ```
+
 ## Recyclable You (2010-06-28 13:30)
 
 [1]
@@ -7062,40 +7634,48 @@ Thought provoking post which started my rusty brain thinking.
 wonderful to read.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2010-06-28 14:17:12)
 Amen! Amen! The process is not always pleasant, but oh the promise....Thank You, Lord.
 ```
+
 ```
 Shirl (2010-06-28 16:33:53)
 Amen!
 Thanks for the visit and comment.
 ```
+
 ```
 Carol Fleisher (2010-06-28 16:47:54)
 Great post! True we don’t enjoy it at the time but we look back and see how God really worked in our lives. Well
 done. :)
 ```
+
 ```
 covnitkepr1 (2010-06-28 18:39:32)
 Hi. I came across your blog through another blog I follow and have signed up as a follower. When youre free, please
 do visit me and let me know what you think of my blog and leave a comment. If you like, do follow as well. I am
 always open to great new people and interesting websites. Look forward to hearing from you.
 ```
+
 ```
 Joanne Sher (2010-06-28 18:52:57)
 This is EXCELLENT, Wanda. What a great analogy, and reminder. We so often need that pain to catch on to what
 God is teaching us, don’t we?
 ```
+
 ```
 Bud Ezekiel H. (2010-06-28 18:58:08)
 i like your anology...:)
 ```
+
 ```
 Bev (2010-06-28 20:49:21)
 great analogy wanda...you have a way of putting our walk with the lord in great perspective...
 xo
 ```
+
 ```
 Wanda (2010-06-29 01:32:00)
 Yvonne, ”rusty brain”? Anyone who create poems like you...I think not.
@@ -7108,15 +7688,18 @@ Thank you, Bud.
 Bev, thanks but God knows the perfect way to make me understand...taking my everyday objects and shedding new
 light on them.
 ```
+
 ```
 Missie (2010-06-29 02:21:29)
 Thank you for your post! It is a good reminder that we are still being crafted!
 ```
+
 ```
 Monica (2010-06-30 22:07:03)
 Wow...this was a very good post. I love the analogy. I know I often wish I could skip the sanding, but then don’t we
 all. :-)
 ```
+
 ## Sins of the Mother (2010-06-29 07:00)
 
 ```
@@ -7125,10 +7708,12 @@ Im participating in TEASER TUESDAYS, a book meme hosted by [1]Should be Reading
 got behind the steering wheel, and her BMW headed west instead of east; before she could figure
 it out, she was in front of the condominium where shed spent four years of immense ecstasy and
 ```
+
 ```
 one year of total agony.
 Sins of the Mother by Victoria Christopher Murray
 ```
+
 [2]
 Want to join the fun? [3]Heres how:
 Grab your current read
@@ -7154,16 +7739,19 @@ Whats next up on your to be read list?
 Jennifer @ Mrs. Q: Book Addict (2010-06-29 09:26:10)
 oh, wow great teaser! I hope you’re enjoying it.
 ```
+
 ```
 Missie (2010-06-29 12:31:29)
 This sounds fun!
 ```
+
 ```
 Andrea (2010-06-29 14:04:56)
 Blessings and prayers,
 andrea
 PS: Thank you for your continued prayers and support.
 ```
+
 ```
 Creations by Laurel-Rain Snow (2010-06-29 22:43:22)
 That sounds really intriguing...wonder what that’s all about?
@@ -7171,6 +7759,7 @@ You have a fabulous blog header!
 Here’s my teaser:
 http://snowconnections.wordpress.com/2010/06/29/teaser-tuesdays-4/
 ```
+
 ```
 Emma Michaels (2010-06-30 01:55:12)
 Great teaser! I hope you will check out mine for Stephanie Meyer’s latest novel [1]The Short Second Life of Bree
@@ -7180,6 +7769,7 @@ Sincerely,
 Emma Michaels
 [3]http://EmmaMichaels.Blogspot.com
 ```
+
 1. http://emmamichaels.blogspot.com/2010/06/teaser-tuesday-short-second-life-of.html
 2. http://EmmaMichaels.Blogspot.com/
 3. http://EmmaMichaels.Blogspot.com/
@@ -7212,12 +7802,14 @@ welcome to my world of poetry (2010-06-30 00:56:10)
 Loved the write, I don’t like to stir up trouble, so none I guess.
 Yvonne,
 ```
+
 ```
 Daughter of the KING (2010-06-30 05:59:16)
 Great word for today! Think I’ll go stir up my email devotional group....
 Blessings,
 Linda J
 ```
+
 ```
 Beth in NC (2010-06-30 06:02:28)
 Well, unfortunately – today I might be stirring up controversy. Not intentionally, but anytime I mention my political
@@ -7227,21 +7819,25 @@ Now I’m wondering if I should remove my blog post.
 Blessings!
 Beth
 ```
+
 ```
 BLUEBUTTERFLY (2010-06-30 06:21:15)
 Amen! Hallelujah! Such a timely word. Your Word, Lord, I have hidden in my heart, that I may not sin against You.
 Let us stir up the things that are of You and You alone.
 ```
+
 ```
 Carrie (2010-06-30 06:25:42)
 Wanda, this is great! Love it!
 Hope you have a blessed WFW!
 ```
+
 ```
 Joanne Sher (2010-06-30 06:37:49)
 Oh, Wanda - do I EVER love this! Super reminder - and that visual is fabulous!!
 Happy WFW, friend!
 ```
+
 ```
 lori (2010-06-30 07:10:18)
 Wanda! THIS is my favorite this week! LOVE it! I’ll take this with me! I do a ”girls Bible Study” and this would
@@ -7250,10 +7846,12 @@ cookies would be PERFECT! You’ve completely inspired me!
 peace and Thank YOU!
 lori
 ```
+
 ```
 Amydeanne (2010-06-30 08:26:35)
 i’m with Lori! i love tis!
 ```
+
 ```
 One Heart (2010-06-30 08:43:01)
 Great words. I’m glad I see the question today and not two weeks ago. So, today I’m stirring up mercy, grace,
@@ -7261,6 +7859,7 @@ forgiveness, fellowship, kindness and more than anything else, love. Yet, I remi
 up trouble, He’s using it all to make us more in His image and the greatest lessons are learned in our mistakes. So for
 those who may not be stirring up the right things today I say, be glad you stopped by here and received a reminder
 ```
+
 and a boost, but don’t condemn yourself. Get up and go love again and thank Him for His grace.
 Thank you for sharing my friend.
 
@@ -7312,39 +7911,47 @@ Really like this.
 Cathy (2010-06-30 20:42:11)
 You are very creative. A great WFW
 ```
+
 ```
 Kaye Swain - SandwichINK (2010-06-30 20:48:24)
 That is such a great photo to go with that inspirational Bible verse. I’m definitely going to have to share it with my
 grandchildren when we’re working on Bible memory verses activities for grandparents and their grandchildren! Thank
 you for it. :)
 ```
+
 ```
 Lisa (2010-06-30 21:01:06)
 Great visual and thoughts in this verse. May we stir up love and good works rather than contention and strife.
 ```
+
 ```
 sarah (2010-07-01 07:39:39)
 powerful...very powerful message
 ```
+
 ```
 Belinda (2010-07-01 10:01:47)
 Wanda, this is my first visit to ”see” you, too. I think your space in Blogland is wonderful! I love the ”link love,” and
 may borrow that phrase as I often send people to places of interest myself. However, I will be back.
 Thanks for the visit to my little piece of Word Filled Wednesday on yesterday. God bless you.
 ```
+
 ```
 Lloyd (2010-07-01 11:12:44)
 Thank you for sharing such an inspiring and uplifting post. I really enjoyed reading the posts on your blog. I would
 like to invite you to come over to my blog and check it out. God’s blessings. Lloyd
 ```
+
 ```
 Ellie (2010-07-01 21:41:15)
 I don’t like to stir up trouble, but sometimes it happens! I love the idea of stirring up love!
 ```
+
 ```
 Wanda (2010-07-01 22:30:28)
 AnooCre8ion I’ll definitely include you & your family in my prayers.
 ```
+
 ## 1.5 July
 
 ## Nobody Likes Me (2010-07-02 06:30)
@@ -7357,18 +7964,23 @@ David was expressing similar sentiments.
 ```
 I look for someone to come and help me but no one gives me a passing thought!
 ```
+
 ```
 No one will help me; no one cares a bit what happens to me.
 ```
+
 ```
 Then I pray to you, O Lord. I say, You are my place of refuge.
 ```
+
 ```
 You are all I really want in life.
 ```
+
 ```
 Psalm 142:4-5
 ```
+
 There has been times Ive felt alone and its comforting to know that even King David, a man after Gods
 own heart found himself in the same position. Live long enough and youre bound to find yourself
 disappointed by another human. (Not to mention how we disappoint others) Somebody, some where didnt
@@ -7377,6 +7989,7 @@ show up at some time or in some way you expected but there is One who is always 
 ```
 Youre never alone or without help!
 ```
+
 [1]
 
 1. http://www.mylivesignature.com/
@@ -7387,34 +8000,41 @@ I think we all go through that stage sometimes, I know I did when I had my 2 ber
 be lonely and fell unloved in the most crowded of places.
 Yvonne.
 ```
+
 ```
 Living Water (2010-07-02 08:14:35)
 We are never alone when we are with God. We need not despair because God is always here with us. In God alone
 we can completely trust and not be disappointed.
 ```
+
 ```
 Andrea (2010-07-02 12:11:59)
 AMEN..Isn’t it amazing how HE always speaks to our hearts!
 Hugs,
 andrea
 ```
+
 ```
 BLUEBUTTERFLY (2010-07-02 13:14:55)
 He is ever present, ever loving, ever faithful and everlasting.
 We are blessed in the name of the Lord, our strong tower. He is our peace.
 ```
+
 ```
 Missie (2010-07-02 18:41:50)
 i have definately felt this in my life...glad to know that we are not alone! God is always there!
 ```
+
 ```
 Mike (2010-07-02 20:24:59)
 I SO needed to hear that!
 ```
+
 ```
 Raquel Byrnes (2010-07-02 22:09:52)
 So encouraging and very true. Lovely post, Wanda!
 ```
+
 ```
 Wanda (2010-07-03 00:29:20)
 Yvonne I agree being alone is not always about the absence of people.
@@ -7423,24 +8043,29 @@ necessary to remind myself that I serve a God who is ever present.
 Andrea Indeed, He knows how to brings us back in alignment with His truths.
 Bluebutterly Amen!
 ```
+
 ```
 Mike to God be the glory! Glad you were able to find encouragement from it.
 RaquelThanks, appreciate you stopping by :)
 ```
+
 ```
 Karen (2010-07-06 00:02:49)
 Amen! He is so faithful....
 ```
+
 ```
 SomeGirl (2010-07-06 22:17:03)
 It’s GREAT that we have David’s words to read... he experienced and wrote about so many different feelings that
 we experience. Hey, now that I think about it, David was like the first blogger, wasn’t he?! Great post! Thanks for
 sharing it!? Michelle
 ```
+
 ```
 Wanda (2010-07-06 23:50:52)
 SomeGirl first blogger? I guess you could say that he was. Never thought about it like that.
 ```
+
 ## Freedom (2010-07-03 14:09)
 
 [1] Wishing each of you a safe 4th of July
@@ -7463,17 +8088,21 @@ I leave you with a few quotes on freedom.
 It is by the goodness of God that, in this country, we have three benefits: freedom of speech,
 freedom of thought, and the wisdom never to use either.- [7]Mark Twain
 ```
+
 ```
 Real freedom is creative, proactive, and will take me into new territories. I am not free if my
 freedom is predicated on reacting to my past.- [8]Kenny Loggins
 ```
+
 ```
 Most people do not really want freedom, because freedom involves responsibility, and most
 people are frightened of responsibility. - [9]Sigmund Freud
 ```
+
 ```
 Freedom is a muscle... you have to exercise it.- [10]Roy Scheider
 ```
+
 1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TC88ZFCZHTI/AAAAAAAAAIc/_zAA2FR75RE/s1600-h/4thofJuly%5B37%5D.jpg
 2. http://wateredsoul.blogspot.com/2010/06/linky-love.html
 3. http://dawnypoo.blogspot.com/2010/07/inspiring-fourth-of-july-treats.html
@@ -7489,33 +8118,40 @@ Freedom is a muscle... you have to exercise it.- [10]Roy Scheider
 Just Be Real (2010-07-03 17:59:32)
 Thank you dear for the well wishes. Happy 4th to you as well. Blessings and hugs.
 ```
+
 ```
 welcome to my world of poetry (2010-07-03 20:01:09)
 Loved the qoutations one never know when they come in handy.
 Take care.
 Yvonne.
 ```
+
 ```
 One Heart (2010-07-04 19:10:46)
 Have a blessed Independence Day too, Wanda. Stay safe and thank you for stopping by.
 ```
+
 ```
 Missie (2010-07-05 12:32:58)
 Hope you had a happy fourth!
 ```
+
 ```
 sarah (2010-07-05 22:33:36)
 hope your 4th of july weekend was the best...I too am very grateful for the freedom we have in this country but even
 with it...I never really knew true freedom until He touched me...Have a great week and stay cool..Sarah
 ```
+
 ```
 Wanda (2010-07-06 02:01:05)
 Thanks ladies. I enjoyed a nice holiday weekend and the extra time off from work. Back to the grind tomorrow.
 ```
+
 ```
 Not Just A Mommy! (2010-07-14 04:28:18)
 Thank you so much for your comment and linky love! Lovely blog!
 ```
+
 ## Becoming A Woman Who Loves (2010-07-06 08:18)
 
 L. O. V. E.  four simple letters yet what does it really mean? In a time when love is used casually to
@@ -7565,19 +8201,23 @@ the Use of Endorsements and Testimonials in Advertising.”
 BLUEBUTTERFLY (2010-07-06 12:03:47)
 Thanks for the review, Wanda. Love is ”the greatest of these” for a reason.
 ```
+
 ```
 NavPressGal (2010-07-06 15:01:53)
 Thanks for the lovely review. I am so glad you enjoyed this study. Cynthia Heald has an entire series called Becoming
 a Woman Who... I hope you can explore them, too.
 ```
+
 ```
 Gregg (2010-07-06 17:15:03)
 Loving biblically or as Christ loved is so hard to do. Thanks be unto God that His Spirit enables us.
 ```
+
 ```
 wisdomvirtueandrubies (2010-07-06 20:37:28)
 I’m always looking for another good bible study. Thank you for this review.
 ```
+
 ```
 Wanda (2010-07-06 23:43:51)
 You’re right Blue. Christ left an awesome example of what true love looks like. I pray that I grow to reflect it more
@@ -7587,6 +8227,7 @@ Gregg, I agree that it is hard b/c it goes against our natural tendencies, which
 possible b/c of the Holy Spirit.
 Wisdomvirtueandrubies, I think you would find this study enlightening.
 ```
+
 ## Flow to You (2010-07-06 17:34)
 
 [EMBED]
@@ -7605,25 +8246,30 @@ Since seeing this video, this song has become one of my favorites. I’m joining
 Karen (2010-07-06 18:34:40)
 Beautiful song of worship...I have never heard it before...
 ```
+
 ```
 One Heart (2010-07-06 19:23:21)
 This is absolutely BEAUTIFUL. I literally felt like I was flowing. Yes, Lord, let my worship flow to You. Hallelujah!
 I am so thankful He led to post WOW today. He knows what each of us needs. May His name be glorified.
 Bless you my sister.
 ```
+
 ```
 Wanda (2010-07-06 22:29:41)
 Glad that you two enjoyed it.
 ```
+
 ```
 welcome to my world of poetry (2010-07-07 01:27:10)
 Really beautiful Wanda.
 Yvonne.
 ```
+
 ```
 Bud Ezekiel H. (2010-07-07 08:09:35)
 thank you Wanda for expanding my playlists:)
 ```
+
 ```
 godsown (2010-07-07 15:41:17)
 WOW I needed this at the end of this day!!
@@ -7633,12 +8279,14 @@ Thxs for posting this song
 Blessings
 Bernice
 ```
+
 ```
 nannykim (2010-07-09 07:31:25)
 I haven’t heard this one before....it was good today because it tied in with the rain we are getting right now and it is
 a reminder that the rivers can’t flow without the rain. So I too need to swell with the rain as the song says and then
 I will have a life that flows.
 ```
+
 ## Some things are made to last (2010-07-06 23:03)
 
 [1]
@@ -7660,17 +8308,20 @@ Lord, help me to build my life on these eternal things. In Jesus name. Amen [2]
 Denise (2010-07-06 23:26:08)
 Amen, amen.
 ```
+
 ```
 Ruth (2010-07-07 01:08:17)
 This is the verse that came to mind first thing when i work up this afternoon...!!
 Thanks so much Wanda, for stopping by my blog. Appreciate it!!
 ```
+
 ```
 welcome to my world of poetry (2010-07-07 01:09:11)
 I totally agree,
 Take care.
 Yvonne,
 ```
+
 jo.attalife (2010-07-07 01:28:48)
 What a timely verse and lovely prayer, Wanda. I say ”Amen and amen!!!”
 [1]Mine’s here.
@@ -7776,6 +8427,7 @@ Petula (2010-07-09 14:48:59)
 A favorite verse of mine... Thanks for the post and the reminder. The greatest is love. Lovely.
 Thanks for following. As soon as my computer stops acting screwy I’m going to follow right back. :-)
 ```
+
 ## Proclamation (2010-07-08 11:15)
 
 The Spirit of the Lord [is] upon Me, because He has anointed Me [the Anointed One, the Messiah] to preach
@@ -7796,64 +8448,78 @@ constricted. That TODAY youll experience a new level of deliverance. In Jesus n
 Christian (2010-07-08 12:07:01)
 hi wanda... thanks for droppin by at my site...just followed you..add me please... thanks! God bless you
 ```
+
 ```
 Beth in NC (2010-07-08 12:41:52)
 Amen and amen Wanda! I need that prayer!
 Thank you!
 Beth
 ```
+
 ```
 Joanne Sher (2010-07-08 13:56:19)
 Amen - I love this. Thank you so much.
 ```
+
 ```
 Pet (2010-07-08 19:11:17)
 Amen, this is great.
 Blessings!
 ```
+
 ```
 Cherie Hill (2010-07-08 19:22:28)
 Thank you for visiting my blog Wanda! I love your blog here...I’ll be stopping by more often for encouragement in
 my faith walk! Blessings sister!
 Cherie
 ```
+
 ```
 welcome to my world of poetry (2010-07-08 20:26:28)
 Thanks to all the visits to my blog and thanks for that wonderful prayer,
 Yvonne,
 ```
+
 ```
 Missie (2010-07-08 23:36:48)
 Thank you for your posts!
 ```
+
 ```
 Lisa (2010-07-08 23:43:10)
 Thanks Sis. That’s beautiful!
 ```
+
 ```
 Bud Ezekiel H. (2010-07-08 23:54:53)
 ...amen!
 ```
+
 ```
 Faith Imagined (2010-07-09 03:06:28)
 You have me so inspired right now! Thank you so much for these powerful words!!!
 ```
+
 ```
 Karen (2010-07-09 18:32:56)
 Amen! Thank you, Jesus!
 ```
+
 ```
 Just Be Real (2010-07-10 11:33:53)
 Thank you Wanda for this encouraging post and prayer. Blessings to you and yours dear one.
 ```
+
 ```
 Jesson And Rey Ann (2010-07-11 01:24:29)
 nice post!
 ```
+
 ```
 Karen (2010-07-11 01:50:45)
 I receive and agree with your prayer!
 ```
+
 ```
 Wanda (2010-07-11 14:09:52)
 To God be the glory! Christian I’ve been to your place and I’m now following you.
@@ -7861,11 +8527,13 @@ Cherie, you’re welcome to stop by anytime.
 Jesson thanks so much for stopping by. I’ll stopping be by your place soon.
 May God continue to bless each of you. All of you are such an encouragement to me!
 ```
+
 ```
 Amanda (2010-07-12 09:53:17)
 Amen!! I love this prayer.
 God bless you and your passion for Him has blessed me so much, during this, my first visit to your blog.
 ```
+
 ## No longer the same (2010-07-11 14:04)
 
 [1]
@@ -7884,39 +8552,48 @@ CeCe Wilson (2010-07-11 14:55:55)
 Isn’t it sweet when God changes the perspective? Situations that were just so so bad yesterday are light and but a
 stepping stone today. I praise God for your blessing! To God be the glory great things He has done!
 ```
+
 ```
 welcome to my world of poetry (2010-07-11 16:23:37)
 Wonderful moving words Wanda.
 Yvonne.
 ```
+
 ```
 Joanne Sher (2010-07-11 17:15:33)
 Been there - thanks for the reminder, and the blessing.
 ```
+
 ```
 Missie (2010-07-11 22:29:00)
 I like that! We are made new and are new everyday!
 ```
+
 ```
 Just Be Real (2010-07-11 23:13:15)
 Hallelujah! Wanda I needed these words of encouragement. Thank you and blessings and ((((Wanda))))
 ```
+
 ```
 Lisa (2010-07-12 01:23:29)
 AMEN, AMEN, AMEN!
 ```
+
 ```
 Karen (2010-07-12 13:29:48)
 Amen...that was our message at church yesterday!
 ```
+
 ```
 BLUEBUTTERFLY (2010-07-12 15:07:54)
 God is good!
 ```
+
 ```
 Wanda (2010-07-13 02:46:53)
 Yes He is! God bless each of you. You’re all such a wonderful blessing to me.
 ```
+
 ## No Death Today: Resuscitate Instead (2010-07-12 17:43)
 
 [1]
@@ -7979,48 +8656,57 @@ Joanne Sher (2010-07-12 19:43:11)
 Oh Wanda - such a reminder.If God hasnt called you to stop a thing, your assignment now is to fortify it.
 I so needed that. Thank you, friend.
 ```
+
 ```
 pathfromtheheadtotheheart (2010-07-12 19:55:51)
 Wow! This really spoke to me too! I have been considering throwing in the towel in several areas of ministry lately.
 Timely piece for me. Thank you!
 ```
+
 ```
 Mike (2010-07-12 20:14:30)
 How timely for me!! Thank you for writing for us.
 ```
+
 ```
 LisaShaw (2010-07-12 20:58:58)
 An encouraging powerful reminder but this says it all: ”Are there some areas in your life that you need to strengthen?
 If so, refuse to let it die!”
 Blessings!
 ```
+
 ```
 welcome to my world of poetry (2010-07-12 21:25:44)
 A most inspiring post Wanda, wonderfully written.
 Yvonne.
 ```
+
 ```
 Bud Ezekiel H. (2010-07-13 00:02:42)
 i agree with Yvonne...it is a beautiful write. was also just talking with my neighbor/friend about ups and downs. was
 telling him of yesterday’s event while sitting and drinking a brew with him. actually, i’m slippin past my limit....
 ```
+
 ```
 Ellie (2010-07-13 01:48:56)
 Powerful words! Very inspiring
 I love refuse to let it die
 Thank you xXx
 ```
+
 ```
 Will Burke (2010-07-13 02:19:32)
 I’d agree that it’s often not an event, but thew monotony of ”Life Happens” that takes us off our game. Best of luck
 getting back on your feet!
 ```
+
 ```
 Wanda (2010-07-13 02:45:17)
 @ Will, thank you. Every now and then a funk seems to wash over me.
 @ Ellie, Bud, Yvonne, Lisa, Mike, Pathfromtheheadtotheheart,Joanne, I’m grateful that you all were able to receive
 encouragement from this post. Don’t give up!
 ```
+
 @Bud, well tomorrow is a new day, my friend to get back within your limit ;)
 
 BLUEBUTTERFLY (2010-07-13 12:56:17)
@@ -8082,6 +8768,7 @@ Wondeful comorting words Wanda.
 Have a lovely day.
 Yvonne,
 ```
+
 Mike (2010-07-14 01:19:24)
 He is longing for relationship with us, and has done all to make a way. Thank you Jesus!
 
@@ -8183,16 +8870,19 @@ and forgiveness, and yet so many do the opposite and try to hide instead.
 Mylene (2010-07-14 20:05:13)
 This is something to thank God, for paying the price to set us free from the bondage of sin. Praise God for His love.
 ```
+
 ```
 Patty Wysong (2010-07-14 20:14:12)
 Oh, I LOVE this!
 Thank you!
 Hugs! =]
 ```
+
 ```
 MCH Boys Ranch, Inc. (2010-07-15 00:33:30)
 Thanks for sharing this is awesome!....so thankful God has swept away my sins!
 ```
+
 ```
 Christian (2010-07-15 05:16:40)
 Hi Wanda!!!
@@ -8201,10 +8891,12 @@ swept away...When I keep thinking of it, can’t help but cry in the beauty of H
 Thanks for Droppin by last time!
 God bless you!!! =)
 ```
+
 ```
 Karen (2010-07-15 08:00:07)
 Wanda, This is such a priceless promise! Thank you.
 ```
+
 ```
 Renee (2010-07-15 12:34:06)
 What an excellent picture to illustrate that Scipture!
@@ -8214,19 +8906,23 @@ Thanks for your nice comments on my blog!
 You can see the award here:
 http://reneescoffeebreak.blogspot.com/2010/07/my-second-award-sunshi ne-award.html
 ```
+
 ```
 Bud Ezekiel H. (2010-07-15 15:29:56)
 hi Wanda:)
 see in two weeks, kiddo!
 ```
+
 ```
 Kate Evangelista (2010-07-15 20:25:28)
 Stopping by to say hello. :-)
 ```
+
 ```
 Brian the old man (2010-07-18 17:10:54)
 Praise the Lord!
 ```
+
 ## Sweep a Little Love to a Sista (2010-07-16 05:30)
 
 Dont miss this opportunity to sweep a little love and encouragement to a sister you know. Mari at [1]Out
@@ -8254,33 +8950,40 @@ Lovely words and comforting.
 Have a good day.
 Yvonne.
 ```
+
 ```
 Will Burke (2010-07-16 12:10:23)
 Acknowledging tho roles of the ladies in our lives should definitely be an ongoing thing!
 ```
+
 ```
 BLUEBUTTERFLY (2010-07-16 13:08:08)
 Absolutely...I see you. Faith, hope and, the greatest...love.
 ```
+
 ```
 Lisa (2010-07-16 19:55:25)
 I say the same to you my precious Sister. I feel so blessed to have found a wonderful group of believing friends in my
 blog journey. I praise God from the bottom of my heart for that.
 Have a wonderful weekend!
 ```
+
 ```
 sarah (2010-07-18 00:59:42)
 I’ll pop over there. I love that name Mari too. Sounds so elegant. Have a great weekend
 ```
+
 ```
 rachelwojnarowski (2010-07-18 19:49:38)
 Very cool! I requested a facebook friend. :) Thanks!!
 ```
+
 ```
 Kristy K (2010-07-19 13:36:01)
 I’m visiting your blog from a different blog :). I’m enjoying your posts!! This one especially spoke to me as there are
 so many special women in my life who impact me more than they will ever know!
 ```
+
 ```
 One Heart (2010-07-19 15:05:15)
 Thanks for stopping by Wanda. I love it when you visit–always so encouraging to me. Thanks for understanding the
@@ -8289,11 +8992,13 @@ Glad to see you’re participating in Mari’s giveaway. She’s a great woman o
 gained in this place.
 Have a blessed day my sister.
 ```
+
 ```
 Petula (2010-07-19 18:56:22)
 That’s beautiful. ”I see you sis!” x 2.
 BTW: Glad the Internet fix could help. I hope it worked for you.
 ```
+
 ```
 Wanda (2010-07-20 02:01:18)
 Thanks guys! Things we count as insignificant can mean the world to someone else.
@@ -8303,6 +9008,7 @@ again.
 something to ponder on.
 @Petula, I’m sure hoping that it solves my problems. Appreciate you sharing the tip.
 ```
+
 ## Lost & Found (2010-07-20 05:30)
 
 [1] Do you ever loose your keys? It seems Im always in search of mine. My
@@ -8354,14 +9060,17 @@ hey what am I doing here and why.
 Common sense soons returns but I hope I don’t lose my way too often.
 Yvonne,
 ```
+
 ```
 Karen (2010-07-20 11:17:04)
 Wow, this is something to think about! A very well-written post.
 ```
+
 ```
 Missie (2010-07-20 12:36:44)
 I so have, thank you for the reminder that it is a gift I need to use!
 ```
+
 BLUEBUTTERFLY (2010-07-20 12:55:01)
 Amen! It is one thing to have something in the deep for protection, but it quite another when it’s buried so deep that
 the purpose is never realized.
@@ -8416,14 +9125,17 @@ flame going. You know that old story of the coals burning together but if you ta
 it simply stops burning.
 Loved this post.
 ```
+
 ```
 Karen (2010-07-21 02:23:20)
 Love the lesson you are teaching here....
 ```
+
 ```
 Petula (2010-07-23 21:32:12)
 Excellent post... so true and a great reminder.
 ```
+
 ## A Little Out = A Little Back (2010-07-20 23:00)
 
 [1]
@@ -8538,25 +9250,30 @@ Thanks for sharing this truth.
 LauraLee Shaw (2010-07-21 21:05:58)
 Wow, that’s an awesome word!!! Love it!
 ```
+
 ```
 Lisa (2010-07-21 21:35:02)
 What a neat verse and graphic!
 ```
+
 ```
 e-Mom (2010-07-21 21:56:24)
 Now that’s the most unique interpretation of this verse that I’ve ever seen!
 Happy WFW, Wanda
 Blessings, e-Mom?
 ```
+
 ```
 Nicole (2010-07-21 22:30:43)
 Love that!! Very good..
 Thanks for stopping by my site!
 ```
+
 ```
 MCH Boys Ranch, Inc. (2010-07-21 23:29:45)
 Love this verse and graphic!
 ```
+
 ```
 More Than Conquerors (2010-07-22 03:12:34)
 Hi Wanda,
@@ -8564,28 +9281,34 @@ This is a great verse and picture. Precious reminder. Thanks for your visit. Tak
 Warm regards,
 Nancie
 ```
+
 ```
 hip-chick (2010-07-22 03:21:46)
 Excellent. Very wise words to carry in our heart of hearts.
 ```
+
 ```
 Sherry @ Lamp Unto My Feet (2010-07-22 04:24:23)
 Thank you for sharing this! Love the pic to go along with the verse.
 ```
+
 ```
 Peggy (2010-07-22 06:27:41)
 Blessings Wanda... WOW...super WORD to remind us so beautifully & creatively illustrated! Paying attention and
 being ever so careful!
 Thanks for the wisdom & your sweet visit.
 ```
+
 ```
 Petula (2010-07-23 15:31:16)
 I actually don’t think I’ve read that scripture before. Interesting.
 ```
+
 ```
 cyruswoman (2010-09-16 11:16:35)
 stopping by....tid bits from the word - refreshing every time.thanx
 ```
+
 ## This Sings My Soul (2010-07-22 12:29)
 
 My heart sings this song today. Wherever you are He is there. Take a moment to get in His presence. It can
@@ -8601,36 +9324,44 @@ make all the difference in your day. May His peace and presence abide with you t
 Karen (2010-07-22 13:07:58)
 Beautiful! Seeking Him and singing today....
 ```
+
 ```
 Taking Heart (2010-07-22 16:44:26)
 My absolutely positively FAVORITE Kari Jobe song... thanks for posting... just beautiful.
 Thanks for visiting my blog, too!
 ```
+
 ```
 welcome to my world of poetry (2010-07-22 19:41:23)
 Really lovely Wanda.
 Yvonne.
 ```
+
 ```
 Mike (2010-07-23 17:28:56)
 This is beautiful! His Presence, being aware, taking time, even a little does make such a difference. He is gracious!
 ```
+
 ```
 BLUEBUTTERFLY (2010-07-23 19:36:44)
 Yes, Lord...in Your presence is everything.
 ```
+
 ```
 sarah (2010-07-24 02:04:46)
 so soothing and gentle. Thanks Wanda....being in His presence is healing. have a gentle and Christ filled weekend.
 ```
+
 ```
 Wanda (2010-07-24 21:36:18)
 Thanks for stopping by and glad you all enjoyed the song. Hope you’re enjoying a wonderful weekend.
 ```
+
 ```
 Toia (2010-07-24 22:57:30)
 Beautiful worship song!!!
 ```
+
 ## A Lil Something Sweet (2010-07-25 03:23)
 
 [1] Pulled this baby out of the oven a little bit ago. Nothing quite
@@ -8655,11 +9386,13 @@ welcome to my world of poetry (2010-07-25 06:52:30)
 Congratulations on your achievements. here’s to the next 100.
 Yvonne.
 ```
+
 ```
 CeCe Wilson (2010-07-25 14:12:11)
 Yum! I’m relishing your sweet accomplishments ma dear! I agree with Yvonne: Here’s to many more posts and
 followers :0) Have a beautiful week!
 ```
+
 ```
 Well Watered Woman (2010-07-25 18:52:47)
 Congratulations! May you continue to press on in the journey and may the Father continue to press His blessing over
@@ -8667,50 +9400,60 @@ you life like sweet oil.
 I can’t wait to dig into what you have for us next week.
 TonyR
 ```
+
 ```
 Joanne Sher (2010-07-25 19:50:21)
 Congratulations, sweetie. Celebrating with you (can you send some of that cobbler through the floppy slot??).
 ```
+
 ```
 wisdomvirtueandrubies (2010-07-25 22:02:29)
 Congratulations on your great accomplishments! I’m excited about your next 100! :-)
 ```
+
 ```
 Wanda (2010-07-25 22:31:32)
 Thanks Yvonne, CeCe, Tony, and Monica! Next 100? I don’t know about that but whomsoever God wills let them
 come.
 Joanne, if I could I’d zap you up some ;)
 ```
+
 ```
 Just Be Real (2010-07-26 10:30:03)
 Looks good. Congrats dear Wanda. Blessings.
 ```
+
 ```
 BLUEBUTTERFLY (2010-07-26 15:12:00)
 Sweet, sweet essence of the presence of God. Thank you, Wanda.
 ```
+
 ```
 Bud Ezekiel H. (2010-07-26 16:00:55)
 you kids are makin‘ me hungry today!!!
 this would be a great follow-up for Ellie’s
 veggie-minetrone soup!!!:)
 ```
+
 ```
 Lisa (2010-07-27 00:33:30)
 Oh my word – that looks DIVINE!:)
 Recipe, please???:)
 ```
+
 ```
 Karen (2010-07-27 02:11:59)
 Congrats on the 100’s!
 Anything with peaches is a friend of mine....
 ```
+
 ```
 Ellie (2010-07-29 16:30:01)
 Very sweet...We should get together and cook up something good! lol
 Your cobbler looks delicious
 Congrats!!!xXx
 ```
+
 ## A Sweet Offer {CSN Store Giveaway} Closed (2010-07-26 05:35)
 
 As promised Ive cooked up a sweet opportunity for each of you in celebration of The Watered Soul reaching
@@ -8741,14 +9484,17 @@ welcome to my world of poetry (2010-07-26 06:47:50)
 Loved the post though I live a little outside any shop area. Good luck to all who enter,
 Yvonne.
 ```
+
 ```
 Will Burke (2010-07-26 12:09:06)
 Congrats on passing the 100th fpllower mark! Any tips on that?
 ```
+
 ```
 Ellie (2010-07-26 13:34:05)
 Congrats; I am soon going to do the same! I have been thinking about it!
 ```
+
 Great giveaway!
 very generous xXx
 
@@ -8850,36 +9596,43 @@ DG (2010-08-04 03:14:05)
 follower - DG
 dreamzz12 {at }aol {dot]com
 ```
+
 ```
 DG (2010-08-04 03:14:15)
 email subscriber
 dreamzz12 {at }aol {dot]com
 ```
+
 ```
 DG (2010-08-04 03:14:32)
 I follow through networked blogs as DG
 dreamzz12 {at }aol {dot]com
 ```
+
 ```
 DG (2010-08-04 03:33:50)
 blogged! thanks! http://deegee13.xanga.com/731122913/the-watered-soul-giveaway/
 dreamzz12 {at }Aol {dot }com
 ```
+
 ```
 Pixie (2010-08-07 00:14:10)
 I’d get some new muffin pans!
 Sweetimpishpixie(AT)gmail(DOT)com
 ```
+
 ```
 Pixie (2010-08-07 00:14:23)
 I follow on GFC
 Sweetimpishpixie(AT)gmail(DOT)com
 ```
+
 ```
 Pixie (2010-08-07 00:14:42)
 I follow on networked blogs
 Sweetimpishpixie(AT)gmail(DOT)com
 ```
+
 ## Teaser Tuesday {Six-Liter Club} (2010-07-27 08:00)
 
 [1]
@@ -8890,6 +9643,7 @@ and a crowd of brothers standing at the foot of a stretcher holding a white-hair
 struggling to get her breath. The sweet-sour smell of bloody vomit and clinical antiseptic mingled
 as a familiar odor and prompted me to quicken my pace. pg. 55 Six-Liter Club by Harry Kraus
 ```
+
 [2]
 
 [3]
@@ -8923,15 +9677,18 @@ Kylie (2010-07-27 08:47:55)
 Great teaser. Very descriptive, almost feel like I’m there. My teaser is here
 http://kyliesreads.blogspot.com/2010/07/teaser-tuesday-is-hosted-by- mizb-over.html
 ```
+
 ```
 Just Be Real (2010-07-27 09:44:03)
 Like the teaser Wanda. Blessings.
 ```
+
 ```
 Manga Maniac (2010-07-27 11:15:57)
 Great teaser - I haven’t heard of the book before.
 My teasers are here [1]Manga Maniac Cafe
 ```
+
 1. http://www.mangamaniaccafe.com/?p=4184
 Karen (2010-07-27 12:00:47)
 Good review...I love a great read that leaves me wanting more....
@@ -8941,10 +9698,12 @@ welcome to my world of poetry (2010-07-27 12:41:34)
 An excellent review Wanda.
 Yvonne.
 ```
+
 ```
 Alayne (2010-07-27 14:11:51)
 Eek! Little gross there. But good teaser. Mine is at [1]The Crowded Leaf.
 ```
+
 1. http://thecrowdedleaf.wordpress.com/
 pussreboots (2010-07-27 21:49:50)
 Sounds interesting. Mine’s from [1]Devil to Pay, a book I wrote.
@@ -8960,6 +9719,7 @@ Kah Woei (2010-07-28 06:34:52)
 Glad you enjoyed the book. The teaser makes me a bit uncomfortable though. Don’t much like hospitals. LOL.
 Mine’s from [1]Devil May Cry.
 ```
+
 1. http://thebooksofmylife.blogspot.com/2010/07/teaser-tuesdays-devil-may-cry-by.html
 
 ## The Power of a Song & Praise (2010-07-27 23:00)
@@ -8995,6 +9755,7 @@ comes in and reveals what’s really going on inside. At other times, I obey whi
 isn’t obedience, is it?). But God is faithful in meeting me where I am. Sometimes He requires us to stand, to sit, or
 otherwise be still. May we always do so with the right posture of the heart.
 ```
+
 1. http://attalife.blogspot.com/2010/07/wfw-mark-639.html
 Kaye Swain - SandwichINK for the Sandwich Generation (2010-07-28 00:17:57)
 Awesome and encouraging Scripture and picture. I love that story! So perfect for me today especially. Thank you for
@@ -9006,16 +9767,19 @@ I think we all relate to this post! If only the pressure wasn’t so great somet
 Truth and if it says to sing and praise, then that is what will give us the victory! Then we can get off that mountain,
 before facing the next... but at least we would be moving forward!
 ```
+
 ```
 welcome to my world of poetry (2010-07-28 00:53:23)
 Excellent post Wanda, we here in the UK hadve a programme on TV called Songs Of Praise....been going for years.
 very uplifting programme on a late Sunday afternoon.
 Yvonne.
 ```
+
 ```
 Denise (2010-07-28 04:14:46)
 Such a great post, well said.
 ```
+
 ```
 One Heart (2010-07-28 06:02:37)
 Awesome post. That is one of my favorite passages in Scripture. Remember that we ourselves can speak that Word
@@ -9024,10 +9788,12 @@ your position ”courageously.” I’m not surprised you used that word. Come c
 coming here. Is that prophetic or what? That’s the Spirit of the living God living in us and His Word is alive!! Love
 you my sister.
 ```
+
 ```
 Karen (2010-07-28 06:17:24)
 Amen...the power of praise...just like with Paul and Silas and the chains being loosened...our God is great and mighty!
 ```
+
 Beth in NC (2010-07-28 06:40:37)
 You’re not alone my friend. What a great reminder!
 
@@ -9130,30 +9896,36 @@ Praise God for this spirit-inspired post!
 Laurencita (2010-07-29 03:00:46)
 Such an encouraging words to share.. Thanks!
 ```
+
 ```
 hip-chick (2010-07-29 03:38:37)
 Wow. that was a great post. Great things for me to think about. Showing up for the battle and taking my place with
 song and praise for the Lord in my stance.
 Thanks for posting that today.
 ```
+
 ```
 sarah (2010-07-29 05:20:18)
 this post really encourages me...Have a great day....
 ```
+
 ```
 Mike (2010-07-29 05:24:49)
 stand still and watch the Lords victory This is what God has been saying to me in the last few days. Wonderful
 confirmation... Thank you!
 ```
+
 ```
 Sherry @ Lamp Unto My Feet (2010-07-29 05:28:22)
 So easy to complain when the way is rough and rugged. Thank you for the reminder!
 ```
+
 ```
 BLUEBUTTERFLY (2010-07-29 07:29:32)
 Oh, so timely. Not by might, nor by power, but by My Spirit, says the Lord. Thank You, Lord. By our endurance,
 we win.
 ```
+
 ## Overwhelming Victory (2010-07-29 12:03)
 
 Just wanted to share a scripture God brought to mind today before I head out to work.
@@ -9172,61 +9944,74 @@ your view of Christs love for you.
 One Heart (2010-07-29 12:19:01)
 Thank you Wanda. Romans 8 is one of my favorites. Blessings!
 ```
+
 ```
 Christian (2010-07-29 12:22:00)
 Amen!
 ```
+
 ```
 welcome to my world of poetry (2010-07-29 12:43:21)
 Thanks Wanda for an excellent read.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2010-07-29 12:48:20)
 Can anything on earth be more persuasive than the unfailing One who is God Almighty? No, nothing.
 Blessings, Wanda.
 ```
+
 ```
 Ellie (2010-07-29 16:20:31)
 I agree, it is good to skew your view! I am guilty at times Thanks for the reminder
 ```
+
 ```
 Amydeanne (2010-07-29 23:28:01)
 Amen Wanda! thanks for sharing this encouragment today!
 ```
+
 ```
 LisaShaw (2010-07-30 00:24:26)
 Amen and thank you for sharing one of the Scriptures that always has ministered to my heart.
 What an amazing GOD we belong to and serve.
 I pray blessings over you Wanda. I hope all is well.
 ```
+
 ```
 Lisa (2010-07-30 01:47:30)
 Oh yes Sister. It’s a trick of the enemy, making you think lies about the One who loves us most.
 Praying for you.
 ```
+
 ```
 Karen (2010-07-30 11:58:11)
 Amen! Great scripture to start the day!
 ```
+
 ```
 Wanza Leftwich, The Gospel Writer (2010-07-30 21:16:36)
 Amen! Amen!!
 ```
+
 ```
 Lisa (2010-07-30 23:25:56)
 Those are wonderful, powerful verses!
 ```
+
 ```
 Tea with Tiffany (2010-07-31 01:17:10)
 I couldn’t agree more. Don’t let anything...
 Thank you.
 Enjoy your weekend!
 ```
+
 ```
 Just Writing (2010-08-01 10:21:18)
 It’s easier to be overwhelmed by life than it is to be wallow in His love. Thank you for the reminder.
 ```
+
 ## Yes, You Matter to Me (2010-07-31 04:56)
 
 My sweet blogger friend [1]One Heart, has been hosting a meme this week and I finally took the time to write
@@ -9257,6 +10042,7 @@ welcome to my world of poetry (2010-07-31 06:53:09)
 You too have a great week-end Wanda, another wonderful inspiring post.
 Yvonne.
 ```
+
 ```
 Ruth (2010-07-31 09:36:47)
 Hi Wanda,
@@ -9265,6 +10051,7 @@ Have a blessed weekend yourself!!
 Ruth
 [1]Underneath His Wrapping
 ```
+
 1. http://underneathhiswrapping.blogspot.com/
 One Heart (2010-07-31 13:37:37)
 Wanda, you are most definitely right, the blog-hop was set up until the end of today–Sat, 7/31. For some reason,
@@ -9279,31 +10066,37 @@ I’m sorry that I missed the meme. It’s amazing that we live in an age where 
 the globe, like pen-pals, with no delay! An age where anyone with access to a computer can influence countless people
 across borders and cultures!
 ```
+
 ```
 Beth in NC (2010-07-31 23:37:48)
 I have definitely been fed when I visit your place Wanda. I’m glad you’re here.
 Bless you!
 Beth
 ```
+
 ```
 Ellie (2010-08-01 01:42:17)
 Your post have encouraged me; given me a moment to pause and rethink some issues! Reflection is good for our souls!
 Thanks Wanda for your gentle reminders xXx
 ```
+
 ```
 Just Be Real (2010-08-01 10:51:18)
 Needed an encouragement today dear one. Thank you. Blessings.
 ```
+
 ```
 Karen (2010-08-01 18:17:47)
 I agree with your thoughts here totally....
 ```
+
 ```
 Beams of Light Ministries (2010-08-05 22:49:03)
 Hi Wanda,
 I’m new to your blog. It’s nice. Keep going!
 Sanya
 ```
+
 ## 1.6 August
 
 ## Infused with Power (2010-08-02 11:44)
@@ -9343,35 +10136,42 @@ with him! (Message)
 Joanne Sher (2010-08-02 12:14:17)
 WOW is right. Such an amazing thought. Thank you for this.
 ```
+
 ```
 welcome to my world of poetry (2010-08-02 13:14:25)
 Thanks for a most uplifting post,
 Helps to put one’s thoughts and feelings into perspective.
 Yvonne.
 ```
+
 ```
 Amydeanne (2010-08-02 19:40:40)
 totally wow! Thanks for the inspiration!
 ```
+
 ```
 Bud Ezekiel H. (2010-08-02 20:02:54)
 thought provoking:)
 ```
+
 ```
 Karen (2010-08-02 20:21:44)
 Awesome! I would love to have that print over my desk...
 The Message version of this scripture is so very good....
 ```
+
 ```
 BLUEBUTTERFLY (2010-08-03 08:16:56)
 Jesus, Jesus.
 ```
+
 ```
 Tracy (2010-08-04 07:27:15)
 I love this as a call to action. I don’t owe this life anything. That is really powerful, in itself. I don’t need to save it
 for anything. It is dead. What a great reminder!
 Thanks for stopping by!
 ```
+
 ## Keeping Watch of the Time (2010-08-03 23:00)
 
 [1]
@@ -9550,14 +10350,17 @@ Whidbey Woman (2010-08-04 19:24:46)
 I hope your WFW and Birthday have been blessed! Love the scripture you shared today... very nice image,too.
 Summer sunsets can’t be beat! Nor can spending time with the Lord as we unwind from the business of the day.
 ```
+
 ```
 jackie (2010-08-04 22:26:57)
 you are absolutely right Wanda... Such a very nice post which reminds me to focus on the main thing: to follow God
 ```
+
 ```
 jackie (2010-08-04 22:27:23)
 happy new year!?
 ```
+
 ```
 Janis@Open My Ears Lord (2010-08-04 22:54:29)
 Something to really ponder! I must make wise use of my time!
@@ -9565,42 +10368,51 @@ And Happy Birthday!
 Blessings,
 Janis
 ```
+
 ```
 Tracy (2010-08-05 01:22:56)
 Gorgeous shot! Love the verse. Thanks for visiting my blog!
 ```
+
 ```
 Ellie (2010-08-06 00:17:19)
 Happy Birthday Wanda; I hope it was glorious!!! Great post xXx
 ```
+
 ```
 Missie (2010-08-06 08:24:06)
 wow, this verse really hits home. thank you so much for sharing!
 Happy Birthday too!
 ```
+
 ```
 sarah (2010-08-06 13:32:36)
 Happy Happy Birthday to an amazing special child of God...Hope it was the best...
 ```
+
 ```
 Amydeanne (2010-08-06 18:08:09)
 love the version you picked for the verse Wanda! it really hits home!
 ```
+
 ```
 Amydeanne (2010-08-06 18:08:44)
 oh! and
 HAPPPYYYYYYYYYYYYY
 BIRTHHHHHHHHHHDAYYYYYYYYYYYYYY
 ```
+
 ```
 Karen (2010-08-07 05:23:19)
 Happy Birthday! I need keep my focus on what is near and dear to the heart of God! Thanks for sharing this passage.
 ```
+
 ```
 Anonymous (2010-08-10 22:26:51)
 Good post and this fill someone in on helped me alot in my college assignement. Say thank you you on your informa-
 tion.
 ```
+
 ## Is It Time For a Makeover? (2010-08-07 09:40)
 
 Im not sure if its just a girl thing or what but every now and then I get the urge for something different.
@@ -9659,6 +10471,7 @@ Joanne Sher (2010-08-07 10:11:26)
 Fun - I’m kinda working on a blog redesign in the background (VERY in the background cuz of the zillion things i
 HAVE TO do it the foreground!). Thanks for these :D
 ```
+
 ```
 welcome to my world of poetry (2010-08-07 13:35:58)
 I changed mine a few months ago then was told it would be deleted in July, I have since got it back but feel like doing
@@ -9666,6 +10479,7 @@ another one during the winter.
 Have fun having a makeover.
 Yvonne.
 ```
+
 ```
 Bud Ezekiel (2010-08-07 19:08:52)
 hi Wanda,
@@ -9673,16 +10487,19 @@ i just did a total makeover in 3 blogs. it was/is fun and the blogs are still ge
 makeover with out visible followers(pictures) although i can read a number on my dashboard. just don’t know the
 names....and no comments. it’s just an all out writing blog. no bells and no whistles:) i love it already!!!
 ```
+
 ```
 Ellie (2010-08-07 21:23:00)
 Thanks for the links! I like to change it up, too! It looks great, by the way I hope you are happy with your living
 room. I find if I decorate in similar color palette, I can rotate items from room to room to give it a new look. Pillows,
 candles, and plants can also change it up quick!
 ```
+
 ```
 Bud Ezekiel (2010-08-08 10:01:04)
 btw sis, thank you for the links too! bookmarked one and am looking at the gadgets/gizmo’s:)
 ```
+
 ```
 Lisa (2010-08-08 11:44:25)
 Thanks for the great links. Some I’m familiar with, some I’m not. I seem to have less time online these days, but it’s
@@ -9690,6 +10507,7 @@ nice to have the links for one day down the road. I hope you’re doing well.
 Continuing to keep you in my prayers.
 (((Hugs)))
 ```
+
 ```
 Wanda (2010-08-08 19:32:02)
 Glad you guys found some of them useful. I know you veteran bloggers probably were already familiar with some of
@@ -9701,14 +10519,17 @@ much my friend.
 @Yvonne, I have a test blog I play around on before making any changes to the site but luckily I haven’t been told it
 was going to be deleted. Always appreciate you stopping by.
 ```
+
 ```
 BLUEBUTTERFLY (2010-08-09 07:54:50)
 Such a good idea, Wanda.
 ```
+
 ```
 Wanda (2010-08-09 11:59:14)
 Hope you find some of the links helpful, Bluebutterfly. Glad you stop by.
 ```
+
 ## We Have Winner (2010-08-08 06:06)
 
 Congratulations to VickieB on winning the $40 gift certificate from CSN Stores. She has 48hrs to respond,
@@ -9725,28 +10546,34 @@ welcome to my world of poetry (2010-08-08 06:46:59)
 Congrats to the winner,
 Yvonne.
 ```
+
 ```
 sarah (2010-08-08 15:08:18)
 Congrats to VickieB and you have a great Sunday
 ```
+
 ```
 Andrea (2010-08-08 17:15:13)
 Congratulations and GOD BLESS!!
 Hugs and prayers,
 andrea
 ```
+
 ```
 Karen (2010-08-08 20:44:30)
 Congrats to VickieB!
 ```
+
 ```
 Wanda (2010-08-09 17:57:51)
 Thanks Yvonne, Sarah, Karen, Andrea for stopping by and congratulating VickiB.
 ```
+
 ```
 Petula (2010-08-10 02:38:14)
 Congratulations. That’s a good one.
 ```
+
 ## Its Ok to Begin Again (2010-08-10 12:15)
 
 [1] Are there any unfinished projects lying around your house? Or what about unachieved dreams stashed away in the recesses of your heart? If youre anything like me, youve at least once started a project with great zeal and enthusiasm only to have the incomplete pieces stashed away in a closet.
@@ -9772,33 +10599,40 @@ Whether its been 2 days, 2 months or 2 years since you first started your quest
 Joanne Sher (2010-08-10 13:38:35)
 Thanks for this. I do need to start again on something. Thanks, Wanda
 ```
+
 ```
 BLUEBUTTERFLY (2010-08-10 15:20:08)
 Yes. Behold, I am doing a new thing, says the Lord. He is always doing a new thing.
 ```
+
 ```
 welcome to my world of poetry (2010-08-10 15:42:42)
 Thanks Wanda for a wonderful post, I’m a wee bit late in commenting today but I do love to read you post every day.
 Yvonne.
 ```
+
 ```
 Bud Ezekiel (2010-08-10 22:08:31)
 yep. started.....again, sister:)
 great post!
 ```
+
 ```
 Just Be Real (2010-08-10 23:28:26)
 Amen Wanda. Something I had to read here. I am okay to start over. God gives us a new day to begin again.
 Blessings, JBR
 ```
+
 ```
 Karen (2010-08-11 00:28:44)
 Amen...thanks for this great reminder...new mercies...thank you, Lord!
 ```
+
 ```
 Ellie (2010-08-11 00:54:40)
 I feel sometimes like you n’ I are in sync Loved this! xXx
 ```
+
 ```
 Wanda (2010-08-11 03:51:18)
 @ Joanne, I pray that you’re able to complete it this time around.
@@ -9808,9 +10642,11 @@ Wanda (2010-08-11 03:51:18)
 @ Karen, if not for His mercies where would we be?
 @ Ellie, I know I seen that today when I read your post. Love it when God confirms things for me like that though.
 ```
+
 ```
 @ Yvonne, that’s ok my friend. I was late getting my post up today. I appreciate every time you stop by.
 ```
+
 ```
 LaughingLady (2010-08-12 16:40:47)
 This is great encouragement! The hubby and I were just talking last night about now neither of us has enough am-
@@ -9819,12 +10655,14 @@ There are COUNTLESS things we say we’d like to do and we start some of them bu
 ourselves well, we don’t even bother starting because we suspect we won’t finish.
 This is good advice. Must revisit this discussion with the man, armed with this view from The Word!
 ```
+
 ```
 Monica Watkins (2010-08-14 15:59:34)
 I am so behind with my reading, but I’ve been saving the posts in my email to read later. I’m trying to play catch
 up, & I found that this post was indeed timely. I am in that ”begin again” place. Not always the easiest thing to do,
 but it is truly a faith exercise. Thank you for the encouragement.
 ```
+
 ## He Holds The Future {Word-Filled Wednesday} (2010-08-10 23:01)
 
 [1]
@@ -9853,31 +10691,37 @@ welcome to my world of poetry (2010-08-11 01:16:45)
 It’s remarkable how human life parallels that to nature and wildlife, I enjoyed your write as usual, Thanks for sharing,
 Yvonne,
 ```
+
 ```
 ozjane (2010-08-11 02:28:30)
 Life is fragile but the hands of God are safe, stable and strong.
 ```
+
 ```
 Denise (2010-08-11 03:15:25)
 I am so grateful for those precious hands.
 ```
+
 ```
 GlowinGirl (2010-08-11 04:27:30)
 There is a theme we share today of hands. :) I love your take on it – it’s such a blessing to see the variety of ways
 God speaks to us through His Word. We’re safe in His adventurous hand, aren’t we?
 ```
+
 ```
 Joan (2010-08-11 04:48:21)
 Oh, I am so grateful to be held in His hands. A wonderful reminder.
 Blessings,
 Joan
 ```
+
 ```
 Daughter of the KING (2010-08-11 04:51:38)
 Beautiful post - I too am grateful to be in His loving hands.
 Blessings,
 Linda J
 ```
+
 ```
 Christian (2010-08-11 05:23:29)
 We might not understand the present events that happens in our lives, but rest assured that A GREAT future that
@@ -9885,6 +10729,7 @@ is waiting ahead of us!
 Thanks for Sharing Wanda!
 God bless you!!!
 ```
+
 Beth in NC (2010-08-11 05:53:35)
 What a wonderful picture with that scripture!
 Thank you for the reminder that we are in His loving Hands.
@@ -9988,10 +10833,12 @@ of giving. But, you point also to entrusting all things to his hands. Letting go
 abandoning the things we’ve held but it is entrusting these things to His care.
 Thank you!
 ```
+
 ```
 Just Be Real (2010-08-12 02:52:46)
 A wonderful inspiring post Wanda, thank you for sharing, Blessings, JBR
 ```
+
 ```
 Marsha (2010-08-12 07:27:57)
 Such a beautiful analogy, Wanda (and picture). It reminds me of a song by Kathy Tracoli (spelling?) several years
@@ -9999,11 +10846,13 @@ ago, ”My Life Is In Your Hands.”
 Thank you for these wise words, and for stopping by my blog the other day.
 Blessings.
 ```
+
 ```
 Monica Watkins (2010-08-12 08:19:25)
 That last sentence sums it all up. Rest in that. :-)
 Monica
 ```
+
 ```
 Cherie Hill (2010-08-12 13:13:00)
 LOVED this post sister!!! ”Tho He slay me, yet I will trust in Him.” God is with us always... He allows our trials
@@ -10012,20 +10861,24 @@ for our every need.
 Love, hugs, and prayers,
 Cherie
 ```
+
 ```
 Kaye Swain - SandwichINK (2010-08-12 13:19:55)
 What lovely and encouraging Bible verses and such a great illustration - both the photo and the devotional. Thank
 you for a sweet Word-Filled Wednesday on Thursday :)
 ```
+
 ```
 Pet (2010-08-14 06:25:36)
 Beautiful!
 ```
+
 ```
 Mike (2010-08-17 02:15:37)
 So relevant for me at the moment. Sometimes it’s dryness and pain that move us on. At those times it’s hard to
 discern Him but they are the very times that He is working. I trust Him!
 ```
+
 ```
 Misty (2010-08-25 15:24:09)
 Wanda.. First I want to thank you for stopping by my blog.. when I first started it, I thought it was a good outlet.
@@ -10035,6 +10888,7 @@ Thank you for you post, the messages you share. You are an ispiration! I look fo
 future ones.
 God Bless You!
 ```
+
 ## 13 Well Wishes for You (2010-08-13 13:14)
 
 Friday 13th for many is a day of foreboding doom. Ive never been superstitious and cant recall any specific
@@ -10069,10 +10923,12 @@ Wishing you all a blessed weekend filled with rest, revelation, and rejuvenation
 Karen (2010-08-13 13:56:11)
 Oh, amen, Wanda! These are wonderful...wishing the same for you!
 ```
+
 ```
 BLUEBUTTERFLY (2010-08-13 15:19:31)
 Amen, Wanda. You shall bless, and not curse. Amen! Amen!
 ```
+
 LisaShaw (2010-08-13 15:22:31)
 Praise the LORD and Amen! Thanks for sharing this Wanda. I pray it all back to you too sis!
 
@@ -10127,6 +10983,7 @@ Wanda (2010-08-18 03:20:31)
 I just happened to notice it was Friday the 13th when I glanced at the calendar. Never been superstitious anyway.
 Walking on cracks, black cats, etc...doesn’t bother me a bit. Trusting that each of you had a blessed one.
 ```
+
 ## Even When I Dont Do Right (2010-08-16 07:01)
 
 Only you Lord no my innermost being. Its you that knows my uprising and my down setting. You know
@@ -10170,34 +11027,40 @@ out, and their feet did not swell! Nehemiah 9:17-21 (NLT)
 BLUEBUTTERFLY (2010-08-16 07:26:57)
 Yes Lord! Yes Lord! Yes Lord!
 ```
+
 ```
 Crystal (2010-08-16 07:27:38)
 Beautiful truth in your post. Even when we don’t feel worth of His love, we are. I remember believing that I must
 not be a ”good Christian” or ”really believe in God” because I was not ”a good girl”. There are so many who have
 those same thoughts out there in our world & I can only hope that somehow, some way, they are reached. =)
 ```
+
 ```
 Faith Imagined (2010-08-16 11:36:56)
 What a beautiful and encouraging post! This sentence really spoke to my heart, ”Im so thankful that you dont
 abandon me or consider me as utterly hopeless.”
 ```
+
 ```
 Josh Healy (2010-08-16 11:58:28)
 Hi, hope it’s OK to contact you here. We would love to include your blog on our giveaway search engine: Give-
 away Scout (http://www.giveawayscout.com). Have a look and if interested, use our online form to add your blog
 (http://www.giveawayscout.com/addblog/ ). thanks, Josh
 ```
+
 ```
 welcome to my world of poetry (2010-08-16 16:03:25)
 A wonderful post which gives one encouragemnet. Thank you Wanda.
 Yvonne.
 ```
+
 ```
 arlee bird (2010-08-16 17:27:36)
 If only every child in the world had a parent who cared as much as our Father in heaven.
 Lee
 [1]Tossing It Out
 ```
+
 1. http://tossingitout.blogspot.com/
 Lisa (2010-08-16 20:13:11)
 This was similar to the sermon at church yesterday. I’m so glad that NOTHING can ever separate us from His
@@ -10208,21 +11071,25 @@ Be blessed Sister!
 Bud Ezekiel (2010-08-16 21:09:07)
 oops! great post wanda!:)
 ```
+
 ```
 Suz (2010-08-16 23:24:59)
 Sometimes when we fail, it is hard to accept that his grace is sufficient for us. A most amazing gift of grace he offers
 us! Peace to you!
 ```
+
 ```
 Just Be Real (2010-08-17 02:49:25)
 Great post Wanda. I am just now learning to accept His forgiveness and believing it in my heart. Blessings to you
 dear one.
 ```
+
 ```
 Mrs. Gertha (2010-08-17 10:26:39)
 Wanda,
 Thank you for stopping by my blog and I am glad you like the title. It’s true, I do feel as if he has forgotten my name
 ```
+
 at times:-)! I enjoy reading your blog. I’m signed up. Have a fruitful day!!!
 
 Tea with Tiffany (2010-08-17 13:23:40)
@@ -10434,6 +11301,7 @@ my chores done.
 But, then I read your blog and take a breath- and remember that God is in control. And I need to talk to him ASAP.
 Thanks for the reminder that life is good.
 ```
+
 ## No More Cave Dwelling (2010-08-20 07:15)
 
 [1] Where have you made your dwelling place? No, Im not
@@ -10484,22 +11352,26 @@ is an UNLIMITED re-Source to accomplish what needs to be done. it’s a new and 
 link to this post later today sis:) thank you for the confirmation.
 August 20, 2010 5:15 AM
 ```
+
 ```
 welcome to my world of poetry (2010-08-20 10:31:13)
 I imagine I’m sitting on a beach in Spain. Totally relaxed and at peace with the world and myself,
 Have a lovely week-end.
 Yvonne.
 ```
+
 ```
 sarah (2010-08-20 13:38:13)
 the words that have hit me the most from this post...come out of hiding.?
 ```
+
 ```
 PatriciaW (2010-08-20 14:01:04)
 There are days when the cave is useful, when we need to get away and recharge, as you said. But I’m more and more
 mindful of the cave of my mind, where I hide away mentally even while busy with tasks and in the midst of a crowd
 of people. Where I go when things are just too difficult to deal with. That’s the cave that I’m trying to steer clear of.
 ```
+
 ```
 One Heart (2010-08-20 16:48:34)
 ”The place you draw away to gain perspective or protection can also be the place you use as a means of avoidance.”
@@ -10509,6 +11381,7 @@ This strengthens me today. Much needed during a week of battles which are attemp
 My dear sister, your book is on the way. It should either have today’s postmark or tomorrow’s. Sorry again for the
 delay–I had a tougher week than the last. Enjoy it and let me know when you receive it. Blessings!
 ```
+
 Toia (2010-08-20 17:46:24)
 Awesome word!!! This will make a great bible study. Thanks for sharing!!! It’s definitely an eye opener. Have a bless
 weekend!!! I’m on my way to Mike’s blog =D
@@ -10601,16 +11474,19 @@ Beautiful prayer, Wanda...joining with you...
 I especially liked this line...
 ”Even when we cant find them physically, they are never unreachable to you.”...praise the Lord!
 ```
+
 ```
 Will Burke (2010-08-21 14:18:32)
 I am thankful for a mind that’s too intricate to fully understand, and dexterous enough to seek understanding.
 ```
+
 ```
 welcome to my world of poetry (2010-08-21 14:43:01)
 A wonderful prayer Wanda,
 Have a good week-end.
 Yvonne.
 ```
+
 ```
 Tea with Tiffany (2010-08-21 16:00:06)
 Like I told Karen, I could pray with her every day. I feel that way about you too and so many other pray-ers online. I
@@ -10619,12 +11495,14 @@ the prodigal part because I was once one of them and praise God for his rescue.
 Thank you, Wanda. I’m so glad I’ve found a new friend in you.
 Have a great weekend.
 ```
+
 ```
 Lily (2010-08-21 19:06:16)
 joining you in prayer :)and now following your blog!
 Lily
 www.neverfadingwood.blogspot.com
 ```
+
 ```
 Peggy (2010-08-21 20:06:13)
 AMEN! and love your heart, Wanda.
@@ -10638,10 +11516,12 @@ Thank you for praying for the prodigals!
 God bless you mightily this weekend
 and always shine on you and through you.
 ```
+
 ```
 Wanda (2010-08-22 23:36:53)
 Thanks for sending up prayers. @Will, the gift of a sound mind is truly something to be grateful.
 ```
+
 ```
 Sharon Kirby (2010-08-23 03:45:31)
 Hi Wanda,
@@ -10649,11 +11529,13 @@ I was just ”blog-exploring” tonight, and I came upon your blog. What a bless
 realized that you had left me a comment on my Granola Bar Devotional!! So...it seems our meeting was ”no accident!”
 I especially liked this part of your prayer - and may I join you in saying, ”Lord, strengthen me where I am weak. Be
 ```
+
 ```
 my compass, as I walk along the path of my life. Send me abundant water to quench my thirst.”
 I am pleased to follow you, Wanda - and I love the way you sign out - THIRSTY FOR HIM...me, too!
 BLESSINGS!
 ```
+
 ## Son or Slave? {Monday Manna} (2010-08-23 13:01)
 
 [1]
@@ -10695,12 +11577,14 @@ multi-faceted grace of our Lord.
 Awesome post.
 Blessings, Karlene
 ```
+
 ```
 BLUEBUTTERFLY (2010-08-23 18:54:26)
 Thanks, Wanda. I often ask myself, when I have the opportunity to do something ”good”, whether I am really doing
 it unto God. Am I doing it in love, joy and peace, so that the name of God will be glorified. I’ve learned to back away
 from the things where I know that my zeal and my motivation for doing them really is not unto God’s glory.
 ```
+
 ```
 welcome to my world of poetry (2010-08-23 19:25:14)
 Thanks for a wonderful post Wanda. I found it most intruging.
@@ -10708,17 +11592,20 @@ must have a peep at that site myself on a Monday when I’m not visiting my daug
 Take care.
 Yvonne.
 ```
+
 ```
 Joanne Sher (2010-08-23 20:28:03)
 Oh - what a GREAT reminder of the differences between slaves and sons. It’s so easy to forget there is nothing to
 earn, and simply an amazing gift. Thanks for participating!
 ```
+
 ```
 Lisa (2010-08-23 23:40:47)
 It’s truly overwhelming if we allow our minds to bask in the knowledge that we are sons and daughters of THE MOST
 HIGH GOD! What a privilege. I only wish more would accept this fact and come into their sonship.
 Thanks for a great post to start the week Ms. Wanda. I hope the rest of your week is blessed beyond measure!
 ```
+
 ```
 Amanda (2010-08-24 09:10:59)
 What wonderful insights you have shared Wanda.
@@ -10728,6 +11615,7 @@ we are the sons (yep, us sisters are sons lol), of the eternal, living God.
 I think that is why people struggle so much to not try to earn their salvation... because it is so hard to believe such a
 mind-blowing gift... yet it is A GIFT!
 ```
+
 ```
 CeCe Wilson (2010-08-26 16:29:00)
 Wow, Deep thoughts my dear! I appreciate your always having something for me to think about. I’ve been faced with
@@ -10737,10 +11625,12 @@ frame of reference. A son can ask boldly either knowing his Father won’t refus
 our best good and timing. Slaves don’t feel they have the right to ask no matter how much they have done for the
 Master and the asking is done more out of brazenness than boldness. Thanks for the mind food!
 ```
+
 ```
 MPW (2010-08-26 21:18:19)
 Serving from a slave mentality....wow!
 ```
+
 ## Its All in There (2010-08-24 05:14)
 
 Before my eyes opened or my feet hit the floor this morning, a tune was playing in my head.
@@ -10748,6 +11638,7 @@ Before my eyes opened or my feet hit the floor this morning, a tune was playing 
 ```
 All that you need is in the name of Jesus
 ```
+
 A YouTube search was unfruitful probably because I dont really know the name of the song. Not even sure
 of the other lines of the song but apparently those are the words I need to know this morning.
 
@@ -10771,59 +11662,71 @@ I wish you could have found the song.
 Love!
 Beth
 ```
+
 ```
 Dr. James (2010-08-24 06:12:51)
 God Bless you in the name of Jesus and to The Joy of Jesus.
 Dr. James A. Lee
 ```
+
 ```
 Karen (2010-08-24 06:19:55)
 Amen! The sweetest Name I know....
 ```
+
 ```
 Andrea (2010-08-24 07:01:43)
 Wanda,
 Thank you for your continued prayers and support. GOD BLESS YOU, sweet friend!
 andrea
 ```
+
 ```
 Karen (2010-08-24 08:14:08)
 And we wonder why the ”world” tries to stop us from speaking THE NAME OF JESUS!
 ```
+
 ```
 welcome to my world of poetry (2010-08-24 08:18:45)
 Thanks for a most inspiring post, I wonder what the tune was called
 Take care and have a wonderful day.
 Yvonne.
 ```
+
 ```
 Steve Finnell (2010-08-24 10:53:55)
 you are invited to follow my blog
 ```
+
 ```
 MPW (2010-08-24 14:31:06)
 Beautiful...Maybe the Spirit of the Lord was writing a new tune through you this morning. ;-)
 ```
+
 ```
 Wanda (2010-08-24 20:42:38)
 Ahh...no, I think it’s an actual song. I’m just never good at remembering the names. Maybe I’ll run across soon but
 that little verse was enough to carry me through today.
 ```
+
 ```
 Ellie (2010-08-24 21:37:41)
 What comfort to reflect on no matter what mood you are in! It is a gift
 to feel this much peace and care in his name! xXx
 ```
+
 ```
 BLUEBUTTERFLY (2010-08-25 08:48:52)
 Oh Yes, Wanda, EVERYTHING...is in Jesus. Can I compare Him to a perfect pound cake? He needs nothing added
 to taste good or bring satisfaction. Bless the Lord, oh my soul, and all that is within me bless His holy name.
 ```
+
 ```
 Amanda (2010-08-26 03:33:16)
 aaahhhh the sweet, precious Name of Jesus, Yeshua, the Lamb of God. All who call on this Name shall be saved...
 blessings to you, my sweet sister!
 ```
+
 ## I Cant Hear You (2010-08-24 23:01)
 
 [1]
@@ -10854,22 +11757,26 @@ I enjoyed this very much Wanda,
 So much truth in what you have written,
 Yvonne.
 ```
+
 ```
 Amanda (2010-08-25 01:59:52)
 This is SO true Wanda! We can’t control what others say to us, but we can sure work on what we respond with...
 even the beautiful art of saying nothing (something I find so incredibly hard lol).
 Loved this... thank you!! Blessings!
 ```
+
 ```
 Denise (2010-08-25 03:37:35)
 Fantastic post.
 ```
+
 ```
 Joan (2010-08-25 04:56:47)
 So true, Wanda. Sometimes it’s best to be silent.
 Blessings,
 Joan
 ```
+
 ```
 lori (2010-08-25 05:11:51)
 Hey Wanda....I’m actually in that place right now. Certain that it is better to remain silent and wait on the Lord
@@ -10878,21 +11785,25 @@ This was PERFECT for me today! Thank you for sharing!
 peace,
 lori
 ```
+
 ```
 ozjane (2010-08-25 06:34:26)
 Great use of word and graphics....I love this one........also the truth of it. Be still and Know that I am God is often
 much wiser than opening our mouth and putting our big feet right into it.
 ```
+
 ```
 Amy (2010-08-25 07:09:33)
 Great verse! LOVE the picture...perfect for this verse!
 Happy WFW!
 ```
+
 ```
 MyJourneyBack (2010-08-25 07:39:04)
 Oh thanks for the smile. I loved this. And thanks for stopping over for my WFW. Smiling in my boots today!
 Have a great day,
 ```
+
 Sherry
 
 Donna (2010-08-25 07:57:48)
@@ -10995,6 +11906,7 @@ Wait! That should be we CAN count on the Psalms for true wisdom. I think I need 
 Lee
 [1]Tossing It Out
 ```
+
 1. http://tossingitout.blogspot.com/
 Just Be Real (2010-08-27 03:27:36)
 Wanda truth speaks loud and clear. Great post. Blessings.
@@ -11003,14 +11915,17 @@ Wanda truth speaks loud and clear. Great post. Blessings.
 Ellie (2010-08-27 07:10:12)
 This rings so true! Pearls of wisdom in Psalms; Glad you reminded us of this one! xXx
 ```
+
 ```
 Amydeanne (2010-08-27 08:29:51)
 great verse!
 ```
+
 ```
 Connie Arnold (2010-08-29 13:25:36)
 Great words, Wanda, and that’s a terrific picture for your post!
 ```
+
 ## Arise Oh Lord (2010-08-27 06:59)
 
 Oh my such a spirit of intercession just swept through me unexpectedly. But is that not how our Lord is?
@@ -11047,11 +11962,13 @@ today. [4]
 BLUEBUTTERFLY (2010-08-27 08:34:15)
 Arise, Oh Lord! Arise, Oh Lord!
 ```
+
 ```
 a sojourner (2010-08-27 09:06:46)
 ...always desired that special gift of having a prayer language. don’t belive it’s something that can be practiced as i’ve
 heard some proclaim. tell me, did it just ”fall on you”....like bang! ???
 ```
+
 ```
 Tea with Tiffany (2010-08-27 09:55:39)
 Hi Wanda,
@@ -11059,6 +11976,7 @@ The soul and words of this song are perfect for my morning. I feel the glory of 
 PRAISE HIM.
 I love how you shared the same things that MTJ’s prayer referred to. The range of needs are wide, aren’t they?
 ```
+
 Thanks for your prayers.
 And I often pray ”Arise” too. The sleeping church must rise.
 Have an amazing God-centered day.
@@ -11163,6 +12081,7 @@ usually include but the song was such a blessing to me yesterday.
 Anonymous (2010-08-29 10:43:46)
 http://bloodtippedears.blogspot.com/2008/07/prayer-and-help-for-my-m om-carol.html
 ```
+
 ## Hes With Me (2010-08-30 04:00)
 
 Yea, thou I walk through the valley of the shadow of death,I will fear no evil: for thou art with me; thy rod
@@ -11183,20 +12102,24 @@ Lovely words and comforting.
 Have a good day.
 Yvonne.
 ```
+
 ```
 Wanda (2010-08-30 06:01:47)
 Yvonne, thanks for your continuing support and I wish you a blessed day, too.
 ```
+
 ```
 LisaShaw (2010-08-30 06:28:36)
 Wanda, praying for/with you this day for your family, for mine and for all others.
 Resting securely in GOD’s love, power and faithfulness.
 Blessings to you!
 ```
+
 ```
 Joanne Sher (2010-08-30 07:13:00)
 Praying, dear Wanda. God is in your midst, and is trustworthy in every way.
 ```
+
 ```
 MTJ (2010-08-30 07:53:26)
 Hi Wanda,
@@ -11211,6 +12134,7 @@ what lurks there, God stands ready as your shield of protection.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Lisa (2010-08-30 20:07:04)
 Wanda, there is no greater peace than knowing that HE is right there and that NOTHING can get past His presence.
@@ -11220,10 +12144,12 @@ Continuing to pray for you Sis. He’s got you!!!
 Belbin9 (2010-08-30 20:09:43)
 I love those verses, and this past week I have felt them. God is good and he always hears our cries
 ```
+
 ```
 Just Be Real (2010-08-31 03:27:33)
 I needed to read and have those words confirmed to me today Wanda. Thank you. Blessings.
 ```
+
 ## Give Me Eyes to See (2010-08-31 11:19)
 
 [1]
@@ -11275,12 +12201,14 @@ these natural eyes of mine block my view of You. So give me eyes and ears that I
 Joanne Sher (2010-08-31 13:23:57)
 Amen and Amen. Love this song, and it’s my heart’s cry as well
 ```
+
 ```
 Amanda (2010-08-31 14:39:10)
 Amen, amen! and a heart to perceive! This has always been my prayer... it is one of the most powerful prayers to
 pray.
 God bless you Wanda! :D
 ```
+
 ```
 MTJ (2010-08-31 17:09:42)
 Hi Wanda,
@@ -11289,6 +12217,7 @@ closer relationship with Christ.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 a sojourner (2010-09-01 00:47:00)
 yes and amen with the others sis:)
@@ -11303,19 +12232,23 @@ This was beautiful; I think we all are blind to what is important at times!
 Antoine de Saint ExupÈry
 (author of the Little Prince)
 ```
+
 ```
 Wanda (2010-09-01 02:57:57)
 Thanks Joanne, Amanda, and MTJ for stopping by today. May the eyes of our understanding be flooded with light.
 Oh great, sojourner. I’ve run into several people that I had no way to follow up with them, if it was something that
 I didn’t want to post publicly to their blogs.
 ```
+
 ```
 Ellie, I love that quote. I so writing keeping that one for my collection.
 ```
+
 ```
 Mike (2010-09-01 09:40:25)
 Love this song... I like the Jim Rohn quote too it’s so true, but hard!
 ```
+
 ## Your Recommendation Says What? (2010-08-31 23:30)
 
 Has anyone ever asked you to write them a letter of recommendation and you felt less than enthusiastic about
@@ -11352,15 +12285,18 @@ people down.
 Have a good day.
 Yvonne.
 ```
+
 ```
 Denise (2010-09-01 00:39:03)
 Such a good post sis.
 ```
+
 ```
 Amanda (2010-09-01 02:34:41)
 Amen Wanda! We are epistles, read of all men. I pray we (I) am portraying His book and not another...
 Have a blessed WFW!
 ```
+
 ```
 MTJ (2010-09-01 06:01:53)
 Hi Wanda,
@@ -11370,6 +12306,7 @@ get an opportunity to see Jesus through me; I don’t want to be an embarrassmen
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Karen (2010-09-01 06:02:28)
 Oooh, that was a good word this morning! I will need to spend some time thinking about this! Bless you, friend.
@@ -11392,6 +12329,7 @@ What if our feet are walking Where sins allurement is?
 What if our tongues are speaking Of things His life would spurn,
 How can we hope to help Him And welcome His return?”
 ```
+
 Joanne Sher (2010-09-01 07:02:43)
 LOVE this, Wanda. Such a great reminder.
 
@@ -11448,28 +12386,34 @@ Thank you for the reminder Wanda.
 Love,
 b
 ```
+
 ```
 GlowinGirl (2010-09-02 20:18:25)
 Being a girl who loves words, I’ve always liked this idea of being a living letter. Great word, friend! :)
 ```
+
 ```
 Donna (2010-09-03 15:12:17)
 Great word today! Thanks for sharing and for the reminder.
 Blessings to you!
 ```
+
 ```
 Karen (2010-09-03 17:08:50)
 Amen...love the way you illustrated this point....
 ```
+
 ```
 Ellie (2010-09-03 18:24:38)
 So well said, A great reflection mirrors our actions...I think we all probably at times, can improve our vision and our
 reflection Great post!!!
 ```
+
 ```
 Toia (2010-09-03 19:30:23)
 Thanks for sharing God’s Word!!! Have a bless weekend!!!
 ```
+
 ## 1.7 September
 
 ## Sweet Ps (2010-09-04 16:07)
@@ -11518,11 +12462,13 @@ Have a prayer, petition or praise of your own? Join [2]Tea with Tiffany for Swee
 Joanne Sher (2010-09-04 17:06:31)
 What a lovely, encouraging prayer, Wanda. I prayed it right along with you.
 ```
+
 ```
 Jan Parrish (2010-09-04 17:12:08)
 Yes, Lord. Thank you for Wanda’s sweet sweet, encouraging spirit. I pray that you would open the doors for her to
 share your name this weekend. Bless her in all she endeavors. In Jesus name, Amen
 ```
+
 ```
 MTJ (2010-09-04 18:19:15)
 Hi Wanda,
@@ -11531,6 +12477,7 @@ praise with thanksgiving.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 a sojourner (2010-09-04 18:19:50)
 with you in agreement, Jan. amen!
@@ -11541,22 +12488,26 @@ This is a beautiful prayer, praying along with you.
 Lily
 www.neverfadingwood.blogspot.com
 ```
+
 ```
 Lisa (2010-09-04 19:51:44)
 What a beautiful prayer Sis.
 I hope you have a wonderful weekend!
 ```
+
 ```
 welcome to my world of poetry (2010-09-04 20:35:07)
 A wonderful prayer and post Wanda. I felt very uplifted by the time I had finished. Thanks for sharing.
 Yvonne.
 ```
+
 ```
 Janis@Open My Ears Lord (2010-09-04 20:36:07)
 A beautiful prayer that set my focus on the Lord. Thank you, Wanda.
 Blessings,
 Janis
 ```
+
 ```
 Peggy (2010-09-04 21:30:05)
 Glory...Amen! LORD... how beautiful You shine through my precious sister Wanda. You indeed are awesome and
@@ -11571,25 +12522,30 @@ Though I am not home for Labor day weekend, I do receive her prayer and stand wi
 us labor in vain. May any labor be of You and produce good fruit in Jesus’ Name...
 thanks Wanda, for a precious prayer
 ```
+
 ```
 Denise (2010-09-05 05:31:23)
 Joining you in prayer.
 ```
+
 ```
 Just Be Real (2010-09-05 10:49:53)
 Wanda, thank you for the encouragement. Have a blessed day dear one.
 ```
+
 ```
 BLUEBUTTERFLY (2010-09-05 14:45:48)
 I’m singing...Thank You, thank You, thank You, thank You...Thank You, Lord, for all You’ve done for me.
 Hallelujah...May you be blessed abundantly, Wanda.
 Faith, hope and, above all, LOVE.
 ```
+
 ```
 Stuff could always be worse (2010-09-06 01:15:52)
 What a wonderful prayer, I agree with you...
 kim
 ```
+
 ## Centered on Truth-{Monday Manna} (2010-09-06 14:49)
 
 Joanne at [1]An Open Book is hosting [2]Monday Manna today. The passage of scripture to reflect upon
@@ -11657,6 +12613,7 @@ Joanne Sher (2010-09-06 15:22:18)
 LOVE your thoughts about the belt especially - we MUST keep the truth in the center of our lives. And PUTTING
 ON the armor - had definitely never thought of that necessity. Thanks so much for participating!
 ```
+
 ```
 Marsha (2010-09-06 17:55:34)
 Excellent post, Wanda! You are so right when you say all the other things we put on can only be probably applied
@@ -11664,6 +12621,7 @@ when we put on the belt of truth first.
 Thanks for this thought provoking post.
 Blessings.
 ```
+
 ```
 MTJ (2010-09-06 17:58:36)
 Hi Wanda,
@@ -11673,6 +12631,7 @@ I will use this as a daily reminder for my spiritual attire.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 
 ```
@@ -11681,30 +12640,36 @@ you mean you don’t shop in your pajamas??? :)
 there was a time in my ”church life” that the gospel was perverted if you will. discerning the Truth is where it’s easy
 to slip up sometimes. it is a Key element....
 ```
+
 ```
 welcome to my world of poetry (2010-09-06 19:24:07)
 A very clever thought about the belt Wanda, God can come over in the mosy unusual ways at times.
 Have a good day.
 Yvonne.
 ```
+
 ```
 Karen (2010-09-07 11:04:17)
 Great passage and illustration. Thanks and bless you!
 ```
+
 ```
 BLUEBUTTERFLY (2010-09-07 12:36:58)
 Action, Action, Action...Help, Lord.
 ```
+
 ```
 Karen (2010-09-07 13:50:04)
 Amen! Very good, Wanda!
 ```
+
 ```
 Bernadine (2010-09-09 03:37:59)
 ”If a piece is missing or not in its proper place or good condition, its because weve neglected to see and handle it as
 significant piece of our lives”
 What excellent points you made in this post, it has much food for thought.
 ```
+
 ## Fasten to Truth (2010-09-08 02:52)
 
 [1]
@@ -11742,30 +12707,36 @@ I am with you... it is who I am in Christ that I wrestle with. I love the dictio
 on deeply.
 Thanks Wanda!
 ```
+
 ```
 Denise (2010-09-08 03:32:49)
 Awesome post.
 ```
+
 ```
 Just Be Real (2010-09-08 03:52:26)
 Amen Wanda. I want to be fasten to Christ and His word. Blessings.
 ```
+
 ```
 GlowinGirl (2010-09-08 03:52:55)
 I identify with you here! And so we need to take that firm grip on Truth and make sure our minds are fastened onto
 it. Great word-picture, Wanda! I love having that word defined so I can really ponder it.
 ```
+
 ```
 Lisa (2010-09-08 04:53:38)
 Ain’t that the truth! As long as we’re clothed in this robe of flesh we will struggle with the truth of who we are in
 Christ. I will put on the WHOLE ARMOUR OF GOD!
 Thanks Sis – have a blessed day!!
 ```
+
 ```
 MTJ (2010-09-08 05:19:32)
 Hi Wanda,
 This is a good addendum to the previous post. A particular scripture is beginning to resonate in my spirit:
 ```
+
 ”**I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the** _life_
 **which I now live in the flesh I live by faith in the Son of God, who loved me, and delivered Himself**
 **up for me.**”
@@ -11871,6 +12842,7 @@ A good reminder on how to dress ourselves every day.
 Blessings,
 Janis
 ```
+
 ```
 lori (2010-09-09 13:56:49)
 Wanda...I’m a day late getting around, but I SWEAR, every week you inspire me with something else to use with
@@ -11880,20 +12852,24 @@ LOVE it!!
 peace!
 lori
 ```
+
 ```
 Karen (2010-09-09 16:34:26)
 Amen...great word for today! Awesome graphic!
 ```
+
 ```
 sarah (2010-09-09 18:52:06)
 YES!!!
 ```
+
 ```
 Sherry @ Lamp Unto My Feet (2010-09-09 19:29:45)
 Awesome post, verse and illustration of the verse! Need to make a point to put on the full armor of God everyday! :)
 Have a blessed day!
 Sherry
 ```
+
 ```
 Grammy (2010-09-09 20:40:08)
 Hi, Wanda,
@@ -11901,6 +12877,7 @@ First, I want to say thank you for your continued support over the past few mont
 had to say about Ephesians and the whole armor of God. Our pastor is preaching a series of sermons with that as his
 text. It is wonderful, is it not? More later. Love, Ruby
 ```
+
 ```
 LisaShaw (2010-09-10 09:53:47)
 Amen and Amen and to your last paragraph I say, Amen again!!
@@ -11908,6 +12885,7 @@ Powerful sharing Wanda. Thank you for always sharing your heart in the LORD. Whe
 with the anticipation of seeing, hearing, feeling MORE of JESUS!
 Love and hugs!
 ```
+
 ## Looking Unto Him (2010-09-11 11:50)
 
 Dear God,
@@ -11956,6 +12934,7 @@ you for interceding fo so many others.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 welcome to my world of poetry (2010-09-11 14:13:26)
 A wonderful prayer Wanda, so beautifully written, I have my own reasons for thanking you.
@@ -12035,6 +13014,7 @@ Yes to what you long for. Yes to power. Yes to signs, miracles and wonders. Yes 
 Yes to fruitful relationships. Yes to love. Yes to strength. Yes to more of my presence. My
 answer is yes; I will do it. You need only ask and trust me.
 ```
+
 Praying that Hell strengthen you as you walk through the darkness.
 
 [5]
@@ -12053,10 +13033,12 @@ An opportunity to grow is exactly what I’m hearing. Here we grow again. ;) The
 deliverance. Yes to wholeness. Yes to household salvation. Yes to peace. Yes to fruitful relationships. Yes to love.
 Yes to strength. Yes to more of my presence. My answer is yes;...” AMEN!!!
 ```
+
 ```
 Joanne Sher (2010-09-13 17:11:21)
 Such an incredible reminder. Thank you. I needed this.
 ```
+
 ```
 MTJ (2010-09-13 17:29:00)
 Hi Wanda,
@@ -12066,6 +13048,7 @@ Your affirmations of Yes resonate in my spirit. I also say, ”Yes!”
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 welcome to my world of poetry (2010-09-13 20:35:06)
 That’s so true about the darkness not lasting. Somewhere there is light at the end of the tunnel however long it may
@@ -12082,10 +13065,12 @@ Could I have your permission to copy your prayer - just for my private use? I ha
 Thank you for being faithful, and speaking the words that God wanted me to hear today.
 BLESSINGS TO YOU!
 ```
+
 ```
 Wanda (2010-09-14 01:42:44)
 Happy to hear that you all found some encouragement from it. Sharon, feel free to use it. Blessings to each of you.
 ```
+
 ```
 Amanda (2010-09-14 01:51:07)
 oh my Wanda... this is powerful. And the picture of the clouds and the sunrays, is glorious. You would probably
@@ -12096,11 +13081,13 @@ our eyes adjust, and we can begin to see more clearly. I believe this is the sam
 in Him, that helps us adjust our spiritual eyes, to seeing in the dark times more clearly.
 Loved this, thank you for posting from your precious journey.
 ```
+
 ```
 Jessica (2010-09-15 21:44:39)
 Phenomenal Wanda. Thank you so much for this reminder. It was very much so needed. Blessings to you <3
 JB
 ```
+
 ## No Girls Allowed:Devotions for Boys (2010-09-14 08:00)
 
 [1][2] [3]I know I broke the cardinal rule of this book by daring to peek inside
@@ -12146,6 +13133,7 @@ as girls.
 Take care.
 Yvonne.
 ```
+
 ```
 MTJ (2010-09-14 12:00:13)
 Hi Wanda,
@@ -12155,6 +13143,7 @@ I’m glad to know that you are among the many who help shape the minds and hear
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Faith Imagined (2010-09-14 17:49:10)
 This book sounds something I would love my boys to read. I am definitely going to check it out. Thanks for the
@@ -12164,6 +13153,7 @@ review!
 Petula (2010-09-17 01:32:29)
 Sounds like a great read.
 ```
+
 ## Web-Free Building (2010-09-15 00:00)
 
 The wicked build houses as fragile as a spiders web, as flimsy as a shelter made of branches. Job 27:18
@@ -12195,6 +13185,7 @@ Only ONE foundation will weather the storms of life. ONLY the Rock of our salvat
 Great verse from Job, too - perfect!
 GOD BLESS!
 ```
+
 Amanda (2010-09-15 01:37:06)
 Excellent WFW Wanda! I love it! So, so true... anything other than the foundation of Jesus Christ, is sheer vanity,
 no matter how opulent it looks.
@@ -12298,51 +13289,62 @@ Blessings,
 ```
 Joan
 ```
+
 ```
 Nemo @ Daily-dabble.com (2010-09-15 18:00:47)
 Hi Wanda! Thanks for stopping by my blog today :)
 That’s a great verse, and a very good reminder to keep our priorities straight. Satan is very crafty indeed and we
 often get trapped in his web of lies. Thanks for sharing!
 ```
+
 ```
 Toia (2010-09-15 18:35:57)
 Jesus is a firm foundation, guarantee to have no cracks!! Happy WFW!!!
 ```
+
 ```
 Karen (2010-09-15 18:39:28)
 Amen! Great lesson!
 ```
+
 ```
 Denise (2010-09-15 23:06:46)
 So very true.
 ```
+
 ```
 Anna Katherine (2010-09-16 05:54:08)
 Wanda, I just made you a signature, go to my blog to see it!
 ```
+
 ```
 Ellie (2010-09-16 07:10:15)
 so true, amazing how our roots, foundation still affect so many decisions today and shaped who we are. The blueprints
 of our souls
 are constantly being shaped!
 ```
+
 ```
 Karen (2010-09-16 07:37:52)
 Great lesson, Wanda. I love it when God gives me a ”picture” of His truth, so it will stick with me!
 ```
+
 ```
 sarah (2010-09-16 13:27:56)
 a web of lies....this is so true what you said..and that web of lies can grow so hugh without a person even knowing it’s
 lies.Good lesson
 ```
+
 ```
 Sherry @ Lamp Unto My Feet (2010-09-16 21:47:20)
 Great pic and verse! How wonderful to have a foundation on the Rock! :)
 ```
+
 ```
 Sherry @ Lamp Unto My Feet (2010-09-16 21:47:26)
 Great pic and verse! How wonderful to have a foundation on the Rock! :)
 ```
+
 ## You Know How to Brighten the Day (2010-09-17 07:00)
 
 Dont you just love when unexpected blessings come your way? Ive been feeling like a kid at Christmas.
@@ -12422,6 +13424,7 @@ welcome to my world of poetry (2010-09-17 08:18:36)
 Thank you Wanda for brightening up my day. I shall show the award with pride,
 Yvonne.
 ```
+
 ```
 MTJ (2010-09-17 09:17:42)
 Hi Wanda,
@@ -12430,6 +13433,7 @@ with an insight that inspires and encourages; I appreciate that.
 Many thanks for including me in the list of your Circle of Friends award.
 Blessings and peace.
 ```
+
 [1]MTJ
 
 1. http://mythought-filledjourney.blogspot.com/
@@ -12488,6 +13492,7 @@ here on your blog.
 Am I the Amanda you mentioned?? If I am, thank you so much... I feel special that you would mention me (if it is
 me!) LOL
 ```
+
 ## Victory Through Him (2010-09-18 19:30)
 
 Psalm 62
@@ -12558,11 +13563,13 @@ with another one of His children that speaks or writes a word that refuels my ho
 Mike (2010-09-18 19:57:17)
 Wonderful. He always comes through.... always, always!
 ```
+
 ```
 welcome to my world of poetry (2010-09-18 20:39:19)
 This was wonderful Wanda, a privilege to read. Thank you.
 Yvonne.
 ```
+
 ```
 MTJ (2010-09-18 20:51:24)
 Hi Wanda,
@@ -12576,6 +13583,7 @@ I appreciate you as a fellow Christian.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Joanne Sher (2010-09-18 20:59:28)
 The psalms are so full of things like this - love them - and this post. Blessings.
@@ -12587,6 +13595,7 @@ Many of them were borne out of his struggles and over-whelming trials. We can al
 even though not many of our trials were as severe as his.
 I always find encouragement and inspiration through the posts you write... I am very grateful for your blog!
 ```
+
 ```
 Dena E’s Blog (2010-09-19 22:26:12)
 Yes Sweet Wanda”Always Always Wait on God”He is our 1 and only TRUE Hope”,never give up on Him..
@@ -12596,15 +13605,18 @@ He is our”Heart Toucher” Hand Holder” Fear Taker and Peace Maker”to just
 May all good things of God happen for you in your new week!!!
 Hugs &Love Dena
 ```
+
 ```
 Karen (2010-09-20 00:04:12)
 Amen...the Living Word...always has the answer...because He IS the answer.....
 ```
+
 ```
 BLUEBUTTERFLY (2010-09-20 12:54:33)
 He is unfailing love, unfailing power and unfailing victory....we always can be certain of the outcome when we place
 our trust in Him.
 ```
+
 ## But, I want to go this way {Monday Manna} (2010-09-20 23:23)
 
 [1]
@@ -12646,6 +13658,7 @@ Joanne Sher (2010-09-20 23:51:47)
 YES! We think we know what we want - but so often we are wrong. SO glad there is Someone who really knows what
 is best! Thanks for participating, Wanda!
 ```
+
 ```
 MTJ (2010-09-21 00:28:29)
 Hi Wanda,
@@ -12663,6 +13676,7 @@ Though I may not understand them as they unfold, I am assured that He is working
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 LisaShaw (2010-09-21 00:46:36)
 Amen sis! Trusting His path and plan for my life which is a far cry BETTER than any plan I had.
@@ -12679,6 +13693,7 @@ Joanne, I was happy to do so. It’s interesting to see what others glean from t
 MTJ, hearing Well done is by far better than anything we can achieve or possess down here.
 Lisa, they definitely are. I just wish he’d give me more details...lol
 ```
+
 ```
 Bernadine (2010-09-21 02:28:08)
 I find myself nodding in agreement as I read this because this is so where I’m at lately. I find myself constantly asking
@@ -12686,16 +13701,19 @@ Him for details but He wants my walk to be a walk of faith. So as you said,
 ”Even when I cant perceive the good in it, I must trust that He indeed has a plan and its good and not evil.”
 Thanks for sharing.
 ```
+
 ```
 Wanda (2010-09-21 11:41:51)
 Bernadine, the road in between what used to be and the promised place can be quite uncomfortable. But He didn’t
 call us to comfort but FAITH.
 ```
+
 ```
 welcome to my world of poetry (2010-09-21 16:27:41)
 This was wonderful to read so inspirational, thanks for sharing.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2010-09-21 17:39:40)
 One of the toughest battles of the Christian walk is not that of surrendering our thoughts and plans to God, it is in
@@ -12703,10 +13721,12 @@ knowing that our thoughts and plans are not like His. Most of us would happily a
 certain it would just be a rubber stamp on our own desires.
 All I can say is, ”Lord, I want to be more like You.”
 ```
+
 ```
 Mike (2010-09-21 20:21:57)
 An apt word for me today!! Blessings :)
 ```
+
 ## Psalms {Life Change Series} (2010-09-21 06:00)
 
 Could David have been the first blogger?
@@ -12716,6 +13736,7 @@ It’s GREAT that we have David’s words to read... he experienced and wrote ab
 different feelings that we experience. Hey, now that I think about it, David was like the first
 blogger, wasn’t he?!
 ```
+
 [1]Michelle made this comment to a post I wrote on [2]Psalms 142:4-5.
 
 I never had thought about him in that way. He might not have been a blogger in todays sense of the word
@@ -12761,6 +13782,7 @@ jpg
 Karen (2010-09-21 09:51:41)
 I like to think of David as a fellow blogger! Through his praise, he built a ”tabernacle of praise” that has endured!
 ```
+
 ```
 MTJ (2010-09-21 12:49:09)
 Hi Wanda,
@@ -12768,6 +13790,7 @@ Thanks for sharing this review by Navigators. I hope there is a Kindle version a
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 welcome to my world of poetry (2010-09-21 16:19:31)
 Thanks Wanda for this interesting post, Indeed David could have been the first blogger.
@@ -12778,14 +13801,17 @@ Amanda (2010-09-22 08:38:43)
 This study looks interesting... I always love the Psalms (who doesn’t??) lol.
 I am sure David would have been an awesome blogger!! :D
 ```
+
 ```
 SomeGirl (2010-09-27 05:37:35)
 How fun to see my comment in your post! :) Looks like a great study, btw. Thanks for sharing it!?
 ```
+
 ```
 Jenny (2010-09-29 16:57:21)
 I sort of imagine David having an account on YouTube, actually.
 ```
+
 ## Heard the News (2010-09-22 02:25)
 
 [1]
@@ -12828,6 +13854,7 @@ I am like you, I don’t watch much news at all. Actually, none. I look at news 
 can select what I am comfortable hearing about.
 Happy WFW lovely sis...
 ```
+
 ```
 welcome to my world of poetry (2010-09-22 04:54:25)
 I make a point in watching our regional news then followed by the national and internation news once a day, I don’t
@@ -12835,6 +13862,7 @@ buy many newspapers.
 I enjoyed your post as usual, you write alot of sense,
 Yvonne.
 ```
+
 ```
 MTJ (2010-09-22 05:53:18)
 Hi Wanda,
@@ -12842,6 +13870,7 @@ This is news we all need to hear.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 
 Joan (2010-09-22 05:56:30)
@@ -12947,19 +13976,23 @@ Thanks Wanda,
 It is nice to see you give us a fresh view! I,too, sometimes don’t watch the news, it is depressing and
 upsetting! You did give us a Word full, a nice way to view the NEWS xXx
 ```
+
 ```
 Toia (2010-09-25 10:27:41)
 This what I needed to read. This is what I call good news. Thanks for sharing!!
 ```
+
 ```
 Petula (2010-09-25 12:42:39)
 Great post! Yes, watching and reading the regular news is not usually good. But the news you shared from his word
 is good.
 ```
+
 ```
 sarah (2010-09-25 14:22:15)
 this is a great encouraging post. thank you for it.
 ```
+
 ```
 elaine @ peace for the journey (2010-09-25 19:49:39)
 So glad that God’s news & truth doesn’t read like the world’s does. Yes, let us strengthen one another with truth
@@ -12968,6 +14001,7 @@ Thanks for your prayers and encouragement.
 blessed Sabbath rest to you.
 peace elaine
 ```
+
 ## Stress Free Life :Seven Keys to Extraordinary Life (2010-09-26 23:19)
 
 [1] What comes to mind when you hear the word stress? Is it juggling family
@@ -13043,6 +14077,7 @@ Though I’m unfamiliar with the author, I do enjoy reading the book reviews you
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Lisa (2010-09-27 00:23:09)
 How interesting and I must say, I ’m a coward right there with you. That is something I struggle with, but that I
@@ -13058,6 +14093,7 @@ what you’re reading.
 Have a good day.
 Yvonne.
 ```
+
 ```
 Wanda (2010-09-27 12:31:03)
 It was my first time reading any work from this author, MTJ.
@@ -13066,15 +14102,18 @@ to stay that way. Hope you have a great week too!
 Yvonne, it was definitely a different take on handling stress. I don’t know if we’ll ever be totally stress free in this
 life. Besides stress can be both good and bad.
 ```
+
 ```
 BLUEBUTTERFLY (2010-09-27 14:55:05)
 Thanks Wanda. That word ”fear” and stress are so tied together. It will spin you in circles until you fall in complete
 exhaustion. My motto is always to fight fear using God’s word....daily.
 ```
+
 ```
 Wanda (2010-09-28 11:31:43)
 Now that’s a wise motto, Blue! We have to use the weapons God has provided us.
 ```
+
 ## Just a Few Steps From Home (2010-09-27 17:34)
 
 [1]
@@ -13161,6 +14200,7 @@ post. I will continue to pray that he gets his second wind and is able to make t
 loving relationship with Jesus Christ. Thank you for this post. It was a very encouraging reminder.
 Monica
 ```
+
 ## Spreading the Sweet Stuff (2010-09-29 00:00)
 
 [1]
@@ -13191,10 +14231,12 @@ welcome to my world of poetry (2010-09-29 05:09:12)
 You do write some very inspirational posts Wanda and this one is no exception. A pleasure to read.
 Yvonne.
 ```
+
 ```
 Dorie (2010-09-29 05:13:39)
 Cafeteria lunch room aroma - you made me laugh! Seriously, it was a great analogy. Thanks for sharing it.
 ```
+
 ```
 Amanda (2010-09-29 05:52:02)
 It is so true!! You wrote a great analogy to drive the message home lol! Weiners!! haha!
@@ -13202,6 +14244,7 @@ I love the whole imagery provoked by ’aroma, fragrance’ scriptures and I LOV
 Straight to the point.
 Well done and have a great WFW Wanda!
 ```
+
 ```
 Joan (2010-09-29 05:54:51)
 Wanda - I had to smile at the cafeteria smell. I think we had those same barbequed weiners in our cafeteria. (And I
@@ -13211,6 +14254,7 @@ they would know the glorious riches of knowing Him.
 Blessings,
 Joan
 ```
+
 ```
 MTJ (2010-09-29 06:04:36)
 Hi Wanda,
@@ -13221,6 +14265,7 @@ Peas. Too often, people reject God without ever having a genuine relationship wi
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 GlowinGirl (2010-09-29 06:18:52)
 BBQ wieners! Hilarious! But so true, because I love those little things. :) What a unique way to put a great truth.
@@ -13232,6 +14277,7 @@ I love the message and I love the imagery you’ve shared. Thanks so much!
 Blessings,
 penny
 ```
+
 Joanne Sher (2010-09-29 09:58:21)
 Love the message AND the imagery! Gonna remember this one!
 
@@ -13380,6 +14426,7 @@ Jesus Christ still moves among us and becomes real to those that seek Him.
 Love,
 Ruby
 ```
+
 ```
 welcome to my world of poetry (2010-10-01 21:26:57)
 I applaud your write Wanda, you certainly get the message across.
@@ -13387,6 +14434,7 @@ Wonderful to read.
 Enjoy your week-end.
 Yvonne.
 ```
+
 ```
 welcome to my world of poetry (2010-10-01 21:27:06)
 I applaud your write Wanda, you certainly get the message across.
@@ -13394,12 +14442,14 @@ Wonderful to read.
 Enjoy your week-end.
 Yvonne.
 ```
+
 ```
 Lisa (2010-10-01 23:51:57)
 Wanda, God is showing me constantly lately (!) that HE is moving on my behalf. I may not see the answer or the
 way, but He knows.
 I’m so glad to hear that God is moving in the life of your family. He can be depended on – He can be trusted!!!!!!!!!!!!!
 ```
+
 ```
 MTJ (2010-10-02 05:16:11)
 Hi Wanda,
@@ -13408,6 +14458,7 @@ What you share is worthy of praise to our Lord.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Amanda (2010-10-02 06:32:12)
 Well this certainly fired me up! How infectious is His Spirit, that fanes the flame in our hearts!!
@@ -13421,6 +14472,7 @@ I enjoy reading about how God is moving in the lives of others. I can so identif
 ”that” again but like you I’m encouraged to do it again.
 Thanks for sharing.
 ```
+
 ```
 Pat (2010-10-04 17:20:23)
 Hello Wanda my first visit here and I did enjoy your post very much!!! Yes I’m also expecting a visit soon from my
@@ -13428,10 +14480,12 @@ Saviour and it’s going to be great because truly nothing is to hard for God,an
 jah”!!! Have a fantastic day Wanda I’ll be back soon.
 Love ya
 ```
+
 ```
 Cherie Hill (2010-10-05 12:29:12)
 I love how God ”surprisingly” shows up. I love how He ”suddenly” moves powerfully! But, it’s all no surprise to Him
 ```
+
 ... it’s happened just as He planned all along. AND we should have been ”expecting” Him. I pray, everyday, that
 when He looks at me, ”I will be found in Him”... full of faith... consumed with hope... with my eyes fixed
 upon Him.
@@ -13447,6 +14501,7 @@ He is so beyond our abilities to comprehend.
 I loved what Amanda wrote too, she said, ”Well this certainly fired me up! How infectious is His Spirit, that fanes
 the flame in our hearts!!” Amen!
 ```
+
 ## The Familiar Stranger {Teaser Tuesday} (2010-10-05 05:00)
 
 Since Ive been catching up on a book Ive longed to read for some time now, I decided to link up with Miz
@@ -13458,6 +14513,7 @@ My Teaser: [2]
 What? she whispered, leaning toward me. That you feel more loved by a man whos just
 getting to know you than by the man who lived with you for years.
 ```
+
 The Familiar Stranger by Christina Berry
 You can join the fun by picking up your latest read and turning to a random page. Share two sentences from
 that page. Make sure not to share any spoilers.
@@ -13473,10 +14529,12 @@ welcome to my world of poetry (2010-10-05 06:48:45)
 Hope your link up will be a success
 Yvonne,
 ```
+
 ```
 Tasha (2010-10-05 12:59:44)
 Wow, interesting teaser! Makes me wonder what comes next. Here is a look at my [1]teaser... Happy reading!
 ```
+
 1. http://book-obsessed.blogspot.com/2010/10/teaser-tuesday-one-wicked-sin-by-nicola.html
 Joanne Sher (2010-10-05 13:10:54)
 LOVED that book, Wanda! And a fabulous teaser for it :)
@@ -13486,6 +14544,7 @@ TheBookishSnob (2010-10-05 13:37:16)
 So what’s her reply? Thanks for the teaser :)
 [1]Here’s my TEASER for this week
 ```
+
 1. http://thebookishsnob.blogspot.com/2010/10/teaser-tuesday-7.html
 Monica (2010-10-05 21:16:14)
 Wow...pretty good teaser. I might have to link up one day.
@@ -13494,10 +14553,12 @@ Wow...pretty good teaser. I might have to link up one day.
 Book Sake (2010-10-06 00:12:17)
 New love can feel that way!
 ```
+
 ```
 PatriciaW (2010-10-06 18:14:02)
 I haven’t read this one, but it’s on my TBR list.
 ```
+
 ## As Weeks Go By (2010-10-05 23:30)
 
 All humanity will come to worship me from week to week and from month to month. Isaiah 66:23 (NLT)
@@ -13521,17 +14582,20 @@ welcome to my world of poetry (2010-10-06 05:44:14)
 Wonderful, I can always count on you Wanda for inspiration.
 Yvonne.
 ```
+
 ```
 Amanda (2010-10-06 06:04:21)
 Yes, amen and amen! Very clever graphics to go with this scripture and message Wanda... I always look forward to
 seeing your entry each week ;-)
 God bless ya and happy WFW!
 ```
+
 ```
 ozjane (2010-10-06 06:58:32)
 I like it.... I was stumbling around in a tired brain for inspiration today but sometimes it is in the simple things...well
 done.
 ```
+
 ```
 MTJ (2010-10-06 07:50:34)
 Hi Wanda,
@@ -13539,6 +14603,7 @@ Thank you for sharing these words of inspiration and encouragement from the Lord
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 
 Faith Imagined (2010-10-06 08:01:20)
@@ -13592,17 +14657,20 @@ Nice post.
 Amydeanne (2010-10-06 18:22:39)
 ooo I love it Wanda! how powerful!
 ```
+
 ```
 Joan (2010-10-06 18:31:30)
 Very inspiring verse, Wanda.
 Blessings,
 Joan
 ```
+
 ```
 Alicia, The Snowflake (2010-10-06 18:56:08)
 What a great WFW! I love the scripture. I am going to have to look it up and write it down. I want to remember it!
 Thanks for sharing!
 ```
+
 ```
 Sharon Kirby (2010-10-06 20:50:36)
 Thank you, Wanda - I was particularly encouraged by these words: ”So will your children and your reputation stand
@@ -13611,6 +14679,7 @@ In a season when things feel a little shaky, I really appreciated hearing this p
 - He has a hand on me.
 Thank you - GOD BLESS!
 ```
+
 ```
 Janis@Open My Ears Lord (2010-10-06 21:39:54)
 Hi Wanda,
@@ -13619,12 +14688,14 @@ Thank you for all the inspiration you bring to the readers of your blog.
 Blessings,
 Janis
 ```
+
 ```
 jhunnelle (2010-10-06 22:11:25)
 whoaah, it’s my first time to read this verse in a different version, i’ve never tried to read the bible in the ”The
 Message” version,it’s beautiful, God’s word is always powerful and inspiring.
 Blessings!
 ```
+
 ```
 Wanda (2010-10-07 05:31:08)
 Thanks to each of you that stopped by and shared your thoughts. Your visits are always appreciated. This verse was
@@ -13632,6 +14703,7 @@ one I recently discovered during my one-year Bible reading. There’s no better 
 than in worship to Him. May all that you do and say be an offering to Him. Jhunnelle, I like to compare verses in
 different versions of the Bible. It has way helping me see it through fresh eyes.
 ```
+
 ## Pebble or Rock (2010-10-07 10:46)
 
 As I drove home yesterday evening, I found myself singing, when my heart is overwhelmed lead me to the
@@ -13667,6 +14739,7 @@ A wonderful post to read Wanda, Although I visit the beach daily I have never th
 way you do.
 Yvonne.
 ```
+
 ```
 MTJ (2010-10-07 12:08:05)
 Hi Wanda,
@@ -13676,6 +14749,7 @@ But I now see that God’s desire for me is to experience a mature relationship 
 faith.
 You raise valid questions regarding faith and trust in God:
 ```
+
 1. Is that the rock I see when reading scriptures that calls God my rock and my fortress?
 2. Is that your view of the rock?
 3. Does my response, my prayer, my thoughts, my attitude or my demeanor show that I see Him as
@@ -13780,6 +14854,7 @@ Wanda (2010-10-15 03:04:56)
 Thanks for adding your thoughts, Lisa, Alisa, Peggy, and Nicole. I think we all can use an adjustment to our per-
 spective on the greatness of God. May each you continue to stand upon the Rock.
 ```
+
 ```
 Dean Spencer (2010-10-17 04:46:46)
 Wanda -
@@ -13788,6 +14863,7 @@ have a very limited view of who our God is...as you say, Could it be that the ro
 I’m now a follower of yours. Looking forward to reading more. God bless!
 Dean
 ```
+
 ## A Prayer (2010-10-08 11:44)
 
 [1] Oh Lord, there is none like you! For you are great, and your name
@@ -13819,6 +14895,7 @@ Thank you again Wanda for a most wonderful prayer,
 Have a good week-end.
 Yvonne.
 ```
+
 ```
 MTJ (2010-10-08 13:45:18)
 Hi Wanda,
@@ -13828,6 +14905,7 @@ and in the words we speak.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Tea with Tiffany (2010-10-08 19:43:43)
 Amen..
@@ -13842,37 +14920,45 @@ tiffany
 Denise (2010-10-09 03:11:36)
 Bless you for such a lovely prayer sweetie.
 ```
+
 ```
 Pet (2010-10-09 13:59:52)
 Thank you, blessing!
 ```
+
 ```
 Just Be Real (2010-10-10 08:49:22)
 A wonderful prayer Wanda. Blessings.
 ```
+
 ```
 Ellie (2010-10-10 10:54:54)
 What a lovely prayer, so thought provoking and such a great reminder of your faith! xXx
 ```
+
 ```
 Sydney (2010-10-11 02:52:50)
 What a lovely prayer. We can be at peace knowing that our steps are ordered by HIM who created it ALL.
 Thank you so much for stopping by my blog. May the Lord bless you with the petitions of your heart according to
 His perfect will.
 ```
+
 ```
 Amanda (2010-10-11 13:38:40)
 Amen and amen Wanda... I love this beautiful prayer, thank you :D
 ```
+
 ```
 LisaShaw (2010-10-11 19:17:19)
 Amen and Amen! Beautiful and heart-warming. Thank you for sharing and for PRAYING!
 Much love!
 ```
+
 ```
 Mike (2010-10-12 11:59:14)
 Thank you for your prayer!
 ```
+
 ```
 lioneagle (2010-10-12 13:34:22)
 Hi Wanda -
@@ -13883,6 +14969,7 @@ Isaiah 10:27 (KJV)
 James 5:16 (KJV)
 ...The effectual fervent prayer of a righteous man availeth much.
 ```
+
 ```
 Peggy (2010-10-13 02:47:41)
 AMEN! amen! amen!
@@ -13892,6 +14979,7 @@ Very encompassing & embracing heart of prayer! Thank you for praying!
 Sorry I was not around sooner but that’s the good thing about blogs, they are here forever... and these prayers will
 be here to bless & minister! Praise God for this wonderful warm heart in prayer!
 ```
+
 ## Can you give it all away? (2010-10-12 23:30)
 
 I tend to be one that likes to hold onto things for far longer than necessary. You just never know when you
@@ -13927,11 +15015,13 @@ Thanks for this reminder.
 GOD BLESS!
 (P.S. I have a hard time throwing personal trinkets away, too!!)
 ```
+
 ```
 welcome to my world of poetry (2010-10-13 01:48:30)
 Thought this was excellent Wanda, good way of getting the message across,
 Yvonne.
 ```
+
 ```
 Amanda (2010-10-13 03:01:18)
 Wanda, this is so true... some people may not be owned by material possessions, but they are owned by their ego and
@@ -13940,39 +15030,47 @@ Powerful reminder, thank you. It seems He is speaking this type of message a few
 blogland. He must want our attention on it.
 God bless and thank you...
 ```
+
 ```
 GlowinGirl (2010-10-13 04:12:17)
 Great word, my friend! Isn’t it true that we hang on to things that we shouldn’t? Things that only tie us to this
 world or to significance that isn’t true. May I be willing to cast it all aside just for Him... as He did for us.
 ```
+
 ```
 ozjane (2010-10-13 05:59:49)
 Very relevant in a week where I had to do a bio for a 50 yr teacher’s college reunion.
 It was interesting to have someone comment on the parallel between my teaching life and life in the church.
 Quite strange to see how others see you and the value they place on those silly status things...Nice but not to lean on.
 ```
+
 ```
 Julie Arduini (2010-10-13 07:29:10)
 That picture is just perfect! It hits home to see His truth in the visual context you have here. Thank you!
 ```
+
 ```
 MCH Boys Ranch, Inc. (2010-10-13 08:44:22)
 Awesome post....so true. Thanks for sharing!
 ```
+
 ```
 BLUEBUTTERFLY (2010-10-13 08:50:25)
 A deep word, Wanda. I am often asked why I don’t have any awards, degrees, etc. on my office wall, and I tell people
 the truth: I don’t want to get attached in the wrong way to the wrong things. One of my favorite movies, ”The House
 of Sand and Fog”, is a blunt and brutal telling of detrimental attachments. It is a place that I never want to be.
 ```
+
 ```
 Ginger (2010-10-13 09:59:20)
 Wanda, this one ROCKS!
 ```
+
 ```
 Denise (2010-10-13 10:02:07)
 Wow, I love this.
 ```
+
 MTJ (2010-10-13 11:27:32)
 Hi Wanda,
 Like you say, ”**it****s rather easy to discard those things I count as trivial.**” – _Those things I treasure are far_
@@ -14076,27 +15174,32 @@ achievements. God is so good and He knows best!
 cHe (2010-10-13 23:16:18)
 Wonderful sharing sis wanda..Thank for sharing it. I am so blessed with it. God bless u
 ```
+
 ```
 LisaShaw (2010-10-14 09:12:59)
 Oh this is rich! Thank you for sharing! May we all remember...it’s ALL ABOUT JESUS!
 Blessings and peace!
 ```
+
 ```
 Amydeanne (2010-10-14 20:46:40)
 great visual!
 ```
+
 ```
 daylily777 (2010-10-14 22:54:33)
 I have trouble holding on to things, too. Wonderful verse , wonderful WFW!
 Blessings,
 Myrna
 ```
+
 ## Just a Matter of Moments (2010-10-15 01:45)
 
 ```
 [1][moments.jpg]
 Photo via Flickr by [2]ktylerconk
 ```
+
 Its the moments that matter most. Our lives are full of moments. Sometimes I think I lose focus that its
 really all about the moment Im in at this time. Often, Im not feeling present but my mind is wandering
 to next thing on my to-do list. Many moments have passed and the next moments arent promised to any
@@ -14134,6 +15237,7 @@ welcome to my world of poetry (2010-10-15 01:55:52)
 Really wonderful Wanda,
 Yvonne.
 ```
+
 ```
 MTJ (2010-10-15 04:20:29)
 Hi Wanda,
@@ -14153,6 +15257,7 @@ praise Him in this my moment.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Karen (2010-10-15 04:55:57)
 This is a wonderful truth. I especially like the Henry Drummond quote. Bless you!
@@ -14163,19 +15268,23 @@ Love the quotes and all the questions. It seems I’ve given a lot of thought la
 fast it slips away.
 Have a great weekend, Wanda!
 ```
+
 ```
 Karen (2010-10-15 07:39:46)
 Beautifully worded reminder...very timely for me...
 ```
+
 ```
 BLUEBUTTERFLY (2010-10-15 08:33:37)
 Yes, Lord...Yes, Lord.
 ```
+
 ```
 Bernadine (2010-10-15 22:50:02)
 Love this post Wanda. I needed this reminder because it’s so easy to be in one moment and thinking about another
 which means we don’t get the full benefit of the moment we’re in.
 ```
+
 ```
 Sharon Kirby (2010-10-15 23:05:25)
 Wanda - This was great. I have spent so much time (TOO much time) either regretting the past or worrying about
@@ -14185,17 +15294,20 @@ I really liked the quote by Peck -
 Lord, help me to ”step out of my rut” - help me to concentrate on making finer moments...
 GOD BLESS!
 ```
+
 ```
 Just Be Real (2010-10-16 05:55:23)
 Wonderful and thought provoking post Wanda. The quote from Emerson and Peck, for that matter Drummond are
 inspirational. Thank you for sharing. Blessings.
 ```
+
 ```
 Merana Leigh (2010-10-16 07:08:16)
 Wanda - I found you thru MTJ above. What wonderful post! You bring to it, such a great openness & vulnerability
 to explore. I also love what MTJ said, ”moments are never lost, they are invested”. I look forward to following you &
 invite you to do the same. I will welcome your insightful comments. Blessings to you Merana
 ```
+
 ```
 Wanda (2010-10-16 15:42:48)
 thanksYvonne!
@@ -14211,12 +15323,14 @@ Merana Nice to meet you and happy to have you drop by for a visit. MTJ has been 
 crossed. He always offers such wonderful words of wisdom and I was drawn to that exact same statement from his
 comment. It’s one I’ll be chewing on for a while. I look forward to getting to know you.
 ```
+
 ```
 Monica Watkins (2010-10-18 04:20:22)
 Great post, Wanda. I really enjoyed the last quote by Ralph Waldo Emerson. Reading this in the morning will really
 help me to guide my day, being more thoughtful of the moments it contains and What I do with them.
 Monica
 ```
+
 ## Not Without a Fight! (2010-10-18 11:29)
 
 F I G H T&.thats not a word I like very much. I tend to avoid conflict like the plague. There are lots of
@@ -14266,6 +15380,7 @@ Failure to confront the enemy will only lead to a loss of more territory.
 Mike (2010-10-18 11:57:00)
 This is a great reminder... I need to be more aware. Thank you :)
 ```
+
 ```
 Amanda (2010-10-18 13:17:47)
 oh wow Wanda!! How scary! I could feel my heart racing as I read your post! I loved dogs dearly, but am afraid of
@@ -14278,6 +15393,7 @@ Loved this post, or rather, the suspense, and the message.
 Glad you and Bella are safe. And no, I doubt you would be the type to offer her up as the sacrifice to save yourself
 (even if the thought did cross your mind, as it would mine). ;-)
 ```
+
 ```
 MTJ (2010-10-18 14:36:22)
 Hi Wanda,
@@ -14303,6 +15419,7 @@ I’m equipped for battle, I can call on the name of the Lord.
 For some time now, I’ve been encouraged and inspired by your words, I thank God for you my sister.
 Blessings and peace.
 ```
+
 [1]MTJ
 
 1. http://mythought-filledjourney.blogspot.com/
@@ -14428,6 +15545,7 @@ Ellie (2010-10-19 20:29:46)
 Gives one hope, all is not lost
 We still can find our ways! xXx
 ```
+
 Peggy (2010-10-19 23:52:11)
 Blessings Wanda... BEAUTIFUL graphic, the photo, the reflection, the verse! WOW! The Message was just as
 powerful. Fills one with HOPE! and except that’s it’s late at night...I heard a shout over here...WOO HOO! HAL-
@@ -14580,6 +15698,7 @@ that kind of thinking forgets that God is still in control. Like you said, _”O
 destroying yokes, and saving souls.
 Amen and amen! God bless!
 ```
+
 ## The Waiting ̃ Blog Tour (2010-10-20 08:00)
 
 [1] Its my pleasure to take part in the blog tour for Suzanne Woods Fishers
@@ -14703,6 +15822,7 @@ Thrilled you want to read more! ”The Search” is coming in about 6-7 weeks!
 Thanks, Wanda, for being a part of the tour, too.
 Warmly, Suzanne Woods Fisher
 ```
+
 ## Children Learn What They Live (2010-10-23 22:55)
 
 In a time when children can sing the latest pop songs, it was a blessing to see this little prayer warrior calling
@@ -14717,32 +15837,38 @@ Hope you’re enjoying a wonderful weekend!
 Ruth (2010-10-23 23:51:56)
 Hi Wanda... truly precious!! Hope you enjoy your weekend too. Thank you for posting this.
 ```
+
 ```
 Joanne Sher (2010-10-24 05:00:39)
 LOVE this! Sooooo much
 ```
+
 ```
 a sojourner (2010-10-24 05:31:19)
 Wanda, i thought this was great as well!
 she certainly knows a lot!
 but.....i think she’d drive me right around the bend:)
 ```
+
 ```
 welcome to my world of poetry (2010-10-24 06:50:19)
 This was grand Wanda.
 you too have a good week.
 Yvonne.
 ```
+
 ```
 Wanda (2010-10-24 20:15:02)
 Had a busy weekend and I’m sad to see to it ending so soon.
 lol...sojourner ;)
 ```
+
 ```
 Dena E’s Blog (2010-10-24 21:07:54)
 Wow”, this is Awesome Sis!!!
 What a perfect find...Hugs Dena
 ```
+
 ## The Artist (2010-10-24 13:47)
 
 As I walk this morning and look up at the sky, I can’t help but be awestruck by the wonder of your hand-
@@ -14769,16 +15895,19 @@ Amanda (2010-10-24 14:38:13)
 Beautifully written Wanda! Oh my, that is a gorgeous display from our Father! You know how I am with sky pictures,
 I love them!!
 ```
+
 ```
 Toia (2010-10-24 14:47:48)
 Beautiful and Majestic!!! I always try to take time to stop and look up at the sky to see what beautiful masterpiece
 has painted for me. Thanks for sharing!!!
 ```
+
 ```
 welcome to my world of poetry (2010-10-24 15:27:55)
 As always a beautiful write, it’s so relaxing visiting you as I know here I can find peace and calm. Thank you Wanda.
 Yvonne.
 ```
+
 ```
 Wanda (2010-10-25 02:13:00)
 Yes, Amanda, we’re alike in that way.
@@ -14786,6 +15915,7 @@ Toia, that’s a great practice to have.
 Yvonne, glad to know you find peace here.
 Blessings to each of you.
 ```
+
 ```
 Dena E’s Blog (2010-10-25 03:03:49)
 You are such a blessing from Our LORD Himself Sis...His decorating is beyond words and just think Heaven is even
@@ -14795,15 +15925,18 @@ A prayer for you
 As you seek God first” May the light of Jesus Christ continue to shine through you, blessing you in all that you do!!!
 Hugs Dena
 ```
+
 ```
 Rae (2010-10-25 11:19:50)
 What a beautiful way to start the day! Hope yours is spirit-filled and awesome!
 ```
+
 ```
 BLUEBUTTERFLY (2010-10-25 15:26:13)
 Thank you, Wanda. Whenever counsel kids I always remind them that they were created a masterpice and all they
 need to do is build up from there. I guess we adults need to keep that in mind also.
 ```
+
 ```
 Wanda (2010-10-25 22:38:56)
 Thank you Dena for the lovely prayer my sister!
@@ -14811,6 +15944,7 @@ Rae, thanks and same to you.
 Bluebutterfly, I’m sure the youth are blessed by your counsel. You always have such wise words to share over at your
 bloggy home.
 ```
+
 ## Mailbox Monday (2010-10-25 13:16)
 
 After visiting [1]I am a Reader, Not a Writer and being in complete awe of the stash of books that have
@@ -14861,23 +15995,28 @@ Any interesting books come into your home the past week?
 Mary (2010-10-25 13:33:42)
 Good mix of books! Enjoy!
 ```
+
 ```
 Inspired Kathy (2010-10-25 13:43:38)
 Great variety. Love the Cover of Journey to the Well. Thanks for mentioning my blog.
 ```
+
 ```
 Beth(bookaholicmom) (2010-10-25 15:45:07)
 I love the cover on It’s No Secret. These titles are all new to me. Enjoy them all!
 ```
+
 ```
 welcome to my world of poetry (2010-10-25 16:02:28)
 Quite a varied collection.I’m awaiting one from Amazon.
 Yvonne.
 ```
+
 ```
 Wanda (2010-10-25 22:36:01)
 Nothing quite like a good book and a cozy couch. Happy reading to each of you.
 ```
+
 Mystica (2010-10-25 23:42:53)
 I like to see what you make of Its no Secret!
 
@@ -14947,17 +16086,20 @@ Quotes I liked:
 Did you know that you can actually spread and catch the emotions of the people around you,
 like you can catch a cold?
 ```
+
 Couldnt we all think of someone, who has a way of letting the air out of our good day, when they come
 around coughing out complaints and criticisms?
 
 ```
 Overindulging yourself in what may seem temporarily pleasurable can lead to unhappiness.
 ```
+
 ```
 In current evangelical Christian life, often the opportunity to go deeper with God in the dark
 moments of our life is missed, mainly because people too quickly run away from dark times and
 try to grab hold of surface joys and comforts.
 ```
+
 DISCLOSURE: I was provided an advance reading copy for review purposes by Bethany House Publishers.
 The views and opinions expressed are my own.
 
@@ -14968,25 +16110,30 @@ Will Burke (2010-10-26 04:38:05)
 I’m getting a rare indulgence right now: Up early, so I’m reading Blogs with a coffee while the baby sleeps, and having
 a delightful time!
 ```
+
 ```
 Wanda (2010-10-26 06:10:10)
 Will, I can imagine with a little one it’s not one that you have much opportunity to overindulge in so enjoy :)
 ```
+
 ```
 BLUEBUTTERFLY (2010-10-26 07:07:55)
 Complaints and criticism...like having a doctor repeatedly tell you what is wrong without ever offering a solution.
 Will make any day or diagnosis worse.
 ```
+
 ```
 One Heart (2010-10-26 07:50:28)
 Sounds like a good one, Wanda. I like what Bluebutterfly wrote...so very true. I can so see how sometimes we are
 tempted to grab on to surface joys while experiencing dark times of trials. It’s the ”get me outta here” syndrome of
 human nature. But true joy runs way deeper. Thanks for sharing and for stopping by too.
 ```
+
 ```
 Joanne Sher (2010-10-26 08:26:33)
 Sounds lovely and encouraging, Wanda. Thanks!
 ```
+
 ```
 Sharon Kirby (2010-10-26 19:12:10)
 Wanda,
@@ -14995,11 +16142,13 @@ myself trying to AVOID difficult times. I want God to FIX the circumstances, ins
 want my version of peace (freedom from anxiety) instead of His (total trust and rest in His wisdom and His ways...)
 Thanks for sharing - GOD BLESS!
 ```
+
 ```
 Ellen aka Ella (2010-10-26 20:54:02)
 Thanks for sharing; Yes, over indulgences in chocolate results in not being happy with my hips! lol
 Sounds like a great soul searching read xXx
 ```
+
 ## Slipping Away (2010-10-26 23:00)
 
 [1]
@@ -15034,16 +16183,19 @@ Wonderful perspective with that scripture Wanda! It is so true... nothing has to
 shift a gear and we can lose ground and slip. Scraped knees are never very nice! Quite painful in fact!
 I do hope yours isn’t too painful... but what a beautiful lesson to learn from it all.
 ```
+
 ```
 GlowinGirl (2010-10-27 03:59:41)
 Have I ever felt myself slipping away? Yes, unfortunately. And just as you said, nothing else significant had changed
 in my life.... but me and my position. He is faithful, though, just as you pointed out, and I’m so thankful for His
 steady, loving support!
 ```
+
 ```
 Michele Williams (2010-10-27 04:44:01)
 Yes, I have felt that way at times... I am so glad the Lord is always there to catch me... Blessings..
 ```
+
 ```
 Joan (2010-10-27 05:05:09)
 Wanda, this post really spoke to me. It is so easy to become complacent and discontent. I am so thankful that we
@@ -15052,15 +16204,18 @@ ourselves).
 Blessings,
 Joan
 ```
+
 ```
 Joanne Sher (2010-10-27 07:31:11)
 Soooo been there, Wanda. LOVIN this reminder.
 ```
+
 ```
 Brian the old man (2010-10-27 07:42:59)
 I have been through so much in my life and knowing He is there to pick me up and carry me through all of the slips
 and falls has truly made me blessed.
 ```
+
 Kaye Swain - SandwichINK (2010-10-27 07:48:07)
 What wonderfully encouraging Bible verses! I’m extra tired today AND praying lots for a couple of beloveds who are
 struggling so I will be Scripture praying these for all of us. Thank you! :)
@@ -15161,26 +16316,31 @@ Just wanted to stop by and visit your blog...I’m so glad I did! Thank you, aga
 Cathy (2010-10-28 20:38:10)
 Thank God for His everlasting love and that He upholds us. Blessings
 ```
+
 ```
 Elizabeth West (2010-10-29 09:28:31)
 Great post, Wanda. Maybe I need to try using that phrase. I seem to feel lately that my communications are not
 being heard.
 Anyway it made me feel a bit better. Thanks. :)
 ```
+
 ```
 Chelle (2010-10-30 14:33:35)
 Beautiful...
 You’ve been tagged..head over to my blog
 ```
+
 ```
 Stuff could always be worse (2010-10-30 18:33:32)
 Wow, this post touches me, I agree with it. I do not want to slip away either.
 kim
 ```
+
 ```
 Just Be Real (2010-10-31 05:58:15)
 Oh yes I can certainly relate. Thank you Wanda for such a thought provoking post. Blessings.
 ```
+
 ```
 Janis@Open My Ears Lord (2010-10-31 16:18:45)
 Isn’t it amazing that three of us have fallen (you, Sharon, and myself), and that the Lord has taught each of us a
@@ -15190,10 +16350,12 @@ into complacency with our loved ones. It’s too easy to take people for granted
 Blessings,
 Janis
 ```
+
 ```
 Mike (2010-11-01 06:28:37)
 Encouraging :) Being intentional about turning to Him is a habit that I need to cultivate! Thank you.
 ```
+
 ## Got Questions for You (2010-10-30 20:14)
 
 Well I finally made it back to my blogging home. Ive been out of town for the past few days. As I was
@@ -15281,11 +16443,13 @@ Chelle (2010-10-30 20:23:14)
 WEll done! I am so with you on Madea, I completely agree!!
 Thanks for playing along :)
 ```
+
 ```
 Sharon Kirby (2010-10-30 21:19:50)
 Thanks for the tag, Wanda.
 Here’s my answers:
 ```
+
 1. My favorite season? Summer, for sure. Love the sun!
 2. Phrase from my parents? My dad always used to say, ”Can I make a suggestion?” and then proceeded to tell me
 (nag me) to do something. My 20-something sons are overjoyed that this now comes out of MY mouth. (It used to
@@ -15311,6 +16475,7 @@ Thanks for tagging me Wanda! I will def answer your questions but not sure who t
 now and running out of people to tag! lol
 I will post it on Monday! (plus that gives me some time to think up some answers! lol)
 ```
+
 Joanne Sher (2010-10-31 11:57:31)
 What fun! Enjoyed reading your answers. Thanks for not tagging me - enough posts in the next day or two as it is!
 :D
@@ -15482,12 +16647,14 @@ and my heart completely washed in His love and though I FAIL often I’m glad th
 quickly!
 Love you friend!
 ```
+
 ```
 Stuff could always be worse (2010-11-01 22:19:54)
 This spoke to me, even during stress or troubles, I will keep His Joy! These two in the Bible did have it worse but
 kept the Joy.
 kim
 ```
+
 Joanne Sher (2010-11-01 23:35:11)
 Wonderful insights, Wanda. I hadn’t thought about the parallel to Jeremiah, but it is SO clearly there! That’s why I
 love reading other people’s perspectives. Thanks for participating!
@@ -15656,6 +16823,7 @@ MCH Boys Ranch, Inc. (2010-11-03 00:55:42)
 Wow...I think we have all been there, done that. Wanted it fixed in a way that’s good and pleasing to ME. Thanks
 for sharing!
 ```
+
 Prayer Partners Around the World (PPATW) (2010-11-03 02:10:57)
 What a great verse to share. Thank and be blessed!
 
@@ -15905,22 +17073,26 @@ Wanda (2010-11-09 06:01:21)
 Hi Patrina, happy to have you stop over for a visit from my bloggy sister’s place. I believe we all struggle with unbelief
 at some point in our lives. But He is our helper.
 ```
+
 ```
 Bernadine (2010-11-09 14:37:46)
 So true Wanda. I find that when there is tormoil of any kind in my life the first thing to disappear is my sleep. I’ve
 also found though that when I turn it over to Him I’m able to rest knowing that He has it all in control.
 Thanks for sharing.
 ```
+
 ```
 Amydeanne (2010-11-09 15:18:31)
 oh i wish i could jump into that bed and have some sweet rest right now! lol
 ```
+
 ```
 daylily777 (2010-11-11 09:45:23)
 To enter His rest is glorious!
 Blessings,
 Myrna
 ```
+
 ```
 Prayer Notes by Cynthia (2011-07-31 13:51:05)
 So true! We need to wait and have more faith. This must be a constant mantra and prayer for ourselves. We must
@@ -15929,6 +17101,7 @@ P.S. In an earlier post, you shared a tattered door and a Scripture. I am creati
 like to send you a copy using the photo and Scripture. Could you send the link to my business: prayernotesbycyn-
 thia@gmail.com? Blessings!
 ```
+
 ## Its No Secret by Rachel Olsen (2010-11-09 06:01)
 
 [1] Right from the cover, Its No Secret: Revealing Divine Truths Every
@@ -15950,6 +17123,7 @@ love and respect from God and others through what we do and how well we do it. I
 expect others to earn our love and respect. To a degree, we even expect God to earn it by blessing
 us with the good life so long as we behave well.
 ```
+
 For those of us who have a hard time asking others for help, Rachel reminds us in the secret of interde-
 pendence that we are not just weighing ourselves down needlessly but also robbing our fellow sisters and
 brothers.
@@ -15958,6 +17132,7 @@ brothers.
 Refusing to ask them deprives them of their opportunity to serve, of their opportunity to
 fulfill their purpose.
 ```
+
 While the book is light-hearted, it is confrontational as well. Cutting away the excuses we often use for
 having a deeper and more intimate walk with the Lord.
 Thanks to Karen Davis at [2]The B &B Media Group for providing a complimentary copy of the book for
@@ -15974,11 +17149,13 @@ welcome to my world of poetry (2010-11-09 13:25:24)
 Excellent post Wanda, very interesting to read.
 Yvonne.
 ```
+
 ```
 welcome to my world of poetry (2010-11-09 13:25:34)
 Excellent post Wanda, very interesting to read.
 Yvonne.
 ```
+
 ```
 lioneagle (2010-11-09 13:26:28)
 Hi Wanda -
@@ -15986,46 +17163,55 @@ Thank you for this piece. Indeed it is encouraging and a reminder that we certai
 us needing one another. How true!
 Our Lord is truly about relationships....
 ```
+
 ```
 BLUEBUTTERFLY (2010-11-09 14:08:18)
 A ”recovering” perfectionist? That made me laugh, Wanda. Recovering is not easy. Sigh....
 ```
+
 ```
 Andrea (2010-11-09 14:50:05)
 Blessings,
 andrea
 ```
+
 ```
 Joanne Sher (2010-11-09 15:31:43)
 It is SO true that being self sufficient makes others miss the blessing of giving. It is amazing to watch the joy in
 people’s eyes when they are GIVING. Been there - on both sides. Thanks for this, Wanda.
 ```
+
 ```
 Tea with Tiffany (2010-11-09 18:07:00)
 thanks for sharing a new book. :) I love to read! Esp. good non-fiction where Christ is center.
 Peace and love,
 tiff
 ```
+
 ```
 Bernadine (2010-11-09 20:33:11)
 Wanda, thanks for this review. This book sounds like an interesting read. I smiled as I read some of the points you
 listed because I saw myself in them.
 ```
+
 ```
 Stuff could always be worse (2010-11-09 20:36:42)
 Yes trying to be a perfectionist! We all need to listen to this.
 kim
 ```
+
 ```
 Alene (2010-11-09 22:23:07)
 This book by Rachel sounds awesome. Thank you for highlighting some of it. Chapter 7 sounds like something I need.
 Blessings girl.
 ```
+
 ```
 Wanda (2010-11-10 01:02:17)
 Thanks ladies for sharing your thoughts. I really enjoyed the book and she feeds you lots of truth while giving you
 laughs. You almost don’t realize she’s given you a punch in the guts..lol.
 ```
+
 ## Do You Want It or Not? (2010-11-10 00:00)
 
 Do you want to get well? John 5:6b (NIV)
@@ -16056,12 +17242,14 @@ Peace in Christ and wellness,
 Peggy
 amazing Grace... (I’m signed out sorry)
 ```
+
 ```
 jhunnelle (2010-11-10 01:41:38)
 Sad to say, sometimes instead of running to Jesus when we’re sick we run to the hospital. Praise Him for He is our
 great healer not only physically and emotionally but most of all spiritually.
 Blessings!
 ```
+
 ozjane (2010-11-10 02:07:53)
 Such a good question as so often we sabotage our own good health.
 
@@ -16227,6 +17415,7 @@ I didn’t want to allow the week to escape me without visiting The Watered Soul
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Sharon Kirby (2010-11-12 22:14:04)
 Wanda,
@@ -16244,6 +17433,7 @@ Oh this is RICH and PRICELESS!! A powerful question not only did the LORD ask of
 thou be made whole?”
 Amen and Amen Wanda on this message!
 ```
+
 ```
 Wanda (2010-11-14 21:42:07)
 Hi Lon, happy to have you stop by for a visit and as I have time, I’ll be sure to visit your blog.
@@ -16257,6 +17447,7 @@ Sharon, hadn’t thought about that passage but it goes along so well. Even natu
 recognizes some type of ”sickness” otherwise they don’t offer any treatment. Love it.
 LisaShaw, yes He’s asking each of us.
 ```
+
 ## The Need (2010-11-13 06:13)
 
 Patient endurance is what you need now, so that you will continue to do Gods will. Then you will receive all
@@ -16289,6 +17480,7 @@ choose to take your word as final authority in our lives. In Jesus name, Amen.
 ```
 [1][signature.png]
 ```
+
 Visible links 1. [http://picasaweb.google.com/lh/photo/c6uft0FsTp_dIeQMMeDVPJkz9F-zliyrE6j0RsMY2aQ?feat=](http://picasaweb.google.com/lh/photo/c6uft0FsTp_dIeQMMeDVPJkz9F-zliyrE6j0RsMY2aQ?feat=)
 embedwebsite
 
@@ -16297,6 +17489,7 @@ Mike (2010-11-13 08:55:08)
 This verse has been SO relevant to a situation in my life this year. God has much to teach me in ’sticking with it’
 and trusting Him to act. [1]My post on endurance
 ```
+
 1. http://thisido.blogspot.com/2010/04/persevere.html
 Cherie Hill (2010-11-13 13:36:41)
 What an INCREDIBLE post sister! OH that I might be found IN HIM! I will keep my eyes on Him!
@@ -16307,16 +17500,19 @@ Cherie
 Joanne Sher (2010-11-13 14:03:51)
 Boy, did I EVER need this reminder! Not a want - a NEED! And did you change your header? BEEAAUUUUtiful!
 ```
+
 ```
 Stuff could always be worse (2010-11-13 14:13:00)
 Like your new header....Yes patience and enduring is so tough! We need to learn this..
 kim
 ```
+
 ```
 welcome to my world of poetry (2010-11-13 15:00:35)
 Another good post to brighten up this dull wet, and windy day. Thank you Wanda.
 Yvonne.
 ```
+
 welcome to my world of poetry (2010-11-13 16:20:47)
 Hi Wanda for all the inspiration and support you give, there is an award on my Christmas Shopping blog.
 Yvonne.
@@ -16372,29 +17568,34 @@ Sharon, I’m honored that you found that prayer useful my sister. He gives both
 Him.
 Thanks to each of you for sharing your thoughts. Wishing a blessed week ahead.
 ```
+
 ```
 Lon (2010-11-15 04:23:56)
 Thank you for sharing this well written post and your beautiful prayer!!!
 God Bless you!!!
 Lon
 ```
+
 ```
 One Heart (2010-11-15 13:51:59)
 Love it...not the patience part but the analogy of the bus. No, but seriously, I love the truth shared about patience
 too. It is evidence of the Holy Spirit living in us–His fruit, mature fruit.
 Love your header. Thanks for stopping by and thanks for sharing. Have a gorgeous Monday.
 ```
+
 ```
 BLUEBUTTERFLY (2010-11-15 15:45:11)
 ”endurance NOW”. Many don’t realize that as long as they don’t learn to wait, they will miss the blessing that
 happens along the way. It is those blessings that prepare us for all that God has in store for us.
 ```
+
 ```
 wisdomvirtueandrubies (2010-11-16 00:10:56)
 I am just having an opportunity to read this post. I’m glad I took the time to do so. You couldn’t know that I am
 contemplating ”giving up” on some things, but the Father knows. He always provides encouragement for us at the
 time we need it. Thank you for being a willing vessel.
 ```
+
 ```
 Wanda (2010-11-16 04:38:06)
 Thanks, Lon.
@@ -16402,17 +17603,20 @@ Lol...One Heart,oh, who loves the waiting part any way.
 Monica you’re right God knows how to serve up just what we need when it’s needed. Hang in there girl!
 Bluebutterfly yes failing to endure is forfeiting some blessings. Help me Lord!
 ```
+
 ```
 Bernadine (2010-11-17 01:20:17)
 Aww Wanda, patience and endurance... this post spoke to my heart especially your prayer at the end. Thanks for
 sharing.
 ```
+
 ```
 lioneagle (2010-11-17 01:39:21)
 Hi Wanda -
 How true your words are!
 I like your use of ”stand” and ”We choose to take your word as final authority in our lives.” Yes, Amen!
 ```
+
 ```
 Dean Spencer (2010-11-17 04:14:39)
 Wanda -
@@ -16420,6 +17624,7 @@ I certainly can relate to some of the same challenges you mention. It is way too
 think sometimes I do it out of selfishness.
 This is a good reminder of the patience and endurance I desperately need from the Lord. Great post! God bless!
 ```
+
 ## Tuesdays T(s): Teaser & Thanks (2010-11-16 09:00)
 
 THE TEASER
@@ -16434,6 +17639,7 @@ belong to us! Not only are we out of the will of God, we are forfeiting our prop
 purposes. Again, if we are occupying territory that God designed for someone else, and we are
 in their spots, we are also keeping those people out of their destinies and purposes as well.
 ```
+
 Using Mark 10:40 as a reference she shares some insights she received regarding operating in ones prepared
 place. I encourage you to pop over and read the entire post. As someone still trying to discover her
 prepared place I was chasten but encouraged to continue seeking the place.
@@ -16456,6 +17662,7 @@ Tuesday.
 Just Be Real (2010-11-16 10:32:16)
 Thank you Wanda for your post here and the link to Yvonne. Blessings to you dear one.
 ```
+
 ```
 Beth in NC (2010-11-16 11:55:40)
 Congratulations on your award!
@@ -16463,10 +17670,12 @@ Wow, what an awesome quote. I will definitely jump over to visit!
 Love in Him,
 Beth
 ```
+
 ```
 BLUEBUTTERFLY (2010-11-16 13:25:21)
 Congrats!
 ```
+
 ```
 ML (2010-11-16 13:47:50)
 Wanda!
@@ -16476,33 +17685,40 @@ my behalf.
 You are such a blessing. Thank you for your post today!
 ML Michaels
 ```
+
 ```
 welcome to my world of poetry (2010-11-16 14:06:40)
 A wonderful post Wanda also thanks for the kind words.
 Yvonne.
 ```
+
 ```
 Stuff could always be worse (2010-11-16 17:17:40)
 Love this devotional post! Thanks for sharing
 kim
 ```
+
 ```
 Joanne Sher (2010-11-16 17:35:39)
 That quote is DEFINITELY thought-provoking and awesome. Thanks - and congrats on your award, dear Wanda!
 ```
+
 ```
 Karen (2010-11-17 03:04:56)
 Thanks for these recommendations. I will check them out. I have enjoyed reading back through your recent posts
 also. Bless you!
 ```
+
 ```
 Wanda (2010-11-17 03:06:29)
 Thanks ladies for stopping in and hope you have time to visit Yvonne’s place.
 ```
+
 ```
 gemini (2010-11-17 05:31:30)
 Your post brightened my dull day. Thanks for sharing!
 ```
+
 ## Ever Asked Why? (2010-11-17 06:03)
 
 [1]
@@ -16534,6 +17750,7 @@ Stop by the Internet Cafe for others serving up fresh doses of the Word in graph
 ozjane (2010-11-17 10:47:45)
 Praise God He truly knows what He is doing and that just slays our frett and stress.
 ```
+
 ```
 GlowinGirl (2010-11-17 11:20:36)
 Girl, I love the new look of your blog! Beautiful!
@@ -16541,15 +17758,18 @@ Now... on to the post. I love this too. What an important truth to remember. We 
 He wants us to do certain things, but HE DOES!! Trust, trust, trust in His plan is what we have to do... Someday
 it will all make sense.
 ```
+
 ```
 jhunnelle (2010-11-17 11:26:01)
 beautiful message to ponder, the verse is one of my favorites, praise the Lord for no matter what circumstances we
 are into, His plan for us remains wonderful and great.
 ```
+
 ```
 Sherry @ Lamp Unto My Feet (2010-11-17 11:48:19)
 I’m so glad that His plan is so much better than mine. I just need to surrender to His. :) Great Word and pic today!
 ```
+
 ```
 welcome to my world of poetry (2010-11-17 11:51:59)
 A wonderful post, Wanda.
@@ -16557,11 +17777,13 @@ I know every thing happens for a reason though at the time I do wonder why,
 Have a good day.
 Yvonne.
 ```
+
 ```
 Ellen aka Ella (2010-11-17 12:19:24)
 I love the new look,too
 It is comforting to know, we are not lost xXx
 ```
+
 Joan (2010-11-17 12:24:48)
 ”The heart of man plans his way, but the LORD establishes his steps.” (Proverbs 16:9)
 I’m so thankful that the Lord is directing my steps and guiding my plans. I give thanks to Him for being a part of
@@ -16737,25 +17959,30 @@ chains of oppression? There is none but you Lord!
 BLUEBUTTERFLY (2010-11-19 14:20:13)
 There is none like You, no one else can touch my heart like You do...Amen! Amen!
 ```
+
 ```
 Stuff could always be worse (2010-11-19 16:07:55)
 Love this verse, and your post!
 kim
 also like your new header!
 ```
+
 ```
 Joanne Sher (2010-11-19 16:23:43)
 YES - need this reminder more than I’d like to admit. Thanks, Wanda!
 ```
+
 ```
 welcome to my world of poetry (2010-11-19 17:09:49)
 Excellent words, thanks for sharing.
 Yvonne.
 ```
+
 ```
 a sojourner (2010-11-20 02:59:28)
 :)....how true sis!!!
 ```
+
 ```
 Sharon Kirby (2010-11-20 03:13:27)
 Wonderful reminder, Wanda.
@@ -16764,10 +17991,12 @@ matter where. He listens, He hears - He cares...
 AWESOME!
 GOD BLESS!
 ```
+
 ```
 Sherry @ Lamp Unto My Feet (2010-11-20 15:14:35)
 Needed this today. Thank you for sharing!! SO glad to know that He is always there no matter what!
 ```
+
 ```
 MTJ (2010-11-20 21:36:32)
 Hi Wanda,
@@ -16776,6 +18005,7 @@ May God’s grace continue to shower in your life.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Wanda (2010-11-22 14:16:25)
 Thanks guys for stopping and sharing your thoughts. Blessings to you.
@@ -16805,10 +18035,12 @@ the journey.
 Joanne Sher (2010-11-22 14:32:25)
 I LOVE Psalm 119 - so many gems in there. His Word is the key to EVERYTHING. Thanks, Wanda
 ```
+
 ```
 BLUEBUTTERFLY (2010-11-22 16:16:54)
 Amen! Amen! Amen! Psalm 119 is one of my favorite passages. I know it is long, but I never get tired of studying it.
 ```
+
 welcome to my world of poetry (2010-11-22 16:58:47)
 Inspiring as always.
 Yvonne.
@@ -16883,30 +18115,36 @@ Wishing you and yours a Happy Thanksgiving
 ozjane (2010-11-24 05:10:32)
 There is no better answer than I am a child of God and His work in progress. It is not all about me. Praise God.
 ```
+
 ```
 Pia (2010-11-24 05:12:56)
 i am so grateful that i belong to Him, that my identity is of God’s.
 praising God along with you.
 ```
+
 ```
 Dorie (2010-11-24 05:13:48)
 Beautiful verse! I am so thankful to be called a child of God!
 ```
+
 ```
 jhunnelle (2010-11-24 06:27:12)
 What a beautiful verse, my identity comes not from the degree i finished nor the place i stay nor the things i own, my
 identity is in Jesus alone. Thank you for sharing this.
 Blessings!
 ```
+
 ```
 gengen (2010-11-24 07:08:14)
 Thanks for sharing this verse...happy WFW!
 ```
+
 ```
 welcome to my world of poetry (2010-11-24 07:20:10)
 Wonderful verse Wanda, thanks for sharing.
 Yvonne
 ```
+
 Joanne Sher (2010-11-24 07:30:50)
 LOVE the verse, Wanda - and your always-creative presentation. :)
 
@@ -17016,16 +18254,19 @@ Its reflexive for us to declare our belief that God can, but such affirmations 
 the ways that we dont believe. I believe that God can is sometimes just a contraction for I
 believe that He can, but I doubt that He will.
 ```
+
 ```
 We mistake divine ordained hardships for bad luck, bad friends, a bad year, bad breaks, bad
 government, a bad choice, bad advice, bad genes, bad hair day, and quite naturally we run. A
 scalpel is just a knife with a medical motive, and if you hold it to my throat in any scenario other
 than during a operation, Id be insane not to run.
 ```
+
 ```
 People dont fall out of love; they fail to persevere in loving. They choose to stop loving their
 spouse, or they choose to start loving something else.
 ```
+
 According to the author the goal of the book is to encourage us to pick up our cross and embrace the death
 implicit in following Jesus Christ. After reading the book, I had a clearer understanding of the ways life is
 produce through dying to myself.
@@ -17061,6 +18302,7 @@ Thanks for sharing this book review and for waking me up from my momentary lapse
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Karen (2010-11-27 23:04:57)
 You did a great job reviewing this. Sounds like food for thought and prayer!
@@ -17069,16 +18311,19 @@ You did a great job reviewing this. Sounds like food for thought and prayer!
 Toia (2010-11-28 00:43:13)
 Great review!! Love your header graphic. Hope you had a bless and wonderful Thanksgiving!!!
 ```
+
 ```
 Stuff could always be worse (2010-11-28 03:44:05)
 I said hmmm also, you did a great review!
 kim
 ```
+
 ```
 welcome to my world of poetry (2010-11-28 11:55:10)
 A wonderful post, enjoyable to read Wanda.
 Yvonne.
 ```
+
 ```
 Ruth (2010-11-28 17:01:10)
 Hi Wanda, thanks for the review... sounds like one that i’d love to read myself.
@@ -17086,15 +18331,18 @@ Hope you had a beautiful thanksgiving. Have a lovely week ahead!!
 Blessings,
 Ruth
 ```
+
 ```
 Joanne Sher (2010-11-28 20:43:43)
 This does sound good (and I had the same thought about Rick James - but I let it pass LOL). Hope your Thanksgiving
 was full of blessings, Wanda!
 ```
+
 ```
 Just Be Real (2010-11-28 21:45:44)
 Amen Wanda. Great review. Blessings to you and yours.
 ```
+
 ```
 Wanda (2010-11-28 23:19:53)
 MTJ, I thought the name Rick James sounded familiar for some reason. But I’m never any good at remember the
@@ -17109,6 +18357,7 @@ week too.
 Joanne lol...I did have a great one.
 JBR thank you sis & blessings to you as well.
 ```
+
 ```
 Analisa (2010-11-28 23:27:39)
 Sounds awesome. I remember a Pastor one day coming up to the pulpit and simplying saying.
@@ -17116,11 +18365,13 @@ Sounds awesome. I remember a Pastor one day coming up to the pulpit and simplyin
 He then went on to explain this profound bibical concept backed by the word. Decades later I still recall that intro.
 This sounds like a good book to build up any of those details I may have forgotten. Thanks for the review.
 ```
+
 ```
 Wanda (2010-11-29 04:54:50)
 Hi Analisa I’d definitely recommend the book for anyone looking for ways to enhance their spiritual life. Your pastor
 had a great opener to his message and I’m sure that questioned would have lingered with me as well.
 ```
+
 ```
 Ellen aka Ella (2010-11-29 05:16:06)
 Wow, sounds like an amazing book, to pick up where we have let off or lack hope and re invent or change our view!
@@ -17128,6 +18379,7 @@ Sounds like a great way to recommit to those people, projects, things we have le
 Hope you had a Wonderful Thanksgiving
 xXx
 ```
+
 **Goodbye White Pages (2010-11-29 09:00)**
 
 [1] According to a newspaper article I read recently, phone books are
@@ -17161,26 +18413,31 @@ A most interesting post to read Wanda, you made some very good points.
 Have a lovely day.
 Yvonne.
 ```
+
 ```
 Karen (2010-11-29 13:14:36)
 When I asked my younger co-workers for a phone book, they stared at me like I had asked for a horse and buggy.
 ”Google it!” they said. I pray that the internet will be a valuable tool for sharing the good news of Jesus Christ.
 ```
+
 ```
 Joanne Sher (2010-11-29 15:07:23)
 We WERE on the same wavelength! So I guess my post could be a comment to yours (hehe).
 And maybe I’m old-fashioned, but I can’t imagine not having a paper phone book. Hope Michigan doesn’t go the
 way of the other states!
 ```
+
 ```
 BLUEBUTTERFLY (2010-11-29 17:42:07)
 I can’t live without my Bible. The more I read it, the more I want to read it. It has never failed to be real and
 relevant to my life.
 ```
+
 ```
 Ginger (2010-11-29 19:24:42)
 Oh my goodness. I hate the thought of that with the Bible... the phone book, not so much.
 ```
+
 ```
 Petula (2010-11-29 21:10:43)
 What a fabulous post. I was already to leave a comment about phone books when I read the end of your post. What
@@ -17188,11 +18445,13 @@ you’ve pointed out is very interested. I wonder if technology has replaced ind
 it instead of getting it off of blogs and whatnot. I, for other ”reasons,” have not opened my Bible for quite a long time.
 Great, thought-provoking post. Thanks.
 ```
+
 ```
 Peggy (mazmagi) (2010-11-29 21:17:16)
 Blessings Wanda,
 I’m all for saving a tree but I pray that we do not replace the Tree of Calvary with all this technology, nor the Word
 ```
+
 He came to BE!
 I happen to love the internet but truly do not want to give up having ”books” available whether it’s a phone book or
 the GOOD BOOK of GOD!
@@ -17275,15 +18534,18 @@ welcome to my world of poetry (2010-11-30 12:52:39)
 I always look forward to your post and today is no exception. Thanks for a most interesting read.
 Yvonne.
 ```
+
 ```
 Joanne Sher (2010-11-30 15:28:31)
 What a powerful reminder. I love the idea of everything else being ”crumbs.” So thought-provoking.
 ```
+
 ```
 Stuff could always be worse (2010-11-30 16:21:13)
 Yes we do need His Word! always a great post
 kim
 ```
+
 BLUEBUTTERFLY (2010-11-30 19:20:35)
 Wanda, there is so much truth here. There is nothing like one-on-one. I talked to a friend I had not seen in ages last
 night and at the end of the conversation we planned to meet in person. We realized that though we had kept up with
@@ -17396,6 +18658,7 @@ fulfill it.
 Blessings!
 jhunnelle
 ```
+
 gemini (2010-12-01 04:01:03)
 It’s warming my heart to read inspiration from the words of the Almighty...thanks for sharing and more of it!
 
@@ -17502,24 +18765,29 @@ seeing God through our daily lives. B. Niles yeah I should have explained it bet
 water our souls.
 Love you guys and thanks for stopping in.
 ```
+
 ```
 lioneagle (2010-12-02 10:23:58)
 Hi Wanda -
 Thank you for this reminder. Truly when we keep our eyes, ears, hearts, and minds stayed on GOD, we receive His
 perfect peace.
 ```
+
 ```
 Sherry @ Lamp Unto My Feet (2010-12-02 16:08:13)
 <3 it! Keeping my eyes on Him the author and finisher of my faith! :)
 ```
+
 ```
 Karen (2010-12-03 15:58:18)
 Yes, this is a great picture of keeping my eyes on the PRIZE!
 ```
+
 ```
 Toia (2010-12-04 13:41:26)
 Love this!!!
 ```
+
 **Because of Who You Are (2010-12-03 14:06)**
 
 Oh precious Father, how I love so. Thank you Lord that you dont deal with me as my sins deserve. Forgive
@@ -17565,25 +18833,30 @@ Audrey (2010-12-03 19:33:42)
 I came across your blog while visiting someone else’s and I’m so glad that I did. All I can say is ”Amen! Amen! And
 Amen!”
 ```
+
 ```
 Karen (2010-12-03 21:57:09)
 I am in agreement, Wanda. So thankful for the privilege of knowing our Savior!
 ```
+
 ```
 welcome to my world of poetry (2010-12-03 23:25:52)
 You have the wonderful gift of writing such inspirational post.
 This one was no exception.
 Yvonne.
 ```
+
 ```
 Faith Imagined (2010-12-04 01:08:14)
 What a beautiful prayer and amazing perspective. If Jesus can rise from the dead then we can certainly rise from the
 struggles and temptations we face!
 ```
+
 ```
 Connie Arnold (2010-12-04 20:24:52)
 Amen! Very inspiring and positive prayer, Wanda!
 ```
+
 ```
 lioneagle (2010-12-05 20:34:28)
 Hi Wanda -
@@ -17591,11 +18864,13 @@ Thank you for this strong potent call out to our Father GOD.
 This is a heart stirring piece. I love your statment, ”...may we not follow after strange shepherds.” Amen, my sister -
 Amen!
 ```
+
 ```
 Just Be Real (2010-12-05 23:11:18)
 Because of Him! My heart cries out to know Him so personally these days. Thank you Wanda for sharing. Blessings
 to you dear one.
 ```
+
 ```
 MTJ (2010-12-06 03:02:53)
 Hi Wanda,
@@ -17604,6 +18879,7 @@ you in prayer, touching and agreeing with your petition. Praise God! ”Therefor
 shall be free indeed.”
 To be free from fear, sorrow, worry, and the cares of this life. Free to love God with my whole heart, soul, mind and
 ```
+
 _spirit. Free to love my neighbor as myself._
 **Thank You Lord, for the freedom You established through Your Son, Jesus Christ. Amen.**
 Blessings and peace.
@@ -17659,10 +18935,12 @@ Thanks for the virtual hugs JBR and right back to you. Just want I needed to sta
 Ellie woohoo! I can’t believe just how blessed I am girl.
 Blessings to you Sara
 ```
+
 ```
 Lorena G. Sims (2010-12-13 03:16:26)
 Wanda, thank you for using your gift to inspire us and to share the love of Christ. God bless you!
 ```
+
 **Do It Again (2010-12-07 12:00)**
 
 1 It seemed like a dream, too good to be true, when God returned Zion’s exiles. 2 We laughed, we sang, we
@@ -17695,19 +18973,23 @@ Andrea (2010-12-07 13:12:18)
 I believe HE is able...and I claim HIS promises!
 Blessings, andrea
 ```
+
 ```
 Mike (2010-12-07 13:20:11)
 Encore please!
 ```
+
 ```
 Joanne Sher (2010-12-07 14:14:58)
 I have NO reason to doubt He can do it - yet I do!! Amazing to me that I can’t get it through my thick skull. Great
 post.
 ```
+
 ```
 LisaShaw (2010-12-07 14:23:37)
 Hey dear sister,
 ```
+
 I have missed visiting with you over the two weeks I was off line. I prayed for you!!
 I am blessed in this message today. You asked: Are you prepared for encore performance? Do you believe He is able
 to do it again?
@@ -17761,15 +19043,18 @@ In the middle of waiting, He is changing me.
 ```
 GOD BLESS!
 ```
+
 ```
 Just Be Real (2010-12-08 13:07:56)
 Once again, an encouraging post from you Wanda. I certainly needed to read this. It seems every time your posts
 really minister to me. Thank you. Blessings.
 ```
+
 ```
 Karen (2010-12-08 14:12:20)
 Remembrances of God’s faithfulness deserve our standing ovation....and more! Great post, Wanda!
 ```
+
 ```
 lori (2010-12-08 18:02:39)
 GIRL...this just spoke volumes to me as I’m finishing up Breaking Free (The new edition) Wow....He is faithful and
@@ -17779,6 +19064,7 @@ Missing you today on this WFW! :)
 hugs,
 lori
 ```
+
 ```
 Arlee Bird (2010-12-09 00:07:14)
 This describes a wonderful circumstance. I can’t remember anything quite so dramatic in my life, rather my blessings
@@ -17786,6 +19072,7 @@ have just been consistent in coming to me. And my life has indeed been blessed. 
 Lee
 [1]Tossing It Out
 ```
+
 1. http://tossingitout.blogspot.com/
 Ellen aka Ella (2010-12-09 02:40:13)
 He changed You; Wow, I love how you turn it around and give us a fresh view xXx
@@ -17795,6 +19082,7 @@ Dorie (2010-12-09 13:12:46)
 Amen, He is able and trustworthy!
 Great verse and thoughts to share, thank you.
 ```
+
 ```
 Charlotte (2010-12-14 04:02:22)
 He has solved seemingly impossible situations for me. He has done it before. I know he can do it again. Thank you
@@ -17802,6 +19090,7 @@ for this encouraging post.
 Blessings,
 Charlotte
 ```
+
 **A Distorted View (2010-12-12 18:54)**
 
 Todays message dealt with a passage from Mark 22-25 about a blind man who was taken to Jesus to be
@@ -17829,10 +19118,12 @@ sight.
 Joanne Sher (2010-12-12 19:01:48)
 Much to ponder here. I really like this. Thanks!
 ```
+
 ```
 Lorena G. Sims (2010-12-12 21:07:48)
 I love this post especially the prayer.
 ```
+
 ```
 MTJ (2010-12-12 22:03:07)
 Hi Wanda,
@@ -17848,6 +19139,7 @@ an offering of thanks.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 welcome to my world of poetry (2010-12-13 03:05:03)
 Much to think about, loved the read.
@@ -17859,6 +19151,7 @@ BLUEBUTTERFLY (2010-12-13 07:15:48)
 Amen! In so many instances, the circumstances or people around us don’t ”need” to change, we simply need to see
 differently. Help us, Lord.
 ```
+
 ```
 Ellen aka Ella (2010-12-13 10:37:22)
 Wonderful post! We have to alter our vision and give ourselves a way to adjust our view. Time helps, so does
@@ -17867,22 +19160,27 @@ our boundaries, to see new maps, I mean men. It is a journey. You might have had
 continue
 xXx
 ```
+
 ```
 Angel @ Finding The Inspiring (2010-12-13 16:55:10)
 Great post! ”To see things as they really are” is my prayer as well. Thanks for helping me give more thought to this
 ```
+
 ```
 passage and the fact that the Lord can heal my vision. And thanks for stopping by my place today. I appreciated
 your kind comment. God bless you!
 ```
+
 ```
 Just Be Real (2010-12-13 17:52:00)
 Thank you Wanda. Blessings.
 ```
+
 ```
 LisaShaw (2010-12-13 20:06:39)
 I’m with you in your prayer dear sister...
 ```
+
 ```
 Sharon Kirby (2010-12-13 20:52:12)
 So very true, Wanda. The Lord does want us to have clear vision - and sadly, there are SO many things that can
@@ -17892,10 +19190,12 @@ May He help ALL of us see ourselves, our world, and other people more clearly - 
 HE does.
 GOD BLESS!
 ```
+
 ```
 Wanda (2010-12-13 21:07:51)
 Thanks to each of you for sharing your thoughts. Hearing from you always blesses me.
 ```
+
 ```
 Sarah (2010-12-13 23:31:29)
 I always get drenched when I stop by!
@@ -17905,6 +19205,7 @@ http://justsarahdawn.blogspot.com/2010/12/all-i-want-for.html
 Be blessed bunches,
 Sarah
 ```
+
 **It****s Your Call (2010-12-14 09:30)**
 
 Ever wondered why you are here? What exactly is your purpose in the grand scheme of life? Those are
@@ -17947,70 +19248,87 @@ jpg
 Joanne Sher (2010-12-14 13:53:14)
 This sounds like a fascinating book. Thanks for the review, Wanda!
 ```
+
 ```
 Stuff could always be worse (2010-12-14 15:45:02)
 Yes, I guess we all wonder what is our purpose in the scheme of life. Sounds like a wonderful book
 kim
 ```
+
 ```
 BLUEBUTTERFLY (2010-12-14 17:45:22)
 I may have to give this book a read. I have seen those ”gifts analysis” scenarios go very wrong and have unfortunate
 outcomes on some young lives in ministry.
 ```
+
 ```
 Mike (2010-12-14 21:07:58)
 Looks interesting. Thanks!
 ```
+
 ```
 welcome to my world of poetry (2010-12-14 21:43:12)
 A wonderful review, sounds like an excellent book.
 Yvonne.
 ```
+
 ```
 Andrea (2010-12-14 23:42:12)
 Thank you for your heartfelt honesty at arise 2 write, today. I am blessed you stopped by.
 Hugs,
 andrea
 ```
+
 ```
 Wanda (2010-12-15 01:13:24)
 you’re welcome Andrea.
 Thanks Joanne, Mike, Yvonne,Kim, and Bluebutterfly. I really enjoyed the book and would definitely recommend it.
 I already have my sister lined up to read it next ;)
 ```
+
 ```
 Bernadine (2010-12-16 02:22:49)
 Wanda you pick very interesting books to review. I think I’ll add this one to my wish list.
 ```
+
 **Naughty or Nice** {**Giveaway**}**-CLOSED (2010-12-14 19:10)**
 
 ```
 Ive checked my list once and now twice.
 ```
+
 ```
 And it seems youve all be so very nice during my short blogging life.
 ```
+
 ```
 So much so that I wanted to pass along something to stuff your stocking
 ```
+
 ```
 [1]
 ```
+
 ```
 but instead Im offering two lovely readers
 ```
+
 ```
 the opportunity to trim their blog.
 ```
+
 ```
 [2]
 ```
+
 ```
 Gift package #1 is a Mix It Up package blog design from Robins Blog
 ```
+
 ```
 which includes: (2 or 3 column)
 ```
+
 ```
 1 removable background
 1 removable header
@@ -18018,23 +19336,29 @@ which includes: (2 or 3 column)
 1 post divider (includes signature)
 1 sidebar divider
 ```
+
 ```
 (winners choice)
 ```
+
 ```
 Gift package # 2 contains one Surprise Package blog design from Robins Blog
 ```
+
 ```
 which includes: (2 or 3 column)
 ```
+
 ```
 1 background paper (scrolling or stable)
 1 header
 Up to 7 Extras (perhaps Santa will give you more!)
 ```
+
 ```
 (Robin picks the design)
 ```
+
 Note: Packages do not include the price of scrapbook kits or specialty fonts. Therefore winner will be
 responsible for cost should they choose to include these in their design.
 
@@ -18050,15 +19374,19 @@ Extra Entry:
 ```
 **You MUST be a FOLLOWER to enter **
 ```
+
 ```
 Deadline to enter is 12 midnight Sunday, December 19.
 ```
+
 ```
 Winner announced Monday [4]
 ```
+
 ```
 [5]
 ```
+
 1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TQgVh9yeNCI/AAAAAAAAAZQ/szA4ZPWNUMI/s1600-h/xmasstockin%5B2%5D.jpg
 2. http://lh5.ggpht.com/_2wfF2Ki6_qg/TQgVjQgP8YI/AAAAAAAAAZY/dM-Ru5wKp_U/s1600-h/divider-xmas%5B5%5D.jpg
 3. http://robinblogdesigns.blogspot.com/search/label/portfolio
@@ -18070,21 +19398,25 @@ wisdomvirtueandrubies (2010-12-15 18:31:30)
 Wow! I don’t know if I can come up with only ONE thing I’d like to change on my blog, because I’d like to have the
 whole darn thing re-designed. Maybe Santa will count me as ”nice” this year and I’ll win a fresh look for 2011!
 ```
+
 ```
 wisdomvirtueandrubies (2010-12-15 18:52:42)
 Just took a look at Robin’s blog portfolio, and selecting a favorite is much easier said than done. I love the 1st
 Horsefeathers design (in pink), the Anecdote design and both the Sydney B designs.
 ```
+
 ```
 Bernadine (2010-12-15 20:32:35)
 What would I like to change on my blog... probably my signature. Great giveaway.
 ```
+
 ```
 Ellen (2010-12-16 18:32:30)
 A loaded question! Blog Buttons!!! A personalized header (that’s the banner at the top, right?). Can’t wait to see who
 wins! Thanks for visiting and following me at www.aseasonforallthings.blogspot.com. Ellen (ellen-cook at comcast
 dot net)
 ```
+
 ```
 Jackie (2010-12-17 09:22:57)
 Hey Wanda! I’m following your blog now!!
@@ -18092,6 +19424,7 @@ I would love a new blog button or one of those ”Share the Love” gadgets!
 Great giveaway and Merry Christmas!
 Jackie
 ```
+
 ```
 Stuff could always be worse (2010-12-17 15:22:14)
 Wanda, you so generous! I need a lot of help, and you have given me a big help already. Happy to be Me- design
@@ -18099,11 +19432,13 @@ jumped out to me? I loved them all. Signatures, buttons, all the rest, I love.
 kim
 ps Hope this makes sense! lol
 ```
+
 ```
 B. Niles (2010-12-17 23:43:45)
 Hi Wanda, thanks for your recent thoughtful comments on my blog. In reference to the blog revamp offers. Certainly
 there is always room for improvement I havne’t a clue on how to add buttons and such, so I’m open to suggestions.
 ```
+
 **There****s Room Here (2010-12-15 01:30)**
 
 [1]
@@ -18146,59 +19481,72 @@ GlowinGirl (2010-12-15 05:21:25)
 Wanda, what a perfect verse for this moment. I just hosted a huge party at my house last night and had a great time.
 But in all the preparations, it is easy to allow ourselves to lose focus. I don’t want to forget the WHO of Christmas!
 ```
+
 ```
 Deb (2010-12-15 05:34:58)
 What a sweet reminder of why we’re celebrating CHRIST-mas!!!
 ```
+
 ```
 Bobbi (2010-12-15 05:43:13)
 Indeed...Amen...may we NEVER forget!! God bless you this week!
 ```
+
 ```
 Guiding Light (2010-12-15 06:45:30)
 A.M.E.N.! Thanks for sharing! Have a wonderfully blessed WFW!
 ```
+
 ```
 Jenifer (2010-12-15 07:53:06)
 I so do not want to forget!!! May I be ever mindful of Christ, His love and His sacrifice.
 Merry Christmas!!
 ```
+
 ```
 Joanne Sher (2010-12-15 07:58:53)
 Simple, wonderful reminder, Wanda. Thank you.
 ```
+
 ```
 Stuff could always be worse (2010-12-15 08:45:55)
 Perfect thought, verse for this season!
 kim
 ```
+
 ```
 BLUEBUTTERFLY (2010-12-15 09:01:07)
 Timely word...yes...Amen!
 ```
+
 ```
 welcome to my world of poetry (2010-12-15 09:03:35)
 Such beautiful words Wanda, thanks for sharing.
 Yvonne.
 ```
+
 ```
 Michele Williams (2010-12-15 09:57:33)
 Amen! May we never forget the reason for the season. Blessings...
 ```
+
 ```
 Pia (2010-12-15 10:37:34)
 amen! what a great reminder for all of us.
 ```
+
 ```
 wisdomvirtueandrubies (2010-12-15 18:55:38)
 It’s so easy to lose sight of the true meaning for our celebration at this time of the year. I spent Sunday morning
 listening to a room full of 6th grade girls talk about the real meaning of Christmas. It was amazing how those ”babies”
 were able to put everything in right perspective. May we truly never forget Him. Thank you for the reminder, Wanda!
 ```
+
 ```
 Bernadine (2010-12-15 20:16:21)
 Great reminder Wanda. Thanks for sharing.
 ```
+
 Pat (2010-12-15 20:36:52)
 ”Amen,amen”!! Wonderfully done Wanda.
 
@@ -18260,22 +19608,27 @@ button.jpg
 BARBIE (2010-12-17 08:01:49)
 I would love to win the makeover for a friend of mine!
 ```
+
 ```
 Ellen aka Ella (2010-12-18 05:37:43)
 What a lovely gift; I will have to think about what I like! Very generous and fun to redecorate one’s blog
 ```
+
 ```
 LisaShaw (2010-12-18 14:57:28)
 I don’t need a blog makeover but wanted to say you are sweet to offer this generous giveaway! Hugs!
 ```
+
 ```
 Mrs Thielke (2010-12-18 15:26:43)
 I could use a makeover! How cool!
 ```
+
 ```
 Karen (2010-12-18 20:29:56)
 I’d love a blog makeover. Thanks for the opportunity.
 ```
+
 **My Goodie Box (2010-12-18 18:18)**
 
 Recently, I won a giveaway from one my blogger friends Ella of [1]Ellas Edge. Today I received the package
@@ -18308,6 +19661,7 @@ LisaShaw (2010-12-18 18:27:47)
 Oh how beautiful and generous of your friend. I’ll have to visit her Etsy shop!
 Enjoy and Christmas blessings to you Wanda!
 ```
+
 ```
 MTJ (2010-12-18 18:33:38)
 Hi Wanda,
@@ -18315,6 +19669,7 @@ Congratulations for your gift from Ella. What she sent with hope was opened with
 Blessings and peace to you both.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Wanda (2010-12-18 18:45:48)
 Thanks, Lisa and MTJ. I think Ella has her Etsy shop on vacation right now but she has all kind of treasures there.
@@ -18323,23 +19678,28 @@ Thanks, Lisa and MTJ. I think Ella has her Etsy shop on vacation right now but s
 Joanne Sher (2010-12-18 19:15:15)
 Lovely stuff, Wanda. What a wonderful collection of fun goodies :)
 ```
+
 ```
 welcome to my world of poetry (2010-12-18 20:21:11)
 A wonderful gift got you Wanda,
 Yvonne.
 ```
+
 ```
 wisdomvirtueandrubies (2010-12-18 21:48:40)
 Looks like you received some neat goodies! Hope you enjoy them all!
 ```
+
 ```
 Lorena G. Sims (2010-12-19 00:26:34)
 That is wonderful Wanda!
 ```
+
 ```
 Bernadine (2010-12-19 03:19:37)
 Congratulations Wanda. The gifts are beautiful indeed.
 ```
+
 ```
 Ellen aka Ella (2010-12-19 05:16:24)
 I was so surprised to see your post!
@@ -18347,35 +19707,43 @@ Thank you, but the joy was gathering these goodies for you! I so enJOYed
 the process, thinking of you and what you may like! YOU are a wonderful friend and I feel blessed to have found you!
 xXx
 ```
+
 ```
 Cathy (2010-12-19 06:57:38)
 What a lovely gift. Congratulations. Merry Christmas!
 ```
+
 ```
 Stuff could always be worse (2010-12-19 13:16:12)
 Yes a lovely gift! Congrats!
 kim
 ```
+
 ```
 Reggie (2010-12-19 21:27:54)
 That was rather nice.
 ```
+
 ```
 BLUEBUTTERFLY (2010-12-20 14:57:56)
 I love this! God is so good to us, and is so pleased when His saints are kind and giving to each other.
 ```
+
 ```
 Wanda (2010-12-20 22:45:55)
 God is good indeed. And Ellie really surprised me with her thoughtfulness. She definitely brighten my day.
 ```
+
 ```
 Faith Imagined (2010-12-21 00:37:16)
 How beautiful! I’ll have to check out her other items.
 ```
+
 ```
 Kristen (2010-12-21 05:12:28)
 What a lovely box of goodies. It would put a smile on anyone’s face to receive such a package. Merry Christmas!!
 ```
+
 **And the Winner is**& **(2010-12-20 16:28)**
 
 Drum roll&.
@@ -18400,15 +19768,18 @@ to respond or another winner will be selected.
 wisdomvirtueandrubies (2010-12-20 20:36:07)
 Thanks, Wanda! I’m excited!!
 ```
+
 ```
 Ellen aka Ella (2010-12-20 20:59:16)
 Congrats Monica and Ellen!
 ```
+
 ```
 Lisa (2010-12-20 21:26:15)
 Congrats to the winners – what a nice gift! :)
 I hope you’re doing well my friend – sounds like you are!
 ```
+
 ```
 Dena E’s Blog (2010-12-20 21:45:51)
 Cover me Lord, what beautiful words to whisper to Him...You are an Awesome woman of God and His ways...
@@ -18416,6 +19787,7 @@ Merry Christmas May our Sweet LORD cover You with blessings while you seek Him i
 Isn’t it magnificent knowing He is the Reason for every Season...I’m sooooo very blessed that He directed me to such
 Beautiful Blogging Sister’s ..Truly, it sooooo warms my heart......Hugs Dena
 ```
+
 **Favor Has Its Own Cost (2010-12-21 13:25)**
 
 Like many this time of year, I have been reflecting upon the story of Jesus birth. On Mary in particular.
@@ -18427,6 +19799,7 @@ had the following greeting for Mary,
 ```
 Hail thou art highly favored, the Lord is with thee: blessed art thou among women.
 ```
+
 Bakers Evangelical Dictionary defines favor as gaining approval, acceptance, or special benefits or blessings.
 I like Merriam-Websters definition as well, defines favor as friendly regard shown toward another especially
 by a superior. Some how this ordinary virgin girl had gained approval, acceptance or friendly regard by her
@@ -18457,6 +19830,7 @@ To be favored is a blessing but it is not void of cost.
 Joanne Sher (2010-12-21 15:06:08)
 What a great reminder - and I LOVE your new header! SUPER last line.
 ```
+
 ```
 Sarah (2010-12-21 16:11:08)
 We watched ”The Nativity” last night and the same message ran across my heart. What a joy to be favored. What a
@@ -18464,12 +19838,14 @@ privilege and a walk that must be rooted in faith.
 Have a joy filled, love overflow Christmas,
 Sarah
 ```
+
 ```
 welcome to my world of poetry (2010-12-21 19:55:10)
 Some interesting issues raised here. Good to read.
 Love the new header.
 Yvonne.
 ```
+
 BLUEBUTTERFLY (2010-12-21 20:36:10)
 Ah, yes, so many times we forget about the cost in our zeal for the glory and honor of being favored. One does not
 come without the other.
@@ -18576,6 +19952,7 @@ positive aspects of God’s favor, but it greatly benefits us to be reminded tha
 great responsibility, great weight, and sometimes a side of discomfort. Thank you for sharing with us what the Lord
 shared with you.
 ```
+
 ```
 Faith Imagined (2010-12-24 04:58:03)
 I think none of us know the cost of favor. That’s why I believe God only shows us a small portion of His plan for our
@@ -18584,10 +19961,12 @@ With increased territory comes increased responsibility. So many of us want to h
 willing to pay the price.
 Thanks for this post! I’m glad I came back to your blog to take a look-see. Merry Christmas!
 ```
+
 ```
 Karen (2010-12-28 21:30:32)
 Wonderful insight, Wanda. Have a very blessed 2011
 ```
+
 **Speak Up (2010-12-29 13:46)**
 
 As I read my daily scriptures a piece of a passage of scripture from Proverbs 31:8a resonated with me.
@@ -18595,6 +19974,7 @@ As I read my daily scriptures a piece of a passage of scripture from Proverbs 31
 ```
 Speak up for those who can not speak for themselves; (NLT)
 ```
+
 [1] Immediately my mind goes to the helplessness of children. But
 there are many who are without a voice. Cut on the TV, listen to radio, or sit among people and no doubt
 you will hear a lot of talk. But how much of it is being used to speak for the nameless millions who are
@@ -18714,6 +20094,7 @@ God will honor those efforts and blessings will come because of their faithfulne
 Excellent post. Have a Happy New Year! God bless!
 Dean
 ```
+
 **Traveling Shoes (2010-12-31 09:00)**
 
 [1] Ever since I read Ellies post on a reverb prompt regarding
@@ -18747,6 +20128,7 @@ Happy New Year Wanda I have enjoyed your post this past year and look forward to
 year.
 Yvonne.
 ```
+
 Wanda (2010-12-31 14:07:33)
 Same to you Yvonne, can’t imagine what you’ll pull of your poetry bag in 2011.
 
@@ -18872,12 +20254,14 @@ feet are able to endure. Never mind if you think you are unable to take another 
 He will strengthen you to make you able, or He will call a sudden halt, and you will not have to
 take it at all. Frances Ridley Havergal from Streams in the Desert.
 ```
+
 Sending you cheers as you walk (or run) along the journey and resolving to stay at my own pace.
 
 ```
 Joanne Sher (2011-01-03 15:05:02)
 What a wonderful reminder. Love that last line.
 ```
+
 welcome to my world of poetry (2011-01-03 15:53:07)
 As Joanne said above a wonderful reminder. Lovely read.
 Yvonne.
@@ -18926,18 +20310,23 @@ Do you see the verbs in this passage of scripture?
 ```
 HEADED&Terah started moving toward a particular place
 ```
+
 ```
 STOPPED&but something happened and he stopped progressing toward the specified place
 ```
+
 ```
 SETTLED&therefore, he chose to take up residence in another place
 ```
+
 ```
 LIVED&he spent day after day in a place opposite of where he had intended
 ```
+
 ```
 DIED&he ceased to exist any more after spending much of his life in the place of compromised.
 ```
+
 I understand that we all have dreams that dont quite materialize and at times we find those dreams are
 exchanged for much better God-ordained dreams. But this passage of scripture just stands out to me today.
 Rather than rushing past it to the rest of chapter my eyes and mind were drawn back to these verses. As I
@@ -18960,6 +20349,7 @@ Great words. I was reading those passages last night and I didn’t notice this.
 mediate on them. Thank you for sharing.
 Deborah
 ```
+
 Joanne Sher (2011-01-05 14:34:28)
 Oh wow, Wanda. SO much to ponder here. Lots of good questions - LOVE this!
 
@@ -19059,11 +20449,13 @@ Marinela
 sarah (2011-01-07 18:37:11)
 great word
 ```
+
 ```
 welcome to my world of poetry (2011-01-08 14:30:02)
 For your Inspirational faith I have awarded you an award on my Inspiration post.
 Yvonne.
 ```
+
 ```
 Ellen aka Ella (2011-01-09 01:07:27)
 I also settled, fear and constantly moving, threw me off course. I had a scare last year, that woke me up...I need to
@@ -19072,6 +20464,7 @@ to keep our passion alive! It is easy to settle, I did it for a long time. It is
 waves. Messy ones and I’m happier!
 xXx Great post
 ```
+
 ```
 Dena E’s Blog (2011-01-09 21:00:58)
 What a JOY in His Spirit it is to visit with you here Sis...
@@ -19080,6 +20473,7 @@ fits my heart for Him also...Thanks for ALWAYS sharing about Our God ” the Onl
 follow Him with our whole heart mind and soul...
 May you continue to feel the best blessing’s of His presence Sis Love and Hugs Dena
 ```
+
 ```
 lioneagle (2011-01-10 00:59:29)
 Hi Wanda -
@@ -19087,6 +20481,7 @@ I love what you did with this - quite artistic indeed!
 Also the truth of what you have expressed goes deep...
 Thank you, Wanda, for this message that certainly gives cause to ponder!
 ```
+
 **The Unexpected (2011-01-10 13:44)**
 
 [1] Yesterday, we got snow here in Arkansas. Although I
@@ -19124,16 +20519,19 @@ to me over the weekend. I appreciate the lovely award and her faithful support.
 Joanne Sher (2011-01-10 14:08:03)
 Nothing is unexpected to Him. Great reminder, Wanda. :)
 ```
+
 ```
 Stuff could always be worse (2011-01-10 16:24:57)
 I felt the same about the weathermen predictions! Great point, God is not like this...He knows!
 kim
 ```
+
 ```
 BLUEBUTTERFLY (2011-01-10 16:30:13)
 Great is our God, Wanda. We may not see the changes with our natural eyes or feel them with our natural senses,
 but God is working.
 ```
+
 ```
 a sojourner (2011-01-10 17:08:29)
 waiting for anything is extremely difficult for me. our Father speaks to us in so many ways. i’ve prayed your prayer
@@ -19145,6 +20543,7 @@ proverb:
 everytime i take matters into my own hands, i screw everything up. then HE has a bigger mess to deal with.
 congratulations on a very deserving award!
 ```
+
 Wanda (2011-01-10 18:13:02)
 You are so right Joanne, absolutely nothing is unexpected to Him.
 Yes, he does Kim.
@@ -19201,11 +20600,13 @@ I also increase my thanks. Work may be hard and other things are shaky but I am 
 each night. I know my son is asleep in the room next to mine and we are safe. I know there is food in my fridge...When
 I think about those little things that others don’t have it helps me endure the wait.
 ```
+
 ```
 LisaShaw (2011-01-15 12:50:46)
 Popped back over to say thank you for your LOAM post this morning! Love you and praying for you; for all of us as
 we branch out in the LORD!
 ```
+
 ```
 lioneagle (2011-01-15 18:05:13)
 Hi Wanda -
@@ -19215,6 +20616,7 @@ Now as for those who are not fully armored, the unexpected can indeed shake them
 But prayer changes people and things.
 May GOD help us all...
 ```
+
 **Branching Beyond (2011-01-15 18:10)**
 
 [1] Hi friends, will you join me as I branch beyond my
@@ -19229,6 +20631,7 @@ when I walk, I heard the gentle whisper of the Spirit of the Lord. He states tha
 designed my life to be-colorful. I have spent too much time living in the dullness of black and
 white. Failing to embrace the full spectrum of the life He had designed for me.
 ```
+
 I have been away from the blogging world for a few days but I look forward to catching up with each of you
 soon. God bless.
 
@@ -19241,28 +20644,34 @@ Sharon Kirby (2011-01-15 20:22:03)
 Hi Wanda - Left a comment for you over on Lisa’s blog!
 GOD BLESS!
 ```
+
 ```
 Karen (2011-01-15 23:44:41)
 Missed you, Wanda. Thanks for this beautiful post.
 ```
+
 ```
 Stuff could always be worse (2011-01-16 05:14:34)
 Yes I loved this post, and trees too. I like the analogy
 kim
 ```
+
 ```
 Wanda (2011-01-16 12:14:31)
 Thank you ladies. I’ve missed you all too and I’m looking forward to reconnecting with each of you. Blessings &
 peace to you.
 ```
+
 ```
 Ellen aka Ella (2011-01-18 15:08:42)
 Hi Wanda, love the tree imagery. WE all have to take time out and rework our soil/souls
 ```
+
 ```
 BLUEBUTTERFLY (2011-01-18 18:28:51)
 Too much time in dullness ... Amen, Wanda, and a lesson for us all.
 ```
+
 **I Dare You to Change!** {**Giveaway**} **(2011-01-17 07:00)**
 
 There is just something about a new year that has most people looking for and speaking about change. But
@@ -19302,6 +20711,7 @@ invest into a 15 to 20 unit. Sell this a few years later and reinvest into a sma
 Sell this&you get the point. Its all about taking baby steps first. Another angle is if you want
 to lose 50 pounds, lose 5 first and keep going.
 ```
+
 Giveaway
 Are you in the midst of change or hoping to see change in your life in 2011? Get off to a good start with an
 opportunity to win your personal copy of I Dare You to Change. To enter:
@@ -19323,6 +20733,7 @@ Hello Wanda! Thank you for the opportunity to win this book! I find change isn�
 and maybe this book will help. Hope you have a marvelous day!
 kjv1611as at gmail dot com
 ```
+
 Amanda Stephan (2011-01-17 16:53:59)
 And, I’m a follower of your blog :)
 kjv1611as at gmail dot com
@@ -19389,10 +20800,12 @@ welcome to my world of poetry (2011-01-19 12:04:24)
 Excellent Wanda, so enjoyable.
 Yvonne,
 ```
+
 ```
 Dorie (2011-01-19 12:21:21)
 It is amazing isn’t it? That the Lord would chose to use us - broken as we are - for His glory! Thank you, Lord.
 ```
+
 ozjane (2011-01-19 13:10:16)
 Am feeling pretty broken tonight...so grateful for a reminder that He can still use broken vessels.
 
@@ -19447,18 +20860,22 @@ Great post and reminder of the human condition xXx
 Just Be Real (2011-01-22 10:15:23)
 This is how I have been feeling these past few days. Thank you Wanda for posting such a great post. Blessings.
 ```
+
 ```
 Bernadine (2011-01-22 16:51:38)
 I’m so glad also that He uses broken vessels or where would I be.
 ```
+
 ```
 Pamela (2011-01-24 03:39:53)
 So broken yet worthy to be a vessel for God. I want to be willing and ready.
 ```
+
 ```
 Mike (2011-01-28 20:57:06)
 That’s me!
 ```
+
 **I Dare You to Change ...Winner (2011-01-22 23:28)**
 
 [1]
@@ -19476,15 +20893,18 @@ Thank you for your continued prayers and support. GOD BLESS YOU!!
 Hugs,
 andrea
 ```
+
 ```
 gemini (2011-01-24 04:10:45)
 Thank you for visiting and God bless always.
 ```
+
 ```
 Wanda (2011-01-24 12:04:51)
 Blessings to you Andrea. You’ve been a great support too.
 Gemini, enjoyed visiting with you. Have a great week.
 ```
+
 **Monday Manna (2011-01-24 11:59)**
 
 [1] Linking up with Joanne at [2]An Open Book for Monday Manna. Todays verse
@@ -19507,20 +20927,24 @@ the miracle in?
 Yvonne Blake (2011-01-24 12:58:58)
 Wanda, thanks for joining in Monday Manna. Yes, this verse is very ”soul-searching”, isn’t it?
 ```
+
 ```
 Joanne Sher (2011-01-24 16:12:24)
 Oh - I never thought of the ”package” aspect of this. I think I’m pretty awful about inspecting the messenger rather
 than the message. thanks for the reminder!
 ```
+
 ```
 Stuff could always be worse (2011-01-24 20:31:38)
 It is all a package, do not know how I reach out?
 kim
 ```
+
 ```
 Sharlyn Guthrie (2011-01-25 02:06:45)
 Excellent points, Wanda. I like how concisely you presented them, too.
 ```
+
 ```
 lioneagle (2011-01-25 02:48:17)
 Hi Wanda -
@@ -19528,10 +20952,12 @@ You are seeking - you shall find.
 Praise our Lord’s worthy name.
 Love to you, my sister in Christ.
 ```
+
 ```
 Belbin9 (2011-01-25 04:33:59)
 I just read that chapter a couple days ago. Its powerful and made me ask the same questions. Thanks for sharing
 ```
+
 ```
 Wanda (2011-01-25 07:51:37)
 Hi Belbin9, good to hear from you. It’s good to look beyond the text of the Word and find ourselves in it.
@@ -19542,6 +20968,7 @@ Joanne, I’ve been guilty of that myself.
 Yvonne, it’s my pleasure to take part in Monday Manna when I can. Always interesting to see what others glean from
 the same passage of scripture.
 ```
+
 ```
 Sharon Kirby (2011-01-25 23:59:08)
 Food for thought, Wanda -
@@ -19549,25 +20976,30 @@ Where is God most at work? Maybe, just maybe, where I least see it...
 Asking the Lord to make me more spirit-sensitive to what He CAN do, and what He WANTS to do...
 GOD BLESS!
 ```
+
 ```
 jackie (2011-01-26 07:31:08)
 when doubts overwhelmed us we become blind of the truth that God wants to reveal to us...
 I can relate to this because sometimes, if not often, I tend to doubt out of fear and confusion...
 ```
+
 ```
 Just Be Real (2011-01-28 12:23:44)
 Wanda, came by for a pick me up of encouragement. Which you seem to always provide. Thank you.
 ```
+
 ```
 Toia (2011-01-28 23:05:30)
 You got me thinking the same thing. This is something I really need to examine and meditate on.
 This made me realize that we can be our own worst enemy due to our disbelief in various areas of our life.
 Thanks for sharing this thought provoking post!! Blessings to you!!
 ```
+
 ```
 Connie Arnold (2011-01-30 21:49:06)
 Your post sure makes me think. How many times do we miss out because of our lack of faith and inability to see!
 ```
+
 **Staying Within the Lines (2011-01-31 07:00)**
 
 I must admit its been quite some time since I have been a part of a formal school setting and grade school[1]
@@ -19575,6 +21007,7 @@ I must admit its been quite some time since I have been a part of a formal scho
 ```
 is even farther away. But I do recall how lining up and staying in the
 ```
+
 line was an important part of that world. You lined up to go the restroom, cafeteria, library, or any other
 destination. And for a girl whose last name is at the back of the alphabet chain, I often found myself near
 the caboose of such lines. Then there was those coloring pages that we were expected to stay within the
@@ -19599,6 +21032,7 @@ father wouldn’t do it. He said, ”I know, my son; but I know what I’m doing
 into a people, and he also will be great. But his younger brother will be even greater and his
 descendants will enrich nations.” Genesis 48:13-14, 17-19
 ```
+
 However, Israel did a switcheroo. He skipped over the firstborn. Leading Joseph to assume he had made a
 mistake. I cant tell you how may times I wrongly believed that God some how made a mistake. Didnt he
 know I was next? And, there has even been those times, when he picked me but according to the natural
@@ -19612,25 +21046,30 @@ BLUEBUTTERFLY (2011-01-31 15:13:22)
 Amen! Amen! His ways are not our ways, His thinking not our thinking, and He is not limited by us. Thank you,
 Lord.
 ```
+
 ```
 a sojourner (2011-01-31 15:56:47)
 Hi Wanda:)
 like this post. you set me to thinking/looking at this in terms of the law versus grace. the law set lines for us too. i
 love His unfathomable grace that doesn’t have a set line.
 ```
+
 ```
 Joanne Sher (2011-01-31 16:28:17)
 Needed this reminder. His ways are not mine.
 ```
+
 ```
 Kim-Stuff could always be worse (2011-01-31 17:39:33)
 Yes we do want to stay in line but Thankfully God know better!
 ```
+
 ```
 Ella (2011-02-01 13:42:59)
 I like this post, when the lines are blurred, it reminds me to expect a different outcome or don’t expect anything at
 all. Well Done
 ```
+
 Angel @ Finding The Inspiring (2011-02-01 15:03:36)
 Great post Wanda! I love the analogies you give to help remind us that God is sovreign ”does not have to stay within
 the lines of our human thinking or our man-made traditions.”
@@ -19674,6 +21113,7 @@ Another inspiring thoughts and truth!
 Only let us hold true to what we have already attained and walk and order our lives by that. Philippians
 3:16 (AMP)
 ```
+
 The past two weeks Philippians 3:16 has been my siesta scripture I have been memorizing. While there are
 a lot of things I have yet to obtain or comprehend, this passage of scripture reminds me that as I wait on
 them to materialize, I should not loose what I have already received.
@@ -19693,6 +21133,7 @@ Most inspiring Wanda,
 Have a lovely day.
 Yvonne.
 ```
+
 jackie (2011-02-02 11:09:28)
 You are right Wanda... we should not lose what we already have... We could be expectant but we should not dwell
 much on what is yet to come.. We must instead cherish on what God presently gave us...
@@ -19778,17 +21219,20 @@ What does this passage speak to you? To find out what others are saying visit An
 Follow2Serve {Lorna} (2011-02-07 12:18:34)
 Ah, He knows me so well. Trust is something I’m working on - thanks for the post.
 ```
+
 ```
 Wanda (2011-02-07 12:54:28)
 Hi Lorna, He knows the very number of hairs on our heads. It’s amazing to be known so intricately by a Sovereign
 Lord. Trust is pretty hard spot for me as well.
 ```
+
 ```
 jackie (2011-02-07 13:27:07)
 so perfectly true. And this is exactly what I need right now Wanda. A COMPLETE, UNWAVERING TRUST IN
 GOD FOR HIS PROVISION ON MY UPCOMING WEDDING. Please pray for me.
 Thank you and God bless you more and more.
 ```
+
 Yolanda (2011-02-07 14:00:37)
 I totally agree Wanda, and with that trust, we walk out obedience. Obedience is what God desires of us!
 Blessings-
@@ -19842,11 +21286,13 @@ so strong at times. Yet what a blessing when we TRUST God instead. Thanks for a 
 Catrina Bradley... (2011-02-08 05:08:01)
 Yes! Thank you, Wanda - I’m fighting those urges constantly, and praying for the faith to TRUST.
 ```
+
 ```
 Beth in NC (2011-02-08 11:49:11)
 You’re right Wanda. (If we do run, at least run TO God, not from Him.)
 Your blog looks lovely. I haven’t had a chance to visit my Sisters lately!!!
 ```
+
 ```
 Julie Gillies (2011-02-08 15:34:03)
 Hi Wanda,
@@ -19856,21 +21302,25 @@ October. I hope you don’t mind me sharing a post I wrote about Exodus 14:14:
 http://www.juliegillies.com/2010/10/whose-battle-is-it-anyway.html
 Blessings to you!
 ```
+
 ```
 Ella (2011-02-08 16:35:10)
 A great word and remainder! I keep hearing the whispers of my intuition and I am trying to trust, it isn’t easy! xXx
 Great post
 ```
+
 ```
 Toia (2011-02-09 00:18:30)
 Trusting God only for everything is something we need to be reminded of....Thanks for such a beautiful Word!! Have
 a bless week!!!
 ```
+
 ```
 Faith Imagined (2011-02-12 04:11:43)
 Trust... so hard to do yet so important. Thank you for illustrating how important it is for us to TRUST God with
 every aspect of our lives!
 ```
+
 ```
 Dean Spencer (2011-02-17 03:58:26)
 Wanda -
@@ -19881,6 +21331,7 @@ Trust is powerful. But the Object of our trust is so much bigger.
 Great post! God bless!
 Dean
 ```
+
 **My Heart****s Answer (2011-02-09 00:00)**
 
 My heart has heard you say, Come and talk with me. And my heart responds, Lord, I am coming. Psalm
@@ -19907,6 +21358,7 @@ Thanks for reminding me again today... thanks for watering my soul, Wanda.
 God bless...
 Wish to talk to you for long in person ;)
 ```
+
 ```
 Jessica (2011-02-09 01:35:17)
 Oh my GOODNESS! The Lord led me to this verse about a week ago and my heart rejoiced seeing it again! Bless-
@@ -19914,16 +21366,19 @@ ings...and continue allowing the Lord to speak to your heart, and continue to li
 In His love,
 JB
 ```
+
 ```
 Dorie (2011-02-09 05:54:06)
 Wanda,
 What beautiful words and verse. Your post is so true. It is so easy to let life and activities drain our energy and
 ability to hear Him. May my life not drown out His voice today.
 ```
+
 ```
 Follow2Serve {Lorna} (2011-02-09 06:17:57)
 Love the picture... what a perfect word for today.
 ```
+
 ```
 ozjane (2011-02-09 06:38:54)
 This is such a challenge and I thought by this time of my life it would surely be habitual......but while I have a set
@@ -19933,15 +21388,18 @@ the bed a I used to love to do........so it is easy to start reading a novel and
 word, your journal prayer diary etc. And that shames me when it happens.
 I need to start with the word....
 ```
+
 ```
 Kathryn (2011-02-09 07:03:14)
 So true. May God be at work in all of our hearts, showing us his Word, and conforming us to his image
 ```
+
 ```
 Pia (2011-02-09 07:41:12)
 He does talk to us everyday. we have to ask God to open our ears to hear His voice clearly. what a privilege to get
 to talk to the King of Kings and He talks back to us.
 ```
+
 Theresa Miller (2011-02-09 07:45:10)
 Thank you. I need that reminder every waking morning!
 
@@ -20058,38 +21516,46 @@ Happy Valentines Day
 Alida (2011-02-14 19:12:25)
 Happy Valentine’s Day! Love, joy and lots of blessings to you!
 ```
+
 ```
 Joanne Sher (2011-02-14 19:52:21)
 Love that translation. Wow. Good stuff. Happy Valentine’s Day!
 ```
+
 ```
 Ella (2011-02-14 21:39:00)
 LOVEly Wanda!
 Happy Valentine’s Day to you
 ```
+
 ```
 Stuff could be worse (2011-02-15 00:07:02)
 Love like that! Happy Valentines Day to you...
 kim
 ```
+
 ```
 Sharon Kirby (2011-02-15 01:56:24)
 Oh, this was really wonderful. Sometimes it’s just good to hear the words of God in a simple way.
 Love like Him - yes, Lord, help us do just that.
 Happy Valentine’s Day, Wanda - and GOD BLESS
 ```
+
 ```
 BLUEBUTTERFLY (2011-02-15 17:40:45)
 Love! Love! Love! The greatest of all. I hope you had a beautiful Valentine’s Day!
 ```
+
 ```
 wisdomvirtueandrubies (2011-02-16 01:17:38)
 Hope you had a wonderful Valentine’s Day!
 ```
+
 ```
 clavs (2011-02-16 07:40:10)
 That was a wonderful message for valentines...
 ```
+
 ```
 MTJ (2011-02-17 20:00:51)
 Hi Wanda,
@@ -20099,6 +21565,7 @@ Thank you for encouraging me to love like that.
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 clavel (2011-02-18 05:51:56)
 Hi! Ms. Wanda, I am your new follower. tnx for leaving a comment on my post, appreciate it very much.GOD bless!
@@ -20107,6 +21574,7 @@ Hi! Ms. Wanda, I am your new follower. tnx for leaving a comment on my post, app
 Karen (2011-02-21 11:20:39)
 Blessings to you Wanda. Love that scripture!
 ```
+
 **Hello (2011-02-21 02:12)**
 
 Wow, it seems like forever since I have the time to write something here. Wanted to send out quick hello
@@ -20118,20 +21586,24 @@ Ella (2011-02-21 03:13:05)
 Thinking of you, hope you had a wonderful weekend I think everyone will be a bit better, when spring finally makes
 it’s appearance xXx
 ```
+
 ```
 welcome to my world of poetry (2011-02-21 09:05:55)
 Lovely tp hear from you again, I have just returned from my holiday.
 Take care.
 Yvonne.
 ```
+
 ```
 Wanda (2011-02-21 13:50:06)
 Thanks, Ellie & Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2011-02-21 15:10:18)
 Love multiplied back to you.
 ```
+
 **When is long better than short? (2011-02-21 13:48)**
 
 Being what I call directionally challenged, I often go the route I know best rather than run the risk of getting
@@ -20143,6 +21615,7 @@ going the sure way.
 When Pharaoh finally let the people go, God did not lead them along the main road that runs
 through Philistine territory, even though that was the shortest route to the Promised Land.
 ```
+
 Now God is not directionally challenged like me but even He, the all-knowing one, had people take the long
 way around. Everything He does is purposeful.
 
@@ -20151,6 +21624,7 @@ God said, If the people are faced with a battle, they might change their minds a
 to Egypt. So God led them in a roundabout way through the wilderness toward the Red Sea.
 Exodus 13:17
 ```
+
 Going the long way around processed the Israelites for possession of the promise. Had they went the short
 route, perhaps they would have visited the land but certainly would not have had the stamina to maintain
 it.
@@ -20170,11 +21644,13 @@ Jesus name, Amen.
 Joanne Sher (2011-02-21 14:42:01)
 Wonderful reminder. Thanks for this!
 ```
+
 ```
 BLUEBUTTERFLY (2011-02-21 15:01:31)
 Oh, Wanda, I was falling out of my chair about being directionally challenged. Thank God for His grace...really. ”I
 am reminded of a favorite verse: By your endurance you will gain your lives.” - Luke 21:19
 ```
+
 ```
 One Heart (Marcia) (2011-02-21 15:19:02)
 Oh, Wanda, this is so on target for me today after a very challenging week last week AND weekend too. I began to
@@ -20185,14 +21661,17 @@ removed, we should always pray that the abundant grace which has already been gi
 more profoundly because with it, although the thorn is not removed, it will no longer sting us.
 Thank you for your visit. Always good to stop by. Love your blog design. Blessings!
 ```
+
 ```
 One Heart (Marcia) (2011-02-21 15:20:54)
 BTW, I took your lovely new button too. ;)
 ```
+
 ```
 Stuff could be worse (2011-02-21 16:12:42)
 I like this thought, God is not directionally challenged :) I agree...
 ```
+
 ```
 Sharon Kirby (2011-02-22 07:24:52)
 Wanda, dear Wanda - I just took this prayer of yours, and quietly let you pray it over me. I so needed it tonight.
@@ -20200,6 +21679,7 @@ Thank you for your wise and encouraging words. God takes us down just the right 
 this gives me renewed confidence!
 GOD BLESS!
 ```
+
 ```
 Tina C (2011-02-24 12:50:40)
 I enjoyed your post. I’m directionally challanged too. That’s why I have to seek God so much about what road to
@@ -20207,6 +21687,7 @@ take or what turn to make. Lately, I’ve been thinking more of the process. The
 short) He gives us. After all He has to prepare us for the war and the victory that lies ahead. He will be our guide
 even unto death...
 ```
+
 ```
 Carole in the Faith Lounge (2011-02-25 04:13:07)
 Wanda, LOL. That first paragraph is me all over. Sonetimes, I take the long route in order that I can have some
@@ -20214,16 +21695,19 @@ thinking and reflection time!! Strange but true.
 Thank you so much for your prayer, which came straight from the heart of God.
 Keep sweet in the Lord.
 ```
+
 ```
 Rita’s Random Ramblings (2011-02-25 17:36:30)
 You have inspired and blessed me! I’ll grab your button for my blog before I leave! Have a wonderfully blessed day!
 ```
+
 ```
 Faith Imagined (2011-02-25 19:25:14)
 I feel like God is taking me the long route at this very moment! I am positive He is doing a good work in me so that
 I can be ready for the promise land He has for me!
 Awesome insights!
 ```
+
 ```
 lioneagle (2011-02-26 12:58:25)
 Hi Wanda -
@@ -20231,12 +21715,14 @@ I feel you on this, lady. Thank you for sharing.
 In particular, I love this that you expressed, ”...or reach of your loving hands.
 ”May they have renewed confidence in You, Lord. In Jesus name, Amen.”
 ```
+
 ```
 Mike (2011-03-01 11:09:06)
 That’s really helpful. God is more interested in the process and how it changes us more than the destination? Very
 helpful. Thank you.
 <a href=”http://thisido.blogspot.com>This I do...</a>
 ```
+
 **Review: iShine Bible (2011-02-22 08:00)**
 
 Designed specifically for tweens, the iShine Bible packs a lot of punch in a small pink or blue package. I
@@ -20275,28 +21761,34 @@ Good review Wanda, good there is a book for the young.
 Thank you for your visits and comments most appreciated.
 Yvonne.
 ```
+
 ```
 Just Be Real (2011-02-22 10:37:46)
 Thank you Wanda for taking the time to share here. Very good. Blessings.
 ```
+
 ```
 Joanne Sher (2011-02-22 14:49:39)
 Looks great, Wanda! I have one in the tweens, and one ”on the crux,” so this is great information for me!
 ```
+
 ```
 Ella (2011-02-24 03:55:21)
 Nice book; great review
 ```
+
 ```
 Judy (2011-02-25 01:43:11)
 Hi Wanda,
 I have a 15-year-old teenage boy. He has a teen bible written especially for guys his age. It’s a great bible. I think
 ```
+
 ```
 it’s wonderful there are bibles customized for all different age groups and sexes. God is awesome!
 Blessings,
 Judy
 ```
+
 ```
 Carole in the Faith Lounge (2011-02-25 04:19:58)
 From your review, Wanda, it sounds like a Bible I should check out, when it becomes available here in the UK.
@@ -20304,6 +21796,7 @@ I love my NLT Bible and always suggest it as a version for new christians. (afte
 now a new desigh for Tweens.
 God Bless
 ```
+
 **The Life Ready Woman (2011-02-26 14:23)**
 
 Are you a doing it all or doing what matters most kind of girl?
@@ -20319,6 +21812,7 @@ find ourselves stressed and torn, and to experience an outlook that that is all 
 by worry or guilt instead of the absolute peace of knowing we are in the exact center of Gods
 will every day.
 ```
+
 The book is divided into two parts. Part 1: Gods Plan and Purposes for All of Us and Part 2: Getting to
 Gods Best for You. Authors point out that all humankind has been issued a call by God to leave and cleave,
 be fruitful and multiply and subdue and rule. In addition to our universal call, the book states that women
@@ -20341,6 +21835,7 @@ reliance on God.
 Its so easy to default to walking the path that we already know rather than the one God is
 leading us to.
 ```
+
 What I like about the book:
 
 It addresses the many faucets of womanhood from married women to the older single woman, who each faces
@@ -20374,6 +21869,7 @@ g4UU12ZlVaQjVtalVzeVE6MQ Loading...
 Joanne Sher (2011-02-26 15:18:00)
 This absolutely sounds like a book I could use. Entered - thanks for the opportunity, Wanda!
 ```
+
 ```
 welcome to my world of poetry (2011-02-26 19:32:30)
 Thanks for the chance of winning this book, your review was great.
@@ -20382,6 +21878,7 @@ Robert Lewis I have a son of the same name.......but he don’t write.
 Thanks for the visits and comment which I appreciate.
 Yvonne.
 ```
+
 Sharon Kirby (2011-02-27 01:01:53)
 Wanda - sounds like a great book. It’s speaking about many of the issues I was thinking and blogging about last week.
 As a woman, I need to mindful of my priorities and activities. As a Christian woman, I need to rely on the Holy
@@ -20446,10 +21943,12 @@ welcome to my world of poetry (2011-03-01 13:24:51)
 Congratulations Aterhea on your win.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2011-03-01 17:52:27)
 ”Life ready”; I like that title. I’ll have to check it out.
 ```
+
 **What to Wear? (2011-03-02 14:10)**
 
 Wondering what to wear today? God has something special picked out for you today. Nope, you will not
@@ -20475,6 +21974,7 @@ The best anyone can wear,
 Good message Wanda.
 Yvonne.
 ```
+
 ```
 Peggy (mazmagi) (2011-03-02 18:10:19)
 Blessings Wanda... How intriguing!
@@ -20492,11 +21992,13 @@ Always inspirational Messages here.
 Love,peace and JOY,
 Peggy
 ```
+
 ```
 BLUEBUTTERFLY (2011-03-02 18:42:45)
 Amen! when we cover ourselves with the basics which God requires, life becomes something to be shared instead of a
 burden we carry.
 ```
+
 lori (2011-03-02 19:46:49)
 GIRL, if we would think these over, truly PUT THEM ON, we’d always feel fully clothed and ready for anything! I
 LOVE this!
@@ -20551,6 +22053,7 @@ Wow, I’m going to ensure that I don’t leave home until I am fully dressed.
 Loved that scripture, Wanda.
 The Message Bible always comes straight to the point. :)
 ```
+
 **God Wants to Heal You (2011-03-03 12:01)**
 
 God wants to heal you
@@ -20574,10 +22077,12 @@ Stuff could always be worse (2011-03-03 15:25:14)
 This is the best way to wake up! I love it when I wake up with these type of songs, in my head :)
 kim
 ```
+
 ```
 Lorena G. Sims (2011-03-03 17:19:51)
 Wanda, that’s a wonderful song!
 ```
+
 ```
 Sharon Kirby (2011-03-04 01:38:26)
 Lovely, lovely song.
@@ -20586,33 +22091,40 @@ He will see me through - through the good and the bad.
 Lord, I need you right away - yes, Lord, come quickly.
 Thanks for this, Wanda - GOD BLESS!
 ```
+
 ```
 sarah (2011-03-04 15:18:05)
 and Wanda...I know this truth....He is a healer...the One who can make a differnce....thanks for posting this.
 ```
+
 ```
 Just Be Real (2011-03-04 18:06:13)
 Thank you Wanda. Needed this encouragement.
 ```
+
 ```
 lioneagle (2011-03-05 17:18:26)
 Hi Wanda -
 Thank you for sharing your wake up song. It truly blessed.
 ```
+
 ```
 Karen (2011-03-06 12:48:57)
 Thank you for this song. This is new to me, and I will be singing it my head all day! Bless you, Wanda!
 ```
+
 ```
 Ella (2011-03-06 15:32:15)
 Nice way to wake up; I can dream!
 I have waited 24 yrs for a cure, not yet...
 ```
+
 ```
 welcome to my world of poetry (2011-03-06 17:16:37)
 Hello Wanda there is an award awaiting you at my blog , it’s called Friends For The Journey.
 Yvonne.
 ```
+
 ```
 Judy (2011-03-06 20:11:38)
 Hi Wanda,
@@ -20624,6 +22136,7 @@ traffic to your site and to meet new Christian bloggers.
 Blessings,
 Judy
 ```
+
 ```
 MTJ (2011-03-06 22:17:12)
 Hi Wanda,
@@ -20632,6 +22145,7 @@ He’ll take the pain away”
 Blessings and peace.
 [1]MTJ
 ```
+
 1. http://mythought-filledjourney.blogspot.com/
 Bernadine (2011-03-07 05:14:03)
 Thanks for the intro to this new singer Wanda. I’ve never heard him before but I love this song.
@@ -20640,10 +22154,12 @@ Thanks for the intro to this new singer Wanda. I’ve never heard him before but
 Mike (2011-03-08 19:57:15)
 Thank you :)
 ```
+
 ```
 jackie (2011-03-09 02:16:05)
 I am longing for it...
 ```
+
 ```
 Carole in the Faith Lounge (2011-03-12 02:53:54)
 Wanda, Thank you for reminding me of the precious promise of God; that He wishes above all thinks that we prosper
@@ -20651,6 +22167,7 @@ and be in health, even as our soul prospers.
 He has also promised that He will restore us to health and heal any wounds.
 I Praise Him!!
 ```
+
 **Better Than Hamburger Helper (2011-03-07 13:59)**
 
 Looking for a way to dress up that lone package of ground beef? General Mills offers individuals a quick
@@ -20678,35 +22195,42 @@ Joanne Sher (2011-03-07 14:28:39)
 What a fabulous analogy, Wanda! I will never look at Hamburger Helper the same way again :) Thanks for partici-
 pating!
 ```
+
 ```
 Michelle Gregory (2011-03-07 16:54:01)
 i came on over from Yvonne’s blog. lovely blog you have. always nice to meet another Lover of God on the web.
 ```
+
 ```
 BLUEBUTTERFLY (2011-03-07 17:06:34)
 You’ve made me hungry...to pray ... to eat. Think I’ll make Hamburger Helper my last meat meal before Lent begins.
 ```
+
 ```
 welcome to my world of poetry (2011-03-07 20:41:22)
 This is simply wonderful Wanda.
 Take care.
 Yvonne.
 ```
+
 ```
 Stuff could always be worse (2011-03-07 21:23:42)
 I so agree with this post, we do have a Holy Helper!
 kim
 ```
+
 ```
 Karen (2011-03-08 01:39:34)
 Isn’t it awesome that the Holy Spirit prays for us and through us even when we don’t know exactly what to say or do
 (which is most of the time, these days, for me!)
 ```
+
 ```
 Joanney (2011-03-08 01:49:19)
 I really like your recipe for prayer: Spirit, weakness, willingness to pray. Our prayer pantry should never be without
 any of these.
 ```
+
 ```
 Wanda (2011-03-08 13:14:32)
 Joanne, it’s funny the things God often uses to illustrate a point to me. Michelle happy to have you stop by for a
@@ -20715,6 +22239,7 @@ hunger for Him. Yvonne thank you. Kim the best helping hand we could ever have ;
 just want we would need and He provided the solution. Joanney love the idea of prayer pantry. We really do have
 all the fixins :)
 ```
+
 ```
 B. Niles (2011-03-09 21:04:56)
 Hi Wanda,
@@ -20723,26 +22248,31 @@ realm. It’s those little things that give us just the right food for thought a
 God Bless.
 Beverly
 ```
+
 ```
 jackie (2011-03-11 04:15:35)
 So much better indeed...
 I confirm and believe every lines you wrote here.
 Without the guidance of the Holy Spirit, we will all fall down?
 ```
+
 ```
 Just Be Real (2011-03-11 18:36:43)
 Came for a refreshment. Blessings.
 ```
+
 ```
 Ella (2011-03-12 18:46:48)
 How creative you are Wanda! Yes, we need to be selective about our ingredients and what we hope for the out-
 come xXx
 ```
+
 ```
 Mining for Diamonds (2011-03-13 23:25:41)
 Wanda, thanks for stopping by my blog! :) Nice to ”meet” you. This is a great analogy!!! I’m like Joanne, I’ll never
 see Hamburger Helper again! ;)
 ```
+
 **Not Left to My Own Devices (2011-03-14 12:47)**
 
 ”For it is God who works in you both to will and to do for His good pleasure.” (Philippians 2:13, NKJV)
@@ -20778,31 +22308,37 @@ Linking up with Monday Manna, which is being hosted by Vonnie at [1]My Back Door
 Joanne Sher (2011-03-14 13:24:01)
 SOOO grateful for His power. Great thoughts, Wanda. Thanks!
 ```
+
 ```
 Andrea (2011-03-14 13:52:57)
 Praising GOD for all HE is doing in and through my life. Thank you for always posting just what I need.
 Blessings, andrea
 ```
+
 ```
 welcome to my world of poetry (2011-03-14 14:54:14)
 Wonderful post Wanda, also a most beautiful prayer.
 Yvonne.
 ```
+
 ```
 Stuff could always be worse (2011-03-14 15:27:18)
 We need Him always! We try to cooperate with His desire, I hope
 kim
 ```
+
 ```
 wisdomvirtueandrubies (2011-03-14 20:43:36)
 Had a conversation about this just a few days ago with a friend of mine. You said it beautifully AND truthfully!
 Thank you!
 ```
+
 ```
 Ella (2011-03-15 01:39:42)
 Thanks Wanda, I was in frustration mode, have been all day. It is me getting in the way. I am now going to go with
 the flow xXx
 ```
+
 ```
 Sharon Kirby (2011-03-15 02:36:45)
 Sometimes I just plain lose my way - and then I try to find my way on my own.
@@ -20810,12 +22346,14 @@ Left to my own devices - I always fail.
 Thanks for the great reminder.
 GOD BLESS!
 ```
+
 ```
 jackie (2011-03-16 03:17:36)
 Amen and Amen...
 God’s will is indeed the most Perfect will!
 Thank you again Wanda :)
 ```
+
 ```
 lioneagle (2011-03-19 23:35:57)
 Hi Wanda -
@@ -20825,6 +22363,7 @@ You expressed in your prayer,
 ”Align our wills with your will.”
 Yes, please, Lord!
 ```
+
 **Up for a Challenge? (2011-03-15 12:10)**
 
 Life throws us a bunch of challenges. Most times we dont have the option of choosing which ones we will
@@ -20860,17 +22399,20 @@ Very good write up about the fun challenge as I call it.
 Good luck with yours this year.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2011-03-15 13:37:07)
 I’m smiling as I read on ”challenges”. It is amazing how the most difficult things end up broading our sphere of
 influence and teaching us things we would not otherwise know.
 ```
+
 ```
 Arlee Bird (2011-03-16 00:51:06)
 You said it well. Thank you. I will link to this in my next Thank You post on Friday.
 Lee
 [1]Tossing It Out
 ```
+
 1. http://tossingitout.blogspot.com/
 wisdomvirtueandrubies (2011-03-20 19:22:05)
 Thinking about taking the challenge! :-) We’ll see what happens.
@@ -20904,11 +22446,13 @@ to sing unto You is an easy choice.
 Joanne Sher (2011-03-16 13:18:56)
 Beautiful, Wanda. Praying I can do the same.
 ```
+
 ```
 Andrea (2011-03-16 13:59:34)
 Prayer request at arise 2 write.
 andrea
 ```
+
 ```
 welcome to my world of poetry (2011-03-16 15:50:24)
 Lovely Wanda, I get many birds and wildlife in my garden, it’s a joy to hear them sing and watch the squirrels scurry
@@ -20916,57 +22460,68 @@ about.
 Have a lovely day.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2011-03-16 17:32:06)
 Let all who take refuge in You rejoice; let them sing joyful praises forever. Spread Your protection over them, that
 all who love Your name may be filled with joy. - Psalm 5:11
 Joy unspeakable, peace unexplainable and glory unimaginable.
 ```
+
 ```
 Stuff could always be worse (2011-03-16 22:24:59)
 Yes I love the way you sing, I try to sing also :)
 kim
 ```
+
 ```
 Faith Imagined (2011-03-17 00:40:41)
 Absolutely beautiful Wanda! You have blessed me immensely with this poem!
 ```
+
 ```
 Connie Arnold (2011-03-17 02:23:11)
 Beautiful, Wanda! We always have something to sing about in thanksgiving and praise to God.
 ```
+
 ```
 Mike (2011-03-17 10:07:24)
 Thank you for the encouragement to keep our eyes heavenwards. Blessings.
 ```
+
 ```
 Ella (2011-03-18 01:57:59)
 Beautiful Wanda..you are a POET!
 This reminds me of the challenge of Poets United this week, HOPE and reading this inspires, just that
 Lovely xXx
 ```
+
 ```
 lioneagle (2011-03-19 23:33:27)
 Hi Wanda -
 Amen - When truth walkers sing - our Lord is delighted. Praise His melodic name!
 ```
+
 ```
 Carole in the Faith Lounge (2011-03-20 00:00:49)
 Thank you for blessing me today with your ’singing’, Wanda.
 Whatever, the situation or circumstance, I will keep singing and praising the Lord. :)
 God Bless, Carole
 ```
+
 ```
 Just Be Real (2011-03-20 15:43:32)
 Lovely Wanda. Came by for my usual.....
 Blessings.
 ```
+
 ```
 Deirdra Eden-Coppel (2011-03-21 18:14:04)
 I love your site and as I browsed your blog I decided to award you the Inspiring Blog Award.
 Go to http://astorybookworld.blogspot.com/p/awards.html and pick up your award.
 Deirdra
 ```
+
 ```
 Sharon Kirby (2011-03-23 03:18:11)
 Loved this, Wanda - it was beautiful!
@@ -20974,17 +22529,20 @@ My favorite line? ”I sing because You are worthy.”
 AMEN, indeed!
 GOD BLESS!
 ```
+
 ```
 LisaShaw (2011-03-23 17:22:02)
 Amen! Thank you for sharing Wanda. I’m still singing... no matter what because GOD is too good for me not to
 sing.
 My love and prayers are with you and thank you for the warm words and prayers for me at my blog.
 ```
+
 ```
 Pam (2011-04-02 02:46:29)
 Thank you for this post, Wanda. My friend Frank found out today that he has cancer and I want to pass this page
 on to him and his wife. I know it will be a blessing to them.
 ```
+
 **I am**& **(2011-03-24 09:51)**
 
 How would you finish that statement today? Would it be tired, weary, confused, scared or disappointed?
@@ -21029,6 +22587,7 @@ and visit me.
 Blessings,
 Janis
 ```
+
 ```
 wisdomvirtueandrubies (2011-03-24 19:21:28)
 It’s amazing how potent 2 small words can be. We can go to Him with our ”i am” in the flesh, and He can remind
@@ -21037,14 +22596,17 @@ something altogether different, altogether lovely. I am a child of the most High
 daughter of the King of Kings. I am more than a conqueror. I am the head and not the tail. I am strong in the power
 of His might. I am persuaded. I am convinced. I am loved.
 ```
+
 ```
 Patrina’s Pencil (2011-03-24 23:17:51)
 I am ...learning to TRUST Him with ALL my heart!
 ```
+
 ```
 Vinni (2011-03-25 05:07:10)
 I am alive and that’s enough proof (if needed) that he has all of us in his thoughts.
 ```
+
 Have a nice weekend.
 
 BLUEBUTTERFLY (2011-03-25 08:23:31)
@@ -21098,24 +22660,29 @@ Carla (2011-03-30 22:53:24)
 This is beautiful! It is such a great reminder of how He loves us, warts and all. Thanks for sharing!
 Carla
 ```
+
 ```
 Connie Arnold (2011-04-01 19:44:43)
 I am thankful for your post, Wanda. Blessings to you!
 ```
+
 ```
 Prime Aque (2011-12-29 08:51:57)
 One of the best posts I read at the end of this year my friend, now I have the weapon to take for the battle of 2012,
 thank you so much for this, I am into nurturing my faith so that it will like a strong tree that wont die amidst a long
 period of drought...
 ```
+
 ```
 11 Favorite Posts in 2011 | wateredsoul.com (2011-12-31 08:17:17)
 [...] I Am  lets us know that whatever I am I can bring to [...]
 ```
+
 ```
 Susan Wachtel (2011-12-31 16:21:26)
 Thank you Wanda for the reminder that I can take all that I am to the great I AM.
 ```
+
 **Keep it Tied Tight (2011-03-29 07:25)**
 
 Behind those crisp pages a new story unfolds. There lies a new truth to be discovered. Big ones, little ones,
@@ -21139,11 +22706,13 @@ May a hunger for His Word be stirred a fresh in each of us today.
 Joanne Sher (2011-03-29 07:45:32)
 Great image, AND reminder. It needs to be close - to our hands, feet, and heart.
 ```
+
 ```
 Stuff could always be worse (2011-03-29 07:49:03)
 I love this reminder of this verse. We do need to bind it to our hearts, etc.
 kim
 ```
+
 ```
 a sojourner (2011-03-29 08:17:31)
 amen!!!
@@ -21152,47 +22721,56 @@ quote:
 the more(Living Water) seeps down into the crevices of heart.
 Wanda...you truly are a Watered soul and your’s and His blog is appropiately named!!!
 ```
+
 ```
 Mystiqua K (2011-03-29 14:24:02)
 Wanda your blog is so pretty and refreshing! Amen!
 ```
+
 ```
 Pat (2011-03-29 16:25:10)
 Amen!!! Good word!!
 Love ya and your new look.
 ```
+
 ```
 Rita Garcia (2011-03-29 17:29:46)
 Thanks for this beautiful reminder to hunger after His Word!
 Thanks for visiting my blog today! Your comment was a blessing to me!
 ```
+
 ```
 wisdomvirtueandrubies (2011-03-30 06:02:27)
 Wanda, the image is such a perfect visual. Thank you for reminding us of the priority of God’s word.
 ```
+
 ```
 Pam (2011-03-30 06:56:11)
 Good morning! What a wonderful piece to read for this morning’s devotions!I would like to pass on to you the Inspiring
 Blog Award which you can pick up at http://astorybookworld.blogspot.com/p/awards.html.
 Your blog is a blessing to me each time I visit. Thank you for following the Spirit’s leading and posting your thoughts.
 ```
+
 ```
 Kaye Swain - SandwichINK for Grandparents and Caregivers (2011-03-30 08:15:16)
 Hi Wanda, Wonderful analogy and words of encouragement along with such a great graphic. Thank you for such vital
 advice. May we always make the Word of God the top priority in our day! :)
 ```
+
 ```
 Toia (2011-03-30 08:45:51)
 And awesome and encouraging word!! It so true that we should not read the Bible on special ocassions, but all the
 time. So when trials come, we can stand on God’s Word without wavering or compromising who we are in Christ!!
 Blessings to you!!! Happy WFW!! =D
 ```
+
 ```
 Lisa (2011-03-30 09:29:32)
 Wanda, that scripture has been on my heart lately too. We must grasp tightly to God above all else.
 I found you through WFW at Internet Cafe. I’m your newest follower.
 Many blessings!
 ```
+
 lori (2011-03-30 12:53:40)
 Wanda! THIS is why I LOVE Deuteronomy...these reminders tucked into God’s Word!
 THIS inspires me and reminds me! I LOVE this and I LOVE the new look!! SO clean and pretty....springy! ;)
@@ -21248,6 +22826,7 @@ The answer to every problem is in the Word, we just need to keep digging deeper.
 Praise the Lord:)
 Thank You Wanda for a great post, still loving your site :)
 ```
+
 ```
 Dean Spencer (2011-04-17 16:32:04)
 Wanda,
@@ -21255,6 +22834,7 @@ I completely agree. We definitely need to keep God’s Word close to us at all t
 God bless!
 Dean
 ```
+
 ## 2.4 April
 
 **Angles, Arrows, & Awards (2011-04-01 05:01)**
@@ -21326,62 +22906,74 @@ bendedspoon (2011-04-01 05:53:51)
 Congratulations on the awards and you hit A+++ with your post! You made me look back with my geometry – one
 of the interesting concept of math. Happy A to Z challenge :)
 ```
+
 ```
 welcome to my world of poetry (2011-04-01 08:13:57)
 Congrats on your awards and for the excellent start to the challenge.
 Thanks for the visit, much appreciated.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-01 15:09:55)
 The awards are deserved!
 Math! Geometry! I’m getting a cold sweat just thinking about it...help me, Jesus! Isn’t God good? He’s given us all
 the tools to walk the straight path and to make all adjustments. I need all the help I can get!
 ```
+
 ```
 septembermom (2011-04-01 17:43:08)
 Congratulations on your awards. I’m very happy to meet you as a fellow challenge participant. I love your post today.
 Your reflections on the scripture passage from Psalms is very thoughtful and interesting. Thank you!
 ```
+
 ```
 Yamini Meduri (2011-04-01 18:59:35)
 wow...wonderful start dear..!!!
 thanks for stopping by at my Land of Dreams...keep visiting..!!!
 ```
+
 ```
 Angela Felsted (2011-04-01 19:16:23)
 It’s nice that everyone has their own unique angles. I admit I enjoy seeing everyone’s different perspective.
 ```
+
 ```
 Sandra Ulbrich Almazan (2011-04-01 19:31:07)
 Nice going with the triple A topic!
 ```
+
 ```
 Ella (2011-04-02 01:43:17)
 Congrats on your awards! I love this post the thought of direction, our target Audience(A word) who we Aim to
 reach. Great post Wanda; So happy you are in for round 2! Pass the cherry coke, will ya?! ;-D diet for me
 ```
+
 ```
 a sojourner (2011-04-02 04:12:47)
 hi sister Wanda:)
 figured i’d wait till the crowd cleared out a bit. am sure you will understand. i’m always out of adjustment!
 ```
+
 ```
 Stuff could always be worse (2011-04-02 04:17:21)
 I love your post about angles and bloggers, so true
 kim
 wow I thank you for the award
 ```
+
 ```
 Stuff could always be worse (2011-04-02 04:17:26)
 I love your post about angles and bloggers, so true
 kim
 wow I thank you for the award
 ```
+
 ```
 jabblog (2011-04-02 08:55:55)
 Nice post with plenty of food for thought - always a plus in my book:-)
 ```
+
 **Bury the Excuses (2011-04-02 11:47)**
 
 What is that thing you started out with good intentions and enthusiastic zeal? But some where between the
@@ -21412,17 +23004,20 @@ the most of the gift of this day?
 Carole Anne Carr (2011-04-02 12:21:40)
 I’ll try my best! :0)
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-02 13:24:41)
 Yes. This morning, instead of regretting the extra pound, I actually walked a few extra miles. Small achievement in
 my goal of consistent progress in all things, but at least I did not look back.
 Have a blessed day, Wanda.
 ```
+
 ```
 Wanda (2011-04-02 13:32:17)
 That’s really all one can do Carole.
 Way to go Bluebutterfly. Keep moving.
 ```
+
 welcome to my world of poetry (2011-04-02 13:36:28)
 A good B post Wanda, I agree it takes longer to think of excuses than put some effort into our dreams.
 Yvonne.
@@ -21545,6 +23140,7 @@ become an uncontrollable car of destruction. Yet if we climb into them, as ridin
 victory, they become the chariots of God to triumphantly take us onward and upward. Hannah
 Whitall Smith
 ```
+
 Now I know that life can throw some pretty difficult challenges our way and sometimes for the life of me I
 cant see anything but doom and gloom. But it is at those times that I can pray, Lord open my eyes that I
 might see.
@@ -21555,12 +23151,14 @@ might see.
 Angela Felsted (2011-04-04 12:26:43)
 I like your positive perspective.
 ```
+
 ```
 Misha (2011-04-04 13:10:04)
 I agree with you. It all depends on the perspective we take.
 Something that looks like an obstacle could in fact turn out to be an opportunity.
 :-)
 ```
+
 Karen (2011-04-04 13:13:46)
 Timely words of wisdom, Wanda. Thanks and God bless you.
 
@@ -21669,35 +23267,42 @@ a sojourner (2011-04-06 00:12:33)
 hi Wanda...
 simple but SOOOO meaningful:)
 ```
+
 ```
 Alison Miller (2011-04-06 01:04:49)
 I love your post. It’s amazingly awesome that our God is concerned about each and every one of us.
 Thank you for sharing your thoughts.
 New follower from A-Z - nice to meet you!
 ```
+
 ```
 BARBIE (2011-04-06 01:15:08)
 There is so much beauty in simplicity.
 I nearly forgot about my post. Off to figure out what I will write about!
 ```
+
 ```
 Stuff could always be worse (2011-04-06 01:51:46)
 Thanks for that scripture! It is encouraging to be reminded on our busy days....and every day
 kim
 ```
+
 ```
 welcome to my world of poetry (2011-04-06 11:47:19)
 This was wonderful to read Wanda, very simple but so very true, Thanks,
 Yvonne.
 ```
+
 ```
 Chelle (2011-04-06 12:20:49)
 And sometimes, simple is best and absolutely stunning.
 ```
+
 ```
 Margo Kelly (2011-04-06 14:30:24)
 Great post! I’m a new follower from the A-Z challenge. Nice to meet you! :)
 ```
+
 ```
 Wanda (2011-04-06 14:52:01)
 Hi Margo and Allison pleasure to have you guys join in. I look forward to reading more from you. Best wishes in the
@@ -21705,11 +23310,13 @@ challenge.
 Sojourner, thxs...it means the world that He’s concerned about all the little things.
 Barbie, Kim, Yvonne, Chelle, thank you
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-06 17:06:50)
 Everything about us, everything that concerns us, matters to Him. I am so thankful that He cares about all the
 details.
 ```
+
 ```
 Peggy (mazmagi) (2011-04-06 18:47:59)
 Thank You Lord for DELIGHTing in the DETAILS of our lives! Energize Wanda after her DRAINing Day of dreaded
@@ -21719,6 +23326,7 @@ Wanda through all the A-Z challenge, entering and exiting through her EXODUS wit
 Bless Wanda and give her some REST!
 Peggy (over at [1]The Power of Your Love for WFW)
 ```
+
 1. http://wwwthepowerofyourlove.blogspot.com/2011/04/wfw-redemption.html
 PatriciaW (2011-04-06 21:26:44)
 It’s good to remember He’s a detail-oriented God who sees the big picture too. Nice post.
@@ -21733,10 +23341,12 @@ Especially, I love that you said,
 Those words started a heart melt in me.
 Glory to His love abundant name!
 ```
+
 ```
 Penned Pebbles (2011-04-07 17:45:17)
 Beautiful post!
 ```
+
 **Entries & Exits (2011-04-06 14:47)**
 
 The letter of the day is E. Not a lot of E-words come to mind other than eyes, emotion, exude, emote,
@@ -21770,15 +23380,18 @@ Oh my..this speaks to my heart! Thank you!! I need to keep the proper balance!
 Hugs,
 andrea
 ```
+
 ```
 Lisa (2011-04-06 15:52:52)
 I want to enter and exit as directed by God, not me. God’s will and not mine.
 ```
+
 ```
 KarenG (2011-04-06 16:07:42)
 This is really interesting and thought-provoking! I had never thought about exits and entrances in this way, thanks
 for a great post and e word!
 ```
+
 ```
 Sarah Allen (2011-04-06 17:03:25)
 This is so great :) I especially need #3. I am so one track minded, its hard to keep all of those tracks in the right
@@ -21786,6 +23399,7 @@ order. Thanks for the inspiration!
 [1]Sarah Allen
 (my creative writing blog)
 ```
+
 1. http://fromsarahwithjoy.blogspot.com/
 Lorena G. Sims (2011-04-06 17:55:33)
 This is such an encouraging words for me. Exiting is the new entering. Yes, we need to be alert all the time! Thank
@@ -21796,11 +23410,13 @@ Ella (2011-04-06 19:10:51)
 Wonderful and so on target of my life lately. I don’t which doorway to enter next! Thank you Wanda, some how your
 thoughts always link to something happening in my life! xXx
 ```
+
 ```
 elisa.lu (2011-04-06 20:04:46)
 I have been thinking about keeping my balance this week too. It’s funny how the longer I walk with God the more I
 realize that I know less about Him than I think. There is so much more to discover.
 ```
+
 ```
 nutschell (2011-04-06 21:33:10)
 new follower here!what a fresh way of looking at something we encounter mindlessly everyday. entrances and exits
@@ -21808,14 +23424,17 @@ indeed! thanks for sharing.
 Nutschell
 www.thewritingnut.com
 ```
+
 ```
 bendedspoon (2011-04-07 05:01:57)
 Thank you so much for the Enightenment :)
 ```
+
 ```
 Penned Pebbles (2011-04-07 17:46:49)
 Very timely and encouraging post! Blessings!
 ```
+
 **Focus (2011-04-07 05:01)**
 
 [1]
@@ -21830,15 +23449,18 @@ world, we easily miss all the good things that surrounds us every day.
 BARBIE (2011-04-07 06:53:31)
 So true! I wish I could say Christ was my one and only focus. Oh how easily I get distracted.
 ```
+
 ```
 Karen (2011-04-07 12:58:39)
 I agree...so very true! Help me, Lord, to stay focused on You...
 ```
+
 ```
 lioneagle (2011-04-07 13:17:16)
 Hi Wanda -
 How interestng that you have the topic FOCUS. I just finished reading on another blog the words, ”Focus, Focus,
 ```
+
 Focus.”
 Your words here are so important to keep in mind. GOD is the SOURCE - all else is resource material. Truly, we
 need to keep that truth in focus.
@@ -21925,18 +23547,22 @@ Stuff could always be worse (2011-04-08 15:36:20)
 It is work to keep the weeds out. I called some of my grandparents Big Mama and Big Daddy too.
 kim
 ```
+
 ```
 ps. It is worth the work
 ```
+
 ```
 Joanne Sher (2011-04-08 15:46:22)
 Great reminder, Wanda. Gotta be vigilant!
 ```
+
 ```
 welcome to my world of poetry (2011-04-08 16:14:58)
 A wonderful post Wanda, it was refreshing to read.
 Yvonne,
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-08 16:38:52)
 The gift of grace is such a wonderful blessing, and so important to growing and grooming life’s garden. My dad was
@@ -21944,17 +23570,20 @@ much like your grandma. I never really understood why he put so much work into h
 understand what happens when a garden was planted and left to run wild. I realized that good intention in planting
 was not enough. It required work, work and more work...constantly.
 ```
+
 ```
 Lisa (2011-04-08 18:36:17)
 We are all parts of the body. God made each of us different and gave us different gifts. We need to make sure we are
 using those gifts instead of focusing on others gifts.
 Have a blessed weekend, Wanda!
 ```
+
 ```
 Matthew Vanacore (2011-04-08 20:32:05)
 Interesting post. I’m not one to garden, but I appreciate nature and its natural beauty.
 And nice blog!
 ```
+
 ```
 Sharon Kirby (2011-04-08 23:24:17)
 Wanda - what a great word! Yes, I have been guilty of checking out other people’s gardens, and being envious of
@@ -21964,11 +23593,13 @@ Cheer on our brothers and sisters, thank God for His grace - and ask Him to help
 own garden!
 GOD BLESS!
 ```
+
 ```
 Penned Pebbles (2011-04-09 04:28:16)
 Wonderful post! I like working in the garden. I even like pulling weeds! I’m strange like that. :-) And you’re so right,
 we need to check our own fruit and pull our weeds. The master gardener will help, and He will even prune! Blessings!
 ```
+
 ```
 lioneagle (2011-04-14 04:01:20)
 Hi Wanda -
@@ -21976,6 +23607,7 @@ Wow! Imagine my surprise when I came here tonight and noticed your topic’s tit
 Just yesterday I did a post titled, ”HOW DOES OUR GARDEN GROW?” We have a one word difference in our titles.
 I wonder what our Lord is doing with this garden message...?
 ```
+
 **The How(s) (2011-04-09 12:58)**
 
 How?
@@ -22009,42 +23641,51 @@ For surely you have a future ahead of you; your hope will not be disappointed. P
 Nf1andprek-whisper (2011-04-09 13:18:32)
 I did an H poem.. too.. and I did not use the word HOW... I can’t believe i missed that.
 ```
+
 ```
 Joanne Sher (2011-04-09 13:29:01)
 This is great - and thought-provoking. Thanks, Wanda.
 ```
+
 ```
 welcome to my world of poetry (2011-04-09 14:15:24)
 I agree this is very thought provoking , a very good post.
 Yvonne.
 ```
+
 ```
 Anne K. Albert (2011-04-09 14:39:31)
 So glad I found your post, Wanda. Wondering HOW I missed it, actually! ;)
 ```
+
 ```
 Pam (2011-04-09 15:18:59)
 Wanda, I so appreciate how in tune with Scripture you are and that you share it with the rest of us. This post reminds
 me of Jeremiah 29:11 ”’For I know the plans I have for you,’ declares the LORD, ’plans to prosper you and not to
 harm you, plans to give you hope and a future.’”
 ```
+
 ```
 Kimberly (2011-04-09 17:11:05)
 What a lovely post. Thank you for sharing it.
 ```
+
 ```
 Bernadine (2011-04-09 18:07:34)
 Lovely post Wanda. Just today I was asking some of the same ”how” questions. Reading your post today has given
 me a different perspective. Thanks for sharing.
 ```
+
 ```
 Dawn M. Hamsher (2011-04-09 20:24:14)
 Wanda, Thank you for posting this today. I needed it.
 ```
+
 ```
 Kim @ Stuff could... (2011-04-09 21:20:52)
 The How’s is always with us, but I like your ’Who” is what matters!
 ```
+
 Charmaine Clancy (2011-04-10 00:13:39)
 Very sweet poem :)
 [1]Wagging Tales - Blog for Writers
@@ -22108,20 +23749,25 @@ My mind goes back to various ones throughout the Bible whose ordinary lives were
 Marys marriage was interrupted by an unplanned pregnancy that led to her birthing out the
 Savior of the world.
 ```
+
 ```
 Rebekahs daily task of fetching water was interrupted by a servant on a mission. Which led
 to her being married.
 ```
+
 ```
 Zacharias service in the temple was interrupted by the appearance of angel bringing good
 news.
 ```
+
 ```
 Sauls reign of terror was interrupted on the road to Damascus.
 ```
+
 ```
 The woman at the well search for water was interrupted by the living water Himself.
 ```
+
 Each of them no doubt had their own agenda that day. Perhaps expecting only to do what they always did
 but in the midst of their ordinary plans a life altering interruption occurred. At times the cleverly robed
 interruption is not really a nuisance but an invitation to a life beyond the confines of your own imagination.
@@ -22133,10 +23779,12 @@ welcome to my world of poetry (2011-04-11 12:03:00)
 Most Impressive Wanda. most enjoyable,
 Yvonne.
 ```
+
 ```
 Belbin9 (2011-04-11 13:04:02)
 Well said
 ```
+
 Nf1andprek-whisper (2011-04-11 13:17:11)
 You have me intriqued to read the bible.. again... and soon.
 
@@ -22190,10 +23838,12 @@ Great post Wanda! Thank you for remdinding me that an interrruption could actual
 ```
 better than my own plans, ”a life beyond the confines of my own imagination”.
 ```
+
 ```
 a sojourner (2011-04-11 23:50:19)
 you surely were creative on this one! thse were Wonderful interruptions, weren’t they?:)e
 ```
+
 ```
 Lisa (2011-04-12 00:15:55)
 Wanda,
@@ -22202,15 +23852,18 @@ way!
 Grace be with you,
 Lisa
 ```
+
 ```
 Penned Pebbles (2011-04-12 00:16:27)
 Great I post! Interruptions can be irksome or inspiring. :-)
 ```
+
 ```
 Hold my hand: a social worker’s blog (2011-04-12 00:27:25)
 Definitely a thought-provoking post.
 Doris
 ```
+
 ```
 Gregg (2011-04-12 00:37:38)
 Excellent post! Great point or principle to think about.
@@ -22218,6 +23871,7 @@ Gregg Metcalf
 Colossians 1:28-29
 [1]Gospel-driven Disciples
 ```
+
 1. http://gospeldrivendisciples.blogspot.com/
 Angela Felsted (2011-04-12 12:47:54)
 I like your perspective!
@@ -22229,6 +23883,7 @@ Very interesting...
 Your wise words give cause to ponder...
 Thank you for the brain exercise.
 ```
+
 **J is for Juice (2011-04-13 00:04)**
 
 Nothing quite like cup of OJ in the morning. And for me there is only one particular brand of juice I
@@ -22245,6 +23900,7 @@ welcome to my world of poetry (2011-04-13 08:23:44)
 Love the way you put over the message. Wonderful.
 Yvonne.
 ```
+
 ```
 Joanne Sher (2011-04-13 13:42:58)
 Hehe - LOVE it.
@@ -22252,25 +23908,30 @@ Switching to another project helps sometimes. I’ve also found that a change of
 flowing. Switching to longhand, for instance. Ive even occasionally ”said” what I was wanting to write.
 Great question!
 ```
+
 ```
 Lorena G. Sims (2011-04-13 19:04:03)
 I love how you incorporate the two together. Great post!
 ```
+
 ```
 a sojourner (2011-04-14 01:27:13)
 hi sister:)
 OJ-original-high pulp!!!
 it’s pricey but we love it! i can’t get enough of it.
 ```
+
 ```
 Wanda (2011-04-15 01:02:55)
 Thanks Yvonne & Lorena. Joanne those are some good suggestions. I’ll have to give them a try when the juices are
 ebbing. Sojourner, no pulp for me ;)
 ```
+
 ```
 Mike (2011-04-16 08:51:29)
 Taking time out and giving my body rest always helps inspiration to start flowing again! Blessings :)
 ```
+
 **The Danger of Knowledge (2011-04-13 11:24)**
 
 1 Corinthians 8:1b Knowledge puffs up, but love builds up.
@@ -22286,25 +23947,30 @@ it. How are you using what you know? Does it make you feel superior to others or
 Joanne Sher (2011-04-13 12:48:01)
 SO true. When we trust in what we know, it can be a mess. But GOD’s love makes the biggest difference.
 ```
+
 ```
 Chelle (2011-04-13 13:09:27)
 Great post. Knowing is one thing, and important, but believing and living it out are totally different. :)
 ```
+
 ```
 Kim @ Stuff could... (2011-04-13 14:48:30)
 I love these thoughts of knowledge!
 ```
+
 ```
 Lisa (2011-04-13 15:15:04)
 This kind of goes along with what has been on my heart and mind lately. Am I confident in my strength, what I
 know, or am I confident in God’s strength? I don’t want to be puffed up - just filled up with God.
 ```
+
 ```
 Stefanie Brown (2011-04-13 15:40:27)
 What a great word this morning! The pictures sure enhances your thoughts.
 Here’s my submission for today:
 http://www.flickr.com/photos/upliftingwordsonline/5613581169/
 ```
+
 ```
 Wanda (2011-04-13 17:46:29)
 Stephanie, your submission is beautiful. Love the calming sea.
@@ -22312,28 +23978,34 @@ Lisa, I think we all have to stop an examine ourselves to see what we are really
 Thank you Kim.
 Oh so true, Chelle & Joanne!
 ```
+
 ```
 Susan (2011-04-13 17:57:38)
 Love this verse, and oh my, what an incredible picture!!
 Love it...
 Blessings?
 ```
+
 ```
 Lorena G. Sims (2011-04-13 18:56:05)
 Such a wonderful post. I’ll be thinking about it and reexamine myself.
 ```
+
 ```
 Prayer Partners Around the World (PPATW) (2011-04-13 19:34:12)
 we must not be just hearers but also doers of the WORD..
 ```
+
 ```
 Jerri (2011-04-13 20:46:26)
 Any truth comes from love, I believe.
 ```
+
 ```
 Judy (2011-04-13 21:14:51)
 Amen...as Paul wrote, the most important of these is love.
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-13 21:26:30)
 Without the knowledge AND wisdom which comes from above, we are likely to get tripped up on what we think we
@@ -22343,28 +24015,34 @@ smart and they withdraw from sharing what they know or engaging in conversation 
 that helps all who are involved.
 May we never get to smart for our own good.
 ```
+
 ```
 bettyl (2011-04-13 22:04:51)
 Amen!
 ```
+
 ```
 Alida (2011-04-13 23:31:39)
 Amen and Amen!
 ```
+
 ```
 Karen (2011-04-13 23:45:22)
 Oh, add an amen from me, too...and great graphic for this scripture...
 ```
+
 ```
 Ella (2011-04-14 01:42:57)
 Great point; I think sometimes we do get peacock proud. I recently had an encounter with a preening one. It made
 me ugly. She thought she was better; she isn’t. It just isn’t my time, yet... It is hard sometimes, but we must be
 respectful! @>—
 ```
+
 ```
 Cathy (2011-04-14 04:23:52)
 A neat WFW, thank you. Blessings
 ```
+
 **Left Behind (2011-04-14 05:00)**
 
 Death is not something I think about often. But I do place my hope in an eternal home with my Lord and
@@ -22490,15 +24168,18 @@ weekend.
 Ella (2011-04-16 02:22:08)
 I hope you do, too xXx
 ```
+
 ```
 Cre8tiv Glory (2011-04-16 03:59:58)
 I can really relate=)
 Gloria
 ```
+
 ```
 Kim @ Stuff could... (2011-04-16 14:35:52)
 How tough it is to be in meetings that long, hope it is over....
 ```
+
 ```
 Judy (2011-04-16 21:40:05)
 Thanks Wanda for sharing Meet Me in the Meadow. What an awesome blog. I pray God will enable you to rest and
@@ -22506,16 +24187,19 @@ regroup.
 Blessings,
 Judy
 ```
+
 ```
 Wanda (2011-04-17 01:29:43)
 I’ve yet to do an ”n” post Ellie. Hi Gloria, nice to meet you.
 Thanks Kim, yes they are over. Had a busy Saturday though. Hope you’re enjoying your weekend.
 Judy, I’m glad you enjoyed Meet Me in the Meadow.
 ```
+
 ```
 Joanne (2011-04-17 01:43:47)
 Thanks for the link. I will check it out. Blessings,Joanne
 ```
+
 **Could Never Really Be True? (2011-04-17 03:12)**
 
 I remember back in elementary school the teachers gave us a tip to help us identify the correct answer when
@@ -22541,22 +24225,27 @@ Food for thought here Wanda written in your own special way.
 Have a peaceful Sunday.
 Yvonne.
 ```
+
 ```
 Joanne Sher (2011-04-17 12:56:37)
 So true - thanks Wanda.
 ```
+
 ```
 Bernadine (2011-04-17 16:49:19)
 Love those two verses from Psalms Wanda. Thanks for sharing.
 ```
+
 ```
 Karen (2011-04-17 18:24:20)
 Great point! Only God can say never and always and mean it! Have a blessed week!
 ```
+
 ```
 Pam (2011-04-17 19:13:50)
 Thank you, Wanda, for the reassurance of absolute certainty in the midst of unreliable times.
 ```
+
 ```
 Sharon Kirby (2011-04-17 20:58:00)
 Yes, the absolutely holy and true promises of God’s always and never.
@@ -22565,14 +24254,17 @@ He will always be with us, even to the end of the age.
 Glorious truth - glorious love!
 GOD BLESS you on this wonder-full Palm Sunday!
 ```
+
 ```
 Lisa (2011-04-17 23:16:35)
 So thankful that God’s never and forever are true. What He says cannot be undone. Amen!
 ```
+
 ```
 Wanda (2011-04-18 02:43:41)
 Hope you each enjoyed a wonderful sabbath.
 ```
+
 ```
 LisaShaw (2011-04-18 12:49:30)
 On point Wanda.
@@ -22581,11 +24273,13 @@ twenties when I most had the I’ll never do this; I’d never do that attitude 
 even more things that was not GOD’s will for my life. This passage helped me greatly and still does.
 Love you!
 ```
+
 ```
 a sojourner (2011-04-18 18:20:57)
 hi Wanda, i too, use to say/use the word ”never” often and more often then not....ended up eating my words. like the
 way you use your wisdom in bringing His message to your readers:)
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-18 19:25:42)
 Amen! I wish more people would hold on to His forever promises than let temporary human fumbles bury them. I’m
@@ -22593,6 +24287,7 @@ thinking of a friend who just can’t seem to understand why her husband has dec
 of her life. I am praying that she comes to grip with the fact that there is nothing any person can do that will change
 who God is in our lives.
 ```
+
 **Opportunity Knocks (2011-04-18 05:01)**
 
 Did you wake up this morning? Are you able to read this post? (Guess so huh) With the rising of the day
@@ -22611,6 +24306,7 @@ overalls and looks a lot like work.-Thomas Alva Edison
 ”Four things come not back: The spoken word, The sped arrow, The past life, The neglected
 opportunity.”Arabian Proverb
 ```
+
 1. http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html
 2. http://wateredsoul.blogspot.com/2010/06/access-granted.html
 3. http://wateredsoul.blogspot.com/2010/06/access-granted.html
@@ -22620,11 +24316,13 @@ welcome to my world of poetry (2011-04-18 08:03:01)
 Oppourtinity is a wonderful thing, sad for those who miss them.
 Yvonne.
 ```
+
 ```
 welcome to my world of poetry (2011-04-18 08:28:29)
 Thanks for the comment Wanda,....well I had to incorporate Daniel somewhere in A to Z.
 Yvonne,
 ```
+
 ```
 LisaShaw (2011-04-18 12:41:29)
 Dearest Wanda,
@@ -22634,20 +24332,24 @@ You’re a blessing! Blessed Holy Week to you and your family.
 Much love,
 Lisa
 ```
+
 ```
 Joanne Sher (2011-04-18 17:35:52)
 Amen!!
 ```
+
 ```
 Lorena G. Sims (2011-04-18 18:01:25)
 God bless you Wanda! I love reading your post.
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-18 19:17:37)
 I think I’ll follow the teaching of an old faithful: Invest in the human soul. - Mary Bethune
 This is a good week to invest in the soul, in our soul and in the souls of others.
 This posting brought back to me my Saturday meditations (Luke 16:19-31). We need to LISTEN to the soul cries
 ```
+
 and help others while we have the OPPORTUNITY:
 27-28. ”The rich man said, ’Then let me ask you, Father: Send him to the house of my father where I have five
 brothers, so he can tell them the score and warn them so they won’t end up here in this place of torment.’
@@ -22710,6 +24412,7 @@ inexperienced the ropes and give our young people a grasp on reality. There’s 
 also for seasoned men and women, still a thing or two for the experienced to learn - Fresh wisdom
 to probe and penetrate, the rhymes and reasons of wise men and women. Start with God
 ```
+
 No matter our age there are some nuggets of truth to be pocketed from Proverbs.
 
 ```
@@ -22717,44 +24420,53 @@ Lisa (2011-04-19 18:41:29)
 The Word of God is full of wisdom for every area of life, isn’t it? So much wisdom in the book of Proverbs. I like how
 the Message puts it.
 ```
+
 ```
 a sojourner (2011-04-19 20:20:57)
 hi Wanda:)
 i love the wisdom in Proverbs as well. but!...i prefer reading chapters as a whole or the Psalms.
 this procrastinator still has another nine hours to complete his P post.
 ```
+
 ```
 welcome to my world of poetry (2011-04-19 21:30:05)
 An excellent choice for the letter P, written so well.
 Yvonne.
 ```
+
 ```
 Pam (2011-04-19 22:10:15)
 The book of Proverbs is so timeless in its wisdom. The older I get the more life confirms the truths found there.
 Thanks for the reminder.
 ```
+
 ```
 Karen (2011-04-19 22:34:11)
 We need WISDOM! Amen.
 ```
+
 ```
 BARBIE (2011-04-20 06:53:57)
 I love the book of Proverbs! I am so far behind on this challenge I gave up. Darn it anyways!
 ```
+
 ```
 Belbin9 (2011-04-20 12:33:53)
 Just started reading the Bible but Proverbs really is great, so much wisdom
 ```
+
 ```
 salarsen? (2011-04-20 12:34:13)
 Very beautiful. Thank you for sharing it. I just hopped over from the A-Z challenge. It’s wonderful to meet you.
 Following through GFC. :)
 ```
+
 ```
 Wanda (2011-04-20 12:51:53)
 Absolutely Lisa it’s filled with goodness. We need only read it and apply it to our lives.
 Sojourner, procrastination is an excellent p-word for a post. I have become a procrastinator myself.
 ```
+
 ```
 Yvonne thanks!
 Pam ditto for me.
@@ -22765,21 +24477,25 @@ Belbin9 congrats to you on taking a dive into the Word. I pray that your appetit
 more.
 Salarsen nice to meet a fellow challenger. I look forward to getting to know you.
 ```
+
 ```
 Maria Papadopoulou (2011-04-20 15:02:27)
 A proverb a day...keeps the doctor away.LOL1
 ```
+
 ```
 Maria Papadopoulou (2011-04-20 15:04:01)
 Oh, procrastination...that dear old friend who always knocks on our door.LOL. We just have to find a way to let him
 know he is not welcomed.
 ```
+
 ```
 nutschell (2011-04-20 18:42:32)
 proverbs would have to be my favorite part in the bible-right alongside songs and the new testament.
 nutschell
 www.thewritingnut.com
 ```
+
 ```
 LisaShaw (2011-04-21 15:07:06)
 Amen Wanda!
@@ -22789,12 +24505,14 @@ way so I agree with you!
 Book of Proverbs holds great wisdom for all of us no matter what stage in our Christian lives.
 Blessings and love to you!!
 ```
+
 **Questions (2011-04-21 02:57)**
 
 ```
 [1]questions
 Image Courtesy of [2]Fotopedia
 ```
+
 Kids are some of the most curious creatures around. Their incessant questioning of why or whats that can
 become a nuisance after about the 1000th(of course its never really that many times it just seems that way)
 time of answering such questions. Because they havent lived long enough to develop inhibitions, they quickly
@@ -22821,24 +24539,29 @@ what you want is that you don’t ask God for it. James 4:2 NLT
 BLUEBUTTERFLY (2011-04-21 13:09:21)
 Ask! Believe! Endure! Blessings to you, Wanda.
 ```
+
 ```
 Wanda (2011-04-21 17:28:45)
 Thanks Blue!
 ```
+
 ```
 Bob Sanchez (2011-04-21 17:35:32)
 Hi,
 I’m stopping by on the A-Z Challenge.
 ```
+
 ```
 B. Niles (2011-04-22 04:26:06)
 So true Wanda.
 ```
+
 ```
 Elizabeth West (2011-04-23 16:14:57)
 I did ask...and I’m still waiting. I’m not going to get any more patient than I am right now!
 :)
 ```
+
 **He Already Paid the Price (2011-04-21 17:56)**
 
 Any day is perfect day to reflect upon Gods redemption plan but as we prepare to remember the burial and
@@ -22872,19 +24595,23 @@ Susie Swanson (2011-04-21 18:33:42)
 Thank you Wanda for your nice comments and for your visit to my blog. I love your blog. It is so refreshing and I
 agree, I could never repay the price. Susie Swanson
 ```
+
 ```
 Lorena G. Sims (2011-04-21 19:42:40)
 He indeed already paid the price for our sins!
 ```
+
 ```
 Joanne Sher (2011-04-21 21:10:30)
 Fantabulous thoughts, Wanda. Redemption is amazing to think abou.
 ```
+
 ```
 welcome to my world of poetry (2011-04-21 21:11:59)
 Well said Wanda ,
 Yvonne.
 ```
+
 ```
 a sojourner (2011-04-21 21:30:09)
 hi Wanda:)
@@ -22893,10 +24620,12 @@ understand and i hadn’t given it much thought, really. it had gotten glossed o
 that i know i will never know the depth or the richness of His Word until someday....:)
 think i will listen to that sermon again. thank you for the reminder!
 ```
+
 ```
 kmckendry (2011-04-21 22:42:32)
 May you have a Happy Easter. Nice post.
 ```
+
 ```
 Crystal Mary (2011-04-22 02:01:30)
 Ahh Yes, He did it all for us..
@@ -22905,6 +24634,7 @@ Like the old song says,
 ”What can wash away my sins, nothing but the blood of Jesus.”
 God Bless you sister..
 ```
+
 ```
 Wanda (2011-04-22 02:02:26)
 Thank you Susie!
@@ -22914,6 +24644,7 @@ Thanks Yvonne.
 Sojourner we are forever learning more about Him.
 Kmckendry, thanks. Hope you & yours enjoy a wonderful Resurrection Day.
 ```
+
 ```
 B. Niles (2011-04-22 04:30:46)
 Thank you Jesus! I think of the words of an old chorus, ”When I think of the goodness of Jesus, and what he has
@@ -22921,15 +24652,18 @@ done for me, my soul cries out, Hallelujah! Thank God for saving me.”
 Thanks for your thoughtful post, Wanda.
 Beverly
 ```
+
 ```
 Just Be Real (2011-04-22 09:41:43)
 Amen and hallelujah! Blessings to you at this time Wanda.
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-22 15:42:04)
 Wanda, I cannot describe how thankful I am for His grace. There are no words. All I can do is serve Him until.
 Blessings as we celebrate Good Friday!
 ```
+
 **The Savior (2011-04-22 17:49)**
 
 [1] Photo by [2]Heartlight
@@ -22954,47 +24688,57 @@ Wishing you a blessed Easter celebration!
 Kim @ Stuff could... (2011-04-22 18:08:59)
 Yes we are so thankful for today and 3 days later!
 ```
+
 ```
 welcome to my world of poetry (2011-04-22 19:24:52)
 Beautiful words Wanda, yes, we have much to be thankful for in our lives but none so great than Good Friday and
 Easter Day.
 Yvonne.
 ```
+
 ```
 wisdomvirtueandrubies (2011-04-22 21:11:24)
 This is beautiful, Wanda. I hope you have a blessed Resurrection Day!
 ```
+
 ```
 wisdomvirtueandrubies (2011-04-22 21:11:25)
 This is beautiful, Wanda. I hope you have a blessed Resurrection Day!
 ```
+
 ```
 Maria Papadopoulou (2011-04-22 22:25:37)
 Beautiful words,beautuful pace, strong messages...
 ```
+
 ```
 septembermom (2011-04-22 23:53:16)
 So very beautiful and moving! A powerful message for us all.
 Wishing you a blessed and Happy Easter!
 ```
+
 ```
 Lisa (2011-04-23 00:08:45)
 Thank you for the cross, Lord!
 ```
+
 ```
 Pam (2011-04-23 01:43:26)
 I praise God with you, Wanda, for this awesome, love-filled day.
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-23 12:02:58)
 Amen! Easter blessings, Wanda.
 ```
+
 ```
 Hold my hand: a social worker’s blog (2011-04-23 12:49:41)
 Beautiful words, Wanda.
 Have a blessed and happy Easter.
 Doris
 ```
+
 **Thankful for Today (2011-04-23 13:59)**
 
 [1]Thankful for today because [2]tomorrow is never promised to any of us.
@@ -23029,14 +24773,17 @@ Lisa (2011-04-23 15:06:10)
 I love that - thankful for today because we aren’t promised tomorrow. Often we focus more on the tomorrows than
 the todays. I want to praise God for what I have today!
 ```
+
 ```
 Kim @ Stuff could... (2011-04-23 15:09:41)
 Thankful is the bestest attitude
 ```
+
 ```
 Lorena G. Sims (2011-04-23 16:27:15)
 and Thank you for posting that.
 ```
+
 ```
 Sharon Kirby (2011-04-23 19:33:54)
 I am also thankful for you, Wanda. For consistently watering my soul!
@@ -23044,38 +24791,46 @@ Have a wonder-full Easter morning!
 He is risen - He is risen indeed!
 GOD BLESS!
 ```
+
 ```
 wisdomvirtueandrubies (2011-04-23 21:14:27)
 ”Thank you for keeping me when I was sure it was the end.” Thank You Lord, indeed! Have a blessed Resurrection
 Day, Wanda!
 ```
+
 ```
 welcome to my world of poetry (2011-04-23 22:26:18)
 How true those words are.Wanda.
 Yvonne.
 ```
+
 ```
 Tracy Jo (2011-04-24 00:44:29)
 Love this. Such a beautiful post!
 Tracy
 www.evolvingsoul11.com
 ```
+
 ```
 Joanne Sher (2011-04-24 01:44:21)
 Just beautiful, Wanda. You made me choke up. Thank you for YOU.
 ```
+
 ```
 Ella (2011-04-24 04:18:15)
 I love this post; I am thankful I found you and for your friendship!
 ```
+
 ```
 Missie (2011-04-25 00:25:14)
 Amen! You are truly blessed!
 ```
+
 ```
 Bernadine (2011-04-25 04:00:49)
 Beautiful words Wanda, thank you for sharing.
 ```
+
 **Unless (2011-04-25 11:59)**
 
 Confession is good for the soul isnt it? Well I have a bit of confession today. I have always been the shy,
@@ -23103,34 +24858,41 @@ Enjoy your U word posy.
 Many thanks for you lovely comment.
 Yvonne.
 ```
+
 ```
 Joanne Sher (2011-04-25 14:39:18)
 Great word for ”u” - we ALL have unlesses. Great reminder.
 ```
+
 ```
 BLUEBUTTERFLY (2011-04-25 16:03:46)
 What can I say, Wanda, except, ”I confess”.
 ```
+
 ```
 septembermom (2011-04-25 17:20:30)
 Wanda, this is a very thought provoking post for reflection. It’s very true that many of us hold back consciously and
 unconsciously by putting restrictions are being ourselves or being truly free.
 I need to believe in me more without putting those kind of conditions on it. Thanks so much for this post!
 ```
+
 ```
 a sojourner (2011-04-25 19:43:04)
 Perfect scripture used:)
 ```
+
 ```
 Missie (2011-04-25 20:42:00)
 I can totally relate.
 ```
+
 ```
 Fifi Flowers (2011-04-25 21:30:18)
 Unless I looked through old emails... I would not be visit YOU today!
 ENJOY!
 Fifi
 ```
+
 wisdomvirtueandrubies (2011-04-25 21:59:10)
 I used to be the same way, Wanda, and I still have a ways to go. I never looked at it this way, though. This was a
 very good post.
@@ -23190,6 +24952,7 @@ love Him.
 That scripture spoke volumes.
 Thank you, Wanda.
 ```
+
 **Value in the Valley (2011-04-26 17:37)**
 
 ```
@@ -23197,6 +24960,7 @@ Thank you, Wanda.
 © Copyright [2]Keith Havercroft and licensed for reuse under this
 [3]Creative Commons License
 ```
+
 Several years ago I read a book by Iyanla Vanzant entitled The Value in the Valley. Couldnt put my hands
 on the book today but as I thought about todays letter V valley was one of the words that stuck out in my
 mind.
@@ -23224,32 +24988,39 @@ of walking through them. I think that the Light shines brightest when the darkne
 Hope you had a wonderful Easter, and thank you for sharing this very encouraging post.
 GOD BLESS!
 ```
+
 ```
 Missie (2011-04-26 20:44:27)
 So agreed!
 ```
+
 ```
 welcome to my world of poetry (2011-04-26 21:23:10)
 I’m caught in a valley at present, and am trying to get my head around it.
 Loved your post.
 Yvonne.
 ```
+
 ```
 Joanne Sher (2011-04-26 21:52:35)
 We grow more in the valley - and get closer to God - than at any other time. Thanks for the reminder, Wanda.
 ```
+
 ```
 Kim @ Stuff could... (2011-04-26 22:10:10)
 Yes we do not want to stay in the Valley. We are not alone there!
 ```
+
 ```
 Nf1andprek-whisper (2011-04-27 00:33:43)
 I have been reading psalms.. all this.. week what an appropriate post.
 ```
+
 ```
 Pam (2011-04-27 12:46:57)
 Good stuff here, Wanda! Very meaty spiritually! Thanks for posting!
 ```
+
 ```
 lioneagle (2011-04-27 12:50:59)
 Hi Wanda -
@@ -23258,6 +25029,7 @@ And the scripture that you used
 is perfect for this post.
 Thank you, dear lady of GOD.
 ```
+
 ```
 Monti (2011-04-27 14:05:51)
 What lovely insights about the valleys of life. I love the 23rd psalm!
@@ -23265,6 +25037,7 @@ Thanks for stopping by my blog in A to Z.
 Monti
 [1]NotesAlongTheWay
 ```
+
 1. http://marymontaguesikes.blogspot.com/
 Elizabeth West (2011-04-28 01:48:42)
 Thanks, Wanda, I needed that.
@@ -23282,6 +25055,7 @@ A truly wise person uses few words; a person with understanding is even-tempered
 Kim @ Stuff could... (2011-04-27 14:45:50)
 This is a good reason to be quiet!
 ```
+
 Lisa (2011-04-27 15:42:46)
 Wow! Ok, I will stop talking.
 
@@ -23385,6 +25159,7 @@ Have a blessed day!
 Karen (2011-08-17 13:05:20)
 Talking seems to be how I get myself into trouble, sometimes! Great WORD for today!
 ```
+
 **Xed Out (2011-04-29 00:29)**
 
 Thinking about the letter x brings to mind those dreaded red marks teachers would place all over your papers
@@ -23403,6 +25178,7 @@ Pam (2011-04-29 01:05:29)
 All I can say is Amen, Wanda, Amen!
 [1]Pam Williams
 ```
+
 1. http://encouragementforchristianwriters.blogspot.com/
 Joanne Sher (2011-04-29 01:06:12)
 Great thoughts, Wanda. When I used to correct papers in my ”former life” as a teacher, I actually enjoyed using
@@ -23412,39 +25188,47 @@ purple. But the red blood is the only thing that really crosses them out, isn’
 Lisa (2011-04-29 01:37:41)
 Amen! Thank you for the cross, Lord!
 ```
+
 ```
 Ella (2011-04-29 02:38:11)
 Well said! Love that cross out our sins
 ```
+
 ```
 welcome to my world of poetry (2011-04-29 08:04:37)
 I am in total agreement in what you write Wanda.
 Yvonne.
 ```
+
 ```
 Missie (2011-04-29 12:48:25)
 I get so down on myself because of lots of old xs...and forget to remember that my xs were erased. Grace is so hard
 to believe sometimes, so we keep ourselves in these chains instead of letting ourselves free of the xs.
 great post!
 ```
+
 ```
 Lucy Adams (2011-04-29 13:45:01)
 I was sensitive to those red Xs, too, in school.
 Lucy
 ```
+
 ```
 Donna Weaver (2011-04-29 18:47:22)
 And life’s all about learning. Those Xs, as tough as they are, teach us. We learn some of our greatest life lessons from
 the mistakes we make. Not that I’m into making mistakes just for the sake of the learning though. =D
 ```
+
 ```
 And yay for redemption and the one who made it possible.
 ```
+
 ```
 Sharon - Grandma is a Writer (2011-04-29 19:34:56)
 This is an awesome comparison and one I have never thought about. So thankful that He did that for me. You really
 expressed this concept well.
 ```
+
 ```
 Sharon (2011-04-30 01:11:10)
 Wonderful, Wanda!
@@ -23453,12 +25237,14 @@ represented ”loser.”
 But no - on a cross, my sins got x-ed out! Now, I’m proud to be a ”loser” - for if I lose my life for Christ, I will find it!
 GOD BLESS!
 ```
+
 ```
 Judy (2011-04-30 01:57:18)
 Hi Wanda,
 Amen to that!
 Judy
 ```
+
 **Still Say Yes (2011-04-30 03:04)**
 
 After all the heartache and tears
@@ -23484,28 +25270,34 @@ is spoken by us to the glory of God. 2 Corinthians 1:20 NIV
 Lisa (2011-04-30 03:14:23)
 Amen! I still say yes too.
 ```
+
 ```
 a sojourner (2011-04-30 03:38:48)
 amen sister, Wanda!!! :)
 ```
+
 ```
 welcome to my world of poetry (2011-04-30 07:59:22)
 Amen to that Wanda.
 I would like to thank you for your support throughout the A to Z Challenge.
 Yvonne.
 ```
+
 ```
 Missie (2011-04-30 13:33:01)
 Amen! Yes it a great Y!
 ```
+
 ```
 Joanne Sher (2011-04-30 13:34:43)
 Amen and Amen! Great post for Y - and anything ;)
 ```
+
 ```
 Wanda (2011-04-30 18:19:31)
 A yes to Him is the best answer we could ever give. Isn’t it? Thanks for sharing your thoughts. Blessings
 ```
+
 **Z is for Zip (2011-04-30 14:37)**
 
 The month of April and the A-Z challenge is zipping to a close. It has been quite a challenge indeed. And
@@ -23519,14 +25311,17 @@ Ecclesiastes 7:8 Endings are better than beginnings. Sticking to it is better th
 Joanne Sher (2011-04-30 14:57:58)
 You did GREAT, Wanda. Enjoyed reading through your posts for this challenge.
 ```
+
 ```
 Missie (2011-04-30 17:46:13)
 Congrats on your A to Z end!
 ```
+
 ```
 Elizabeth Mueller (2011-04-30 18:24:56)
 Wanda, we did it! Congratulations! I have an [1]award for you!!
 ```
+
 1. http://elizabethmueller.blogspot.com/2011/04/z-is-for.html
 Donna Weaver (2011-04-30 19:28:25)
 Congrats on finished. Good feeling, isn’t it?
@@ -23535,6 +25330,7 @@ Congrats on finished. Good feeling, isn’t it?
 Dawn M. Hamsher (2011-04-30 19:40:27)
 Wanda, So glad I got to meet you through A to Z. I’ll come visit soon.
 ```
+
 ```
 Judy (2011-04-30 20:43:21)
 Hi Wanda,
@@ -23545,11 +25341,13 @@ Camera Gear at the top of my blog to the right. There, you’ll see photos and a
 Blessings,
 Judy
 ```
+
 ```
 Penned Pebbles (2011-05-01 01:57:38)
 Congratulations on finishing the A-Z challenge! It was nice to meet you. I’m ready for a break, but will be back soon.
 Blessings!
 ```
+
 Pam (2011-05-01 09:24:31)
 Wanda, I visited your blog every day of the challenge simply because I didn’t want to miss any of your wonderful
 nuggets of truth. I will definitely keep you bookmarked so I can return in the future for more God-inspired wisdom.
@@ -23607,17 +25405,20 @@ Happy Word-Filled Wednesday
 Chelle (2011-05-04 06:18:50)
 Beautiful post! Amen and amen again!!!!
 ```
+
 ```
 Deb (2011-05-04 06:27:24)
 I love this verse and the background picture!!! Praise HIS name for His unfailing love...and that His mercies are new
 each morning!!! HOPE you have a blessed day!
 ```
+
 ```
 Twinkle Mom (2011-05-04 07:02:14)
 Very beautiful blog and the image for Psalm 90:14, really captured the first breath of the new morning that our Father
 in Heaven, blesses us with...wonderful wonderful!! Thank you so much for your sweet comment and giving me the
 opportunity to discover a beautiful new site to visit!
 ```
+
 ozjane (2011-05-04 07:56:53)
 It is so special to start the day off with at least some portion of God’s word.
 
@@ -23670,6 +25471,7 @@ Yvonne,
 Alida (2011-05-04 17:19:26)
 Amen! Beautiful post again... thank you!
 ```
+
 ```
 Pauline (2011-05-05 15:17:38)
 An inspiring post, Wanda.
@@ -23677,14 +25479,17 @@ Thanks for stopping by, it’s much appreciated :o)
 God bless you.
 Hugs
 ```
+
 ```
 BARBIE (2011-05-05 20:13:19)
 This is beautiful. He is the only one who can satisfy my thirsty soul.
 ```
+
 ```
 Kim @ Stuff could... (2011-05-06 08:17:15)
 Amen!
 ```
+
 ```
 lioneagle (2011-05-12 06:18:27)
 Hi Wanda -
@@ -23692,10 +25497,12 @@ Great reminder. It is so helpful to me at this moment in my day.
 Thank you, lady of GOD for posting this rich message.
 THANK YOU, LORD, FOR LEADING ME HERE THIS A.M.
 ```
+
 ```
 Faith Imagined (2011-05-15 07:29:15)
 Love the graphic and verse!
 ```
+
 **In Tha Muthahood (2011-05-06 12:21)**
 
 Thought I would share a laugh in tribute to all the mothers.
@@ -23704,6 +25511,7 @@ Thought I would share a laugh in tribute to all the mothers.
 Missie (2011-05-06 12:37:17)
 Love it!
 ```
+
 ```
 welcome to my world of poetry (2011-05-06 12:57:36)
 Most enjoyable to watch,
@@ -23711,23 +25519,28 @@ Here in the UK we celebrate Mothers Day in March/April ,
 But happy Mothers Day to all in the US.
 Yvonne.
 ```
+
 ```
 Karen (2011-05-06 13:05:02)
 Good one! As an empty-nester, I kinda miss that mountain of clothes in the laundry room -NOT!
 ```
+
 ```
 Kim @ Stuff could... (2011-05-06 14:16:33)
 I see others saw the video but it will not play for me? Access denied...Maybe just me
 ```
+
 ```
 Shirley (2011-05-06 16:11:17)
 We have a young moms class at my church. I have printed out the words and included them in this week’s announce-
 ments. Now trying to get them to put the video up on the screen too. Words are listed on this web page:
 http://www.squidoo.com/anita-renfroe-lyrics-in-the-muthahood
 ```
+
 ```
 Thanks for the laugh, Shirley
 ```
+
 ```
 Shirley (2011-05-06 16:13:40)
 We have a young moms class at my church. I have printed out the words and included them in this week’s announce-
@@ -23735,6 +25548,7 @@ ments. Now trying to get them to put the video up on the screen too. Words are l
 [1]In Tha Muthahood by Anita Renfrow
 Thanks for the laugh, Shirley
 ```
+
 1. http://www.squidoo.com/anita-renfroe-lyrics-in-the-muthahood
 Wanda (2011-05-06 19:08:54)
 I’m not sure what happened Kim but the direct link to the video is [1]here
@@ -23750,23 +25564,28 @@ LOVED IT!!
 Sometimes, some things - only another mother understands.
 GOD BLESS!
 ```
+
 ```
 Bernadine (2011-05-07 22:54:58)
 Gasp... you mean motherhood is not as easy as it looks on TV? :) Thanks for the laugh.
 ```
+
 ```
 Amydeanne (2011-05-07 23:30:30)
 i’m craking up! that’s hilarious! i’ve got share it too! thanks for posting it!
 ```
+
 ```
 Ella (2011-05-09 02:34:09)
 Thanks Wanda, for sharing! I couldn’t watch it before! Glad I came back and now see the reality I loved the apple
 jeans...funny! xXx
 ```
+
 ```
 Faith Imagined (2011-05-15 13:28:07)
 This is hilarious! I’ve seen a couple of her videos and it always brings me to tears from laughing so hard!
 ```
+
 **Promises to Keep (2011-05-09 07:39)**
 
 Who hasnt made a promise that they intended to keep?
@@ -23804,52 +25623,63 @@ media&mod=Media+Manager&mid=8E7ADACE794A4BDC91C037C7C03EB903&tier=3&rid=D89C14D3
 Kim @ Stuff could... (2011-05-09 09:26:35)
 What a great review, sounds like an interesting book
 ```
+
 ```
 Nf1andprek-whisper (2011-05-09 09:56:48)
 I would read this.. is this in stores?
 ```
+
 ```
 welcome to my world of poetry (2011-05-09 10:03:00)
 A great review Wanda, will pop over later, all behind to day commenting.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2011-05-09 10:44:56)
 Wanda, thanks for the review. I’ve certainly being at that ”when we let go” junction several times in my life, and I
 have found that it is much better to just let go.
 ```
+
 ```
 Wanda (2011-05-10 06:02:51)
 Thanks, I sure enjoyed reading the book. It was released in Feb so it should be available in bookstores or at Amazon.
 ```
+
 ```
 Missie (2011-05-10 18:23:27)
 sounds good!
 ```
+
 ```
 Ella (2011-05-10 19:23:59)
 Thanks Wanda for sharing; sounds like a lot of subjects. Wow, dreams weighing us down...think that is me and the
 Culinary dream. xXx
 ```
+
 ```
 Sharon (2011-05-11 17:50:56)
 Great review - and such truth. Yes, letting go of our dreams to the Lord, knowing that His Wisdom is the only true
 freedom - that’s what I want to do.
 GOD BLESS!
 ```
+
 ```
 Beth in NC (2011-05-12 09:42:29)
 Sounds interesting Wanda!
 I just came over to check on you. Have a blessed day!
 ```
+
 ```
 Faith Imagined (2011-05-15 07:28:52)
 Great review!
 ```
+
 ```
 Bernadine (2011-05-15 16:10:06)
 Great review. I love reading good fiction books.
 ```
+
 **Promises to Keep (2011-05-09 13:39)**
 
 Who hasnt made a promise that they intended to keep?
@@ -23893,6 +25723,7 @@ service for web traffic and backlinks in the world!!!! Your post will be publish
 your website will get insatnt traffic and massive increase in seo rankings just after few days or weeks. Order now:
 [1]backlinks service
 ```
+
 1. http://xrumerservice.org/
 Kim @ Stuff could... (2011-05-09 15:26:35)
 What a great review, sounds like an interesting book
@@ -23901,48 +25732,58 @@ What a great review, sounds like an interesting book
 Nf1andprek-whisper (2011-05-09 15:56:48)
 I would read this.. is this in stores?
 ```
+
 ```
 welcome to my world of poetry (2011-05-09 16:03:00)
 A great review Wanda, will pop over later, all behind to day commenting.
 Yvonne.
 ```
+
 ```
 BLUEBUTTERFLY (2011-05-09 16:44:56)
 Wanda, thanks for the review. I’ve certainly being at that ”when we let go” junction several times in my life, and I
 have found that it is much better to just let go.
 ```
+
 ```
 Wanda (2011-05-10 12:02:51)
 Thanks, I sure enjoyed reading the book. It was released in Feb so it should be available in bookstores or at Amazon.
 ```
+
 ```
 Missie (2011-05-11 00:23:27)
 sounds good!
 ```
+
 ```
 Ella (2011-05-11 01:23:59)
 Thanks Wanda for sharing; sounds like a lot of subjects. Wow, dreams weighing us down...think that is me and the
 Culinary dream. xXx
 ```
+
 ```
 Sharon (2011-05-11 23:50:56)
 Great review - and such truth. Yes, letting go of our dreams to the Lord, knowing that His Wisdom is the only true
 freedom - that’s what I want to do.
 GOD BLESS!
 ```
+
 ```
 Beth in NC (2011-05-12 15:42:29)
 Sounds interesting Wanda!
 I just came over to check on you. Have a blessed day!
 ```
+
 ```
 Faith Imagined (2011-05-15 13:28:52)
 Great review!
 ```
+
 ```
 Bernadine (2011-05-15 22:10:06)
 Great review. I love reading good fiction books.
 ```
+
 **Got Ta Get Ma Groove Back (2011-05-16 06:40)**
 
 Whew, I cant believe a whole week has past without me writing here. The hiatus was unplanned but needed.
@@ -23954,11 +25795,13 @@ forward to catching up with you in blogland real soon. Blessings to you.
 Joanne Sher (2011-05-16 06:51:05)
 Definitely missed you - praying for ya - and glad you’re back!
 ```
+
 ```
 Pam (2011-05-16 07:06:00)
 Missed you and your nuggets of truth about Jesus, Wanda. So glad you are back.
 [1]Pam Williams
 ```
+
 1. http://encouragementforchristianwriters.blogspot.com/
 Missie (2011-05-16 07:34:05)
 Welcome back! You were missed!
@@ -23968,29 +25811,35 @@ BLUEBUTTERFLY (2011-05-16 16:38:31)
 Having God in our lives is like being in the Conga, you can take a break and get right back in without missing a beat.
 Sometimes a girl’s got to sit on the sidelines and tap her toes to the beat...you’re still in rhythm, even if out of sight.
 ```
+
 ```
 wisdomvirtueandrubies (2011-05-16 17:09:00)
 Although I’m sure we’ve all missed you, too, I realize that very often an unplanned hiatus is the best kind. I’m sure
 you’ll be back in the swing of things very soon!
 ```
+
 ```
 Karen (2011-05-16 19:06:04)
 Glad you’re back! Thanks for dropping by.
 ```
+
 ```
 Tracy Jo (2011-05-16 20:14:46)
 Welcome back! Sending you positive groove vibes....
 ```
+
 ```
 Wanda (2011-05-17 05:14:30)
 Ahh, thanks guys you make a girl feel special.
 ```
+
 ```
 Jiu Jitsu Los Angeles (2011-05-25 15:37:27)
 Girl, I think everyone lost a little of their groove this past few months. I blame the weather- it’s put everyone in a
 funk! Good luck on coming back into things; just remember to stay positive and it will come to you!
 Sara
 ```
+
 **Mission Complete? (2011-05-17 11:12)**
 
 There is nothing quite like the feeling of seeing ones task complete. However, as I read passages of scripture
@@ -24002,6 +25851,7 @@ Saul was given specific instructions on how to complete his God-given mission.
 Now go and completely destroy the entire Amalekite nation-men, women, children, babies,
 cattle, sheep, goats, camels, and donkeys. I Samuel 15:3
 ```
+
 And he got busy doing the assignment.
 
 ```
@@ -24011,6 +25861,7 @@ completely destroyed everyone else. Saul and his men spared Agags life and kept
 sheep and goats, the cattle, the fat claves, and the lambs-everything, in fact, that appealed to
 them. They destroyed only what was worthless or of poor quality.
 ```
+
 Saul and the people were pleased with his work but God was not.
 
 ```
@@ -24018,6 +25869,7 @@ vs. 20 But I did obey the Lord, Saul insisted. I carried out the mission he gave
 back King Agag, but I destroyed everyone else. Then my troops brought in the best of the sheep,
 goats, cattle, and plunder to sacrifice to the Lord your God in Gilgal.
 ```
+
 Could there be some places in our lives that we self-righteously assume we have completed the assignment
 God gave us but if we stop to examine the original instructions, we would find that we veered off course?
 It doesnt matter how many people are singing our praise because we look successful on the outside. If we
@@ -24087,20 +25939,24 @@ Missie & Lisa, oh me too.
 Sara, yes the reminds come in many forms but of course its best to pay attention the first time.
 Lol, Sharon, I’m trying to find it again.
 ```
+
 ```
 Susan (2011-05-18 05:47:12)
 Thanks for stopping by my blog. I enjoyed this - what we often forget is when we fail to complete the task God has
 for us, others losse out too - not just us. Thank you for your insight into this scripture!
 ```
+
 ```
 einujackie (2011-05-18 08:09:37)
 You got it Wanda... it is very true to me.... I am so guilty about it...
 ```
+
 ```
 Wanda (2011-05-18 12:44:08)
 Susan, excellent point. It’s not just about us.
 Jackie, I think we all have been guilty of it at some point.
 ```
+
 **The Night is Coming (2011-05-18 06:33)**
 
 [1]
@@ -24121,41 +25977,50 @@ Are you using the time wisely? Night is coming you know.
 Marta Benic· (2011-05-18 06:49:30)
 Adorei o post!! Um abraÁo, Marta.
 ```
+
 ```
 Angela Felsted (2011-05-18 07:34:44)
 Maybe I should spend less time blogging and more time writing my MS.
 ```
+
 ```
 Cherie (2011-05-18 07:36:06)
 Absolutely beautiful photo. What a great reminder to make every day count for His glory!
 ```
+
 ```
 ozjane (2011-05-18 07:52:56)
 So very true.
 ```
+
 ```
 Missie (2011-05-18 09:08:13)
 I don’t know how many times I must have read over this verse and not grasped it....thank you for bringing it to a new
 light
 ```
+
 ```
 Joanne Sher (2011-05-18 10:02:43)
 Need the reminder absolutely. And a beautiful picture too. Happy WFW
 ```
+
 ```
 Ginger (2011-05-18 10:34:16)
 Oh my goodness, I love the look and the pic. Just beautiful.
 ```
+
 ```
 Lisa (2011-05-18 10:35:18)
 Great reminder!
 ```
+
 ```
 Dorie (2011-05-18 11:53:23)
 Yes, our time on earth is finite, and I pray and hope I use my time wisely, but there are days when I know I could
 have chosen better. Thankfully, each morning I am reminded of His mercy and grace to begin again - Thank you,
 Lord! Wanda, your post is a wonderful reminder of the coming night. Gorgeous photograph, too!
 ```
+
 ```
 Stefanie Brown (2011-05-18 12:06:56)
 I sure feel the immediacy of the moment. I just believe the Lord’s return is at hand. May he find us loving, serving,
@@ -24163,11 +26028,13 @@ worshiping and winning souls upon His return.
 Thank you for this word!
 Happy WFW!
 ```
+
 ```
 Susan (2011-05-18 13:40:39)
 Oh I pray I am and I’m always thinking about it for sure...
 Have a blessed day!
 ```
+
 welcome to my world of poetry (2011-05-18 14:36:40)
 A wonderful post and picture was awesome.
 Yvonne.
@@ -24276,23 +26143,28 @@ latest blog posts. Enjoy!
 Blessings,
 Judy
 ```
+
 ```
 Susie Swanson (2011-05-23 17:42:44)
 Thank you for posting this. We all need a reminder sometimes. Great photo as well... Susie
 ```
+
 ```
 Susie Swanson (2011-05-23 18:36:28)
 I just wanted to pop back over and thank you for the nice comments on my post. I cherish them and May God cotinue
 to bless.. Susie
 ```
+
 ```
 jackie (2011-05-23 18:38:31)
 thanks for the reminders...
 ```
+
 ```
 Shanda (2011-05-23 23:35:33)
 It is scary to think how much time I waste. Thank you for the reminder.
 ```
+
 **He Makes it Possible (2011-05-26 02:52)**
 
 Give me an eagerness for your laws rather than a love for money!
@@ -24311,10 +26183,12 @@ Him that gives the desire and the ability to do His will.
 Joanne Sher (2011-05-26 13:38:45)
 Amen. SO glad He is there for us. Thanks for this wonderful reminder, Wanda!
 ```
+
 ```
 Missie (2011-05-26 16:04:57)
 So am there...a lot actually. thank you for your honesty and sharing this verse.
 ```
+
 ```
 BLUEBUTTERFLY (2011-05-26 17:24:34)
 Thank you, Wanda, for covering a verse from Psalm 119 today. I study through Psalm 119 at least twice each year
@@ -24322,10 +26196,12 @@ and it never fails to accomplish a work in me.
 Thank you, also, for commenting on my blog. For some reason I am unable to make a comment on my own blog.
 Blessings to you, I plan to recruit you into Starbucks land soon.
 ```
+
 ```
 Kim @ Stuff could... (2011-05-26 18:28:43)
 Amen, this is a great lesson. We all have shortcomings but He can handle it.
 ```
+
 ```
 Beth in NC (2011-05-27 21:23:35)
 He is a good and loving Father!
@@ -24333,6 +26209,7 @@ Thank you for the reminder Wanda.
 Bless you!
 Beth
 ```
+
 ```
 Dawn M. Hamsher (2011-05-28 02:27:59)
 Yeah, I’m feeling it right now. Mine is my selfish nature and wanting to do what I want, rather than seeking what He
@@ -24340,6 +26217,7 @@ wants.
 Thanks for posting this. Blessings!
 [1]The Write Soil
 ```
+
 1. http://thewritesoil.blogspot.com/
 Sharon (2011-05-28 03:05:57)
 I totally get this one. And yes, it’s hard when my actions don’t line up with my desires. It’s even harder when I not
@@ -24381,6 +26259,7 @@ that the Father will give you whatever you ask for, using my name.
 Joanne Sher (2011-05-28 12:49:57)
 Oh yes. And that is even more amazing. That He would choose me.
 ```
+
 ```
 Toia (2011-05-30 00:47:05)
 Love it!! Well, just from reading this post, along with all the other ones that was an inspiration to my spirit, I think
@@ -24388,34 +26267,41 @@ Jesus made the right choice by choosing you.
 Blessings to you!!
 Keep doing what you are doing!!
 ```
+
 ```
 Wanda (2011-05-30 02:30:03)
 I know, it’s unbelievable when you think about it, Joanne.
 Toia, what a lovely dose of encouragement. Thanks!
 ```
+
 ```
 Carole in the Faith Lounge (2011-05-30 02:50:07)
 Aww! (Deep sigh with a broad smile looking upwards) - .....”and thank you Jesus for choosing me”.
 Great Post Wanda :)
 ```
+
 ```
 Marcia (One Heart) (2011-05-30 23:33:32)
 Yes indeed. SO thankful that He did and that you surrendered to His pursuit making it the perfect love story.
 Thank you for stopping by, Wanda. It was good to see your name pop up. Blessings!
 ```
+
 ```
 Bernadine (2011-05-31 02:49:04)
 Wanda, I love this. I am so grateful that he chose me.
 Thanks for sharing.
 ```
+
 ```
 BARBIE (2011-06-05 06:41:09)
 I love that He choose me! Such love!
 ```
+
 ```
 Mike (2011-06-13 18:14:17)
 I like this :) Our choices have consequences but the choice He made for me is the most important one!!
 ```
+
 **Pondering the Path (2011-05-30 14:10)**
 
 What trodden [1]track are you trekking upon at this time in your life? What course of action or conduct is
@@ -24454,10 +26340,12 @@ they find themselves repeatedly in similar situations.”
 Thank you for sharing, reminding and encouraging!
 Much love to you!
 ```
+
 ```
 Joanne Sher (2011-05-30 14:42:19)
 Thanks for this, Wanda - a great reminder of WHO we need to seek direction from. Thanks for linking up.
 ```
+
 Kim @ Stuff could... (2011-05-30 15:07:24)
 I agree, this is rich thoughts here. We need the direction!
 
@@ -24512,15 +26400,18 @@ applying the principles we learn there with the guidance of his spirit?
 Blessings.
 PS: Your blog layout and design are lovely! Very easy on the eye.
 ```
+
 ```
 David C Brown (2011-06-01 20:13:58)
 ”And when ye turn to the right hand or when ye turn to the left, thine ears shall hear a word behind thee, saying,
 This is the way, walk ye in it”, Isaiah 30: 21.
 ```
+
 ```
 Kim @ Stuff could... (2011-06-01 21:06:31)
 We do always need Gods GPS directions!
 ```
+
 ## 2.6 June
 
 **He Keeps Watch (2011-06-06 14:57)**
@@ -24538,16 +26429,19 @@ as your protective shade. The sun will not hurt you by day, nor the moon at nigh
 keeps you from all evil and preserves your life. The LORD keeps watch over you as you come
 and go, both now and forever. Psalms 121 (NLT)
 ```
+
 Would you agree in prayer with me that she has a full recovery with no adverse reactions from any treatment?
 
 ```
 Karen (2011-06-06 15:13:46)
 Standing in agreement and lifting up prayers!
 ```
+
 ```
 Joanne Sher (2011-06-06 15:50:53)
 Absolutely praying for your sister, dear Wanda. Thank you for sharing. God is in it.
 ```
+
 ```
 Toia (2011-06-06 16:23:00)
 I am standing in agreement with your prayers for your sister. ”When 2 or 3 are gathered in His name, He is in the
@@ -24555,14 +26449,17 @@ midst.”
 I thank God for your sister’s full and complete recovery in the name of Jesus!!!
 Toia
 ```
+
 ```
 Pam (2011-06-06 16:44:24)
 Praying, Wanda! Keep us posted!
 ```
+
 ```
 BARBIE (2011-06-06 20:22:36)
 Saying a prayer now!
 ```
+
 LisaShaw (2011-06-06 20:55:12)
 Thanks be to GOD for being our Overseer in EVERYTHING we face! He is GOD Almighty and His Hand is with
 your sister as with all of us.
@@ -24628,14 +26525,17 @@ welcome to my world of poetry (2011-06-08 06:31:04)
 Good thoughts Wanda, loved the read.
 Yvonne.
 ```
+
 ```
 Beck Gambill (2011-06-08 06:38:06)
 Beautiful picture and excellent reminder of God’s ever present care!
 ```
+
 ```
 Chelle (2011-06-08 07:09:43)
 I love this, excellent post. Blesings to you!
 ```
+
 Susan (2011-06-08 08:11:38)
 What a great word of comfort!
 Beautiful picture too.
@@ -24690,30 +26590,36 @@ Beautiful verse and beautiful picture!! Like the Messages translation too!
 Cathy (2011-06-08 21:39:09)
 Very lovely, thank you
 ```
+
 ```
 Sharon (2011-06-09 19:33:04)
 I really liked the Message translation - it sums it up perfectly. Oh, how glad I am to be surrounded by God!
 Sorry to hear about your sister - glad to hear she’s better, but will support her in prayer.
 GOD BLESS!
 ```
+
 ```
 Karen (2011-06-10 17:19:49)
 I loved this, Wanda...
 ```
+
 ```
 lioneagle (2011-06-11 07:44:59)
 Hi Wanda -
 Glad to know that your sister is doing better. Praise be to the Great Physician!
 I love that photo - splendor from GOD indeed.
 ```
+
 ```
 Retromus-ik (2011-06-11 21:31:02)
 Our God is amazing. We must never discourage;) A work in progress on my part...
 ```
+
 ```
 Just Be Real (2011-06-12 04:58:19)
 These words are a comfort to my soul, which I so desperately need. Thank you Wanda. Blessings.
 ```
+
 **Monday Manna**&**1 John 5:4 (2011-06-13 12:33)**
 
 Sharing my thoughts on this weeks Monday Manna verse over at [1]An Open Book.
@@ -24722,6 +26628,7 @@ Sharing my thoughts on this weeks Monday Manna verse over at [1]An Open Book.
 Everyone born of God overcomes the world. This is the victory that has overcome the world,
 even our faith. 1 John 5:4 (NIV)
 ```
+
 As I read this verse today, the word overcomes leapt out at me. For me to OVER come anything, it first
 must COME. Yep, even all the stuff I would rather stick my head in the sand and avoid, it MUST come.
 
@@ -24753,40 +26660,49 @@ Very truthfully wrote.
 Thanks for your visit and comment much appreciated.
 Yvonne.
 ```
+
 ```
 Joanne Sher (2011-06-13 13:34:13)
 Oh Wanda - I LOVE this. Never thought of it that way. Thanks so much for contributing!
 ```
+
 ```
 Carol Fleisher (2011-06-13 13:57:21)
 Just what I needed to hear this morning. Keep up the great work. God bless you! :)
 ```
+
 ```
 Beck Gambill (2011-06-13 15:09:19)
 Wonderful truth! Let it all come, He takes me over, so thankful!
 ```
+
 ```
 Karen (2011-06-13 16:29:54)
 God is able to make ALL GRACE abound to you!! Isn’t He good?!
 ```
+
 ```
 Pam (2011-06-13 16:36:10)
 Great perspective, Wanda. Thanks for sharing insights.
 ```
+
 ```
 BLUEBUTTERFLY (2011-06-13 17:50:14)
 Good word, Wanda. The things that would otherwise overtake and overwhelm us cannot because our God has already
 overcome all things. Praise You, Lord.
 ```
+
 ```
 Kim @ Stuff could... (2011-06-13 17:56:55)
 So true and thoughtful. Struggles do come and victory also!
 ```
+
 ```
 Becky Jane (2011-06-13 18:25:23)
 Thanks you for this inspiring post...I love the way you separated over and come and then brought them together
 again!
 ```
+
 ```
 Carole in the Faith Lounge (2011-06-14 03:27:11)
 Amen, Thank you for the wonderful Manna that I have received here this morning.
@@ -24796,6 +26712,7 @@ Wanda, thank you for popping into [1]The Faith Lounge recently and for leaving a
 conversation.
 Blessings
 ```
+
 1. http://www.thefaithlounge.com/
 
 **Life After Yes** {**Teaser Tuesday**} **(2011-06-14 08:00)**
@@ -24805,6 +26722,7 @@ But even as I say these words, I know I dont mean them. Again I know better. Th
 any accidents. For the most part, we do things intentionally, dont we? Life After Yes by Aidan
 Donnelley Rowley
 ```
+
 [1]
 
 Teaser Tuesday is weekly book meme hosted by [2]Should Be Reading. Got an interesting quote from a book
@@ -24820,27 +26738,33 @@ The only qoute that comes to mind is a book I read some time ago is
 ”Todays Gratitude Buys You Tomorrows Pleasure”
 Yvonne.
 ```
+
 ```
 Ella (2011-06-14 20:40:09)
 Can’t think of one now, but I’ll come back and post one when I do. My eyes are turning blue from looking at all the
 blue art! This looks really interesting, tell me more when time permits xXx
 ```
+
 ```
 Amydeanne (2011-06-16 01:35:21)
 looks like an interesting book!
 ```
+
 ```
 Bernadine (2011-06-16 02:46:32)
 The quote you chose made me want to know what comes next...
 ```
+
 **When Loving You is Wrong (2011-06-16 08:01)**
 
 ```
 [1]loveyou_4650
 ```
+
 ```
 Image Courtesy of [2]Morguefile
 ```
+
 I remember the lyrics of song that said if loving you is wrong, I dont want to be right. Kind of sounds like a
 song a hopeless (or should a say reckless) romantic might sing. I have had my own encounter of loving when
 it was wrong. And wouldnt you know I found myself in the Word of God as I read I Kings 11. My sneaky
@@ -24852,11 +26776,13 @@ a thing for foreign women. Even after receiving clear instructions to avoid them
 The LORD had clearly instructed his people not to intermarry with those nations, because
 the women they married would lead them to worship their gods. I Kings 11:2a
 ```
+
 Solomon was a man well versed in Gods Word and man full of wisdom.
 
 ```
 Yet Solomon insisted on loving them anyway. I Kings 11:2b
 ```
+
 I guess he wasnt willing to give them up so he could be right. Some how he consider them worth the cost
 of being wrong.
 Stay tuned as I explore the cost he paid for loving when its wrong.
@@ -24871,24 +26797,29 @@ Thought provoking, Wanda.
 Have a nice day,
 Yvonne,
 ```
+
 ```
 Missie (2011-06-16 13:24:07)
 So true.
 ```
+
 ```
 Joanne Sher (2011-06-16 14:20:12)
 Sin is a CHOICE - we like to think it’s forced on us by culture, but it isn’t. Great reminder - looking forward to
 further posts.
 ```
+
 ```
 Pam (2011-06-16 16:33:57)
 Great post, Wanda, and so true. No matter how appealing the wrong choice is, if we can just hide behind God’s Word
 He will help us make the right choice.
 ```
+
 ```
 Shanda (2011-06-16 18:12:07)
 Very interesting post. I cannot wait for the next to read what you have to say. I have loved wrongly in my life too!
 ```
+
 Lisa (2011-06-16 20:13:28)
 This struck me with Solomon too. He was the wisest man, yet he chose to ignore God’s word and married many
 foreign women. I look forward to the rest of your thoughts on this subject.
@@ -24942,6 +26873,7 @@ Wanda (2011-06-22 02:27:48)
 Appreciate each of you chiming in on this topic. I think many of us have had the experience of being on the wrong
 side of love. Hope to pick up with this topic soon; I have been a bit frazzled lately. Blessings to each of you.
 ```
+
 ```
 Dawn M. Hamsher (2011-06-29 00:36:19)
 Wow...talk about a topic!
@@ -24949,6 +26881,7 @@ Been there. Thank goodness I learned from my mistake. Second time around I let G
 Now, I talk to my 11 year old about what to look for in a future husband (it is never too early) and that she needs
 ask for God’s guidance. I hope she learns from my 1st mistake.
 ```
+
 **Where Art Thou? (2011-06-22 00:43)**
 
 Where ever you are God sees it but do you?
@@ -25006,43 +26939,52 @@ Lisa (2011-06-22 01:36:07)
 Love this Wanda - ”God doesnt ask us to get ourselves from the place but only acknowledge that we are there.” No
 matter where I am, the great I AM is there too. Amen!
 ```
+
 ```
 Prayer Notes by Cynthia (2011-06-22 01:45:13)
 He is always there...just waiting for us to seek Him. He’s right there. I loved this post! Thank you and blessings!
 ```
+
 ```
 Wanda (2011-06-22 02:30:40)
 Hi Cynthia and Lisa, it was one of those post that flowed freely as I was sipping on the residue of His presence. But
 afterwards I wanted to pull it from the blog.
 ```
+
 ```
 welcome to my world of poetry (2011-06-22 08:21:46)
 Most inspiring Wanda, I have been most of those things at some point of my life......but have come through.
 Thanks for sharing.
 Yvonne.
 ```
+
 ```
 Joanne Sher (2011-06-22 14:26:46)
 Oh do I love this. Wonderful reminder, Wanda. You absolutely blessed me.
 ```
+
 ```
 Fresh Garden (2011-06-22 15:34:19)
 Happy moments, praise God.
 Difficult moments, seek God.
 Every moment, thank God.
 ```
+
 ```
 Mike (2011-06-22 20:29:31)
 So encouraging. Thank you :)
 ```
+
 ```
 kemarias (2011-06-22 20:58:45)
 Bless you with your honesty. He is awe-inspiring with his gracious love for us. Praise God.
 ```
+
 ```
 Angel (2011-06-22 22:09:52)
 Wanda,
 ```
+
 Thank you for sharing this powerful word. The great I AM knows who I am and is willing to meet me whereever I
 am because of His incredible love. Awesome!
 
@@ -25096,6 +27038,7 @@ is nothing too hard for thee:
 Ella (2011-06-28 22:06:22)
 Wow Wanda, it just flowed...really beautiful xXx
 ```
+
 ```
 Dawn M. Hamsher (2011-06-29 00:31:55)
 I am struggling in my writing.
@@ -25105,6 +27048,7 @@ I am thankful for a God who loves me no matter what. One that lifts me up and I 
 me on even when I am not focused on him.
 Wanda, Thank you for your ministry. Your words help me get my focus back on God.
 ```
+
 **Strength for Today (2011-06-29 17:50)**
 
 [1]
@@ -25120,6 +27064,7 @@ challenges.
 Joanne Sher (2011-06-29 18:54:43)
 Dontcha love when verses grab you like that? Love this. Thanks, Wanda!
 ```
+
 Peggy (mazmagi) (2011-06-29 19:01:08)
 AMEN and Blessings Wanda... I am strengthened too just reading this and knowing this! May our tattered and worn
 out doors, be refinished and restored in His Strength as we keep on knockin’ and seekin’ Him! Great encouragement...
@@ -25176,6 +27121,7 @@ Isn’t it wonderful when Scripture just reaches in and reinvigorates our hearts
 Thank you so much for stopping by my blog yesterday, and for the lovely words of encouragement you left!
 Have a Blessed Day!
 ```
+
 ```
 Arlee Bird (2011-06-30 20:19:55)
 We all need strength more than what we ourselves can provide. God will get us through anything when we rely on
@@ -25183,6 +27129,7 @@ him.
 Lee
 [1]Tossing It Out
 ```
+
 1. http://tossingitout.blogspot.com/
 jackie (2011-07-01 11:36:09)
 Amen and Amen Wanda...Same experience with me. No matter how we might feel right now, God is still in control
@@ -25193,10 +27140,12 @@ God bless
 tiffany @ tea w tiffany (2011-07-01 21:57:43)
 Love this texture and love the Word. I need His strength.
 ```
+
 ```
 Ella (2011-07-02 05:16:11)
 I love the image and the thoughts behind it xXx
 ```
+
 ```
 Sharon (2011-07-03 00:37:51)
 Wanda - love the picture of this old, weathered door. And on those days when I feel tattered and worn, I’m going to
@@ -25204,14 +27153,17 @@ think about this door. Even old doors can be opened to the abundant blessings an
 He gives us the strength we need, to do what He calls us to do.
 GOD BLESS!
 ```
+
 ```
 Prayer Notes by Cynthia (2011-07-05 02:14:36)
 Amen! This verse speaks, loud and clear! I absolutely love the photo, as it ”drives everything home.” Blessings!
 ```
+
 ```
 Mike (2011-07-09 18:40:09)
 I feel like that today. I pray for His strength to serve Him better.
 ```
+
 ```
 Donna (2011-07-12 00:09:07)
 Love the post. I love Psalm 23. I am a new follower from Book blogs (GFC). I would like to invite you over to my
@@ -25219,6 +27171,7 @@ blog for a visit and follow when you have a moment. Thanks. Donna
 http://mylife-in-stories.blogspot.com
 I have a give away going on. Hope you enter.
 ```
+
 ## 2.7 July
 
 **Random Musing (2011-07-12 00:43)**
@@ -25239,6 +27192,7 @@ doesnt stop me from longing to hear His voice in the in between spaces of life.
 Kim @ Stuff could... (2011-07-12 01:37:42)
 I am glad to see you writing! I do the same with not knowing what to write, even though I have a million thoughts??
 ```
+
 ```
 Pam (2011-07-12 02:11:52)
 Ah, Wanda, it is good to hear your voice on web again. You’ve been missed. Praying that God will give you clear
@@ -25246,40 +27200,48 @@ direction for your life, my friend.
 Blessings!
 Pam at www.2encourage.blogspot.com
 ```
+
 ```
 welcome to my world of poetry (2011-07-12 08:14:39)
 Lovely to hear from you again Wanda, hope all is well.
 Yvonne.
 ```
+
 ```
 Just Be Real (2011-07-12 09:21:02)
 Thank you for sharing Wanda.
 ```
+
 ```
 Ella (2011-07-12 13:28:16)
 I suggest you write the GPS may come from your words. I think morning pages are an important way to clear your
 mind, path way Type or write your thoughts on 3 pages. It clears the mumbo jumbo out of your head...it helps xXx
 ```
+
 ```
 Joanne Sher (2011-07-12 17:26:46)
 Praying, Wanda.
 ```
+
 ```
 Grammy (2011-07-12 23:46:03)
 thank you, Wanda, for sharing your thoughts...keep writing. Love, Ruby
 ```
+
 ```
 Carole in the Faith Lounge (2011-07-13 01:03:17)
 I said a pray for you Wanda as I know exactly what you are going through!
 I am there too!!
 Blessings, Carole
 ```
+
 ```
 Wanda (2011-07-14 02:59:08)
 Thanks ladies for your thoughts and prayers you have shared. At times I wonder does my writings matter much
 with so many blogs around. I have discovered others who seem to be experience a bit of writing drought these days.
 Perhaps cooler weather will help ;)
 ```
+
 **But What About the Brook (2011-07-14 08:00)**
 
 Amongst all the disarrayed thoughts, the account of Elijah at the brook of Cherith has been lodged in my
@@ -25292,6 +27254,7 @@ flippantly pass by.
 After a while the brook dried up because there was no rain in the land. And the word of the
 Lord came to him: I kings 17:7-8 (AMP)
 ```
+
 While I have heard of Elijahs experience at the brook before, I had never considered how he must have felt
 as he sat and watch the brook come to a dry dust bowl. In my mind, I imagine him wondering how exactly
 did he get here. After all, he was following Gods command. But after a while that place no longer provided
@@ -25315,6 +27278,7 @@ and forth on the withering grass, worrying about our predicament. And probably, 
 the brook actually dried up, we would have devised some plan, asked God to bless it, and headed
 elsewhere.
 ```
+
 Have you found yourself sitting along you own brook of Cherith recently? Did you step out into something
 in which you felt was spirit-inspired only to see it dwindle away? Were you able to sit patiently as it dried
 up or did you find yourself gravitating to cooking up your own options?
@@ -25327,11 +27291,13 @@ Thanks for the encouragement to hang in there in faith.
 God bless
 Tracy
 ```
+
 ```
 Kim @ Stuff could... (2011-07-14 12:02:27)
 Wow you have a thought provoking post with this scripture. I have another scripture that has been coming to me but
 not sure I can make sense with it....Elijah was at a tough place with the water dried up.
 ```
+
 welcome to my world of poetry (2011-07-14 13:06:29)
 Yes indeed Wanda very thought provoking, making a wonderful read.
 Have a good day
@@ -25441,6 +27407,7 @@ You expressed, ”One thing I noticed was that Elijah only received his next ins
 Praise GOD for rivers in the desert and a way in the wilderness.
 Truly, He keeps proving that He reigns over ALL!!!
 ```
+
 **Full but Empty (2011-07-22 14:31)**
 
 The state of being full is in stark contrast to that of being empty. Funny how the two co-exist in our lives.
@@ -25465,6 +27432,7 @@ This is written as part of Five Minute Friday, where you just write without worr
 ```
 [2]
 ```
+
 Visible links 1. [http://lh5.ggpht.com/-PBNZvZys26w/TimJu_7g7jI/AAAAAAAAAjo/q2Wj7Gu8zIM/s1600-h/toothbrushes%](http://lh5.ggpht.com/-PBNZvZys26w/TimJu_7g7jI/AAAAAAAAAjo/q2Wj7Gu8zIM/s1600-h/toothbrushes%)
 25255B8%25255D.jpg
 
@@ -25476,41 +27444,49 @@ Wise observations! We really can keep our hands so full of unimportant things th
 emptiness. I pray that my perspective stays set by the mind of Christ....I want to be full of the things that matter!
 Thanks for posting!
 ```
+
 ```
 Lisa (2011-07-22 16:26:54)
 Love this Wanda!!! It’s not much stuff we need, it’s more Jesus. He is the only fullness that truly satisfies. Many
 blessings!
 ```
+
 ```
 Amy Bennett (2011-07-22 16:29:06)
 Yes, can totally relate.
 ```
+
 ```
 welcome to my world of poetry (2011-07-22 16:54:49)
 I can relate to many of the things you mentioned.
 Have a good week-end.
 Yvonne.
 ```
+
 ```
 vicki (2011-07-22 17:12:39)
 I agree. Our true filling can only come from God.
 ```
+
 ```
 BLUEBUTTERFLY (2011-07-22 21:05:47)
 Wanda, we should all take some time to think about what fills us. I am praying that we are all filled with His grace
 and mercy and love and hope and joy and faith ...and the power of His Spirit.
 ```
+
 ```
 Alida (2011-07-22 22:20:02)
 We don’t own a lot of material things right now...but I have noticed that as our schedule fills up I find myself feeling
 emptier. It is so important for me not to lose connection with the only One who brings fullness to my life.
 ```
+
 ```
 Pam (2011-07-22 23:27:59)
 Great truth here, Wanda. Full but empty–sounds like a good start to a sermon. I’ll have to share this with my
 husband. Thank you!
 Pam at www.2encourage.blogspot.com
 ```
+
 Beck Gambill (2011-07-23 00:47:32)
 Great first 5 Minute Friday! I certainly relate to the underlying empty while spilling over full.
 
@@ -25521,7 +27497,7 @@ parar de comer tudo o que d„o. E comeÁar a questionar!  AlguÈm escuta algum
 sem questionar, sem saber se È verdade ou n„o. As pessoas precisam se perguntar! Ser· que a minha crenÁa esta de
 acordo com a lei de Deus? Ser· que a religi„o que eu nasci sempre me falou a verdade? Quando uma pessoa morre pra
 onde ela vai? Ela volta? A bÌblia apÛia o homossexualismo? Quem n„o herdara o reino de Deus? O que devo saber
-sobre idolatria, imagens e escultura? O que devo saber sobre o ̇nico batismo? Ser· que tem uma seq̧Íncia para
+sobre idolatria, imagens e escultura? O que devo saber sobre o ̇nico batismo? Ser· que tem uma seq ̧Íncia para
 salvaÁ„o? A quem eu devo me confessar, quem pode me perdoar? Religi„o salva alguÈm? Essas e outras perguntas e
 respostas em:
 [www.aunicaverdadeemsuapropriabiblia.blogspot.com](www.aunicaverdadeemsuapropriabiblia.blogspot.com)
@@ -25564,6 +27540,7 @@ God doesnt see things in the same way. According to Isaiah 40:17, a nation equa
 Compared to the Lord all nations are worth nothing; to him they are less than nothing.
 (NCV)
 ```
+
 A whole body of people end up in the red on Gods scale. Which is good news to me. It lets me know that
 no matter what Im looking up at that seems colossal in my eyes, God can handle the weight of it.
 
@@ -25584,15 +27561,18 @@ Thanks for the reminder that my needs are important to my Lord and Savior. As of
 around my 18-year-old daughter and her wayward heart. I have been on my knees and will continue. God has a plan
 for her and will turn this all around. Thanks for your post!
 ```
+
 ```
 Kim @ Stuff could... (2011-07-25 12:41:47)
 Thanks for this post about He does want to help our needs and worries....I just worry too much about nothing in
 particular?
 ```
+
 ```
 Beck Gambill (2011-07-25 12:43:57)
 Good word for the day. He is incomprehensible, high above the things of this world!
 ```
+
 Pam (2011-07-25 13:02:38)
 Worry is a sin I battled for a long time and still overtakes me at times. Thank you for the encouragement, Wanda. I
 admire your ability to say so much in so few words.
@@ -25648,6 +27628,7 @@ Oh, praise His name - I continue to take these matters to His feet. May I just h
 them there!
 GOD BLESS!
 ```
+
 ```
 Judy (2011-07-29 01:15:46)
 Hi Wanda,
@@ -25656,6 +27637,7 @@ Thanks for stopping by!
 Blessings,
 Judy
 ```
+
 ```
 B. Niles (2011-07-29 16:02:25)
 Hi Wanda,
@@ -25663,6 +27645,7 @@ Thank you for the reminder. There is nothing to big for God to handle. ”For no
 1:37)
 Thanks for sharing.
 ```
+
 **May He Do It For You (2011-07-30 15:57)**
 
 In times of trouble, may the Lord answer your cry.
@@ -25682,27 +27665,32 @@ Hi Wanda - Psalm 20 is one of my favourite Psalms. Great to read it this evening
 God bless
 Tracy
 ```
+
 ```
 Janis@Open My Ears Lord (2011-07-30 18:17:35)
 Wonderful blessing from the Psalms for your readers.
 Blessings,
 Janis
 ```
+
 ```
 welcome to my world of poetry (2011-07-30 19:46:40)
 This lifted my morale thanks for sharing Wanda.
 Yvonne.
 ```
+
 ```
 Lisa (2011-07-30 20:19:10)
 Amen!
 ```
+
 ```
 Pam (2011-07-31 01:22:13)
 It felt like you were praying a blessing on each reader. Thank you, Wanda.
 Blessings to you, my friend!
 Pam at www.2encourage.blogspot.com
 ```
+
 ```
 LisaShaw (2011-07-31 15:21:04)
 Praise the Lord and Amen!
@@ -25711,20 +27699,24 @@ friends. I’ve missed you sis! I pray that all is well with you!
 Thank you for sharing this beautiful passage of Scripture that strengthens my heart greatly. GOD is so good to us!
 Much love!
 ```
+
 ```
 BLUEBUTTERFLY (2011-08-01 21:12:34)
 Yes, Lord, I’m raising the banner and shouting for joy because I’m still in the land of the living, I can still pray and I
 can still tell someone that ”God is love”!
 May you be blessed, Wanda.
 ```
+
 ```
 Wanda (2011-08-02 02:35:14)
 Glad you all were encouraged. As I read this passage it so touched me and I wanted to share it with you all.
 ```
+
 ```
 Kim @ Stuff could... (2011-08-02 16:15:31)
 Amen!
 ```
+
 ## 2.8 August
 
 **Were All the Tears Wasted? (2011-08-01 12:33)**
@@ -25760,6 +27752,7 @@ was hard - but I’m so glad we did.
 God bless
 Tracy
 ```
+
 ```
 Pam (2011-08-01 13:28:28)
 Tears can be a healing release. Thank you, Wanda, for reminding us that we can still be used by God, even in the
@@ -25767,33 +27760,39 @@ midst of our sorrow. Sometimes it actually helps others to see us keeping on eve
 Blessings, my friend!
 Pam at www.2encourage.blogspot.com
 ```
+
 ```
 Joanne Sher (2011-08-01 17:44:37)
 Just LOVE these thought, Wanda. I have so been there. Blessings, my friend. Thanks for linking up.
 ```
+
 ```
 Lisa (2011-08-01 21:02:53)
 Wanda, I have had to serve through my tears - smile on the outside and personal sorrow on the inside. I have found
 that when we continue to minister to others though our heart may be breaking, God blesses us in return. Many
 blessings!
 ```
+
 ```
 BLUEBUTTERFLY (2011-08-01 21:05:54)
 Tears are priceless. They are seen by our Father and He responds. Our God is awesome. He even responds to those
 unshed tears, those unspoken words.
 ```
+
 ```
 welcome to my world of poetry (2011-08-01 21:25:11)
 I can cry with happiness also of sadness, with the latter I think it is a great help one get over something that has
 happened in their life.
 Yvonne.
 ```
+
 ```
 wisdomvirtueandrubies (2011-08-02 00:35:31)
 This is a good challenge, Wanda. I’ve found that sowing into others during my times of sorrow often made me feel
 better. Very often if I was encouraging someone else with my words, I found that I was preaching to myself. The Holy
 Spirit is so kind that way!
 ```
+
 Wanda (2011-08-02 02:33:17)
 What a wonderful testament to God’s ability to strengthen us even during the hard times, Traci.
 So true Pam. I have certainly been encouraged by the perseverance of others.
@@ -25848,11 +27847,13 @@ not address the issue. Either way you lean, you just better make sure it’s His
 ```
 making me more thankful for today, than yesterday. Blessings!
 ```
+
 ```
 Rebecca Bany (2011-08-06 14:42:38)
 Wonderful post!
 www.rebeccabany.com
 ```
+
 ```
 Judy (2011-08-07 20:27:02)
 Hi Wanda,
@@ -25861,20 +27862,24 @@ And yes, I have cried and have been in deep pain while sowing into others lives.
 prayer God got me through and now I’m reaping the blessings. Halleluja!!
 Judy
 ```
+
 ```
 Mike (2011-08-08 18:21:12)
 Just been reading Nehemiah and how he wept for Jerusalem... but it all ended in the most glorious celebration!
 ```
+
 ```
 Alida (2011-08-09 07:07:03)
 This past year of ministry for us has been one of grieving. We are caught in between our loss of leaving Russia and
 our new life here in Belize. We left behind people we dearly loved and served for five years. I can totally relate to
 serving through tears.
 ```
+
 ```
 Shanda (2011-08-09 18:05:49)
 Wanda, I LOVE this. I want to never be so consumed by myself and my sorrow so as not to serve another.
 ```
+
 ```
 Sharon (2011-08-10 14:42:11)
 Wanda, this was so beautiful. I have recently found myself in a season of weeping, and it’s been difficult some days
@@ -25882,6 +27887,7 @@ to function. And yet, I still hear the still, small voice speaking through my te
 I loved your thought - ”your coming back will not be the same as your going out.” That’s my heartfelt prayer.
 GOD BLESS!
 ```
+
 **Young and In Love (2011-08-09 19:00)**
 
 [1]
@@ -25894,6 +27900,7 @@ not only advocates marriage but he is a proponent of individuals tying the knot 
 We have adapted to getting our life in order first and marrying last. We dont want a spouse
 to screw up our plans or tweak them.
 ```
+
 While Young and in Love is a stark contrast to some of the ideologies I held toward marriage, I found
 the author made valid arguments that challenged my thinking and made me reconsider what I deemed as
 essentials for marriage. I love it when a book does this. He points out consequences to delayed marriage
@@ -25906,6 +27913,7 @@ through pain, trials, and difficulty and by how we choose to handle this adversi
 simple independence. Marriage offers plenty of opportunities to grow our character because it
 forces us to think about someone other than ourselves.
 ```
+
 I found that he painted a balanced view of unnecessary delays like money, career, dream weddings, living
 together and waiting to find your soul-mate with necessary delays such as completing high school, avoiding
 rushes due to pregnancy, military deployment or desire for sex, and dating someone who is not a believer.
@@ -25948,14 +27956,17 @@ This sounds like an interesting book Wanda, lovely to hear from you,
 Thanks also for getting in touch, I am back now music and all.
 Yvonne.
 ```
+
 ```
 Beck Gambill (2011-08-10 10:57:09)
 Good review! I’ll have to keep this book in mind as my kids get older. Thanks for sharing.
 ```
+
 ```
 Kim @ Stuff could... (2011-08-13 14:48:58)
 I like books that challenge my thinking with love, also...
 ```
+
 **What****s Your Writing Style? (2011-08-11 05:01)**
 
 Cruzing the blogosphere I am amazed at all the sheer talent that exist. So many captivate me with their
@@ -25981,21 +27992,25 @@ don’t really know who I twin with.
 Good concept Wanda.
 Yvonne.
 ```
+
 ```
 Wanda (2011-08-11 11:41:12)
 When you go to the link you actually paste the text of some of your writings and it analyzes your writing and you
 can discover your twin.
 ```
+
 ```
 Susie Swanson (2011-08-11 18:26:02)
 Yes this is a good concept. I don’t know who I write about, just whatever comes to mind..Susie
 ```
+
 ```
 Marcia (One Heart) (2011-08-12 22:53:22)
 How fun is this, Wanda!! You KNOW I’m checking it out.
 Not really sure what my writing style is because it’s always evolving. Typically, I write about personal experiences
 that I’m passionate about and I write as I speak. Occasionally, I am inspired by other artists and might use plenty of
 ```
+
 flowery words. There’s so much inspiration across blogland, don’t you think?
 Thank you for visiting. It’s always so nice to see you stop by. Blessings.
 
@@ -26052,6 +28067,7 @@ It isnt your responsibility to plan your future. That has been planned before y
 image. Every incident, every setback, every disappointment, every unexpected tragedy are to be
 used to further His purpose of conforming you to His likeness in your life and in my life.
 ```
+
 This quote stood out to me in a devotional I read this morning by Anabel Gillham. I have been guilty lately
 of trying to work out the details of my life and nothing has come together as I had planned. And then comes
 along these words to warn me that I have attempted to take on a job that is not my responsibility.
@@ -26061,31 +28077,37 @@ welcome to my world of poetry (2011-08-19 11:01:24)
 A very good quote and one to remember Wanda.
 Yvonne.
 ```
+
 ```
 Pam (2011-08-19 11:14:22)
 We all seem to fall into the trap of wanting to be in control instead of resting in the knowledge that God is in control.
 I need reminded of this more often than I care to admit. Thanks for sharing, Wanda!
 Pam
 ```
+
 ```
 Carol Fleisher (2011-08-19 12:03:23)
 What a good quote and so appropriate for my life right now. I keep trying to plan every detail. It’s comforting to
 me to know that I don’t have to plan every detail and that when things don’t work out He’s still in control! Thanks!
 Mind if I copy it?
 ```
+
 ```
 BLUEBUTTERFLY (2011-08-19 13:15:11)
 Wanda, you have no idea. Well, actually, you do. I happen to be in the same place, and I have decided to just be still.
 ```
+
 ```
 Shanda (2011-08-19 16:23:12)
 I love that quote. Not only does it take the pressure of me but it gives me rest and assurance knowing I am in good
 hands.
 ```
+
 ```
 Joanne Sher (2011-08-19 17:28:57)
 Fabulous quote, Wanda. One I need, too. Thanks, dear.
 ```
+
 ```
 Wanda (2011-08-19 22:35:58)
 Oh ladies I’m glad to know I’m not alone. It’s weird that I have this head knowledge that He is ultimately in control
@@ -26093,6 +28115,7 @@ but at times I find it so easy to get into trying to work the plan, which is one
 Word promises that He will take all things and work it for my God for those who love Him. Carol by all means copy,
 I cited the author of it.
 ```
+
 ```
 Sharon (2011-08-21 22:51:40)
 Great words, Wanda. Very timely for me. Yes, it’s so very difficult to rely on the Lord, and then to rest in that
@@ -26101,6 +28124,7 @@ His Son.
 Oh, that I could stay out of His way!!
 GOD BLESS!
 ```
+
 ```
 Reformed rebel (2011-08-22 00:23:29)
 Hi Wanda Isn’t it funny? I was just talking about control on my last post. Do you think maybe GOD is trying to
@@ -26108,20 +28132,24 @@ tell me something? I do!
 Glad I found your blog.
 Blessings...Chelle
 ```
+
 ```
 Karen (2011-08-22 13:37:09)
 Good one! I love Anabel. I heard her speak years ago and still remember her message. Thanks for your encourage-
 ment.
 ```
+
 ```
 Kim @ Stuff could... (2011-08-22 18:10:22)
 We all worry too much and yet He has a greater plan than we could imagine
 ```
+
 ```
 Debbie Dillon (2011-08-23 15:51:40)
 Oh, I love this! Thanks for the encouraging reminder! Thanks so much for stopping by my blog and commenting -
 means so much! Be blessed today :)
 ```
+
 **Spiritual Warfare for Women (2011-08-23 05:01)**
 
 Can what you dont know be hurting your home? Your family? Your friends?
@@ -26142,6 +28170,7 @@ your kids this morning&or a friend eager to hear the intimate details of your pr
 so that she can offer her compassion and remind you that you are too good to put up with that.
 Never does the object of temptation reveal itself to be as wicked as it truly is.
 ```
+
 The book is divided into four sections:
 
 • Part One: The Most Powerful Weapon of All-Gods Love
@@ -26183,36 +28212,44 @@ get me a copy. Thanks
 God bless
 Tracy
 ```
+
 ```
 welcome to my world of poetry (2011-08-23 08:56:19)
 Sounds like a good book, hope they sell it here in the UK.
 Yvonne.
 ```
+
 ```
 Lisa (2011-08-23 15:23:28)
 Sounds like a great book, Wanda. I believe her description of the enemy and temptation are right on. Thanks for the
 honest review!
 ```
+
 ```
 PatriciaW (2011-08-23 17:34:36)
 I’m adding this to my ”Buy” list. Thanks for sharing.
 ```
+
 ```
 Donna Lynn Grace (2011-08-23 21:55:29)
 This is a definite read for me. I am new to Brentwood, TN, so it appears we’re neighbors! Your book’s subject has
 ```
+
 ```
 been on my heart for a while. I can’t wait to begin. Thanks!!
 ```
+
 ```
 Ella (2011-08-24 04:59:53)
 This does sound like a great book; damn cupcake has been winning at my house
 ```
+
 **In Expectation (2011-08-24 13:07)**
 
 ```
 Yet my friends laugh at me, for I call on God and expect an answer. Job 12:4a (NLT)
 ```
+
 Notice the two verbs in the last section of the passage. One of the definition of call is to make a request or
 
 demand, which sounds like prayer to me.[1] For many of us calling on God
@@ -26237,6 +28274,7 @@ words brought back to me one of my favorite verses:
 ”Don’t be afraid. Since the first day you began to pray for understanding and to humble yourself before your God,
 your request has been heard in heaven. I have come in answer to your prayer. - Daniel 10:12
 ```
+
 ```
 My daily walk in His grace! (2011-08-24 14:35:59)
 Hi Wanda - I love this post but I also really love how you said, ”I examined myself in light of this scripture”. That is
@@ -26244,6 +28282,7 @@ what we should be doing.
 Great post
 God bless
 ```
+
 Tracy
 
 Pam (2011-08-24 15:09:32)
@@ -26373,12 +28412,14 @@ Great post Wanda. I’m so glad that no matter how bad our stuff is God can work
 Kim @ Stuff could... (2011-09-07 12:59:37)
 This is a great thought! I like the way God uses what satan meant for bad...
 ```
+
 ```
 Reformed rebel (2011-09-07 23:42:21)
 Hi Wanda Strippers...Wow! Never thought of it like that before. However God has been working on me lately and
 ”stripping” away things that I have been holding on to for way too long. Thank you for this...well timed for me!
 Blessings...Chelle
 ```
+
 ```
 Sharon (2011-09-08 20:46:57)
 OK, Wanda - a clever and catchy title!
@@ -26390,6 +28431,7 @@ I am so grateful that He cares - for instance, He didn’t leave Adam and Eve na
 that though those times of being stripped will come - God will also be there to clothe me with robes of righteousness.
 GOD BLESS!
 ```
+
 ## 2.9 September
 
 **Popping In (2011-09-15 07:17)**
@@ -26430,10 +28472,12 @@ Been missing you, Wanda! So glad you checked in. Praying for you, my friend!
 May blessings rain down on you and ”water your soul”!
 Pam at www.2encourage.blogspot.com
 ```
+
 ```
 Kim @ Stuff could... (2011-09-15 08:56:35)
 Yes I have missed you also! I have been slow at blogging myself?? I guess we all do that
 ```
+
 ```
 BLUEBUTTERFLY (2011-09-15 09:45:15)
 Wanda, I have been praying for you. I now call to mind a Psalm that brings me great strength:
@@ -26448,25 +28492,30 @@ knows everything about us.
 7-8. When I walk into the thick of trouble, keep me alive in the angry turmoil. With one hand strike my foes, with
 Your other hand save me. Finish what You started in me, God. Your love is eternaldon’t quit on me now
 ```
+
 ```
 welcome to my world of poetry (2011-09-15 09:49:07)
 Lovely to hear from you, whatever changes you are going through my thoughts and prayers are with you,
 Take care.
 Yvonne.
 ```
+
 ```
 Bernadine (2011-09-15 17:37:53)
 Praying for you Wanda. Happy you’re alright.
 ```
+
 ```
 Wanda (2011-09-15 20:28:26)
 Thank you so much ladies. Your thoughts and prayers mean a lot to me. It’s been one of life surprises and joys to
 share this blogging journey with each of you. May God’s face continue to shine upon you.
 ```
+
 ```
 Karen (2011-09-18 07:29:11)
 I needed to hear this song this rainy morning!! Thanks, Wanda!
 ```
+
 ```
 Dawn M. Hamsher (2011-09-18 14:53:51)
 Our pastor talked about change today. Most change we view as bad, but when it comes to Christ, that is a good
@@ -26474,10 +28523,12 @@ change. If we allow him, he comes in and cleans house and gets rid of the bad ha
 This is a time of season change too. A good time to re-focus on Christ.
 Blessings in your time of change. Talk to you soon!
 ```
+
 ```
 Just Be Real (2011-09-18 15:19:23)
 Glad for the pop in and even the pop over to my blog. Blessings to you Wanda.
 ```
+
 Sharon (2011-09-18 16:04:41)
 Wanda, I have noticed you being a little MIA! I will be praying for you as you face life changes. I know well the
 unsettling feeling that comes when things get a little (or a lot) topsy-turvy.
@@ -26530,6 +28581,7 @@ as He ministers to you. Much love!
 ```
 He is settled in his mind that Jehovah will take care of him. Psalm 112:7b (TLB)
 ```
+
 Is the question of God being on your side settled in your mind?
 Amongst all the turmoil that you have experienced or are experiencing in your life, are you convinced that
 God will carry you through it?
@@ -26545,20 +28597,24 @@ heart :)
 God bless
 Tracy
 ```
+
 ```
 Angela Felsted (2011-09-22 13:17:19)
 That is the hardest question of all, because no matter how hard we try we can never truly measure up. And it’s up
 to us to have faith that our best is good enough for God.
 ```
+
 ```
 Joanne Sher (2011-09-22 13:28:03)
 Excellent thoughts, Wanda. The head ALWAYS says yes - but do we live that way? Praying I do.
 ```
+
 ```
 Lisa (2011-09-22 15:25:59)
 Great question, Wanda. The quick, expected answer is yes. But God wants us to do more reflection and introspection.
 Many blessings!
 ```
+
 ```
 BLUEBUTTERFLY (2011-09-22 15:50:47)
 Wanda, Wanda, that question made be feel like Paul...I want to do right, but then...and I don’t want to do wrong,
@@ -26566,6 +28622,7 @@ and then. At the beginning of this week, I had to - again - remind myself to ”
 my mind that ”Our faith may fail, His never wanes- That’s who He is, He cannot change!” 2 Timothy 2:13
 Standing on the Everlasting Rock and holding on for dear life.
 ```
+
 ```
 LisaShaw (2011-09-22 23:33:43)
 Amen Wanda! Your last paragraph said it best!
@@ -26576,19 +28633,23 @@ myself that my FAITH IS IN GOD in the good and in the bad. ”Where is our faith
 Faith in God is not meant for just when everything is going good but for sure when all seems to be going wrong.
 I appreciate you and miss you!
 ```
+
 ```
 Wanda (2011-09-23 00:23:58)
 Hi Lisa, missed you too sweet sister. Thanks for sharing your testimony.
 Bluebutterfly, I read that post of yours and it was oh so powerful girl!
 Lisa, I agree we need to go deeper than surface reading and answers.
 ```
+
 ```
 Thanks Joanne, Tracy and Angela for sharing your thoughts.
 ```
+
 ```
 Susie Swanson (2011-09-23 00:46:46)
 Excellent Wanda, you took the words out of my mouth. Thank you for posting this, I needed it..Blessings, Susie
 ```
+
 ```
 Pam (2011-09-23 01:35:43)
 My walk does not always reflect my faith, but I want it to. Thanks for letting me know that others struggle the same
@@ -26596,21 +28657,25 @@ way. It’s so easy to talk the talk–not so easy to walk the walk.
 Blessings, my friend!
 Pam at www.2encourage.blogspot.com
 ```
+
 ```
 Beck Gambill (2011-09-23 14:46:38)
 Our actions tell on us don’t they! I’m settled in my mind that God is on my side, or more importantly I’m on his,
 but I’m going to watch my actions today to see what I really believe!
 ```
+
 ```
 Belbin9 (2011-09-24 03:44:32)
 That’s something I think everyone has asked at some point. I know I’m still asking it. How do we know we are on
 God’s track
 ```
+
 ```
 Just Be Real (2011-09-24 09:28:58)
 It is the only thing that keeps me going. Even if I do not feel God always with me, just having the faith that He is
 helps.
 ```
+
 ```
 Sharon (2011-09-24 23:17:11)
 Great question, Wanda. Yes, it is settled in my mind. God is for me, on my side, through thick and thin. Now that
@@ -26619,10 +28684,12 @@ best to learn how to align my actions, my moods, my speech with the Truth that I
 If God is for me, who can ever be against me?
 GOD BLESS!
 ```
+
 ```
 Kim @ Stuff could... (2011-09-26 23:23:43)
 I try to always remember this.
 ```
+
 **Three Things (2011-09-26 12:14)**
 
 I received the following message from a friend today. Thus Im sharing it with each of you (my bloggy
@@ -26673,6 +28740,7 @@ But for right now, until that completeness, we have three things to do to lead u
 consummation: Trust steadily in God, hope unswervingly, love extravagantly. And the best of
 the three is love. I Corinthians 13:13(The Message)
 ```
+
 [1]
 
 1. http://lh4.ggpht.com/-ZBiebadQY5U/ToBshk45MbI/AAAAAAAAAk8/MR6Sf3l5uHw/s1600-h/three%252520remain%25255B5%
@@ -26682,6 +28750,7 @@ the three is love. I Corinthians 13:13(The Message)
 Susie Swanson (2011-09-26 14:35:25)
 And I love those three things. Thank you for the reminder and the wonderful post. Hope you have a blessed day..Susie
 ```
+
 Joanne Sher (2011-09-26 15:37:17)
 Just beautiful, Wanda. Thanks so much for sharing it.
 
@@ -26753,6 +28822,7 @@ Put those warrior shoes back on, and let him know that you will not be stilled..
 You will stand.
 GOD BLESS!
 ```
+
 ```
 Tracy (2011-10-03 06:21:26)
 Hi Wanda - that is one of my most favourite scriptures. I pray your passion returns and congrats on your bloggerver-
@@ -26760,6 +28830,7 @@ sary
 God bless
 Tracy
 ```
+
 ```
 Pam (2011-10-03 08:13:06)
 So happy to hear your ”voice in the desert” again, Wanda. You have truly been missed. Your posts are like well-aimed
@@ -26767,16 +28838,19 @@ arrows that always find their mark in my heart.
 Blessings, my friend!
 Pam
 ```
+
 ```
 welcome to my world of poetry (2011-10-03 08:23:09)
 It’s wonderful to have you back.We all go through uncertain changes in life and to me it’s a bit scary.
 Have a wonderful week.
 Yvonne.
 ```
+
 ```
 Wanda (2011-10-03 12:27:53)
 Thank you ladies. I look forward to reconnecting with each you. Miss visiting you all.
 ```
+
 ```
 BLUEBUTTERFLY (2011-10-03 14:46:51)
 You’ve been such a blessing, Wanda. As I read your honest words, I was reminded of what we often forget: Satan is
@@ -26786,19 +28860,23 @@ The NAME OF THE LORD is our tower and God will defend us. He is the glory and th
 honors you as His unique creation. There is no place so dark that we are beyond His love. He is our God, our healer,
 our breath. ”He renews my strength. He guides me along right paths, bringing honor to His name.” - Psalm 23:3
 ```
+
 ```
 Joanne Sher (2011-10-03 15:12:32)
 Praying, Wanda. And thrilled to have found you and have been blessed by you.
 ```
+
 ```
 Kim @ Stuff could... (2011-10-03 17:51:59)
 It is a desert many times that we wander in...but God does bring us out. I am happy to see you again
 ```
+
 ```
 Rebecca Bany (2011-10-03 21:40:20)
 That’s wonderful news!
 www.rebeccabany.com
 ```
+
 **Muslim in the Midst (2011-10-03 12:25)**
 
 Im sending out a request to my brothers and sisters in Christ today. I have come across an unexpected
@@ -26823,11 +28901,13 @@ time of acknowledging the miracles and the work of God unto His glory. She has b
 I really believe that you will touch this life and be touched yourself. Go with the flow of God’s spirit. You will look
 back and see the footprints of God all over this opportunity.
 ```
+
 ```
 Kim @ Stuff could... (2011-10-03 17:54:35)
 I do not believe we should argue our faith. We just live it and they will see it...I have not much experience with
 Muslims but non-believers are around me...
 ```
+
 ```
 Alice Lynn Alfred (2011-10-03 19:31:39)
 Dear friend I know with any religion, or any person, religious or not, who does not know Jesus as their personal Lord
@@ -26838,6 +28918,7 @@ GRACE....this will make any Muslim question their own faith....and though they m
 in the face of truth....God is at work. PS thank you for the wonderful visit and comment over at my place!! Much
 love alice
 ```
+
 Lisa (2011-10-03 19:33:15)
 Wanda, I’m with BlueButterfly, there is a purpose in this meeting, and I think you already feel that. Build upon your
 common beliefs. You both believe in God, kindness, joy and living a good life. Talk and rejoice in your similarities.
@@ -26898,6 +28979,7 @@ I’m not familiar with how to effectively witness to them so the best that I ca
 love and respect them....
 It may be a good idea to find a common demoninator, such as if they like to cook and you share that passion...
 ```
+
 ```
 LisaShaw (2011-10-06 15:25:21)
 What a beautiful opportunity for you to live, show and extend Christs love in your connection with them. As one
@@ -26909,6 +28991,7 @@ him. He said, ”Sis you’ve always lived your faith out loud with love”. Tha
 your faith out loud with love!
 Praying for you as God uses you to touch the person He’s allowed to enter your life.
 ```
+
 **Cherished by Kim Cash Tate (2011-10-04 08:00)**
 
 A novel of unconditional love
@@ -26933,6 +29016,7 @@ Brian. God had brought the dreams back, but in ways she never could have imagine
 pain she never thought she could endure. Would she had dreamed those dreams, had she known?
 pg. 305
 ```
+
 Indeed this book is about unconditional love, acceptance, Gods grace, mercy and restoration. Thoroughly
 enjoyed reading this book and my only criticism was how neatly everything seem to wrap up in the end,
 which I dont believe is always the case in life.
@@ -26948,36 +29032,43 @@ Hi Wanda - I’ve been looking for a good Christian author, will look her up.
 God bless
 Tracy
 ```
+
 ```
 Pam (2011-10-04 10:54:29)
 Thanks for the recommendation, Wanda. I love Christian novels and how they can so powerfully share God’s truths.
 Blessings!
 Pam
 ```
+
 ```
 Susie Swanson (2011-10-04 12:32:03)
 Thank you for the info. I will look it up.. Have you ever read any of Jannette Oke’s series. I love her writing. She is
 a good christian writer..Susie
 ```
+
 ```
 Kim @ Stuff could... (2011-10-04 13:28:51)
 This sounds like a fun, interesting book to read....Thanks
 ```
+
 ```
 Reformed rebel (2011-10-04 23:02:12)
 HI Wanda Sounds like it would be good. I’ll have to check it out. Thanks for sharing it.
 Blessings...Chelle
 ```
+
 ```
 Susie Swanson (2011-10-05 22:22:29)
 Thought I’d pop back over to let you know I’m back in the commenting business for the time being anyways. Thanks
 to Paula. Thank you for the nice comments on mine and May God Bless, Susie
 ```
+
 ```
 Bernadine (2011-10-08 04:32:02)
 I love boooks that have characters from previous books woven in. Thanks for sharing, this sounds like an interesting
 book.
 ```
+
 **A Spacious Place (2011-10-07 13:06)**
 
 A quick scripture share this morning.
@@ -26986,6 +29077,7 @@ A quick scripture share this morning.
 Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations:
 spare not, lengthen thy cords, and strengthen thy stakes; Isaiah 54:2 KJV
 ```
+
 Linking up with Nicole at [1]Coming Alive in Christ for His Word Friday. [2]
 
 1. http://comingaliveinchrist.blogspot.com/
@@ -26997,11 +29089,13 @@ Love this Wanda! Thanks so much for sharing! HE wants us to grow and to get stro
 Thanks for joining in! Its there every week if you want to continue! ;)
 Have a blessed weekend!!
 ```
+
 ```
 Michelle (2011-10-07 14:17:03)
 Thanks for joining in today with a scripture share.
 Have a wonderful weekend!
 ```
+
 ```
 Sharon (2011-10-07 18:02:31)
 Beautiful Scripture.
@@ -27009,10 +29103,12 @@ This was a great verse for someone like me who goes camping. The tent imagery wa
 It reminds me of how Jesus promises to give us life abundant. Sometimes my vision of Him is just too small.
 GOD BLESS!
 ```
+
 ```
 Kim @ Stuff could... (2011-10-07 18:51:37)
 A great scripture to share!
 ```
+
 ```
 Grace. B (2011-10-07 20:41:40)
 Hello Wanda,
@@ -27022,6 +29118,7 @@ by his love; HE will exult over US with loud singing.
 My best bless for your night or day, here it’s night and I’m quiet ready to go sleeping.
 Grace
 ```
+
 ```
 Carole in the Faith Lounge (2011-10-07 22:43:26)
 One of my favourite scriptures, Wanda.
@@ -27029,18 +29126,22 @@ We need to continually stretch ourselves, enlarge and make room that God can con
 Thanks for sharing.
 <><
 ```
+
 ```
 Karen (2011-10-09 12:17:31)
 Great verse...and prayer..that God will surely answer! Have a blessed Sunday.
 ```
+
 ```
 lioneagle (2011-10-15 11:05:30)
 Hi Wanda -
 Hearty Amens!
 ```
+
 ```
 Thank you
 ```
+
 **Reclaiming Ancient Paths (2011-10-10 13:58)**
 
 [1]
@@ -27050,6 +29151,7 @@ This is what the LORD says: Stand at the crossroads and look; ask for the ancie
 ask where the good way is, and walk in it, and you will find rest for your souls. But you said,
 We will not walk in it.” Jeremiah 6:16
 ```
+
 I admit Im not one that appreciates the value and/or beauty of antiques. Like many, I have an eye for
 whats new or modern. Much of advertising today is aimed at keeping us in pursuit of the latest it thing.
 Values such as modesty, monogamy, integrity, discretion are not portrayed as essential but are considered
@@ -27075,6 +29177,7 @@ Great post
 God bless
 Tracy
 ```
+
 Lisa (2011-10-10 14:41:23)
 Wanda, this is really good! I’m learning to appreciate antiques now, but I’ve always been about the latest and greatest
 too. But I don’t want to run after things just because they are new or even because they are old. I want to run after
@@ -27128,6 +29231,7 @@ Always a pleasure stopping by, Wanda. Thank you so much for the warm birthday wi
 ```
 Much love!
 ```
+
 ```
 Sharon (2011-10-13 17:49:19)
 I really love that verse. Sometimes when we get confused along the way, we need to return to a place where God is
@@ -27137,6 +29241,7 @@ That’s also what God wants for us - His way is narrow, and difficult - but it 
 I am choosing to follow the Lord - not sure where the path is leading - but I know my Guide.
 GOD BLESS!
 ```
+
 ```
 lioneagle (2011-10-15 11:04:14)
 Hi Wanda -
@@ -27145,6 +29250,7 @@ Praise GOD that we don’t need to wait in line to get the benefits of loving, t
 THANK YOU, LORD, for how YOU enrich us with YOU. How grateful we are that YOU are the same yesterday,
 today and forever!!!
 ```
+
 **Embracing Farewell (2011-10-14 12:37)**
 
 Growing up I have always been shy, which didnt lend itself to making large number of friends. Instead I
@@ -27182,6 +29288,7 @@ help us develop endurance. And endurance develops strength of character, and cha
 hope of salvation. And this hope will not lead to disappointment. For we know how dearly God loves us, because he
 has given us the Holy Spirit to fill our hearts with his love...”
 ```
+
 ```
 Tracy (2011-10-14 14:48:57)
 Hi Wanda - its so true what you say that if God wants us to let something go, and we don’t, it hurts and harms us,
@@ -27189,10 +29296,12 @@ or stunts us. Something to definitely think on with issues I hold on to. Thank y
 God bless
 Tracy
 ```
+
 ```
 Joanne Sher (2011-10-14 14:52:14)
 Beautiful and heartfelt, Wanda. Praying right along with you.
 ```
+
 ```
 Pam (2011-10-14 15:00:33)
 My husband, our children, and I have moved A LOT during our lifetimes. It is always difficult saying Goodbye–not
@@ -27203,17 +29312,20 @@ have met some of these wonderful people or experienced the thrill of new adventu
 it to step out in faith. Thanks for the reminder Wanda! Have a blessed weekend my friend!
 Pam
 ```
+
 ```
 Wanda (2011-10-14 16:42:38)
 You know I had to hurry over and read your post Bluebutterfly. And it serves as confirmation to what God has been
 teaching me. Funny thing is this post has been brewing in my spirit and heart for days but I finally felt the push to
 release it. I pray that others that stop by will read your post. It bless me and I know others will be blessed as well.
 ```
+
 ```
 Angel @ Finding The Inspiring (2011-10-14 17:45:07)
 Wanda, your post speaks straight to my heart. I too have a hard time letting go. Thank you for the reminder that
 ”It is the farewells of life that make room for new hellos.”
 ```
+
 ```
 Pamela (2011-10-14 19:36:21)
 I understand the sister thing. We’d go to the mall and my sister would say, ”I hope I see someone we know.” I’d say,
@@ -27222,6 +29334,7 @@ comfort zone. I’m always blessed when I do.
 Blessings,
 Pamela
 ```
+
 welcome to my world of poetry (2011-10-14 22:03:07)
 Wonderful Wanda.
 Have a good week-end.
@@ -27276,17 +29389,20 @@ wisdomvirtueandrubies (2011-10-18 22:52:53)
 I’ve always said you remind me so much of myself in so many ways. This post is additional evidence of that. I pray
 the Lord will continue to grace you to embrace the seasons of goodbye so you can welcome the seasons of hello.
 ```
+
 ```
 Ella (2011-10-19 04:41:17)
 It is difficult; I too have moved a lot and know the unsettling feeling of moving onward. Sometimes I welcomed it,
 but most of the times I resisted I love the idea of saying goodbye to welcome hello...so beautiful! Great post @>—–
 ```
+
 ```
 Hands to Work, Hearts to God (2011-10-19 20:48:48)
 My sister was just saying yesterday that she has a phobia for saying goodbye! So this struck a cord! But we shouldn’t
 be anxious for anything, God is able to be responsible for our lives and He will teach us if we are open. Patsy from
 [1]HeARTworks
 ```
+
 1. http://patsypat.blogspot.com/
 Stacy @ Heartprints of God (2011-10-20 00:53:19)
 Wanda,
@@ -27301,6 +29417,7 @@ LisaShaw (2011-10-21 20:47:37)
 Wanda, I can so relate! Your last paragraph says it all! Beautiful prayer!
 Love you!
 ```
+
 **Think Before You Speak (2011-10-19 06:00)**
 
 [1] Which of you havent wished to recant your words at one time or another? I
@@ -27315,12 +29432,15 @@ T Is it true?
 H Is it helpful?
 I Is it inspiring?
 ```
+
 ```
 N Is it necessary?
 ```
+
 ```
 K Is it kind?
 ```
+
 Read the entire devotional over at [2]Girlfriends in God.
 
 1. http://lh5.ggpht.com/-_skIWplGdKw/Tp4bY-kfYBI/AAAAAAAAAlk/y6-0uJ2rFV0/s1600-h/592557_speak_love%25255B6%
@@ -27333,22 +29453,26 @@ OOh, very good. I’m copying that down right now. Great powerful short and swee
 God bless
 Tracy
 ```
+
 ```
 BLUEBUTTERFLY (2011-10-19 13:58:41)
 Wow! If I had a dime for every person I meet who’s been harmed by words. Of course, I’ve also met people who have
 been greatly blessed by one word from someone who took the time to think before speaking.
 Praying for a guard on my tongue today.
 ```
+
 ```
 Susie Swanson (2011-10-19 17:04:32)
 Wo, I’m guilty, guilty. Really needed this today and I think I’ll copy it too.. Blessings, Susie
 ```
+
 ```
 Pam (2011-10-19 20:13:46)
 This will be very helpful IF I can JUST DO IT! Thanks for the acronym, Wanda.
 Blessings!
 Pam
 ```
+
 ```
 Denise (2011-10-19 20:16:08)
 Hi Wanda,
@@ -27358,29 +29482,35 @@ act, or respond, we should thoughtfully pray and consider a calm and peaceful wa
 Blessings and hugs!
 Denise
 ```
+
 ```
 susanwalkergirl (2011-10-20 04:43:19)
 Very good...thank you for sharing. Probably most things that come out of my mouth could be nipped in the bud if I
 would applied THINK! Perhaps that would make more time for words that are edifying, true and build up.
 ```
+
 ```
 Pamela (2011-10-20 20:05:31)
 I love this...what a wonderful youth lesson. Stopping to think would sure keep watch on our tongue.
 ```
+
 ```
 Ella (2011-10-21 04:30:51)
 This is wonderful; thank you for sharing! I needed this reminder
 ```
+
 ```
 LisaShaw (2011-10-21 20:45:09)
 This is awesome! May we all remember...
 Love you beautiful sister!
 ```
+
 ```
 Karen (2011-10-22 15:14:12)
 I need to out this on the bulletin board at school! Thankfully, I work with a teacher who puts this into practice...She
 is a good influence on me!
 ```
+
 **Beyond (2011-10-21 07:15)**
 
 Beyond is moving pass the often self-imposed limitations.
@@ -27413,11 +29543,13 @@ the heart. And fits Gypsy Mama’s theme exactly!
 Have a blessed weekend, Wanda!
 Pam at 2 Encourage
 ```
+
 ```
 Deidra (2011-10-21 07:23:54)
 There’s so much more beyond, isn’t there?
 [Glad you linked up with Lisa-Jo today. Nice to *meet* you!]
 ```
+
 ```
 joan (2011-10-21 08:02:01)
 Wanda,
@@ -27426,10 +29558,12 @@ I have chosen to live beyond the cares of yesterday, and beyond whatever comes m
 Blessings,
 Joan
 ```
+
 ```
 Angela Felsted (2011-10-21 08:25:39)
 Thanks for sharing such a beautiful ballad.
 ```
+
 Robin (2011-10-21 08:28:18)
 Ah so much of what you say reminds me of that quote ”You can’t discover new oceans unless you have the courage to
 leave the shore”
@@ -27532,6 +29666,7 @@ Regina
 11 Favorite Posts in 2011 | wateredsoul.com (2011-12-31 08:36:54)
 [...] Beyond  a quick post about looking beyond my [...]
 ```
+
 ## 2.11 November
 
 **The Road Back to Judah (2011-11-01 11:38)**
@@ -27627,26 +29762,31 @@ My beloved is mine, and I am his, Song of Solomon 2:16a
 BLUEBUTTERFLY (2011-11-03 07:12:27)
 Thank you, Beloved Wanda, for quoting one of my favorite verses.
 ```
+
 ```
 Lisa (2011-11-03 10:05:54)
 Thank you for this beautiful reminder, Wanda. Many blessings!
 ```
+
 ```
 Tracy (2011-11-03 12:03:07)
 Hi Wanda - to think that God thinks of us as His beloved...Awesome
 God bless
 Tracy
 ```
+
 ```
 Beck Gambill (2011-11-03 12:20:07)
 Sweet thought, to be beloved. Maybe I’ll refer to myself as beloved Beck today and let the truth sink in, it has a nice
 ring!
 ```
+
 ```
 welcome to my world of poetry (2011-11-03 12:33:59)
 A wonderful reminder Wanda. Thank you.
 Yvonne.
 ```
+
 ```
 Sharon (2011-11-03 13:17:01)
 I got that same email - and yes, hearing the word ”Beloved” attached to your name is pretty special. And to think of
@@ -27655,54 +29795,65 @@ I had already planned to blog something along these same lines on Monday. I’m 
 God wants me to do!
 GOD BLESS, Beloved Wanda.
 ```
+
 ```
 BARBIE (2011-11-03 18:20:16)
 Love this! Yes, I am His Beloved, and so are you!
 ```
+
 ```
 Pam (2011-11-03 19:37:03)
 So simple, so true, so thankful.
 Blessings on you, Wanda!
 Pam from www.2encourage.blogspot.com
 ```
+
 ```
 Alida (2011-11-04 20:06:34)
 We are His beloved...what a beautiful way to be greeted!
 ```
+
 ```
 lioneagle (2011-11-05 05:47:05)
 Hi Wanda -
 Thank you
 Yes, that says so much. How assuring and comforting.
 ```
+
 ```
 Thank You, Lord, for Your incomparable love, and care!
 ```
+
 ```
 Kim @ Stuff could... (2011-11-05 14:22:08)
 Beloved describes so well how we are viewed by Jesus...Thanks
 ```
+
 ```
 Prayer Notes by Cynthia (2011-11-06 21:05:03)
 Yes, we are His beloved. If no one else worries or cares for us, we can rest-assured that He loves us. We are His
 beloved.... Thank you, for such a wonderful reminder of His love. Cynthia
 P.S. I will try to add this Scripture to one of my bookmarks or cards. Be blessed.
 ```
+
 ```
 alisa (2011-11-06 22:41:02)
 I wonder how we all would behave and feel if we fully knew how much God loved us. We are His BELOVED!!!
 This post blesses me, Beloved Wanda!
 ```
+
 ```
 Reformed rebel (2011-11-07 18:17:26)
 Reminds me of a song taken from Song of Solomon. I am my beloveds and he is mine, his banner over me is love.
 Blessings...Chelle
 ```
+
 ```
 Carole in the UK (2011-11-07 19:25:07)
 Woohh! I just want to give the Lord a big hug after reading this post.
 Wanda, thank you for reminding us that we are His Beloved. I am going to add this verse to my Top Verses list
 ```
+
 **The Promise Keeper (2011-11-07 08:37)**
 
 Its hard to believe we are already in the next to last month of the year.
@@ -27727,6 +29878,7 @@ at least one promise but not God.
 True, some of them were unfaithful; but just because they broke their promises, does that
 mean God will break his promises? Romans 3:3 NLT
 ```
+
 Despite the approach of the end of year, do not lose hope in Gods Word. There is still time left. Do as
 Psalms 119:82 says, strain to see the promises of God. Daily He is fulfilling promises to you and me.
 
@@ -27738,6 +29890,7 @@ Great post Wanda
 God bless
 Tracy
 ```
+
 ```
 BLUEBUTTERFLY (2011-11-07 12:13:32)
 Wanda, as I read your words I was reminded that to Him, to our Creator, there is no end. Even when we fall and fail
@@ -27746,22 +29899,26 @@ Great is our Lord and mighty in power; His understanding has no limit. - Psalm 1
 He made heaven and earth, the sea, and everything in them. He keeps every promise forever. - Psalm 146:6
 The Lord always keeps His promises. - Psalm 145:13
 ```
+
 ```
 Karen (2011-11-07 14:42:39)
 Amen! God is most assuredly our Most Faithful One...He never fails...
 ```
+
 ```
 welcome to my world of poetry (2011-11-07 16:27:38)
 Wonderful to read Wanda, yes time does fly.
 Take care.
 Yvonne.
 ```
+
 ```
 Reformed rebel (2011-11-07 18:14:20)
 HI Wanda I tend to think about all I started and never finish also. Praise God He is not like that. His promises we
 can always count on! Amen!
 Blessings...Chelle
 ```
+
 ```
 Carole in the UK (2011-11-07 19:21:17)
 Ooh! I love this post Wanda, as recently my Pastor preached on Promises and it made me think of the promises I
@@ -27772,6 +29929,7 @@ I noticed you popped into [1]The Faith Lounge recently. Thank you for joining in
 next post about the four words that changed my walk with the Lord, it will help you in ANY challenge.
 Bless you
 ```
+
 1. http://www.thefaithlounge/
 
 ```
@@ -27781,11 +29939,13 @@ God’s Word. Your honesty gives us permission to be honest with ourselves. Than
 Blessings!
 Pam
 ```
+
 ```
 Sharon (2011-11-08 00:21:42)
 What a good reminder, especially in these times of crisis in our nation! We need to keep our eyes on Jesus, the author
 and finisher of our faith. I appreciated your post.
 ```
+
 ```
 Monica Watkins (2011-11-19 14:49:06)
 As with most of your posts, I can certainly relate to the thoughts and feelings you’ve expressed in this post. For years,
@@ -27794,6 +29954,7 @@ Just as you said, disappointment would set in quickly. I’ve learned that God�
 perfect. I haven’t started my reflections of this year, yet, but I pray I will keep the truth you’ve shared here in mind
 when I do.
 ```
+
 **Because Just One is Never Enough (2011-11-09 08:01)**
 
 [1] Have you ever just ate one M &M or one potato chip? I cant
@@ -27815,6 +29976,7 @@ When all I really need to do is trust and put into practice Proverbs 3:6,
 ```
 In all your ways acknowledge Him, and He shall direct your paths. (NKJV)
 ```
+
 Its not enough to acknowledge God once but its something to be done continually. He does not become
 tired of us coming to Him about the details of our life. He promised to give us direction. If Im feeling lost,
 perhaps it is because I have failed to seek His counsel. So even if you asked God once and you did not hear
@@ -27829,11 +29991,13 @@ Linking up with Tracy for [2]Winsome Wednesday.
 Karen (2011-11-09 08:42:29)
 Great food for thought, Wanda! I am guilty of this as well....
 ```
+
 ```
 BLUEBUTTERFLY (2011-11-09 11:18:56)
 Wanda, I screamed ”guilty” when I saw the title of the blog (the image of a bag of Doritos popped in my head), and
 by the end I was still screaming guilty! guilty! guilty! Lord, help me!
 ```
+
 ```
 Tracy (2011-11-09 12:24:01)
 Hi Wanda - I love how you say we need to continuously acknowledge God in all our ways. So true. Like His mercies
@@ -27842,6 +30006,7 @@ Great post and thank you for linking up. I look forward to seeing you there.
 God bless
 Tracy
 ```
+
 ```
 Sharon (2011-11-09 15:15:08)
 Oh Wanda - have you crawled up inside my head?!
@@ -27854,33 +30019,40 @@ Acknowledging Him - so simple, yet so hard to remember to put into practice. For
 remember that when we acknowledge You - You promise to direct our paths.
 GOD BLESS!
 ```
+
 ```
 welcome to my world of poetry (2011-11-09 17:32:09)
 A cleveryly put together post Wanda. Interesting to read.
 Yvonne.
 ```
+
 ```
 Kim @ Stuff could... (2011-11-10 14:52:15)
 Beautiful...One is never enough...yes we need that appetite for God
 ```
+
 ```
 Phather Phil Malmstrom (2011-11-11 09:53:47)
 Wonderful truth Wanda. Quite often the struggles and feelings of frustration in our lives come from not seeking God’s
 guidance before plunging into things.
 Have a Blessed Day!
 ```
+
 ```
 Karen (2011-11-11 16:08:11)
 Being consistent in acknowledging His faithfulness!! Yes, that is a good word. Bless you.
 ```
+
 ```
 faith hope love? (2011-11-12 05:27:40)
 Love your post! thank you for sharing...God bless you...loves soraya
 ```
+
 ```
 Just Be Real (2011-11-12 05:36:47)
 Came to get my soul watered. Blessings to you Wanda.
 ```
+
 ```
 lioneagle (2011-11-12 16:10:39)
 Hi Wanda -
@@ -27888,16 +30060,19 @@ Thank you
 This is a good reminder for us all.
 We are prone to go there instead of to our Lord....
 ```
+
 ```
 Wanda (2011-11-14 07:11:21)
 Thanks to each of you for sharing your insights. May we each put His Word into practice into our daily lives.
 ```
+
 ```
 LisaShaw (2011-11-18 17:49:08)
 ”The thinking gets me super glued to what-if(s) and how.
 When all I really need to do is trust and put into practice Proverbs 3:6...”
 All well said! Thanks Wanda!
 ```
+
 **Who Said You Were Exempt (2011-11-14 07:09)**
 
 Can anyone say with honesty that they welcome trouble? I certainly can not. For trouble is an equal
@@ -27914,6 +30089,7 @@ no wailing at her grave. Do not uncover your head or take off your sandals. Do n
 the usual rituals of mourning or accept any food brought to you by consoling friends. Ezekiel
 24:16-17
 ```
+
 Now putting myself in Ezekiels shoes, I wonder what my true response would be. Would I be tempted to
 whine about how unfair it all seemed? Would I continue to proclaim His truth despite my personal situation?
 I do not have to look back very far to see how I have failed similar tests. Unlike Ezekiel, I havent experienced
@@ -27932,6 +30108,7 @@ BLUEBUTTERFLY (2011-11-14 08:35:37)
 Wanda, all weekend I’ve been focused on the concept of ”sharing in the sufferings”. We love the gifts and the benefits,
 but no one likes the suffering. I have yet to meet anyone who likes pain.
 ```
+
 Thanks for the reminder that how we respond to suffering, to trouble, matters.
 Thanking God for His comfort and presence in trouble.
 We always carry around in our body the death of Jesus, so that the life of Jesus may also be revealed in our body. -
@@ -27989,12 +30166,14 @@ tion in his sufferings, becoming like him in his death, and so, somehow, attaini
 I have to be willing to know Him in the good times and in the bad!
 Powerful teaching and reminder Wanda!
 ```
+
 ```
 Monica Watkins (2011-11-19 15:30:43)
 I can attest (as I’m sure we all can) that during challenging times it’s often quite difficult to boldly remain steadfast
 in the things of the Lord, especially when experiencing a loss such as Ezekiel experienced. Thank you for the reminder
 of Ezekiel’s example.
 ```
+
 **Grow (2011-11-18 07:13)**
 
 Babies, plants, animals. Each of them are things that [1]grow. No matter what our age there is always room
@@ -28014,6 +30193,7 @@ Lisa (2011-11-18 09:33:05)
 Love this, Wanda! ”If you are not seeing enough growth above perhaps its best to check the roots beneath.” Great
 encouragement today. Many blessings! :)
 ```
+
 ```
 welcome to my world of poetry (2011-11-18 15:28:20)
 I’m all for growth Wanda, we can all learn from your post.
@@ -28021,6 +30201,7 @@ The only growth I don’t welcome is weight growth...
 Have a good week-end.
 Yvonne.
 ```
+
 ```
 welcome to my world of poetry (2011-11-18 15:28:22)
 I’m all for growth Wanda, we can all learn from your post.
@@ -28028,15 +30209,18 @@ The only growth I don’t welcome is weight growth...
 Have a good week-end.
 Yvonne.
 ```
+
 ```
 Karen (2011-11-18 16:24:54)
 Beautiful thoughts. I was just reading about abiding in the vine! Happy Thanksgiving to you and yours.
 ```
+
 ```
 LisaShaw (2011-11-18 17:47:29)
 Wow! Wow! Wow! We are so on the same page! I popped in to love on you and found you joined in with GROW
 today too. We both are on the same wave length with this word today. I shared this morning on my post too.
 ```
+
 ```
 You hit it on the head in this and I love when you said: ”If you are not seeing enough growth above perhaps its best
 to check the roots beneath.”
@@ -28044,18 +30228,22 @@ Thanks for your visits and encouragement on my blog Sis. Your love is so genuine
 P.S. Did you get my email reply to you the other day?
 Hugs!
 ```
+
 ```
 BLUEBUTTERFLY (2011-11-19 07:11:00)
 Yes, indeed. I guess I’ll be checking my roots this weekend! No time like the present, as the old folks like to say.
 ```
+
 ```
 Just Be Real (2011-11-21 03:45:32)
 What a God giving gift we have to grow. Thank you Wanda for sharing. Blessings.
 ```
+
 ```
 Kim @ Stuff could... (2011-11-21 07:18:25)
 Yes it is not easy to grow but necessary!! He helps us however...
 ```
+
 **It****s Not About Me (2011-11-21 08:03)**
 
 ```
@@ -28063,6 +30251,7 @@ But let the one who boasts boast about this: that they have the understanding to
 that I am the LORD, who exercises kindness, justice and righteousness on earth, for in these I
 delight, declares the LORD. Jeremiah 9:24
 ```
+
 Pedigrees
 
 titles
@@ -28088,6 +30277,7 @@ Yes, everything else is worthless when compared with the infinite value of knowi
 Jesus my Lord. For his sake I have discarded everything else, counting it all as garbage, so that
 I could gain Christ. Philippians 3:8 (NLT
 ```
+
 While its perfectly understandable to be proud of ones accomplishments, we must not lose sight of the fact
 that it wasnt our wisdom, strength, smarts, willpower alone that got us there.
 
@@ -28149,10 +30339,12 @@ Less of me, more of Him. And it is only in Him that ANY of us can boast. And boa
 AWESOME God, and we should use whatever talents He has given us to spread the Good News of His Kingdom!
 GOD BLESS!
 ```
+
 ```
 susanwalkergirl (2011-11-21 22:48:55)
 Dearest Wanda...thank you for the reminder that it’s not about me, but it’s all about our Lord Christ Jesus.
 ```
+
 ```
 Denise (2011-11-22 05:10:45)
 Well said Wanda! :)
@@ -28161,19 +30353,23 @@ more on using what He has given to us to help benefit others so that we don’t 
 Blessings and hugs for a Thankful week!
 Denise
 ```
+
 ```
 Sharon (2011-11-22 10:32:36)
 Great reminder for today! And well written.
 ```
+
 ```
 Sharon (2011-11-23 12:50:56)
 Wanda, Just stopping by to wish you and yours a very Happy Thanksgiving Day!
 GOD BLESS!
 ```
+
 ```
 Carol Fleisher (2011-11-23 14:27:22)
 Happy Thanksgiving! We all have so much to be thankful for! I’ve very thankful for my blogging buddies. :)
 ```
+
 ```
 Ella (2011-11-23 22:59:59)
 This is a great reminder and a nudge back into reality! Well Done
@@ -28181,11 +30377,13 @@ I want to wish you a wonderful Thanksgiving, filled with warm memories and Cherr
 Sorry, it’s late and I’m silly
 Beautiful post @>—–
 ```
+
 ```
 Blue Cotton Memory (2011-11-25 13:52:24)
 I know that I am nothing without God:) Wonderful reminder of what should really go behind our name - Child of
 God!
 ```
+
 **Enduring Love (2011-11-24 06:26)**
 
 Give thanks to the Lord, for He is good!
@@ -28200,30 +30398,36 @@ Happy Thanksgiving
 Karen (2011-11-24 08:41:38)
 Wanda, I hope you are having a wonderful day. God bless you.
 ```
+
 ```
 Tracy (2011-11-24 13:07:13)
 Hi Wanda - That is a beautiful scripture. I am also thankful for Gods’ love, that it stands firm and true forever.
 God bless
 ```
+
 ```
 Tracy
 ```
+
 ```
 Alida (2011-11-24 16:26:37)
 Happy Thanksgiving to you!
 joy and blessings to you and your family,
 Alida
 ```
+
 ```
 welcome to my world of poetry (2011-11-25 03:18:46)
 Have a wonderful day, Wanda.
 Yvonne.
 ```
+
 ```
 Sharon (2011-11-25 16:28:31)
 Hope you had a very happy Thanksgiving, Wanda. Thanks for your comment on my blog. Yes, one of the youth
 actually came up and gave me a hug after the lesson. :)
 ```
+
 ```
 lioneagle (2011-11-25 18:24:43)
 Hi Wanda -
@@ -28231,14 +30435,17 @@ Thank you
 Yes, indeed, we serve a GOD whose kingdom governs all.
 GOD reigns forever - Glory to His awesome winning name.
 ```
+
 ```
 Just Be Real (2011-11-26 08:31:59)
 Blessings to you this day. Hugs.
 ```
+
 ```
 Wanda (2011-11-27 06:55:48)
 Hi sweet friends. As always thank you for stopping in hope. Hope each of your enjoyed a wonderful Thanksgiving.
 ```
+
 ```
 Sharon (2011-11-27 17:03:48)
 Simple and oh, so profound.
@@ -28247,6 +30454,7 @@ AMEN!
 Hope you had a wonderful Thanksgiving!
 GOD BLESS!
 ```
+
 **How Content Are You? (2011-11-28 07:32)**
 
 Am I really content? Thats the question thats loitering in my head this morning as I rewind yesterdays
@@ -28258,6 +30466,7 @@ being content?
 to be content. 12 I know both how to be abased , and I know how to abound : every where and
 in all things I am instructed both to be full and to be hungry, both to abound and to suffer need
 ```
+
 . 13 I can do all things through Christ which strengtheneth me. (KJV)
 11 And I am not saying this because I feel neglected, for I have learned to be satisfied with
 what I have. 12 I know what it is to be in need and what it is to have more than enough. I have
@@ -28267,6 +30476,7 @@ learned this secret, so that anywhere, at any time, I am content, whether I am f
 whether I have too much or too little. 13 I have the strength to face all conditions by the power
 that Christ gives me. (GNT)
 ```
+
 It would be easy to blast off a quick yes Im happy with what I have but closer inspection of the word
 contentment is necessary. According to the Holman Bible Dictionary, contentment is an internal satisfaction
 which does not demand changes in external circumstances. The American Heritage Dictionary defines content
@@ -28281,6 +30491,7 @@ The idea of of contentment comes from a Greek word that means independence or 
 sufficiency. But the apostle Paul used the word in a Christian sense to show that real satisfaction
 or sufficiency comes from God:
 ```
+
 Quite frankly there are some conditions I find myself in that I become irritated and anxiously await change
 to come. So how does one be content yet expectantly wait for fulfillment of the promises? Hmmm, a quick
 search of my blog archives reveal this has not been the first time I have pondered the question. In a post
@@ -28293,6 +30504,7 @@ on contentment. When I know and trust that where I am is not outside of God’s 
 confident that He is orchestrating all things and that there is indeed a plan for my life. Therefore,
 I can patiently wait on Him.
 ```
+
 1. http://wateredsoul.blogspot.com/2010/04/satisfaction-guaranteed.html
 
 ```
@@ -28300,21 +30512,25 @@ BLUEBUTTERFLY (2011-11-28 08:42:21)
 I’m ponder too, Wanda. My big battle this year has been to be ”truly” content, and I can honestly say that I am not
 there yet.
 ```
+
 ```
 Kim @ Stuff could... (2011-11-28 09:03:27)
 I immediately said Yes I am content...but you ponder it deeper which is food for thought...I will strive to keep content
 from day to day.
 ```
+
 ```
 Jessica (2011-11-28 09:13:28)
 With many changes God is making in my life, this is a wonderful reminder of being content...genuinely content. Thank
 you and blessings!
 JB
 ```
+
 ```
 Sharon - grief and loss (2011-11-28 10:15:52)
 Great food for thought, Wanda! I can say that I am constantly aware and working on this, but don’t always succeed!
 ```
+
 ```
 Tracy (2011-11-28 13:25:29)
 Hi Wanda - my mother-in-law reckons her gift is the gift of contentment and if you think about it, it is truly a gift,
@@ -28322,6 +30538,7 @@ to be content in all things. Great post
 God bless
 Tracy
 ```
+
 Lisa (2011-11-28 15:38:58)
 I know I haven’t mastered contentment. Too often I find myself wanting more. But I am reminded that God’s grace
 is sufficient and more than enough. So I’m learning to count my blessings and wait on Him.
@@ -28367,6 +30584,7 @@ People today are still asking the same question King Darius did in Daniel 6:20.
 Wanda (insert your name), servant of the living God! Was (is) your God, whom you serve so
 faithfully, able to rescue you from the lions?
 ```
+
 Unlike Daniel I have not been thrown into a physical den of lions. But havent we all encountered lions of
 our own. Being thrown into a lions den was not meant to be a leisurely stroll at the school. It was designed
 to destroy and to kill Daniel. His adversaries had no expectation of him surviving the experience. What is
@@ -28391,6 +30609,7 @@ Jesus name. Amen.
 Just Be Real (2011-11-30 07:04:17)
 Great post Wanda. Love that picture too. Blessings.
 ```
+
 ```
 Pam (2011-11-30 07:57:20)
 Once again, food for thought. I get so much from your ability to take one small passage of Scripture and challenge us
@@ -28399,6 +30618,7 @@ again when God has brought me through without scars.
 Thank you, my friend!
 Pam
 ```
+
 Renee (2011-11-30 10:07:50)
 Love this post! I want to come out of the den victorious. Thanks for inspiring me. Blessings!
 
@@ -28462,6 +30682,7 @@ So thankful I’m not limited by my pit experiences! THE LION OF JUDAH is MIGHTY
 on my Lion t-shirt and let Him roar!
 Peggy
 ```
+
 1. http://www.youtube.com/watch?v=jsFidNxPoOk
 2. http://www.youtube.com/watch?v=iCyQj0RX3Ns
 Tracy (2011-12-05 02:21:12)
@@ -28486,6 +30707,7 @@ Dont be afraid, he said, for you are very precious to God. Peace! Be encouraged
 As he spoke these words to me, I suddenly felt stronger and said to him, Please speak to me, my
 lord, for you have strengthened me. Daniel 10:19 (NLT)
 ```
+
 Although Daniel was being spoken to by an angelic being, each of us have the power to [2]speak words of
 encouragement to others. You never now how much someone needs to hear a kind word. We dont know all
 the details of one another lives but we can be assured that we all go through things that sap our strength or
@@ -28512,14 +30734,17 @@ Joanne Sher (2011-12-02 08:38:53)
 Words can be so incredibly powerful. Thank you for the reminder, Wanda - and you often speak encouragement to
 me. I so appreciate it.
 ```
+
 ```
 BLUEBUTTERFLY (2011-12-02 09:07:14)
 OMG! Speechless. In tears, Wanda. You’ll figure it out when you read my blog post for today.
 ```
+
 ```
 Kim @ Stuff could... (2011-12-02 12:52:15)
 Words are powerful...I like speak peace to you...be encouraged
 ```
+
 ```
 Sharon (2011-12-02 12:57:39)
 OH AMEN, Wanda!!
@@ -28530,45 +30755,55 @@ I’m taking your very timely words of encouragement, and I’m putting them in 
 tell the world more about the GOOD NEWS of Jesus!
 GOD BLESS!
 ```
+
 ```
 Denise (2011-12-02 14:11:03)
 Great post.
 ```
+
 ```
 Susie Swanson (2011-12-02 16:53:12)
 Wonderful words of encouragement Wanda, I so enjoy your posts. Hope you have a blessed weekend..Susie
 ```
+
 ```
 welcome to my world of poetry (2011-12-02 17:46:08)
 Wonderful words Wanda, enjoyed every word.
 Yvonne.
 ```
+
 ```
 Lisa (2011-12-02 19:24:13)
 Beautiful words of encouragement, Wanda! Your words are full of faith, strength, and love.
 Many blessings,
 Lisa
 ```
+
 ```
 Alida (2011-12-02 19:27:02)
 Amen! Our words are so important...great post.
 ```
+
 ```
 Just Be Real (2011-12-03 05:31:47)
 Amen Wanda. I like this post very much. Blessings.
 ```
+
 ```
 Karen (2011-12-03 14:30:18)
 This is a precious post, Wanda. May I take it to heart and apply it daily!!
 ```
+
 ```
 Sarah (Nikki) (2011-12-03 20:55:34)
 This is so encouraging....thanks Wanda...
 ```
+
 ```
 susanwalkergirl (2011-12-04 01:04:44)
 That was just the encouraging word that I needed to hear today. Thank you!
 ```
+
 ```
 Peggy (2011-12-04 13:23:57)
 Awesome Wanda! I’m refreshed in this powerful word on words and His Word! Perhaps I was meant to visit you on
@@ -28579,23 +30814,28 @@ thought perhaps you were doing a study on Daniel! May God love on you today and 
 Love and peace,
 Peggy
 ```
+
 ```
 Connie Arnold (2011-12-04 17:47:03)
 Our words can make a big impact on others, whether spoken or written. Thank you for the encouraging words that
 you share through your blog. Peace to you!
 ```
+
 ```
 Bernadine (2011-12-05 20:23:12)
 Wanda, your words do strengthen and encourage. Thank you so much for sharing.
 ```
+
 **O Me of Little Faith**&{**Teaser Tuesday**} **(2011-12-06 05:40)**
 
 ```
 Circumstances can draw us to God, but they can also pull us away from him. Ask any widow
 ```
+
 ```
 or widower. Ask anyone devastated by tragedy. pg. 132-133 [1]
 ```
+
 Teaser Tuesdays is a weekly bookish meme, hosted by MizB of Should Be Reading. Anyone can play along!
 Just do the following:
 
@@ -28619,6 +30859,7 @@ I don’t even know why, but I am going through the Book of Jeremiah in December
 told him to pack it up and go home because no one would give one hoot about what he had to say, he chose to obey
 God and speak (but only what God told him).
 ```
+
 ```
 Brenda Kay Ledford (2011-12-06 14:24:54)
 Wanda,
@@ -28627,19 +30868,23 @@ I am reading from the book of Job now. I was in the dentist’s office this morn
 Job where a cut down tree will spring forth with life again. Those are powerful words for the hard times we are all
 facing now.
 ```
+
 ```
 welcome to my world of poetry (2011-12-06 17:29:49)
 I also found the words uplifting. Thanks for sharing Wanda,
 Yvonne.
 ```
+
 ```
 Alida (2011-12-06 17:44:30)
 I am reading book called Christmas is not your birthday. Very good read!
 ```
+
 ```
 Kim @ Stuff could... (2011-12-06 18:53:36)
 I am only reading blogs...lately. I should read more but??
 ```
+
 ```
 Wanda (2011-12-07 07:53:08)
 Bluebutterfly, I too found Jeremiah’s determination inspiring when I read through that book of the Bible. I’m cur-
@@ -28651,6 +30896,7 @@ Alida, I have seen that book mentioned elsewhere. I’d love to hear how you lik
 I understand Kim. My reading time varies depending upon what’s going on in my life. Recently I took the time to
 finish up some books I had started some time ago.
 ```
+
 **Light of the World (2011-12-07 06:38)**
 
 [1]
@@ -28666,24 +30912,29 @@ BLUEBUTTERFLY (2011-12-07 06:58:11)
 I’m following the Light. In Him there is no darkness. He is my Light and my Salvation.
 Have a joyful day, Wanda!
 ```
+
 ```
 Wanda (2011-12-07 07:53:42)
 Thank you Bluebutterfly. May your light shine brightly today my friend.
 ```
+
 ```
 Tracy (2011-12-07 08:25:14)
 Beautiful Wanda - I read something in Renee Swope’s book yesterday about you only see a shadow when you turn
 away from the light,so.... turn back to the light. God bless
 Tracy
 ```
+
 ```
 Karen (2011-12-07 08:50:18)
 Beautiful picture for these precious words from our Lord...I am very thankful for that blessed Light!
 ```
+
 ```
 Renee (2011-12-07 09:48:56)
 Love this visual, Wanda! So beautiful...
 ```
+
 Lisa (2011-12-07 10:55:12)
 Wanda, my husband and I were just talking about 1 John 2 and I pointed out how that ties to John 8 - and you
 posted that very scripture. :) Love it!
@@ -28747,11 +30998,13 @@ its right or not.
 Taylor Sawyer (2011-12-09 07:13:40)
 Beautifully written! Thank you God for sending Him to save us!
 ```
+
 ```
 Kim @ Stuff could... (2011-12-09 07:31:39)
 I like the fact that He sees us all...He sent a light to shine!
 Thank God
 ```
+
 ```
 Carolyn Counterman (2011-12-09 07:50:01)
 Visiting from the Gypsy Mama.
@@ -28759,43 +31012,53 @@ What a beautiful post. I’m very thankful for the Light that was sent into the 
 of any color that is too much for Him to cleanse.
 Thanks for sharing!
 ```
+
 ```
 Joanne Sher (2011-12-09 08:29:53)
 Just beautiful, Wanda. THANK you.
 ```
+
 ```
 BLUEBUTTERFLY (2011-12-09 09:30:39)
 Very thankful for His light.
 ```
+
 ```
 Leovi (2011-12-09 10:57:30)
 I love the colors of life. Greetings.
 ```
+
 ```
 Janelle (2011-12-09 11:30:00)
 A beautifully written post!
 ```
+
 ```
 Beck Gambill (2011-12-09 13:57:18)
 Great post! I hadn’t thought of color in relation to faith before this prompt before. Really powerful!
 ```
+
 ```
 Alex J. Cavanaugh (2011-12-09 15:41:19)
 Amen! I don’t think you could’ve written more beautiful words.
 ```
+
 ```
 welcome to my world of poetry (2011-12-09 17:22:32)
 Really inspiring Wanda,
 Yvonne.
 ```
+
 ```
 Alida (2011-12-09 19:14:42)
 How beautiful! Amen and amen!
 ```
+
 ```
 susanwalkergirl (2011-12-09 19:38:40)
 You beautifully captured the colors of our Lord. Praise Him!
 ```
+
 ```
 Tracy (2011-12-09 23:46:35)
 Wanda - wow, I love how you say His light lit the world up in colour.
@@ -28803,26 +31066,31 @@ Great post
 God bless
 Tracy
 ```
+
 ```
 BARBIE (2011-12-10 01:38:34)
 Beautiful post! He radiates, shining brightly, displaying His colors everywhere.
 ```
+
 ```
 lioneagle (2011-12-10 11:23:15)
 Hi Karen -
 Thank you for this colorful message.
 It speaks volumes. Glory to GOD.
 ```
+
 ```
 Carolyn Counterman (2011-12-11 16:44:13)
 Wanda, I posted some photos of my hot pink tree if you want to come see. http://whoivealwaysbeen.blogspot.com/201-
 1/12/five-minute-friday-colo r.html
 ```
+
 ```
 Marijo (Mary Jo) Phelps (2011-12-11 20:45:20)
 Your thought processes in this one are jaw dropping. I love the visual with the colors too - bring on Jesus and His
 light!!!
 ```
+
 **The B.I.B.L.E. the Book for Me (2011-12-10 14:09)**
 
 Growing up in church the Bible has been a part of my life since my very beginning. I remember read your
@@ -28858,6 +31126,7 @@ Kim @ Stuff could... (2011-12-11 07:25:04)
 I was raised the same....with KJV Bible in a Pentecostal Church
 Like your post
 ```
+
 ```
 Sharon (2011-12-11 18:17:00)
 I remember that song from Sunday School.
@@ -28868,6 +31137,7 @@ God speaks powerfully to me through His Word. I’ll be interested in checking o
 with. Thanks for sharing.
 GOD BLESS!
 ```
+
 ```
 Carole in the UK (2011-12-11 18:20:30)
 I loved your post Wanda, it made me chuckle, as I remember when we were bored as childen, my Mum would also
@@ -28879,33 +31149,40 @@ I often thank God for the fact that I have access to so many Bibles and I am abl
 persecution.
 I look forward to your post on the CEB, as my Pastor has started to use this Bible too.
 ```
+
 ```
 Have a blessed and fruiful week for the kingdom, Wanda
 ```
+
 ```
 Sally (2011-12-11 19:22:02)
 Hello, I came by your blog following a link on pintrest through Rags by Sock Monkey. I haven’t looked at the CEB so
 threw my name into the drawing. I love the KJV for it’s poetic sound but I prefer the NIV for personal study. Thank
 you for the opportunity to win a CEB. Blessings.
 ```
+
 ```
 BLUEBUTTERFLY (2011-12-12 08:39:15)
 I love, love, love my Bible. I was encouraged to read it myself since I was a tiny tot and my love relationship with the
 word began. This blog also had all those childhood Sunday School and VBS songs playing in my head.
 ```
+
 ```
 Bernadine (2011-12-12 19:04:33)
 Hi Wanda, I grew up using the KJV Bible also. Most of the scriptures I’ve memorized over the years are from that
 version. When I’m studying I refer to other versions but if I’m just spending time reading the word it’s still KJV:)
 ```
+
 ```
 Just Be Real (2011-12-13 04:47:00)
 I remember this as well Wanda. Thank you for sharing. Blessings.
 ```
+
 ```
 LeAnn ̃ My Day In The Making (2011-12-14 13:32:40)
 I have never heard of this translation. I’ll check it out!
 ```
+
 **Get Your Aim Right (2011-12-12 00:30)**
 
 Have you ever played darts before? I am not sure why, but that was never a game played at my house. The
@@ -28952,11 +31229,13 @@ I have a strong faith in God and nothing can waver it. Thank you for what you wr
 problem, so now I get joy out of telling everyone.
 xxx
 ```
+
 ```
 Farming On Faith (2011-12-12 02:15:27)
 What a great devotion I too will use your sermon this week.
 Mine was on longsuffering still pondering on it!
 ```
+
 God is good enjoyed my visit!
 
 welcome to my world of poetry (2011-12-12 02:56:29)
@@ -29014,6 +31293,7 @@ Lee
 Linda Hoye talks about adoption and writing memoirs on
 [1]Wrote By Rote
 ```
+
 1. http://wrotebyrote.blogspot.com/
 Alida (2011-12-13 00:36:39)
 Love the acronym...easy to remember and yet, powerful!
@@ -29025,19 +31305,23 @@ darts come out! :) A nice reminder to keep our aim focused and on track.
 Blessings and hugs,
 Denise
 ```
+
 ```
 Amydeanne (2011-12-13 19:21:50)
 love the acronoym!
 ```
+
 ```
 Kimberly (2011-12-13 23:21:10)
 What a great reminder. Thank you!
 ```
+
 ```
 Nungari M. (2011-12-14 08:23:47)
 ”so that your faith might not rest on men’s wisdom, but on God’s power: I Cor 2:5...
 I liked this, very profound, thanks for sharing....a good reminder.
 ```
+
 **It Takes the Stinky Stuff (2011-12-14 06:45)**
 
 [1]
@@ -29050,6 +31334,7 @@ And he answered him, ’Sir, let it alone this year also, until I dig around it 
 Then if it should bear fruit next year, well and good; but if not, you can cut it down.’” (ESV)
 Luke 13:6-9
 ```
+
 Jesus gives a parable about a fig tree in which an owner had been expecting fruit from it for three years.
 Exacerbated by the lack of fruit after all this time, he orders the vine to be destroyed. As I read several
 translations of this passage, I was reminded that it often takes the manure of life to produce real growth in
@@ -29084,16 +31369,19 @@ Cozy in Texas (2011-12-14 06:47:58)
 Good post. We expect things to be done when we want it but God’s timing is perfect.
 Ann
 ```
+
 ```
 JBR (2011-12-14 07:01:40)
 Trusting God to act is hard. Especially when we have been waiting on our terms, a long time. Blessing
 ```
+
 ```
 Mary B (2011-12-14 07:07:31)
 Wanda...thank you...for visiting my blog, but mostly for these wonderful and true words about the stinky stuff. So
 true and I love the way you wrote about it.
 Mary
 ```
+
 ```
 Lisa (2011-12-14 07:39:18)
 Wanda, you nailed it! Thanks for the perfectly timed reminder! I am surrounded by dung and now you gave me a
@@ -29102,6 +31390,7 @@ Thanks,
 Lisa
 www.moretobe.com
 ```
+
 Felecia (2011-12-14 07:41:19)
 I am often discombobulated but now I know that God is working on me! Thanks for the visual! Love it.
 Blessings,
@@ -29156,11 +31445,13 @@ stay blessed\
 Rhapsody
 http://twitter.com/rhapsodyphoenix
 ```
+
 ```
 Alida (2011-12-15 00:41:49)
 What a great post. I am not a fan of digging or of spreading manure but I see the value in both. Our growth in Him
 is so much important than our comfort.
 ```
+
 ```
 Blue Cotton Memory (2011-12-15 12:11:07)
 So life stinking can be really good? My teens stinking up life a bit is really good for me? With a house full of boys -
@@ -29168,6 +31459,7 @@ and teens - this not only hit my funny bone - but it sure hit the deep down trut
 to work, brought me closer to the Father, and taught me more about the power of faith than I ever thought possible!
 My stinky house loves your post!
 ```
+
 ```
 Tracy (2011-12-15 13:44:39)
 Hi Wanda - all those horrible things we go through are fertilizer? Now that so makes sense why its not enjoyable
@@ -29175,26 +31467,31 @@ growing fruit! Great post Wanda and thanks for linking up, I love seeing you the
 God bless
 Tracy :)
 ```
+
 ```
 Reformed rebel (2011-12-15 22:28:58)
 Wow...never thought of growth in these terms. Love your post1
 Blessings...Chelle
 ```
+
 ```
 Rhoda (2011-12-16 01:16:42)
 That’s a really interesting thought, and very true that the things which help us grow are usually not that pleasant!
 Thanks for your visit to my blog.
 ```
+
 ```
 Sarah (Nikki) (2011-12-17 08:05:38)
 great post... great visual. Thanks Wanda
 ```
+
 ```
 LisaShaw (2011-12-18 03:15:54)
 Powerful Wanda!
 ”As I read several translations of this passage, I was reminded that it often takes the manure of life to produce real
 growth in us.”
 ```
+
 **CEB Bible Giveaway Winner (2011-12-16 06:23)**
 
 Congratulations to Lisa Phelps on winning a copy of the Common English Bible giveaway. Winner was
@@ -29208,14 +31505,17 @@ welcome to my world of poetry (2011-12-16 16:30:56)
 Congrats to the winner. Well done.
 Yvonne.
 ```
+
 ```
 Lisa (2011-12-16 19:25:17)
 Thanks, Wanda! :)
 ```
+
 ```
 BARBIE (2011-12-17 01:49:23)
 Congratulations Lisa!
 ```
+
 ```
 LisaShaw (2011-12-18 03:14:11)
 Hey Wanda,
@@ -29223,6 +31523,7 @@ I have missed my visits with you. Congratulations to the winner! Looks like it w
 I pray a blessed Christmas and New Year for you sister!
 Much love!
 ```
+
 **Treasured Thoughts (2011-12-19 06:05)**
 
 Today Im joining Joanne for [1]Monday Manna, which is designed to get together and get to know Gods
@@ -29231,6 +31532,7 @@ Word. Todays verse is Luke 2:19.
 ```
 Mary committed these things to memory and considered them carefully. (CEB)
 ```
+
 I cant imagine being selected for such a gigantic task as Mary. Even after receiving divine notification
 about her miraculous pregnancy and the child she would birth, to receive confirmation from others had to
 be encouraging.
@@ -29261,6 +31563,7 @@ and we talked about the importance of stopping everything to just take in God’
 hearts. It’s one thing to hear something or even write it down, but it is quite another to have it embedded in our
 hearts forever.
 ```
+
 Joanne Sher (2011-12-19 14:08:02)
 ”But what happens when we just move onto the next bit of information without cementing it into our hearts?”
 Exactly! And I’m guilty of NOT doing it. Wonderful thoughts, especially for now.
@@ -29314,6 +31617,7 @@ Blessings for a joyful Christmas and a New Year of health and happiness!
 ```
 Denise
 ```
+
 **Favor Is Not Without Cost (2011-12-22 07:45)**
 
 Like many this time of year, I have been reflecting upon the story of Jesus birth. On Mary in particular.
@@ -29325,6 +31629,7 @@ had the following greeting for Mary,
 ```
 Hail thou art highly favored, the Lord is with thee: blessed art thou among women.
 ```
+
 Bakers Evangelical Dictionary defines favor as gaining approval, acceptance, or special benefits or blessings.
 I like Merriam-Websters definition as well, defines favor as friendly regard shown toward another especially
 by a superior. Some how this ordinary virgin girl had gained approval, acceptance or friendly regard by her
@@ -29359,12 +31664,14 @@ Oh, Wanda. So glad you reposted. I’, pretty sure this one came before I was fo
 remember it.
 Thank you.
 ```
+
 ```
 Alida (2011-12-22 11:56:33)
 Thank you for the repost...I missed it the first time around! We talked about Mary yesterday in Bible study.
 joy and blessings to you,
 Alida
 ```
+
 ```
 Jessica (2011-12-22 14:50:56)
 This is SO good and very true! I think that sometimes we can see favor for only the ”blessing” side of it and not the
@@ -29372,21 +31679,25 @@ sacrifices that you mentioned that may (but really inevitably) come with it.
 Blessings to you, Wanda and have a very Merry Christmas :)
 Jessica
 ```
+
 ```
 BLUEBUTTERFLY (2011-12-22 16:32:22)
 Yes, Lord....counting the cost.
 ```
+
 ```
 welcome to my world of poetry (2011-12-22 16:44:05)
 A wonderful re-post Wanda.
 Yvonne.
 ```
+
 ```
 Ella (2011-12-23 22:54:24)
 Yes, so true, thank you Wanda for
 sharing your view!
 Happy Holidays to you n’ yours!
 ```
+
 ```
 Peggy (2012-01-01 22:01:23)
 Blessings Wanda and a blessed and happy New Year to you... I’m so glad that you chose to repost this one and it
@@ -29400,11 +31711,13 @@ bring blessings to you and those around you! May we grow in wisdom and stature a
 GO through; GROW us through, so we BREAK through to be more like Him! Thanks Wanda, for blessing my EVE.
 Peggy
 ```
+
 ```
 Wanda (2012-01-02 07:26:28)
 Thank you for such wonderful well wishes. Love this line...may whatever we GO through, GROW us through, so we
 BREAK through to be more like Him. I’m going to add that to my quote collection.
 ```
+
 **Merry Christmas (2011-12-24 21:53)**
 
 Wishing each of you a very Merry Christmas
@@ -29415,15 +31728,18 @@ that is filled with love, peace, joy & the presence of Christ!
 Denise (2011-12-24 22:53:58)
 Merry Christmas my friend.
 ```
+
 ```
 welcome to my world of poetry (2011-12-25 00:52:21)
 Happy Christmas Wanda
 Yvonne.
 ```
+
 ```
 Living Water (2011-12-25 07:16:20)
 A Blessed and Merry Christmas to you and yours!
 ```
+
 ```
 Arlee Bird (2011-12-25 21:01:13)
 I’m wishing you the same and also a very abundant year to come.
@@ -29431,6 +31747,7 @@ Lee
 [1]Wrote By Rote
 Lee
 ```
+
 1. http://wrotebyrote.blogspot.com/
 Judy (2011-12-26 17:27:05)
 Merry Christmas to you Wanda!
@@ -29441,6 +31758,7 @@ Judy
 ? soraya? (2011-12-26 20:32:09)
 thank you for sharing...happy holidays...blessings soraya
 ```
+
 ```
 Denise (2011-12-27 05:29:15)
 Hi Wanda,
@@ -29451,6 +31769,7 @@ I enjoyed reading ”Just a Matter of Moments”; I think we were on the same th
 Blessings for a safe, happy, and healthy New Year,
 Denise
 ```
+
 **11 Favorite Posts in 2011 (2011-12-27 09:26)**
 
 The year is quickly coming to a close. As with most years, I find myself looking back in preparation for
@@ -29511,6 +31830,7 @@ Blessings to you!
 Pam
 2 Encourage
 ```
+
 susanwalkergirl (2011-12-27 22:42:11)
 Dear Wanda,
 Since I recently discovered your blog, I look forward to reading what you’ve learned from the Lord this year. What I
@@ -29563,24 +31883,29 @@ Hi Bernadine, I can recall my own times of God slowing getting me back to praise
 Wanda (2011-12-30 17:24:15)
 test comment
 ```
+
 ```
 Wanda (2011-12-30 17:26:07)
 testing
 ```
+
 ```
 Wanda (2011-12-30 17:28:22)
 testing
 ```
+
 ```
 Alex J. Cavanaugh (2011-12-30 18:48:28)
 I usually don’t go back and read my old posts, but the recent Deja vu Blogfest forced me to go back and select one.
 It was posted again on December 16 and I have to say it’s rather funny.
 ```
+
 ```
 yvonne lewis (2011-12-31 03:06:24)
 I did the Dej a vue recently and whilst looking for a poem I was reading really old post , I thought did I REALLY
 write that.? Happy New Year Wanda. Yvonne
 ```
+
 **Standing on the Crux of Eve (2011-12-30 23:30)**
 
 [1] Here we are nearing the eve of a new year. Every since a few days before
@@ -29620,16 +31945,19 @@ Joanne Sher (2011-12-31 10:02:35)
 What fabulous thoughts, Wanda! And I love the new look :) There are SO many ”eves” that we know nothing about
 until after they happen. Will be pondering this for a while.
 ```
+
 ```
 Alex J. Cavanaugh (2011-12-31 10:13:38)
 What an incredible reminder that we often don’t see what God has planned for us! Wishing you a Happy New Year
 and a blessed 2012.
 ```
+
 ```
 Pam (2011-12-31 10:55:59)
 This is an amazing post, Wanda. I love it! Shared it with my husband. It is just the kind of writing that his mind
 likes to turn over and over and look at from all angles. Happy New Year, my friend! Pam
 ```
+
 ```
 Sharon (2011-12-31 19:06:52)
 Wanda, love the new look of your blog!! And no, you didn’t lose me! This was a great post, Wanda. I just absolutely
@@ -29638,28 +31966,34 @@ couraged by it all - thinking that I’m entering a new year with ”old stuff.�
 *Eves* any time. That gives me such encouragement, such hope. Wishing you a very HAPPY NEW YEAR! I will
 look forward to sharing our journeys in 2012! GOD BLESS!
 ```
+
 ```
 yvonne lewis (2012-01-01 04:10:04)
 Wonderful write and read. Happy New Year Wanda. Yvonne.
 ```
+
 ```
 Wanda (2012-01-01 18:54:00)
 Thanks Joanne! You’re right most eves are discovered in hindsight.
 ```
+
 ```
 Wanda (2012-01-01 18:55:07)
 Happy New Year Alex. Wishing you a year full glory of God.
 ```
+
 ```
 Wanda (2012-01-01 18:56:10)
 How nice of you to share it with your husband Pam. My mind has definitely been pondering on eve. Happy New Year
 to you!
 ```
+
 ```
 Wanda (2012-01-01 18:57:24)
 Thank you Sharon. That’s the good part about our God. He is not confined to specific calendar days. He works
 outside of the constraints of time. All the best to you in this new year Sharon.
 ```
+
 Wanda (2012-01-01 18:58:00)
 Thanks Yvonne. Hope you have a wonderful New Year!
 
@@ -29685,6 +32019,7 @@ yesterday with the A-verse.
 ```
 As for me and my household, we will serve the Lord. Joshua 24:15b
 ```
+
 A brand new verse is posted every other week. The challenge runs from January 1 to December 17. For
 more information or to join the challenge hop on over to [3]She Sparkles.
 
@@ -29696,10 +32031,12 @@ more information or to join the challenge hop on over to [3]She Sparkles.
 Wanda (2012-01-02 18:43:40)
 Hi Jessica, Happy New Year to you. Thanks for the compliment. I finally decided to jump into Wordpress.
 ```
+
 ```
 Wanda (2012-01-02 18:42:38)
 I think it’s a great way to store God’s Word in our hearts.
 ```
+
 Jessica (2012-01-02 17:50:28)
 What a wonderful idea, Wanda! I will definitely be joining in on this one :) Blessings! And Happy New Year! Jessica
 (PS: LOVE the new site layout, and congratulations on your own domain name!)
@@ -29754,18 +32091,22 @@ Have a wonderful New Year Wanda, a good idea with the challenge. good luck with 
 Alex J. Cavanaugh (2012-01-02 09:32:51)
 Second time I’ve seen this - that’s a really great Challenge!
 ```
+
 ```
 Kim @ Stuff could.... (2012-01-02 10:01:54)
 I like your new blog look....and a challenge you are good at too
 ```
+
 ```
 Joanne Sher (2012-01-02 10:40:25)
 What a great idea, Wanda! Glad you found this.
 ```
+
 ```
 Wanda (2012-01-05 18:07:36)
 Happy New Year to you Ellie
 ```
+
 **A Brand New Beginning, Now What? (2012-01-03 06:23)**
 
 [1] There is just something about the dawn of a new year that has
@@ -29786,6 +32127,7 @@ of time.
 When the earth was without form and void: and darkness was upon the face of the deep. The
 spirit of God moved upon the face of the waters. Genesis 1:2
 ```
+
 When everything was a blank slate, God got busy moving. He was doing the following:
 
 1. Creating
@@ -29809,6 +32151,7 @@ Lorena Sims (2012-01-04 19:11:36)
 A really good and thought provoking post Wanda! I really miss reading your inspiring and encouraging blog. God
 bless you!
 ```
+
 ```
 Sharon (2012-01-04 14:08:53)
 OK, Wanda - being totally hones, I’ve been letting the chaos of life overwhelm me lately. I’m not proud of that - but
@@ -29817,46 +32160,55 @@ words - what will you be speaking, life or death? I have been woefully procrasti
 God is leading me to present to other women. I must choose to live above life - so I can bring words of Life to others...
 Thanks for the inspiration today. GOD BLESS!
 ```
+
 ```
 Angel @ Finding The Inspiring (2012-01-03 14:29:50)
 Oh, this is SO GOOD! I will be contemplating this today. How to imitate God with this new year, this new beginning
 He has given me. Thank you for sharing this. Blessings to you!
 ```
+
 ```
 Tracy (2012-01-03 15:44:38)
 Hi Wanda - great post to set me thinking. I want to be creative on my clean slate and I want it to be something i
 can look back on and see that I used the paint and brush of the Lord’s word. God bless Tracy
 ```
+
 ```
 yvonne lewis (2012-01-03 16:34:57)
 I start the new year thinking what can I achieve this year, these past few years I have reached my goals, So it’s back
 to the drawing board for 2012. Yvonne.
 ```
+
 ```
 Alex J. Cavanaugh (2012-01-03 18:05:04)
 That’s really profound if you think about it - what we create will be in OUR image. So we better make it good!
 ```
+
 ```
 susie swanson (2012-01-03 18:38:20)
 Good post and a very thought provoking one.. I need to get busy .. Thank you and May God Bless you in the New
 Year..Susie
 ```
+
 ```
 jackie (2012-01-03 20:03:58)
 It’s bee awhile that we haven’t shared our thoughts together. Thanks for dropping by on my blog. I am about to give
 birth soon. Please include me in your prayers... Please pray for a safe and normal delivery and for a very healthy
 baby too! Thanks once again. God bless :)
 ```
+
 ```
 Emmah (2012-01-04 01:15:03)
 I want God this year. I desire more of Him, nothing but Him...hopefully we will write on the slate together! That
 way God and i can create, speak and order things in my life. Happy 2012!
 ```
+
 ```
 Nikki (Sarah) (2012-01-04 06:54:25)
 what a great post. This is a fabulous way to look at the new year. Helps me to frame my own thinking about it.
 Thanks Wanda
 ```
+
 Betty Alark (2012-01-04 07:21:31)
 I was very inspired by your words! I have every desire to be creative- I just need to be lifted up to have the energy to
 do so in 2012. Hope someone will lift me up in prayer!
@@ -29910,3 +32262,4 @@ LATEX 2_ε_ & GNU/Linux.
 ```
 Edited: January 6, 2012
 ```
+

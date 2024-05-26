@@ -8,9 +8,11 @@ Kruislaan 413,
 1098 SJ Amsterdam,
 The Netherlands
 ```
+
 ```
 and
 ```
+
 ```
 Department of Mathematics,
 University of Amsterdam,
@@ -18,15 +20,18 @@ Plantage Muidergracht 24,
 1018 TV Amsterdam,
 The Netherlands.
 ```
+
 ```
 March 23, 2017
 copyright ©c A. Schrijver
 ```
+
 ## 1. Shortest paths and trees
 
 ### 1.1. Shortest paths with nonnegative lengths
 
 Let _D_ = (_V, A_) be a directed graph, and let _s, t_ ∈ _V_. A _walk_ is a sequence _P_ =
+(_v_[^0]:_, a_[^1]:_, v_[^1]:_,... , am, vm_) where _ai_ is an arc from _vi_−[^1]: to _vi_ for _i_ = 1_,... , m_. If _v_[^0]:_,... , vm_
 all are different, _P_ is called a _path_.
 If _s_ = _v_[^0]: and _t_ = _vm_, the vertices _s_ and _t_ are the _starting_ and _end vertex_ of _P_,
 respectively, and _P_ is called an _s_ − _t walk_, and, if _P_ is a path, an _s_ − _t path_. The
@@ -82,12 +87,15 @@ the length of _P_. That is:
 ```
 ∑m
 ```
+
 ```
 i=1
 ```
+
 ```
 l(ai).
 ```
+
 Now the _distance_ from _s_ to _t_ (with respect to _l_) is equal to the minimum length of
 any _s_ − _t_ path. If no _s_ − _t_ path exists, the distance is +∞.
 Again there is an easy algorithm, due to Dijkstra [1959], to find a minimum-length
@@ -131,6 +139,7 @@ _l_ : _A_ → Q+_, a shortest s_ − _t path can be found in time O_(|_V_ |[^2])
 For an improvement, see Section 1.2.
 A weighted version of Theorem 1.2 is as follows:
 ```
+
 **Theorem 1.5.** _Let D_ = (_V, A_) _be a directed graph, s, t_ ∈ _V , and let l_ : _A_ → Z+_._
 _Then the minimum length of an s_−_t path is equal to the maximum number k of s_−_t_
 _cuts C_[^1]:_,... , Ck (repetition allowed) such that each arc a is in at most l_(_a_) _of the cuts_
@@ -145,42 +154,55 @@ path and _C_[^1]:_,... , Ck_ is any collection as described in the theorem:[^3]
 ```
 ∑
 ```
+
 ```
 a∈AP
 ```
+
 ```
 l(a) ≥
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈AP
 ```
+
 ```
 ( number of i with a ∈ Ci)
 ```
+
 ```
 =
 ```
+
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 |Ci ∩ AP|≥
 ```
+
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 1 = k.
 ```
+
 To see equality, let _d_ be the distance from _s_ to _t_, and let _Ui_ be the set of vertices
 at distance less than _i_ from _s_, for _i_ = 1_,... , d_. Taking _Ci_ := _δ_out(_Ui_), we obtain a
 collection _C_[^1]:_,... , Cd_ as required.
@@ -197,15 +219,18 @@ of fuel is used, taking weather, altitude, velocities, and air currents into acc
 ```
 3AP denotes the set of arcs traversed by P
 ```
+
 ```
 found by a shortest path algorithm (if the problem is appropriately discretized — otherwise
 it is a problem of ‘calculus of variations’). A similar problem occurs when finding the
 optimum route for boring say an underground railway tunnel.
 ```
+
 ```
 Application 1.2: Dynamic programming. A company has to perform a job that will
 take 5 months. For this job a varying number of extra employees is needed:
 ```
+
 ```
 (6) month number of extra employees needed
 1 b1=10
@@ -214,6 +239,7 @@ take 5 months. For this job a varying number of extra employees is needed:
 4 b4=8
 5 b5=11
 ```
+
 ```
 Recruiting and instruction costs EUR 800 per employee, while stopping engagement costs
 EUR 1200 per employee. Moreover, the company has costs of EUR 1600 per month for
@@ -224,14 +250,17 @@ Clearly, in the example in any month i, the company should have at least bi and 
 11 extra employees for this job. To solve the problem, make a directed graph D = (V,A)
 with
 ```
+
 ```
 (7) V := {(i,x) | i = 1,...,5;bi ≤ x ≤ 11}∪{(0,0),(6,0)},
 A := {((i,x),(i + 1,y)) ∈ V × V | i = 0,...,5}.
 ```
+
 ```
 (Figure 1.1).
 At the arc from (i,x) to (i + 1,y) we take as length the sum of
 ```
+
 (8) (i) the cost of starting or stopping engagement when passing from _x_ to _y_ employees
 (this is equal to 8(_y_ − _x_) if _y_ ≥ _x_ and to 12(_x_ − _y_) if _y < x_);
 (ii) the cost of keeping the surplus of employees in month _i_+1 (that is, 16(_y_−_bi_+1))
@@ -242,134 +271,175 @@ Now the shortest path from (0,0) to (6,0) gives the number of employees for each
 so that the total cost will be minimized. Finding a shortest path is thus a special case of
 dynamic programming.
 ```
+
 ```
 Exercises
 ```
+
 ```
 1.1. Solve the dynamic programming problem in Application 1.2 with Dijkstra’s method.
 ```
+
 ```
 8
 64
 ```
+
 ```
 40
 ```
+
 ```
 24
 ```
+
 ```
 64
 72
 60
 48
 ```
+
 ```
 40
 48
 ```
+
 ```
 24
 ```
+
 ```
 28
 ```
+
 ```
 12
 ```
+
 ```
 16
 ```
+
 ```
 40
 ```
+
 ```
 24
 ```
+
 ```
 48
 ```
+
 ```
 56 32 16
 ```
+
 ```
 56 64
 ```
+
 ```
 40
 ```
+
 ```
 32
 ```
+
 ```
 44
 ```
+
 ```
 16
 12 36
 ```
+
 ```
 28
 40
 ```
+
 ```
 8
 ```
+
 ```
 16
 ```
+
 ```
 24
 ```
+
 ```
 104
 ```
+
 ```
 80
 ```
+
 ```
 132
 ```
+
 ```
 36
 ```
+
 ```
 32 48 0
 ```
+
 ```
 0
 ```
+
 ```
 56
 ```
+
 ```
 0 1 2 3 4 5 6
 ```
+
 ```
 0
 ```
+
 ```
 7
 ```
+
 ```
 8
 ```
+
 ```
 9
 ```
+
 ```
 10
 ```
+
 ```
 11
 ```
+
 ```
 44
 52
 ```
+
 ```
 Figure 1.1
 ```
+
 ### 1.2. Speeding up Dijkstra’s algorithm with heaps
 
 For dense graphs, a running time bound of _O_(|_V_ |[^2]) for a shortest path algorithm is
@@ -388,6 +458,7 @@ _f_(_u_).
 ```
 Let us first consider the 2-heap. This can be described by an ordering u1,... , un
 ```
+
 [^4]:A _rooted forest_ is an acyclic directed graph _D_ = (_V,A_) such that each vertex has indegree at
 most 1. The vertices of indegree 0 are called the _roots_ of _D_. If (_u,v_) ∈ _A_, then _u_ is called the _parent_
 of _v_ and _v_ is called a _child_ of _u_.
@@ -416,6 +487,7 @@ _O_(log |_U_|).
 ```
 This gives the result of Johnson [1977]:
 ```
+
 **Corollary 1.6a.** _Given a directed graph D_ = (_V, A_)_, s, t_ ∈ _V and a length function_
 _l_ : _A_ → Q+_, a shortest s_ − _t path can be found in time O_(|_A_|log |_V_ |)_._
 **Proof.** Since the number of times a minimizing vertex _u_ is deleted and the number
@@ -445,6 +517,7 @@ Fibonacci forest.
 Let k := dout(v) and let vi be the ith child of v (for i = 1,... , k). By induction,
 σ(vi) ≥ 2(dout(vi)−1)/[^2] ≥ 2(i−3)/[^2], as dout(vi) ≥ i − 2. Hence σ(v) = 1 +
 ```
+
 ```
 ∑k
 i=1 σ(vi) ≥
@@ -454,15 +527,18 @@ i=1[^2](i−3)/[^2] = 2(k−1)/[^2] + 2(k−2)/[^2] +[^1]
 2 −[^1]
 2
 ```
+
 ```
 √
 2 ≥ 2(k−1)/[^2].
 ```
+
 ```
 Now a Fibonacci heap consists of a Fibonacci forest (U, F), where for each v ∈ U
 the children of v are ordered so that the ith child has at least i − 2 children, and a
 subset T of U with the following properties:
 ```
+
 (9) (i) if (_u, v_) ∈ _F_ then _f_(_u_) ≤ _f_(_v_);
 (ii) if _v_ is the _i_th child of _u_ and _v_ 6∈ _T_ then _v_ has at least _i_ − 1 children;
 (iii) if _u_ and _v_ are two distinct roots, then _d_out(_u_) [^6]:= _d_out(_v_).
@@ -471,6 +547,7 @@ subset T of U with the following properties:
 So by Theorem 1.7, (9)(iii) implies that there exist at most 2 + 2 log |U| roots.
 The Fibonacci heap will be described by the following data structure:
 ```
+
 (10) (i) for each _u_ ∈ _U_, a doubly linked list _Cu_ of children of _u_ (in order);
 (ii) a function _p_ : _U_ → _U_, where _p_(_u_) is the parent of _u_ if it has one, and
 _p_(_u_) = _u_ otherwise;
@@ -481,11 +558,13 @@ _p_(_u_) = _u_ otherwise;
 u for each root u;
 (v) a function l : U →{0,1} such that l(u) = 1 if and only if u ∈ T.
 ```
+
 ```
 Theorem 1.8. When finding and deleting n times a u minimizing f(u) and decreas-
 ing m times the value f(u), the structure can be updated in time O(m + p + nlog p),
 where p is the number of vertices in the initial forest.
 ```
+
 ```
 Proof. Indeed, a u minimizing f(u) can be identified in time O(log p), since we can
 scan f(b(i)) for i = 0,... , t. It can be deleted as follows. Let v1,... , vk be the children
@@ -493,20 +572,24 @@ of u. First delete u and all arcs leaving u from the forest. In this way, v1,...
 become roots, of a Fibonacci forest, and conditions (9)(i) and (ii) are maintained. To
 repair condition (9)(iii), do for each r = v1,... , vk the following:
 ```
+
 ```
 (11) repair(r):
 if dout(s) = dout(r) for some root s 6= r, then:
 {if f(s) ≤ f(r), add s as last child of r and repair(r);
 otherwise, add r as last child of s and repair(s)}.
 ```
+
 ```
 Note that conditions (9)(i) and (ii) are maintained, and that the existence of a root
 s 6= r with dout(s) = dout(r) can be checked with the functions b, dout, and p. (During
 the process we update the data structure.)
 ```
+
 ```
 If we decrease the value f(u) for some u ∈ U we apply the following to u:
 ```
+
 (12) _make root_(_u_):
 if _u_ has a parent, _v_ say, then:
 {delete arc (_v, u_) and repair(_u_);
@@ -531,6 +614,7 @@ we have that the algorithm takes time _O_(_m_ + _p_ + _n_log _p_).
 ```
 As a consequence one has:
 ```
+
 **Corollary 1.8a.** _Given a directed graph D_ = (_V, A_)_, s, t_ ∈ _V and a length function_
 _l_ : _A_ → Q+_, a shortest s_ − _t path can be found in time O_(|_A_| + |_V_ |log |_V_ |)_._
 **Proof.** Directly from the description of the algorithm.
@@ -550,6 +634,7 @@ _s, t of vertices for which there exists at least one s_ − _t walk, there exis
 ```
 s − t walk, which is a path.
 ```
+
 ```
 Proof. Clearly, if there exists an s − t walk, there exists an s − t path. Hence there
 exists also a shortest path P, that is, an s − t path that has minimum length among
@@ -562,12 +647,14 @@ As l(C) ≥ 0, l(Q′) = l(Q) − l(C) ≤ l(Q) < L. So Q′ is another s − t 
 less than L, however with a smaller number of arcs than Q. This contradicts the
 assumption that Q has a minimum number of arcs.
 ```
+
 ```
 Also in this case there is an easy algorithm, the Bellman-Ford method (Bellman
 [1958], Ford [1956]), determining a shortest s − t path.
 Let n := |V |. The algorithm calculates functions f0, f1, f2,... , fn : V → R ∪{∞}
 successively by the following rule:
 ```
+
 (15) (i) Put _f_[^0]:(_s_) := 0 and _f_[^0]:(_v_) := ∞ for all _v_ ∈ _V_ \{_s_}.
 (ii) For _k < n_, if _fk_ has been found, put
 
@@ -575,24 +662,30 @@ successively by the following rule:
 fk+1(v) := min{fk(v), min
 (u,v)∈A(fk(u) + l(u, v))}
 ```
+
 ```
 for all v ∈ V.
 ```
+
 ```
 Then, assuming that there is no directed circuit of negative length, fn(v) is equal to
 the length of a shortest s − v walk, for each v ∈ V. (If there is no s − v path at all,
 fn(v) = ∞.)
 This follows directly from the following theorem:
 ```
+
 ```
 Theorem 1.10. For each k = 0,... , n and for each v ∈ V ,
 ```
+
 ```
 (16) fk(v) = min{l(P) |P is an s − v walk traversing at most k arcs}.
 ```
+
 ```
 Proof. By induction on k from (15).
 ```
+
 ```
 So the above method gives us the length of a shortest s−t path. It is not difficult
 to derive a method finding an explicit shortest s − t path. To this end, determine
@@ -600,6 +693,7 @@ parallel to the functions f0,... , fn, a function g : V → V by setting g(v) = 
 we set fk+1(v) := fk(u) + l(u, v) in (15)(ii). At termination, for any v, the sequence
 v, g(v), g(g(v)),... , s gives the reverse of a shortest s − v path. Therefore:
 ```
+
 **Corollary 1.10a.** _Given a directed graph D_ = (_V, A_)_, s, t_ ∈ _V and a length function_
 _l_ : _A_ → Q_, such that D has no negative-length directed circuit, a shortest s_ − _t path_
 _can be found in time O_(|_V_ ||_A_|)_._
@@ -623,6 +717,7 @@ to do this so that the total value of articles taken into the knapsack is as lar
 ```
 We can describe this problem as one of finding x1,x2,x3,x4,x5 such that:
 ```
+
 (18) _x_[^1]:_,x_[^2]:_,x_[^3]:_,x_[^4]:_,x_[^5]: ∈{[^0]:_,_[^1]:},
 [^5]:_x_[^1]: + 3_x_[^2]: + 2_x_[^3]: + 2_x_[^4]: + _x_[^5]: ≤ 8,
 [^4]:_x_[^1]: + 7_x_[^2]: + 3_x_[^3]: + 5_x_[^4]: + 4_x_[^5]: is as large as possible.
@@ -646,125 +741,165 @@ number of days:
 ```
 -4
 ```
+
 ```
 0 0 0
 ```
+
 ```
 0 0 0
 ```
+
 ```
 0 0
 ```
+
 ```
 0 0 0 0 0
 ```
+
 ```
 0 0
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 -7
 ```
+
 ```
 -7
 -3
 ```
+
 ```
 -3
 ```
+
 ```
 -3
 -5
 ```
+
 ```
 -5
 ```
+
 ```
 -5
 ```
+
 ```
 -5
 ```
+
 ```
 -4
 ```
+
 ```
 -4
 ```
+
 ```
 -4
 ```
+
 ```
 -4
 ```
+
 ```
 -4
 ```
+
 ```
 0 0 0 0
 ```
+
 ```
 0 1 2 3 4 5 6
 ```
+
 ```
 0
 ```
+
 ```
 1
 ```
+
 ```
 2
 ```
+
 ```
 3
 ```
+
 ```
 4
 ```
+
 ```
 5
 ```
+
 ```
 6
 ```
+
 ```
 7
 ```
+
 ```
 8
 ```
+
 ```
 0
 ```
+
 ```
 -4
 ```
+
 ```
 Figure 1.2
 ```
+
 (19) activity days needed to be done before
 activity #
 
@@ -793,76 +928,99 @@ is called the _project network_.
 ```
 2 4
 ```
+
 ```
 10
 10
 10
 ```
+
 ```
 4
 4
 ```
+
 ```
 5
 ```
+
 ```
 7
 ```
+
 ```
 7 9
 ```
+
 ```
 8 4 6
 ```
+
 ```
 2
 ```
+
 ```
 1 2 3
 ```
+
 ```
 4
 ```
+
 ```
 6
 ```
+
 ```
 7 8 9
 ```
+
 ```
 5
 ```
+
 ```
 10
 ```
+
 ```
 14
 ```
+
 ```
 11
 ```
+
 ```
 12
 ```
+
 ```
 13
 ```
+
 ```
 15
 ```
+
 ```
 8 5
 ```
+
 ```
 6
 ```
+
 ```
 0
 0
 ```
+
 ```
 Figure 1.3
 ```
+
 Now a _longest_ path from 0 to 15 gives the minimum number of days needed to build the
 house. Indeed, if _li_ denotes the length of a longest path from 0 to _i_, we can start activity _i_
 on day _li_. If activity _j_ has been done after activity _i_, then _lj_ ≥ _li_+_ti_ by definition of longest
@@ -893,13 +1051,16 @@ liter of oil from _X_ to _Y_.
 ```
 B
 ```
+
 ```
 C D
 ```
+
 ```
 E F
 Figure 1.4
 ```
+
 At a certain day, one detects an oil well in village _B_, and it makes oil freely available
 in village _B_. Now one can follow how the oil price will develop, assuming that no other oil
 than that from the well in _B_ is available and that only once a week there is contact between
@@ -934,60 +1095,79 @@ in the same way as above.
 1.2. Find with the Bellman-Ford method shortest paths from s to each of the other vertices
 in the following graphs (where the numbers at the arcs give the length):
 ```
+
 ```
 (i)
 ```
+
 ```
 3
 ```
+
 ```
 −2
 ```
+
 ```
 1
 ```
+
 ```
 4
 ```
+
 ```
 −1 −3
 ```
+
 ```
 3
 ```
+
 ```
 7 2
 ```
+
 ```
 1
 ```
+
 ```
 2 −5
 ```
+
 ```
 s
 ```
+
 ```
 (ii)
 ```
+
 ```
 2 1 −2 −4 7 −1
 ```
+
 ```
 1 1
 ```
+
 ```
 3 −3 4
 ```
+
 ```
 7 4 3 −8 3 2
 ```
+
 ```
 2 −4
 ```
+
 ```
 s
 ```
+
 1.3. Let be given the distance table:
 
 ```
@@ -1000,12 +1180,14 @@ E ∞ ∞ ∞ 4 0 ∞ ∞
 F ∞ ∞ ∞ 9 3 0 12
 G ∞ −12 2 3 −[^1] −4 0
 ```
+
 ```
 A distance ∞ from X to Y should be interpreted as no direct route existing from X
 to Y.
 Determine with the Bellman-Ford method the distance from A to each of the other
 cities.
 ```
+
 1.4. Solve the knapsack problem of Application 1.3 with the Bellman-Ford method.
 
 1.5. Describe an algorithm that tests if a given directed graph with length function con-
@@ -1017,6 +1199,7 @@ reachable from s. Show that the minimum number of arcs in an s − t path is equ
 to the maximum value of φ(t) − φ(s), where φ ranges over all functions φ : V → Z
 such that φ(w) − φ(v) ≤ 1 for each arc (v,w).
 ```
+
 ### 1.4. Minimum spanning trees
 
 Let _G_ = (_V, E_) be a connected undirected graph and let _l_ : _E_ → R be a function,
@@ -1027,12 +1210,15 @@ called the _length_ function. For any subset _F_ of _E_, the _length l_(_F_) of 
 ```
 ∑
 ```
+
 ```
 e∈F
 ```
+
 ```
 l(e).
 ```
+
 In this section we consider the problem of finding a spanning tree in _G_ of minimum
 length. There is an easy algorithm for finding a minimum-length spanning tree,
 essentially due to Bor ̊uvka [1926]. There are a few variants. The first one we discuss
@@ -1064,6 +1250,7 @@ _length._
 ```
 7δ(U) is the set of edges e satisfying |e ∩ U| = 1.
 ```
+
 **Proof.** It follows inductively with Theorem 1.11 that at each stage of the algorithm
 we have a greedy forest. Hence the final tree is greedy — equivalently, it has minimum
 length.
@@ -1071,6 +1258,7 @@ length.
 ```
 In fact one may show:
 ```
+
 **Theorem 1.12.** _Implementing the Dijkstra-Prim method using Fibonacci heaps gives_
 _a running time of O_(|_E_| + |_V_ |log |_V_ |)_._
 
@@ -1103,6 +1291,7 @@ edges form a spanning tree of _G_.
 ```
 In a similar way one finds a maximum-length spanning tree.
 ```
+
 **Application 1.6: Minimum connections.** There are several obvious practical situations
 where finding a minimum-length spanning tree is important, for instance, when designing a
 road system, electrical power lines, telephone lines, pipe lines, wire connections on a chip.
@@ -1137,31 +1326,40 @@ We leave the proof as an exercise (Exercise 1.11).
 1.7. Find, both with the Dijkstra-Prim algorithm and with Kruskal’s algorithm, a span-
 ning tree of minimum length in the graph in Figure 1.5.
 ```
+
 ```
 3 2
 ```
+
 ```
 2 4 1
 ```
+
 ```
 5 3
 ```
+
 ```
 3 6 3
 ```
+
 ```
 5 4 4 6 2 3
 ```
+
 ```
 4 3 5 7 4 2
 ```
+
 ```
 Figure 1.5
 ```
+
 ```
 1.8. Find a spanning tree of minimum length between the cities given in the following
 distance table:
 ```
+
 Ame Ams Ape Arn Ass BoZ Bre Ein Ens s-G Gro Haa DH s-H Hil Lee Maa Mid Nij Roe Rot Utr Win Zut Zwo
 Amersfoort 0 47 47 46 139 123 86 111 114 81 164 67 126 73 18 147 190 176 63 141 78 20 109 65 70
 Amsterdam 47 0 89 92 162 134 100 125 156 57 184 20 79 87 30 132 207 175 109 168 77 40 151 107 103
@@ -1196,6 +1394,7 @@ Let F be a good forest and e be an edge not in F such that F ∪{e} is a forest 
 such that (among all such e) l(e) is as small as possible. Show that F ∪{e} is good
 again.
 ```
+
 ```
 1.10. Let G = (V,E) be a complete graph and let l : E → R+ be a length function satisfying
 l(uw) ≥ min{l(uv),l(vw)} for all distinct u,v,w ∈ V. Let T be a longest spanning
@@ -1203,9 +1402,11 @@ tree in G.
 Show that for all u,w ∈ V , l(uw) is equal to the minimum length of the edges in the
 unique u − w path in T.
 ```
+
 ```
 1.11. Prove (24).
 ```
+
 ## 2. Polytopes, polyhedra, Farkas’
 
 ## lemma, and linear programming
@@ -1220,25 +1421,31 @@ Clearly, the intersection of any number of convex sets is again a convex set. So
 for any subset X of Rn, the smallest convex set containing X exists. This set is called
 the convex hull of X and is denoted by conv.hull(X). One easily proves:
 ```
+
 ```
 (1) conv.hull(X) = {x |∃t ∈ N,∃x1,... , xt ∈ X,∃λ1,... , λt ≥ 0 :
 x = λ1x1 + ··· + λtxt, λ1 + ··· + λt = 1}.
 ```
+
 ```
 A basic property of closed convex sets is that any point not in C can be separated
 from C by a ‘hyperplane’. Here a subset H of Rn is called a hyperplane (or an affine
 hyperplane) if there exist a vector c ∈ Rn with c 6= 0 and a δ ∈ R such that:
 ```
+
 ```
 (2) H = {x ∈ Rn | cTx = δ}.
 ```
+
 ```
 We say that H separates z and C if z and C are in different components of Rn \ H.
 ```
+
 ```
 Theorem 2.1. Let C be a closed convex set in Rn and let z 6∈ C. Then there exists
 a hyperplane separating z and C.
 ```
+
 ```
 Proof. Since the theorem is trivial if C = ∅, we assume C 6= ∅. Then there exists a
 vector y in C that is nearest to z, i.e., that minimizes ‖z − y‖.
@@ -1248,19 +1455,24 @@ z and radius r. Then y minimizes the continuous function ‖z − y‖ over the 
 set B(z, r) ∩ C.)
 Now define:
 ```
+
 ```
 (3) c := z − y, δ :=
 ```
+
 ```
 1
 2
 ```
+
 ```
 (‖z‖[^2] −‖y‖[^2]).
 ```
+
 ```
 We show
 ```
+
 (4) (i) _cTz > δ_,
 (ii) _cTx < δ_ for each _x_ ∈ _C_.
 
@@ -1276,6 +1488,7 @@ _cTy_ +[^1]
 2cT(x − y)
 ‖x − y‖[^2].
 ```
+
 Define
 
 (6) _w_ := _λx_ + (1 − _λ_)_y._
@@ -1303,30 +1516,36 @@ an affine halfspace _H_ so that _C_ ⊆ _H_ and _z_ 6∈ _H_.
 ```
 2.1. Let C ⊆ Rn. Then C is a closed convex set if and only if C =
 ```
+
 ```
 ⋂
 F for some collection
 F of affine halfspaces.
 ```
+
 ```
 2.2. Let C ⊆ Rn be a convex set and let A be an m × n matrix. Show that the set
 {Ax | x ∈ C} is again convex.
 ```
+
 ```
 2.3. Let X be a finite set of vectors in Rn. Show that conv.hull(X) is compact.
 (Hint: Show that conv.hull(X) is the image under a continuous function of a compact
 set.)
 ```
+
 ```
 2.4. Show that if z ∈ conv.hull(X), then there exist affinely independent vectors x1,...,xm
 in X such that z ∈ conv.hull{x1,...,xm}. (This is the affine form of ‘Carath ́eodory’s
 theorem’ (Carath ́eodory [1911]).)
 ```
+
 ```
 (Vectors x1,...,xm are called affinely independent if there are no reals λ1,...,λm,
 such that λ1x1 +···+λmxm = 0 and λ1 +···+λm = 0 and such that λ1,...,λm are
 not all equal to 0.)
 ```
+
 ```
 2.5. (i) Let C and D be two nonempty, bounded, closed, convex subsets of Rn such that
 C ∩ D = ∅. Derive from Theorem 2.1 that there exists an affine hyperplane H
@@ -1335,6 +1554,7 @@ Rn \ H.)
 (Hint: Consider the set C − D := {x − y | x ∈ C,y ∈ D}.)
 (ii) Show that in (i) we cannot delete the boundedness condition.
 ```
+
 ### 2.2. Polytopes and polyhedra
 
 Special classes of closed convex sets are formed by the polytopes and the polyhedra.
@@ -1415,70 +1635,87 @@ conv.hull{_x_[^1]:_,... , xt_}_._
 since x1,... , xt belong to P and since P is convex.
 The reverse inclusion amounts to:
 ```
+
 ```
 (16) if z ∈ P then z ∈ conv.hull{x1,... , xt}.
 ```
+
 ```
 We show (16) by induction on n − rank(Az).
 If n − rank(Az) = 0, then rank(Az) = n, and hence, by Theorem 2.2, z itself is a
 vertex of P. So z ∈ conv.hull{x1,... , xt}.
 If n − rank(Az) > 0, then there exists a vector c 6= 0 such that Azc = 0. Define
 ```
+
 ```
 (17) μ0 := max{μ | z + μc ∈ P},
 ν0 := max{ν | z − νc ∈ P}.
 ```
+
 ```
 These numbers exist since P is compact. Let x := z + μ0c and y := z − ν0c.
 Now
 ```
+
 ```
 (18) μ0 = min{
 ```
+
 ```
 bi − aiz
 aic
 ```
+
 ```
 | ai is a row of A; aic > 0}.
 ```
+
 ```
 This follows from the fact that μ0 is the largest μ such that ai(z + μc) ≤ bi for each
 i = 1,... , m. That is, it is the largest μ such that
 ```
+
 ```
 (19) μ ≤
 bi − aiz
 aic
 ```
+
 ```
 for every i with aic > 0.
 Let the minimum (18) be attained by i0. So for i0 we have equality in (18).
 Therefore
 ```
+
 (20) (i) _Azx_ = _Azz_ + _μ_[^0]:_Azc_ = _Azz,_
 
 ```
 (ii) ai0x = ai0(z + μ0c) = bi0.
 ```
+
 ```
 So Ax contains all rows in Az, and moreover it contains row ai0. Now Azc = 0
 while ai0c 6= 0. This implies rank(Ax) > rank(Az). So by our induction hypothesis, x
 belongs to conv.hull{x1,... , xt}. Similarly, y belongs to conv.hull{x1,... , xt}. There-
 fore, as z is a convex combination of x and y, z belongs to conv.hull{x1,... , xt}.
 ```
+
 ```
 As a direct consequence we have:
 ```
+
 ```
 Corollary 2.3a. Each bounded polyhedron is a polytope.
 ```
+
 ```
 Proof. Directly from Theorem 2.3.
 ```
+
 ```
 Conversely:
 ```
+
 **Theorem 2.4.** _Each polytope is a bounded polyhedron._
 
 **Proof.** Let _P_ be a polytope in R_n_, say
@@ -1499,6 +1736,7 @@ Without loss of generality, _x_[^0]: = 0. Define _P_∗ by
 ```
 Then P∗ is a polyhedron, as
 ```
+
 (23) _P_∗ = {_y_ ∈ R_n_ | _xT_
 _j y_ ≤ 1 for _j_ = 1_,... , t_}_._
 
@@ -1510,22 +1748,28 @@ then _x_ = _λ_[^1]:_x_[^1]: + ··· + _λtxt_ for certain _λ_[^1]:_,... , λt
 ```
 ∑t
 ```
+
 ```
 j=1
 ```
+
 ```
 λjxT
 j y ≤
 ```
+
 ```
 ∑t
 ```
+
 ```
 j=1
 ```
+
 ```
 λj = 1.
 ```
+
 So _y_ belongs to _P_∗.
 Moreover, _P_∗ is bounded, since for each _y_ [^6]:= 0 in _P_∗ one has that _x_ := _r_ ·‖_y_‖−[^1] ·_y_
 belongs to _B_(0_, r_) and hence to _P_. Therefore, _xTy_ ≤ 1, and hence
@@ -1563,22 +1807,28 @@ contradiction:
 ```
 ∑s
 ```
+
 ```
 j=1
 ```
+
 ```
 μjyT
 j x ≤
 ```
+
 ```
 ∑s
 ```
+
 ```
 j=1
 ```
+
 ```
 μj = 1.
 ```
+
 **Convex cones**
 
 Convex cones are special cases of convex sets. A subset _C_ of R_n_ is called a _convex_
@@ -1590,11 +1840,13 @@ For any _X_ ⊆ R_n_, cone(_X_) is the smallest cone containing _X_. One easily 
 ```
 A cone C is called finitely generated if C = cone(X) for some finite set X.
 ```
+
 **Exercises**
 
 ```
 2.6. Determine the vertices of the following polyhedra:
 ```
+
 ```
 (i) P = {(x,y) | x ≥ 0,y ≥ 0,y − x ≤ 2,x + y ≤ 8,x + 2y ≤ 10,x ≤ 4}.
 (ii) P = {(x,y,z) | x + y ≤ 2,y + z ≤ 4,x + z ≤ 3,−2x − y ≤ 3,−y − 2z ≤
@@ -1605,23 +1857,28 @@ A cone C is called finitely generated if C = cone(X) for some finite set X.
 (vi) P = {(x,y,z) | x + y ≥ 1,x + z ≥ 1,y − z ≥ 0}.
 (vii) P = {(x,y) | 3x + 2y ≤ 18,x − y ≥−6,5x + 2y ≤ 20,x ≥ 0,y ≥ 0}.
 ```
+
 ```
 2.7. Let C ⊆ Rn. Then C is a closed convex cone if and only if C =
 ```
+
 ```
 ⋂
 F for some
 collection F of linear halfspaces.
 ```
+
 ```
 (A subset H of Rn is called a linear halfspace if H = {x ∈ Rn | cTx ≤ 0} for some
 nonzero vector c.)
 ```
+
 ```
 2.8. Show that if z ∈ cone(X), then there exist linearly independent vectors x1,...,xm
 in X such that z ∈ cone{x1,...,xm}. (This is the linear form of ‘Carath ́eodory’s
 theorem’.)
 ```
+
 ```
 2.9. Let A be an m × n matrix of rank m and let b ∈ Rm. Derive from Exercise 2.8 that
 the system Ax = b has a nonnegative solution x if and only if it has a nonnegative
@@ -1630,6 +1887,7 @@ basic solution.
 A. A solution x of Ax = b is a basic solution if A has a basis B so that x is 0 in those
 coordinates not corresponding to columns in B.)
 ```
+
 2.10. Prove that every finitely generated convex cone is a closed set. (This can be derived
 from Exercise 2.3 and Corollary 2.3a.)
 
@@ -1643,26 +1901,32 @@ some polytope _Q_ and some finitely generated convex cone _C_.
 ```
 (Hint: Apply Exercise 2.11 to cone(X) in Rn+1, where X is the set of vectors
 ```
+
 ```
 (
 1
 x
 ```
+
 ```
 )
 ```
+
 ```
 in Rn+1 with x ∈ P.)
 ```
+
 2.13. For any subset _X_ of R_n_, define
 
 ```
 (30) X∗ := {y ∈ Rn | xTy ≤ 1 for each x ∈ X}.
 ```
+
 ```
 (i) Show that for each convex cone C, C∗ is a closed convex cone.
 (ii) Show that for each closed convex cone C, (C∗)∗ = C.
 ```
+
 2.14. Let _P_ be a polyhedron.
 
 ```
@@ -1671,6 +1935,7 @@ in Rn+1 with x ∈ P.)
 (ii) Show that P contains the origin if and only if (P∗)∗ = P.
 (iii) Show that the origin is an internal point of P if and only if P∗ is bounded.
 ```
+
 ### 2.3. Farkas’ lemma
 
 Let _A_ be an _m_ × _n_ matrix and let _b_ ∈ R_m_. With the Gaussian elimination method
@@ -1679,48 +1944,59 @@ one can prove that
 ```
 (31) Ax = b
 ```
+
 ```
 has a solution x if and only if there is no solution y for the following system of linear
 equations:
 ```
+
 ```
 (32) yTA = 0, yTb = −1.
 ```
+
 ```
 Farkas’ lemma (Farkas [1894,1896,1898]) gives an analogous characterization for
 the existence of a nonnegative solution x for (31).
 ```
+
 ```
 Theorem 2.5 (Farkas’ lemma). The system Ax = b has a nonnegative solution if
 and only if there is no vector y satisfying yTA ≥ 0 and yTb < 0.
 ```
+
 ```
 Proof. Necessity. Suppose Ax = b has a solution x0 ≥ 0 and suppose there exists a
 vector y0 satisfying yT
 0 A ≥ 0 and yT
 0 b < 0. Then we obtain the contradiction
 ```
+
 ```
 (33) 0 > yT
 0 b = yT
 0 (Ax[^0]) = (yT
 0 A)x[^0] ≥[^0].
 ```
+
 ```
 Sufficiency. Suppose Ax = b has no solution x ≥ 0. Let a1,... , an be the columns
 of A. So
 ```
+
 ```
 (34) b 6∈ C := cone{a1,... , an}.
 ```
+
 ```
 So by Exercise 2.7 there exists a linear halfspace H containing C and not containing
 b. That is, there exists a vector c such that cTb < 0 while cTx ≥ 0 for each x in C.
 In particular, cTaj ≥ 0 for j = 1,... , n. So y := c satisfies yTA ≥ 0 and yTb < 0.
 ```
+
 ```
 So Farkas’ lemma states that exactly one of the following two assertions is true:
 ```
+
 (35) (i) ∃_x_ ≥ 0 : _Ax_ = _b_,
 (ii) ∃_y_ : _yTA_ ≥ 0 and _yTb <_ 0.
 
@@ -1728,25 +2004,31 @@ So Farkas’ lemma states that exactly one of the following two assertions is tr
 There exist several variants of Farkas’ lemma, that can be easily derived from
 Theorem 2.5.
 ```
+
 ```
 Corollary 2.5a. The system Ax ≤ b has a solution x if and only if there is no vector
 y satisfying y ≥ 0, yTA = 0 and yTb < 0.
 ```
+
 ```
 Proof. Let A′ be the matrix
 ```
+
 ```
 (36) A′ := [A − A I],
 ```
+
 ```
 where I denotes the m × m identity matrix.
 ```
+
 Then _Ax_ ≤ _b_ has a solution _x_ if and only if the system _A_′_x_′ = _b_ has a nonnegative
 solution _x_′. Applying Theorem 2.5 to _A_′_x_′ = _b_ gives the corollary.
 
 ```
 Another consequence is:
 ```
+
 **Corollary 2.5b.** _Suppose that the system Ax_ ≤ _b has at least one solution. Then for_
 _every solution x of Ax_ ≤ _b one has cTx_ ≤ _δ if and only if there exists a vector y_ ≥ 0
 _such that yTA_ = _cT and yTb_ ≤ _δ._
@@ -1765,10 +2047,12 @@ system of linear inequalities in the variables _y_ and _λ_ has no solution (_yT
 A b
 0 1
 ```
+
 ```
 )
 = (cT δ).
 ```
+
 According to Farkas’ lemma this implies that there exists a vector
 
 ```
@@ -1776,10 +2060,12 @@ According to Farkas’ lemma this implies that there exists a vector
 z
 μ
 ```
+
 ```
 )
 so that
 ```
+
 (39)
 
 ```
@@ -1787,33 +2073,40 @@ so that
 A b
 0 1
 ```
+
 ```
 )(
 z
 μ
 ```
+
 ```
 )
 ≥
 ```
+
 ```
 (
 0
 0
 ```
+
 ```
 )
 and (cT δ)
 ```
+
 ```
 (
 z
 μ
 ```
+
 ```
 )
 < 0.
 ```
+
 We distinguish two cases.
 
 **Case 1:** _μ_ = 0. Then _Az_ ≥ 0 and _cTz <_ 0. However, by assumption, _Ax_ ≤ _b_ has
@@ -1851,9 +2144,11 @@ vectors _y,y_′ ≥ 0 one has:
 (i) if yTA + y′TA′ = 0 then yTb + y′Tb′ ≥ 0, and
 (ii) if yTA + y′TA′ = 0 and y 6= 0 then yTb + y′Tb′ > 0.
 ```
+
 ```
 (Motzkin’s theorem (Motzkin [1936]).)
 ```
+
 2.20. Let _A_ be an _m_ × _n_ matrix and let _b_ ∈ R_m_, with _m_ ≥ _n_ + 1. Suppose that _Ax_ ≤ _b_
 has no solution _x_. Prove that there exist indices _i_[^0]:_,...,in_ so that the system _ai_[^0]:_x_ ≤
 _bi_[^0]:_,...,ainx_ ≤ _bin_ has no solution _x_. Here _ai_ is the _i_th row of _A_ and _bi_ is the _i_th
@@ -1918,6 +2213,7 @@ a contradiction.
 ```
 From this we derive:
 ```
+
 **Theorem 2.6** (Duality theorem of linear programming)**.** _Let A be an m_ × _n matrix,_
 _b_ ∈ R_m, c_ ∈ R_n. Then_
 
@@ -1948,6 +2244,7 @@ This implies that the infimum in (49) is at most _δ_.
 ```
 The Duality theorem can be interpreted geometrically as follows. Let
 ```
+
 (53) max{_cTx_ | _Ax_ ≤ _b_} =: _δ_
 
 be attained at a point _x_∗. Without loss of generality we may assume that the first _k_
@@ -1970,31 +2267,38 @@ Therefore,
 ```
 c
 ```
+
 ```
 a x=b
 2
 2
 ```
+
 ```
 c x=T
 δ
 ```
+
 ```
 a2
 a1
 ```
+
 ```
 P
 ```
+
 ```
 x*
 a x=b
 1
 1
 ```
+
 ```
 Figure 2.1
 ```
+
 (56) max{_cTx_ | _Ax_ ≤ _b_} = _δ_ = _λ_[^1]:_b_[^1]: + ··· + _λkbk_ ≥ min{_yTb_ | _y_ ≥ 0;_yTA_ = _cT_}_._
 
 Since trivially the converse inequality holds:
@@ -2006,6 +2310,7 @@ Since trivially the converse inequality holds:
 ```
 There exist several variants of the Duality theorem.
 ```
+
 **Corollary 2.6a.** _Let A be an m_ × _n matrix, b_ ∈ R_m, c_ ∈ R_n. Then_
 
 (58) max{_cTx_ | _x_ ≥ 0;_Ax_ = _b_} = min{_yTb_ | _yTA_ ≥ _cT_}_,_
@@ -2014,42 +2319,50 @@ _provided that both sets are nonempty._
 
 **Proof.** Define
 
-(59) _A_̃ :=
+(59) _A_ ̃ :=
 
 ```
 
 
 ```
+
 ```
 A
 −A
 −I
 ```
+
 ```
 
 ```
+
 ```
-,̃b :=
+, ̃b :=
 ```
+
 ```
 
 
 ```
+
 ```
 b
 −b
 0
 ```
+
 ```
 
 ```
+
 ```
 .
 ```
+
 Then
 
-(60) max{_cTx_ | _x_ ≥ 0;_Ax_ = _b_} = max{_cTx_ | _Ax_̃ ≤ ̃_b_} =
-min{_zT_̃_b_ | _z_ ≥ 0;_zTA_̃ = _cT_} =
+(60) max{_cTx_ | _x_ ≥ 0;_Ax_ = _b_} = max{_cTx_ | _Ax_ ̃ ≤ ̃_b_} =
+min{_zT_ ̃_b_ | _z_ ≥ 0;_zTA_ ̃ = _cT_} =
 min{_uTb_ − _vTb_ + _wT_[^0]: | _u, v, w_ ≥ 0;_uTA_ − _vTA_ − _wT_ = _cT_} =
 min{_yTb_ | _yTA_ ≥ _cT_}_._
 
@@ -2069,56 +2382,70 @@ of _P_.
 ```
 (61) max{cTx | x ≥ 0;Ax ≤ b} = min{yTb | y ≥ 0;yTA ≥ cT}
 ```
+
 ```
 (assuming both sets are nonempty).
 ```
+
 2.24. Prove the following variant of the Duality theorem:
 
 ```
 (62) max{cTx | Ax ≥ b} = min{yTb | y ≤ 0;yTA = cT}
 ```
+
 ```
 (assuming both sets are nonempty).
 ```
+
 2.25. Let a matrix, a column vector, and a row vector be given:
 
 ```
 (63)
 ```
+
 ```
 
 
 ```
+
 ```
 A B C
 D E F
 G H K
 ```
+
 ```
 
 ```
+
 ```
 ,
 ```
+
 ```
 
 
 ```
+
 ```
 a
 b
 c
 ```
+
 ```
 
 ```
+
 ```
 ,(d e f),
 ```
+
 ```
 where A,B,C,D,E,F,G,H,K are matrices, a,b,c are column vectors, and d,e,f are
 row vectors (of appropriate dimensions). Then
 ```
+
 ```
 (64) max{dx + ey + fz | x ≥ 0;z ≤ 0;
 Ax + By + Cz ≤ a;
@@ -2129,16 +2456,18 @@ uA + vD + wG ≥ d;
 uB + vE + wH = e;
 uC + vF + wK ≤ f},
 ```
+
 ```
 assuming that both sets are nonempty.
 ```
+
 2.26. Give an example of a matrix _A_ and vectors _b_ and _c_ for which both {_x_ | _Ax_ ≤ _b_} and
 {_y_ | _y_ ≥ 0;_yTA_ = _cT_} are empty.
 
 2.27. Let ̃_x_ be a feasible solution of max{_cTx_ | _Ax_ ≤ _b_} and let ̃_y_ be a feasible solution
 of min{_yTb_ | _y_ ≥ 0;_yTA_ = _cT_}. Prove that ̃_x_ and ̃_y_ are optimum solutions of the
 maximum and minimum, respectively if and only if for each _i_ = 1_,...,m_ one has:
-_y_̃_i_ = 0 or _aix_̃ = _bi_.
+_y_ ̃_i_ = 0 or _aix_ ̃ = _bi_.
 (Here _A_ has _m_ rows and _ai_ denotes the _i_th row of _A_.)
 
 2.28. Let _A_ be an _m_ × _n_ matrix and let _b_ ∈ R_m_. Let {_x_ | _Ax_ ≤ _b_} be nonempty and let
@@ -2192,21 +2521,26 @@ cover of size |_M_| + (|_V_ |− [^2]:|_M_|) = |_V_ |−|_M_|. Hence _ρ_(_G_) �
 Second, let F be an edge cover of size ρ(G). For each v ∈ V delete from F, dF(v)−1
 edges incident with v. We obtain a matching of size at least |F|−
 ```
+
 ```
 ∑
 v∈V (dF(v)−1) =
 |F|− (2|F|−|V |) = |V |−|F|. Hence ν(G) ≥|V |− ρ(G).
 ```
+
 ```
 This proof also shows that if we have a matching of maximum cardinality in any
 graph G, then we can derive from it a minimum cardinality edge cover, and conversely.
 ```
+
 ```
 Exercises
 ```
+
 ```
 3.1. Let G = (V,E) be a graph without isolated vertices. Define:
 ```
+
 ```
 (5) α2(G) := the maximum number of vertices such that no edge
 contains more than two of these vertices;
@@ -2217,14 +2551,17 @@ contains at least two of these vertices
 ν2(G) := the maximum number of edges such that no vertex is
 contained in more than two of these edges;
 ```
+
 ```
 possibly taking vertices (edges, respectively) more than once.
 ```
+
 ```
 (i) Show that α2(G) ≤ ρ2(G) and that ν2(G) ≤ τ2(G).
 (ii) Show that α2(G) + τ2(G) = 2|V |.
 (iii) Show that ν2(G) + ρ2(G) = 2|V |.
 ```
+
 ### 3.2. M-augmenting paths
 
 ```
@@ -2232,35 +2569,44 @@ Basic in matching theory are M-augmenting paths, which are defined as follows. L
 M be a matching in a graph G = (V, E). A path P = (v0, v1,... , vt) in G is called
 M-augmenting if
 ```
+
 (6) (i) _t_ is odd,
 
 ```
 (ii) v1v2, v3v4,... , vt−2vt−1 ∈ M,
 (iii) v0, vt 6∈
 ```
+
 ```
 ⋃
 M.
 ```
+
 ```
 Note that this implies that v0v1, v2v3,... , vt−1vt do not belong to M.
 ```
+
 ```
 Clearly, if P = (v0, v1,... , vt) is an M-augmenting path, then
 ```
+
 ```
 (7) M′ := M△EP
 ```
+
 ```
-edge inM
-edgenot in M vertex not covered by M
+edge in M
+edge not in M vertex not covered by M
 ```
+
 ```
 vertex covered by M
 ```
+
 ```
 Figure 3.1
 ```
+
 is a matching satisfying |_M_′| = |_M_| + 1.[^8]
 In fact, it is not difficult to show that:
 
@@ -2298,6 +2644,7 @@ least one edge. Then:
 ```
 8EP denotes the set of edges in P. △ denotes symmetric difference.
 ```
+
 To see this, let _e_ = _uv_ be any edge of _G_, and suppose that there are maximum-size
 matchings _M_ and _N_ missing _u_ and _v_ respectively[^9]. Let _P_ be the component of _M_ ∪_N_
 containing _u_. So _P_ is a path with end vertex _u_. Since _P_ is not _M_-augmenting (as _M_
@@ -2311,6 +2658,7 @@ vertex cover of _G_ of size _ν_(_G_′) + 1 = _ν_(_G_).
 ```
 Combination of Theorems 3.1 and 3.3 yields the following result of K ̋onig [1932].
 ```
+
 **Corollary 3.3a** (K ̋onig’s edge cover theorem)**.** _For any bipartite graph G_ = (_V, E_)_,_
 _without isolated vertices, one has_
 
@@ -2330,26 +2678,31 @@ _ρ_(_G_).
 (iii) Give for each k > 1 an example of a k-regular graph not having a perfect
 matching.
 ```
+
 ```
 3.3. Prove that in a matrix, the maximum number of nonzero entries with no two in the
 same line (=row or column), is equal to the minimum number of lines that include
 all nonzero entries.
 ```
+
 ```
 3.4. Let A = (A1,...,An) be a family of subsets of some finite set X. A subset Y of X is
 called a transversal or a system of distinct representatives (SDR) of A if there exists
 a bijection π : {1,...,n}→ Y such that π(i) ∈ Ai for each i = 1,...,n.
 Decide if the following collections have an SDR:
 ```
+
 ```
 (i) {3,4,5},{2,5,6},{1,2,5},{1,2,3},{1,3,6},
 (ii) {1,2,3,4,5,6},{1,3,4},{1,4,7},{2,3,5,6},{3,4,7},{1,3,4,7},{1,3,7}.
 9M misses a vertex u if u 6∈
 ```
+
 ```
 ⋃
 M. Here
 ```
+
 ⋃
 _M_ denotes the union of the edges in _M_; that is, the
 set of vertices covered by the edges in _M_.
@@ -2358,24 +2711,30 @@ set of vertices covered by the edges in _M_.
 3.5. Let A = (A1,...,An) be a family of subsets of some finite set X. Prove that A has
 an SDR if and only if
 ```
+
 ```
 (11)
 ∣∣
 ```
+
 ```
 ⋃
 ```
+
 ```
 i∈I
 ```
+
 ```
 Ai
 ∣∣ ≥|I|
 ```
+
 ```
 for each subset I of {1,...,n}.
 [Hall’s ‘marriage’ theorem (Hall [1935]).]
 ```
+
 ```
 3.6. Let A = (A1,...,An) be subsets of the finite set X. A subset Y of X is called a
 partial transversal or a partial system of distinct representatives (partial SDR) if it is
@@ -2383,49 +2742,62 @@ a transversal of some subcollection (Ai1,...,Aik) of (A1,...,An).
 Show that the maximum cardinality of a partial SDR of A is equal to the minimum
 value of
 ```
+
 ```
 (12) |X \ Z| + |{i | Ai ∩ Z 6= ∅}|,
 where Z ranges over all subsets of X.
 ```
+
 ```
 3.7. Let A = (A1,...,An) be a family of finite sets and let k be a natural number. Show
 that A has k pairwise disjoint SDR’s of A if and only if
 ```
+
 ```
 (13)
 ∣∣
 ```
+
 ```
 ⋃
 ```
+
 ```
 i∈I
 ```
+
 ```
 Ai
 ∣∣ ≥ k|I|
 ```
+
 ```
 for each subset I of {1,...,n}.
 ```
+
 ```
 3.8. Let A = (A1,...,An) be a family of subsets of a finite set X and let k be a natural
 number. Show that X can be partitioned into k partial SDR’s if and only if
 ```
+
 ```
 (14) k ·|{i | Ai ∩ Y 6= ∅}|≥|Y |
 ```
+
 ```
 for each subset Y of X.
 (Hint: Replace each Ai by k copies of Ai and use Exercise 3.6 above.)
 ```
+
 ```
 3.9. Let (A1,...,An) and (B1,...,Bn) be two partitions of the finite set X.
 ```
+
 ```
 (i) Show that (A1,...,An) and (B1,...,Bn) have a common SDR if and only if for
 each subset I of {1,...,n}, the set
 ```
+
 ```
 ⋃
 i∈I Ai intersects at least |I| sets among
@@ -2433,6 +2805,7 @@ B1,...,Bn.
 (ii) Suppose that |A1| = ··· = |An| = |B1| = ··· = |Bn|. Show that the two
 partitions have a common SDR.
 ```
+
 3.10. Let (_A_[^1]:_,...,An_) and (_B_[^1]:_,...,Bn_) be two partitions of the finite set _X_. Show that the
 minimum cardinality of a subset of _X_ intersecting each set among _A_[^1]:_,...,An,B_[^1]:_,...,_
 _Bn_ is equal to the maximum number of pairwise disjoint sets in _A_[^1]:_,...,An,B_[^1]:_,...,Bn_.
@@ -2448,9 +2821,11 @@ mutation π ∈ Sn such that ai,π(i) 6= 0 for all i = 1,...,n.
 (ii) Derive that each doubly stochastic matrix is a convex linear combination of
 permutation matrices.
 ```
+
 ```
 [Birkhoff-von Neumann theorem (Birkhoff [1946], von Neumann [1953]).]
 ```
+
 3.12. Let _G_ = (_V,E_) be a bipartite graph with colour classes _U_ and _W_. Let _b_ : _V_ → Z+
 be so that
 
@@ -2458,41 +2833,53 @@ be so that
 ∑
 v∈U b(v) =
 ```
+
 ```
 ∑
 v∈W b(v) =: t.
 A b-matching is a function c : E → Z+ so that for each vertex v of G:
 ```
+
 ```
 (15)
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈E,v∈e
 ```
+
 ```
 c(e) = b(v)
 ```
+
 ```
 Show that there exists a b-matching if and only if
 ```
+
 ```
 (16)
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈X
 ```
+
 ```
 b(v) ≥ t
 ```
+
 ```
 for each vertex cover X.
 ```
+
 3.13. Let _G_ = (_V,E_) be a bipartite graph and let _b_ : _V_ → Z+. Show that _G_ has a subgraph
 _G_′ = (_V,E_′) such that deg_G_′(_v_) = _b_(_v_) for each _v_ ∈ _V_ if and only if each _X_ ⊆ _V_
 contains at least
@@ -2500,34 +2887,44 @@ contains at least
 ```
 (17)
 ```
+
 ```
 1
 2
 ```
+
 ```
 (
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈X
 ```
+
 ```
 b(v) −
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈V\X
 ```
+
 ```
 b(v))
 ```
+
 ```
 edges.
 ```
+
 3.14. Let _G_ = (_V,E_) be a bipartite graph and let _b_ : _V_ → Z+. Show that the maximum
 number of edges in a subset _F_ of _E_ so that each vertex _v_ of _G_ is incident with at
 most _b_(_v_) of the edges in _F_, is equal to
@@ -2536,15 +2933,19 @@ most _b_(_v_) of the edges in _F_, is equal to
 (18) min
 X⊆V
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈X
 ```
+
 ```
 b(v) + |E(V \ X)|.
 ```
+
 3.15. Let _G_ = (_V,E_) be a bipartite graph and let _k_ ∈ N. Prove that _G_ has _k_ disjoint
 perfect matchings if and only if each _X_ ⊆ _V_ contains at least _k_(|_X_|−[^1]
 [^2]:|_V_ |) edges.
@@ -2579,10 +2980,12 @@ Let _D_ be the directed graph thus arising. Consider the sets
 ⋃
 M and W′ := W \
 ```
+
 ```
 ⋃
 M.
 ```
+
 Now an _M_-augmenting path (if it exists) can be found by finding a directed path
 in _D_ from any vertex in _U_′ to any vertex in _W_′. Hence in this way we can find a
 matching larger than _M_.
@@ -2590,6 +2993,7 @@ matching larger than _M_.
 ```
 This implies:
 ```
+
 **Theorem 3.4.** _A maximum-size matching in a bipartite graph can be found in time_
 _O_(|_V_ ||_E_|)_._
 
@@ -2601,6 +3005,7 @@ maximum cardinality matching in a bipartite graph can be found in time _O_(|_V_ 
 ```
 Hopcroft and Karp [1973] gave an O(|V |[^1]/[^2]|E|) algorithm.
 ```
+
 **Application 3.1: Assignment problem.** Suppose we have _k_ machines at our disposal:
 _m_[^1]:_,...,mk_. On a certain day we have to carry out _n_ jobs: _j_[^1]:_,...,jn_. Each machines
 is capable of performing some jobs, but can do only one job a day. E.g., we could have
@@ -2616,6 +3021,7 @@ m3 X X
 m4 X
 m5 X
 ```
+
 We want to assign the machines to the jobs in such a way that every machine performs
 at most one job and that a largest number of jobs is carried out.
 In order to solve this problem we represent the machines and jobs by vertices _m_[^1]:_,...,mk_
@@ -2626,42 +3032,55 @@ matching in _G_ corresponds to a maximum assignment of jobs.
 ```
 3
 ```
+
 ```
 4
 ```
+
 ```
 2
 ```
+
 ```
 m1
 ```
+
 ```
 m
 ```
+
 ```
 m3
 ```
+
 ```
 m4
 ```
+
 ```
 m5 j5
 ```
+
 ```
 j
 ```
+
 ```
 j
 ```
+
 ```
 j2
 ```
+
 ```
 j1
 ```
+
 ```
 Figure 3.2
 ```
+
 **Exercises**
 
 3.17. Find a maximum-size matching and a minimum vertex cover in the bipartite graph
@@ -2681,19 +3100,24 @@ in polynomial time (if it exists).
 ```
 1
 ```
+
 ```
 a b c d e f
 ```
+
 ```
 2 3 4 5
 ```
+
 ```
 g h i j
 ```
+
 ```
 6 7 8 9 10
 Figure 3.3
 ```
+
 ### 3.5. Weighted bipartite matching
 
 We now consider the problem of finding a matching of maximum weight for which
@@ -2707,12 +3131,15 @@ subset _M_ of _E_ define the _weight w_(_M_) of _M_ by
 ```
 ∑
 ```
+
 ```
 e∈M
 ```
+
 ```
 w(e).
 ```
+
 The maximum-weight matching problem consists of finding a matching of maximum
 weight.
 Again, augmenting paths are of help at this problem. Call a matching _M extreme_
@@ -2726,6 +3153,7 @@ Let _M_ be an extreme matching. Define a ‘length’ function _l_ : _E_ → R a
 w(e) if e ∈ M,
 −w(e) if e 6∈ M.
 ```
+
 Then the following holds:
 
 **Proposition 1.** _Let P be an M-augmenting path of minimum length. If M is_
@@ -2799,6 +3227,7 @@ chologist, however, when one considers that only ten men and ten jobs mean
 over three and a half million permutations. Trying out all the permutations
 may be a mathematical solution to the problem, it is not a practical solution.
 ```
+
 **Application 3.3: Transporting earth.** Monge [1784] was one of the first to consider
 the assignment problem, in the role of the problem of transporting earth from one area to
 another, which he considered as the discontinuous, combinatorial problem of transporting
@@ -2818,6 +3247,7 @@ mais qu’il y a une certaine distribution `a faire des mol ́ecules du premier 
 le second, dapr`es laquelle la somme de ces produits sera la moindre possible, &
 le prix du transport total sera minimum.[^10]
 ```
+
 Monge describes an interesting geometric method to solve the assignment problem in this
 case: let _l_ be a line touching the two areas from one side; then transport the earth molecule
 
@@ -2846,6 +3276,7 @@ weighted matching algorithm.
 ```
 (i)
 ```
+
 ```
 F G H I J
 A 6 17 10 1 3
@@ -2854,9 +3285,11 @@ C 2 8 5 0 1
 D 19 31 19 20 9
 E 21 25 22 3 9
 ```
+
 ```
 (ii)
 ```
+
 ```
 F G H I J
 A 11 5 21 7 18
@@ -2865,6 +3298,7 @@ C 4 1 3 2 4
 D 6 2 19 3 9
 E 19 7 23 18 26
 ```
+
 3.23. Derive from the weighted matching algorithm for bipartite graphs an algorithm for
 finding a minimum-weight perfect matching in a bipartite graph _G_ = (_V,E_). (A
 matching _M_ is _perfect_ if
@@ -2873,6 +3307,7 @@ matching _M_ is _perfect_ if
 ⋃
 M = V .)
 ```
+
 3.24. Let _A_[^1]:_,...,An_ be subsets of the finite set _X_ and let _w_ : _X_ → R+ be a ‘weight’
 function. Derive from the weighted matching algorithm a polynomial-time algorithm
 to find a minimum-weight SDR.
@@ -2895,6 +3330,7 @@ Similarly for functions _g_ : _V_ → R.
 ```
 The matching polytope of G is defined as:
 ```
+
 (25) _P_matching(_G_) :=conv.hull{_χM_ | _M_ is a matching in _G_}.
 
 So _P_matching(_G_) is a polytope in R_E_.
@@ -2916,9 +3352,11 @@ _polytope Pperfect matching_(_G_) _is equal to the set of vectors x_ ∈ R_E sat
 ```
 e∋v
 ```
+
 ```
 xe = 1 for each v ∈ V.
 ```
+
 **Proof.** Left to the reader (Exercise 3.25).
 
 Clearly, each vector _x_ in _P_perfect matching(_G_) should satisfy (27), since each vector
@@ -2939,9 +3377,11 @@ _Pmatching_(_G_) _is equal to the set of vectors x_ ∈ R_E satisfying:_
 ```
 e∋v
 ```
+
 ```
 xe ≤ 1 for each v ∈ V.
 ```
+
 **Proof.** Left to the reader (Exercise 3.26).
 
 Clearly, one cannot delete the bipartiteness condition: if _G_ is the triangle _K_[^3]: then
@@ -2956,9 +3396,11 @@ subject to ∑_xe_ ≥ 0 for each _e_ ∈ _E_;
 ```
 e∋v
 ```
+
 ```
 xe ≤ 1 for each v ∈ V.
 ```
+
 With linear programming duality one can derive from this a ‘weighted’ extension
 of K ̋onig’s matching theorem, due to Egerv ́ary [1931]:
 
@@ -2989,6 +3431,7 @@ By linear programming duality this is equal to
 v∈V yv | yv ≥ 0 for each v ∈ V ;
 yu + yv ≥ we for each edge e = uv}.
 ```
+
 This is exactly the minimum described in the Corollary.
 
 An extension of this corollary gives a further extension of K ̋onig’s matching the-
@@ -3004,27 +3447,31 @@ colour classes of _G_ and let _X_ be the set of vertices _v_ of _G_ with _yv_ 6�
 are done, so assume that _X_ [^6]:= ∅. Without loss of generality, |_X_ ∩ _U_|≥|_X_ ∩ _W_|. Let
 _u_ be a vertex in _X_ ∩ _U_ with _yu_ −⌊_yu_⌋ as small as possible. Let _ε_ := _yu_ −⌊_yu_⌋. Reset
 
-(34) _y_̃_v_ :=
+(34) _y_ ̃_v_ :=
 
 ```
 
 
 ```
+
 ```
 
 ```
+
 ```
 yv − ε if v ∈ X ∩ U,
 yv + ε if v ∈ X ∩ W,
 yv if v 6∈ X.
 ```
+
 One easily checks that again ̃_yv_ + ̃_yv_′ ≥ _w_(_e_) for each edge _e_ = _vv_′ of _G_ (using the fact
 that _w_ is integer-valued). Moreover,
 
 ```
 ∑
-v∈V ỹv =
+v∈V y ̃v =
 ```
+
 ∑
 ∑ _v_∈_V yv_ − _ε_|_X_ ∩ _U_| + _ε_|_X_ ∩ _W_| ≤
 _v_∈_V yv_. So ̃_y_ also attains the minimum. However, ̃_y_ has fewer noninteger-valued
@@ -3123,6 +3570,7 @@ from the arc-disjoint version: make a digraph _D_′ as follows from _D_: replac
 ```
 11For any vertex v, δout(v) = δout({v}) and δin(v) = δin({v}).
 ```
+
 vertex _v_ by two vertices _v_′_, v_′′ and make an arc (_v_′_, v_′′); moreover, replace each arc
 (_u, v_) by (_u_′′_, v_′). Then Corollary 4.1b for _D_′_, s_′′_, t_′ gives Corollary 4.1a for _D, s, t_.
 Note that an _s_′′ − _t_′ cut _C_ in _D_′ yields a set _X_ of vertices and arcs in _D_ intersecting
@@ -3172,9 +3620,11 @@ However, the restriction that some prescribed airplanes must undergo maintenance
 ```
 Sat Sun Mon Tue Wed Thu Fri Sat
 ```
+
 ```
 maintenance maintenance maintenance maintenance maintenance
 ```
+
 ```
 B
 C
@@ -3183,26 +3633,32 @@ E
 F
 G
 ```
+
 ```
 J
 K
 L
 ```
+
 ```
 N
 ```
+
 ```
 H
 I
 ```
+
 M
 
 ```
 A
 ```
+
 ```
 Figure 4.1
 ```
+
 coming week gives some complications. It means for instance that if a certain airplane _ai_
 (say) is now on the ground at city _c_ and should be home for maintenance the coming week,
 then the path _Pi_ should start at (_c,tc_) and should traverse one of the arcs representing
@@ -3221,44 +3677,55 @@ vertices and ending in a given set of vertices (by slightly extending the graph 
 that there exist pairwise arc-disjoint paths P1,...,Pk such that Pi is an s − ti path
 (i = 1,...,k) if and only if for each U ⊆ V with s ∈ U one has
 ```
+
 ```
 (1) |δout(U)|≥|{i | ti 6∈ U}|.
 ```
+
 ```
 4.2. Let A = (A1,...,An) and B = (B1,...,Bn) be families of subsets of a finite set.
 Show that A and B have a common SDR if and only if for all I,J ⊆ {1,...,n} one
 has
 ```
+
 ```
 (2)
 ∣∣
 i∈I
 ```
+
 ```
 Ai ∩
 j∈J
 ```
+
 ```
 Bj
 ∣∣ ≥|I| + |J|− n.
 ```
+
 ```
 4.3. Let G = (V,E) be a bipartite graph, with colour classes V1 and V2, such that |V1| =
 |V2|. Show that G has k pairwise disjoint perfect matchings if and only if for each
 subset U of V1:
 ```
+
 ```
 (3)
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈V2
 ```
+
 ```
 min{k,|E(v) ∩ U|}≥ k|U|,
 ```
+
 ```
 where E(v) denotes the set of vertices adjacent to v.
 4.4. Let D = (V,A) be a simple directed graph and let s,t ∈ V. Let α be the minimum
@@ -3267,6 +3734,7 @@ paths is at most (|V |/α)[^2].
 (Hint: Let Uk denote the set of vertices at distance at most k from s. Show that
 |δout(Uk)|≤ (|V |/α)[^2] for some k < α.)
 ```
+
 ### 4.2. Flows in networks
 
 Other consequences of Menger’s theorem concern ‘flows in networks’. Let _D_ = (_V, A_)
@@ -3279,21 +3747,27 @@ _f_ : _A_ → R is called an _s_ − _t flow_ if:[^12]
 ```
 ∑
 ```
+
 ```
 a∈δin(v)
 ```
+
 ```
 f(a) =
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(v)
 ```
+
 ```
 f(a) for each v ∈ V \{s, t}.
 ```
+
 Condition (4)(ii) is called the _flow conservation law_: the amount of flow entering a
 vertex _v_ [^6]:= _s, t_ should be equal to the amount of flow leaving _v_.
 The _value_ of an _s_ − _t_ flow _f_ is, by definition:
@@ -3303,21 +3777,27 @@ The _value_ of an _s_ − _t_ flow _f_ is, by definition:
 ```
 ∑
 ```
+
 ```
 a∈δout(s)
 ```
+
 ```
 f(a) −
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δin(s)
 ```
+
 ```
 f(a).
 ```
+
 So the value is the net amount of flow leaving _s_. It can be shown that it is equal to
 the net amount of flow entering _t_.
 Let _c_ : _A_ → R+, called a _capacity function_. We say that a flow _f_ is _under c_ (or
@@ -3335,6 +3815,7 @@ _a_∈_δ_out(_U_)
 ```
 c(a).
 ```
+
 Then:
 
 **Proposition 2.** _For every s_ − _t flow f under c and every s_ − _t cut δ_out(_U_) _one has:_
@@ -3348,146 +3829,193 @@ Then:
 ```
 ∑
 ```
+
 ```
 a∈δout(s)
 ```
+
 ```
 f(a) −
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δin(s)
 ```
+
 ```
 f(a)
 ```
+
 ```
 =
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(s)
 ```
+
 ```
 f(a) −
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δin(s)
 ```
+
 ```
 f(a) +
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈U\{s}
 ```
+
 ```
 (
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(v)
 ```
+
 ```
 f(a) −
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δin(v)
 ```
+
 ```
 f(a))
 ```
+
 ```
 =
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈U
 ```
+
 ```
 (
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(v)
 ```
+
 ```
 f(a) −
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δin(v)
 ```
+
 ```
 f(a)) =
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(U)
 ```
+
 ```
 f(a) −
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δin(U)
 ```
+
 ```
 f(a)
 ```
+
 ```
 ⋆
 ≤
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(U)
 ```
+
 ```
 f(a)
 ```
+
 ```
 ⋆⋆
 ≤
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(U)
 ```
+
 ```
 c(a) = c(δout(U)).
 ```
+
 ```
 It is convenient to note the following:
 ```
+
 (10) equality holds in (8) ⇐⇒ ∀_a_ ∈ _δ_in(_U_) : _f_(_a_) = 0 and
 ∀_a_ ∈ _δ_out(_U_) : _f_(_a_) = _c_(_a_)_._
 
@@ -3507,6 +4035,7 @@ _δ_out(_U_) _s_-_t_ cut
 ```
 c(δout(U)).
 ```
+
 **Proof.** If _c_ is integer-valued, the corollary follows from Menger’s theorem (directed
 arc-disjoint version — Corollary 4.1b) by replacing each arc _a_ by _c_(_a_) parallel arcs.
 If _c_ is rational-valued, there exists a natural number _N_ such that _N c_(_a_) is integer
@@ -3519,6 +4048,7 @@ valued, by continuity and compactness arguments.
 ```
 Moreover, one has (Dantzig [1951a]):
 ```
+
 **Corollary 4.2a** (Integrity theorem)**.** _If c is integer-valued, there exists an integer-_
 _valued maximum flow._
 
@@ -3531,6 +4061,7 @@ _valued maximum flow._
 of value β. Show that there exists an s − t flow f′ : A → Z+ of value ⌈β⌉ such that
 ⌊f(a)⌋≤ f′(a) ≤⌈f(a)⌉ for each arc a. (Integer flow theorem (Dantzig [1951a]).)
 ```
+
 ```
 4.6. Let G = (V,E) be a graph and let c : E → R+ be a ‘capacity’ function. Let K be
 the complete graph on V. For each edge st of K, let w(st) be the minimum capacity
@@ -3540,6 +4071,7 @@ w. Prove that for all s,t ∈ V , w(st) is equal to the minimum weight of the ed
 T in the unique s − t path in T.
 (Hint: Use Exercise 1.10.)
 ```
+
 ### 4.3. Finding a maximum flow
 
 Let _D_ = (_V, A_) be a directed graph, let _s, t_ ∈ _V_ , and let _c_ : _A_ → Q+ be a ‘capacity’
@@ -3563,14 +4095,17 @@ or (ii) a cut _δ_out(_W_) with _c_(_δ_out(_W_)) = value(_f_).
 description of the algorithm: For any pair a = (v, w) define a−[^1] := (w, v). Make
 an auxiliary graph Df = (V, Af) by the following rule: for any arc a ∈ A,
 ```
+
 ```
 (12) if f(a) < c(a) then a ∈ Af,
 if f(a) > 0 then a−[^1] ∈ Af.
 ```
+
 ```
 So if 0 < f(a) < c(a) then both a and a−[^1] are arcs of Af.
 Now there are two possibilities:
 ```
+
 (13) **Case 1:** _There exists an s_ − _t path in Df,_
 **Case 2:** _There is no s_ − _t path in Df._
 
@@ -3579,45 +4114,55 @@ Case 1: There exists an s − t path P = (v0, a1, v1,... , ak, vk) in Df = (V, A
 So v0 = s and vk = t. We may assume that P is a path. As a1,... , ak belong to Af,
 we know by (12) that for each i = 1,... , k:
 ```
+
 ```
 (14) either (i) ai ∈ A and σi := c(ai) − f(ai) > 0
 or (ii) a−[^1]
 i ∈ A and σi := f(a−[^1]
 i ) >[^0].
 ```
+
 ```
 Define α := min{σ1,... , σk}. So α > 0. Let f′ : A → R+ be defined by, for a ∈ A:
 ```
+
 ```
 (15) f′(a) := f(a) + α, if a = ai for some i = 1,... , k;
 := f(a) − α, if a = a−[^1]
 i for some i = 1,... , k;
 := f(a), for all other a.
 ```
+
 ```
 Then f′ again is an s − t flow under c. The inequalities 0 ≤ f′(a) ≤ c(a) hold
 because of our choice of α. It is easy to check that also the flow conservation law
 (4)(ii) is maintained.
 Moreover,
 ```
+
 ```
 (16) value(f′) = value(f) + α,
 ```
+
 ```
 since either (v0, v1) ∈ A, in which case the outgoing flow in s is increased by α, or
 (v1, v0) ∈ A, in which case the ingoing flow in s is decreased by α.
 Path P is called a flow augmenting path.
 ```
+
 ```
 Case 2: There is no path in Df = (V, Af) from s to t.
 Now define:
 ```
+
 ```
 (17) U := {u ∈ V | there exists a path in Df from s to u}.
 ```
+
 ```
 Then s ∈ U while t 6∈ U, and so δout(U) is an s − t cut.
 ```
+
 By definition of _U_, if _u_ ∈ _U_ and _v_ 6∈ _U_, then (_u, v_) 6∈ _Af_ (as otherwise also _v_
 would belong to _U_). Therefore:
 
@@ -3646,6 +4191,7 @@ properties.
 ```
 We show that the algorithm terminates, provided that all capacities are rational.
 ```
+
 **Theorem 4.3.** _If all capacities c_(_a_) _are rational, the algorithm terminates._
 
 **Proof.** If all capacities are rational, there exists a natural number _K_ so that _Kc_(_a_)
@@ -3673,36 +4219,47 @@ The problem is: can the needs of the customers be fulfilled?
 ```
 s t
 ```
+
 ```
 1 b
 ```
+
 ```
 f2
 ```
+
 ```
 1
 ```
+
 ```
 b4
 ```
+
 ```
 f3
 ```
+
 ```
 b3
 ```
+
 ```
 b5
 ```
+
 ```
 b2
 ```
+
 ```
 f
 ```
+
 ```
 Figure 4.2
 ```
+
 In order to solve the problem with the maximum-flow algorithm, we make the graph as
 in Figure 4.2 (for _m_ = 3, _n_ = 5). We define a capacity function _c_ on the arcs as follows:
 
@@ -3728,234 +4285,303 @@ gives the amount to be produced each month by factory _fi_.
 an s − t cut of minimum capacity in the following graphs (where the numbers at the
 arcs give the capacities):
 ```
+
 ```
 (i)
 ```
+
 ```
 1 11
 ```
+
 ```
 5
 ```
+
 ```
 2
 ```
+
 ```
 5
 ```
+
 ```
 1
 ```
+
 ```
 2
 ```
+
 ```
 4
 ```
+
 ```
 2
 ```
+
 ```
 7
 ```
+
 ```
 4
 ```
+
 ```
 10 2 1
 ```
+
 ```
 s[^2][^2] t
 ```
+
 ```
 2
 ```
+
 ```
 (ii)
 ```
+
 ```
 12
 ```
+
 ```
 7
 3
 ```
+
 ```
 4
 1 1
 ```
+
 ```
 3
 ```
+
 ```
 1
 ```
+
 ```
 9
 ```
+
 ```
 1 11
 2
 ```
+
 ```
 1
 ```
+
 ```
 3 2
 ```
+
 ```
 2 5 3
 ```
+
 ```
 2
 7
 5
 ```
+
 ```
 s t
 ```
+
 (iii) s t
 
 ```
 3 3
 ```
+
 ```
 6 9
 ```
+
 ```
 8
 ```
+
 ```
 4
 ```
+
 ```
 5
 ```
+
 ```
 4
 ```
+
 ```
 4
 ```
+
 ```
 1
 ```
+
 ```
 2 5
 ```
+
 ```
 7
 ```
+
 ```
 1
 ```
+
 ```
 2
 6
 ```
+
 (iv) s t
 
 ```
 2 2
 ```
+
 ```
 4
 ```
+
 ```
 4
 ```
+
 ```
 5
 ```
+
 ```
 2
 ```
+
 ```
 2
 ```
+
 ```
 10 4
 ```
+
 ```
 12
 ```
+
 ```
 1
 ```
+
 ```
 5 7
 ```
+
 ```
 6
 ```
+
 ```
 2
 ```
+
 ```
 3
 ```
+
 ```
 3
 ```
+
 ```
 4.8. Solve the transportation problem with the maximum-flow algorithm for the following
 data: m = n = 3,s1 = 13,s2 = 9,s3 = 4,d1 = 3,d2 = 7,d3 = 12,
 ```
+
 ```
 ci,j j = 1 j = 2 j = 3
 i = 1 2 0 8
 i = 2[^3][^8][^3]
 i = 3 0 1 3
 ```
+
 ```
 4.9. Describe the problem of finding a maximum-size matching in a bipartite graph as a
 maximum flow problem.
 ```
+
 4.10. Determine with the maximum-flow algorithm if there exists a 3 × 3 matrix _A_ = (_ai,j_)
 satisfying:[^13]
 
 ```
 ai,j ≥ 0 for all i,j = 1,2,3;
 ```
+
 ```
 A1 ≤
 ```
+
 ```
 
 
 ```
+
 ```
 13
 9
 4
 ```
+
 ```
 
 ```
+
 ```
 ;
 ```
+
 ```
 1TA = (3,7,12);
 ```
+
 ```
 A ≤
 ```
+
 ```
 
 
 ```
+
 ```
 2 0 8
 3 8 3
 0 1 3
 ```
+
 ```
 
 ```
+
 ```
 .
 ```
+
 4.11. Give an example of a directed graph with irrational capacities, in which, at a bad
 choice of flow augmenting paths, the maximum flow algorithm does not terminate.
 
@@ -3965,24 +4591,31 @@ of value _b_. Show that for each _U_ ⊆ _V_ with _s_ ∈ _U,t_ 6∈ _U_ one has
 ```
 (22)
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(U)
 ```
+
 ```
 f(a) −
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δin(U)
 ```
+
 ```
 f(a) = b.
 ```
+
 ### 4.4. Speeding up the maximum flow algorithm
 
 We saw that the number of iterations in the maximum flow algorithm is finite, if all
@@ -3995,24 +4628,31 @@ paths, can become 2 · [^10]:_k_.
 ```
 131 denotes the vector (1,1,1)T.
 ```
+
 ```
 s 1 t
 ```
+
 ```
 10 10
 ```
+
 ```
 10 10
 ```
+
 ```
 k k
 ```
+
 ```
 k k
 ```
+
 ```
 Figure 4.3
 ```
+
 However, if we choose always a _shortest s_ − _t_ path in _Df_ as our flow augmenting
 path _P_ (that is, with a minimum number of arcs), then the number of iterations is
 at most |_V_ |·|_A_|. This was shown by Dinits [1970] and Edmonds and Karp [1972].
@@ -4032,6 +4672,7 @@ contradiction.
 ```
 This implies the result of Dinits [1970] and Edmonds and Karp [1972]:
 ```
+
 **Theorem 4.4.** _If we choose in each iteration a shortest s_−_t path as flow augmenting_
 _path, the number of iterations is at most_ |_V_ ||_A_|_._
 
@@ -4047,6 +4688,7 @@ most |_V_ ||_A_|.
 ```
 Since a shortest path can be found in time O(|A|), this gives:
 ```
+
 **Corollary 4.4a.** _The maximum flow problem can be solved in time O_(|_V_ ||_A_|[^2])_._
 
 **Proof.** Directly from Theorem 4.4.
@@ -4100,16 +4742,18 @@ determine the topological ordering only once, at the preprocessing.)
 ```
 Theorem 4.5 has the following consequence:
 ```
+
 **Corollary 4.5a.** _Given a directed graph D_ = (_V, A_)_, s, t_ ∈ _V , and a capacity function_
 _c_ : _A_ → Q_, a flow f satisfying μ_(_Df_) _> μ_(_D_) _can be found in time O_(|_V_ |[^2])_._
 
-**Proof.** Let _D_̃ be the subgraph of _D_ consisting of all arcs that are contained in a
-shortest _s_ − _t_ path in _D_. Find a blocking flow in _D_̃. Then _μ_(_Df_) _> μ_(_D_) (by
+**Proof.** Let _D_ ̃ be the subgraph of _D_ consisting of all arcs that are contained in a
+shortest _s_ − _t_ path in _D_. Find a blocking flow in _D_ ̃. Then _μ_(_Df_) _> μ_(_D_) (by
 Proposition 3).
 
 ```
 Hence we have:
 ```
+
 **Corollary 4.5b.** _Given a directed graph D_ = (_V, A_)_, s, t_ ∈ _V , and a capacity function_
 _c_ : _A_ → Q_, a maximum s_ − _t flow can be found in time O_(|_V_ |[^3])_._
 
@@ -4134,21 +4778,27 @@ called a _circulation_ if for each vertex _v_ ∈ _V_ one has:
 ```
 ∑
 ```
+
 ```
 a∈δin(v)
 ```
+
 ```
 f(a) =
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(v)
 ```
+
 ```
 f(a).
 ```
+
 So now the flow conservation law holds at _each_ vertex _v_.
 Hoffman [1960] proved the following theorem (which can also be derived from the
 max-flow min-cut theorem, but a direct proof seems shorter). For any directed graph
@@ -4172,21 +4822,27 @@ _for each arc a if and only if_
 ```
 ∑
 ```
+
 ```
 a∈δin(U)
 ```
+
 ```
 d(a) ≤
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δout(U)
 ```
+
 ```
 c(a)
 ```
+
 _for each subset U of V._
 
 **Proof.** To see necessity of (26), suppose that a circulation _f_ satisfying (25) exists.
@@ -4197,6 +4853,7 @@ Then[^15]
 ```
 To see sufficiency, define for any f : A → R and any v ∈ V ,
 ```
+
 (28) loss_f_(_v_) := _f_(_δ_out(_v_)) − _f_(_δ_in(_v_))_._
 
 So loss_f_ can be seen as a vector in R_V_.
@@ -4217,13 +4874,16 @@ contradicting (26).
 ```
 15For any function g : A → R and subset B of A, we write g(B) =
 ```
+
 ```
 ∑
 a∈B g(a).
 ```
+
 ```
 One has moreover:
 ```
+
 **Theorem 4.7.** _In Theorem_ 4.6_, if c and d are integer and there exists a circulation_
 _f satisfying d_ ≤ _f_ ≤ _c, then there exists an integer-valued circulation f_′ _satisfying_
 _d_ ≤ _f_′ ≤ _c._
@@ -4244,36 +4904,46 @@ if and only if
 (31)
 ∣∣(
 ```
+
 ```
 ⋃
 ```
+
 ```
 i∈I
 ```
+
 ```
 Ai ∪
 ```
+
 ```
 ⋃
 ```
+
 ```
 j∈J
 ```
+
 ```
 Bj)
 ∣∣ ≥|X| + k(|I| + |J|− n)
 ```
+
 ```
 for all I,J ⊆{1,...,n} with
 ```
+
 ```
 ⋃
 i∈I Ai ∩
 ```
+
 ```
 ⋃
 j∈J Bj = ∅.
 ```
+
 4.15. Let _D_ = (_V,A_) be a directed graph, and let _f_ : _A_ → R+. Let C be the collection
 of directed circuits in _D_. For each directed circuit _C_ in _D_ let _χC_ be the incidence
 vector of _C_. That is, _χC_ : _A_ →{[^0]:_,_[^1]:}, with _χC_(_a_) = 1 if _C_ traverses _a_ and _χC_(_a_) = 0
@@ -4284,18 +4954,23 @@ R+ such that
 ```
 (32) f =
 ```
+
 ```
 ∑
 ```
+
 ```
 C∈C
 ```
+
 ```
 λ(C)χC.
 ```
+
 ```
 That is, the nonnegative circulations form the cone generated by {χC | C ∈C}.
 ```
+
 ### 4.6. Minimum-cost flows
 
 In the previous sections we were searching for flows of maximum value. In this section
@@ -4309,21 +4984,27 @@ called the cost function. Again we assume that c(a) > 0 for each a, and that for
 u, v ∈ V , both (u, v) and (v, u) occur as arc of D.
 Define for any function f : A → R+ the cost of f as:
 ```
+
 ```
 (33) cost(f) :=
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈A
 ```
+
 ```
 k(a)f(a).
 ```
+
 ```
 The following is the minimum-cost flow problem (or min-cost flow problem):
 ```
+
 (34) given: a directed graph _D_ = (_V, A_), _s, t_ ∈ _V_ , a capacity function _c_ : _A_ → R+
 and a cost function _k_ : _A_ → R+;
 find: an _s_ − _t_ flow subject to _c_ of maximum value, such that _f_ has minimum
@@ -4337,37 +5018,46 @@ So an extreme flow does not need to have maximum value. An extreme flow is a
 flow f that has minimum cost among all flows with the same value as f.
 Define a length function l : A ∪ A−[^1] → R by:
 ```
+
 ```
 (35) l(a) :=
 ```
+
 ```
 {
 k(a) if a ∈ A,
 −k(a−[^1]) if a−[^1] ∈ A
 ```
+
 ```
 for each a ∈ A ∪ A−[^1]. For any directed path or circuit P in A ∪ A−[^1], let l(P) be the
 sum of l(a) over arcs a in P.
 For any flow f, let again Df = (V, Af) be the auxiliary graph corresponding to f
 (in the sense of the flow augmenting algorithm).
 ```
+
 ```
 Proposition 4. f is an extreme flow if and only if Df has no directed circuit C with
 l(C) < 0.
 ```
+
 ```
 Proof. Necessity. Suppose that C = (a1,... , ak) is a directed circuit in Df of negative
 length; that is,
 ```
+
 ```
 (36) l(C) = l(a1) + l(a2) + ··· + l(ak) < 0.
 ```
+
 ```
 So a1,... , ak are arcs in Df. Define for i = 1,... , k:
 ```
+
 ```
 (37) σi :=
 ```
+
 ```
 {
 c(ai) − f(ai) if ai ∈ A,
@@ -4375,6 +5065,7 @@ f(a−[^1]
 i ) if a−[^1]
 i ∈ A.
 ```
+
 Note that by definition of _Df_, _σi >_ 0 for each _i_ = 1_,... , k_. Let _α_ := min{_σ_[^1]:_,... , σk_}
 and define for each _a_ ∈ _A_:
 
@@ -4384,14 +5075,17 @@ and define for each _a_ ∈ _A_:
 
 
 ```
+
 ```
 
 ```
+
 ```
 f(a) + α if a ∈ C,
 f(a) − α if a−[^1] ∈ C,
 f(a) otherwise.
 ```
+
 Then _g_ is again an _s_ − _t_ flow subject to _c_, with value(_g_) = value(_f_). Moreover one
 has
 
@@ -4416,6 +5110,7 @@ extreme flow.
 ```
 With this we can show:
 ```
+
 **Proposition 5.** _Let f be an extreme flow. Let f_′ _arise by choosing in the flow_
 _augmenting algorithm a path P in Df minimizing l_(_P_)_. Then f_′ _is an extreme flow_
 _again._
@@ -4436,12 +5131,15 @@ since _l_(_B_−[^1]) = −_l_(_B_), we have
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 l(Ci) ≥ l(Q).
 ```
+
 This contradicts the fact that _P_ is shortest in _Df_.
 
 This implies that the min-cost flow problem can be solved by choosing in the flow
@@ -4454,6 +5152,7 @@ flow problem. (Here we assume that all capacities are rational.)
 ```
 In this process, we should be able to find a shortest s − t path in the auxiliary
 ```
+
 graphs _Df_. This is indeed possible with the Bellman-Ford method, since _Df_ does not
 have directed circuits of negative length as we saw in Proposition 4.
 
@@ -4505,6 +5204,7 @@ Yokohama 9.2 3.0 6.2
 Sydney 2.8 6.7 −3.9
 Total 266.8 266.8 0.0
 ```
+
 Given is moreover a distance table between these harbours. Koopmans wondered how
 ships should be routed between harbours so as to minimize the total amount of ton kilome-
 ters made by empty ships.
@@ -4540,6 +5240,7 @@ Rotterdam a 6.28 7.26 8.32 9.32 10.32 11.32 12.32 13.32 14.32 15.32 16.32 17.33 
 Rotterdam d 5.31 6.29 7.32 8.35 9.34 10.34 11.34 12.34 13.35 14.35 15.34 16.34 17.35 18.34 19.34 20.35 21.32 22.34
 Amsterdam a 6.39 7.38 8.38 9.40 10.38 11.38 12.38 13.38 14.38 15.38 16.40 17.38 18.38 19.38 20.38 21.38 22.38 23.38
 ```
+
 The rides are carried out by one type of stock, that consists of two-way units that can
 be coupled with each other. The length of the trains can be changed at the end stations
 and at two intermediate stations: Rotterdam and Roosendaal. So in this example, each
@@ -4557,87 +5258,114 @@ Vlissingen-Roosendaal 2 4 4 4 2 2 3 2 2 2 3 3 2 2 2
 Roosendaal-Rotterdam 2 4 5 4 5 3 3 3 2 3 3 4 3 2 2 2 2
 Rotterdam-Amsterdam 1 3 5 4 4 5 3 3 3 3 3 4 5 3 2 2 2 2
 ```
+
 ```
 17
 ```
+
 ```
 19
 ```
+
 ```
 20
 ```
+
 ```
 22
 ```
+
 ```
 24
 ```
+
 ```
 1
 ```
+
 ```
 10
 ```
+
 ```
 6
 ```
+
 ```
 7
 ```
+
 ```
 8
 ```
+
 ```
 9
 ```
+
 ```
 11
 12
 13
 14
 ```
+
 ```
 15
 ```
+
 ```
 16
 ```
+
 ```
 18
 ```
+
 ```
 21
 ```
+
 ```
 23
 ```
+
 ```
 2
 ```
+
 ```
 3
 ```
+
 ```
 4
 ```
+
 ```
 5
 ```
+
 ```
 Roosendaal
 ```
+
 ```
 Amsterdam
 ```
+
 ```
 Vlissingen
 ```
+
 ```
 Rotterdam
 ```
+
 ```
 Figure 4.4
 ```
+
 A unit uncoupled from a train at a station can be coupled at any other later train, in
 the same direction or the other. Moreover, for each segment there is a maximum number
 
@@ -4675,265 +5403,347 @@ _italics_, **capacity** in **bold**):
 ```
 (i) s t
 ```
+
 ```
 5
 ```
+
 ```
 3
 ```
+
 ```
 1
 ```
+
 ```
 2
 ```
+
 ```
 3
 ```
+
 ```
 2
 ```
+
 ```
 5
 ```
+
 ```
 6
 ```
+
 ```
 7
 ```
+
 ```
 8
 ```
+
 ```
 3
 ```
+
 ```
 5
 ```
+
 ```
 22
 ```
+
 ```
 6
 ```
+
 ```
 5
 ```
+
 ```
 10
 ```
+
 ```
 18
 ```
+
 ```
 4
 ```
+
 ```
 4
 ```
+
 ```
 7
 ```
+
 ```
 (ii) s t
 ```
+
 ```
 3
 ```
+
 ```
 8
 ```
+
 ```
 9
 ```
+
 ```
 7 3 1
 ```
+
 ```
 7
 ```
+
 ```
 2
 ```
+
 ```
 4
 5
 ```
+
 ```
 3
 ```
+
 ```
 1
 ```
+
 ```
 4 1
 ```
+
 ```
 2
 ```
+
 ```
 2
 ```
+
 ```
 20
 ```
+
 ```
 6
 ```
+
 ```
 2
 ```
+
 ```
 3 2
 ```
+
 ```
 3
 ```
+
 ```
 3
 ```
+
 ```
 6
 ```
+
 ```
 40
 ```
+
 ```
 2
 ```
+
 ```
 1 1
 ```
+
 ```
 30
 ```
+
 ```
 5
 ```
+
 ```
 (iii) s t
 ```
+
 ```
 2
 ```
+
 ```
 4
 ```
+
 ```
 1
 ```
+
 ```
 1
 ```
+
 ```
 3
 ```
+
 ```
 4 1
 ```
+
 ```
 3
 ```
+
 ```
 8
 ```
+
 ```
 1
 ```
+
 ```
 5
 ```
+
 ```
 3 2 4
 ```
+
 ```
 7 8
 ```
+
 ```
 3
 ```
+
 ```
 8
 ```
+
 ```
 6
 ```
+
 ```
 1 1
 ```
+
 ```
 5
 ```
+
 ```
 2
 ```
+
 ```
 7
 ```
+
 ```
 6
 ```
+
 ```
 8
 ```
+
 ```
 1
 ```
+
 ```
 1
 ```
+
 ```
 1
 ```
+
 ```
 9
 ```
+
 ```
 2
 ```
+
 ```
 8
 ```
+
 ```
 2
 ```
+
 ```
 7
 ```
+
 4.17. Solve the minimum-cost transportation problem for the following data sets:
 
 ```
 (i) m = n = 3,s1 = 9,s2 = 15,s3 = 7,d1 = 5,d2 = 13,d3 = 7,k1 = 2,k2 = 3,k3 =
 2,
 ```
+
 ```
 ci,j j = 1 j = 2 j = 3
 i = 1 6 4 0
 i = 2 3 9 4
 i = 3 0 2 6
 ```
+
 ```
 ki,j j = 1 j = 2 j = 3
 i = 1 8 3 5
 i = 2 2 7 1
 i = 3 2 5 9
 ```
+
 ```
 (ii) m = n = 3,s1 = 11,s2 = 7,s3 = 6,d1 = 9,d2 = 7,d3 = 5,k1 = 4,k2 = 3,k3 = 3,
 ```
+
 ```
 ci,j j = 1 j = 2 j = 3
 i = 1 7 4 0
 i = 2 3 3 2
 i = 3 0 2 4
 ```
+
 ```
 ki,j j = 1 j = 2 j = 3
 i = 1 3 2 4
 i = 2 2 8 4
 i = 3 1 3 2
 ```
+
 4.18. Describe the problem of finding a maximum-weight matching in a bipartite graph as
 a minimum-cost flow problem.
 
@@ -4972,6 +5782,7 @@ _U_⊆_V_
 1
 2(|V | + |U|− o(G − U)).
 ```
+
 **Proof.** To see ≤, we have for each _U_ ⊆ _V_ :
 
 (3) _ν_(_G_) ≤|_U_|+_ν_(_G_−_U_) ≤|_U_|+[^1]
@@ -5038,6 +5849,7 @@ _U_⊆_V_
 |U| + o(U)
 2
 ```
+
 .
 
 **Proof.** By Gallai’s theorem (Theorem 3.1) and the Tutte-Berge formula (Theorem
@@ -5050,14 +5862,17 @@ _W_⊆_V_
 |V | + |W|− o(V \ W)
 2
 ```
+
 ```
 = max
 U⊆V
 ```
+
 ```
 |U| + o(U)
 2
 ```
+
 .
 
 **Exercises**
@@ -5068,11 +5883,13 @@ U⊆V
 matching if and only if the subgraph G −v has exactly one odd component, for
 each v ∈ V.
 ```
+
 ```
 5.2. Let G be a 3-regular graph without any bridge. Show that G has a perfect matching.
 (A bridge is an edge e not contained in any circuit; equivalently, deleting e increases
 the number of components; equivalently, {e} is a cut.)
 ```
+
 ```
 5.3. Let A1,...,An be a collection of nonempty subsets of the finite set X so that each
 element in X is in exactly two sets among A1,...,An. Show that there exists a set
@@ -5085,26 +5902,33 @@ subset of X with the property that for each i ∈ I: Ai ∩ Y = ∅ or Ai ⊆ Y 
 covering T if and only if the number of odd components of G − W contained in T is
 at most |W|, for each W ⊆ V.
 ```
+
 ```
 5.5. Let G = (V,E) be a graph and let b : V → Z+. Show that there exists a function
 f : E → Z+ so that for each v ∈ V :
 ```
+
 ```
 (8)
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈E,v∈e
 ```
+
 ```
 f(e) = b(v)
 ```
+
 ```
 if and only if for each subset W of V the number β(W) is at most b(V \ W).
 (Here for any subset W of V , b(W) :=
 ```
+
 ```
 ∑
 v∈W b(v). Moreover, β(W) denotes the
@@ -5112,37 +5936,47 @@ following. Let U be the set of isolated vertices in the graph G|W induced by W a
 let t denote the number of components C of the graph G|W \U with b(C) odd. Then
 β(W) := b(U) + t.)
 ```
+
 ```
 5.6. Let G = (V,E) be a graph and let b : V → Z+. Show that G has a subgraph
 G′ = (V,E′) such that degG′(v) = b(v) for each v ∈ V if and only if for each two
 disjoint subsets U and W of V one has
 ```
+
 ```
 (9)
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈U
 ```
+
 ```
 b(v) ≥ q(U,W) +
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈W
 ```
+
 ```
 (b(v) − dG−U(v)).
 ```
+
 ```
 Here q(U,W) denotes the number of components K of G − (U ∪ W) for which b(K)
 plus the number of edges connecting K and W, is odd. Moreover, dG−U(v) is the
 degree of v in the subgraph induced by V \ U.
 ```
+
 ### 5.2. Cardinality matching algorithm
 
 We now investigate the problem of finding a maximum-cardinality matching algorith-
@@ -5188,10 +6022,12 @@ if and only if there is no M-augmenting path. We call an M-alternating walk P an
 M-blossom if v0,... , vt−1 are distinct, v0 is missed by M, and vt = v0.
 The core of the algorithm is the following observation.
 ```
+
 ```
 Theorem 5.2. Let C be an M-blossom in G. Then M has maximum size in G if
 and only if M/C has maximum size in G/C.
 ```
+
 ```
 Proof. Let C = (v0, v1,... , vt), G′ := G/C and M′ := M/C.
 First let P be an M-augmenting path in G. We may assume that P does not start
@@ -5207,15 +6043,18 @@ some vertex vi ∈ C to obtain a path Q in G ending at vi. If i is odd, extendin
 by vi+1,... , vt−1, vt gives an M-augmenting path in G. If i is even, extending Q by
 vi−1,... , v1, v0 gives an M-augmenting path in G.
 ```
+
 ```
 Another useful observation is (where a W − v walk is a walk starting at a vertex
 in W and ending at v):
 ```
+
 ```
 Theorem 5.3. Let P = (v0, v1,... , vt) be a shortest even-length M-alternating W −v
 walk. Then either P is simple or there exist i < j such that vi = vj, i is even, j is
 odd, and v0,... , vj−1 are all distinct.
 ```
+
 ```
 Proof. Assume P is not simple. Choose i < j such that vj = vi and such that j is as
 small as possible. If j − i is even, we can delete vi+1,... , vj from P so as to obtain
@@ -5223,9 +6062,11 @@ a shorter M-alternating W − v walk. So j − i is odd. If j is even and i is o
 vi+1 = vj−1 (as it is the vertex matched to vi = vj), contradicting the minimality of
 j.
 ```
+
 ```
 We now describe an algorithm for the following problem:
 ```
+
 (13) given: a matching _M_;
 find: a matching _N_ with |_N_| = |_M_| + 1 or conclude that _M_ is a maximum-size
 matching.
@@ -5233,6 +6074,7 @@ matching.
 ```
 Let W be the set of vertices missed by M.
 ```
+
 (14) **Case 1.** _There is no M-alternating W_ − _W walk._ Then _M_ has maximum size
 (as there is no _M_-augmenting path).
 
@@ -5246,6 +6088,7 @@ i < j such that vi = vj with j as small as possible. Reset M :=
 M△{v0v1, v1v2,... , vi−1vi}. Then C := (vi, vi+1,... , vj) is an M-blossom.
 Apply the algorithm (recursively) to G′ = G/C and M′ := M/C.
 ```
+
 • If it gives an M′-augmenting path P′ in G′, transform P′ to an
 M-augmenting path in G (as in the proof of Theorem 5.2).
 • If it concludes that M′ has maximum size in G′, then M has max-
@@ -5255,10 +6098,12 @@ imum size in G (by Theorem 5.2).
 This gives a polynomial-time algorithm to find a maximum-size matching, which
 is a basic result of Edmonds [1965c].
 ```
+
 ```
 Theorem 5.4. Given an undirected graph, a maximum-size matching can be found
 in time O(|V |[^2]|E|).
 ```
+
 ```
 Proof. The algorithm directly follows from algorithm (14), since one can iteratively
 apply it, starting with M = ∅, until a maximum-size matching is attained.
@@ -5267,16 +6112,19 @@ Moreover, the graph G/C can be constructed in time O(|E|). Since the recursion h
 depth at most |V |, each application of algorithm (14) takes O(|V ||E|) time. Since the
 number of applications is at most |V |, we have the time bound given in the theorem.
 ```
+
 ```
 In fact, the method can be sharpened to O(|V |[^3]) (Balinski [1969]), O(|V |[^5]/[^2]) (Even
 and Kariv [1975]) and even to O(|V |[^1]/[^2]|E|) (Micali and Vazirani [1980]). For surveys,
 see Schrijver [2003].
 ```
+
 ```
 Application 5.1: Pairing. If a certain group of people has to be split into pairs, where
 certain pairs fit and other pairs do not fit (for instance, when assigning hotel rooms or bus
 seats to a touring group), we have an example of a (perfect) matching problem.
 ```
+
 ```
 Application 5.2: Two-processor scheduling. Suppose we have to carry out certain
 jobs, where some of the jobs have to be done before other. We can represent this by a
@@ -5285,6 +6133,7 @@ to be done before job y. Each job takes one time-unit, say one hour.
 Suppose now that there are two workers, each of which can do one job at a time.
 Alternatively, suppose that you have one machine, that can do at each moment two jobs
 ```
+
 simultaneously (such a machine is called a _two-processor_).
 We wish to do all jobs within a minimum total time span. This problem can be solved
 with the matching algorithm as follows. Make a graph _G_ = (_X,E_), with vertex set _X_ (the
@@ -5317,18 +6166,23 @@ induction as before.
 ```
 5.7. Apply the matching augmenting algorithm to the matchings in the following graphs:
 ```
+
 ```
 (i)
 ```
+
 ```
 (ii)
 ```
+
 ```
 16Here we identify a vertex v with the set {v}.
 ```
+
 ```
 (iii)
 ```
+
 ### 5.3. Weighted matching algorithm
 
 ```
@@ -5336,6 +6190,7 @@ Edmonds [1965a] proved that also the maximum-weight matching problem can be
 solved in polynomial time. Equivalently, the minimum-weight perfect matching prob-
 lem can be solved in polynomial time. It is the problem:
 ```
+
 (16) given: a graph _G_ = (_V, E_) and a ‘weight’ function _w_ : _E_ → Q;
 find: a perfect matching _M_ minimizing
 
@@ -5343,6 +6198,7 @@ find: a perfect matching _M_ minimizing
 ∑
 e∈M w(e).
 ```
+
 ```
 We describe the algorithm, assuming without loss of generality that G has at least
 one perfect matching and that w(e) ≥ 0 for each edge e (we can add a constant to
@@ -5356,83 +6212,108 @@ The algorithm is ‘primal-dual’. The ‘vehicle’ carrying us to a minimum-w
 perfect matching is a pair of a nested[^17] collection Ω of odd-size subsets of V , and a
 function π : Ω → Q satisfying:
 ```
+
 ```
 (17) (i) π(U) ≥ 0 if U ∈ Ω with |U|≥ 3,
 (ii)
 ```
+
 ```
 ∑
 ```
+
 ```
 U∈Ω
 e∈δ(U)
 ```
+
 ```
 π(U) ≤ w(e) for each e ∈ E.
 ```
+
 ```
 This implies that for each perfect matching N in G one has w(N) ≥
 ```
+
 ```
 ∑
 ```
+
 ```
 U∈Ω
 ```
+
 ```
 π(U), since
 ```
+
 ```
 (18) w(N) =
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈N
 ```
+
 ```
 w(e) ≥
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈N
 ```
+
 ```
 ∑
 ```
+
 ```
 U∈Ω
 e∈δ(U)
 ```
+
 ```
 π(U) =
 ```
+
 ```
 ∑
 ```
+
 ```
 U∈Ω
 ```
+
 ```
 π(U)|N ∩ δ(U)|≥
 ```
+
 ```
 ∑
 ```
+
 ```
 U∈Ω
 ```
+
 ```
 π(U).
 ```
+
 ```
 Notation and assumptions. Let be given Ω and π : Ω → Q. Define
 17A collection Ω of subsets of a set V is called nested if U ∩ W = ∅ or U ⊆ W or W ⊆ U for any
 U,W ∈ Ω.
 ```
+
 (19) _wπ_(_e_) := _w_(_e_) −
 _U_∈Ω
 _e_∈_δ_(_U_)
@@ -5440,6 +6321,7 @@ _e_∈_δ_(_U_)
 ```
 π(U)
 ```
+
 for any edge _e_ ∈ _E_. (So (17)(ii) implies _wπ_(_e_) ≥ 0.)
 _G/_Ω denotes the graph obtained from _G_ by shrinking all sets in Ωmax, the set of
 inclusionwise maximal sets in Ω. We will assume throughout that {_v_} ∈ Ω for each
@@ -5457,15 +6339,18 @@ circuit _CU_ of edges _e_ with _wπ_(_e_) = 0.
 ```
 X
 ```
+
 ```
 edge in M
 edge not in M
 ```
+
 ```
 vertex covered by M
 vertex not covered by M
 Figure 5.1. An M-alternating forest
 ```
+
 _M_**-alternating forests.** An important role in the algorithm is played by a so-called
 ‘_M_-alternating forest’ relative to a matching _M_ (cf. Figure 5.1).
 Let _M_ be a matching in a graph _G_ = (_V, E_) and let _W_ be the set of vertices
@@ -5525,6 +6410,7 @@ iterations.
 ```
 This gives the theorem of Edmonds [1965a]:
 ```
+
 **Corollary 5.5a.** _A minimum-weight perfect matching can be found in polynomial_
 _time._
 
@@ -5537,6 +6423,7 @@ had obtained earlier when shrinking _U_.
 ```
 As a consequence one can derive:
 ```
+
 **Corollary 5.5b.** _In any graph with weight function on the edges, a maximum-weight_
 _matching can be found in polynomial time._
 
@@ -5571,6 +6458,7 @@ Now a timetable yielding maximum profit is found by determining a maximum-weight
 ```
 perfect matching in this graph.
 ```
+
 ```
 Application 5.5: Chinese postman problem. The Chinese postman problem, first
 studied by Guan [1960], consists of the following. Given a connected graph G = (V,E) and
@@ -5585,10 +6473,11 @@ l as length). Consider the complete graph H = (U,E′) on U. Determine a minimum
 perfect matching M in H, taking d as weight function. For each edge uu′ in M we can
 determine a path Pu,u′ in G of length d(u,u′). It can be shown that any two different such
 paths do not have any edge in common (assuming that each edge has positive length) —
-see Exercise 5.13. Let Ẽ be the set of edges occurring in the Pu,u′ (uu′ ∈ M). Then there
-exists a tour T so that each edge e ∈ E \Ẽ is traversed exactly once and each edge e ∈ Ẽ is
+see Exercise 5.13. Let E ̃ be the set of edges occurring in the Pu,u′ (uu′ ∈ M). Then there
+exists a tour T so that each edge e ∈ E \E ̃ is traversed exactly once and each edge e ∈ E ̃ is
 traversed exactly twice. This tour T is a shortest ‘Chinese postman tour’ (Exercise 5.14).
 ```
+
 ```
 Application 5.6: Christofides’ approximative algorithm for the traveling sales-
 man problem. Christofides [1976] designed the following algorithm to find a short travel-
@@ -5599,9 +6488,11 @@ circuit in the complete graph on V traversing each vertex exactly once.
 Suppose that the length function is symmetric (that is, l(u,v) = l(v,u) for all u,v ∈ V )
 and satisfies the triangle inequality:
 ```
+
 ```
 (22) l(u,w) ≤ l(u,v) + l(v,w)
 ```
+
 ```
 for all u,v,w ∈ V. Then a reasonably short traveling salesman tour can be found as follows.
 First determine a shortest spanning tree S (with the greedy algorithm). Next, let U be
@@ -5614,6 +6505,7 @@ tour T′ with length(T′) ≤length(T).
 How far away is the length of T′ from the length of a shortest traveling salesman tour?
 Let ρ be the length of a shortest traveling salesman tour. It is not difficult to show that:
 ```
+
 (23) (i) length(_S_) ≤ _ρ_;
 (ii) length(_M_) ≤[^1]
 [^2]:_ρ_.
@@ -5621,6 +6513,7 @@ Let ρ be the length of a shortest traveling salesman tour. It is not difficult 
 ```
 (Exercise 5.18.) Hence
 ```
+
 (24) length(_T_′) ≤length(_T_) =length(_S_)+length(_M_) ≤[^3]
 [^2]:_ρ_.
 
@@ -5638,98 +6531,129 @@ method is known. Don’t forget moreover that it is a _worst-case_ bound, and th
 5.8. Find with the weighted matching algorithm a minimum-weight perfect matching in
 the following weighted graphs:
 ```
+
 ```
 (i)
 ```
+
 ```
 1
 ```
+
 ```
 1
 ```
+
 ```
 1 3
 ```
+
 ```
 4
 ```
+
 ```
 2
 ```
+
 ```
 7
 ```
+
 ```
 5
 ```
+
 ```
 6
 ```
+
 ```
 (ii)
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 0
 ```
+
 ```
 1
 ```
+
 ```
 6
 ```
+
 ```
 0 5
 ```
+
 ```
 0
 ```
+
 ```
 1
 ```
+
 ```
 2
 ```
+
 ```
 4
 ```
+
 ```
 1
 ```
+
 ```
 8
 ```
+
 ```
 5
 ```
+
 ```
 6
 ```
+
 ```
 7
 ```
+
 ```
 3
 ```
+
 ```
 5.9. Derive Corollary 5.5b from Corollary 5.5a.
 ```
+
 5.10. A collection Ω of subsets of a finite set _V_ is called _cross-free_ if:
 
 ```
 (25) if X,Y ∈ Ω, then X ⊆ Y , or Y ⊆ X, or X ∩ Y = ∅, or X ∪ Y = V.
 ```
+
 ```
 Show that if Ω is cross-free, then |Ω|≤ 4|V |.
 ```
+
 5.11. Find a shortest Chinese postman route in the graph in Figure 5.2.
 
 5.12. Find a shortest Chinese postman route in the map of Figure 5.3.
@@ -5740,35 +6664,44 @@ do not have any edge in common (if each edge has positive length).
 ```
 2
 ```
+
 ```
 6
 ```
+
 ```
 5
 ```
+
 ```
 9
 ```
+
 ```
 4 3 1
 3
 2 1
 ```
+
 ```
 8
 3
 3
 ```
+
 ```
 3
 6
 ```
+
 ```
 2 3
 ```
+
 ```
 3
 ```
+
 ```
 3
 4
@@ -5777,24 +6710,30 @@ do not have any edge in common (if each edge has positive length).
 4
 3
 ```
+
 ```
 4 5
 ```
+
 ```
 3
 ```
+
 ```
 5
 4
 1
 2
 ```
+
 ```
 2
 ```
+
 ```
 Figure 5.2
 ```
+
 5.14. Show that the tour found in Application 5.5 is indeed a shortest Chinese postman
 tour.
 
@@ -5827,6 +6766,7 @@ _x_ := 0 otherwise.
 ```
 Figure 5.3. Part of the Xuhui district of Shanghai
 ```
+
 (26) _P_perfect matching(_G_) =conv.hull{_χM_ | _M_ perfect matching in _G_}.
 
 So _P_perfect matching(_G_) is a polytope in R_E_.
@@ -5840,6 +6780,7 @@ polytope is fully determined by the following set of inequalities:
 ∑
 e∋v xe = 1 for each v ∈ V.
 ```
+
 These inequalities are not enough for, say, _K_[^3]:: taking _x_(_e_) :=[^1]
 [^2]: for each edge _e_ of _K_[^3]
 gives a vector _x_ satisfying (27) but not belonging to the perfect matching polytope
@@ -5851,12 +6792,15 @@ Edmonds [1965a] showed that it is enough to add the following set of inequalitie
 ```
 ∑
 ```
+
 ```
 e∈δ(U)
 ```
+
 ```
 xe ≥ 1 for each odd subset U of V.
 ```
+
 It is clear that for any perfect matching _M_ in _G_ the incidence vector _χM_ satisfies
 (28). So clearly, _P_perfect matching(_G_) is contained in the polyhedron _Q_ defined by (27)
 and (28). The essence of Edmonds’ theorem is that one does not need more.
@@ -5879,6 +6823,7 @@ the final function _π_ have equality throughout in (18).
 ```
 This implies:
 ```
+
 **Corollary 5.6a** (Edmonds’ perfect matching polytope theorem)**.** _The perfect match-_
 _ing polytope of any graph G_ = (_V, E_) _is determined by_ (27) _and_ (28)_._
 
@@ -5906,16 +6851,19 @@ _the matching polytope is determined by:_
 e∋v xe ≤[^1] for each v ∈ V ;
 (iii)
 ```
+
 ```
 ∑
 e⊂U xe ≤⌊[^1]
 2|U|⌋ for each U ⊆ V with |U| odd.
 ```
+
 **Proof.** Left to the reader (Exercise 5.21).
 
 ```
 This in turn has the following consequence:
 ```
+
 **Corollary 5.6c.** _Let G_ = (_V, E_) _be a graph and let w_ : _E_ → Q+_. Then the maximum_
 _weight of a matching is equal to the minimum value of_
 
@@ -5924,28 +6872,36 @@ _weight of a matching is equal to the minimum value of_
 ```
 ∑
 ```
+
 ```
 v∈V
 ```
+
 ```
 yv +
 ```
+
 ```
 ∑
 ```
+
 ```
 U⊆V
 ```
+
 ```
 zU⌊
 ```
+
 ```
 1
 2
 ```
+
 ```
 |U|⌋,
 ```
+
 _where y_ ∈ Q_V_
 + _and z_ ∈ Q
 
@@ -5953,10 +6909,12 @@ _where y_ ∈ Q_V_
 Podd(V)
 + satisfy
 ```
+
 ```
 ∑
 v∈e yv +
 ```
+
 ∑
 _U_∈Podd(_V_)_,e_⊆_U zU_ ≥ _w_(_e_) _for each_
 _edge e._
@@ -5977,20 +6935,25 @@ by the following inequalities:
 ```
 (32) ∑ xe ≥ 0 for each e ∈ E;
 ```
+
 ```
 e∈δ(U)
 ```
+
 ```
 xe ≥ 1 for each odd subset U of V ;
 ∑
 ```
+
 ```
 e∈E
 ```
+
 ```
 xe =[^1]
 2|V |.
 ```
+
 5.21. Derive Edmonds’ matching polytope theorem from Edmonds’ perfect matching poly-
 tope theorem.
 
@@ -6081,77 +7044,101 @@ _Gn_). Moreover, choose _M_ ∈M arbitrarily. Then
 ```
 ∑
 ```
+
 ```
 U⊆V
 ```
+
 ```
 zU⌊
 ```
+
 ```
 1
 2
 ```
+
 ```
 |U|⌋ =
 ```
+
 ```
 ∑∞
 ```
+
 ```
 n=1
 ```
+
 ```
 ∑
 ```
+
 ```
 U∈Kn
 ```
+
 ```
 ⌊
 ```
+
 ```
 1
 2
 ```
+
 ```
 |U|⌋ =
 ```
+
 ```
 ∑∞
 ```
+
 ```
 n=1
 ```
+
 ```
 ∑
 ```
+
 ```
 U∈Kn
 ```
+
 ```
 |M ∩ EU|
 ```
+
 ```
 =
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈M
 ```
+
 ```
 (number of n, U with e ⊆ U ∈Kn) =
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈M
 ```
+
 ```
 w(e).
 ```
+
 **Exercises**
 
 5.25. Derive the Tutte-Berge formula from the Cunningham-Marsh formula (Theorem 5.7).
@@ -6219,18 +7206,23 @@ it is unknown which of the two diagrams in Figure 6.1 applies.
 ```
 NP
 ```
+
 ```
 NP-c
 ```
+
 ```
 P
 ```
+
 ```
 NP-c P=NP
 ```
+
 ```
 Figure 6.1
 ```
+
 Below we make some of the notions more precise. We will not elaborate all tech-
 nical details fully, but hope that the reader will be able to see the details with not
 too much effort. For precise discussions we refer to the books by Aho, Hopcroft, and
@@ -6252,21 +7244,27 @@ words is denoted by Σ∗.
 ```
 e
 ```
+
 ```
 d
 ```
+
 ```
 b
 ```
+
 ```
 c
 ```
+
 ```
 a
 ```
+
 ```
 Figure 6.2
 ```
+
 It is not difficult to encode objects like rational numbers, vectors, matrices, graphs,
 and so on, as words. For instance, the graph given in Figure 6.2 can be encoded, as
 usual, by the word:
@@ -6528,6 +7526,7 @@ properties. Any assignment xi,j := αi,j ∈{0,1} and yi,j := βi,j ∈{0,1} mak
 to 1 if and only if the allowed sequence starting with the word w0 := α0,1α0,2... α0,n
 is a finite sequence w0,... , wk, so that:
 ```
+
 (15) (i) _αi,j_ is equal to the _j_th symbol in the word _wi_, for each _i_ ≤ _k_ and each
 _j_ ≤ size(_wi_);
 (ii) _βi,j_ = 1 if and only if _i > k_ or _j_ ≤ size(_wi_).
@@ -6541,12 +7540,15 @@ the sizes of wi and wi+1.) Moreover, the fact that the algorithm stops at a word
 also can be encoded by a boolean expression. Taking the ‘conjunction’ of all these
 boolean expressions, will give us the boolean expression f.
 ```
+
 ```
 As a direct consequence we have:
 ```
+
 ```
 Corollary 6.1a. Theorem 6.1 also holds if we replace P by NP in the first sentence.
 ```
+
 ```
 Proof. Let Π ⊆ {0,1}∗ belong to NP. Then, by definition of NP, there exists a
 problem Π′ in P and a polynomial r(x) such that any word w belongs to Π if and
@@ -6555,18 +7557,22 @@ re-encoding, we may assume that for each n ∈ N, any word w ∈{0,1}∗ belongs
 if and only if wv belongs to Π′ for some word v of size r(size(w)). Applying Theorem
 6.1 to Π′ gives the corollary.
 ```
+
 ```
 Now the main result of Cook [1971] follows:
 ```
+
 ```
 Corollary 6.1b (Cook’s theorem). The satisfiability problem SAT is NP-complete.
 ```
+
 ```
 Proof. Let Π belong to NP. We describe a polynomial-time reduction of Π to SAT.
 Let w = α1... αn ∈ {0,1}∗. By Corollary 6.1a we can find in time bounded by
 a polynomial in n a boolean expression f such that w belongs to Π if and only if
 f(α1,... , αn, xn+1,...) is satisfiable. This is the required reduction to SAT.
 ```
+
 ### 6.9. NP-completeness of some other problems
 
 We next derive from Cook’s theorem some of the results of Karp [1972]. First we
@@ -6638,36 +7644,46 @@ s
 ```
 -1
 ```
+
 ```
 j jt
 -1 s
 ```
+
 ```
 ri
 ```
+
 ```
 t -1
 ```
+
 ```
 r
 ```
+
 ```
 j2
 ```
+
 ```
 i
 ```
+
 ```
 s s jt-1 jt-1-1 sj j 1-1
 2
 ```
+
 ```
 s s
 1 sj
 ```
+
 ```
 Figure 6.3
 ```
+
 Let _D_ be the directed graph arising. Then it is not difficult to check that there
 exists a subcollection C′ of C that partitions _X_ if and only if _D_ has a directed Hamil-
 tonian cycle _C_. (Take: (_ri_−[^1]:_, ri_) ∈ _C_ ⇐⇒ _Ci_ ∈C′.)
@@ -6797,15 +7813,18 @@ On the other hand, it is NP-complete to find a maximum-cardinality stable set in
 a graph. That is, determining α(G) is NP-complete. To be more precise, the problem
 COCLIQUE is:
 ```
+
 (1) given: a graph _G_ and a natural number _k_,
 decide: if _α_(_G_) ≥ _k_.
 
 ```
 Then:
 ```
+
 ```
 Theorem 7.1. The problem COCLIQUE is NP-complete.
 ```
+
 ```
 Proof. We reduce SAT to COCLIQUE. Let C1 ∧ ··· ∧ Ck be a boolean expres-
 sion in the variables x1,... , xn, where each expression is a disjunction of the literals
@@ -6813,6 +7832,7 @@ x1,¬x1,... , xn,¬xn. Consider the graph G = (V, E) with V := {(σ, i) | σ is 
 in Ci} and E := {{(σ, i),(τ, j)}| i = j or σ = ¬τ}. Then the expression is satisfiable
 if and only if G has a stable set of size k.
 ```
+
 ```
 Since by Gallai’s theorem Theorem 3.1, α(G) = |V |− τ(G), also determining the
 vertex-cover number τ(G) is NP-complete.
@@ -6830,12 +7850,14 @@ minimum number of colours in any vertex-colouring of G. A graph G is called k-
 colourable if χ(G) ≤ k. Again, it is NP-complete to decide if a graph is k-colourable.
 That is, let VERTEX-COLOURING be the problem:
 ```
+
 (2) given: a graph _G_ and a natural number _k_,
 decide: if _χ_(_G_) ≤ _k_.
 
 ```
 Theorem 7.2. The problem VERTEX-COLOURING is NP-complete.
 ```
+
 ```
 Proof. We show that COCLIQUE can be reduced to VERTEX-COLOURING. Let
 G = (V, E) be an undirected graph and let k ∈ Z+. We want to decide if α(G) ≥ k.
@@ -6846,6 +7868,7 @@ in H. Each vertex in V is adjacent to each vertex in V ′ ∪ C, except to its 
 No vertex in V ′ is adjacent to any vertex in C.
 This defines the graph H. Then α(G) ≥ k if and only if χ(H) ≤|V | + 1.
 ```
+
 ```
 Well-known is the four-colour conjecture (4CC), stating that χ(G) ≤ 4 for each
 planar graph G. This conjecture was proved by Appel and Haken [1977] and Appel,
@@ -6858,31 +7881,39 @@ pect a min-max relation characterizing the stable set number α(G), the vertex-c
 number τ(G), the clique number ω(G), or the colouring number χ(G) of a graph G.
 There is a trivial upper bound on the colouring number:
 ```
+
 ```
 (3) χ(G) ≤ ∆(G) + 1,
 ```
+
 ```
 where ∆(G) denotes the maximum valency of G. Brooks [1941] sharpened this in-
 equality as follows:
 ```
+
 ```
 Theorem 7.3 (Brooks’ theorem). For any connected graph G one has χ(G) ≤ ∆(G),
 except if G = Kn or G = C2n+1 for some n ≥ 1.[^19]
 ```
+
 ```
 Another inequality relates the clique number and the colouring number:
 ```
+
 ```
 (4) ω(G) ≤ χ(G).
 ```
+
 ```
 This is easy, since in any clique all vertices should have different colours.
 But there are several graphs which have strict inequality in (4). We mention
 the odd circuits C2k+1, with 2k + 1 ≥ 5: then ω(C2k+1) = 2 and χ(C2k+1) = 3.
 ```
+
 ```
 19Here Ck denotes the circuit with k vertices.
 ```
+
 Moreover, for the complement _C_[^2]:_k_+1 of any such graph we have: _ω_(_C_[^2]:_k_+1) = _k_ and
 _χ_(_C_[^2]:_k_+1) = _k_ + 1.
 It was a conjecture of Berge [1963] that these graphs are crucial, which was proved
@@ -6933,89 +7964,115 @@ _G_|_V_ ′ is called an _induced_ subgraph of _G_.
 ```
 1
 ```
+
 ```
 2
 ```
+
 ```
 3
 ```
+
 ```
 3
 ```
+
 ```
 4
 ```
+
 ```
 4
 ```
+
 ```
 5
 ```
+
 ```
 5
 ```
+
 ```
 6
 ```
+
 ```
 2
 ```
+
 ```
 7
 ```
+
 ```
 7
 ```
+
 ```
 13
 12
 ```
+
 ```
 11
 ```
+
 ```
 9
 ```
+
 ```
 10
 ```
+
 ```
 12
 13
 ```
+
 ```
 8
 7
 ```
+
 ```
 13
 ```
+
 ```
 10
 9 1
 8
 ```
+
 ```
 6
 ```
+
 ```
 11
 ```
+
 ```
 1
 ```
+
 ```
 10
 12
 ```
+
 ```
 11
 13
 ```
+
 ```
 8
 9
 ```
+
 ```
 2
 3
@@ -7025,6 +8082,7 @@ _G_|_V_ ′ is called an _induced_ subgraph of _G_.
 7
 Figure 7.1. The Paris M ́etro lines
 ```
+
 number of carriages.
 This trivially reduces to a graph colouring problem. A similar problem is obtained if
 you have to store a number of chemicals in a minimum number of rooms of a storehouse,
@@ -7050,9 +8108,11 @@ short time new frequencies should be determined.
 in Application 7.1.
 7.2. Colour the map of Figure 7.2 (from the April 1975 issue of Scientific American).
 ```
+
 ```
 Figure 7.2
 ```
+
 ```
 7.3. Show that if G is a bipartite graph, then ω(G) = χ(G).
 7.4. Derive from K ̋onig’s edge cover theorem (Corollary 3.3a) that if G is the complement
@@ -7064,6 +8124,7 @@ Derive from K ̋onig’s matching theorem (Theorem 3.3) that ω(G) = χ(G).
 7.7. Derive K ̋onig’s matching theorem (Theorem 3.3) from the strong perfect graph the-
 orem.
 ```
+
 ```
 7.8. Let G = (V,E) be a simple graph such that no minor of G is isomorphic to K4. Show
 that χ(G) ≤ 3.
@@ -7071,6 +8132,7 @@ that χ(G) ≤ 3.
 covering all vertices of G. As G has no K4-minor, G is not 3-connected, that is, G
 has a vertex cut set of size less than 3; then χ(G) ≤ 3 follows by induction.]
 ```
+
 ### 7.2. Edge-colourings of bipartite graphs
 
 For any graph _G_ = (_V, E_), an _edge-colouring_ is a partition Π = {_M_[^1]:_,... , Mp_} of the
@@ -7169,6 +8231,7 @@ e X X X X
 f X X X X
 g X X X X
 ```
+
 The question is: What is the minimum timespan in which all lessons can be scheduled?
 Theorem 7.4 tells us that all lessons can be scheduled within a timespan of 4 hours.
 Indeed, make a bipartite graph _G_ with colour classes _T_ := set of teachers and _C_ := set of
@@ -7195,9 +8258,11 @@ hours.
 ```
 7.9. Determine a schedule for the following scheduling problems:
 ```
+
 ```
 (i)
 ```
+
 ```
 X X X X
 X X X X
@@ -7205,9 +8270,11 @@ X X X X
 X X X X
 X X X X
 ```
+
 ```
 (ii)
 ```
+
 ```
 X X X X
 X X X X
@@ -7217,80 +8284,103 @@ X X X X
 X X X X
 X X X X
 ```
+
 (iii)
 
 ```
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
 ```
+
 ```
 J
 ```
+
 ```
 L
 ```
+
 ```
 R
 S
 T
 ```
+
 ```
 W
 X
 ```
+
 ```
 Z
 ```
+
 ```
 V
 ```
+
 ```
 U
 ```
+
 ```
 Q
 ```
+
 ```
 P
 ```
+
 ```
 O
 ```
+
 ```
 M
 N
 ```
+
 ```
 K
 ```
+
 ```
 I
 ```
+
 ```
 G
 H
 ```
+
 ```
 F
 ```
+
 ```
 E
 ```
+
 ```
 C
 D
 ```
+
 ```
 B
 ```
+
 ```
 A
 ```
+
 ```
 Y
 ```
+
 ```
 (Here the slots to be scheduled are indicated by open cells.)
 ```
+
 7.10. Let _G_ be the line-graph of some bipartite graph _H_. Derive from K ̋onig’s edge-
 colouring theorem (Theorem 7.4) that _ω_(_G_) = _χ_(_G_).
 7.11. Derive K ̋onig’s edge-colouring theorem (Theorem 7.4) from the strong perfect graph
@@ -7311,23 +8401,29 @@ to cover _X_ is equal to
 (13) ⌈max
 Y⊆X max{
 ```
+
 ```
 |Y |
 |{i|Ai ∩ Y 6= ∅}|
 ```
+
 ```
 ,
 ```
+
 ```
 |Y |
 |{i|Bi ∩ Y 6= ∅}|
 ```
+
 ```
 }⌉.
 ```
+
 ```
 (Hint: Use Exercise 3.8.)
 ```
+
 7.14. Let A = (_A_[^1]:_,...,An_) and B = (_B_[^1]:_,...,Bn_) be families of subsets of a finite set _X_
 and let _k_ ∈ N. Suppose that _X_ has a partition (_Y_[^1]:_,...,Yk_) such that each _Yi_ is an
 SDR of A. Suppose moreover that _X_ has a partition (_Z_[^1]:_,...,Zk_) such that each _Zi_
@@ -7347,28 +8443,36 @@ SDR’s if and only if for all _I,J_ ⊆{[^1]:_,...,n_}:
 (14)
 ∣∣
 ```
+
 ```
 ⋃
 ```
+
 ```
 i∈I
 ```
+
 ```
 Ai ∩
 ```
+
 ```
 ⋃
 ```
+
 ```
 j∈J
 ```
+
 ```
 Bj
 ∣∣ ≥ k(|I| + |J|− n).
 ```
+
 ```
 (Hint: Use Exercise 7.15.)
 ```
+
 7.17. Let A = (_A_[^1]:_,...,An_) and B = (_B_[^1]:_,...,Bn_) be families of subsets of a finite set _X_.
 
 ```
@@ -7376,44 +8480,54 @@ Bj
 has k pairwise disjoint SDR’s. Derive that X can be partitioned into k subsets
 X1,...,Xk such that each Xi contains an SDR of A and contains an SDR of B.
 ```
+
 ```
 (ii) Show that the maximum number k for which there exists a partition as in (i) is
 equal to
 ```
+
 ```
 (15) ⌊ min
 ∅6=I⊆{1,...,n}
 ```
+
 ```
 min{
 ```
+
 ```
 ∣∣⋃
 i∈I Ai
 ∣∣
 |I|
 ```
+
 ```
 ,
 ```
+
 ```
 ∣∣⋃
 i∈I Bi
 ∣∣
 |I|
 ```
+
 ```
 }⌋.
 ```
+
 ```
 (Hint: Use Exercise 3.7.)
 ```
+
 ### 7.3. Partially ordered sets
 
 ```
 A partially ordered set is a pair (X,≤) where X is a set and where ≤ is a relation on
 X satisfying (for all x, y, z ∈ X):
 ```
+
 (16) (i) _x_ ≤ _x_;
 (ii) if _x_ ≤ _y_ and _y_ ≤ _x_ then _x_ = _y_;
 (iii) if _x_ ≤ _y_ and _y_ ≤ _z_ then _x_ ≤ _z_.
@@ -7423,17 +8537,21 @@ A subset C of X is called a chain if for all x, y ∈ C one has x ≤ y or y ≤
 A of X is called an antichain if for all x, y ∈ A with x 6= y one has x 6≤ y and y 6≤ x.
 Note that if C is a chain and A is an antichain then
 ```
+
 ```
 (17) |C ∩ A|≤ 1.
 ```
+
 ```
 First we observe the following easy min-max relation:
 ```
+
 ```
 Theorem 7.5. Let (X,≤) be a partially ordered set, with X finite. Then the mini-
 mum number of antichains needed to cover X is equal to the maximum cardinality of
 any chain.
 ```
+
 ```
 Proof. The fact that the maximum cannot be larger than the minimum follows easily
 from (17). To see that the two numbers are equal, define for any element x ∈ X the
@@ -7442,15 +8560,18 @@ i ∈ N, let Ai denote the set of all elements of height i.
 Let k be the maximum height of the elements of X. Then A1,... , Ak are antichains
 covering X, and moreover there exists a chain of size k.
 ```
+
 ```
 Dilworth [1950] proved that the same theorem also holds when we interchange the
 words ‘chain’ and ‘antichain’:
 ```
+
 ```
 Theorem 7.6 (Dilworth’s decomposition theorem). Let (X,≤) be a partially ordered
 set, with X finite. Then the minimum number of chains needed to cover X is equal
 to the maximum cardinality of any antichain.
 ```
+
 **Proof.** We apply induction on |_X_|. The fact that the maximum cannot be larger than
 the minimum follows easily from (17). To see that the two numbers are equal, let _α_
 be the maximum cardinality of any antichain and let _A_ be an antichain of cardinality
@@ -7502,6 +8623,7 @@ Then the maximum size of any antichain of (_X,_≤) is equal to the maximum numb
 ```
 Figure 7.3
 ```
+
 of reservations made for any week in the season. By Dilworth’s decomposition theorem, _X_
 can be split into _n_ chains. Each chain now gives a series of reservations that can be assigned
 to one and the same bungalow.
@@ -7541,11 +8663,13 @@ on _V_ such that for all _u,w_ in _V_ with _u_ [^6]:= _w_ one has:
 ```
 (19) {u,w}∈ E ⇔ u ≤ w or w ≤ u.
 ```
+
 ```
 (i) Show that if G is a comparability graph, then ω(G) = χ(G).
 (ii) Show that if G is the complement of a comparability graph, then ω(G) = χ(G).
 (Hint: Use Dilworth’s decomposition theorem (Theorem 7.6).)
 ```
+
 7.24. Let (_X,_≤) be a partially ordered set, with _X_ finite. Let C and A denote the collections
 of chains and antichains in (_X,_≤), respectively. Let _w_ : _X_ → Z+ be a ‘weight’
 function.
@@ -7554,44 +8678,56 @@ function.
 (i) Show that the maximum weight w(C) of any chain is equal to the minimum value
 of
 ```
+
 ```
 ∑
 A∈A λ(A), where the λ(A) range over all nonnegative integers satisfying
 ```
+
 ```
 (20)
 ```
+
 ```
 ∑
 ```
+
 ```
 A∈A,x∈A
 ```
+
 ```
 λ(A) = w(x)
 ```
+
 ```
 for each x ∈ X.
 (ii) Show that the maximum weight w(A) of any antichain is equal to the mini-
 mum value of
 ```
+
 ```
 ∑
 C∈C λ(C), where the λ(C) range over all nonnegative integers
 satisfying
 ```
+
 ```
 (21)
 ```
+
 ```
 ∑
 ```
+
 ```
 C∈C,x∈C
 ```
+
 ```
 λ(C) = w(x)
 ```
+
 ```
 for each x ∈ X.
 (iii) Derive that the convex hull of the incidence vectors of antichains (as vectors in
@@ -7601,18 +8737,21 @@ C.
 [For any finite set X and any subset Y of X, define the incidence vector χY ∈ RX
 of Y as:
 ```
+
 ```
 (22)
 χY
 x := 1 if x ∈ Y ;
 := 0 if x 6∈ Y .]
 ```
+
 ```
 (iv) Derive also that the convex hull of the incidence vectors of chains (as vectors
 in RX) is equal to the set of all vectors f ∈ RX
 + satisfying f(A) ≤ 1 for each
 antichain A.
 ```
+
 7.25. Derive Dilworth’s decomposition theorem (Theorem 7.6) from the strong perfect
 graph theorem.
 
@@ -7663,6 +8802,7 @@ We first construct
 ```
 Ci.
 ```
+
 Let _C_[^0]: be any stable set in _G_ of size _α_. By the minimality of _G_, we know that for
 each _v_ ∈ _C_[^0]:, the subgraph of _G_ induced by _V_ (_G_) \{_v_} is perfect, and that hence its
 colouring number is at most _ω_ (as its clique number is at most _ω_); therefore _V_ (_G_)\{_v_}
@@ -7686,6 +8826,7 @@ This contradicts the condition given in the theorem.
 ```
 This implies:
 ```
+
 **Corollary 7.7a** ((Lov ́asz’s) perfect graph theorem)**.** _The complement of a perfect_
 _graph is perfect again._
 
@@ -7757,6 +8898,7 @@ comparability graphs is closed under taking induced subgraphs we have:
 ```
 So by the perfect graph theorem:
 ```
+
 **Corollary 7.8b.** _The complement of any comparability graph is perfect._
 
 **Proof.** Directly from Corollary 7.8a and the perfect graph theorem (Corollary 7.7a).
@@ -7764,6 +8906,7 @@ So by the perfect graph theorem:
 ```
 That is:
 ```
+
 **Corollary 7.8c** (Dilworth’s decomposition theorem)**.** _In any partially ordered set_
 (_V,_≤)_, the maximum size of any antichain is equal to the minimum number of chains_
 _needed to cover V._
@@ -7814,6 +8957,7 @@ _v_ is also simplicial in _G_.
 ```
 This implies a result of Hajnal and Sur ́anyi [1958]:
 ```
+
 **Theorem 7.10.** _The complement of any chordal graph is perfect._
 
 **Proof.** Let _G_ = (_V, E_) be a chordal graph. Since the class of chordal graphs is closed
@@ -7826,6 +8970,7 @@ _χ_(_G_′) + 1, since we can add _K_ to any colouring of _G_′. Hence _ω_(_G
 ```
 With Lov ́asz’s perfect graph theorem, this implies the result of Berge [1960]:
 ```
+
 **Corollary 7.10a.** _Any chordal graph is perfect._
 
 **Proof.** Directly from Theorem 7.10 and the perfect graph theorem (Corollary 7.7a).
@@ -7849,6 +8994,7 @@ lemma by induction.
 ```
 Then:
 ```
+
 **Theorem 7.11.** _A graph is chordal if and only if it is isomorphic to the intersection_
 _graph of a collection of subtrees of some tree._
 
@@ -7879,6 +9025,7 @@ _number of vertices of T intersecting each tree in_ S_._
 ```
 Similarly we have:
 ```
+
 **Corollary 7.11b.** _Let_ S _be a collection of subtrees of a tree T. Let k be the max-_
 _imum number of times that any vertex of T is covered by trees in_ S_. Then_ S _can_
 
@@ -7910,6 +9057,7 @@ so as to obtain a directed graph _D_ = (_V,A_) with the following properties:
 (26) (i)D is acyclic;
 (ii)if (u,v) and (u,w) belong to A then (v,w) or (w,v) belongs to A.
 ```
+
 ## 8. Integer linear programming and
 
 ## totally unimodular matrices
@@ -7943,28 +9091,36 @@ Now finding a maximum-cardinality matching is equivalent to:
 ```
 ∑
 ```
+
 ```
 e∈E
 ```
+
 ```
 xe
 ```
+
 ```
 subject to
 ```
+
 ```
 ∑
 ```
+
 ```
 e∋v
 ```
+
 ```
 xe ≤ 1 for each v ∈ V ,
 ```
+
 ```
 xe ≥ 0 for each e ∈ E,
 xe ∈ Z for each e ∈ E.
 ```
+
 This is the same as:
 
 (4) max{[^1]:_Tx_ | _x_ ≥ 0;_Ax_ ≤ [^1]:;_x_ integer}_,_
@@ -7974,6 +9130,7 @@ where [^1]: denotes an all-one vector, of appropriate size.
 ```
 Clearly, always the following holds:
 ```
+
 (5) max{_cTx_ | _Ax_ ≤ _b_;_x_ integer}≤ max{_cTx_ | _Ax_ ≤ _b_}_._
 
 The above example, applied to the graph _K_[^3]: shows that strict inequality can hold.
@@ -8005,22 +9162,27 @@ lems, like the matching problem above.
 ```
 8.1. Let P be a polytope. Prove that the set conv.hull(P ∩ Zn) is again a polytope.
 ```
+
 ```
 8.2. Let P = {x | Ax ≤ b} be a polyhedron, where A is a rational matrix. Show that the
 set conv.hull(P ∩ Zn) is again a polyhedron.
 ```
+
 ```
 8.3. Let G = (V,E) be a graph. Describe the problem of finding a vertex cover of minimum
 cardinality as an integer linear programming problem.
 ```
+
 ```
 8.4. Let G = (V,E) be a graph. Describe the problem of finding a clique (= complete
 subgraph) of maximum cardinality as an integer linear programming problem.
 ```
+
 ```
 8.5. Show that a polytope P is integer if and only if for each vector c, the linear program-
 ming problem max{cTx | Ax ≤ b} has an integer optimum solution.
 ```
+
 ### 8.2. Totally unimodular matrices
 
 Total unimodularity of matrices turns out to form an important tool in studying
@@ -8059,6 +9221,7 @@ if and only if each vertex of _P_ is integer.
 ```
 Then we have:
 ```
+
 **Corollary 8.1a.** _Let A be a totally unimodular m_ × _n matrix and let b_ ∈ Z_m. Then_
 _the polyhedron_
 
@@ -8080,40 +9243,48 @@ Moreover, _Q_ is the set of all vectors _x_ satisfying
 
 
 ```
+
 ```
 A
 −I
 I
 ```
+
 ```
 
 ```
+
 ```
 x ≤
 ```
+
 ```
 
 
 ```
+
 ```
 b
 −d′
 d′′
 ```
+
 ```
 
 ```
+
 ```
 .
 ```
+
 Now the matrix here is again totally unimodular (this follows easily from the total
 unimodularity of _A_). Hence by Theorem 8.1, _Q_ is an integer polytope. This implies
 that the linear programming problem max{_cTx_ | _x_ ∈ _Q_} is attained by some integer
 vector ̃_x_.
 But then ̃_x_ is also an optimum solution for the original LP-problem max{_cTx_ |
-_Ax_ ≤ _b_}. Indeed, ̃_x_ satisfies _Ax_̃ ≤ _b_, as ̃_x_ belongs to _Q_. Moreover,
+_Ax_ ≤ _b_}. Indeed, ̃_x_ satisfies _Ax_ ̃ ≤ _b_, as ̃_x_ belongs to _Q_. Moreover,
 
-(15) _cTx_̃ ≥ _cTx_∗ = max{_cTx_ | _Ax_ ≤ _b_}_,_
+(15) _cTx_ ̃ ≥ _cTx_∗ = max{_cTx_ | _Ax_ ≤ _b_}_,_
 
 implying that ̃_x_ is an optimum solution.
 
@@ -8135,20 +9306,24 @@ _have integer optimum solutions (if the optima are finite)._
 
 
 ```
+
 ```
 −I
 AT
 −AT
 ```
+
 ```
 
 
 ```
+
 is totally unimodular.
 
 ```
 Hoffman and Kruskal [1956] showed, as we shall see below, that the above property
 ```
+
 more or less characterizes total unimodularity.
 To derive this result, define an _m_ × _n_ matrix _A_ to be _unimodular_ if it has rank _m_
 and each _m_ × _m_ submatrix has determinant equal to 0, +1, or −1. It is easy to see
@@ -8172,32 +9347,40 @@ Let _D_ be the matrix
 
 
 ```
+
 ```
 −I
 A
 −A
 ```
+
 ```
 
 ```
+
 ```
  and f :=
 ```
+
 ```
 
 
 ```
+
 ```
 0
 b
 −b
 ```
+
 ```
 
 ```
+
 ```
 .
 ```
+
 Note that the system _x_ ≥ [^0]:_, Ax_ = _b_ is the same as _Dx_ ≤ _f_.
 Since _D_ has rank _n_, we know that for each _c_ ∈ R_n_, the linear programming
 problem
@@ -8242,10 +9425,12 @@ So
 z
 0
 ```
+
 ```
 )
 ,
 ```
+
 where [^0]: is the all-zero vector in R_n_−_m_.
 Then _z_′ is a vertex of the polyhedron _P_ (since _z_′ ∈ _P_ and since there are _n_ linearly
 independent rows in the matrix _D_ for which _Dz_ ≤ _f_ holds with equality).
@@ -8258,6 +9443,7 @@ is an integer vector.
 ```
 This gives the result of Hoffman and Kruskal [1956]:
 ```
+
 **Corollary 8.2a** (Hoffman-Kruskal theorem)**.** _Let A be an integer m_ × _n matrix._
 _Then A is totally unimodular if and only if for each integer vector b the polyhedron_
 
@@ -8281,10 +9467,12 @@ is integer. Indeed, _z_ can be decomposed as
 z′
 z′′
 ```
+
 ```
 )
 ,
 ```
+
 where _z_′ ∈ R_m_ and _z_′′ ∈ R_n_. So _z_′ = _b_ − _Az_′′.
 Then _z_′′ is a vertex of _P_. [This follows from the fact that if _z_′′ would be equal to
 1
@@ -8296,16 +9484,20 @@ Then _z_′′ is a vertex of _P_. [This follows from the fact that if _z_′′
 1
 2
 ```
+
 ```
 (b − Av) +
 ```
+
 ```
 1
 2
 ```
+
 ```
 (b − Aw).
 ```
+
 Hence
 
 (29) _z_ =
@@ -8315,35 +9507,43 @@ Hence
 z′
 z′′
 ```
+
 ```
 )
 =
 ```
+
 ```
 1
 2
 ```
+
 ```
 (
 b − Av
 v
 ```
+
 ```
 )
 +
 ```
+
 ```
 1
 2
 ```
+
 ```
 (
 b − Aw
 w
 ```
+
 ```
 )
 ```
+
 .
 
 This contradicts the fact that _z_ is a vertex of _Q_.]
@@ -8358,25 +9558,31 @@ So for each choice of _b_ in Z_m_, the polyhedron _Q_ is integer. Hence, by Theo
 8.6. Show that an integer matrix A is totally unimodular if and only if for all integer
 vectors b and c, both sides of the linear programming duality equation
 ```
+
 ```
 (30) max{cTx | x ≥ 0;Ax ≤ b} = min{yTb | y ≥ 0;yTA ≥ cT}
 ```
+
 ```
 are attained by integer optimum solutions x and y (if the optima are finite).
 ```
+
 ```
 8.7. Give an example of an integer matrix A and an integer vector b such that the poly-
 hedron P := {x | Ax ≤ b} is integer, while A is not totally unimodular.
 ```
+
 ```
 8.8. Let A be a totally unimodular matrix. Show that the columns of A can be split
 into two classes such that the sum of the columns in one class, minus the sum of the
 columns in the other class, gives a vector with entries 0, +1, and −1 only.
 ```
+
 ```
 8.9. Let A be a totally unimodular matrix and let b be an integer vector. Let x be an
 integer vector satisfying x ≥ 0;Ax ≤ 2b. Show that there exist integer vectors x′ ≥ 0
 ```
+
 ### 8.3. Totally unimodular matrices from bipartite
 
 ### graphs
@@ -8400,14 +9606,17 @@ is of type
 ```
 
 ```
+
 ```
 
 ```
+
 ```
 1 1 0 ··· ··· 0 0
 0 1 1 ··· ··· 0 0
 0 0 1 ··· ··· 0 0
 ```
+
 ..................
 ...
 ...
@@ -8419,12 +9628,15 @@ is of type
 ```
 
 ```
+
 ```
 
 ```
+
 ```
 ,
 ```
+
 up to permutation of rows and columns.
 It is not difficult to see that matrix (31) has determinant 2. This contradicts the
 total unimodularity of _A_.
@@ -8444,10 +9656,12 @@ after permuting rows or columns):
 1 bT
 0 B′
 ```
+
 ```
 )
 ,
 ```
+
 for some matrix _B_′ and vector _b_, where [^0]: denotes the all-zero vector in R_t_−[^1]. By the
 induction hypothesis, det_B_′ ∈{[^0]:_,_±[^1]:}. Hence, by (32), det_B_ ∈{[^0]:_,_±[^1]:}.
 
@@ -8461,10 +9675,12 @@ we can write (possibly after permuting rows):
 B′
 B′′
 ```
+
 ```
 )
 ,
 ```
+
 in such a way that each column of _B_′ contains exactly one 1 and each column of
 _B_′′ contains exactly one 1. So adding up all rows in _B_′ gives the all-one vector, and
 also adding up all rows in _B_′′ gives the all-one vector. Therefore, the rows of _B_ are
@@ -8505,6 +9721,7 @@ equal to the minimum in (34).
 ```
 One similarly derives:
 ```
+
 **Corollary 8.3b** (K ̋onig’s edge cover theorem)**.** _Let G be a bipartite graph. Then the_
 
 _maximum cardinality of a stable set in G is equal to the minimum cardinality of an_
@@ -8521,12 +9738,15 @@ some subset _Y_ ⊆ _X_ is, by definition:
 ```
 ∑
 ```
+
 ```
 x∈Y
 ```
+
 ```
 w(x).
 ```
+
 Then:
 
 **Corollary 8.3c.** _Let G_ = (_V, E_) _be a bipartite graph and let w_ : _E_ → Z+ _be a weight_
@@ -8537,11 +9757,13 @@ _function on E. Then:_
 v∈V f(v), where f ranges over all functions f : V → Z+ such that f(u) +
 f(v) ≥ w({u, v}) for each edge {u, v} of G;
 ```
+
 ```
 (ii) ∑The minimum weight of an edge cover in G is equal to the maximum value of
 v∈V f(v), where f ranges over all functions f : V → Z+ such that f(u) +
 f(v) ≤ w({u, v}) for each edge {u, v} of G.
 ```
+
 **Proof.** The statements are equivalent to both sides in
 
 (36) max{_wTx_ | _x_ ≥ 0;_Ax_ ≤ [^1]:} = min{_yT_[^1]: | _y_ ≥ 0;_yTA_ ≥ _w_}
@@ -8579,12 +9801,15 @@ _to the set of vectors x in_ R_E satisfying:_
 ```
 ∑
 ```
+
 ```
 e∋v
 ```
+
 ```
 xe ≤ 1 for each v ∈ V.
 ```
+
 **Proof.** Let _Q_ be the polytope defined by (40). Clearly, _P_matching(_G_) ⊆ _Q_, since the
 incidence vector _χM_ of any matching _M_ satisfies (40).
 To see that _Q_ ⊆ _P_matching(_G_), observe that _Q_ satisfies
@@ -8612,12 +9837,15 @@ _G is equal to the set of vectors x in_ R_E satisfying:_
 ```
 ∑
 ```
+
 ```
 e∋v
 ```
+
 ```
 xe = 1 for each v ∈ V.
 ```
+
 **Proof.** Similarly as above.
 
 **Exercises**
@@ -8649,11 +9877,13 @@ and
 ```
 (43) M = λ1P1 + ···λmPm.
 ```
+
 ```
 (A matrix M is called doubly stochastic if each row sum and each column sum is equal
 to 1. A matrix P is called a permutation matrix if it is a {0,1} matrix, with in each
 row and in each column exactly one 1.)
 ```
+
 ### 8.4. Totally unimodular matrices from directed graphs
 
 A second class of totally unimodular matrices can be derived from directed graphs.
@@ -8685,10 +9915,12 @@ permuting rows and columns):
 ±1 bT
 0 B′
 ```
+
 ```
 )
 ,
 ```
+
 for some vector _b_ and matrix _B_′.
 Now by our induction hypothesis, det_B_′ ∈{[^0]:_,_±[^1]:}, and hence det_B_ ∈{[^0]:_,_±[^1]:}.
 **Case 3.** _Each column of B contains two nonzeros._ Then each column of _B_
@@ -8708,21 +9940,27 @@ is just the ‘flow conservation law’. That is, it says:
 ```
 ∑
 ```
+
 ```
 a∈δout(v)
 ```
+
 ```
 x(a) =
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δin(v)
 ```
+
 ```
 x(a) for each v ∈ V.
 ```
+
 So we can derive from Theorem 8.4:
 
 **Corollary 8.4a.** _Let D_ = (_V, A_) _be a directed graph and let c_ : _A_ → Z _and d_ : _A_ → Z_._
@@ -8769,10 +10007,12 @@ The inequality system in (50) is:
 I I
 0 M′
 ```
+
 ```
 )
 ≥ (0 w).
 ```
+
 The matrix here is totally unimodular, by Theorem 8.4.
 Since _w_ is an integer vector, this implies that the minimum (50) is attained by
 _integer_ vectors _y_ and _z_.
@@ -8790,10 +10030,11 @@ since _yTc_ is not more than the maximum flow value (49).
 ```
 To prove (53) it suffices to show that
 ```
+
 (54) if _a_ = (_u, v_) ∈ _δ_out(_W_) then _ya_ ≥ 1.
 
 Define ̃_zr_ := −1, ̃_zs_ := 0, and ̃_zu_ = _zu_ for all other _u_. Then _yT_ + ̃_zTM_ ≥ 0. Hence
-for all _a_ = (_u, v_) ∈ _δ_out(_W_) one has _ya_ + ̃_zu_ − _z_̃_v_ ≥ 0, implying _ya_ ≥ _z_̃_v_ − _z_̃_u_ ≥ 1. This
+for all _a_ = (_u, v_) ∈ _δ_out(_W_) one has _ya_ + ̃_zu_ − _z_ ̃_v_ ≥ 0, implying _ya_ ≥ _z_ ̃_v_ − _z_ ̃_u_ ≥ 1. This
 proves (54).
 
 Similarly as in Corollary 8.4a it follows that if all capacities are integers, then
@@ -8813,14 +10054,17 @@ is again an interval matrix. Let _N_ be the _t_ × _t_ matrix given by:
 ```
 
 ```
+
 ```
 
 ```
+
 ```
 1 −1 0 ··· ··· 0 0
 0 1 −1 ··· ··· 0 0
 0 0 1 ··· ··· 0 0
 ```
+
 ...
 ...
 .........
@@ -8832,9 +10076,11 @@ is again an interval matrix. Let _N_ be the _t_ × _t_ matrix given by:
 ```
 
 ```
+
 ```
 
 ```
+
 .
 
 Then the matrix _N_ · _BT_ is a {[^0]:_,_±[^1]:} matrix, with at most one +1 and at most one
@@ -8863,6 +10109,7 @@ _a_′ ∈ _A_′ and _a_ ∈ _A_ set _Ca_′_,a_ := 0.
 (ii) Show that interval matrices and incidence matrices of directed graphs are special
 cases of such a matrix C.
 ```
+
 ## 9. Multicommodity flows and
 
 ## disjoint paths
@@ -8887,6 +10134,7 @@ that the wires connecting different pairs of pins do not intersect each other.
 Mathematically, these problems can be formulated as follows. First, there is the
 multicommodity flow problem (or k-commodity flow problem):
 ```
+
 (1) given: a directed graph _G_ = (_V, E_)_,_ pairs (_s_[^1]:_, t_[^1]:)_,... ,_(_sk, tk_) of vertices of _G_, a
 ‘capacity’ function _c_ : _E_ → Q+, and ‘demands’ _d_[^1]:_,... , dk,_
 find: for each _i_ = 1_,... , k,_ an _si_ − _ti_ flow _xi_ ∈ Q_E_
@@ -8896,12 +10144,15 @@ that for each arc _e_ of _G_:
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 xi(e) ≤ c(e).
 ```
+
 ```
 The pairs (si, ti) are called the commodities or the nets. (We assume si 6= ti through-
 out.)
@@ -8914,24 +10165,30 @@ each undirected edge e = {v, w} by two opposite arcs (v, w) and (w, v) and ask f
 flows x1,... , xk of values d1,... , dk, respectively, so that for each edge e = {v, w} of
 G:
 ```
+
 ```
 (2)
 ```
+
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 (xi(v, w) + xi(w, v)) ≤ c(e).
 ```
+
 ```
 Thus we obtain the undirected multicommodity flow problem or undirected k-commodity
 flow problem. Again, we add integer if we require the xi to be integer flows.
 If all capacities and demands are 1, the integer multicommodity flow problem is
 equivalent to the arc- or edge-disjoint paths problem:
 ```
+
 (3) given: a (directed or undirected) graph _G_ = (_V, E_), pairs (_s_[^1]:_, t_[^1]:)_,... ,_ (_sk, tk_) of
 vertices of _G_,
 find: pairwise edge-disjoint paths _P_[^1]:_,... , Pk_ where _Pi_ is an _si_ − _ti_ path (_i_ =
@@ -8940,6 +10197,7 @@ find: pairwise edge-disjoint paths _P_[^1]:_,... , Pk_ where _Pi_ is an _si_ −
 ```
 Related is the vertex-disjoint paths problem:
 ```
+
 (4) given: a (directed or undirected) graph _G_ = (_V, E_), pairs (_s_[^1]:_, t_[^1]:)_,... ,_ (_sk, tk_) of
 vertices of _G_,
 
@@ -8947,6 +10205,7 @@ vertices of _G_,
 find: pairwise vertex-disjoint paths P1,... , Pk where Pi is an si − ti path (i =
 1,... , k).
 ```
+
 ```
 We leave it as an exercise (Exercise 9.1) to check that the vertex-disjoint paths
 problem can be transformed to the directed edge-disjoint paths problem.
@@ -8963,39 +10222,49 @@ tion — see Section 9.6.
 The following cut condition trivially is a necessary condition for the existence of
 a solution to the fractional multicommodity flow problem (1):
 ```
+
 ```
 (5) for each W ⊆ V the capacity of δout
 E (W) is not less than the demand of
 δout
 R (W),
 ```
+
 ```
 where R := {(s1, t1),... ,(sk, tk)}. However, this condition is in general not sufficient,
 even not in the two simple cases given in Figure 9.1 (taking all capacities and demands
 equal to 1).
 One may derive from the max-flow min-cut theorem that the cut condition is
 ```
+
 ```
 s =t
 ```
+
 ```
 2
 ```
+
 ```
 2 1
 ```
+
 ```
 t
 ```
+
 ```
 s1
 ```
+
 ```
 s1=t2 s2=t1
 ```
+
 ```
 Figure 9.1
 ```
+
 sufficient if _s_[^1]: = _s_[^2]: = ··· = _sk_ (similarly if _t_[^1]: = _t_[^2]: = ··· = _tk_) — see Exercise 9.3.
 Similarly, in the undirected case a necessary condition is the following cut condi-
 tion:
@@ -9013,24 +10282,30 @@ Figure 9.2 shows that this condition again is not sufficient.
 ```
 =s
 ```
+
 ```
 t1
 t
 ```
+
 ```
 1
 ```
+
 ```
 =s2
 s4 4
 ```
+
 ```
 t3
 ```
+
 ```
 t2=s3
 Figure 9.2
 ```
+
 However, Hu [1963] showed that the cut condition is sufficient for the existence
 of a fractional multicommodity flow, in the undirected case with _k_ = 2 commodities.
 He gave an algorithm that yields a half-integer solution if all capacities and demands
@@ -9111,16 +10386,19 @@ maximum capacities of stock areas.
 9.1. Show that each of the following problems (a), (b), (c) can be reduced to problems
 (b), (c), (d), respectively:
 ```
+
 ```
 (a) the undirected edge-disjoint paths problem,
 (b) the undirected vertex-disjoint paths problem,
 (c) the directed vertex-disjoint paths problem,
 (d) the directed arc-disjoint paths problem.
 ```
+
 ```
 9.2. Show that the undirected edge-disjoint paths problem for planar graphs can be re-
 duced to the directed arc-disjoint paths problem for planar graphs.
 ```
+
 ```
 9.3. Derive from the max-flow min-cut theorem that the cut condition (5) is sufficient for
 the existence of a fractional multicommodity flow if s1 = ··· = sk.
@@ -9128,35 +10406,45 @@ the existence of a fractional multicommodity flow if s1 = ··· = sk.
 is violated, then it is violated by some W ⊆ V for which both W and V \ W induce
 connected subgraphs of G.
 ```
+
 ```
 9.5. (i) Show with Farkas’ lemma: the fractional multicommodity flow problem (1) has
 a solution if and only if for each ‘length’ function l : E → Q+ one has:
 ```
+
 ```
 (9)
 ```
+
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 di · distl(si,ti) ≤
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈E
 ```
+
 ```
 l(e)c(e).
 ```
+
 ```
 (Here distl(s,t) denotes the length of a shortest s − t path with respect to l.)
 (ii) Interprete the cut condition (5) as a special case of this condition.
 ```
+
 ### 9.2. Two commodities
 
 Hu [1963] gave a direct combinatorial method for the undirected two-commodity flow
@@ -9181,21 +10469,27 @@ Define for any _x_ ∈ _RA_ and any _v_ ∈ _V_ :
 ```
 ∑
 ```
+
 ```
 a∈δout(v)
 ```
+
 ```
 x(a) −
 ```
+
 ```
 ∑
 ```
+
 ```
 a∈δin(v)
 ```
+
 ```
 x(a).
 ```
+
 So _f_(_x, v_) is the ‘net loss’ of _x_ in vertex _v_.
 By the max-flow min-cut theorem there exists a function _x_′ : _A_ → Z satisfying:
 
@@ -9210,30 +10504,39 @@ and _t_′ and four new edges {_s_′_, s_[^1]:}_,_{_t_[^1]:_, t_′} (both with
 ```
 1
 ```
+
 ```
 t’
 ```
+
 ```
 s
 ```
+
 ```
 1
 ```
+
 ```
 G
 ```
+
 ```
 t2
 ```
+
 ```
 s’
 ```
+
 ```
 s2 t
 ```
+
 ```
 Figure 9.3
 ```
+
 Then the cut condition for the two-commodity flow problem implies that the
 minimum capacity of any _s_′ −_t_′ cut in the extended graph is equal to _d_[^1]: +_d_[^2]:. Hence,
 by the max-flow min-cut theorem, there exists an integer-valued _s_′ − _t_′ flow in the
@@ -9252,19 +10555,24 @@ capacity _d_[^1]:) and {_s_′′_, t_[^2]:}_,_{_s_[^2]:_, t_′′} (both with 
 ```
 G
 ```
+
 ```
 s1 t2
 ```
+
 ```
 s"
 ```
+
 ```
 s2 t1
 ```
+
 ```
 t"
 Figure 9.4
 ```
+
 After this we proceed as above.
 Now consider the vectors
 
@@ -9304,18 +10612,23 @@ Figure 9.5 (taking all capacities and demands equal to 1).
 ```
 t
 ```
+
 ```
 1 2
 ```
+
 ```
 s2 1
 ```
+
 ```
 s t
 ```
+
 ```
 Figure 9.5
 ```
+
 Moreover, as mentioned, the undirected integer two-commodity flow problem is NP-
 complete (Even, Itai, and Shamir [1976]).
 However, Rothschild and Whinston [1966] showed that an integer solution exists
@@ -9329,6 +10642,7 @@ e∈δ(v) c(e) ≡ 0 (mod 2) if v[^6]= s[^1], t[^1], s[^2], t[^2],
 ≡ d1 (mod 2) if v = s1, t1,
 ≡ d2 (mod 2) if v = s2, t2.
 ```
+
 (Equivalently, the graph obtained from _G_ by replacing each edge _e_ by _c_(_e_) parallel
 
 edges and by adding _di_ parallel edges connecting _si_ and _ti_ (_i_ = 1_,_2), should be an
@@ -9346,6 +10660,7 @@ that the following further condition is satisfied:
 ```
 To see this, let x′ satisfy (11) and let
 ```
+
 (19) _A_′ := {_a_ ∈ _A_ | _x_′(_a_) 6≡ _c_(_a_) (mod 2)}_._
 
 Then each vertex _v_ is incident with an even number _δ_ of arcs in _A_′, since
@@ -9377,21 +10692,25 @@ capacity function. Then the maximum value of d1+d2 so that there exist si−ti f
 xi of value di (i = 1,2), together satisfying the capacity constraint, is equal to the
 minimum capacity of a cut both separating s1 and t1 and separating s2 and t2.
 ```
+
 ```
 9.7. Derive from Theorem 9.1 that the cut condition suffices to have a half-integer solu-
 tion to the undirected k-commodity flow problem (with all capacities and demands
 integer), if there exist two vertices u and w so that each commodity {si,ti} intersects
 {u,w}. (Dinits (cf. Adel’son-Vel’ski ̆ı, Dinits, and Karzanov [1975]).)
 ```
+
 ```
 9.8. Derive the following from Theorem 9.2. Let G = (V,E) be a Eulerian graph and
 let s1,t1,s2,t2 be distinct vertices. Then the maximum number t of pairwise edge-
 disjoint paths P1,...,Pt, where each Pj connects either s1 and t1 or s2 and t2, is
 ```
+
 ```
 equal to the minimum cardinality of a cut both separating s1 and t1 and separating
 s2 and t2.
 ```
+
 ### 9.3. Disjoint paths in acyclic directed graphs
 
 ```
@@ -9402,10 +10721,12 @@ vertex-disjoint paths problem can be solved in polynomial time. (A directed grap
 called acyclic if it does not contain any directed circuit.)
 The algorithm is contained in the proof of the following theorem:
 ```
+
 ```
 Theorem 9.3. For each fixed k there exists a polynomial-time algorithm for the k
 vertex-disjoint paths problem for acyclic directed graphs.
 ```
+
 ```
 Proof. Let D = (V, A) be an acyclic digraph and let s1, t1,... , sk, tk be vertices of
 D, all distinct. In order to solve the vertex-disjoint paths problem we may assume
@@ -9415,6 +10736,7 @@ Make an auxiliary digraph D′ = (V ′, A′) as follows. The vertex set V ′ 
 all k-tuples (v1,... , vk) of distinct vertices of D. In D′ there is an arc from (v1,... , vk)
 to (w1,... , wk) if and only if there exists an i ∈{1,... , k} such that:
 ```
+
 (22) (i) _vj_ = _wj_ for all _j_ [^6]:= _i_;
 (ii) (_vi, wi_) is an arc of _D_;
 (iii) for each _j_ [^6]:= _i_ there is no directed path in _D_ from _vj_ to _vi_.
@@ -9422,16 +10744,19 @@ to (w1,... , wk) if and only if there exists an i ∈{1,... , k} such that:
 ```
 Now the following holds:
 ```
+
 ```
 (23) D contains k vertex-disjoint directed paths P1,... , Pk such that Pi runs
 from si to ti (i = 1,... , k)
 ⇐⇒ D′ contains a directed path P from (s1,... , sk) to (t1,... , tk).
 ```
+
 ```
 To see =⇒, let Pi follow the vertices vi,0, vi,1,... , vi,pi for i = 1,... , k. So vi,0 = si
 and vi,pi = ti for each i. Choose j1,... , jk such that 0 ≤ ji ≤ pi for each i and such
 that:
 ```
+
 (24) (i) _D_′ contains a directed path from (_s_[^1]:_,... , sk_) to (_v_[^1]:_,j_[^1]:_,... , vk,jk_),
 (ii) _j_[^1]: + ··· + _jk_ is as large as possible.
 
@@ -9439,6 +10764,7 @@ that:
 Let I := {i | ji < pi}. If I = ∅ we are done, so assume I 6= ∅. Then by the
 definition of D′ and the maximality of j1 +···+jk there exists for each i ∈ I an i′ 6= i
 ```
+
 such that there is a directed path in _D_ from _vi_′_,ji_′ to _vi,ji_. Since _ti_′ is a sink we know
 that _vi_′_,ji_′ [^6]:= _si_′ and that hence _i_′ belongs to _I_. So each vertex in {_vi,ji_ | _i_ ∈ _I_} is
 end vertex of a directed path in _D_ starting at another vertex in {_vi,ji_ | _i_ ∈ _I_}. This
@@ -9484,6 +10810,7 @@ vertices, and subsets A1,...,Ak of A;
 find:pairwise arc-disjoint directed paths P1,...,Pk, where Pi runs from
 si to ti and traverses only arcs in Ai (i = 1,...,k).
 ```
+
 ### 9.4. Vertex-disjoint paths in planar graphs
 
 ```
@@ -9501,6 +10828,7 @@ there is an easy greedy-type algorithm for the vertex-disjoint paths problem if 
 vertices s1, t1,... , sk, tk belong to the boundary of one face I of G. That is, there
 exists a polynomial-time algorithm for the following problem:[^21]
 ```
+
 (26) given: a planar graph _G_ = (_V, E_) embedded in R[^2], a face _I_ of _G_, pairs {_s_[^1]:_, t_[^1]:}_,... ,_{_sk, tk_}
 of vertices on bd(_I_),
 
@@ -9508,6 +10836,7 @@ of vertices on bd(_I_),
 find: pairwise vertex-disjoint paths P1,... , Pk in G, where Pi connects si and ti
 (i = 1,... , k).
 ```
+
 ```
 In fact, we may assume without loss of generality that I is the unbounded face.
 Let us first describe the simple intuitive idea of the method, by explaining the
@@ -9517,24 +10846,31 @@ We say that {s, t} and {s′, t′} cross (around I) if s, s′, t, t′ are dis
 in this order cyclically around bd(I), clockwise or anti-clockwise (see Figure 9.6).
 r
 ```
+
 ```
 s
 ```
+
 ```
 s’ r’
 ```
+
 ```
 r
 ```
+
 ```
 s
 ```
+
 ```
 r’ s’
 ```
+
 ```
 Figure 9.6
 ```
+
 ```
 If any {si, ti} and {sj, tj} cross around I (for some i 6= j), problem (26) clearly
 has no solution. So we may assume that no pair of commodities crosses. This implies
@@ -9542,9 +10878,11 @@ that there exists an i so that at least one of the si − ti paths along bd(I) d
 contain any sj or tj for j 6= i: just choose i so that the shortest si − ti path along
 bd(I) is shortest among all i = 1,... , k.
 ```
+
 ```
 21bd(I) denotes the boundary of I.
 ```
+
 Without loss of generality, _i_ = _k_. Let _Q_ be the shortest _sk_ − _tk_ path along bd(_I_).
 Delete from _G_ all vertices in _Q_, together with all edges incident with them. De-
 note the new graph by _G_′. Next solve the vertex-disjoint paths problem for input
@@ -9568,28 +10906,36 @@ clockwise. Thus the graph in Figure 9.7 has border sequence (_a, b, c, d, e, c, 
 ```
 c
 ```
+
 ```
 d
 ```
+
 ```
 e
 f
 ```
+
 ```
 h
 ```
+
 ```
 g
 ```
+
 ```
 b
 ```
+
 ```
 a
 ```
+
 ```
 Figure 9.7
 ```
+
 In fact, each cyclic permutation of a border sequence is again a border sequence.
 Note that no border sequence will contain_... r... s... r... s..._ for any two dis-
 tinct vertices. Hence for any two vertices _s_ and _t_ on the boundary of _G_ there is a
@@ -9641,6 +10987,7 @@ pairs {_s_[^1]:_, t_[^1]:}_,... ,_{_sk, tk_}.
 ```
 Robertson and Seymour [1986] showed with this method:
 ```
+
 **Theorem 9.4.** _Let G_ = (_V, E_) _be a planar graph embedded in_ R[^2] _and let_ {_s_[^1]:_, t_[^1]:}_,... ,_{_sk, tk_}
 _be pairs of vertices on the boundary of G. Then there exist pairwise vertex-disjoint_
 _paths P_[^1]:_,... , Pk where Pi connects si and ti (i_ = 1_,... , k) if and only if the cross-_
@@ -9698,52 +11045,65 @@ Since the routes that the wires potentially can make form a graph, the problem t
 3
 4
 ```
+
 ```
 11 12 1
 ```
+
 ```
 7
 13
 ```
+
 ```
 9
 16
 15
 11 14
 ```
+
 ```
 5 6
 7
 8
 10
 ```
+
 ```
 6 5
 14
 ```
+
 ```
 9
 ```
+
 ```
 3
 ```
+
 ```
 11
 ```
+
 ```
 4 13
 ```
+
 ```
 8
 ```
+
 ```
 16 10
 15 2
 12
 ```
+
 ```
 Figure 9.8
 ```
+
 solved can be modeled as a disjoint paths problem. Consider an example of such a problem
 as in Figure 9.8 — relatively simple, since generally the number of pins to be connected
 is of the order of several thousands. The grey areas are ‘modules’ on which the pins are
@@ -9754,52 +11114,65 @@ located. Points with the same label should be connected.
 3
 4
 ```
+
 ```
 11 12 1
 ```
+
 ```
 7
 13
 ```
+
 ```
 9
 16
 15
 11 14
 ```
+
 ```
 5 6
 7
 8
 10
 ```
+
 ```
 6 5
 14
 ```
+
 ```
 9
 ```
+
 ```
 3
 ```
+
 ```
 11
 ```
+
 ```
 4 13
 ```
+
 ```
 8
 ```
+
 ```
 16 10
 15 2
 12
 ```
+
 ```
 Figure 9.9
 ```
+
 In the example, the graph is a ‘grid graph’, which is typical in VLSI-design since it
 facilitates the manufacturing of the chip and it ensures a certain minimum distance between
 disjoint wires. But even for such graphs the disjoint paths problem is NP-complete.
@@ -9819,52 +11192,65 @@ is given.
 3
 4
 ```
+
 ```
 11 12 1
 ```
+
 ```
 7
 13
 ```
+
 ```
 9
 16
 15
 11 14
 ```
+
 ```
 5 6
 7
 8
 10
 ```
+
 ```
 6 5
 14
 ```
+
 ```
 9
 ```
+
 ```
 3
 ```
+
 ```
 11
 ```
+
 ```
 4 13
 ```
+
 ```
 8
 ```
+
 ```
 16 10
 15 2
 12
 ```
+
 ```
 Figure 9.10
 ```
+
 It was shown by Leiserson and Maley [1985] that this second step can be performed
 in polynomial time. So the hard part of the problem is the first step: finding the right
 topology of the layout.
@@ -9932,6 +11318,7 @@ they showed that with the Euler condition, the cut condition is a sufficient con
 ```
 We here observe that the Euler condition (33) implies that for each U ⊆ V :
 ```
+
 (34) |_δE_(_U_)|≡ number of _i_ with |_U_ ∩{_si, ti_}| = 1 (mod 2).
 
 **Theorem 9.5** (Okamura-Seymour theorem)**.** _Let G_ = (_V, E_) _be a planar graph and_
@@ -9948,21 +11335,27 @@ vertices), since
 ```
 ∑
 ```
+
 ```
 v∈V
 ```
+
 ```
 degR(v) ≤
 ```
+
 ```
 ∑
 ```
+
 ```
 v∈V
 ```
+
 ```
 degE(v) = 2|E|.
 ```
+
 So we can consider a counterexample with 2|_E_|−|_R_| minimal. Then
 
 (36) _G_ is 2-connected.
@@ -10071,57 +11464,75 @@ of linear inequalities in the _k_|_E_| variables _xi_(_e_) (_i_ = 1_,... , k_; _
 ```
 ∑
 ```
+
 ```
 e∈δout(v)
 ```
+
 ```
 xi(e) −
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈δin(v)
 ```
+
 ```
 xi(e) = 0 (i = 1,... , k; v ∈ V, v 6= si, ti),
 ```
+
 ```
 (ii)
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈δout(si)
 ```
+
 ```
 xi(e) −
 ```
+
 ```
 ∑
 ```
+
 ```
 e∈δin(si)
 ```
+
 ```
 xi(e) = di (i = 1,... , k),
 ```
+
 ```
 (iii)
 ```
+
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 xi(e) ≤ c(e) (e ∈ E),
 ```
+
 ```
 (iv) xi(e) ≥ 0 (i = 1,... , k; e ∈ E).
 ```
+
 Thus any linear programming method can solve the multicommodity flow problem.
 In particular, the problem is solvable in polynomial time.
 
@@ -10134,24 +11545,31 @@ paths _Pi_[^1]:_,... , Pini_ and nonnegative reals _zi_[^1]:_,... , zini_ satisf
 ```
 ∑ni
 ```
+
 ```
 j=1
 ```
+
 ```
 zijXPij(e) = xj(e) (e ∈ E),
 ```
+
 ```
 (ii)
 ```
+
 ```
 ∑ni
 ```
+
 ```
 j=1
 ```
+
 ```
 zij = di.
 ```
+
 Here X_P_ denotes the _incidence vector_ of _P_ in Q_E_, that is, X_P_(_e_) = 1 if _P_ traverses
 _e_, and = 0 otherwise.
 
@@ -10163,30 +11581,39 @@ negative reals _zij_, where _Pij_ is an _si_ − _ti_ path, such that:
 ```
 ∑ni
 ```
+
 ```
 j=1
 ```
+
 ```
 zij = di (i = 1,... , k),
 ```
+
 ```
 (ii)
 ```
+
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 ∑ni
 ```
+
 ```
 j=1
 ```
+
 ```
 zijXPij(e) ≤ c(e) (e ∈ E).
 ```
+
 This formulation applies to both the directed and the undirected problems.
 Solving (45) again amounts to solving a system of linear inequalities, albeit with
 an enormous number of variables: one variable for each _i_ = 1_,... , k_ and each _si_ − _ti_
@@ -10217,21 +11644,27 @@ _P_∈P
 ```
 zP
 ```
+
 ```
 subject to: (i)
 ```
+
 ```
 ∑
 ```
+
 ```
 P∈P
 ```
+
 ```
 zPXP(e) ≤ c(e) (e ∈ E),
 ```
+
 ```
 (ii) zP ≥ 0 (P ∈P).
 ```
+
 When solving (46) with the simplex method we first should add a slack variable _ze_
 for each _e_ ∈ _E_. Thus if _A_ denotes the _E_ ×P matrix with the incidence vectors of
 all paths in P as its columns (in some order) and _w_ is the vector in RP × R_E_ with
@@ -10244,6 +11677,7 @@ maximize: wTz
 subject to: [A I]z = c,
 z ≥ 0.
 ```
+
 Now each simplex tableau is completely determined by the set of variables in the
 current basis. So knowing subsets P′ of P and _E_′ of _E_, giving the indices of variables
 in the basis, is enough to know implicitly the whole tableau. Note that |P′|+|_E_′| = _E_.
@@ -10275,12 +11709,15 @@ Similarly, the dual variable corresponding to a path _P_ in P has value:
 ```
 ∑
 ```
+
 ```
 e∈P
 ```
+
 ```
 wB(B−[^1])e] − 1.
 ```
+
 (Note that X_P_ is the column in [_A I_] corresponding to _P_.)
 In order to pivot, we should identify a negative dual variable. To this end, we
 first check if (48) is negative for some edge _e_. If so, we choose such an edge _e_ and
@@ -10297,12 +11734,15 @@ the length _l_(_e_) of _e_. Then for any path _P_,
 ```
 ∑
 ```
+
 ```
 e∈P
 ```
+
 ```
 wB(B−[^1])e
 ```
+
 is equal to the length
 
 ∑
@@ -10339,6 +11779,7 @@ _wBB_−[^1] increases lexicographically.
 ```
 (iii) Derive that the lexicographic rule leads to termination of the method.
 ```
+
 9.18. Modify the column generation technique to solve the following problem: given a
 directed graph _G_ = (_V,E_), a capacity function _c_ : _E_ → Q+, commodities (_s_[^1]:_,t_[^1]:)_,...,_
 (_sk,tk_) and ‘profits’ _p_[^1]:_,...,pk_ ∈ Q+, find vectors _x_[^1]:_,...,xk_ in Q_E_ and rationals
@@ -10347,30 +11788,39 @@ _d_[^1]:_,...,dk_ so that:
 ```
 (52) (i)xi is an si − ti flow of value di (i = 1,...,k),
 ```
+
 ```
 (ii)
 ```
+
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 xi(e) ≤ c(e) (e ∈ E),
 ```
+
 ```
 (iii)
 ```
+
 ```
 ∑k
 ```
+
 ```
 i=1
 ```
+
 ```
 pidi is as large as possible.
 ```
+
 9.19. Let _Pij_ and _zij >_ 0 form a solution to the undirected form of (45) and let _W_ ⊆ _V_ be
 so that the capacity of _δE_(_W_) is equal to the demand of _δR_(_W_). Show that each _Pij_
 intersects _δE_(_W_) at most once.
@@ -10389,6 +11839,7 @@ can be found quite straightforwardly with Kruskal’s so-called greedy algorithm
 The algorithm consists of selecting successively edges e1, e2,... , er. If edges e1,... , ek
 have been selected, we select an edge e ∈ E so that:
 ```
+
 (1) (i) _e_ 6∈{_e_[^1]:_,... , ek_} and {_e_[^1]:_,... , ek, e_} is a forest,
 (ii) _w_(_e_) is as small as possible among all edges _e_ satisfying (i).
 
@@ -10404,25 +11855,32 @@ approach to find a matching of maximum weight. Then in (1)(i) we replace ‘fore
 by ‘matching’ and ‘small’ by ‘large’. Application to the weighted graph in Figure 10.1
 would give e1 = cd, e2 = ab.
 ```
+
 ```
 1
 ```
+
 ```
 3
 ```
+
 ```
 a b
 ```
+
 ```
 d c
 ```
+
 ```
 3
 ```
+
 ```
 4
 Figure 10.1
 ```
+
 ```
 However, ab and cd do not form a matching of maximum weight.
 It turns out that the structures for which the greedy algorithm does lead to an
@@ -10430,11 +11888,13 @@ optimal solution, are the matroids. It is worth studying them, not only because 
 enables us to recognize when the greedy algorithm applies, but also because there
 exist fast algorithms for ‘intersections’ of two different matroids.
 ```
+
 ```
 The concept of matroid is defined as follows. Let X be a finite set and let I be a
 collection of subsets of X. Then the pair (X,I) is called a matroid if it satisfies the
 following conditions:
 ```
+
 (2) (i) ∅∈I,
 (ii) if _Y_ ∈I and _Z_ ⊆ _Y_ then _Z_ ∈I,
 (iii) if _Y, Z_ ∈I and |_Y_ | _<_ |_Z_| then _Y_ ∪{_x_}∈I for some _x_ ∈ _Z_ \ _Y_.
@@ -10446,9 +11906,11 @@ Let Y ⊆ X. A subset B of Y is called a basis of Y if B is an inclusionwise max
 independent subset of Y. That is, for any set Z ∈I with B ⊆ Z ⊆ Y one has Z = B.
 It is not difficult to see that condition (2)(iii) is equivalent to:
 ```
+
 ```
 (3) for any subset Y of X, any two bases of Y have the same cardinality.
 ```
+
 ```
 (Exercise 10.1.) The common cardinality of the bases of a subset Y of X is called the
 rank of Y , denoted by rM(Y ).
@@ -10463,28 +11925,35 @@ bases is called the rank of the matroid. If I is the collection of forests in a 
 graph G = (V, E), then the bases of the matroid (E,I) are exactly the spanning trees
 in G.
 ```
+
 ```
 We next show that the matroids indeed are those structures for which the greedy
 algorithm leads to an optimal solution. Let X be some finite set and let I be a
 collection of subsets of X satisfying (2)(i) and (ii).
 For any weight function w : X → R we want to find a set Y in I maximizing
 ```
+
 ```
 (4) w(Y ) :=
 ```
+
 ```
 ∑
 ```
+
 ```
 y∈Y
 ```
+
 ```
 w(y).
 ```
+
 ```
 The greedy algorithm consists of selecting y1,... , yr successively as follows. If y1,... , yk
 have been selected, choose y ∈ X so that:
 ```
+
 (5) (i) _y_ 6∈{_y_[^1]:_,... , yk_} and {_y_[^1]:_,... , yk, y_}∈I,
 (ii) _w_(_y_) is as large as possible among all _y_ satisfying (i).
 
@@ -10492,9 +11961,11 @@ have been selected, choose y ∈ X so that:
 We stop if no y satisfying (5)(i) exist, that is, if {y1,... , yk} is a basis.
 Now:
 ```
+
 ```
 Theorem 10.1. The pair (X,I) satisfying (2)(i) and (ii) is a matroid if and only if
 ```
+
 _the greedy algorithm leads to a set Y in_ I _of maximum weight w_(_Y_ )_, for each weight_
 _function w_ : _X_ → R+_._
 **Proof.** _Sufficiency._ Suppose that the greedy algorithm leads to an independent set
@@ -10541,12 +12012,15 @@ then also (_Y_ \{_x_}) ∪{_y_} is independent.
 ```
 10.3. Let M = (X,I) be a matroid, with X = {x1,...,xm}. Define
 ```
+
 ```
 (7) Y := {xi | rM({x1,...,xi}) > rM({x1,...,xi−1})}.
 ```
+
 ```
 Prove that Y belongs to I.
 ```
+
 ### 10.2. Equivalent axioms for matroids
 
 ```
@@ -10558,15 +12032,18 @@ subsets of X; that is, if F ∈ I and F′ ⊆ F, then F′ ∈ I. Let B be the 
 inclusionwise maximal sets in I, and let C be the collection of inclusionwise minimimal
 sets that are not in I. Finally, for any subset Y of X, define
 ```
+
 ```
 (8) r(Y ) := max{|Z|| Z ⊆ Y, Z ∈I}.
 ```
+
 ```
 Obviously, knowing one of the objects I, B, C, r, we know all the other. Moreover,
 any nonempty antichain[^22] B arises in this way from some nonempty down-monotone
 collection I of subsets. Similarly, any antichain C consisting of nonempty sets arises
 in this way. Finally, r arises in this way if and only if
 ```
+
 (9) (i) _r_(∅) = 0,
 (ii) if _Z_ ⊆ _Y_ ⊆ _X_ then _r_(_Z_) ≤ _r_(_Y_ ).
 
@@ -10574,9 +12051,11 @@ in this way. Finally, r arises in this way if and only if
 We can now characterize when such objects arise from a matroid (X,I). That is,
 we obtain the following equivalent characterizations of matroids.
 ```
+
 ```
 Theorem 10.2. Let I, B, C, and r be as above. Then the following are equivalent:
 ```
+
 ```
 (i) if F, F′ ∈I and |F′| > |F|, then F ∪{x}∈I for some x ∈ F′ \ F;
 (ii) if B, B′ ∈B and x ∈ B′ \ B, then (B′ \{x}) ∪{y}∈B for some y ∈ B \ B′;
@@ -10587,12 +12066,15 @@ C;
 C containing y;
 (vi) for all Y, Z ⊆ X one has
 ```
+
 ```
 22An antichain is a collection of sets no two of which are contained in each other.
 ```
+
 ```
 (10) r(Y ∩ Z) + r(Y ∪ Z) ≤ r(Y ) + r(Z).
 ```
+
 **Proof.** (i)⇒(ii): (i) directly implies that all sets in B have the same size. Now let
 _B, B_′ ∈ B and _x_ ∈ _B_′ \ _B_. Since _B_′ \{_x_} ∈ I, by (i) there exists a _y_ ∈ _B_ \ _B_′ such
 that _B_′′ := (_B_′ \{_x_}) ∪{_y_}∈I. Since |_B_′′| = |_B_′|, we know _B_′′ ∈B.
@@ -10700,9 +12182,11 @@ _k_-uniform matroid that is neither graphic nor cographic.
 ```
 (17) I′ := {U′ ∪ Y | U′ ⊆ U,Y ∈I,|U′ ∪ Y |≤ k}.
 ```
+
 ```
 Show that (U ∪ X,I′) is again a matroid.
 ```
+
 10.7. Let _M_ = (_X,_I) be a matroid and let _x_ ∈ _X_.
 
 ```
@@ -10711,6 +12195,7 @@ contracted matroid M/{x} if and only if Y ∪{x} is independent in M.
 (ii) Show that if x is a loop, then M/{x} = M \{x}.
 (iii) Show that for each Y ⊆ X : rM/{x}(Y ) = rM(Y ∪{x}) − rM({x}).
 ```
+
 10.8. Let _M_ = (_X,_I) be a matroid and let _Y_ ⊆ _X_.
 
 ```
@@ -10718,13 +12203,16 @@ contracted matroid M/{x} if and only if Y ∪{x} is independent in M.
 contracted matroid M/Y if and only if U ∪ B is independent in M.
 (ii) Show that for each U ⊆ X \ Y
 ```
+
 ```
 (18) rM/Y (U) = rM(U ∪ Y ) − rM(Y ).
 ```
+
 ```
 10.9. Let M = (X,I) be a matroid and let Y,Z ⊆ X. Show that (M \Y )/Z = (M/Z)\Y.
 (That is, deletion and contraction commute.)
 ```
+
 10.10. Let _M_ = (_X,_I) be a matroid, and suppose that we can test in polynomial time if
 any subset _Y_ of _X_ belongs to I. Show that then the same holds for the dual matroid
 _M_∗.
@@ -10734,6 +12222,7 @@ _M_∗.
 ```
 In this section we describe some classes of examples of matroids.
 ```
+
 ```
 I. Graphic matroids. As a first example we consider the matroids described in
 Section 10.1.
@@ -10747,6 +12236,7 @@ the spanning trees.
 Note also that the circuits of M(G), in the matroid sense, are exactly the circuits
 of G, in the graph sense.
 ```
+
 ```
 II. Cographic matroids. There is an alternative way of obtaining a matroid from
 a graph G = (V, E). It is in fact the matroid dual of the graphic matroid.
@@ -10754,9 +12244,11 @@ Let B be the set of subsets J of E such that E \ J is an inclusionwise maximal
 forest. By Corollary 10.2a, B forms the collection of bases of a matroid. Its collection
 I of independent sets consists of those subsets J of E for which
 ```
+
 ```
 (19) κ(V, E \ J) = κ(V, E).
 ```
+
 ```
 where, for any graph H, let κ(H) denote the number of components of H.
 The matroid (E,I) is called the cocycle matroid of G, denoted by M∗(G). Any
@@ -10766,10 +12258,12 @@ By definition, a subset C of E is a circuit of M∗(G) if it is an inclusionwise
 set with the property that (V, E \ C) has more components than G. Hence C is a
 circuit of M∗(G) if and only if C is an inclusionwise minimal nonempty cutset in G.
 ```
+
 ```
 III. Linear matroids. Let A be an m × n matrix. Let X = {1,... , n} and let I
 be the collection of all those subsets Y of X so that the columns with index in Y are
 ```
+
 linearly independent. That is, so that the submatrix of _A_ consisting of the columns
 with index in _Y_ has rank |_Y_ |.
 Now:
@@ -10809,6 +12303,7 @@ _M_ in G.
 ```
 Now let I be the collection of all partial transversals for X1,... , Xm. Then:
 ```
+
 **Theorem 10.5.** (_X,_I) _is a matroid._
 
 **Proof.** Again, conditions (2)(i) and (ii) are trivial. To see (2)(iii), let _Y_ and _Z_ be
@@ -10827,19 +12322,23 @@ to X; call this end vertex x. Then x ∈ ρ(M′) = Z and x 6∈ ρ(M) = Y. Defi
 M′′ := (M \ N) ∪ N′. Clearly, M′′ is a matching with ρ(M′′) = Y ∪{x}. So Y ∪{x}
 belongs to I.
 ```
+
 ```
 Any matroid obtained in this way, or isomorphic to such a matroid, is called a
 transversal matroid. If the sets X1,... , Xm form a partition of X, one speaks of a
 partition matroid.
 ```
+
 ```
 These four classes of examples show that the greedy algorithm has a wider appli-
 cability than just for finding minimum-weight spanning trees. There are more classes
 of matroids (like ‘algebraic matroids’, ‘gammoids’), for which we refer to Welsh [1976].
 ```
+
 ```
 Exercises
 ```
+
 10.11. Show that a partition matroid is graphic, cographic, and linear.
 
 10.12. Let _M_ = (_V,_I) be the transversal matroid derived from subsets _X_[^1]:_,...,Xm_ of _X_ as
@@ -10848,27 +12347,34 @@ in Example IV.
 ```
 (i) Show with K ̋onig’s matching theorem that:
 ```
+
 ```
 (21) rM(X) = min
 J⊆{1,...,m}
 ```
+
 ```
 (
 ∣∣
 ```
+
 ```
 ⋃
 ```
+
 ```
 j∈J
 ```
+
 ```
 Xj
 ∣∣ + m −|J|).
 ```
+
 ```
 (ii) Derive a formula for rM(Y ) for any Y ⊆ X.
 ```
+
 10.13. Let _G_ = (_V,E_) be a graph. Let I be the collection of those subsets _Y_ of _E_ so that _F_
 has at most one circuit. Show that (_E,_I) is a matroid.
 
@@ -10881,15 +12387,18 @@ Give a polynomial-time algorithm to find a circuit basis∑ C of G that minimize
 C∈C |C|.
 (The running time of the algorithm should be bounded by a polynomial in |V |+|E|.)
 ```
+
 10.15. Let _G_ = (_V,E_) be a connected graph. For each subset _E_′ of _E_, let _κ_(_V,E_′) denote
 the number of components of the graph (_V,E_′). Show that for each _E_′ ⊆ _E_:
 
 ```
 (i) rM(G)(E′) = |V |− κ(V,E′);
 ```
+
 ```
 (ii) rM∗(G)(E′) = |E′|− κ(V,E \ E′) + 1.
 ```
+
 10.16. Let _G_ be a planar graph and let _G_∗ be a planar graph dual to _G_. Show that the cycle
 matroid _M_(_G_∗) of _G_∗ is isomorphic to the cocycle matroid _M_∗(_G_) of _G_.
 
@@ -10906,6 +12415,7 @@ in Y are linearly independent.
 (iii) Derive (with the help of Exercise 10.17) that any cographic matroid is a linear
 matroid.
 ```
+
 ### 10.4. Two technical lemmas
 
 ```
@@ -10915,16 +12425,20 @@ Let M = (X,I) be a matroid. For any Y ∈ I define a bipartite graph H(M, Y )
 as follows. The graph H(M, Y ) has vertex set X, with colour classes Y and X \ Y.
 Elements y ∈ Y and x ∈ X \ Y are adjacent if and only if
 ```
+
 ```
 (22) (Y \{y}) ∪{x}∈I.
 ```
+
 ```
 Then we have:
 ```
+
 ```
 Lemma 10.1. Let M = (X,I) be a matroid and let Y, Z ∈ I with |Y | = |Z|. Then
 H(M, Y ) contains a perfect matching on Y △Z.[^23]
 ```
+
 ```
 Proof. Suppose not. By K ̋onig’s matching theorem there exist a subset S of Y \ Z
 and a subset S′ of Z \ Y such that for each edge {y, z} of H(M, Y ) satisfying z ∈ S′
@@ -10934,21 +12448,26 @@ T := (Y ∩ Z) ∪ S ∪{z} belongs to I. This implies that there exists an U �
 that T ⊆ U ⊆ T ∪ Y and |U| = |Y |. So U = (Y \{x}) ∪{z} for some x 6∈ S. As
 {x, z} is an edge of H(M, Y ) this contradicts the choice of S and S′.
 ```
+
 ```
 The following forms a counterpart:
 ```
+
 ```
 23A perfect matching on a vertex set U is a matching M with
 ```
+
 ```
 ⋃
 M = U.
 ```
+
 ```
 Lemma 10.2. Let M = (X,I) be a matroid and let Y ∈I. Let Z ⊆ X be such that
 |Y | = |Z| and such that H(M, Y ) contains a unique perfect matching N on Y △Z.
 Then Z belongs to I.
 ```
+
 ```
 Proof. By induction on k := |Z \ Y |, the case k = 0 being trivial. Let k ≥ 1.
 By the unicity of N there exists an edge {y, z}∈ N, with y ∈ Y \Z and z ∈ Z \Y ,
@@ -10962,9 +12481,11 @@ Assuming Z 6∈ I, we know z 6∈ S and hence r((Y ∪ Z′) \{y}) = |Y |. Hence
 exists an z′ ∈ Z′ \ Y such that (Y \{y}) ∪{z′} belongs to I. This contradicts the
 choice of y.
 ```
+
 ```
 Exercises
 ```
+
 10.19. Let _M_ = (_X,_I) be a matroid, let _B_ be a basis of _M_, and let _w_ : _X_ → R be a weight
 function. Show that _B_ is a basis of maximum weight if and only if _w_(_B_′) ≤ _w_(_B_) for
 every basis _B_′ with |_B_′ \ _B_| = 1.
@@ -10980,6 +12501,7 @@ in the graph _H_(_M,Y_ ).
 (ii) Derive from (i) that for each y ∈ Y \ Z there exists an z ∈ Z \ Y so that {y,z}
 is an edge both of H(M,Y ) and of H(M,Z).
 ```
+
 ### 10.5. Matroid intersection
 
 ```
@@ -10993,6 +12515,7 @@ weight common independent set can be found in polynomial time. In particular, a
 common independent set of maximum cardinality can be found in polynomial time.
 We consider first some applications.
 ```
+
 **Example 10.5a.** Let _G_ = (_V, E_) be a bipartite graph, with colour classes _V_[^1]: and
 _V_[^2]:, say. Let I[^1]: be the collection of all subsets _F_ of _E_ so that no two edges in _F_ have
 a vertex in _V_[^1]: in common. Similarly, let I[^2]: be the collection of all subsets _F_ of _E_ so
@@ -11093,6 +12616,7 @@ We show
 ```
 To this end, we first show
 ```
+
 (27) _rM_[^1]:(_U_) = |_Y_ ∩ _U_|_._
 
 Clearly, as _Y_ ∩_U_ ∈I[^1]:, we know _rM_[^1]:(_U_) ≥|_Y_ ∩_U_|. Suppose _rM_[^1]:(_U_) _>_ |_Y_ ∩_U_|. Then
@@ -11125,29 +12649,36 @@ algorithm.
 ```
 The algorithm also yields a min-max relation for the maximum cardinality of a
 ```
+
 ```
 common independent set, as was shown again by Edmonds [1970].
 ```
+
 ```
 Theorem 10.9 (Edmonds’ matroid intersection theorem). Let M1 = (X,I1) and
 M2 = (X,I2) be matroids. Then
 ```
+
 ```
 (29) max
 Y∈I1∩I2
 ```
+
 ```
 |Y | = min
 U⊆X(rM[^1](U) + rM[^2](X \ U)).
 ```
+
 ```
 Proof. The inequality ≤ follows similarly as in (28). The reverse inequality follows
 from the fact that if the algorithm stops with set Y , we obtain a set U for which (26)
 holds. Therefore, the maximum in (29) is at least as large as the minimum.
 ```
+
 ```
 Exercises
 ```
+
 10.21. Give an example of two matroids _M_[^1]: = (_X,_I[^1]:) and _M_[^2]: = (_X,_I[^2]:) so that (_X,_I[^1]:∩I[^2]:)
 is _not_ a matroid.
 
@@ -11161,28 +12692,36 @@ transversal if and only if
 (30)
 ∣∣(
 ```
+
 ```
 ⋃
 ```
+
 ```
 i∈I
 ```
+
 ```
 Xi) ∩ (
 ```
+
 ```
 ⋃
 ```
+
 ```
 j∈J
 ```
+
 ```
 Yj)
 ∣∣ ≥|I| + |J|− m
 ```
+
 ```
 for all subsets I and J of {1,...,m}.
 ```
+
 10.24. Reduce the problem of finding a Hamiltonian cycle in a directed graph to the problem
 of finding a maximum-cardinality common independent set in _three_ matroids.
 
@@ -11200,13 +12739,16 @@ _X_[^1]:_,...,Xm_ is at least _t_, for any _t_ ≥ 0. (Rado [1942].)
 ```
 (31) I1 ∨I2 := {Y1 ∪ Y2 | Y1 ∈I1,Y2 ∈I2}.
 ```
+
 ```
 (i) Show that the maximum cardinality of a set in I1 ∨I2 is equal to
 ```
+
 ```
 (32) min
 U⊆X(rM[^1](U) + rM[^2](U) + |X \ U|).
 ```
+
 ```
 (Hint: Apply the matroid intersection theorem to M1 and M∗
 2.)
@@ -11220,13 +12762,16 @@ This matroid is called the union of M1 and M2, denoted by M1∨M2. (Edmonds
 and Fulkerson [1965], Nash-Williams [1967].)
 (iv) Let M1 = (X,I1),...,Mk = (X,Ik) be matroids and let
 ```
+
 ```
 (34) I1 ∨ ... ∨Ik := {Y1 ∪ ... ∪ Yk | Y1 ∈I1,...,Yk ∈Ik}.
 ```
+
 ```
 Derive from (iii) that M1 ∨...∨Mk := (X,I1 ∨...∨Ik) is again a matroid and
 give a formula for its rank function.
 ```
+
 10.28. (i) Let _M_ = (_X,_I) be a matroid and let _k_ ≥ 0. Show that _X_ can be covered by _k_
 independent sets if and only if |_U_|≤ _k_ · _rM_(_U_) for each subset _U_ of _X_.
 (_Hint:_ Use Exercise 10.27.) (Edmonds [1965b].)
@@ -11244,20 +12789,25 @@ of _G_.
 (i) Show that X can be partitioned into k partial transversals of (X1,...,Xm) if
 and only if
 ```
+
 ```
 (35) k(m −|I|) ≥
 ∣∣X \
 ```
+
 ```
 ⋃
 ```
+
 ```
 i∈I
 ```
+
 ```
 Xi
 ∣∣
 ```
+
 ```
 for each subset I of {1,...,m}.
 (ii) Derive from (i) that {1,...,m} can be partitioned into classes I1,...,Ik so that
@@ -11266,6 +12816,7 @@ most k|Y | of the Xi as a subset, for each Y ⊆ X.
 (Hint: Interchange the roles of {1,...,m} and X.) (Edmonds and Fulkerson
 [1965].)
 ```
+
 10.31. (i) Let _M_ = (_X,_I) be a matroid and let _k_ ≥ 0. Show that there exist _k_ pairwise
 disjoint bases of _M_ if and only if _k_(_rM_(_X_) − _rM_(_U_)) ≥|_X_ \ _U_| for each subset
 _U_ of _X_.
@@ -11275,6 +12826,7 @@ _U_ of _X_.
 (ii) Show that the problem of finding a maximum number of pairwise disjoint bases
 in a given matroid, is solvable in polynomial time.
 ```
+
 10.32. Let _G_ = (_V,E_) be a connected graph and let _k_ ≥ 0. Show that there exist _k_ pairwise
 edge-disjoint spanning trees if and only if for each _t_, for each partition (_V_[^1]:_,...,Vt_) of
 _V_ into _t_ classes, there are at least _k_(_t_ − 1) edges connecting different classes of this
@@ -11292,9 +12844,9 @@ intersection theorem to the matroids (_M_ \ _Y_[^1]:)_/Y_[^2]: and (_M_∗ \ _Y_
 
 10.35. The following is a special case of a theorem of Nash-Williams [1985]:
 Let _G_ = (_V,E_) be a simple, connected graph and let _b_ : _V_ → Z+. Call a graph
-_G_̃ = (_V ,_̃ _E_̃) a _b-detachment_ of _G_ if there is a function _φ_ : _V_̃ → _V_ such that |_φ_−[^1](_v_)| =
-_b_(_v_) for each _v_ ∈ _V_ , and such that there is a one-to-one function _ψ_ : _E_̃ → _E_ with
-_ψ_(_e_) = {_φ_(_v_)_,φ_(_w_)} for each edge _e_ = {_v,w_} of _G_̃.
+_G_ ̃ = (_V ,_ ̃ _E_ ̃) a _b-detachment_ of _G_ if there is a function _φ_ : _V_ ̃ → _V_ such that |_φ_−[^1](_v_)| =
+_b_(_v_) for each _v_ ∈ _V_ , and such that there is a one-to-one function _ψ_ : _E_ ̃ → _E_ with
+_ψ_(_e_) = {_φ_(_v_)_,φ_(_w_)} for each edge _e_ = {_v,w_} of _G_ ̃.
 Then there exists a connected _b_-detachment if and only if for each _U_ ⊆ _V_ the number
 of components of the graph induced by _V_ \ _U_ is at most |_EU_|− _b_(_U_) + 1.
 Here _EU_ denotes the set of edges intersecting _U_.
@@ -11312,6 +12864,7 @@ To describe the algorithm, if matroid M1 = (S,I1) and M2 = (S,I2) and a weight
 function w : S → R are given, call a set Y ∈I1 ∩I2 extreme if w(Z) ≤ w(Y ) for each
 Z ∈I1 ∩I2 satisfying |Z| = |Y |.
 ```
+
 **Weighted common independent set augmenting algorithm**
 
 **input:** matroids _M_[^1]: = (_S,_I[^1]:) and _M_[^2]: = (_S,_I[^2]:), a weight function _w_ : _S_ → Q, and
@@ -11370,6 +12923,7 @@ _j_ ≤ _k_, again implying the proposition.
 ```
 This implies:
 ```
+
 **Theorem 10.11.** _Let Y_ ∈I[^1]: ∩I[^2]:_. Then Y is extreme if and only if H_(_M_[^1]:_, M_[^2]:_, Y_ )
 _has no directed cycle of negative length._
 
@@ -11387,12 +12941,15 @@ together form a disjoint union of a number of directed cycles _C_[^1]:_,... , Ct
 ```
 ∑t
 ```
+
 ```
 j=1
 ```
+
 ```
 l(Cj) ≥ 0,
 ```
+
 implying _w_(_Z_) ≤ _w_(_Y_ ). So _Y_ is extreme.
 
 This theorem implies that we can find in the algorithm a shortest path _P_ in
@@ -11434,23 +12991,28 @@ all shortest X1 − X2 paths, and as H(M′
 circuits, by Proposition 10.10 we know that Z ∈I1 ∩I2.
 Moreover, Z is extreme, since Y + t is extreme and w(Z) = w(Y + t).
 ```
+
 ```
 So the weighted common independent set augmenting algorithm is correct. It
 obviously has polynomially bounded running time. Therefore:
 ```
+
 ```
 Theorem 10.13. A maximum-weight common independent set in two matroids can
 be found in polynomial time.
 ```
+
 ```
 Proof. Starting with the extreme common independent set Y0 := ∅ we can find
 iteratively extreme common independent sets Y0, Y1,... , Yk, where |Yi| = i for i =
 0,... , k and where Yk is a maximum-size common independent set. Taking one among
 Y0,... , Yk of maximum weight, we have an extreme common independent set.
 ```
+
 ```
 Exercises
 ```
+
 10.36. Give an example of two matroids _M_[^1]: = (_X,_I[^1]:) and _M_[^2]: = (_X,_I[^2]:) and a weight
 function _w_ : _X_ → Z+ so that there is no maximum-weight common independent set
 which is also a maximum-cardinality common independent set.
@@ -11471,6 +13033,7 @@ _x_ ∈ _B_ and _l_(_x_) := −_w_(_x_) if _x_ 6∈ _B_.
 Show that B has maximum-weight among all common bases of M1 and M2 if and
 only if H(M1,M2,B) has no directed circuit of negative length.
 ```
+
 ### 10.7. Matroids and polyhedra
 
 The algorithmic results obtained in the previous sections have interesting conse-
@@ -11504,21 +13067,27 @@ LP-problem dual to (42):
 ```
 ∑
 ```
+
 ```
 Y⊆X
 ```
+
 ```
 yY rM(Y ),
 ```
+
 ```
 subject to ∑ yY ≥ 0 (Y ⊆ X)
 ```
+
 ```
 Y⊆X,x∈Y
 ```
+
 ```
 yY ≥ w(x) (x ∈ X).
 ```
+
 We show:
 
 **Theorem 10.14.** _If w is integer, then_ (42) _and_ (43) _have integer optimum solutions._
@@ -11541,54 +13110,70 @@ yY := w(yi) − w(yi+1) if Y = Xi for some i = 1,... , n − 1,
 yY := w(yn) if Y = Xn,
 yY := 0 for all other Y ⊆ X
 ```
+
 Then _y_ is an integer feasible solution of (43).
 We show that _z_ and _y_ have the same objective value, thus proving the theorem:
 
 ```
 wTz = w(Y ) =
 ```
+
 ```
 ∑
 ```
+
 ```
 x∈Y
 ```
+
 ```
 w(x) =
 ```
+
 ```
 ∑n
 ```
+
 ```
 i=1
 ```
+
 ```
 (46) w(yi) · (rM(Xi) − rM(Xi−1))
 ```
+
 ```
 = w(yn) · rM(Xn) +
 ```
+
 ```
 ∑n−[^1]
 ```
+
 ```
 i=1
 ```
+
 ```
 (w(yi) − w(yi+1)) · rM(Xi) =
 ```
+
 ```
 ∑
 ```
+
 ```
 Y⊆X
 ```
+
 ```
 yY rM(Y ).
 ```
+
 ```
 So system (41) is totally dual integral. This directly implies:
 ```
+
 **Corollary 10.14a.** _The matroid polytope P_(_M_) _is determined by_ (41)_._
 
 **Proof.** Immediately from Theorem 10.14.
@@ -11641,8 +13226,8 @@ Then _M_′
 [^1]: := (_X_∪_U,_J[^1]) and _M_[^2] := (_X_∪_U,_J[^2]) are matroids again. Define ̃_w_ : _X_ → Z
 by
 
-(50) _w_̃(_x_) := _w_(_x_) if _x_ ∈ _X_,
-_w_̃(_x_) := 0 if _x_ ∈ _U_.
+(50) _w_ ̃(_x_) := _w_(_x_) if _x_ ∈ _X_,
+_w_ ̃(_x_) := 0 if _x_ ∈ _U_.
 
 Let _W_ be a subset of _U_ of cardinality |_X_ \_Y_ |+1. Then _Y_ ∪_W_ is a common basis
 of _M_′
@@ -11650,14 +13235,14 @@ of _M_′
 [^2]:. In fact, _Y_ ∪ _W_ is a maximum-weight common basis with respect to
 the weight function ̃_w_. (Any basis _B_ of larger weight would intersect _X_ in a common
 independent set of _M_[^1]: and _M_[^2]: of larger weight than _Y_ .)
-So by Theorem 10.15, there exist functions ̃_w_[^1]:_,w_̃[^2]: : _X_ → Z so that ̃_w_[^1]: + ̃_w_[^2]: = ̃_w_
+So by Theorem 10.15, there exist functions ̃_w_[^1]:_,w_ ̃[^2]: : _X_ → Z so that ̃_w_[^1]: + ̃_w_[^2]: = ̃_w_
 and so that _Y_ ∪ _W_ is both a maximum-weight basis of _M_′
 [^1]: with respect to ̃_w_[^1] and a
 maximum-weight basis of _M_′
 [^2]: with respect to ̃_w_[^2].
-Now, ̃_w_[^1]:(_u_′′) ≤ _w_̃[^1]:(_u_′) whenever _u_′ ∈ _W, u_′′ ∈ _U_ \ _W_. Otherwise we can replace _u_′
+Now, ̃_w_[^1]:(_u_′′) ≤ _w_ ̃[^1]:(_u_′) whenever _u_′ ∈ _W, u_′′ ∈ _U_ \ _W_. Otherwise we can replace _u_′
 in _Y_ ∪_W_ by _u_′′ to obtain a basis of _M_′
-[^1]: of larger ̃_w_[^1]-weight. Similarly, ̃_w_[^2](_u_′′) ≤ _w_̃[^2](_u_′)
+[^1]: of larger ̃_w_[^1]-weight. Similarly, ̃_w_[^2](_u_′′) ≤ _w_ ̃[^2](_u_′)
 whenever _u_′ ∈ _W, u_′′ ∈ _U_ \ _W_.
 Since ̃_w_[^1]:(_u_) + ̃_w_[^2]:(_u_) = ̃_w_(_u_) = 0 for all _u_ ∈ _U_, this implies that ̃_w_[^1]:(_u_′′) = ̃_w_[^1]:(_u_′)
 whenever _u_′ ∈ _W, u_′′ ∈ _U_ \_W_. As ∅6= _W_ [^6]:= _U_, it follows that ̃_w_[^1]: and ̃_w_[^2]: are constant
@@ -11693,28 +13278,34 @@ Again we consider the dual linear programming problem:
 ```
 ∑
 ```
+
 ```
 Y⊆X
 ```
+
 ```
 (y′
 Y rM[^1](Y ) + y′′
 Y rM[^2](Y ))
 ```
+
 ```
 subject to y′
 Y ≥[^0] (Y ⊆ X),
 y′′
 ∑ Y ≥[^0] (Y ⊆ X),
 ```
+
 ```
 Y⊆X,x∈Y
 ```
+
 ```
 (y′
 Y + y′′
 Y ) ≥ w(x) (x ∈ X).
 ```
+
 Now
 
 **Theorem 10.17.** _If w is integer, then_ (52) _and_ (53) _have integer optimum solutions._
@@ -11731,40 +13322,50 @@ of (53). Optimality follows from:
 (54) w(Z) = w1(Z) + w2(Z) =
 Y⊆X
 ```
+
 ```
 y′
 Y rM[^1](Y ) +
 Y⊆X
 ```
+
 ```
 y′′
 Y rM[^2](Y )
 ```
+
 ```
 =
 ```
+
 ```
 ∑
 ```
+
 ```
 Y⊆X
 ```
+
 ```
 (y′
 Y rM[^1](Y ) + y′′
 Y rM[^2](Y )).
 ```
+
 ```
 So system (51) is totally dual integral. Again, this directly implies:
 ```
+
 ```
 Corollary 10.17a. The convex hull of the common independent sets of two matroids
 M1 and M2 is determined by (51).
 Proof. Directly from Theorem 10.17.
 ```
+
 ```
 Exercises
 ```
+
 10.40. Give an example of three matroids _M_[^1]:, _M_[^2]:, and _M_[^3]: on the same set _X_ so that the
 intersection _P_(_M_[^1]:)∩_P_(_M_[^2]:)∩_P_(_M_[^3]:) is _not_ the convex hull of the common independent
 sets.
@@ -11828,7 +13429,7 @@ minimal problem], Pr ́ace Moravsk ́e Pˇr ́ırodovˇedeck ́e Spoleˇcnosti B
 Scientiarum Naturalium Moravi[c]ae] 3 (1926) 37–58.
 [1941] R.L. Brooks, On colouring the nodes of a network, Proceedings of the Cambridge
 Philosophical Society 37 (1941) 194–197.
-[1911] C. Carath ́eodory, Uber den Variabilit ̈atsbereich der Fourierschen Konstanẗ en von
+[1911] C. Carath ́eodory, Uber den Variabilit ̈atsbereich der Fourierschen Konstant ̈ en von
 positiven harmonischen Funktionen, Rendiconti del Circolo Matematico di Palermo 32
 (1911) 193–217 [reprinted in: Constantin Carath ́eodory, Gesammelte Mathematische
 Schriften, Band III (H. Tietze, ed.), C.H. Beck’sche Verlagsbuchhandlung, M ̈unchen,
@@ -11843,6 +13444,7 @@ IEEE, New York, 1984, pp. 65–73.
 Third Annual ACM Symposium on Theory of Computing (3rd STOC, Shaker Heights,
 Ohio, 1971), The Association for Computing Machinery, New York, 1971, pp. 151–
 ```
+
 158.
 [1978] W.H. Cunningham, A.B. Marsh, III, A primal algorithm for optimum matching,
 [in: Polyhedral Combinatorics — Dedicated to the Memory of D.R. Fulkerson (M.L.
@@ -11867,16 +13469,19 @@ ematics (2) 51 (1950) 161–166 [reprinted in: The Dilworth Theorems — Selecte
 Papers of Robert P. Dilworth (K.P. Bogart, R. Freese, J.P.S. Kung, eds.), Birkh ̈auser,
 Boston, Massachusetts, 1990, pp. 7–12].
 ```
+
 ```
 [1970] E.A. Dinits, Algoritm resheniya zadachi o maksimal’nom potoke v seti so stepenno ̆ı
 otsenko ̆ı [Russian], Doklady Akademii Nauk SSSR 194 (1970) 754–757 [English trans-
 lation: Algorithm for solution of a problem of maximum flow in a network with power
 estimation Soviet Mathematics Doklady 11 (1970) 1277–1280].
 ```
+
 ```
 [1961] G.A. Dirac, On rigid circuit graphs, Abhandlungen aus dem Mathematischen Seminar
 der Universit ̈at Hamburg 25 (1961) 71–76.
 ```
+
 [1965a] J. Edmonds, Maximum matching and a polyhedron with 0,1-vertices, _Journal of_
 _Research National Bureau of Standards Section B_ 69 (1965) 125–130.
 
@@ -11887,6 +13492,7 @@ _Research National Bureau of Standards Section B_ 69 (1965) 67–72.
 [1965c] J. Edmonds, Paths, trees, and flowers, Canadian Journal of Mathematics 17 (1965)
 449–467.
 ```
+
 ```
 [1970] J. Edmonds, Submodular functions, matroids, and certain polyhedra, in: Combinato-
 rial Structures and Their Applications (Proceedings Calgary International Conference
@@ -11894,48 +13500,57 @@ on Combinatorial Structures and Their Applications, Calgary, Alberta, 1969; R. G
 H. Hanani, N. Sauer, J. Sch ̈onheim, eds.), Gordon and Breach, New York, 1970, pp.
 69–87.
 ```
+
 ```
 [1965] J. Edmonds, D.R. Fulkerson, Transversals and matroid partition, Journal of Research
 National Bureau of Standards Section B 69 (1965) 147–153.
 ```
+
 ```
 [1972] J. Edmonds, R.M. Karp, Theoretical improvements in algorithmic efficiency for net-
 work flow problems, Journal of the Association for Computing Machinery 19 (1972)
 248–264.
 ```
+
 ```
 [1931] J. Egerv ́ary, Matrixok kombinatorius tulajdons ́agair ́ol [Hungarian, with German sum-
 mary], Matematikai ́es Fizikai Lapok 38 (1931) 16–28 [English translation [by H.W.
 Kuhn]: On combinatorial properties of matrices, Logistics Papers, George Washing-
 ton University, issue 11 (1955), paper 4, pp. 1–11].
 ```
+
 ```
 [1976] S. Even, A. Itai, A. Shamir, On the complexity of timetable and multicommodity
 flow problems, SIAM Journal on Computing 5 (1976) 691–703.
 ```
+
 ```
 [1975] S. Even, O. Kariv, An O(n[^2].[^5]) algorithm for maximum matching in general graphs, in:
 16th Annual Symposium on Foundations of Computer Science (16th FOCS, Berkeley,
 California, 1975), IEEE, New York, 1975, pp. 100–112.
 ```
+
 ```
-[1894] Gy. Farkas, A Fourier-f ́ele mechanikai elv alkalmaźasai [Hungarian], Mathematikai
-́es Term ́eszettudom ́anyi Ertesit ̋ó 12 (1894) 457–472 [German translation, with slight
-alterations: J. Farkas, Uber die Anwendungen des mechanischen Princips von Fourier̈ ,
+[1894] Gy. Farkas, A Fourier-f ́ele mechanikai elv alkalmaz ́asai [Hungarian], Mathematikai
+́es Term ́eszettudom ́anyi Ertesit ̋o ́ 12 (1894) 457–472 [German translation, with slight
+alterations: J. Farkas, Uber die Anwendungen des mechanischen Princips von Fourier ̈ ,
 Mathematische und naturwissenschaftliche Berichte aus Ungarn 12 (1895) 263–281].
 ```
+
 ```
-[1896] Gy. Farkas, A Fourier-f ́ele mechanikai elv alkalmaźas ́anak algebrai alapja [Hungarian;
+[1896] Gy. Farkas, A Fourier-f ́ele mechanikai elv alkalmaz ́as ́anak algebrai alapja [Hungarian;
 On the algebraic foundation of the applications of the mechanical principle of Fourier],
 ```
+
 ```
 Mathematikai ́es Physikai Lapok 5 (1896) 49–54 [German translation, with some ad-
 ditions: Section I of: J. Farkas, Die algebraischen Grundlagen der Anwendungen des
 Fourier’schen Princips in der Mechanik, Mathematische und naturwissenschaftliche
 Berichte aus Ungarn 15 (1897-99) 25–40].
 ```
+
 [1898] Gy. Farkas, A Fourier-f ́ele mechanikai elv algebrai alapja [Hungarian], _Math ́ematikai_
-_́es Term ́eszettudom ́anyi Ertesit ̋ó_ 16 (1898) 361–364 [German translation: J. Farkas,
+_́es Term ́eszettudom ́anyi Ertesit ̋o ́_ 16 (1898) 361–364 [German translation: J. Farkas,
 Die algebraische Grundlage der Anwendungen des mechanischen Princips von Fourier,
 _Mathematische und naturwissenschaftliche Berichte aus Ungarn_ 16 (1898) 154–157].
 
@@ -11972,7 +13587,7 @@ _Science_ (25th FOCS, Singer Island, Florida, 1984), IEEE, New York, 1984, pp. 3
 
 346.
 
-[1917] G. Frobenius, Uber zerlegbare Determinanten,̈ _Sitzungsberichte der K ̈oniglich Preuß-_
+[1917] G. Frobenius, Uber zerlegbare Determinanten, ̈ _Sitzungsberichte der K ̈oniglich Preuß-_
 _ischen Akademie der Wissenschaften zu Berlin_ (1917) 274–277 [reprinted in: _Fer-_
 _dinand Georg Frobenius, Gesammelte Abhandlungen_, Band III (J.-P. Serre, ed.),
 Springer, Berlin, 1968, pp. 701–704].
@@ -11994,7 +13609,7 @@ weighted matching in general graphs, _SIAM Journal on Computing_ 15 (1986) 120�
 [1958] T. Gallai, Maximum-minimum S ̈atze ̈uber Graphen, _Acta Mathematica Academiae_
 _Scientiarum Hungaricae_ 9 (1958) 395–434.
 
-[1959] T. Gallai, Uber extreme Punkt- und Kantenmengen,̈ _Annales Universitatis Scien-_
+[1959] T. Gallai, Uber extreme Punkt- und Kantenmengen, ̈ _Annales Universitatis Scien-_
 _tiarum Budapestinensis de Rolando E ̈otv ̈os Nominatae, Sectio Mathematica_ 2 (1959)
 133–138.
 
@@ -12004,7 +13619,7 @@ _of NP-Completeness_, Freeman, San Francisco, California, 1979.
 [1996] G.S. Gasparian, Minimal imperfect graphs: a simple approach, _Combinatorica_ 16
 (1996) 209–212.
 
-[1990] A.V. Goldberg, E. Tardos, R.E. Tarjan, Network flow algorithms, in:́ _Paths, Flows,_
+[1990] A.V. Goldberg, E. Tardos, R.E. Tarjan, Network flow algorithms, in: ́ _Paths, Flows,_
 _and VLSI-Layout_ (B. Korte, L. Lov ́asz, H.J. Pr ̈omel, A. Schrijver, eds.), Springer,
 Berlin, 1990, pp. 101–164.
 
@@ -12029,10 +13644,10 @@ _natorica_ 4 (1984) 291–295].
 _ematica Sinica_ 10 (1960) 263–266 [English translation: _Chinese Mathematics_ 1 (1962)
 273–277].
 
-[1943] H. Hadwiger, Uber eine Klassifikation der Streckenkomplexe,̈ _Vierteljahrsschrift der_
+[1943] H. Hadwiger, Uber eine Klassifikation der Streckenkomplexe, ̈ _Vierteljahrsschrift der_
 _naturforschenden Gesellschaft in Z ̈urich_ 88 (1943) 133–142.
 
-[1958] A. Hajnal, J. Sur ́anyi, Uber die Aufl ̈osung von Graphen in vollst ̈andige Teilgraphë n,
+[1958] A. Hajnal, J. Sur ́anyi, Uber die Aufl ̈osung von Graphen in vollst ̈andige Teilgraphe ̈ n,
 _Annales Universitatis Scientiarum Budapestinensis de Rolando E ̈otv ̈os Nominatae —_
 _Sectio Mathematica_ 1 (1958) 113–121.
 
@@ -12091,12 +13706,12 @@ _Mathematics and Mathematical Physics_ 20 (1980) 53–72].
 [1968] D.E. Knuth, _The Art of Computer Programming, Volume I Fundamental Algorithms_,
 Addison-Wesley, Reading, Massachusetts, 1968.
 [1916] D. K ̋onig, Graphok ́es alkalmaz ́asuk a determin ́ansok ́es a halmazok elm ́elet ́ere [Hun-
-garian], _Mathematikai ́es Term ́eszettudom ́anyi Ertesit ̋ó_ 34 (1916) 104–119 [German
-translation: Uber Graphen und ihre Anwendung auf Determinantentheorie ü nd Men-
+garian], _Mathematikai ́es Term ́eszettudom ́anyi Ertesit ̋o ́_ 34 (1916) 104–119 [German
+translation: Uber Graphen und ihre Anwendung auf Determinantentheorie u ̈ nd Men-
 genlehre, _Mathematische Annalen_ 77 (1916) 453–465].
 [1931] D. K ̋onig, Graphok ́es matrixok [Hungarian; Graphs and matrices], _Matematikai ́es_
 _Fizikai Lapok_ 38 (1931) 116–119.
-[1932] D. K ̋onig, Uber trennende Knotenpunkte in Graphen (nebst Anwendungen̈ auf Deter-
+[1932] D. K ̋onig, Uber trennende Knotenpunkte in Graphen (nebst Anwendungen ̈ auf Deter-
 minanten und Matrizen), _Acta Litterarum ac Scientiarum Regiae Universitatis Hun-_
 _garicae Francisco-Josephinae, Sectio Scientiarum Mathematicarum [Szeged]_ 6 (1932-
 34) 155–179.
@@ -12139,40 +13754,49 @@ cations and Discrete Optimization Symposium, Banff, Alta, and Vancouver, B.C.,
 Canada, 1977; P.L. Hammer, E.L. Johnson, B.H. Korte, eds.) [Annals of Discrete
 Mathematics 4], North-Holland, Amsterdam, 1979, pp. 141–158.
 ```
+
 ```
 [1986] L. Lov ́asz, M.D. Plummer, Matching Theory, Akad ́emiai Kiad ́o, Budapest [also:
 North-Holland Mathematics Studies Volume 121, North-Holland, Amsterdam], 1986.
 ```
+
 ```
 [1975] J.F. Lynch, The equivalence of theorem proving and the interconnection problem,
 (ACM) SIGDA Newsletter 5:3 (1975) 31–36.
 ```
+
 ```
 [1978] V.M. Malhotra, M.P. Kumar, S.N. Maheshwari, An O(|V |[^3]) algorithm for finding
 maximum flows in networks, Information Processing Letters 7 (1978) 277–278.
 ```
+
 ```
 [1985] K. Matsumoto, T. Nishizeki, N. Saito, An efficient algorithm for finding multicom-
 modity flows in planar networks, SIAM Journal on Computing 14 (1985) 289–302.
 ```
+
 ```
 [1927] K. Menger, Zur allgemeinen Kurventheorie, Fundamenta Mathematicae 10 (1927)
 96–115.
 ```
+
 ```
 [1980] S. Micali, V.V. Vazirani, An O(
 ```
+
 ```
 √
 |v||E|) algorithm for finding maximum matching
 in general graphs, in: 21st Annual Symposium on Foundations of Computer Science
 (21st FOCS, Syracuse, New York, 1980), IEEE, New York, 1980, pp. 17–27.
 ```
+
 ```
 [1784] G. Monge, M ́emoire sur la th ́eorie des d ́eblais et des remblais, Histoire de l’Acad ́emie
 Royale des Sciences [ann ́ee 1781. Avec les M ́emoires de Math ́ematique & de Physique,
 pour la mˆeme Ann ́ee] (2e partie) (1784) [Histoire: 34–38, M ́emoire:] 666–704.
 ```
+
 ```
 [1936] T.S. Motzkin, Beitr ̈age zur Theorie der linearen Ungleichungen, Inaugural Disserta-
 tion Basel, Azriel, Jerusalem, 1936 [English translation: Contributions to the theory
@@ -12181,14 +13805,17 @@ Santa Monica, California, 1952 [reprinted in: Theodore S. Motzkin: Selected Pape
 (D. Cantor, B. Gordon, B. Rothschild, eds.), Birkh ̈auser, Boston, Massachusetts,
 1983, pp. 1–80]].
 ```
+
 ```
 [1961] C.St.J.A. Nash-Williams, Edge-disjoint spanning trees of finite graphs, The Journal
 of the London Mathematical Society 36 (1961) 445–450.
 ```
+
 ```
 [1964] C.St.J.A. Nash-Williams, Decomposition of finite graphs into forests, The Journal of
 the London Mathematical Society 39 (1964) 12.
 ```
+
 [1967] C.St.J.A. Nash-Williams, An application of matroids to graph theory, in: _Theory_
 _of Graphs — International Symposium — Th ́eorie des graphes — Journ ́ees interna-_
 _tionales d’ ́etude_ (Rome, 1966; P. Rosenstiehl, ed.), Gordon and Breach, New York,
@@ -12273,10 +13900,10 @@ _Computing_ 23 (1994) 780–788.
 
 2003.
 
-[1915] E. Stiemke, Uber positive L ̈osungen homogener linearer Gleichungen,̈ _Mathematische_
+[1915] E. Stiemke, Uber positive L ̈osungen homogener linearer Gleichungen, ̈ _Mathematische_
 _Annalen_ 76 (1915) 340–342.
 
-[1985] E. Tardos, A strongly polynomial minimum cost circulation á lgorithm, _Combinatorica_
+[1985] E. Tardos, A strongly polynomial minimum cost circulation a ́ lgorithm, _Combinatorica_
 5 (1985) 247–255.
 
 [1974] R. Tarjan, Finding dominators in directed graphs, _SIAM Journal on Computing_ 3
@@ -12310,7 +13937,7 @@ Babbage Research Centre, St. Pierre, Manitoba, 1979, pp. 214–225].
 [1964] V.G. Vizing, Ob otsenke khromaticheskogo klassa _p_-grafa [Russian; On an estimate
 of the chromatic class of a _p_-graph], _Diskretny ̆ı Analiz_ 3 (1964) 25–30.
 
-[1937] K. Wagner, Uber eine Eigenschaft der ebenen Komplexe,̈ _Mathematische Annalen_ 114
+[1937] K. Wagner, Uber eine Eigenschaft der ebenen Komplexe, ̈ _Mathematische Annalen_ 114
 (1937) 570–590.
 
 [1995] D. Wagner, K. Weihe, A linear-time algorithm for edge-disjoint paths in planar
@@ -12376,6 +14003,7 @@ Frobenius, F.G. 41, 202
 Fulkerson, D.R. 59-60, 62, 73, 149, 169,
 172, 189, 201-202
 ```
+
 ```
 Gabow, H.N. 88, 202-203
 Galil, Z. 88, 203
@@ -12388,6 +14016,7 @@ G ̈oring, F. 54, 203
 Gr ̈otschel, M. 128, 203
 Guan, M.-g. 89, 203
 ```
+
 ```
 Hadwiger, H. 113, 203
 Hajnal, A. 129, 204
@@ -12399,13 +14028,16 @@ Hopcroft, J.E. 45, 98, 110, 151, 157, 199,
 202, 204
 Hu, T.C. 21, 150, 153, 156, 204
 ```
+
 ```
 Itai, A. 151, 155, 201
 ```
+
 ```
 Johnson, D.B. 10, 204
 Johnson, D.S. 98, 203
 ```
+
 ```
 Kariv, O. 83, 201
 Karmarkar, N. 34, 204
@@ -12419,6 +14051,7 @@ K ̋onig, D. 2, 41-42, 46, 52-53, 115-117,
 205
 Koopmans, Tj.C. 73-74, 205
 ```
+
 Kramer, M.R. 151, 205
 Kruskal, Jr, J.B. 20-21, 51, 135-137, 173,
 204-205
@@ -12477,8 +14110,9 @@ Siegel, A. 164, 200
 Stiemke, E. 33, 208
 Sur ́anyi, J. 129, 204
 ```
+
 ```
-Tardos, E. 68, 73, 203, 208́
+Tardos, E. 68, 73, 203, 208 ́
 Tarjan, R.E. 10, 67-68, 202-203, 208
 Thomas, R. 113, 126, 208
 Thorndike, R.L. 49, 208
@@ -12487,14 +14121,17 @@ Turing, A.M. 3, 100, 108-110, 208
 Tutte, W.T. 2, 78-80, 94, 96, 103, 190,
 209
 ```
+
 ```
 Ullman, J.D. 98, 110, 199
 ```
+
 ```
 Vazirani, V.V. 83, 206
 Veinott, Jr, A.F. 136, 209
 Vizing, V.G. 116, 209
 ```
+
 ```
 Wagner, D. 161, 168, 208-209
 Wagner, K. 113, 209
@@ -12504,6 +14141,7 @@ Whinston, A. 150, 155, 165, 208
 White, W.W. 74, 209
 Wyllie, J. 151, 157, 202
 ```
+
 ## Subject index
 
 accepts word
@@ -12573,6 +14211,7 @@ Brooks’ theorem 112
 bungalow assignment 122-123
 bus station platform assignment 123
 ```
+
 ```
 capacity of a cut 58
 Carath ́eodory’s theorem 30
@@ -12592,6 +14231,7 @@ cardinality matroid intersection algorithm
 cardinality nonbipartite matching 78-85,
 132
 ```
+
 cardinality nonbipartite matching
 algorithm 81-83
 certificate 97, [^101]:-103
@@ -12683,6 +14323,7 @@ finitely generated 29-30
 convex hull 23
 convex set 23-24
 ```
+
 Cook’s theorem 105
 cost **71**
 cover
@@ -12773,6 +14414,7 @@ dual of a matroid 180
 duality theorem of linear programming
 34-37
 ```
+
 dynamic programming 8
 
 edge-chromatic number [^116]:-117
@@ -12865,6 +14507,7 @@ fractional multicommodity flow problem
 148-152, 168-172
 frequency assignment 114
 ```
+
 Gallai’s theorem 39-40
 good characterization **103**
 good forest **22**
@@ -12944,11 +14587,13 @@ paths/min-max 55
 intersection graph 129
 interval matrix 146
 ```
+
 ```
 job assignment 45-46, 48-49, 83-84, 122
 join
 T- 91
 ```
+
 ```
 k-commodity flow problem 148-152,
 168-172
@@ -12959,6 +14604,7 @@ undirected 149-151
 k-truncation of a matroid 179
 k-uniform matroid 179
 ```
+
 knapsack problem 14
 K ̋onig’s edge-colouring theorem [^116]:,
 120-127
@@ -13051,6 +14697,7 @@ minimum-size s − t vertex-cut 55
 minimum-size s − t vertex-cut/min-max
 55
 ```
+
 minimum spanning tree 19-22
 minor of a graph **113**
 minor of a matroid **179**
@@ -13143,6 +14790,7 @@ Edmonds’ matching 91-93-94, 96
 postman problem
 Chinese 89-91
 ```
+
 primality testing 103
 prize equilibrium 16-17
 problem **100**
@@ -13235,6 +14883,7 @@ shrinking 81
 simplex method 34
 simplicial vertex 129
 ```
+
 sink **157**
 size of a word **99**
 solves problem
@@ -13312,6 +14961,7 @@ Hu’s 153-155
 two-processor 84
 two-processor scheduling 83-84
 ```
+
 ```
 under capacity
 flow 58
@@ -13327,6 +14977,7 @@ undirected multicommodity flow problem
 integer 149-151
 uniform matroid 179
 ```
+
 _k_- **179**
 unimodular matrix [^136]:-137
 union of matroids **189**
@@ -13389,3 +15040,4 @@ weighted matroid intersection algorithm
 weighted nonbipartite matching 85-91
 word 99
 ```
+

@@ -141,6 +141,7 @@ at
 ax
 tax
 ```
+
 ```
 ash
 hash
@@ -159,6 +160,7 @@ splash
 trash
 thrash
 ```
+
 Basic short a syllables
 Ab
 fash
@@ -176,6 +178,7 @@ scrab
 val
 asm
 ```
+
 ```
 alt*
 mag
@@ -184,6 +187,7 @@ ag
 prac
 wax
 ```
+
 atch
 ack
 lask
@@ -210,6 +214,7 @@ splam
 drast
 bran
 ```
+
 ```
 swag
 graph
@@ -219,12 +224,14 @@ prax
 wrath
 glash
 ```
+
 ```
 blab
 brack
 spratch
 glant
 ```
+
 Without beginning consonant
 ag
 apt
@@ -239,6 +246,7 @@ ad
 am
 amp
 ```
+
 ```
 az
 al*
@@ -246,6 +254,7 @@ ab
 asm
 af
 ```
+
 ```
 ax
 atch
@@ -255,6 +264,7 @@ act
 alp*
  *As in ‘altitude’, not alternative
 ```
+
 Especially Challenging Syllables
 phland quank thrant shrap slank stratch
 pram blap swaft cath whamp stract
@@ -271,6 +281,7 @@ dank swank yak shad
 ```
 Words with different ‘a’ sound – pay attention to the patterns 
 ```
+
 call
 stall
 squall
@@ -293,6 +304,7 @@ stank
 swank
 crank
 ```
+
 ```
 thank
 rang
@@ -304,6 +316,7 @@ squat
 swat
 swab
 ```
+
 ```
 swap
 stalk
@@ -315,6 +328,7 @@ quaff
 calm
 balm
 ```
+
 CLOSED SYLLABLES: SHORT I
 Short I word progression
 it
@@ -326,21 +340,25 @@ quit
 sit
 sip
 ```
+
 ```
 lip
 slip
 yip
 ```
+
 ```
 quip
 quiz
 quick
 ```
+
 ```
 quit
 risk
 frisk
 ```
+
 Basic syllables
 lix
 inct
@@ -360,6 +378,7 @@ ism
 chig
 quib
 ```
+
 ```
 vid
 gid
@@ -369,6 +388,7 @@ zil
 tric
 splin
 ```
+
 ```
 sprit
 kish
@@ -378,6 +398,7 @@ fric
 plish
 twid
 ```
+
 Syllables with Blends
 brit
 stim
@@ -392,6 +413,7 @@ swiv
 lisk
 ism
 ```
+
 ```
 ilt
 tinct
@@ -399,6 +421,7 @@ ipt
 crin
 prish
 ```
+
 ```
 thrill
 chrit
@@ -406,6 +429,7 @@ blimp
 ink
 sprin
 ```
+
 ```
 scrib
 ing
@@ -413,6 +437,7 @@ rift
 slim
 dwin
 ```
+
 Syllables without a beginning consonant
 ism
 im
@@ -425,19 +450,23 @@ ipt
 ink
 ing
 ```
+
 ```
 in
 inct
 ```
+
 ```
 inch
 itch
 inge
 ill
 ```
+
 ```
 ic
 ```
+
 isp
 id
 ig
@@ -450,6 +479,7 @@ ilk
 il
 ind
 ```
+
 Vocabulary Enrichment
 
 sprint
@@ -469,6 +499,7 @@ spilt
 chrism
 flit
 ```
+
 ```
 script
 brink
@@ -477,6 +508,7 @@ glitch
 strict
 nix
 ```
+
 ```
 glib
 shrift
@@ -485,6 +517,7 @@ squid
 miff
 brig
 ```
+
 ```
 grid
 grist
@@ -492,6 +525,7 @@ brisk
 twinge
 shtick
 ```
+
 a, i multisyllable nonsense review --Includes special category syllables
 salpig
 laprag
@@ -505,24 +539,28 @@ mistflad
 twiljam
 danquim
 ```
+
 ```
 shigman
 thrapism
 implist
 valdip
 ```
+
 ```
 stanting
 biftril
 dalnaft
 safdis
 ```
+
 ```
 trimplast
 radvil
 stalgram
 haspic
 ```
+
 a, I basic syllables review
 chisp
 frag
@@ -535,22 +573,26 @@ strad
 sist
 inct
 ```
+
 ```
 hap
 link
 ```
+
 ```
 grat
 imp
 twim
 sprat
 ```
+
 ```
 chris*
 ast
 quib
 squill
 ```
+
 anch
 shat
 
@@ -566,6 +608,7 @@ im
 dras
 ic
 ```
+
 ```
 gic
 cig
@@ -585,6 +628,7 @@ act id
 ad
 ish
 ```
+
 Closed Syllables: Short O
 Word Progressions
 PROGRESSION 1
@@ -601,6 +645,7 @@ slob
 slot
 lot
 ```
+
 ```
 pot
 plot
@@ -608,6 +653,7 @@ plod
 prod
 pod
 ```
+
 ```
 rod
 cod
@@ -615,6 +661,7 @@ shod
 shop
 shock
 ```
+
 ```
 stock
 sock
@@ -622,6 +669,7 @@ mock
 mom
 mob
 ```
+
 PROGRESSION 2
 mob
 glob
@@ -636,6 +684,7 @@ clop
 clod
 trod
 ```
+
 ```
 shod
 log
@@ -643,6 +692,7 @@ bob
 blob
 cob
 ```
+
 ```
 fob
 gob
@@ -650,6 +700,7 @@ hob
 job
 lob
 ```
+
 mob
 sob
 sock
@@ -665,21 +716,25 @@ lock
 flock
 flog
 ```
+
 ```
 dog
 frog
 bog
 ```
+
 ```
 botch
 notch
 scotch
 ```
+
 ```
 scoff
 doff
 toff
 ```
+
 Basic Syllables – omit “chron” if student hasn’t learned the ‘chr’ special category.
 ob
 vom
@@ -694,6 +749,7 @@ coc
 cos
 fol
 ```
+
 ```
 ox
 bot
@@ -701,6 +757,7 @@ chron*
 hom
 trop
 ```
+
 ```
 bod
 rost
@@ -708,12 +765,14 @@ holl
 lob
 pont
 ```
+
 ```
 gond
 tox
 osk
 strom
 ```
+
 Vocabulary Enrichment
 frond
 throb
@@ -728,6 +787,7 @@ clod
 grog
 prod
 ```
+
 ```
 doff
 fob
@@ -735,6 +795,7 @@ bond
 Bronx
 throng
 ```
+
 ```
 splotch
 cog
@@ -742,12 +803,14 @@ posh
 romp
 lob
 ```
+
 ```
 chock
 broth
 smock
 phlox
 ```
+
 a, I, o basic syllables review
 *skip chron and chris if student hasn’t learned the “chr” pattern yet.
 clom
@@ -769,6 +832,7 @@ chron*
 wrath
 strad
 ```
+
 ```
 bom
 drif
@@ -779,6 +843,7 @@ drom
 twip
 thrax
 ```
+
 ```
 sprill
 dwin
@@ -788,6 +853,7 @@ quon
 squin
 ash
 ```
+
 ```
 cim
 cint
@@ -797,6 +863,7 @@ drab
 hom
 stinct
 ```
+
 Two and three syllable words with a, i, and o
 consist
 contact
@@ -843,6 +910,7 @@ napkin
 dishpan
 dishrag
 ```
+
 ```
 zigzag
 Finland
@@ -866,6 +934,7 @@ sandwich
 mishap
 baptist
 ```
+
 ```
 tinsmith
 tactic
@@ -873,6 +942,7 @@ impact
 intact
 aspic
 ```
+
 ```
 WORDS
 WITH
@@ -886,6 +956,7 @@ soffit
 rabbit
 tannic
 ```
+
 SHORT U
 Word Progressions
 up
@@ -901,6 +972,7 @@ stub
 stump
 slump
 ```
+
 ```
 clump
 rump
@@ -908,6 +980,7 @@ trump
 truck
 trust
 ```
+
 ```
 rust
 rut
@@ -915,6 +988,7 @@ hut
 hug
 rug
 ```
+
 ```
 shrug
 drug
@@ -922,6 +996,7 @@ drum
 plum
 plump
 ```
+
 Basic Syllables
 mus
 tux
@@ -936,6 +1011,7 @@ hud
 junct
 sud
 ```
+
 ```
 yup
 punct
@@ -943,6 +1019,7 @@ rud
 jum
 hum
 ```
+
 ```
 scut
 mum
@@ -950,6 +1027,7 @@ sput
 nun
 pum
 ```
+
 ```
 sus
 suc
@@ -957,6 +1035,7 @@ sum
 mund
 flus
 ```
+
 Basic Blends
 blust
 rupt
@@ -971,6 +1050,7 @@ fluct
 ump
 flust
 ```
+
 ```
 shrug
 funct
@@ -978,6 +1058,7 @@ truc
 drun
 glud
 ```
+
 ```
 spud
 splud
@@ -985,6 +1066,7 @@ runk
 flut
 grub
 ```
+
 ```
 crump
 bund
@@ -992,6 +1074,7 @@ lunt
 stut
 scrub
 ```
+
 Without Beginning Consonant
 un
 up
@@ -1006,6 +1089,7 @@ ud
 unct
 ut
 ```
+
 ```
 umb
 und
@@ -1013,12 +1097,14 @@ us
 uck
 unk
 ```
+
 ```
 ux
 ub
 uct
 upt
 ```
+
 UL words and syllables
 full
 dull
@@ -1033,23 +1119,27 @@ cult
 dult
 sult
 ```
+
 ```
 hulk
 bulk
 sulk
 mult
 ```
+
 ```
 bulb
 culc
 ult
 vul
 ```
+
 ```
 dul
 ulk
 ul
 ```
+
 Multi-syllable words with a, I, o, u
 (*pronounce adult as “ad - ult” with short a, not ‘uh-dult’)
 fungus
@@ -1071,6 +1161,7 @@ influx
 drumlin
 callus
 ```
+
 ```
 induct
 unsnap
@@ -1081,6 +1172,7 @@ submit
 subsist
 mustang
 ```
+
 ```
 campus
 abduct
@@ -1092,6 +1184,7 @@ adult *
 Istanbul
 culprit
 ```
+
 ```
 pulpit
 fulcrum
@@ -1103,6 +1196,7 @@ handful
 cupful
 wilful
 ```
+
 SHORT E
 WORD PROGRESSIOSN
 ed
@@ -1118,6 +1212,7 @@ pet
 wet
 whet
 ```
+
 ```
 fret
 set
@@ -1125,6 +1220,7 @@ sent
 bent
 went
 ```
+
 ```
 west
 quest
@@ -1132,6 +1228,7 @@ quench
 bench
 stench
 ```
+
 ```
 step
 strep
@@ -1139,6 +1236,7 @@ stretch
 fetch
 fed
 ```
+
 Basic Syllables
 fess
 zed
@@ -1155,6 +1253,7 @@ lect
 vest
 gest
 ```
+
 ```
 trem
 rel
@@ -1163,6 +1262,7 @@ cem
 cess
 gel
 ```
+
 ```
 cept
 phren
@@ -1170,12 +1270,14 @@ ex
 em
 empt
 ```
+
 ```
 reft
 ef
 met
 esc
 ```
+
 Syllables with blends
 fret
 ench
@@ -1191,6 +1293,7 @@ shelt
 dren
 elk
 ```
+
 ```
 feld
 temp
@@ -1198,6 +1301,7 @@ flex
 stress
 shred
 ```
+
 ```
 squelch
 plent
@@ -1205,6 +1309,7 @@ splen
 tress
 fled
 ```
+
 ```
 gresh
 sprent
@@ -1212,6 +1317,7 @@ blen
 venge
 esh
 ```
+
 c/g practice
 cent
 cest
@@ -1222,21 +1328,25 @@ cell
 cept
 cess
 ```
+
 ```
 ence
 edge
 enge
 ```
+
 ```
 gest
 gent
 gel
 ```
+
 ```
 gen
 gem
 gex
 ```
+
 Syllables without a beginning consonant
 ex
 eb
@@ -1249,24 +1359,28 @@ elm
 ef
 elk
 ```
+
 ```
 ed
 empt
 em
 esk
 ```
+
 ```
 en
 ect
 el
 ev
 ```
+
 ```
 esh
 eld
 elf
 end
 ```
+
 Vocabulary enrichment – single syllable
 left
 press
@@ -1281,6 +1395,7 @@ flesh
 shred
 clench
 ```
+
 ```
 deft
 wren
@@ -1288,18 +1403,21 @@ mesh
 elk
 drench
 ```
+
 ```
 crest
 smelt
 quench
 cleft
 ```
+
 ```
 flex
 yen
 dwell
 vet
 ```
+
 Multisyllable words
 convent
 magnet
@@ -1320,6 +1438,7 @@ dispel
 splendid
 compel
 ```
+
 ```
 tendril
 suspect
@@ -1330,6 +1449,7 @@ subject
 inject
 falcon
 ```
+
 ```
 entrap
 impel
@@ -1340,12 +1460,14 @@ inspect
 impending
 contend
 ```
+
 ```
 consent
 connect
 comment
 happen
 ```
+
 Y as a Vowel
 Real Words:
 Lynn
@@ -1355,18 +1477,22 @@ gym
 rhythm
 crypt
 ```
+
 ```
 lymph
 gyp
 ```
+
 ```
 lynx
 lynch
 ```
+
 ```
 hymn
 myth
 ```
+
 Y following c or g
 gypt
 cym
@@ -1375,10 +1501,12 @@ cym
 cyg
 gyn
 ```
+
 ```
 cyl
 cyst
 ```
+
 Syllables
 sys
 cym
@@ -1399,6 +1527,7 @@ thyst
 lys
 lyst
 ```
+
 ```
 lyt
 rysm
@@ -1409,6 +1538,7 @@ cyp
 glyph
 typ
 ```
+
 ```
 cyl
 phyx
@@ -1419,6 +1549,7 @@ sync
 byt
 byz
 ```
+
 ```
 phyll
 myst
@@ -1427,6 +1558,7 @@ chrys
 nyx
 synth
 ```
+
 Multisyllable words with y as closed syllable vowel - includes all syllable types & some categories. It’s a
 cool list 
 synthetic
@@ -1472,6 +1604,7 @@ analysis
 onyx
 catalyst
 ```
+
 ```
 polygamy
 myth
@@ -1491,3 +1624,4 @@ Egypt
 Phyllis
 Yvonne
 ```
+

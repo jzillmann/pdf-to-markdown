@@ -27,18 +27,22 @@ Bozen-Bolzano University Press, 2020
 Free University of Bozen-Bolzano
 www.unibz.it/universitypress
 ```
+
 ```
 Cover design / layout: DOC.bz / bu,press
 Druck: Digiprint
 ```
+
 ```
-ISBN978-88-6046-179-7
-E-ISBN978-88-6046-180-3
+ISBN 978-88-6046-179-7
+E-ISBN 978-88-6046-180-3
 ```
+
 ```
 Dieser Band – Cover und Zitate ausgenommen – ist lizenziert unter der
 Creative Commons Attribuition-ShareAlike 4.0 International License.
 ```
+
 Italienischer Originaltitel:
 WOOD-UP – Valorizzazione della filiera di gassificazione di biomasse legnose
 per l’energia, la fertilità del suolo e la mitigazione dei cambiamenti climatici
@@ -52,52 +56,53 @@ _eine wertvolle Ressource sein kann, wenn sie etwa in der Landwirtschaft als_
 _Bodenverbesserungsmittel eingesetzt wird, mit positiven Auswirkungen auf_
 _die Bodenfruchtbarkeit, auf die Produktivität und, dank der langfristigen Bin-_
 _dung von Kohlenstoff, auf den Klimaschutz. Die in der Landwirtschaft ver-_
-_wendete Kohle wird allgemein als Biochar bezeichnet. Diephysikalisch-che-_
-_mischen Eigenschaften, die ausschlaggebend sind fürdessen Eignungfür den_
+_wendete Kohle wird allgemein als Biochar bezeichnet. Die physikalisch-che-_
+_mischen Eigenschaften, die ausschlaggebend sind für dessen Eignung für den_
 _landwirtschaftlichen Einsatz, hängen jedoch vom Ausgangsmaterial und den_
 _operativen Parametern des Pyrovergasungsprozesses ab. Vor der Umsetzung_
 _dieses Projekts waren die Eigenschaften der in Südtirol produzierten Biochars_
-_praktisch unbekannt, ebenso wie die tatsächliche Fähigkeitdieser Biochars,_
+_praktisch unbekannt, ebenso wie die tatsächliche Fähigkeit dieser Biochars,_
 _die Fruchtbarkeit von Agrarböden der Region zu verbessern und zum Klima-_
 _schutz beizutragen._
 _Einen zweiten verbesserungswürdigen Aspekt stellt der für die Pyroverga-_
 _sung verwendete Rohstoff dar. Die in den Anlagen verwendete Lignocellu-_
 _lose-Matrix ist potentiell reich an Sekundärverbindungen, die für die Pharma-_
-_, Kosmetik-und Lebensmittelindustrie interessant sind und die wirtschaftli-_
+_, Kosmetik- und Lebensmittelindustrie interessant sind und die wirtschaftli-_
 _che Nachhaltigkeit der gesamten Produktionskette verbessern können, wenn_
 _sie vor der Energieerzeugung extrahiert werden._
 _In diesem Zusammenhang hat WOOD-UP die Energieeffizienz und wirt-_
 _schaftliche Nachhaltigkeit der aktuellen Produktionskette der Biomasseverga-_
-_sungin Südtirol analysiert,um Strategien zur Steigerung der Polygenerati-_
+_sung in Südtirol analysiert, um Strategien zur Steigerung der Polygenerati-_
 _onskapazität aktuell verwendeter Technologien zu entwickeln und die Pro-_
 _duktion von landwirtschaftlich nutzbarem Biochar zu fördern (Kapitel 1)._
-_Gleichzeitig wurden die physikalischen und chemischen Eigenschaften derin_
+_Gleichzeitig wurden die physikalischen und chemischen Eigenschaften der in_
 _Südtirol erzeugten Kohle untersucht, um deren Gehalt an Elementen zu eva-_
 _luieren, die für die Umwelt und den Menschen gefährlich sind und die gemäß_
-_den einschlägigen Bestimmungeneinelandwirtschaftliche Nutzung verhin-_
-_dern(Kapitel 3)._
+_den einschlägigen Bestimmungen eine landwirtschaftliche Nutzung verhin-_
+_dern (Kapitel 3)._
 _In agronomischer Hinsicht wollte das Projekt WOOD-UP die Wirkung be-_
-_stimmter Arten von Biochar auf Produktivität,Produktqualität und auf die_
-_Nutzungseffizienz von Wasser und Stickstoff im Wein-und Apfelanbau Süd-_
+_stimmter Arten von Biochar auf Produktivität, Produktqualität und auf die_
+_Nutzungseffizienz von Wasser und Stickstoff im Wein- und Apfelanbau Süd-_
 _tirols prüfen. Kapitel 4 und 5 enthalten die Ergebnisse dieser Untersuchungen._
 
 ```
 Einleitung
 ```
+
 _Kapitel 6 beleuchtet, welchen Beitrag Biochar zum Klimaschutz und zur lang-_
 _fristigen Kohlenstoffbindung in den Agrarböden Südtirols leisten kann. Die_
 _interessanten Ergebnisse in Kapitel 2 zeigen, wie die Extraktion von Verbin-_
-_dungen für die Pharma- und Lebensmittelindustrievor der energetischen_
-_Nutzung von Holzbiomasse von hohem Mehrwertsein kann._
+_dungen für die Pharma- und Lebensmittelindustrie vor der energetischen_
+_Nutzung von Holzbiomasse von hohem Mehrwert sein kann._
 _Die in den vorhergehenden Kapiteln gesammelten und untersuchten Informa-_
 _tionen wurden in eine Lebenszyklusanalyse (LCA) eingebunden, deren Er-_
 _gebnisse in Kapitel 7 dargelegt werden. Zuerst wurde die ökologische Nach-_
 _haltigkeit der aktuellen Produktionskette in der Biomassevergasung in Südti-_
-_rol untersucht.Die aktuelle Situation wurde mit sechs alternativen Szenarien_
+_rol untersucht. Die aktuelle Situation wurde mit sechs alternativen Szenarien_
 _verglichen, die eine zunehmende Zahl innovativer Varianten unterschiedli-_
 _cher Kombination vorsahen, wie z. B. a) die Anwendung anderer als die der_
 _aktuellen Pyrovergasungstechnologien, b) die Aufwertung von Holzbiomasse_
-_zu Pharma-oder Lebensmittelzwecken, c) die Nutzung von Biochar als Bo-_
+_zu Pharma- oder Lebensmittelzwecken, c) die Nutzung von Biochar als Bo-_
 _denverbesserungsmittel in der Landwirtschaft. Dank der Lebenszyklusana-_
 _lyse konnten die Stärken und Schwächen der aktuellen Produktionskette aus-_
 _findig gemacht und mögliche Ansätze zur Verbesserung ihrer ökologischen_
@@ -122,15 +127,15 @@ _und wirtschaftlichen Nachhaltigkeit ermittelt werden._
 **Marco Baratieri– Freie Universität Bozen**
 
 Abstract
-_DieVerbreitung kleiner Holzvergasungsanlagen hat in Südtirol im letzten Jahrzehnt_
+_Die Verbreitung kleiner Holzvergasungsanlagen hat in Südtirol im letzten Jahrzehnt_
 _deutlich zugenommen, sei es aufgrund der in dieser Region verfügbaren großen Menge_
 _an Holzbiomasse, sei es aufgrund der von staatlichen Förderprogrammen für erneuer-_
 _bare Energien erzeugten vorteilhaften Wirtschaftsbedingungen. Derzeit produzieren_
 _Vergasungsanlagen neben Elektro-und Wärmeenergie ein festes Abfallprodukt mit ho-_
 _hem Kohlenstoffgehalt, das Kohle genannt wird. Die Analogie dieses Materials mit_
 _durch Pyrolyse erzeugtem Biochar (Biokohle) hat das Interesse der Wissenschaftsge-_
-_meinschaft und Interessengruppen bezüglich dessenpotenzieller Nutzung als Boden-_
-_verbesserungsmittelgeweckt. Auf diese Weise kann eine Vergasungsanlage zur Poly-_
+_meinschaft und Interessengruppen bezüglich dessen potenzieller Nutzung als Boden-_
+_verbesserungsmittel geweckt. Auf diese Weise kann eine Vergasungsanlage zur Poly-_
 _generation eingesetzt werden, d. h. für die Erzeugung von mindestens drei Produkten:_
 _Wärmeenergie, elektrische Energie und Biochar. Zur Evaluierung dieser Möglichkeit_
 _setzt sich diese Arbeit zum Ziel, den aktuellen Stand der Technik der in Südtirol ver-_
@@ -154,18 +159,18 @@ _Temperaturen über 700 °C in Anwesenheit eines Oxidationsmittels (norma-_
 _lerweise Luft) in einem niedrigeren als für die komplette Verbrennung nöti-_
 _gen Prozentsatz erfolgt. Dieser Prozess ermöglicht die Konversion der festen_
 _Biomasse in ein Gasgemisch, das sonst als Synthesegas oder Generatorgas_
-_(producer gas) bekanntund reich an Kohlenmonoxid und Wasserstoff ist. Das_
+_(producer gas) bekannt und reich an Kohlenmonoxid und Wasserstoff ist. Das_
 _Synthesegas kann direkt als Brennstoff für Verbrennungsmotoren verwendet_
 _werden, um Methanol oder Wasserstoff zu erzeugen, oder mit dem Fischer-_
-_Tropsch-Verfahren in andere synthetische Flüssigbrennstoffeumgewandelt_
+_Tropsch-Verfahren in andere synthetische Flüssigbrennstoffe umgewandelt_
 _werden. Der feste Rückstand des Vergasungsprozesses, also das, was nach_
 _dem thermischen Abbau der Biomasse übrigbleibt, ist ein kohlenstoffhaltiges_
 _Material, das generell als Kohle oder Biochar (Biokohle) bekannt ist. Mit dem_
-_BegriffBiochar werden im Allgemeinen feste Rückstände aus der Pyrolyse_
+_Begriff Biochar werden im Allgemeinen feste Rückstände aus der Pyrolyse_
 _von Holzbiomasse bezeichnet, einem Prozess, der bei Temperaturen zwischen_
 _350 °C und 1000 °C unter Zufuhr minimaler Sauerstoffmengen erfolgt_
 _(European Biochar Foundation (EBC), 2020). Durch Pyrolyse gewonnenes_
-_Biochar ist ein sehr poröses Material mit hohem Kohlenstoffgehalt;es ist reich_
+_Biochar ist ein sehr poröses Material mit hohem Kohlenstoffgehalt; es ist reich_
 _an Mineralien und Aromaverbindungen und kann als Bodenverbesserungs-_
 _mittel oder als Dekontaminierungsmittel für die Wasseraufbereitung oder_
 _Bodensanierung verwendet werden. Diesbezüglich fällt die Holzvergasung in_
@@ -175,6 +180,7 @@ _Vergasung gewonnene Kohle weist viele Ähnlichkeiten mit Aktivkohle auf_
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 _und könnte diese hypothetisch in verschiedenen Anwendungsbereichen er-_
 _setzen (Benedetti, Patuzzi und Baratieri, 2018). Durch ihren hohen Kohlen-_
 _stoffgehalt und ihre gut entwickelte Porosität könnte die Kohle nicht nur zur_
@@ -186,7 +192,7 @@ _Patuzzi und Baratieri, 2019; Benedetti et al., 2020) oder zum Cracken von Teer_
 _(Cordioli, Patuzzi und Baratieri, 2019; Klinghoffer, Castaldi und_
 _Nzihou, 2012) genutzt werden. In der Literatur werden auch Anwendungen_
 _zur Bodendüngung genannt (Hansen et al., 2015). Damit die durch Vergasung_
-_gewonnene Kohle alsBiochar eingestuft werden kann, muss der Prozess je-_
+_gewonnene Kohle als Biochar eingestuft werden kann, muss der Prozess je-_
 _doch für die Kohleerzeugung optimiert werden und die Kohle bestimmte qua-_
 _litative Merkmale aufweisen. Neben einem hohen Kohlenstoffgehalt und_
 _einer gut entwickelten Porosität muss die Kohle zum Beispiel einen reduzier-_
@@ -248,6 +254,7 @@ _gen, welche die großen Hackschnitzelkessel ersetzen oder ergänzen können._
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 _Vor allem im Sommer, wenn die Nutzer nur zur Trinkwassererhitzung Wär-_
 _meenergie benötigen, können Vergasungsanlagen die geringe, für das Fern-_
 _heizwerknetz benötigte Menge an Wärmeenergie erzeugen; auf diese Weise_
@@ -260,7 +267,7 @@ _vorsah. Anlagen unter 300 kW erhalten zum Beispiel einen Preis von 280 € pro_
 _MWh erzeugter Elektrizität. Diese Zunahme hätte noch größer ausfallen kön-_
 _nen, wurde aber durch bestimmte Probleme in Verbindung mit der Technik_
 _und der Zulassung gebremst, da es sich um eine völlig neue und noch nicht_
-_ganz ausgereifte Technologie handelte.Im darauffolgenden Zeitraum zwi-_
+_ganz ausgereifte Technologie handelte. Im darauffolgenden Zeitraum zwi-_
 _schen 2014 und 2018 haben die Unsicherheit der Gesetzgebung und die Sen-_
 _kung des Fördertarifs zu einer Abnahme der Investitionen in neue Installati-_
 _onen geführt. Diese Situation hat sich von Anfang 2019 bis heute zu einer fast_
@@ -269,24 +276,25 @@ _ist das Fehlen eines Förderprogramms für neue Vergasungsanlagen._
 _Abbildung 1 zeigt die Verteilung der in Südtirol betriebenen Holzvergasungs-_
 _anlagen, nach Installationsjahr gekennzeichnet._
 
-Abb. 1– Verbreitung von Holzvergasungsanlagen in Südtirol in den verschiedenen Jahren
+Abb. 1 – Verbreitung von Holzvergasungsanlagen in Südtirol in den verschiedenen Jahren
 
 ```
 Genehmigungsjahr (# Anlagen)
 ```
+
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
 _Um ein genaues Bild der in Südtirol installierten Anlagen zu erhalten und so-_
-_wohl Wirtschafts- als auchProduktions- und Verbrauchsdaten zu erfassen,_
+_wohl Wirtschafts- als auch Produktions- und Verbrauchsdaten zu erfassen,_
 _wurde Betreibern einzelner Anlagen, die sich zur Mitarbeit an diesem Projekt_
 _bereiterklärt haben, ein Fragebogen vorgelegt, um möglichst viele Informati-_
 _onen zu sammeln, insbesondere in Bezug auf:_
 
-- denFluss der verwendeten Holzbiomasse
+- den Fluss der verwendeten Holzbiomasse
 - den Fluss der erzeugten Rückstände (Kohle)
 Es wurden also Informationen über die Art der verwendeten Biomasse (Hack-
 schnitzel, Pellets oder Briketts), deren Herkunft, die Eigenschaften des Mate-
-rials (z. B. Feuchtigkeit),den jährlichen Verbrauch der Anlage und die Kosten
+rials (z. B. Feuchtigkeit), den jährlichen Verbrauch der Anlage und die Kosten
 der verwendeten Rohstoffe gesammelt. Was die erzeugte Kohle anbelangt,
 wurden Informationen über die Art der Rückstände (trockene Kohle, feuchte
 Kohle, Asche oder Kondensflüssigkeiten), ihren Bestimmungszweck, die jähr-
@@ -315,6 +323,7 @@ _einheit; zu diesem Zweck wurde die Biomasse vor ihrer Einspeisung in den_
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 _Reaktor gewogen oder – wenn die Masse nicht direkt gemessen werden_
 _konnte – die Veränderung im Lagervolumen der Rohstoffe während des un-_
 _tersuchten Zeitraums bestimmt. Der Durchfluss des Vergasungsmittels (Luft)_
@@ -335,13 +344,14 @@ _die für die Messung der Konzentration von Wasserstoff, Sauerstoff, Stickstoff,
 _Methan, Kohlenmonoxid und Kohlendioxid des analysierten Gasflusses ge-_
 _eignet sind._
 _Was die Energieflüsse anbelangt, wurde die mit der eingespeisten Biomasse_
-_verbundene EingangsleistungPbiom, ausgehend vom Fluss der Biomasse_𝑚𝑚̇ 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏
-_und ihrem unteren Heizwert berechnet_𝐿𝐿𝐿𝐿𝑉𝑉𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏_:_
+_verbundene Eingangsleistung Pbiom, ausgehend vom Fluss der Biomasse_ 𝑚𝑚̇ 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏
+_und ihrem unteren Heizwert berechnet_ 𝐿𝐿𝐿𝐿𝑉𝑉𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏_:_
 
 ```
 𝑃𝑃𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 = 𝑚𝑚̇ 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 ∙ 𝐿𝐿𝐿𝐿𝑉𝑉𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏
 ```
-_Die von der Anlage erzeugte elektrische Leistung_𝑃𝑃𝑒𝑒𝑒𝑒 _wurde beim Monitoring_
+
+_Die von der Anlage erzeugte elektrische Leistung_ 𝑃𝑃𝑒𝑒𝑒𝑒 _wurde beim Monitoring_
 _von einem Leistungsanalysator oder mit der bereits im Kontrollsystem der_
 _überwachten Anlage integrierten Messvorrichtung gemessen. Sofern nicht_
 _vom Kontrollsystem der Anlage aufgezeichnet, wurde die erzeugte Wärme-_
@@ -352,7 +362,7 @@ _stand PT 100 gemessen wurde._
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-_Dann wurden die elektrische Effizienz_𝜂𝜂𝑒𝑒𝑒𝑒_, die thermische Effizienz_𝜂𝜂𝑡𝑡ℎ _und_
+_Dann wurden die elektrische Effizienz_ 𝜂𝜂𝑒𝑒𝑒𝑒_, die thermische Effizienz_ 𝜂𝜂𝑡𝑡ℎ _und_
 _die Gesamteffizienz_ 𝜂𝜂𝑡𝑡𝑏𝑏𝑡𝑡 _der Anlage berechnet:_
 
 ```
@@ -364,13 +374,14 @@ _die Gesamteffizienz_ 𝜂𝜂𝑡𝑡𝑏𝑏𝑡𝑡 _der Anlage berechnet:_
 𝑃𝑃𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏
 𝜂𝜂𝑡𝑡𝑏𝑏𝑡𝑡 = 𝜂𝜂𝑒𝑒𝑒𝑒 +𝜂𝜂𝑡𝑡ℎ
 ```
-_wobei_𝑃𝑃𝑎𝑎𝑎𝑎𝑎𝑎 _der von den Hilfsgeräten verbrauchten elektrischen Leistung ent-_
+
+_wobei_ 𝑃𝑃𝑎𝑎𝑎𝑎𝑎𝑎 _der von den Hilfsgeräten verbrauchten elektrischen Leistung ent-_
 _spricht._
 
 2.3 Charakterisierung der Kohle
 _Die Kohle aus den Vergasungsanlagen wurde, neben den oben genannten,_
 _auch weiteren Abfallanalysen zur Ermittlung des Gehalts an Metallen, po-_
-_lyzyklischenaromatischenWasserstoffen (PAK, Methode MI-03 Rev. 132016)_
+_lyzyklischen aromatischen Wasserstoffen (PAK, Methode MI-03 Rev. 13 2016)_
 _und Dioxinen (Methode EPA 1613B 1994) unterzogen. Diese Analyse setzt sich_
 _zum Ziel, mögliche Zusammenhänge zwischen den physisch-chemischen Ei-_
 _genschaften der eingesammelten Kohle und den wichtigsten Prozessparame-_
@@ -393,6 +404,7 @@ _indem sie zum Beispiel dafür sorgt, dass die Kohle mit den Grenzwerten der_
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 _Düngemittelvorschriften konform ist, wurden Vergasungstests an Holzbio-_
 _masse durchgeführt, bei denen ein in den Bioenergy- und Biofuels-Laborato-_
 _rien der Freien Universität Bozen installierter Vergaserprototyp verwendet_
@@ -418,44 +430,52 @@ _Kohle._
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-Tabelle[^1]: – Detaillierte Informationen über die unter kontrollierten Bedingungen erzeugte Kohle
+Tabelle [^1]: – Detaillierte Informationen über die unter kontrollierten Bedingungen erzeugte Kohle
 
 ```
 Bezeichnung der
 Kohle
 ```
+
 ```
 Produktionsbedingungen
 ```
+
 ```
 R100 Biomasse: Holzhackschnitzel
 Reaktortyp: Downdraft, Open Top
 Last: 100 % der Nennlast
 ```
+
 ```
-R75 Biomasse:Holzhackschnitzel
+R75 Biomasse: Holzhackschnitzel
 Reaktortyp: Downdraft, Open Top
 Last: 75 % der Nennlast
 ```
+
 ```
 R50 Biomasse: Holzhackschnitzel
 Reaktortyp: Downdraft, Open Top
 Last: 50 % der Nennlast
 ```
+
 ```
 O-R Biomasse: Holzhackschnitzel
 Reaktortyp: Downdraft (20 kW)
 Kohle: aus dem Reaktor entnommen
 ```
+
 ```
 O-C Biomasse: Holzhackschnitzel
 Reaktortyp: Downdraft (20 kW)
 Kohle: aus dem Zyklon (Filtersektion) entnommen
 ```
+
 ```
 Q Biomasse: Holzhackschnitzel
 Reaktortyp: Downdraft, Open Top (5 kW)
 ```
+
 2.5 Vergleichende Bewertung in Bezug auf die einschlägigen
 Vorschriften und die europäischen Standards
 
@@ -470,6 +490,7 @@ _http://www.european-biochar.org/en) und BQM (Biochar Quality Mandate)_
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 _verglichen. Schließlich wurde das vom britischen Biochar Research Center er-_
 _zeugte kommerzielle Biochar untersucht und ebenfalls mit den in der ein-_
 _schlägigen italienischen Gesetzgebung vorgegeben Grenzwerten verglichen._
@@ -483,13 +504,13 @@ _Hackschnitzeln, Pellets oder Briketts unterschiedlicher Größe und Feuchtig-_
 _keit. Die Stückelung variiert zwischen G30 (maximal 30 cm Länge) und G150_
 _(maximal 150 cm Länge), wobei der Feinanteil nicht mehr als 20 % betragen_
 _darf, damit im Reaktor keine Probleme durch Verbacken des Materials entste-_
-_hen.Zur Gewährleistung des ordnungsgemäßen Betriebs der Anlage darf die_
+_hen. Zur Gewährleistung des ordnungsgemäßen Betriebs der Anlage darf die_
 _Feuchtigkeit der Biomasse außerdem bei allen Technologien 10 % nicht über-_
 _steigen. Einige Betreiber kaufen bereits getrocknete Biomasse (getrocknete_
 _Hackschnitzel oder Pellets mit einem Feuchtigkeitsgehalt von 5–_[^10]: _%), die_
 _teurer ist (circa 132–136 €/t für Hackschnitzel und 195–245 €/t für Pellets); an-_
 _dere verwenden hingegen einen externen Trockner oder nutzen eine Reaktor-_
-_technologie, bei der die eingespeiste Biomasse in derAnfangsphase erhitzt_
+_technologie, bei der die eingespeiste Biomasse in der Anfangsphase erhitzt_
 _und getrocknet wird (in diesem Fall sinken die Kosten der Biomasse auf 65–_
 _96 €/t)._
 _Hackschnitzel und Briketts stammen fast vollständig aus Waldpflegearbeiten_
@@ -497,15 +518,15 @@ _oder Abfällen aus Südtiroler Sägereien; in letzterem Fall sind die Rohstoffe
 _kostenlos. Die Pellets kommen hingegen hauptsächlich aus Österreich und_
 _Polen, zu einem geringeren Anteil jedoch auch aus Südtirol._
 _Unter Ausweitung der durch die Fragebögen erhobenen Daten auf alle aktuell_
-_in Südtirol betriebenen Anlagen wurde berechnet,dass den Vergasungsanla-_
+_in Südtirol betriebenen Anlagen wurde berechnet, dass den Vergasungsanla-_
 _gen fast 50.000 Tonnen Holzbiomasse zugeführt werden, wodurch Gesamt-_
 _kosten von nahezu 5 Millionen Euro pro Jahr für den Einkauf der Rohstoffe_
 _entstehen._
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-3.2 Rückstandsarten und-flüsse
-_Die zwei wichtigsten Arten vonRückständen aus dem Vergasungsprozess_
+3.2 Rückstandsarten und -flüsse
+_Die zwei wichtigsten Arten von Rückständen aus dem Vergasungsprozess_
 _sind Kohle und das in der Phase der Reinigung und Kühlung des vom Reaktor_
 _erzeugten Synthesegases aufgefangene Kondensat. Beide Abfallprodukte_
 _werden von spezialisierten Betrieben entsorgt und in einigen Fällen als nicht_
@@ -529,11 +550,11 @@ _geschalteten „Reformer“ vor, eine Art Nachbrenner, der in der Lage ist, die
 _Kohle in Asche zu verwandeln. Mit dieser Vorrichtung können Volumen und_
 _Gewicht des Abfallmaterials deutlich reduziert werden; zudem ist es möglich,_
 _letzteres nicht mehr als Abfall, sondern als einfaches Prozessnebenprodukt zu_
-_entsorgen.Außerdemliefert eine der analysierten Anlagen die Asche aus dem_
+_entsorgen. Außerdemliefert eine der analysierten Anlagen die Asche aus dem_
 _Reformer an ein nahegelegenes Zementwerk und schafft es so, beinahe alle_
 _Entsorgungskosten wettzumachen. Die von einem anderen Reaktortyp er-_
 _zeugte Kohle wird hingegen als Bodenverbesserungsmittel für die Landwirt-_
-_schaft nach Österreich verkauft; die Kosten werdenauf diese Weise in Einnah-_
+_schaft nach Österreich verkauft; die Kosten werden auf diese Weise in Einnah-_
 _men von circa 200 € pro Tonne verwandelt._
 _Die Gesamtmenge der von den Vergasungsanlagen in Südtirol erzeugte Kohle_
 _und die entsprechenden Gesamtkosten für die Entsorgung wurden unter Aus-_
@@ -541,6 +562,7 @@ _und die entsprechenden Gesamtkosten für die Entsorgung wurden unter Aus-_
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 _weitung der durch die Fragebögen erhobenen Daten auf alle betriebenen An-_
 _lagen geschätzt. So wurde berechnet, dass jährlich über 1.200 Tonnen Kohle_
 _erzeugt werden; dem stehen jedes Jahr Entsorgungskosten in Höhe von ins-_
@@ -561,12 +583,12 @@ _Brennstoff (Biomasse) bestehende Festbett fließt im Gleichstrom das Verga-_
 _sungsmittel (normalerweise Luft) nach unten. Zwei Technologien wenden_
 _hingegen eine Konfiguration mit zweistufigem Wirbelbettvergaser an, bei_
 _dem die Pyrolyse und die Vergasung der Biomasse getrennt erfolgen._
-_Bei zwei anderen Technologien kommt eine Konfiguration des Typsrising co-_
+_Bei zwei anderen Technologien kommt eine Konfiguration des Typs rising co-_
 _current zum Einsatz; sie ähnelt der Downdraft-Konfiguration in Bezug auf die_
 _Verteilung der verschiedenen Zonen des Vergasungsprozesses, aber die Bio-_
 _masse wird im unteren Teil des Reaktors eingespeist und das Gas von oben_
 _extrahiert. Außerdem wird die Luft in den Verbrennungsbereich eingeleitet,_
-_sodass sieeinen Wirbel bildet, der an die Flüssigbett-Reaktoren erinnert._
+_sodass sie einen Wirbel bildet, der an die Flüssigbett-Reaktoren erinnert._
 _In Tabelle 2 sind die Reaktortypen der verschiedenen für die Untersuchungen_
 _ausgewählten Technologien aufgeführt. Neben der Art verwendeter Biomasse_
 _werden auch die elektrische und die thermische Leistung jedes installierten_
@@ -579,13 +601,14 @@ _ben sind._
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-Tabelle[^2]: – Art der in Südtirol installierten Vergasungsanlagen
+Tabelle [^2]: – Art der in Südtirol installierten Vergasungsanlagen
 
 ```
 Technologie Reaktortyp Biomasse
 Elektrische
 Leistung
 ```
+
 ```
 Thermische
 Leistung
@@ -594,30 +617,37 @@ Burkhardt Rising co-current,
 stationary
 fluidized bed
 ```
+
 ```
 Pellets 180 270
 ```
+
 ```
 Entrade
 Energiesysteme
 ```
+
 ```
 Downdraft,
 fixed bed
 (Festbett)
 ```
+
 ```
 Pellets 25 60
 ```
+
 ```
 Holzenergie
 Wegscheid
 ```
+
 ```
 Downdraft,
 fixed bed
 (Festbett)
 ```
+
 ```
 Hack-
 schnitzel
@@ -625,11 +655,13 @@ schnitzel
 Kuntschar
 Energieerzeugung
 ```
+
 ```
 Downdraft,
 fixed bed
 (Festbett)
 ```
+
 ```
 Hack-
 schnitzel
@@ -638,15 +670,18 @@ Spanner Re[^2] Downdraft,
 fixed bed
 (Festbett)
 ```
+
 ```
 Hack-
 schnitzel
 ```
+
 ```
 9
 30
 45
 ```
+
 ```
 22
 80
@@ -654,10 +689,12 @@ schnitzel
 Stadtwerke
 Rosenheim
 ```
+
 ```
 Double stage,
 fluidized bed
 ```
+
 ```
 Hack-
 schnitzel
@@ -665,10 +702,12 @@ schnitzel
 Syncraft
 Engineering
 ```
+
 ```
 Double stage,
 floating fixed bed
 ```
+
 ```
 Hack-
 schnitzel
@@ -676,11 +715,13 @@ schnitzel
 Urbas
 Maschinenfabrik
 ```
+
 ```
 Downdraft,
 fixed bed
 (Festbett)
 ```
+
 ```
 Hack-
 schnitzel
@@ -689,14 +730,17 @@ Wubi Downdraft,
 fixed bed
 (Festbett)
 ```
+
 ```
 Hack-
 schnitzel
 ```
+
 ```
 100
 199
 ```
+
 ```
 200
 300
@@ -704,17 +748,20 @@ Xylogas & EAF Downdraft,
 fixed bed
 (Festbett)
 ```
+
 ```
 Hack-
 schnitzel
 220 440
 ```
+
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 3.4 Massen- und Energiebilanzen
 _Abbildung 2 zeigt die zusammengefassten Ergebnisse der Massenbilanzen,_
-_die mit den beim Monitoring der Anlagen erhobenen Daten erstelltwurden,_
+_die mit den beim Monitoring der Anlagen erhobenen Daten erstellt wurden,_
 _in Form eines Box-Plot-Diagramms. Mit dieser Darstellung kann die Vertei-_
 _lung der Daten in Bezug auf alle Technologien dargestellt werden, unter Her-_
 _vorhebung der Wertintervalle, in denen die größte Zahl der Daten kon-_
@@ -730,44 +777,50 @@ _Biomasse entspricht. Die Menge der erzeugten Kohle weist eine höhere Vari-_
 _abilität von Anlage zu Anlage auf, aber im Durchschnitt wird circa 2 % der_
 _Biomasse am Ausgang des Reaktors als fester Rückstand gewonnen._
 
-Abb. 2– Ergebnisse der Massenbilanzen, die mit denbeim Monitoring der in Südtirol installierten
-Anlagen erhobenenDaten erstellt wurden: verwendete Luftmenge, erzeugte Menge an Producer-
+Abb. 2 – Ergebnisse der Massenbilanzen, die mit den beim Monitoring der in Südtirol installierten
+Anlagen erhobenen Daten erstellt wurden: verwendete Luftmenge, erzeugte Menge an Producer-
 Gas und Kohle.
 
 _Was die Energiebilanzen anbelangt, fasst Abbildung 3 die Ergebnisse der_
-_Berechnungen der elektrischen Effizienz_𝜂𝜂𝑒𝑒𝑒𝑒_, thermischen Effizienz_𝜂𝜂𝑡𝑡ℎ _und_
+_Berechnungen der elektrischen Effizienz_ 𝜂𝜂𝑒𝑒𝑒𝑒_, thermischen Effizienz_ 𝜂𝜂𝑡𝑡ℎ _und_
 
 ```
 0,0
 ```
+
 ```
 1,0
 ```
+
 ```
 2,0
 ```
+
 ```
 3,0
 ```
+
 ```
 4,0
 ```
+
 ```
 Air [kg/kg_biom]Producer gas [kg/kg_biom] Char [%]
 ```
+
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-_Gesamteffizienz_𝜂𝜂𝑡𝑡𝑏𝑏𝑡𝑡 _der überwachten Anlagen zusammen. Generell liegt die_
+_Gesamteffizienz_ 𝜂𝜂𝑡𝑡𝑏𝑏𝑡𝑡 _der überwachten Anlagen zusammen. Generell liegt die_
 _elektrische Effizienz der Anlagen zwischen 17 % und 26 %, die thermische_
 _Effizienz zwischen 36 % und 59 % und die Gesamteffizienz zwischen 68 %_
 _und 78 %, unter Ausnahme einer einzigen Anlage, deren Gesamteffizienz 53_
 _% beträgt._
 
-Abb. 3– Ergebnisse der Energiebilanzen, die mit dem beim Monitoring der in Südtirol installierten
+Abb. 3 – Ergebnisse der Energiebilanzen, die mit dem beim Monitoring der in Südtirol installierten
 Anlagen erhobenen Daten erstellt wurden: elektrische, thermische und Gesamteffizienz.
 
 3.5 Charakterisierung der Kohle
-_Inden folgenden Tabellen werden die chemisch-physikalischen Analysen der_
+_In den folgenden Tabellen werden die chemisch-physikalischen Analysen der_
 _beim Monitoring der kommerziellen Anlagen entnommenen Kohle aufge-_
 _führt._
 _Wie aus Tabelle 3 hervorgeht, variiert der Kohlenstoffgehalt in der Kohle zwi-_
@@ -778,33 +831,41 @@ _Gesamtertrag des Prozesses beeinflussen. Die Technologie F insbesondere im-_
 _plementiert einen zweistufigen Reaktor, die Technologie F hingegen einen_
 _Downdraft-Reaktor. Es ist auch interessant hervorzuheben, dass die Techno-_
 _logie C eine Kohle mit einer viel geringeren spezifischen Oberfläche (nur 78_
-_m_[^2]_/g)als die anderen erzeugt._
+_m_[^2]_/g) als die anderen erzeugt._
 
 ```
 0,0
 ```
+
 ```
 0,2
 ```
+
 ```
 0,4
 ```
+
 ```
 0,6
 ```
+
 ```
 0,8
 ```
+
 ```
 1,0
 ```
+
 ```
 η_el η_th η_tot
 ```
+
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
-Tabelle[^3]: – Proximal- und Elementaranalyse, oberer Heizwert (HHV) und unterer Heizwert (LHV)
+
+Tabelle [^3]: – Proximal- und Elementaranalyse, oberer Heizwert (HHV) und unterer Heizwert (LHV)
 sowie spezifische Oberfläche der von den kommerziellen Anlagen erzeugten Kohle
 _Technologie A B C D E F G H_
 _Asche [%] 27,84 16,08 49,52 31,50 13,34 6,49 29,17 25,64_
@@ -839,7 +900,7 @@ _sofern er nicht sogar unterhalb der Messschwelle des Geräts liegt (<0,1 ng/kg)
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-Tabelle[^4]: – Analyse des Mineral- und Schwermetallgehalts der in den kommerziellen Anlagen
+Tabelle [^4]: – Analyse des Mineral- und Schwermetallgehalts der in den kommerziellen Anlagen
 erzeugten Kohle
 
 ```
@@ -871,15 +932,18 @@ Ba [mg/kg] 26,4 42,4 15,5 57,2 41,1 69,8 29,4 34,5
 Tl [mg/kg] 0,3 0,8 0,0 0,2 0,2 0,1 0,2 0,0
 Pb [mg/kg] 0,4 1,6 0,2 0,4 0,4 0,7 0,4 0,3
 ```
+
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
-Tabelle[^5]: – Analyse des Dioxingehalts der von den kommerziellen Anlagen erzeugten Kohle
+
+Tabelle [^5]: – Analyse des Dioxingehalts der von den kommerziellen Anlagen erzeugten Kohle
 _Technologie A B C D E F G H_
 
 ```
 Dioxine
 ```
+
 ```
 2378 TCDD [ng/kg] <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1
 12378 PCDD [ng/kg] <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1
@@ -899,6 +963,7 @@ OCDD [ng/kg] 2,7 1,5 1,2 0,6 2,1 2,2 0,7 2,2
 1234789 HpCDF [ng/kg] <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1
 OCDF [ng/kg] <0,1 0,6 <0,1 0,4 2,4 0,6 <0,1 <0,1
 ```
+
 _Auch der Gehalt an Polychlorbiphenyl (PCB) erweist sich bei der untersuch-_
 _ten Kohle meist als begrenzt, wie aus den Daten in Tabelle 6 hervorgeht. So-_
 _wohl was Dioxine als auch PCB anbelangt, kann man daher annehmen, dass_
@@ -907,7 +972,7 @@ _der verwendeten Biomasse, dazu beitragen, die Bildung dieser Verbindungen_
 _zu beschränken._
 _In Tabelle 7 sind die Konzentrationen der polyzyklischen aromatischen Koh-_
 _lenwasserstoffe (PAK) aufgeführt. Wie man sehen kann, ist die Bedeutung_
-_dieserVerbindungen nicht unerheblich und bei der Kohle einiger Anlagen_
+_dieser Verbindungen nicht unerheblich und bei der Kohle einiger Anlagen_
 _sogar entschieden relevant. Aufgrund des Vorhandenseins dieser toxischen_
 _Verbindungen in der Kohle kann diese nicht direkt in der Landwirtschaft ver-_
 _wendet werden. Technologische Verbesserungen zur Beschränkung der Bil-_
@@ -917,15 +982,16 @@ Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
 _entscheidend für die Möglichkeit, die Kohle als Bodenverbesserungsmittel_
 _einzusetzen. Der folgende Abschnitt verdeutlicht die Differenz zwischen dem_
-_PAK-Gehaltder untersuchten Kohle und den Grenzwerten der einschlägigen_
+_PAK-Gehalt der untersuchten Kohle und den Grenzwerten der einschlägigen_
 _Düngemittelvorschriften (Legislativdekret 75/2010)._
 
-Tabelle[^6]: – Analyse des PAK-Gehalts der von den kommerziellen Anlagen erzeugten Kohle
+Tabelle [^6]: – Analyse des PAK-Gehalts der von den kommerziellen Anlagen erzeugten Kohle
 _Technologie A B C D E F G H_
 
 ```
 PCB
 ```
+
 ```
 Iupac77 [ng/kg] 10 <1 4 9 7 6 5 8
 Iupac81 [ng/kg] <1 <1 <1 <1 <1 <1 <1 <1
@@ -940,16 +1006,17 @@ Iupac157 [ng/kg] 15 11 12 15 10 13 17 13
 Iupac169 [ng/kg] <1 <1 1 2 <1 <1 <1 <1
 Iupac189 [ng/kg] 19 1 13 18 14 15 11 18
 ```
+
 3.6 Konformität der von den kommerziellen Anlagen erzeug-
 ten Kohle mit den einschlägigen Düngemittelvorschriften
 _Die einschlägigen italienischen Düngemittelvorschriften beruhen auf der Ver-_
 _ordnung (EG) 2003/2003 und dem Legislativdekret 75/2010 in aktueller Fas-_
-_sung.Indiesem Dekret werden auchGrenzwerte für die Kohlenutzung in der_
+_sung. Indiesem Dekret werden auch Grenzwerte für die Kohlenutzung in der_
 _Landwirtschaft gesetzt. Vor allem oben genanntes Dekret definiert „Biochar“_
-_als ein Material, das erzeugt wird durch„einen Prozess der Karbonisierung_
+_als ein Material, das erzeugt wird durch „einen Prozess der Karbonisierung_
 _von Produkten und Rückständen pflanzlichen Ursprungs aus der Land- und_
 _Forstwirtschaft sowie aus Oliventrester, Traubentrester, Kleie, Obstkernen_
-_und-schalen und unbehandelten Holzabfällen, insofern es sich um Nebenpro-_
+_und -schalen und unbehandelten Holzabfällen, insofern es sich um Nebenpro-_
 _dukte der entsprechenden Tätigkeiten handelt. Der Karbonisierungsprozess_
 _besteht im Verlust von Wasserstoff, Sauerstoff und Stickstoff seitens des orga-_
 _nischen Materials infolge der Anwendung von Wärme unter Abwesenheit_
@@ -957,6 +1024,7 @@ _nischen Materials infolge der Anwendung von Wärme unter Abwesenheit_
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 ```
 oder reduzierter Verfügbarkeit des Oxidierungsmittels, normalerweise Sauer-
 stoff. Dieser thermochemische Zersetzungsprozess wird als Pyrolyse oder
@@ -964,14 +1032,17 @@ Krackverfahren bezeichnet. Die Vergasung sieht einen weiteren oxidoreduk-
 tiven Prozess der durch Pyrolyse erzeugten Kohle vor.“Die so erzeugte Kohle
 muss den in Tabelle 8 aufgeführten Normgrenzwerten entsprechen.
 ```
+
 ```
-Tabelle7 – Analyse des PAK-Gehalts der von kommerziellen Anlagen erzeugten Kohle
+Tabelle 7 – Analyse des PAK-Gehalts der von kommerziellen Anlagen erzeugten Kohle
 ```
+
 _Technologie A B C D E F G H_
 
 ```
 IPA
 ```
+
 ```
 Naphthalin [μg/kg] 2128649 1912973 2386 200368 859491 110338 26861 563819
 Acenaphthylen [μg/kg] 514300 171045 138 19495 62838 140 7 62703
@@ -997,9 +1068,10 @@ DBaeP [μg/kg] 492 12 8 2 2 4 28 211
 DBaiP [μg/kg] 70 11 13 2 6 6 20 20
 DBahP [μg/kg] 151 87 27 3 9 19 51 29
 ```
+
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-Tabelle[^8]: – Änderungender Anlage 2 des Legislativdekrets 75/2010
+Tabelle [^8]: – Änderungen der Anlage 2 des Legislativdekrets 75/2010
 
 ```
 Mindestgehalt in
@@ -1009,6 +1081,7 @@ Evaluierungskriterien
 Sonstige
 Anforderungen
 ```
+
 ```
 Nützliche
 Substanzen oder
@@ -1021,6 +1094,7 @@ Eigenschaften
 Sonstige
 Anforderungen
 ```
+
 ```
 Grenzwerte
 für
@@ -1028,9 +1102,11 @@ chemisch-
 biologische
 Parameter
 ```
+
 ```
 Anmerkungen
 ```
+
 ```
 Gesamter organischer
 Kohlenstoff (TOC)(#) % TS
@@ -1047,6 +1123,7 @@ Asche % TS
 < 10 (CI(*)1)
 H/C (molar)(^) ≤ 0,7
 ```
+
 ```
 Granulometrie
 (Durchgang 0,5–2–5
@@ -1067,6 +1144,7 @@ Keim-/Zunahmetest)
 Maximale
 Wasserretention
 ```
+
 ```
 PAK (Σ 16
 Moleküle) <
@@ -1076,6 +1154,7 @@ mg/kg TS
 Dioxine < 9
 ng/kg
 ```
+
 ```
 (#) abzüglich C aus
 Karbonat
@@ -1089,6 +1168,7 @@ Stabilitätsindex
 (°) Daten, die in jedem Fall
 anzugeben sind
 ```
+
 _Tabelle 9 enthält die Ergebnisse der chemisch-physikalischen Analysen so-_
 _wohl von Kohle, die in kommerziellen Anlagen erzeugt wurde, als auch von_
 _Kohle, die unter kontrollierten Bedingungen gewonnen wurde. Die in der Ta-_
@@ -1102,80 +1182,100 @@ _faches._
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
-Tabelle[^9]:–Vergleich der chemisch-physikalischen Eigenschaften mit den italienischen Normgrenz-
+
+Tabelle [^9]:–Vergleich der chemisch-physikalischen Eigenschaften mit den italienischen Normgrenz-
 werten (von den Grenzwerten abweichende Parameter sind rot gekennzeichnet).
 
 ```
 TEQ
 ```
+
 ```
 DX
 [mg/kg]
 ```
+
 ```
 9 <0,1<0,1<0,1<0,1 <0,1<0,1<0,1 <0,1 <0,1<0,1 7,0
 ```
+
 ```
 TEQ
 ```
+
 ```
 PCB
 [ng/kg]
 ```
+
 ```
 0,5 <1 <1 <1 <1 <1 <1 <1 <1
 ```
+
 ```
 ∑
 PAK
 [mg
 ```
+
 ```
 /kg] 6
 5179,9132,02,8 316,21225,2123,831,7 916,260,2124,3132,6193,3414,834,2409,427,0
 ```
+
 ```
 Pb
 [mg/kg]
 ```
+
 ```
 140 0,4 0,9 0,2 0,4 0,4 0,7 0,4 0,3
 ```
+
 ```
 Cd
 [mg/kg
 ```
+
 ```
 ]
 1,5 1,5 2,4 0,1 1,7 1,8 0,5 0,4 0,1 6,1 0,3 0,0 0,1 0,4 0,1 0,5 0,0
 ```
+
 ```
 Zn
 [mg/kg
 ```
+
 ```
 ]
 ```
+
 ```
 500 478,1246,81316,9182,6263,184,0397,4346,6586,2418,929,095,2 205,214,8288,948,5
 ```
+
 ```
 Cu
 [mg/kg
 ```
+
 ```
 ]
 230 34,484,673,326,5 24,88,0 46,9 34,6 51,436,39,4 21,9 42,611,741,2 8,0
 ```
+
 ```
 Ni
 [mg/kg]
 100 6,6 248,716,55,3 274,24,2 40,6 61,9 8,0 16,02,6 6,4 35,24,0 45,2 2,4
 ```
+
 ```
 Cr (tot)[mg/kg]
 -- 6,6 127,814,33,9 383,32,7 16,7 28,7 5,3 25,83,8 4,0 10,06,2 46,7 1,7
 ```
+
 _Feuchtig_
 
 -
@@ -1183,28 +1283,35 @@ _Feuchtig_
 ```
 keit [%] > 20 1,0 81,7 2,6 1,6 0,2 2,0 3,0 3,7 6,6 1,4 1,7 3,0
 ```
+
 ```
 Asche [%] < 60 27,816,149,531,5 13,36,5 29,2 25,6 29,532,517,928,0 29,711,254,2 3,9
 ```
+
 ```
 H/C
 [mol/
 ```
+
 ```
 mol]
 < 0,70,0 0,1 0,2 0,0 0,1 0,0 0,0 0,0 0,1 0,0 0,1 0,0 0,0 0,0 0,1 0,2
 ```
+
 ```
 C [%] > 20 68,680,248,067,0 79,091,669,5 69,5 55,248,162,141,4 48,571,123,9 84,9
 ```
+
 ```
 Grenzw
 ```
+
 .
 
 ```
 A B C D E F G H I M R100R75 R50 O
 ```
+
 -R
 O
 -C
@@ -1234,7 +1341,7 @@ _einen und der anderen auf die Wirkungen der Metallkontamination der Kohle_
 _durchzuführen, und einen Ersatz derselben, oder Verbesserungen in der Pla-_
 _nungsphase neuer Vergasungssysteme zu evaluieren._
 
-Tabelle[^10]: – Metallkonzentrationen in der vorbehandelten Biomasse, mit der einige Vergaser
+Tabelle [^10]: – Metallkonzentrationen in der vorbehandelten Biomasse, mit der einige Vergaser
 gespeist werden
 _As Cd Cr Pb Ni Cu Se Zn_
 _[mg/kg] [mg/kg] [mg/kg] [mg/kg] [mg/kg] [mg/kg] [mg/kg] [mg/kg]_
@@ -1248,6 +1355,7 @@ _H 4,80 < 0,5 2,20 1,10 < 0,5 1,10 2,20 10,60_
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 3.7 Kommerzielles Biochar und andere europäische
 Zertifizierungsstandards
 _Sowohl die beim Monitoring der aktuell in Südtirol betriebenen Anlagen ent-_
@@ -1274,105 +1382,129 @@ _lich erläutert. In Tabelle 11 wurden die folgenden Akronyme zur Kennzeich-_
 _nung der aus verschiedenen Materialien (Mischantus-Pellets, Raps-Pellets,_
 _Reisschalen, Nadelholzpellets, Weizenstrohpellets, Klärschlamm) und bei_
 _zwei unterschiedlichen Temperaturen (d. h. 550 °C und 700 °C) gewonnenen_
-_Kohle verwendet. MSP– Miscantus Straw Pellets; OSR – Oil Seed Rape Straw_
-_Pellets; RH– Rice Husk; SWP– Soft Wood Pellets; WSP – Wheat Straw Pellets;_
-_SS– Sewage Sludge._
+_Kohle verwendet. MSP – Miscantus Straw Pellets; OSR – Oil Seed Rape Straw_
+_Pellets; RH – Rice Husk; SWP – Soft Wood Pellets; WSP – Wheat Straw Pellets;_
+_SS – Sewage Sludge._
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-Tabelle[^11]: – Vergleich der Biochar-Parameter mit den italienischen Normgrenzwerten
+Tabelle [^11]: – Vergleich der Biochar-Parameter mit den italienischen Normgrenzwerten
 
 ```
 TEQ
 ```
+
 ```
 DX
 [mg/kg]
 ```
+
 ```
 9 2,7 3,9 6,8 4,5 5,1 5,9 0,0 3,3 4,3 1,8 3,1 0,4
 ```
+
 ```
 TEQ
 ```
+
 ```
 PCB
 [ng/kg]
 ```
+
 ```
 0,5 0,0 0,0 0,0 0,0 0,0 0,0 0,2 0,2 0,0 0,0 0,1 0,1
 ```
+
 ```
 ∑
 PAK
 [mg/kg]
 6 0,5 0,1 0,5 < 0,110,2 0,3 4,4 0,2 0,4 < 0,113,8 1,4
 ```
+
 ```
 Pb
 [mg/kg]
 140 17,6 201,2195,9
 ```
+
 ```
 Cd
 [mg/kg]
 ```
+
 ```
 1,5 0,7 4,6 1,8 3,0 17,8 20,0 3,5 8,2 3,2 1,3 11,7 12,4
 ```
+
 ```
 Zn
 [mg/kg]
 500 63,4 44,5 7,2 8,8 23,6 36,2 25,7 99,6 10,5 12,0 835,7896,2
 ```
+
 ```
 Cu
 [mg/kg]
 230 26,6 5,9 7,9 13,8 5,4 26,9 19,4 9,7 3,6 4,7 255,2296,6
 ```
+
 ```
 Ni
 [mg/kg]
 ```
+
 ```
 100 5,0 30,4 2,5 3,3 3,0 2,7 3,3 74,1 1,0 2,5 57,2 66,3
 ```
+
 ```
 Cr (tot)[mg/kg]
 0,5 8,7 36,1 4,4 5,0 34,6 123,4 4,5 275,7292,7
 ```
+
 ```
 Feuchtig
 ```
+
 -
 
 ```
 keit [%] ≥ 20 1,8 2,2 2,6 3,6 1,5 1,5 1,5 1,0 1,9 2,2 2,5 1,7
 ```
+
 ```
 Asche [%] < 60 12,2 11,6 19,5 21,9 47,9 47,9 1,3 1,9 21,3 23,8 58,9 63,9
 ```
+
 ```
 H/C
 [mol/mol]
 ```
+
 ```
 < 0,70,4 0,2 0,3 0,2 0,3 0,2 0,4 0,2 0,4 0,2 0,5 0,3
 ```
+
 ```
 C [%] > 20 75,4 79,2 68,9 67,7 48,7 47,3 85,5 90,2 68,3 69,0 29,5 29,6
 ```
+
 ```
 Grenzw
 ```
+
 .
 
 ```
 MSP550MSP700OSR550OSR700RH550RH700SWP550SWP700WSP550WSP700SS550SS700
 ```
+
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 _In den untenstehenden Tabellen 12–14 werden die qualitativen Eigenschaften_
 _der in Südtiroler Anlagen erzeugten Kohle den Grenzwerten der wichtigsten_
 _internationalen Standards gegenübergestellt: IBI, EBC und BQM._
@@ -1390,29 +1522,33 @@ _Außerdem ist es interessant, die Variabilität der zum Teil recht hohen Grenz-
 _werte unterschiedlicher Standards zu betrachten (z. B. im Falle des IBI-Stan-_
 _dards). So erfüllt beim Vergleich der untersuchten Kohlewerte mit dem IBI-_
 _Standard nur ein einziger Parameter – jener der polyzyklischen aromatischen_
-_Kohlenwasserstoffe– nicht die Grenzwertvorgaben. Alle anderen Werte, auch_
+_Kohlenwasserstoffe – nicht die Grenzwertvorgaben. Alle anderen Werte, auch_
 _die des Schwermetallgehalts, liegen innerhalb der Grenzwerte des Standards._
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-Tabelle[^12]:– Vergleich der Parameter der von den Vergasungsanlagen erzeugten Kohle mit den
+Tabelle [^12]: – Vergleich der Parameter der von den Vergasungsanlagen erzeugten Kohle mit den
 Grenzwerten des IBI-Standards (die blauen Werte überschreiten die Grenzwerte)
 
 ```
 TEQ
 ```
+
 ```
 DX
 [mg/kg]
 9 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 7,0
 ```
+
 ```
 TEQ
 ```
+
 ```
 PCB
 [ng/kg]0,2
 ```
+
 -0,5
 <1 <1 <1 <1 <1 <1 <1 <1
 
@@ -1423,17 +1559,21 @@ PAK
 6-[^20]
 5179,9132,02,8 316,21225,2123,831,7 916,260,2 124,3132,6193,3414,834,2 409,427,0
 ```
+
 ```
 Pb
 [mg/kg]70-
 ```
+
 ```
 500 0,4 0,9 0,2 0,4 0,4 0,7 0,4 0,3
 ```
+
 ```
 Cd
 [mg/kg]1,4
 ```
+
 -[^39]
 1,5 2,4 0,1 1,7 1,8 0,5 0,4 0,1 6,1 0,3 0,0 0,1 0,4 0,1 0,5 0,0
 
@@ -1441,47 +1581,58 @@ Cd
 Zn
 [mg/kg]200
 ```
+
 -[^7000]
 478,1246,81316,9182,6263,184,0 397,4346,6586,2418,929,0 95,2 205,214,8 288,948,5
 
 ```
 Cu
 [mg/kg]63-
-150034,4 84,6 73,3 26,5 24,8 8,0 46,9 34,6 51,4 36,3 9,4 21,9 42,6 11,7 41,2 8,0
+1500 34,4 84,6 73,3 26,5 24,8 8,0 46,9 34,6 51,4 36,3 9,4 21,9 42,6 11,7 41,2 8,0
 ```
+
 ```
 Ni
 [mg/kg]47-
 600 6,6 248,716,5 5,3 274,24,2 40,6 61,9 8,0 16,0 2,6 6,4 35,2 4,0 45,2 2,4
 ```
+
 ```
 Cr (tot)[mg/kg]64-
-12006,6 127,814,3 3,9 383,32,7 16,7 28,7 5,3 25,8 3,8 4,0 10,0 6,2 46,7 1,7
+1200 6,6 127,814,3 3,9 383,32,7 16,7 28,7 5,3 25,8 3,8 4,0 10,0 6,2 46,7 1,7
 ```
+
 ```
 Feuchtig
 ```
+
 -
 
 ```
 keit[%] -- 1,0 81,7 2,6 1,6 0,2 2,0 3,0 3,7 6,6 1,4 1,7 3,0
 ```
+
 ```
 Asche[%] -- 27,8 16,1 49,5 31,5 13,3 6,5 29,2 25,6 29,5 32,5 17,9 28,0 29,7 11,2 54,2 3,9
 ```
+
 ```
 H/C
 [mol/mol]
 ```
+
 ```
 < 0,70,0 0,1 0,2 0,0 0,1 0,0 0,0 0,0 0,1 0,0 0,1 0,0 0,0 0,0 0,1 0,2
 ```
+
 ```
 C [%] ≥ 10 68,6 80,2 48,0 67,0 79,0 91,6 69,5 69,5 55,2 48,1 62,1 41,4 48,5 71,1 23,9 84,9
 ```
+
 ```
 IBI A B C D E F G H I M R100R75 R50 O
 ```
+
 -R
 O
 -C
@@ -1490,71 +1641,89 @@ Q
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
-Tabelle[^13]: – Vergleich der Parameter der von den Vergasungsanlagen erzeugten Kohle mit den
+
+Tabelle [^13]: – Vergleich der Parameter der von den Vergasungsanlagen erzeugten Kohle mit den
 Grenzwerten des EBC-Standards (die grünen Werte überschreiten die Grenzwerte)
 
 ```
 TEQ
 ```
+
 ```
 DX
 [mg/kg]
 ```
+
 ```
 20 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 7,0
 ```
+
 ```
 TEQ
 ```
+
 ```
 PCB
 [ng/kg]
 ```
+
 ```
 0,2 <1 <1 <1 <1 <1 <1 <1 <1
 ```
+
 ```
 Σ PAK[mg/kg]
 ```
+
 ```
 4
 5179,9132,02,8 316,21225,2123,831,7 916,260,2 124,3132,6193,3414,834,2 409,427,0
 ```
+
 ```
 Pb
 [mg/kg]
 ```
+
 ```
 120 0,4 0,9 0,2 0,4 0,4 0,7 0,4 0,3
 ```
+
 ```
 Cd
 [mg/kg]
 ```
+
 ```
 1 1,5 2,4 0,1 1,7 1,8 0,5 0,4 0,1 6,1 0,3 0,0 0,1 0,4 0,1 0,5 0,0
 ```
+
 ```
 Zn
 [mg/kg]
 400 478,1246,81316,9182,6263,184,0 397,4346,6586,2418,929,0 95,2 205,214,8 288,948,5
 ```
+
 ```
 Cu
 [mg/kg]
 ```
+
 ```
 100 34,4 84,6 73,3 26,5 24,8 8,0 46,9 34,6 51,4 36,3 9,4 21,9 42,6 11,7 41,2 8,0
 ```
+
 ```
 Ni
 [mg/kg]
 30 6,6 248,716,5 5,3 274,24,2 40,6 61,9 8,0 16,0 2,6 6,4 35,2 4,0 45,2 2,4
 ```
+
 ```
 Cr (tot)[mg/kg]
 80 6,6 127,814,3 3,9 383,32,7 16,7 28,7 5,3 25,8 3,8 4,0 10,0 6,2 46,7 1,7
 ```
+
 _Feuchtig_
 
 -
@@ -1562,22 +1731,28 @@ _Feuchtig_
 ```
 keit[%] -- 1,0 81,7 2,6 1,6 0,2 2,0 3,0 3,7 6,6 1,4 1,7 3,0
 ```
+
 ```
 Asche[%] -- 27,8 16,1 49,5 31,5 13,3 6,5 29,2 25,6 29,5 32,5 17,9 28,0 29,7 11,2 54,2 3,9
 ```
+
 ```
 H/C
 [mol/mol]
 ```
+
 ```
 < 0,70,0 0,1 0,2 0,0 0,1 0,0 0,0 0,0 0,1 0,0 0,1 0,0 0,0 0,0 0,1 0,2
 ```
+
 ```
 C [%] > 50 68,6 80,2 48,0 67,0 79,0 91,6 69,5 69,5 55,2 48,1 62,1 41,4 48,5 71,1 23,9 84,9
 ```
+
 ```
 EBC A B C D E F G H I M R100R75 R50 O
 ```
+
 -R
 O
 -C
@@ -1585,73 +1760,91 @@ Q
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-Tabelle[^14]: – Vergleich der Parameter der von den Vergasungsanlagen erzeugten Kohle mit den
+Tabelle [^14]: – Vergleich der Parameter der von den Vergasungsanlagen erzeugten Kohle mit den
 Grenzwerten des BQM-Standards (die orangefarbenen Werte überschreiten die Grenzwerte)
 
 ```
 TEQ
 ```
+
 ```
 DX
 ```
+
 ```
 [mg/kg]
 ```
+
 ```
 20 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 <0,1 7,0
 ```
+
 ```
 TEQ
 ```
+
 ```
 PCB
 [ng/kg]
 ```
+
 ```
 0,5 <1 <1 <1 <1 <1 <1 <1 <1
 ```
+
 ```
 Σ PAK[mg/kg]
 ```
+
 ```
 20
 5179,9132,02,8 316,21225,2123,831,7 916,260,2 124,3132,6193,3414,834,2 409,427,0
 ```
+
 ```
 Pb
 [mg/kg]
 ```
+
 ```
 60 0,4 0,9 0,2 0,4 0,4 0,7 0,4 0,3
 ```
+
 ```
 Cd
 [mg/kg]
 ```
+
 ```
 3 1,5 2,4 0,1 1,7 1,8 0,5 0,4 0,1 6,1 0,3 0,0 0,1 0,4 0,1 0,5 0,0
 ```
+
 ```
 Zn
 [mg/kg]
 150 478,1246,81316,9182,6263,184,0 397,4346,6586,2418,929,0 95,2 205,214,8 288,948,5
 ```
+
 ```
 Cu
 [mg/kg]
 ```
+
 ```
 40 34,4 84,6 73,3 26,5 24,8 8,0 46,9 34,6 51,4 36,3 9,4 21,9 42,6 11,7 41,2 8,0
 ```
+
 ```
 Ni
 [mg/kg]
 10 6,6 248,716,5 5,3 274,24,2 40,6 61,9 8,0 16,0 2,6 6,4 35,2 4,0 45,2 2,4
 ```
+
 ```
 Cr (tot)[mg/kg]
 15 6,6 127,814,3 3,9 383,32,7 16,7 28,7 5,3 25,8 3,8 4,0 10,0 6,2 46,7 1,7
 ```
+
 _Feuchtig_
 
 -
@@ -1659,22 +1852,28 @@ _Feuchtig_
 ```
 keit[%] 1,0 81,7 2,6 1,6 0,2 2,0 3,0 3,7 6,6 1,4 1,7 3,0
 ```
+
 ```
 Asche[%] 27,8 16,1 49,5 31,5 13,3 6,5 29,2 25,6 29,5 32,5 17,9 28,0 29,7 11,2 54,2 3,9
 ```
+
 ```
 H/C
 [mol/mol]
 ```
+
 ```
 0,0 0,1 0,2 0,0 0,1 0,0 0,0 0,0 0,1 0,0 0,1 0,0 0,0 0,0 0,1 0,2
 ```
+
 ```
 C [%] 68,6 80,2 48,0 67,0 79,0 91,6 69,5 69,5 55,2 48,1 62,1 41,4 48,5 71,1 23,9 84,9
 ```
+
 ```
 BQMA B C D E F G H I M R100R75 R50 O
 ```
+
 -R
 O
 -C
@@ -1683,6 +1882,7 @@ Q
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 #### 4. Technisch-wirtschaftliche Analyse möglicher Eingriffe
 
 #### zur Anlagenoptimierung in Hinblick auf Polygeneration
@@ -1701,7 +1901,7 @@ _den Leistungen der „optimierten Konfiguration“ zu vergleichen, also mit_
 _einer Anlage, die so verändert wurde, dass sie eine landwirtschaftlich_
 _nutzbare und qualitativ hochwertigere Kohle als die Anlage in der_
 _Originalkonfiguration erzeugt._
-_In Hinblick auf den Umfangder ermittelten Optimierung wurde das Tool mit_
+_In Hinblick auf den Umfang der ermittelten Optimierung wurde das Tool mit_
 _der Logik konzipiert, die Auswirkungen auf die Anlagenleistungen in Bezug_
 _auf die Veränderung in der Erzeugung elektrischer Energie, thermischer_
 _Energie und Kohle sowie die Veränderung in den mit der Aufwertung der_
@@ -1711,7 +1911,7 @@ _Nachdem der Nutzer die Anlagenparameter in der Originalkonfiguration und_
 _in der optimierten Konfiguration eingegeben hat, berechnet das Tool den_
 _Verlauf des Netto-Cashflows und des kumulierten Cashflows der Anlage im_
 _Laufe der Zeit. Auf diese Weise soll grafisch dargestellt werden, welche_
-_Wirkung der ermittelteUmfang der Optimierung im Laufe der Zeit auf die_
+_Wirkung der ermittelte Umfang der Optimierung im Laufe der Zeit auf die_
 _Gewinn- und Verlustrechnung der Anlage hat._
 
 4.2 Anwendungsbereich
@@ -1734,10 +1934,10 @@ dermechanismen wie das Net-Metering (scambio sul posto) und die Abnahme
 zu einem festgesetzten Preis durch den Netzbetreiber (ritiro dedicato) in Be-
 tracht zu ziehen. Die berücksichtigten Tarife werden automatisch unter An-
 gabe des Zeitraums der offiziellen Inbetriebnahme der Anlage ausgewählt;
-jährliche Kürzungenwerdenin Betracht gezogen, sofern von den Bestimmun-
+jährliche Kürzungen werden in Betracht gezogen, sofern von den Bestimmun-
 gen vorgesehen.
 
-4.3 Wirtschaftliche Analyse möglicherOptimierungseingriffe
+4.3 Wirtschaftliche Analyse möglicher Optimierungseingriffe
 _Die Schwierigkeit, einen Zusammenhang zwischen den technischen Betriebs-_
 _eigenschaften der Anlagen und der Qualität der erzeugten Kohle herzustellen,_
 _hat eine Ermittlung wissenschaftlich fundierter Lösungen und möglicher Ein-_
@@ -1753,44 +1953,46 @@ entstehenden möglichen Schäden und Funktionsstörungen der Anlage;
 - Besonderheit des Genehmigungsverfahrens, das eine Betriebseignungsbe-
 wertung (seitens des Amts für Luft und Lärm) auf Grundlage eines genau
 definierten Projekts vorsieht, an dem im Laufe der technischen Lebens-
-dauer keine„bedeutenden/wesentlichen“ Änderungen vorgenommen
+dauer keine „bedeutenden/wesentlichen“ Änderungen vorgenommen
 werden dürfen, da ansonsten die Genehmigung verfällt. Daraus hat sich
 automatisch die mangelnde Möglichkeit der Durchführung relevanter Op-
 
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 ```
 timierungseingriffe ergeben, wie z. B. den Reaktor durch einen neuen Ty-
 pus auszutauschen oder der Anlage neue Teile hinzuzufügen, z. B. durch
 Anwendung eines „Reformers“.
 ```
+
 - Mangelnde Bereitschaft der Anlagenbetreiber, „empirische“ Veränderun-
 gen, also Änderungen mit unsicherem Resultat, an der Anlage vorzuneh-
 men;
 - Mangelnde Bereitschaft der Partner, eine Laboreinrichtung mit marktähn-
 lichen Dimensionen zu suchen, in der Lösungen und Strategien zur Qua-
 litätsverbesserung der erzeugten Kohle frei erprobt werden können.
-Dies vorausgesetzt, wurde vereinbart, die wirtschaftlicheAnalyse einer mögli-
+Dies vorausgesetzt, wurde vereinbart, die wirtschaftliche Analyse einer mögli-
 chen Veränderung der Anlage, mit der die gewonnene Kohle von einem „Kos-
 tenpunkt“ (wegen ihrer schlechten Qualität und der daraus resultierenden Not-
 wendigkeit, als Abfall entsorgt zu werden) in eine „Ressource“ (also ein Pro-
 dukt, das auf dem Markt verkauft wird) verwandelt werden kann, mit einem
 „Rückwärtsansatz“ durchzuführen. Die wirtschaftliche Rückwärtsanalyse
 wurde wie folgt durchgeführt: nach Festsetzung von drei möglichen Verkaufs-
-preisen für die Kohle in Abhängigkeit ihreraktuellen Marktnotierung im Agr-
+preisen für die Kohle in Abhängigkeit ihrer aktuellen Marktnotierung im Agr-
 arbereich wurde der für Veränderungen an der Anlage verfügbare Höchstbe-
 trag (aus dem Kohleverkauf) berechnet, wobei als Abschreibungsdauer für die
 Investition die Restlebensdauer der Anlage zu Grunde gelegt wurde.
 
 4.4 Definition der Originalkonfiguration
-_Die wirtschaftliche Analyse der beiden Konfigurationen– Originalkonfigura-_
+_Die wirtschaftliche Analyse der beiden Konfigurationen – Originalkonfigura-_
 _tion (d. h. Marktkonfiguration) und optimierte Konfiguration (d. h. für den_
-_Erhalt qualitativ hochwertiger Kohle veränderte Konfiguration)–wurde nicht_
+_Erhalt qualitativ hochwertiger Kohle veränderte Konfiguration) –wurde nicht_
 _in Hinblick auf die Daten und Eigenschaften einer spezifischen Technologie_
 _oder Vergasungsanlage durchgeführt, sondern in Hinblick auf eine ideale An-_
 _lage, deren technische Daten und Leistungen den Durchschnittswerten der in_
-_Südtirol untersuchtenAnlagen entsprechen. Bei der Definition der einzelnen_
+_Südtirol untersuchten Anlagen entsprechen. Bei der Definition der einzelnen_
 _Anlagenparameter in der „Originalkonfiguration“ wurden die im Folgenden_
 _erläuterten Betrachtungen angestellt._
 
@@ -1804,6 +2006,7 @@ Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 Aus diesem Grund wurde entschieden, der Analyse eine hypothetische
 Anlage, die 2013 in Betrieb genommen wurde, zu Grunde zu legen.
 ```
+
 - Auch die Wahl der Leistung dieser Anlage wurde unter Berücksichtigung
 der Eigenschaften der aktuell betriebenen Anlagen getroffen. Genauer ge-
 sagt fiel die Wahl auf eine aus zwei Modulen mit einer elektrischen Nenn-
@@ -1818,7 +2021,7 @@ die des Projekts haben, durchgeführt.
 In Tabelle 15 sind die Werte der für die Charakterisierung der „Originalkon-
 figuration“ der Anlage gewählten Parameter aufgeführt.
 
-4.5 Definition der „optimiertenKonfiguration“
+4.5 Definition der „optimierten Konfiguration“
 _Die Analyse wurde unter Berücksichtigung eines Kohleverkaufspreises zwi-_
 _schen 0 €/t und 500 €/t durchgeführt. Im Folgenden werden die Parameter und_
 _die hypothetischen Betriebsmerkmale sowie die Gründe für deren Annahme_
@@ -1828,7 +2031,7 @@ _erläutert._
 werden soll, wurde unter Berücksichtigung der folgenden beiden Fakto-
 ren getroffen:
 - Die meisten in der Region angesiedelten Anlagen wurden zwischen
-2013 und 2015 genehmigt (27 von 44aktuell betriebenen Anlagen) und
+2013 und 2015 genehmigt (27 von 44 aktuell betriebenen Anlagen) und
 können daher die noch für weitere 13–15 Jahre vorgesehene Förderung
 in Anspruch nehmen;
 - vermutlich werden noch einige Jahre Forschung erforderlich sein, um
@@ -1841,15 +2044,17 @@ aus der Anlagenoptimierung entstandenen Vorteil genießt); somit wurde
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 ```
 angenommen, dass für weitere 11 Jahre eine Rendite aus der Investition
 für die Optimierung der Anlage erwächst (unter Veranschlagung einer der
 Förderdauer entsprechenden Nutzungsdauer der Anlage von 20 Jahren).
 ```
+
 - Es wurde außerdem angenommen, dass ebenso viel elektrische und ther-
-mische Energie und Kohle erzeugt wird wie in der Anlageder Original-
+mische Energie und Kohle erzeugt wird wie in der Anlage der Original-
 konfiguration.
-Tabelle15 – Parameter der „Originalkonfiguration“ einer idealen Anlage mit repräsentativen
+Tabelle 15 – Parameter der „Originalkonfiguration“ einer idealen Anlage mit repräsentativen
 Betriebsparametern
 
 _Element Wert Element Wert_
@@ -1861,11 +2066,13 @@ _Technologie_
 „Theoretische
 Anlage“
 ```
+
 ```
 Spezifische
 Anlagenkosten [€/kW] 6 500
 ```
-_Anz. der Module_ [^2]: _Personal[€/kWh] 0,03_
+
+_Anz. der Module_ [^2]: _Personal [€/kWh] 0,03_
 
 _Zeitraum der_
 _Inbetriebnahme_
@@ -1874,6 +2081,7 @@ _Inbetriebnahme_
 Von 01/2013
 bis 12/2013 Versicherung [€/a] 2 500
 ```
+
 _Elektrische Leistung des_
 _Moduls [kW]_[^45] _GSE-Verfahren [€/Jahr] 1 200_
 
@@ -1896,13 +2104,15 @@ _Spezifische_
 _Kohleerzeugung [kg/kWh] 0,02_
 
 ```
-Fürdie Trocknung
+Für die Trocknung
 verwendete
 Wärmeenergie [%]
 ```
+
 ```
 50
 ```
+
 _Eigenkapital [%]_ [^0]: _Aufgewertete thermische_
 _Energie [%]_[^30]
 
@@ -1913,14 +2123,14 @@ _Förderung [Jahre]_[^20]
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-- Auf Grundlage desMarktpreises der Kohle in der Agrarbranche wurden
+- Auf Grundlage des Marktpreises der Kohle in der Agrarbranche wurden
 vier verschiedene optimierte Anlagenkonfigurationen erstellt, die sich je-
 weils durch einen Verkaufszielpreis für die Kohle auf dem Markt kenn-
 zeichnen:
-- Optimierte Konfiguration 1–Preis für die Kohleaufwertung =0 €/t;
-- Optimierte Konfiguration 2–Preis für die Kohleaufwertung =100€/t;
-- Optimierte Konfiguration 3–Preis für die Kohleaufwertung =200€/t;
-- Optimierte Konfiguration 4–Preis für die Kohleaufwertung =500€/t.
+- Optimierte Konfiguration 1 – Preis für die Kohleaufwertung = 0 €/t;
+- Optimierte Konfiguration 2 – Preis für die Kohleaufwertung = 100 €/t;
+- Optimierte Konfiguration 3 – Preis für die Kohleaufwertung = 200 €/t;
+- Optimierte Konfiguration 4 – Preis für die Kohleaufwertung = 500 €/t.
 - In der optimierten Konfiguration 1 wurde angenommen, dass die Qualität
 der Kohle nicht ausreicht, um in der Landwirtschaft genutzt werden zu
 können, aber dass die Kohle von der Anlage kostenfrei entsorgt werden
@@ -1937,7 +2147,7 @@ lierten Kapital in der optimierten und in der Originalkonfiguration errechnet.
 
 4.6 Ergebnisse der wirtschaftlichen Analyse
 _In Tabelle 16 und den Abbildungen 4 und 5 sind für jede optimierte Konfigu-_
-_ration die Ergebnisse derwirtschaftlichen Simulation in Bezug auf das nach_
+_ration die Ergebnisse der wirtschaftlichen Simulation in Bezug auf das nach_
 _20 Betriebsjahren kumulierte und zur Umsetzung der Anlagenoptimierung_
 _(die, wie angenommen, im 10. Betriebsjahr durchgeführt werden soll) zur Ver-_
 _fügung stehende Kapital angegeben. Wenn man annimmt, dass die Änderung_
@@ -1951,14 +2161,15 @@ _arbeiten nicht genau definiert werden können, nur schwer abschätzen, ob_
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 _diese Summen angemessen oder ausreichend sind, um den Verkauf der Kohle_
 _zu den angenommenen Preisen zu ermöglichen. Der Wert dieser Beträge kann_
-_jedoch einen nützlichen Hinweisauf die wirtschaftlichen Voraussetzungen ei-_
+_jedoch einen nützlichen Hinweis auf die wirtschaftlichen Voraussetzungen ei-_
 _ner eventuellen für den Markt attraktiven technologischen Lösung liefern, die_
 _auch in der Zukunft ermittelt werden kann (von den Forschern oder den Akt-_
 _euren der Industrie)._
 
-Tabelle[^16]: – Simulation der Kapitalkumulation nach 20 Jahren, der Unterschiede zwischen kumu-
+Tabelle [^16]: – Simulation der Kapitalkumulation nach 20 Jahren, der Unterschiede zwischen kumu-
 liertem Kapital vor und nach dem Eingriff (Δ vor und nach der Optimierung) sowie des maximal
 verfügbaren Kapitals für die Anlagenoptimierung für jede optimierte Konfiguration.
 
@@ -1967,31 +2178,37 @@ Konfig. Entsor-
 gungs-
 kosten
 ```
+
 ```
 Verkaufs-
 preis
 ```
+
 ```
 Kumu-
 liertes
 Kapital
 (20 Jahre)
 ```
+
 ```
 Δ
 nach/vor
 der Op-
 tim.
 ```
+
 ```
 Max.
 verfüg-
 bares
 Kapital
 ```
+
 ```
 [€/t] [€/t] [€] [€] [€]
 ```
+
 ```
 Original 155 0 291 929 - 0
 Optimierung 1 0 0 314 947 2 093 23 018
@@ -1999,41 +2216,46 @@ Optimierung 2 0 100 329 797 3 443 37 868
 Optimierung 3 0 250 352 072 5 468 60 143
 Optimierung 4 0 500 389 197 8 843 97 268
 ```
+
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-Abb. 4– Kumuliertes Kapital nach 20Betriebsjahren in der Originalkonfiguration und in den vier
+Abb. 4 – Kumuliertes Kapital nach 20 Betriebsjahren in der Originalkonfiguration und in den vier
 optimierten Konfigurationen
 
-Abb. 5– Für den Optimierungseingriff verfügbares Kapital in den vier ermittelten Konfigurationen
+Abb. 5 – Für den Optimierungseingriff verfügbares Kapital in den vier ermittelten Konfigurationen
 
 ```
 Kumuliertes Kapital nach 20 Jahren (€)
 ```
+
 ```
-OriginalkonfigurationOptim.Konfig. 1Optim.Konfig. 2Optim.Konfig. 3Optim.Konfig. 4
+Originalkonfiguration Optim. Konfig. 1 Optim. Konfig. 2 Optim. Konfig. 3 Optim. Konfig. 4
 ```
+
 ```
 Für den Optimierungseingriff verfügbares Kapital (€)
-OriginalkonfigurationOptim.Konfig. 1Optim.Konfig. 2Optim.Konfig. 3Optim.Konfig. 4
+Originalkonfiguration Optim. Konfig. 1 Optim. Konfig. 2 Optim. Konfig. 3 Optim. Konfig. 4
 ```
+
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
-_Zum besseren Verständnis der Resultate und in Bezug auf jedeoptimierte_
+
+_Zum besseren Verständnis der Resultate und in Bezug auf jede optimierte_
 _Konfiguration sind in Abbildung 6 die jährlichen Einnahmen der Anlagen_
 _aufgeführt, die zurückzuführen sind auf:_
 
 - Förderung und Verkauf der erzeugten elektrischen Energie
 - Verkauf der Wärmeenergie
 - Einsparung der Entsorgungskosten und/oder Verkauf der Kohle (in der
-Grafik bezeichnet als „Einnahmenaus der optimierten Konfiguration“).
+Grafik bezeichnet als „Einnahmen aus der optimierten Konfiguration“).
 
 _Es wird deutlich, dass die mit der Anlagenoptimierung und dem Verkauf der_
 _qualitativ hochwertigeren Kohle verbundenen höheren Jahreseinnahmen_
 _einen relativ geringen Prozentsatz (zwischen 1 % und 5 %) der Gesamteinnah-_
 _men ausmachen, während der aus der Förderung der erzeugten elektrischen_
 _und thermischen Energie stammende Beitrag weiterhin überwiegt._
-_Für Verkaufspreise der Kohle in Höhe von 500 €/t, wiein der optimierten Kon-_
+_Für Verkaufspreise der Kohle in Höhe von 500 €/t, wie in der optimierten Kon-_
 _figuration Nr. 4 angenommen, oder noch höhere Preise, wie sie im Falle einer_
 _positiven Entwicklung des Kohlemarkts möglich sind (zum Beispiel wenn der_
 _Kohle wichtige Eigenschaften zur Verbesserung der Bodenqualität oder Fä-_
@@ -2045,76 +2267,93 @@ _gen vorgenommen wird._
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-Abb. 6– Prozentualer Anteil der einzelnen Posten an den jährlichen Einnahmen der Anlage in den
+Abb. 6 – Prozentualer Anteil der einzelnen Posten an den jährlichen Einnahmen der Anlage in den
 vier verschiedenen optimierten Konfigurationen
 
 ```
 Optimierte Konfiguration 1
 (Kohleverkaufspreis = 0 €/t)
 ```
+
 ```
 Optimierte Konfiguration 2
 (Kohleverkaufspreis = 100 €/t)
 ```
+
 ```
 Optimierte Konfiguration 3
 (Kohleverkaufspreis = 250 €/t)
 ```
+
 ```
 Optimierte Konfiguration 4
 (Kohleverkaufspreis = 500 €/t)
 ```
+
 ```
 Einnahmen aus elektr. Energie
 88%
 ```
+
 ```
 Einnahmen aus Wärmeenergie
 11%
 ```
+
 ```
 Einnahmen aus optim. Konfig. 1
 1%
 ```
+
 ```
 Einnahmen aus elektr. Energie
 87%
 ```
+
 ```
 Einnahmen aus Wärmeenergie
 11%
 ```
+
 ```
 Einnahmen aus optim. Konfig. 2
 2%
 ```
+
 ```
 Einnahmen aus elektr. Energie
 86%
 ```
+
 ```
 Einnahmen aus Wärmeenergie
 11%
 ```
+
 ```
 Einnahmen aus optim. Konfig. 3
 3%
 ```
+
 ```
 Einnahmen aus elektr. Energie
 84%
 ```
+
 ```
 Einnahmen aus Wärmeenergie
 11%
 ```
+
 ```
 Einnahmen aus optim. Konfig. 4
 5%
 ```
+
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
+
 #### 5. Schlussfolgerungen
 
 _Mit den in Südtiroler Vergasungsanlagen gesammelten Informationen über den_
@@ -2136,7 +2375,7 @@ _deln, die neben elektrischer und thermischer Energie auch Biochar erzeugen,_
 _das als Bodenverbesserungsmittel genutzt werden kann, müssen daher die_
 _Hauptprozessparameter (z. B. die Temperaturprofile im Reaktor) verändert_
 _oder Systeme zur Nachbehandlung der Kohle eingesetzt werden, um den_
-_PAK-Gehalt zu reduzieren. Darüber hinaus können Schwermetalleals weiterer_
+_PAK-Gehalt zu reduzieren. Darüber hinaus können Schwermetalle als weiterer_
 _kritischer Faktor in der Kohle vorhanden sein; sie können von mechanischen_
 _Teilen stammen, die zur Beförderung fester Materialien in der Anlage verwen-_
 _det werden, oder aus Vorbehandlungen der Holzbiomasse wie z. B. das Häck-_
@@ -2145,7 +2384,7 @@ _Es war nicht möglich, spezifische Lösungen oder Eingriffe zu ermitteln, die a
 _den Anlagen durchgeführt werden können, um qualitativ hochwertige Kohle_
 _zu erzeugen, und die Wirksamkeit eventueller empirischer Lösungen ließ sich_
 _nicht an den vorhandenen Anlagen erproben; daher konnte kein kompletter_
-_Satz technisch-wirtschaftlicher Daten für diein den Simulationen nutzbare, op-_
+_Satz technisch-wirtschaftlicher Daten für die in den Simulationen nutzbare, op-_
 _timierte Konfiguration definiert werden. Die Untersuchung der Auswirkungen_
 _auf die Wirtschaftlichkeit einer Anlage, die optimiert wurde, um eine landwirt-_
 
@@ -2153,7 +2392,7 @@ Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
 _schaftlich nutzbare Kohle zu erhalten, wurde daher unter Forcierung der An-_
 _wendung des Simulators anhand einer wirtschaftlichen „Rückwärtsanalyse“_
-_durchgeführt. Diese Analyse erfolgteim Hinblick auf eine „ideale Anlage“ mit_
+_durchgeführt. Diese Analyse erfolgte im Hinblick auf eine „ideale Anlage“ mit_
 _durchschnittlichen Betriebsparametern, die den im Laufe des Projekts an Anla-_
 _gen im Südtirol durchgeführten Untersuchungen entnommen wurden. Auf_
 _Grundlage der mit dem Verkauf der Kohle erzeugten Einnahmen und den ab_
@@ -2188,27 +2427,28 @@ _study on pure and chemically activated chars derived from commercial_
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
 ```
-_biomass gasifiers.Journal of CO2 Utilization,_ [^33]:_(April), 46–54._
+
+_biomass gasifiers. Journal of CO2 Utilization,_ [^33]:_(April), 46–54._
 _https://doi.org/10.1016/j.jcou.2019.05.008_
-_Benedetti, V., Patuzzi, F. & Baratieri, M. (2018).Characterization of char from_
+_Benedetti, V., Patuzzi, F. & Baratieri, M. (2018). Characterization of char from_
 _biomass gasification and its similarities with activated carbon in_
-_adsorption applications.Applied Energy,_ [^227]:_, 92–99. https://doi.org/_
+_adsorption applications. Applied Energy,_ [^227]:_, 92–99. https://doi.org/_
 _10.1016/j.apenergy.2017.08.076_
 _Cordioli, Patuzzi & Baratieri. (2019). Thermal and Catalytic Cracking of_
-_Toluene Using Char from Commercial Gasification Systems.Energies,_
+_Toluene Using Char from Commercial Gasification Systems. Energies,_
 [^12]:_(19), 3764. https://doi.org/10.3390/en12193764_
-_European Biochar Foundation (2020, 1. Juni).European Biochar Certificate._
+_European Biochar Foundation (2020, 1. Juni). European Biochar Certificate._
 _Galhetas, M., Lopes, H., Freire, M., Abelha, P., Pinto, F. & Gulyurtlu, I. (2012)._
 _Characterization, leachability and valorization through combustion of_
-_residual chars from gasification of coals with pine.Waste Management,_
-[^32]:_(4), 769–779.https://doi.org/10.1016/j.wasman.2011.08.021_
+_residual chars from gasification of coals with pine. Waste Management,_
+[^32]:_(4), 769–779. https://doi.org/10.1016/j.wasman.2011.08.021_
 _Hansen, V., Müller-Stöver, D., Ahrenfeldt, J., Holm, J. K., Henriksen, U. B. &_
-_Hauggaard-Nielsen, H. (2015).Gasification biochar as a valuable by-_
+_Hauggaard-Nielsen, H. (2015). Gasification biochar as a valuable by-_
 _product for carbon sequestration and soil amendment. Biomass and_
 _Bioenergy,_ [^72]:_(1), 300–308. https://doi.org/10.1016/j.biombioe.2014.10.013_
 _Klinghoffer, N. B., Castaldi, M. J. & Nzihou, A. (2012). Catalyst properties and_
 _catalytic performance of char from biomass gasification. Industrial and_
-_Engineering Chemistry Research,_[^51]:_(40), 13113–13122. https://doi.org/10.1021/_
+_Engineering Chemistry Research,_ [^51]:_(40), 13113–13122. https://doi.org/10.1021/_
 _ie3014082_
 _Marchelli, F., Cordioli, E., Patuzzi, F., Sisani, E., Barelli, L., Baratieri, M., ..._
 _Bosio, B. (2019). Experimental study on H_[^2]:_S adsorption on gasification char_
@@ -2217,7 +2457,7 @@ _106–116. https://doi.org/10.1016/j.biombioe.2019.05.003_
 _Patuzzi, F., Prando, D., Vakalis, S., Rizzo, A. M., Chiaramonti, D., Tirler, W., ..._
 _Baratieri, M. (2016). Small-scale biomass gasification CHP systems:_
 _Comparative performance assessment and monitoring experiences in South_
-_Tyrol (Italy).Energy,_ [^112]:_, 285–293. https://doi.org/10.1016/_
+_Tyrol (Italy). Energy,_ [^112]:_, 285–293. https://doi.org/10.1016/_
 _j.energy.2016.06.077_
 _Piazzi, S., Zhang, X., Patuzzi, F. & Baratieri, M. (2020). Techno-economic_
 _assessment of turning gasification-based waste char into energy: A case_
@@ -2227,8 +2467,8 @@ Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 _study in South-Tyrol. Waste Management,_ [^105]:_, 550–559. https://doi.org/_
 _10.1016/j.wasman.2020.02.038_
 _Runtti, H., Tuomikoski, S., Kangas, T., Lassi, U., Kuokkanen, T. & Rämö, J._
-_(2014).Chemically activated carbon residue from biomass gasification as a_
-_sorbent for iron(II), copper(II) and nickel(II) ions.Journal of Water Process_
+_(2014). Chemically activated carbon residue from biomass gasification as a_
+_sorbent for iron(II), copper(II) and nickel(II) ions. Journal of Water Process_
 _Engineering,_[^4]:_(C), 12–24. https://doi.org/10.1016/j.jwpe.2014.08.009_
 
 ## Extraktion aus Holzrückständen für
@@ -2237,15 +2477,15 @@ _Engineering,_[^4]:_(C), 12–24. https://doi.org/10.1016/j.jwpe.2014.08.009_
 
 ## Pharmabranche
 
-**Giovanna Ferrentino– Freie Universität Bozen**
-**Nabil Haman– Freie Universität Bozen**
-**Ksenia Morozova– Freie Universität Bozen**
-**Matteo Scampicchio– FreieUniversität Bozen**
+**Giovanna Ferrentino – Freie Universität Bozen**
+**Nabil Haman – Freie Universität Bozen**
+**Ksenia Morozova – Freie Universität Bozen**
+**Matteo Scampicchio – Freie Universität Bozen**
 
 Abstract
 _Evaluiert wurde die antimikrobielle Wirkung der durch zwei verschiedene Sohxlet-_
 _Extraktionstechnologien und überkritisches Kohlendioxid gewonnenen Extrakte von_
-_Picea abies auf das Wachstum vonEnterococcus faecalis undStreptococcus thermophilus._
+_Picea abies auf das Wachstum von Enterococcus faecalis und Streptococcus thermophilus._
 _Als Technik zur Evaluierung der antimikrobiellen Wirkung wurde die isotherme Kalo-_
 _rimetrie genutzt. Die Anpassung der Wärmeflusskurve des mikrobiellen Wachstums_
 _erfolgte mit veränderter Gompertz-Gleichung, um die Parameter der Zeitverzögerung_
@@ -2253,11 +2493,11 @@ _und der Geschwindigkeit des mikrobiellen Wachstums zu erhalten. Außerdem wurde
 _die für die antimikrobielle Wirkung verantwortlichen Phenolverbindungen durch_
 _Massenspektrometrie ermittelt. Die Ergebnisse haben gezeigt, dass beide Extrakte, un-_
 _abhängig von der verwendeten Technologie, eine ähnliche antimikrobielle Wirkung_
-_aufweisen. Von den beiden Stämmen hat jedochS. thermophilus eine höhere Resistenz_
-_gegen die antimikrobielle Wirkung des Extrakts alsE. faecalisgezeigt. Die für diese Wir-_
+_aufweisen. Von den beiden Stämmen hat jedoch S. thermophilus eine höhere Resistenz_
+_gegen die antimikrobielle Wirkung des Extrakts als E. faecalisgezeigt. Die für diese Wir-_
 _kung verantwortlichen wichtigsten Phenolverbindungen waren Catechin, Dihydro-_
 _quercetin, Astringin und Isorhapontin. Die Ergebnisse haben das Potenzial des Extrakts_
-_vonPicea abiesals natürliches Antimikrobikum aus nachhaltigen Quellen und Alterna-_
+_von Picea abies als natürliches Antimikrobikum aus nachhaltigen Quellen und Alterna-_
 _tive zu den aktuellen künstlichen Konservierungsmitteln verdeutlicht._
 
 Ferrentino, Haman, Morozova, Scampicchio
@@ -2266,7 +2506,7 @@ Ferrentino, Haman, Morozova, Scampicchio
 
 _Seit der Antike hat Holz immer eine zentrale Rolle im Leben der Menschen_
 _gespielt. Trotzdem seine Nutzung zu Zwecken wie z. B. der Wärmeerzeu-_
-_gung, dem Waffen- oder Fahrzeugbau im Laufe derJahre immer mehr abge-_
+_gung, dem Waffen- oder Fahrzeugbau im Laufe der Jahre immer mehr abge-_
 _nommen hat, bleibt Holz auch heute noch in vieler Hinsicht ein Material von_
 _grundlegender Bedeutung, sei es beim Bau von Häusern und Möbeln oder der_
 _Herstellung von Papier, Werkzeug, Kunstwerken und Musikinstrumenten._
@@ -2282,27 +2522,28 @@ _Grassmann et al., 2003). Die Rinde und Äste vieler Baumarten werden seit_
 _Jahrhunderten als Quelle für Aromen, Duftstoffe und Farbpigmente verwen-_
 _det. Rezente Studien weisen auf ein zunehmendes Interesse der wissenschaft-_
 _lichen Gemeinschaft an der Festlegung physisch-chemischer Eigenschaften_
-_der Extrakte aus Holzabfällen hin(Bianchi et al., 2014; Kusumoto et al., 2014;_
+_der Extrakte aus Holzabfällen hin (Bianchi et al., 2014; Kusumoto et al., 2014;_
 _Minova et al., 2015; Sahin et al., 2017. Zum Beispiel wurde beobachtet, dass_
 _Extrakte aus Kastanien- oder Kirschbaumholz antimikrobielle Eigenschaften_
 _besitzen und in der Lage sind, mögliche Kontaminationen im Wein zu kon-_
-_trollieren (Alañón et al., 2015). Die Baumextrakte aus demEndopleura uchiwie-_
+_trollieren (Alañón et al., 2015). Die Baumextrakte aus dem Endopleura uchiwie-_
 _sen eine hohe antimikrobielle und zytotoxische Wirkung auf (Politi et al.,_
-_2011);desgleichen haben sich Extrakte aus Eukalyptusholz als sehr wirksam_
+_2011); desgleichen haben sich Extrakte aus Eukalyptusholz als sehr wirksam_
 _bei der Hemmung des Wachstums von Bakterien und Hefe erwiesen (Cruz et_
 _al., 2011). Vor Kurzem wurde festgestellt, dass die durch hydrodynamische_
 _Kavitationstechnologie gewonnenen Extrakte aus den nadelartigen Blättern_
-_desAbies alba eine starke oxidationshemmende Wirkung haben (Becvárová_
+_des Abies alba eine starke oxidationshemmende Wirkung haben (Becvárová_
 _et al., 2018)._
 
 ```
 Extraktion aus Holzrückständen
 ```
+
 _Unter den verschiedenen Baumarten rufen die Holzabfälle der Rottanne (Picea_
-_abies) großesInteresse hervor. Es handelt sich um einein Europa weit verbrei-_
+_abies) großes Interesse hervor. Es handelt sich um eine in Europa weit verbrei-_
 _tete Art, die circa 38 % des Baumbestands in den europäischen Wäldern aus-_
 _macht (Becvárová et al., 2018). Auf die große Verbreitung dieses Baums ist_
-_auch seine starke industrielle Nutzung inverschiedenen Bereichen und somit_
+_auch seine starke industrielle Nutzung in verschiedenen Bereichen und somit_
 _die erhebliche Menge anfallender Nebenprodukte zurückzuführen. Aufgrund_
 _dieser Situation ergibt sich die Notwendigkeit, alternative Ansätze für die_
 _Aufwertung und Wiederverwendung zu finden. Vor Kurzem wurde nachge-_
@@ -2313,24 +2554,24 @@ _sante Oligomere erzeugt werden können, die als Bestandteile oder Hilfsstoffe_
 _in Produkten der nutrazeutischen und pharmazeutischen Industrie nutzbar_
 _sind. Eine andere Studie hat nachgewiesen, dass aus der Rottannenrinde ge-_
 _wonnenen Extrakte eine starke antimikrobielle Wirkung gegen bestimmte_
-_pathogene Mikroorganismen haben wie z. B.Staphylococcus aureus,Klebsiella_
-_pneumoniae undPseudomonas aeruginosa(Tanase et al., 2018). Auch wurde eine_
-_erhebliche hemmende Wirkung der ausPicea abiesgewonnenen Extrakte ge-_
-_gen die Mikrobenspezies desStreptococcus pneumoniae festgestellt (Vainio-_
+_pathogene Mikroorganismen haben wie z. B. Staphylococcus aureus, Klebsiella_
+_pneumoniae und Pseudomonas aeruginosa (Tanase et al., 2018). Auch wurde eine_
+_erhebliche hemmende Wirkung der aus Picea abies gewonnenen Extrakte ge-_
+_gen die Mikrobenspezies des Streptococcus pneumoniae festgestellt (Vainio-_
 _Kaila et al., 2015). Obwohl die antimikrobielle und oxidationshemmende Wir-_
 _kung der aus Holzabfällen gewonnenen Extrakte durch veröffentlichte Ergeb-_
 _nisse zahlreicher Studien bestätigt wird, ist jedoch immer noch nicht ganz_
 _klar, welche Wirkung die Extraktionstechnologie und das bei der Extraktion_
 _verwendete Lösungsmittel letztendlich auf die physikalischen und chemi-_
-_schen Eigenschaften der erzeugten Extrakte haben. Der ausThymus pectinatus_
-_gewonnene Extrakt, zumBeispiel, nutzt Methanol als Lösungsmittel und hat_
+_schen Eigenschaften der erzeugten Extrakte haben. Der aus Thymus pectinatus_
+_gewonnene Extrakt, zum Beispiel, nutzt Methanol als Lösungsmittel und hat_
 _keine antimikrobielle Wirkung gezeigt. Eine gewisse antimikrobielle Wirkung_
 _zeigte sich jedoch, als das entsprechende ätherische Öl durch Dampfdestilla-_
 _tion mit einem Clevenger-Apparat gewonnen wurde (Vardar-Ünlü et al.,_
 _2003). Diese Unterschiede könnten mit dem beim Extraktionsprozess verwen-_
 _deten Lösungsmittel zusammenhängen. Eine von Salem et al. (2016) durchge-_
 _führte Untersuchung wies hingegen eine starke antibakterielle und oxida-_
-_tionshemmende Wirkung des Methanolextrakts vonPicae Abiesnach (Salem_
+_tionshemmende Wirkung des Methanolextrakts von Picae Abies nach (Salem_
 _et al., 2016)._
 
 Ferrentino, Haman, Morozova, Scampicchio
@@ -2338,8 +2579,8 @@ Ferrentino, Haman, Morozova, Scampicchio
 _Die in diesem Bereich veröffentlichten Studien verdeutlichen außerdem, dass_
 _nicht nur das Lösungsmittel, sondern auch die Technologie einen erheblichen_
 _Einfluss auf die funktionellen Eigenschaften der Extrakte haben kann. Zum_
-_Beispiel wurde berichtet, dass die Extraktion aus Holzabfällen vonPhyllanthus_
-_emblicaL. mit Flüssigkeiten unter Druck, unter Nutzung von Methanol als_
+_Beispiel wurde berichtet, dass die Extraktion aus Holzabfällen von Phyllanthus_
+_emblica L. mit Flüssigkeiten unter Druck, unter Nutzung von Methanol als_
 _Lösungsmittel, ein Extrakt mit stärkerer oxidationshemmender Wirkung er-_
 _zeugt hat als die überkritische Flüssigkeitsextraktion oder die herkömmliche_
 _Extraktion mit Lösungsmittel (Liu et al., 2009). Andere Arbeiten berichten hin-_
@@ -2347,16 +2588,16 @@ _gegen, dass die überkritische Flüssigkeitsextraktion dank niedriger Tempera-_
 _turen während des Prozesses und Zusatz von Co-Lösungsmitteln wie Ethanol_
 _oder Methanol die Erzeugung ätherischer Öle mit starker antimikrobieller_
 _Wirkung ermöglicht hat. Extrakte aus Agarholz (Aquilaria crassna) zum Bei-_
-_spiel haben das Wachstum vonStaphylococcus aureus undCandida albicansge-_
+_spiel haben das Wachstum von Staphylococcus aureus und Candida albicans ge-_
 _hemmt (Wetwitayaklung et al., 2009). Darüber hinaus haben die mit überkri-_
 _tischer Flüssigkeitsextraktion gewonnenen Extrakte aus Zedernholz (Eller et_
-_al., 2000) und aus den Abfallprodukten vonPinus taeda(Pasquini et al., 2005)_
+_al., 2000) und aus den Abfallprodukten von Pinus taeda (Pasquini et al., 2005)_
 _und Eukalyptus eine bemerkenswerte oxidationshemmende Wirkung gezeigt_
 _(González-Vila et al., 2000)._
 _Auf Grundlage dieser in den verschiedenen wissenschaftlichen Arbeiten be-_
 _richteten Beobachtungen haben die Autoren ihre Untersuchungen in diesem_
-_Kapitelauf die Evaluierung der antimikrobiellen Wirkung von Extrakten aus_
-_Abfallprodukten der Verarbeitung vonPicea abies konzentriert. Zur Bewer-_
+_Kapitel auf die Evaluierung der antimikrobiellen Wirkung von Extrakten aus_
+_Abfallprodukten der Verarbeitung von Picea abies konzentriert. Zur Bewer-_
 _tung der Wirkung der Extraktionstechnologie auf die Eigenschaften des er-_
 _zeugten Extrakts wurden zwei verschiedene Techniken angewandt: eine_
 _Soxhlet-Extraktion mit Ethanol als Lösungsmittel und eine überkritische Flüs-_
@@ -2367,12 +2608,13 @@ _Allgemeinen ein Extrakt mit polaren Phenolverbindungen. Mit überkriti-_
 _schem Kohlendioxid gewonnene Extrakte hingegen liefern ätherische Öle mit_
 _einem höheren Gehalt an unpolaren Verbindungen (Cao et al., 2007; Caredda_
 _et al., 2002). Diese beiden Extraktionstechnologien wurden auf Holzabfälle_
-_vonPicea abies angewandt und die gewonnenen Extrakte an zwei grampositi-_
+_von Picea abies angewandt und die gewonnenen Extrakte an zwei grampositi-_
 
 ```
 Extraktion aus Holzrückständen
 ```
-_ven Mikroorganismen getestet, und zwarEnterococcus faecalis undStreptococ-_
+
+_ven Mikroorganismen getestet, und zwar Enterococcus faecalis und Streptococ-_
 _cus thermophilus. Für das Monitoring der antimikrobiellen Wirkung der Ex-_
 _trakte wurde die Technik der isothermen Kalorimetrie gewählt, eine innova-_
 _tive Methode, die ein kontinuierliches und zu der von den Mikroorganismen_
@@ -2388,22 +2630,22 @@ _zu ermitteln._
 2.1 Vorbereitung der Holzabfälle
 _Die Holzabfälle der Rottanne (Picea abies) wurden in Südtirol (Italien) gesam-_
 _melt. Bei ihrer Ankunft im Labor wurden die Stichproben gemahlen, um ein_
-_feines Pulver mit einer Körnung von 300-_[^800]:μ_m zu erhalten. Der abschlie-_
-_ßende Feuchtigkeitsgehalt des Pulvers betrug 7,8 ± 1,2,während die Wasser-_
+_feines Pulver mit einer Körnung von 300-_[^800]: μ_m zu erhalten. Der abschlie-_
+_ßende Feuchtigkeitsgehalt des Pulvers betrug 7,8 ± 1,2, während die Wasser-_
 _aktivität bei 0,4 ± 0,1 lag._
 
 2.2 Extraktion mit überkritischem Kohlendioxid
 _Eine Hochdruck-Pilotanlage (Super fluidi s.r.l., Padova, Italien) wurde zur Ex-_
-_traktion mit überkritischem Kohlendioxid aus Holzabfällen vonPicea abies_
+_traktion mit überkritischem Kohlendioxid aus Holzabfällen von Picea abies_
 _verwendet. Das System besteht aus einem Extraktor und zwei gravimetri-_
 _schen Separatoren. Im Extraktor befindet sich ein Edelstahlbehälter (800 ml_
 _Volumen), dessen Enden mit porösen Filtern aus Edelstahl verschlossen sind._
-_Eine Hochdruck-Membranpumpe (Lewa LDC- M- 9XXV1, Mailand, Italien)_
+_Eine Hochdruck-Membranpumpe (Lewa LDC - M - 9XXV1, Mailand, Italien)_
 _wurde verwendet, um das Kohlendioxid in den Extraktor zu pumpen. Für die_
-_Durchführung der Experimente wurden der Anlage 80 ± 1 GrammPicea-abies-_
+_Durchführung der Experimente wurden der Anlage 80 ± 1 Gramm Picea-abies-_
 _Pulver zugeführt. Die Extraktionsbedingungen wurden auf Grundlage eines_
 _experimentellen Plans bestimmt, in dem Druck (von 10 bis 30 MPa), Tempe-_
-_ratur (von 35 bis 50 °C) und Zeit (von 10bis180 Minuten) definiert wurden,_
+_ratur (von 35 bis 50 °C) und Zeit (von 10 bis 180 Minuten) definiert wurden,_
 
 Ferrentino, Haman, Morozova, Scampicchio
 
@@ -2417,38 +2659,39 @@ _Lösungsmittel und Stichprobe zu gewährleisten._
 2.3 Extraktion mit Soxhlet-Apparat
 _Die Extraktion mit Lösungsmittel wurde mit einem Soxhlet-Apparat unter_
 _Anwendung von Ethanol durchgeführt. Zu diesem Zweck ließ man circa 150_
-_ml Ethanol durch 10 GrammPicea-abies-Pulver laufen. Die Extraktion dauerte_
+_ml Ethanol durch 10 Gramm Picea-abies-Pulver laufen. Die Extraktion dauerte_
 _6 Stunden und wurde bei Siedetemperatur des Lösungsmittels durchgeführt._
 
 2.4 Ermittlung der antimikrobiellen Wirkung der Extrakte
 
 2.4.1 Mikrobenwachstum
-_Die aus den Holzabfällen vonPicea abies gewonnenen Extrakte wurden an_
-_zwei grampositiven Mikroorganismen getestet, und zwarEnterococcus faecalis_
-_(ATCC 29212) undStreptococcus thermophilus (ATCC 19258). Die Mikroben-_
-_stämme wurden bis zum Zeitpunkt des Experiments bei-80 °C in Kulturbrühe_
-_(Tryptone soy broth, TSB) und Glycerol (20:80 p/p)konserviert. Für die Expe-_
+_Die aus den Holzabfällen von Picea abies gewonnenen Extrakte wurden an_
+_zwei grampositiven Mikroorganismen getestet, und zwar Enterococcus faecalis_
+_(ATCC 29212) und Streptococcus thermophilus (ATCC 19258). Die Mikroben-_
+_stämme wurden bis zum Zeitpunkt des Experiments bei -80 °C in Kulturbrühe_
+_(Tryptone soy broth, TSB) und Glycerol (20:80 p/p) konserviert. Für die Expe-_
 _rimente wurden die Mikrobenkulturenbei 4 °C auf einem festen Nährmedium_
 _(Tryptone soy agar, TSA) konserviert und monatlich regeneriert._
 
 2.4.2 Durch isotherme Kalorimetrie ermittelte Hemmung des
 Mikrobenwachstums
-_Die antimikrobielle Wirkung der Extrakte ausPicea abies auf das Wachstum_
-_vonE. faecalis undS. thermophiluswurde durch isotherme Kalorimetrie (Ther-_
+_Die antimikrobielle Wirkung der Extrakte aus Picea abies auf das Wachstum_
+_von E. faecalis und S. thermophilus wurde durch isotherme Kalorimetrie (Ther-_
 _mal Activity Monitor, Model 421 TAM III, TA Instruments) ermittelt. Zur_
 _Durchführung des Experiments wurde eine Kolonie der beiden Mikroben-_
-_stämme in 10 ml Kulturbrühe (TSB) gegeben und dann fürE. faecalisbei 37 °C_
-_und fürS. thermophilus bei 40 °C ausgebrütet. Die Inkubationszeit wurdeauf_
+_stämme in 10 ml Kulturbrühe (TSB) gegeben und dann für E. faecalis bei 37 °C_
+_und für S. thermophilus bei 40 °C ausgebrütet. Die Inkubationszeit wurde auf_
 _18 Stunden festgesetzt, um Zellen in der stationären Phase des Wachstums zu_
-_erhalten. Mikrobensuspensionen mit einer Endkonzentration von 10_⁸_KBE/ml_
+_erhalten. Mikrobensuspensionen mit einer Endkonzentration von 10_⁸ _KBE/ml_
 _(kolonienbildende Einheiten pro ml) wurden in TSB verdünnt, um Lösungen_
 
 ```
 Extraktion aus Holzrückständen
 ```
-_mit einer Endkonzentration derMikroben von 10_⁵_KBE/ml zu erhalten. Auch_
+
+_mit einer Endkonzentration der Mikroben von 10_⁵ _KBE/ml zu erhalten. Auch_
 _die durch überkritische Flüssigkeitsextraktion mit Soxhlet-Apparat gewonne-_
-_nen Extrakte vonPicea abies wurden in steriler Kulturbrühe (TSB) verdünnt._
+_nen Extrakte von Picea abies wurden in steriler Kulturbrühe (TSB) verdünnt._
 _Dann wurden sie mit den Mikrobenkulturen vermischt und erreichten End-_
 _konzentrationen von 1, 3 und 5 mg/ml. Circa 1 ml der zubereiteten Stichpro-_
 _ben wurden danach in zuvor sterilisierte Reagenzbehälter aus Edelstahl gege-_
@@ -2459,7 +2702,7 @@ _überwacht. Alle Experimente wurden als Triplikat durchgeführt._
 
 2.4.3 Ermittlung der für die antimikrobielle Wirkung der Extrakte
 verantwortlichen Phenolverbindungen
-_Die Phenolverbindungen der Extrakte ausPicea abies wurden durch eine Flüs-_
+_Die Phenolverbindungen der Extrakte aus Picea abies wurden durch eine Flüs-_
 _sigchromatographie-Massenspektrometrie mit hoher Auflösung (HPL-MS)_
 _unter Anwendung eines Q-Exactive Orbitrap HRMS (Thermo Scientific,_
 _Mailand, Italien) in Kopplung mit einer UHPLC (Ultimate 300) ermittelt. Es_
@@ -2476,14 +2719,14 @@ _mischen Verbindungen und derIntegration der Fläche unter jedem Peak wur-_
 _den mit der Software Compound Discoverer 2.1 (Thermo Scientific, Mailand,_
 _Italien) hergestellt._
 _Zur Ermittlung der für die Hemmung verantwortlichen Phenolverbindungen_
-_wurden circa 5 mg Extrakt zu 1 ml Nährbrühe(TSB) in Anwesenheit und Ab-_
-_wesenheit des MikrobenstammesE. faecalishinzugefügt, der mit einer Kon-_
+_wurden circa 5 mg Extrakt zu 1 ml Nährbrühe (TSB) in Anwesenheit und Ab-_
+_wesenheit des Mikrobenstammes E. faecalis hinzugefügt, der mit einer Kon-_
 _zentration von 10⁶ KBE/ml beimpft wurde. Beide Proben wurden für 24 Stun-_
 _den bei 37 °C ausgebrütet. Außerdem wurde eine dritte Probe unter Zusatz_
 
 Ferrentino, Haman, Morozova, Scampicchio
 
-_von 5 mgExtrakt zu 1 ml Kulturbrühe (TSB) zubereitet. Die drei Proben wur-_
+_von 5 mg Extrakt zu 1 ml Kulturbrühe (TSB) zubereitet. Die drei Proben wur-_
 _den mit einer HPLC-MS analysiert. Für die Zubereitung der Proben wurden_
 _5 ml einer MeOH-Wasser-Lösung (70:30) zu 500 mg der Probe gegeben. Das_
 _Gemisch wurde 5 Minuten mit einem Vortexmischer geschüttelt, 15 Minuten_
@@ -2498,14 +2741,14 @@ _werte und Standardabweichung angegeben._
 3.1 Extraktion mit Soxhlet-Apparat und überkritischem
 Kohlendioxid
 _In diesem Abschnitt wird das mit zwei verschiedenen Technologien durchge-_
-_führte Verfahren der Extraktion aus Holzabfällen desPicea abieserläutert (Ab-_
+_führte Verfahren der Extraktion aus Holzabfällen des Picea abieserläutert (Ab-_
 _bildung 1). Das Extraktionsverfahren mit überkritischem Kohlendioxid_
 _wurde bei 45 °C und 20 MPa Druck über eine Dauer von 120 Minuten durch-_
 _geführt. Am Ende des Verfahrens ergab sich ein Ertrag von 3,4 ± 0,5 % (p/p),_
 _berechnet als Verhältnis zwischen der Extraktmenge in Gramm und der für_
 _die Extraktion verwendeten Holzstichprobe in Gramm._
 _Die Extraktion mit einem Soxhlet-Apparat wurde unter Anwendung von_
-_Ethanol alsLösungsmittel durchgeführt. Die Temperatur wurde auf 76 °C ein-_
+_Ethanol als Lösungsmittel durchgeführt. Die Temperatur wurde auf 76 °C ein-_
 _gestellt; das Verfahren dauerte 5 Stunden. Nach Abschluss der Extraktion_
 _wurde das Extrakt durch Verdampfen des Lösungsmittels gewonnen. Der_
 _Ertrag belief sich auf 2,6 ± 0,7 % (p/ p)._
@@ -2513,7 +2756,8 @@ _Ertrag belief sich auf 2,6 ± 0,7 % (p/ p)._
 ```
 Extraktion aus Holzrückständen
 ```
-Abb. 1– Extraktion aus Holzabfällen des _Picea abies_ mit Soxhlet-Apparat und überkritischem
+
+Abb. 1 – Extraktion aus Holzabfällen des _Picea abies_ mit Soxhlet-Apparat und überkritischem
 Kohlendioxid
 
 _Die chemische Charakterisierung beider Extrakte wurde mit einer HPLC-MS_
@@ -2524,34 +2768,40 @@ _pinoresinol und Isorhapontin. Diese Verbindungen wurden in beiden Extrak-_
 _ten gefunden._
 
 ```
-Holzabfall vonPiceaabies
-Feuchtigkeit =7.8%
-Wasseraktivität =0.40
+Holzabfall von Piceaabies
+Feuchtigkeit = 7.8 %
+Wasseraktivität = 0.40
 ```
+
 ```
 Prozessparameter:
- Druck= 20-30MPa
- Temperatur= 40-50°C
- Zeit= 1-2Stunden
+ Druck = 20-30 MPa
+ Temperatur = 40-50 °C
+ Zeit = 1-2 Stunden
  Lösungsmittel = Kohlendioxid
 ```
+
 ```
 Prozessparameter:
- Temperatur: 70-80°C
- Zeit: 5Stunden
+ Temperatur: 70-80 °C
+ Zeit: 5 Stunden
  Lösungsmittel: Ethanol
 ```
+
 ```
 Soxhlet-Extrakt Überkritisches
 Kohlendioxidextrakt
 ```
+
 ```
 Ferrentino, Haman, Morozova, Scampicchio
 ```
+
 ```
-Tabelle 1–Chemische Charakterisierung der mit Soxhlet-Apparat und überkritischem Kohlendioxid
-(SFE) gewonnenen Extrakte vonPicea abies. Angepasste Tabelle aus der Arbeit von Haman et al.,
+Tabelle 1 –Chemische Charakterisierung der mit Soxhlet-Apparat und überkritischem Kohlendioxid
+(SFE) gewonnenen Extrakte von Picea abies. Angepasste Tabelle aus der Arbeit von Haman et al.,
 ```
+
 2019.
 
 _Verbindung Formel [M-H]-_
@@ -2561,18 +2811,21 @@ _theoretisch_
 [M-H]-
 gemessen
 ```
+
 ```
 SFE-
 Extraktions-
 bereich
 1*10⁶
 ```
+
 ```
 Soxhlet-
 Extraktions-
 bereich
 1*10⁶
 ```
+
 [^2]:_-Methylbenzoesäure C₈H₈O₂ 135,0452 135,0450 61,8 ± 0,8 50,1 ± 0,5_
 
 _Zimtsäure C₉H₈O₂ 147,0451 147,0452 2,03 ± 0,1 1,5 ± 0,4_
@@ -2603,14 +2856,16 @@ _Isorhapontin C₂₁H₂₄O₉ 419,1348 419,1349 432 ± 56 323 ± 15_
 3.2 Mit isothermer Kalorimetrie beschriebenes
 Mikrobenwachstum
 Das Mikrobenwachstum in Anwesenheit oder Abwesenheit von Extrakten
-ausPicea abieswurde durch isotherme Kalorimetrie überwacht.
+aus Picea abies wurde durch isotherme Kalorimetrie überwacht.
 Abbildung 2 (gestrichelte Linie) zeigt das typische kalorimetrische Signal, das
 man beim Mikrobenwachstum erhält, wenn uneingeschränkt Luft und Nähr-
 stoffe vorhanden sind. Der Wärmeflussverlauf (dq/dt in Abhängigkeit von der
 ```
+
 ```
 Extraktion aus Holzrückständen
 ```
+
 _Zeit) weist eine charakteristische Form auf, die qualitativ durch Teilung des_
 _Signals in drei unterschiedliche Phasen erklärt werden kann:_
 
@@ -2620,11 +2875,11 @@ während der die erzeugte Wärmemenge unerheblich ist
 tabolischen Zellwachstum exponentiell ansteigt
 - eine dritte Phase, in der man eine schnelle Wärmeflussverringerung be-
 obachten kann, sobald der Sauerstoff oder die nötigen Nährstoffe abneh-
-men und das Wachstum derMikroorganismen dadurch gehemmt wird.
+men und das Wachstum der Mikroorganismen dadurch gehemmt wird.
 
-Abb. 2 –Während des Mikrobenwachstums von_S. thermophilus_bei Vorhandensein von Sauerstoff
+Abb. 2 –Während des Mikrobenwachstums von _S. thermophilus_ bei Vorhandensein von Sauerstoff
 mit einer Konzentration von 10⁷ log(KBE/ml) erzeugter Wärmefluss (durchgehende schwarze Linie).
-Während des Mikrobenwachstums von_S. thermophilus_(durchgehende blaue Linie) erzeugte
+Während des Mikrobenwachstums von _S. thermophilus_ (durchgehende blaue Linie) erzeugte
 Wärme, die aus der Integration des von der Wärmeflusskurve abgegrenzten Bereichs resultiert. Rot
 eingekreist sind die Anfangszeit des exponentiellen Wachstums, der Höchstwert der während des
 Wachstums erzeugten Wärme und die während des Wachstums entstandene Gesamtwärme.
@@ -2634,56 +2889,71 @@ Phase des exponentiellen Wachstums und die darauffolgende stationäre Phase des 
 3.2.1 Ermittlung der thermokinetischen Parameter des
 Mikrobenwachstums
 _Abbildung 3-A zeigt die mit isothermer Kalorimetrie bei 37 °C erzielten Dia-_
-_gramme des Mikrobenwachstums vonS. thermophilus. Die Anfangskonzent-_
-_ration der Mikrobenbelastung variiert zwischen 10_[^1] _und 10_[^7]_KBE/ml. Abbil-_
+_gramme des Mikrobenwachstums von S. thermophilus. Die Anfangskonzent-_
+_ration der Mikrobenbelastung variiert zwischen 10_[^1] _und 10_[^7] _KBE/ml. Abbil-_
 _dung 3-B zeigt hingegen die Werte der während des Mikrobenwachstums ent-_
 
 ```
 0
 ```
+
 ```
 0.4
 ```
+
 ```
 0.8
 ```
+
 ```
 1.2
 ```
+
 ```
 1.6
 ```
+
 ```
 2
 ```
+
 ```
 0
 ```
+
 ```
 50
 ```
+
 ```
 100
 ```
+
 ```
 150
 ```
+
 ```
 200
 ```
+
 ```
 250
 ```
+
 ```
 0 2 4 6
 ```
+
 ```
 Wärme (J)
 Wärmefluss (μW)
 ```
+
 ```
 Zeit / h
 ```
+
 ```
 exponentielle
 Phase
@@ -2692,6 +2962,7 @@ Phase
 Verzögeru
 ngsphase
 ```
+
 Ferrentino, Haman, Morozova, Scampicchio
 
 _standenen Gesamtwärme, die aus der Integration des durch die Wärmefluss-_
@@ -2702,19 +2973,19 @@ _die folgende veränderte Gompertz-Funktion beschrieben werden:_
 
 𝑞𝑞(𝑡𝑡) = 𝑄𝑄𝑡𝑡𝑡𝑡𝑡𝑡 ∙ 𝑒𝑒𝑒𝑒𝑒𝑒[−𝑒𝑒𝑒𝑒𝑒𝑒(𝜇𝜇𝑚𝑚𝑚𝑚𝑚𝑚 ·𝑒𝑒) ·(𝜆𝜆 − 𝑡𝑡)+[^1]:]
 
-_woQtot der während des gesamten Wachstumsprozesses erzeugten Wärme_
-_entspricht, die als Bereich unter der Wärmeflusskurve berechnet wird;_λ _der_
+_wo Qtot der während des gesamten Wachstumsprozesses erzeugten Wärme_
+_entspricht, die als Bereich unter der Wärmeflusskurve berechnet wird;_ λ _der_
 _Verzögerungszeit entspricht, die als Anfangsperiode definiert wird, während_
 _welcher die durch das Mikrobenwachstum erzeugte Wärme unerheblich ist;_
-_μmaxder Höchstgeschwindigkeit des Wachstums entspricht, die als größte ent-_
+_μmax der Höchstgeschwindigkeit des Wachstums entspricht, die als größte ent-_
 _lang der Wärmeflusskurve gemessene Steigung berechnet wird._
 
-Abb. 3– (A) Während des Wachstums von_S. thermophilus_ bei Vorhandensein von Sauerstoff mit
+Abb. 3 – (A) Während des Wachstums von _S. thermophilus_ bei Vorhandensein von Sauerstoff mit
 verschiedenen Konzentrationen von 10⁷ (a) bis 10[^1] log(KBE/ml) erzeugter Wärmefluss (g). (B)
 Während des aus der Integration der von den Wärmeflusskurven begrenzten Flächen
 resultierenden Mikrobenwachstums entstandene Wärme.
 
-_Außerdem konnten anhandder Wärmeflusskurven in Abhängigkeit von der_
+_Außerdem konnten anhand der Wärmeflusskurven in Abhängigkeit von der_
 _Zeit der Höchstwert des Wärmeflusses (_Φ_max) und die Zeit, zu der dieser Wert_
 _auftritt (tp), gemessen werden. Alle für beide Mikroorganismen angegebenen_
 _Werte sind in der folgenden Tabelle angegeben (Tab. 2)._
@@ -2722,76 +2993,99 @@ _Werte sind in der folgenden Tabelle angegeben (Tab. 2)._
 ```
 0
 ```
+
 ```
 50
 ```
+
 ```
 100
 ```
+
 ```
 150
 ```
+
 ```
 200
 ```
+
 ```
 250
 ```
+
 ```
 0 5 10 15
 ```
+
 ```
 Wärmefluss / μW
 ```
+
 ```
 Zeit / h
 ```
+
 ```
 a
 d
 b c e
 f g
 ```
+
 ```
 0
 ```
+
 ```
 0.4
 ```
+
 ```
 0.8
 ```
+
 ```
 1.2
 ```
+
 ```
 1.6
 ```
+
 ```
 2
 ```
+
 ```
 0 5 10 15
 ```
+
 ```
 Wärme / J
 ```
+
 ```
 Zeit / h
 ```
+
 ```
 a
 ```
+
 ```
 A B
 ```
+
 ```
 Extraktion aus Holzrückständen
 ```
+
 ```
-Tabelle 2–Thermokinetische Parameter aus den kalorimetrischen Kurven des Mikrobenwachstums
-vonS. thermophilusundE. faecalis.
+Tabelle 2 –Thermokinetische Parameter aus den kalorimetrischen Kurven des Mikrobenwachstums
+von S. thermophilus und E. faecalis.
 ```
+
 _Mikro-_
 _organismus_
 
@@ -2801,26 +3095,32 @@ Anfangs-
 konzentra-
 tion
 ```
+
 ```
 100*μmax
 h ̄¹
 ```
+
 ```
 λ
 h
 ```
+
 ```
 Qtot
 J
 ```
+
 ```
 tp
 h
 ```
+
 ```
 Φmax
 μW
 ```
+
 _S. thermophilus_ [^10]:[^7] _6,7 ± 0,1ab 2,3 ± 0,2g 1,68 ± 0,31b 4,0 ± 0,4e 254 ± 12ab_
 
 ```
@@ -2831,6 +3131,7 @@ _S. thermophilus_ [^10]:[^7] _6,7 ± 0,1ab 2,3 ± 0,2g 1,68 ± 0,31b 4,0 ± 0,4e
 10² 6,1 ± 0,1ab 8,7 ± 0,4b 1,61 ± 0,91a 10,5 ± 0,4b 239 ± 23ab
 10¹ 5,5 ± 0,1c 10,9 ± 0,6a 1,63 ± 0,72b 12,3 ± 0,6a 232 ± 28b
 ```
+
 _E. faecalis 10⁷ 6,1 ± 0,1a 3,1 ± 0,2f 2,38 ± 0,31ab 5,1± 0,2f 239 ± 10a_
 
 ```
@@ -2841,22 +3142,24 @@ _E. faecalis 10⁷ 6,1 ± 0,1a 3,1 ± 0,2f 2,38 ± 0,31ab 5,1± 0,2f 239 ± 10a_
 10² 5,2 ± 0,1b 10,7 ± 0,4b 2,94 ± 0,62a 11,5 ± 0,4b 215 ± 25a
 10¹ 5,4 ± 0,1b 12,5 ± 0,4a 2,95 ± 0,89a 13,2 ± 0,4a 207 ± 23a
 ```
+
 ```
 3.2.2 Zusammenhang zwischen den thermokinetischen
 Parametern des Mikrobenwachstums
-Tabelle 3 zeigt diePearson-Korrelationskoeffizienten zwischen der anfängli-
+Tabelle 3 zeigt die Pearson-Korrelationskoeffizienten zwischen der anfängli-
 chen Mikrobenkonzentration und den aus den kaloriemetrischen Kurven ge-
 wonnenen und in Tabelle 2 aufgeführten Parametern. Die stärkste Korrelation
 ```
+
 Ferrentino, Haman, Morozova, Scampicchio
 
 _wurde zwischen dem Logarithmus der Mikrobenkonzentration und der Ver-_
-_zögerungszeit (_λ_) oder der Zeitbeobachtet, zu welcher der höchste Wärme-_
+_zögerungszeit (_λ_) oder der Zeit beobachtet, zu welcher der höchste Wärme-_
 _fluss gemessen wurde (tp), mit Pearson- Koeffizienten von_
 
--0.995 bzw.-0,990 (n = 7, p = 0,01).
+-0.995 bzw. -0,990 (n = 7, p = 0,01).
 
-Tabelle 3 – Pearson-Korrelationsindex zwischen der mikrobiellenAnfangskonzentration und den
+Tabelle 3 – Pearson-Korrelationsindex zwischen der mikrobiellen Anfangskonzentration und den
 thermokinetischen Parametern aus den Thermogrammen des Mikrobenwachstums. **Signifikante
 Korrelation auf Level 0,01.
 
@@ -2866,43 +3169,52 @@ Anfangs-
 konzentration
 (KBE/ml)
 ```
+
 ```
 μmax
 (h-[^1])
 ```
+
 ```
 λ
 (h)
 ```
+
 ```
 Qtot
 (J)
 ```
+
 ```
 tp
 (h)
 ```
+
 ```
 μmax
 (h-[^1])
 0,632 -
 ```
+
 ```
 λ
 (h)
 ```
+
 -0,995** -0,625 -
 
 ```
 Qtot
 (J)
 ```
+
 -0,439 -0,358 0,402 -
 
 ```
 tp
 (h)
 ```
+
 -0,990** -0,600 0,993** 0,497 -
 
 ```
@@ -2910,42 +3222,44 @@ tp
 (μW)
 0,488 0,237 -0,505 -0,740 -0,580
 ```
+
 _Die Ergebnisse haben zudem gezeigt, dass die Verzögerungszeit des Mikro-_
 _benwachstums im Intervall der in dieser Studie verwendeten Mikrobenkon-_
-_zentrationen zwischen 10_[^1] _und 10_[^7]_KBE/ml von 2,3 ± 0,2 auf 10,9 ± 0,6 Stunden_
+_zentrationen zwischen 10_[^1] _und 10_[^7] _KBE/ml von 2,3 ± 0,2 auf 10,9 ± 0,6 Stunden_
 _signifikant gestiegen ist (p < 0,01). Die Daten zeigen eine lineare Korrelation_
 _zwischen dem Logarithmus der mikrobiellen Anfangskonzentration und der_
-_Verzögerungszeit des Wachstums (R_[^2]_= 0,99) mit einer Gleichung von_λ _=-1,39_
-_*C + 11,11 (C steht für log(KBE/ml)) fürS. thermophilus. Ähnliche Ergebnisse_
-_wurden auch für das Mikrobenwachstum vonE. faecalis erzielt. Auch in die-_
+_Verzögerungszeit des Wachstums (R_[^2] _= 0,99) mit einer Gleichung von_ λ _= -1,39_
+_*C + 11,11 (C steht für log(KBE/ml)) für S. thermophilus. Ähnliche Ergebnisse_
+_wurden auch für das Mikrobenwachstum von E. faecalis erzielt. Auch in die-_
 _sem Fall wurde ein linearer Zusammenhang (R_[^2] _= 0,99) beobachtet, mit einer_
 
 ```
 Extraktion aus Holzrückständen
 ```
-_Gleichung von_ λ _=-1,59 *C + 19,57. Die anderen Variablen, wie die Gesamt-_
+
+_Gleichung von_ λ _= -1,59 *C + 19,57. Die anderen Variablen, wie die Gesamt-_
 _wärme (Qtot), die Höchstgeschwindigkeit des Wachstums (μmax) und der ma-_
 _ximale Wärmefluss (_Φ_max) wiesen keine Korrelation mit der anfänglichen Kon-_
 _zentration der Mikrobenbelastung auf. Daher wurde die Verzögerungszeit_
 _des Wachstums (_λ_) als Mikrobenwachstumsindex verwendet, um die nachfol-_
-_genden Ergebnisse zu erklären, bei denen die Extrakte vonPicea abies zu den_
+_genden Ergebnisse zu erklären, bei denen die Extrakte von Picea abies zu den_
 _Mikrobenkulturen hinzugefügt wurden._
 
-3.3 Antimikrobielle Wirkung der Extrakte von_Picea abies_
+3.3 Antimikrobielle Wirkung der Extrakte von _Picea abies_
 _Im Folgenden sind die Ergebnisse der antimikrobiellen Wirkung von Extrak-_
-_ten ausPicea abies auf Mikrobenstämme vonStreptococcus thermophilus und_
+_ten aus Picea abies auf Mikrobenstämme von Streptococcus thermophilus und_
 _Enterococcus faecalis aufgeführt. Es wurden zwölf Experimente im Duplikat_
 _durchgeführt, um die antimikrobielle Wirkung der mit Soxhlet-Apparat und_
 _überkritischem Kohlendioxid gewonnenen Extrakte (n=12) zu testen. Für jede_
 _Extraktionstechnologie wurde die Verzögerungszeit des Wachstums der bei-_
 _den Mikrobenstämme unter Anwendung von drei den Mikrobenkulturen zu-_
 _gesetzten Extraktkonzentrationen ermittelt._
-_Abbildung 4-A zeigt die fürS. thermophilus erzielten Ergebnisse des Wärme-_
+_Abbildung 4-A zeigt die für S. thermophilus erzielten Ergebnisse des Wärme-_
 _flusses in Anwesenheit und Abwesenheit wachsender Konzentrationen des_
-_durch dasVerfahren mit überkritischem Kohlendioxid gewonnenen Extrakts_
-_vonPicea abies. Gleichermaßen zeigt Abbildung 4-B die Ergebnisse des Wär-_
+_durch das Verfahren mit überkritischem Kohlendioxid gewonnenen Extrakts_
+_von Picea abies. Gleichermaßen zeigt Abbildung 4-B die Ergebnisse des Wär-_
 _meflusses für den gleichen Mikroorganismus nach Zusatz wachsender Kon-_
-_zentrationen des mit Soxhlet-Apparat unter Anwendung vonEthanol als Lö-_
+_zentrationen des mit Soxhlet-Apparat unter Anwendung von Ethanol als Lö-_
 _sungsmittel gewonnenen Extrakts. In beiden Fällen verlangsamte sich das_
 _Mikrobenwachstum in Anwesenheit des Extrakts, wie die Werte der Verzöge-_
 _rungszeiten (_λ_) zeigen, die bei Zusatz zunehmender Konzentrationen des Ex-_
@@ -2953,16 +3267,16 @@ _trakts steigen._
 
 Ferrentino, Haman, Morozova, Scampicchio
 
-Abb. 4 – Thermogramme des Mikrobenwachstums von_S. thermophilus_ in Abwesenheit (a) und
-Anwesenheit zunehmender Konzentrationen des Extrakts aus_Picea abies_ ((b) 1 mg/ml (c) 3 mg/ml
-(d) 5 mg/ml)).Mit überkritischem Kohlendioxid (A) und Soxhlet-Extraktion (B) gewonnene Extrakte_._
+Abb. 4 – Thermogramme des Mikrobenwachstums von _S. thermophilus_ in Abwesenheit (a) und
+Anwesenheit zunehmender Konzentrationen des Extrakts aus _Picea abies_ ((b) 1 mg/ml (c) 3 mg/ml
+(d) 5 mg/ml)). Mit überkritischem Kohlendioxid (A) und Soxhlet-Extraktion (B) gewonnene Extrakte_._
 
 _Außerdem kennzeichneten sich die in Anwesenheit des Extrakts gewonnenen_
 _kalorimetrischen Kurven des Mikrobenwachstums durch einen niedrigeren_
 _Wert der beim Wachstum entstandenen Wärme (Qtot) und folglich auch durch_
 _einen niedrigeren Wert des maximalen Wärmeflusses (_Φ_max). Die Ergebnisse_
 _deuteten auch auf eine geringere Geschwindigkeit des Mikrobenwachstums_
-_bei einem Anstieg der Konzentration des Extrakts hin,dass der Mikrobenkul-_
+_bei einem Anstieg der Konzentration des Extrakts hin, dass der Mikrobenkul-_
 _tur zugesetzt wird (μmax)._
 _In den folgenden Tabellen sind die thermokinetischen Parameter aus den ka-_
 _lometrischen Kurven für die beiden Mikroorganismen angegeben, denen die_
@@ -2972,8 +3286,9 @@ _hinzugefügt wurden (Tab. 4 und 5)._
 ```
 Extraktion aus Holzrückständen
 ```
-Tabelle 4–Thermokinetische Parameter aus den kalorimetrischen Kurven des Mikrobenwachstums
-von_S. thermophilus_ in Anwesenheit des mit überkritischem Kohlendioxid und Soxhlet-Apparat
+
+Tabelle 4 –Thermokinetische Parameter aus den kalorimetrischen Kurven des Mikrobenwachstums
+von _S. thermophilus_ in Anwesenheit des mit überkritischem Kohlendioxid und Soxhlet-Apparat
 gewonnenen Extrakts.
 
 _Extraktions-_
@@ -2984,26 +3299,32 @@ Konzentration
 Extrakt
 mg/mL
 ```
+
 ```
 100*μmax
 (h ̄¹)
 ```
+
 ```
 λ
 (h)
 ```
+
 ```
 Qtot
 (J)
 ```
+
 ```
 tp
 (h)
 ```
+
 ```
 Φmax
 (μW)
 ```
+
 - 6,7 ± 0,1 4,8 ± 0,3 2,2 ± 0,4 6 ± 0,3 259 ± 11
 
 _Überkritisches_
@@ -3014,14 +3335,16 @@ _Kohlendioxid_
 3 4,3 ± 0,2 8,9 ± 0,2 1,4 ± 0,4 15 ± 2 94 ± 8
 5 0,8 ± 0,2 12,4 ± 0,6 1,1 ± 0,3 35 ± 2 30 ± 16
 ```
+
 _Soxhlet_
 
 ```
 1 5,1 ± 0,01 7,7 ± 2,0 2,1 ± 0,1 8 ± 1 189 ± 17
-3 3,6 ± 0,01 8,6 ±0,5 1,8 ± 0,1 12 ± 3 105 ± 22
+3 3,6 ± 0,01 8,6 ± 0,5 1,8 ± 0,1 12 ± 3 105 ± 22
 5 2,8 ± 0,01 10,5 ± 0,8 1,7 ± 0,1 27 ± 1 24 ± 6
 ```
-Tabelle 5–Thermokinetische Parameter aus den kalorimetrischen Kurven des Mikrobenwachstums
+
+Tabelle 5 –Thermokinetische Parameter aus den kalorimetrischen Kurven des Mikrobenwachstums
 von _E. faecalis_ in Anwesenheit des mit überkritischem Kohlendioxid und Soxhlet-Apparat
 gewonnenen Extrakts.
 
@@ -3033,26 +3356,32 @@ Konzentration
 Extrakt
 (mg/mL)
 ```
+
 ```
 100*μmax
 (h ̄¹)
 ```
+
 ```
 λ
 (h)
 ```
+
 ```
 Qtot
 (J)
 ```
+
 ```
 tp
 (h)
 ```
+
 ```
 Φmax
 (μW)
 ```
+
 - 6,0 ± 0,1 6,4 ± 0,3 2,8 ± 0,5 8 ± 1 229 ± 11
 
 _Überkritisches_
@@ -3063,13 +3392,15 @@ _Kohlendioxid_
 3 3,6 ± 0,1 18,2 ± 0,4 2,0 ± 0,1 24 ± 2 49 ± 1
 5 0,9 ± 0,4 27,7 ± 1,1 1,7 ± 0,5 37 ± 1 40 ± 13
 ```
+
 _Soxhlet_
 
 ```
 1 4,0 ± 0,1 8,5 ± 0,1 2,4 ± 0,2 10 ± 1 149 ± 2
-3 1,5 ± 0,2 12,0 ±0,9 2,1± 0,2 15 ± 2 42 ± 2
+3 1,5 ± 0,2 12,0 ± 0,9 2,1± 0,2 15 ± 2 42 ± 2
 5 0,5 ± 0,2 24,0 ± 0,9 1,6 ± 0,1 32 ± 2 32 ± 10
 ```
+
 Ferrentino, Haman, Morozova, Scampicchio
 
 3.3.1 Wirkung der Art und Menge des Extrakts auf das
@@ -3077,37 +3408,38 @@ Mikrobenwachstum
 _Die Ergebnisse aus den Thermogrammen in Tabelle 4 und 5 wurden statistisch_
 _analysiert, um die Wirkung (1) der Extraktkonzentration (1, 3 und 5 mg/ml),_
 _(2) der Art des mit den beiden Extraktionstechnologien gewonnenen Extrakts_
-_(überkritisches Kohlendioxidvs.Sohxlet) und (3) der Art des Mikroorganis-_
-_mus (E. faecalis vs.S. thermophilus) zu bestimmen. Für die statistische Analyse_
+_(überkritisches Kohlendioxid vs. Sohxlet) und (3) der Art des Mikroorganis-_
+_mus (E. faecalis vs. S. thermophilus) zu bestimmen. Für die statistische Analyse_
 _wurde die Verzögerungszeit des Mikrobenwachstums als abhängige Variable_
 _gewählt. Wie zuvor gezeigt, wies diese Variable eine lineare Korrelation mit_
 _dem Logarithmus der anfänglichen Mikrobenkonzentration auf. Die Ergeb-_
 _nisse der statistischen Analyse sind in Tabelle 6 aufgeführt. Die wichtigste_
 _Wirkung auf die Verzögerungszeit des Mikrobenwachstums wurde von der_
-_Extraktkonzentrationausgeübt, die über 40 % der Gesamtvarianz ausmachte_
+_Extraktkonzentration ausgeübt, die über 40 % der Gesamtvarianz ausmachte_
 _(_η[^2]_). Weitere 16 % der Varianz wurden der Interaktion zwischen der Extrakt-_
 _konzentration und dem Mikrobenstamm zugeordnet. Das Vorhandensein die-_
-_ser Interaktion zeigt, dass der Mikrobenstamm vonE. faecalis empfindlicher_
-_als der StammE. faecalis gegenüber dem Zusatz des Extrakts vonPicea abies_
+_ser Interaktion zeigt, dass der Mikrobenstamm von E. faecalis empfindlicher_
+_als der Stamm E. faecalis gegenüber dem Zusatz des Extrakts von Picea abies_
 _reagiert. Für jede den beiden Mikrobenkulturen zugesetzte Extraktkonzentra-_
-_tion resultierten die für den StammE. faecalis(M=16,9, SD=7,4) beobachteten_
-_Verzögerungszeiten deutlich höher als die des StammesS. thermophilus_
+_tion resultierten die für den Stamm E. faecalis (M=16,9, SD=7,4) beobachteten_
+_Verzögerungszeiten deutlich höher als die des Stammes S. thermophilus_
 _(M=9.4, SD=1.9). Diese stärkere Wirkung wird noch offensichtlicher, wenn bei-_
 _den Mikrobenkulturen höhere Extraktkonzentrationen hinzugefügt wurden._
-_Die Ergebnisse zeigen eindeutig, dass der MikrobenstammS. thermophilus_
+_Die Ergebnisse zeigen eindeutig, dass der Mikrobenstamm S. thermophilus_
 _eine höhere Resistenz gegen die antimikrobielle Wirkung des Extrakts aus_
-_Picea abies aufweist als der StammE. faecalis. Diese höhere Resistenz könnte_
-_auf die Fähigkeit des StammesS. thermophilus zurückzuführen sein, während_
+_Picea abies aufweist als der Stamm E. faecalis. Diese höhere Resistenz könnte_
+_auf die Fähigkeit des Stammes S. thermophilus zurückzuführen sein, während_
 _des Wachstums kleine Flocken zu bilden, die gegenüber der Wirkung des An-_
-_timikrobikums weniger exponiert sind (Hardie et al., 2003). Der StammE._
+_timikrobikums weniger exponiert sind (Hardie et al., 2003). Der Stamm E._
 _faecalis bildet während des Wachstums hingegen kleine Fäden, die der Wir-_
-_kung des Extrakts ausPicea abies direkt ausgesetzt sind (Tenover 2006; Davies_
+_kung des Extrakts aus Picea abies direkt ausgesetzt sind (Tenover 2006; Davies_
 _et al., 2010)._
 
 ```
 Extraktion aus Holzrückständen
 ```
-Tabelle 6– Ergebnisse der statistischen Analyse der Verzögerungszeiten des Mikrobenwachstums
+
+Tabelle 6 – Ergebnisse der statistischen Analyse der Verzögerungszeiten des Mikrobenwachstums
 (λ) in Anwesenheit unterschiedlicher Konzentrationen des mit den beiden Extraktionstechnologien
 gewonnenen Extrakts.
 
@@ -3120,24 +3452,27 @@ _Die Analyse zeigt, dass die Extraktionstechnologie ebenfalls eine wichtige_
 _Rolle (F(1,12) = 43, p< 0,001) für das Mikrobenwachstum spielt, auch wenn die_
 _Wirkung geringer ist (_η[^2] _= 4 %). Diese Wirkung ist in Abbildung 5-B darge-_
 _stellt, wo die mit überkritischem Kohlendioxid gewonnenen Extrakte nur_
-_dann eine höhere Wirkung haben, wenn sie auf den MikrobenstammE. faecalis_
+_dann eine höhere Wirkung haben, wenn sie auf den Mikrobenstamm E. faecalis_
 _angewandt werden. Die Ergebnisse scheinen darauf hinzuweisen, dass der_
 _mit überkritischem Kohlendioxid gewonnene Extrakt eine Zusammensetzung_
 
 ```
 Source SS df MS F p η[^2]
 ```
+
 ```
-A:S.thermophilus vs.
+A: S.thermophilus vs.
 E. faecalis
 344,78 1 344,78 394,9 <0,001 35 %
 B: Überkritisches
 Kohlendioxid vs.
 Soxhlet
 ```
+
 ```
 37,53 1 37,53 43,0 <0,001 4 %
 ```
+
 ```
 C: Extrakt-
 Konzentration
@@ -3148,80 +3483,94 @@ BC: 3,64 2 1,82 2,1 <0,167 0,4 %
 ABC: 4,57 2 2,28 2,6 <0,114 0,5 %
 Fehler 10,48 12 0,87 1 %
 ```
+
 ```
 Gesamt 977,90 23
 ```
+
 Ferrentino, Haman, Morozova, Scampicchio
 
-_aufweist, die ihn wirksamer gegenüberE. faecalis als gegenüber dem Mikro-_
-_benstammS. thermophilus macht. Diese Annahme wird durch die signifikante_
+_aufweist, die ihn wirksamer gegenüber E. faecalis als gegenüber dem Mikro-_
+_benstamm S. thermophilus macht. Diese Annahme wird durch die signifikante_
 _Interaktion zwischen den Mikrobenstämmen und der Extraktionstechnologie_
-_bestätigt (F(1,12)=19.5, p< 0,001,_η[^2]_= 2 %)._
+_bestätigt (F(1,12)=19.5, p< 0,001,_ η[^2] _= 2 %)._
 _Abbildung 5-C verdeutlicht für beide Extraktionstechnologien, dass die Ver-_
 _zögerungszeit mit zunehmender Konzentration des der Mikrobenkultur zu-_
 _gesetzten Extrakts ansteigt. Außerdem fällt die Verzögerungszeit des Mikro-_
 _benwachstums bei den beiden höchsten Konzentrationen für die SFE-Techno-_
 _logie deutlich höher aus als für die Soxhlet-Technologie (SOX)._
 
-Abb. 5– Wirkung von Extraktkonzentration, Art des Mikroorganismus und Extraktionstechnologie
+Abb. 5 – Wirkung von Extraktkonzentration, Art des Mikroorganismus und Extraktionstechnologie
 auf die Verzögerungszeit des Mikrobenwachstums (λ).
 
 _3.4_ Ermittlung der für die antimikrobielle Wirkung der Extrakte
-aus_Picea abies_ verantwortlichen Phenolverbindungen
+aus _Picea abies_ verantwortlichen Phenolverbindungen
 _Dieser Abschnitt erläutert die Ergebnisse, die mit dem Ziel gewonnen wur-_
 _den, die für die antimikrobielle Wirkung verantwortlichen Phenolverbindun-_
-_gen im Extrakt vonPicea abies zu ermitteln. Zu diesem Zweck wurden zwei_
-_Proben einer Mikrobenkultur ausE. faecalis (10_[^6]_KBE/ml) zubereitet, die man_
-_für 24 Stunden bei 37 °C unter aeroben Bedingungen mitZusatz dermit den_
+_gen im Extrakt von Picea abies zu ermitteln. Zu diesem Zweck wurden zwei_
+_Proben einer Mikrobenkultur aus E. faecalis (10_[^6] _KBE/ml) zubereitet, die man_
+_für 24 Stunden bei 37 °C unter aeroben Bedingungen mit Zusatz der mit den_
 _beiden verschiedenen Technologien gewonnenen Extrakte (5 mg/ml) wachsen_
 _ließ. Dieser Mikroorganismus wurde ausgewählt, weil er in den vorherigen_
-_Ergebnissen eine größere Empfindlichkeit gegenüberder antimikrobiellen_
+_Ergebnissen eine größere Empfindlichkeit gegenüber der antimikrobiellen_
 
 ```
 7
 ```
+
 ```
 12
 ```
+
 ```
 17
 ```
+
 ```
 22
 ```
+
 ```
 27
 ```
+
 ```
 1 3 5
 ```
+
 ```
 Verzögerungszeit / h
 ```
+
 ```
-Extrakt /mg/mL
+Extrakt / mg/mL
 ```
+
 ```
 1 3 5
-Extrakt /mg/mL
+Extrakt / mg/mL
 ```
+
 ```
 S. thermophilus E. faecalis
 Mikroorganismus
 ```
+
 ```
 A B C
 ```
+
 ```
 Extraktion aus Holzrückständen
 ```
-_Wirkung des Extrakts ausPicea abiesgezeigt hat. Vor und nach den 24 Stunden_
+
+_Wirkung des Extrakts aus Picea abiesgezeigt hat. Vor und nach den 24 Stunden_
 _der Inkubation wurde die Mikrobenkultur mit einer HPLC-MS untersucht,_
 _um die wichtigsten Phenolverbindungen in den Extrakten zu ermitteln. Die_
 _entsprechenden Ergebnisse sind in Tabelle 7 aufgeführt._
 
-Tabelle 7 – Phenolverbindungen in einer Probe einer Mikrobenkultur von_E. faecalis_ mit einer
-Konzentration von 10[^6]KBE/ml, zu der 5 mg/ml Extrakt aus_Picea abies_ hinzugefügt wurden. Die
+Tabelle 7 – Phenolverbindungen in einer Probe einer Mikrobenkultur von _E. faecalis_ mit einer
+Konzentration von 10[^6] KBE/ml, zu der 5 mg/ml Extrakt aus _Picea abies_ hinzugefügt wurden. Die
 Analyse wurde nach 24 Stunden in Abwesenheit und Anwesenheit von Mikroorganismen unter
 aeroben Wachstumsbedingungen bei 37 °C mit einer HPLC-MS durchgeführt.
 
@@ -3231,12 +3580,14 @@ Extrakts
 SFE
 (%)
 ```
+
 ```
 Hemmung des
 Extrakts
 Soxhlet
 (%)
 ```
+
 ```
 2-Methylbenzoesäure 11 ± 1,3 3,6 ± 0,5
 Zimtsäure 66,5 ± 3,4 26,7 ± 3,2
@@ -3250,6 +3601,7 @@ Dihydroquercetin (Taxifolin) 67,8 ± 3,5 16,7 ± 1,4
 Astringin 92,2 ± 5,4 73,1 ± 1,5
 Isorhapontin 27,8 ± 3,2 19,8 ± 2,1
 ```
+
 _Nach 24 Stunden Kontakt zwischen dem Mikrobenstamm und dem Extrakt_
 _wurden signifikante Verringerungen (p < 0,05) bestimmter Phenolverbindun-_
 _gen wie Catechin, Dihydroquercetin, Astringin und Isorhapontin beobachtet._
@@ -3260,46 +3612,47 @@ Ferrentino, Haman, Morozova, Scampicchio
 
 _weisen darauf hin, dass beide Extrakte eine antimikrobielle Wirkung haben._
 _Für einige Phenolverbindungen (wie zum Beispiel Zimtsäure, Protocatechu-_
-_säure und Gallussäure) war die Inhibition bei denmit überkritischem Kohlen-_
+_säure und Gallussäure) war die Inhibition bei den mit überkritischem Kohlen-_
 _dioxid gewonnenen Extrakten höher._
-_Einige Studien haben die antimikrobielle Wirkung der Extrakte ausPicea abies_
+_Einige Studien haben die antimikrobielle Wirkung der Extrakte aus Picea abies_
 _gegen grampositive und gramnegative Pilze und Bakterien nachgewiesen_
 _(Radulescu et al., 2011; Puupponen-Pimiä et al., 2001; Rauha et al., 2000). Die_
 _Extrakte wurden durch Dampfdestillation und Extraktion mit Lösungsmittel_
 _gewonnen. In den Extrakten vorhandene Phenolverbindungen sind Querce-_
 _tin, Kaempferol und Myricetin, die alle als hauptverantwortlich für die anti-_
 _mikrobielle Wirkung ermittelt wurden (Plumed-Ferrer et al., 2013). Außerdem_
-_haben verschiedene Studien bewiesen, dass die im Extrakt ausPicea abiesvor-_
+_haben verschiedene Studien bewiesen, dass die im Extrakt aus Picea abies vor-_
 _handenen Phenolverbindungen, wie zum Beispiel Pinosylvin, Astringin,_
 _Piceatannol, Isorhapontin und Isorhapontigenin, eine antimikrobielle Wir-_
 _kung gegen gramnegative Mikroorganismen wie Salmonella und gramposi-_
-_tive Bakterien wieListeria monocytogenes, Staphylococcus epidermidis und_
-_Staphylococcus aureus sowie gegen Hefepilze wieCandida tropicalis undSac-_
+_tive Bakterien wie Listeria monocytogenes, Staphylococcus epidermidis und_
+_Staphylococcus aureus sowie gegen Hefepilze wie Candida tropicalis und Sac-_
 _charomyces cerevisaegezeigt haben. Außerdem wurden in einer rezenten Studie_
-_ausPinus sylvestrisund der RottannePicea abiesgewonnene Phenolverbindun-_
+_aus Pinus sylvestris und der Rottanne Picea abiesgewonnene Phenolverbindun-_
 _gen getestet, um ihre antibakterielle Wirkung zu verdeutlichen (Metsämuuro-_
 _nen et al., 2019). Es wurde nachgewiesen, dass die wichtigsten im Extrakt aus_
-_Picea abiesvorhandenen Phenolverbindungen wie z. B. Quercetin, Dihydro-_
+_Picea abies vorhandenen Phenolverbindungen wie z. B. Quercetin, Dihydro-_
 _quercetin und Myricetin wiederum eine starke antimikrobielle Wirkung ge-_
 _gen verschiedene Bakterien aufwiesen._
 
 #### 4. Schlussfolgerungen
 
 _In diesem Kapitel wurde die antimikrobielle Wirkung der aus Holzabfällen_
-_vonPicea abies gewonnenen Extrakte untersucht. Es wurden zwei verschie-_
+_von Picea abies gewonnenen Extrakte untersucht. Es wurden zwei verschie-_
 _dene Extraktionstechnologien getestet: die Extraktion mit überkritischem_
 _Kohlendioxid und die Extraktion mit Soxhlet-Technologie. Beide Extrakte lös-_
-_ten eine höhere antimikrobielle Wirkung auf das Wachstum vonE. faecalis als_
-_auf das vonS. thermophilus aus. Bei beiden Mikrobenstämmen kennzeichnete_
+_ten eine höhere antimikrobielle Wirkung auf das Wachstum von E. faecalis als_
+_auf das von S. thermophilus aus. Bei beiden Mikrobenstämmen kennzeichnete_
 
 ```
 Extraktion aus Holzrückständen
 ```
+
 _sich das Wachstum in Anwesenheit des Extrakts durch eine längere Verzöge-_
 _rungszeit (_λ_), eine geringere Wärmeentwicklung (Qtot) während des Wachs-_
 _tums und folglich durch niedrigere Werte des maximalen Wärmeflusses_
 _(_Φ_max). Auch die Wachstumsgeschwindigkeit (μmax) sinkt mit Erhöhung des_
-_der Mikrobenkulturzugesetzten Extrakts. Diese Inhibition wurde auf be-_
+_der Mikrobenkultur zugesetzten Extrakts. Diese Inhibition wurde auf be-_
 _stimmte Phenolverbindungen wie Catechin, Dihydroquercetin, Astringin und_
 _Isorhapontin zurückgeführt, von denen nach 24-stündigem Kontakt zwischen_
 _der Mikrobenkultur und dem Extrakt geringere Konzentrationen gemessen_
@@ -3311,16 +3664,16 @@ _Lebensmittel-, Kosmetik- und Pharmaprodukten genutzt werden._
 
 Literaturverzeichnis
 _Salem MZM, Elansary HO, Elkelish AA, Zeidler A, Ali HM, Yessoufou K_
-_(2016):In vitro bioactivity and antimicrobial activity of Picea abies and Larix_
-_decidua wood and bark extracts.BioResources 11, 9421-9437._
-_Grassmann J, Hippeli S, Vollmann R, Elstner EF (2003):Antioxidative properties_
+_(2016): In vitro bioactivity and antimicrobial activity of Picea abies and Larix_
+_decidua wood and bark extracts. BioResources 11, 9421-9437._
+_Grassmann J, Hippeli S, Vollmann R, Elstner EF (2003): Antioxidative properties_
 _of the essential oil from Pinus mugo. J. Agric. Food Chem. 51, 7576-7582._
-_Bianchi S, Gloess AN, Kroslakova I, Mayer I, Pichelin F (2014):Analysis of the_
+_Bianchi S, Gloess AN, Kroslakova I, Mayer I, Pichelin F (2014): Analysis of the_
 _structure of condensed tannins in water extracts from bark tissues of Norway_
 _spruce (Picea abies [Karst.]) and Silver fir (Abies alba [Mill.]) using MALDI-_
 _TOF mass spectrometry. Industrial Crops and Products 61, 430-437._
 _Kusumoto N, Zhao T, Swedjemark G, Ashitani T, Takahashi K, Borg-Karlson_
-_A (2014):Antifungal properties of terpenoids in Picea abies against H_
+_A (2014): Antifungal properties of terpenoids in Picea abies against H_
 _eterobasidion parviporum. For Pathol. 44, 353-361._
 _Minova S, Sešķēna R, Voitkāne S, Metla Z, Daugavietis M, Jankevica L (2015):_
 _Impact of pine (Pinus sylvestris L.) and spruce (Picea abies (L.) Karst.) bark extracts_
@@ -3329,95 +3682,96 @@ _Sciences Section B Natural Exact and Applied Sciences 69, 62-67._
 
 Ferrentino, Haman, Morozova, Scampicchio
 
-_Sahin HT, Yalcin OU (2017):Chemical Composition and Utilization of Conifer_
+_Sahin HT, Yalcin OU (2017): Chemical Composition and Utilization of Conifer_
 _Needles-A Review. Journal of Applied Life Sciences International, 1-11._
 _Alañón ME, García-Ruiz A. Díaz-Maroto M, Pérez-Coello MS, Moreno-_
-_Arribas M (2015):Antimicrobial and antioxidant activity of pressurized liquid_
-_extracts from oenological woods.Food Control 50, 581-588._
+_Arribas M (2015): Antimicrobial and antioxidant activity of pressurized liquid_
+_extracts from oenological woods. Food Control 50, 581-588._
 _Politi FA, de Mello JC, Migliato KF, Nepomuceno AL, Moreira RR, Pietro RC_
-_(2011):Antimicrobial, cytotoxic and antioxidant activities and determination of_
-_the total tannin content of bark extracts Endopleura uchi.International journal_
+_(2011): Antimicrobial, cytotoxic and antioxidant activities and determination of_
+_the total tannin content of bark extracts Endopleura uchi. International journal_
 _of molecular sciences 12, 2757-2768._
-_Cruz JM, Domínguez JM, Domínguez H, Parajó JC (2011):Antioxidant and_
+_Cruz JM, Domínguez JM, Domínguez H, Parajó JC (2011): Antioxidant and_
 _antimicrobial effects of extracts from hydrolysates of lignocellulosic materials. J_
 _Agric Food Chem 49, 2459-2464._
-_Becvárová P, Horváth M, Sarapatka B, Zouhar V (2018):Dynamics of soil organic_
+_Becvárová P, Horváth M, Sarapatka B, Zouhar V (2018): Dynamics of soil organic_
 _carbon (SOC) content in stands of Norway spruce (Picea abies) in central Europe._
 _Forest Biogeosciences and Forestry 11, 734-742._
-_Neiva DM, Araújo S, Gominho J, de Cássia Carneiro A, Pereira H (2018):An_
+_Neiva DM, Araújo S, Gominho J, de Cássia Carneiro A, Pereira H (2018): An_
 _integrated characterization of Picea abies industrial bark regarding chemical_
 _composition, thermal properties and polar extracts activity. PloS One 13,_
 _e0208270._
-_Tanase C, Cosarca S, Toma F, Mare A, Cosarca A, Mare A (2018):Antibacterial_
+_Tanase C, Cosarca S, Toma F, Mare A, Cosarca A, Mare A (2018): Antibacterial_
 _activities of spruce bark (Picea abies L.) extract and its components against human_
 _pathogens. Rev Chim. 69, 1462-1467._
-_Vainio-Kaila T, Kyyhkynen A, Rautkari L, Siitonen A(2015): Antibacterial_
+_Vainio-Kaila T, Kyyhkynen A, Rautkari L, Siitonen A (2015): Antibacterial_
 _Effects of Extracts of Pinus sylvestris and Picea abies against Staphylococcus_
 _aureus, Enterococcus faecalis, Escherichia coli, and Streptococcus pneumoniae._
 _BioResources 10, 7763-7771._
 _Vardar-Ünlü G, Candan F, Sökmen A, Daferera D, Polissiou M, Sökmen M_
-_(2003):Antimicrobial and antioxidant activity of the essential oil and methanol_
+_(2003): Antimicrobial and antioxidant activity of the essential oil and methanol_
 _extracts of Thymus pectinatus Fisch. et Mey. Var. pectinatus (Lamiaceae).J Agric_
 _Food Chem. 51, 63-67._
-_Liu X, Zhao M, Wang J, Luo W (2009):Antimicrobialand antioxidant activity of_
+_Liu X, Zhao M, Wang J, Luo W (2009): Antimicrobial and antioxidant activity of_
 _emblica extracts obtained by supercritical carbon dioxide extraction and methanol_
 _extraction. J Food Biochem 33, 307-330._
 
 ```
 Extraktion aus Holzrückständen
 ```
-_Wetwitayaklung P, Thavanapong N, Charoenteeraboon J (2009):Chemical_
+
+_Wetwitayaklung P, Thavanapong N, Charoenteeraboon J (2009): Chemical_
 _constituents and antimicrobial activity of essential oil and extracts of heartwood_
 _of Aquilaria crassna obtained from water distillation and supercritical fluid_
 _carbon dioxide extraction. Silpakorn University Science and Technology_
 _Journal 3, 25-33._
-_Eller FJ, King JW (2000):Supercritical carbon dioxide extraction of cedarwood oil: a_
+_Eller FJ, King JW (2000): Supercritical carbon dioxide extraction of cedarwood oil: a_
 _study of extraction parameters and oil characteristics. Phytochemical Analysis:_
 _An International Journal of Plant Chemical and Biochemical Techniques_
 _11, 226-231._
-_Pasquini D, Pimenta MTB, Ferreira LH, da Silva C,Aprigio A (2005):Extraction_
+_Pasquini D, Pimenta MTB, Ferreira LH, da Silva C,Aprigio A (2005): Extraction_
 _of lignin from sugar cane bagasse and Pinus taeda wood chips using ethanol–_
 _water mixtures and carbon dioxide at high pressures. The Journal of_
 _supercritical fluids 36, 31-39._
-_González-Vila FJ, Bautista JM, Gutierrez A, Del RioJ, González A (2000):_
+_González-Vila FJ, Bautista JM, Gutierrez A, Del Rio J, González A (2000):_
 _Supercritical carbon dioxide extraction of lipids from Eucalyptus globulus wood._
 _J. Biochem Biophys Methods 43, 345-351._
-_Cao H, Xiao JB, Xu M (2007):Comparison of volatile components of Marchantia_
+_Cao H, Xiao JB, Xu M (2007): Comparison of volatile components of Marchantia_
 _convoluta obtained by supercritical carbon dioxide extraction and petrol ether_
 _extraction. Journal of Food Composition and Analysis 20, 45-51._
-_Caredda A, Marongiu B, Porcedda S, Soro C (2002):Supercritical carbon dioxide_
+_Caredda A, Marongiu B, Porcedda S, Soro C (2002): Supercritical carbon dioxide_
 _extraction and characterization of Laurus nobilis essential oil. J Agric Food_
 _Chem. 50, 1492-1496._
 _Haman N, Morozova K, Tonon G, Scampicchio M, Ferrentino G (2019):_
 _Antimicrobial Effect of Picea abies Extracts on E. coli Growth. Molecules 24, 22._
-_Hardie JM, Whiley RA (2003):Classification and overview of the genera_
+_Hardie JM, Whiley RA (2003): Classification and overview of the genera_
 _Streptococcus and Enterococcus. Journal of Applied Microbiology. Blackwell_
 _Science Ltd._
-_Tenover FC (2006):Mechanisms of antimicrobial resistance in bacteria. The_
+_Tenover FC (2006): Mechanisms of antimicrobial resistance in bacteria. The_
 _American Journal of Medicine 119, S3-S10._
-_Davies J, Davies D (2010):Origins and evolution of antibacterial resistance._
+_Davies J, Davies D (2010): Origins and evolution of antibacterial resistance._
 _Microbiology and molecular biology reviews 74, 417-433._
 _Radulescu V, Saviu S, Chifiriu C, Oprea E, Ilies DC, Marutescu L, Lazar V_
-_(2011):Chemical Composition and Antimicrobial Activity of Essential Oil from_
+_(2011): Chemical Composition and Antimicrobial Activity of Essential Oil from_
 _Shoots Spruce (Picea abies L). Rev. Chim. 62, 69-74._
 
 Ferrentino, Haman, Morozova, Scampicchio
 
 _Puupponen-Pimiä R, Nohynek L, Meier C, Kähkönen M, Heinonen M, Hopia_
-_A, Oksman-Caldentey KM (2001):Antimicrobial properties of phenolic_
+_A, Oksman-Caldentey KM (2001): Antimicrobial properties of phenolic_
 _compounds from berries. Journal of Applied Microbiology 90, 494-507._
 _Rauha JP, Remes S, Heinonen M, Hopia A, Kähkönen M, Kujala T, Pihlaja K,_
-_Vuorela H, Vuorela P (2000):Antimicrobial effect of Finnish plant extracts_
+_Vuorela H, Vuorela P (2000): Antimicrobial effect of Finnish plant extracts_
 _containing flavonoids and other phenolic compounds. International Journal of_
 _Food Microbiology 56, 3-12._
-_Plumed-FerrerC, Väkeväinen K, Komulainen H, Rautiainen M, Smeds A,_
+_Plumed-Ferrer C, Väkeväinen K, Komulainen H, Rautiainen M, Smeds A,_
 _Raitanen J-R, Eklund P, Willför S, Alakomi H-L, Saarela M, Wright A_
 _(2013): The antimicrobial effects of wood-associated polyphenols on food_
 _pathogens and spoilage organisms. International Journal of Food_
 _Microbiology 164, 99-107._
-_Metsämuuronen S, Siren H (2019):Bioactive phenolic compounds, metabolism and_
+_Metsämuuronen S, Siren H (2019): Bioactive phenolic compounds, metabolism and_
 _properties: a review on valuable chemical compounds in Scots pine and Norway_
-_spruce.Phytochem Rev. 18, 623–664._
+_spruce. Phytochem Rev. 18, 623–664._
 
 ## Nutzung von Kohle als Bodenverbesserungsmittel:
 
@@ -3426,11 +3780,11 @@ _spruce.Phytochem Rev. 18, 623–664._
 ## Südtiroler Vergasungsanlagen
 
 **Silvia Celletti– Freie Universität Bozen**
-**Luigimaria Borruso– Freie Universität Bozen**
-**Fabio Valentinuzzi– FreieUniversität Bozen**
+**Luigimaria Borruso – Freie Universität Bozen**
+**Fabio Valentinuzzi– Freie Universität Bozen**
 **Daniele Basso– Freie Universität Bozen**
-**Francesco Patuzzi– Freie Universität Bozen**
-**Marco Baratieri– Freie Universität Bozen**
+**Francesco Patuzzi – Freie Universität Bozen**
+**Marco Baratieri – Freie Universität Bozen**
 **Stefano Cesco– Freie Universität Bozen**
 **Tanja Mimmo– Freie Universität Bozen**
 
@@ -3438,10 +3792,10 @@ Abstract
 _WOOD-UP ist ein Projekt angewandter Forschung, das darauf abzielt, konkrete und_
 _brauchbare Ergebnisse mit positiven Auswirkungen auf Schlüsselbranchen der Südti-_
 _roler Wirtschaft(z. B. Landwirtschaft, Energie und Umwelt) zu erzielen._
-_Die jüngsten, im Rahmen dieser Forschungsarbeiterzielten Ergebnisse weisen darauf_
+_Die jüngsten, im Rahmen dieser Forschungsarbeit erzielten Ergebnisse weisen darauf_
 _hin, dass Kohle, ein aus Holzbiomasse gewonnenes Nebenprodukt aus dem Verga-_
 _sungsprozess, eine wertvolle Ressource darstellen könnte, wenn sie in der Landwirt-_
-_schaft als Bodenverbesserungsmittel eingesetzt wird.Derzeit sind die Eigenschaften_
+_schaft als Bodenverbesserungsmittel eingesetzt wird. Derzeit sind die Eigenschaften_
 _der in Südtirol erzeugten Kohle jedoch nur zu einem kleinen Teil bekannt und ihre Fä-_
 _higkeit zur Verbesserung der Bodenfruchtbarkeit bisher praktisch noch unerforscht._
 _In diesem Zusammenhang wurde das Ziel dieser Studie im Wesentlichen darauf aus-_
@@ -3451,7 +3805,7 @@ _Folgenden wurde die Wirkung der Anwendung von Kohle auf den Boden durch Nut-_
 _zung pflanzlicher Spezies als Bioindikatoren in Phytotoxizitäts- und Keimtests unter-_
 _sucht._
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 #### 1. Einleitung
 
@@ -3459,7 +3813,7 @@ _Südtirol hat sich unter den verschiedenen Regionen des italienischen Staats-_
 _gebiets durch den Bau zahlreicher Anlagen hervorgetan, die lokal verfügbare_
 _erneuerbare Energiequellen wie Sonne, Wasser, Wind und Biomasse nutzen._
 _Unter den verschiedenen Arten von Biomasse ist Holz nach Wasserkraft die_
-_zweitwichtigste Energiequelle Südtirols(Fuchs & Rienzner, 2015). Zudem be-_
+_zweitwichtigste Energiequelle Südtirols (Fuchs & Rienzner, 2015). Zudem be-_
 _stehen 44 % des Südtiroler Gebiets aus Wäldern; die Nutzung von Holz kann_
 _daher als intelligente Lösung betrachtet werden, die auch mit positiven Wir-_
 _kungen auf die Forstwirtschaft einhergeht._
@@ -3467,12 +3821,12 @@ _Die Kategorie erneuerbarer Energien hat in den letzten Jahren besondere Auf-_
 _merksamkeit erregt und ihre Aufwertung ist auf die Verbreitung von Fern-_
 _heizwerken zurückzuführen, die Holzbiomasse für die Erzeugung von_
 _elektrischer und Wärmeenergie verwenden. Südtirol ist heute die Region mit_
-_der größten Dichte an Fernheizwerken in Europa(Fuchs & Rienzner, 2015)._
+_der größten Dichte an Fernheizwerken in Europa (Fuchs & Rienzner, 2015)._
 _Außerdem erhält die Energieerzeugung aus Biomasse in Südtirol auch wegen_
 _der schnellen Entwicklung kleiner Biomassevergasungsanlagen große Auf-_
 _merksamkeit. Zum Teil handelt es sich dabei um eine Folge der Tariferhöhung_
-_für Erzeuger erneuerbarer Energien, aber auch umeine Folge der Optimie-_
-_rung der Vergaser, die auf Hochleistungsniveau undzueiner höheren Be-_
+_für Erzeuger erneuerbarer Energien, aber auch um eine Folge der Optimie-_
+_rung der Vergaser, die auf Hochleistungsniveau und zu einer höheren Be-_
 _triebsstabilität gebracht wurden, was diese Investition attraktiv gemacht hat_
 _(Vakalis & Baratieri, 2015)._
 _Die Vergasung ist ein der Pyrolyse ähnlicher Prozess; bei beiden handelt es sich_
@@ -3480,7 +3834,7 @@ _um thermochemische Abbauprozesse eines flüssigen oder festen Materials or-_
 _ganischen Ursprungs. Im Unterschied zur Pyrolyse jedoch, die ganz ohne Sau-_
 _erstoff erfolgt, findet die Vergasung unter Sauerstoffmangel bei Temperaturen_
 _zwischen 750–1200 °C (Yasin et al., 2019) statt, also bei höheren Temperaturen_
-_alsdie Pyrolyse (280–850 °C)(Gopal, Sivaram, & Barik, 2018). Aus dem Verga-_
+_als die Pyrolyse (280–850 °C) (Gopal, Sivaram, & Barik, 2018). Aus dem Verga-_
 _sungsprozess erhält man drei verschiedene Nebenprodukte: (i) ein brennbares_
 _Gas, sogenanntes „Synthesegas“, dessen Zusammensetzung sehr heterogen ist_
 _(man kann Kohlendioxid, Wasserdampf, verschiedene Kohlenwasserstoffe, Me-_
@@ -3491,6 +3845,7 @@ _den können, und (iii) einen festen Rückstand, der als Kohle („char“) beze
 ```
 Nutzung der Kohle als Bodenverbesserungsmittel:
 ```
+
 _wird und die inerte Fraktion des verarbeiteten Materials darstellt (Pecchi &_
 _Baratieri, 2019)._
 _In den letzten Jahren wurden im Südtirol über 40 kleine Vergasungsanlagen_
@@ -3509,25 +3864,25 @@ _können Biochar demzufolge als Bodenverbesserungsmittel einsetzen, wenn_
 _sie eine Reihe physikalischer und chemischer Parameter beachten._
 _Biocharfindet in vielen verschiedenen Bereichen Anwendung, unter anderem_
 _im energetischen, ökologischen und landwirtschaftlichen. In der Landwirt-_
-_schaft insbesondere konnte Biocharseine positive Wirkung als Bodenverbes-_
-_serungsmittel unter Beweis stellen. Esverbessert die Fruchtbarkeit und er-_
+_schaft insbesondere konnte Biochar seine positive Wirkung als Bodenverbes-_
+_serungsmittel unter Beweis stellen. Es verbessert die Fruchtbarkeit und er-_
 _leichtert die Speicherung von Kohlenstoff im Boden und erhöht auf diese_
 _Weise den Ertrag der angebauten Spezies (Hansen et al., 2015, 2017). Außer-_
 _dem wird Biochar aufgrund seiner absorbierenden Eigenschaften als vielver-_
 _sprechende Methode betrachtet, mit der kontaminierende Stoffe im Boden im-_
-_mobilisiert undderen Bioverfügbarkeit wirksam reduziert werden kann; zu_
+_mobilisiert und deren Bioverfügbarkeit wirksam reduziert werden kann; zu_
 _solchen Stoffen gehören polyzyklische aromatische Kohlenwasserstoffe_
-_(PAK)(Waqas, Khan, Qing, Reid, & Chao, 2014) und andere potenziell toxi-_
+_(PAK) (Waqas, Khan, Qing, Reid, & Chao, 2014) und andere potenziell toxi-_
 _sche Verbindungen wie z. B. Schwermetalle (Kadmium, Blei, Kupfer und Ni-_
 _ckel) (Li et al., 2016). Diese Eigenschaften haben Biochar zu einem weltweit_
 _bekannten und angewandten Material gemacht, das zur Kohlenstoffbindung_
 _in den Ökosystemen der Erde und Verbesserung der Klimabedingungen bei-_
 _trägt (Panwar, Pawar, & Salvi, 2019). Es sollte jedoch beachtet werden, dass_
 _die Anwendung von Biochar auf dem Boden, ohne vorherige angemessene_
-_Analyseseiner Charakterisierung, mit beträchtlichen Risiken einer Umwelt-_
+_Analyse seiner Charakterisierung, mit beträchtlichen Risiken einer Umwelt-_
 _verschmutzung einhergehen kann; denn während der Pyrolyse der Biomasse_
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 _können sich potenziell toxische Stoffe bilden, die dann für die im Boden le-_
 _benden Organismen bioverfügbar wären. Zu diesen gefährlichen Verbindun-_
@@ -3540,7 +3895,7 @@ _zu untersuchen. Im Mittelpunkt stand die Evaluierung der chemischen Eigen-_
 _schaften und die Nachhaltigkeit der Südtiroler Kohle, die als Bodenverbesse-_
 _rungsmittel zur Erhöhung der Fruchtbarkeit eingesetzt werden soll. Diesbe-_
 _züglich hat der Blick auf die aktuelle Karte, die den Stand der Vergasungs-_
-_technik in Südtirol zeigt, ermöglicht,die für die Erzeugung einer als Boden-_
+_technik in Südtirol zeigt, ermöglicht, die für die Erzeugung einer als Boden-_
 _verbesserungsmittel nutzbaren Kohle vielversprechendsten Technologien_
 _auszuwählen. Zudem wurde Kohle aus acht technologisch unterschiedlichen_
 _Anlagen entnommen und chemisch charakterisiert. Insbesondere wurde eine_
@@ -3559,12 +3914,13 @@ Phytotoxizitätstest verwendeten Kohle
 _Die Kohle entstammt Südtiroler Vergasungsanlagen, die repräsentativ für die_
 _Monitoring-Kampagne ausgewählt wurden; aus Gründen der Vertraulichkeit_
 _wurden die Technologien mit Großbuchstaben benannt, also von Technologie_
-_A bis Technologie H. Die Kohle wurdein den Labors für Biobrennstoffe und_
+_A bis Technologie H. Die Kohle wurde in den Labors für Biobrennstoffe und_
 _Bioenergie der Freien Universität Bozen chemisch charakterisiert._
 
 ```
 Nutzung der Kohle als Bodenverbesserungsmittel:
 ```
+
 _Der Aschegehalt wurde nach UNI EN ISO 18122:2016 bestimmt. Die Ele-_
 _mentaranalyse wurde nach UNI EN ISO 16948:2015 durchgeführt. Außerdem_
 _wurde der Gehalt verschiedener toxischer Stoffe untersucht, darunter PAK_
@@ -3588,10 +3944,10 @@ _bei Bedarf mit Leitungswasser gegossen._
 
 2.3 Wachstumstest
 _Für die Phytotoxizitätstests mit Maispflanzen wurden drei verschiedene Ar-_
-_ten von Kohle (aus denTechnologien B, F und H) aufgrund ihrer chemischen_
+_ten von Kohle (aus den Technologien B, F und H) aufgrund ihrer chemischen_
 _Eigenschaften ausgewählt. Vor der Saat wurde der Boden mit den drei ver-_
 _schiedenen Arten von Kohle in jeweils zwei verschiedenen Konzentrationen_
-_vermischt: 8,5 e 17 gchar kgBoden-_[^1]_. DieseKonzentrationen wurden ausgewählt,_
+_vermischt: 8,5 e 17 gchar kgBoden-_[^1]_. Diese Konzentrationen wurden ausgewählt,_
 _weil sie den auf dem experimentellen Feld verwendeten Konzentrationen ent-_
 _sprachen. Für jede Behandlung wurden fünf biologische Replikate vorberei-_
 _tet. Außerdem wurden fünf Gefäße ohne Zusatz von Kohle als Kontrollgefäße_
@@ -3600,7 +3956,7 @@ _Am Ende des Experiments nahm man Proben der Blätter, die dazu von den_
 _Wurzeln getrennt wurden, und Proben des rhizosphärischen Bodens. Der ge-_
 _samte Boden in den Gefäßen wurde als rhizosphärisch betrachtet, da diese_
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 _komplett durchwurzelt waren. Der rhizosphärische Boden und die Blattge-_
 _webe wurden dann bei 65 °C im Ofen getrocknet, bis sie ein konstantes Ge-_
@@ -3610,7 +3966,7 @@ _wicht erreichten, und danach für die späteren Untersuchungen aufbewahrt._
 
 _Während des Wachstums der Maispflanzen wurde jede Woche mit einem_
 _tragbaren, nicht-destruktiven Gerät, einem sogenannten SPAD (Akronym für_
-_„Soil Plant Analytical Development“) (SPAD-502 Plus, Minolta, Osaka, Japan)_
+_„Soil Plant Analytical Development“) (SPAD - 502 Plus, Minolta, Osaka, Japan)_
 _der Chlorophyllgehalt bestimmt. Für jede Behandlung wurden fünf Messungen,_
 _eine für jede Pflanze, am jüngsten, vollständig expandierten Blatt durchgeführt,_
 _dann der Mittelwert genommen und als SPAD-Index angegeben._
@@ -3623,7 +3979,7 @@ _Kugelmühle (Mixer Mill, MM400, RETSCH, Italien) homogenisiert. Ungefähr_
 _0,3 g jeder Probe wurden unter Anwendung eines Mikrowellenaufschlussys-_
 _tems mit einer Reaktionskammer mit konzentrierter ultrapurer Salpetersäure_
 _(650 ml L-_[^1]_; Carlo Erba, Mailand, Italien) mineralisiert (UltraWAVE, Milestone,_
-_Shelton, CT, USA). Die Konzentrationen der Makro-und Mikronährstoffe wur-_
+_Shelton, CT, USA). Die Konzentrationen der Makro- und Mikronährstoffe wur-_
 _den dann durch ICP-OES-Analyse bestimmt (Arcos Ametek, Spectro, Deutsch-_
 _land); dabei wurden Tomatenblätter (SRM 1573a) und Spinatblätter (SRM 1547)_
 _als zertifiziertes externes Bezugsmaterial verwendet._
@@ -3634,11 +3990,12 @@ _Eine Bodendispersion in destilliertem Wasser, zubereitet im Verhältnis Bo-_
 _den/Wasser von 1:2,5 Gewicht/Volumen, wurde zuerst geschüttelt und dann_
 _für 30 Minuten ruhen gelassen. Der pH-Wert des Bodens der Rhizosphäre_
 _wurde potentiometrisch mit einem pH-Meter gemessen, indem die Elektro-_
-_den in dieklare Lösung eingetaucht wurden._
+_den in die klare Lösung eingetaucht wurden._
 
 ```
 Nutzung der Kohle als Bodenverbesserungsmittel:
 ```
+
 2.7 Keimtest mit Kresse
 _Für die Keimtests wurden gewöhnliche Kressesamen (Lepidium sativumL.), eine_
 _gegenüber Phytotoxinen sehr empfindliche Pflanzenart, verwendet. Die Samen_
@@ -3646,13 +4003,13 @@ _wurden für circa eine Stunde in ein Bad mit destilliertem Wasser gelegt; der_
 _gesamte Test wurde in Konformität mit der Norm UNI 10780:1998 durchge-_
 _führt. Kurz gesagt, zehn Samen wurden in Petrischalen zu 100 mm auf eine_
 _Schicht aus Filterpapier (90 mm, Whatman 41, aschefrei) gelegt. Dann wurden_
-_1,2mLKohleextrakte in Wasser hinzugefügt und gleichzeitig einige Kontroll-_
+_1,2 mL Kohleextrakte in Wasser hinzugefügt und gleichzeitig einige Kontroll-_
 _proben zubereitet, bei denen das Extrakt durch destilliertes Wasser ersetzt_
 _wurde. Die Kohle wurde dabei mit destilliertem Wasser behandelt (Extraktions-_
 _verhältnis 1:20 Gewicht/Volumen), zwei Stunden geschüttelt, bei 5.000 g zentri-_
 _fugiert und durch Spritzenfilter mit 0,45-μm-Poren gefiltert. Die Petri-Schalen_
-_wurden mit Parafilm versiegelt, mit Aluminiumfolieabgedeckt und für 24 Stun-_
-_den bei 25 °Cinkubiert. Nach der Inkubationszeit wurde die Anzahl der ge-_
+_wurden mit Parafilm versiegelt, mit Aluminiumfolie abgedeckt und für 24 Stun-_
+_den bei 25 °C inkubiert. Nach der Inkubationszeit wurde die Anzahl der ge-_
 _keimten Samen und deren Wurzellänge bestimmt, sowohl für die Petrischalen_
 _mit den wässrigen Kohleextrakten als auch für die Kontrollen. Jede Behandlung_
 _wurde zehnmal repliziert. Zur Berechnung des Keimindex (GI) wurde der Quo-_
@@ -3666,6 +4023,7 @@ _ziert; daraus ergibt sich folgende Formel:_
 𝐴𝐴𝐺𝐺𝐴𝐴𝑏𝑏𝑏𝑏ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑏𝑏𝑎𝑎𝑎𝑎 𝑥𝑥 𝐿𝐿𝐴𝐴𝐿𝐿𝑏𝑏𝑏𝑏ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑏𝑏𝑎𝑎𝑎𝑎
 𝐴𝐴𝐺𝐺𝐴𝐴𝐾𝐾𝐾𝐾𝑎𝑎𝑎𝑎𝐾𝐾𝐾𝐾𝑎𝑎𝑎𝑎𝑏𝑏 𝑥𝑥 𝐿𝐿𝐴𝐴𝐿𝐿𝐾𝐾𝐾𝐾𝑎𝑎𝑎𝑎𝐾𝐾𝐾𝐾𝑎𝑎𝑎𝑎𝑏𝑏
 ```
+
 _wobei_
 _AGS = Anzahl gekeimter Samen;_
 _LSW = Mittlere Wurzellänge der gekeimten Samen (mm)._
@@ -3676,7 +4034,7 @@ _likaten ± Standardfehler (SF) dargestellt. Es wurde eine einfaktorielle Va-_
 _rianzanalyse (One way ANOVA) mit der Version SigmaPlot 12.0 (Systat Soft-_
 _ware, Inc., San Jose, CA, USA) durchgeführt; die Mittelwerte wurden auf_
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 _Grundlage des Turkey-Tests verglichen. Verschiedene Buchstaben stehen für_
 _statistisch unterschiedliche Werte (P < 0,05)._
@@ -3695,7 +4053,7 @@ Technologien gewonnenen Kohle
 
 C = Kohlenstoff; H = Wasserstoff; N = Stickstoff; O = Sauerstoff; PCI = Unterer Heizwert.
 
-Tabelle 2 – Gehalt anPAK, PCB, Dioxinen (DX) und Schwermetallen* der Kohle
+Tabelle 2 – Gehalt an PAK, PCB, Dioxinen (DX) und Schwermetallen* der Kohle
 
 Cd = Kadmium; Cr = Chrom; Zn = Zink; TEQ = Toxizitätsäquivalent (steht für die Gesamtkon-
 zentration einer Verbindungsfamilie); *überschreitet die Grenzwerte (D. lgs., 29 aprile 2010, n. 75).
@@ -3703,7 +4061,8 @@ zentration einer Verbindungsfamilie); *überschreitet die Grenzwerte (D. lgs., 2
 ```
 Nutzung der Kohle als Bodenverbesserungsmittel:
 ```
-_Hinsichtlich derDateninTabelle 1, setzt die italienische Gesetzgebung (D._
+
+_Hinsichtlich der Daten in Tabelle 1, setzt die italienische Gesetzgebung (D._
 _lgs.,_ [^29]: _aprile 2010, n. 75) einen Grenzwert für den Molquotienten von Was-_
 _serstoff (H) und Kohlenstoff (C) fest. Dieser Wert darf maximal 0,7 betragen._
 _In Anbetracht der in dieser Tabelle aufgeführten Werte hielten alle Kohlepro-_
@@ -3712,10 +4071,10 @@ _schen 0,02 und 0,22 lagen._
 
 _In Tabelle 2 sind nur die Schwermetalle (Cd, Cr und Zn) angegeben, die in_
 _den untersuchten Kohleproben die Grenzwerte der italienischen Gesetz-_
-_gebung überschritten(D. lgs., 29 aprile 2010, n. 75). Insbesondere für Verbin-_
+_gebung überschritten (D. lgs., 29 aprile 2010, n. 75). Insbesondere für Verbin-_
 _dungen wie PAK, PCB, Dioxine und Schwermetalle sind vom Gesetz folgende_
-_Grenzwerte vorgegeben,(D. lgs., 29 aprile 2010, n. 75;D. lgs., 3 aprile 2006, n._
-_152),wobei TS für Trockensubstanz steht:_
+_Grenzwerte vorgegeben, (D. lgs., 29 aprile 2010, n. 75; D. lgs., 3 aprile 2006, n._
+_152), wobei TS für Trockensubstanz steht:_
 
 - PAK (Σ16 Moleküle) < 6 mg kg TS-[^1];
 - PCB < 0,06 mg kg TS-[^1];
@@ -3724,26 +4083,26 @@ _152),wobei TS für Trockensubstanz steht:_
 - Cr < 0,5 mg kg TS-[^1];
 - Zn < 500 mg kg TS-[^1]
 
-_Aus denWerten in Tabelle 2 ist klar ersichtlich, dass nur der PAK-Gehalt der_
-_Kohle derTechnologie C unter dem Grenzwert lag (D. lgs., 3 aprile 2006, n._
-_152), während alleanderen Kohleproben die Grenzwerte überschritten, teils_
+_Aus den Werten in Tabelle 2 ist klar ersichtlich, dass nur der PAK-Gehalt der_
+_Kohle der Technologie C unter dem Grenzwert lag (D. lgs., 3 aprile 2006, n._
+_152), während alle anderen Kohleproben die Grenzwerte überschritten, teils_
 _bis zu einem Dreifachen. Im Gegensatz dazu hielten alle untersuchten_
-_Kohleproben die Grenzwerte der italienischen Gesetzgebung(D. lgs., 3 aprile_
+_Kohleproben die Grenzwerte der italienischen Gesetzgebung (D. lgs., 3 aprile_
 _2006, n. 152) für die PCB- und Dioxinkonzentrationen ein._
 _Wenn man die Schwermetalle betrachtet (nicht aufgeführte Daten), wiesen_
-_sieben Kohleproben Cd-Konzentrationen zwischen 1,8 und 13,4 mg kgTS-_[^1]_auf._
+_sieben Kohleproben Cd-Konzentrationen zwischen 1,8 und 13,4 mg kgTS-_[^1] _auf._
 _Nur vier Technologien (C, F, G und H) entsprachen den gesetzlichen Grenz-_
-_werten(D. lgs., 29 aprile 2010, n. 75) für Cd. Der Gehalt an Cr in den Kohle-_
+_werten (D. lgs., 29 aprile 2010, n. 75) für Cd. Der Gehalt an Cr in den Kohle-_
 _proben lag, mit Ausnahme der mit der Technologie G gewonnenen Kohle,_
 _zwischen 0,7 und 15,5 mg kg TS-_[^1] _und somit nicht unter dem gesetzlichen_
-_Grenzwert(D. lgs., 29 aprile 2010, n. 75). Die Kohleproben der Technologien A,_
+_Grenzwert (D. lgs., 29 aprile 2010, n. 75). Die Kohleproben der Technologien A,_
 _B, C und H überstiegen außerdem die gesetzlichen Grenzwerte (D. lgs.,29 aprile_
-_2010, n. 75)für Zn, wobei die Werte zwischen 511,1 und 1317,0mgkgTS-_[^1]_lagen._
+_2010, n. 75) für Zn, wobei die Werte zwischen 511,1 und 1317,0 mg kg TS-_[^1] _lagen._
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 _Zusammenfassend kann man also sagen, dass keine Kohleprobe vollständig_
-_den Grenzwerten der italienischen Gesetzgebung entspricht(D. lgs., 29 aprile_
+_den Grenzwerten der italienischen Gesetzgebung entspricht (D. lgs., 29 aprile_
 _2010, n. 75; D. lgs., 3 aprile 2006, n. 152), auch wenn die Werte der mit den_
 _Technologien C und G gewonnenen Kohle diesen Grenzwerten am nächsten_
 _kommen. Diese Ergebnisse zeigen also, dass die durch Vergasung gewonnene_
@@ -3755,7 +4114,7 @@ _Landwirtschaft genutzt werden kann._
 Gehalt an Chlorophyll und an Makro- und
 Mikronährstoffen in den Blättern
 _Der Phytotoxizitätstest wurde mit Maispflanzen durchgeführt; die zuverläs-_
-_siggemessene physiologische Variable ist die Änderung des Chlorophyllge-_
+_sig gemessene physiologische Variable ist die Änderung des Chlorophyllge-_
 _halts, die mit einem SPAD-Gerät gemessen wurde. Dieses biologische Experi-_
 _ment half zu überprüfen, ob die drei verschiedenen ausgewählten Kohlepro-_
 _ben (B, F und H) relevante negative Wirkungen auf die Maispflanzen haben._
@@ -3763,15 +4122,15 @@ _Abbildung 1 zeigt die während des Phytotoxizitätsexperiments gemachten_
 _Fotos der Maispflanzen._
 _Tabelle 3 enthält die Mittelwerte des in vier verschiedenen aufeinanderfolgen-_
 _den Wochen gemessenen Chlorophyllgehalts in den Blättern der Maispflan-_
-_zen. Abbildung 2 zeigt die am Ende desTopfexperimentsregistrierten SPAD-_
+_zen. Abbildung 2 zeigt die am Ende des Topfexperiments registrierten SPAD-_
 _Werte (nach fünf Wochen des Wachstums). Die Behandlungen wurden mit_
-_dem Begriff„Char“ etikettiert, gefolgt von einem Kleinbuchstaben, der die im_
+_dem Begriff „Char“ etikettiert, gefolgt von einem Kleinbuchstaben, der die im_
 _Test verwendete Kohleprobe angibt (F. B und H), und von einer Zahl (2,5_
 _und 5), die sich auf die Dosis der mit dem Boden vermischten Kohle bezieht_
 _(8,5 bzw. 17 gchar kgBoden-_[^1]_)._
 _Während des Wachstums zeigten die Maispflanzen keine sichtbaren Toxizi-_
 _tätssymptome. Der als SPAD-Index gemessene Chlorophyllgehalt in den Blät-_
-_ternkennzeichnete sichjedochdurcheinige Unterschiede. Die Pflanzen der_
+_tern kennzeichnete sich jedoch durch einige Unterschiede. Die Pflanzen der_
 _Kontrollgruppe wiesen am 09.05.18 die höchsten SPAD-Werte und am_
 _26.04.18 die niedrigsten auf, während am 18.04.18 und 30.04.18 bei keiner der_
 _Pflanzen der verschiedenen Behandlungen eine signifikante Änderung des_
@@ -3780,50 +4139,52 @@ _Chlorophyllgehalts zu bemerken war. Die auf dem mit den Kohleproben H_
 ```
 Nutzung der Kohle als Bodenverbesserungsmittel:
 ```
+
 _und F vermischten Boden gewachsenen Pflanzen wiesen nur am 09.05.18_
-_Werteauf, die zwischen denen der Kontrollpflanzen und denen der auf Boden_
+_Werte auf, die zwischen denen der Kontrollpflanzen und denen der auf Boden_
 _mit Zusatz der Kohle B gewachsenen Pflanzen lagen, unabhängig von der an-_
 _gewandten Kohledosis._
 
-Abb. 1– Phytotoxizitätstest mit Maispflanzen. Im Laufe der Wachstumsphase wurden einige
-Pflanzen unterschiedlichen Konzentrationen vondrei verschiedenen, mit den Technologien F, B
+Abb. 1 – Phytotoxizitätstest mit Maispflanzen. Im Laufe der Wachstumsphase wurden einige
+Pflanzen unterschiedlichen Konzentrationen von drei verschiedenen, mit den Technologien F, B
 und H gewonnenen Kohleproben ausgesetzt, die mit dem Boden vermischt wurden, während
 andere als Kontrolle dienten.
 
 _Am 26.04.18 wiesen die Pflanzen der Kohle F 5 unter allen den höchsten_
 _SPAD-Wert auf (Tab. 3)._
 _Am Ende des Experiments waren die SPAD-Werte des Chlorophyllgehalts in_
-_den Blättern der Pflanzen nachderBehandlung mit der Kohle aus den drei_
+_den Blättern der Pflanzen nach der Behandlung mit der Kohle aus den drei_
 _Proben deutlich niedriger (um circa 40 %) als die des Chlorophyllgehalts in_
 _den Blättern der Kontrollpflanzen, ohne jedoch erhebliche Differenzen zwi-_
 _schen den Behandlungen und den Dosierungen aufzuweisen (Abb. 2)._
 _Diese Ergebnisse stimmen jenen von Liu et al., 2016, überein (Liu A, Tian D,_
-_Xiang Y, 2016). Diese Autorenwiesen eine offensichtlich fördernde Wirkung_
+_Xiang Y, 2016). Diese Autoren wiesen eine offensichtlich fördernde Wirkung_
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 _des Zusatzes von Kohle zum Boden auf das Chlorophyll einer Heilpflanze_
 _(Salvia miltihorriza Bunge) während der mittelfristigen Wachstumsphase und_
 _eine recht große Verringerung in der darauffolgenden Phase nach._
 
-Tabelle 3– SPAD-Messungen während des Phytotoxizitätsexperiments mit Mais als pflanzlicher
+Tabelle 3 – SPAD-Messungen während des Phytotoxizitätsexperiments mit Mais als pflanzlicher
 Bioindikator. Die Daten stellen die Mittelwerte ± SF (Standardfehler) von fünf unabhängigen
 Pflanzen für jede Behandlung dar. Unterschiedliche Buchstaben stehen für statistisch
 unterschiedliche Werte (P < 0,05) in jeder Kolonie.
 
 Abb. 2 – SPAD-Messungen am Ende des Phytotoxizitätsexperiments mit Mais als pflanzlicher
 Bioindikator. Die Daten stellen die Mittelwerte ± SF (Standardfehler) von fünf unabhängigen
-Pflanzen für jede Behandlung dar.Verschiedene Buchstaben stehen für statistisch unterschiedliche
+Pflanzen für jede Behandlung dar. Verschiedene Buchstaben stehen für statistisch unterschiedliche
 Werte (P < 0,05)
 
-_Untersucht wurde auch der Makro- undMikronährstoffgehalt (Abb. 3 und 4)_
+_Untersucht wurde auch der Makro- und Mikronährstoffgehalt (Abb. 3 und 4)_
 _der Maisblätter, um zu evaluieren, ob der Kohlezusatz die Versorgung der_
 _Pflanzen mit Mineralstoffen beeinflussen kann._
 
 ```
 Nutzung der Kohle als Bodenverbesserungsmittel:
 ```
-Abb. 3–Konzentrationen von Makronährstoffen (mg g-[^1]) in den Blättern der Maispflanzen am Ende
+
+Abb. 3 –Konzentrationen von Makronährstoffen (mg g-[^1]) in den Blättern der Maispflanzen am Ende
 der experimentellen Periode des Phytotoxizitätstests, der insgesamt fünf Wochen ab dem Zeitpunkt
 der Umpflanzung der Sämlinge in die Gefäße dauerte; diese Gefäße enthielten den mit zwei
 verschiedenen Konzentrationen (2,5 = 8,5 gcharkgBoden
@@ -3836,7 +4197,7 @@ Buchstaben stehen für statistisch unterschiedliche Werte (P < 0,05)
 
 Abb. 4 – Konzentrationen von Mikronährstoffen (mg g-[^1]) in den Blättern der Maispflanzen am Ende
 der experimentellen Periode des Phytotoxizitätstests, der insgesamt fünf Wochen ab dem Zeitpunkt
-der Umpflanzung der Sämlinge in dieGefäße dauerte; diese Gefäße enthielten den mit zwei
+der Umpflanzung der Sämlinge in die Gefäße dauerte; diese Gefäße enthielten den mit zwei
 verschiedenen Konzentrationen (2,5 = 8,5 gcharkgBoden
 
 -1; 5 = 17 gcharkgBoden
@@ -3845,7 +4206,7 @@ Kohlenproben (F, B und H) versetzten Boden. Die Daten stellen die Mittelwerte ±
 (Standardfehler) von fünf unabhängigen Pflanzen für jede Behandlung dar. Verschiedene
 Buchstaben stehen für statistisch unterschiedliche Werte (P < 0,05)
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 _Jede für dieses Experiment verwendete Kohleprobe verursachte im Vergleich_
 _zur Kontrollgruppe eine signifikante Verringerung der Konzentration des_
@@ -3862,8 +4223,8 @@ _die Konzentration der Mikronährstoffe der Maisblätter (Abb. 4). Die Konzent-_
 _ration von Kupfer (Cu), zum Beispiel, sank im Vergleich zur Kontrollgruppe_
 _deutlich bei Behandlung des Bodens mit allen Kohletypen außer H 2,5, unab-_
 _hängig von der Dosis. Das gleiche geschah mit Eisen (Fe); in diesem Fall war_
-_die Wirkung der Dosis jedoch signifikant. Die Kontrollpflanzen und diePflan-_
-_zender Kohle H 2,5 wiesen die höchsten Eisenkonzentrationen auf, während_
+_die Wirkung der Dosis jedoch signifikant. Die Kontrollpflanzen und die Pflan-_
+_zen der Kohle H 2,5 wiesen die höchsten Eisenkonzentrationen auf, während_
 _alle anderen Pflanzen, die auf einem mit anderen Kohleproben versetzten Bö-_
 _den gewachsen waren, durch eine deutlich niedrigere Eisenkonzentration ge-_
 _kennzeichnet waren. Für Mangan (Mn) wurde eine deutliche Verringerung_
@@ -3883,6 +4244,7 @@ _Gebermedihin, 2012; Prapagdee & Tawinteung, 2017)._
 ```
 Nutzung der Kohle als Bodenverbesserungsmittel:
 ```
+
 3.3 Wirkung der Kohle auf den pH-Wert des Bodens
 _Abbildung5 zeigt den pH-Wert, der im Boden der Kontrollgruppe und in den_
 _verschiedenen Wachstumssubstraten festgestellt wurde, auf denen die Mais-_
@@ -3892,19 +4254,19 @@ _und H erzielt._
 _In der Literatur ist bekannt, dass die beim Vergasungsprozess erreichten ho-_
 _hen Temperaturen die physikalischen und chemischen Eigenschaften der er-_
 _zeugten Kohle stark beeinflussen (Al-Wabel, Al-Omran, El-Naggar, Nadeem,_
-_& Usman, 2013; Zhao, Cao, Mašek, & Zimmerman, 2013).Der pH-Wert ist_
+_& Usman, 2013; Zhao, Cao, Mašek, & Zimmerman, 2013). Der pH-Wert ist_
 _zum Beispiel generell alkalisch (Lehmann, 2007). Aufgrund dieser Tatsache_
 _hat der Zusatz unterschiedlicher Kohleproben zum Boden auch in dieser Stu-_
 _die den pH-Wert des Bodens um bis zu zwei Einheiten erhöht (Abb. 5). Die_
 _im Boden erreichten Werte sind jedoch noch akzeptabel und riskieren nicht,_
 _das optimale Wachstum der Maispflanzen zu beeinträchtigen._
 
-Abb. 5– pH-Wert des Mittels, das für fünf Wochen als Grundlage für das Wachstum der
-Maispflanzen diente. Die Daten stellen die Mittelwerte ± SF (Standardfehler)von fünf unabhängigen
-Pflanzen für jede Behandlung dar.Verschiedene Buchstaben stehen für statistisch unterschiedliche
+Abb. 5 – pH-Wert des Mittels, das für fünf Wochen als Grundlage für das Wachstum der
+Maispflanzen diente. Die Daten stellen die Mittelwerte ± SF (Standardfehler) von fünf unabhängigen
+Pflanzen für jede Behandlung dar. Verschiedene Buchstaben stehen für statistisch unterschiedliche
 Werte (P < 0,05)
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 3.4 Einfluss der Kohle auf die Keimung von Kressesamen
 _Abbildung 6 zeigt die Werte des anhand von Keimtests mit Kressesamen_
@@ -3925,20 +4287,21 @@ _können (Ndirangu, Liu, Xu, Song, & Zhang, 2019; Tomczyk, Sokołowska, &_
 _Boguta, 2020)._
 
 Abb. 6 – Keimindex der Kressesamen, die mit den wässrigen Extrakten der von den Technologien
-F, B und H erzeugten Kohle inBerührung kamen. Die Daten stellen die Mittelwerte ± SF
-(Standardfehler) von fünf unabhängigen Pflanzen für jede Behandlung dar.Verschiedene
+F, B und H erzeugten Kohle in Berührung kamen. Die Daten stellen die Mittelwerte ± SF
+(Standardfehler) von fünf unabhängigen Pflanzen für jede Behandlung dar. Verschiedene
 Buchstaben stehen für statistisch unterschiedliche Werte (P < 0,05)
 
 ```
 Nutzung der Kohle als Bodenverbesserungsmittel:
 ```
+
 #### 4. Schlussfolgerungen
 
 _Das wichtigste Ziel dieser Arbeit bestand darin, Informationen über die Mög-_
 _lichkeit einer Nutzung von Kohle aus Vergasungsprozessen zu landwirt-_
 _schaftlichen Zwecken zu erhalten._
 _Zu diesem Zweck wurden acht Kohleproben aus Anlagen mit unterschiedli-_
-_chen Technologien entnommen(hier aus Gründen der Vertraulichkeit mit_
+_chen Technologien entnommen (hier aus Gründen der Vertraulichkeit mit_
 _Großbuchstaben von A bis H bezeichnet) und untersucht; dabei sollten vor_
 _allem ihre potenziellen phytotoxischen Wirkungen im Falle einer Anwendung_
 _als Bodenverbesserungsmittel evaluiert werden. Die Ergebnisse zeigen, dass_
@@ -3959,111 +4322,112 @@ _dem wäre es zweckmäßig, den Schwermetall- und PAK-Gehalt der Pflanzen_
 _zu untersuchen; im Boden sollten hingegen, ergänzend zu den chemischen_
 _Bodeneigenschaften, die verfügbare Nährstofffraktion, die Werte elektrischer_
 _Leitfähigkeit und die Werte der Fähigkeit zum Kationenaustausch bestimmt_
-_sowie eine Analyse der Mikrobendiversität und-aktivität durchgeführt wer-_
+_sowie eine Analyse der Mikrobendiversität und -aktivität durchgeführt wer-_
 _den. All diese Analysen zusammen könnten zusätzliche Informationen über_
 _eine mögliche latente Toxizität der Kohle und ihre Wirkungen auf die Boden-_
 _qualität und die Gesundheit der Pflanzen liefern._
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 Literaturverzeichnis
 
 _Abebe, N., Endalkachew, K., Mastawesha, M., & Gebermedihin, A. (2012)._
 _Effect of Biochar Application on Soil Properties and Nutrient Uptake of_
-_Lettuces (Lactuca sativa) Grown in Chromium Polluted Soils.American-_
+_Lettuces (Lactuca sativa) Grown in Chromium Polluted Soils. American-_
 _Eurasian Journal of Agricultural & Environmental Sciences,_ [^12]:_(3), 369–376._
 _Al-Wabel, M. I., Al-Omran, A., El-Naggar, A. H., Nadeem, M., & Usman, A._
 _R. A. (2013). Pyrolysis temperature induced changes in characteristics_
 _and chemical composition of biochar produced from conocarpus wastes._
 _Bioresource Technology,_ [^131]:_, 374–379. https://doi.org/10.1016/j.biortech._
 _2012.12.165_
-_Decreto legislativon. 75 (29 aprile 2010). Riordino e revisione della disciplina_
+_Decreto legislativo n. 75 (29 aprile 2010). Riordino e revisione della disciplina_
 _in materia di fertilizzanti, a norma dell’articolo 13 della legge 7 luglio_
 [^2009]:_. Gazzetta Ufficiale, 88._
 _Decreto legislativo, n. 152 (3 aprile 2006). Norme in materia ambientale._
-_Gazzetta Ufficiale, 88- Suppl. Ordinario 96._
+_Gazzetta Ufficiale, 88 - Suppl. Ordinario 96._
 _Environmental Protection Agency EPA. (2010). Method 1668C. Chlorinated_
 _Biphenyl Congeners in Water, Soil, Sediment, Biosolids, and Tissue by_
 _HRGC/HRMS._
-_Fuchs, H., & Rienzner, R. (2015).Biomasse legnose: Petrolio verde per il teler-_
+_Fuchs, H., & Rienzner, R. (2015). Biomasse legnose: Petrolio verde per il teler-_
 _iscaldamento italiano. http://www.fiper.it/fileadmin/user_upload/_
 _biblioteca/libroFIPER-biomasse-legnose-petrolio-verde-per-il-_
 _teleriscaldamento-italiano.pdf_
-_Garcia-Perez, M., & Metcalf, J. (2008).The Formation of Polyaromatic Hydrocar-_
+_Garcia-Perez, M., & Metcalf, J. (2008). The Formation of Polyaromatic Hydrocar-_
 _bons and Dioxins During Pyrolysis: A Review of the Literature with Descrip-_
 _tions of Biomass Composition, Fast Pyrolysis Technologies and Thermo-_
 _chemical Reactions. Pullman, Washington: Washington State University._
 _Gopal, P. M., Sivaram, N. M., & Barik, D. (2018). Paper industry wastes and_
-_energy generation from wastes. InEnergy from Toxic Organic Waste for_
+_energy generation from wastes. In Energy from Toxic Organic Waste for_
 _Heat and Power Generation(pp. 83–97). https://doi.org/10.1016/B978-_[^0]:_-08-_
 _102528-4.00007-9_
 _Hansen, V., Müller-Stöver, D., Ahrenfeldt, J., Holm, J. K., Henriksen, U. B., &_
 _Hauggaard-Nielsen, H. (2015). Gasification biochar as a valuable by-_
-_product for carbon sequestration and soil amendment.Biomass and_
-_Bioenergy,_[^72]:_(1), 300–308. https://doi.org/10.1016/j.biombioe.2014.10.013_
+_product for carbon sequestration and soil amendment. Biomass and_
+_Bioenergy,_ [^72]:_(1), 300–308. https://doi.org/10.1016/j.biombioe.2014.10.013_
 _Hansen, V., Müller-Stöver, D., Imparato, V., Krogh, P. H., Jensen, L. S.,_
 _Dolmer, A., & Hauggaard-Nielsen, H. (2017). The effects of straw or_
 _straw-derived gasification biochar applications on soil quality and crop_
-_productivity: A farm case study.Journalof Environmental Management,_
+_productivity: A farm case study. Journal of Environmental Management,_
 [^186]:_, 88–95. https://doi.org/10.1016/j.jenvman.2016.10.041_
 
 ```
 Nutzung der Kohle als Bodenverbesserungsmittel:
 ```
-_Lehmann, J. (2007). Bio-energy in the black.Frontiers in Ecology and the Environ-_
-_ment,_[^5]:_(7), 381–387.https://doi.org/10.1890/1540-9295(2007)5[381:BITB]_
+
+_Lehmann, J. (2007). Bio-energy in the black. Frontiers in Ecology and the Environ-_
+_ment,_ [^5]:_(7), 381–387. https://doi.org/10.1890/1540-9295(2007)5[381:BITB]_
 _2.0.CO;2_
 _Li, H., Liu, Y., Chen, Y., Wang, S., Wang, M., Xie, T., & Wang, G. (2016)._
 _Biochar amendment immobilizes lead in rice paddy soils and reduces_
-_its phytoavailability.Scientific Reports,_ [^6]:_, 1–8. https://doi.org/10.1038/_
+_its phytoavailability. Scientific Reports,_ [^6]:_, 1–8. https://doi.org/10.1038/_
 _srep31616_
 _Liu A, Tian D, Xiang Y, M. H. (2016). Biochar Improved Growth of an_
 _Important Medicinal Plant (Salvia miltiorrhiza Bunge) and Inhibited its_
-_Cadmium Uptake.J Plant Biol Soil Health,_[^3]:_(2), 6._
-_Ndirangu, S. M., Liu, Y., Xu, K., Song, S., & Zhang, P. (2019).Risk Evaluation of_
+_Cadmium Uptake. J Plant Biol Soil Health,_ [^3]:_(2), 6._
+_Ndirangu, S. M., Liu, Y., Xu, K., Song, S., & Zhang, P. (2019). Risk Evaluation of_
 _Pyrolyzed Biochar from Multiple Wastes. https://doi.org/10.1155/2019/_
 _4506314_
 _Panwar, N. L., Pawar, A., & Salvi, B. L. (2019). Comprehensive review on_
-_production and utilization of biochar.SN Applied Sciences,_[^1]:_(2), 1–19._
+_production and utilization of biochar. SN Applied Sciences,_ [^1]:_(2), 1–19._
 _https://doi.org/10.1007/s42452-_[^019]:_-_[^0172]:_-6_
 _Pecchi, M., & Baratieri, M. (2019). Coupling anaerobic digestion with_
 _gasification, pyrolysis or hydrothermal carbonization: A review._
-_Renewable and Sustainable Energy Reviews,_[^105]:_, 462–475. https://doi.org/_
+_Renewable and Sustainable Energy Reviews,_ [^105]:_, 462–475. https://doi.org/_
 _10.1016/j.rser.2019.02.003_
 _Prapagdee, S., & Tawinteung, N. (2017). Effects of biochar on enhanced_
-_nutrient use efficiency of green bean, Vigna radiata L.Environmental_
+_nutrient use efficiency of green bean, Vigna radiata L. Environmental_
 _Science and Pollution Research,_ [^24]:_(10), 9460–9467. https://doi.org/_
 _10.1007/s11356-_[^017]:_-_[^8]:[^633]:_-1_
 _Tomczyk, A., Sokołowska, Z., & Boguta, P. (2020, March). Biochar_
 _physicochemical properties: pyrolysis temperature and feedstock kind_
-_effects.Reviews in Environmental Science and Biotechnology, 19,_[^191]:_–215_
+_effects. Reviews in Environmental Science and Biotechnology, 19,_ [^191]:_–215_
 _https://doi.org/10.1007/s11157-_[^020]:_-_[^09523]:_-3_
-_UNI 10780:1998. Compost- Classificazione, requisiti e modalità di impiego._
-_UNI EN 16174:2012. Fanghi, rifiuti organici trattati e suolo- Digestione delle_
+_UNI 10780:1998. Compost - Classificazione, requisiti e modalità di impiego._
+_UNI EN 16174:2012. Fanghi, rifiuti organici trattati e suolo - Digestione delle_
 _frazioni di elementi solubili in acqua regia._
-_UNI EN ISO 16948:2015. Biocombustibili solidi- Determinazione del contenuto_
+_UNI EN ISO 16948:2015. Biocombustibili solidi - Determinazione del contenuto_
 _totale di carbonio, idrogeno e azoto._
 _UNI EN ISO 17294-2:2016. Qualita’ dell’acqua - Applicazione della spettrometria di_
-_massa al plasma accoppiato induttivamente (ICP-MS)- Parte 2: Determina-_
+_massa al plasma accoppiato induttivamente (ICP-MS) - Parte 2: Determina-_
 _zione di elementi selezionati, compresi gli isotopi dell’uranio._
-_UNI EN ISO 18122:2016. Biocombustibili solidi- Determinazione del contenuto di_
+_UNI EN ISO 18122:2016. Biocombustibili solidi - Determinazione del contenuto di_
 _ceneri._
-_Vakalis, S., & Baratieri, M. (2015).State-of-the-Art of Small Scale Biomass_
-_Gasifiers in the Region of South Tyrol.Waste and Biomass Valorization,_
+_Vakalis, S., & Baratieri, M. (2015). State-of-the-Art of Small Scale Biomass_
+_Gasifiers in the Region of South Tyrol. Waste and Biomass Valorization,_
 
-Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri,Cesco,Mimmo
+Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 
 [^6]:_(5), 817–829. https://doi.org/10.1007/s12649-_[^015]:_-_[^9398]:_-8_
-_Waqas, M., Khan, S.,Qing, H., Reid, B. J., & Chao, C. (2014). The effects of_
+_Waqas, M., Khan, S., Qing, H., Reid, B. J., & Chao, C. (2014). The effects of_
 _sewage sludge and sewage sludge biochar on PAHs and potentially_
-_toxic element bioaccumulation in Cucumis sativa L.Chemosphere,_[^105]:_,_
+_toxic element bioaccumulation in Cucumis sativa L. Chemosphere,_ [^105]:_,_
 _53–61. https://doi.org/10.1016/j.chemosphere.2013.11.064_
 _Yasin, M., Cha, M., Chang, I. S., Atiyeh, H. K., Munasinghe, P., & Khanal, S._
 _K. (2019). Syngas fermentation into biofuels and biochemicals. In_
 _Biomass, Biofuels, Biochemicals: Biofuels: Alternative Feedstocks and_
 _Conversion Processes for the Production of Liquid and Gaseous Biofuels (pp._
 _301–327). https://doi.org/10.1016/B978-_[^0]:_-_[^12]:_-816856-1.00013-0_
-_Zhao, L., Cao, X., Mašek, O., & Zimmerman, A. (2013).Heterogeneity of_
+_Zhao, L., Cao, X., Mašek, O., & Zimmerman, A. (2013). Heterogeneity of_
 _biochar properties as a function of feedstock sources and production_
 _temperatures. Journal of Hazardous Materials,_ [^256]:_–_[^257]:_, 1–9._
 _https://doi.org/10.1016/j.jhazmat.2013.04.015_
@@ -4074,11 +4438,11 @@ _https://doi.org/10.1016/j.jhazmat.2013.04.015_
 
 ## anlagen in Südtirol
 
-**Valentina Lucchetta– Versuchszentrum Laimburg**
-**Barbara Raifer– Versuchszentrum Laimburg**
-**MaximilianLösch– Versuchszentrum Laimburg**
-**Aldo Matteazzi– Versuchszentrum Laimburg**
-**Christoph Patauner– Versuchszentrum Laimburg**
+**Valentina Lucchetta – Versuchszentrum Laimburg**
+**Barbara Raifer – Versuchszentrum Laimburg**
+**Maximilian Lösch – Versuchszentrum Laimburg**
+**Aldo Matteazzi – Versuchszentrum Laimburg**
+**Christoph Patauner – Versuchszentrum Laimburg**
 
 Abstract
 _Die Verwendung von pyrogener Kohle (Biochar) in der Landwirtschaft ist historischen_
@@ -4100,7 +4464,7 @@ _Die Arbeiten haben einige interessante Aspekte der Anwendung von Biochar aufge-
 _zeigt, so die Anreicherung der Böden mit Mineralstoffen, die Anhebung des pH-Wertes_
 _und des organischen Kohlenstoffes der Böden, günstige Auswirkungen auf die Baum-_
 _entwicklung und die Ertragsleistung im Obstbau, während die Weinqualität unverän-_
-_dert geblieben ist. Die Ausbringung von reinem Biochar oder von mitKompost ange-_
+_dert geblieben ist. Die Ausbringung von reinem Biochar oder von mit Kompost ange-_
 
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
@@ -4113,7 +4477,7 @@ _Kohlenstoff im Boden langfristig festzulegen, ohne dass dadurch negative Auswir
 _gen auf die Ertragshöhe oder die Qualität der Trauben und Weine zu befürchten wären._
 _Im Obstbau hingegen konnten, trotz der bereits weitgehend optimierten Anbaubedin-_
 _gungen, positive Auswirkungen auf die vegetative Entwicklung der Bäume und höhere_
-_Erträgedurch den Einsatz von Biochar festgestellt werden. Im Boden der Apfelanlage_
+_Erträge durch den Einsatz von Biochar festgestellt werden. Im Boden der Apfelanlage_
 _wurde eine höhere Stickstoff- und Wasserverfügbarkeit als in den Rebanlagen ange-_
 _strebt, es wurde regelmäßig gedüngt und bewässert. Das Biochar dürft unter diesen_
 _Bedingungen, durch sein hohes Speichervermögen, zu einer ausgeglicheneren Versor-_
@@ -4129,7 +4493,7 @@ _(Lehmann e Joseph, 2009). Diese Eigenschaften machen Biochar zu einem sehr_
 _interessanten Produkt für die Landwirtschaft, da die höheren Temperaturen_
 _und die ausgeprägteren Trockenphasen infolge der Klimaänderung den Ab-_
 _bau der organischen Substanz in den Böden beschleunigen und die Boden-_
-_fruchtbarkeit beeinträchtigen (Kirschbaum, 1995). Es werden daher auchin_
+_fruchtbarkeit beeinträchtigen (Kirschbaum, 1995). Es werden daher auch in_
 _Europa in den nächsten Jahrzehnten zunehmend sinkende Erträge in der_
 _Landwirtschaft vorhergesagt (Cammarano, 2019; Ray, 2019). Über den An-_
 _stieg der Temperaturen hinaus, ist infolge der Klimaänderung ein Anstieg_
@@ -4141,6 +4505,7 @@ _besserung könnte daher in Zukunft an Bedeutung gewinnen und wesentlich_
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 _dazu beitragen die Fruchtbarkeit der Böden weiterhin zu sichern. Zudem ist_
 _Biochar von großem Interesse, da es Kohlenstoff langfristig festzulegen vermag:_
 _Tatsächlich wird etwa 50 % des Kohlenstoffes im Ausgangsmaterial bei der_
@@ -4216,13 +4581,14 @@ _alten Baumstreifen ausgepflanzt. Bisherige Versuche mit Biochar im Apfelan-_
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 _bau zeigen unterschiedliche Ergebnisse: Laut Wang et al. (2019), ist der Ein-_
 _satz von Biochar gerade bei Nachbauproblemen sehr vorteilhaft, das Wachs-_
 _tum der Jungbäume wird verbessert und auch die Mikroorganismenpopulati-_
 _on des Bodens wird günstig beeinflusst. Versuche von Eyles et al. (2015) hat-_
 _ten allerdings ergeben, dass in „hight imput systems“ wie es die heutigen Ap-_
 _felanlagen sind, der Einsatz von Kompost oder Biochar keine zusätzlichen po-_
-_sitivenAuswirkungenbringen würde._
+_sitiven Auswirkungen bringen würde._
 
 1.2 Ziele der Versuche
 _Die hier vorgestellten Versuche hatten zum Ziel erste Ergebnisse zur Anwen-_
@@ -4254,12 +4620,12 @@ Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
 2.1 Versuchsstandorte
 
-Abb. 1– Südtirolkarte mit den Versuchsstandorten
+Abb. 1 – Südtirolkarte mit den Versuchsstandorten
 
 _Die Rebversuchsanlagen Moarhof (1) und Weißplatter (2) befinden sich in den_
 _Hanglagen in der Nähe der Stadt Meran; die Apfelneuanlage (3) befindet sich_
 _in der Etschtalsohle in der Nähe des Versuchszentrums Laimburg, Gemeinde_
-_Pfatten (Abb.1). In Tabelle 1 sind einige grundlegende Informationen zu den_
+_Pfatten (Abb. 1). In Tabelle 1 sind einige grundlegende Informationen zu den_
 _Versuchsanlagen zusammengefasst. Die Kürzel der Versuchsvarianten wer-_
 _den nachfolgend, bei den Abbildungen der Versuchspläne (Abb._ [^2]:_–4) erklärt._
 _Alle Versuche wurden als randomisierte Blöcke mit 4 Wiederholungen ange-_
@@ -4268,35 +4634,44 @@ _legt._
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 ```
 B1 6 C 5 B1C 4 B2 3 N 2 B2C 1
 ```
+
 ```
 B2 7 N 8 B2C 9 B1 10 C 11 B1C 12
 ```
+
 ```
 C 18 B2C 17 B1 16 B2 15 B1C 14 N 13
 ```
+
 ```
 N 19 B2 20 B1C 21 B2C 22 C 23 B1 24
 ```
+
 Tabelle [^1]: – Grundlegende Angaben zu den Versuchsanlagen
 
 ```
 Anlage Ort Koordinaten Höhe
 (m ü.d.M.)
 ```
+
 ```
 Art
 und Sorte
 ```
+
 ```
 Behand-
 lungen
 ```
+
 ```
 Wiederh.
 ```
+
 1. Moarhof Meran 46°40'2.7"N
 11°11'43.5"E
 
@@ -4304,14 +4679,17 @@ Wiederh.
 ~600 m Vitis vinifera cv.
 Müller Thurgau
 ```
+
 ```
-N– C– B1– B2
+N – C – B1 – B2
 ```
-– B1C– B2C
+
+– B1C – B2C
 
 ```
 4
 ```
+
 2. WeißplatterMeran 46°39'17.27"N
 11°11'28.49"E
 
@@ -4319,14 +4697,17 @@ N– C– B1– B2
 ~550 m Vitis vinifera cv.
 Sauvignon Blanc
 ```
+
 ```
-N– C– B1– B2
+N – C – B1 – B2
 ```
-– B1C– B2C
+
+– B1C – B2C
 
 ```
 4
 ```
+
 3. Block 65 Laimburg 46°23'23.16"N
 11°17'29.74"E
 
@@ -4334,9 +4715,11 @@ N– C– B1– B2
 ~225 m Malus domestica
 cv. Pink Lady
 ```
+
 ```
-N– C– BC 4
+N – C – BC 4
 ```
+
 ```
 N Kontrolle unbehandelt
 C Kompost, 3,9 kg/m² Standraum der Rebe
@@ -4345,19 +4728,22 @@ B2 Biochar, 5 kg/m² Standraum der Rebe
 B1C Biochar, 2,5 kg/m² + Kompost, 3,9 kg/m² Standraum der Rebe
 B2C Biochar, 5 kg/m² + Kompost, 3,9 kg/m² Standraum der Rebe
 ```
+
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
 ```
 N Kontrolle unbehandelt
 C Kompost, 3,9 kg/m Rebreihe
-B1 Biochar, 2,5kg/m Rebreihe
+B1 Biochar, 2,5 kg/m Rebreihe
 B2 Biochar, 5 kg/m Rebreihe
 B1C Biochar, 2,5kg/m + Kompost, 3,9 kg/m Rebreihe
 B2C Biochar, 5 kg/m + Kompost, 3,9 kg/m Rebreihe
 ```
+
 ```
-Abb. 3– Versuchsplan Anlage Weißplatter
+Abb. 3 – Versuchsplan Anlage Weißplatter
 ```
+
 ```
 B1 N B2 B1C
 25 31 37 43
@@ -4372,19 +4758,22 @@ B2C B2 N C
 N B1 B1C B1
 30 36 42 48
 ```
+
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 _* Die weiteren Varianten im Versuch betreffen andere Produkte zur Verbesserung des_
 _Anwuchses und der Entwicklung der Jungbäume auf die hier nicht eingegangen wird_
 
-Abb. 4– Versuchsplan Block 65
+Abb. 4 – Versuchsplan Block 65
 
 ```
 N Kontrolle unbehandelt
-C Kompost,1,8 kg/Pflanzloch
+C Kompost, 1,8 kg/Pflanzloch
 BC Biochar,1 kg + Kompost, 1,8 kg/Pflanzloch
 ```
+
 2.2 Versuche
 _Das im Versuch verwendete Biochar kommt aus einer Holzvergasungsanlage_
 _in den Marken (Novolegno, Italien) und wurde angekauft, da auf lokaler Ebe-_
@@ -4397,6 +4786,7 @@ _Bei den Versuchen in den Rebanlagen wurden zwei Dosierungen des Biochars_
 ```
 A B C D
 ```
+
 ```
 10 4 3 6
 9 8 2 9
@@ -4409,17 +4799,18 @@ A B C D
 2 6 9 10
 1 7 4 3
 ```
+
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
 _eingesetzt und zwar 2,5 (Biochar 1) und 5,0 kg (Biochar 2) des Biochars pro m²_
 _Standraum der Reben in der Anlage Moarhof bzw. pro Laufmeter Rebreihe in_
 _der Anlage Weißplatter. Diese Dosierungen wurden sowohl als reines Biochar_
-_als auch in Mischung mit Kompost,mit jeweils 3,9 kg/m² Standraum der Re-_
+_als auch in Mischung mit Kompost, mit jeweils 3,9 kg/m² Standraum der Re-_
 _ben bzw. pro Laufmeter der Rebzeile, ausgebracht. Die Dosierung des Kom-_
 _posts blieb somit immer gleich. In der Apfelneuanlage wurde nur eine Dosie-_
-_rung Biochar voneinem kg mit jeweils 1,8kg Kompost vermischt, pro Pflanz-_
+_rung Biochar von einem kg mit jeweils 1,8 kg Kompost vermischt, pro Pflanz-_
 _loch ausgebracht. Dies im Vergleich zur unbehandelten Kontrolle und zur Va-_
-_riante Kompost, bei der nur die 1,8kg Kompost pro Pflanzloch ausgebracht_
+_riante Kompost, bei der nur die 1,8 kg Kompost pro Pflanzloch ausgebracht_
 _wurden. Die Mischungen Kompost mit Biochar in den zwei Dosierungen_
 _wurden zwei Wochen vor der Ausbringung mit einem Kleinbagger herge-_
 _stellt. Die auszubringenden Mengen wurde ausgelitert und entsprechende Vo-_
@@ -4428,15 +4819,17 @@ _wurden laut Versuchsplan in den einzelnen Versuchsparzellen ausgebracht_
 _und möglichst gleichmäßig verteilt. Die Tabelle 3 zeigt die C: N-Verhältnisse_
 _der im Versuch verwendeten Bodenzusätze auf._
 
-Tabelle [^2]:– Eigenschaftendes verwendeten Biochars
+Tabelle [^2]: – Eigenschaften des verwendeten Biochars
 
 ```
 Parameter Ermittlung/
 Extraktion
 ```
+
 ```
 Wert Einheit Methode
 ```
+
 ```
 pH CaCl2 9,6 1
 N 0,1 % m/m 2
@@ -4449,9 +4842,11 @@ K2O Wasser 3,5 % m/m 4
 CaO Säuren 4,2 % m/m 4
 Cao Wasser < 0,1 % m/m 4
 ```
+
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 _MgO Säuren 0,8 % m/m 4_
 
 _MgO Wasser < 0,1 % m/m 4_
@@ -4486,79 +4881,96 @@ _schluss mit KW_
 ```
 0,63 g/kg FM 5
 ```
+
 _Al Mikrowellenauf-_
 _schluss mit KW_
 
 ```
 0,54 g/kg FM 5
 ```
+
 _Mn Mikrowellenauf-_
 _schluss mit KW_
 
 ```
 358,34 mg/kg FM 5
 ```
+
 _Cu Mikrowellenauf-_
 _schluss mit KW_
 
 ```
 19,38 mg/kg FM 5
 ```
+
 _Zn Mikrowellenauf-_
 _schluss mit KW_
 
 ```
 68,58 mg/kg FM 5
 ```
+
 _Cr Mikrowellenauf-_
 _schluss mit KW_
 
 ```
 6,57 mg/kg FM 5
 ```
+
 _Ni Mikrowellenauf-_
 _schluss mit KW_
 
 ```
 6,12 mg/kg FM 5
 ```
+
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
 ```
 Pb Mikrowellenauf-
 schluss mit KW
 ```
+
 ```
 5,65 mg/kg FM 5
 ```
+
 ```
 Co Mikrowellenauf-
 schluss mit KW
 ```
+
 ```
 0,75 mg/kg FM 5
 ```
+
 ```
 Hg Mikrowellenauf-
 schluss mit KW
 ```
+
 ```
 0,029 mg/kg FM 6
 ```
+
 ```
 Cd Mikrowellenauf-
 schluss mit KW
 ```
+
 ```
 1,112 mg/kg FM 5
 ```
+
 ```
 As Mikrowellenauf-
 schluss mit KW
 ```
+
 ```
 < 0,1 mg/kg FM 7
 ```
+
 ```
 Trockenmasse 33,4 % 8
 Feuchtigkeit 66,6 % 8
@@ -4566,6 +4978,7 @@ Asche 13,4 % FM 9
 Organische Substanz 20 % FM 8
 Salze (KCL) Wasser 3106 mg/100g 10
 ```
+
 ```
 Methode Legende
 1 DIN EN 15933:2012
@@ -4579,29 +4992,33 @@ Methode Legende
 9 VDLUFA Methodenbuch I A 15.2
 10 VDLUFA Methodenbuch I A 10.1.1
 ```
+
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-Tabelle[^3]:– Errechnete C:N Verhältnisse von Biochar, Kompost und
+
+Tabelle [^3]: – Errechnete C:N Verhältnisse von Biochar, Kompost und
 den Mischungen
 
 ```
 Bodenzusätze C:N-Verhältnis
 Biochar 145
-Biochar 2,5 kg + Kompost3,9 kg 24
+Biochar 2,5 kg + Kompost 3,9 kg 24
 ```
+
 ```
-Biochar 5 kg + Kompost3,9 kg 46
+Biochar 5 kg + Kompost 3,9 kg 46
 Kompost 13
 ```
+
 _In den einzelnen Anlagen wurde wie folgt vorgegangen:_
 
-2.2.1 Moarhof– Versuchsbeginn2017
+2.2.1 Moarhof – Versuchsbeginn 2017
 _Es handelt sich um eine Ertragsanlage der Sorte Müller-Thurgau, welche 2007_
-_ausgepflanzt worden ist. Als Rebunterlage wurde SO4 verwendet.Beim Bo-_
+_ausgepflanzt worden ist. Als Rebunterlage wurde SO4 verwendet. Beim Bo-_
 _den der Anlage handelt es sich um einen humosen, lehmigen Sand mit einem_
 _pH-Wert von 6,3 und einem Gehalt an organischer Substanz in den obersten_
-_30 cm Boden zwischen 2,5 und 3%.Das Biochar, der Kompost und die_
+_30 cm Boden zwischen 2,5 und 3%. Das Biochar, der Kompost und die_
 _Mischungen wurden mit einem Scheibenpflug und mit einer Kreiselegge in_
 _den Fahrgassen etwa in die obersten 30 cm Boden eingearbeitet, die Kontrolle_
 _wurde auch gleich bearbeitet obwohl dort nichts ausgebracht worden war._
@@ -4614,7 +5031,7 @@ Biochar sind im Bild leichte farbliche Abstufungen zu erkennen.
 
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
-2.2.2 Weißplatter– Versuchsbeginn 2017
+2.2.2 Weißplatter – Versuchsbeginn 2017
 _Beim Boden dieser Anlage handelt es sich um einen lehmigen Sand, mit einem_
 _Gehalt an organischer Substanz um 2,5% und einem pH-Wert von 6,1. Die Re-_
 _banlage wurde 2017 neu gepflanzt. Unmittelbar vor dem Pflanzen der Reben_
@@ -4624,7 +5041,7 @@ _(Abb. 6). Dann wurden Pfropfreben der Sorte Weißer Sauvignon auf der_
 _Unterlage SO4 ausgepflanzt. Die einzelnen Parzellen bestehen aus jeweils 12_
 _Reben._
 
-Abb. 6– Das Ausbringen und Einarbeiten des Biochars, des Komposts und der Mischungen im
+Abb. 6 – Das Ausbringen und Einarbeiten des Biochars, des Komposts und der Mischungen im
 Pflanzstreifen vor dem Pflanzen der Reben.
 _Der Versuch in der Apfelneuanlage wurde in Zusammenarbeit mit dem Fach-_
 _bereich Obstbau des Versuchszentrums Laimburg durchgeführt und in einen_
@@ -4639,10 +5056,11 @@ _delt auf M9 (Abb. 7) gepflanzt. Jede Wiederholung bestand aus 8 Bäumen._
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-Abb. 7– Bilder aus dem 1. und 2. Standjahr der Versuchsanlage Block 65
+
+Abb. 7 – Bilder aus dem 1. und 2. Standjahr der Versuchsanlage Block 65
 
 _Nach der Versuchsanlegung wurden die Versuchsanlagen einheitlich und ge-_
-_bietsüblich bewirtschaftet. Die Rebanlagen wurdenin den drei Versuchsjah-_
+_bietsüblich bewirtschaftet. Die Rebanlagen wurden in den drei Versuchsjah-_
 _ren weder gedüngt noch bewässert, da eine ausreichend gute Versorgungsitu-_
 _ation gegeben war und ausreichendes Wachstum und Erträge erzielt wurden._
 _Auch traten im Versuchszeitraum keine ausgeprägten Trockenperioden auf,_
@@ -4652,7 +5070,7 @@ _grierten Produktion und auch regelmäßig bewässert._
 
 2.3 Erhebungen/Analysen
 _In den Versuchsanlagen wurden folgende Arbeiten ausgeführt: die phänolo-_
-_gischen Stadien wurden erhoben, Proben der Versuchsvarianten für Boden-und_
+_gischen Stadien wurden erhoben, Proben der Versuchsvarianten für Boden- und_
 _Blattanalysen wurden entnommen, die Anzahl Trauben für die Ermittlung des_
 _Fruchtansatzes wurde gezählt, weiters wurden Reifetests zur Ermittlung der_
 _Reifeentwicklung und der Inhaltsstoffe der Trauben der einzelnen Versuchsva-_
@@ -4668,14 +5086,14 @@ _sowie Verkostungen der Versuchsweine durchgeführt._
 _Die Boden- und Blattanalysen wurden nach der Methode des VDLUFA (Ver-_
 _band der Landwirtschaftlichen Untersuchungs- und Forschungsanstalten_
 _(LUFA) und andere Untersuchungs- und Forschungseinrichtungen) durchge-_
-_führt: Stickstoff wurde nach Dumas (DIN EN ISO 16634--1:2009) ermittelt,die_
+_führt: Stickstoff wurde nach Dumas (DIN EN ISO 16634--1:2009) ermittelt, die_
 _anderen Elemente nach ICP--OES (EPA 3052:1996 + EPA 6010D:2018)._
 _Im Detail wurde wie folgt vorgegangen:_
 
 i) Bodenanalysen
 _Die Bodenproben wurden nach der Blüte und nach der Ernte durchgeführt. Mit_
 _Handbohrer wurden Einstiche in zwei Tiefen, von 0–30 cm und von_
-_30–60cm durchgeführt, jeweils in den behandelten Bodenbereich. Pro Parzelle_
+_30–60 cm durchgeführt, jeweils in den behandelten Bodenbereich. Pro Parzelle_
 _wurden etwa 10 Einstiche vorgenommen, verteilt über die gesamte Parzelle, an-_
 _schließend wurden die Bodenproben gut durchmischt und mit einem 2 mm Sieb_
 _gesiebt. Die weitere Verarbeitung erfolgte nach den oben angegebenen Metho-_
@@ -4699,6 +5117,7 @@ _Versuchszentrum Laimburg ausgeführt._
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 iii) Reifetest
 _Ab Reifebeginn wurde die Reifeentwicklung der Beeren durch periodische Rei-_
 _fetests ermittelt. Dazu wurden aus jeder Parzelle 120 Beeren gleichmäßig aus_
@@ -4708,7 +5127,7 @@ _rifugiert und gefiltert (5μm Spritzen-Scheibenfilter). Schliesslich wurden die
 _Moste im Weinlabor am Versuchszentrum Laimburg mittels FT--IR nach RESO-_
 _LUTION OIV/OENO 390/2010 (FOSS®, WineScan™, SO2 der Weine nach der_
 _Kalibrierung am Versuchszentrum Laimburg) analysiert. Die ermittelten Zu-_
-_cker-und Säuregehalte wurden zur Bestimmung des Erntetermines herangezo-_
+_cker- und Säuregehalte wurden zur Bestimmung des Erntetermines herangezo-_
 _gen._
 
 _Analysierte Parameter:_
@@ -4726,7 +5145,7 @@ _ws Weinsäure (g/l)_
 
 iv) Ertrag
 Weinanlagen
-_Im Sommer, vor Ausdünnungsarbeiten,waren alle Trauben je Stock gezählt_
+_Im Sommer, vor Ausdünnungsarbeiten, waren alle Trauben je Stock gezählt_
 _worden. Zur Ernte wurden alle Trauben der einzelnen Versuchsparzellen se-_
 _parat geerntet und mit einer tragbaren Bodenwaage gewogen._
 Apfelanlage
@@ -4756,7 +5175,7 @@ _und wie folgt verfahren. Die Trauben wurden mit einer Abbeermaschine des_
 _Typs CMA Lugana 1R (Stundenleistung 4-_[^6]: _t/h) nach Entnahme der Stachel-_
 _walze gequetscht aber nicht abgebeert. Die gequetschten Trauben wurden_
 _samt Stielgerüst in einer Membranpresse des Typs 100 L EuroPressT1 – Schar-_
-_fenberger mit 2 x 1 bar + 2 x 2 bar entsaftet (10 min jeDruckphase)._
+_fenberger mit 2 x 1 bar + 2 x 2 bar entsaftet (10 min je Druckphase)._
 _Die Schwefelung mit 20 mg/L Kaliummetadisulfit (E 224) erfolgte direkt in_
 _Saftablauf. In der Folge wurde der Most in 34 L Glasballon gefüllt. Der Most_
 _wurde für 20 Stunden bei 4 °C statisch entschleimt. Im Anschluss wurde der_
@@ -4775,11 +5194,12 @@ _Der 1. Abstich erfolgte unbelüftend mit Schwefelung (E 224) von 30 mg/l._
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-_Eserfolgte eine kurzzeitige Lagerung in der Kühlzelle bei 4 °C für ca. 10 Tage_
+
+_Es erfolgte eine kurzzeitige Lagerung in der Kühlzelle bei 4 °C für ca. 10 Tage_
 _und anschließend nach einem weiteren Abzug bei einer Temperatur zwischen_
 _14 und 18 °C. Während der Weinlagerung wurde ein Gehalt an freier schwefe-_
 _liger Säure von 25 mg/l eingestellt und überwacht. Die Füllung erfolgte in 0,5 l_
-_Glasflaschen nach unmittelbar vorhergehender Vor-, Blank-und Sterilfiltration_
+_Glasflaschen nach unmittelbar vorhergehender Vor-, Blank- und Sterilfiltration_
 _(0,45 μm)._
 _Die Verkostungen wurden mit einem Verkosterpanel bestehend aus Laimburg_
 _internen, geschulten Verkostern und aus externen Experten durchgeführt. Es_
@@ -4811,7 +5231,7 @@ Die Asteriske markieren signifikante Unterschiede der Versuchsvarianten im Vergl
 handelten Kontrolle ( p<0,05), (N = unbehandelte Kontrolle).
 
 _Die Nmin-Werte, also der pflanzenverfügbare Stickstoff (Abb. 9) zeigte keine_
-_signifikanten Unterschiede zwischenden Versuchsbehandlungen und der Kon-_
+_signifikanten Unterschiede zwischen den Versuchsbehandlungen und der Kon-_
 _trolle auf, ausgenommen im Jahre 2018, in der Variante B2. Etwas höhere Nmin-_
 _Werte waren im ersten Versuchsjahr 2017 gegeben, dies infolge der Bodenbear-_
 _beitung zur Einbringung des Chars (die Bodenbearbeitung wurde in allen Par-_
@@ -4822,16 +5242,17 @@ _Weinbau auf eher niedrigem Niveau._
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-Abb. 9 – Nmin-Werte der Versuchsvarianten in den drei Versuchsjahren: DieAsteriske markieren
+
+Abb. 9 – Nmin-Werte der Versuchsvarianten in den drei Versuchsjahren: Die Asteriske markieren
 signifikante Unterschiede der Versuchsvarianten im Vergleich zur unbehandelten Kontrolle (p<0,05),
 (N = unbehandelte Kontrolle).
 
 _Der Gehalt an organischem Kohlenstoff, als Humus (%) ausgedrückt, ist in_
-_den mit Biocharangereicherten Parzellen signifikant höher, vor allem bei Bio-_
+_den mit Biochar angereicherten Parzellen signifikant höher, vor allem bei Bio-_
 _char in der höhen Dosierung (Abb. 10)._
 
-Abb. 10– Gehalte an organischem Kohlenstoff, als Humus (%) ausgedrückt in den drei Versuchs-
-jahren:Die Asteriske markieren signifikante Unterschiede der Versuchsvarianten im Vergleich zur
+Abb. 10 – Gehalte an organischem Kohlenstoff, als Humus (%) ausgedrückt in den drei Versuchs-
+jahren: Die Asteriske markieren signifikante Unterschiede der Versuchsvarianten im Vergleich zur
 unbehandelten Kontrolle (p<0,05), (N = unbehandelte Kontrolle).
 
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
@@ -4853,19 +5274,20 @@ kieren signifikante Unterschiede der Versuchsvarianten im Vergleich zur unbehand
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 _Die Magnesiumgehalte (Abb. 13) waren in allen Versuchsjahren, in den Vari-_
 _anten mit Biochar signifikant höher. Erstaunlicherweise sind diese signifikan-_
 _ten Unterschiede auch in den Unterböden feststellbar._
 
-Abb. 13– Magnesiumgehalte der Ober- und Unterböden in den drei Versuchsjahren: Die Asteriske
-markieren signifikante Unterschiede der Versuchsvarianten im Vergleich zur unbehandeltenKontrol-
+Abb. 13 – Magnesiumgehalte der Ober- und Unterböden in den drei Versuchsjahren: Die Asteriske
+markieren signifikante Unterschiede der Versuchsvarianten im Vergleich zur unbehandelten Kontrol-
 le (p<0,05), (N = unbehandelte Kontrolle).
 
 _Die Borgehalte (Abb. 14) stiegen durch die Anreicherung der Böden mit Biochar_
 _signifikant an, sowohl durch reines Biochar wie auch durch die Mischung von_
-_Char mit Kompost und zwar in den Ober-und auch den Unterböden._
+_Char mit Kompost und zwar in den Ober- und auch den Unterböden._
 
-Abb. 14– Borgehalte der Ober- und Unterböden in den drei Versuchsjahren: Die Asteriske markie-
+Abb. 14 – Borgehalte der Ober- und Unterböden in den drei Versuchsjahren: Die Asteriske markie-
 ren signifikante Unterschiede der Versuchsvarianten im Vergleich zur unbehandelten Kontrolle
 (p<0,05), (N = unbehandelte Kontrolle).
 
@@ -4877,7 +5299,7 @@ _aufweisen. Eine signifikant geringere Verfügbarkeit ist in vor allem in den Va
 _rianten mit der höheren Biochardosierung in allen drei Versuchsjahren fest-_
 _stellbar._
 
-Abb. 15– Mangangehalte der Ober- und Unterböden in den drei Versuchsjahren: Die Asteriske
+Abb. 15 – Mangangehalte der Ober- und Unterböden in den drei Versuchsjahren: Die Asteriske
 markieren signifikante Unterschiede der Versuchsvarianten im Vergleich zur unbehandelten Kontrol-
 le (p<0,05), (N = unbehandelte Kontrolle).
 
@@ -4888,6 +5310,7 @@ kieren signifikante Unterschiede der Versuchsvarianten im Vergleich zur unbehand
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 _Zink (Abb. 17) ließ eine höhere Verfügbarkeit in allen drei Versuchsjahren vor_
 _allem in der Variante mit der höheren Biochardosis und Kompost erkennen._
 
@@ -4930,19 +5353,23 @@ Abb. 19 – Ernte 2019: die einzelnen Versuchparzellen wurden getrennt geerntet.
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-Tabelle [^4]:– Traubenertragpro Rebe der Behandlungen: in keinem der drei Versuchsjahre wurde ein
+
+Tabelle [^4]: – Traubenertrag pro Rebe der Behandlungen: in keinem der drei Versuchsjahre wurde ein
 signifikanter Unterschied zwischen den Behandlungen festgestellt.
 
 ```
 Behandlung /
 Jahr
 ```
+
 ```
 Ertrag/Rebe (kg)
 ```
+
 ```
 2017 2018 2019
 ```
+
 ```
 N 1,25 2,96 1,61
 C 1,51 2,81 1,71
@@ -4951,6 +5378,7 @@ B2 1,44 2,57 1,62
 B1C 1,41 2,98 1,79
 B2C 1,34 3,31 1,52
 ```
+
 v) Vegetatives Wachstum
 _Das Gewicht des einjährigen Schnittholzes ergibt einen Hinweis auf die Inten-_
 _sität des vegetativen Wachstums der Reben während der gesamten Vegetati-_
@@ -4958,14 +5386,14 @@ _onsperiode. Es wurde daher gleich nach dem Rebschnitt gesammelt und ge-_
 _wogen. Die Daten von 2018 fehlen, aber sowohl 2017 wie auch 2019 konnten_
 _keine signifikanten Unterschiede zwischen den Varianten gefunden werden._
 
-Abb. 20 – Schnittholzgewichte pro Rebeder einzelnen Versuchsvarianten: Es wurde kein signifikan-
+Abb. 20 – Schnittholzgewichte pro Rebe der einzelnen Versuchsvarianten: Es wurde kein signifikan-
 ter Unterschied zwischen den Behandlungen festgestellt, (N = unbehandelte Kontrolle).
 
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
 vi) Weinausbau
 _Die Moste der Trauben der einzelnen Versuchsvarianten wiesen vor der Gä-_
-_rung keine signifikantenUnterschiede auf, in keinem der drei Versuchsjahre_
+_rung keine signifikanten Unterschiede auf, in keinem der drei Versuchsjahre_
 _(Tab. 5)._
 
 Abb. 21. Mikrovinifikation der Moste der
@@ -4973,16 +5401,17 @@ Versuchsvarianten: zwei Wiederholungen
 pro Behandlung wurden vinifiziert.
 
 ```
-Abb. 22– Abfüllung der Weine etwa 8 Monate nach der
+Abb. 22 – Abfüllung der Weine etwa 8 Monate nach der
 Traubenernte
 ```
+
 _Die Werte der Moste der einzelnen Versuchsvarianten unterschieden sich_
 _nicht signifikant, jedoch waren die Gesamtsäurewerte und die Gehalte der_
 _Moste an hefeverwertbarem Stickstoff in den Jahren unterschiedlich. Letztere_
 _waren 2017 am höchsten, wohl infolge der erfolgten Bodenbearbeitung des_
 _ansonsten langfristig unbearbeiteten, dauerbegrünten Bodens._
 
-Tabelle [^5]:– Inhaltsstoffe der Moste zur Ernte
+Tabelle [^5]: – Inhaltsstoffe der Moste zur Ernte
 _Behandlung /_
 _Jahr_
 
@@ -4998,10 +5427,12 @@ _B2C 16,32 15,98 16,35 3,36 3,31 3,35_
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 ```
 Behandlung /
 Jahr
 ```
+
 ```
 Gesamtsäure (g/l) HVS (mg/l)
 2017 2018 2019 2017 2018 2019
@@ -5012,7 +5443,8 @@ B2 6,15 4,47 6,11 123 63 67,5
 B1C 6,19 4,68 5,7 158 58,5 57,5
 B2C 6,37 4,87 5,78 163,5 80,5 72,5
 ```
-_Etwa 7 Monate nach der Gärung wurden die Verkostungendurchgeführt. Da-_
+
+_Etwa 7 Monate nach der Gärung wurden die Verkostungen durchgeführt. Da-_
 _bei wurden die einzelnen Weine der verschiedenen Versuchsvarianten nicht_
 _signifikant unterschiedlich bewertet. In der Tendenz zeigte sich aber eine_
 _leichte Bevorzugung der Weine der niedrigen Biochardosierung bezüglich_
@@ -5020,8 +5452,8 @@ _Komplexität und Typizität und eine eher schlechtere Bewertung der Weine_
 _der Kompostvariante in der Bewertung der Harmonie und des Gesamteindru-_
 _ckes (Abb. 23)._
 
-Abb. 23– Sensorische Bewertung der Weine, durchschnittliche Ergebnisse der Weinbewertungen
-der drei Versuchsjahre: Keine Versuchsvarianteunterscheidet sich signifikant von den anderen.
+Abb. 23 – Sensorische Bewertung der Weine, durchschnittliche Ergebnisse der Weinbewertungen
+der drei Versuchsjahre: Keine Versuchsvariante unterscheidet sich signifikant von den anderen.
 (N = unbehandelte Kontrolle).
 
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
@@ -5038,7 +5470,7 @@ angereicherten Bodenbereichen erkennen.
 3.2 Weißplatter
 
 i) Bodenanalysen
-_Im Unterschied zur AnlageMoarhof wurden in dieser Anlage die Bodenzu-_
+_Im Unterschied zur Anlage Moarhof wurden in dieser Anlage die Bodenzu-_
 _satzstoffe vor dem Pflanzen der Reben in die Pflanzreihe mit einem Kleinbag-_
 _ger eingearbeitet bis auf eine Tiefe von 60 cm. Die Veränderungen der ver-_
 _schiedenen Bodenparameter waren daher in dieser Anlage auch im Unterbo-_
@@ -5054,6 +5486,7 @@ _Juni 2018 konnten signifikant höhere Magnesiumgehalte der Blätter in allen_
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 _Varianten mit Biochar gefunden werden (Abb. 25), wobei insgesamt die Mag-_
 _nesiumgehalte aller Varianten im Defizitbereich liegen, besonders aber die_
 _Kontrolle und die mit Kompost angereicherte Variante. Die Mangangehalte_
@@ -5062,10 +5495,10 @@ _in allen mit Biochar angereicherten Varianten auf. Dieses Ergebnis geht einher_
 _mit der gefundenen niedrigeren Manganverfügbarkeit der Böden infolge der_
 _Anreicherung mit Biochar._
 
-Abb. 25– Magnesiumgehalte laut Blattanalyse im Juni 2018; verschiedene Buchstaben weisen auf
+Abb. 25 – Magnesiumgehalte laut Blattanalyse im Juni 2018; verschiedene Buchstaben weisen auf
 einen signifikanten Unterschied zwischen Behandlungen hin (p<0,05), (N = unbehandelte Kontrolle)
 
-Abb. 26– Mangangehalte der Blätter im Juni 2018 und 2019; verschiedene Buchstaben weisen auf
+Abb. 26 – Mangangehalte der Blätter im Juni 2018 und 2019; verschiedene Buchstaben weisen auf
 einen signifikanten Unterschied zwischen Behandlungen hin (p<0,05), (N = unbehandelte Kontrolle).
 
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
@@ -5073,7 +5506,7 @@ Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 iii) Reifeentwicklung der Trauben
 _Auch in dieser Anlage wurden trotz des noch nicht erreichten Vollertrages in_
 _den Jahren 2018 und 2019 Reifetests durchgeführt. Dabei wurden keine signi-_
-_fikanten Unterschiedezwischen den Versuchsvarianten gefunden._
+_fikanten Unterschiede zwischen den Versuchsvarianten gefunden._
 
 iv) Etrag
 _Die Ernte erfolgte Mitte September bei einem mittleren Zuckergehalt der_
@@ -5082,13 +5515,14 @@ _Traubenerträge der einzelnen Versuchsvarianten unterschieden sich nicht_
 _signifikant, es war aber eine Tendenz zu höheren Erträgen in den Varianten_
 _mit Biochar zu erkennen (Tab. 6)._
 
-Tabelle[^6]:– Durchschnittlichen Ertrag pro Rebe der Versuchsvarianten im Jahr 2019; es wurde kein
+Tabelle [^6]: – Durchschnittlichen Ertrag pro Rebe der Versuchsvarianten im Jahr 2019; es wurde kein
 signifikanter Unterschied zwischen den Behandlungen festgestellt.
 
 ```
 Behandlung Traubenertrag/Rebe(kg)
 N 0,7
 ```
+
 ```
 C 0,69
 B1 0,84
@@ -5096,6 +5530,7 @@ B2 0,96
 B1C 0,94
 B2C 0,76
 ```
+
 v) Vegetatives Wachstum
 _Die Ermittlungen des Schnittholzgewichtes ergaben keine signifikanten Un-_
 _terschiede, jedoch zeigte sich wieder eine Tendenz zu höheren Werten in den_
@@ -5105,6 +5540,7 @@ _(Abb. 27)._
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 Abb. 27 – Schnittholzgewichte pro Rebe: Es wurde kein signifikanter Unterschied zwischen den
 Behandlungen festgestellt., (N = unbehandelte Kontrolle)
 
@@ -5119,7 +5555,7 @@ _hier signifikant, aber weniger stark als in den Rebanlagen, auf einen Wert von_
 _7,7 an (Abb. 28). Die Trockensubstanz der Böden (Abb. 29) war infolge der_
 _Zugabe von Biochar etwas niedriger._
 
-Abb. 28– pH-Werte im Boden in Juni 2017: Asteriske weisen auf einen signifikanten Unterschied
+Abb. 28 – pH-Werte im Boden in Juni 2017: Asteriske weisen auf einen signifikanten Unterschied
 zwischen den Behandlungen im Vergleich zur Kontrolle hin (p<0,05), (N = unbehandelte Kontrolle)
 
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
@@ -5132,7 +5568,7 @@ _varianten. Es zeigten sich aber höhere Gehalte an organischem Kohlenstoff,_
 _Phosphor, Kalium und Magnesium in den mit Biochar angereicherten Parzel-_
 _len (Abb. 30)_
 
-Abb. 30– Gehalte einiger Makroelemente im Boden im Juni 2017 (C-Werte als Humus % angege-
+Abb. 30 – Gehalte einiger Makroelemente im Boden im Juni 2017 (C-Werte als Humus % angege-
 ben): Asteriske weisen auf einen signifikanten Unterschied zwischen den Behandlungen im Ver-
 gleich zur Kontrolle hin (p<0,05), (N = unbehandelte Kontrolle).
 _Bei den Mikroelementen konnten etwas höhere Bor- und Zinkgehalte in der_
@@ -5142,13 +5578,14 @@ _Kupfer (Abb. 31). Die Gehalte an Mangan blieben unverändert._
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-Abb. 31– Mikroelemente Werte im Boden in Juni 2017: Asteriske weisen auf einensignifikanten
+
+Abb. 31 – Mikroelemente Werte im Boden in Juni 2017: Asteriske weisen auf einen signifikanten
 Unterschied bei den Behandlungen im Vergleich zur Kontrolle hin (p<0,05), (N = unbehandelte Kon-
 trolle)
 ii) Blattanalysen
 _Blattanalysen wurden 2018 und 2019 durchgeführt. Im Juli 2018 zeigten sich_
-_dabei signifikant höhere Kalium- und Magnesiumgehalte(Abb. 32), aber nied-_
-_rigereKalziumgehalte der mit Biochar angereicherten Variante. Zudem waren_
+_dabei signifikant höhere Kalium- und Magnesiumgehalte (Abb. 32), aber nied-_
+_rigere Kalziumgehalte der mit Biochar angereicherten Variante. Zudem waren_
 _in den Blättern dieser letzteren Variante erhöhte Gehalte an Mangan feststell-_
 _bar (Abb. 33)._
 
@@ -5159,7 +5596,7 @@ Buchstaben weisen auf einen signifikanten Unterschied zwischen den Behandlungen 
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
 Abb. 33 – Mangangehalte der Blätter im Juli 2018; verschiedene Buchstaben weisen auf einen sig-
-nifikantenUnterschied zwischen den Behandlungen hin (p<0,05), (N = unbehandelte Kontrolle)
+nifikanten Unterschied zwischen den Behandlungen hin (p<0,05), (N = unbehandelte Kontrolle)
 
 iv) Ertrag
 _Der Ertrag der Versuchsvarianten wurde im zweiten und dritten Standjahr_
@@ -5167,75 +5604,90 @@ _ermittelt. Dabei wurden die Äpfel der vier zentralen Bäume jeder Parzelle_
 _getrennt gepflückt und dann mit einer Versuchssortieranlage ausgewertet_
 _(Tab. 7)._
 
-Tabelle [^7]:– Ergebnisse der Ertragsauswertung 2018 und 2019 mittels Sortiermaschine: Die Fär-
+Tabelle [^7]: – Ergebnisse der Ertragsauswertung 2018 und 2019 mittels Sortiermaschine: Die Fär-
 bungsprozentsätze sind saisonal bedingt, die Äpfel wurden alle am selben Tag geerntet und spie-
 gelnsomit nicht die maximal erreichbaren Werte wider.
 
 ```
 Behandlung * * * * *
 ```
+
 ```
 2018 Äpfel/
 Baum
 ```
+
 ```
 Gewicht/
 Apfel (g)
 ```
+
 ```
 rote
 Farbe (%)
 ```
+
 ```
 gelbe
 Farbe (%)
 ```
+
 ```
 grüne
 Farbe (%)
 ```
+
 ```
 N 42,2 180,4 76,0 1,96 20,5
 C 48,4 184,1 80,3 2,11 16,1
 BC 46,9 194,9 77,9 3,01 17,6
 ```
+
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 ```
 Behandlung *
 ```
+
 ```
 2019 Äpfel/
 Baum
 ```
+
 ```
 Gewicht/
 Apfel (g)
 ```
+
 ```
 rote
 Farbe (%)
 ```
+
 ```
 gelbe
 Farbe (%)
 ```
+
 ```
 grüne
 Farbe (%)
 ```
+
 ```
 N 44,5 184,6 88,55 1,179 8,901
 C 46,4 177,49 91,08 0,77 6,843
 BC 58,1 176,03 90,52 0,799 7,377
 ```
+
 _Aus der Anzahl und dem durchschnittlichen Gewicht der Äpfel der Versuchs-_
 _varianten kann der Ertrag in kg Äpfel pro Baum errechnet werden (Abb. 34)._
 _Dabei zeigten sich in beiden Erhebungsjahre die höchsten Erträge in der mit_
 _Biochar angereicherten Versuchsvariante._
 
-Abb. 34 – DurchschnittlicheProduktion in Kilogramm Äpfel pro Baum in den zwei Erhebungsjahren:
+Abb. 34 – Durchschnittliche Produktion in Kilogramm Äpfel pro Baum in den zwei Erhebungsjahren:
 Unterschiedliche Buchstaben weisen auf einen signifikanten Unterschied zwischen den Behandlun-
 gen hin (p<0,05), (N = unbehandelte Kontrolle).
 
@@ -5249,7 +5701,7 @@ Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 _zu den anderen deutlich geringer, während am meisten Zuwachs in der Vari-_
 _ante Biokohle + Kompost erzielt wurde._
 
-Tabelle [^8]:– Durchschnittliches jährliches Wachstum pro Baum jeder Behandlung: Asteriske weisen
+Tabelle [^8]: – Durchschnittliches jährliches Wachstum pro Baum jeder Behandlung: Asteriske weisen
 auf einen signifikanten Unterschied zwischen den Behandlungen im Vergleich zur Kontrolle hin
 (p<0,05).
 
@@ -5257,27 +5709,33 @@ auf einen signifikanten Unterschied zwischen den Behandlungen im Vergleich zur K
 Behandlung
 /Jahr
 ```
+
 ```
 2017 * 2018 *
 Äste/
 Baum
 ```
+
 ```
 cm/
 Baum
 ```
+
 ```
 cm/
 Ast
 ```
+
 ```
 Äste/
 Baum
 ```
+
 ```
 cm/
 Baum
 ```
+
 ```
 cm/
 Ast
@@ -5285,7 +5743,8 @@ N 14 7322 16,34 33 23323 22,06
 C 15,9 8613 16,88 36,9 27019 22,85
 BC 13,8 8969 20,33 41,3 35967 27,2
 ```
-Abb. 35– Durchschnittliche Trieblänge der Behandlung: Unterschiedliche Buchstaben weisen auf
+
+Abb. 35 – Durchschnittliche Trieblänge der Behandlung: Unterschiedliche Buchstaben weisen auf
 einen signifikanten Unterschied zwischen den Behandlungen hin (p<0,05), (N = unbehandelte Kon-
 trolle).
 
@@ -5296,13 +5755,15 @@ _lich aber keine signifikanten Unterschiede auf._
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-Tabelle [^9]:– Durchschnittlicher Zuwachs des Stammdurchmessers pro Baum in den drei
+
+Tabelle [^9]: – Durchschnittlicher Zuwachs des Stammdurchmessers pro Baum in den drei
 Versuchsjahren
 
 ```
 Behandlung/
 Jahr
 ```
+
 ```
 2017 2018 2019
 Durchschnittl. Wachstum der Stämme (mm)
@@ -5310,6 +5771,7 @@ N +3,97 +4,11 +7,05
 C +4,38 +4,15 +6,51
 BC +3,77 +5,04 +6,96
 ```
+
 #### 4. Diskussion
 
 _Die erzielten Ergebnisse zeigen auf, dass die Einbringung von Biochar oder_
@@ -5323,7 +5785,7 @@ _rungen ähnlich deutlich bewirkt. Die Zunahme der Mineralstoffgehalte ist_
 _auch in den Unterböden erkennbar, weniger ausgeprägt dort wo das Biochar_
 _nur in den Oberboden eingearbeitet wurde, deutlicher wo das Biochar in die_
 _obersten 60 cm Boden eingebracht worden ist. Die aufgezeigten Auswirkun-_
-_genblieben über den Versuchszeitraum von drei Jahren weitgehend stabil._
+_gen blieben über den Versuchszeitraum von drei Jahren weitgehend stabil._
 _Diese Ergebnisse bestätigen die Eignung von Biochar zur Bodenverbesserung_
 _im Weinbau (Schmid et al. 2014, Genesio et al. 2015), zur Steigerung des Hu-_
 _musgehaltes und damit zur potenziellen Verbesserung des Wasserspeicher-_
@@ -5338,21 +5800,21 @@ _stoffes geführt hat. Bei den Blattanalysen im Weinbau konnte in den Varian-_
 _ten Biochar und Kompost in einem Fall höhere Borgehalte gefunden werden._
 _In der Rebjunganlage konnte in allen Biocharvarianten im 2. Standjahr eine_
 _verbesserte Magnesiumaufnahme gegenüber der Kontrolle gefunden werden_
-_und zwar in einer Magnesiummangelsituation wiesie gerade in Junganlagen_
+_und zwar in einer Magnesiummangelsituation wie sie gerade in Junganlagen_
 _mit noch wenig entwickeltem Wurzelsystem bei Reben häufig vorkommt._
 _Dies könnte darauf hinweisen, dass mit Biochar angereicherte Böden gerade_
 _in Stress- und Mangelsituationen eine gewisse verbesserte Ausgangslage bie-_
 _ten, die zu einer besseren Versorgung der Reben beiträgt._
 _Eine verbesserte Magnesiumaufnahme konnte 2018 laut Blattanalye auch in_
 _der Apfelneuanlage festgestellt werden, zudem eine verbesserte Kaliumauf-_
-_nahme bei zugleich niedrigerenKalziumgehalten in den Blättern._
+_nahme bei zugleich niedrigeren Kalziumgehalten in den Blättern._
 _Ein auf den ersten Blick widersprüchliches Ergebnis ist bei Mangan zu ver-_
 _zeichnen: in der Rebjunganlage war 2018 und 2019 in den Biocharvarianten in_
 _den Blättern ein signifikant niedrigerer Mangangehalt gegeben, was in Ein-_
 _klang mit der niedrigeren Manganverfügbarkeit im Boden der mit Char ange-_
 _reicherten Varianten dieser und auch der zweiten Rebanlage stand. Im Gegen-_
 _satz dazu wies die Apfeljunganlage im Jahre 2018 höhere Manganblattgehalte_
-_in der Biocharvariante auf, wobei in diesem Falle im Boden keineerkennbare_
+_in der Biocharvariante auf, wobei in diesem Falle im Boden keine erkennbare_
 _Veränderung der Manganverfügbarkeit infolge der Einbringung von Biochar_
 _in den Boden vorlag (Daten nicht dargestellt). Dieses gegensätzliche Ergebnis_
 _könnte darauf zurückzuführen sein, dass Biochar vermutlich nicht direkt die_
@@ -5370,11 +5832,12 @@ _hingegen lag der pH-Wert des Bodens von vorne herein bereits im alkalischen_
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-_Bereich, bei7,45 und veränderte sich durchdie Biocharanreicherung in die-_
+
+_Bereich, bei 7,45 und veränderte sich durch die Biocharanreicherung in die-_
 _sem Falle nicht mehr so deutlich, zu einem pH-Wert des Bodens von 7,7. Die_
 _Manganverfügbarkeit im Boden laut Bodenanalyse veränderte sich dadurch_
 _nicht, die Manganaufnahme durch die Apfelbäume verbesserte sich sogar._
-_Somit dürfte es sich wohl eher nichtum eine grundsätzliche Festlegung von_
+_Somit dürfte es sich wohl eher nicht um eine grundsätzliche Festlegung von_
 _Mangan durch Biochar handeln, sondern wohl eher um die Folge der verän-_
 _derten Manganverfügbarkeit durch die pH-Wertveränderung im Boden._
 _Auch die festgestellte reduzierte Kupferverfügbarkeit in den Weinbauböden_
@@ -5385,7 +5848,7 @@ _det, auch mit dem Ziel den pH-Wert zu erhöhen (Park, 2011). Insgesamt ist,_
 _wie die Versuche gezeigt haben, die Einbringung von Biochar in die Böden_
 _eine gute Möglichkeit zur Anhebung der pH-Werte. Je saurer die Bodensitua-_
 _tion, umso mehr sollte auf die Verwendung eines Biochars mit hohem pH-_
-_Wertgeachtet werden._
+_Wert geachtet werden._
 _Die Reifetests und die Analysen der Moste zur Ernte haben keine signifikan-_
 _ten Unterschiede bei den Inhaltsstoffen erkennen lassen, jedenfalls nicht zwi-_
 _schen den Versuchsvarianten. Allgemein waren die HVS-Werte, also die Ge-_
@@ -5396,10 +5859,10 @@ _den Mosten der mit Biochar angereicherten Parzellen auf._
 _Die Weine der einzelnen Versuchsvarianten zeigten in allen drei Jahren weder_
 _sensorisch noch analytisch signifikanten Unterschiede auf. Allgemein wurde_
 _den Weinen eine große Ähnlichkeit attestiert. In der Tendenz wurde den Wei-_
-_nen der niedrigenBiochardosierung, im Durchschnitt der drei Auswertungs-_
+_nen der niedrigen Biochardosierung, im Durchschnitt der drei Auswertungs-_
 _jahre, eine etwas höhere Typizität zugesprochen, während die Weine der_
 _Kompostvariante in der Harmonie und der Gesamtbewertung tendenziell et-_
-_was schlechter als die Weineder anderen Varianten eingestuft wurden._
+_was schlechter als die Weine der anderen Varianten eingestuft wurden._
 _Die Erträge waren in den Rebanlagen in den einzelnen Versuchsvarianten_
 _nicht signifikant unterschiedlich, in der Apfeljunganlage hingegen war in bei-_
 _den Erhebungsjahren eine größere Anzahl an Früchten und ein höherer Ertrag_
@@ -5412,11 +5875,11 @@ _gleich konnte in der Apfeljunganlage auch ein höherer Jahrestriebzuwachs in_
 _der Variante Biochar mit Kompost ermittelt werden. In den Rebanlagen hin-_
 _gegen war kein Unterschied in der vegetativen Entwicklung der einzelnen_
 _Versuchsvarianten feststellbar. Diese unterschiedlichen Ergebnisse dürften_
-_darauf zurückzuführen sein,dass die Apfelanlage regelmäßig, alljährlich ge-_
+_darauf zurückzuführen sein, dass die Apfelanlage regelmäßig, alljährlich ge-_
 _düngt wurde und dabei auch eine angemessene Stickstoffgabe erhielt. Die_
 _Rebanlagen hingegen wiesen ausreichende Humusgehalte und Nährstoffver-_
 _sorgung auf, so dass auf jegliche Düngung im Versuchszeitraum verzichtet_
-_worden war. Die Nmin Gehalte, also die Gehalte anpflanzenverfügbarem_
+_worden war. Die Nmin Gehalte, also die Gehalte an pflanzenverfügbarem_
 _Stickstoff in den Versuchsparzellen der Rebanlagen waren im ersten Ver-_
 _suchsjahr, infolge der Bodenbearbeitung für die Einbringung der Bodenzu-_
 _satzstoffe der ansonsten langjährig vollkommen unbearbeiteten Böden, er-_
@@ -5434,7 +5897,7 @@ _Weinqualität auswirken. Wird also eine Anwendung von Biochar zur pH-_
 _Wertsteigerung erwogen oder soll primär eine Verbesserung des Wasserhal-_
 _tevermögens der Böden angestrebt werden oder Biochar zur CO2 Festlegung_
 _in den Boden eingebracht werden, so braucht man dabei keine Bedenken ha-_
-_ben, es könntedadurch zu Wachstumsschüben oder negativen Auswirkungen_
+_ben, es könnte dadurch zu Wachstumsschüben oder negativen Auswirkungen_
 _auf die Weinqualität kommen. Im Umkehrschluss gilt aber, dass dort wo man_
 _im Weinbau tatsächlich eine Verbesserung der Wachstumssituation braucht,_
 _die Zugabe von reinem Biochar oder von Biochar mit Kompost allein, sofern_
@@ -5444,21 +5907,22 @@ _dürfte, um ausreichende Auswirkungen zu erzielen. In diesen Fällen ist es an-
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-_gezeigt, dasBiochar intensiver mit Stickstoff anzureichern, etwa durch Kom-_
+
+_gezeigt, das Biochar intensiver mit Stickstoff anzureichern, etwa durch Kom-_
 _postierung des Chars mit Mist und Gülle._
 _In der Apfelneuanlage wurden zwar auch keine signifikant höheren Nmin_
 _Gehalte im Boden gefunden, insgesamt lagen die Nmin Werte dort aber deut-_
 _lich höher, zwei bis dreimal so hoch, als in den Rebanlagen. Mit Nmin-Werten_
 _im Bereich zwischen 50 und 70 kg/ha lag in der Obstanlage insgesamt eine_
 _deutlich höhere Stickstoffverfügbarkeit vor. Dies lässt vermuten, dass es da-_
-_her in den mit Biochar und Kompost angereicherten Parzellen zu einerausge-_
+_her in den mit Biochar und Kompost angereicherten Parzellen zu einer ausge-_
 _glicheneren Versorgung infolge einer verbesserten Stickstoffspeicherung_
-_durch das Biochar gekommen sein könnte, wiediesvonSteiner et al. (2010),_
+_durch das Biochar gekommen sein könnte, wie dies von Steiner et al. (2010),_
 _Ventura et al. (2013) und Sánchez-García et al. (2015) festgestellt und_
 _beschrieben wurde. Jedenfalls waren positive und statistisch signifikante_
 _Auswirkungen auf die vegetative Entwicklung und den Ertrag der Jungbäu-_
 _me durch die Zugabe von Biochar mit Kompost ins Pflanzloch erkennbar._
-_Wachstumsdepressionen, wievon einigen Autorenbeschrieben (Deenik et al.,_
+_Wachstumsdepressionen, wie von einigen Autoren beschrieben (Deenik et al.,_
 _2010; Nelson et al, 2012), konnten durch die Einbringung von reinem Biochar_
 _in den Boden in den vorliegenden Versuchen in den Rebanlagen nicht_
 _festgestellt werden. Dies dürfte auf den Humusgehalt der beiden Rebanlagen_
@@ -5466,10 +5930,10 @@ _von etwa 3% zu Versuchsbeginn und auf die langjährige Dauerbegrünung der_
 _Anlagen zurückzuführen sein. Dadurch verfügen die Böden oberflächlich_
 _über eine Auflage an organischer Substanz, da das Schnittmaterial der_
 _Begrünung, das Material vom Triebschnitt der Reben und die einjährigen_
-_verholzten Triebe beim Winterschnitt, sowie die Rebblättersichan der Bo-_
+_verholzten Triebe beim Winterschnitt, sowie die Rebblätter sich an der Bo-_
 _denoberfläche sammeln und dort langsam verrotten. Durch die Bodenbe-_
 _arbeitung im Zuge der Erstellung der Neuanlage und beim Einbringen der_
-_Biochar- und Kompostvarianten dürfteausdieser organischen Masse einiges_
+_Biochar- und Kompostvarianten dürfte aus dieser organischen Masse einiges_
 _an Stickstoff freigesetzt worden sein, was zu einer grundlegenden Anreiche-_
 _rung des Chars mit Stickstoff und insgesamt mit Nährstoffen geführt haben_
 _dürfte._
@@ -5483,29 +5947,29 @@ Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
 _auffällig oder schwächer im Vergleich zur Kontrolle oder den Kompostvarian-_
 _ten. Im Obstbau kam kein reines Char zum Einsatz. Hier ist ein höheres Stick-_
-_stoffniveau zur Optimierung des Aufwuchses der Jungbäume undder Pro-_
+_stoffniveau zur Optimierung des Aufwuchses der Jungbäume und der Pro-_
 _duktionsmenge erforderlich, daher ist eine angemessene Anreicherung der_
 _Chars jedenfalls anzuraten. Zu erwähnen ist, dass in der Apfelanlage mit be-_
 _reits hohem pH-Wert die zusätzliche Verwendung eines Biochars mit einem_
-_pH-Wert von 9,6 keine Problemebereitet hat und auch nicht zu erkennbaren_
-_Veränderungengeführt hat._
+_pH-Wert von 9,6 keine Probleme bereitet hat und auch nicht zu erkennbaren_
+_Veränderungen geführt hat._
 _Die beiden in den Versuchen eingesetzten Dosierungen von Biochar verhiel-_
 _ten sich ähnlich, die höhere Dosierung zeigte teilweise etwas ausgeprägtere_
 _Auswirkungen so z.B. bei der Steigerung des pH-Wertes des Bodens. Negati-_
-_ve Auswirkungenkonnten in keinem Falle festgestellt werden._
+_ve Auswirkungen konnten in keinem Falle festgestellt werden._
 
 #### 5. Schlussfolgerungen
 
 _Die hier vorgestellten Ergebnisse zeigen, dass der Einsatz von Biochar an die_
-_spezifischen Bedürfnisse der Anlage undan das jeweilige Produktionsziel an-_
-_gepasst werden soll. Soll das Wachstumund die Produktion einer Kultur an-_
+_spezifischen Bedürfnisse der Anlage und an das jeweilige Produktionsziel an-_
+_gepasst werden soll. Soll das Wachstum und die Produktion einer Kultur an-_
 _geregt werden, gilt es, das Char vor oder nach der Ausbringung mit Stickstoff_
 _entsprechend anzureichern. Soll hingegen, wie im Qualitätsweinbau ge-_
 _wünscht, das Wachstum nicht nachhaltig erhöht werden, ist die Verwendung_
-_reinen Biochars oder von nur sehr mäßig angereichertem Char angezeigt.Die_
+_reinen Biochars oder von nur sehr mäßig angereichertem Char angezeigt. Die_
 _Fähigkeit von Biochar Kohlenstoff langfristig zu binden und somit einen Bei-_
 _trag zum Klimaschutz zu leisten, kann daher auch dort genutzt werden, wo_
-_das Wachstumnicht oder nur sehr begrenzt verändert werden soll. Die Ver-_
+_das Wachstum nicht oder nur sehr begrenzt verändert werden soll. Die Ver-_
 _suche haben zudem bestätigt, dass die Einbringung von hochwertigem Bio-_
 _char in die Böden in jedem Fall zu einer Verbesserung der Bodeneigenschaf-_
 _ten führt. Es wurden keine negativen Aus- bzw. Nebenwirkungen der An-_
@@ -5515,73 +5979,74 @@ _tät der Weine wurde nicht beeinflusst._
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
+
 Literaturverzeichnis
-_Blackwell, P. S. (2000–).Management of water repellency in Australia, and_
+_Blackwell, P. S. (2000–). Management of water repellency in Australia, and_
 _risks associated with preferential flow, pesticide concentration and_
 _leaching. Journal of Hydrology_ [^231]:_(2), 384–395. Accesso via_
 _https://doi.org/10.1016/S0022-1694(00)0021_[^0]:_-9_
-_Cammarano, D., Ceccarelli, S.,Grando, S., Romagosa, I., Benbelkacem, A.,_
+_Cammarano, D., Ceccarelli, S., Grando, S., Romagosa, I., Benbelkacem, A.,_
 _Akar, T., Al-Yassin, A. & Ronga, D. (2019). The impact of climate change_
-_on barley yield in the Mediterranean basin. European Journal ofAgronomy_
+_on barley yield in the Mediterranean basin. European Journal of Agronomy_
 [^106]:_,_ [^1]:_-11._
 _Clough, T. J. & Condron, L. M. (2017). Biochar and the nitrogen cycle:_
 _introduction. Journal of Environmental Quality 39,_ [^1218]:_–23. Accesso via_
 _http://www.ncbi.nlm.nih.gov/pubmed/20830909_
 _Deenik, J. L., McClellan, T., Uehara, G., Antal, M. J. & Campbell, S. (2010)._
 _Charcoal volatile matter content influences plant growth and soils_
-_nitrogen transformations.Soil Science Society of America Journal 74(4),_
+_nitrogen transformations. Soil Science Society of America Journal 74(4),_
 [^1259]:_-70._
-_Eyles, A., Bound, S. A., Oliver, G., Corkrey, R., Hardie,M., Green, S. & Close_
-_D. C. (2015).Impact of biochar amendment on the growth, physiology_
-_and fruit of a young commercial apple orchard.Trees_ [^29]:**,** [^1817]:_–1826._
+_Eyles, A., Bound, S. A., Oliver, G., Corkrey, R., Hardie, M., Green, S. & Close_
+_D. C. (2015). Impact of biochar amendment on the growth, physiology_
+_and fruit of a young commercial apple orchard. Trees_ [^29]:**,** [^1817]:_–1826._
 _Accesso via https://doi.org/10.1007/s00468-_[^015]:_-1263_
-_Genesio, L., Miglietta, F., Baronti, S. &Vaccari, F. P. (2015).Biochar increases_
+_Genesio, L., Miglietta, F., Baronti, S. &Vaccari, F. P. (2015). Biochar increases_
 _vineyard productivity without affecting grape quality: results from a_
 _four-year field experiment in Tuscany. Agriculture, Ecosystems_
 _& Environment_ [^2]:[^01]:_, 20–25. Accesso via https://doi.org/10.1016/_
 _j.agee.2014.11.021_
-_Holweg, C. (2019). Pflanzenkohle alsMaßnahme gegen Nitratauswaschung_
-_im Weinbau.Abschlussbericht Projekt VinoCarb, Badenova. Accesso via_
+_Holweg, C. (2019). Pflanzenkohle als Maßnahme gegen Nitratauswaschung_
+_im Weinbau. Abschlussbericht Projekt VinoCarb, Badenova. Accesso via_
 _https://www.badenova.de/downloads/unternehmen/engagement/innovat_
 _ionsfonds-downloads/unternehmensbereiche/stab/innovationsfonds/_
 _abschlussberichte/2016/2016-_[^0]:[^1]:_-abschlussbericht-pflanzenkohle-nitrat-_
 _weinbau.pdf_
-_Kammann, K.,Schmidt, H. P.,Messerschmidt, N.,Linsel, S., Steffens, S.,_
-_Müller, C., Koyro, H. W., Conte, P. & Stephen, J. (2015).Plant growth_
+_Kammann, K., Schmidt, H. P., Messerschmidt, N., Linsel, S., Steffens, S.,_
+_Müller, C., Koyro, H. W., Conte, P. & Stephen, J. (2015). Plant growth_
 
 Lucchetta, Raifer, Lösch, Matteazzi, Patauner
 
 _improvement mediated by nitrate capture in co-composted biochar._
 _Scientific Reports 5, 11080. Accesso via https://doi.org/10.1038/srep11080_
-_Keller, M. (2015).The Science of Grapevines, Anatomy and Physiology. Second_
+_Keller, M. (2015). The Science of Grapevines, Anatomy and Physiology. Second_
 _edition. Academic Press, Elsevier._
-_Kirschbaum, M. U. F. (1995). The temperature dependenceof soil organic_
+_Kirschbaum, M. U. F. (1995). The temperature dependence of soil organic_
 _matter decomposition, and the effect of global warming on soil organic C_
-_storage.Soil Biology Biochemistry 27(6), 753–760._
+_storage. Soil Biology Biochemistry 27(6), 753–760._
 _Lehmann, J., Gaunt, J. & Rondon, M. (2006). Biochar sequestration in_
-_terrestrial ecosystems – a review.Mitigation andadaptation strategies for_
+_terrestrial ecosystems – a review. Mitigation and adaptation strategies for_
 _global change 11, 403–27. Kluwer Academic Publishers-Plenum Publishers._
-_Accesso viahttps://doi.org/10.1007/s11027-_[^005]:_-_[^9006]:_-5_
-_Lehmann, J. & Joseph, S. (2009).Biochar for environmental management: Science_
+_Accesso via https://doi.org/10.1007/s11027-_[^005]:_-_[^9006]:_-5_
+_Lehmann, J. & Joseph, S. (2009). Biochar for environmental management: Science_
 _and Technology. Earthscan, London._
 _Nelson, D. C., Flematti, G. R., Ghisalberti, E. L., Dixon, K. W. & Smith, S. M._
-_(2012).Regulation of seed germination and seegling growth by chemical_
-_signals from burning vegetation.Plant biology 63, 107-30._
+_(2012). Regulation of seed germination and seegling growth by chemical_
+_signals from burning vegetation. Plant biology 63, 107-30._
 _Park, J. H., Choppala, G. K., Bolan, N. S., Chung J. W. & Chuasavati, T._
 _(2011). Biochar reduces the bioavailability and phytotoxicity of heavy_
-_metals. Plant Soil 348, 439. Accessovia https://doi.org/10.1007/s11104-011-_
+_metals. Plant Soil 348, 439. Accesso via https://doi.org/10.1007/s11104-011-_
 [^0948]:_-y_
-_Ray, D.K., West, P.C., Clark, M., Gerber, J.S., Prishchepov,A.V. & Chatterjee,_
+_Ray, D.K., West, P.C., Clark, M., Gerber, J.S., Prishchepov, A.V. & Chatterjee,_
 _S. (2019). Climate change has likely already affected global food_
 _production. PLoS ONE 14(5): e0217148. Accesso via_
 _https://doi.org/10.1371/journal.pone.0217148_
 _Sánchez-García, M., Alburquerque, J. A., Sánchez-Monedero, M. A., Roig, A._
 _& Cayuela, M. L. (2015). Biochar accelerates organic matter degradation_
 _and enhances N mineralisation during composting of poultry manure_
-_without a relevant impact on gas emissions.Bioresource Technology 192,_
+_without a relevant impact on gas emissions. Bioresource Technology 192,_
 _272–79. Accesso via https://doi.org/10.1016/j.biortech.2015.05.003_
 _Schmidt, H. P., Kammann, C., Niggli, C., Evangelou, M. V. H. & Mackie, K._
-_A. (2014).Biochar and biochar-compost as soil amendments to a vineyard_
+_A. (2014). Biochar and biochar-compost as soil amendments to a vineyard_
 _soil: Influences on plant growth, nutrient uptake, plant health and grape_
 _quality. Agriculture, Ecosystems & Environment_ [^191]:_, 117–123. Accesso_
 _via https://doi.org/10.1016/j.agee.2014.04.001_
@@ -5589,47 +6054,48 @@ _via https://doi.org/10.1016/j.agee.2014.04.001_
 ```
 Auswirkungen der Einbringung von Biochar in den Boden
 ```
-_Steiner, C., Das, K. C., Melear, N. & Lakly, D.(2016).Reducing nitrogen loss_
+
+_Steiner, C., Das, K. C., Melear, N. & Lakly, D. (2016). Reducing nitrogen loss_
 _during poultry litter composting using biochar. Journal of Environment_
 _Quality 3_[^9]:_(4), 1236. Accesso via https://doi.org/10.2134/jeq2009.0337_
 _Taghizadeh-Toosi, A., Clough, T. J., Condron, L. M., Sherlock, R. R.,_
-_Anderson, C. R. &Craigie, R. A. (_[^2011]:_). Biochar incorporation into_
+_Anderson, C. R. & Craigie, R. A. (_[^2011]:_). Biochar incorporation into_
 _pasture soil suppresses in situ nitrous oxide emissions from ruminant_
 _urine patches. Journal of Environment Quality 40(2), 468. Accesso via_
 _https://doi.org/10.2134/jeq2010.0419_
 _Ventura, M., Sorrenti, G., Panzacchi, P., George, E. & Tonon, G. (2013)._
 _Biochar reduces short-term nitrate leaching from a horizon in an apple_
-_orchard.Journal of Environment Quality 42, 76-82._
+_orchard. Journal of Environment Quality 42, 76-82._
 _Wang, Y., Ma, Z., Wang, X., Sun, Q., Dong, H., Wang, G., Chen, X., Yin, C.,_
-_Han, Z. &Mao, Z. (2019). Effects of biochar on the growth of apple_
+_Han, Z. & Mao, Z. (2019). Effects of biochar on the growth of apple_
 _seedlings, soil enzyme activities and fungal communities in replant_
-_disease soil.Scientia Horticulturae 2019- Amsterdam. Accesso via_
+_disease soil. Scientia Horticulturae 2019 - Amsterdam. Accesso via_
 _https://doi.org/10.1016/j.scienta.2019.108641_
 
 ## Anwendung von Biochar als
 
 ## Bodenverbesserungsmittel:
 
-## Wirkungen auf den Stickstoffzyklus unddie
+## Wirkungen auf den Stickstoffzyklus und die
 
 ## Trockenstresstoleranz bei im Topf angebauten
 
 ## Weinpflanzen
 
 **Marta Petrillo– Freie Universität Bozen**
-**Damiano Zanotelli– Freie Universität Bozen**
-**Valentina Lucchetta– Versuchszentrum Laimburg**
-**Agnese Aguzzoni– Freie Universität Bozen**
-**Massimo Tagliavini– Freie Universität Bozen**
-**Carlo Andreotti– Freie Universität Bozen**
+**Damiano Zanotelli – Freie Universität Bozen**
+**Valentina Lucchetta – Versuchszentrum Laimburg**
+**Agnese Aguzzoni – Freie Universität Bozen**
+**Massimo Tagliavini – Freie Universität Bozen**
+**Carlo Andreotti – Freie Universität Bozen**
 
 Abstract
-_Die Nutzung von Biochar als Bodenverbesserungsmittel stellt eine interessanteMaß-_
+_Die Nutzung von Biochar als Bodenverbesserungsmittel stellt eine interessante Maß-_
 _nahme für den Umweltschutz (stabile Kohlenstoffbindung im Boden) sowie zur poten-_
 _ziellen Verbesserung der physikalisch-chemischen Fruchtbarkeit der behandelten Bö-_
-_den dar. Zum aktuellen Zeitpunktsinddieagronomischen Eigenschaften von Biochar_
-_als Bodenverbesserungsmittel noch nicht vollständigwissenschaftlicherwiesenund_
-_scheinen in jedem Fall stark von verschiedenen Aspektenabzuhängen,wie der Beschaf-_
+_den dar. Zum aktuellen Zeitpunkt sind die agronomischen Eigenschaften von Biochar_
+_als Bodenverbesserungsmittel noch nicht vollständig wissenschaftlich erwiesen und_
+_scheinen in jedem Fall stark von verschiedenen Aspekten abzuhängen,wie der Beschaf-_
 _fenheit des eingesetzten Biochars, den Eigenschaften des Produktionsprozesses und_
 _den Ausgangsmerkmalen des verbesserten Bodens. Dieses Kapitel enthält die wichtigs-_
 _ten Ergebnisse einer Reihe von Versuchen, die in kontrollierter Umgebung an getopften_
@@ -5638,7 +6104,7 @@ _Nutzung von Biochar als Bodenverbesserungsmittel auf den Stickstoffzyklus in de
 _Weinpflanze; ii) die eventuellen mit der Nutzung von Biochar verbundenen Verände-_
 _rungen der hydrischen Bodeneigenschaften und die potenzielle Erhöhung oder Verrin-_
 _gerung der Stickstoffverluste durch Auslaugung; iii) den physiologischen Zustand von_
-_Weinpflanzen, die aufeinem mit Biochar versetzten Substrat wachsen, während sie zu-_
+_Weinpflanzen, die auf einem mit Biochar versetzten Substrat wachsen, während sie zu-_
 _nehmendem Trockenstress ausgesetzt werden. Was den Stickstoffzyklus der Pflanze_
 _anbelangt, hat die Anwendung eines mit dem Isotop_[^15]_N markierten Stickstoffdüngers_
 
@@ -5654,9 +6120,9 @@ _sere physiologische Performance, wie die weniger negativen Wasserpotenziale der
 _Blätter und die höhere fotosynthetische Aktivität beweisen. Der Zusatz von Biochar als_
 _Bodenverbesserungsmittel zum Substrat, wenn dieses nicht durch Kompost „aktiviert“_
 _ist, erhöht die Menge des durch Auslaugung verlorenen Stickstoffs. Es scheint sich da-_
-_bei um eine Folge der durch den Beitrag vonBiochar erzielten höheren Feuchtigkeit im_
-_Boden und der demzufolge größerenMengen Auslaugungslösung zu handeln, die in-_
-_folgereichlicherWasserzufuhr gesammelt wird. Kurzgefasst, die Ergebnisse einiger an_
+_bei um eine Folge der durch den Beitrag von Biochar erzielten höheren Feuchtigkeit im_
+_Boden und der demzufolge größeren Mengen Auslaugungslösung zu handeln, die in-_
+_folge reichlicherWasserzufuhr gesammelt wird. Kurzgefasst, die Ergebnisse einiger an_
 _getopften Weinpflanzen durchgeführten Tests haben verdeutlicht, dass Biochar, wenn_
 _dem Boden wenig Wasser zugeführt wird, die für die Pflanzen verfügbare Wasserre-_
 _serve erhöht und so den Trockenstress reduzieren kann. Besondere Aufmerksamkeit_
@@ -5673,7 +6139,7 @@ _Die Nutzung von Biochar als Bodenverbesserungsmittel hat in den letzten_
 _Jahren erhebliche Aufmerksamkeit erregt, vor allem wegen der vielfältigen_
 _Ergebnisse, die erzielt werden können. Im aktuellen Szenarium des Klima-_
 _wandels und der globalen Erwärmung stellt Biochar ein interessantes Mittel_
-_für den Umweltschutz dar, daes Kohlenstoffstabil im Boden bindet und da-_
+_für den Umweltschutz dar, da es Kohlenstoff stabil im Boden bindet und da-_
 _her erheblich zur Verlangsamung der Rückkehr dieses Stoffes in Form von_
 _CO_[^2]: _in die Atmosphäre beiträgt (Lehmann, 2007). Außerdem verändert der_
 _Zusatz von Biochar die chemischen, physikalischen und biologischen Eigen-_
@@ -5684,18 +6150,19 @@ _abhängt (Novak et al., 2009). Verschiedene Studien haben insbesondere die_
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
-_Wirkungvon Biochar auf Verluste von Mineralstoffen durch Auslaugung be-_
-_trachtet. DieEvidenz dieserVersuche deckt sich nicht vollständig. Zum Bei-_
+
+_Wirkung von Biochar auf Verluste von Mineralstoffen durch Auslaugung be-_
+_trachtet. Die Evidenz dieser Versuche deckt sich nicht vollständig. Zum Bei-_
 _spiel haben einige Tests gezeigt, dass die Nutzung von Biochar Verluste von_
 _Stickstoff (vor allem Nitratstickstoff) und anderer Stoffe durch Auslaugung_
-_erheblich reduzieren kann, weil einerseits die Menge derAuslaugungslösung_
+_erheblich reduzieren kann, weil einerseits die Menge der Auslaugungslösung_
 _reduziert wird und andererseits die Konzentration der gesammelten Lösung_
 _geringer ausfällt (Lehmann et al., 2003). Wie ausgeprägt diese Wirkung ist,_
-_scheint jedoch von der Zeit abzuhängen, die zwischen der ZugabevonBiochar_
+_scheint jedoch von der Zeit abzuhängen, die zwischen der Zugabe vonBiochar_
 _zum Boden und den analytischen Maßnahmen in Bezug auf die Auslaugung_
 _vergeht (Ventura et al., 2012), und außerdem von den Eigenschaften des für_
 _die Erzeugung vonBiochar verwendeten Ausgangsmaterials (Yao et al., 2012)._
-_Esgibtjedoch auch Beispiele, bei denen Biochareine Erhöhung der durch_
+_Es gibt jedoch auch Beispiele, bei denen Biochar eine Erhöhung der durch_
 _Auslaugung verlorenen Nährstoffmenge bewirkt hat, wie z. B. die von Hardie_
 _et al. (2015) in einer jungen Apfelplantage durchgeführte Studie zeigt._
 _Mehrere Studien haben zudem verdeutlicht, dass die Nutzung von Biochar_
@@ -5705,60 +6172,61 @@ _allem auf die Zunahme der Stabilität der Aggregate und der Mikroporosität_
 _der Substrate zurückzuführen (Verheijen et al., 2010; Abel et al. 2013; Laird et_
 _al., 2010). Auch in Bezug auf die Wirkungen von Biochar auf die physikali-_
 _schen Eigenschaften der Böden sind in der Literatur unterschiedliche Ergeb-_
-_nisse zu finden.Diese Variabilität istzurückzuführen auf dieunterschiedli-_
-_chenEigenschaften der verwendeten Biochars – Unterschiede bestehen hier_
-_sowohlhinsichtlich desfürdie Herstellung verwendeten Ausgansmaterials_
-_undderEigenschaften des Pyrolyseprozesses (Novak et al., 2012) – als auch_
-_auf dieunterschiedlichenMengenbzw. Produktformen(Pulver, Pellets oder_
-_Flocken) (Laird et al., 2010; Abiel et al., 2016) und dieunterschiedlichenBo-_
-_deneigenschaften. Wie Hardie et al. (2014)feststellt, sollte zudemhervorgeho-_
-_ben werden,dass die ErkenntnissezahlreicherStudien zu denWirkungenvon_
-_Biochar auf die physikalischen Eigenschaften des Bodensvon diskutabler Be-_
-_deutungfür den Agrarbereich sind, da sie nichtauf Agrarbödenundmit ho-_
+_nisse zu finden. Diese Variabilität ist zurückzuführen auf die unterschiedli-_
+_chen Eigenschaften der verwendeten Biochars – Unterschiede bestehen hier_
+_sowohl hinsichtlich des für die Herstellung verwendeten Ausgansmaterials_
+_und der Eigenschaften des Pyrolyseprozesses (Novak et al., 2012) – als auch_
+_auf die unterschiedlichen Mengen bzw. Produktformen (Pulver, Pellets oder_
+_Flocken) (Laird et al., 2010; Abiel et al., 2016) und die unterschiedlichen Bo-_
+_deneigenschaften. Wie Hardie et al. (2014) feststellt, sollte zudem hervorgeho-_
+_ben werden, dass die Erkenntnisse zahlreicher Studien zu den Wirkungen von_
+_Biochar auf die physikalischen Eigenschaften des Bodens von diskutabler Be-_
+_deutung für den Agrarbereich sind, da sie nicht auf Agrarböden und mit ho-_
 _hen, in der Landwirtschaft schwer implementierbaren Dosierungen (>_ [^50]: _t/ha)_
-_bzw.unter Laborbedingungen mit entnommenem,gesiebtem Bodendurchge-_
+_bzw. unter Laborbedingungen mit entnommenem, gesiebtem Bodendurchge-_
 
 Petrillo, Zanotelli, Lucchetta, Aguzzoni, Tagliavini, Andreotti
 
-_führt wurden. DieIn situ-Verifizierung der durch Biochar bewirktenVerbes-_
+_führt wurden. Die In situ-Verifizierung der durch Biochar bewirkten Verbes-_
 _serungen der physikalischen Bodeneigenschaften ist sicherlich komplexer_
-_und beidenineinigen Fällen beobachtetenWirkungen vonteilweisebeacht-_
-_lichen Zugaben von Biochar (47 t/ha) auf dieWasserspeicherfähigkeit des Bo-_
+_und bei den in einigen Fällen beobachteten Wirkungen von teilweise beacht-_
+_lichen Zugaben von Biochar (47 t/ha) auf die Wasserspeicherfähigkeit des Bo-_
 _dens (z. B. Wassergehalt bei Feldkapazität, Wassergehalt bei permanentem_
-_Welkepunkt und insgesamt für die Pflanzenverfügbares Wasser)handelt es_
-_sichnichtumstatistisch signifikante Ergebnisse(Hardie et al., 2014)._
+_Welkepunkt und insgesamt für die Pflanzen verfügbares Wasser) handelt es_
+_sich nicht um statistisch signifikante Ergebnisse (Hardie et al., 2014)._
 _Biocharwurde in Weinbergen mit recht widersprüchlichen Ergebnissen ange-_
-_wandt. Eine Analyse derVersuchsergebnisseergibt eindeutig, dass die Wir-_
+_wandt. Eine Analyse der Versuchsergebnisse ergibt eindeutig, dass die Wir-_
 _kung der Zugaben von Biochar auf das Vegetations- und Produktionsverhal-_
-_ten der Weinreben stark von den allgemeinenBedingungen des Weinbergs_
+_ten der Weinreben stark von den allgemeinen Bedingungen des Weinbergs_
 _abhängt. In einem mehrjährigen Test in einem nicht bewässerten Weinberg in_
 _der Toskana hat der Zusatz einer Dosis von 22 bis 44 t/ha zum Boden das_
 _Wasserspeichervermögen des Bodens erheblich verändert. Bei Behandlung_
-_mit hohen Dosierungen von Biocharkam es zu einerZunahme des für die_
-_Pflanzen verfügbaren Wassers vonbis zu +45 % gegenüber dem nicht verbes-_
-_serten Kontrollboden. Auchdie positiven Auswirkungen auf den Wasserzu-_
+_mit hohen Dosierungen von Biochar kam es zu einer Zunahme des für die_
+_Pflanzen verfügbaren Wassers von bis zu +45 % gegenüber dem nicht verbes-_
+_serten Kontrollboden. Auch die positiven Auswirkungen auf den Wasserzu-_
 _stand der Pflanzen waren offensichtlich: weniger negatives Wasserpotenzial_
 _der Blätter, höhere stomatäre Leitfähigkeit und fotosynthetische Aktivität (Ba-_
 _ronti et al., 2014). Der bessere physiologische Allgemeinzustand der auf dem_
-_mit Biochar verbesserten Boden wachsenden Pflanzen schlug sichschließlich_
+_mit Biochar verbesserten Boden wachsenden Pflanzen schlug sich schließlich_
 _in einer höheren Produktionsleistung nieder, insbesondere in Jahren mit ge-_
 _ringerem Niederschlag und somit verschärftem Trockenstress im Sommer_
 _(Genesio et al., 2015). Dieser Produktionszuwachs pro Pflanze, der vor allem_
 _in einem höheren Durchschnittsgewicht der Weinbeeren und Trauben be-_
 _stand, führte nicht zu signifikanten Unterschieden in den wichtigsten Quali-_
 _tätsparametern der Trauben (lösliche Feststoffe, Gesamtsäure und Gesamtant-_
-_hocyangehalt). Die Autoren dieser Studie führen das Fehlen vonBeweisen in_
+_hocyangehalt). Die Autoren dieser Studie führen das Fehlen von Beweisen in_
 _qualitativer Hinsicht auf die komplexe Interaktion verschiedener Faktoren zu-_
 _rück (Ernährungszustand, Zeiten von Trockenstress, Bodentemperatur usw.),_
-_die direkt oder indirekt durch den Zusatzvon Biochar zum Boden beeinflusst_
+_die direkt oder indirekt durch den Zusatz von Biochar zum Boden beeinflusst_
 _werden (Genesio et al., 2015). In einem anderen ökologischen Umfeld, in dem_
 _die Vegetationsperiode durch eine unbeschränkte Verfügbarkeit von Wasser_
-_für die Pflanzengekennzeichnet ist, hat der Zusatz geringererDosierungen_
+_für die Pflanzen gekennzeichnet ist, hat der Zusatz geringerer Dosierungen_
 
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
-_(unter 10 t/ha)von Biocharzum Boden, mit oder ohne Kompost, keinen Un-_
+
+_(unter 10 t/ha) von Biochar zum Boden, mit oder ohne Kompost, keinen Un-_
 _terschied im Wachstum und Gesundheitszustand der Weinreben und der qua-_
 _litativen Parameter der Trauben bewirkt (Schmidt et al., 2014). Diese Evidenz_
 _hat die Autoren zum Schluss veranlasst, dass der Einsatz von Biochar als Bo-_
@@ -5769,24 +6237,24 @@ _möglichen ökosystemischen Leistungen, die auf die Nutzung von Biochar im_
 _Weinbau zurückzuführen sind, wie zum Beispiel die Verringerung der Mobi-_
 _lität von Kupfer in Anbausystemen wie Weinbergen, die mit schweren ökolo-_
 _gischen Problemen infolge der historischen Kumulation dieses Stoffes im Bo-_
-_denzu kämpfen haben. Einige rezente Studien (Soja et al., 2018; Pump et al.,_
+_den zu kämpfen haben. Einige rezente Studien (Soja et al., 2018; Pump et al.,_
 _2019) haben die Möglichkeit der Nutzung von Biochar zur Beschränkung der_
 _Kupfermobilität im Weinbergsystem verdeutlicht; dadurch werden die Ver-_
 _breitung und möglichen negativen Auswirkungen auf die Umwelt reduziert,_
-_und zwar auf besonders effiziente Weise beiBöden mitsaurerLösung und bei_
-_rezentenEinlagerungen von Kupfer._
-_In Anbetracht des oben beschriebenen Wissensstandesundder Variabilität_
-_der verfügbarenVersuchsergebnisse scheint es offensichtlich, dass unsere_
+_und zwar auf besonders effiziente Weise bei Böden mit saurer Lösung und bei_
+_rezenten Einlagerungen von Kupfer._
+_In Anbetracht des oben beschriebenen Wissensstandes und der Variabilität_
+_der verfügbaren Versuchsergebnisse scheint es offensichtlich, dass unsere_
 _Kenntnisse in Bezug auf die Wirkungen von Biochar als Bodenverbesserungs-_
-_mittel noch unvollständig sind.Vor allem bestimmte Aspekte hinsichtlich der_
+_mittel noch unvollständig sind. Vor allem bestimmte Aspekte hinsichtlich der_
 _physiologischen Reaktionen der Pflanzen auf die Behandlung des Bodens mit_
 _Biochar verdienen weitere Untersuchungen. Zu diesem Zweck wurden die_
-_folgendenVersuche in kontrollierter Umgebung durchgeführt; insbesondere_
-_sollendiese i) die Wirkungen der Nutzung von Biochar (inReinform oder in_
+_folgenden Versuche in kontrollierter Umgebung durchgeführt; insbesondere_
+_sollen diese i) die Wirkungen der Nutzung von Biochar (in Reinform oder in_
 _Kombination mit Kompost) auf den Stickstoffzyklus von getopften Wein-_
 _pflanzen bestimmen; ii) die eventuelle Wirkung der Nutzung von Biochar als_
 _Bodenverbesserungsmittel auf die Stickstoffverluste durch Auslaugung eva-_
-_luieren; iii)helfen zuverstehen, wie sich die Veränderungen der hydrischen_
+_luieren; iii) helfen zu verstehen, wie sich die Veränderungen der hydrischen_
 _Substrateigenschaften nach Zusatz von Biochar auf den Wasserzustand von_
 _Weinpflanzen auswirken, die aufeinanderfolgenden Zyklen von Wasserman-_
 _gel ausgesetzt wurden, wobei die physiologischen Stressindikatoren auf Blatt-_
@@ -5796,21 +6264,22 @@ Petrillo, Zanotelli, Lucchetta, Aguzzoni, Tagliavini, Andreotti
 
 #### 2. Wirkungen der Anwendung von Biochar auf den Stick-
 
-#### stoffzyklusvongetopften Weinpflanzen
+#### stoffzyklus von getopften Weinpflanzen
 
 2.1 Angewandte Methode
 
-2.1.1 Pflanzenmaterial undVersuchsdesign
-_Fürden Versuchwurden 30 zweijährige Weinpflanzen (cv. Pinot nero aufUn-_
-_terlage SO4) mit einem Stockdurchmesser von circa 2 cm mit einem aufvier-_
+2.1.1 Pflanzenmaterial und Versuchsdesign
+_Für den Versuch wurden 30 zweijährige Weinpflanzen (cv. Pinot nero auf Un-_
+_terlage SO4) mit einem Stockdurchmesser von circa 2 cm mit einem auf vier-_
 _bis fünf Augen zurückgeschnittenen Fruchtholz verwendet. Die Substrate_
-_sindin Tabelle 1 gegenübergestellt._
+_sind in Tabelle 1 gegenübergestellt._
 
 Tabelle 1 – Substrate im Vergleich (Versuchsbehandlungen)
 
 ```
 Behandlung Beschreibung des Substrats
 ```
+
 ```
 Kontrolle Kontrolle (mit 10-mm-Sieb gesiebte Erde)
 Volumetrische Dichte 0,91 g/cm[^3]
@@ -5825,63 +6294,74 @@ Biochar + 0,9 kg Kompost in 20 kg
 gesiebter Erde). Volumetrische Dichte
 0,87 g/cm[^3]
 ```
+
 _Die wichtigsten Eigenschaften der getesteten Substrate (organische Substanz,_
 _pH-Wert und Konzentration der Makrostoffe) sind in Tabelle 2 aufgeführt._
 
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
-Tabelle 2– Analytische Charakterisierung der Substrate im Vergleich (Mittelwerte± Standardab-
+
+Tabelle 2 – Analytische Charakterisierung der Substrate im Vergleich (Mittelwerte ± Standardab-
 weichung)
 
 ```
 Behandlung Humus
 (%)
 ```
+
 ```
 pH-
 Wert
 ```
+
 ```
 Nmin
 (mg/kg)
 ```
+
 ```
 P2O5
 (mg/100g)
 ```
+
 ```
 K2O
 (mg/100g)
 ```
+
 ```
 MgO
 (mg/100g)
 ```
+
 ```
 Kontrolle 5,3±0,5 7,0±0,01 2,61±1,13 28±0,58 24,33±0,33 22,33±0,33
 Kompost 5,5±0,3 7,1±0,01 2,17±0,44 33±0,58 46,67±1,67 25,67±0,33
 Biochar +
 Kompost
 ```
+
 ```
 7,1±0,7 7,5±0,06 2,67±0,54 40±3,18 116,33±20,99 28,33±1,67
 ```
+
 ```
 Biochar 6,7±0,3 7,5±0,03 1,15±0,57 29±0,00 97,33±3,53 26,33±0,33
 ```
-_Fürden Versuch wurden fünf Replikate pro Behandlung (eine Pflanze pro_
-_Replikat)verwendet und nach einem Versuchsplan mit kompletter Randomi-_
+
+_Für den Versuch wurden fünf Replikate pro Behandlung (eine Pflanze pro_
+_Replikat) verwendet und nach einem Versuchsplan mit kompletter Randomi-_
 _sierung in einem Plastiktunnel in der Nähe des Versuchszentrums Laimburg_
-_(Gemeinde Vadena, BZ)angeordnet. Die Jungpflanzen wurden Anfang Juni_
+_(Gemeinde Vadena, BZ) angeordnet. Die Jungpflanzen wurden Anfang Juni_
 _2017 in Kunststofftöpfe mit 23 Liter Fassungsvermögen gesetzt, die mit den_
-_vier verschiedenen für den Vergleich vorgesehenen Substratenbefüllt worden_
+_vier verschiedenen für den Vergleich vorgesehenen Substraten befüllt worden_
 _waren. Außerdem wurden 10 weitere Jungpflanzen in Kontrollsubstrat ge-_
 _pflanzt, um weitere spezifische Probenahmen zu ermöglichen, wie im Folgen-_
-_den beschrieben. Die wichtigstenVersuchsphasensind in Abbildung 1 darge-_
+_den beschrieben. Die wichtigsten Versuchsphasen sind in Abbildung 1 darge-_
 _stellt._
 
-Abb. 1 – Zeitliche Abfolge der wichtigsten Phasen des vonJuni bisSeptember 2018 in einem
+Abb. 1 – Zeitliche Abfolge der wichtigsten Phasen des von Juni bis September 2018 in einem
 Plastiktunnel durchgeführten Versuchs
 
 2.1.2 Düngung mit markiertem Stickstoff ([^15]N)
@@ -5897,13 +6377,13 @@ _von markiertem Düngemittel_[^15]_NH_[^4]:[^15]_NO_[^3]: _mit 5 %_[^15]_N. Alle
 _Biochar, Biochar und Kompost, nur Kompost und Kontrollsubstrat wachsen-_
 _den Pflanzen wurden gedüngt. Darüber hinaus erhielten weitere fünf auf_
 _Kontrollsubstrat wachsende Pflanzen keinen Dünger._
-_Während der gesamten Dauer desVersuchs (von der ersten Düngung bis zur_
-_Entwurzelung der Pflanzen) wurden alle vorzeitig von den Pflanzeninden_
+_Während der gesamten Dauer des Versuchs (von der ersten Düngung bis zur_
+_Entwurzelung der Pflanzen) wurden alle vorzeitig von den Pflanzen in den_
 _verschiedenen Behandlungen gefallenen Blätter eingesammelt und getestet._
 _Diese Proben wurden in Bezug auf Biomasse und Gehalt an Stickstoff (mar-_
-_kiert und nicht markiert)bewertet und zusammen mit den am Ende des Ver-_
+_kiert und nicht markiert) bewertet und zusammen mit den am Ende des Ver-_
 _suchs durchgeführten Evaluierungen berücksichtigt. Im Monat September_
-_wurden schließlich alle Pflanzen dervierDüngebehandlungen (Biochar, Bio-_
+_wurden schließlich alle Pflanzen der vier Düngebehandlungen (Biochar, Bio-_
 _char + Kompost, Kompost und Kontrollsubstrat) sowie die fünf nicht gedüng-_
 _ten Kontrollpflanzen entwurzelt. Die jährlichen Organe (feine Wurzeln,_
 _Triebe, Blätter) und die mehrjährigen Organe (Wurzeln mit Sekundärwachs-_
@@ -5915,39 +6395,40 @@ _fen in den Blättern untersucht (Abb. 2)_
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
-Abb. 2– Vorbereitung der Weinpflanzen am Ende desVersuchsmit markiertem Stickstoff. Die
+
+Abb. 2 – Vorbereitung der Weinpflanzen am Ende des Versuchs mit markiertem Stickstoff. Die
 Pflanzen (A) wurden entwurzelt, in die verschiedenen Organe aufgeteilt (Wurzeln, Stamm und
 Fruchtrute, Triebe, Blätter) (B und C), gewogen und getrocknet. Dann wurden Stichproben der ver-
 schiedenen Organe auf ihren Gehalt an Gesamtstickstoff und markiertem Stickstoff ([^15]N) unter-
 sucht.
 
 2.1.3 Isotopische Stickstoffanalyse
-_Die Gesamtstickstoffkonzentration in den Substraten und inden verschiede-_
+_Die Gesamtstickstoffkonzentration in den Substraten und in den verschiede-_
 _nen Organen der Pflanze wurde mit einem mit Elementaranalysator ausge-_
-_stattetenIsotopenverhältnis-Massenspektrometer durchgeführt (Isotopic Ra-_
-_tio Mass Spectrometer- IRMS, Thermo Scientific, Germany). Der Überschuss_
+_statteten Isotopenverhältnis-Massenspektrometer durchgeführt (Isotopic Ra-_
+_tio Mass Spectrometer - IRMS, Thermo Scientific, Germany). Der Überschuss_
 _an_[^15]_N (% Atome) in den Organen und im Dünger im Vergleich zum natürli-_
 _chen Überschuss von_[^15]_N (0,366 % Atome) wurde wie folgt berechnet:_
 
-NausDünger =
+N aus Dünger =
 Gesamt−NOrgan(mg)×([^15]NÜberschussGewebe−natürlicher[^15]NÜberschuss)
 ([^15]NÜberschussDünger−natürlicher[^15]NÜberschuss)
 
 2.1.4 Analyse der in den Blättern vorhandenen Makro- und
 Mikrostoffe
-_Die Blattkonzentration von Stickstoff(N), Kalium (K), Magnesium (Mg), Kal-_
+_Die Blattkonzentration von Stickstoff (N), Kalium (K), Magnesium (Mg), Kal-_
 _zium (Ca), Phosphor (P), Kupfer (Cu), Zink (Zn), Bor (B), Eisen (Fe) und Man-_
 _gan (Mn) wurde mittels Analyse mit einem ICP-MS (Inductively Coupled_
 
 Petrillo, Zanotelli, Lucchetta, Aguzzoni, Tagliavini, Andreotti
 
 _Plasma Mass Spectrometer, Thermo Scientific, Bremen, Germany) nach Säu-_
-_reaufschluss der Blattprobe ermittelt (2,5 ml HNO_[^3]:_- 65 %, w/w - auf 0,1 g Tro-_
+_reaufschluss der Blattprobe ermittelt (2,5 ml HNO_[^3]: _- 65 %, w/w - auf 0,1 g Tro-_
 _ckenprobe)._
 
 2.1.5 Statistische Analyse
 _Die Daten wurden mit der Software R, Version 3.3.1 analysiert. Erhebliche_
-_Unterschiede zwischen Behandlungen wurden mit einereinfaktoriellen Vari-_
+_Unterschiede zwischen Behandlungen wurden mit einer einfaktoriellen Vari-_
 _anzanalyse (ANOVA) festgestellt, nachdem die Normalitätshypothesen_
 _(durch Shapiro-Wilk-Test, p>0,05) und die Homogenitätshypothesen der Va-_
 _rianz (durch Bartlett-Test, p>0,05) überprüft wurden. Die Paarvergleiche wur-_
@@ -5966,7 +6447,8 @@ _gedüngten Pflanzen hervor (Abb. 3)._
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
-Abb. 3 – AmVersuchsende(Zeitpunkt der Entwurzelung) gemessene Biomasse (Trockengewicht
+
+Abb. 3 – Am Versuchsende (Zeitpunkt der Entwurzelung) gemessene Biomasse (Trockengewicht
 in g) der verschiedenen Organe der mit NH[^4]:NO[^3]: gedüngten und nicht-gedüngten Kontrollpflanzen.
 Stamm und Fruchtrute wurden zusammen im Diagramm „Stamm“ betrachtet; das Diagramm „Wur-
 zeln“ betrifft die feinen Wurzeln und die Wurzeln mit sekundärem Wachstum. Die Ergebnisse in der
@@ -5974,16 +6456,16 @@ Abbildung sind Gegenstand einer in Vorbereitung befindlichen Veröffentlichung f
 Italus Hortus.
 
 _Vor allem das Wachstum der jährlichen Organe (Triebe und Blätter) fiel bei_
-_den nicht gedüngten Pflanzen erheblich geringer aus; diesesind außerdem_
-_durchdas Fehlen von Seitentrieben gekennzeichnet. Aus dem Vergleich mit_
+_den nicht gedüngten Pflanzen erheblich geringer aus; diese sind außerdem_
+_durch das Fehlen von Seitentrieben gekennzeichnet. Aus dem Vergleich mit_
 _den auf den vier gedüngten Substraten gewachsenen Pflanzen gingen keine_
 _signifikanten Unterschiede hervor, was die Biomasse der verschiedenen Or-_
 _gane anbelangt (Abb. 4)._
 
 Petrillo, Zanotelli, Lucchetta, Aguzzoni, Tagliavini, Andreotti
 
-Abb. 4–Wirkung der verschiedenen Substrate auf die Biomasse (Trockengewicht in g) von Blättern,
-Trieben, Stamm und Wurzeln der am Ende desVersuchsentwurzelten Weinpflanzen. Siehe Anga-
+Abb. 4 –Wirkung der verschiedenen Substrate auf die Biomasse (Trockengewicht in g) von Blättern,
+Trieben, Stamm und Wurzeln der am Ende des Versuchs entwurzelten Weinpflanzen. Siehe Anga-
 ben in Abb. 3, was die Beschreibung der Zusammensetzung der verschiedenen Teile der betrach-
 teten Pflanze anbelangt. Die Ergebnisse in der Abbildung sind Gegenstand einer in Vorbereitung
 befindlichen Veröffentlichung für die Zeitschrift ItalusHortus.
@@ -5992,8 +6474,8 @@ _In Abbildung 5 sind die durchschnittlichen Mengen an N (in g) aufgeführt,_
 _die in den einzelnen Pflanzenorganen gemessen wurden. Es handelt sich also_
 _um das kombinierte Ergebnis der in den Pflanzenorganen gemessenen Stick-_
 _stoffkonzentration und des Trockengewichts dieser Organe. Blätter und Wur-_
-_zeln, die relativ hohe Stickstoffkonzentrationenhatten (circa 2,5 % N in den_
-_Blättern und circa 1,5 % in den Wurzeln),erwiesen sich als die Organe mit der_
+_zeln, die relativ hohe Stickstoffkonzentrationen hatten (circa 2,5 % N in den_
+_Blättern und circa 1,5 % in den Wurzeln), erwiesen sich als die Organe mit der_
 _größten Menge dieses Stoffes. Der Zusatz der Bodenverbesserungsmittel Bio-_
 _char und Kompost (in Kombination oder einzeln) hat diese Menge gegenüber_
 _den auf nicht verbessertem Boden gewachsenen Pflanzen (Kontrollpflanzen)_
@@ -6002,7 +6484,8 @@ _nicht signifikant verändert._
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
-Abb. 5–Durchschnittliche Stickstoffmenge (in g) In den verschiedenen Organen zum Zeitpunkt der
+
+Abb. 5 –Durchschnittliche Stickstoffmenge (in g) In den verschiedenen Organen zum Zeitpunkt der
 Entnahme, nach Düngung. Siehe Angaben in Abb. 3, was die Beschreibung der Zusammensetzung
 der verschiedenen Teile der betrachteten Pflanze anbelangt. Die Ergebnisse in der Abbildung sind
 Gegenstand einer in Vorbereitung befindlichen Veröffentlichung für die Zeitschrift Italus Hortus.
@@ -6019,25 +6502,25 @@ _(Abb. 6)._
 
 Petrillo, Zanotelli, Lucchetta, Aguzzoni, Tagliavini, Andreotti
 
-Abb. 6– Durchschnittlich enthaltene Menge des aus den Düngungen mit[^15]NH4
+Abb. 6 – Durchschnittlich enthaltene Menge des aus den Düngungen mit[^15]NH4
 [^15]:NO[^3]: stammenden
 markierten Stickstoffs (in g,n=5) in den Pflanzen und dem Boden. Die Fehlerlinien zeigen die
 Standardabweichung.
 Die bei der Düngung insgesamt verteilten 3 g des markierten Stickstoffs wurden kohärent in den
 beiden Komponenten, Substrat und Pflanze, ausfindig gemacht. Die Differenz (zwischen 0,2 und
-0,6 g N schwankend) in Bezug auf die erwartete Gesamtmenge (3 g)ist auf mögliche Verluste des
+0,6 g N schwankend) in Bezug auf die erwartete Gesamtmenge (3 g) ist auf mögliche Verluste des
 Pflanzenmaterials während des Wachstumszyklus zurückzuführen. Die Ergebnisse in der Abbildung
 sind Gegenstand einer in Vorbereitung befindlichen Veröffentlichung für die Zeitschrift Italus Hortus.
 
 _Der größte Teil des mit der Düngung verabreichten N wurde in den Organen_
-_gemessen,die sich während des jährlichen Zuwachses gebildet haben, und_
+_gemessen, die sich während des jährlichen Zuwachses gebildet haben, und_
 _zwar überwiegend in den Blättern, wo im Durchschnitt circa 0,5 g N aus Dün-_
 _gung gefunden wurden (Abb. 7A). Auch in den permanenten Organen der_
 _Pflanze wurden bei den verschiedenen Behandlungen keine signifikanten Un-_
 _terschiede in der Verteilung gemessen (Abb. 7B)._
 _Tabelle 3 und 4 enthalten die Ergebnisse der Blattanalysen für einige Makro-_
 _und Mikrostoffe. Der Zusatz von Biochar (allein oder in Kombination mit_
-_Kompost) ergab eine geringere Konzentration von P (circa-35 %) und Ca (-27_
+_Kompost) ergab eine geringere Konzentration von P (circa -35 %) und Ca (-27_
 _%) im Vergleich zu den Kontrollpflanzen. In Übereinstimmung mit den höhe-_
 _ren K-Werten, die in den mit Biochar verbesserten Substraten gefunden wur-_
 _den, waren die Konzentrationen dieses Stoffes in den Blättern hingegen deut-_
@@ -6048,6 +6531,7 @@ _und Mg (0,27–0,30 %) in den Blättern zu verbuchen. Auch bei Mikrostoffen_
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
+
 _traten keine deutlichen Unterschiede bei den verschiedenen Behandlungen_
 _zutage._
 
@@ -6059,7 +6543,7 @@ befindlichen Veröffentlichung für die Zeitschrift Italus Hortus.
 Petrillo, Zanotelli, Lucchetta, Aguzzoni, Tagliavini, Andreotti
 
 Tabelle 3 –Gehalt (% Trockengewicht ± Standardabweichung) an Makroelementen in den Pflanzen-
-blättern der vierBehandlungen im Vergleich. Die verschiedenen Buchstaben zeigen deutliche
+blättern der vier Behandlungen im Vergleich. Die verschiedenen Buchstaben zeigen deutliche
 Unterschiede zwischen den Werten der gleichen Spalte an (Tukey-HSD-Test, p<0,05). Die
 Ergebnisse in der Tabelle sind Gegenstand einer in Vorbereitung befindlichen Veröffentlichung für
 die Zeitschrift Italus Hortus.
@@ -6067,48 +6551,61 @@ die Zeitschrift Italus Hortus.
 ```
 Behandlung N % P % K % Mg % Ca %
 ```
+
 ```
 Kontrolle 2,9 ± 0,21 0,38 ± 0,07a 1,61 ± 0,21b 0,27 ± 0,04 2,29 ± 0,1a
 ```
+
 ```
 Kompost 2,9 ± 0,19 0,28 ± 0,01b 1,98 ± 0,41ab 0,29 ± 0,04 1,87 ± 0,28ab
 ```
+
 ```
 Biochar +
 Kompost
 ```
+
 ```
 2,7 ± 0,2 0,27 ± 0,05b 2,21 ± 0,46ab 0,28 ± 0,02 1,67 ± 0,35b
 ```
+
 ```
 Biochar 2,7 ± 0,19 0,25 ± 0,02b 2,41 ± 0,21a 0,30 ± 0,03 1,68 ± 0,29b
 ```
-Tabelle 4–Gehalt (% Trockengewicht ± Standardabweichung) an Mikroelementen in den Pflanzen-
+
+Tabelle 4 –Gehalt (% Trockengewicht ± Standardabweichung) an Mikroelementen in den Pflanzen-
 blättern der vier Behandlungen im Vergleich. Die Ergebnisse in der Tabelle sind Gegenstand einer
 in Vorbereitung befindlichen Veröffentlichung für die Zeitschrift Italus Hortus.
 
 ```
 Behandlung B Mn Fe Cu Zn
 ```
+
 ```
-Kontrolle 46,06 ± 5,24 16,81 ± 1,22 146,27 ±13,72 8,06 ± 2,21 31,99 ± 3,82
+Kontrolle 46,06 ± 5,24 16,81 ± 1,22 146,27 ± 13,72 8,06 ± 2,21 31,99 ± 3,82
 ```
+
 ```
 Kompost 46,56 ± 6,63 15,78 ± 2,18 139,13 ± 20,38 9,07 ± 0,72 37,93 ± 8,45
 ```
+
 ```
 Biochar +
 Kompost
 ```
+
 ```
 45,59 ± 9,99 15,52 ± 2,48 148,75 ± 14,61 8,75 ± 0,96 41,97 ± 4,37
 ```
+
 ```
-Biochar 43,76 ± 10,29 16,18 ± 3,98 161,55 ± 40,81 8,70 ±1,04 39,40 ± 4,53
+Biochar 43,76 ± 10,29 16,18 ± 3,98 161,55 ± 40,81 8,70 ± 1,04 39,40 ± 4,53
 ```
+
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
+
 #### 3. Wirkungen der Nutzung von Biochar auf die hydrischen
 
 #### Eigenschaften der Substrate und die potenziellen
@@ -6122,9 +6619,9 @@ Substrate
 _Zwanzig Gefäße mit einem Volumen von je 23 l wurden mit den Substraten_
 _gefüllt, die den in Tabelle 1 beschriebenen Behandlungen entsprechen. Für je-_
 _des Substrat im Vergleich wurden fünf Töpfe vorbereitet, die dann auf circa_
-[^10]:_cm hohe Metallständer in Plastikuntersetzer einer für den Topfdurchmes-_
+[^10]: _cm hohe Metallständer in Plastikuntersetzer einer für den Topfdurchmes-_
 _ser angemessenen Größe gestellt wurden. Dann wurden die Substrate mit_
-_Wasser übersättigt, bis das Wasserreichlichaus den Töpfen lief. Nachdem das_
+_Wasser übersättigt, bis das Wasser reichlichaus den Töpfen lief. Nachdem das_
 _aus den Töpfen laufende Sickerwasser beseitigt wurde (circa 36 Stunden nach_
 _der anfänglichen Wasserzufuhr) wurden die einzelnen Töpfe gewogen und_
 _der Wassergehalt unter Feldkapazität der verschiedenen Substrate durch Ab-_
@@ -6143,7 +6640,7 @@ _ten Welkepunkt (-1500 kPa) gemessen und das für die Pflanzen verfügbare_
 _Wasservolumen per Differenz geschätzt werden._
 
 3.1.3 Simulation einer Auslaugung
-_DieserVersuchsollte die Bedingungen eines ergiebigenRegenfalls sofort nach_
+_DieserVersuch sollte die Bedingungen eines ergiebigenRegenfalls sofort nach_
 _einer Zufuhr von Stickstoffdünger in Form von Nitrat (N-NO_[^3]:_) simulieren,_
 _um die Wirkung des Biochar-Bodenverbesserungsmittels auf die potenziellen_
 
@@ -6153,9 +6650,9 @@ _Stickstoffverluste durch Auslaugung einzuschätzen. Die Töpfe wurden auf_
 _Feldkapazität gebracht und dann jeweils mit einer Lösung aus 4 g N-NO_[^3]: _in_
 _200 ml Wasser gedüngt. Diese Menge entspricht einer Stickstoffzufuhr von_
 _circa 20 kg/ha in einem Weinberg mit einer Dichte von 5.000 Rebstöcken pro_
-_Hektar.Circa 76 Stunden nach der Düngung (für ein gutes Eindringen der N-_
+_Hektar. Circa 76 Stunden nach der Düngung (für ein gutes Eindringen der N-_
 _NO_[^3]:_-Lösung entlang des gesamten Topfprofils erforderlicher Zeitraum)_
-_wurde einergiebigerRegenfall simuliert, indem auf jeden Topf ein Volumen_
+_wurde ein ergiebiger Regenfall simuliert, indem auf jeden Topf ein Volumen_
 _von 2 l Wasser verteilt wurde (entsprechend circa 24 mm Niederschlag). Das_
 _nach der Flüssigkeitszufuhr entstandene Auslaugungswasser wurde vollstän-_
 _dig in den Untersetzerngesammelt und dann in einen skalierten Zylinder um-_
@@ -6167,7 +6664,7 @@ _Gehalt an N-NO_[^3]: _untersucht zu werden._
 _Die Daten wurden mit der Software R durch Vergleich der Gruppen mittels_
 _Varianzanalyse untersucht, nachdem die Normalitäts- und Homogenitätsana-_
 _lysen der Varianz überprüft worden waren. Die in Prozentsätzen ausgedrück-_
-_ten Ergebnisse wurden vor der Varianzanalyse in logarithmische Werteum-_
+_ten Ergebnisse wurden vor der Varianzanalyse in logarithmische Werte um-_
 _geformt._
 
 3.2 Ergebnisse
@@ -6178,7 +6675,7 @@ _Aus der Kombination der gravimetrischen Messungen des Wassergehalts bei_
 _Feldkapazität und den kontinuierlich von den Sonden zur Messung des Was-_
 _serpotenzials und Wassergehalts der Substrate gelieferten Informationen_
 _konnten die Wirkungen des Zusatzes von Bodenverbesserungsmitteln auf die_
-_hydraulischen Eigenschaften derzum Vergleich stehenden Substrate be-_
+_hydraulischen Eigenschaften der zum Vergleich stehenden Substrate be-_
 _stimmt werden. Die Kurve von Wassergehalt vs. Wasserpotenzial des Bodens_
 _fällt im Falle der mit Biochar verbesserten Substrate gradueller aus (Abb. 8)._
 _Demzufolge liegen die Werte des Wasserpotenzials bei Feuchtigkeitswerten_
@@ -6188,20 +6685,21 @@ _Welkepunkt, während die des mit Biochar versetzten Substrat dieses Niveau_
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
+
 _erst mit niedrigeren Werten des Wassergehalts der Erde erreichen (ungefähr_
 _12 %)._
 
-Abb. 8–Wasserretentionskurve (Wassergehalt in m[^3]/m[^3]vs Wasserpotenzial in -kPa) der Substrate
+Abb. 8 –Wasserretentionskurve (Wassergehalt in m[^3]/m[^3]vs Wasserpotenzial in -kPa) der Substrate
 im Vergleich. Die Ergebnisse in der Abbildung sind Gegenstand einer in Vorbereitung befindlichen
 Veröffentlichung für die Zeitschrift Italus Hortus.
 
 _Das für die Pflanzen zur Verfügung stehende Wasser, berechnet als Differenz_
-_zwischen demWassergehalt der Substrate bei Feldkapazität und dem perma-_
+_zwischen dem Wassergehalt der Substrate bei Feldkapazität und dem perma-_
 _nenten Welkepunkt, erwies sich als signifikant erhöht durch den Zusatz des_
 _Bodenverbesserungsmittels mit Biochar (Tab. 5). Insbesondere waren sowohl_
 _die Behandlung mit durch Kompost aktiviertem Biochar als auch die Behand-_
 _lung mit Biochar allein in der Lage, das für die Pflanzen verfügbare Wasser-_
-_volumenim Vergleich zur Kontrollgruppe um circa 30 % zu erhöhen, wäh-_
+_volumen im Vergleich zur Kontrollgruppe um circa 30 % zu erhöhen, wäh-_
 _rend der Zusatz von Kompost allein zu einer geringeren, aber dennoch signi-_
 _fikanten Zunahme führte (circa 19 %)._
 
@@ -6217,25 +6715,28 @@ Vorbereitung befindlichen Veröffentlichung für die Zeitschrift Italus Hortus.
 Behandlung Wassergehalt bei
 Feldkapazität (m[^3]/m[^3])
 ```
+
 ```
-DenPflanzen zur
+Den Pflanzen zur
 Verfügung
 stehendes Wasser
 (m[^3]/m[^3])
 ```
+
 ```
 Kontrollgruppe 0,38d[^1] 0,22c
 Kompost 0,39c 0,27b
 Biochar + Kompost 0,43a 0,31a
 Biochar 0,42b 0,31a
 ```
+
 3.2.2 Wirkung der Anwendung von Biochar auf die
 Stickstoffverluste durch Auslaugung
 _In Abbildung 9 ist der Prozentsatz an N-NO_[^3]: _aufgeführt, der am Ende der_
 _Simulation des Regenfalls durch Auslaugung verloren gegangen war. Dieser_
 _Prozentsatz ist das kombinierte Resultat aus dem Gehalt von N-NO_[^3]:_, der an-_
 _hand von Proben der verschiedenen Substrate nach der Düngung und direkt_
-_vor der Beregnung ermittelt wurde, ausdem Gesamtvolumen der gesammel-_
+_vor der Beregnung ermittelt wurde, aus dem Gesamtvolumen der gesammel-_
 _ten Auslaugungslösung und der in dieser Lösung gemessenen Konzentration_
 _von N-NO_[^3]:_. Die Verluste durch Auslaugung lagen im Durchschnitt zwischen_
 _circa 10 und 16 % des anfänglich in den Töpfen vorhandenen N-NO_[^3]:_. Im Ver-_
@@ -6249,7 +6750,8 @@ _10,8 % bei der Kontrollgruppe)._
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
-Abb. 9– Prozentsatz an Nitrat-Stickstoff (N-NO[^3]:), der von dem insgesamt nach der Düngung und
+
+Abb. 9 – Prozentsatz an Nitrat-Stickstoff (N-NO[^3]:), der von dem insgesamt nach der Düngung und
 direkt vor dem Auslaugungsereignis in den Töpfen vorhandenen N-NO[^3]: durch Auslaugung verloren
 geht. Die Ergebnisse in der Abbildung sind Gegenstand einer in Vorbereitung befindlichen
 Veröffentlichung für die Zeitschrift Italus Hortus.
@@ -6281,14 +6783,14 @@ _Mitte Juli bis Anfang August statt, während der zweite Zyklus im Zeitraum_
 _von Ende August bis Mitte September durchgeführt wurde und insgesamt 20_
 _Tage dauerte. In beiden Fällen wurden die Pflanzen nach Erreichen einer vor-_
 _gegebenen Stressschwelle, die einem mittags gemessenen Wasserpotenzial-_
-_wert des Stammes unter -1,5 MPa entsprach, erneutreichlich gegossen und_
+_wert des Stammes unter -1,5 MPa entsprach, erneut reichlich gegossen und_
 _ihre Erholung vom Stresszustand in physiologischer Hinsicht überwacht._
 
 4.1.2 Überwachung des physiologischen Zustands der Pflanzen
 bei zunehmendem Trockenstress
 _Der zunehmende Trockenstress, unter dem die Weinpflanzen litten, die über-_
 _haupt kein Wasser mehr erhielten, wurde durch Ermittlung folgender auf_
-_Blattebenegemessener physiologischer Parameter überwacht._
+_Blattebene gemessener physiologischer Parameter überwacht._
 
 - Wasserpotenzial des Stammes um 12 Uhr mittags (ΨMD, Werte in MPa),
 gemessen an einem Blatt pro Pflanze (drei Messungen pro Behandlung
@@ -6309,19 +6811,20 @@ _lysen der Varianz überprüft worden waren._
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
+
 4.2 Ergebnisse
 _Die nicht gegossenen Pflanzen wiesen, unabhängig vom Substrat, einen zu-_
 _nehmenden Trockenstress auf, wie die immer niedrigeren Werte des Mittags-_
 _wasserpotenzials (ΨMD) zeigen (Abb. 10A und 11A). Beim ersten Stresszyklus_
 _vor allem, nach 17 Tagen ohne jegliche Bewässerung wurden Werte von ΨMD_
-_unter-1,6 MP erreicht, die bei der Weinpflanze typisch für ein hohes Stressni-_
+_unter -1,6 MP erreicht, die bei der Weinpflanze typisch für ein hohes Stressni-_
 _veau sind (Abb. 10A). Im Laufe des zweiten Stresszyklus im Zeitraum August-_
 _September wurde nach circa 20 Tagen ein ernsthafteres Trockenstressniveau_
 _erreicht. Die Werte des ΨMD lagen im Durchschnitt bei circa -1.4 MPa (Abb._
 _11A). Für den Parameter des ΨMD ergaben sich keine statistisch signifikanten_
 _Differenzen zwischen den verschiedenen Behandlungen, auch wenn die auf_
 _dem mit Biochar verbesserten Substrat wachsenden Pflanzen am Ende beider_
-_Stresszyklenim Durchschnitt höhere Werte aufwiesen (geringerer Trocken-_
+_Stresszyklen im Durchschnitt höhere Werte aufwiesen (geringerer Trocken-_
 _stress der Pflanze). In Übereinstimmung mit den Werten des Parameters ΨMD_
 _erwies sich auch die Nettofotosynthese für beide Messzyklen unter zuneh-_
 _mendem Trockenstress stark reduziert (Abb. 10B und 11B). Im Laufe des ers-_
@@ -6346,13 +6849,13 @@ _den signifikanten Unterschiede auf._
 Petrillo, Zanotelli, Lucchetta, Aguzzoni, Tagliavini, Andreotti
 
 Abb. 10 –Erster Trockenstresszyklus A) Wasserpotenzial des Stammes (MPa); B) Nettoassimilation
-(Fotosynthese) (μmol/m[^2]/s).Die Fehlerlinien zeigen die Standardabweichung. Die Werte der letzten
+(Fotosynthese) (μmol/m[^2]/s). Die Fehlerlinien zeigen die Standardabweichung. Die Werte der letzten
 beiden Datumsangaben beziehen sich auf die Phase der Erholung vom Stresszustand nach
 Wiederaufnahme der Bewässerung. Die Ergebnisse in der Abbildung sind Gegenstand einer in
 Vorbereitung befindlichen Veröffentlichung für die Zeitschrift Italus Hortus.
 
 Abb. 11 – Zweiter Trockenstresszyklus A) Wasserpotenzial des Stammes (MPa); B) Netto-
-assimilation (Fotosynthese) (μmol/m[^2]/s).Die Fehlerlinien zeigen die Standardabweichung. Die
+assimilation (Fotosynthese) (μmol/m[^2]/s). Die Fehlerlinien zeigen die Standardabweichung. Die
 Werte der letzten Datumsangabe bezieht sich auf die Phase der Erholung vom Stresszustand nach
 Wiederaufnahme der Bewässerung. Die Ergebnisse in der Abbildung sind Gegenstand einer in
 Vorbereitung befindlichen Veröffentlichung für die Zeitschrift Italus Hortus.
@@ -6360,35 +6863,36 @@ Vorbereitung befindlichen Veröffentlichung für die Zeitschrift Italus Hortus.
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
+
 #### 5. Schlussbemerkungen
 
-_DieVersuche mit Weinpflanzen, die auf den mit Biochar verbesserten Subs-_
+_Die Versuche mit Weinpflanzen, die auf den mit Biochar verbesserten Subs-_
 _traten gewachsen waren und mit markiertem Ammoniumnitrat gedüngt wur-_
 _den, haben verdeutlicht, dass Biochar die Dynamik der Aufnahme und Ver-_
 _teilung des Stickstoffs innerhalb der verschiedenen Pflanzenorgane nicht sig-_
 _nifikant verändert (Abb. 7). Die mit isotopischem Tracer durchgeführte Studie_
 _zurWirkung von Biochar auf den Stickstoffzyklus inWeinpflanzen ist unserer_
-_Kenntnis nach eine Neuheit. Anhand der Studiekonnteaußerdem festgestellt_
+_Kenntnis nach eine Neuheit. Anhand der Studie konnte außerdem festgestellt_
 _werden, dass auch der Zusatz von Kompost zu Biochar keine signifikanten_
-_Unterschiede in der Aufnahme- und Verteilungsdynamikdes aus Düngung_
+_Unterschiede in der Aufnahme- und Verteilungsdynamik des aus Düngung_
 _stammenden Stickstoffs in der Pflanze bewirkt. Das Thema der Wirkung des_
 _Biochar-Zusatzes auf die Effizienz der Stickstoffdüngung muss außerdem die_
-_Aspekte der Auslaugungserscheinungen berücksichtigen.Unter den obenbe-_
-_schriebenenVersuchsbedingungen erhöht das Vorhandensein von Biochar im_
+_Aspekte der Auslaugungserscheinungen berücksichtigen. Unter den oben be-_
+_schriebenen Versuchsbedingungen erhöht das Vorhandensein von Biochar im_
 _Substrat die Verluste durch Auslaugung deutlich um 5–6 % gegenüber der_
-_Kontrollgruppe (Abb. 9). Dieser Hinweis scheint teilweise in Widerspruchzu_
+_Kontrollgruppe (Abb. 9). Dieser Hinweis scheint teilweise in Widerspruch zu_
 _einigen in der Einleitung zitierten wissenschaftlichen Arbeiten zu stehen_
 _(Lehmann et al., 2003; Ventura et al., 2012; Yao et al., 2012), die einen verrin-_
-_gertenVerlust verschiedener Stoffe durch Auslaugung anführen; er stimmt_
+_gerten Verlust verschiedener Stoffe durch Auslaugung anführen; er stimmt_
 _jedoch mit anderen Forschungen überein, die unter Freilandbedingungen in_
-_Obstplantagen durchgeführt wurden. Insbesonderewurden in Übereinstim-_
-_mung mit den Erkenntnissen vonHardie et al. (2015) unter den beschriebenen_
+_Obstplantagen durchgeführt wurden. Insbesondere wurden in Übereinstim-_
+_mung mit den Erkenntnissen von Hardie et al. (2015) unter den beschriebenen_
 _Versuchsbedingungen größere Volumen an Auslaugungslösung aus mit Bio-_
-_char behandelten Substraten gesammeltbeiunveränderten Stickstoffkonzent-_
-_rationen in der Lösung. Daraus ergeben sichhöhere Verluste dieses Stoffes_
-_durch Auslaugung.Die von uns durchgeführten Untersuchungen bestätigen_
-_klardie Wirkung von Biochar auf das Wasserspeichervermögen des Substrats._
-_In Übereinstimmungmit anderen Studien (siehe Review von Glaser et al.,_
+_char behandelten Substraten gesammelt bei unveränderten Stickstoffkonzent-_
+_rationen in der Lösung. Daraus ergeben sich höhere Verluste dieses Stoffes_
+_durch Auslaugung. Die von uns durchgeführten Untersuchungen bestätigen_
+_klar die Wirkung von Biochar auf das Wasserspeichervermögen des Substrats._
+_In Übereinstimmung mit anderen Studien (siehe Review von Glaser et al.,_
 _2002) erhöht der Zusatz von Biochar den Wassergehalt des Bodens bei Feld-_
 _kapazität und das den Pflanzen zur Verfügung stehende Gesamtwasservolu-_
 _men deutlich (Abb. 8 und Tabelle 5). Das Vorhandensein von Biochar im Sub-_
@@ -6408,15 +6912,15 @@ _chenden, nicht verbesserten Böden. In der Praxis erfordert bei den mit Biochar
 _verbesserten Böden die Synchronisierung der Zufuhr mobiler Nährstoffe mit_
 _dem Feuchtigkeitsniveau der Böden in niederschlagsreichen Zeiträumen be-_
 _sondere Aufmerksamkeit. Daher sollten fraktionierte Düngegaben (geringere,_
-_von einer eventuellen Auslaugung betroffene Menge an Nährstoffen)zu Zei-_
+_von einer eventuellen Auslaugung betroffene Menge an Nährstoffen) zu Zei-_
 _ten, die in Bezug auf die Niederschläge möglichst stabil sind (geringere Nie-_
 _derschlagswahrscheinlichkeit), bevorzugt werden._
 
-_Die größere Verfügbarkeit von Wasser in dem mitBiochar verbesserten Boden_
-_führt zu einer höheren Resistenzder Weinpflanzen unter großem Trocken-_
-_stress (Abb. 10 und 11). Vor allem bei Werten des ΨMD unter– 1,6 MPa blieb_
+_Die größere Verfügbarkeit von Wasser in dem mit Biochar verbesserten Boden_
+_führt zu einer höheren Resistenz der Weinpflanzen unter großem Trocken-_
+_stress (Abb. 10 und 11). Vor allem bei Werten des ΨMD unter – 1,6 MPa blieb_
 _der Gasaustausch bei den auf Substrat mit Biochar gewachsenen Pflanzen auf_
-_einem deutlich höheren Niveau, wie die aufBlattebene gemessenen_
+_einem deutlich höheren Niveau, wie die auf Blattebene gemessenen_
 _Nettofotosyntheseraten zeigen. Diese Ergebnisse bestätigen die Erkenntnisse_
 _von Baronti et al. (2014) und von Genesio et al. (2015), die berichten, dass sich_
 _der bessere allgemeine physiologische Zustand der Weinpflanzen in den mit_
@@ -6433,7 +6937,8 @@ _serungsmittel gibt, während der ökologische Mehrwert einer Beimischung_
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
-_von Biochar zum Boden als Maßnahme zur Milderung des Klimawandelsbe-_
+
+_von Biochar zum Boden als Maßnahme zur Milderung des Klimawandels be-_
 _stehen bleibt (Verringerung von C in der Atmosphäre und stabile Bindung_
 _dieses Stoffes im Boden). Bei Trockenheit kann Biochar die Verfügbarkeit von_
 _Wasser für die Pflanzen erhöhen und deren Verträglichkeit hoher Stressni-_
@@ -6445,53 +6950,53 @@ _durch Auslaugung führen kann._
 Literaturverzeichnis
 _Abel, S., Peters, A., Trinks, S., Schonsky, H., Facklam, M., Wessolek, G. (2013)._
 _Impact of biochar and hydrochar addition on water retention and water_
-_repellency of sandy soil.Geoderma, 202–_[^203]:_, 183–91. Zugriff über_
+_repellency of sandy soil. Geoderma, 202–_[^203]:_, 183–91. Zugriff über_
 _https://doi.org/10.1016/j.geoderma.2013.03.003_
 _Andrenelli, M.C., Maienza, A., Genesio, L., Miglietta, F., Pellegrini, S., Vaccari,_
 _F.P., Vignozzi, N. (2016). Field application of pelletized biochar: Short term_
-_effect on the hydrological properties of a silty clay loam soil.Agricultural_
+_effect on the hydrological properties of a silty clay loam soil. Agricultural_
 _Water Management, 163, 190–6. Zugriff über https://doi.org/10.1016/_
 _j.agwat.2015.09.017_
 _Baronti S., Vaccari, F.P., Miglietta, F., Calzolari, C., Lugato, E., Orlandini, S.,_
-_Pini, R., Zulian, C., Genesio, L. (2014).Impact of biochar application on_
-_plant water relations inVitis vinifera (L.).European Journal of Agronomy, 53,_
-_38–44. Zugriff überhttps://doi.org/10.1016/j.eja.2013.11.003_
+_Pini, R., Zulian, C., Genesio, L. (2014). Impact of biochar application on_
+_plant water relations in Vitis vinifera (L.). European Journal of Agronomy, 53,_
+_38–44. Zugriff über https://doi.org/10.1016/j.eja.2013.11.003_
 _Genesio, L., Miglietta, F., Baronti, S., Vaccari, F.P. (2015). Biochar increases_
 _vineyard productivity without affecting grape quality: Results from a four_
-_years field experiment in Tuscany.Agriculture, Ecosystems and Environment,_
+_years field experiment in Tuscany. Agriculture, Ecosystems and Environment,_
 _201,_ [^20]:_–5. Zugriff über https://doi.org/10.1016/j.agee.2014.11.021_
-_Glaser, B., Lehmann, J., Zech, W. (2002).Ameliorating physical and chemical_
-_properties of highly weathered soils in the tropics with charcoal- A_
+_Glaser, B., Lehmann, J., Zech, W. (2002). Ameliorating physical and chemical_
+_properties of highly weathered soils in the tropics with charcoal - A_
 _review. Biology and Fertility of Soils, 35(4),_ [^219]:_–30. Zugriff über_
 _https://doi.org/10.1007/s00374-_[^002]:_-_[^0466]:_-4_
 
 Petrillo, Zanotelli, Lucchetta, Aguzzoni, Tagliavini, Andreotti
 
 _Hardie, M., Clothier, B., Bound, S., Oliver, G., Close, D. (2014). Does biochar_
-_influence soil physical properties and soil water availability?Plant and Soil,_
-_376(1–2), 347–61. Zugriff überhttps://doi.org/10.1007/s11104-_[^013]:_-1980-x_
+_influence soil physical properties and soil water availability? Plant and Soil,_
+_376(1–2), 347–61. Zugriff über https://doi.org/10.1007/s11104-_[^013]:_-1980-x_
 _Hardie, M.A., Oliver, G., Clothier, B.E., Bound, S.A., Green, S.A., Close, D.C._
 _(2015). Effect of Biochar on Nutrient Leaching in a Young Apple Orchard._
 _Journal of Environmental Quality, 44(4), 1273–82. Zugriff über_
 _https://doi.org/10.2134/jeq2015.02.0068_
 _Laird, D., Fleming, P., Wang, B., Horton, R., Karlen, D. (2010). Biochar impact_
-_on nutrient leaching from a Midwestern agricultural soil.Geoderma, 158(3–_
+_on nutrient leaching from a Midwestern agricultural soil. Geoderma, 158(3–_
 _4),_ [^436]:_–42. Zugriff über https://doi.org/10.1016/j.geoderma.2010.05.012_
 _Lehmann, J., Da Silva, J.P., Steiner, C., Nehls, T., Zech, W., Glaser, B. (2003)._
 _Nutrient availability and leaching in an archaeological Anthrosol and a_
 _Ferralsol of the Central Amazon basin: Fertilizer, manure and charcoal_
 _amendments. Plant and Soil, 249(2),_ [^343]:_–57. Zugriff über_
 _https://doi.org/10.1023/A:1022833116184_
-_Lehmann, J. (2007). A handful of carbon.Nature, 447,_ [^143]:_-144.Zugriff über_
+_Lehmann, J. (2007). A handful of carbon. Nature, 447,_ [^143]:_-144. Zugriff über_
 _https://doi.org/10.1038/447143a_
-_Novak, J., Lima, I., Xing, B., Gaskin, J., Steiner,C., Das, K., Ahmedna, M.,_
-_Rehrah, D., Watts, D., Busscher, W. (2009).Characterization of designer_
+_Novak, J., Lima, I., Xing, B., Gaskin, J., Steiner, C., Das, K., Ahmedna, M.,_
+_Rehrah, D., Watts, D., Busscher, W. (2009). Characterization of designer_
 _biochar produced at different temperatures and their effects on a loamy_
-_sand.Annals of Environmental Science, 3(1),_ [^195]:_–206_
+_sand. Annals of Environmental Science, 3(1),_ [^195]:_–206_
 _Novak, J.M., Busscher, W.J., Watts, D.W., Amonette, J.E., Ippolito, J.A., Lima,_
 _I.M., Gaskin, J., Das, K.C., Steiner, C., Ahmedna, M., Rehrah, D.,_
 _Schomberg, H. (2012). Biochars impact on soil-moisture storage in an_
-_ultisol and two aridisols.Soil Science, 177(5),_ [^310]:_–20. Zugriff über_
+_ultisol and two aridisols. Soil Science, 177(5),_ [^310]:_–20. Zugriff über_
 _https://doi.org/10.1097/SS.0b013e31824e5593_
 _Pump, C., Keiblinger, K.M., Scheiblauer, E., Johnen, S., Lehto, N.J., Soja, G.,_
 _Zehetner, F. (2019). Temporal Changes in the Efficiency of Biochar- and_
@@ -6505,22 +7010,23 @@ _vineyard soil: Influences on plant growth, nutrient uptake, plant health_
 ```
 Anwendung von Biochar als Bodenverbesserungsmittel
 ```
-_and grape quality.Agriculture, Ecosystems and Environment, 191, 117–23._
+
+_and grape quality. Agriculture, Ecosystems and Environment, 191, 117–23._
 _Zugriff über https://doi.org/10.1016/j.agee.2014.04.001_
 _Soja, G., Wimmer, B., Rosner, F., Faber, F., Dersch, G., von Chamier, J.,_
 _Pardeller, G., Ameur, D., Keiblinger, K., Zehetner, F. (2018). Compost and_
 _biochar interactions with copper immobilisation in copper-enriched_
-_vineyard soils.Applied Geochemistry, 88, 40–8. Zugriff über_
+_vineyard soils. Applied Geochemistry, 88, 40–8. Zugriff über_
 _https://doi.org/10.1016/j.apgeochem.2017.06.004_
 _Ventura, M., Sorrenti, G., Panzacchi, P., George, E., Tonon, G. (2013). Biochar_
 _Reduces Short-Term Nitrate Leaching from A Horizon in an Apple_
 _Orchard. Journal of Environmental Quality, 42(1),_ [^76]:_–82. Zugriff über_
 _https://doi.org/10.2134/jeq2012.0250_
 _Verheijen, F.G.A., Jeffery, S., Bastos, A.C., van der Velde, M., and Diafas, I._
-_(2009).Biochar Application to Soils- A Critical Scientific Review of Effects on_
+_(2009). Biochar Application to Soils - A Critical Scientific Review of Effects on_
 _Soil Properties, Processes and Functions. EUR 24099 EN, Office for the Official_
 _Publications of the European Communities, Luxembourg_
-_Yao, Y., Gao, B., Zhang, M., Inyang, M., Zimmerman, A.R. (2012).Effect of_
+_Yao, Y., Gao, B., Zhang, M., Inyang, M., Zimmerman, A.R. (2012). Effect of_
 _biochar amendment on sorption and leaching of nitrate, ammonium, and_
 _phosphate in a sandy soil. Chemosphere, 89(11), 1467–71. Zugriff über_
 _https://doi.org/10.1016/j.chemosphere.2012.06.002_
@@ -6531,14 +7037,14 @@ _https://doi.org/10.1016/j.chemosphere.2012.06.002_
 
 ## Kohlenstoffbestand
 
-**Irene Criscuoli– Freie Universität Bozen**
-**Maurizio Ventura– Freie Universität Bozen**
-**Pietro Panzacchi– FreieUniversität Bozen / Università degli Studi del Molise**
-**Bruno Glaser– Martin-Luther-Universität Halle-Wittenberg, Deutschland**
-**Katja Wiedner– Martin-Luther-Universität Halle-Wittenberg, Deutschland**
+**Irene Criscuoli – Freie Universität Bozen**
+**Maurizio Ventura – Freie Universität Bozen**
+**Pietro Panzacchi – Freie Universität Bozen / Università degli Studi del Molise**
+**Bruno Glaser – Martin-Luther-Universität Halle-Wittenberg, Deutschland**
+**Katja Wiedner – Martin-Luther-Universität Halle-Wittenberg, Deutschland**
 **Christian Ceccon– Freie Universität Bozen**
-**Maximilian Loesch– Versuchszentrum Laimburg**
-**Barbara Raifer– Versuchszentrum Laimburg**
+**Maximilian Loesch – Versuchszentrum Laimburg**
+**Barbara Raifer – Versuchszentrum Laimburg**
 **Giustino Tonon– Freie Universität Bozen**
 
 Abstract
@@ -6547,42 +7053,42 @@ _1.250 t Pflanzenkohle erzeugen. Diese Pflanzenkohle wird derzeit als Abfall ent
 _und generiert somit Kosten für die Betreiber. Wenn die Pflanzenkohle bestimmte ge-_
 _setzliche Parameter einhalten würde (Amtsblatt 186 12.08.2015) könnte sie als „Biochar“_
 _definiert und auf Agrarböden verteilt werden, um deren Qualität und den Ertrag der_
-_Kulturen zu verbessern. Biochar kann dankseineshohen Gehalts an Kohlenstoff (C)_
-_und der Stabilitätseinerchemischen Struktur außerdem zur permanenten Bindung von_
+_Kulturen zu verbessern. Biochar kann dank seines hohen Gehalts an Kohlenstoff (C)_
+_und der Stabilität seinerchemischen Struktur außerdem zur permanenten Bindung von_
 _C im Boden beitragen und so einen Beitrag zur Milderung des Klimawandels leisten._
 _Die große Variabilität der veröffentlichten Ergebnisse macht jedoch eine Überprüfung_
 _der möglichen spezifischen Bedingungen für seine Anwendung im Südtirol erforder-_
 _lich. In diesem Kapitel sind die Ergebnisse eines über zweieinhalbJahre in einem Wein-_
-_berg in der Nähe von Meran durchgeführten Versuchsaufgeführt, bei dem die tatsäch-_
+_berg in der Nähe von Meran durchgeführten Versuchs aufgeführt, bei dem die tatsäch-_
 _liche Stabilität des aus Holzhackschnitzeln gewonnenen Biochars im Boden und seine_
-_Wirkungauf die Treibhausgasemissionen evaluiert werden sollte. Dem Boden des_
-_Weinbergs wurde Biochar zugesetzt, einmal inzwei Dosen reinenBiochars (20 und 50_
+_Wirkung auf die Treibhausgasemissionen evaluiert werden sollte. Dem Boden des_
+_Weinbergs wurde Biochar zugesetzt, einmal in zwei Dosen reinen Biochars (20 und 50_
 
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
 _t/ha) und einmal in Verbindung mit Kompost (45 t/ha), und dann mit dem Kontrollbo-_
-_denohne Zusätze verglichen. Die Stabilität desBiocharsim Boden wurde nach der Ver-_
+_den ohne Zusätze verglichen. Die Stabilität desBiocharsim Boden wurde nach der Ver-_
 _teilung der Bodenverbesserungsmittel zu verschiedenen Zeitpunkten (drei Wochen, ein_
 _Jahr und zwei Jahre) und mit zwei unterschiedlichen Methoden evaluiert: isotopische_
-_Massenbilanz, Quantifizierung aromatischer Polycarbonsäuren(BPCA) und moleku-_
+_Massenbilanz, Quantifizierung aromatischer Polycarbonsäuren (BPCA) und moleku-_
 _lare Kohlenstoffmarker. Die Treibhausgasemissionen (CO_[^2]_, CH_[^4]_, N_[^2]_O) aus dem Boden_
 _wurden anhand eines Gasanalysators mit einer Cavity-ring-down-Spektroskopie_
 _(CRDS) und einem System dynamischer geschlossener Kammern gemessen. Die Ergeb-_
 _nisse haben gezeigt, dass Biochar signifikant zu einer Verringerung der N_[^2]_O-Emissio-_
 _nen des Bodens und zu einem Anstieg der CO_[^2]_-Emissionen beigetragen hat, aber zeit-_
-_lich begrenzt und in geringem Umfang, während es keineAuswirkungen auf die CH_[^4]_-_
+_lich begrenzt und in geringem Umfang, während es keine Auswirkungen auf die CH_[^4]_-_
 _Emissionen hatte. Die Schätzung der Stabilität von Biochar im Boden wurde von der_
 _angewandten Methode beeinflusst und kennzeichnete sich durch große Unsicherheit._
 _Die Methode der isotopischen Massenbilanz hat nur bei der Behandlung B1 (25 t/ha)_
 _einen signifikanten Abbau des Biochars zum Vorschein gebracht, wobei die durch-_
 _schnittliche Verweilzeit (MRT) im Boden 2,7 Jahre betrug. Bei beiden Dosierungen_
-_konnte mit der BPCA-Methodekein signifikanter Abbau von Biochar im Boden festge-_
-_stellt werden. Auf Grundlage der Ergebnisse dieses mittelfristigen Feldversucheskann_
-_man dieSchlussfolgerung ziehen, dass die Anwendung von Biochar aus Vergasungs-_
+_konnte mit der BPCA-Methode kein signifikanter Abbau von Biochar im Boden festge-_
+_stellt werden. Auf Grundlage der Ergebnisse dieses mittelfristigen Feldversuches kann_
+_man die Schlussfolgerung ziehen, dass die Anwendung von Biochar aus Vergasungs-_
 _prozessen als Bodenverbesserungsmittel in der Landwirtschaft keine Kontraindikatio-_
 _nen für die vom Boden ausgehenden Treibhausgasemissionen hat und zu einer Erhö-_
 _hung des Kohlenstoffgehalts im Boden beiträgt. Es wären jedoch weitere Versuche er-_
-_forderlich, um die Wirksamkeit dieser Methode füreinelangfristige Milderung des Kli-_
+_forderlich, um die Wirksamkeit dieser Methode für einelangfristige Milderung des Kli-_
 _mawandels zu evaluieren._
 
 #### 1. Einleitung
@@ -6593,11 +7099,12 @@ _erzeugen, ein Rückstand aus der Energieerzeugung, der derzeit als Abfall ent-_
 _sorgt wird und den Betreibern der Anlagen erhebliche Kosten verursacht._
 _Pflanzenkohle ist jedoch seit nunmehr circa 15 Jahren weltweit Forschungsge-_
 _genstand der wissenschaftlichen Gemeinschaft, da sie möglicherweise als Bo-_
-_denverbesserungsmittelin der Landwirtschaft eingesetzt werden kann. Im_
+_denverbesserungsmittel in der Landwirtschaft eingesetzt werden kann. Im_
 
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _Falle einer Verteilung der Pflanzenkohle auf dem Boden wird diese als Bio-_
 _char definiert; Biochar kann zur Verbesserung der chemischen (Ding et al.,_
 _2016), physikalischen (Blanco-Canqui, 2017) und biologischen Eigenschaften_
@@ -6614,7 +7121,7 @@ _dene ökologische Bedingungen und Kulturen anzupassen. Die zahlreichen_
 _Studien über Biochar haben aufgrund der Komplexität der Faktoren, die eine_
 _Rolle spielen, widersprüchliche Ergebnisse geliefert (Lehmann et al., 2015):_
 _Biochar kann mit verschiedenen Technologien erzeugt werden, angefangen_
-_bei verschiedenen Arten pflanzlicher Biomasse; außerdem kannes unter sehr_
+_bei verschiedenen Arten pflanzlicher Biomasse; außerdem kann es unter sehr_
 _unterschiedlichen pedoklimatischen und agronomischen Bedingungen einge-_
 _setzt werden (Gurwick et al., 2013)._
 _Dieses Kapitel enthält die Ergebnisse einer Feldstudie, die im Rahmen des_
@@ -6633,9 +7140,9 @@ Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 2.1 Versuchsstandort und Anwendung der Behandlungen
 _Die in diesem Kapitel vorgestellte Arbeit ist das Ergebnis von Versuchen in_
 _einem reifen Weinberg (cv. Müller Thurgau, im Jahr 2007 auf SO4 gepflanzt)_
-_in der Nähe von Meran (BZ), auf einer Höhe von circa 600 mü. d. M., der vom_
+_in der Nähe von Meran (BZ), auf einer Höhe von circa 600 m ü. d. M., der vom_
 _Versuchszentrum Laimburg bewirtschaftet wird (Abb. 1). Das Klima der Re-_
-_gion kennzeichnete sich in den 3 Jahren desVersuchs durch eine jährliche_
+_gion kennzeichnete sich in den 3 Jahren des Versuchs durch eine jährliche_
 _Durchschnittstemperatur von 10,8 °C und jährliche Niederschläge von 896,9_
 _mm (meteorologische Daten des Versuchszentrums Laimburg, Zentrale von_
 _Fragsburg, Meran)._
@@ -6644,15 +7151,16 @@ _gemäß USDA-Klassifikation, mit einem Gehalt von 64 % an Sand, 24 % an_
 _Schlamm und 7 % Lehm. Der Boden ist wenig tief, reich an Skelett und kann_
 _als Dystric Eutrochrept (USDA, 1999) eingestuft werden. Der Gehalt an orga-_
 _nischem C beträgt 2,4±0,8 %, der pH-Wert 6,4±0,2 und die Rohdichte 1,1±0,1_
-_g/cm_[^3]_. Während desVersuchswurde der Versuchsstandort nicht gedüngt und_
-_nur im ersten Jahr bewässert (von Mai 2017 bisJuni 2018)._
+_g/cm_[^3]_. Während des Versuchswurde der Versuchsstandort nicht gedüngt und_
+_nur im ersten Jahr bewässert (von Mai 2017 bis Juni 2018)._
 
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
-Abb. 1– Das Versuchsfeld (Foto oben) zum Zeitpunkt der Verteilung von Biochar und Kompost im
+
+Abb. 1 – Das Versuchsfeld (Foto oben) zum Zeitpunkt der Verteilung von Biochar und Kompost im
 Mai 2017, direkt vor der Bearbeitung des Bodens zur Einarbeitung der landwirtschaftlichen
-Verbesserungsmittel. Auf dem Foto sinddie Versuchsparzellen zu sehen. In der Abbildung unten
+Verbesserungsmittel. Auf dem Foto sind die Versuchsparzellen zu sehen. In der Abbildung unten
 ist der Versuchsentwurf in randomisierten Blöcken dargestellt.
 
 ```
@@ -6660,19 +7168,23 @@ Block 1 Block 2
 B1 C BC1 B2 N BC2
 6 5 4 3 2 1
 ```
+
 ```
 B2 N BC2 B1 C BC1
 7 8 9 10 11 12
 ```
+
 ```
 Block 3 Block 4
 C BC2 B1 B2 BC1 N
 18 17 16 15 14 13
 ```
+
 ```
 N B2 BC1 BC2 C B1
 19 20 21 22 23 24
 ```
+
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
 Tabelle 1 – Physikalische und chemische Eigenschaften des in dieser Arbeit verwendeten Biochars
@@ -6682,57 +7194,75 @@ Tabelle 1 – Physikalische und chemische Eigenschaften des in dieser Arbeit ver
 ```
 Parameter Einheit Wert Unsicherheit
 ```
+
 ```
 pH-Wert - 12,4 0,5
 ```
+
 ```
 Rohdichte g cm−3 0,165 -
 ```
+
 ```
 Fraktion <5 mm % 100 10
 ```
+
 ```
 Fraktion <2 mm % 97 10
 ```
+
 ```
 Fraktion <0,5 mm % 70 7
 ```
+
 ```
 Maximale Wasserretention % w/w 86 7
 ```
+
 ```
-Asche (550°C) % 31 3
+Asche (550 °C) % 31 3
 ```
+
 ```
 Gesamt-C % 58,9 -
 ```
+
 ```
 C in CaCO3 % 1,1 -
 ```
+
 ```
 Organischer C % 57 5
 ```
+
 ```
 H:C - 0,10 0,01
 ```
+
 ```
 Gesamt-N % 0,39 0,04
 ```
+
 ```
 C:N 151
 ```
+
 ```
 Gesamt-P % 0,64 -
 ```
+
 ```
 Gesamt-K % 3,5 0,5
 ```
+
 ```
 PAK[^1] mg/kg <1 -
 ```
+
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _Am 2. Mai 2017 wurden die Bodenverbesserungsmittel verteilt. Biochar fand in_
 _zwei Dosierungen Anwendung (25 und 50 t/ha), allein oder in Kombination mit_
 _45 t/ha Kompost. Außerdem wurde eine Behandlung nur mit Kompost vorge-_
@@ -6751,24 +7281,24 @@ _die gemäß einem randomisierten Blockdiagramm verteilt wurden. Jede Par-_
 _zelle verfügt über eine Fläche von circa 80 m_[^2] _und umfasst 20 Weinpflanzen,_
 _die auf zwei nebeneinanderliegende Reihen verteilt sind (Abb. 1). In jeder Par-_
 _zelle wurden die Bodenverbesserungsmittel im zentralen Zwischenraum der_
-_Reihenund auf der Hälfte der beiden angrenzenden Reihenzwischenräume_
-_verteilt,während die in dieser Arbeit beschriebenen Maßnahmen nur den zent-_
+_Reihen und auf der Hälfte der beiden angrenzenden Reihenzwischenräume_
+_verteilt, während die in dieser Arbeit beschriebenen Maßnahmen nur den zent-_
 _ralen Zwischenraum der Reihen betrafen._
 
 2.2 Verwendetes Biochar
-_Das imVersuch verwendete Biochar besteht aus kleinen Bruchstücken (<5 mm)_
+_Das im Versuch verwendete Biochar besteht aus kleinen Bruchstücken (<5 mm)_
 _und wurde bei einer Temperatur von circa 500 °C aus Nadelholz-Hackschnit-_
 _zeln durch Schnell-Pyrolyse (fast pyrolysis) vom Unternehmen Record Immo-_
 _biliare S.r.l. aus Lunano (PU), einem regulär eingetragenen Biochar-Hersteller,_
-_erzeugt. Tabelle1 enthält eine detaillierte Beschreibung der physikalischen und_
+_erzeugt. Tabelle 1 enthält eine detaillierte Beschreibung der physikalischen und_
 _chemischen Eigenschaften des Biochars._
 
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
-2.3 Evaluierung der Stabilitätdes Biochars im Boden
+2.3 Evaluierung der Stabilität des Biochars im Boden
 
 2.3.1 Isotopische Massenbilanz
-_DieseMethode beruht auf der Nutzung stabiler Kohlenstoffisotope. Die Isoto-_
+_Diese Methode beruht auf der Nutzung stabiler Kohlenstoffisotope. Die Isoto-_
 _pensignatur des Kohlenstoffs ist das Verhältnis zwischen der Häufigkeit des_
 _schwereren und des leichteren Isotops (13C/12C) und wird als Abweichung (δ,_
 _‰) vom internationalen Bezugsstandard angegeben (Michener & Lajtha, 2007)._
@@ -6785,7 +7315,7 @@ _und ihr Volumen durch Eintauchen in Wasser gemessen, um die Dichte der_
 _Steine zu bestimmen. Das Trockengewicht der Probe wurde durch Entnahme_
 _einer Teilprobe feiner Erde und Trocknung im Ofen bei 105 °C ermittelt. Eine_
 _weitere Teilprobe feiner Erde wurde hingegen bei Umgebungstemperatur ge-_
-_trocknet, fein gemahlen undim Labor der Freien Universität Bozen analysiert,_
+_trocknet, fein gemahlen und im Labor der Freien Universität Bozen analysiert,_
 _um die Konzentration des organischen Kohlenstoffs (%) und die Isotopensig-_
 _natur (δ_[^13]_C) festzustellen. Für jede Probe wurde die Rohdichte des Bodens_
 _(g/cm_[^3]_) ermittelt; dazu wurde das Trockengewicht der Probe feiner Erde durch_
@@ -6803,27 +7333,30 @@ _erfolgte für jeden Zeitpunkt der Probenentnahme mit folgender Gleichung:_
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 ## 𝑓𝑓 =
 
 ```
 𝛿𝛿[^13]𝐶𝐶𝑡𝑡𝑡𝑡𝑡𝑡−𝛿𝛿[^13]𝐶𝐶𝑆𝑆𝑆𝑆𝑆𝑆
 𝛿𝛿[^13]𝐶𝐶𝑏𝑏𝑏𝑏𝑡𝑡𝑐𝑐ℎ𝑎𝑎𝑎𝑎− 𝛿𝛿[^13]𝐶𝐶𝑆𝑆𝑆𝑆𝑆𝑆
 ```
+
 ```
 [1]
 ```
+
 _wobei f der aus Biochar stammenden organischen Kohlenstofffraktion des Bo-_
 _dens entspricht (Cbiochar/Ctot); die Isotopensignaturen entsprechen hingegen dem_
 _mit Biochar verbesserten Boden ( δ_[^13]_Ctot), der ursprünglichen organischen_
 _Bodensubstanz (soil organic matter, SOM) (δ_[^13]_CSOM) und dem Biochar_
 _(δ_[^13]_Cbiochar). Der Wert von δ_[^13]_CSOM wurde durch Analyse der Bodenproben aus_
-_denParzellenvor Verteilung der Bodenverbesserungsmittel (t0) ermittelt._
+_den Parzellen vor Verteilung der Bodenverbesserungsmittel (t0) ermittelt._
 _Die Daten wurden verwendet, um die aus Biochar stammende Kohlenstoff-_
 _menge (Biochar-C) in der Bodenschicht (20 cm) zu ermitteln, aus der die Probe_
 _entnommen wurde; diese Menge wird in t/ha abgegeben und mit folgender_
 _Gleichung berechnet:_
 
-_Biochar−C [t/ha] =f × Corg[%]/100 × ρBoden [g/cm_[^3]_] × 20 [cm] × 100 [2]_
+_Biochar−C [t/ha] = f × Corg[%]/100 × ρBoden [g/cm_[^3]_] × 20 [cm] × 100 [2]_
 
 _wobei Corg, der Konzentration von organischem Kohlenstoff im Boden ent-_
 _spricht und ρBoden der Rohdichte des Bodens._
@@ -6843,7 +7376,7 @@ Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
 _In den zu den Zeitpunkten t0, t1 und t3 in den Weinbergen genommenen Bo-_
 _denproben wurde der aus Biochar stammende Kohlenstoffgehalt auch durch_
-_Analysespezifischer molekularer Marker für schwarzen Kohlenstoff bestimmt_
+_Analyse spezifischer molekularer Marker für schwarzen Kohlenstoff bestimmt_
 _(aromatische Polycarboxylsäuren, BPCA); dazu wurde die von Busch und Gla-_
 _ser (2015) vorgeschlagene Methode verwendet. Die Analysen wurden in den_
 _Laboratorien der Martin-Luther-Universität Halle-Wittenberg (Deutschland)_
@@ -6867,7 +7400,7 @@ _wobei CBPCA dem Gehalt an schwarzem Kohlenstoff entspricht (g/kg Boden),_
 _der mit der BPCA-Methode ermittelt wird._
 
 _Zur Evaluierung der Stabilität des dem Boden zugesetzten Biochars, wurde die_
-_zu jedem Zeitpunktder Entnahme geschätzte Menge an Biochar-C korrigiert,_
+_zu jedem Zeitpunkt der Entnahme geschätzte Menge an Biochar-C korrigiert,_
 _indem man von dieser den bereits vor Verteilung der Behandlungen im Boden_
 _vorhandenen natürlichen Kohlenstoffgehalt abzog; dieser wurde durch Ana-_
 _lyse der zum Zeitpunkt t0 entnommenen Proben ermittelt._
@@ -6875,6 +7408,7 @@ _lyse der zum Zeitpunkt t0 entnommenen Proben ermittelt._
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _Da die BPCA nur zu zwei Zeitpunkten nach Anwendung des Biochars analy-_
 _siert wurden, war es nicht möglich, die Zersetzungsrate wie im Fall der isoto-_
 _pischen Massenbilanz anhand eines exponentiellen Modells zu berechnen._
@@ -6948,40 +7482,41 @@ _gegen 69±31 % (Abb. 2)._
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _In der Behandlung B1 betrug die durch das negative exponentielle Modell ge-_
 _schätzte tägliche Zersetzungsrate (k) 0,1 % und die jährliche Rate 36,5 %, ent-_
 _sprechend einer durchschnittlichen Verweilzeit (Mean Residence Time, MRT)_
 _von 2,7 Jahren im Boden. In der Behandlung B2 hingegen wurde keine signifi-_
 _kante Zersetzungsrate verbucht. Das für die Behandlung B1 erzielte Abbaumo-_
 _dell zeigt einen erheblichen Verlust von Biochar-C in den ersten drei Wochen_
-_desVersuchs. Im Boden wurde eine um 19,75 % niedrigere Menge an Biochar_
+_des Versuchs. Im Boden wurde eine um 19,75 % niedrigere Menge an Biochar_
 _im Boden gemessen als tatsächlich angewandt (Abb. 2). Nach diesem bedeute-_
 _ten Anfangsverlust wird eine kontinuierliche Verringerung der Konzentration_
 _beobachtet, die im ersten Jahr weniger stark ausfällt (-9,75 %), um dann im_
 _zweiten Jahr wieder an Geschwindigkeit aufzunehmen (-30,17 %)._
 _Aus den Ergebnissen der zweiten zur Schätzung der Stabilität des Biochar-C im_
-_Boden angewandten Methode, d. h. der BPCA-Analyse,geht hervor, dass vor_
+_Boden angewandten Methode, d. h. der BPCA-Analyse, geht hervor, dass vor_
 _Verteilung der Bodenverbesserungsmittel im Boden bereits 7,45±0,1 g Biochar-_
-_C pro kg Bodenvorhanden waren (Abb. 3). Bei allen Behandlungen mit Biochar_
-_und Biochar + Kompost stiegder Biochar-C-Wert nach der Verteilung dieser_
+_C pro kg Boden vorhanden waren (Abb. 3). Bei allen Behandlungen mit Biochar_
+_und Biochar + Kompost stieg der Biochar-C-Wert nach der Verteilung dieser_
 _Bodenverbesserungsmittel signifikant an, während der Biochar-C-Gehalt bei_
 _den Behandlungen C und N keine erhebliche Änderung verbucht (Abb. 3). Bei_
 _keiner der Behandlungen zwischen dem Zeitpunkt t1 und t3 wurden signifi-_
 _kante Änderungen im Biochar-C-Gehalt beobachtet (Abb. 3)._
 
 Abb. 2 – Biochar-C im Boden (% der angewandten Dosis) 21, 385 und 745 Tage nach der Verteilung
-vonBiochar in den Behandlungen B1 (25 t/ha Biochar) und B2 (50 t/ha Biochar). Die dargestellten
+von Biochar in den Behandlungen B1 (25 t/ha Biochar) und B2 (50 t/ha Biochar). Die dargestellten
 Werte sind das Ergebnis der isotopischen Massenbilanz. Die Fehlerbalken stellen den Standardfehler
 des Mittelwerts dar.
 
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
 _Nach Abzug der im Boden vorhandenen natürlichen Menge an Biochar betrug_
-_die zum Zeitpunkt t1 wiedergefundene Biochar-Mengebei der Behandlung B1_
-_8,4 t C/h,bei der Behandlung B1C 12,5 t C/h, bei der Behandlung B2 20,5 t C/h_
+_die zum Zeitpunkt t1 wiedergefundene Biochar-Menge bei der Behandlung B1_
+_8,4 t C/h, bei der Behandlung B1C 12,5 t C/h, bei der Behandlung B2 20,5 t C/h_
 _und bei der Behandlung B2C 24,2 t C/ha (Abb. 4). Im Verhältnis zu der mit den_
 _Bodenverbesserungsmitteln verteilten Mengen an Biochar-C (15,9 t C/ha bei_
-_denBehandlungen B1 und B1C und 31,9 t C/ha bei den Behandlungen B2 und_
+_den Behandlungen B1 und B1C und 31,9 t C/ha bei den Behandlungen B2 und_
 _B2C, in Abb. 4 durch die horizontalen Balken dargestellt), beliefen sich die ge-_
 _schätzten Mengen auf 52 % bzw. 78 % bei den Behandlungen B1 und B1C und_
 _64 % bzw. 75 % bei den Behandlungen B2 und B2C. Zum Zeitpunkt t3 hat die_
@@ -7014,11 +7549,12 @@ _bei den Behandlungen mit der höchsten Biochar-Dosierung deutlich ansteigt_
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _(B2, +83 % und BC2, +41,8%). Dieser Anstieg ist auf die Verteilung von 50 t/ha_
 _Biochar zurückzuführen. Die im Kontrollboden beobachtete Verringerung des_
 _Kohlenstoffbestands zwischen dem Zeitpunkt t1 und dem Zeitpunkt t3 (Abb._
 _6) hängt wahrscheinlich mit der Änderung der Rohdichte des Bodens zusam-_
-_men. In der Tat sinkt diese zumZeitpunkt t1 infolge von Bodenarbeiten. Die_
+_men. In der Tat sinkt diese zum Zeitpunkt t1 infolge von Bodenarbeiten. Die_
 _geringere Rohdichte hat bei gleicher Tiefe zu einer Verringerung der Boden-_
 _probenmenge und somit des geschätzten Kohlenstoffbestands im Boden ge-_
 _führt. Bei der gleichen Behandlung zum Zeitpunkt t3 sieht man in der Tat eine_
@@ -7027,9 +7563,9 @@ _scheinlich aufgrund der wiederholten Überfahrt landwirtschaftlicher Maschi-_
 _nen für die Arbeiten an den Kulturen, die eine Kompaktierung des Bodens zur_
 _Folge hatten (Zunahme der Rohdichte)._
 
-Abb. 3– Biochar-C im Boden (g/kg) in den sechs Versuchsbehandlungen: N (Kontrollboden), B1 (25
+Abb. 3 – Biochar-C im Boden (g/kg) in den sechs Versuchsbehandlungen: N (Kontrollboden), B1 (25
 t/ha Biochar), B2 (50 t/ha Biochar), C (45 t/ha Kompost), B1C (25 t/ha Biochar + 45 t/ha Kompost),
-B2C (50 t/ha Biochar + 45 t/ha Kompost) vorVerteilung der landwirtschaftlichen Bodenverbesse-
+B2C (50 t/ha Biochar + 45 t/ha Kompost) vor Verteilung der landwirtschaftlichen Bodenverbesse-
 rungsmittel (weiße Balken, t0), 3 Wochen danach (schwarze Balken, t1) und zwei Jahre danach
 (graue Balken, t3). Die Buchstaben über den Balken weisen, wenn sie verschieden sind, auf einen
 statistisch signifikanten Unterschied zwischen den drei Zeiten der Probenentnahme innerhalb einer
@@ -7039,9 +7575,9 @@ telwerts dar.
 
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
-Abb. 4– Biochar-C im Boden (t/ha) in den verschiedenen Behandlungen: B1 (25 t/ha Biochar), B2
+Abb. 4 – Biochar-C im Boden (t/ha) in den verschiedenen Behandlungen: B1 (25 t/ha Biochar), B2
 (50 t/ha Biochar), B1C (25 t/ha Biochar + 45 t/ha Kompost), B2C (50 t/ha Biochar + 45 t/ha Kompost)
-3 Wochen nach derVerteilung der Bodenverbesserungsmittel (schwarze Balken in der Grafik, t1) und
+3 Wochen nach der Verteilung der Bodenverbesserungsmittel (schwarze Balken in der Grafik, t1) und
 zwei Jahre danach (graue Balken, t3). Von der im Boden gemessenen Menge der Proben wurde die
 vor der Verteilung der Bodenverbesserungsmittel (t0) natürlich im Boden vorhandene Menge an Bio-
 char-C abgezogen. Die horizontalen Linien stellen die angewandten Biochar-Dosierungen dar (B1
@@ -7058,11 +7594,12 @@ schied zwischen den mit den beiden Analysemethoden erzielten Schätzungen.
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 Abb. 6 – Für die verschiedenen Behandlungen gemessener Kohlenstoffbestand im Boden (t/ha): N
 (Kontrollboden), B1 (25 t/ha Biochar), B2 (50 t/ha Biochar), C (45 t/ha Kompost), B1C (25 t/ha Biochar
 + 45 t/ha Kompost), B2C (50 t/ha Biochar + 45 t/ha Kompost) vor Verteilung der Bodenverbesse-
 rungsmittel (t0, weiße Balken), 3 Wochen nach der Verteilung (t1, schwarze Balken), 1 Jahr danach
-(t2, graue Balken) und 2 Jahre danach (t3, weißeBalken mit schwarzen Punkten). Die Buchstaben
+(t2, graue Balken) und 2 Jahre danach (t3, weiße Balken mit schwarzen Punkten). Die Buchstaben
 über den Balken weisen, wenn sie verschieden sind, auf einen statistisch signifikanten Unterschied
 zwischen den vier Zeiten der Probenentnahme innerhalb einer gleichen Behandlung hin (p ≤ 0,05).
 Die Fehlerbalken stellen den Standardfehler des Mittelwerts dar.
@@ -7071,7 +7608,7 @@ Die Fehlerbalken stellen den Standardfehler des Mittelwerts dar.
 _Die vom Boden ausgehenden CO_[^2]:_-Emissionen (Abb. 7) weisen eine ausge-_
 _prägte saisonale Variabilität auf; In den warmen Jahreszeiten wird ein größerer_
 _Fluss gemessen als in den kalten. Der Höchstwert wurde im August 2017 für_
-_die Behandlung B1 verbucht (17,1_μ_mol/m_[^2]_/s);die niedrigsten Werte, nahe bei_
+_die Behandlung B1 verbucht (17,1_ μ_mol/m_[^2]_/s); die niedrigsten Werte, nahe bei_
 _0, wurden für alle Behandlungen im Dezember 2017 gemessen._
 _Signifikante Unterschiede zwischen den Behandlungen wurden nur in 3 Ver-_
 _suchsreihen festgestellt (Abb. 7, Tab. 2). Im Juni 2018 waren die Emissionen der_
@@ -7086,17 +7623,17 @@ _emissionen von Methan in den Behandlungen B1 (1,1 nmol/m_[^2]_/s) und B1C (0,9_
 
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
-_nmol/m_[^2]_/s) gemessen wurden.Während des gesamten Studienzeitraums gab es_
+_nmol/m_[^2]_/s) gemessen wurden. Während des gesamten Studienzeitraums gab es_
 _keine signifikanten Differenzen zwischen den gemessenen Methanflüssen der_
 _6 Behandlungen._
-_Die Flüsse von N_[^2]:_O (nmol/m_[^2]_/s, Abb. 9) waren nur in der ersten Messreiheim_
+_Die Flüsse von N_[^2]:_O (nmol/m_[^2]_/s, Abb. 9) waren nur in der ersten Messreihe im_
 _August 2017 ziemlich hoch, als die Werte zwischen 0,26 nmol/m_[^2]_/s bei der Be-_
 _handlung B2C und 0,89 nmol/m_[^2]_/s bei der Behandlung B1C lagen. Ab Oktober_
 _2017 Reduzierte sich die Intensität der Emissionen und variierte zwischen -0,08_
 _und 0,15 nmol/m_[^2]_/s. Nur in vier der Messreihen wiesen die Emissionen der ver-_
 _schiedenen untersuchten Behandlungen deutliche Unterschiede auf (Abb. 9,_
 _Tab. 2). Im Dezember 2017 insbesondere waren die Emissionen der Behandlung_
-_N deutlich höher als die der Behandlung B2. ImMai 2018 hingegen wurden in_
+_N deutlich höher als die der Behandlung B2. Im Mai 2018 hingegen wurden in_
 _den Behandlung B1C deutlich höhere Emissionen als in den Behandlungen B2,_
 _C und B2C beobachtet. Im Dezember 2018 verbuchte die Behandlung N höhere_
 _Emissionen als alle anderen. Im Juni 2019 schließlich wurden in der Behand-_
@@ -7107,6 +7644,7 @@ Wirkung des Zusatzes von Biochar zum Boden
 ```
 Abb. 7
 ```
+
 –
 Vom Boden des Versuchsweinbergs Labers in Meran ausgehende CO
 -Emissionen (mmol/m2
@@ -7114,41 +7652,53 @@ Vom Boden des Versuchsweinbergs Labers in Meran ausgehende CO
 ```
 2/s), die in Verbindung mit den sechs
 ```
+
 ```
 Versuchsb
 ```
+
 ```
 ehandlungen gemessen wurden: N (Kontrollboden), B1 (25 t/ha Biochar), B2 (50 t/ha Biochar), C (45 t/ha Kompost), B1C (25 t/ha
 ```
+
 ```
 Biochar + 45 t/ha Kompost), B2C (50 t/ha Biochar + 45 t/ha Kompost). Die Messungen w
 ```
+
 ```
 urden zwischen August 2017 und Dezember 2019
 ```
+
 ```
 durchgeführt. Die Daten stellen die Mittelwerte der drei Replikate für jede Behandlung ± Standardfehler dar. Die Sternchen we
 ```
+
 ```
 isen auf einen
 ```
+
 ```
 signifikanten Unterschied zwischen den Mittelwerten hin; die Ergebnisse
 ```
+
 ```
 des paarweisen
 ```
+
 ```
 Vergleichs zwischen den Behandlungen sind in Tab. 2
 ```
+
 ```
 aufgeführt.
 ```
+
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
 ```
 Abb. 8
 ```
+
 –
 Vom Boden des Versuchsweinbergs Labers in Meran ausgehende CH4
 -Emissionen (nmol/m2/s), die in Verbindung mit den sechs
@@ -7156,76 +7706,97 @@ Vom Boden des Versuchsweinbergs Labers in Meran ausgehende CH4
 ```
 Versuchsb
 ```
+
 ```
 ehandlungen gemessen
 ```
+
 ```
 wurden: N (Kontrollboden), B1 (25 t/ha Biochar), B2 (50 t/ha Biochar), C (45 t/ha Kompost), B1C (25 t/ha
 ```
+
 ```
 Biochar + 45 t/ha Kompost), B2C (50 t/ha Biochar + 45 t/ha Kompost). Die Messungen wurden zwischen August 2017 und Dezember 2
 ```
+
 ```
 019
 ```
+
 ```
 durchgeführt. Die Date
 ```
+
 ```
 n stellen die Mittelwerte der drei Replikate für jede Behandlung ± Standardfehler dar. Es wurden keine signifikanten
 ```
+
 ```
 Unterschiede zwischen den Behandlungen festgestellt.
 ```
+
 Wirkung des Zusatzes von Biochar zum Boden
 
 ```
 Abb. 9
 ```
+
 –
 
 ```
 Vom Boden des Versuchsweinbergs Labers in Meran ausgehende N
 ```
+
 ```
 O2
 ```
+
 -Emissionen (nmol/m2/s), die in Verbindung mit den sechs
 
 ```
 Versuchsb
 ```
+
 ```
 ehandlungen gemessen wurden: N (Kontrollboden), B1 (25 t/ha Biochar), B2 (50 t/ha Biocha
 ```
+
 ```
 r), C (45 t/ha Kompost), B1C (25 t/ha
 ```
+
 ```
 Biochar + 45 t/ha Kompost), B2C (50 t/ha Biochar + 45 t/ha Kompost). Die Messungen wurden zwischen August 2017 und Dezember 2
 ```
+
 ```
 019
 ```
+
 ```
 durchgeführt. Die Daten stellen die Mittelwerte der drei Replikate für jede Behandlung ±
 ```
+
 ```
 Standardfehler dar. Die Sternchen weisen auf einen
 ```
+
 ```
 signifikanten Unterschied zwischen den Mittelwerten hin; die Ergebnisse des paarweise
 ```
+
 ```
 n
 Vergleichs zwischen den Behandlungen sind in Tab. 2
 ```
+
 ```
 aufgeführt.
 ```
+
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
-Tabelle 2–Ergebnisse des statistischen Vergleichs der vom Boden ausgehenden CO[^2]:-(mmol/m[^2]/s)
+Tabelle 2 –Ergebnisse des statistischen Vergleichs der vom Boden ausgehenden CO[^2]:-(mmol/m[^2]/s)
 und N[^2]:O-Emissionen (nmol/m[^2]/s), die in Verbindung mit den sechs Behandlungen gemessen wur-
 den. N (Kontrollboden), B1 (25 t/ha Biochar), B2 (50 t/ha Biochar), C (45 t/ha Kompost), B1C (25
 t/ha Biochar + 45 t/ha Kompost), B2C (50 t/ha Biochar + 45 t/ha Kompost). Die Messungen wurden
@@ -7238,22 +7809,27 @@ Behandlung CO2 μmol/m[^2]/s N2O μmol/m[^2]/s
 Jun.
 2018
 ```
+
 ```
 Apr.
 2019
 ```
+
 ```
 Jul. 2019 Dez.
 2017
 ```
+
 ```
 Mai
 2018
 ```
+
 ```
 Dez.
 2018
 ```
+
 ```
 Jun.
 2019
@@ -7264,40 +7840,42 @@ C 11,4 a 2,1 a -6,6 a 0,08 ab -0,02 a -0,01 a 0,02 b
 B1C 11,1 ab 2,9 ab 7,9 bc 0,03 ab 0,11 b 0,01 a -0,03 ab
 B2C 16,8 b 2,8 ab 10,2 ab 0,02 ab -0,01 a 0,01 a -0,06 ab
 ```
+
 #### 4. Diskussion
 
 4.1 Stabilität des Biochars im Boden
 _In dieser Studie ist die durch isotopische Massenbilanz für die Behandlung B1_
 _geschätzte MRT des Biochars geringer als bei den meisten Studien, die zuvor_
-_durchgeführt wurden. In ihrer Metaanalyse schätzenWang et al. (2016), aus-_
-_gehendvon den Ergebnissen 24 wissenschaftlicher Artikel, dass die stabilste_
-_Fraktionvon Biochar (die 97 % des Biochars darstellt) im Durchschnitt eine_
+_durchgeführt wurden. In ihrer Metaanalyse schätzen Wang et al. (2016), aus-_
+_gehend von den Ergebnissen 24 wissenschaftlicher Artikel, dass die stabilste_
+_Fraktion von Biochar (die 97 % des Biochars darstellt) im Durchschnitt eine_
 _MRT von 556±483 Jahren hat. Den Mittelwerten der MRT wird jedoch eine_
 _hohe Unsicherheit zugeschrieben, die auf eine große Zahl von Faktoren wie_
 _die Art des verwendeten Biochars, die spezifischen Eigenschaften des Bodens_
-_und die angewandteVersuchsmethode zurückzuführen sind. Tatsächlich gibt_
+_und die angewandte Versuchsmethode zurückzuführen sind. Tatsächlich gibt_
 _es in der Literatur MRT-Schätzungen der gleichen Größenordnung, wie in un-_
 
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _serer Studie berechnet. In der Metaanalyse von Singh et al. (2012) zum Bei-_
 _spiel, welche die Ergebnisse von 17 verschiedenen Versuchsstudien unter-_
 _sucht, führen die Autoren MRT-Werte zwischen 1 und 750 Jahren an, und für_
-_die 6 untersuchten Arbeiten eine MRT < 15 Jahren. Vor Kurzemschätzten_
-_Ventura et al. (2019) die MRTin einer zweieinhalbjährigen Feldstudieauf 10,3_
+_die 6 untersuchten Arbeiten eine MRT < 15 Jahren. Vor Kurzem schätzten_
+_Ventura et al. (2019) die MRT in einer zweieinhalbjährigen Feldstudie auf 10,3_
 _Jahre._
 
 _Andererseits zeigen die mit der isotopischer Massenbilanz für die Behandlung_
 _B2 und die mit der BPCA-Analyse für beide Behandlungen erzielten MRT-_
-_Schätzungen einen nicht signifikanten Abbauvon Biochar im Boden und so-_
+_Schätzungen einen nicht signifikanten Abbau von Biochar im Boden und so-_
 _mit eine substantielle Stabilität des Biochars in den zwei Jahren der Versuchs-_
 _messungen. Dieses Ergebnis liegt daher mehr auf einer Linie mit den meisten_
-_Studien, die in der Literatur genannt und in der Metaanalyse vonWang et al._
+_Studien, die in der Literatur genannt und in der Metaanalyse von Wang et al._
 _(2016) zusammengefasst werden._
 
 _Der hohe Anfangsverlust im exponentiellen Abbaumodell, der bei den isoto-_
-_pischen MessungendesBiochars inderDosisB1 registriert wurde, könnte mit_
+_pischen Messungen des Biochars in der Dosis B1 registriert wurde, könnte mit_
 _dem Abbau der labileren Fraktion des Biochars durch Mikroorganismen des_
 _Bodens zusammenhängen. Wie bereits dargelegt wurde, besteht Biochar aus_
 _zwei verschiedenen Kohlenstofffraktionen: einer stabilen Fraktion, die den_
@@ -7306,14 +7884,14 @@ _durch einen sehr viel schnelleren Abbau kennzeichnet (Downie et al., 2009;_
 _Zimmerman, 2010)._
 
 _Man kann jedoch nicht ausschließen, dass der Verlust von Biochar in der An-_
-_fangsphase desVersuchs auch durch abiotische Faktoren verursacht wurde._
+_fangsphase des Versuchs auch durch abiotische Faktoren verursacht wurde._
 _Zum Beispiel könnten die Biochar-Verluste beim Transport, Abladen und Ver-_
 _teilen des Biochars entstanden sein; da dieses eine sehr feine Körnung und_
 _eine sehr geringe Dichte hat, könnte es vom Wind aus dem Anwendungsbe-_
 _reich heraus weggeweht worden sein. In anderen Studien wurde beobachtet,_
 _dass der Wind Verluste bis zu 28 % der angewandten Biochar-Menge verur-_
 _sachen kann (Major, 2010). Zur Begrenzung dieser Verluste wurde dasBiochar_
-_vor der Anwendung im Weinberg befeuchtet, bis seine Feuchtigkeit 20 %sei-_
+_vor der Anwendung im Weinberg befeuchtet, bis seine Feuchtigkeit 20 % sei-_
 
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
@@ -7325,16 +7903,16 @@ _Ein Teil des Biochars könnte auch durch Wasser abtransportiert worden sein,_
 _wenn man das Gefälle des Versuchsstandorts in Betracht zieht. Biochar wird_
 _vom Wasser in der Tat eher als andere organische Substanzen erodiert, da es_
 _eine geringe Dichte besitzt und in der ersten Zeit nach der Anwendung nicht_
-_mit dem mineralischen Anteil des Bodens interagiert(Rumpel et al., 2006). Die_
-_durch Abfließen verursachten Biochar-Verlustekönnen über 50 % des verteil-_
-_ten Biochars ausmachen(Major et al., 2010). Außerdem kann das Wasser das_
+_mit dem mineralischen Anteil des Bodens interagiert (Rumpel et al., 2006). Die_
+_durch Abfließen verursachten Biochar-Verluste können über 50 % des verteil-_
+_ten Biochars ausmachen (Major et al., 2010). Außerdem kann das Wasser das_
 _Biochar auch durch Perkolation in tiefere Bodenschichten transportieren._
 _Singh et al. (2015) haben beobachtet, dass zwischen 1,2 und 15,7 % des Bio-_
-_chars in eine Schicht des Bodens unter der Schichttransportiert wird, auf der_
+_chars in eine Schicht des Bodens unter der Schicht transportiert wird, auf der_
 _es verteilt wurde. Der Verlust durch Perkolation könnte an unserem Ver-_
 _suchsstandort durch die Eigenschaften des Bodens begünstigt worden sein,_
 _der wegen seiner Struktur und seines hohen Steingehalts starke drainierende_
-_Merkmale besitzt. Das würde mit den Resultaten der Studie vonSingh et al._
+_Merkmale besitzt. Das würde mit den Resultaten der Studie von Singh et al._
 _(2015) übereinstimmen, die beweist, dass der Biochar-Verlust durch Perkola-_
 _tion bei Arenosolböden größer ist als der infolge von Mineralisierung. Außer-_
 _dem könntendie pulverartige Beschaffenheit und die extreme Leichtigkeit des_
@@ -7343,7 +7921,7 @@ _verwendeten Biochars diese Phänomene erleichtert haben._
 _Die Schätzung der MRT dieser Studie könnte auch durch methodologische_
 _Aspekte wie zum Beispiel die Versuchsdauer beeinflusst worden sein. Zahl-_
 _reichen Studien zufolge wird die Schätzung des Biochar-Abbaus stark durch_
-_die Versuchsdauer beeinflusst(Fang et al., 2014; Kuzyakov et al., 2014;_
+_die Versuchsdauer beeinflusst (Fang et al., 2014; Kuzyakov et al., 2014;_
 _Kuzyakov et al., 2009; Ventura et al., 2019); dieser ist in den ersten beiden Jah-_
 _ren höher, und verlangsamt sich dann radikal. In unserer zweijährigen Studie_
 _könnte die Abbaurate der Behandlung B1 möglicherweise zu hoch einge-_
@@ -7356,9 +7934,10 @@ _Umgebung durchgeführt wurden. Möglicherweise stellen diese Versuche die_
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _unter Feldbedingungen auftretenden Erscheinungen nicht angemessen dar_
 _(Ventura et al., 2015, 2019). Im Labor werden Erscheinungen, die physikali-_
-_sche Abbauprozesse und die chemische OxidationvonBiochar beschleunigen_
+_sche Abbauprozesse und die chemische Oxidation vonBiochar beschleunigen_
 _können, wie z. B. Wetterereignisse, Expositionen gegenüber Ozon und UV-_
 _Strahlung oder Frost-Tau-Zyklen, möglicherweise nicht richtig simuliert_
 _(Kuzyakov et al., 2014; Spokas, 2010). Außerdem kann die Bodenfauna, z. B._
@@ -7366,27 +7945,27 @@ _Regenwürmer, die Zerkleinerung des Biochars begünstigen und dieses so ei-_
 _nem stärkeren biotischen und abiotischen Abbau aussetzen (Ameloot et al.,_
 _2013; Lehmann et al., 2011; Pingree et al., 2017). Und schließlich kann das Vor-_
 _handensein von Wurzeln im Boden den Abbau von Biochar um bis zu 50 %_
-_erhöhen(Ventura et al., 2019), da das Wurzelexsudat die mikrobielle Aktivität_
-_stimuliert(Keith et al., 2011; Luo et al., 2011)._
+_erhöhen (Ventura et al., 2019), da das Wurzelexsudat die mikrobielle Aktivität_
+_stimuliert (Keith et al., 2011; Luo et al., 2011)._
 
 _Die Ergebnisse der BPCA- Analysen weisen keine signifikante Verringerung_
 _des Biochar-C-Gehalts im Boden zwischen dem Zeitpunkt t1 und dem Zeit-_
 _punkt t3 auf (Abb. 4); vielmehr kann man eine tendenzielle, wenn auch nicht_
 _bedeutende Zunahme beobachten, vor allem in den Behandlungen B1 und B2._
-_Dieses Ergebnis wurde in früheren Studien beobachtet(Busch & Glaser, 2015;_
-_Fischer et al., 2018)und mit einer Vielfalt von Faktoren in Zusammenhang_
+_Dieses Ergebnis wurde in früheren Studien beobachtet (Busch & Glaser, 2015;_
+_Fischer et al., 2018) und mit einer Vielfalt von Faktoren in Zusammenhang_
 _gebracht. Während die Untersuchungsergebnisse aufgrund der Komplexität_
 _der Verfahren einerseits von operativen Fehlern, wie zum Beispiel der Hete-_
-_rogenität der Verteilungvon Biochar auf dem Feld, sowie von möglichen Feh-_
+_rogenität der Verteilung von Biochar auf dem Feld, sowie von möglichen Feh-_
 _lern während der analytischen Phase beeinträchtigt werden können (Fischer_
 _et al., 2018), haben Glaser & Knorr (2008) andererseits eine nicht von pyroge-_
 _nen Quellen abhängige Zunahme um 25 % des Biochar-C-Gehalts im Boden_
-_beobachtet. Die BPCA würden somitin situ in Form von Pigmenten von ver-_
-_schiedenen Pilzarten wieAspergillus nigerundCercosporina Kikuchii-Matsu-_
-_moto-et-Tomoyasuerzeugt(Fischer et al., 2018)._
+_beobachtet. Die BPCA würden somit in situ in Form von Pigmenten von ver-_
+_schiedenen Pilzarten wie Aspergillus niger und Cercosporina Kikuchii-Matsu-_
+_moto-et-Tomoyasu erzeugt (Fischer et al., 2018)._
 
 _Wichtig ist auch hervorzuheben, dass der Gesamtkohlenstoffgehalt im Boden_
-_bei den Behandlungenmit der höchsten Biochar-Dosis (B2 und B2C) zwei_
+_bei den Behandlungen mit der höchsten Biochar-Dosis (B2 und B2C) zwei_
 _Jahre nach der Anwendung erheblich gestiegen ist (Abb. 6). Ähnliche Ergeb-_
 _nisse wurden in früheren Studien an einem Oxisolboden der Savanne Kolum-_
 _biens erzielt (Major, 2009); dort wurde nach dem Zusatz von 23,3 t/ha Biochar_
@@ -7395,10 +7974,10 @@ _eine Verdoppelung des Gesamtkohlenstoffgehalts im Boden verbucht. Ein_
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
 _Anstieg des Gesamtkohlenstoffs wurde auch in der Behandlung BC2 gemes-_
-_sen, was beweist, dass die Anwendung von Kompost das Potenzialvon Bio-_
+_sen, was beweist, dass die Anwendung von Kompost das Potenzial von Bio-_
 _char zur mittelfristigen Speicherung des Kohlenstoffs im Boden nicht beein-_
 _trächtigt (Abb. 6). Diese Ergebnisse bestätigen auch frühere Beobachtungen_
-_vonBusch & Glaser (2015), die über einen Anstieg um Faktor 1,7 des Kohlen-_
+_von Busch & Glaser (2015), die über einen Anstieg um Faktor 1,7 des Kohlen-_
 _stoffgehalts im Boden ein Jahr nach Anwendung von 25 t/ha Biochar in Kom-_
 _bination mit Kompost berichten, und von Liu et al. (2012), die einen Anstieg_
 _des Gesamtkohlenstoffs im Boden um Faktor 2,,5 nach Anwendung von 20_
@@ -7420,34 +7999,35 @@ _denen kein signifikanter Abbau des Biochars beobachtet wurde, bestätigt das_
 _Fehlen der Wirkungen auf die CO2,-Emissionen einerseits die Stabilität des Bi-_
 _ochars im Boden, und verdeutlicht andererseits das Fehlen eines Reizes für_
 _den Abbau der ursprünglichen organischen Substanz des Bodens (SOM), also_
-_des sogenanntenPriming-Effekts. In der Behandlung B1 hingegen, bei der ein_
+_des sogenannten Priming-Effekts. In der Behandlung B1 hingegen, bei der ein_
 _signifikanter Abbau des Biochars registriert wurde, weist das Fehlen eines_
 _konsistenten Anstiegs der vom Boden ausgehenden CO_[^2]:_-Emissionen darauf_
 _hin, dass die aus dem Abbau der SOM stammenden Emissionen in Anwesen-_
-_heitvon Biochar reduziert wurden (negativerPriming-Effekt), d. h. dassdas_
-_Biochar eine Schutzwirkung auf dieSOM hatte. Diese Wirkung wurde bereits_
+_heit von Biochar reduziert wurden (negativer Priming-Effekt), d. h. dass das_
+_Biochar eine Schutzwirkung auf die SOM hatte. Diese Wirkung wurde bereits_
 _zuvor ebenfalls unter Feldbedingungen beobachtet (Ventura et al., 2019)._
 
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _Die geringeren Wirkungen auf die CO_[^2]:_-Emissionen stehen offensichtlich in_
 _Widerspruch zur Metaanalyse von He et al. (2017); diese fassen die Ergebnisse_
 _von 91 wissenschaftlichen Publikationen zusammen und kommen zu dem_
 _Schluss, dass die Verteilung von Biochar im Boden im Durchschnitt einen An-_
-_stieg von 22 % der CO_[^2]:_-Emissionenim Vergleich zum nicht verbesserten Bo-_
-_den verursacht. In dergleichen Metaanalyse wird jedoch über eine große Dif-_
+_stieg von 22 % der CO_[^2]:_-Emissionen im Vergleich zum nicht verbesserten Bo-_
+_den verursacht. In der gleichen Metaanalyse wird jedoch über eine große Dif-_
 _ferenz zwischen den Ergebnissen der Feldversuche und denen im Labor be-_
 _richtet. Während Biochar in den Laborergebnissen eine positive Wirkung auf_
 _die CO_[^2]:_-Emissionen zeigt, sind in den Feldversuchen keine deutlichen Unter-_
 _schiede gegenüber dem Kontrollboden zu sehen (He et al., 2017). Rezente Stu-_
 _dien bestätigen, dass die Wirkung von Biochar auf die CO_[^2]:_-Emissionen unter_
-_Feldbedingungen unerheblich war (Lu et al., 2019; Ventura et al.,2019), wenn_
+_Feldbedingungen unerheblich war (Lu et al., 2019; Ventura et al., 2019), wenn_
 _nicht sogar negativ, also dass es sogar eine Abnahme der Emissionen verur-_
 _sacht hat (Shen et al., 2017). Die Ergebnisse dieser Studie stimmen daher mit_
 _denen anderer Studien überein, die unter ähnlichen Bedingungen stattfanden,_
 _und bestätigen die Notwendigkeit der Durchführung von Feldstudien. Ge-_
-_mäß der Metaanalyse von He et al. (2017)können andere Faktoren zu unserem_
+_mäß der Metaanalyse von He et al. (2017) können andere Faktoren zu unserem_
 _Versuchsergebnis geführt haben. Insbesondere die Art der Ausgangsbio-_
 _masse und die Produktionstemperatur scheinen einen starken Einfluss auf die_
 _Wirkung von Biochar auf CO_[^2]:_-Emissionen zu haben. In den Versuchen, in de-_
@@ -7458,9 +8038,9 @@ _nen unseres Versuchsstandorts keine offensichtliche Wirkung auf die CO_[^2]:_-_
 _Emissionen (He et al., 2017)._
 
 _In Bezug auf Methan werden in dieser Studie fast immer Negativflüsse fest-_
-_gestellt;sie weisen bei allen Behandlungen auf einen Nettoverbrauch von Me-_
+_gestellt; sie weisen bei allen Behandlungen auf einen Nettoverbrauch von Me-_
 _than im Boden hin. Es ist bekannt, dass Methan in belüfteten Böden, die nicht_
-_unterVernässung leiden, durch die Aktivität der Mikroorganismen im Boden_
+_unter Vernässung leiden, durch die Aktivität der Mikroorganismen im Boden_
 _verbraucht wird (Jeffery et al., 2016). Unter diesen Bedingungen tendiert Bio-_
 _char, den Berichten in der Literatur zufolge, dazu, den Methanverbrauch des_
 _Bodens zu reduzieren (Jeffery et al., 2016), vor allem wenn der pH-Wert des_
@@ -7472,8 +8052,8 @@ _600 °C liegt. Eine solche Wirkung des Biochars, die zu einer Verringerung der_
 _Fähigkeit des Bodens führen würde, die atmosphärische Konzentration dieses_
 _starken Treibhausgases zu senken, wurde in dieser Studie hingegen nicht be-_
 _obachtet. Das Fehlen von Wirkungen des Biochars auf die Methanflüsse im_
-_Boden bestätigt jedoch die Beobachtungen der anderen Studien(He et al.,_
-_2017). Gemäß He et al. (2017) kann die Methanaufnahme bei Anwendungvon_
+_Boden bestätigt jedoch die Beobachtungen der anderen Studien (He et al.,_
+_2017). Gemäß He et al. (2017) kann die Methanaufnahme bei Anwendung von_
 _Biochar mit sehr hohem pH-Wert und grober Bodenstruktur steigen. Ange-_
 _sichts des hohen pH-Werts (12,5) des in dieser Studie verwendeten Biochars_
 _und der sandig-lehmigen Struktur des Bodens am Versuchsstandort hätten_
@@ -7491,28 +8071,29 @@ _Böden. Die Ergebnisse dieser Studie bestätigen diese Evidenzen nur teilweise.
 _In der Tat wurde eine, wenn auch nur leichte, Verringerung der Emissionen_
 _in den mit 50 t/ha Biochar verbesserten Böden nur bei 4 der im Laufe des Ver-_
 _suchs durchgeführten Messreihen beobachtet. Gemäß den Berichten von He_
-_et al. (2017)könnte dieses Ergebnis auf die spezifischen Versuchsbedingungen_
+_et al. (2017) könnte dieses Ergebnis auf die spezifischen Versuchsbedingungen_
 _zurückzuführen sein, wie zum Beispiel ein fast neutraler pH-Wert des Bodens,_
-_eher niedrige Dosierungenvon Biochar und der Nichteinsatz von Düngemit-_
+_eher niedrige Dosierungen von Biochar und der Nichteinsatz von Düngemit-_
 _teln. Die höchsten N_[^2]:_O-Emissionen werden generell in den mit N gedüngten_
-_Böden beobachtet (He et al., 2017). Da der Weinberg während desVersuchs_
-_nicht mit Stickstoff gedüngt wurde, ist es normal, dass die N_[^2]:_O-Flüssebereits_
+_Böden beobachtet (He et al., 2017). Da der Weinberg während des Versuchs_
+_nicht mit Stickstoff gedüngt wurde, ist es normal, dass die N_[^2]:_O-Flüsse bereits_
 _auf natürliche Weise niedrig sind und dasBiochar daher keine große Wirkung_
-_zeigt. Andererseits hättenCayuela et al. (2014)zufolge bestimmte Parameter_
-_des Biochars, wiez. B. die ursprüngliche Biomasse, die Produktionstempera-_
+_zeigt. Andererseits hätten Cayuela et al. (2014) zufolge bestimmte Parameter_
+_des Biochars, wie z. B. die ursprüngliche Biomasse, die Produktionstempera-_
 _tur und das Verhältnis C/N, eine viel markanterer Verringerung der N_[^2]:_O-_
 _Emissionen vorhersehen lassen._
 
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _Dennoch spiegeln sich unsere Ergebnisse nur teilweise in der wissenschaftli-_
 _chen Literatur wider; die unsere bleibt eine der wenigen Feldstudien mit einer_
 _Beobachtungszeit von mehr als zwei Jahren. Weitere Schlussfolgerungen aus_
 _unseren Daten können in Zukunft durch Schätzung der kumulierten Treib-_
 _hausgasemissionen über den gesamten Versuchszeitraum, circa zweieinhalb_
 _Jahre, gezogen werden. Diese Möglichkeit besteht dank gemeinsamer Be-_
-_trachtung der im Rahmen desVersuchs gemessenen Emissionsdaten und der_
+_trachtung der im Rahmen des Versuchs gemessenen Emissionsdaten und der_
 _Umweltparameter, die einen Einfluss auf die Treibhausgasemissionen haben,_
 _anhand mathematischer Modelle. Die Ergebnisse dieser neuen Untersuchun-_
 _gen werden Gegenstand einer weiteren Publikation sein._
@@ -7522,7 +8103,7 @@ _gen werden Gegenstand einer weiteren Publikation sein._
 _Die Versuchsergebnisse dieser Arbeit zeigen, dass das von Record Immobili-_
 _are aus Holzbiomasse erzeugte Biochar bei angemessener Dosierung vernach-_
 _lässigbar geringe Auswirkungen auf die Kohlendioxid- und Methanemissio-_
-_nen hat, währendes eine leichte Verringerung der vom Boden ausgehenden_
+_nen hat, während es eine leichte Verringerung der vom Boden ausgehenden_
 _Stickstoffdioxidemissionen bewirkt. Das bedeutet, dass das in dieser Studie_
 _untersuchte Biochar keine negativen Wirkungen auf die vom Boden ausge-_
 _henden Treibhausgasemissionen hat und folglich ohne Kontraindikationen_
@@ -7530,7 +8111,7 @@ _genutzt werden kann._
 
 _Was die Stabilität des Biochars im Boden anbelangt, wurden je nach verwen-_
 _deter Methode widersprüchliche Ergebnisse erzielt. Wenn man außerdem be-_
-_rücksichtigt, dass beide Schätzungen einehohe Unsicherheitsmarge aufwie-_
+_rücksichtigt, dass beide Schätzungen eine hohe Unsicherheitsmarge aufwie-_
 _sen, können keine sicheren Schlussfolgerungen in Bezug auf diesen Aspekt_
 _gezogen werden._
 
@@ -7546,102 +8127,103 @@ _char auf Agrarböden zumindest mittelfristig zur Milderung des Klimawan-_
 _dels beitragen kann._
 
 Danksagungen
-_Wir danken Martin Thalheimer vom Versuchszentrum Laimburgfür die In-_
+_Wir danken Martin Thalheimer vom Versuchszentrum Laimburg für die In-_
 _formationen, die er uns über Klima, Wetter und pedologische Bedingungen_
 _des Versuchsstandortes erteilt hat. Außerdem möchten wir uns bei Georg_
-_Trenkwalder und seinen Mitarbeitern bedanken, die uns bei derVersuchsvor-_
+_Trenkwalder und seinen Mitarbeitern bedanken, die uns bei der Versuchsvor-_
 _bereitung und der Verwaltung des Versuchsstandortes technisch unterstützt_
 _haben._
 
 Literaturverzeichnis
 _Ameloot, N., Graber, E. R., Verheijen, F. G. A., & Deneve, S. (2013)._
 _Interactions between biochar stability and soil organisms: review and_
-_research needs.European Journal of Soil Science,_ [^64]:_(August), 379–390._
+_research needs. European Journal of Soil Science,_ [^64]:_(August), 379–390._
 _https://doi.org/10.1111/ejss.12064_
-_Blanco-Canqui, H. (2017). Biochar and Soil Physical Properties.Soil Science_
-_Society of America Journal,_[^81]:_, 687–711._
+_Blanco-Canqui, H. (2017). Biochar and Soil Physical Properties. Soil Science_
+_Society of America Journal,_ [^81]:_, 687–711._
 _https://doi.org/10.2136/sssaj2017.01.0017_
-_Busch, D., & Glaser, B. (2015).Stability of co-composted hydrochar and_
-_biochar under field conditions in a temperate soil.Soil Use and Management,_
+_Busch, D., & Glaser, B. (2015). Stability of co-composted hydrochar and_
+_biochar under field conditions in a temperate soil. Soil Use and Management,_
 [^31]:_, 251–258. https://doi.org/10.1111/sum.12180_
 _Cayuela, M. L., van Zwieten, L., Singh, B. P., Jeffery, S., Roig, A., & Sánchez-_
 _Monedero, M. A. (2014). Biochar’s role in mitigating soil nitrous oxide_
 _emissions: A review and meta-analysis. Agriculture, Ecosystems and_
-_Environment,_[^191]:_, 5–16. https://doi.org/10.1016/j.agee.2013.10.009_
+_Environment,_ [^191]:_, 5–16. https://doi.org/10.1016/j.agee.2013.10.009_
 _Crane-Droesch, A., Abiven, S., Jeffery, S., & Torn, M. S. (2013). Heterogeneous_
 _global crop yield response to biochar: a meta-regression analysis._
 
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
+
 _Environmental Research Letters,_ [^8]:_, 1–8. https://doi.org/10.1088/1748-_
 _9326/8/4/044049_
 _Ding, Y., Liu, Y., Liu, S., Li, Z., Tan, X., Huang, X., ... Zheng, B. (2016). Biochar_
-_toimprove soil fertility. A review.Agronomy for Sustainable Development,_
+_to improve soil fertility. A review. Agronomy for Sustainable Development,_
 [^36]:_(36), 1–18. https://doi.org/10.1007/s13593-016-0372-z_
-_Downie, A., Munroe, P., & Crosky, A. (2009). Characteristics of Biochar–_
+_Downie, A., Munroe, P., & Crosky, A. (2009). Characteristics of Biochar –_
 _Physical and Structural Properties. In J. Lehmann & S. Joseph (Eds.),_
 _Biochar for environmental management: science, technology and implementation_
 _(1st ed., pp. 13–29). Earthscan._
 _Fang, Y., Singh, B. P., & Singh, B. (2014). Temperature sensitivity of biochar_
-_and native carbon mineralisation in biochar-amended soils.Agriculture,_
-_Ecosystems and Environment,_[^191]:_, 158–167._
+_and native carbon mineralisation in biochar-amended soils. Agriculture,_
+_Ecosystems and Environment,_ [^191]:_, 158–167._
 _https://doi.org/10.1016/j.agee.2014.02.018_
 _Fischer, D., Erben, G., Dunst, G., & Glaser, B. (2018). Dynamics of labile and_
 _stable carbon and priming effects during composting of sludge and lop_
-_mixtures amended with low and high amounts of biochar.Waste_
-_Management,_[^78]:_, 880–893. https://doi.org/10.1016/j.wasman.2018.06.056_
+_mixtures amended with low and high amounts of biochar. Waste_
+_Management,_ [^78]:_, 880–893. https://doi.org/10.1016/j.wasman.2018.06.056_
 _Glaser, B., & Knorr, K. (2008). Isotopic evidence for condensed aromatics from_
-_non-pyrogenic sources in soils– implications for current methods for_
-_quantifying soil black carbon.Rapid Communications in Mass Spectrometry,_
+_non-pyrogenic sources in soils – implications for current methods for_
+_quantifying soil black carbon. Rapid Communications in Mass Spectrometry,_
 [^22]:_, 935–942. https://doi.org/10.1002/rcm_
 _Glaser, B., Lehmann, J., & Zech, W. (2002). Ameliorating Physical and_
 _Chemical Properties of Highly Weathered Soils in Ameliorating physical_
 _and chemical properties of highly weathered soils in the tropics with_
-_charcoal – a review.Biology and Fertility of Soils,_ [^35]:_, 219–230._
+_charcoal – a review. Biology and Fertility of Soils,_ [^35]:_, 219–230._
 _https://doi.org/10.1007/s00374-_[^002]:_-_[^0466]:_-4_
 _Gurwick, N. P., Moore, L. A., Kelly, C., & Elias, P. (2013). A Systematic Review_
 _of Biochar Research, with a Focus on Its Stability in situ and Its Promise as_
-_a Climate Mitigation Strategy.PLoS ONE,_[^8]:_(9), 1–9._
+_a Climate Mitigation Strategy. PLoS ONE,_ [^8]:_(9), 1–9._
 _https://doi.org/10.1371/journal.pone.0075932_
 _Hardy, B., Sleutel, S., Dufey, J. E., & Cornelis, J. (2019). The Long-Term Effect_
 _of Biochar on Soil Microbial Abundance , Activity and Community_
-_Structure Is Overwritten by Land Management.Frontiers in Environmental_
-_Science,_[^7]:_(110), 1–14. https://doi.org/10.3389/fenvs.2019.00110_
+_Structure Is Overwritten by Land Management. Frontiers in Environmental_
+_Science,_ [^7]:_(110), 1–14. https://doi.org/10.3389/fenvs.2019.00110_
 
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
-_He, Y., Zhou, X., Jiang, L., Li, M., & Du, Z. (2017).Effects of biochar application_
-_on soil greenhouse gas fluxes: a meta-analysis._[^743]:_–755._
+_He, Y., Zhou, X., Jiang, L., Li, M., & Du, Z. (2017). Effects of biochar application_
+_on soil greenhouse gas fluxes: a meta-analysis._ [^743]:_–755._
 _https://doi.org/10.1111/gcbb.12376_
 _Jeffery, S., Verheijen, F. G. A., Kammann, C., & Abalos, D. (2016). Biochar_
-_effects on methane emissions from soils: A meta-analysis.Soil Biology and_
-_Biochemistry,_[^101]:_, 251–258.https://doi.org/10.1016/j.soilbio.2016.07.021_
+_effects on methane emissions from soils: A meta-analysis. Soil Biology and_
+_Biochemistry,_ [^101]:_, 251–258. https://doi.org/10.1016/j.soilbio.2016.07.021_
 _Keith, A., Singh, B., & Singh, B. P. (2011). Interactive priming of biochar and_
-_labile organic matter mineralization in a smectite-rich soil.Environmental_
-_Science and Technology,_[^45]:_(22), 9611–9618. https://doi.org/10.1021/es202186j_
+_labile organic matter mineralization in a smectite-rich soil. Environmental_
+_Science and Technology,_ [^45]:_(22), 9611–9618. https://doi.org/10.1021/es202186j_
 _Kuzyakov, Y., Bogomolova, I., & Glaser, B. (2014). Biochar stability in soil:_
 _Decomposition during eight years and transformation as assessed by_
-_compound-specific 14C analysis.Soil Biology and Biochemistry,_[^70]:_, 229–236._
+_compound-specific 14C analysis. Soil Biology and Biochemistry,_ [^70]:_, 229–236._
 _https://doi.org/10.1016/j.soilbio.2013.12.021_
 _Kuzyakov, Y., Subbotina, I., Chen, H., Bogomolova, I., & Xu, X. (2009). Black_
 _carbon decomposition and incorporation into soil microbial biomass_
-_estimated by 14 C labeling.Soil Biology and Biochemistry,_[^41]:_(2), 210–219._
+_estimated by 14 C labeling. Soil Biology and Biochemistry,_ [^41]:_(2), 210–219._
 _https://doi.org/10.1016/j.soilbio.2008.10.016_
 _Lehmann, J., Abiven, S., Kleber, M., Pan, G., Singh, B. P., Sohi, S. P., &_
 _Zimmerman, A. R. (2015). Persistence of biochar in soil. In J. Lehmann &_
-_S. Joseph (Eds.),Biochar for environmental management: science, technology_
+_S. Joseph (Eds.), Biochar for environmental management: science, technology_
 _and implementation (2nd ed., pp. 235–282). Ney York: Routledge._
 _Lehmann, J., Rillig, M. C., Thies, J., Masiello, C. A., Hockaday, W. C., &_
-_Crowley, D. (2011). Biochar effects on soil biota- A review.Soil Biology and_
-_Biochemistry,_[^43]:_(9), 1812–1836. https://doi.org/10.1016/j.soilbio.2011.04.022_
+_Crowley, D. (2011). Biochar effects on soil biota - A review. Soil Biology and_
+_Biochemistry,_ [^43]:_(9), 1812–1836. https://doi.org/10.1016/j.soilbio.2011.04.022_
 _Liu, J., Schulz, H., Brandl, S., Miehtke, H., Huwe, B., & Glaser, B. (2012). Short-_
 _term effect of biochar and compost on soil fertility and water status of a_
-_Dystric Cambisol in NE Germany under field conditions.Journal of Plant_
-_Nutrition and Soil Science,_[^000]:_, 1–10. https://doi.org/10.1002/jpln.201100172_
+_Dystric Cambisol in NE Germany under field conditions. Journal of Plant_
+_Nutrition and Soil Science,_ [^000]:_, 1–10. https://doi.org/10.1002/jpln.201100172_
 _Liu, X., Zhang, A., Ji, C., Joseph, S., Bian, R., Li, L., ... Paz-Ferreiro, J. (2013)._
 _Biochar’s effect on crop productivity and the dependence on experimental_
-_conditions— a meta-analysis of literature data.Plant and Soil,_[^373]:_(1), 583–_
+_conditions — a meta-analysis of literature data. Plant and Soil,_ [^373]:_(1), 583–_
 
 594. https://doi.org/10.1007/s11104-013-1806-x
 Lu, X., Li, Y., Wang, H., Singh, B. P., Hu, S., Luo, Y., ... Li, Y. (2019). Responses
@@ -7650,91 +8232,92 @@ of soil greenhouse gas emissions to different application rates of biochar
 ```
 Wirkung des Zusatzes von Biochar zum Boden
 ```
-_in a subtropical Chinese chestnut plantation.Agricultural and Forest_
-_Meteorology,_[^271]:_, 168–179. https://doi.org/10.1016/j.agrformet.2019.03.001_
+
+_in a subtropical Chinese chestnut plantation. Agricultural and Forest_
+_Meteorology,_ [^271]:_, 168–179. https://doi.org/10.1016/j.agrformet.2019.03.001_
 _Luo, Y., Durenkamp, M., Nobili, M. De, Lin, Q., & Brookes, P. C. (2011). Short_
 _term soil priming effects and the mineralisation of biochar following its_
-_incorporation to soils of different pH.Soil Biology and Biochemistry,_[^43]:_(11),_
+_incorporation to soils of different pH. Soil Biology and Biochemistry,_ [^43]:_(11),_
 [^2304]:_–2314. https://doi.org/10.1016/j.soilbio.2011.07.020_
-_Major, J. (2009).Biochar application to a Colombian Savanna Oxisol: Fate and effect_
+_Major, J. (2009). Biochar application to a Colombian Savanna Oxisol: Fate and effect_
 _on soil fertility, crop production, nutrient leaching and soil hydrology. Cornell_
 _University._
-_Major, J. (2010).Guidelines on Practical Aspects of Biochar Application to Field Soil_
+_Major, J. (2010). Guidelines on Practical Aspects of Biochar Application to Field Soil_
 _in Various Soil Management Systems._
 _Major, J., Lehmann, J., Rondon, M., & Goodale, C. (2010). Fate of soil-applied_
-_black carbon: downward migration, leaching and soil respiration.Global_
-_Change Biology,_[^16]:_(4)._
-_Michener, R., & Lajtha, K. (2007).Stable Isotopes in Ecology and Environmental_
+_black carbon: downward migration, leaching and soil respiration. Global_
+_Change Biology,_ [^16]:_(4)._
+_Michener, R., & Lajtha, K. (2007). Stable Isotopes in Ecology and Environmental_
 _Science (second edi). Blackwell Publishing._
 _Pingree, M. R. A., Makoto, K., & Deluca, T. H. (2017). Interactive effects of_
 _charcoal and earthworm activity increase bioavailable phosphorus in sub-_
-_boreal forest soils.Biolo,_[^53]:_, 873–884. https://doi.org/10.1007/s00374-017-_
+_boreal forest soils. Biolo,_ [^53]:_, 873–884. https://doi.org/10.1007/s00374-017-_
 [^1227]:_-8_
 _Rumpel, C., Chaplot, V., Planchon, O., Bernadou, J., Valentin, C., & Mariotti,_
 _A. (2006). Preferential erosion of black carbon on steep slopes with slash_
-_and burn agriculture.CATENA,_[^65]:_(1), 30–40._
+_and burn agriculture. CATENA,_ [^65]:_(1), 30–40._
 _https://doi.org/https://doi.org/10.1016/j.catena.2005.09.005_
 _Shen, Y., Zhu, L., Cheng, H., Yue, S., & Li, S. (2017). Effects of biochar_
 _application on CO2 emissions from a cultivated soil under semiarid_
-_climate conditions in Northwest China.Sustainability,_ [^9]:_(1482), 1–13._
+_climate conditions in Northwest China. Sustainability,_ [^9]:_(1482), 1–13._
 _https://doi.org/10.3390/su9081482_
 _Singh, B. P., Fang, Y., Boersma, M., Collins, D., Van Zwieten, L., & Macdonald,_
 _L. M. (2015). In Situ Persistence and Migration of Biochar Carbon and Its_
 _Impact on Native Carbon Emission in Contrasting Soils under Managed_
-_Temperate Pastures.PLoS ONE, 1–20._
+_Temperate Pastures. PLoS ONE, 1–20._
 _https://doi.org/10.1371/journal.pone.0141560_
 
 Criscuoli, Ventura, Panzacchi, Glaser, Wiedner, Ceccon, Loesch, Raifer, Tonon
 
 _Singh, N., Abiven, S., Torn, M. S., & Schmidt, M. W. I. (2012). Fire-derived_
-_organic carbon in soil turns over on a centennial scale.Biogeosciences,_[^9]:_,_
+_organic carbon in soil turns over on a centennial scale. Biogeosciences,_ [^9]:_,_
 [^2847]:_–2857. https://doi.org/10.5194/bg-_[^9]:_-_[^2847]:_-2012_
 _Spokas, K. A. (2010). Review of the stability of biochar in soils: predictability_
-_of O:C molar ratios.Carbon Management,_[^1]:_(2), 289–303._
+_of O:C molar ratios. Carbon Management,_ [^1]:_(2), 289–303._
 _Ventura, M., Alberti, G., Panzacchi, P., Delle Vedove, G., Miglietta, F., &_
 _Tonon, G. (2019). Biochar mineralization and priming effect in a poplar_
-_short rotation coppice from a 3-year field experiment.Biology and Fertility_
-_of Soils,_[^55]:_, 67–78. https://doi.org/10.1007/s00374-_[^018]:_-_[^1329]:_-y_
+_short rotation coppice from a 3-year field experiment. Biology and Fertility_
+_of Soils,_ [^55]:_, 67–78. https://doi.org/10.1007/s00374-_[^018]:_-_[^1329]:_-y_
 _Ventura, M., Alberti, G., Viger, M., Jenkins, J. R., Girardin, C., Baronti, S., ..._
 _Tonon, G. (2015). Biochar mineralization and priming effect on SOM_
-_decomposition in two European short rotation coppices.GCB Bioenergy,_
+_decomposition in two European short rotation coppices. GCB Bioenergy,_
 [^7]:_(5), 1150–1160. https://doi.org/10.1111/gcbb.12219_
 _Wang, J., Xiong, Z., & Kuzyakov, Y. (2016). Biochar stability in soil: meta-_
-_analysis of decomposition and priming effects.GCB Bioenergy,_[^8]:_(3), 512–_
+_analysis of decomposition and priming effects. GCB Bioenergy,_ [^8]:_(3), 512–_
 
 523. https://doi.org/10.1111/gcbb.12266
 Zimmerman, A. R. (2010). Abiotic and Microbial Oxidation of Laboratory-
-Produced Black Carbon (Biochar).Environmental Science and Technology,44,
+Produced Black Carbon (Biochar). Environmental Science and Technology, 44,
 1295–1301. https://doi.org/10.1021/es903140c
 
 ## Erzeugung und Nutzung von Biochar in Südtirol:
 
 ## Lebenszyklusanalyse (LCA) der Produktionskette
 
-**Irene Criscuoli– Freie Universität Bozen**
-**Pietro Panzacchi– Freie Universität Bozen, Italien / Università degli**
+**Irene Criscuoli – Freie Universität Bozen**
+**Pietro Panzacchi – Freie Universität Bozen, Italien / Università degli**
 **Studi del Molise**
-**Timo Rossberg– LCA Works Limited, Bedford, Vereinigtes Königreich**
-**Onesmus Mwabonje– LCA Works Limited, Bedford, Vereinigtes Königreich**
-**Piers Cooper– LCA Works Limited, Bedford, Vereinigtes Königreich**
-**Jeremy Woods– LCA Works Limited, Bedford, Vereinigtes Königreich**
+**Timo Rossberg – LCA Works Limited, Bedford, Vereinigtes Königreich**
+**Onesmus Mwabonje – LCA Works Limited, Bedford, Vereinigtes Königreich**
+**Piers Cooper – LCA Works Limited, Bedford, Vereinigtes Königreich**
+**Jeremy Woods – LCA Works Limited, Bedford, Vereinigtes Königreich**
 **Giustino Tonon– Freie Universität Bozen**
 
 Abstract
 _Mit einer Lebenszyklusanalyse (LCA) wurden der Energieverbrauch und die Treib-_
 _hausgasemissionen evaluiert, die mit der Erzeugung und Nutzung von Biochar aus_
 _Vergasungsprozessen auf Südtiroler Agrarböden verbunden sind._
-_Zumheutigen Tag gibt es in Südtirol ungefähr 40 Vergasungsanlagen, die zehn verschie-_
+_Zum heutigen Tag gibt es in Südtirol ungefähr 40 Vergasungsanlagen, die zehn verschie-_
 _dene Technologien anwenden. Keine dieser Anlagen ermöglicht die Erzeugung eines für_
 _die landwirtschaftliche Nutzung geeigneten Biochar; daher muss dieses von den Betrei-_
-_bernals Abfall entsorgt werden. Die ökologischen Auswirkungen der Produktionskette_
+_bern als Abfall entsorgt werden. Die ökologischen Auswirkungen der Produktionskette_
 _sind positiv, denn die Bilanz ihrer Treibhausgasemissionen und ihres Energieverbrauchs_
-_ist negativ. In der Tat ist die Holzvergasung eine emissionsfreieTechnologie, die alsErsatz_
+_ist negativ. In der Tat ist die Holzvergasung eine emissionsfreie Technologie, die alsErsatz_
 _für umweltschädlichere fossile Quellen eingesetzt werden kann._
 _Das Projekt WOOD-UP schlägt verschiedene Methoden zur Aufwertung der aktuellen_
 _Produktionskette vor. Zunächst können aus der Holzbiomasse vor der Vergasung äthe-_
 _rische Öle extrahiert werden. Die Extraktion ist ein Verfahren mit hohem Energiever-_
-_brauch, aber die Auswirkungen sind nichtso hoch, dass sie zu einer nachteiligen Net-_
+_brauch, aber die Auswirkungen sind nicht so hoch, dass sie zu einer nachteiligen Net-_
 _tobilanz der Produktionskette führen würden. Außerdem kann Biochar als Bodenver-_
 _besserungsmittel in der Landwirtschaft eingesetzt werden, wenn esbestimmten gesetz-_
 _lichen Parametern entspricht. Zu diesem Zweck schlägt das Projekt Wood-Up die Nut-_
@@ -7742,9 +8325,9 @@ _zung einer „verbesserten“ Technologie vor, mit der die Erzeugung eines für
 _wirtschaftliche Nutzung geeigneten Biochar möglich wäre. Der Lebenszyklusanalyse_
 _zufolge verbessert die neue Technologie die Nettobilanz der Produktionskette und die_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
-_VerteilungvonBiochar im Boden erhöht den Kohlenstoffbestand; dadurch könnten we-_
+_Verteilung vonBiochar im Boden erhöht den Kohlenstoffbestand; dadurch könnten we-_
 _niger synthetische Düngemittel und weniger Wasser zu Bewässerungszwecken einge-_
 _setzt werden, wodurch sich die Nettobilanz zusätzlich verbessern würde._
 _Aktuell werden in Südtirol jedoch jährlich 1.250 t Biochar produziert, eine ausreichende_
@@ -7761,7 +8344,7 @@ _Ebene der Provinz umgesetzt werden kann._
 
 #### 1. Einleitung
 
-_Die Lebenszyklusanalyse (englisch: Life Cycle Assessment, LCA)ist ein Instru-_
+_Die Lebenszyklusanalyse (englisch: Life Cycle Assessment, LCA) ist ein Instru-_
 _ment zur Evaluierung der Auswirkungen des Produktionsprozesses eines_
 _Produkts oder einer Dienstleistung auf Umwelt und Gesundheit. Die LCA_
 _wird mit Methoden durchgeführt, die auf internationalen Standards beruhen_
@@ -7770,19 +8353,20 @@ _für Unternehmen und Politiker dienen, wenn diese verschiedene Szenarien_
 _evaluieren müssen, um die nachhaltigsten Entscheidungen treffen zu können_
 _(Guinée et al., 2011)._
 _Im Rahmen des Projekts Wood-Up wurde die Lebenszyklusanalyse eingesetzt,_
-_um die Umweltwirkungen der aktuellen SüdtirolerHolzvergasungsprodukti-_
+_um die Umweltwirkungen der aktuellen Südtiroler Holzvergasungsprodukti-_
 _onskette durch Untersuchung ihres Energieverbrauchs und ihrer klimaverän-_
 _dernden Treibhausgasemissionen zu evaluieren. Die Analyse der Produktions-_
 _kette beginnt bei der Erzeugung von Holzbiomasse und reicht bis hin zur Ent-_
 _sorgung der Rückstände aus der Vergasung durch Abgabe des Biochars an_
-_Mülldeponien,seine Verbrennung oder seineNutzung anstelle von Zement zur_
+_Mülldeponien, seine Verbrennung oder seineNutzung anstelle von Zement zur_
 _Produktion von Beton. Derzeit entspricht das in den Südtiroler Anlagen er-_
 _zeugte Biochar nicht den gesetzlichen Parametern für eine Nutzung in der_
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
-_Landwirtschaft (Amtsblatt 186, 12.08.2015);es kann daher nicht als Bodenver-_
+
+_Landwirtschaft (Amtsblatt 186, 12.08.2015); es kann daher nicht als Bodenver-_
 _besserungsmittel eingesetzt werden._
 _Auf Grundlage der im Rahmen des Projekts Wood-Up gewonnenen Daten_
 _wurde die aktuelle Produktionskette daher mit einer möglichen optimierten_
@@ -7796,7 +8380,7 @@ _lyse und die auf Ebene der Provinz erzielten Resultate beschrieben._
 _Die Produktionskette der Holzvergasung und die Nutzung von Biochar auf_
 _landwirtschaftlichen Böden wurde in der Vergangenheit bereits untersucht_
 _(Hamedani et al., 2019; Ibarrola et al., 2012; Lugato et al., 2013; Roberts et al.,_
-_2010). VorKurzem haben Matustík und seine Kollegen (2020) die Ergebnisse_
+_2010). Vor Kurzem haben Matustík und seine Kollegen (2020) die Ergebnisse_
 _von 27 zwischen 2011 und 2019 veröffentlichten Arbeiten analysiert, in denen_
 _Biochar aus der Pyrolyse auf landwirtschaftlichen Böden eingesetzt wurde;_
 _dabei machten sie die Schwierigkeit deutlich, die Ergebnisse miteinander zu_
@@ -7805,23 +8389,23 @@ _len Einheiten innerhalb des Systems und der verwendeten Technologien._
 _Hammond und seine Kollegen (2011) haben bewiesen, dass die Pyrolyse in_
 _der Stromerzeugung zwar weniger effizient als die Vergasung ist, dafür aber_
 _einen stärkeren Rückgang der CO2-Emissionen gewährleisten würde, da sie_
-_eine größere Menge Biochar proEinheit des Ausgangsmaterials erzeugt; dabei_
+_eine größere Menge Biochar pro Einheit des Ausgangsmaterials erzeugt; dabei_
 _wird angenommen, dass 68 % des Kohlenstoffs des auf dem Boden eingesetz-_
 _ten Biochar für mindestens 100 Jahre fest im Boden verbleiben. Bei gleichem_
 _Feedstock hat sich die Vergasung jedoch im Vergleich mit der Pyrolyse als_
 _effizienter für die Energieerzeugung (Ibarrola et al., 2012) und gleichzeitig als_
 _nachhaltiger gegenüber einer kompletten Verbrennung der Biomasse erwie-_
 _sen (Nguyen et al., 2013). Die große Zahl variabler Faktoren, durch die sich_
-_die Produktionsketten „Biomasse - energetische Umwandlung- Bestim-_
+_die Produktionsketten „Biomasse - energetische Umwandlung - Bestim-_
 _mungszweck des Kohlenstoffrückstands“ kennzeichnen, machen eine Evalu-_
 _ierung der Umweltwirkungen mit LCA für jede Produktionskette, die in Be-_
 _tracht gezogen werden soll, erforderlich (Matustik et al., 2020). Aus diesem_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _Grund war es erforderlich, eine Lebenszyklusanalyse im Rahmen des Projekts_
 _Wood-Up zu erstellen; dazu wurden hauptsächlich die Daten der verschiede-_
-_nen Projektpartnerder einzelnen Phasen der Produktionskette verwendet._
+_nen Projektpartner der einzelnen Phasen der Produktionskette verwendet._
 _Mit einer derart spezifischen LCA lässt sich ein realistisches Bild der aktuellen_
 _Situation zeichnen und eine Evaluierung der konkreten Alternativen für die_
 _Szenarien durchführen._
@@ -7833,7 +8417,7 @@ _dernde Emissionen gekennzeichnet sind. Die Energieerzeugung aus Biomasse_
 _ist eine erneuerbare Energiequelle, die fossile Brennstoffe ersetzt (European Par-_
 _liament and Council, 2018); gleichzeitig kann die Nutzung von Biochar in der_
 _Landwirtschaft zur Verringerung des Bedarfs an Wasser und synthetischen_
-_Düngemitteln gegenüberdem derin der Provinz stärker verbreiteten agrono-_
+_Düngemitteln gegenüber dem der in der Provinz stärker verbreiteten agrono-_
 _mischen Praktiken beitragen, den Kohlenstoffbestand erhöhen und die vom Bo-_
 _den ausgehenden Treibhausgasemissionen reduzieren (Shaaban et al., 2018)._
 
@@ -7842,7 +8426,7 @@ _den ausgehenden Treibhausgasemissionen reduzieren (Shaaban et al., 2018)._
 _Die LCA für das Projekt Wood-Up wurde mit den international standardisier-_
 _ten Methoden ISO 14040 und 14044 (ISO, 2006a, 2006b) und den vom interna-_
 _tionalen Bezugsleitfaden empfohlenen besten Praktiken für die Erstellung ei-_
-_nes Life CycleAssessment, demILCD Handbook des Joint Research Center_
+_nes Life Cycle Assessment, dem ILCD Handbook des Joint Research Center_
 _(JRC, 2010) durchgeführt; in diesem sind die Definition des Ziels der LCA, die_
 _Bestandsanalyse und die Auswertung der Ergebnisse vorgesehen._
 
@@ -7855,137 +8439,167 @@ _spezifisch auf die Aufwertung der Biomasse durch Extraktion ätherischer Öle_
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
-_vorder energetischen Nutzung und auf die Verwendung des Biochars als Bo-_
+
+_vor der energetischen Nutzung und auf die Verwendung des Biochars als Bo-_
 _denverbesserungsmittel in der Landwirtschaft. Außerdem soll geprüft wer-_
 _den, welchen Einfluss bestimmte Faktoren auf die Nettobilanz der Produkti-_
-_onskettehaben, z. B. die Herkunft der Biomasse und die bei ihrem Transport_
+_onskette haben, z. B. die Herkunft der Biomasse und die bei ihrem Transport_
 _zurückgelegte Entfernung._
 _In der Analyse bewertete Wirkungskategorien sind der Verbrauch fossiler_
-_Energie (kg Öläquivalent) undderKlimawandel (kg CO2-Äquivalent über ei-_
+_Energie (kg Öläquivalent) und der Klimawandel (kg CO2-Äquivalent über ei-_
 _nen Zeitraum von 100 Jahren). Die Umweltwirkungen der einzelnen Prozesse_
 _wurden durch Multiplikation der Emissionsfaktoren mit den Material- und_
 _Energie-Inputs der funktionellen Einheit der LCA berechnet, die in diesem_
-_Fall 1 Tonne Biochar entspricht. Nähere Einzelheiten zuden Berechnungen_
+_Fall 1 Tonne Biochar entspricht. Nähere Einzelheiten zu den Berechnungen_
 _sind in Abschnitt 2.3 dieses Kapitels aufgeführt._
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 ```
 Abb. 1
 ```
+
 –
 In der LCA untersuchte Produktionskette
 
 ```
-Produktion vonRundholz undHackschnitzeln
+Produktion von Rundholz und Hackschnitzeln
 (in Südtirol,
 Österreich und
 Slowenien)
-Produktion vonHolzpellets (in
+Produktion von Holzpellets (in
 ```
+
 ```
 Südtirol,
 Österreich und
 ```
+
 ```
 Polen)
 ```
+
 ```
-Transport derBiomasse mitLkw und Bahn(innerhalb vonSüdtirol und aus
-Österreich,Polen undSlowenien)Sensibilitäts
+Transport der Biomasse mit Lkw und Bahn(innerhalb von Südtirol und aus
+Österreich, Polen und Slowenien)Sensibilitäts
 ```
+
 -
 
 ```
 analyse
 ```
+
 ```
-Vergasung(aktuelle
+Vergasung (aktuelle
 Technologien)
-Vergasung(verbesserteTechnologien)
+Vergasung (verbesserte Technologien)
 ```
+
 ```
 Extraktion hochwertiger
 Verbindungen aus
 ```
+
 ```
-Rundholz undHackschnitzeln
+Rundholz und Hackschnitzeln
 Soxhlet
 ```
+
 -Extraktion (SOX)
 
 ```
-Transport zur Biocharzur EntsorgungsanlageSensibilitätsanalyse Transport der Biocharzu den AgrarbödenSensibilitätsanalyse
+Transport zur Biochar zur Entsorgungsanlage Sensibilitätsanalyse Transport der Biochar zu den AgrarbödenSensibilitätsanalyse
 ```
+
 ```
 Verteilung der
-Biochar im WeinbergVerteilung der Biocharin der Obstplantage
+Biochar im WeinbergVerteilung der Biochar in der Obstplantage
 ```
+
 ```
 Extraktion hochwertiger
 Verbindungen aus
 ```
+
 ```
-Rundholz undHackschnitzelnExtraktion mit
+Rundholz und HackschnitzelnExtraktion mit
 überkritischen Fluiden (SFE)
 ```
+
 ```
 Ätherische Öle
 ```
+
 ```
 Sonstige Abfälle (außer
 Biochar) (Asche, Teer usw.)
 ```
+
 ```
 Transport zur
 EntsorgungsanlageSensibilitätsanalyse
 ```
+
 ```
 Asche für die Produktion
 ```
+
 ```
 VerbrennungMülldeponievon Zement
 ```
+
 ```
 Energie Energie
 ```
+
 ```
-EnergieEnergie ausDeponiegasRohstoffe für dieProduktion vonBeton Nutzen fürLandwirtschaftund Umwelt
+EnergieEnergie aus DeponiegasRohstoffe für die Produktion von Beton Nutzen für Landwirtschaft und Umwelt
 ```
+
 ```
 Gesamte Biomasse ohne Extraktion
 ```
+
 ```
 hochwertiger Verbindungen
 Holzpellets (nicht zur
 ```
+
 ```
-Aktuelle oderverbesserte
+Aktuelle oder verbesserte
 Technologien (je nach
 ```
+
 ```
 Szenario)
 ```
+
 ```
-Wenn die Biochar nicht in derLandwirtschaft genutzt wird
+Wenn die Biochar nicht in der Landwirtschaft genutzt wird
 ```
+
 ```
 Je nach Szenario
 Anwendung in Weinberg
 ```
+
 ```
 oder Obstplantage
 ```
+
 ```
 Wenn die Biochar in der
 Landwirtschaft genutzt wird
 ```
+
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _Die untersuchte Produktionskette ist im Flussdiagramm der Abbildung1 dar-_
 _gestellt, wo die Prozesse beschrieben werden, die zum System der aktuellen_
-_Südtiroler Produktionskette (Szenario 1) undder von 6 Alternativszenarien_
+_Südtiroler Produktionskette (Szenario 1) und der von 6 Alternativszenarien_
 _gehören._
 _Die Blöcke des Diagramms stellen Prozesseinheiten dar, während die Pfeile_
 _die Ströme der Biomasseundanderer Arten von Material oder Energie zeigen._
@@ -7993,63 +8607,64 @@ _Die verschiedenen Farben und die mit den Blöcken und Pfeilen verbundenen_
 _Texte kennzeichnen parallel laufende Prozesse und Ströme, d. h. jede Farbe_
 _stellt eine Alternative dar, die je nach untersuchtem Szenario eintritt oder_
 _nicht, und nicht eine Teilung des Material-/ Energiestroms innerhalb eines be-_
-_stimmten Szenarios. Gleichfarbige Pfeilestehen für Material-/ Energieströme_
+_stimmten Szenarios. Gleichfarbige Pfeile stehen für Material-/ Energieströme_
 _zum nächsten Prozess (Abb. 1)._
 
 _Im Folgenden werden die sieben untersuchten Szenarien vorgestellt:_
 
-- Szenario 1– Aktuelle Situation: Evaluierung der aktuell in Südtirol ge-
+- Szenario 1 – Aktuelle Situation: Evaluierung der aktuell in Südtirol ge-
 nutzten Vergasungsprozesse: die aktuelle Art und Herkunft der verwen-
-deten Biomasse, keineExtraktion von hochwertigen Verbindungen aus
+deten Biomasse, keine Extraktion von hochwertigen Verbindungen aus
 der Biomasse vor der Vergasung, die aktuellen Technologien der Verga-
 sungsanlagen, Entsorgung aller aus der Vergasung stammenden Produkte
-(Kohle, Asche, Teer) ohne Einsatzvon Biochar auf landwirtschaftlichen
+(Kohle, Asche, Teer) ohne Einsatz von Biochar auf landwirtschaftlichen
 Böden.
-- Szenario 2– Aktuelle Situation + Extraktion von hochwertigen Verbindun-
-gen:ein Szenario mit den gleichen Voraussetzungen wie im Szenario 1,
-aber mit Extraktion hochwertiger Verbindungen (ätherische Öle) ausder
+- Szenario 2 – Aktuelle Situation + Extraktion von hochwertigen Verbindun-
+gen: ein Szenario mit den gleichen Voraussetzungen wie im Szenario 1,
+aber mit Extraktion hochwertiger Verbindungen (ätherische Öle) aus der
 Holzbiomasse vor der Vergasung. Aus dem Vergleich dieses Szenarios mit
 dem Szenario 1 kann die Wirkung des Extraktionsprozesses ätherischer
 Öle auf die Emissionen des CO2-Äquivalents und den Verbrauch fossiler
 Energiequellen ermittelt werden. Die Extraktion kann mit der Soxhlet-Me-
 thode oder mit überkritischem Kohlendioxid erfolgen.
-- Szenario 3 – Aktuelle Situation +Verbesserte Vergasung:ein Szenario mit
+- Szenario 3 – Aktuelle Situation + Verbesserte Vergasung: ein Szenario mit
 den gleichen Voraussetzungen wie Szenario 1, aber mit dem Einsatz von
 Vergasungstechnologien, die in der Lage sind, ein für die Nutzung in der
 Landwirtschaft geeignetes Biochar zu produzieren, übereinstimmend mit
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 ```
 den Resultaten des WP 6 des Projekts Wood-Up. Mit diesem Szenario kön-
 nen die Wirkungen der aktuell angewandten Vergasungstechnologien mit
 denen der verbesserten Technologien verglichen werden.
 ```
-- Szenario 4– Aktuelle Situation + Extraktion von hochwertigen Verbindun-
-gen:ein Szenario mit den gleichen Voraussetzungen wie Szenario 3, aber
+
+- Szenario 4 – Aktuelle Situation + Extraktion von hochwertigen Verbindun-
+gen: ein Szenario mit den gleichen Voraussetzungen wie Szenario 3, aber
 mit zusätzlicher Extraktion hochwertiger Verbindungen (ätherische Öle)
 aus der Holzbiomasse vor der Vergasung.
-- Szenario 5 – Verbesserte Vergasung + Anwendung vonBiochar auf land-
+- Szenario 5 – Verbesserte Vergasung + Anwendung von Biochar auf land-
 wirtschaftlichen Böden (Weinberg): ein Szenario mit den gleichen Parame-
-tern wie Szenario 3, aber mit Anwendung vonBiochar in den Weinbergen
+tern wie Szenario 3, aber mit Anwendung von Biochar in den Weinbergen
 Südtirols. Statt entsorgt zu werden kann das Biochar dank der Nutzung
 verbesserter Vergasungstechnologien als Bodenverbesserungsmittel in
 der Landwirtschaft eingesetzt werden. Mit diesem Szenario können die
 Vorteile oder Umweltwirkungen gemessen werden, die entstehen, wenn
-das Biochar auf landwirtschaftlichen Böden eingesetztwird, statt als Ab-
-fall entsorgtzu werden.
+das Biochar auf landwirtschaftlichen Böden eingesetzt wird, statt als Ab-
+fall entsorgt zu werden.
 - Szenario 6 – Verbesserte Vergasung + Anwendung von Biochar auf land-
 wirtschaftlichen Böden (Apfelplantage): ein Szenario mit den gleichen Pa-
-rametern wie Szenario 5, aber mitVerteilungvon Biochar in den Apfel-
+rametern wie Szenario 5, aber mit Verteilung von Biochar in den Apfel-
 plantagen statt in den Weinbergen Südtirols. Dieses Szenario dient zur Er-
 leichterung des Vergleichs der Wirkungen/Vorteile einer Anwendung von
 Biochar in den wichtigsten landwirtschaftlichen Kulturen Südtirols.
 - Szenario 7– Aktuelle Situation + Extraktion von hochwertigen Verbindun-
-gen + AnwendungvonBiochar in der Landwirtschaft: ein Szenario mit den
+gen + Anwendung vonBiochar in der Landwirtschaft: ein Szenario mit den
 gleichen Parametern wie Szenario 5, aber mit zusätzlicher Extraktion
 hochwertiger Verbindungen (ätherische Öle) aus der Holzbiomasse vor
 der Vergasung.
-- Dynamisches Szenario:ein Szenario, das von Mal zu Mal definiert wird, je
+- Dynamisches Szenario: ein Szenario, das von Mal zu Mal definiert wird, je
 nachdem, welche Hypothesen überprüft werden sollen. Das dynamische
 Szenario ist ein nützliches Mittel zur Bewertung der einzelnen Auswir-
 kungen aller Prozesse der Produktionskette und zur Umsetzung der Sen-
@@ -8058,8 +8673,9 @@ sibilitätsanalysen.
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
-_Die LCA wurde mit einemAttributions- und folgenorientierten Ansatz durchge-_
-_führt. Unter dem Attributionsmodell versteht sich eine Analyseder Wirkun-_
+
+_Die LCA wurde mit einem Attributions- und folgenorientierten Ansatz durchge-_
+_führt. Unter dem Attributionsmodell versteht sich eine Analyse der Wirkun-_
 _gen, die mit allen zum untersuchten System gehörigen Prozessen verbunden_
 _sind. Das folgenorientierte Modell hingegen quantifiziert auch die Folgen für_
 _andere Systeme und erweitert so die Grenzen des untersuchten Systems_
@@ -8069,20 +8685,20 @@ _nationalen Energiemix reduzieren, und die Anwendung von Biochar in der_
 _Landwirtschaft kann den Einsatz von Düngemitteln gegenüber der traditio-_
 _nellen Agrarbewirtschaftung verringern._
 
-2.2Bestandsaufnahme des Lebenszyklus (LCI) und LCA
+2.2 Bestandsaufnahme des Lebenszyklus (LCI) und LCA
 Workbook
 
 _Die Bestandsdaten (Life Cycle Inventory, LCI) wurden, soweit möglich, den For-_
 _schungsarbeiten des Projekts Wood-Up entnommen. Diese Primärdaten lie-_
 _fern möglichst genaue Werte für die Studie der Produktionskette. Sofern die_
 _Daten zur Vervollständigung des Datensatzes nicht vorhanden waren, wurde_
-_auf sekundäre Daten aus der DatenbankEcoinvent 3 (Version 3.1, aktualisiert_
+_auf sekundäre Daten aus der Datenbank Ecoinvent 3 (Version 3.1, aktualisiert_
 _auf 2014 (Wernet et al., 2016) und aus der einschlägigen wissenschaftlichen_
-_Literatur zurückgegriffen. Die Bestandsaufnahme (LCI) wurde mitMicrosoft_
-_Excelerstellt._
-_Eine Reihe von Excel-Blättern wurde in eine Datei(LCA Workbook) integriert,_
-_um die LCI mit den Emissionen jedes Prozessesder Produktionskette zu ver-_
-_einen; diese wurden mitder Software SimaPro, Version 8.0.5.13 berechnet_
+_Literatur zurückgegriffen. Die Bestandsaufnahme (LCI) wurde mit Microsoft_
+_Excel erstellt._
+_Eine Reihe von Excel-Blättern wurde in eine Datei (LCA Workbook) integriert,_
+_um die LCI mit den Emissionen jedes Prozesses der Produktionskette zu ver-_
+_einen; diese wurden mit der Software SimaPro, Version 8.0.5.13 berechnet_
 _(PRé Sustainability, Amersfoort, Netherlands, 2018). Auf diese Weise erhielt_
 _man die Ergebnisse der LCA in Bezug auf die Wirkungen._
 _Für andere Prozesse wie die Anwendung von Biochar auf landwirtschaftli-_
@@ -8092,22 +8708,22 @@ _weltforschung (IFEU) im Jahr 2015 entwickelten BioGrace Tool (Version 4d)_
 _gewonnen; das Tool ermöglicht die Harmonisierung der Berechnungen zu_
 _den Treibhausgasemissionen der Biotreibstoffe (www.biograce.net)._
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _Die Bestandsaufnahme (Life Cycle Inventory, LCI) und die Lebenszyklusana-_
-_lyse (Life Cycle Assessment, LCA)wurden für jedes in Abschnitt 2.1 aufge-_
+_lyse (Life Cycle Assessment, LCA) wurden für jedes in Abschnitt 2.1 aufge-_
 _führte Szenario einzeln erstellt._
 
 2.3 Daten und Hypothesen
 _Die für die LCA verwendeten Daten sind eine Mischung aus Primärdaten, die_
-_von den Partnern des Projekts Wood-Upproduziert wurden, und Sekundär-_
+_von den Partnern des Projekts Wood-Up produziert wurden, und Sekundär-_
 _daten aus der Datenbank Ecoinvent 3 und der Literatur. Die Quellen und Hy-_
-_pothesen, auf denen das LCAWorkbook für die verschiedenen Prozesse der_
+_pothesen, auf denen das LCA Workbook für die verschiedenen Prozesse der_
 _Produktionskette beruht, werden im Folgenden erläutert._
 
 2.3.1 Produktion der Biomasse
 _Die Produktion von Holzbiomasse für die Holzvergasung umfasst die Pro-_
-_duktion von Rundholz undHackschnitzeln aus dem Südtirol und dem Aus-_
+_duktion von Rundholz und Hackschnitzeln aus dem Südtirol und dem Aus-_
 _land (Österreich und Slowenien) sowie die Produktion von Holzpellets aus_
 _dem Ausland (Österreich und Polen). Diese drei Arten von Biomasse werden_
 _zu den Vergasungsanlagen befördert, wo sie bei Bedarf zu einer für die Nut-_
@@ -8119,18 +8735,19 @@ _masse aus Rottannen (Picea abies (L.) H. Karst., 1881) stammt, da aus den Fra-_
 _gebögen, die den Betreibern der Vergasungsanlagen vorgelegt wurden, her-_
 _vorging, dass diese Holzart in Südtirol die breiteste Anwendung findet._
 _Die Anteile der verwendeten Arten von Biomasse verteilen sich gemäß den_
-_Fragebögen wie folgt: 69 % Rundholz oder Hackschnitzel (davon 50% Rund-_
+_Fragebögen wie folgt: 69 % Rundholz oder Hackschnitzel (davon 50 % Rund-_
 _holz und 50 % Hackschnitzel) und 31 % Pellets._
 _85 % des Rundholzes und der Hackschnitzel stammen aus Südtirol und die_
 _übrigen 15 % werden aus dem Ausland importiert (50 % aus Slowenien und_
 _50 % aus Österreich). 50 % der Hackschnitzel stammen aus Sägewerksrück-_
-_ständen und dieübrigen 50 % sind ein primäres Waldprodukt. Alle in Verga-_
+_ständen und die übrigen 50 % sind ein primäres Waldprodukt. Alle in Verga-_
 _sungsanlagen verwendeten Pellets werden aus dem Ausland importiert (90 %_
-_aus Österreich und 10 %aus Polen)._
+_aus Österreich und 10 % aus Polen)._
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _Ausgehend von der funktionellen Einheit der LCA wurde die zur Erzeugung_
 _von 1 Tonne Biochar erforderliche Biomasse-Gesamtmenge rekonstruiert; da-_
 _bei wurden die Inputs, die Outputs und die Daten zum Biomasseverlust in_
@@ -8144,8 +8761,8 @@ _masseverluste in den beiden Extraktionsmethoden zurückzuführen. Nähere_
 _Angaben finden sich im Abschnitt über den Extraktionsprozess (2.3.3.)._
 _Die beschreibenden Prozesse der Biomasseproduktion wurden von der Da-_
 _tenbank Ecoinvent 3 ausgewählt; Die Wahl fiel auf die Daten, die als die bes-_
-_ten Annäherungswertebetrachtet wurden.In denFällen,in denen für das_
-_Südtiroler oderdasitalienische Umfeld keine Daten vorhanden waren, wur-_
+_ten Annäherungswerte betrachtet wurden. In den Fällen, in denen für das_
+_Südtiroler oder das italienische Umfeld keine Daten vorhanden waren, wur-_
 _den Daten ähnlicher Kontexte gewählt. In diesem Fall handelt es sich bei den_
 _ausgewählten Prozessen um die Produktion von Rundholz und Hackschnit-_
 _zeln in der Schweiz aus einer nachhaltigen forstwirtschaftlichen Produktions-_
@@ -8164,7 +8781,7 @@ _die Ziele erneuerbarer Energien in der Europäischen Union)._
 _Die Holzbiomasse wird mit dem Lkw oder Güterzug zur Vergasungsanlage_
 _transportiert. Im Falle der Szenarien, die eine Phase der Extraktion ätherischer_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _Öle umfassen, wurde angenommen, dass diese in der Vergasungsanlage statt-_
 _findet und daher kein weiterer Transport der Biomasse berücksichtigt werden_
@@ -8175,7 +8792,7 @@ _Transports auf Rädern und 50 % auf der Schiene stattfinden. Die Rückreise_
 _des Transportmittels wurde als Leerfahrt gerechnet. Diese Annahme muss_
 _nicht immer zutreffen, ermöglicht aber konservative Schätzungen._
 _Die Streckenlänge wurde nach Herkunftsregion der Biomasse definiert und_
-_mitGoogle Maps (2020) berechnet. Die durchschnittlichen Distanzen für die_
+_mit Google Maps (2020) berechnet. Die durchschnittlichen Distanzen für die_
 _Hin-und Rückfahrt liegen bei 150 km, wenn der Transport innerhalb Südtirols_
 _stattfindet, bei 800 km, wenn die Ladung aus Österreich und Slowenien und_
 _bei 2.400 km, wenn sie aus Polen kommt._
@@ -8184,13 +8801,13 @@ _manuell theoretische Entfernungen in das LCA-Workbook einzufügen, um_
 _deren Wirkung zu evaluieren._
 _Es wurde angenommen, dass während des Transports keine Biomasseverluste_
 _entstehen und somit die transportierten Gesamtmengen in Bezug auf die_
-_funktionelle Einheit mit denim vorherigen Abschnitt (2.3.1) für die Biomasse-_
+_funktionelle Einheit mit den im vorherigen Abschnitt (2.3.1) für die Biomasse-_
 _produktion angegebenen Mengen übereinstimmen._
 _Zur Berechnung der Wirkungen dieser Transportphase wurden auf Ecoinvent_
 _die Prozesse ausgewählt, die sich der Darstellung dieser Phase möglichst weit_
 _annähern. Für den Lkw-Transport wurden Daten für einen Transport in Eu-_
 _ropa, außerhalb der Schweiz, mit 16- bis 32-Tonner der Emissionskategorie_
-_EURO5ausgewählt. Für den Schienentransport wurde als Prozess ein öster-_
+_EURO5 ausgewählt. Für den Schienentransport wurde als Prozess ein öster-_
 _reichischer Warentransport für die Biomasse aus Österreich, Polen und Slo-_
 _wenien ausgewählt, da für die anderen beiden Länder keine spezifischen Da-_
 _ten zur Verfügung standen. Alle Wirkungsdaten umfassen die proportionale_
@@ -8199,18 +8816,19 @@ _Produktion der Transportmittel._
 
 2.3.3 Extraktion hochwertiger Verbindungen vor der Vergasung
 _Die Daten bezüglich der Extraktion von Verbindungen mit hohem kommer-_
-_ziellem Wertaus Holzbiomasse- ätherische Öle - wurden von der Universität_
+_ziellem Wert aus Holzbiomasse - ätherische Öle - wurden von der Universität_
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _Bozen im Rahmen des Projekts Wood-Up gewonnen. Die in Bezug auf die_
 _Soxhlet-Extraktion (SOX) und die Extraktion mit überkritischem Kohlendi-_
 _oxid (CO_[^2]:_) (SFE) gewonnenen Daten wurden auf Ebene kleiner Industrieanla-_
 _gen in Bezug auf die funktionelle Einheit der LCA skaliert. Kapitel 2 dieses_
 _Bandes enthält eine detaillierte Beschreibung der beiden Extraktionsmetho-_
 _den. Die Daten zur SOX beziehen sich auf eine hypothetische Industrieanlage,_
-_die in derLage ist, 20 kg Biomasse auf einmal zu verarbeiten; die Daten zur_
+_die in der Lage ist, 20 kg Biomasse auf einmal zu verarbeiten; die Daten zur_
 _SFE betreffen eine Anlage mit einer Kapazität von 100 kg. Die im Labor ge-_
 _wonnenen Input- und Output-Daten bezüglich der SFE wurden mit Faktor_
 _0,25 skaliert, da es nicht realistisch ist, ein lineares Up-Scaling (1:1) der Input-_
@@ -8219,12 +8837,12 @@ _dustrieanlagen, zum Beispiel, die im Vergleich zu den Laborgerätschaften viel_
 _größer sind, kennzeichnen sich durch eine effizientere Energienutzung._
 _Es wurde angenommen, dass die Extraktion ätherischer Öle direkt am Stand-_
 _ort der Vergasungsanlage stattfindet und daher keine weiteren Transporte er-_
-_forderlich sind,und dassmit Ausnahme der Pellets 100 % der Holzbiomasse_
+_forderlich sind, und dass mit Ausnahme der Pellets 100 % der Holzbiomasse_
 _(Rundholz und Hackschnitzel) dem Prozess der Extraktion ätherischer Öle_
 _unterzogen wird, sofern dieser Prozess in den Analyseszenarien ausgewählt_
 _wurde._
 _Das LGC Workbook bietet auch die Möglichkeit, die Wirkung der Verbreitung_
-_von nur einer Technologie oder einer Mischung beider Technologienzu eva-_
+_von nur einer Technologie oder einer Mischung beider Technologien zu eva-_
 _luieren. In der Annahme, dass beide Technologien in der gesamten Provinz_
 _eingesetzt werden können, wurde ihre Verbreitung auf Grundlage der Effizi-_
 _enz der beiden Prozesse bestimmt, d. h. beruhend auf dem Verhältnis zwi-_
@@ -8238,12 +8856,12 @@ _traktionsanlage und die Wirkung des Anlagenbetriebs an sich wurden auf_
 _Grundlage des Energieverbrauchs oben genannter Prozesse berechnet. Die_
 _Emissionsfaktoren wurden auf Grundlage von Prozessen gewonnen, die mit_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _den untersuchten vergleichbar sind und aus der Datenbank Ecoinvent stam-_
 _men; die Daten wurden dem italienischen Energiemix der Mittelspannung an-_
-_gepasst. DieEmissionen in Verbindungmit der Produktion und Nutzung von_
-_Hexan, dem für die SOX verwendeten Lösungsmittel, und demEthanol, das_
+_gepasst. Die Emissionen in Verbindung mit der Produktion und Nutzung von_
+_Hexan, dem für die SOX verwendeten Lösungsmittel, und dem Ethanol, das_
 _für die SFE genutzt wird, wurden aufgrund mangelnder konsolidierter Daten_
 _ausgeschlossen. Das in den Reaktionen der SFE verwendete CO_[^2]: _wurde nicht_
 _eingerechnet, weil es im Extraktionsprozess recycelt wird._
@@ -8254,7 +8872,7 @@ _für die Anlage (wenn in der Produktionskette keine Extraktion der ätheri-_
 _schen Öle vorgesehen ist) und den Vergasungsprozess mit Erzeugung von_
 _Wärmeenergie, Elektrizität, Biochar, Teer und Asche._
 _In den Fällen, in denen keine Extraktion in der Produktionskette vorgesehen_
-_ist,wurde angenommen, dass 50 % der Biomasse vom Anlagenbetreiber ge-_
+_ist, wurde angenommen, dass 50 % der Biomasse vom Anlagenbetreiber ge-_
 _häckselt werden müssen. Die Emissionen der Häckselung wurden mit einem_
 _Ecoinvent-Prozess für einen dieselbetriebenen mobilen Häcksler berechnet. Es_
 _wurde angenommen, dass sich die Häcksler in der Nähe der Vergasungsan-_
@@ -8270,23 +8888,24 @@ _wurden im Rahmen des WP 5 des Wood-Up-Projekts durch Fragebögen erho-_
 _ben, die an die Anlagenbetreiber ausgegeben wurden (Kapitel 1 dieses Ban-_
 _des). Aufgrund der erhobenen Daten wird die jährliche Produktion von Bio-_
 _char in der Autonomen Provinz Bozen auf 1.249,61 t, verteilt auf 42 Anlagen,_
-_geschätzt. Die Anlagen wurden nach Betriebstyp (Technologie mitFest-_
-_bett/Flüssigbett;up-draft/down-draft), Art der verwendetenBiomasse (Hack-_
+_geschätzt. Die Anlagen wurden nach Betriebstyp (Technologie mit Fest-_
+_bett/Flüssigbett; up-draft/down-draft), Art der verwendeten Biomasse (Hack-_
 _schnitzel/Pellets), Anlagenhersteller, Anlagengröße usw. gegliedert. Da einige_
 _Betreiber die Fragebögen nicht oder nur teilweise beantwortet haben, wurden_
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _die Daten der Fragebögen auf Grundlage der oben genannten Kategorien auf_
 _alle Anlagen der Provinz extrapoliert._
-_Insgesamt existieren im Südtirolzehn Vergasertechnologien und nur eine da-_
-_von sieht am Ende des Prozesses die Verbrennung des Biochars vor(post-_
-_reforming),mit der das Biocharin Asche verwandelt und das Volumen des_
+_Insgesamt existieren im Südtirol zehn Vergasertechnologien und nur eine da-_
+_von sieht am Ende des Prozesses die Verbrennung des Biochars vor (post-_
+_reforming), mit der das Biochar in Asche verwandelt und das Volumen des_
 _Endprodukts deutlich reduziert wird. Das LCA Workbook unterscheidet je-_
 _doch nicht zwischen Asche und Biochar, was mit einer zu hohen Schätzung_
 _der jährlichen Biochar-Produktion für diese Technologie einhergeht._
-_Eine der Anlagen mitPost-reforming-Technologie liefertdie Asche an ein ört-_
+_Eine der Anlagen mit Post-reforming-Technologie liefert die Asche an ein ört-_
 _liches Zementwerk zur Erzeugung von Beton. Fürdiese Lieferung wurden die_
 _Wirkungen des Transports und des Rohstoffersatzes (Zement) geschätzt._
 _Die Prozesse der Holzvergasung in Ecoinvent berechnen die Emissionen in_
@@ -8298,11 +8917,11 @@ _elektrischer Energie verwendet wird. Die mit den einzelnen Technologien er-_
 _zeugten Mengen an Synthesegas (m_[^3]_) und somit die mit diesem verbundenen_
 _Wirkungen wurden auf Grundlage der Produktion von Biochar/Asche und_
 _der oben genannten Ecoinvent-Prozesse geschätzt._
-_Zur Quantifizierung der fossilen Energie, diedurch die mit der Vergasung_
+_Zur Quantifizierung der fossilen Energie, die durch die mit der Vergasung_
 _erzeugte Energie ersetzt wird, wurde die Nettoproduktion von Elektrizität_
 _und Wärme der Anlagen berechnet. Unter Nettoproduktion versteht sich die_
 _von der Anlage erzeugte Energie abzüglich des internen Verbrauchs. Die Da-_
-_ten desinternen Stromverbrauchs wurden von den Anlagenbetreibern ange-_
+_ten des internen Stromverbrauchs wurden von den Anlagenbetreibern ange-_
 _geben, während für die Wärmeenergie ein interner Verbrauch von 25 % ange-_
 _nommen wurde._
 _Die zur Berechnung der Emissionsfaktoren der Vergaser mit Fest- und Flüs-_
@@ -8312,13 +8931,13 @@ _Annäherungswerte betrachtet wurden. Die beiden Prozesse (Festbett und_
 _Wirbelschicht) sind nicht repräsentativ für die Vielfalt der Anlagentechnolo-_
 _gien und -größen, die aus den Fragebögen hervorgehen, wurden aber als eine_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _akzeptable und den Durchschnitt widerspiegelnde Annäherung für die Be-_
 _rechnung der Emissionen betrachtet. Wie es bei den Inputs von biogenem_
 _Kohlenstoff der Fall war, wurden auchdie Outputs von biogenem Kohlenstoff_
 _(das bei der Holzvergasung abgegebene CO_[^2]:_) aus den Ecoinvent-Prozessen_
-_eliminiert, weil die von derBiomasse-Vergasung erzeugte Energie als „emis-_
+_eliminiert, weil die von der Biomasse-Vergasung erzeugte Energie als „emis-_
 _sionsfrei“ betrachtet wird (Richtlinie [EU] 2018/2001 des Europäischen Parla-_
 _ments und des Rates über die Ziele erneuerbarer Energien in der Europäi-_
 _schen Union, 2018)._
@@ -8331,7 +8950,7 @@ _einige Technologien als besser zur Erzeugung von Biochar mit einer niedrigen_
 _Konzentration an Schadstoffen geeignet erwiesen. Auf dieser Grundlage_
 _wurde die Anwendung eines Vergasers mit Festbett vorgeschlagen, der mit_
 _Hackschnitzel beschickt wird, um ein Biochar zu erzeugen, das den gesetzli-_
-_chen Parametern entspricht(Amtsblatt 186, 12.08.2015). Nähere Informatio-_
+_chen Parametern entspricht (Amtsblatt 186, 12.08.2015). Nähere Informatio-_
 _nen finden sich in Kapitel 1 dieses Buchs, das spezifisch der verbesserten Ver-_
 _gasungstechnologie gewidmet ist._
 _In der LCA wurde für den Vergleich der Wirkung der aktuellen mit den ver-_
@@ -8341,7 +8960,7 @@ _Die Energieeffizienz der im Projekt vorgeschlagenen neuen Technologie ist_
 _etwas höher (0,97 kg Biomasse/kWh) als der gewichtete Mittelwert der aktuell_
 _in der Region verbreiteten Technologien (1,01 kg Biomasse/kWh). Das Ver-_
 _hältnis zwischen Biochar und erzeugter Energie beläuft sich hingegen auf_
-_etwa die Hälfte in der aktuellen Technologie (11,56 kg Biochar/kWh)im Ver-_
+_etwa die Hälfte in der aktuellen Technologie (11,56 kg Biochar/kWh) im Ver-_
 _gleich zum gewichteten Mittelwert der derzeit verwendeten Technologien_
 _(21,68 kg Biochar/kWh). Für die Erzeugung einer gleichen Menge an Biochar_
 _(funktionelle Einheit der LCA) in den Szenarien 3-7 würde die mit der Erzeu-_
@@ -8352,6 +8971,7 @@ _erforderlichen Biomasse._
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _Zu Vergleichszwecken wollte man daher auch einen Ansatz entwickeln, bei_
 _dem die Szenarien mit verbesserter Vergasung (Szenario 3-7) mit den Szena-_
 _rien verglichen werden, welche die aktuellen Vergasungstechnologien an-_
@@ -8376,7 +8996,7 @@ _gewandelt. Die Umwandlung beruht auf einem Teergewicht von 1,05 kg/Liter_
 _(Engineering ToolBox (2020) Density of Selected Solids. Online:_
 _https://www.engineeringtoolbox.com/density-solids-d_1265.html)._
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 2.3.7 Entsorgung der bei der Vergasung erzeugten Abfälle
 _In den Szenarien, in denen keine Anwendung des Biochars auf landwirt-_
@@ -8389,36 +9009,37 @@ _che Abfälle, und 6,45 % als Asche für die Produktion von Beton. Es wurde_
 _angenommen, dass 90 % des als EAV 10 01 01 und EAV 10 01 03 eingestuften_
 _Biochar eingeäschert und 10 % auf die Mülldeponie gebracht werden. Einer_
 _der Anlagenbetreiber gab an, dasBiochar für einen bestimmten Zeitraum nach_
-_Österreich ausgeführt zu haben, woes als landwirtschaftliches Bodenverbes-_
+_Österreich ausgeführt zu haben, wo es als landwirtschaftliches Bodenverbes-_
 _serungsmittel genutzt werden konnte. Für den Moment wurde der Export je-_
 _doch eingestellt._
 _Für die Emissionsfaktoren der Verbrennung und der Lagerung auf der Müll-_
 _deponie wurde die Datenbank Ecoinvent herangezogen. Da keine Daten für_
 _Italien zur Verfügung stehen, wurden angemessene Annäherungswerte aus-_
 _gewählt. Für die Verbrennung wurde eine städtische Holzverbrennungsan-_
-_lage in der Schweiz ausgewählt; die Wirkungen wurdendann an den italieni-_
+_lage in der Schweiz ausgewählt; die Wirkungen wurden dann an den italieni-_
 _schen Energiemix angepasst. Als Annäherungsmodell für die Lieferung auf_
 _Mülldeponien wurde die Entsorgung von inerten Abfällen auf einer Müllde-_
 _ponie in der Schweiz gewählt, da es sich bei Biochar um eine ziemlich inerte_
 _Substanz handelt._
 
-2.3.8 Anwendung von Biochar aufAgrarböden
-_Ein alternatives Szenario zur Entsorgung desBiochars besteht in seiner An-_
+2.3.8 Anwendung von Biochar auf Agrarböden
+_Ein alternatives Szenario zur Entsorgung des Biochars besteht in seiner An-_
 _wendung auf den Böden der besonders verbreiteten landwirtschaftlichen Kul-_
 _turen Südtirols. Das ist nur möglich, wenn die im Projekt Wood-Up vorge-_
 _schlagenen verbesserten Vergasungstechnologien verwendet werden und das_
 _Biochar daher den gesetzlichen Vorgaben entspricht. Unter diesen Bedingun-_
 _gen wurde angenommen, dass 100 % des Biochars zur Bodenverbesserung in_
-_der Landwirtschaft genutzt werdenkann. Die Wirkungen dieser Phase der_
+_der Landwirtschaft genutzt werden kann. Die Wirkungen dieser Phase der_
 _Produktionskette wurden separat in zwei verschiedenen Szenarien für Wein-_
 _berge und Apfelplantagen evaluiert. Ein großer Teil der Daten wurde in den_
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
-_Feldversuchender UniversitätBozen und des Versuchszentrums Laimburg in_
+
+_Feldversuchen der UniversitätBozen und des Versuchszentrums Laimburg in_
 _einem Weinberg in der Nähe von Meran (BZ) und in einer Apfelplantage in_
-_Laimburg,Pfatten (BZ) gewonnen._
+_Laimburg, Pfatten (BZ) gewonnen._
 _In diesem Kapitel sind die Ergebnisse für die Anwendung einer Dosis Biochar_
 _von 25 Tonnen pro Hektar aufgeführt. Insbesondere wurde untersucht, wel-_
 _che Wirkung 25 t/ha Biochar auf folgende Aspekte haben:_
@@ -8430,52 +9051,52 @@ _che Wirkung 25 t/ha Biochar auf folgende Aspekte haben:_
 (N2O) und Methan (CH4).
 
 _Die Wirkung von Biochar auf den Einsatz von Düngemitteln wurde auf_
-_Grundlageseiner chemischen Zusammensetzung (verfügbare Mengen an N,_
+_Grundlage seiner chemischen Zusammensetzung (verfügbare Mengen an N,_
 _P und K) und der auf kontrafaktischen Feldern verwendeten Menge an Dün-_
 _gemitteln berechnet; Unter kontrafaktischen Feldern verstehen sich Flächen,_
 _auf denen kein Biochar verteilt wurde und wo die typischen landwirtschaftli-_
 _chen Methoden der Provinz Bozen Anwendung finden. Die Menge der auf_
-_den kontrafaktischen Böden verwendeten Düngemittel (kg/ha)wird in den_
-_Richtlinien derProvinz beschrieben (AGRIOS Arbeitsgruppe für den inte-_
+_den kontrafaktischen Böden verwendeten Düngemittel (kg/ha) wird in den_
+_Richtlinien der Provinz beschrieben (AGRIOS Arbeitsgruppe für den inte-_
 _grierten Obstanbau in Südtirol, HausdesApfels, 2017); Wir haben die der Fel-_
 _der mit durchschnittlichem landwirtschaftlichen Ertrag und über zwei Jahre_
 _alten Anlagen ausgewählt._
 _Die mit synthetischen Düngemitteln verbundenen Emissionsfaktoren beziehen_
-_sich auf Stickstoff, Phosphate (P_[^2]:_O_[^5]:_) und Kaliumoxid (K_[^2]:_O)und wurden mit_
+_sich auf Stickstoff, Phosphate (P_[^2]:_O_[^5]:_) und Kaliumoxid (K_[^2]:_O) und wurden mit_
 _dem Tool BioGrace berechnet (BioGrace-I Version 4d, 2015, www.biograce.net)._
-_Der Beitrag von Biochar zur Kohlenstoffbindung im Bodenwurde auf Grund-_
-_lage des Kohlenstoffgehalts desBiochars(58,9%), der durch Erosion aufgrund_
-_von Wind und Regen verursachten Verluste (28 %, (Major, 2010)) undderZer-_
-_setzungsrate des Biochars berechnet (0,002 %/Jahr (Wang,Xiong, & Kuzy-_
+_Der Beitrag von Biochar zur Kohlenstoffbindung im Boden wurde auf Grund-_
+_lage des Kohlenstoffgehalts desBiochars(58,9 %), der durch Erosion aufgrund_
+_von Wind und Regen verursachten Verluste (28 %, (Major, 2010)) und derZer-_
+_setzungsrate des Biochars berechnet (0,002 %/Jahr (Wang, Xiong, & Kuzy-_
 _akov, 2016)). Die Zersetzungsrate wurde auf einen Zeitraum von 100 Jahren_
 _angewandt. Diese Faktoren zusammen genommen haben eine Evaluierung_
 _der Kohlenstoffspeicherung im Boden ermöglicht, die durch Anwendung von_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
-_1 Tonne Biochar auf dieAgrarböden und folglich durch Nutzung des gesam-_
+_1 Tonne Biochar auf die Agrarböden und folglich durch Nutzung des gesam-_
 _ten in der Provinz erzeugten Biochar erreicht wurde._
 _Die Bewertung der Wirkungen von Biochar auf die vom Boden ausgehenden_
 _Treibhausgasemissionen (N_[^2]:_O und CH_[^4]:_) beruht auf den von der Universität_
 _Bozen im Rahmen des Projekts Wood-Up durchgeführten Feldmessungen_
 _und beziehen sich, was die Weinberge anbelangt, auf die mit 25 t/ha Biochar_
 _verbesserten Parzellen, und, was die Apfelplantagen anbelangt, hingegen auf_
-_Parzellen, die mit 25 t/ha Biochar in Kombination mit 45t/ha Kompost verbes-_
-_sert wurden. Inallen anderen Prozessen der LCA wurde die Wirkung von_
+_Parzellen, die mit 25 t/ha Biochar in Kombination mit 45 t/ha Kompost verbes-_
+_sert wurden. In allen anderen Prozessen der LCA wurde die Wirkung von_
 _Kompost nicht quantifiziert, da dieser außerhalb der Grenzen des Systems_
 _eingeordnet wurde. Die Wirkung des Biochars auf den Kohlenstoffzyklus im_
-_Boden wurde anhand der Datenseines Abbaus und der mit ihm verbundenen_
-_CO_[^2]:_-Emissionen beschrieben. Den Kohlendioxidemissionen infolge einesvom_
+_Boden wurde anhand der Daten seines Abbaus und der mit ihm verbundenen_
+_CO_[^2]:_-Emissionen beschrieben. Den Kohlendioxidemissionen infolge eines vom_
 _Biochar selbst verursachten übermäßigen Abbaus der organischen Bodensub-_
-_stanz,alsodem in früheren Arbeiten (Ventura et al., 2015)beschriebenen so-_
-_genannten„Priming“-Effekt, wurde kein Einfluss zugemessen._
+_stanz, also dem in früheren Arbeiten (Ventura et al., 2015) beschriebenen so-_
+_genannten „Priming“-Effekt, wurde kein Einfluss zugemessen._
 _Die Wirkungen des Biochars auf die vom Boden ausgehenden Treibhaus-_
 _gasemissionen (kg/ha/Jahr) wurden auf Grundlage des Vergleichs mit den_
 _kontrafaktischen Feldern berechnet. Im Weinberg wurde im Laufe der zwei-_
 _einhalbjährigen Versuchsdauer im Durchschnitt ein Anstieg von 6,81 % der_
 _N_[^2]:_O-Emissionen und eine Abnahme von 10,7 % der CH_[^4]:_-Emissionen im Ver-_
 _gleich zu den nicht mit Biochar verbesserten Feldern beobachtet. In der Ap-_
-_felplantage, in der 25t/ha Biochar zusammen mit 45 t/ha Kompost verteilt_
+_felplantage, in der 25 t/ha Biochar zusammen mit 45 t/ha Kompost verteilt_
 _wurden, belief sich der Anstieg der N_[^2]:_O-Emissionen im Durchschnitt auf_
 _74,84 %, während die CH_[^4]:_-Emissionen im Durchschnitt um 13,4 % abgenom-_
 _men haben. Wie bereits gesagt, stellen die vom Boden ausgehenden Treib-_
@@ -8491,6 +9112,7 @@ _Treibhauspotenzial der beiden Gase verwendet (265 bzw. 28 kgCO2eq [IPCC,_
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _Zuletzt evaluiert die LCA die Wirkungen des Biochars auf den Wasserbedarf_
 _der Felder, im Sinne der Emissionen und des Energieverbrauchs, die mit die-_
 _sem Prozess verbunden sind. Die im Südtirol am meisten verwendete Art der_
@@ -8511,13 +9133,13 @@ _Grundlage von Daten aus der Literatur auf 20 % geschätzt (Baronti et al., 2014
 _Hardie et al., 2014; Mukherjee & Lal, 2013; Piccolo et al., 1996; Uzoma et al.,_
 _2011)._
 
-2.3.9 Ersatz vonEnergie/Materialien durch die Vergasung und
+2.3.9 Ersatz von Energie/Materialien durch die Vergasung und
 Abfallentsorgung
 _Die LCA umfasst auch die Berechnung der dank der Energieerzeugung durch_
 _Vergasung und die Nutzung von Asche zur Produktion von Beton vermiede-_
 _nen Emissionen und des vermiedenen Stromverbrauchs. Es wurde angenom-_
 _men, dass das Biochar nicht zu energetischen Zwecken aufgewertet wird,_
-_wennes auf der Mülldeponie entsorgt oder verbrannt wird._
+_wenn es auf der Mülldeponie entsorgt oder verbrannt wird._
 _Auch wurde angenommen, dass die mit der Vergasung (aktuelle oder verbes-_
 _serte Technologie) erzeugte Elektrizität in das nationale Stromnetz eingespeist_
 _wird. Die Emissionsfaktoren der infolge der Vergasung ersetzten Elektrizität_
@@ -8526,11 +9148,11 @@ _scher Mittelspannungsenergie in Italien berechnet._
 _Es wurde hingegen angenommen, dass die erzeugte Wärmeenergie auf loka-_
 _ler Ebene in der Provinz Bozen genutzt wird und die Wärmeenergie ersetzt,_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _die wie folgt erzeugt wird: zu 53 % aus Erdgas, zu 23,56 % mit Biomasse_
-_(Rundholz, Hackschnitzel, Pellets), zu 12,54% durch Fernheizwerke mit Holz-_
-_biomasse, zu 9 % mit Heizölundzu 1,9% durch Solarenergie (Battiston, 2014)._
+_(Rundholz, Hackschnitzel, Pellets), zu 12,54 % durch Fernheizwerke mit Holz-_
+_biomasse, zu 9 % mit Heizöl und zu 1,9 % durch Solarenergie (Battiston, 2014)._
 _Zur Berechnung der Emissionsfaktoren der verschiedenen Energiequellen_
 _wurden möglichst repräsentative Prozesse auf Ecoinvent ausgewählt. Für_
 _Erdgas, Biomasse, Solarwärme und Heizöl wurden die Daten der Schweiz als_
@@ -8538,21 +9160,22 @@ _akzeptable Annäherungswerte betrachtet. Für die Fernheizung mit Biomasse_
 _wurden die Daten einer italienischen KWK-Anlage verwendet. Für die Holz-_
 _biomasse wurden die biogenen Kohlenstoffemissionen aus dem Prozess eli-_
 _miniert, um der Annahme der „emissionsfreien“ Vergasung zu entsprechen._
-_Die Einsparung von Zement für die Produktion von Betondurch Asche aus_
+_Die Einsparung von Zement für die Produktion von Beton durch Asche aus_
 _der Vergasung wurde anhand der Ecoinvent-Emissionsfaktoren eines generi-_
 _schen Zementproduktionsprozesses veranschlagt, der sich nicht auf das lo-_
 _kale Umfeld bezieht. Es wurde angenommen, dass die gesamte durch Verga-_
 _sung erzeugte Asche in die Produktion von Beton einfließt und weder ver-_
-_brannt noch auf der Mülldeponie entsorgtwird._
+_brannt noch auf der Mülldeponie entsorgt wird._
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 #### 3. Ergebnisse und Diskussion
 
 _Im Folgenden sind die Ergebnisse der LCA für die sieben in Abschnitt 2.1 vor-_
 _gestellten Szenarien angegeben. Die Ergebnisse beziehen sich auf die gesamte_
-_Provinz, d. h. es werden die Treibhausgasemissionenangegeben sowie der_
+_Provinz, d. h. es werden die Treibhausgasemissionen angegeben sowie der_
 _Verbrauch fossiler Energiequellen der Produktion, Entsorgung oder Nutzung_
 _in der Landwirtschaft der circa 1.250 Tonnen Biochar, die jedes Jahr in Südtirol_
 _erzeugt werden._
@@ -8564,19 +9187,19 @@ _zeit genutzten Vergasungstechnologien sowie die Entsorgung von Biochar,_
 _Asche und Teer auf Mülldeponien. Nicht im Szenario berücksichtigt werden_
 _die Extraktion von ätherischen Ölen und die Nutzung von Biochar zur Boden-_
 _verbesserung in der Landwirtschaft. Die mit Szenario 1 verbundenen Wirkun-_
-_gen entsprechen-4.220,19t Öläquivalent in Hinblick auf den Verbrauch fossi-_
-_ler Energien und -12.696,04t di CO_[^2]:_eq in Hinblick auf den Klimawandel. Die_
+_gen entsprechen -4.220,19 t Öläquivalent in Hinblick auf den Verbrauch fossi-_
+_ler Energien und -12.696,04 t di CO_[^2]:_eq in Hinblick auf den Klimawandel. Die_
 _genauen Daten der Auswirkungen jeder Phase der Produktionskette sind in_
 _Abbildung 2.dargestellt._
 
-Abb. 2– Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 1
+Abb. 2 – Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 1
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _Die negativen Nettobilanzen beider Wirkungskategorien weisen darauf hin,_
 _dass die aktuell in Südtirol bestehende Produktionskette positive Auswirkun-_
 _gen auf die Umwelt hat. Dieses Resultat ist auf die Erzeugung erneuerbarer,_
-_als emissionsfrei geltenderEnergie durch die Vergasung zurückzuführen_
+_als emissionsfrei geltender Energie durch die Vergasung zurückzuführen_
 _(einziger Posten unter null, Abb. 2), eine Energie, die an Stelle der mit fossilen_
 _Quellen erzeugten Energie tritt, die umweltschädlicher ist. In der Grafik ste-_
 _hen die Werte über null hingegen für den Verbrauch fossiler Energie und die_
@@ -8586,28 +9209,29 @@ _trieb) verbundenen Treibhausgasemissionen._
 
 3.2 Szenario 2 – Aktuelle Situation + Extraktion von
 hochwertigen Verbindungen
-_DiesesSzenario sieht die gleichen Voraussetzungen vor wie Szenario 1, um-_
+_Dieses Szenario sieht die gleichen Voraussetzungen vor wie Szenario 1, um-_
 _fasst aber die Extraktion ätherischer Öle aus der Holzbiomasse vor der Verga-_
 _sung. Aus dem Vergleich dieses Szenario mit Szenario 1 können die Wirkun-_
 _gen des Extraktionsprozesses berechnet werden. Unter der Annahme, dass_
 _ätherische Öle aus 100 % der verwendeten Biomasse extrahiert werden, erge-_
 _ben sich folgende Wirkungen auf Ebene der Provinz: -2.018 t Öläquivalent_
-_und-5.572,34t di CO_[^2]:_eq. Die genauen Daten der Auswirkungen von Szenario_
+_und -5.572,34 t di CO_[^2]:_eq. Die genauen Daten der Auswirkungen von Szenario_
 _2 sind in Abbildung 3 dargestellt._
 
-Abb. 3– Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 2
+Abb. 3 – Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 2
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _Das Hinzufügen des Extraktionsprozesses erhöht den Verbrauch fossiler_
 _Energie und die Auswirkungen der Produktionskette auf den Klimawandel_
 _erheblich und halbiert die negative Nettobilanz gegenüber Szenario 1. Die Ex-_
 _traktion ätherischer Öle erzeugt einen Verbrauch von 2.167,85 t Öläquivalent_
 _und Emissionen von 7.019,7 t di CO_[^2]:_eq. Die Nettobilanz der Produktionskette_
-_bleibt jedoch für beide Wirkungskategorien unterhalb vonnull._
+_bleibt jedoch für beide Wirkungskategorien unterhalb von null._
 _Diese Daten beziehen sich auf eine Mischnutzung der beiden Extraktionstech-_
-_nologien zu folgenden Anteilen: 52 % Soxhlet-Extraktion (SOX) und 48%_
+_nologien zu folgenden Anteilen: 52 % Soxhlet-Extraktion (SOX) und 48 %_
 _Extraktion mit überkritischem CO_[^2]: _(SFE). In diesen Proportionen weist die_
 _SFE-Extraktion mit 1.358,43 t Öläquivalent und 4.398,73 t CO_[^2]:_eq gegenüber_
 _der SOX (610,55 t Öläquivalent und 1.977,03 t CO_[^2]:_eq) bei weitem die größten_
@@ -8624,43 +9248,44 @@ _In diesem Szenario entsprechen die Vorgaben dem des Szenario 1, aber die_
 _Vergasung erfolgt mit der von der Universität Bozen im Rahmen des Projekts_
 _Wood-Up vorgeschlagenen verbesserten Technologie und ermöglicht einen_
 _Vergleich zwischen den Anlagen mit den aktuellen Technologien und den_
-_verbesserten Anlagen.DasSzenario umfasst weder den Prozess der Extrak-_
+_verbesserten Anlagen. Das Szenario umfasst weder den Prozess der Extrak-_
 _tion ätherischer Öle aus der Biomasse noch die Anwendung des Biochars auf_
 _Agrarböden. Die mit 1.250 t Biochar verbundenen Auswirkungen in diesem_
-_Szenario entsprechen -14.028,80 t Öläquivalent und -41.595,68t CO_[^2]:_eq. Die_
+_Szenario entsprechen -14.028,80 t Öläquivalent und -41.595,68 t CO_[^2]:_eq. Die_
 _genauen Daten der Auswirkungen jeder Phase der Produktionskette sind in_
 _Abbildung 4 dargestellt._
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
-Abb. 4– Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 3
+Abb. 4 – Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 3
 
 _Die Ergebnisse zeigen, dass die verbesserte Technologie 3,_[^3]:_-mal höhere Net-_
 _towirkungen hat als der derzeit in Südtirol angewandte technologische Mix_
 _(Szenario 1). Grund dafür ist hauptsächlich das aus der Produktion mit der_
 _neuen Vergasungstechnologie hervorgehende geringere Verhältnis Bio-_
 _char/Energie. Aus diesem Grund fällt die Erzeugung erneuerbarer Energie bei_
-_gleicher Menge anerzeugtem Biochar (1.250t/Jahr, funktionelle Einheit der_
+_gleicher Menge an erzeugtem Biochar (1.250 t/Jahr, funktionelle Einheit der_
 _LCA) deutlich höher aus. Demzufolge ist der Posten „Einsparung fossiler_
 _Energie durch Vergasung“ in Szenario 3 größer (-17.669,_[^09]: _t Öläquivalent und_
 
--52.458,81t CO2eq) als in Szenario 1 (-6.554,09 t Öläquivalent und-19.700,04t
+-52.458,81 t CO2eq) als in Szenario 1 (-6.554,09 t Öläquivalent und -19.700,04 t
 CO2eq).
 
 3.4 Szenario 4 – Verbesserte Vergasung + Extraktion
 hochwertiger Verbindungen
 _Dieses Szenario umfasst die Anwendung der verbesserten Vergasungstechno-_
 _logien und die Extraktion hochwertiger Verbindungen aus der Biomasse. Die_
-_mit 1.250t Biochar verbundenen Auswirkungen entsprechen -9.795,95 t_
-_Öläquivalent und -27.914,24t CO_[^2]:_eq. Die genauen Daten der Auswirkungen_
+_mit 1.250 t Biochar verbundenen Auswirkungen entsprechen -9.795,95 t_
+_Öläquivalent und -27.914,24 t CO_[^2]:_eq. Die genauen Daten der Auswirkungen_
 _von Szenario 4 sind in Abbildung 5 dargestellt._
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
-Abb. 5– Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 4
 
-_Wie im Falledes Vergleichs vonSzenario 2mit Szenario 1 erhöht der Zusatz_
+Abb. 5 – Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 4
+
+_Wie im Falle des Vergleichs von Szenario 2 mit Szenario 1 erhöht der Zusatz_
 _der Extraktion ätherischer Öle aus der Biomasse in Szenario 4 die Auswirkun-_
 _gen der Produktionskette gegenüber dem Szenario, das nur eine verbesserte_
 _Vergasungstechnologie vorsieht (Szenario 3)._
@@ -8677,27 +9302,27 @@ _rem Maße ersetzt._
 Biochar auf Agrarböden (Weinberg)
 
 _DiesesSzenario siehtdie gleichen Voraussetzungen wie Szenario 3 vor, jedoch_
-_ergänzt um die NutzungvonBiochar als Bodenverbesserungsmittel in Wein-_
+_ergänzt um die Nutzung von Biochar als Bodenverbesserungsmittel in Wein-_
 _bergen statt seiner Verbrennung oder Entsorgung auf Mülldeponien. Mit die-_
 _sem Szenario können die Wirkungen der Nutzung von Biochar in der Land-_
-_wirtschaft anstelleseiner aktuellen Entsorgung als Abfall evaluiert werden;_
-_fürseineAnwendung geht man von einer Dosis von 25 t/ha aus. Die mit 1250 t_
+_wirtschaft anstelle seiner aktuellen Entsorgung als Abfall evaluiert werden;_
+_für seineAnwendung geht man von einer Dosis von 25 t/ha aus. Die mit 1250 t_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _Biochar verbundenen Auswirkungen in Szenario 5 entsprechen -14.116,28 t_
-_Öläquivalentund-42.888 t CO_[^2]:_eq. Die genauen Daten der Auswirkungen sind_
+_Öläquivalent und -42.888 t CO_[^2]:_eq. Die genauen Daten der Auswirkungen sind_
 _in Abbildung 6 dargestellt._
 
-Abb. 6– Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 5
+Abb. 6 – Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 5
 
-_Dieses Szenario beruht auf den Daten der verbessertenVergasungstechnolo-_
+_Dieses Szenario beruht auf den Daten der verbesserten Vergasungstechnolo-_
 _gien, weil dieser technologische Fortschritt das Ziel hat, ein für die Nutzung_
 _in der Landwirtschaft geeignetes Biochar zu erzeugen. Die Ergebnisse können_
 _mit Szenario 6 verglichen werden, um die Unterschiede der Auswirkungen_
 _einer Anwendung in Weinbergen und in Apfelplantagen zu erfassen._
 _Die Ergebnisse zeigen, dass die Anwendung von Biochar positive Auswirkun-_
-_gen auf die Umwelt hat: -42,33 t Öläquivalent und -1.158,203t CO_[^2]:_eq. Die po-_
+_gen auf die Umwelt hat: -42,33 t Öläquivalent und -1.158,203 t CO_[^2]:_eq. Die po-_
 _sitive Wirkung auf die Umwelt hängt zum größten Teil mit der Kohlenstoff-_
 _bindung im Boden zusammen und, in geringerem Maße, mit der vermiedenen_
 _Nutzung synthetischer Düngemittel. Der geringere Bewässerungsbedarf auf_
@@ -8710,31 +9335,32 @@ _negative Emissionsbilanz von Szenario 5 hauptsächlich dem Ersatz fossiler_
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _Energie durch erneuerbare Energien aus dem Vergasungsprozess zugeschrie-_
-_ben (-17.669,09t Öläquivalent und-52.458,81t CO_[^2]:_eq)._
+_ben (-17.669,09 t Öläquivalent und -52.458,81 t CO_[^2]:_eq)._
 
 3.6 Szenario 6 – Verbesserte Vergasung + Anwendung von
 Biochar auf Agrarböden (Apfelplantage)
-_Für Szenario 6 geltendie gleichen Voraussetzungen wie in Szenario 5, aber_
-_unter der Annahme, dass das Biocharin den Apfelplantagen statt in den_
+_Für Szenario 6 gelten die gleichen Voraussetzungen wie in Szenario 5, aber_
+_unter der Annahme, dass das Biochar in den Apfelplantagen statt in den_
 _Weinbergen Südtirols verteilt wird. Dieses Szenario erleichtert den Vergleich_
-_zwischen den Auswirkungen/Vorteilen der Anwendungvon Biochar auf ver-_
+_zwischen den Auswirkungen/Vorteilen der Anwendung von Biochar auf ver-_
 _schiedenen Arten von Agrarböden. Die verteilte Dosis beträgt 25 t/ha Biochar_
 _und 45 t/ha Kompost, doch wie bereits gesagt, sind die Wirkungen von Kom-_
 _post nicht Teil dieser LCA, es sei denn, was die vom Boden ausgehenden_
 _Treibhausgasemissionen anbelangt. Die mit 1.250 t Biochar verbundenen Aus-_
-_wirkungen entsprechen-14.178t Öläquivalent und -42.885,7t CO_[^2]:_eq. Die ge-_
+_wirkungen entsprechen -14.178 t Öläquivalent und -42.885,7 t CO_[^2]:_eq. Die ge-_
 _nauen Daten der Auswirkungen von Szenario 6 sind in Abbildung 7 darge-_
 _stellt._
 
-Abb. 7– Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 6
+Abb. 7 – Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 6
 
 _Dieses Szenario weist die geringsten Auswirkungen von allen untersuchten_
 _Szenarien hinsichtlich der Produktionskette auf. Die Ergebnisse sind im Ver-_
 _gleich zu denen der Produktionskette des Weinbergs etwas günstiger in Be-_
 _zug auf den Verbrauch fossiler Energie; Grund dafür ist die größere positive_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _Wirkung der Anwendung von Biochar in der Landwirtschaft (-104,05 t_
 _Öläquivalent). Dieser Unterschied ist darauf zurückzuführen, dass in den_
@@ -8742,15 +9368,15 @@ _kontrafaktischen Apfelplantagen mehr Wasser als in den Weinbergen ver-_
 _wendet wird (circa 4 Millionen l/ha/Jahr gegenüber 1,5 Millionen l/ha/Jahr)_
 _(AGRIOS Arbeitsgruppe für den integrierten Obstanbau in Südtirol, Hausdes-_
 _Apfels, 2017; Beratungszentrum für den Obst- und Weinanbau in Südtirol,_
-_2019) unddaher in den Apfelplantagen mehr mit der Tropfbewässerung ver-_
+_2019) und daher in den Apfelplantagen mehr mit der Tropfbewässerung ver-_
 _bundene Energie eingespart wird als in den Weinbergen (Persönliche Mittei-_
 _lung von Martin Thalheimer, Versuchszentrum Laimburg)._
-_Die Auswirkungen auf die Treibhausgasemissionen fallenin diesem Szenario_
+_Die Auswirkungen auf die Treibhausgasemissionen fallen in diesem Szenario_
 _hingegen etwas schlechter aus (+2,3 t CO_[^2]:_eq) als in Szenario 5, da die Anwen-_
 _dung von Biochar in Verbindung mit Kompost im Vergleich zu den kontra-_
 _faktischen Böden größere Auswirkungen auf die von den Böden ausgehenden_
 _Treibhausgasemissionen verursacht hat (N_[^2]:_O: +6,81 % im Weinberg und_
-_+74,84 % in der Apfelplantage; CH_[^4]:_:-10,7% im Weinberg und -13,4% in der_
+_+74,84 % in der Apfelplantage; CH_[^4]:_: -10,7 % im Weinberg und -13,4 % in der_
 _Apfelplantage). Diese Unterschiede gehen darauf zurück, dass Biochar in der_
 _Apfelplantage in Kombination mit Kompost angewandt wurde. Die anderen_
 _Emissionswerte in Bezug auf die landwirtschaftlichen Prozesse waren in Sze-_
@@ -8759,48 +9385,49 @@ _fällt, es sei denn, was die vom Boden ausgehenden Treibhausgasemissionen_
 _anbelangt._
 
 3.7 Szenario 7 – Verbesserte Vergasung + Extraktion
-hochwertiger Verbindungen + Anwendungvon Biochar in
+hochwertiger Verbindungen + Anwendung von Biochar in
 der Landwirtschaft (Weinberg)
 _Dieses Szenario sieht die gleichen Voraussetzungen vor wie Szenario 5, um-_
 _fasst aber auch die Extraktion ätherischer Öle aus der Holzbiomasse vor der_
 _Vergasung. Die mit diesem Szenario verbundenen Auswirkungen entspre-_
-_chen-9.883,43 t Öläquivalent und-29.206,56 t CO_[^2]:_eq. Die genauen Daten der_
+_chen -9.883,43 t Öläquivalent und -29.206,56 t CO_[^2]:_eq. Die genauen Daten der_
 _Auswirkungen von Szenario 7 sind in Abbildung 8 dargestellt._
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
-Abb. 8– Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 7
 
-_Dieses Szenario untersucht die Auswirkungen dergesamten Produktions-_
+Abb. 8 – Genaue Daten der Auswirkungen jeder Phase der Produktionskette von Szenario 7
+
+_Dieses Szenario untersucht die Auswirkungen der gesamten Produktions-_
 _kette: Extraktion ätherischer Öle vor der Vergasung, Vergasung mit verbes-_
 _serten Technologien und Anwendung von Biochar auf Agrarböden (Wein-_
 _berg). Die Ergebnisse zeigen, dass die Extraktion ätherischer Öle stärkere Aus-_
-_wirkungen erzeugt(4.128,58 t Öläquivalent und 13.368,73 t CO_[^2]:_eq) als die An-_
-_wendungvon Biochar auf Agrarböden kompensieren kann (-42,33 t Öläqui-_
+_wirkungen erzeugt (4.128,58 t Öläquivalent und 13.368,73 t CO_[^2]:_eq) als die An-_
+_wendung von Biochar auf Agrarböden kompensieren kann (-42,33 t Öläqui-_
 _valent und -1.158,03 t CO_[^2]:_eq), was somit zu einer weniger positiven Nettobi-_
 _lanz führt als in Szenario 3, in dem die Auswirkungen der Produktionskette_
 _nur von der Anwendung verbesserter Vergasungstechnologien beeinflusst_
 _werden._
 _Die Bilanz von Szenario 7 liegt dennoch weit unter null._
 _Noch bessere Ergebnisse werden erzielt, wenn man statt dem Mix der beiden_
-_Extraktionstechnologien(SOX und SFE) nur die effizientere und kostengüns-_
+_Extraktionstechnologien (SOX und SFE) nur die effizientere und kostengüns-_
 _tigere Extraktionsmethode (SOX) einsetzt; dadurch ergibt sich eine Ge-_
 _samtnettobilanz von -11.391,13 t Öläquivalent und -34.089,68 t CO_[^2]:_eq. Wenn_
 _das Biochar darüber hinaus in der Apfelplantage statt im Weinberg ange-_
 _wandt wird, erhält man eine Gesamtnettobilanz, die sich leicht von der ande-_
-_ren unterscheidet (-61.71 t Öläquivalent und +2.30t CO_[^2]:_eq)._
+_ren unterscheidet (-61.71 t Öläquivalent und +2.30 t CO_[^2]:_eq)._
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
-3.8 Vergleichder Szenarien
+3.8 Vergleich der Szenarien
 _In Abbildung 9 werden die sieben Szenarien gegenübergestellt._
 
-Abb. 9– Vergleich der Ergebnisse aus den 7 in dieser Arbeit untersuchten Szenarien
+Abb. 9 – Vergleich der Ergebnisse aus den 7 in dieser Arbeit untersuchten Szenarien
 
 _Diese Grafik zeigt, dass die mit circa 1.250 t Biochar verbundenen Wirkungen_
 _der Produktionskette in Bezug auf die Umwelt für alle untersuchten Szenarien_
-_positiv sind (Nettobilanz unter null). Außerdem wurde keinTrade-off zwi-_
+_positiv sind (Nettobilanz unter null). Außerdem wurde kein Trade-off zwi-_
 _schen den beiden Wirkungskategorien beobachtet, d. h. einem geringeren_
 _Verbrauch fossiler Energie entsprechen immer geringere Auswirkungen auf_
 _den Klimawandel._
@@ -8808,10 +9435,10 @@ _Entscheidend für dieses günstige Ergebnis ist der Ersatz fossiler Energie_
 _durch die Vergasung und die Anwendung von Biochar auf Agrarböden. Die_
 _Emissionen hingegen stammen hauptsächlich aus der Extraktion ätherischer_
 _Öle, da diese viel Strom verbraucht, gefolgt von der Produktion und dem_
-_Transport der Biomasse und den vom Vergasungsprozessabhängigen Emis-_
+_Transport der Biomasse und den vom Vergasungsprozess abhängigen Emis-_
 _sionen (ohne Berücksichtigung der biogenen Emissionen), also der mit dem_
 _Häckseln der Biomasse und dem Anlagenbetrieb verbundenen Emissionen._
-_Dieamwenigsten positiven Auswirkungen auf die Umwelt verbucht das Sze-_
+_Die am wenigsten positiven Auswirkungen auf die Umwelt verbucht das Sze-_
 _nario 2 (aktuelle Vergasung + Extraktion ätherischer Öle). Es sollte jedoch da-_
 _rauf hingewiesen werden, dass die mit diesem Prozess verbundenen Auswir-_
 _kungen nicht mit anderen Methoden zur Produktion ätherischer Öle vergli-_
@@ -8820,8 +9447,9 @@ _chen wurden, weil die Analyse ansonsten die Grenzen des Systems gesprengt_
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _hätte. Außerdem gilt zu bedenken, dass sich die Auswirkungen der Extrak-_
-_tionstark verringern, wenn anstelle beider untersuchten Technologien nur die_
+_tion stark verringern, wenn anstelle beider untersuchten Technologien nur die_
 _effizientere und kostengünstigere Extraktionsmethode angewendet würde_
 _(SOX)._
 _Die LCA hat außerdem gezeigt, dass die Auswirkungen des Transports von_
@@ -8831,9 +9459,9 @@ _lässigbar geringe Auswirkungen haben._
 _Die Nettobilanz der Szenarien ändert sich, wenn nicht mehr angenommen_
 _wird, dass das Biochar unverändert bleibt, sondern dass die Energieerzeu-_
 _gung der Anlagen konstant bleibt (Abb. 10). Diese Analyse wurde durchge-_
-_führt, weil die Szenarien 3-_[^7]:_– da die vom Projekt Wood-Up vorgeschlagene_
+_führt, weil die Szenarien 3-_[^7]: _– da die vom Projekt Wood-Up vorgeschlagene_
 _verbesserte Technologie ein geringeres Verhältnis von Biochar zu erzeugter_
-_Energie aufweist als derDurchschnitt der aktuell in Südtirol angewandten_
+_Energie aufweist als der Durchschnitt der aktuell in Südtirol angewandten_
 _Technologien – zur Erzeugung des aktuell in der Provinz produzierten Bio-_
 _char eine doppelte Menge an Biomasse erfordern würden, was eine im Ver-_
 _gleich zu den Szenarien 1 und 2 (Abbildung 9) höhere Energieproduktion zur_
@@ -8844,7 +9472,7 @@ _schneidende politische Entscheidungen erfordern würden._
 _Abbildung 10 zeigt daher den Vergleich zwischen Szenarien für den Fall, in_
 _dem die Anwendung neuer verbesserter Technologien nicht zu einer höheren_
 _Energieerzeugung führt. Auf die Szenarien 3-7 wurde daher das gleiche Ver-_
-_hältnis von Biochar zu erzeugter Energie angewandtwie in den Szenarien 1_
+_hältnis von Biochar zu erzeugter Energie angewandt wie in den Szenarien 1_
 _und 2._
 _Auch wenn sie in Bezug auf die Energieerzeugung normalisiert wurden, ha-_
 _ben die vorgeschlagenen Szenarien jedoch eine negative Nettobilanz und so-_
@@ -8853,7 +9481,7 @@ _sungstechnologie, mit der ein für die Landwirtschaft geeignetes Biochar er-_
 _zeugt werden kann, bleiben offensichtlich (Szenarien 3-7), wenn auch weniger_
 _ausgeprägt als in der vorherigen Darstellung (Abb. 9)._
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 Abb. 10 – Vergleich der Ergebnisse der 7 in dieser Arbeit untersuchten Szenarien unter der
 Annahme, dass die Energieerzeugung der Vergasungsanlagen konstant bleibt
@@ -8871,7 +9499,7 @@ _die LCA auf einem Mix aus Daten beruht, die im Rahmen des Projekts erhoben_
 _wurden, sowie aus Daten der Datenbank Ecoinvent und der Literatur, muss_
 _der Einfluss evaluiert werden, den die dieser Auswahl der Daten zugrunde_
 _liegenden Hypothesen auf die untersuchten Wirkungen haben._
-_Eine Sensibilitätsanalysewurde in Bezug auf die Entfernung des Transports_
+_Eine Sensibilitätsanalyse wurde in Bezug auf die Entfernung des Transports_
 _der Biomasse durchgeführt, da ein großer Teil dieser Biomasse aus dem Aus-_
 _land eingeführt wird, was mit erheblichen Emissionen verbunden ist. Wenn_
 _wir zum Beispiel annehmen, dass in Szenario 1, dem aktuellen Szenario also,_
@@ -8879,12 +9507,13 @@ _die gesamte Biomasse aus Polen importiert wird (Entfernung: 2.400 km, Hin-_
 _und Rückfahrt) und nicht aus Südtirol (150 km Entfernung, Hin- und Rück-_
 _fahrt), Österreich und Slowenien (800 km Entfernung, Hin- und Rückfahrt),_
 _dann würden die Auswirkungen des Transports von 809,64 t Öläquivalent_
-_und 2.353,9t CO_[^2]:_-Äquivalent auf 7.512,39 t Öläquivalent und 21.059,43 t_
+_und 2.353,9 t CO_[^2]:_-Äquivalent auf 7.512,39 t Öläquivalent und 21.059,43 t_
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
-_CO_[^2]:_eq ansteigen. Folglich würde die Nettobilanz der Produktionskette von-_
+
+_CO_[^2]:_eq ansteigen. Folglich würde die Nettobilanz der Produktionskette von -_
 _4.220,19 t Öläquivalent und -12.696,04 t CO_[^2]:_eq auf 2.484,6_[^8]: _t Öläquivalent und_
 _6.015,89 t CO_[^2]:_eq klettern und somit nicht mehr emissionsfrei sein. Das be-_
 _weist, dass der Transport der Biomasse ein wichtiger, zu berücksichtigender_
@@ -8904,21 +9533,21 @@ _Leerfahrt antreten. Eine Veränderung dieser Voraussetzungen kann auch die_
 _Auswirkungen des Transports erheblich verändern. In jedem Fall liefern diese_
 _Hypothesen konservative Schätzungen, denn es ist wahrscheinlich, dass zu-_
 _mindest ein Teil der aus dem Ausland kommenden LKWs auf der Rückfahrt_
-_eine weitereLadung transportiert._
+_eine weitere Ladung transportiert._
 _Neben dem Transport der Biomasse ist die Extraktion hochwertiger Verbin-_
 _dungen aus der Holzbiomasse der Prozess mit dem größten Nettoverbrauch_
 _fossiler Energie und den meisten klimaverändernder Emissionen. Wie bereits_
-_gesagt, beruhendie Berechnungen für diesen Prozess auf Labordaten, die auf_
+_gesagt, beruhen die Berechnungen für diesen Prozess auf Labordaten, die auf_
 _industriellen Maßstab angepasst wurden. Die mit dieser Art von Up-Scaling_
 _verbundene Unsicherheit kann die Endergebnisse der LCA jedoch erheblich_
 _beeinflussen; es wäre daher wünschenswert, wenn auf industrieller Ebene va-_
 _lidierte Daten für eine genauere und realistischere Beschreibung der Extrak-_
 _tionsanlagen verwendet werden könnten, umso mehr weil diese für die ge-_
 _samte zur Produktion der funktionellen Einheit erforderlichen Biomasse be-_
-_rechnet werden (für jede Tonnedeserzeugten Biochar sind 34,62 t Biomasse_
+_rechnet werden (für jede Tonne des erzeugten Biochar sind 34,62 t Biomasse_
 _für die Soxhlet-Extraktion und 34,52 t für die SFE-Extraktion erforderlich);_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _eventuelle Ungenauigkeiten resultieren daher in der LCA amplifiziert. In je-_
 _dem Fall ist es unwahrscheinlich, dass eine größere Genauigkeit hinsichtlich_
@@ -8927,8 +9556,8 @@ _veränderten Nettobilanz führen würde, wenn man berücksichtigt, dass sich_
 _die vermiedenen Emissionen der Vergasung sehr viel stärker auswirken._
 _Den größten Beitrag zur Nettobilanz der Produktionskette leistet der Ersatz_
 _elektrischer Energie (italienischer Mix) und Wärmeenergie (in Südtirol: Erd-_
-_gas, andere Quellen für Biomasse,Solarwärme und Heizöl) durch die mit der_
-_Vergasung der Holzbiomasseerzeugte Bioenergie. Die den Vergasungspro-_
+_gas, andere Quellen für Biomasse, Solarwärme und Heizöl) durch die mit der_
+_Vergasung der Holzbiomasse erzeugte Bioenergie. Die den Vergasungspro-_
 _zessen zugrunde gelegten Hypothesen könnten die Gesamtauswirkungen der_
 _LCA erheblich beeinflussen._
 _Der erhebliche Beitrag der Vergasung zur Nettobilanz der LCA ist das Ergeb-_
@@ -8939,10 +9568,10 @@ _Luft beseitigte Menge an CO_[^2]: _kompensiert werden. Diese Annahme führt_
 _dazu, dass die mit 1 m_[^3] _Synthesegas verbundenen Emissionen 0,006 kg CO_[^2]:_eq_
 _entsprechen, während sie im Falle einer Berücksichtigung der biogenen CO_[^2]:_-_
 _Emissionen aus der vergasten Biomasse 0,378 kg CO_[^2]:_eq entsprechen würden._
-_Diese für die Nettobilanz der LCA entscheidende Annahmeist mit den euro-_
+_Diese für die Nettobilanz der LCA entscheidende Annahme ist mit den euro-_
 _päischen Vorschriften konform, welche die Ziele der Union für erneuerbare_
 _Energien festlegen (Europäische Kommission, 2019; Europäisches Parlament_
-_und Europarat, 2018). Wenn man beschließen würde, einenTeil der biogenen_
+_und Europarat, 2018). Wenn man beschließen würde, einen Teil der biogenen_
 _CO_[^2]:_-Emissionen in die Analyse einzubeziehen, würde der Ersatz der umwelt-_
 _schädlichen fossilen Energiequellen trotzdem zu einer für die Umwelt vorteil-_
 _haften Bilanz führen._
@@ -8950,11 +9579,12 @@ _haften Bilanz führen._
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 #### 4. Perspektiven
 
 _Aus der durchgeführten Lebenszyklusanalyse geht hervor, dass die Nutzung_
 _der Holzvergasung als Energiequelle eine erfolgreiche Strategie für einen Bei-_
-_trag zur Eindämmungder Klimawandels sein kann, sei es unter Anwendung_
+_trag zur Eindämmung der Klimawandels sein kann, sei es unter Anwendung_
 _der derzeit in der Region verbreiteten Technologien, sei es unter Nutzung_
 _einer neuen, „verbesserten“ Technologie wie vom Projekt Wood-Up_
 _empfohlen. Die Anwendung einer neuen Technologie würde einerseits eine_
@@ -8974,17 +9604,17 @@ _eigneten Eigenschaften, ermöglichen würde, und unter Annahme einer Dosis_
 _von 25 t/ha, könnten jedes Jahr nur 50 Hektar Boden verbessert werden. Wenn_
 _man bedenkt, dass es in Südtirol 5.500 Hektar Weinberge und 19.000 Hektar_
 _Apfelplantagen gibt (Della Chiesa et al., 2019), würde die Verteilung von Bio-_
-_char allein auf der Gesamtfläche der Apfelplantagen 110Jahre erfordern._
+_char allein auf der Gesamtfläche der Apfelplantagen 110 Jahre erfordern._
 _Würde die Nutzung von Biochar seitens der landwirtschaftlichen Betriebe die_
 _im Projekt Wood-Up dargestellten positiven Wirkungen bestätigen, wäre ein_
 _kurzfristiger Anstieg der Biochar-Nachfrage möglich; das Biochar müsste_
-_dann in Erwartung der Installation der Anlagen jüngster Generationnach_
+_dann in Erwartung der Installation der Anlagen jüngster Generation nach_
 _Südtirol importiert werden. Andererseits, wenn der Biochar-Markt deutlich_
 _wachsen würde, könnten sich auch Biochar-Produktionsanlagen als primäres_
 _Produkt in der Region verbreiten, und nicht nur als Nebenprodukt der Ener-_
 _gieerzeugung._
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _Man sollte nicht unterschätzen, dass die Verbreitung der auf der neuen Tech-_
 _nologie beruhenden Vergasungsanlagen zu einer größeren Nachfrage nach_
@@ -9000,7 +9630,7 @@ _kam. Die Klimamodelle lassen eine größere Häufigkeit extremer Wetterereig-_
 _nisse vorhersehen (Seneviratne et al., 2012) und somit auch die Notwendig-_
 _keit, einen Absatzmarkt für die Holzbiomasse zu finden. Zudem würden re-_
 _gionale Quellen der Versorgung mit Biomasse eine weitere Verbesserung der_
-_Nettobilanzder im Projekt Wood-Up untersuchten Produktionskette ermög-_
+_Nettobilanz der im Projekt Wood-Up untersuchten Produktionskette ermög-_
 _lichen, wie die Sensibilitätsanalyse zeigt._
 _Was die Extraktion ätherischer Öle aus der Biomasse vor der Vergasung an-_
 _belangt, hat die LCA den großen Energieverbrauch dieses Prozesses verdeut-_
@@ -9009,12 +9639,12 @@ _giekosten verbunden und die im Projekt Wood-Up vorgeschlagene Extraktion_
 _hat den Vorteil, innerhalb einer umweltfreundlichen Produktionskette statt-_
 _zufinden, die eine Art des Biomasse-Recyclings vorsieht. Außerdem würden_
 _die Betreiber, die diese Verbindungen vor der Vergasung extrahieren, wirt-_
-_schaftliche Vorteile erzielen und Arbeitsplätze schaffen- ein Thema, das eine_
+_schaftliche Vorteile erzielen und Arbeitsplätze schaffen - ein Thema, das eine_
 _Vertiefung verdienen würde._
 _Insgesamt ermöglicht die aktuelle Produktionskette der Holzvergasung, mehr_
 _noch als die auf verbesserten Technologien beruhende, der Region Südtirol_
 _sich auf die europäische Klimapolitik auszurichten. In der Tat hat die Europä-_
-_ische Kommission Ziele für die Energieerzeugungaus erneuerbaren Quellen_
+_ische Kommission Ziele für die Energieerzeugung aus erneuerbaren Quellen_
 _für den Zeitraum 2030-2050 festgelegt, um in der Europäischen Union bis zum_
 _Jahr 2050 das generelle Ziel der „Klimaneutralität“ zu erreichen, und der_
 _Green Deal zeichnet die Strategie ab, mitder diese Ziele durch ein auf weniger_
@@ -9023,6 +9653,7 @@ _Nutzung von natürlichen Ressourcen und geringeren Auswirkungen auf die_
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
+
 _Gesundheit beruhendes Wachstum erreicht werden sollen (Europäische Kom-_
 _mission, 2019)._
 
@@ -9043,12 +9674,12 @@ _Vergleich zu den kontrafaktischen Produktionsketten und mit negativen_
 _Treibhausgasemissionen einhergeht._
 _Dieses Ergebnis ist hauptsächlich auf den Ersatz fossiler Energiequellen durch_
 _die mit der Holzvergasung erzeugten Energie zurückzuführen. Weitere nega-_
-_tive Emissionen ergeben sich aus der Nutzungvon Biocharin der Landwirt-_
+_tive Emissionen ergeben sich aus der Nutzung von Biochar in der Landwirt-_
 _schaft; diese sind jedoch weniger relevant. Der größte Teil positiver Emissio-_
 _nen stammt aus der Extraktion ätherischer Öle aus der Biomasse, in ungefähr_
 _gleicher Proportion gefolgt von der Produktion und dem Transport der Holz-_
 _biomasse und dem Betrieb der Vergasungsanlagen._
-_Die jährlichin der Provinz produzierte Menge an Biochar würde, wenndieses_
+_Die jährlich in der Provinz produzierte Menge an Biochar würde, wenn dieses_
 _für die Nutzung in der Landwirtschaft geeignet wäre, nur für eine sehr kleine_
 _landwirtschaftliche Fläche (50 ha) genügen. Zur Unterstützung einer breiteren_
 _Anwendung von Biochar in der Landwirtschaft wäre demzufolge eine Ein-_
@@ -9057,7 +9688,7 @@ _gen._
 _Andererseits würden die vorgeschlagenen verbesserten Technologien, bei_
 _gleicher Menge an produzierter Biochar, eine fast doppelt so große Menge an_
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
 _Energie erzeugen, was deutlich größere Mengen an Biomasse für die Verga-_
 _sung erfordern würde._
@@ -9067,151 +9698,153 @@ _Provinz erfordern._
 
 Literaturverzeichnis
 
-_Anderson, N.& Mitchell, D. (2016).Forest Operations and Woody Biomass_
-_Logistics to Improve Efficiency, Value, and Sustainability.Bioenergy_
-_Research,_[^9]:_(2), pp. 518-533. https://doi.org/10.1007/s12155-016-9735-1_
+_Anderson, N.& Mitchell, D. (2016). Forest Operations and Woody Biomass_
+_Logistics to Improve Efficiency, Value, and Sustainability. Bioenergy_
+_Research,_ [^9]:_(2), pp. 518-533. https://doi.org/10.1007/s12155-016-9735-1_
 _AGRIOS Gruppo di lavoro per la frutticoltura integrata dell’Alto Adige Haus_
-_des Apfels. (2017).Direttive per lafrutticoltura integrata (27a ed.). Terlano:_
+_des Apfels. (2017). Direttive per la frutticoltura integrata (27a ed.). Terlano:_
 _AGRIOS._
-_Baronti, S. et al.(2014). Impact of biochar application on plant water relations_
-_in Vitis vinifera (L .).European Journal of Agronomy,_ [^53]:_, 38–44._
+_Baronti, S. et al. (2014). Impact of biochar application on plant water relations_
+_in Vitis vinifera (L .). European Journal of Agronomy,_ [^53]:_, 38–44._
 _https://doi.org/10.1016/j.eja.2013.11.003_
-_Battiston, C. (2014).Energiebilanz Südtirol 2008-2014/Bilancio energetico dell‘Alto_
+_Battiston, C. (2014). Energiebilanz Südtirol 2008-2014/Bilancio energetico dell‘Alto_
 _Adige. 3. Tag der Energie in Südtirol/ 3a giornata dell‘energia in Alto Adige._
-_Bolzano: Abteilung 29- Landesagentur für Umwelt, Autonome Provinz_
-_Bozen, Südtirol. / Ripartizione 29- Agenzia per l’ ambiente, Provincia_
-_Autonoma Di Bolzano- Alto Adige._
-_Centro di consulenza per la fruttiviticoltura Dell’Alto-Adige. (2019).Guida_
-_viticoltura.Egna: Centro di consulenza per la fruttiviticoltura Dell’Alto-_
+_Bolzano: Abteilung 29 - Landesagentur für Umwelt, Autonome Provinz_
+_Bozen, Südtirol. / Ripartizione 29 - Agenzia per l’ ambiente, Provincia_
+_Autonoma Di Bolzano - Alto Adige._
+_Centro di consulenza per la fruttiviticoltura Dell’Alto-Adige. (2019). Guida_
+_viticoltura. Egna: Centro di consulenza per la fruttiviticoltura Dell’Alto-_
 _Adige._
 _Conti, M. (2003). I vantaggi e i limiti della produzione di energia elettrica_
-_tramite biomasse legnose. InL’impatto ambientale di centrali elettriche_
-_alimentate a biomasse legnose.Esperienze e valutazioni. ENEA Ente per le_
+_tramite biomasse legnose. In L’impatto ambientale di centrali elettriche_
+_alimentate a biomasse legnose. Esperienze e valutazioni. ENEA Ente per le_
 _Nuove tecnologie, l’Energia e l’Ambiente._
 _Della Chiesa, S. et al. (2019). Farmers as data sources: Cooperative framework_
 _for mapping soil properties for permanent crops in South Tyrol (Northern_
-_Italy).Geoderma,_[^342]:_, 93–105. https://doi.org/10.1016/j.geoderma.2019.02.010_
+_Italy). Geoderma,_ [^342]:_, 93–105. https://doi.org/10.1016/j.geoderma.2019.02.010_
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
-_European Commission. (2019).Communication from the Commission to the_
+
+_European Commission. (2019). Communication from the Commission to the_
 _European Parliament, the European Council, the Council, the European_
 _Economic and Social Committee and the Committee of the Regions, The European_
 _Green Deal. Brussels._
 _European Parliament and Council. (2018). Directive (EU) 2018/2001 of the_
 _European Parliament and of the Council of 11 December 2018 on the_
-_promotion of the use of energy from renewable sources.Official Journal of_
-_the European Union,_[^328]:_, 82–209._
-_Guinée, J. B. et al.(2011). Life Cycle Assessment: Past, Present, Future._
+_promotion of the use of energy from renewable sources. Official Journal of_
+_the European Union,_ [^328]:_, 82–209._
+_Guinée, J. B. et al. (2011). Life Cycle Assessment: Past, Present, Future._
 _Environmental Science and Technology,_ [^45]:_, 90–96. https://doi.org/10.1021/_
 _es101316v_
 _Hamedani, S. R., Kuppens, T., Malina, R., Bocci, E., Colantoni, A., & Villarini,_
 _M. (2019). Life Cycle Assessment and Environmental Valuation of Biochar_
-_Production: Two Case Studies in Belgium.Energies,_ [^12]:_, 1–21. https://_
+_Production: Two Case Studies in Belgium. Energies,_ [^12]:_, 1–21. https://_
 _doi.org/doi:10.3390/en12112166_
 _Hammond, J., Shackley, S., Sohi, S., & Brownsort, P. (2011). Prospective life_
-_cycle carbon abatement for pyrolysis biochar systems in the UK.Energy_
-_Policy,_[^39]:_(5), 2646–2655.https://doi.org/10.1016/j.enpol.2011.02.033_
+_cycle carbon abatement for pyrolysis biochar systems in the UK. Energy_
+_Policy,_ [^39]:_(5), 2646–2655. https://doi.org/10.1016/j.enpol.2011.02.033_
 _Hardie, M., Clothier, B., Bound, S., Oliver, G., & Close, D. (2014). Does biochar_
-_influence soil physical properties and soil water availability?Plant and Soil,_
+_influence soil physical properties and soil water availability? Plant and Soil,_
 [^376]:_, 347–361. https://doi.org/10.1007/s11104-013-1980-x_
 _Homagain, K., Shahi, C., Luckai, N., Sharma, M. (2016). Life cycle cost and_
 _economic assessment of biochar-based bioenergy production and biochar_
-_land application in Northwestern Ontario, Canada.Forest Ecosystems,_
+_land application in Northwestern Ontario, Canada. Forest Ecosystems,_
 [^3]:_(_[^21]:_). https://doi.org/ 10.1186/s40663-_[^01]:[^6]:_-0081-8_
 _Ibarrola, R., Shackley, S., & Hammond, J. (2012). Pyrolysis biochar systems_
 _for recovering biodegradable materials: A life cycle carbon assessment._
 _Waste Management,_ [^32]:_(5), 859–868. https://doi.org/10.1016/j.wasman._
 _2011.10.005_
-_IPCC. (2014).Climate Change 2014: Synthesis Report. Contribution of Working_
+_IPCC. (2014). Climate Change 2014: Synthesis Report. Contribution of Working_
 _Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel_
 _on Climate Change [Core Writing Team, R. K. Pachauri and L.A. Meyer,_
-_(Eds.)].IPCC,Geneva, Switzerland._
+_(Eds.)]. IPCC, Geneva, Switzerland._
 
-Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper,Woods, Tonon
+Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
-_ISO. (2006a).“Environmental Management - Life Cycle Assessment- Principles and_
+_ISO. (2006a). “Environmental Management - Life Cycle Assessment - Principles and_
 _Framework” ISO 14040. Geneva, Switzerland._
-_ISO. (2006b).“Environmental Management–Life Cycle Assessment–Requirements_
+_ISO. (2006b). “Environmental Management –Life Cycle Assessment –Requirements_
 _and Guidelines” ISO 14044. Geneva, Switzerland._
-_JRC. (2010).ILCD handbook - International Reference Life Cycle Data System,_
-_General guide for Life Cycle Assessment- Detailed guidance (Firts edit;_
+_JRC. (2010). ILCD handbook - International Reference Life Cycle Data System,_
+_General guide for Life Cycle Assessment - Detailed guidance (Firts edit;_
 _European Commission - Joint Research Center - Institute for Environment_
 _and Sustainability, Ed.). https://doi.org/10.2788/38479_
 _Lugato, E. et al. (2013). An energy-biochar chain involving biomass_
-_gasification and rice cultivation in Northern Italy.Global Change Biology_
-_Bioenergy,_[^5]:_, 192–201. https://doi.org/10.1111/gcbb.12028_
-_Major, J. (2010).Guidelines on Practical Aspects of Biochar Application to Field Soil_
+_gasification and rice cultivation in Northern Italy. Global Change Biology_
+_Bioenergy,_ [^5]:_, 192–201. https://doi.org/10.1111/gcbb.12028_
+_Major, J. (2010). Guidelines on Practical Aspects of Biochar Application to Field Soil_
 _in Various Soil Management Systems. https://www.biochar-international.org/_
 _wp-content/uploads/2018/04/IBI_Biochar_Application.pdf_
 _Matustík, J., Hnátková, T., & Kocí, V. (2020). Life cycle assessment of biochar-_
-_to-soil systems: A review.Journal of Cleaner Production,_ [^259]:_._
+_to-soil systems: A review. Journal of Cleaner Production,_ [^259]:_._
 _https://doi.org/10.1016/j.jclepro.2020.120998_
 _McManus, M. C., & Taylor, C. M. (2015). The changing nature of life cycle_
 _assessment. Biomass and Bioenergy,_ [^82]:_, 13–26. https://doi.org/10.1016/_
 _j.biombioe.2015.04.024_
 _Mukherjee, A., & Lal, R. (2013). Biochar Impacts on Soil Physical Properties_
-_and Greenhouse Gas Emissions.Agronomy,_ [^3]:_, 313–339. https://doi.org/_
+_and Greenhouse Gas Emissions. Agronomy,_ [^3]:_, 313–339. https://doi.org/_
 _10.3390/agronomy3020313_
-_Nguyen, T. L. T., Hermansen, J. E., & Nielsen, G. R. (2013).Environmental_
+_Nguyen, T. L. T., Hermansen, J. E., & Nielsen, G. R. (2013). Environmental_
 _assessment of gasi fi cation technology for biomass conversion to energy_
-_in comparison with other alternatives: the case of wheat straw.Journal of_
+_in comparison with other alternatives: the case of wheat straw. Journal of_
 _Cleaner Production,_ [^53]:_, 138–148. https://doi.org/10.1016/j.jclepro._
 _2013.04.004_
 _Piccolo, A., Pietramellara, G., & Mbagwu, J. S. C. (1996). Effects of coal derived_
 _humic substances on water retention and structural stability of_
-_mediterranean soils.Soil Use and Management,_[^12]:_, 209–213._
+_mediterranean soils. Soil Use and Management,_ [^12]:_, 209–213._
 _Roberts, K. G., Gloy, B. A., Joseph, S., Scott, N. R., & Lehmann, J. (2010). Life_
 _Cycle Assessment of Biochar Systems: Estimating the Energetic, Economic,_
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
 ```
-_and Climate Change Potential.Environmental Science and Technology,_[^44]:_(2),_
+
+_and Climate Change Potential. Environmental Science and Technology,_ [^44]:_(2),_
 _827–833. https://doi.org/https://doi.org/10.1021/es902266r_
-_Shaaban, M., VanZwieten, L., Bashir, S., Younas, A., Núñez-delgado, A.,_
+_Shaaban, M., Van Zwieten, L., Bashir, S., Younas, A., Núñez-delgado, A.,_
 _Chhajro, M. A., ... Hu, R. (2018). A concise review of biochar application_
-_to agricultural soils to improve soil conditions and fight pollution.Journal_
+_to agricultural soils to improve soil conditions and fight pollution. Journal_
 _of Environmental Management,_ [^228]:_, 429–440. https://doi.org/10.1016/_
 _j.jenvman.2018.09.006_
-_Seneviratne, S.I. et al.(2012). Changes in climate extremes and their impacts_
-_on the natural physical environment. In:Managing the Risks of Extreme_
-_Events and Disasters to Advance Climate Change Adaptation[Field, C.B., V._
+_Seneviratne, S.I. et al. (2012). Changes in climate extremes and their impacts_
+_on the natural physical environment. In: Managing the Risks of Extreme_
+_Events and Disasters to Advance Climate Change Adaptation [Field, C.B., V._
 _Barros, T.F. Stocker, D. Qin, D.J. Dokken, K.L. Ebi, M.D. Mastrandrea, K.J._
-_Mach, G.-K. Plattner, S.K. Allen, M. Tignor, and P.M. Midgley (eds.)].A_
+_Mach, G.-K. Plattner, S.K. Allen, M. Tignor, and P.M. Midgley (eds.)]. A_
 _Special Report of Working Groups I and II of the Intergovernmental Panel on_
 _Climate Change (IPCC). Cambridge University Press, Cambridge, UK, and_
 _New York, NY, USA, pp. 109-230._
 _Uzoma, K. C., Inoue, M., Andry, H., Zahoor, A., & Nishihara, E. (2011)._
 _Influence of biochar application on sandy soil hydraulic properties and_
-_nutrient retention.Journal of Food, Agriculture and Environment,_[^9]:_, 1137–_
+_nutrient retention. Journal of Food, Agriculture and Environment,_ [^9]:_, 1137–_
 
 1143. https://doi.org/10.1234/4.2011.2517
 Ventura, M. et al. (2015). Biochar mineralization and priming effect on SOM
-decomposition in two European short rotation coppices.GCB Bioenergy,
+decomposition in two European short rotation coppices. GCB Bioenergy,
 7(5), 1150–1160. https://doi.org/10.1111/gcbb.12219
 Wang, J., Xiong, Z., & Kuzyakov, Y. (2016). Biochar stability in soil: meta-
-analysis of decomposition and priming effects.GCB Bioenergy,8(3), 512–
+analysis of decomposition and priming effects. GCB Bioenergy, 8(3), 512–
 523. https://doi.org/10.1111/gcbb.12266
 Wernet, G., Bauer, C., Steubing, B., Reinhard, J., Moreno-Ruiz, E., & Weidema,
-B. (2016).The ecoinvent database version 3 (part I): overview and
-methodology.The International Journal of Life Cycle Assessment,21, 1218–
+B. (2016). The ecoinvent database version 3 (part I): overview and
+methodology. The International Journal of Life Cycle Assessment, 21, 1218–
 1230. https://doi.org/https://doi.org/10.1007/s11367-016-1087-8
 
 ## Schlussfolgerungen
 
 **Giustino Tonon– Freie Universität Bozen**
-**Irene Criscuoli– Freie Universität Bozen**
+**Irene Criscuoli – Freie Universität Bozen**
 
 _Im Rahmen der Schlussbemerkungen zum gesamten Projekt WOOD-UP hal-_
 _ten wir es für wichtig, zunächst einen Begriff zu klären, der in den italieni-_
 _schen Düngemittelgesetzen definiert wird. Im August 2015 wurde Biochar_
-_mit dem im Amtsblatt Nr. 186 vom 12. August desselbenJahres veröffentlich-_
+_mit dem im Amtsblatt Nr. 186 vom 12. August desselben Jahres veröffentlich-_
 _ten Ministerialdekret vom 22. Juni 2015 offiziell unter die in der Landwirt-_
 _schaft zulässigen Bodenverbesserungsmittel aufgenommen (Legislativdekret_
 _75/10, Anlage 2, laufende Nummer 16). Die vom Gesetzgeber übernommene_
-_Biochar-Definition umfasstalle durch Verkohlung von Produkten und Rückstän-_
+_Biochar-Definition umfasst alle durch Verkohlung von Produkten und Rückstän-_
 _den rein pflanzlichen Ursprungs aus der Land- und Forstwirtschaft gewonnenen Ma-_
 _terialien, unter Ausschluss aller organischen Abfälle und Materialien tierischen Ur-_
 _sprungs. In oben genannter Anlage 2 wird genauer definiert, dass Biochar_
@@ -9219,7 +9852,7 @@ _durch Pyrolyse oder durch Vergasung gewonnen werden kann, vorausgesetzt_
 _dass die erzeugte Pflanzenkohle die vorgegebenen Grenzwerte für die Kon-_
 _zentration von Schwermetallen, polyzyklischen aromatischen Kohlenwasser-_
 _stoffen (PAK), Polychrlorbiphenylen (PCB) und Dioxinen einhält. Außerdem_
-_wird die Notwendigkeit verdeutlicht, das Biochar mit einem Biotest aufseine_
+_wird die Notwendigkeit verdeutlicht, das Biochar mit einem Biotest auf seine_
 _eventuelle Phytotoxizität zu testen. Diese Definition ist nicht nur terminolo-_
 _gisch, sondern auch substanziell von grundlegender Bedeutung, da sie die ge-_
 _setzlichen Voraussetzungen für den Start dieses Projekts geliefert hat. Es war_
@@ -9245,7 +9878,7 @@ _Ergebnis hatte signifikante Folgen für die Entwicklung des Projekts und die_
 _potenzielle Aufwertung der aktuellen Produktionskette der Holzvergasung in_
 _Südtirol. Zur Durchführung der Feldversuche sah sich die Genossenschaft ge-_
 _zwungen, Biochar außerhalb der Provinz einzukaufen. Die Experten sind zu_
-_folgender Schlussfolgerung gekommen (Kapitel 1):Um die aktuellen Verga-_
+_folgender Schlussfolgerung gekommen (Kapitel 1): Um die aktuellen Verga-_
 _sungsanlagen in polygenerative Systeme zu verwandeln, die neben elektrischer und_
 _thermischer Energie auch Biochar erzeugen, das als Bodenverbesserungsmittel ge-_
 _nutzt werden kann, müssen daher die Hauptprozessparameter (z. B. die Temperatur-_
@@ -9254,10 +9887,10 @@ _werden, um den PAK-Gehalt zu reduzieren. In der Kohle vorhandene Schwerme-_
 _talle scheinen hingegen von mechanischen Teilen zu stammen, die zur Beför-_
 _derung fester Materialien in der Anlage verwendet werden, oder aus Vorbe-_
 _handlungen der Holzbiomasse wie z. B. das Häckseln oder Pelletieren. Dies-_
-_bezüglich scheint es einfacher, einetechnische Lösung zu finden. Die wirt-_
+_bezüglich scheint es einfacher, eine technische Lösung zu finden. Die wirt-_
 _schaftliche Analyse eines Eingriffs zur Optimierung der Anlage, mit der eine_
-_hochwertige,zur Nutzung in der Landwirtschaft geeignete Kohle erzeugt_
-_werden kann,hat ergeben, dass für diese Investitionen, je nach Verkaufspreis_
+_hochwertige, zur Nutzung in der Landwirtschaft geeignete Kohle erzeugt_
+_werden kann, hat ergeben, dass für diese Investitionen, je nach Verkaufspreis_
 _des Biochars maximal ein Budget zwischen 23.000 und 97.000 Euro zur Verfü-_
 _gung steht. Die oben genannten Summen sind ein Richtwert für die Wirt-_
 _schaftlichkeit, die ein Eingriff zur Optimierung der aktuellen Anlagen haben_
@@ -9266,37 +9899,38 @@ _Die Untersuchungen bezüglich der Möglichkeit, biologisch aktive Moleküle_
 _aus der Holzbiomasse (Rottannen-Hackschnitzel) zu extrahieren (Kapitel 2),_
 _haben zu besonders interessanten Schlussfolgerungen geführt. Unabhängig_
 _von der angewandten Extraktionsmethode (Soxhlet oder überkritisches Koh-_
-_lendioxid) haben die Extrakte eine gute antimikrobielle Wirkung gezeigt,und_
+_lendioxid) haben die Extrakte eine gute antimikrobielle Wirkung gezeigt, und_
 
 ```
 Schlussfolgerungen
 ```
+
 _könnten als wertvolle Alternative zu den künstlichen Konservierungsmitteln,_
 _die heute in Lebensmittel-, Kosmetik- und Pharmaprodukten eingesetzt wer-_
-_den,genutzt werden. Diese Möglichkeit stellt ein wichtiges und bisher noch_
+_den, genutzt werden. Diese Möglichkeit stellt ein wichtiges und bisher noch_
 _nicht ausführlich untersuchtes Element des Potenzials für die Aufwertung der_
 _Holz-Energie-Produktionskette dar, das in der Zukunft zweifellos größere_
 _Aufmerksamkeit verdient._
 _Die Nutzung von Biochar in der Landwirtschaft hat verschiedene positive_
 _Wirkungen zur Verbesserung des Bodens gezeigt, darunter eine Zunahme der_
 _Verfügbarkeit bestimmter Nährstoffe, insbesondere Makronährstoffe wie Ka-_
-_lium, Magnesium und Phosphor, sowie dieFähigkeit zur Anhebung des Bo-_
+_lium, Magnesium und Phosphor, sowie die Fähigkeit zur Anhebung des Bo-_
 _den-pH-Werts, was sich positiv auf den Weinanbau auf sauren Böden aus-_
 _wirkt. Insgesamt wurde eine höhere Ertragsfähigkeit der mit Biochar behan-_
 _delten Pflanzen beobachtet, ohne dass negative Auswirkungen auf die Quali-_
-_tät derWeine entstanden wären (Kapitel 4)._
+_tät der Weine entstanden wären (Kapitel 4)._
 _Das unter kontrollierten Versuchsbedingungen getestete Biochar hat keine_
 _signifikanten Auswirkungen auf den Stickstoffzyklus in der Weinpflanze ge-_
 _zeigt; Aufnahme und Verteilung des Stickstoffs in den verschiedenen Orga-_
 _nen blieben unverändert. Biochar hat hingegen das Wasserspeichervermögen_
 _des Bodens deutlich verändert und eine positive Zunahme des für die Pflan-_
 _zen zur Verfügung stehenden Wassers bewirkt. Dies führte zu einer erheblich_
-_besserenVerträglichkeit von induziertem Trockenstress und verringerte die_
+_besseren Verträglichkeit von induziertem Trockenstress und verringerte die_
 _mit dem Wassermangel verbundenen negativen physiologischen Effekte. Die-_
 _ses Ergebnis ist sehr interessant im Hinblick auf eine Politik zur Anpassung_
 _an den Klimawandel, der sich durch eine Zunahme von Trockenperioden und_
 _Hitzewellen kennzeichnet (Kapitel 5)._
-_Die durchgeführten Studien hinsichtlich derUmweltwirkungenvon Biochar_
+_Die durchgeführten Studien hinsichtlich der Umweltwirkungen von Biochar_
 _und insbesondere der Wirkungen auf die Treibhausgasemissionen und die_
 _Ansammlung von Kohlenstoff im Boden haben relevante Ergebnisse hervor-_
 _gebracht. Biochar hat eine Verringerung der vom Boden ausgehenden N_[^2]:_O-_
@@ -9310,16 +9944,16 @@ _(Kapitel 6). Alle Studienergebnisse wurden in eine Lebenszyklusanalyse_
 Tonon, Criscuoli
 
 _(LCA) eingebunden (Kapitel 7), deren Ziel eine Evaluierung der Umweltaus-_
-_wirkungen der SüdtirolerHolzvergasungsproduktionskette war, sowie deren_
+_wirkungen der Südtiroler Holzvergasungsproduktionskette war, sowie deren_
 _Vergleich mit einer aufgewerteten Produktionskette, die auch die Extraktion_
 _hochwertiger Verbindungen aus der Biomasse, verbesserte Vergasungstech-_
 _nologien und die Nutzung von Biochar in der Landwirtschaft vorsieht. Die_
 _LCA hat gezeigt, dass die aktuelle Produktionskette umweltfreundlich ist und_
 _im Vergleich zu den kontrafaktischen Energieproduktionsketten zu einer Ein-_
-_sparung fossiler Energie und zurVerringerung der Treibhausgasemissionen_
+_sparung fossiler Energie und zur Verringerung der Treibhausgasemissionen_
 _führt. Einen weiteren Vorteil, wenn auch in geringerem Umfang, bietet die_
 _Nutzung von Biochar in der Landwirtschaft. Die Extraktion von Biomolekü-_
-_lenaus der Holzbiomasse geht mit Energiekostenund erheblichen Emissionen_
+_len aus der Holzbiomasse geht mit Energiekostenund erheblichen Emissionen_
 _einher, die vergleichbar sind mit denen der Produktion und des Transports_
 _der Holzbiomasse (Rundholz, Hackschnitzel und Pellets) von der Produkti-_
 _onsstätte zu den Vergasunganlagen. Daher würde sich die Extraktion von Bi-_
@@ -9340,7 +9974,7 @@ _deutlich größere Mengen an Biomasse für die Vergasung erfordern würde._
 _Angesichts der positiven agronomischen und umweltspezifischen Wirkungen_
 _von Biochar, welche im Projekt WOOD-UP sichtbar wurden, ergeht_
 _abschließend die klare Empfehlung an die Förderpolitik, zukünftig jene_
-_Forschungs- und Entwicklungsbemühungen zu unterstützen,die auf die_
+_Forschungs- und Entwicklungsbemühungen zu unterstützen, die auf die_
 _Planung polygenerativer Anlagen ausgerichtet sind und neben Elektro- und_
 _Wärmeenergie auch hochwertiges Biochar erzeugen. Ein ausgewogenes_
 _Verhältnis zwischen diesen Vergasungsprodukten trägt den positiven_
@@ -9348,6 +9982,7 @@ _Verhältnis zwischen diesen Vergasungsprodukten trägt den positiven_
 ```
 Schlussfolgerungen
 ```
+
 _Auswirkungen Rechnung, welche die Nutzung von Biochar auf die_
 _Nachhaltigkeit des Südtiroler Agrarsystems haben kann, das zunehmend_
 _sensibler auf die von der Landwirtschaft ausgehenden Umweltwirkungen_

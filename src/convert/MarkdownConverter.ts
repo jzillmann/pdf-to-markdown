@@ -39,7 +39,7 @@ function elementToText(text: string, type: TextType) {
     case 'H6':
       return '#'.repeat(headlineLevel(type)) + ' ' + text + '\n';
     case 'CODE':
-      return '```\n' + text.trim() + '\n```\n';
+      return '```\n' + text.trim() + '\n```\n\n';
     case 'FOOTNOTES':
       return text;
     default:
