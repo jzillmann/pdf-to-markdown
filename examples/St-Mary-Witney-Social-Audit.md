@@ -2155,27 +2155,27 @@ Oxfordshire District Council, Dec
 ```
 
 2010.
-UpMyStreet
-Cottsway Housing Association
-Police UK
-Thames Valley Police
-West Oxfordshire Community Safety
-Partnership
-Witney Neighbourhood Action
-Group
-Witney Music Festival
-Witney Book Festival
-Witney Film Festival
-Witney TV
-Witney Art Studios
-The Henry Box School
-St Mary’s Infant School
-The Batt C of E Primary School
-Wood Green School
-Cokethorpe School
-The Kings School
-Abingdon & Witney College
-Citizens Advice Bureau
+**UpMyStreet**
+**Cottsway Housing Association**
+**Police UK**
+**Thames Valley Police**
+**West Oxfordshire Community Safety**
+**Partnership**
+**Witney Neighbourhood Action**
+**Group**
+**Witney Music Festival**
+**Witney Book Festival**
+**Witney Film Festival**
+**Witney TV**
+**Witney Art Studios**
+**The Henry Box School**
+**St Mary’s Infant School**
+**The Batt C of E Primary School**
+**Wood Green School**
+**Cokethorpe School**
+**The Kings School**
+**Abingdon & Witney College**
+**Citizens Advice Bureau**
 
 Burwell (top) and Wood Green (above)
 

@@ -1,7 +1,7 @@
 import { groupByBlock, groupByLine } from '../support/groupingUtils';
 import Item from '../Item';
 import { Converter } from '../convert';
-import { TextType, headlineLevel } from '../text-types';
+import { TextType, discardTokenTypes, headlineLevel, isHeadline } from '../text-types';
 import {
   TokenType,
   attachWithoutWhitespace,
@@ -19,7 +19,7 @@ export default class MarkdownConverter implements Converter {
       const blockTypes: TextType[] = blockItems[0].data['types'] || [];
       let blockContent = '';
       groupByLine(blockItems).forEach((lineItems) => {
-        blockContent += lineToText(lineItems, blockTypes.length > 0);
+        blockContent += lineToText(lineItems, blockTypes);
         blockContent += '\n';
       });
       content += elementToText(blockContent, blockTypes[0]);
@@ -51,7 +51,7 @@ function toWords(text: string): string[] {
   return text.split(' ').filter((string) => string.trim().length > 0);
 }
 
-export function lineToText(lineItems: Item[], disableInlineFormats: boolean = false) {
+export function lineToText(lineItems: Item[], blockTypes: TextType[]) {
   let text = '';
   let openFormat: TokenType;
 
@@ -64,14 +64,13 @@ export function lineToText(lineItems: Item[], disableInlineFormats: boolean = fa
   lineItems.forEach((lineItem, lineIndex) => {
     const words = toWords(lineItem.data['str']);
     words.forEach((word, wordIndex) => {
-      const wordType = lineItem.tokenTypes[0]; // footnote, link, etc...
-      const wordFormat = lineItem.tokenTypes[0]; // bold, oblique, etc...
+      const wordFormat = lineItem.tokenTypes[0]; // bold, oblique, footnote etc...
       if (openFormat && (!wordFormat || wordFormat !== openFormat)) {
         closeFormat();
       }
       if (
         (wordIndex > 0 || lineIndex > 0) &&
-        !(wordType && attachWithoutWhitespace(wordType)) &&
+        !(wordFormat && attachWithoutWhitespace(wordFormat)) &&
         !isPunctationCharacter(word)
       ) {
         let insertWhitespace = true;
@@ -86,12 +85,14 @@ export function lineToText(lineItems: Item[], disableInlineFormats: boolean = fa
         }
       }
 
+      const disableInlineFormats =
+        wordFormat && (discardTokenTypes(blockTypes) || (blockTypes.find(isHeadline) && wordFormat === 'BOLD'));
       if (wordFormat && !openFormat && !disableInlineFormats) {
         openFormat = wordFormat;
         text += startSymbol(openFormat);
       }
 
-      if (wordType && (!disableInlineFormats || plainTextFormat(wordType))) {
+      if (wordFormat && (!disableInlineFormats || plainTextFormat(wordFormat))) {
         text += tokenToText(word, wordFormat);
       } else {
         text += word;

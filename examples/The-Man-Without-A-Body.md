@@ -81,7 +81,7 @@ ambulatory, and yet I cannot walk. I cannot
 even hop or waddle. I would fain travel, roam,
 promenade, circulate in the busy paths of men,
 but I am chained to this accursed shelf. I am no
-better off than these barbarian heads — I, a man
+better off than these barbarian heads—I, a man
 of science! I am compelled to sit here on my
 neck and see sandpipers and storks all around
 me, with legs and to spare. Look at that infernal
@@ -100,8 +100,8 @@ perhaps his condition had its compensations in
 immunity from corns and the gout.
 "And as to arms," he went on, "there's
 another misfortune for you! I am unable to
-brush away the flies that get in here — Lord
-knows how — in the summertime. I cannot
+brush away the flies that get in here—Lord
+knows how—in the summertime. I cannot
 reach over and cuff that confounded Chinook
 mummy that sits there grinning at me like a
 jack-in-the-box. I cannot scratch my head or
@@ -171,7 +171,7 @@ conversation with the Head.
 "Think of putting a wooden-headed idiot like
 that," said the Professor, after I had opened his
 glass prison, "in charge of a portion, however
-small, of a man of science — of the inventor of
+small, of a man of science—of the inventor of
 the Telepomp! Paris! Murderer! Last century,
 indeed!" and the Head shook with laughter
 until I feared that it would tumble off the shelf.

@@ -937,11 +937,11 @@ for loop _LR_ (_R_ for loop being recorded) and we reach the header
 of a different loop _LO_ (_O_ for other loop). Note that _LO_ must be an
 inner loop of _LR_ because we stop the trace when we exit a loop.
 
-• If LO has a type-matching compiled trace tree, we call LO as
+• If _LO_ has a type-matching compiled trace tree, we call _LO_ as
 a nested trace tree. If the call succeeds, then we record the call
-in the trace for LR. On future executions, the trace for LR will
+in the trace for _LR_. On future executions, the trace for _LR_ will
 call the inner trace directly.
-• If LO does not have a type-matching compiled trace tree yet,
+• If _LO_ does not have a type-matching compiled trace tree yet,
 we have to obtain it before we are able to proceed. In order
 to do this, we simply abort recording the first trace. The trace
 monitor will see the inner loop header, and will immediately
@@ -1078,7 +1078,7 @@ converts floating-point LIR instructions to sequences of integer
 instructions.
 • CSE (constant subexpression elimination),
 • expression simplification, including constant folding and a few
-algebraic identities (e.g., a − a = 0), and
+algebraic identities (e.g., _a_ − _a_ = 0), and
 • source language semantic-specific expression simplification,
 primarily algebraic identities that allow DOUBLE to be replaced
 with INT. For example, LIR that converts an INT to a DOUBLE

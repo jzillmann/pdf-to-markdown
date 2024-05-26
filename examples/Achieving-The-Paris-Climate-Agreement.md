@@ -516,7 +516,7 @@ every 5 years—conditional on the energy-related CO2 emission level percentile
 of the “source” pathway. This method is a further development under this
 project—building on an earlier Equal Quantile Walk method—and is now better
 able to capture the emission dynamics of low-mitigation pathways.
-• Land-based sequestration design: A Monte Carlo analysis across temperate,
+• _Land-based sequestration design_: A Monte Carlo analysis across temperate,
 
 ```
 boreal, subtropical and tropical regions has been performed based on various
@@ -527,8 +527,8 @@ sequestration, which is not reliant on biomass plus sequestration and storage
 (bioenergy with carbon capture and storage, BECCS).
 ```
 
-• Carbon cycle and climate modelling (Model for the Assessment of Greenhouse
-Gas-Induced Climate Change, MAGICC): This study uses the MAGICC climate
+• _Carbon cycle and climate modelling (Model for the Assessment of Greenhouse_
+_Gas-Induced Climate Change, MAGICC)_: This study uses the MAGICC climate
 model, which also underlies the classification used by both the IPCC Fifth
 Assessment Report and the IPCC Special Report on 1.5  °C in terms of the
 abilities of various scenarios to maintain the temperature change below 2 °C or
@@ -543,7 +543,7 @@ it represents one of the most established reduced-complexity climate models in
 the international community.
 ```
 
-• Renewable Resource Assessment [R]E-SPACE: RE-SPACE is based on a
+• _Renewable Resource Assessment [R]E-SPACE_: RE-SPACE is based on a
 
 ```
 Geographic Information Systems (GIS) approach and provides maps of the solar
@@ -555,7 +555,7 @@ It also provides an overview of the existing electricity infrastructures for fos
 fuel and renewable sources.
 ```
 
-• Transport model (TRAEM): The transport scenario model allows the
+• _Transport model (TRAEM)_: The transport scenario model allows the
 
 ```
 representation of long-term transport developments in a consistent and transparent
@@ -565,7 +565,7 @@ transport demand with powertrain-specific energy demands, using a passenger
 km (pkm) and tonne km (tkm) activity-based bottom-up approach.
 ```
 
-• Energy system model (EM): The energy system model (a long-term energy
+• _Energy system model (EM)_: The energy system model (a long-term energy
 
 ```
 scenario model) is used as a mathematical accounting system for the energy
@@ -580,7 +580,7 @@ uncertain cost assumptions. However, an ex-post analysis of costs and investment
 shows the main economic effects of the pathways.
 ```
 
-• Power system models [R]E 24/7: Power system models simulate electricity
+• _Power system models [R]E 24/7_: Power system models simulate electricity
 
 ```
 systems on an hourly basis with geographic resolution to assess the requirements
@@ -3354,10 +3354,10 @@ of scenarios in the energy and climate debate.
 
 **UNFCCC Paris Agreement, Article 2:**
 
-1. This Agreement, in enhancing the implementation of the Convention,
-including its objective, aims to strengthen the global response to the threat
-of climate change,in the context of sustainable development and efforts to
-eradicate poverty, including by:
+1. _This Agreement, in enhancing the implementation of the Convention,_
+_including its objective, aims to strengthen the global response to the threat_
+_of climate change,in the context of sustainable development and efforts to_
+_eradicate poverty, including by:_
 
 ```
 (a) Holding the increase in the global average temperature to well below
@@ -3432,9 +3432,9 @@ mendations (see e.g., Mai et al. [^2013]:; Mohn [^2016]:).
 house gas emissions and climate-resilient development.
 ```
 
-2. This Agreement will be implemented to reflect equity and the principle of
-common but differentiated responsibilities and respective capabilities, in
-the light of different national circumstances.
+2. _This Agreement will be implemented to reflect equity and the principle of_
+_common but differentiated responsibilities and respective capabilities, in_
+_the light of different national circumstances._
 
 ```
 S. Teske and T. Pregger
@@ -4558,7 +4558,7 @@ energy-2017-natural-gas.pdf According to https://tradingeconomics.com/commodity/
 gas, gas prices fell by 14% between 2 Jan 2017 and 1 January 2018 (viewed 21 March 2018)
 BI (2017) Patrick Caughill, “All Dutch Trains Now Run On 100% Wind Power”, Business Insider. 3 June
 
-2017. http://uk.businessinsider.com/wind-power-trains-in-netherlands-2017-6?r=US&IR=TT
+2017. [http://uk.businessinsider.com/wind-power-trains-in-netherlands-2017-6?r=US&IR=TT](http://uk.businessinsider.com/wind-power-trains-in-netherlands-2017-6?r=US&IR=TT)
 
 ```
 S. Teske et al.
@@ -4834,7 +4834,7 @@ to stay within a 2.0 °C and 1.5 °C global warming limit. The following model
 
 presented:
 
-• For the non-energy GHG emission pathways, the Generalized Equal Quantile
+• For the non-energy GHG emission pathways, the _Generalized Equal Quantile_
 
 ```
 Walk (GQW) method, the land-based sequestration design method and the
@@ -5040,12 +5040,12 @@ models:
 with the following models:
 
 – Generalized Equal Quantile Walk (GQW): This statistical method is used to
-complement the CO2 pathways with the non-CO2 regional emissions for the
+complement the CO[^2]: pathways with the non-CO[^2]: regional emissions for the
 relevant GHGs and aerosols, based on a statistical analysis of the large num-
 ber (~700) of multi-gas emission pathways underlying the recent IPCC Fifth
 Assessment Report and the recently published IPCC Special Report on
-1.5 °C. The GQW method calculates the median non-CO2 gas emission levels
-every 5 years, conditional on the energy-related CO2 emission level percentile
+1.5 °C. The GQW method calculates the median non-CO[^2]: gas emission levels
+every 5 years, conditional on the energy-related CO[^2]: emission level percentile
 of the ‘source’ pathway. This method is further developed in this project—
 building on an earlier ‘Equal Quantile Walk’ method—and is now better able
 to capture the emission dynamics of low-mitigation pathways.
@@ -5053,7 +5053,7 @@ to capture the emission dynamics of low-mitigation pathways.
 boreal, subtropical, and tropical regions has been performed based on various
 literature-based estimates of sequestration rates, sequestration periods, and the
 areas available for a number of sequestration options. This approach can be seen
-as a quantified literature synthesis of the potential for land-based CO2 sequestra-
+as a quantified literature synthesis of the potential for land-based CO[^2]: sequestra-
 tion, which is not reliant on bioenergy with sequestration and storage (BECCS)
 – Carbon cycle and climate modelling (MAGICC): This study used the
 MAGICC climate model, which also underlies the classification of both the
@@ -5106,7 +5106,7 @@ the pathways.
 hourly basis and at geographic resolution to assess the requirements for infra-
 structure, such as grid connections, between different regions and electricity
 storages, depending on the demand profiles and power-generation characteristics
-(Teske 2015). High-penetration or renewable-energy-only scenarios will contain
+(Teske [^2015]:). High-penetration or renewable-energy-only scenarios will contain
 significant proportions of variable solar photovoltaic (PV) and wind power
 because they are inexpensive. Therefore, a power system model is required to
 assess the demand and supply patterns, the efficiency of power generation, and
@@ -5951,7 +5951,7 @@ wr
 world region wr at time step t [pkm/a]
 ```
 
-– TTED(t): total transport (final) energy demand at time step t [PJ/year]
+– TTED(t): total transport (final) energy demand at time step _t_ [PJ/year]
 
 The estimated plug-in hybrid electric vehicles, battery electric vehicles, and fuel-
 
@@ -6047,7 +6047,7 @@ et
 fe
 ```
 
-##### ()= ∑ ()⋅ ()⋅ηet ()
+##### ()= ∑ ()⋅ ()⋅η_et_ ()
 
 ```
 FD tFDt
@@ -6059,7 +6059,7 @@ ss
 ss
 ```
 
-##### ()= ∑ fe ()
+##### ()= ∑ _fe_ ()
 
 ```
 TFDt FD tFDt UEDtMS
@@ -6084,7 +6084,7 @@ ss fe et
 ss ss
 ```
 
-##### ()= ∑∑()= ∑ ()= ∑∑∑ ()⋅ et tttfe
+##### ()= ∑∑()= ∑ ()= ∑∑∑ ()⋅ _et tttfe_
 
 ```
 ()⋅ηet ()
@@ -6093,11 +6093,11 @@ ss ss
 with:
 
 • FDss,
-fe(t): demand of (final) energy carrier fe in sub-sector ss1 at time step t [PJ/
+fe(t): demand of (final) energy carrier _fe_ in sub-sector _ss_[^1]: at time step _t_ [PJ/
 year]
 • FDss,
-fe(t): total demand of (final) energy carrier fe at time step t [PJ/year]
-• TFD(t): total final energy demand at time step t [PJ/year]
+fe(t): total demand of (final) energy carrier _fe_ at time step _t_ [PJ/year]
+• TFD(t): total final energy demand at time step _t_ [PJ/year]
 
 [^1]:The sub-sectors include ‘heat’ and ‘non-heat electrical appliances’ in the sectors ‘Industry’ and
 ‘Residential and other’, aviation, road transport, navigation, rail transport, non-energy consump-
@@ -6183,7 +6183,7 @@ LCOE
 Fuel production:
 ```
 
-•H2-production
+•H[^2]:-production
 •biofuels
 •refineriesetc.
 
@@ -6218,15 +6218,15 @@ S. Teske et al.
 41
 ```
 
-• UEDss(t): useful energy demand / transport services in sub-sector ss at time step
-t [PJ/year]
+• UEDss(t): useful energy demand / transport services in sub-sector _ss_ at time step
+_t_ [PJ/year]
 • MSss
-et(t): market share of end-sector technology et in sub-sector ss
+et(t): market share of end-sector technology _et_ in sub-sector _ss_
 [dimensionless]
 • ηfe
-et(t): efficiency of end-sector technology et using energy carrier fe2 at time step
-t [dimensionless]
-• t: time step
+et(t): efficiency of end-sector technology _et_ using energy carrier _fe_[^2]: at time step
+_t_ [dimensionless]
+• _t_: time step
 
 The indices denote:
 
@@ -6254,30 +6254,30 @@ ct
 fe
 ```
 
-##### ()= ∑∑ ()⋅ ()⋅ηct ()
+##### ()= ∑∑ ()⋅ ()⋅η_ct_ ()
 
 ```
 TPDt PD t
 pe
 ```
 
-##### ()= ∑ pe ()
+##### ()= ∑ _pe_ ()
 
 with
 
-• PDpe(t): total demand of (primary) energy carrier pe at time step t [PJ/year]
-• TPD(t): total primary energy demand at time step t [PJ/year]
+• PDpe(t): total demand of (primary) energy carrier _pe_ at time step _t_ [PJ/year]
+• TPD(t): total primary energy demand at time step _t_ [PJ/year]
 • MSfe
-ct(t): market share of conversion technology ct in the generation of final
-energy carrier fe [dimensionless]
+ct(t): market share of conversion technology _ct_ in the generation of final
+energy carrier _fe_ [dimensionless]
 • ηfe
-ct(t): efficiency of conversion technology3 ct using the final energy carrier fe at
-time step t [dimensionless]
+ct(t): efficiency of conversion technology[^3]: _ct_ using the final energy carrier _fe_ at
+time step _t_ [dimensionless]
 
 The indices denote:
 
-• pe: (primary) energy carrier
-• ct: conversion sector technology[^4]
+• _pe_: (primary) energy carrier
+• _ct_: conversion sector technology[^4]
 
 The drivers of energy consumption include forecasts of population growth, gross
 domestic product (GDP), and energy intensities. Specific energy intensities are
@@ -6369,7 +6369,7 @@ deployment, and financial investment for each of these energy demand types;
 
 system;
 
-• energy-related CO2 emissions over the projected period.
+• energy-related CO[^2]: emissions over the projected period.
 
 ```
 S. Teske et al.
@@ -7423,8 +7423,8 @@ putation and to accommodate the paucity of data and uncertainty about the future
 when designing the interconnector algorithms:
 
 – Interconnections between the project-defined regions are the only ones consid-
-ered, so all intra-regional interconnections or line constraints are excluded (‘cop-
-per plate’);
+ered, so all intra-regional interconnections or line constraints are excluded (‘_cop-_
+_per plate_’);
 – Optimal load flow is neglected because policy and price signals are considered to
 be the factors dominating the international and inter-regional load flow;
 – Non-adjacent inter-regional interconnections are neglected for computational
@@ -7909,7 +7909,7 @@ a
 =
 ```
 
-##### 1 ∑ −
+##### [^1]: ∑ −
 
 ```
 0
@@ -8409,14 +8409,14 @@ emissions in the LDF scenarios are assumed to remain constant at zero, the non-C
 gas emissions are derived from data in the existing literature, as if the scenarios
 remained at a stringency level of ~3% in the second half of the twenty-first century
 (see the lower panel in Fig. 3.13).
-We now have the fossil and industrial CO2 emission levels throughout the twenty-
+We now have the fossil and industrial CO[^2]: emission levels throughout the twenty-
 first century for each of the three scenarios, and have complemented these with the
-‘pseudo’ CO2 emission levels for the second half of the twenty-first century.
-Therefore, we can derive the corresponding non-CO2 emissions.
-In the first step, we derived the total non-CO2 emissions for a specific year and
+‘pseudo’ CO[^2]: emission levels for the second half of the twenty-first century.
+Therefore, we can derive the corresponding non-CO[^2]: emissions.
+In the first step, we derived the total non-CO[^2]: emissions for a specific year and
 for the world as a whole. In the second step, we determined the shares of global fos-
 sil and industrial emissions versus the land-use-related emissions—again regressed
-against the overall fossil CO2 emission level as an indicator of the ‘stringency’ of the
+against the overall fossil CO[^2]: emission level as an indicator of the ‘stringency’ of the
 scenario. In the third step, we disaggregated these fossil and land-use-specific emis-
 sion time series into regional time series. Again, the shares of the regional emissions
 were derived with the same quantile regressions shown in Fig. 3.13 above. With
@@ -8426,11 +8426,11 @@ sion levels of the other gases. In this study, we do not intend to provide proba
 emission scenarios and therefore limited our quantile regression choice to the
 median 50% setting for all regions, sectoral divisions, and other global total gases.
 The major advantage of this newly developed method compared with the EQW
-method developed earlier (Meinshausen et al. 2006) is that the negative correlations
-between CO2 and other gases can also be taken into account. By performing all
+method developed earlier (Meinshausen et al. [^2006]:) is that the negative correlations
+between CO[^2]: and other gases can also be taken into account. By performing all
 quantile regressions in the space defined by the global fossil and industrial CO2
 emissions in a particular year, any kind of non-linear, positive or negative relation-
-ship with other non-CO2 gas emission levels, sectoral divisions, or regional divi-
+ship with other non-CO[^2]: gas emission levels, sectoral divisions, or regional divi-
 sions are automatically incorporated into the final result—reflecting the overall
 characteristics of the chosen set of emission scenarios. Not all the 811 emission
 scenarios contained details of all the sectoral and regional divisions, but the step-
@@ -8438,7 +8438,7 @@ wise approach of this method can incorporate the characteristics from all the sc
 narios in whatever detail is available.
 Figure 3.14 shows sample distributions of the emission scenario characteristics for
 the year 2040 and a subset of 21 GHGs. The x-axis of each plot shows the global fossil
-and industrial CO2 emissions, and the y-axis shows the global emission levels of
+and industrial CO[^2]: emissions, and the y-axis shows the global emission levels of
 another GHG, with one marker (blue dot) for each literature-reported scenario consid-
 
 ered. The five red lines are quantile regressions at the levels of 20%, 33%, 50%
@@ -10391,7 +10391,7 @@ S., Ma, K., Makana, J.-R., Malhi, Y., McMahon, S.M., McShea, W.J., Memiaghe, H.R
 X., Morecroft, M., Musili, P.M., Myers, J.A., Novotny, V., de Oliveira, A., Ong, P., Orwig,
 D.A., Ostertag, R., Parker, G.G., Patankar, R., Phillips, R.P., Reynolds, G., Sack, L., Song,
 G.-Z.M., Su, S.-H., Sukumar, R., Sun, I.-F., Suresh, H.S., Swanson, M.E., Tan, S., Thomas,
-D.W., Thompson, J., Uriarte, M., Valencia, R., Vicentini, A., Vrška, T., Wang, X., Weiblen,
+D.W., Thompson, J., Uriarte, M., Valencia, R., Vicentini, A., Vr_š_ka, T., Wang, X., Weiblen,
 G.D., Wolf, A., Wu, S.-H., Xu, H., Yamakura, T., Yap, S., Zimmerman, J.K., 2018. Global
 importance of large-diameter trees. Global Ecology and Biogeography 27, 849–864. https://
 doi.org/10.1111/geb.12747
@@ -13940,7 +13940,7 @@ Division); IDB-MG-562
 Nass LL, Pereira PAA, Ellis D (2007) Biofuels in Brazil: An Overview. Crop Science 47 (6):2228–
 
 2237. doi:https://doi.org/10.2135/cropsci2007.03.0166
-NEEDS (2009) The NEEDS Life Cycle Inventory Database. http://www.needs-project.org/need-
+NEEDS (2009) The NEEDS Life Cycle Inventory Database. [http://www.needs-project.org/need-](http://www.needs-project.org/need-)
 swebdb/index.php. Accessed 15th April 2016 2016
 Nematollahi O, Hoghooghi H, Rasti M, Sedaghat A (2016) Energy demands and renewable energy
 resources in the Middle East. Renewable and Sustainable Energy Reviews 54:1172–1181.
@@ -14447,10 +14447,10 @@ transport, it offers a very powerful lever for decarbonisation. In terms of driv
 electrification, we cluster the world regions into three groups, according to the dif-
 fusion theory (Rogers [^2003]:):
 
-• Innovators: OECD North America (excluding Mexico), OECD Europe, OECD
+• _Innovators_: OECD North America (excluding Mexico), OECD Europe, OECD
 Pacific, and China
-• Moderate: Mexico, Non-OECD Asia, India, Eurasia, and Latin America
-• Late adopters: Africa and the Middle East.
+• _Moderate_: Mexico, Non-OECD Asia, India, Eurasia, and Latin America
+• _Late adopters_: Africa and the Middle East.
 
 Although this clustering is rough, it sufficiently mirrors the basic tendencies we
 modelled. The regions differ in the speed with which novel technologies, especially
@@ -17659,7 +17659,7 @@ solar photovoltaic (PV) and concentrated solar power plants:
 • Intensive agricultural production land;
 • Nature conservation areas and national parks;
 • Wetlands and swamps;
-• Closed grasslands (a land-use type) (GLC 2000).
+• Closed grasslands (a land-use type) (GLC [^2000]:).
 
 **7.2.2 Mapping Solar and Wind Potential**
 
@@ -18297,23 +18297,23 @@ emissions? Dynamic lifecycle analysis of wood bioenergy. Environmental Research 
 015007. https://doi.org/10.1088/1748-9326/aaa512
 Ter-Mikaelian, M.T., Colombo, S.J. & Chen, J., 2015. The Burning Question: Does Forest
 Bioenergy Reduce Carbon Emissions? A Review of Common Misconceptions about Forest
-Carbon Accounting. Journal of Forestry, 113(1), pp. 57–68.
+Carbon Accounting. _Journal of Forestry_, 113(1), pp. 57–68.
 Turkenburg, Arent et  al 2012, Turkenburg, W.  C., D.  J. Arent, R.  Bertani, A.  Faaij, M.  Hand,
 W. Krewitt, E. D. Larson, J. Lund, M. Mehos, T. Merrigan, C. Mitchell, J. R. Moreira, W. Sinke,
 V.  Sonntag-O’Brien, B.  Thresher, W. van Sark, E.  Usher and E.  Usher, 2012: Chapter 11  -
 Renewable Energy. In Global Energy Assessment - Toward a Sustainable Future, Cambridge
 University Press, Cambridge, UK and New York, NY, USA and the International Institute for
 Applied Systems Analysis, Laxenburg, Austria, pp. 761–900.
-Teske, Pregger 2015, Teske, S, Pregger, T., Naegler, T., Simon, S., Energy [R]evolution  -
-A sustainable World Energy Outlook 2015, Greenpeace International with the German
+Teske, Pregger 2015, Teske, S, Pregger, T., Naegler, T., Simon, S., _Energy [R]evolution  -_
+_A sustainable World Energy Outlook 2015_, Greenpeace International with the German
 Aerospace Centre (DLR), Institute of Engineering Thermodynamics, System Analysis and
 Technology Assessment, Stuttgart, Germany, https://www.scribd.com/document/333565532/
 Energy-Revolution-2015-Full
-WBGU 2003, World in Transition Towards Sustainable Energy Systems; German Advisory
+WBGU 2003, _World in Transition Towards Sustainable Energy Systems;_ German Advisory
 Council on Global Change (WBGU), H. Graßl, J. Kokott, M. Kulessa, J. Luther, F. Nuscheler,
 R. Sauerborn, H.-J. Schellnhuber, R. Schubert, E.-D. Schulze
 WRI 2018, World Resource Institute (WRI), Global Power Plant Database, web-based database,
-data download June 2018, http://datasets.wri.org/dataset/globalpowerplantdatabase
+data download June 2018, [http://datasets.wri.org/dataset/globalpowerplantdatabase](http://datasets.wri.org/dataset/globalpowerplantdatabase)
 
 **Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0
 International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits use, sharing,
@@ -19845,7 +19845,7 @@ emissions [Mt/yr]2
 1.5°C
 ```
 
-## Fig. 8.13 Global: development of CO2 emissions by sector and cumulative CO2 emissions (since
+## Fig. 8.13 Global: development of CO[^2]: emissions by sector and cumulative CO[^2]: emissions (since
 
 2015) in the scenarios (‘Savings’ = lower than in the 5.0 °C Scenario)
 
@@ -22843,7 +22843,7 @@ nologies is around 45%. For this analysis, we created five different power plant
 
 categories based on their current usual operation times and areas of use:
 
-• Limited dispatchable fossil and nuclear power plants: coal, lignite, and
+• **Limited dispatchable fossil and nuclear power plants**: coal, lignite, and
 
 ```
 nuclear power plants with limited ability to respond to changes in demand. These
@@ -22854,7 +22854,7 @@ required. Limited dispatchable power plants cannot deliver these services and ar
 therefore being phased-out.
 ```
 
-• Limited dispatchable renewable systems are CSP plants with integrated stor-
+• **Limited dispatchable renewable systems** are CSP plants with integrated stor-
 
 ```
 age and co-generation systems with renewable fuels (including geothermal heat).
@@ -22863,11 +22863,11 @@ demand, but can still be used as dispatch power plants for ‘day ahead’
 planning.
 ```
 
-• Dispatchable fossil fuel power plants are gas power plants that have very quick
+• **Dispatchable fossil fuel power plants** are gas power plants that have very quick
 
 reaction times and therefore provide valid power system services.
 
-• Dispatchable renewable power plants are hydropower plants (although they
+• **Dispatchable renewable power plants** are hydropower plants (although they
 
 ```
 are dependent on the climatic conditions in the region where the plant is used),
@@ -22877,7 +22877,7 @@ load-balancing services and is vital for the stability of the power system, as s
 age systems, interconnections, and, if possible, demand-side management.
 ```
 
-• Variable renewables are solar PV plants, onshore and offshore wind farms, and
+• **Variable renewables** are solar PV plants, onshore and offshore wind farms, and
 
 ```
 ocean energy generators. A sub-category of ocean energy plants—tidal energy
@@ -26892,7 +26892,7 @@ year to more than $760 billion/year in 2050. In both alternative scenarios, the 
 supply costs in 2050 will be around $690 billion/year The long-term costs for elec-
 tricity supply in 2050 will be 8%–9% lower than in the 5.0 °C Scenario as a result
 of the estimated generation costs and the electrification of heating and mobility.
-Compared with these results, the generation costs when the CO2 emission costs
+Compared with these results, the generation costs when the CO[^2]: emission costs
 are not considered will increase in the 5.0  °C case to 7.5 ct/kWh. In the 2.0  °C
 
 Scenario, they will increase until 2030, when they reach 7.3 ct/kWh, and then drop
@@ -27689,7 +27689,7 @@ emissions [Mt/yr]2
 1.5°C
 ```
 
-## Fig. 8.24 OECD North America: development of CO2 emissions by sector and cumulative CO2
+## Fig. 8.24 OECD North America: development of CO[^2]: emissions by sector and cumulative CO2
 
 emissions (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -32560,7 +32560,7 @@ yr
 1.5°C
 ```
 
-## Fig. 8.33 Latin America: development of CO2 emissions by sector and cumulative CO2 emissions
+## Fig. 8.33 Latin America: development of CO[^2]: emissions by sector and cumulative CO[^2]: emissions
 
 (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -37510,7 +37510,7 @@ emissions 2
 1.5°C
 ```
 
-## Fig. 8.42 OECD Europe: development of CO2 emissions by sector and cumulative CO2 emissions
+## Fig. 8.42 OECD Europe: development of CO[^2]: emissions by sector and cumulative CO[^2]: emissions
 
 (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -42217,7 +42217,7 @@ emissions
 1.5°C
 ```
 
-## Fig. 8.51 Africa: development of CO2 emissions by sector and cumulative CO2 emissions (after
+## Fig. 8.51 Africa: development of CO[^2]: emissions by sector and cumulative CO[^2]: emissions (after
 
 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -46815,7 +46815,7 @@ emissions
 1.5°C
 ```
 
-## Fig. 8.60 Middle East: development of CO2 emissions by sector and cumulative CO2 emissions
+## Fig. 8.60 Middle East: development of CO[^2]: emissions by sector and cumulative CO[^2]: emissions
 
 (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -51500,7 +51500,7 @@ emissions 2
 1.5°C
 ```
 
-### Fig. 8.69 Eastern Europe/Eurasia: development of CO2 emissions by sector and cumulative CO2
+### Fig. 8.69 Eastern Europe/Eurasia: development of CO[^2]: emissions by sector and cumulative CO2
 
 emissions (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -56090,7 +56090,7 @@ emissions 2
 1.5°C
 ```
 
-## Fig. 8.78 Non-OECD Asia: development of CO2 emissions by sector and cumulative CO2 emis-
+## Fig. 8.78 Non-OECD Asia: development of CO[^2]: emissions by sector and cumulative CO[^2]: emis-
 
 sions (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -61056,7 +61056,7 @@ emissions [Mt/yr]2
 1.5°C
 ```
 
-## Fig. 8.87 India: development of CO2 emissions by sector and cumulative CO2 emissions (after
+## Fig. 8.87 India: development of CO[^2]: emissions by sector and cumulative CO[^2]: emissions (after
 
 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -64130,7 +64130,7 @@ emissions [Mt/yr]2
 1.5°C
 ```
 
-## Fig. 8.96 China: development of CO2 emissions by sector and cumulative CO2 emissions (after
+## Fig. 8.96 China: development of CO[^2]: emissions by sector and cumulative CO[^2]: emissions (after
 
 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -69167,7 +69167,7 @@ emissions [Mt/yr]2
 1.5°C
 ```
 
-## Fig. 8.105 OECD Pacific: development of CO2 emissions by sector and cumulative CO2 emis-
+## Fig. 8.105 OECD Pacific: development of CO[^2]: emissions by sector and cumulative CO[^2]: emis-
 
 sions (after 2015) in the scenarios (‘Savings’ = reduction compared with the 5.0 °C Scenario)
 
@@ -73483,18 +73483,18 @@ tends to fall. The multipliers are shown in Table 10.3.
 Local employment factors were used where possible. These region-specific factors
 were:
 
-• OECD Americas—gas and coal fuel, photovoltaics (PV) and offshore wind (all
+• _OECD Americas—_gas and coal fuel, photovoltaics (PV) and offshore wind (all
 factors), and solar thermal power (construction and operation and maintenance
 (O&M)
-• OECD Europe—gas and coal fuel, offshore wind (all factors), solar thermal
+• _OECD Europe—_gas and coal fuel, offshore wind (all factors), solar thermal
 power (construction and O&M), and solar heating
-• OECD Pacific—gas and coal fuel
-• Africa—gas, coal, and biomass fuel
-• China—gas and coal fuel, and solar heating
-• Eastern Europe/Eurasia—gas and coal fuel
-• Developing Asia—coal fuel
-• India – coal fuel and solar heating
-• Latin America—coal and biomass fuels, onshore wind (all factors), nuclear (con-
+• _OECD Pacific—_gas and coal fuel
+• _Africa_—gas, coal, and biomass fuel
+• _China—_gas and coal fuel, and solar heating
+• _Eastern Europe/Eurasia—_gas and coal fuel
+• _Developing Asia_—coal fuel
+• _India_ – coal fuel and solar heating
+• _Latin America—_coal and biomass fuels, onshore wind (all factors), nuclear (con-
 struction and O&M), large hydro (O&M), and small hydro (construction and
 O&M).
 
@@ -74480,7 +74480,7 @@ tions of the solar PV and onshore wind industries to date. ISF has extended the
 
 application of IRENA’s work in two key ways:
 
-1. Mapping IRENA’s job categories against the International Standard
+1. **Mapping IRENA’s job categories against the International Standard**
 
 ```
 Classification of Occupations (ISCO): IRENA uses its own occupational clas-
@@ -74493,7 +74493,7 @@ occupations in the IRENA studies has been identified at one-digit, two-digit,
 three-digit, and four-digit levels of the ISCO.
 ```
 
-2. Unpacking mid- and low-skill job categories in IRENA’s study: Some of the
+2. **Unpacking mid- and low-skill job categories in IRENA’s study**: Some of the
 
 ```
 categories in the IRENA studies containe jobs that are of interest from a just
@@ -81569,7 +81569,7 @@ However, our lower 1.5 °C scenario first undercuts the radiative forcing traje
 of the SSP1_19 scenario, but then ends up at a similar radiative forcing level by
 
 2100.
-Figure 12.2 shows CO2 equivalence concentrations (upper panel) and radiative
+Figure 12.2 shows CO[^2]: equivalence concentrations (upper panel) and radiative
 forcing (lower panel) of the main scenarios used in IPCC Assessment Reports and
 this study’s scenarios. The RCP scenarios (shown in thin dotted lines) underlie the
 IPCC Fifth Assessment Report and the so-called ‘SSP scenarios’ provide the main

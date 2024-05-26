@@ -2562,7 +2562,7 @@ possibly taking vertices (edges, respectively) more than once.
 (iii) Show that ν2(G) + ρ2(G) = 2|V |.
 ```
 
-### 3.2. M-augmenting paths
+### 3.2. _M_-augmenting paths
 
 ```
 Basic in matching theory are M-augmenting paths, which are defined as follows. Let
@@ -5850,7 +5850,7 @@ _U_⊆_V_
 2
 ```
 
-.
+_._
 
 **Proof.** By Gallai’s theorem (Theorem 3.1) and the Tutte-Berge formula (Theorem
 5.1),
@@ -5873,7 +5873,7 @@ U⊆V
 2
 ```
 
-.
+_._
 
 **Exercises**
 
@@ -6089,10 +6089,10 @@ M△{v0v1, v1v2,... , vi−1vi}. Then C := (vi, vi+1,... , vj) is an M-blossom.
 Apply the algorithm (recursively) to G′ = G/C and M′ := M/C.
 ```
 
-• If it gives an M′-augmenting path P′ in G′, transform P′ to an
-M-augmenting path in G (as in the proof of Theorem 5.2).
-• If it concludes that M′ has maximum size in G′, then M has max-
-imum size in G (by Theorem 5.2).
+• If it gives an _M_′-augmenting path _P_′ in _G_′, transform _P_′ to an
+_M_-augmenting path in _G_ (as in the proof of Theorem 5.2).
+• If it concludes that _M_′ has maximum size in _G_′, then _M_ has max-
+imum size in _G_ (by Theorem 5.2).
 
 ```
 This gives a polynomial-time algorithm to find a maximum-size matching, which
@@ -9544,7 +9544,7 @@ w
 )
 ```
 
-.
+_._
 
 This contradicts the fact that _z_ is a vertex of _Q_.]
 So, by assumption, _z_′′ is integer. Hence also _z_′ = _b_ − _Az_′′ is integer, and hence _z_
@@ -10070,7 +10070,7 @@ is again an interval matrix. Let _N_ be the _t_ × _t_ matrix given by:
 .........
 ...
 ..................
-0 0 0 ··· ··· 1 −1
+0 0 0 ··· ··· [^1]: −1
 0 0 0 ··· ··· 0 1
 
 ```
@@ -10081,7 +10081,7 @@ is again an interval matrix. Let _N_ be the _t_ × _t_ matrix given by:
 
 ```
 
-.
+_._
 
 Then the matrix _N_ · _BT_ is a {[^0]:_,_±[^1]:} matrix, with at most one +1 and at most one
 −1 in each column.
@@ -13094,8 +13094,8 @@ We show:
 
 **Proof.** Order the elements of _X_ as _y_[^1]:_,... , ym_ in such a way that _w_(_y_[^1]:) ≥ _w_(_y_[^2]:) ≥
 
-... w(ym). Let n be the largest index for which w(yn) ≥ 0. Define Xi := {y1,... , yi}
-for i = 0,... , m and
+_... w_(_ym_). Let _n_ be the largest index for which _w_(_yn_) ≥ 0. Define _Xi_ := {_y_[^1]:_,... , yi_}
+for _i_ = 0_,... , m_ and
 
 (44) _Y_ := {_yi_ | _i_ ≤ _n_;_rM_(_Xi_) _> rM_(_Xi_−[^1]:)}_._
 
@@ -13447,10 +13447,10 @@ Ohio, 1971), The Association for Computing Machinery, New York, 1971, pp. 151–
 
 158.
 [1978] W.H. Cunningham, A.B. Marsh, III, A primal algorithm for optimum matching,
-[in: Polyhedral Combinatorics — Dedicated to the Memory of D.R. Fulkerson (M.L.
-Balinski, A.J. Hoffman, eds.)] Mathematical Programming Study 8 (1978) 50–72.
-[1951a] G.B. Dantzig, Application of the simplex method to a transportation problem, in: Ac-
-tivity Analysis of Production and Allocation — Proceedings of a Conference (Proceed-
+[in: _Polyhedral Combinatorics — Dedicated to the Memory of D.R. Fulkerson_ (M.L.
+Balinski, A.J. Hoffman, eds.)] _Mathematical Programming Study_ 8 (1978) 50–72.
+[1951a] G.B. Dantzig, Application of the simplex method to a transportation problem, in: _Ac-_
+_tivity Analysis of Production and Allocation — Proceedings of a Conference_ (Proceed-
 ings Conference on Linear Programming, Chicago, Illinois, 1949; Tj.C. Koopmans,
 ed.), Wiley, New York, 1951, pp. 359–373.
 
@@ -13728,8 +13728,8 @@ pp. 129–146.
 salesman problem, _Proceedings of the American Mathematical Society_ 7 (1956) 48–
 
 50.
-[1955] H.W. Kuhn, The Hungarian method for the assignment problem, Naval Research
-Logistics Quarterly 2 (1955) 83–97.
+[1955] H.W. Kuhn, The Hungarian method for the assignment problem, _Naval Research_
+_Logistics Quarterly_ 2 (1955) 83–97.
 
 [1976] E.L. Lawler, _Combinatorial Optimization: Networks and Matroids_, Holt, Rinehart
 and Winston, New York, 1976.

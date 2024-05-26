@@ -213,8 +213,8 @@ tions, and new mercies. In Jesus name. Amen
 
 [2]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/S5685SnmoII/AAAAAAAAACk/I2WvKFlbXLk/s1600-h/spring+tree.jpg
-2. http://www.mylivesignature.com/
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/S5685SnmoII/AAAAAAAAACk/I2WvKFlbXLk/s1600-h/spring+tree.jpg](http://4.bp.blogspot.com/_2wfF2Ki6_qg/S5685SnmoII/AAAAAAAAACk/I2WvKFlbXLk/s1600-h/spring+tree.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 mom2six (2010-03-16 01:52:56)
@@ -286,16 +286,16 @@ Photo credit: [3][4]http://www.flickr.com/photos/uxud/ / [5]CC BY 2.0
 
 [6] [7]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/S6EMzOIYz-I/AAAAAAAAADE/pMep8o71lCs/s1600-h/mud+print.jpg
-2. http://charismamag.com/index.php/prophetic-insight/26521-five-keys-for-2010#readmore
-3. http://www.blogger.com/%3Ca%3E%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http:
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/S6EMzOIYz-I/AAAAAAAAADE/pMep8o71lCs/s1600-h/mud+print.jpg](http://4.bp.blogspot.com/_2wfF2Ki6_qg/S6EMzOIYz-I/AAAAAAAAADE/pMep8o71lCs/s1600-h/mud+print.jpg)
+2. [http://charismamag.com/index.php/prophetic-insight/26521-five-keys-for-2010#readmore](http://charismamag.com/index.php/prophetic-insight/26521-five-keys-for-2010#readmore)
+3. [http://www.blogger.com/%3Ca%3E%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http:](http://www.blogger.com/%3Ca%3E%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http:)
 //www.flickr.com/photos/uxud/3666539245/"><arel="cc:attributionURL"href="http:
 //www.flickr.com/photos/uxud/">http://www.flickr.com/photos/uxud/</a>/<arel="license"href="http:
 //creativecommons.org/licenses/by/2.0/">CCBY2.0</a></div>
-4. http://www.flickr.com/photos/uxud/
-5. http://creativecommons.org/licenses/by/2.0/
+4. [http://www.flickr.com/photos/uxud/](http://www.flickr.com/photos/uxud/)
+5. [http://creativecommons.org/licenses/by/2.0/](http://creativecommons.org/licenses/by/2.0/)
 
-6. http://www.mylivesignature.com/
+6. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 7. file://localhost/mnt/ext/blogbooker/tmp/4c1nyqhk/4c1nyqhk-body.tex.lynx.html
 
 ```
@@ -319,7 +319,7 @@ is useless. Have I opened the gift or settled for a substitute?
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Faith Imagined (2010-03-20 14:10:00)
@@ -346,12 +346,12 @@ Thanks be unto you Lord for finding me when I didn’t even realize I was lost.
 
 [3]
 
-1. http://2.bp.blogspot.com/_2wfF2Ki6_qg/S6YS3uNjVzI/AAAAAAAAADM/VH46PcapkbM/s1600-h/hiding-Sashaw.jpg
-2. http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/
+1. [http://2.bp.blogspot.com/_2wfF2Ki6_qg/S6YS3uNjVzI/AAAAAAAAADM/VH46PcapkbM/s1600-h/hiding-Sashaw.jpg](http://2.bp.blogspot.com/_2wfF2Ki6_qg/S6YS3uNjVzI/AAAAAAAAADM/VH46PcapkbM/s1600-h/hiding-Sashaw.jpg)
+2. [http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/](http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/)
 photos/sashawolff/3388815964/"><arel="cc:attributionURL"href="http:
 //www.flickr.com/photos/sashawolff/">http://www.flickr.com/photos/sashawolff/</a>/<arel="license"href="http:
 //creativecommons.org/licenses/by/2.0/">CCBY2.0</a></div>
-3. http://www.mylivesignature.com/
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Christy (2010-03-22 16:27:30)
@@ -396,7 +396,7 @@ that will come down to the pit or walk the waters of my storm to be with me.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Julie (2010-03-24 15:56:27)
@@ -448,9 +448,9 @@ Make a scrapbooking design
 
 [3]
 
-1. http://smilebox.com/play/4d5455334f4449784e54513d0d0a&blogview=true&campaign=blog_playback_link
-2. http://www.smilebox.com/?partner=smilebox&campaign=blog_snapshot
-3. http://www.mylivesignature.com/
+1. [http://smilebox.com/play/4d5455334f4449784e54513d0d0a&blogview=true&campaign=blog_playback_link](http://smilebox.com/play/4d5455334f4449784e54513d0d0a&blogview=true&campaign=blog_playback_link)
+2. [http://www.smilebox.com/?partner=smilebox&campaign=blog_snapshot](http://www.smilebox.com/?partner=smilebox&campaign=blog_snapshot)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ## Up for a Challenge (2010-03-31 20:29)
 
@@ -465,11 +465,11 @@ start tomorrow, April 1st, with a post relating to the letter ”A”.
 
 [5]
 
-1. http://2.bp.blogspot.com/__Tx8k6-aLY0/S7GZBLtCuHI/AAAAAAAAAfg/cAXaT3m-TeY/s1600/blog+challenge.jpg
-2. http://shananagins2468.blogspot.com/2010/03/z-challenge.html
-3. http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html
-4. http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html
-5. http://www.mylivesignature.com/
+1. [http://2.bp.blogspot.com/__Tx8k6-aLY0/S7GZBLtCuHI/AAAAAAAAAfg/cAXaT3m-TeY/s1600/blog+challenge.jpg](http://2.bp.blogspot.com/__Tx8k6-aLY0/S7GZBLtCuHI/AAAAAAAAAfg/cAXaT3m-TeY/s1600/blog+challenge.jpg)
+2. [http://shananagins2468.blogspot.com/2010/03/z-challenge.html](http://shananagins2468.blogspot.com/2010/03/z-challenge.html)
+3. [http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html](http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html)
+4. [http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html](http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html)
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 arlee bird (2010-03-31 21:00:21)
@@ -525,7 +525,7 @@ for loving me enough to keep calling me back to you when you find that I have dr
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-04-01 11:08:42)
@@ -602,12 +602,12 @@ Photo by: [2]plentyofants
 
 [3]
 
-1. http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7UuZAsLQPI/AAAAAAAAADk/btNcGAYovT8/s1600/bare+tree.jpg
-2. http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/
+1. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7UuZAsLQPI/AAAAAAAAADk/btNcGAYovT8/s1600/bare+tree.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7UuZAsLQPI/AAAAAAAAADk/btNcGAYovT8/s1600/bare+tree.jpg)
+2. [http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/](http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/)
 photos/plentyofants/2158255532/"><arel="cc:attributionURL"href="http://www.flickr.com/photos/plentyofants/">
-http://www.flickr.com/photos/plentyofants/</a>/<arel="license"href="http:
+[http://www.flickr.com/photos/plentyofants/</a>/<arel="license"href="http:](http://www.flickr.com/photos/plentyofants/</a>/<arel="license"href="http:)
 //creativecommons.org/licenses/by/2.0/">CCBY2.0</a></div>
-3. http://www.mylivesignature.com/
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 Critty (2010-04-02 05:33:12)
 Powerful thoughts.
@@ -704,7 +704,7 @@ Because He was buried, I can now live freely
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Tori Cooper (2010-04-03 05:09:09)
@@ -753,7 +753,7 @@ some provision in His Word that you have yet to partake.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-04-03 07:56:59)
@@ -871,8 +871,8 @@ Happy Resurrection Day!
 
 [2]
 
-1. http://2.bp.blogspot.com/_2wfF2Ki6_qg/S4xZnOq_MbI/AAAAAAAAABo/nOUAfjgmFNM/s1600-h/luke24_1,6+-+Risen.jpg
-2. http://www.mylivesignature.com/
+1. [http://2.bp.blogspot.com/_2wfF2Ki6_qg/S4xZnOq_MbI/AAAAAAAAABo/nOUAfjgmFNM/s1600-h/luke24_1,6+-+Risen.jpg](http://2.bp.blogspot.com/_2wfF2Ki6_qg/S4xZnOq_MbI/AAAAAAAAABo/nOUAfjgmFNM/s1600-h/luke24_1,6+-+Risen.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Mike (2010-04-04 06:25:38)
@@ -924,11 +924,11 @@ Check out other A-Z challenge participants [4]here.
 
 [5]
 
-1. http://2.bp.blogspot.com/_2wfF2Ki6_qg/S7gAXWbOf9I/AAAAAAAAADs/2yhwGKk5D2k/s1600/102_0307.JPG
-2. http://1.bp.blogspot.com/_2wfF2Ki6_qg/S7gBVuW0yHI/AAAAAAAAAD0/1tOTxNpaV7c/s1600/102_0315.JPG
-3. http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7gDVB7sGfI/AAAAAAAAAD8/qSK9wDsBn0A/s1600/bella+clothed.jpg
-4. http://tossingitout.blogspot.com/
-5. http://www.mylivesignature.com/
+1. [http://2.bp.blogspot.com/_2wfF2Ki6_qg/S7gAXWbOf9I/AAAAAAAAADs/2yhwGKk5D2k/s1600/102_0307.JPG](http://2.bp.blogspot.com/_2wfF2Ki6_qg/S7gAXWbOf9I/AAAAAAAAADs/2yhwGKk5D2k/s1600/102_0307.JPG)
+2. [http://1.bp.blogspot.com/_2wfF2Ki6_qg/S7gBVuW0yHI/AAAAAAAAAD0/1tOTxNpaV7c/s1600/102_0315.JPG](http://1.bp.blogspot.com/_2wfF2Ki6_qg/S7gBVuW0yHI/AAAAAAAAAD0/1tOTxNpaV7c/s1600/102_0315.JPG)
+3. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7gDVB7sGfI/AAAAAAAAAD8/qSK9wDsBn0A/s1600/bella+clothed.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7gDVB7sGfI/AAAAAAAAAD8/qSK9wDsBn0A/s1600/bella+clothed.jpg)
+4. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 arlee bird (2010-04-05 05:26:14)
 I think doggy day definitely works. I’m sure a lot of people will really like the photos.
@@ -1026,14 +1026,14 @@ Photo Credit: [4]Chispita 666 via Flickr
 
 [5]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/whatyousee-bychispita666.jpg
-2. http://i988.photobucket.com/albums/af9/wateredsoul/whatyousee-bychispita666.jpg
-3. http://i988.photobucket.com/albums/af9/wateredsoul/whatyousee-bychispita666.jpg
-4. http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/whatyousee-bychispita666.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/whatyousee-bychispita666.jpg)
+2. [http://i988.photobucket.com/albums/af9/wateredsoul/whatyousee-bychispita666.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/whatyousee-bychispita666.jpg)
+3. [http://i988.photobucket.com/albums/af9/wateredsoul/whatyousee-bychispita666.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/whatyousee-bychispita666.jpg)
+4. [http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/](http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/)
 photos/gusilu/2798744891/"><arel="cc:attributionURL"href="http://www.flickr.com/photos/gusilu/">http:
 //www.flickr.com/photos/gusilu/</a>/<arel="license"href="http:
 //creativecommons.org/licenses/by/2.0/">CCBY2.0</a></div>
-5. http://www.mylivesignature.com/
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 The Alliterative Allomorph (2010-04-06 06:30:12)
@@ -1120,9 +1120,9 @@ posts [2]here.
 
 [3]
 
-1. http://coffeeringseverywhere.blogspot.com/2010/04/d-for-daddys-darling-daughter.html
-2. http://tossingitout.blogspot.com/
-3. http://www.mylivesignature.com/
+1. [http://coffeeringseverywhere.blogspot.com/2010/04/d-for-daddys-darling-daughter.html](http://coffeeringseverywhere.blogspot.com/2010/04/d-for-daddys-darling-daughter.html)
+2. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 LisaShaw (2010-04-07 13:49:31)
@@ -1211,9 +1211,9 @@ See what other g-related topics A-Z Challengers are discussing [2]here.
 
 [3]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/S71NLW_z4BI/AAAAAAAAAEM/gesSVWbStYU/s1600/Garden.jpg
-2. http://tossingitout.blogspot.com/
-3. http://www.mylivesignature.com/
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/S71NLW_z4BI/AAAAAAAAAEM/gesSVWbStYU/s1600/Garden.jpg](http://4.bp.blogspot.com/_2wfF2Ki6_qg/S71NLW_z4BI/AAAAAAAAAEM/gesSVWbStYU/s1600/Garden.jpg)
+2. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 arlee bird (2010-04-08 06:48:17)
@@ -1222,7 +1222,7 @@ Lee
 [1]Blogging From A to Z April Challenge
 ```
 
-1. http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html
+1. [http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html](http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html)
 WELCOME TO MY WORLD OF POETRY: (2010-04-08 09:37:18)
 A wonderful post to read, a real pleasure.
 Yvonne,
@@ -1356,11 +1356,11 @@ Check out other A-Z challenge participants [3]here.
 
 [4]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/hands.jpg
-2. http://www.flickr.com/photos/nojhan/1571935892/
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/hands.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/hands.jpg)
+2. [http://www.flickr.com/photos/nojhan/1571935892/](http://www.flickr.com/photos/nojhan/1571935892/)
 
-3. http://tossingitout.blogspot.com/
-4. http://www.mylivesignature.com/
+3. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-04-09 11:03:46)
@@ -1423,8 +1423,8 @@ Integrity. You will certainly be blessed. Now head on over there and enjoy a gre
 
 [2]
 
-1. http://swordofgoliath.blogspot.com/2010/04/master-of-integrity.html
-2. http://www.mylivesignature.com/
+1. [http://swordofgoliath.blogspot.com/2010/04/master-of-integrity.html](http://swordofgoliath.blogspot.com/2010/04/master-of-integrity.html)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 BLUEBUTTERFLY (2010-04-10 12:50:43)
@@ -1488,8 +1488,8 @@ ineffective in the kingdom of God. Our true identity can only be found by fellow
 
 [2]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/S8EBQg4OElI/AAAAAAAAAEU/7b_5neNefjg/s1600/identity_theft+photo.jpg
-2. http://www.mylivesignature.com/
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/S8EBQg4OElI/AAAAAAAAAEU/7b_5neNefjg/s1600/identity_theft+photo.jpg](http://4.bp.blogspot.com/_2wfF2Ki6_qg/S8EBQg4OElI/AAAAAAAAAEU/7b_5neNefjg/s1600/identity_theft+photo.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Bud Ezekiel H. (2010-04-11 00:04:31)
@@ -1589,8 +1589,8 @@ This post is a part of the A-Z challenge. Find other J-topics [1]here.
 
 [2]
 
-1. http://tossingitout.blogspot.com/
-2. http://www.mylivesignature.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Rae (2010-04-12 10:24:55)
@@ -1673,7 +1673,7 @@ Good word for J.
 Lee
 [1]Blogging From A to Z April Challenge
 
-1. http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html
+1. [http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html](http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html)
 
 Raquel Byrnes (2010-04-12 19:36:49)
 All this talk about journaling is making me want to go buy one.
@@ -1723,7 +1723,7 @@ Be sure to visit other A-Z challengers [1]here.
 [2]
 
 1. htp://tossitout.blogspot.com/
-2. http://www.mylivesignature.com/
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-04-13 07:13:25)
@@ -1832,9 +1832,9 @@ Check out other A-Z challenge participants [2]here.
 
 [3]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/drp.jpg
-2. http://tossingitout.blogspot.com/
-3. http://www.mylivesignature.com/
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/drp.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/drp.jpg)
+2. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Ellie (2010-04-14 14:55:32)
@@ -1946,9 +1946,9 @@ better word) to making marriage work? Or what tools are essential to having a ha
 
 [3]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/weddingbands.jpg
-2. http://tossingitout.blogspot.com/
-3. http://www.mylivesignature.com/
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/weddingbands.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/weddingbands.jpg)
+2. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Andrea (2010-04-15 13:34:37)
@@ -1983,7 +1983,7 @@ Lee
 [1]Blogging From A to Z April Challenge
 ```
 
-1. http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html
+1. [http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html](http://tossingitout.blogspot.com/2010/03/blog-boggled-blogging-from-to-z-april.html)
 Bud Ezekiel H. (2010-04-15 15:52:32)
 ...disqualify myself to answer this one:)
 but agree 100 % with what Lee said AND experienced...
@@ -2041,7 +2041,7 @@ As in the marriage vow, it is being there for each other to have and to hold, fo
 in sickness or in health, to love and to cherish, till death do us part.
 [1]_Read more ..._
 
-1. http://livwater.blogspot.com/2010/04/keeping-marriage.html
+1. [http://livwater.blogspot.com/2010/04/keeping-marriage.html](http://livwater.blogspot.com/2010/04/keeping-marriage.html)
 
 Ellie (2010-04-16 03:51:33)
 I have been married 25 yrs... The secret is to have your own hobbies, respect for one another and marry
@@ -2114,8 +2114,8 @@ getting to read all the new blogs, I’ve discovered through the [1]A-Z challeng
 
 [2]
 
-1. http://tossingitout.blogspot.com/
-2. http://www.mylivesignature.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 The Alliterative Allomorph (2010-04-16 09:38:48)
@@ -2255,8 +2255,8 @@ Now go in peace and may you enjoy a blessed weekend. Be sure to check out other 
 
 [2]
 
-1. http://tossingitout.blogspot.com/
-2. http://www.mylivesignature.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Will Burke (2010-04-17 15:13:07)
@@ -2313,7 +2313,7 @@ was younger. That is indeed part of the foolishness of youth. That was a really 
 Lee
 [1]May 3rd A to Z Challenge Reflections Mega Post
 
-1. http://tossingitout.blogspot.com/2010/04/overview.html
+1. [http://tossingitout.blogspot.com/2010/04/overview.html](http://tossingitout.blogspot.com/2010/04/overview.html)
 
 Tahereh (2010-04-18 06:19:33)
 a beautiful post. thanks so much for sharing :)
@@ -2387,13 +2387,13 @@ Flickr photo by [3]Jacob Garcia
 
 [4]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/runnerintrees.jpg
-2. http://tossingitout.blogspot.com/
-3. http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/runnerintrees.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/runnerintrees.jpg)
+2. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+3. [http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/](http://www.blogger.com/%3Cdiv%20xmlns:cc=%22http://creativecommons.org/ns#"about="http://www.flickr.com/)
 photos/jacobgarcia/2550606/"><arel="cc:attributionURL"href="http://www.flickr.com/photos/jacobgarcia/">http:
 //www.flickr.com/photos/jacobgarcia/</a>/<arel="license"href="http:
 //creativecommons.org/licenses/by/2.0/">CCBY2.0</a></div>
-4. http://www.mylivesignature.com/
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Lisa (2010-04-19 22:14:12)
@@ -2502,7 +2502,7 @@ is my soul within me. (NIV)
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Mike (2010-04-20 11:00:18)
@@ -2572,7 +2572,7 @@ Sometimes some real quiet is necessary to allow the power of the Holy Spirit to 
 Lee
 [1]A to Z Challenge Reflections Mega Post
 
-1. http://tossingitout.blogspot.com/2010/04/q-is-for-quotes-what-people-have-said.html
+1. [http://tossingitout.blogspot.com/2010/04/q-is-for-quotes-what-people-have-said.html](http://tossingitout.blogspot.com/2010/04/q-is-for-quotes-what-people-have-said.html)
 
 Marjorie (2010-04-20 21:43:33)
 Patience and quiet really do go hand in hand. I tell my oldest all the time that we should be happy to wait, because
@@ -2669,9 +2669,9 @@ Now review some other interesting ”R” related post from other [2]A-Z Challen
 
 [3]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/rewind.jpg
-2. http://tossingitout.blogspot.com/
-3. http://www.mylivesignature.com/
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/rewind.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/rewind.jpg)
+2. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Andrea (2010-04-21 14:05:38)
@@ -2768,7 +2768,7 @@ Until ”T” time tomorrow, I hope enjoy a wonderful evening.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Shannon (2010-04-22 23:31:30)
@@ -2869,9 +2869,9 @@ Now teeter on over and see what other A-Z Challengers are discussing [2]here.
 
 [3]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/glassofwater.jpg
-2. http://tossingitout.blogspot.com/
-3. http://www.mylivesignature.com/
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/glassofwater.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/glassofwater.jpg)
+2. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Bud Ezekiel H. (2010-04-23 18:26:41)
@@ -2917,7 +2917,7 @@ Lee
 [1]A to Z Challenge Reflections Mega Post
 ```
 
-1. http://tossingitout.blogspot.com/2010/04/q-is-for-quotes-what-people-have-said.html
+1. [http://tossingitout.blogspot.com/2010/04/q-is-for-quotes-what-people-have-said.html](http://tossingitout.blogspot.com/2010/04/q-is-for-quotes-what-people-have-said.html)
 
 Linda (2010-04-24 00:34:09)
 Oh good tie in between substitutes for water and substitutes for Jesus. There is no substitute for Him.
@@ -2998,7 +2998,7 @@ I hope you enjoy a wonderful weekend.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Will Burke (2010-04-24 19:56:31)
@@ -3062,7 +3062,7 @@ Lee
 [1]May 3rd A to Z Challenge Reflections Mega Post
 Lee
 
-1. http://tossingitout.blogspot.com/2010/04/overview.html
+1. [http://tossingitout.blogspot.com/2010/04/overview.html](http://tossingitout.blogspot.com/2010/04/overview.html)
 
 Jan (2010-04-25 10:53:09)
 Thanks for commenting on my blog. I found your and have read all the A to Z posts. Great insight! Enjoyed reading
@@ -3128,15 +3128,15 @@ If you have a minute, take some time to listen to The Corinthian Song by Micah S
 
 [3]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/vessel.jpg
-2. http://www.blogger.com/%3Cobject%20width=%22500%22%20height=%22405%22%3E%3Cparam%20name=%22movie%22%
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/vessel.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/vessel.jpg)
+2. [http://www.blogger.com/%3Cobject%20width=%22500%22%20height=%22405%22%3E%3Cparam%20name=%22movie%22%](http://www.blogger.com/%3Cobject%20width=%22500%22%20height=%22405%22%3E%3Cparam%20name=%22movie%22%)
 20value=%22http://www.youtube.com/v/cwLcYyRa44I&hl=en_US&fs=1&color1=0x2b405b&color2=0x6b8ab6&border=1%22%3E%
 3C/param%3E%3Cparam%20name=%22allowFullScreen%22%20value=%22true%22%3E%3C/param%3E%3Cparam%20name=
 %22allowscriptaccess%22%20value=%22always%22%3E%3C/param%3E%3Cembed%20src=%22http:
 //www.youtube.com/v/cwLcYyRa44I&hl=en_US&fs=1&color1=0x2b405b&color2=0x6b8ab6&border=1%22%20type=
 %22application/x-shockwave-flash%22%20allowscriptaccess=%22always%22%20allowfullscreen=%22true%22%20width=
 %22500%22%20height=%22405%22%3E%3C/embed%3E%3C/object%3E
-3. http://www.mylivesignature.com/
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Faith Imagined (2010-04-26 16:07:15)
@@ -3209,7 +3209,7 @@ will not consume you.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Just Be Real (2010-04-27 11:08:31)
@@ -3244,7 +3244,7 @@ Lee
 [1]May 3rd A to Z Challenge Reflections Mega Post
 ```
 
-1. http://tossingitout.blogspot.com/2010/04/whats-next.html
+1. [http://tossingitout.blogspot.com/2010/04/whats-next.html](http://tossingitout.blogspot.com/2010/04/whats-next.html)
 Bud Ezekiel H. (2010-04-27 19:03:01)
 :)...you know, i love this post! it’s along my thought patterns today. God bless you, sis!
 PRAISE ADONAI !!!
@@ -3291,10 +3291,10 @@ Well that’s a pretty random view of me. Find other single, sassy bloggers and 
 
 [4]
 
-1. http://i113.photobucket.com/albums/n202/cmaemac/Blog%20Items/singleblog1.jpg
-2. http://exemplifyonline.com/singles/
-3. http://exemplifyonline.com/singles/2010/04/27/ssb-april-link-up-7-random-things-about-you/
-4. http://www.mylivesignature.com/
+1. [http://i113.photobucket.com/albums/n202/cmaemac/Blog%20Items/singleblog1.jpg](http://i113.photobucket.com/albums/n202/cmaemac/Blog%20Items/singleblog1.jpg)
+2. [http://exemplifyonline.com/singles/](http://exemplifyonline.com/singles/)
+3. [http://exemplifyonline.com/singles/2010/04/27/ssb-april-link-up-7-random-things-about-you/](http://exemplifyonline.com/singles/2010/04/27/ssb-april-link-up-7-random-things-about-you/)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Critty (2010-04-28 01:07:51)
@@ -3383,9 +3383,9 @@ being expounded today [2]here.
 
 [3]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/x.jpg
-2. http://tossingitout.blogspot.com/
-3. http://www.mylivesignature.com/
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/x.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/x.jpg)
+2. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 BLUEBUTTERFLY (2010-04-28 16:25:55)
@@ -3485,7 +3485,7 @@ Are you yielding to the right things in your life? Have you given the Master a y
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Mariel (2010-04-29 20:33:09)
@@ -3560,12 +3560,12 @@ some extra time. But in the mean time, zap over to [5]Tossing It Out find out wh
 
 [6]
 
-1. http://i988.photobucket.com/albums/af9/wateredsoul/zenithtvviaflicker.jpg
-2. http://arrogantrat.blogspot.com/
-3. http://arrogantrat.blogspot.com/2010/04/116365-and-blogging-from-to-z-x.html
-4. http://i988.photobucket.com/albums/af9/wateredsoul/SANY0164.jpg
-5. http://tossingitout.blogspot.com/
-6. http://www.mylivesignature.com/
+1. [http://i988.photobucket.com/albums/af9/wateredsoul/zenithtvviaflicker.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/zenithtvviaflicker.jpg)
+2. [http://arrogantrat.blogspot.com/](http://arrogantrat.blogspot.com/)
+3. [http://arrogantrat.blogspot.com/2010/04/116365-and-blogging-from-to-z-x.html](http://arrogantrat.blogspot.com/2010/04/116365-and-blogging-from-to-z-x.html)
+4. [http://i988.photobucket.com/albums/af9/wateredsoul/SANY0164.jpg](http://i988.photobucket.com/albums/af9/wateredsoul/SANY0164.jpg)
+5. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+6. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Shannon (2010-04-30 15:05:08)
@@ -3662,7 +3662,7 @@ Watch for the May 3 A-Z Mega post. Until then hope y’all have a great weekend.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 SonshineMusic i.e. Rebecca T. (2010-05-01 04:04:01)
@@ -3715,7 +3715,7 @@ Lee
 [1]Tossing It Out
 ```
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 Debra Harris-Johnson (2010-05-02 17:39:27)
 Wanda I loved all your postings and you really inspire me. I am happy to call you friend and want to congratulate
 you not only for completing the challenge but for the many comments you took time out to make. Love you girl!
@@ -3796,22 +3796,22 @@ Find out what other challenge participants had to say:
 
 [15]
 
-1. http://shananagins2468.blogspot.com/
-2. http://rubyndub.blogspot.com/
-3. http://coffeeringseverywhere.blogspot.com/
-4. http://clancytales.blogspot.com/
-5. http://arrogantrat.blogspt.com/
+1. [http://shananagins2468.blogspot.com/](http://shananagins2468.blogspot.com/)
+2. [http://rubyndub.blogspot.com/](http://rubyndub.blogspot.com/)
+3. [http://coffeeringseverywhere.blogspot.com/](http://coffeeringseverywhere.blogspot.com/)
+4. [http://clancytales.blogspot.com/](http://clancytales.blogspot.com/)
+5. [http://arrogantrat.blogspt.com/](http://arrogantrat.blogspt.com/)
 6. mailto:swordofgoliath@blogspot.com
-7. http://ellasedge.blogspt.com/
-8. http://arise2write.blogspot.com/
-9. http://frazierfauxpaus.blogspot.com/
-10. http://b-e-ingtransformed.blogspot.com/
-11. http://whitsendhome.blogspot.com/
+7. [http://ellasedge.blogspt.com/](http://ellasedge.blogspt.com/)
+8. [http://arise2write.blogspot.com/](http://arise2write.blogspot.com/)
+9. [http://frazierfauxpaus.blogspot.com/](http://frazierfauxpaus.blogspot.com/)
+10. [http://b-e-ingtransformed.blogspot.com/](http://b-e-ingtransformed.blogspot.com/)
+11. [http://whitsendhome.blogspot.com/](http://whitsendhome.blogspot.com/)
 
-12. http://thirstyliving.blogspot.com/
-13. http://s988.photobucket.com/albums/af9/wateredsoul/?action=view&current=Sunshineaward4-24-10.jpg
-14. http://tossingitout.blogspot.com/
-15. http://www.mylivesignature.com/
+12. [http://thirstyliving.blogspot.com/](http://thirstyliving.blogspot.com/)
+13. [http://s988.photobucket.com/albums/af9/wateredsoul/?action=view&current=Sunshineaward4-24-10.jpg](http://s988.photobucket.com/albums/af9/wateredsoul/?action=view&current=Sunshineaward4-24-10.jpg)
+14. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+15. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Bud Ezekiel H. (2010-05-03 17:26:12)
@@ -3986,11 +3986,11 @@ Visit today’s hostess, Penny at [4]pennyraine.com/blog to find what others are
 
 [5]
 
-1. http://www.the160acrewoods.com/
-2. http://the160acrewoods.com/
-3. http://family.webshots.com/photo/2478543780045146464EonwIA
-4. http://pennyraine.com/blog
-5. http://www.mylivesignature.com/
+1. [http://www.the160acrewoods.com/](http://www.the160acrewoods.com/)
+2. [http://the160acrewoods.com/](http://the160acrewoods.com/)
+3. [http://family.webshots.com/photo/2478543780045146464EonwIA](http://family.webshots.com/photo/2478543780045146464EonwIA)
+4. [http://pennyraine.com/blog](http://pennyraine.com/blog)
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Bud Ezekiel H. (2010-05-05 06:55:22)
@@ -4159,12 +4159,12 @@ be visiting your place. :0)
 
 [6]
 
-1. http://whitsendhome.blogspot.com/
-2. http://heiresstothekingdom.blogspot.com/
-3. http://christina-weigand.blogspot.com/
-4. http://swordofgoliath.blogspot.com/
-5. http://www.ichoosebliss.net/
-6. http://www.mylivesignature.com/
+1. [http://whitsendhome.blogspot.com/](http://whitsendhome.blogspot.com/)
+2. [http://heiresstothekingdom.blogspot.com/](http://heiresstothekingdom.blogspot.com/)
+3. [http://christina-weigand.blogspot.com/](http://christina-weigand.blogspot.com/)
+4. [http://swordofgoliath.blogspot.com/](http://swordofgoliath.blogspot.com/)
+5. [http://www.ichoosebliss.net/](http://www.ichoosebliss.net/)
+6. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Bud Ezekiel H. (2010-05-06 16:47:16)
@@ -4223,8 +4223,8 @@ your perspective on a matter lately? If so, please share.
 
 [2]
 
-1. http://2.bp.blogspot.com/_2wfF2Ki6_qg/S-ORfoKuo2I/AAAAAAAAAGQ/HC_PKPPihy4/s1600/jailed.jpg
-2. http://www.mylivesignature.com/
+1. [http://2.bp.blogspot.com/_2wfF2Ki6_qg/S-ORfoKuo2I/AAAAAAAAAGQ/HC_PKPPihy4/s1600/jailed.jpg](http://2.bp.blogspot.com/_2wfF2Ki6_qg/S-ORfoKuo2I/AAAAAAAAAGQ/HC_PKPPihy4/s1600/jailed.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 AnooCre8ion (2010-05-07 12:06:09)
@@ -4318,10 +4318,10 @@ In whatever way you choose to spend it, I hope that you enjoy a wonderful Mother
 
 [4]
 
-1. http://www.commentsyard.com/
-2. http://www.commentsyard.com/comments/mothers-day/
-3. http://www.commentsyard.com/happy-mothers-day-graphic/
-4. http://www.mylivesignature.com/
+1. [http://www.commentsyard.com/](http://www.commentsyard.com/)
+2. [http://www.commentsyard.com/comments/mothers-day/](http://www.commentsyard.com/comments/mothers-day/)
+3. [http://www.commentsyard.com/happy-mothers-day-graphic/](http://www.commentsyard.com/happy-mothers-day-graphic/)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-09 07:18:17)
@@ -4361,8 +4361,8 @@ _God_ _soon I’ll be praising again. He puts a smile on my face. He’s my God
 
 [2]
 
-1. http://1.bp.blogspot.com/_2wfF2Ki6_qg/S-lOIn075SI/AAAAAAAAAGY/ncxoj6kQHQs/s1600/blahs.jpg
-2. http://www.mylivesignature.com/
+1. [http://1.bp.blogspot.com/_2wfF2Ki6_qg/S-lOIn075SI/AAAAAAAAAGY/ncxoj6kQHQs/s1600/blahs.jpg](http://1.bp.blogspot.com/_2wfF2Ki6_qg/S-lOIn075SI/AAAAAAAAAGY/ncxoj6kQHQs/s1600/blahs.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Will Burke (2010-05-11 12:45:47)
@@ -4454,10 +4454,10 @@ Give.
 
 [4]
 
-1. http://2.bp.blogspot.com/_2wfF2Ki6_qg/S-qW2I-58BI/AAAAAAAAAGg/9zzyo_4r6qk/s1600/hills+Isaiah+53-10.jpg
-2. http://www.the160acrewoods.com/
-3. http://www.allyouhavetogive.com/
-4. http://www.mylivesignature.com/
+1. [http://2.bp.blogspot.com/_2wfF2Ki6_qg/S-qW2I-58BI/AAAAAAAAAGg/9zzyo_4r6qk/s1600/hills+Isaiah+53-10.jpg](http://2.bp.blogspot.com/_2wfF2Ki6_qg/S-qW2I-58BI/AAAAAAAAAGg/9zzyo_4r6qk/s1600/hills+Isaiah+53-10.jpg)
+2. [http://www.the160acrewoods.com/](http://www.the160acrewoods.com/)
+3. [http://www.allyouhavetogive.com/](http://www.allyouhavetogive.com/)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 ozjane (2010-05-12 06:59:37)
@@ -4614,8 +4614,8 @@ say that if you refuse to stop, you will step onto new terrain.
 
 [2]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/S-2oypmS5oI/AAAAAAAAAGo/z6io6twKEwY/s1600/step+in+the+path.jpg
-2. http://www.mylivesignature.com/
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/S-2oypmS5oI/AAAAAAAAAGo/z6io6twKEwY/s1600/step+in+the+path.jpg](http://4.bp.blogspot.com/_2wfF2Ki6_qg/S-2oypmS5oI/AAAAAAAAAGo/z6io6twKEwY/s1600/step+in+the+path.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-14 20:23:04)
@@ -4712,7 +4712,7 @@ solution? Perhaps it’s time to silence the ranting, turn back and confidently 
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 BLUEBUTTERFLY (2010-05-16 04:21:25)
@@ -4795,8 +4795,8 @@ When do I need to exhibit quietness?
 
 [2]
 
-1. http://wateredsoul.blogspot.com/2010/05/finding-my-strength.html
-2. http://www.mylivesignature.com/
+1. [http://wateredsoul.blogspot.com/2010/05/finding-my-strength.html](http://wateredsoul.blogspot.com/2010/05/finding-my-strength.html)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 BLUEBUTTERFLY (2010-05-17 22:15:03)
@@ -4857,7 +4857,7 @@ Lee
 [1]Tossing It Out
 ```
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 
 ## You’re Unforgettable (2010-05-19 06:31)
 
@@ -4869,11 +4869,11 @@ Visit today’s host, Amydeanne at [3]The 160 Acre Woods for other Word Filled W
 
 [4]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/S_NRL6hSLqI/AAAAAAAAAGw/ryqV1zhLUmw/s1600/bonding.jpg
-2. http://1.bp.blogspot.com/_2wfF2Ki6_qg/S_NhQKYlBQI/AAAAAAAAAG4/gIeBFWZTAks/s1600/Never-forget+Isaiah.jpg
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/S_NRL6hSLqI/AAAAAAAAAGw/ryqV1zhLUmw/s1600/bonding.jpg](http://4.bp.blogspot.com/_2wfF2Ki6_qg/S_NRL6hSLqI/AAAAAAAAAGw/ryqV1zhLUmw/s1600/bonding.jpg)
+2. [http://1.bp.blogspot.com/_2wfF2Ki6_qg/S_NhQKYlBQI/AAAAAAAAAG4/gIeBFWZTAks/s1600/Never-forget+Isaiah.jpg](http://1.bp.blogspot.com/_2wfF2Ki6_qg/S_NhQKYlBQI/AAAAAAAAAG4/gIeBFWZTAks/s1600/Never-forget+Isaiah.jpg)
 
-3. http://the160acrewoods.com/
-4. http://www.mylivesignature.com/
+3. [http://the160acrewoods.com/](http://the160acrewoods.com/)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Karen (2010-05-19 06:56:55)
@@ -4999,7 +4999,7 @@ Happy Friday
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-21 11:32:44)
@@ -5052,9 +5052,9 @@ and/or accolades but there is only one that truly SAVES and SATISFIES.
 
 [3]
 
-1. http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7NHKABNhCI/AAAAAAAAADU/6YQ34t68LEc/s1600/jesusonthecross02.jpg
-2. http://www.heartlight.org/
-3. http://www.mylivesignature.com/
+1. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7NHKABNhCI/AAAAAAAAADU/6YQ34t68LEc/s1600/jesusonthecross02.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7NHKABNhCI/AAAAAAAAADU/6YQ34t68LEc/s1600/jesusonthecross02.jpg)
+2. [http://www.heartlight.org/](http://www.heartlight.org/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Andrea (2010-05-24 16:41:46)
@@ -5118,9 +5118,9 @@ Reading a good book? Do share
 
 [3]
 
-1. http://shouldbereading.wordpress.com/
-2. http://readinnwritin.blogspot.com/
-3. http://www.mylivesignature.com/
+1. [http://shouldbereading.wordpress.com/](http://shouldbereading.wordpress.com/)
+2. [http://readinnwritin.blogspot.com/](http://readinnwritin.blogspot.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 smellincoffee (2010-05-25 23:49:54)
@@ -5172,11 +5172,11 @@ Fill up on other verses from the Word this Wednesday by visiting today’s hoste
 
 [4]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/S_yBUnspWXI/AAAAAAAAAHE/UZngfJNPdSQ/s1600/fallen+tree-Psalms+145;14.
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/S_yBUnspWXI/AAAAAAAAAHE/UZngfJNPdSQ/s1600/fallen+tree-Psalms+145;14.](http://4.bp.blogspot.com/_2wfF2Ki6_qg/S_yBUnspWXI/AAAAAAAAAHE/UZngfJNPdSQ/s1600/fallen+tree-Psalms+145;14.)
 jpg
-2. http://susan2956.blogspot.com/
-3. http://the160acrewoods.com/
-4. http://www.mylivesignature.com/
+2. [http://susan2956.blogspot.com/](http://susan2956.blogspot.com/)
+3. [http://the160acrewoods.com/](http://the160acrewoods.com/)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-26 00:51:38)
@@ -5314,13 +5314,13 @@ Teacher this year?
 
 [7]
 
-1. http://exemplifyonline.com/
-2. http://wateredsoul.blogspot.com/2010/03/revisit-tomb.html
-3. http://wateredsoul.blogspot.com/2010/02/never-forsaken.html
-4. http://wateredsoul.blogspot.com/2010/02/never-forsaken.html
-5. http://wateredsoul.blogspot.com/2010/03/celebration-time-come-on.html
-6. http://wateredsoul.blogspot.com/2010/04/bare-but-not-barren.html/
-7. http://www.mylivesignature.com/
+1. [http://exemplifyonline.com/](http://exemplifyonline.com/)
+2. [http://wateredsoul.blogspot.com/2010/03/revisit-tomb.html](http://wateredsoul.blogspot.com/2010/03/revisit-tomb.html)
+3. [http://wateredsoul.blogspot.com/2010/02/never-forsaken.html](http://wateredsoul.blogspot.com/2010/02/never-forsaken.html)
+4. [http://wateredsoul.blogspot.com/2010/02/never-forsaken.html](http://wateredsoul.blogspot.com/2010/02/never-forsaken.html)
+5. [http://wateredsoul.blogspot.com/2010/03/celebration-time-come-on.html](http://wateredsoul.blogspot.com/2010/03/celebration-time-come-on.html)
+6. [http://wateredsoul.blogspot.com/2010/04/bare-but-not-barren.html/](http://wateredsoul.blogspot.com/2010/04/bare-but-not-barren.html/)
+7. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Bud Ezekiel H. (2010-05-27 00:04:55)
@@ -5412,8 +5412,8 @@ yourself tagged, my friend.
 
 [2]
 
-1. http://ellasedge.blogspot.com/
-2. http://www.mylivesignature.com/
+1. [http://ellasedge.blogspot.com/](http://ellasedge.blogspot.com/)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-27 09:10:45)
@@ -5473,10 +5473,10 @@ Grateful to all those who serve in our military and thanks be to God who provide
 
 [4]
 
-1. http://www.wishafriend.com/graphics/
-2. http://www.wishafriend.com/graphics/
-3. http://www.wishafriend.com/graphics/holidays/memorialday/
-4. http://www.mylivesignature.com/
+1. [http://www.wishafriend.com/graphics/](http://www.wishafriend.com/graphics/)
+2. [http://www.wishafriend.com/graphics/](http://www.wishafriend.com/graphics/)
+3. [http://www.wishafriend.com/graphics/holidays/memorialday/](http://www.wishafriend.com/graphics/holidays/memorialday/)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-05-31 06:28:57)
@@ -5538,27 +5538,27 @@ each of them and if you haven’t already visited these blogs mentioned, please 
 
 [18]
 
-1. http://frazierfauxpaus.blogspot.com/2010/05/bffbye-my-facebook-friend.html
-2. http://kindovermatter.blogspot.com/p/kind-over-matters-freebies.html
-3. http://highlyfavored.affiliateshelpdesk.com/2010/05/26/
+1. [http://frazierfauxpaus.blogspot.com/2010/05/bffbye-my-facebook-friend.html](http://frazierfauxpaus.blogspot.com/2010/05/bffbye-my-facebook-friend.html)
+2. [http://kindovermatter.blogspot.com/p/kind-over-matters-freebies.html](http://kindovermatter.blogspot.com/p/kind-over-matters-freebies.html)
+3. [http://highlyfavored.affiliateshelpdesk.com/2010/05/26/](http://highlyfavored.affiliateshelpdesk.com/2010/05/26/)
 are-you-missing-out-on-the-main-attraction-of-life/comment-page-1/
-4. http://rachelwojnarowski.wordpress.com/2010/05/25/true-grace/
-5. http://watchmefuze.blogspot.com/2010/05/waiting-on-lord.html
-6. http://4.bp.blogspot.com/_2wfF2Ki6_qg/TAQo6LMLCDI/AAAAAAAAAHU/zFicWd0G0qg/s1600/versatile-bloggeraward+
+4. [http://rachelwojnarowski.wordpress.com/2010/05/25/true-grace/](http://rachelwojnarowski.wordpress.com/2010/05/25/true-grace/)
+5. [http://watchmefuze.blogspot.com/2010/05/waiting-on-lord.html](http://watchmefuze.blogspot.com/2010/05/waiting-on-lord.html)
+6. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/TAQo6LMLCDI/AAAAAAAAAHU/zFicWd0G0qg/s1600/versatile-bloggeraward+](http://4.bp.blogspot.com/_2wfF2Ki6_qg/TAQo6LMLCDI/AAAAAAAAAHU/zFicWd0G0qg/s1600/versatile-bloggeraward+)
 received+5-12-10+by+Sugar+tails.jpg
-7. http://wisdomvirtueandrubies.wordpress.com/
-8. http://empowered4lyfe.wordpress.com/
-9. http://justanotherclaypot.blogspot.com/
-10. http://chelled.blogspot.com/
-11. http://speakablegifts.blogspot.com/
-12. http://apilgrimsproject.blogspot.com/
-13. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TAQpKLBuy1I/AAAAAAAAAHY/HYdAY8YCgFo/s1600/From_Me_To_You_Award_by+
+7. [http://wisdomvirtueandrubies.wordpress.com/](http://wisdomvirtueandrubies.wordpress.com/)
+8. [http://empowered4lyfe.wordpress.com/](http://empowered4lyfe.wordpress.com/)
+9. [http://justanotherclaypot.blogspot.com/](http://justanotherclaypot.blogspot.com/)
+10. [http://chelled.blogspot.com/](http://chelled.blogspot.com/)
+11. [http://speakablegifts.blogspot.com/](http://speakablegifts.blogspot.com/)
+12. [http://apilgrimsproject.blogspot.com/](http://apilgrimsproject.blogspot.com/)
+13. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TAQpKLBuy1I/AAAAAAAAAHY/HYdAY8YCgFo/s1600/From_Me_To_You_Award_by+](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TAQpKLBuy1I/AAAAAAAAAHY/HYdAY8YCgFo/s1600/From_Me_To_You_Award_by+)
 Yvonne+5-15-10.jpg
-14. http://welcometomyworldofpoetry.blogspot.com/
-15. http://hallelujahanyhow.blogspot.com/
-16. http://sugartails-glowingirl.blogspot.com/
-17. http://readinnwritin.blogspot.com/
-18. http://www.mylivesignature.com/
+14. [http://welcometomyworldofpoetry.blogspot.com/](http://welcometomyworldofpoetry.blogspot.com/)
+15. [http://hallelujahanyhow.blogspot.com/](http://hallelujahanyhow.blogspot.com/)
+16. [http://sugartails-glowingirl.blogspot.com/](http://sugartails-glowingirl.blogspot.com/)
+17. [http://readinnwritin.blogspot.com/](http://readinnwritin.blogspot.com/)
+18. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Karen (2010-05-31 22:32:16)
@@ -5640,8 +5640,8 @@ What are you currently reading?
 
 [2]
 
-1. http://shouldbereading.wordpress.com/
-2. http://www.mylivesignature.com/
+1. [http://shouldbereading.wordpress.com/](http://shouldbereading.wordpress.com/)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-06-01 00:44:54)
@@ -5673,13 +5673,13 @@ I think I will revisit this teaser in the morning. It looks good
 My teaser is [1]here
 ```
 
-1. http://readingadventures.blogspot.com/2010/06/teaser-tuesday-cottage-by-sea-by-ciji.html
+1. [http://readingadventures.blogspot.com/2010/06/teaser-tuesday-cottage-by-sea-by-ciji.html](http://readingadventures.blogspot.com/2010/06/teaser-tuesday-cottage-by-sea-by-ciji.html)
 Lisa (2010-06-01 07:44:30)
 [1]Here’s mine
-1. http://when-she-reads.blogspot.com/2010/06/teaser-tuesday-center-of-attention.html
+1. [http://when-she-reads.blogspot.com/2010/06/teaser-tuesday-center-of-attention.html](http://when-she-reads.blogspot.com/2010/06/teaser-tuesday-center-of-attention.html)
 Lady Q (2010-06-01 09:47:05)
 That’s a thought-provoking teaser! Here’s my teaser for [1]The Smoke Thief.
-1. http://letthemreadbooks.blogspot.com/
+1. [http://letthemreadbooks.blogspot.com/](http://letthemreadbooks.blogspot.com/)
 PatriciaW (2010-06-01 10:36:05)
 Oooh, interesting quote. I didn’t post a teaser today, so here’s one:
 Yes, take a breath, dear, of course he loves ”your personality and your heart” but let’s get real. He looked at you and
@@ -5711,8 +5711,8 @@ What are you currently reading?
 
 [2]
 
-1. http://shouldbereading.wordpress.com/
-2. http://www.mylivesignature.com/
+1. [http://shouldbereading.wordpress.com/](http://shouldbereading.wordpress.com/)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-06-01 06:44:54)
@@ -5744,17 +5744,17 @@ I think I will revisit this teaser in the morning. It looks good
 My teaser is [1]here
 ```
 
-1. http://readingadventures.blogspot.com/2010/06/teaser-tuesday-cottage-by-sea-by-ciji.html
+1. [http://readingadventures.blogspot.com/2010/06/teaser-tuesday-cottage-by-sea-by-ciji.html](http://readingadventures.blogspot.com/2010/06/teaser-tuesday-cottage-by-sea-by-ciji.html)
 
 ```
 Lisa (2010-06-01 13:44:30)
 [1]Here’s mine
 ```
 
-1. http://when-she-reads.blogspot.com/2010/06/teaser-tuesday-center-of-attention.html
+1. [http://when-she-reads.blogspot.com/2010/06/teaser-tuesday-center-of-attention.html](http://when-she-reads.blogspot.com/2010/06/teaser-tuesday-center-of-attention.html)
 Lady Q (2010-06-01 15:47:05)
 That’s a thought-provoking teaser! Here’s my teaser for [1]The Smoke Thief.
-1. http://letthemreadbooks.blogspot.com/
+1. [http://letthemreadbooks.blogspot.com/](http://letthemreadbooks.blogspot.com/)
 PatriciaW (2010-06-01 16:36:05)
 Oooh, interesting quote. I didn’t post a teaser today, so here’s one:
 Yes, take a breath, dear, of course he loves ”your personality and your heart” but let’s get real. He looked at you and
@@ -5801,7 +5801,7 @@ who give us the victory.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Lisa (2010-06-01 18:35:50)
@@ -5895,9 +5895,9 @@ This post is a part of Word Filled Wednesday, which is now being hosted by [2]In
 
 [3]
 
-1. http://www.heartlight.org/
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+1. [http://www.heartlight.org/](http://www.heartlight.org/)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 WELCOME TO MY WORLD OF POETRY: (2010-06-02 00:21:37)
@@ -6031,8 +6031,8 @@ than others, certain stages of our lives last longer than others.
 
 [2]
 
-1. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TAcomCbCc2I/AAAAAAAAAHc/PwdOxB2SDD8/s1600/incomplete.jpg
-2. http://www.mylivesignature.com/
+1. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TAcomCbCc2I/AAAAAAAAAHc/PwdOxB2SDD8/s1600/incomplete.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TAcomCbCc2I/AAAAAAAAAHc/PwdOxB2SDD8/s1600/incomplete.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Mike (2010-06-03 09:55:56)
@@ -6144,17 +6144,17 @@ God: Reversing Our Tragic Neglect of the Holy Spirit audiobook this month. Use c
 
 [10]
 
-1. http://womentakingastand.blogspot.com/2010/06/piece-of-my-heartshake-it-up.html
-2. http://organicenchilada.blogspot.com/2010/06/birth-control.html
-3. http://spiritualfuel.org/news/?p=1280
-4. http://susan2956.blogspot.com/2010/06/flyers-walkers-and-runners.html
-5. http://bythewayministries.blogspot.com/2010/06/word-filled-wednesday-prunning.html
+1. [http://womentakingastand.blogspot.com/2010/06/piece-of-my-heartshake-it-up.html](http://womentakingastand.blogspot.com/2010/06/piece-of-my-heartshake-it-up.html)
+2. [http://organicenchilada.blogspot.com/2010/06/birth-control.html](http://organicenchilada.blogspot.com/2010/06/birth-control.html)
+3. [http://spiritualfuel.org/news/?p=1280](http://spiritualfuel.org/news/?p=1280)
+4. [http://susan2956.blogspot.com/2010/06/flyers-walkers-and-runners.html](http://susan2956.blogspot.com/2010/06/flyers-walkers-and-runners.html)
+5. [http://bythewayministries.blogspot.com/2010/06/word-filled-wednesday-prunning.html](http://bythewayministries.blogspot.com/2010/06/word-filled-wednesday-prunning.html)
 
-6. http://theblackcell.com/blogs/
-7. http://purposedprincess.wordpress.com/2010/05/28/paralysis-from-fear/
-8. http://www.celebrationsathome.blogspot.com/
+6. [http://theblackcell.com/blogs/](http://theblackcell.com/blogs/)
+7. [http://purposedprincess.wordpress.com/2010/05/28/paralysis-from-fear/](http://purposedprincess.wordpress.com/2010/05/28/paralysis-from-fear/)
+8. [http://www.celebrationsathome.blogspot.com/](http://www.celebrationsathome.blogspot.com/)
 9. https://christianaudio.com/free
-10. http://www.mylivesignature.com/
+10. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Will Burke (2010-06-04 10:51:24)
@@ -6219,7 +6219,7 @@ Will you please join me in praying for her family at this difficult time?
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Ruth (2010-06-06 03:13:26)
@@ -6307,7 +6307,7 @@ Jesus name.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Ruth (2010-06-08 05:03:38)
@@ -6396,9 +6396,9 @@ _To find other Word filled inspiration, visit [2]Internet Cafe Devotions._
 
 [3]
 
-1. http://1.bp.blogspot.com/_2wfF2Ki6_qg/TA8FlZdklwI/AAAAAAAAAHg/1eI0zevEu2I/s1600/colored+grass.jpg
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+1. [http://1.bp.blogspot.com/_2wfF2Ki6_qg/TA8FlZdklwI/AAAAAAAAAHg/1eI0zevEu2I/s1600/colored+grass.jpg](http://1.bp.blogspot.com/_2wfF2Ki6_qg/TA8FlZdklwI/AAAAAAAAAHg/1eI0zevEu2I/s1600/colored+grass.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 Denise (2010-06-09 10:32:59)
 I pray the same over you dear sis.
@@ -6550,8 +6550,8 @@ In Jesus name, Amen
 
 [2]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/TAMnERbVf8I/AAAAAAAAAHI/9iPjrQuxZWY/s1600/carrier.jpg
-2. http://www.mylivesignature.com/
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/TAMnERbVf8I/AAAAAAAAAHI/9iPjrQuxZWY/s1600/carrier.jpg](http://4.bp.blogspot.com/_2wfF2Ki6_qg/TAMnERbVf8I/AAAAAAAAAHI/9iPjrQuxZWY/s1600/carrier.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-06-10 12:56:22)
@@ -6599,7 +6599,7 @@ Lee
 [1]Tossing It Out
 ```
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 Just Be Real (2010-06-11 12:56:48)
 Wanda, so very powerful words! Amen.
 
@@ -6626,9 +6626,9 @@ information or to register visit [2]Empowering Christian Woman
 
 [3]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/TBI9Y8uD9pI/AAAAAAAAAHo/VC5z3tuF2bM/s1600/pea+pod.jpg
-2. http://www.empoweringchristianwomen.com/2010/06/3-ps-in-pod-prayer-purpose-and-passion.html
-3. http://www.mylivesignature.com/
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/TBI9Y8uD9pI/AAAAAAAAAHo/VC5z3tuF2bM/s1600/pea+pod.jpg](http://4.bp.blogspot.com/_2wfF2Ki6_qg/TBI9Y8uD9pI/AAAAAAAAAHo/VC5z3tuF2bM/s1600/pea+pod.jpg)
+2. [http://www.empoweringchristianwomen.com/2010/06/3-ps-in-pod-prayer-purpose-and-passion.html](http://www.empoweringchristianwomen.com/2010/06/3-ps-in-pod-prayer-purpose-and-passion.html)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Karen (2010-06-11 13:54:11)
@@ -6724,17 +6724,17 @@ Wishing you a safe and fun filled weekend.
 
 [11]
 
-1. http://sunflowerfaith.com/2010/06/09/psalm-12-his-word/
-2. http://welcometomyworldofpoetry.blogspot.com/2010/06/thats-all-i-ask-of-you.html
-3. http://www.addingzest.net/2010/06/keeping-covenant.html
-4. http://www.saucysprinkles.com/2009/04/big-cupcake-party.html
-5. http://www.tidymom.net/2009/10/wfmw-perfect-cupcake-using-mix.html
-6. http://www.hostessblog.com/2009/09/diy-marshmallow-treat-pops/
-7. http://gatherinspirit.com/2010/06/blogger-envy/
-8. http://swordofgoliath.blogspot.com/2010/06/dance-for-me-mr-president.html
-9. http://lisashawshares.blogspot.com/2010/06/daughter-bare-down.html
-10. http://wisdomvirtueandrubies.wordpress.com/2010/06/01/lesson-from-a-crock-pot-chicken/
-11. http://www.mylivesignature.com/
+1. [http://sunflowerfaith.com/2010/06/09/psalm-12-his-word/](http://sunflowerfaith.com/2010/06/09/psalm-12-his-word/)
+2. [http://welcometomyworldofpoetry.blogspot.com/2010/06/thats-all-i-ask-of-you.html](http://welcometomyworldofpoetry.blogspot.com/2010/06/thats-all-i-ask-of-you.html)
+3. [http://www.addingzest.net/2010/06/keeping-covenant.html](http://www.addingzest.net/2010/06/keeping-covenant.html)
+4. [http://www.saucysprinkles.com/2009/04/big-cupcake-party.html](http://www.saucysprinkles.com/2009/04/big-cupcake-party.html)
+5. [http://www.tidymom.net/2009/10/wfmw-perfect-cupcake-using-mix.html](http://www.tidymom.net/2009/10/wfmw-perfect-cupcake-using-mix.html)
+6. [http://www.hostessblog.com/2009/09/diy-marshmallow-treat-pops/](http://www.hostessblog.com/2009/09/diy-marshmallow-treat-pops/)
+7. [http://gatherinspirit.com/2010/06/blogger-envy/](http://gatherinspirit.com/2010/06/blogger-envy/)
+8. [http://swordofgoliath.blogspot.com/2010/06/dance-for-me-mr-president.html](http://swordofgoliath.blogspot.com/2010/06/dance-for-me-mr-president.html)
+9. [http://lisashawshares.blogspot.com/2010/06/daughter-bare-down.html](http://lisashawshares.blogspot.com/2010/06/daughter-bare-down.html)
+10. [http://wisdomvirtueandrubies.wordpress.com/2010/06/01/lesson-from-a-crock-pot-chicken/](http://wisdomvirtueandrubies.wordpress.com/2010/06/01/lesson-from-a-crock-pot-chicken/)
+11. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-06-12 19:37:46)
@@ -6796,7 +6796,7 @@ with other books in order to give God’s Word more face time.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-06-15 09:45:05)
@@ -6883,10 +6883,10 @@ Visit [2]_Internet Cafe Devotions_ for more posts filled with the Word this Wedn
 
 [3]
 
-1. http://2.bp.blogspot.com/_2wfF2Ki6_qg/TBgVInZ9dkI/AAAAAAAAAHs/qG1CUOIHYv8/s1600/Instrument+4+God.compress.
+1. [http://2.bp.blogspot.com/_2wfF2Ki6_qg/TBgVInZ9dkI/AAAAAAAAAHs/qG1CUOIHYv8/s1600/Instrument+4+God.compress.](http://2.bp.blogspot.com/_2wfF2Ki6_qg/TBgVInZ9dkI/AAAAAAAAAHs/qG1CUOIHYv8/s1600/Instrument+4+God.compress.)
 jpg
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-06-16 00:48:08)
@@ -7080,7 +7080,7 @@ Author: Christie Williams
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Ellie (2010-06-17 13:24:41)
@@ -7168,7 +7168,7 @@ house; and his righteousness shall endureth forever Psalm 112:1-3
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Ruth (2010-06-20 07:02:46)
@@ -7259,7 +7259,7 @@ give me the courage to enter in. In Jesus name Amen
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-06-22 07:57:07)
@@ -7329,8 +7329,8 @@ Do not, therefore, fling away your fearless confidence, for it carries a great a
 reward. Hebrews 10:35 (AMP)
 Visit [2]Internet Cafe for more Word Filled Wednesday devotions.
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TCFQEJf0x4I/AAAAAAAAAH8/XpxPX2T-xSI/s1600-h/castaway%5B8%5D.jpg
-2. http://internetcafedevotions.com/
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TCFQEJf0x4I/AAAAAAAAAH8/XpxPX2T-xSI/s1600-h/castaway%5B8%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TCFQEJf0x4I/AAAAAAAAAH8/XpxPX2T-xSI/s1600-h/castaway%5B8%5D.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
 
 ```
 welcome to my world of poetry (2010-06-23 00:24:54)
@@ -7349,7 +7349,7 @@ What a great reminder for me today. I tend to hold on the ugly and nasty, and ye
 God just spoke to me right now. Thank you!
 [1]Here’s my word-filled Wednesday.
 
-1. http://attalife.blogspot.com/2010/06/wfw-job-1925.html
+1. [http://attalife.blogspot.com/2010/06/wfw-job-1925.html](http://attalife.blogspot.com/2010/06/wfw-job-1925.html)
 
 GlowinGirl (2010-06-23 04:01:22)
 How true! We need to hang on tightly to our confidence in Christ, and make sure we throw away the things in life
@@ -7553,19 +7553,19 @@ TGIF!
 
 [12]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TCSyX_1yL2I/AAAAAAAAAIE/lqhVv2axvZo/s1600-h/linklove%5B16%5D.jpg
-2. http://swordofgoliath.blogspot.com/2010/06/noahs-ipad.html
-3. http://wateredsoul.blogspot.com/2010/06/like-three-ps-in-pod.html
-4. http://www.empoweringchristianwomen.com/2010/06/3-ps-in-pod-prayer-purpose-and-passion_23.html
-5. http://leighhargisgray.blogspot.com/2010/06/854-liberia-west-africa-wanna-go.html
-6. http://inhimoneheart.blogspot.com/2010/06/be-free.html
-7. http://swanvalleytammi.blogspot.com/2010/06/i-am-property.html
-8. http://www.empoweringchristianwomen.com/2010/06/http:
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TCSyX_1yL2I/AAAAAAAAAIE/lqhVv2axvZo/s1600-h/linklove%5B16%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TCSyX_1yL2I/AAAAAAAAAIE/lqhVv2axvZo/s1600-h/linklove%5B16%5D.jpg)
+2. [http://swordofgoliath.blogspot.com/2010/06/noahs-ipad.html](http://swordofgoliath.blogspot.com/2010/06/noahs-ipad.html)
+3. [http://wateredsoul.blogspot.com/2010/06/like-three-ps-in-pod.html](http://wateredsoul.blogspot.com/2010/06/like-three-ps-in-pod.html)
+4. [http://www.empoweringchristianwomen.com/2010/06/3-ps-in-pod-prayer-purpose-and-passion_23.html](http://www.empoweringchristianwomen.com/2010/06/3-ps-in-pod-prayer-purpose-and-passion_23.html)
+5. [http://leighhargisgray.blogspot.com/2010/06/854-liberia-west-africa-wanna-go.html](http://leighhargisgray.blogspot.com/2010/06/854-liberia-west-africa-wanna-go.html)
+6. [http://inhimoneheart.blogspot.com/2010/06/be-free.html](http://inhimoneheart.blogspot.com/2010/06/be-free.html)
+7. [http://swanvalleytammi.blogspot.com/2010/06/i-am-property.html](http://swanvalleytammi.blogspot.com/2010/06/i-am-property.html)
+8. [http://www.empoweringchristianwomen.com/2010/06/http:](http://www.empoweringchristianwomen.com/2010/06/http:)
 //personalfinancejourney.com/2010/06/don%e2%80%99t-waste-money-dialing-information-use-these-alternatives/
-9. http://andrealschultz.blogspot.com/2010/06/scars-and-stilettos-by-harmony-dust.html
-10. http://www.allyouhavetogive.com/
-11. http://internetcafedevotions.com/2010/06/whats-in-your-beach-bag/
-12. http://www.mylivesignature.com/
+9. [http://andrealschultz.blogspot.com/2010/06/scars-and-stilettos-by-harmony-dust.html](http://andrealschultz.blogspot.com/2010/06/scars-and-stilettos-by-harmony-dust.html)
+10. [http://www.allyouhavetogive.com/](http://www.allyouhavetogive.com/)
+11. [http://internetcafedevotions.com/2010/06/whats-in-your-beach-bag/](http://internetcafedevotions.com/2010/06/whats-in-your-beach-bag/)
+12. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-06-25 21:02:07)
@@ -7625,8 +7625,8 @@ remain humble and submitted to you as you complete your perfect work.
 
 [2]
 
-1. http://2.bp.blogspot.com/_2wfF2Ki6_qg/TCAVf5GInoI/AAAAAAAAAHw/z9i9OPGswmU/s1600/Recycle+me.jpg
-2. http://www.mylivesignature.com/
+1. [http://2.bp.blogspot.com/_2wfF2Ki6_qg/TCAVf5GInoI/AAAAAAAAAHw/z9i9OPGswmU/s1600/Recycle+me.jpg](http://2.bp.blogspot.com/_2wfF2Ki6_qg/TCAVf5GInoI/AAAAAAAAAHw/z9i9OPGswmU/s1600/Recycle+me.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-06-28 13:59:10)
@@ -7729,11 +7729,11 @@ Whats next up on your to be read list?
 
 [4]
 
-1. http://shouldbereading.wordpress.com/
-2. http://lh4.ggpht.com/_2wfF2Ki6_qg/TClJ9mnUapI/AAAAAAAAAIM/lM-_YAKjXEE/s1600-h/sins%20of%20the%20mother%
+1. [http://shouldbereading.wordpress.com/](http://shouldbereading.wordpress.com/)
+2. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TClJ9mnUapI/AAAAAAAAAIM/lM-_YAKjXEE/s1600-h/sins%20of%20the%20mother%](http://lh4.ggpht.com/_2wfF2Ki6_qg/TClJ9mnUapI/AAAAAAAAAIM/lM-_YAKjXEE/s1600-h/sins%20of%20the%20mother%)
 5B14%5D.jpg
-3. http://www.empoweringchristianwomen.com/2010/06/3-ps-in-pod-prayer-purpose-and-passion_23.html
-4. http://www.mylivesignature.com/
+3. [http://www.empoweringchristianwomen.com/2010/06/3-ps-in-pod-prayer-purpose-and-passion_23.html](http://www.empoweringchristianwomen.com/2010/06/3-ps-in-pod-prayer-purpose-and-passion_23.html)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Jennifer @ Mrs. Q: Book Addict (2010-06-29 09:26:10)
@@ -7770,9 +7770,9 @@ Emma Michaels
 [3]http://EmmaMichaels.Blogspot.com
 ```
 
-1. http://emmamichaels.blogspot.com/2010/06/teaser-tuesday-short-second-life-of.html
-2. http://EmmaMichaels.Blogspot.com/
-3. http://EmmaMichaels.Blogspot.com/
+1. [http://emmamichaels.blogspot.com/2010/06/teaser-tuesday-short-second-life-of.html](http://emmamichaels.blogspot.com/2010/06/teaser-tuesday-short-second-life-of.html)
+2. [http://EmmaMichaels.Blogspot.com/](http://EmmaMichaels.Blogspot.com/)
+3. [http://EmmaMichaels.Blogspot.com/](http://EmmaMichaels.Blogspot.com/)
 Wanda (2010-06-30 01:58:43)
 I hadn’t actually started reading this book but I have read others in the series. I’m sure this one will not disappoint.
 Thanks Laurel!
@@ -7794,8 +7794,8 @@ What have you been stirring up lately?
 
 Stop by the [2]Internet Cafe for more Word Filled Wednesday.
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TCqkLad_V2I/AAAAAAAAAIU/yHp6F1KvaGo/s1600-h/stirredup32.jpg
-2. http://internetcafedevotions.com/
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TCqkLad_V2I/AAAAAAAAAIU/yHp6F1KvaGo/s1600-h/stirredup32.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TCqkLad_V2I/AAAAAAAAAIU/yHp6F1KvaGo/s1600-h/stirredup32.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
 
 ```
 welcome to my world of poetry (2010-06-30 00:56:10)
@@ -7992,7 +7992,7 @@ Youre never alone or without help!
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-07-02 06:39:37)
@@ -8103,16 +8103,16 @@ people are frightened of responsibility. - [9]Sigmund Freud
 Freedom is a muscle... you have to exercise it.- [10]Roy Scheider
 ```
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TC88ZFCZHTI/AAAAAAAAAIc/_zAA2FR75RE/s1600-h/4thofJuly%5B37%5D.jpg
-2. http://wateredsoul.blogspot.com/2010/06/linky-love.html
-3. http://dawnypoo.blogspot.com/2010/07/inspiring-fourth-of-july-treats.html
-4. http://frostmeblog.blogspot.com/2010/07/more-4th-of-july-party-ideas.html
-5. http://www.incourage.me/2010/06/why-we-all-need-to-forgive-our-parents-.html
-6. http://bythewayministries.blogspot.com/2010/06/where-do-you-place-your-trust.html
-7. http://www.jittery.com/quotes/mark-twain-quotes-10229.html
-8. http://www.jittery.com/quotes/kenny-loggins-quotes-9070.html
-9. http://www.jittery.com/quotes/sigmund-freud-quotes-13718.html
-10. http://www.jittery.com/quotes/roy-scheider-quotes-13225.html
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TC88ZFCZHTI/AAAAAAAAAIc/_zAA2FR75RE/s1600-h/4thofJuly%5B37%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TC88ZFCZHTI/AAAAAAAAAIc/_zAA2FR75RE/s1600-h/4thofJuly%5B37%5D.jpg)
+2. [http://wateredsoul.blogspot.com/2010/06/linky-love.html](http://wateredsoul.blogspot.com/2010/06/linky-love.html)
+3. [http://dawnypoo.blogspot.com/2010/07/inspiring-fourth-of-july-treats.html](http://dawnypoo.blogspot.com/2010/07/inspiring-fourth-of-july-treats.html)
+4. [http://frostmeblog.blogspot.com/2010/07/more-4th-of-july-party-ideas.html](http://frostmeblog.blogspot.com/2010/07/more-4th-of-july-party-ideas.html)
+5. [http://www.incourage.me/2010/06/why-we-all-need-to-forgive-our-parents-.html](http://www.incourage.me/2010/06/why-we-all-need-to-forgive-our-parents-.html)
+6. [http://bythewayministries.blogspot.com/2010/06/where-do-you-place-your-trust.html](http://bythewayministries.blogspot.com/2010/06/where-do-you-place-your-trust.html)
+7. [http://www.jittery.com/quotes/mark-twain-quotes-10229.html](http://www.jittery.com/quotes/mark-twain-quotes-10229.html)
+8. [http://www.jittery.com/quotes/kenny-loggins-quotes-9070.html](http://www.jittery.com/quotes/kenny-loggins-quotes-9070.html)
+9. [http://www.jittery.com/quotes/sigmund-freud-quotes-13718.html](http://www.jittery.com/quotes/sigmund-freud-quotes-13718.html)
+10. [http://www.jittery.com/quotes/roy-scheider-quotes-13225.html](http://www.jittery.com/quotes/roy-scheider-quotes-13225.html)
 
 ```
 Just Be Real (2010-07-03 17:59:32)
@@ -8191,10 +8191,10 @@ Review Program. I was not required to write a positive review. The opinions I ha
 am disclosing this in accordance with the Federal Trade Commission’s 16 CFR, Part 255: ”Guides Concerning
 the Use of Endorsements and Testimonials in Advertising.”
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TDLmuJZ66iI/AAAAAAAAAIk/KkIlyMU4GsI/s1600-h/book-love%5B5%5D.jpg
-2. http://lh5.ggpht.com/_2wfF2Ki6_qg/TDLmuJZ66iI/AAAAAAAAAIk/KkIlyMU4GsI/s1600-h/book-love%5B5%5D.jpg
-3. http://www.navpress.com/product/9781615210237/Becoming-a-Woman-Who-Loves-Cynthia-Heald
-4. http://www.amazon.com/Becoming-Woman-Who-Loves-proud-Love/dp/1615210237/ref=sr_1_1?ie=UTF8&s=books&qid=
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TDLmuJZ66iI/AAAAAAAAAIk/KkIlyMU4GsI/s1600-h/book-love%5B5%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TDLmuJZ66iI/AAAAAAAAAIk/KkIlyMU4GsI/s1600-h/book-love%5B5%5D.jpg)
+2. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TDLmuJZ66iI/AAAAAAAAAIk/KkIlyMU4GsI/s1600-h/book-love%5B5%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TDLmuJZ66iI/AAAAAAAAAIk/KkIlyMU4GsI/s1600-h/book-love%5B5%5D.jpg)
+3. [http://www.navpress.com/product/9781615210237/Becoming-a-Woman-Who-Loves-Cynthia-Heald](http://www.navpress.com/product/9781615210237/Becoming-a-Woman-Who-Loves-Cynthia-Heald)
+4. [http://www.amazon.com/Becoming-Woman-Who-Loves-proud-Love/dp/1615210237/ref=sr_1_1?ie=UTF8&s=books&qid=](http://www.amazon.com/Becoming-Woman-Who-Loves-proud-Love/dp/1615210237/ref=sr_1_1?ie=UTF8&s=books&qid=)
 1278369558&sr=1-1
 
 ```
@@ -8237,10 +8237,10 @@ Since seeing this video, this song has become one of my favorites. I’m joining
 
 [3]
 
-1. http://inhimoneheart.blogspot.com/
-2. http://inhimoneheart.blogspot.com/
+1. [http://inhimoneheart.blogspot.com/](http://inhimoneheart.blogspot.com/)
+2. [http://inhimoneheart.blogspot.com/](http://inhimoneheart.blogspot.com/)
 
-3. http://www.mylivesignature.com/
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Karen (2010-07-06 18:34:40)
@@ -8300,9 +8300,9 @@ Lord, help me to build my life on these eternal things. In Jesus name. Amen [2]
 
 [3]
 
-1. http://wateredsoul.blogspot.com/
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+1. [http://wateredsoul.blogspot.com/](http://wateredsoul.blogspot.com/)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Denise (2010-07-06 23:26:08)
@@ -8326,7 +8326,7 @@ jo.attalife (2010-07-07 01:28:48)
 What a timely verse and lovely prayer, Wanda. I say ”Amen and amen!!!”
 [1]Mine’s here.
 
-1. http://attalife.blogspot.com/2010/07/wfw-hebrews-210.html
+1. [http://attalife.blogspot.com/2010/07/wfw-hebrews-210.html](http://attalife.blogspot.com/2010/07/wfw-hebrews-210.html)
 
 Valerie @ Composition-Life (2010-07-07 04:45:32)
 Beautiful! It is so simple and yet we tend to make such mountains out of things. Have faith, trust Him, and love the
@@ -8544,8 +8544,8 @@ for a fresh wind of your spirit. God, there is none like you. To you be all glor
 
 Photo Credit: by [2]Gabork via Flickr
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TDnPiu6mQ7I/AAAAAAAAAI0/VRcngPdQ5AU/s1600-h/chess%5B10%5D.jpg
-2. http://www.flickr.com/photos/gabork/
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TDnPiu6mQ7I/AAAAAAAAAI0/VRcngPdQ5AU/s1600-h/chess%5B10%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TDnPiu6mQ7I/AAAAAAAAAI0/VRcngPdQ5AU/s1600-h/chess%5B10%5D.jpg)
+2. [http://www.flickr.com/photos/gabork/](http://www.flickr.com/photos/gabork/)
 
 ```
 CeCe Wilson (2010-07-11 14:55:55)
@@ -8611,9 +8611,9 @@ couldnt withstand any opposing force.
 Like Nehemiah, I was challenged to strengthen the remaining rubble of my faith, hope, love, prayer, and
 worship. As small as it might be, it was time to fortify it. But, how you ask? Two simple ways:
 
-1. Put Gods Word on it. An increase in my Bible consumption and application enlarges my spiritual
+1. **Put God****s Word on it.** An increase in my Bible consumption and application enlarges my spiritual
 fortitude.
-2. Exercise it more. Anything you dont use atrophies.
+2. **Exercise it more.** Anything you dont use atrophies.
 
 Weve been given some weapons by our Commander-in-Chief but even they, like a knife that becomes dull
 after extended use, require strengthening at times. Our use of the Word of God has to be sharpened to allow
@@ -8644,12 +8644,12 @@ reward! In Jesus name, Amen.
 
 [4]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TDtTRgkjJbI/AAAAAAAAAI8/HKr1vP0koqw/s1600-h/tired4.jpg
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TDtTRgkjJbI/AAAAAAAAAI8/HKr1vP0koqw/s1600-h/tired4.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TDtTRgkjJbI/AAAAAAAAAI8/HKr1vP0koqw/s1600-h/tired4.jpg)
 2. file://localhost/C:/Users/Wanda/AppData/Local/Temp/WindowsLiveWriter1286139640/supfiles896AFFA/rubble[3]
 .jpg
 3. file://localhost/C:/Users/Wanda/AppData/Local/Temp/WindowsLiveWriter1286139640/supfiles896AFFA/rubble[3]
 .jpg
-4. http://www.mylivesignature.com/
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-07-12 19:43:11)
@@ -8758,9 +8758,9 @@ for I have paid the price to set you free. Isaiah 44:22
 
 Fill your cup with the Word this Wednesday at [2]Internet Cafe Devotions. [3]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TDvRnw5gNBI/AAAAAAAAAJI/QxC0Vic4nw4/s1600-h/sinsswepaway%5B21%5D.jpg
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TDvRnw5gNBI/AAAAAAAAAJI/QxC0Vic4nw4/s1600-h/sinsswepaway%5B21%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TDvRnw5gNBI/AAAAAAAAAJI/QxC0Vic4nw4/s1600-h/sinsswepaway%5B21%5D.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-07-14 00:54:59)
@@ -8939,10 +8939,10 @@ has your labor. And, I see you too. Youve all been an inspiration to me in ways
 
 -xoxox [4]
 
-1. http://outofdeepwaters.blogspot.com/2010/07/i-see-you-sis-giveaway.html
-2. http://outofdeepwaters.blogspot.com/2010/07/i-see-you-sis-giveaway.html
-3. http://www.facebook.com/iseeyousis
-4. http://www.mylivesignature.com/
+1. [http://outofdeepwaters.blogspot.com/2010/07/i-see-you-sis-giveaway.html](http://outofdeepwaters.blogspot.com/2010/07/i-see-you-sis-giveaway.html)
+2. [http://outofdeepwaters.blogspot.com/2010/07/i-see-you-sis-giveaway.html](http://outofdeepwaters.blogspot.com/2010/07/i-see-you-sis-giveaway.html)
+3. [http://www.facebook.com/iseeyousis](http://www.facebook.com/iseeyousis)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-07-16 06:07:48)
@@ -9049,9 +9049,9 @@ bring you glory. In Jesus name. Amen.
 
 Photo Credit: [2]here [3]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TEUj4y_A0gI/AAAAAAAAAJU/INhQblgN06s/s1600-h/lostbread14.jpg
-2. http://www.flickr.com/photos/jaqian/308615221/
-3. http://www.mylivesignature.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TEUj4y_A0gI/AAAAAAAAAJU/INhQblgN06s/s1600-h/lostbread14.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TEUj4y_A0gI/AAAAAAAAAJU/INhQblgN06s/s1600-h/lostbread14.jpg)
+2. [http://www.flickr.com/photos/jaqian/308615221/](http://www.flickr.com/photos/jaqian/308615221/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-07-20 06:27:51)
@@ -9091,17 +9091,17 @@ Sounds like you and I are on a similar train of thought today.
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 Wanda (2010-07-21 00:13:55)
-Yvonne, you’re right there’s a difference b/w the two but the results are the same...I’m not able to go anywhere
+**Yvonne**, you’re right there’s a difference b/w the two but the results are the same...I’m not able to go anywhere
 really :)
-Thanks, Karen
-Missie, pick it back up again dear.
-Bluebutterfly, I love that thought. There is a time when things are to hidden/buried to allow for proper germination.
-Thank you,Joanne.
-Will just may be time to strike up a tune for your girls :)
-Lisa, no matter how bleak things look. He always leaves a remnant who will turn back to Him.
-Lee, indeed
+Thanks, **Karen**
+**Missie**, pick it back up again dear.
+**Bluebutterfly**, I love that thought. There is a time when things are to hidden/buried to allow for proper germination.
+Thank you,**Joanne**.
+**Will** just may be time to strike up a tune for your girls :)
+**Lisa**, no matter how bleak things look. He always leaves a remnant who will turn back to Him.
+**Lee**, indeed
 
 elaine @ peace for the journey (2010-07-21 01:14:27)
 Hey Wanda... thanks for stopping by the blog and leaving a comment.
@@ -9147,9 +9147,9 @@ will be given to you who hear. Marked 4:24 (Amplified)
 
 [2] [3]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TEY86Sm1r1I/AAAAAAAAAJc/v4Fh_nkjRd0/s1600-h/measure-neon%5B14%5D.jpg
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TEY86Sm1r1I/AAAAAAAAAJc/v4Fh_nkjRd0/s1600-h/measure-neon%5B14%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TEY86Sm1r1I/AAAAAAAAAJc/v4Fh_nkjRd0/s1600-h/measure-neon%5B14%5D.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 Cathy (2010-07-20 23:31:23)
 That is so neat. You are very creative. Blessings
@@ -9318,7 +9318,7 @@ make all the difference in your day. May His peace and presence abide with you t
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Karen (2010-07-22 13:07:58)
@@ -9378,8 +9378,8 @@ youre enjoying a restful weekend.
 
 [2]
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TEuuN2hBdRI/AAAAAAAAAKI/mLZmlLkbySo/s1600-h/fresh%20peaches%5B4%5D.jpg
-2. http://www.mylivesignature.com/
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TEuuN2hBdRI/AAAAAAAAAKI/mLZmlLkbySo/s1600-h/fresh%20peaches%5B4%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TEuuN2hBdRI/AAAAAAAAAKI/mLZmlLkbySo/s1600-h/fresh%20peaches%5B4%5D.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-07-25 06:52:30)
@@ -9475,9 +9475,9 @@ Giveaway ends August 7th. Each entry should have a separate comment and please l
 if yours is not included on your profile. Limited to US and Canada residents only. Shipping charges or
 international fees may exist for Canadian residents. Disclaimer: I received no monetary compensation in
 exchange for this post. Thanks to Jessica and CSN stores for sponsoring the giveaway.
-1. http://www.diningroomsdirect.com/
-2. http://www.csnstores.com/
-3. http://lh3.ggpht.com/_2wfF2Ki6_qg/TEz3sRiFESI/AAAAAAAAAKQ/OU5cZI4IFXA/s1600-h/CSN_Stores_Logo%5B3%5D.gif
+1. [http://www.diningroomsdirect.com/](http://www.diningroomsdirect.com/)
+2. [http://www.csnstores.com/](http://www.csnstores.com/)
+3. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TEz3sRiFESI/AAAAAAAAAKQ/OU5cZI4IFXA/s1600-h/CSN_Stores_Logo%5B3%5D.gif](http://lh3.ggpht.com/_2wfF2Ki6_qg/TEz3sRiFESI/AAAAAAAAAKQ/OU5cZI4IFXA/s1600-h/CSN_Stores_Logo%5B3%5D.gif)
 
 ```
 welcome to my world of poetry (2010-07-26 06:47:50)
@@ -9665,12 +9665,12 @@ not disappoint.
 Whats the latest page-turner youve read?
 **Be sure to sign up for my giveaway** [6]**herebefore you go.**
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TE5IelMDyqI/AAAAAAAAAKY/9fz9UsomVuE/s1600-h/sixliterclub7.jpg
-2. http://lh4.ggpht.com/_2wfF2Ki6_qg/TE5IelMDyqI/AAAAAAAAAKg/dX1Q6rHu_c0/s1600-h/sixliterclub6.jpg
-3. http://lh3.ggpht.com/_2wfF2Ki6_qg/TE5Ifw_B-hI/AAAAAAAAAKk/hzjbTfuEQS8/s1600-h/TuesdayTeaser3.jpg
-4. http://shouldbereading.wordpress.com/
-5. http://godsheart-heart2heart.blogspot.com/
-6. http://wateredsoul.blogspot.com/2010/07/sweet-offer-csn-store-giveaway.html
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TE5IelMDyqI/AAAAAAAAAKY/9fz9UsomVuE/s1600-h/sixliterclub7.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TE5IelMDyqI/AAAAAAAAAKY/9fz9UsomVuE/s1600-h/sixliterclub7.jpg)
+2. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TE5IelMDyqI/AAAAAAAAAKg/dX1Q6rHu_c0/s1600-h/sixliterclub6.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TE5IelMDyqI/AAAAAAAAAKg/dX1Q6rHu_c0/s1600-h/sixliterclub6.jpg)
+3. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TE5Ifw_B-hI/AAAAAAAAAKk/hzjbTfuEQS8/s1600-h/TuesdayTeaser3.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TE5Ifw_B-hI/AAAAAAAAAKk/hzjbTfuEQS8/s1600-h/TuesdayTeaser3.jpg)
+4. [http://shouldbereading.wordpress.com/](http://shouldbereading.wordpress.com/)
+5. [http://godsheart-heart2heart.blogspot.com/](http://godsheart-heart2heart.blogspot.com/)
+6. [http://wateredsoul.blogspot.com/2010/07/sweet-offer-csn-store-giveaway.html](http://wateredsoul.blogspot.com/2010/07/sweet-offer-csn-store-giveaway.html)
 
 ```
 Kylie (2010-07-27 08:47:55)
@@ -9689,7 +9689,7 @@ Great teaser - I haven’t heard of the book before.
 My teasers are here [1]Manga Maniac Cafe
 ```
 
-1. http://www.mangamaniaccafe.com/?p=4184
+1. [http://www.mangamaniaccafe.com/?p=4184](http://www.mangamaniaccafe.com/?p=4184)
 Karen (2010-07-27 12:00:47)
 Good review...I love a great read that leaves me wanting more....
 
@@ -9704,10 +9704,10 @@ Alayne (2010-07-27 14:11:51)
 Eek! Little gross there. But good teaser. Mine is at [1]The Crowded Leaf.
 ```
 
-1. http://thecrowdedleaf.wordpress.com/
+1. [http://thecrowdedleaf.wordpress.com/](http://thecrowdedleaf.wordpress.com/)
 pussreboots (2010-07-27 21:49:50)
 Sounds interesting. Mine’s from [1]Devil to Pay, a book I wrote.
-1. http://www.pussreboots.pair.com/blog/2010/comments_07/teaser_tuesday_devil_to_pay.html
+1. [http://www.pussreboots.pair.com/blog/2010/comments_07/teaser_tuesday_devil_to_pay.html](http://www.pussreboots.pair.com/blog/2010/comments_07/teaser_tuesday_devil_to_pay.html)
 Ellie (2010-07-28 03:35:20)
 I love your review; I’m interested
 I don’t have a page turner right now... I’m reading, but it isn’t
@@ -9720,7 +9720,7 @@ Glad you enjoyed the book. The teaser makes me a bit uncomfortable though. Don�
 Mine’s from [1]Devil May Cry.
 ```
 
-1. http://thebooksofmylife.blogspot.com/2010/07/teaser-tuesdays-devil-may-cry-by.html
+1. [http://thebooksofmylife.blogspot.com/2010/07/teaser-tuesdays-devil-may-cry-by.html](http://thebooksofmylife.blogspot.com/2010/07/teaser-tuesdays-devil-may-cry-by.html)
 
 ## The Power of a Song & Praise (2010-07-27 23:00)
 
@@ -9744,9 +9744,9 @@ many times have I limited his ability to move because I was in the wrong place a
 
 Find others serving up the Word this Wednesday at the [2]Internet Devotion Cafe. [3]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TE-rLzEDHtI/AAAAAAAAAKw/eZNOzlmHtdI/s1600-h/Sing%20%26Praise%5B24%5D.jpg
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TE-rLzEDHtI/AAAAAAAAAKw/eZNOzlmHtdI/s1600-h/Sing%20%26Praise%5B24%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TE-rLzEDHtI/AAAAAAAAAKw/eZNOzlmHtdI/s1600-h/Sing%20%26Praise%5B24%5D.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 jo.attalife (2010-07-27 23:29:05)
@@ -9756,7 +9756,7 @@ isn’t obedience, is it?). But God is faithful in meeting me where I am. Someti
 otherwise be still. May we always do so with the right posture of the heart.
 ```
 
-1. http://attalife.blogspot.com/2010/07/wfw-mark-639.html
+1. [http://attalife.blogspot.com/2010/07/wfw-mark-639.html](http://attalife.blogspot.com/2010/07/wfw-mark-639.html)
 Kaye Swain - SandwichINK for the Sandwich Generation (2010-07-28 00:17:57)
 Awesome and encouraging Scripture and picture. I love that story! So perfect for me today especially. Thank you for
 sending me off to bed with a HUGE smile on my face. Blessings to you as well :)
@@ -9938,7 +9938,7 @@ your view of Christs love for you.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 One Heart (2010-07-29 12:19:01)
@@ -10035,7 +10035,7 @@ of many things, do it with all Hes given you.
 
 Have a great weekend. One Heart, I squeezed this in before the clock turned midnight for me :)
 
-1. http://homeiswhereoneheartis.blogspot.com/
+1. [http://homeiswhereoneheartis.blogspot.com/](http://homeiswhereoneheartis.blogspot.com/)
 
 ```
 welcome to my world of poetry (2010-07-31 06:53:09)
@@ -10052,7 +10052,7 @@ Ruth
 [1]Underneath His Wrapping
 ```
 
-1. http://underneathhiswrapping.blogspot.com/
+1. [http://underneathhiswrapping.blogspot.com/](http://underneathhiswrapping.blogspot.com/)
 One Heart (2010-07-31 13:37:37)
 Wanda, you are most definitely right, the blog-hop was set up until the end of today–Sat, 7/31. For some reason,
 I got the numbers mixed and thought yesterday was the 31st. So guess what, you get a book too!!!! I love it–more
@@ -10128,9 +10128,9 @@ with him! (Message)
 
 [3]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TFcEBLC9NeI/AAAAAAAAALI/F9G4nmw6LXc/s1600-h/romans8_9_17ljm3.jpg
-2. http://soupart.wordpress.com/
-3. http://www.mylivesignature.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TFcEBLC9NeI/AAAAAAAAALI/F9G4nmw6LXc/s1600-h/romans8_9_17ljm3.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TFcEBLC9NeI/AAAAAAAAALI/F9G4nmw6LXc/s1600-h/romans8_9_17ljm3.jpg)
+2. [http://soupart.wordpress.com/](http://soupart.wordpress.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-08-02 12:14:17)
@@ -10194,9 +10194,9 @@ Visit the cafe for more Word Filled Wednesday devotions today. [2]
 
 [3]
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TFjx0gStwOI/AAAAAAAAALQ/wp4IWfjQKTY/s1600-h/Romans%2013-12%5B14%5D.jpg
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TFjx0gStwOI/AAAAAAAAALQ/wp4IWfjQKTY/s1600-h/Romans%2013-12%5B14%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TFjx0gStwOI/AAAAAAAAALQ/wp4IWfjQKTY/s1600-h/Romans%2013-12%5B14%5D.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 Renee (2010-08-03 23:45:40)
 Well, Happy Birthday!!!!!!
@@ -10454,17 +10454,17 @@ today is your last day to sign up for the fabulous giveaway by CSN stores [9]her
 
 [10]
 
-1. http://www.allblogtools.com/
-2. http://www.blogskins.com/info/345613/
-3. http://www.adorigraphics.com/
-4. http://themecraft.net/
-5. http://sneakymommablogdesign.blogspot.com/
-6. http://beautifulblogdesigns.blogspot.com/
-7. http://www.thecutestblogontheblock.com/
-8. http://www.mamakatslosinit.com/blog-tips/
+1. [http://www.allblogtools.com/](http://www.allblogtools.com/)
+2. [http://www.blogskins.com/info/345613/](http://www.blogskins.com/info/345613/)
+3. [http://www.adorigraphics.com/](http://www.adorigraphics.com/)
+4. [http://themecraft.net/](http://themecraft.net/)
+5. [http://sneakymommablogdesign.blogspot.com/](http://sneakymommablogdesign.blogspot.com/)
+6. [http://beautifulblogdesigns.blogspot.com/](http://beautifulblogdesigns.blogspot.com/)
+7. [http://www.thecutestblogontheblock.com/](http://www.thecutestblogontheblock.com/)
+8. [http://www.mamakatslosinit.com/blog-tips/](http://www.mamakatslosinit.com/blog-tips/)
 
-9. http://wateredsoul.blogspot.com/2010/07/sweet-offer-csn-store-giveaway.html
-10. http://www.mylivesignature.com/
+9. [http://wateredsoul.blogspot.com/2010/07/sweet-offer-csn-store-giveaway.html](http://wateredsoul.blogspot.com/2010/07/sweet-offer-csn-store-giveaway.html)
+10. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-08-07 10:11:26)
@@ -10538,8 +10538,8 @@ thanks to [1]CSN Stores for being the sponsor.
 
 [2]
 
-1. http://www.csnstores.com/
-2. http://www.mylivesignature.com/
+1. [http://www.csnstores.com/](http://www.csnstores.com/)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-08-08 06:46:59)
@@ -10592,8 +10592,8 @@ Whether its been 2 days, 2 months or 2 years since you first started your quest
 
 [2]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TGE8tXVwUSI/AAAAAAAAAMU/O7S_4ctvBWU/s1600-h/BRICK%20YARD_0221%5B3%5D.jpg
-2. http://www.mylivesignature.com/
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TGE8tXVwUSI/AAAAAAAAAMU/O7S_4ctvBWU/s1600-h/BRICK%20YARD_0221%5B3%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TGE8tXVwUSI/AAAAAAAAAMU/O7S_4ctvBWU/s1600-h/BRICK%20YARD_0221%5B3%5D.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-08-10 13:38:35)
@@ -10683,8 +10683,8 @@ Yet even in those times, I must remain confident that He indeed is God and my fu
 
 [2]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TGIdBDvTu8I/AAAAAAAAAMs/Qtjv3GIwusM/s1600-h/Psalm%2031-15a%5B44%5D.jpg
-2. http://www.mylivesignature.com/
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TGIdBDvTu8I/AAAAAAAAAMs/Qtjv3GIwusM/s1600-h/Psalm%2031-15a%5B44%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TGIdBDvTu8I/AAAAAAAAAMs/Qtjv3GIwusM/s1600-h/Psalm%2031-15a%5B44%5D.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-08-11 01:16:45)
@@ -10915,9 +10915,9 @@ Wishing you all a blessed weekend filled with rest, revelation, and rejuvenation
 
 [2]
 
-1. http:
+1. [http:](http:)
 //lh3.ggpht.com/_2wfF2Ki6_qg/TGVFglzzVsI/AAAAAAAAAM0/R1zAMxMF5U4/s1600-h/charmaineswart_S6302474%5B17%5D.jpg
-2. http://www.mylivesignature.com/
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Karen (2010-08-13 13:56:11)
@@ -10976,7 +10976,7 @@ thanks for your 13 wishes.
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 
 ```
 Wanda (2010-08-18 03:20:31)
@@ -11017,11 +11017,11 @@ out, and their feet did not swell! Nehemiah 9:17-21 (NLT)
 
 [3]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TGk2yku-BkI/AAAAAAAAAM8/uVLwrfHH2QA/s1600-h/SweetPs375x375%20by%20Tea%
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TGk2yku-BkI/AAAAAAAAAM8/uVLwrfHH2QA/s1600-h/SweetPs375x375%20by%20Tea%](http://lh6.ggpht.com/_2wfF2Ki6_qg/TGk2yku-BkI/AAAAAAAAAM8/uVLwrfHH2QA/s1600-h/SweetPs375x375%20by%20Tea%)
 20with%20Tiffany%5B4%5D.jpg
 
-2. http://www.teawithtiffany.com/2010/08/sweet-ps.html
-3. http://www.mylivesignature.com/
+2. [http://www.teawithtiffany.com/2010/08/sweet-ps.html](http://www.teawithtiffany.com/2010/08/sweet-ps.html)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 BLUEBUTTERFLY (2010-08-16 07:26:57)
@@ -11061,7 +11061,7 @@ Lee
 [1]Tossing It Out
 ```
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 Lisa (2010-08-16 20:13:11)
 This was similar to the sermon at church yesterday. I’m so glad that NOTHING can ever separate us from His
 unfailing love.
@@ -11142,10 +11142,10 @@ treat!
 
 [3]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TGtb0URYNkI/AAAAAAAAANE/Np962zeUmNM/s1600-h/Gods%20sweetness2%5B18%5D.
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TGtb0URYNkI/AAAAAAAAANE/Np962zeUmNM/s1600-h/Gods%20sweetness2%5B18%5D.](http://lh5.ggpht.com/_2wfF2Ki6_qg/TGtb0URYNkI/AAAAAAAAANE/Np962zeUmNM/s1600-h/Gods%20sweetness2%5B18%5D.)
 jpg
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 Denise (2010-08-17 23:17:29)
 I love this.
@@ -11335,11 +11335,11 @@ Ive got some more chewing to do on this one. While I do, I encourage you to che
 
 [5]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TG4HVWPFIqI/AAAAAAAAANM/dYbHu5wgArQ/s1600-h/IMG_2765%5B5%5D.jpg
-2. http://thisido.blogspot.com/2010/08/what-is-your-cave.html
-3. http://lh4.ggpht.com/_2wfF2Ki6_qg/TG4HXS14QhI/AAAAAAAAANU/JTXcrmced4Y/s1600-h/Dscn6625%5B6%5D.jpg
-4. http://thisido.blogspot.com/2010/08/what-is-your-cave.html
-5. http://www.mylivesignature.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TG4HVWPFIqI/AAAAAAAAANM/dYbHu5wgArQ/s1600-h/IMG_2765%5B5%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TG4HVWPFIqI/AAAAAAAAANM/dYbHu5wgArQ/s1600-h/IMG_2765%5B5%5D.jpg)
+2. [http://thisido.blogspot.com/2010/08/what-is-your-cave.html](http://thisido.blogspot.com/2010/08/what-is-your-cave.html)
+3. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TG4HXS14QhI/AAAAAAAAANU/JTXcrmced4Y/s1600-h/Dscn6625%5B6%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TG4HXS14QhI/AAAAAAAAANU/JTXcrmced4Y/s1600-h/Dscn6625%5B6%5D.jpg)
+4. [http://thisido.blogspot.com/2010/08/what-is-your-cave.html](http://thisido.blogspot.com/2010/08/what-is-your-cave.html)
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Bud Ezekiel (2010-08-20 10:17:20)
@@ -11397,7 +11397,7 @@ had no bats living in it.
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 
 Tea with Tiffany (2010-08-20 21:21:59)
 Too much is at stake. I hear you. Thank you for sharing, now time to visit the caveman LOL. :)
@@ -11463,10 +11463,10 @@ up. Wising you a blessed weekend.
 [3]
 Sweet P’s is a weekly meme hosted by Tea with Tiffany from Friday to Sunday.
 
-1. http://www.teawithtiffany.com/
+1. [http://www.teawithtiffany.com/](http://www.teawithtiffany.com/)
 
-2. http://www.teawithtiffany.com/
-3. http://www.mylivesignature.com/
+2. [http://www.teawithtiffany.com/](http://www.teawithtiffany.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Karen (2010-08-21 13:54:53)
@@ -11566,9 +11566,9 @@ What does that verse speak to you?
 
 [3]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/THJxtIeix0I/AAAAAAAAANg/luM6bQHRD_A/s1600-h/mondaymanna4.jpg
-2. http://www.joannesher.com/
-3. http://www.mylivesignature.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/THJxtIeix0I/AAAAAAAAANg/luM6bQHRD_A/s1600-h/mondaymanna4.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/THJxtIeix0I/AAAAAAAAANg/luM6bQHRD_A/s1600-h/mondaymanna4.jpg)
+2. [http://www.joannesher.com/](http://www.joannesher.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Karlene (2010-08-23 16:00:24)
@@ -11652,7 +11652,7 @@ need is to call that one name&.Jesus.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Beth in NC (2010-08-24 05:38:30)
@@ -11748,8 +11748,8 @@ happenings around you.
 
 [2]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/THSCgaGPRcI/AAAAAAAAANo/ZSt5OMbUPno/s1600-h/Nothing2hear%5B5%5D.jpg
-2. http://www.mylivesignature.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/THSCgaGPRcI/AAAAAAAAANo/ZSt5OMbUPno/s1600-h/Nothing2hear%5B5%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/THSCgaGPRcI/AAAAAAAAANo/ZSt5OMbUPno/s1600-h/Nothing2hear%5B5%5D.jpg)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-08-25 00:47:56)
@@ -11898,7 +11898,7 @@ We can’t always count on the Psalms for true wisdom. This post works very well
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 
 ```
 arlee bird (2010-08-26 21:48:29)
@@ -11907,7 +11907,7 @@ Lee
 [1]Tossing It Out
 ```
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 Just Be Real (2010-08-27 03:27:36)
 Wanda truth speaks loud and clear. Great post. Blessings.
 
@@ -11952,11 +11952,11 @@ today. [4]
 
 [5]
 
-1. http://joyformourning.blogspot.com/2010/08/burden-in-our-spirit.html
-2. http://www.youtube.com/watch?v=7oMmtq-qSIc?fs=1&hl=en_US
-3. http://www.teawithtiffany.com/2010/08/sweet-ps-prayer-petition-praise_27.html
-4. http://teawithtiffany.com/
-5. http://www.mylivesignature.com/
+1. [http://joyformourning.blogspot.com/2010/08/burden-in-our-spirit.html](http://joyformourning.blogspot.com/2010/08/burden-in-our-spirit.html)
+2. [http://www.youtube.com/watch?v=7oMmtq-qSIc?fs=1&hl=en_US](http://www.youtube.com/watch?v=7oMmtq-qSIc?fs=1&hl=en_US)
+3. [http://www.teawithtiffany.com/2010/08/sweet-ps-prayer-petition-praise_27.html](http://www.teawithtiffany.com/2010/08/sweet-ps-prayer-petition-praise_27.html)
+4. [http://teawithtiffany.com/](http://teawithtiffany.com/)
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 BLUEBUTTERFLY (2010-08-27 08:34:15)
@@ -11991,7 +11991,7 @@ I just wanted to stand in agreement with you today. The needs may be many but as
 Bless you for being His obedient servant.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Peggy (2010-08-27 10:52:37)
 Hallelujah...let the Lord ARISE!!!
 ohhhh sweet sister Wanda... AMEN!
@@ -12094,7 +12094,7 @@ foe. Despite the shadows we see or the whisperings we hear, we can rest securely
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-08-30 04:14:20)
@@ -12135,7 +12135,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Lisa (2010-08-30 20:07:04)
 Wanda, there is no greater peace than knowing that HE is right there and that NOTHING can get past His presence.
 Continuing to pray for you Sis. He’s got you!!!
@@ -12193,9 +12193,9 @@ these natural eyes of mine block my view of You. So give me eyes and ears that I
 
 [3]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/THzlTKW8EZI/AAAAAAAAAOA/1wHMvcGR7os/s1600-h/eyes%5B3%5D.jpg
-2. http://www.christianlyricsonline.com/artists/michael-w-smith/open-the-eyes-of-my-heart.html
-3. http://homeiswhereoneheartis.blogspot.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/THzlTKW8EZI/AAAAAAAAAOA/1wHMvcGR7os/s1600-h/eyes%5B3%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/THzlTKW8EZI/AAAAAAAAAOA/1wHMvcGR7os/s1600-h/eyes%5B3%5D.jpg)
+2. [http://www.christianlyricsonline.com/artists/michael-w-smith/open-the-eyes-of-my-heart.html](http://www.christianlyricsonline.com/artists/michael-w-smith/open-the-eyes-of-my-heart.html)
+3. [http://homeiswhereoneheartis.blogspot.com/](http://homeiswhereoneheartis.blogspot.com/)
 
 ```
 Joanne Sher (2010-08-31 13:23:57)
@@ -12218,7 +12218,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 a sojourner (2010-09-01 00:47:00)
 yes and amen with the others sis:)
 thank you for your suggestion too!!! put a contact page on my blog already. rather then make you look for it....it’s:
@@ -12271,10 +12271,10 @@ I recommend you stop by the [2]Internet Cafe to find out what other bloggers are
 
 [3] [4]
 
-1. http://wateredsoul.blogspot.com/
-2. http://internetcafedevotions.com/
-3. http://lh5.ggpht.com/_2wfF2Ki6_qg/TH2-ePgf1vI/AAAAAAAAAPE/sWTSd9BmJNM/s1600-h/cafewfwbuttoncopy%5B4%5D.jpg
-4. http://www.mylivesignature.com/
+1. [http://wateredsoul.blogspot.com/](http://wateredsoul.blogspot.com/)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TH2-ePgf1vI/AAAAAAAAAPE/sWTSd9BmJNM/s1600-h/cafewfwbuttoncopy%5B4%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TH2-ePgf1vI/AAAAAAAAAPE/sWTSd9BmJNM/s1600-h/cafewfwbuttoncopy%5B4%5D.jpg)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-09-01 00:34:43)
@@ -12307,7 +12307,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Karen (2010-09-01 06:02:28)
 Oooh, that was a good word this morning! I will need to spend some time thinking about this! Bless you, friend.
 
@@ -12454,9 +12454,9 @@ Have a prayer, petition or praise of your own? Join [2]Tea with Tiffany for Swee
 
 [3]
 
-1. http://teawithtiffany.com/
-2. http://www.teawithtiffany.com/
-3. http://www.mylivesignature.com/
+1. [http://teawithtiffany.com/](http://teawithtiffany.com/)
+2. [http://www.teawithtiffany.com/](http://www.teawithtiffany.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-09-04 17:06:31)
@@ -12478,7 +12478,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 a sojourner (2010-09-04 18:19:50)
 with you in agreement, Jan. amen!
 
@@ -12600,13 +12600,13 @@ Joanne. [5]
 
 [6]
 
-1. http://www.joannesher.com/
-2. http://www.joannesher.com/2010/09/readiness-monday-manna.html
-3. http://lh3.ggpht.com/_2wfF2Ki6_qg/TIT_rsH0QsI/AAAAAAAAAPc/dDwd_EXNKNg/s1600-h/tartan%20day%20053a%5B9%5D.
+1. [http://www.joannesher.com/](http://www.joannesher.com/)
+2. [http://www.joannesher.com/2010/09/readiness-monday-manna.html](http://www.joannesher.com/2010/09/readiness-monday-manna.html)
+3. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TIT_rsH0QsI/AAAAAAAAAPc/dDwd_EXNKNg/s1600-h/tartan%20day%20053a%5B9%5D.](http://lh3.ggpht.com/_2wfF2Ki6_qg/TIT_rsH0QsI/AAAAAAAAAPc/dDwd_EXNKNg/s1600-h/tartan%20day%20053a%5B9%5D.)
 jpg
-4. http://lh5.ggpht.com/_2wfF2Ki6_qg/TIT_t349jEI/AAAAAAAAAPk/QnnQEWH4nqM/s1600-h/_MG_1134%5B4%5D.jpg
-5. http://www.joannesher.com/2008/01/welcome-to-monday-manna.html
-6. http://www.mylivesignature.com/
+4. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TIT_t349jEI/AAAAAAAAAPk/QnnQEWH4nqM/s1600-h/_MG_1134%5B4%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TIT_t349jEI/AAAAAAAAAPk/QnnQEWH4nqM/s1600-h/_MG_1134%5B4%5D.jpg)
+5. [http://www.joannesher.com/2008/01/welcome-to-monday-manna.html](http://www.joannesher.com/2008/01/welcome-to-monday-manna.html)
+6. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-09-06 15:22:18)
@@ -12632,7 +12632,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 ```
 a sojourner (2010-09-06 19:20:24)
@@ -12695,10 +12695,10 @@ Which further points to the reason why I need to be getting dressed daily in the
 
 [4]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TIdO_t43ivI/AAAAAAAAAPs/A-eaEon0E20/s1600-h/BuckledNTruth8.png
-2. http://wateredsoul.blogspot.com/2010/09/centered-on-truth-monday-manna.html
-3. http://http//wateredsoul.blogspot.com/2010/09/centered-on-truth-monday-manna.html
-4. http://www.mylivesignature.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TIdO_t43ivI/AAAAAAAAAPs/A-eaEon0E20/s1600-h/BuckledNTruth8.png](http://lh5.ggpht.com/_2wfF2Ki6_qg/TIdO_t43ivI/AAAAAAAAAPs/A-eaEon0E20/s1600-h/BuckledNTruth8.png)
+2. [http://wateredsoul.blogspot.com/2010/09/centered-on-truth-monday-manna.html](http://wateredsoul.blogspot.com/2010/09/centered-on-truth-monday-manna.html)
+3. [http://http//wateredsoul.blogspot.com/2010/09/centered-on-truth-monday-manna.html](http://http//wateredsoul.blogspot.com/2010/09/centered-on-truth-monday-manna.html)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Amanda (2010-09-08 03:20:57)
@@ -12750,7 +12750,7 @@ Thanks for providing the additional manna sister.
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 welcome to my world of poetry (2010-09-08 05:56:35)
 A very clever post Wanda, I enjoyed the read infact I read it rwice over,
@@ -12923,8 +12923,8 @@ Join Tea with Tiffany for others who are lifting up Sweet Ps this weekend.
 
 [2]
 
-1. http://www.mylivesignature.com/
-2. http://teawithtiffany.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
+2. [http://teawithtiffany.com/](http://teawithtiffany.com/)
 
 ```
 MTJ (2010-09-11 12:09:52)
@@ -12935,7 +12935,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 welcome to my world of poetry (2010-09-11 14:13:26)
 A wonderful prayer Wanda, so beautifully written, I have my own reasons for thanking you.
 Yvonne.
@@ -13019,12 +13019,12 @@ Praying that Hell strengthen you as you walk through the darkness.
 
 [5]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TI5QQNHeDbI/AAAAAAAAAP4/kiGe268SHRg/s1600-h/thunderclouds%5B10%5D.jpg
-2. http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TI5QQNHeDbI/AAAAAAAAAP4/kiGe268SHRg/s1600-h/thunderclouds%5B10%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TI5QQNHeDbI/AAAAAAAAAP4/kiGe268SHRg/s1600-h/thunderclouds%5B10%5D.jpg)
+2. [http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html](http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html)
 
-3. http://wateredsoul.blogspot.com/2010/04/are-you-growing.html
-4. http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html
-5. http://www.mylivesignature.com/
+3. [http://wateredsoul.blogspot.com/2010/04/are-you-growing.html](http://wateredsoul.blogspot.com/2010/04/are-you-growing.html)
+4. [http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html](http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html)
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 One Heart (2010-09-13 16:42:52)
@@ -13049,7 +13049,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 welcome to my world of poetry (2010-09-13 20:35:06)
 That’s so true about the darkness not lasting. Somewhere there is light at the end of the tunnel however long it may
 take it’s there.
@@ -13120,11 +13120,11 @@ in Advertising.
 
 [5]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TI7SRVKfXSI/AAAAAAAAAQA/RwzNK58ykvo/s1600-h/NoGirlsAllowed3.jpg
-2. http://lh3.ggpht.com/_2wfF2Ki6_qg/TI7SRVKfXSI/AAAAAAAAAQA/RwzNK58ykvo/s1600-h/NoGirlsAllowed3.jpg
-3. http://lh3.ggpht.com/_2wfF2Ki6_qg/TI7SRVKfXSI/AAAAAAAAAQA/RwzNK58ykvo/s1600-h/NoGirlsAllowed3.jpg
-4. http://books.google.com/books?id=O9l6Sb5SFGEC&lpg=PP1&pg=PP1#v=onepage&q&f=false
-5. http://www.mylivesignature.com/
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TI7SRVKfXSI/AAAAAAAAAQA/RwzNK58ykvo/s1600-h/NoGirlsAllowed3.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TI7SRVKfXSI/AAAAAAAAAQA/RwzNK58ykvo/s1600-h/NoGirlsAllowed3.jpg)
+2. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TI7SRVKfXSI/AAAAAAAAAQA/RwzNK58ykvo/s1600-h/NoGirlsAllowed3.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TI7SRVKfXSI/AAAAAAAAAQA/RwzNK58ykvo/s1600-h/NoGirlsAllowed3.jpg)
+3. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TI7SRVKfXSI/AAAAAAAAAQA/RwzNK58ykvo/s1600-h/NoGirlsAllowed3.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TI7SRVKfXSI/AAAAAAAAAQA/RwzNK58ykvo/s1600-h/NoGirlsAllowed3.jpg)
+4. [http://books.google.com/books?id=O9l6Sb5SFGEC&lpg=PP1&pg=PP1#v=onepage&q&f=false](http://books.google.com/books?id=O9l6Sb5SFGEC&lpg=PP1&pg=PP1#v=onepage&q&f=false)
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-09-14 10:38:01)
@@ -13144,7 +13144,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Faith Imagined (2010-09-14 17:49:10)
 This book sounds something I would love my boys to read. I am definitely going to check it out. Thanks for the
 review!
@@ -13173,10 +13173,10 @@ Fill your cup with more of the Word this Wednesday at [2]Internet Cafe Devotions
 
 [4]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TJA_RkvmCwI/AAAAAAAAAQI/3nZmjeG8VEQ/s1600-h/wicked1%5B3%5D.png
-2. http://internetcafedevotions.com/
-3. http://internetcafedevotions.com/
-4. http://www.mylivesignature.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TJA_RkvmCwI/AAAAAAAAAQI/3nZmjeG8VEQ/s1600-h/wicked1%5B3%5D.png](http://lh5.ggpht.com/_2wfF2Ki6_qg/TJA_RkvmCwI/AAAAAAAAAQI/3nZmjeG8VEQ/s1600-h/wicked1%5B3%5D.png)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Sharon Kirby (2010-09-15 01:25:33)
@@ -13216,7 +13216,7 @@ This is a good devotional thought for the day.
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 BLUEBUTTERFLY (2010-09-15 07:00:45)
 Oh, Wanda...such truth. Even in the natural, getting caught in a Spider’s web is not a pleasant experience. I think
@@ -13396,28 +13396,28 @@ many times over.
 
 [21]
 
-1. http://www.intelligentexpressions.blogspot.com/
-2. http://welcometomyworldofpoetry.blogspot.com/
-3. http://ellasedge.blogspot.com/
-4. http://hallelujahanyhow.blogspot.com/
-5. http://mythought-filledjourney.blogspot.com/
-6. http://justbereal77.blogspot.com/
-7. http://mazmagi.blogspot.com/
-8. http://homeiswhereoneheartis.blogspot.com/
-9. http://lh3.ggpht.com/_2wfF2Ki6_qg/TJL0IUa3uFI/AAAAAAAAAQU/dw-ZQxvWEAo/s1600-h/Awardcircle_
+1. [http://www.intelligentexpressions.blogspot.com/](http://www.intelligentexpressions.blogspot.com/)
+2. [http://welcometomyworldofpoetry.blogspot.com/](http://welcometomyworldofpoetry.blogspot.com/)
+3. [http://ellasedge.blogspot.com/](http://ellasedge.blogspot.com/)
+4. [http://hallelujahanyhow.blogspot.com/](http://hallelujahanyhow.blogspot.com/)
+5. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
+6. [http://justbereal77.blogspot.com/](http://justbereal77.blogspot.com/)
+7. [http://mazmagi.blogspot.com/](http://mazmagi.blogspot.com/)
+8. [http://homeiswhereoneheartis.blogspot.com/](http://homeiswhereoneheartis.blogspot.com/)
+9. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TJL0IUa3uFI/AAAAAAAAAQU/dw-ZQxvWEAo/s1600-h/Awardcircle_](http://lh3.ggpht.com/_2wfF2Ki6_qg/TJL0IUa3uFI/AAAAAAAAAQU/dw-ZQxvWEAo/s1600-h/Awardcircle_)
 friendsYvonne82710%5B1%5D.jpg
-10. http://ellasedge.blogspot.com/
-11. http://lh5.ggpht.com/_2wfF2Ki6_qg/TJL0JjfcI2I/AAAAAAAAAQc/gJKtgC5Bz4o/s1600-h/happy101awardEllie99102.jpg
+10. [http://ellasedge.blogspot.com/](http://ellasedge.blogspot.com/)
+11. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TJL0JjfcI2I/AAAAAAAAAQc/gJKtgC5Bz4o/s1600-h/happy101awardEllie99102.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TJL0JjfcI2I/AAAAAAAAAQc/gJKtgC5Bz4o/s1600-h/happy101awardEllie99102.jpg)
 12. file://localhost/mnt/ext/blogbooker/tmp/4c1nyqhk/ahref=
-13. http://amandassecretgarden.blogspot.com/
-14. http://gentlerecovery.blogspot.com/
-15. http://www.momwearsthehats.com/
-16. http://fillmythirst.blogspot.com/
-17. http://stuffcouldalwaysbeworse.blogspot.com/
-18. http://akskorner.blogspot.com/
-19. http://www.joannesher.com/
-20. http://sharonsharinggod.blogspot.com/
-21. http://www.mylivesignature.com/
+13. [http://amandassecretgarden.blogspot.com/](http://amandassecretgarden.blogspot.com/)
+14. [http://gentlerecovery.blogspot.com/](http://gentlerecovery.blogspot.com/)
+15. [http://www.momwearsthehats.com/](http://www.momwearsthehats.com/)
+16. [http://fillmythirst.blogspot.com/](http://fillmythirst.blogspot.com/)
+17. [http://stuffcouldalwaysbeworse.blogspot.com/](http://stuffcouldalwaysbeworse.blogspot.com/)
+18. [http://akskorner.blogspot.com/](http://akskorner.blogspot.com/)
+19. [http://www.joannesher.com/](http://www.joannesher.com/)
+20. [http://sharonsharinggod.blogspot.com/](http://sharonsharinggod.blogspot.com/)
+21. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-09-17 08:18:36)
@@ -13436,7 +13436,7 @@ Blessings and peace.
 
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 Just Be Real (2010-09-17 10:44:12)
 Congrats on your award Wanda, and thank you for sharing it with me. Blessings to you dear one.
@@ -13555,9 +13555,9 @@ with another one of His children that speaks or writes a word that refuels my ho
 
 [3]
 
-1. http://www.biblegateway.com/passage/?search=Psalm%2062&version=NLT
-2. http://mythought-filledjourney.blogspot.com/2010/09/sweet-ps-praise-god-for-victory.html
-3. http://www.mylivesignature.com/
+1. [http://www.biblegateway.com/passage/?search=Psalm%2062&version=NLT](http://www.biblegateway.com/passage/?search=Psalm%2062&version=NLT)
+2. [http://mythought-filledjourney.blogspot.com/2010/09/sweet-ps-praise-god-for-victory.html](http://mythought-filledjourney.blogspot.com/2010/09/sweet-ps-praise-god-for-victory.html)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Mike (2010-09-18 19:57:17)
@@ -13584,7 +13584,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Joanne Sher (2010-09-18 20:59:28)
 The psalms are so full of things like this - love them - and this post. Blessings.
 
@@ -13647,11 +13647,11 @@ good in it, I must trust that He indeed has a plan and its good and not evil.
 
 [4]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TJfsZDTDchI/AAAAAAAAARI/qLHlCegzY1c/s1600-h/Not%20an%20Option%5B12%5D.
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TJfsZDTDchI/AAAAAAAAARI/qLHlCegzY1c/s1600-h/Not%20an%20Option%5B12%5D.](http://lh3.ggpht.com/_2wfF2Ki6_qg/TJfsZDTDchI/AAAAAAAAARI/qLHlCegzY1c/s1600-h/Not%20an%20Option%5B12%5D.)
 jpg
-2. http://www.joannesher.com/
-3. http://www.joannesher.com/
-4. http://www.mylivesignature.com/
+2. [http://www.joannesher.com/](http://www.joannesher.com/)
+3. [http://www.joannesher.com/](http://www.joannesher.com/)
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-09-20 23:51:47)
@@ -13677,7 +13677,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 LisaShaw (2010-09-21 00:46:36)
 Amen sis! Trusting His path and plan for my life which is a far cry BETTER than any plan I had.
 I remember in high school I was going to go into the Marines. Shortly after HS I had long term plans for becoming a
@@ -13772,11 +13772,11 @@ the Use of Endorsements and Testimonials in Advertising.”
 
 [4]
 
-1. http://somegirlswebsite.com/about-some-girl/
-2. http://wateredsoul.blogspot.com/2010/07/nobody-likes-me.html
-3. http://lh3.ggpht.com/_2wfF2Ki6_qg/TJgUavBsqiI/AAAAAAAAARU/uwo4c65_jYs/s1600-h/Lifechange%20Psalms%5B3%5D.
+1. [http://somegirlswebsite.com/about-some-girl/](http://somegirlswebsite.com/about-some-girl/)
+2. [http://wateredsoul.blogspot.com/2010/07/nobody-likes-me.html](http://wateredsoul.blogspot.com/2010/07/nobody-likes-me.html)
+3. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TJgUavBsqiI/AAAAAAAAARU/uwo4c65_jYs/s1600-h/Lifechange%20Psalms%5B3%5D.](http://lh3.ggpht.com/_2wfF2Ki6_qg/TJgUavBsqiI/AAAAAAAAARU/uwo4c65_jYs/s1600-h/Lifechange%20Psalms%5B3%5D.)
 jpg
-4. http://www.mylivesignature.com/
+4. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Karen (2010-09-21 09:51:41)
@@ -13791,7 +13791,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 welcome to my world of poetry (2010-09-21 16:19:31)
 Thanks Wanda for this interesting post, Indeed David could have been the first blogger.
 Yvonne.
@@ -13843,9 +13843,9 @@ too.
 
 [3]
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TJm9eYV5IMI/AAAAAAAAARg/pLncS_1iMD8/s1600-h/goodnews%5B16%5D.jpg
-2. http://internetcafedevotions.com/
-3. http://lh5.ggpht.com/_2wfF2Ki6_qg/TJm9g_C04DI/AAAAAAAAARs/an81qE-DUxw/s1600-h/isaiah%2035-3%5B7%5D.jpg
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TJm9eYV5IMI/AAAAAAAAARg/pLncS_1iMD8/s1600-h/goodnews%5B16%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TJm9eYV5IMI/AAAAAAAAARg/pLncS_1iMD8/s1600-h/goodnews%5B16%5D.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TJm9g_C04DI/AAAAAAAAARs/an81qE-DUxw/s1600-h/isaiah%2035-3%5B7%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TJm9g_C04DI/AAAAAAAAARs/an81qE-DUxw/s1600-h/isaiah%2035-3%5B7%5D.jpg)
 
 ```
 Amanda (2010-09-22 02:36:47)
@@ -13871,7 +13871,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 Joan (2010-09-22 05:56:30)
 Wanda - this is such an encouraging post. I also raise my hand to all three questions, but praise God for His salvation,
@@ -14013,17 +14013,17 @@ much stress but who couldnt use some extra tools for handling stress effectivel
 Bishop Etta divides the book into two sections. Section one outlines the seven keys to living extraordinarily
 and section two focuses on ways to reign in life. He identifies the seven keys as:
 
-• Healed Through Love -discusses how our life flows from our love of God and some of the hindrances
+• **Healed Through Love** -discusses how our life flows from our love of God and some of the hindrances
 to walking in love like mistrust, human failings, rejection and abuse
 
-• The Beauty of Forgiveness  looks at how choosing to release hurts and offences brings liberation
+• **The Beauty of Forgiveness**  looks at how choosing to release hurts and offences brings liberation
 from stress
-• The Power of Truth  points out the importance of being willing to face the truth and living
+• **The Power of Truth**  points out the importance of being willing to face the truth and living
 authentically
-• The Peace of Unity- calls readers to unity not just with others but within themselves
-• The Grace of Appreciation-reminds us of the value of gratitude
-• Intimacy Through Communication-communicates the value of relationships with others
-• The Creative Force of Faithillustrates how faith is the necessary building block for our lives.
+• **The Peace of Unity**- calls readers to unity not just with others but within themselves
+• **The Grace of Appreciation**-reminds us of the value of gratitude
+• **Intimacy Through Communication**-communicates the value of relationships with others
+• **The Creative Force of Faith**illustrates how faith is the necessary building block for our lives.
 
 It was an interesting read and there were several statements that stood out enough for me to write them
 down. Here are few:
@@ -14067,8 +14067,8 @@ _review program. The opinions expresses are my own._
 
 [2]
 
-1. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJ6rTLF7H8I/AAAAAAAAAS8/fvpeDsiwgWQ/s1600/stressfreelife.jpg
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJ6rTLF7H8I/AAAAAAAAAS8/fvpeDsiwgWQ/s1600/stressfreelife.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJ6rTLF7H8I/AAAAAAAAAS8/fvpeDsiwgWQ/s1600/stressfreelife.jpg)
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 MTJ (2010-09-26 23:30:31)
@@ -14078,7 +14078,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Lisa (2010-09-27 00:23:09)
 How interesting and I must say, I ’m a coward right there with you. That is something I struggle with, but that I
 know I am overcoming by God’s grace. I will pray that you do as well. Thanks for the review. I see posts like these
@@ -14140,9 +14140,9 @@ encouraged to continue pressing and praying. For who knows, today just may be th
 
 [2]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/TKCHE64rb_I/AAAAAAAAATA/m97A3ZtzWKY/s1600/829965_a_tale_of_orange_
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/TKCHE64rb_I/AAAAAAAAATA/m97A3ZtzWKY/s1600/829965_a_tale_of_orange_](http://4.bp.blogspot.com/_2wfF2Ki6_qg/TKCHE64rb_I/AAAAAAAAATA/m97A3ZtzWKY/s1600/829965_a_tale_of_orange_)
 shoes_3.jpg
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 MTJ (2010-09-27 18:29:19)
 Hi Wanda,
@@ -14152,7 +14152,7 @@ _we trust Him with our own._
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Beth in NC (2010-09-27 19:02:31)
 Great reminder to press through Wanda. You’re right, often times it is harder when we are about to birth something
 ... push, push, push!
@@ -14222,9 +14222,9 @@ Visit [2]Internet Cafe Devotions for more Word-Filled Wednesday.
 
 [3]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TKLAZWX10fI/AAAAAAAAATE/ZluTWxx04IY/s1600-h/fancybottle%5B12%5D.jpg
-2. http://internetcafedevotions.com/
-3. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TKLAZWX10fI/AAAAAAAAATE/ZluTWxx04IY/s1600-h/fancybottle%5B12%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TKLAZWX10fI/AAAAAAAAATE/ZluTWxx04IY/s1600-h/fancybottle%5B12%5D.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 welcome to my world of poetry (2010-09-29 05:09:12)
@@ -14266,7 +14266,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 GlowinGirl (2010-09-29 06:18:52)
 BBQ wieners! Hilarious! But so true, because I love those little things. :) What a unique way to put a great truth.
 Love it!
@@ -14305,7 +14305,7 @@ after reading a wonderful book. And I could not find its title but I’ll let yo
 EnJOY WFW!
 Peggy
 
-1. http://mazmagi.blogspot.com/2009/01/we-are-aroma-of-christ-to-nations.html
+1. [http://mazmagi.blogspot.com/2009/01/we-are-aroma-of-christ-to-nations.html](http://mazmagi.blogspot.com/2009/01/we-are-aroma-of-christ-to-nations.html)
 
 Susan (2010-09-29 13:01:03)
 Great word! Something we need to be reminded of often!!
@@ -14412,12 +14412,12 @@ everything, inside and out. Isaiah 40:28 (The Message)
 
 [6]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TKYKv8kUfzI/AAAAAAAAATM/1-VzYfrDwzY/s1600-h/980736_miracle%5B5%5D.jpg
-2. http://bethinnc.blogspot.com/
-3. http://bethinnc.blogspot.com/2010/09/you-must-read-this.html
-4. http://wateredsoul.blogspot.com/2010/09/heard-news.html
-5. http://wateredsoul.blogspot.com/2010/03/if-not-him-then-who.html
-6. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TKYKv8kUfzI/AAAAAAAAATM/1-VzYfrDwzY/s1600-h/980736_miracle%5B5%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TKYKv8kUfzI/AAAAAAAAATM/1-VzYfrDwzY/s1600-h/980736_miracle%5B5%5D.jpg)
+2. [http://bethinnc.blogspot.com/](http://bethinnc.blogspot.com/)
+3. [http://bethinnc.blogspot.com/2010/09/you-must-read-this.html](http://bethinnc.blogspot.com/2010/09/you-must-read-this.html)
+4. [http://wateredsoul.blogspot.com/2010/09/heard-news.html](http://wateredsoul.blogspot.com/2010/09/heard-news.html)
+5. [http://wateredsoul.blogspot.com/2010/03/if-not-him-then-who.html](http://wateredsoul.blogspot.com/2010/03/if-not-him-then-who.html)
+6. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Grammy (2010-10-01 19:27:29)
@@ -14459,7 +14459,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Amanda (2010-10-02 06:32:12)
 Well this certainly fired me up! How infectious is His Spirit, that fanes the flame in our hearts!!
 Loved hearing about your cousin. You know Wanda, one thing I have noticed in God, is that it is those you least
@@ -14520,9 +14520,9 @@ that page. Make sure not to share any spoilers.
 
 [3]
 
-1. http://shouldbereading.wordpress.com/2010/10/05/teaser-tuesdays-oct-5/#comments
-2. http://lh5.ggpht.com/_2wfF2Ki6_qg/TKqQWthQD4I/AAAAAAAAATs/j-6VV0VoqQo/s1600-h/stranger%5B20%5D.jpg
-3. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://shouldbereading.wordpress.com/2010/10/05/teaser-tuesdays-oct-5/#comments](http://shouldbereading.wordpress.com/2010/10/05/teaser-tuesdays-oct-5/#comments)
+2. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TKqQWthQD4I/AAAAAAAAATs/j-6VV0VoqQo/s1600-h/stranger%5B20%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TKqQWthQD4I/AAAAAAAAATs/j-6VV0VoqQo/s1600-h/stranger%5B20%5D.jpg)
+3. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 welcome to my world of poetry (2010-10-05 06:48:45)
@@ -14535,7 +14535,7 @@ Tasha (2010-10-05 12:59:44)
 Wow, interesting teaser! Makes me wonder what comes next. Here is a look at my [1]teaser... Happy reading!
 ```
 
-1. http://book-obsessed.blogspot.com/2010/10/teaser-tuesday-one-wicked-sin-by-nicola.html
+1. [http://book-obsessed.blogspot.com/2010/10/teaser-tuesday-one-wicked-sin-by-nicola.html](http://book-obsessed.blogspot.com/2010/10/teaser-tuesday-one-wicked-sin-by-nicola.html)
 Joanne Sher (2010-10-05 13:10:54)
 LOVED that book, Wanda! And a fabulous teaser for it :)
 
@@ -14545,7 +14545,7 @@ So what’s her reply? Thanks for the teaser :)
 [1]Here’s my TEASER for this week
 ```
 
-1. http://thebookishsnob.blogspot.com/2010/10/teaser-tuesday-7.html
+1. [http://thebookishsnob.blogspot.com/2010/10/teaser-tuesday-7.html](http://thebookishsnob.blogspot.com/2010/10/teaser-tuesday-7.html)
 Monica (2010-10-05 21:16:14)
 Wow...pretty good teaser. I might have to link up one day.
 
@@ -14574,8 +14574,8 @@ and your reputation stand firm.
 Month after month and week by week,
 everyone will come to worship me,” God says. Isaiah 66:22-23 (The Message) [2]
 
-1. http://1.bp.blogspot.com/_2wfF2Ki6_qg/TKvmxaqU6SI/AAAAAAAAAT0/X_jz4QndLMg/s1600/month+2+month.jpg
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://1.bp.blogspot.com/_2wfF2Ki6_qg/TKvmxaqU6SI/AAAAAAAAAT0/X_jz4QndLMg/s1600/month+2+month.jpg](http://1.bp.blogspot.com/_2wfF2Ki6_qg/TKvmxaqU6SI/AAAAAAAAAT0/X_jz4QndLMg/s1600/month+2+month.jpg)
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 welcome to my world of poetry (2010-10-06 05:44:14)
@@ -14604,7 +14604,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 Faith Imagined (2010-10-06 08:01:20)
 I just love this graphic and the scripture it illustrates! Perfect!!!
@@ -14730,8 +14730,8 @@ Him?
 
 [2]
 
-1. http://2.bp.blogspot.com/_2wfF2Ki6_qg/TK1CHEIQ2II/AAAAAAAAAT8/DkOZ8BJHkQo/s1600/P9211805.JPG
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://2.bp.blogspot.com/_2wfF2Ki6_qg/TK1CHEIQ2II/AAAAAAAAAT8/DkOZ8BJHkQo/s1600/P9211805.JPG](http://2.bp.blogspot.com/_2wfF2Ki6_qg/TK1CHEIQ2II/AAAAAAAAAT8/DkOZ8BJHkQo/s1600/P9211805.JPG)
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 welcome to my world of poetry (2010-10-07 11:23:18)
@@ -14750,22 +14750,22 @@ faith.
 You raise valid questions regarding faith and trust in God:
 ```
 
-1. Is that the rock I see when reading scriptures that calls God my rock and my fortress?
-2. Is that your view of the rock?
-3. Does my response, my prayer, my thoughts, my attitude or my demeanor show that I see Him as
-one who offers little resistance to forces that oppose me-His child?
-4. He is not just concern with my words but what is my behavior speaking?
-5. Does it say I think trouble can drive Him away?
-6. Does my whining and fretting reveal that deep down I believe that the thing I’m up against is large
-enough to move, push or manipulate Him?
-I believe these questions help bring into focus both How I see God and Who I see God is. In answering these two
+1. **Is that the rock I see when reading scriptures that calls God my rock and my fortress?**
+2. **Is that your view of the rock?**
+3. **Does my response, my prayer, my thoughts, my attitude or my demeanor show that I see Him as**
+**one who offers little resistance to forces that oppose me-His child?**
+4. **He is not just concern with my words but what is my behavior speaking?**
+5. **Does it say I think trouble can drive Him away?**
+6. **Does my whining and fretting reveal that deep down I believe that the thing I’m up against is large**
+**enough to move, push or manipulate Him?**
+I believe these questions help bring into focus both _How I see God_ and _Who I see God is._ In answering these two
 questions, I realize I must also answer the question:
-What does it mean to be God?
-You’ve given me much to consider, meditate and I believe a topic to write my personal thoughts about. With your
-permission, I’d like to use this post as a framework to address my answers.
+**What does it mean to be God?**
+You’ve given me much to consider, meditate and I believe a topic to write my personal thoughts about. _With your_
+_permission, I’d like to use this post as a framework to address my answers._
 Blessings and peace.
 [1]MTJ
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 lioneagle (2010-10-07 13:03:56)
 Hi Wanda -
@@ -14886,8 +14886,8 @@ permeate every dark place. In Jesus name, Amen.
 
 [2]
 
-1. http://www.teawithtiffany.com/
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://www.teawithtiffany.com/](http://www.teawithtiffany.com/)
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 welcome to my world of poetry (2010-10-08 13:08:42)
@@ -14906,7 +14906,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Tea with Tiffany (2010-10-08 19:43:43)
 Amen..
 I so love praying your prayer. It’s so my heart too. God is worthy of our prayers and I’m excited to see what He is
@@ -15001,11 +15001,11 @@ Fill your cup with more of the Word this Wednesday at [2]Internet Cafe Devotions
 
 [4]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TLU4HZ7vm5I/AAAAAAAAAUM/Oj_lHtN1U8k/s1600-h/phil-3and8%5B4%5D.png
-2. http://internetcafedevotions.com/
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TLU4HZ7vm5I/AAAAAAAAAUM/Oj_lHtN1U8k/s1600-h/phil-3and8%5B4%5D.png](http://lh6.ggpht.com/_2wfF2Ki6_qg/TLU4HZ7vm5I/AAAAAAAAAUM/Oj_lHtN1U8k/s1600-h/phil-3and8%5B4%5D.png)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
 
-3. http://lh5.ggpht.com/_2wfF2Ki6_qg/TLU4MTqmAKI/AAAAAAAAAUU/HUb5H1RqPns/s1600-h/cafewfwbuttoncopy%5B7%5D.jpg
-4. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+3. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TLU4MTqmAKI/AAAAAAAAAUU/HUb5H1RqPns/s1600-h/cafewfwbuttoncopy%5B7%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TLU4MTqmAKI/AAAAAAAAAUU/HUb5H1RqPns/s1600-h/cafewfwbuttoncopy%5B7%5D.jpg)
+4. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Sharon Kirby (2010-10-13 00:16:21)
@@ -15081,7 +15081,7 @@ treasured are nothing more than _dung._
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Peggy (2010-10-13 11:40:58)
 Blessings Wanda... Powerful image & verse! I love your reflection on this and thoughts you shared! How specific you
 addressed that Paul did not mention our possessions here in this verse of Philippians! Yet you hit this right where it
@@ -15228,9 +15228,9 @@ be known. Improve them and they will become the brightest gems in a useful life.
 
 [3]
 
-1. http://2.bp.blogspot.com/_2wfF2Ki6_qg/TLeyrs-COxI/AAAAAAAAAUk/QS3hJuqIewo/s1600/moments.jpg
-2. http://www.flickr.com/photos/ktylerconk/2218866819
-3. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://2.bp.blogspot.com/_2wfF2Ki6_qg/TLeyrs-COxI/AAAAAAAAAUk/QS3hJuqIewo/s1600/moments.jpg](http://2.bp.blogspot.com/_2wfF2Ki6_qg/TLeyrs-COxI/AAAAAAAAAUk/QS3hJuqIewo/s1600/moments.jpg)
+2. [http://www.flickr.com/photos/ktylerconk/2218866819](http://www.flickr.com/photos/ktylerconk/2218866819)
+3. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 welcome to my world of poetry (2010-10-15 01:55:52)
@@ -15258,7 +15258,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Karen (2010-10-15 04:55:57)
 This is a wonderful truth. I especially like the Henry Drummond quote. Bless you!
 
@@ -15373,8 +15373,8 @@ Failure to confront the enemy will only lead to a loss of more territory.
 
 [2]
 
-1. http://wateredsoul.blogspot.com/2010/06/shammah.html
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://wateredsoul.blogspot.com/2010/06/shammah.html](http://wateredsoul.blogspot.com/2010/06/shammah.html)
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Mike (2010-10-18 11:57:00)
@@ -15422,7 +15422,7 @@ Blessings and peace.
 
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 Beth.. One Blessed Nana (2010-10-18 14:57:38)
 Dogs scare me!
@@ -15468,7 +15468,7 @@ what need to do.
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 
 Faith Imagined (2010-10-18 19:39:24)
 I got goosebumps reading this! How scary. I love the insights you learned from an experience. God is protecting us
@@ -15537,8 +15537,8 @@ to accept the worlds rejects and castaways.
 
 [2]
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TL436P4RXnI/AAAAAAAAAUo/RX2PYE89rBk/s1600-h/Jer%2031-36%2C37%5B12%5D.png
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TL436P4RXnI/AAAAAAAAAUo/RX2PYE89rBk/s1600-h/Jer%2031-36%2C37%5B12%5D.png](http://lh4.ggpht.com/_2wfF2Ki6_qg/TL436P4RXnI/AAAAAAAAAUo/RX2PYE89rBk/s1600-h/Jer%2031-36%2C37%5B12%5D.png)
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Ellie (2010-10-19 20:29:46)
@@ -15586,7 +15586,7 @@ _a blessing._
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Mary (2010-10-20 06:32:31)
 Thanks Wanda. God fills us with Hope for the lost to return. Keep on praying and believing. There are so many that
 desperately need new life in Jesus. Thanks for sharing. Blessings on your day!
@@ -15754,15 +15754,15 @@ _review purposes. The views and opinions expressed are my own._
 
 [9]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TL5BC92v0zI/AAAAAAAAAUw/ai8wtzcGW6U/s1600-h/TheWaiting1.jpg
-2. http://lh3.ggpht.com/_2wfF2Ki6_qg/TL5BFYNrD8I/AAAAAAAAAU4/PGDVgdnNAec/s1600-h/SWF_headshot33.jpg
-3. http://www.suzannewoodsfisher.com/
-4. http://www.amazon.com/Waiting-Novel-Lancaster-County-Secrets/dp/080073386X?ie=UTF8&tag=sprightly-20
-5. http://www.facebook.com/event.php?eid=165460740136351
-6. http://wildfireapp.com/website/6/contests/64950
-7. http://apps.facebook.com/sweepstakeshq/contests/64950
-8. http://wildfireapp.com/twitter/233/contests/64950
-9. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TL5BC92v0zI/AAAAAAAAAUw/ai8wtzcGW6U/s1600-h/TheWaiting1.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TL5BC92v0zI/AAAAAAAAAUw/ai8wtzcGW6U/s1600-h/TheWaiting1.jpg)
+2. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TL5BFYNrD8I/AAAAAAAAAU4/PGDVgdnNAec/s1600-h/SWF_headshot33.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TL5BFYNrD8I/AAAAAAAAAU4/PGDVgdnNAec/s1600-h/SWF_headshot33.jpg)
+3. [http://www.suzannewoodsfisher.com/](http://www.suzannewoodsfisher.com/)
+4. [http://www.amazon.com/Waiting-Novel-Lancaster-County-Secrets/dp/080073386X?ie=UTF8&tag=sprightly-20](http://www.amazon.com/Waiting-Novel-Lancaster-County-Secrets/dp/080073386X?ie=UTF8&tag=sprightly-20)
+5. [http://www.facebook.com/event.php?eid=165460740136351](http://www.facebook.com/event.php?eid=165460740136351)
+6. [http://wildfireapp.com/website/6/contests/64950](http://wildfireapp.com/website/6/contests/64950)
+7. [http://apps.facebook.com/sweepstakeshq/contests/64950](http://apps.facebook.com/sweepstakeshq/contests/64950)
+8. [http://wildfireapp.com/twitter/233/contests/64950](http://wildfireapp.com/twitter/233/contests/64950)
+9. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 Amanda (2010-10-20 08:44:45)
 Looks like a good read Wanda! Will keep my eye out for it..
@@ -15831,7 +15831,7 @@ Hope you’re enjoying a wonderful weekend!
 
 [1]
 
-1. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Ruth (2010-10-23 23:51:56)
@@ -15886,9 +15886,9 @@ I’m able to behold with my eyes every day.
 
 [3]
 
-1. http://4.bp.blogspot.com/_2wfF2Ki6_qg/TMQv41QRwkI/AAAAAAAAAVA/ke9bQ6j7ujw/s1600/redskies1.jpg
-2. http://1.bp.blogspot.com/_2wfF2Ki6_qg/TMQwigFIvdI/AAAAAAAAAVE/b20k8SHawso/s1600/PICT2980.JPG
-3. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/TMQv41QRwkI/AAAAAAAAAVA/ke9bQ6j7ujw/s1600/redskies1.jpg](http://4.bp.blogspot.com/_2wfF2Ki6_qg/TMQv41QRwkI/AAAAAAAAAVA/ke9bQ6j7ujw/s1600/redskies1.jpg)
+2. [http://1.bp.blogspot.com/_2wfF2Ki6_qg/TMQwigFIvdI/AAAAAAAAAVE/b20k8SHawso/s1600/PICT2980.JPG](http://1.bp.blogspot.com/_2wfF2Ki6_qg/TMQwigFIvdI/AAAAAAAAAVE/b20k8SHawso/s1600/PICT2980.JPG)
+3. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Amanda (2010-10-24 14:38:13)
@@ -15980,16 +15980,16 @@ Any interesting books come into your home the past week?
 
 [9]
 
-1. http://iamareadernotawriter.blogspot.com/2010/10/in-my-mailbox-mailbox-monday_24.html
-2. http://printedpage.us/mailbox-monday-blog-tour/
-3. http://shereadsandreads.blogspot.com/
-4. http://lh6.ggpht.com/_2wfF2Ki6_qg/TMWDICVkTgI/AAAAAAAAAVw/S8uzq0IwRl4/s1600-h/image001%5B3%5D.jpg
-5. http://lh4.ggpht.com/_2wfF2Ki6_qg/TMWDJSBp1aI/AAAAAAAAAV4/2QkfV03_22M/s1600-h/545%20James%20bk%20cover%
+1. [http://iamareadernotawriter.blogspot.com/2010/10/in-my-mailbox-mailbox-monday_24.html](http://iamareadernotawriter.blogspot.com/2010/10/in-my-mailbox-mailbox-monday_24.html)
+2. [http://printedpage.us/mailbox-monday-blog-tour/](http://printedpage.us/mailbox-monday-blog-tour/)
+3. [http://shereadsandreads.blogspot.com/](http://shereadsandreads.blogspot.com/)
+4. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TMWDICVkTgI/AAAAAAAAAVw/S8uzq0IwRl4/s1600-h/image001%5B3%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TMWDICVkTgI/AAAAAAAAAVw/S8uzq0IwRl4/s1600-h/image001%5B3%5D.jpg)
+5. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TMWDJSBp1aI/AAAAAAAAAV4/2QkfV03_22M/s1600-h/545%20James%20bk%20cover%](http://lh4.ggpht.com/_2wfF2Ki6_qg/TMWDJSBp1aI/AAAAAAAAAV4/2QkfV03_22M/s1600-h/545%20James%20bk%20cover%)
 5B5%5D.jpg
-6. http://lh3.ggpht.com/_2wfF2Ki6_qg/TMWDKEPhuAI/AAAAAAAAAWA/WnCX-AmgSXI/s1600-h/highheels%5B3%5D.jpg
-7. http://lh6.ggpht.com/_2wfF2Ki6_qg/TMWDLdhHBCI/AAAAAAAAAWI/tqXLgYxzbfM/s1600-h/journe2dwell%5B2%5D.jpg
-8. http://www.paperbackswap.com/index.php?n=1&r_by=bnredeemed
-9. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+6. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TMWDKEPhuAI/AAAAAAAAAWA/WnCX-AmgSXI/s1600-h/highheels%5B3%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TMWDKEPhuAI/AAAAAAAAAWA/WnCX-AmgSXI/s1600-h/highheels%5B3%5D.jpg)
+7. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TMWDLdhHBCI/AAAAAAAAAWI/tqXLgYxzbfM/s1600-h/journe2dwell%5B2%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TMWDLdhHBCI/AAAAAAAAAWI/tqXLgYxzbfM/s1600-h/journe2dwell%5B2%5D.jpg)
+8. [http://www.paperbackswap.com/index.php?n=1&r_by=bnredeemed](http://www.paperbackswap.com/index.php?n=1&r_by=bnredeemed)
+9. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Mary (2010-10-25 13:33:42)
@@ -16103,7 +16103,7 @@ try to grab hold of surface joys and comforts.
 DISCLOSURE: I was provided an advance reading copy for review purposes by Bethany House Publishers.
 The views and opinions expressed are my own.
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TManN2XcxOI/AAAAAAAAAWQ/3Qjn4X2ZxXA/s1600-h/flourish3.jpg
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TManN2XcxOI/AAAAAAAAAWQ/3Qjn4X2ZxXA/s1600-h/flourish3.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TManN2XcxOI/AAAAAAAAAWQ/3Qjn4X2ZxXA/s1600-h/flourish3.jpg)
 
 ```
 Will Burke (2010-10-26 04:38:05)
@@ -16174,8 +16174,8 @@ doubts filled my mind, your comfort gave me renewed hope and cheer.
 
 [2]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TMea9II67KI/AAAAAAAAAWY/6a_XObf4xV8/s1600-h/wfw%2010-27-10%5B5%5D.jpg
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TMea9II67KI/AAAAAAAAAWY/6a_XObf4xV8/s1600-h/wfw%2010-27-10%5B5%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TMea9II67KI/AAAAAAAAAWY/6a_XObf4xV8/s1600-h/wfw%2010-27-10%5B5%5D.jpg)
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Amanda (2010-10-26 23:46:50)
@@ -16427,16 +16427,16 @@ have good night and a refreshing Sunday.
 
 [10]
 
-1. http://chelled.blogspot.com/
-2. http://comingaliveinchrist.blogspot.com/
-3. http://wisdomvirtueandrubies.wordpress.com/
-4. http://stuffcouldalwaysbeworse.blogspot.com/
-5. http://ellasedge.blogspot.com/
-6. http://sharonsharinggod.blogspot.com/
-7. http://mythought-filledjourney.blogspot.com/
-8. http://homeschoolblogger.com/guidinglight/
-9. http://pttyann-pttyann.blogspot.com/
-10. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://chelled.blogspot.com/](http://chelled.blogspot.com/)
+2. [http://comingaliveinchrist.blogspot.com/](http://comingaliveinchrist.blogspot.com/)
+3. [http://wisdomvirtueandrubies.wordpress.com/](http://wisdomvirtueandrubies.wordpress.com/)
+4. [http://stuffcouldalwaysbeworse.blogspot.com/](http://stuffcouldalwaysbeworse.blogspot.com/)
+5. [http://ellasedge.blogspot.com/](http://ellasedge.blogspot.com/)
+6. [http://sharonsharinggod.blogspot.com/](http://sharonsharinggod.blogspot.com/)
+7. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
+8. [http://homeschoolblogger.com/guidinglight/](http://homeschoolblogger.com/guidinglight/)
+9. [http://pttyann-pttyann.blogspot.com/](http://pttyann-pttyann.blogspot.com/)
+10. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Chelle (2010-10-30 20:23:14)
@@ -16630,9 +16630,9 @@ What does Habakkuk 3:17-18 speak to you?
 
 [3]
 
-1. http://www.joannesher.com/
-2. http://lh4.ggpht.com/_2wfF2Ki6_qg/TM8z3Cs0ziI/AAAAAAAAAWk/1MPjW8mtv3s/s1600-h/bare%20trees%5B12%5D.jpg
-3. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://www.joannesher.com/](http://www.joannesher.com/)
+2. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TM8z3Cs0ziI/AAAAAAAAAWk/1MPjW8mtv3s/s1600-h/bare%20trees%5B12%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TM8z3Cs0ziI/AAAAAAAAAWk/1MPjW8mtv3s/s1600-h/bare%20trees%5B12%5D.jpg)
+3. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 LisaShaw (2010-11-01 22:05:01)
@@ -16815,8 +16815,8 @@ might receive not just sleep but true rest.
 
 [2]
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TNDJf4tYNmI/AAAAAAAAAWs/GlKhfsB7JQ8/s1600-h/rest%5B8%5D.jpg
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TNDJf4tYNmI/AAAAAAAAAWs/GlKhfsB7JQ8/s1600-h/rest%5B8%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TNDJf4tYNmI/AAAAAAAAAWs/GlKhfsB7JQ8/s1600-h/rest%5B8%5D.jpg)
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 MCH Boys Ranch, Inc. (2010-11-03 00:55:42)
@@ -17020,7 +17020,7 @@ during your sleep.
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 Mariel (2010-11-06 10:21:34)
 thank you for sharing this..my boys were sick the other night and that along with the roller coaster of emotions of a
@@ -17140,9 +17140,9 @@ review purposes. Views and opinions expressed are my own.
 
 [3]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TNidcrGoVvI/AAAAAAAAAW0/mSWqXaudT5s/s1600-h/image001%5B4%5D.jpg
-2. http://draft.blogger.com/www.tbbmedia.com
-3. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TNidcrGoVvI/AAAAAAAAAW0/mSWqXaudT5s/s1600-h/image001%5B4%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TNidcrGoVvI/AAAAAAAAAW0/mSWqXaudT5s/s1600-h/image001%5B4%5D.jpg)
+2. [http://draft.blogger.com/www.tbbmedia.com](http://draft.blogger.com/www.tbbmedia.com)
+3. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 welcome to my world of poetry (2010-11-09 13:25:24)
@@ -17227,8 +17227,8 @@ to get well?
 
 [2]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TNokqwYFiaI/AAAAAAAAAW8/_xBYW9-dALE/s1600-h/John%205%5B3%5D.jpg
-2. http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TNokqwYFiaI/AAAAAAAAAW8/_xBYW9-dALE/s1600-h/John%205%5B3%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TNokqwYFiaI/AAAAAAAAAW8/_xBYW9-dALE/s1600-h/John%205%5B3%5D.jpg)
+2. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/TJjDjYNuwsI/AAAAAAAAARc/y92G6H2bz_c/s1600/watered+soul+2.jpg)
 
 ```
 Anonymous (2010-11-10 01:25:28)
@@ -17353,7 +17353,7 @@ Such a sad way to live ones life.
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 
 Stuff could always be worse (2010-11-10 21:12:19)
 I agree with this post. Healing of the attitude, etc. is very important. Love this post.
@@ -17416,7 +17416,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Sharon Kirby (2010-11-12 22:14:04)
 Wanda,
 I was reminded of this Scripture:
@@ -17490,7 +17490,7 @@ This verse has been SO relevant to a situation in my life this year. God has muc
 and trusting Him to act. [1]My post on endurance
 ```
 
-1. http://thisido.blogspot.com/2010/04/persevere.html
+1. [http://thisido.blogspot.com/2010/04/persevere.html](http://thisido.blogspot.com/2010/04/persevere.html)
 Cherie Hill (2010-11-13 13:36:41)
 What an INCREDIBLE post sister! OH that I might be found IN HIM! I will keep my eyes on Him!
 Blessings,
@@ -17528,7 +17528,7 @@ learning to see these are opportunities to grow in patience and endurance.
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 LisaShaw (2010-11-14 15:40:04)
 Oh friend, I think we’re twins! I knew I saw a resemblance (smile) for I thought the first paragraph was written by
 me (smile).
@@ -17653,9 +17653,9 @@ It is rather ironic that wholesome is in the name of the award. Im always tal
 some shows. These eyes try to avoid things that would interrupt the sleep. Hope you each have a terrific
 Tuesday.
 
-1. http://spiritualseedfoodforthesoul.blogspot.com/2010/11/there-is-prepared-place-for-you.html
+1. [http://spiritualseedfoodforthesoul.blogspot.com/2010/11/there-is-prepared-place-for-you.html](http://spiritualseedfoodforthesoul.blogspot.com/2010/11/there-is-prepared-place-for-you.html)
 2. file://localhost/mnt/ext/blogbooker/tmp/4c1nyqhk/welcometomyworldofpoetry.blogspot.com
-3. http://lh5.ggpht.com/_2wfF2Ki6_qg/TOINxzznjpI/AAAAAAAAAXg/uRrGVV8URcI/s1600-h/Wholesome_Blogger_Award%
+3. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TOINxzznjpI/AAAAAAAAAXg/uRrGVV8URcI/s1600-h/Wholesome_Blogger_Award%](http://lh5.ggpht.com/_2wfF2Ki6_qg/TOINxzznjpI/AAAAAAAAAXg/uRrGVV8URcI/s1600-h/Wholesome_Blogger_Award%)
 20from%20Yvonne%2011-13-10%5B3%5D.jpg
 
 ```
@@ -17742,9 +17742,9 @@ Stop by the Internet Cafe for others serving up fresh doses of the Word in graph
 
 [3]
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TONGNc1vKRI/AAAAAAAAAXo/sdrhEh8AQRY/s1600-h/Jer%2029-11%5B12%5D.png
-2. http://internetcafedevotions.com/
-3. http://lh4.ggpht.com/_2wfF2Ki6_qg/TONGQhJG1TI/AAAAAAAAAX0/z6O7_gCUhBQ/s1600-h/cafewfwbuttoncopy%5B3%5D.jpg
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TONGNc1vKRI/AAAAAAAAAXo/sdrhEh8AQRY/s1600-h/Jer%2029-11%5B12%5D.png](http://lh4.ggpht.com/_2wfF2Ki6_qg/TONGNc1vKRI/AAAAAAAAAXo/sdrhEh8AQRY/s1600-h/Jer%2029-11%5B12%5D.png)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TONGQhJG1TI/AAAAAAAAAX0/z6O7_gCUhBQ/s1600-h/cafewfwbuttoncopy%5B3%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TONGQhJG1TI/AAAAAAAAAX0/z6O7_gCUhBQ/s1600-h/cafewfwbuttoncopy%5B3%5D.jpg)
 
 ```
 ozjane (2010-11-17 10:47:45)
@@ -17953,7 +17953,7 @@ chains of oppression? There is none but you Lord!
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 BLUEBUTTERFLY (2010-11-19 14:20:13)
@@ -18006,7 +18006,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Wanda (2010-11-22 14:16:25)
 Thanks guys for stopping and sharing your thoughts. Blessings to you.
 
@@ -18029,7 +18029,7 @@ the journey.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-11-22 14:32:25)
@@ -18062,7 +18062,7 @@ May week seek to be consumed by The Eternal God.
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 Sharon Kirby (2010-11-23 01:59:22)
 Wings like eagles - God makes me able to soar!
@@ -18106,10 +18106,10 @@ Wishing you and yours a Happy Thanksgiving
 
 [3]
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TOzw2RUyX9I/AAAAAAAAAX4/u5eLD5kVmhw/s1600-h/badge-1%20Peter%202-10%5B4%
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TOzw2RUyX9I/AAAAAAAAAX4/u5eLD5kVmhw/s1600-h/badge-1%20Peter%202-10%5B4%](http://lh4.ggpht.com/_2wfF2Ki6_qg/TOzw2RUyX9I/AAAAAAAAAX4/u5eLD5kVmhw/s1600-h/badge-1%20Peter%202-10%5B4%)
 5D.png
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 ozjane (2010-11-24 05:10:32)
@@ -18286,9 +18286,9 @@ The views and opinions expressed are my own.
 
 [2]
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TPF2s-rroJI/AAAAAAAAAYA/x7UAjRv_dYs/s1600-h/545%20James%20bk%20cover%
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TPF2s-rroJI/AAAAAAAAAYA/x7UAjRv_dYs/s1600-h/545%20James%20bk%20cover%](http://lh4.ggpht.com/_2wfF2Ki6_qg/TPF2s-rroJI/AAAAAAAAAYA/x7UAjRv_dYs/s1600-h/545%20James%20bk%20cover%)
 5B3%5D.jpg
-2. http://www.mylivesignature.com/
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 MTJ (2010-11-27 22:33:20)
@@ -18303,7 +18303,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Karen (2010-11-27 23:04:57)
 You did a great job reviewing this. Sounds like food for thought and prayer!
 
@@ -18403,9 +18403,9 @@ else? Or, has it invoked within you an insatiable appetite for more of Him?
 
 [3]
 
-1. http://www.flickr.com/photos/19melissa68/2839159031/sizes/s/
-2. http://www.flickr.com/photos/19melissa68/
-3. http://www.mylivesignature.com/
+1. [http://www.flickr.com/photos/19melissa68/2839159031/sizes/s/](http://www.flickr.com/photos/19melissa68/2839159031/sizes/s/)
+2. [http://www.flickr.com/photos/19melissa68/](http://www.flickr.com/photos/19melissa68/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-11-29 12:27:54)
@@ -18526,8 +18526,8 @@ crumbs from His servants?
 
 [2]
 
-1. http://wateredsoul.blogspot.com/2010/11/goodbye-white-pages.html
-2. http://www.mylivesignature.com/
+1. [http://wateredsoul.blogspot.com/2010/11/goodbye-white-pages.html](http://wateredsoul.blogspot.com/2010/11/goodbye-white-pages.html)
+2. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 welcome to my world of poetry (2010-11-30 12:52:39)
@@ -18562,7 +18562,7 @@ _supplies us with these provisions._
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 Lisa (2010-12-01 03:25:37)
 His Word has been a great source of strength for me this year. I love it like never before. And I can honestly say it
@@ -18646,10 +18646,10 @@ looking unto Him be your aim. For those that hope in Him will not be disappointe
 
 [3]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TPYQrmMeSYI/AAAAAAAAAYQ/YwgzeHOos8Q/s1600-h/WFW%2012-1-10%20v2%5B16%5D.
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TPYQrmMeSYI/AAAAAAAAAYQ/YwgzeHOos8Q/s1600-h/WFW%2012-1-10%20v2%5B16%5D.](http://lh3.ggpht.com/_2wfF2Ki6_qg/TPYQrmMeSYI/AAAAAAAAAYQ/YwgzeHOos8Q/s1600-h/WFW%2012-1-10%20v2%5B16%5D.)
 jpg
-2. http://internetcafedevotions.com/
-3. http://www.mylivesignature.com/
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 theemissarysfeet (2010-12-01 03:32:40)
@@ -18826,7 +18826,7 @@ Have a sweet offering of prayer, praise, or petition today? If so share in the c
 
 up with Tea with Tiffany for Sweet Ps. [1]
 
-1. http://www.teawithtiffany.com/
+1. [http://www.teawithtiffany.com/](http://www.teawithtiffany.com/)
 
 ```
 Audrey (2010-12-03 19:33:42)
@@ -18885,7 +18885,7 @@ _spirit. Free to love my neighbor as myself._
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 Ellen aka Ella (2010-12-06 05:17:18)
 So thoughtful and powerful is this post! You provided the reminder of how grateful we should be
@@ -19073,7 +19073,7 @@ Lee
 [1]Tossing It Out
 ```
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 Ellen aka Ella (2010-12-09 02:40:13)
 He changed You; Wow, I love how you turn it around and give us a fresh view xXx
 
@@ -19112,7 +19112,7 @@ sight.
 
 [1]
 
-1. http://www.mylivesignature.com/
+1. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-12-12 19:01:48)
@@ -19140,7 +19140,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 welcome to my world of poetry (2010-12-13 03:05:03)
 Much to think about, loved the read.
 Have a lovely day.
@@ -19239,10 +19239,10 @@ purposes. Views and opinions expressed are my own.
 
 [3]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TQb1fW4p2oI/AAAAAAAAAYg/iHcrUcjtEGY/s1600-h/image001%20%281%29%5B3%5D.
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TQb1fW4p2oI/AAAAAAAAAYg/iHcrUcjtEGY/s1600-h/image001%20%281%29%5B3%5D.](http://lh5.ggpht.com/_2wfF2Ki6_qg/TQb1fW4p2oI/AAAAAAAAAYg/iHcrUcjtEGY/s1600-h/image001%20%281%29%5B3%5D.)
 jpg
 2. file://localhost/mnt/ext/blogbooker/tmp/4c1nyqhk/www.tbbmedia.com
-3. http://www.mylivesignature.com/
+3. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 Joanne Sher (2010-12-14 13:53:14)
@@ -19387,11 +19387,11 @@ Winner announced Monday [4]
 [5]
 ```
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TQgVh9yeNCI/AAAAAAAAAZQ/szA4ZPWNUMI/s1600-h/xmasstockin%5B2%5D.jpg
-2. http://lh5.ggpht.com/_2wfF2Ki6_qg/TQgVjQgP8YI/AAAAAAAAAZY/dM-Ru5wKp_U/s1600-h/divider-xmas%5B5%5D.jpg
-3. http://robinblogdesigns.blogspot.com/search/label/portfolio
-4. http://lh5.ggpht.com/_2wfF2Ki6_qg/TQgVk5Yt4aI/AAAAAAAAAZg/o8l2VjkrqOc/s1600-h/xmasdivider%5B10%5D.jpg
-5. http://www.mylivesignature.com/
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TQgVh9yeNCI/AAAAAAAAAZQ/szA4ZPWNUMI/s1600-h/xmasstockin%5B2%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TQgVh9yeNCI/AAAAAAAAAZQ/szA4ZPWNUMI/s1600-h/xmasstockin%5B2%5D.jpg)
+2. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TQgVjQgP8YI/AAAAAAAAAZY/dM-Ru5wKp_U/s1600-h/divider-xmas%5B5%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TQgVjQgP8YI/AAAAAAAAAZY/dM-Ru5wKp_U/s1600-h/divider-xmas%5B5%5D.jpg)
+3. [http://robinblogdesigns.blogspot.com/search/label/portfolio](http://robinblogdesigns.blogspot.com/search/label/portfolio)
+4. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TQgVk5Yt4aI/AAAAAAAAAZg/o8l2VjkrqOc/s1600-h/xmasdivider%5B10%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TQgVk5Yt4aI/AAAAAAAAAZg/o8l2VjkrqOc/s1600-h/xmasdivider%5B10%5D.jpg)
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 wisdomvirtueandrubies (2010-12-15 18:31:30)
@@ -19473,8 +19473,8 @@ Wanda
 
 [2]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TQhNseKxLaI/AAAAAAAAAZo/peqBD_f3G0M/s1600-h/natvity%5B6%5D.jpg
-2. http://internetcafedevotions.com/
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TQhNseKxLaI/AAAAAAAAAZo/peqBD_f3G0M/s1600-h/natvity%5B6%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TQhNseKxLaI/AAAAAAAAAZo/peqBD_f3G0M/s1600-h/natvity%5B6%5D.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
 
 ```
 GlowinGirl (2010-12-15 05:21:25)
@@ -19602,7 +19602,7 @@ Giveaway ends December 19th.
 Visible links 1. [http://4.bp.blogspot.com/_2wfF2Ki6_qg/TQreZMpjKoI/AAAAAAAAAZ8/GLbZRmLPH4Y/s1600/Giveaway+](http://4.bp.blogspot.com/_2wfF2Ki6_qg/TQreZMpjKoI/AAAAAAAAAZ8/GLbZRmLPH4Y/s1600/Giveaway+)
 button.jpg
 
-2. http://wateredsoul.blogspot.com/2010/12/naughty-or-nice-giveaway.html
+2. [http://wateredsoul.blogspot.com/2010/12/naughty-or-nice-giveaway.html](http://wateredsoul.blogspot.com/2010/12/naughty-or-nice-giveaway.html)
 
 ```
 BARBIE (2010-12-17 08:01:49)
@@ -19648,13 +19648,13 @@ Dont forget to sign up for my [4]Christmas giveaway. Deadline Sunday, Dec 19th.
 
 [5]
 
-1. http://ellasedge.blogspot.com/
-2. http://lh4.ggpht.com/_2wfF2Ki6_qg/TQz7A9vY2NI/AAAAAAAAAaE/Usz9w15GV8g/s1600-h/Ella%27s%20Edge%20Creations%
+1. [http://ellasedge.blogspot.com/](http://ellasedge.blogspot.com/)
+2. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TQz7A9vY2NI/AAAAAAAAAaE/Usz9w15GV8g/s1600-h/Ella%27s%20Edge%20Creations%](http://lh4.ggpht.com/_2wfF2Ki6_qg/TQz7A9vY2NI/AAAAAAAAAaE/Usz9w15GV8g/s1600-h/Ella%27s%20Edge%20Creations%)
 5B5%5D.jpg
-3. http://lh6.ggpht.com/_2wfF2Ki6_qg/TQz7C4PSZFI/AAAAAAAAAaM/btoF8JckDPs/s1600-h/divider-xmas%5B6%5D.jpg
+3. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TQz7C4PSZFI/AAAAAAAAAaM/btoF8JckDPs/s1600-h/divider-xmas%5B6%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TQz7C4PSZFI/AAAAAAAAAaM/btoF8JckDPs/s1600-h/divider-xmas%5B6%5D.jpg)
 
-4. http://wateredsoul.blogspot.com/2010/12/naughty-or-nice-giveaway.html
-5. http://www.mylivesignature.com/
+4. [http://wateredsoul.blogspot.com/2010/12/naughty-or-nice-giveaway.html](http://wateredsoul.blogspot.com/2010/12/naughty-or-nice-giveaway.html)
+5. [http://www.mylivesignature.com/](http://www.mylivesignature.com/)
 
 ```
 LisaShaw (2010-12-18 18:27:47)
@@ -19670,7 +19670,7 @@ Blessings and peace to you both.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Wanda (2010-12-18 18:45:48)
 Thanks, Lisa and MTJ. I think Ella has her Etsy shop on vacation right now but she has all kind of treasures there.
 
@@ -19761,8 +19761,8 @@ much appreciated.
 My apologies for getting the announcement of the giveaway winners up so late today. Winners have 24hrs
 to respond or another winner will be selected.
 
-1. http://wisdomvirtueandrubies.wordpress.com/
-2. http://www.aseasonforallthings.blogspot.com/
+1. [http://wisdomvirtueandrubies.wordpress.com/](http://wisdomvirtueandrubies.wordpress.com/)
+2. [http://www.aseasonforallthings.blogspot.com/](http://www.aseasonforallthings.blogspot.com/)
 
 ```
 wisdomvirtueandrubies (2010-12-20 20:36:07)
@@ -19921,7 +19921,7 @@ for Christ that serves as an example for me.
 Sending you joy and blessing as you celebrate the birth of our Lord and Saviour, Jesus Christ.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Wanda (2010-12-22 21:20:29)
 MTJ, as often happens when you leave a comment, you’ve given me more to think about with Mary. Hadn’t considered
 the impact of being away from her mother and other family members as she brought her son into the world. I’ve been
@@ -19987,8 +19987,8 @@ Lord help us to see past the smiles and hear beyond the nice platitudes of those
 
 Linking up with [2]Internet CafÈ Devotions for Word-Filled Wednesday.
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TRs7yxALJmI/AAAAAAAAAao/J8EhWhVrJNY/s1600-h/speak%20up%5B19%5D.jpg
-2. http://internetcafedevotions.com/
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TRs7yxALJmI/AAAAAAAAAao/J8EhWhVrJNY/s1600-h/speak%20up%5B19%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TRs7yxALJmI/AAAAAAAAAao/J8EhWhVrJNY/s1600-h/speak%20up%5B19%5D.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
 
 Joanne Sher (2010-12-29 13:57:17)
 What a powerful and important message. Great WFW - have a fabulous day, Wanda!
@@ -20082,7 +20082,7 @@ Thank you for your friendship and fellowship.
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 
 Dean Spencer (2010-12-31 05:39:48)
 Wanda -
@@ -20118,9 +20118,9 @@ trusting that youll lead and guide me through.
 
 Wishing you safe travels & Happy New Year!
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TR1nOhJ8_lI/AAAAAAAAAaw/6SluBHKRhgg/s1600-h/On_the_sand_EF_3723%5B5%5D.
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TR1nOhJ8_lI/AAAAAAAAAaw/6SluBHKRhgg/s1600-h/On_the_sand_EF_3723%5B5%5D.](http://lh4.ggpht.com/_2wfF2Ki6_qg/TR1nOhJ8_lI/AAAAAAAAAaw/6SluBHKRhgg/s1600-h/On_the_sand_EF_3723%5B5%5D.)
 jpg
-2. http://ellasedge.blogspot.com/2010/12/reverb-travel.html
+2. [http://ellasedge.blogspot.com/2010/12/reverb-travel.html](http://ellasedge.blogspot.com/2010/12/reverb-travel.html)
 
 ```
 welcome to my world of poetry (2010-12-31 13:12:49)
@@ -20339,8 +20339,8 @@ My friend, could there be some place you have settled that God longs for you to 
 toward this year?
 Linking up with Word-Filled Wednesday hosted at the [2]Internet CafÈ Devotions.
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TSR4xzO2pwI/AAAAAAAAAa4/nQi6EAMHXJo/s1600-h/Gen%2011-31%5B4%5D.png
-2. http://internetcafedevotions.com/
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TSR4xzO2pwI/AAAAAAAAAa4/nQi6EAMHXJo/s1600-h/Gen%2011-31%5B4%5D.png](http://lh6.ggpht.com/_2wfF2Ki6_qg/TSR4xzO2pwI/AAAAAAAAAa4/nQi6EAMHXJo/s1600-h/Gen%2011-31%5B4%5D.png)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
 
 ```
 holycamp09 (2011-01-05 14:17:49)
@@ -20511,8 +20511,8 @@ to me over the weekend. I appreciate the lovely award and her faithful support.
 
 [2]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TSsNHEajDLI/AAAAAAAAAbA/MeAwjc177Bs/s1600-h/snow%20tree%5B19%5D.jpg
-2. http://lh6.ggpht.com/_2wfF2Ki6_qg/TSsNIKwOFiI/AAAAAAAAAbI/mmT1Nhvnl-4/s1600-h/inspiration%20award%
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TSsNHEajDLI/AAAAAAAAAbA/MeAwjc177Bs/s1600-h/snow%20tree%5B19%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TSsNHEajDLI/AAAAAAAAAbA/MeAwjc177Bs/s1600-h/snow%20tree%5B19%5D.jpg)
+2. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TSsNIKwOFiI/AAAAAAAAAbI/mmT1Nhvnl-4/s1600-h/inspiration%20award%](http://lh6.ggpht.com/_2wfF2Ki6_qg/TSsNIKwOFiI/AAAAAAAAAbI/mmT1Nhvnl-4/s1600-h/inspiration%20award%)
 28Yvonne%201-11%29%5B3%5D.jpg
 
 ```
@@ -20635,9 +20635,9 @@ white. Failing to embrace the full spectrum of the life He had designed for me.
 I have been away from the blogging world for a few days but I look forward to catching up with each of you
 soon. God bless.
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TTHi_9JU2HI/AAAAAAAAAbQ/7YYTrRQk7sI/s1600-h/SANY0347%5B14%5D.jpg
-2. http://www.lisashawshares.com/
-3. http://www.lisashawshares.com/2011/01/loam-wanda-shares-branching-beyond.html
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TTHi_9JU2HI/AAAAAAAAAbQ/7YYTrRQk7sI/s1600-h/SANY0347%5B14%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TTHi_9JU2HI/AAAAAAAAAbQ/7YYTrRQk7sI/s1600-h/SANY0347%5B14%5D.jpg)
+2. [http://www.lisashawshares.com/](http://www.lisashawshares.com/)
+3. [http://www.lisashawshares.com/2011/01/loam-wanda-shares-branching-beyond.html](http://www.lisashawshares.com/2011/01/loam-wanda-shares-branching-beyond.html)
 
 ```
 Sharon Kirby (2011-01-15 20:22:03)
@@ -20723,9 +20723,9 @@ For extra entries:
 Giveaway ends Friday January 21 at midnight. Random winner selected and announced on Saturday.
 Check out a sneak peak inside the book [2]here or view the [3]book trailer.
 Disclosure: I was provided a complimentary copy of the book as a part of book tour.
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TTPJwVjc5DI/AAAAAAAAAbY/yDLM8-lWSvg/s1600-h/IDYTCBookCover%5B2%5D.jpg
-2. http://www.bilcornelius.com/files/u11/I_Dare_You_to_Change_Reader_Sample.pdf
-3. http://vimeo.com/14329418
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TTPJwVjc5DI/AAAAAAAAAbY/yDLM8-lWSvg/s1600-h/IDYTCBookCover%5B2%5D.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TTPJwVjc5DI/AAAAAAAAAbY/yDLM8-lWSvg/s1600-h/IDYTCBookCover%5B2%5D.jpg)
+2. [http://www.bilcornelius.com/files/u11/I_Dare_You_to_Change_Reader_Sample.pdf](http://www.bilcornelius.com/files/u11/I_Dare_You_to_Change_Reader_Sample.pdf)
+3. [http://vimeo.com/14329418](http://vimeo.com/14329418)
 
 ```
 Amanda Stephan (2011-01-17 16:53:01)
@@ -20792,8 +20792,8 @@ chooses to use broken people like myself to carry the essence of Himself.
 Be sure to enter the [2]giveaway for your opportunity to win a copy of I Dare You to Change by Pastor Bil
 Cornelius.
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TTZiKbL8UdI/AAAAAAAAAbg/Ml-HAv4zkQY/s1600-h/2Cor%204-7%5B5%5D.jpg
-2. http://wateredsoul.blogspot.com/2011/01/i-dare-you-to-change-giveaway.html
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TTZiKbL8UdI/AAAAAAAAAbg/Ml-HAv4zkQY/s1600-h/2Cor%204-7%5B5%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TTZiKbL8UdI/AAAAAAAAAbg/Ml-HAv4zkQY/s1600-h/2Cor%204-7%5B5%5D.jpg)
+2. [http://wateredsoul.blogspot.com/2011/01/i-dare-you-to-change-giveaway.html](http://wateredsoul.blogspot.com/2011/01/i-dare-you-to-change-giveaway.html)
 
 ```
 welcome to my world of poetry (2011-01-19 12:04:24)
@@ -20920,8 +20920,8 @@ Which leads me to ask myself do I have His hands tied in certain areas of my lif
 what have I been missing out on because my inability to see beyond the package God has chosen to wrap
 the miracle in?
 
-1. http://www.joannesher.com/
-2. http://www.joannesher.com/
+1. [http://www.joannesher.com/](http://www.joannesher.com/)
+2. [http://www.joannesher.com/](http://www.joannesher.com/)
 
 ```
 Yvonne Blake (2011-01-24 12:58:58)
@@ -21039,7 +21039,7 @@ know I was next? And, there has even been those times, when he picked me but acc
 order of things it was not yet my time. Im so glad that God does not have to stay within the lines of our
 human thinking or our man-made traditions.
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TUYsz6wzStI/AAAAAAAAAbs/x-n_hBdnPas/s1600-h/eraser-line5.jpg
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TUYsz6wzStI/AAAAAAAAAbs/x-n_hBdnPas/s1600-h/eraser-line5.jpg](http://lh5.ggpht.com/_2wfF2Ki6_qg/TUYsz6wzStI/AAAAAAAAAbs/x-n_hBdnPas/s1600-h/eraser-line5.jpg)
 
 ```
 BLUEBUTTERFLY (2011-01-31 15:13:22)
@@ -21096,7 +21096,7 @@ charge and He can certainly do what He wants. After all God knows best.
 Lee
 [1]Tossing It Out and the Blogging From A to Z April Challenge 2011
 
-1. http://tossingitout.blogspot.com/2011/01/very-special-and-exciting-announcement.html
+1. [http://tossingitout.blogspot.com/2011/01/very-special-and-exciting-announcement.html](http://tossingitout.blogspot.com/2011/01/very-special-and-exciting-announcement.html)
 
 jackie (2011-02-02 02:56:58)
 So true... God knows what’s best for us and He is absolutely in control of everything!
@@ -21124,8 +21124,8 @@ Hope over to the cafÈ to find others dishing up the word for Word-Filled Wednes
 
 [2]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TUjKBObtuDI/AAAAAAAAAb0/bA_a4rrBp-0/s1600-h/Philippians3-165.jpg
-2. http://internetcafedevotions.com/
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TUjKBObtuDI/AAAAAAAAAb0/bA_a4rrBp-0/s1600-h/Philippians3-165.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TUjKBObtuDI/AAAAAAAAAb0/bA_a4rrBp-0/s1600-h/Philippians3-165.jpg)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
 
 ```
 welcome to my world of poetry (2011-02-02 09:15:24)
@@ -21213,7 +21213,7 @@ Not in ourselves but in the one who is with us always to the ends of the earth.
 
 What does this passage speak to you? To find out what others are saying visit An Open Book. [1]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TU9vI_X73qI/AAAAAAAAAdw/R1VXbkeOAxA/s1600-h/Monday%20Manna%5B3%5D.jpg
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TU9vI_X73qI/AAAAAAAAAdw/R1VXbkeOAxA/s1600-h/Monday%20Manna%5B3%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TU9vI_X73qI/AAAAAAAAAdw/R1VXbkeOAxA/s1600-h/Monday%20Manna%5B3%5D.jpg)
 
 ```
 Follow2Serve {Lorna} (2011-02-07 12:18:34)
@@ -21346,7 +21346,7 @@ call and my willingness to answer.
 
 Can you hear Him calling you today? Will you answer Him or leave him waiting?
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TVIGsDSSt4I/AAAAAAAAAd4/Ol4fddcfzwY/s1600-h/Psalm-27-83.png
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TVIGsDSSt4I/AAAAAAAAAd4/Ol4fddcfzwY/s1600-h/Psalm-27-83.png](http://lh5.ggpht.com/_2wfF2Ki6_qg/TVIGsDSSt4I/AAAAAAAAAd4/Ol4fddcfzwY/s1600-h/Psalm-27-83.png)
 
 ```
 jackie (2011-02-09 00:18:11)
@@ -21510,7 +21510,7 @@ something from us but to give everything of himself to us. Love like that.
 
 Happy Valentines Day
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TVlewYmAJOI/AAAAAAAAAeA/wcnZTNb5z2c/s1600-h/DSCN1289red%5B5%5D.jpg
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TVlewYmAJOI/AAAAAAAAAeA/wcnZTNb5z2c/s1600-h/DSCN1289red%5B5%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TVlewYmAJOI/AAAAAAAAAeA/wcnZTNb5z2c/s1600-h/DSCN1289red%5B5%5D.jpg)
 
 ```
 Alida (2011-02-14 19:12:25)
@@ -21566,7 +21566,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 clavel (2011-02-18 05:51:56)
 Hi! Ms. Wanda, I am your new follower. tnx for leaving a comment on my post, appreciate it very much.GOD bless!
 
@@ -21753,7 +21753,7 @@ blogger review program. I was not required to write a positive review. The opini
 own. I am disclosing this in accordance with the Federal Trade Commissions 16 CFR, Part 255 : Guides
 Concerning the Use of Endorsements and Testimonials in Advertising.
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TWMG4V01bwI/AAAAAAAAAeI/aobE9K98UKY/s1600-h/Tyndale-iShine-Bible16.gif
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TWMG4V01bwI/AAAAAAAAAeI/aobE9K98UKY/s1600-h/Tyndale-iShine-Bible16.gif](http://lh6.ggpht.com/_2wfF2Ki6_qg/TWMG4V01bwI/AAAAAAAAAeI/aobE9K98UKY/s1600-h/Tyndale-iShine-Bible16.gif)
 
 ```
 welcome to my world of poetry (2011-02-22 08:35:37)
@@ -21859,10 +21859,10 @@ blog tour. I was not required to write a positive review.
 IFRAME: [4]https://spreadsheets.google.com/embeddedform?formkey=dDJ3QkV5az
 g4UU12ZlVaQjVtalVzeVE6MQ Loading...
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TWkM8Tdfm-I/AAAAAAAAAeU/352aV9MgZ8Y/s1600-h/the%20life%20ready%20woman%
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TWkM8Tdfm-I/AAAAAAAAAeU/352aV9MgZ8Y/s1600-h/the%20life%20ready%20woman%](http://lh6.ggpht.com/_2wfF2Ki6_qg/TWkM8Tdfm-I/AAAAAAAAAeU/352aV9MgZ8Y/s1600-h/the%20life%20ready%20woman%)
 5B3%5D.jpg
-2. http://shaunti.com/
-3. http://www.momlifetoday.com/
+2. [http://shaunti.com/](http://shaunti.com/)
+3. [http://www.momlifetoday.com/](http://www.momlifetoday.com/)
 4. https://spreadsheets.google.com/embeddedform?formkey=dDJ3QkV5azg4UU12ZlVaQjVtalVzeVE6MQ
 
 ```
@@ -21904,7 +21904,7 @@ Living ”**...according to God****s design requires self-sacrifice and obedien
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 welcome to my world of poetry (2011-02-28 08:54:27)
 Thank you for your visit on my Debut 8 blogfest, you write you have never heard of these, short and to the post, well
 recently I walked around the Hall Of Fame In Nashville, and apart from a handful of legends have never heard of the
@@ -21933,9 +21933,9 @@ response to email notification[1]
 
 [2]
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TWzm1ouIK6I/AAAAAAAAAec/em0v_bp7j18/s1600-h/the%20life%20ready%20woman%
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TWzm1ouIK6I/AAAAAAAAAec/em0v_bp7j18/s1600-h/the%20life%20ready%20woman%](http://lh3.ggpht.com/_2wfF2Ki6_qg/TWzm1ouIK6I/AAAAAAAAAec/em0v_bp7j18/s1600-h/the%20life%20ready%20woman%)
 5B2%5D.jpg
-2. http://lh3.ggpht.com/_2wfF2Ki6_qg/TWzm1ouIK6I/AAAAAAAAAec/em0v_bp7j18/s1600-h/the%20life%20ready%20woman%
+2. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TWzm1ouIK6I/AAAAAAAAAec/em0v_bp7j18/s1600-h/the%20life%20ready%20woman%](http://lh3.ggpht.com/_2wfF2Ki6_qg/TWzm1ouIK6I/AAAAAAAAAec/em0v_bp7j18/s1600-h/the%20life%20ready%20woman%)
 5B2%5D.jpg
 
 ```
@@ -21964,9 +21964,9 @@ For more Word-Filled Wednesday Devotions visit [2]Internet CafÈ Devotions.
 
 [3]
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TW5PrMMW83I/AAAAAAAAAek/cfyvJXfPC4Q/s1600-h/God%27s%20Dress%5B5%5D.png
-2. http://internetcafedevotions.com/
-3. http://internetcafedevotions.com/
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TW5PrMMW83I/AAAAAAAAAek/cfyvJXfPC4Q/s1600-h/God%27s%20Dress%5B5%5D.png](http://lh5.ggpht.com/_2wfF2Ki6_qg/TW5PrMMW83I/AAAAAAAAAek/cfyvJXfPC4Q/s1600-h/God%27s%20Dress%5B5%5D.png)
+2. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+3. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
 
 ```
 welcome to my world of poetry (2011-03-02 14:27:34)
@@ -22070,7 +22070,7 @@ IFRAME: [1]http://www.youtube.com/embed/Ma1EOLs5j3c?fs=1
 
 Woke up this morning with this song playing in my head.
 
-1. http://www.youtube.com/embed/Ma1EOLs5j3c?fs=1
+1. [http://www.youtube.com/embed/Ma1EOLs5j3c?fs=1](http://www.youtube.com/embed/Ma1EOLs5j3c?fs=1)
 
 ```
 Stuff could always be worse (2011-03-03 15:25:14)
@@ -22146,7 +22146,7 @@ Blessings and peace.
 [1]MTJ
 ```
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 Bernadine (2011-03-07 05:14:03)
 Thanks for the intro to this new singer Wanda. I’ve never heard him before but I love this song.
 
@@ -22186,9 +22186,9 @@ Spirit himself intercedes for us through wordless groans. Romans 8:26 NIV
 
 For more Monday Manna thoughts visit Joanne at [2]An Open Book. [3]
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TXTkt_Qi9vI/AAAAAAAAAew/m4DIIFNvAE4/s1600-h/02-11-10%20025%5B3%5D.jpg
-2. http://www.joannesher.com/2011/03/wordless-monday-manna.html
-3. http://lh3.ggpht.com/_2wfF2Ki6_qg/TXTku9rfPNI/AAAAAAAAAe4/Oy34iWWrG80/s1600-h/Monday%20Manna%5B2%5D.jpg
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TXTkt_Qi9vI/AAAAAAAAAew/m4DIIFNvAE4/s1600-h/02-11-10%20025%5B3%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TXTkt_Qi9vI/AAAAAAAAAew/m4DIIFNvAE4/s1600-h/02-11-10%20025%5B3%5D.jpg)
+2. [http://www.joannesher.com/2011/03/wordless-monday-manna.html](http://www.joannesher.com/2011/03/wordless-monday-manna.html)
+3. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TXTku9rfPNI/AAAAAAAAAe4/Oy34iWWrG80/s1600-h/Monday%20Manna%5B2%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TXTku9rfPNI/AAAAAAAAAe4/Oy34iWWrG80/s1600-h/Monday%20Manna%5B2%5D.jpg)
 
 ```
 Joanne Sher (2011-03-07 14:28:39)
@@ -22302,7 +22302,7 @@ please you. We choose to accept the gift and we cooperate with the work you are 
 Jesus name. Amen.
 Linking up with Monday Manna, which is being hosted by Vonnie at [1]My Back Door.
 
-1. http://mybackdoorministry.blogspot.com/2011/03/monday-manna-pick-me.html
+1. [http://mybackdoorministry.blogspot.com/2011/03/monday-manna-pick-me.html](http://mybackdoorministry.blogspot.com/2011/03/monday-manna-pick-me.html)
 
 ```
 Joanne Sher (2011-03-14 13:24:01)
@@ -22390,8 +22390,8 @@ have kind of gotten out of the habit of writing regularly.
 And the best part is you dont have to change your blogs ultimate focus. All types of bloggers participate
 from poets, authors, cooks to those with a spiritual theme.
 
-1. http://tossingitout.blogspot.com/
-2. http://www.tossingitout.blogspot.com/2011/01/very-special-and-exciting-announcement.html
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+2. [http://www.tossingitout.blogspot.com/2011/01/very-special-and-exciting-announcement.html](http://www.tossingitout.blogspot.com/2011/01/very-special-and-exciting-announcement.html)
 
 ```
 welcome to my world of poetry (2011-03-15 12:24:55)
@@ -22413,7 +22413,7 @@ Lee
 [1]Tossing It Out
 ```
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 wisdomvirtueandrubies (2011-03-20 19:22:05)
 Thinking about taking the challenge! :-) We’ll see what happens.
 
@@ -22440,7 +22440,7 @@ I sing because You are worthy
 So whether in a whisper or in an exuberant voice
 to sing unto You is an easy choice.
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TYC3uAp6NnI/AAAAAAAAAfA/3OYCW-kzfN0/s1600-h/bird%20soar%5B14%5D.jpg
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TYC3uAp6NnI/AAAAAAAAAfA/3OYCW-kzfN0/s1600-h/bird%20soar%5B14%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TYC3uAp6NnI/AAAAAAAAAfA/3OYCW-kzfN0/s1600-h/bird%20soar%5B14%5D.jpg)
 
 ```
 Joanne Sher (2011-03-16 13:18:56)
@@ -22576,7 +22576,7 @@ am bound
 That too will I bring to Him. Yes, it will wait with me. Why? Because He is our only hope for true strength,
 peace, healing, deliverance or lasting change.
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TYtoeN0E7XI/AAAAAAAAAfI/sFi56FotTeE/s1600-h/IAM%5B11%5D.jpg
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TYtoeN0E7XI/AAAAAAAAAfI/sFi56FotTeE/s1600-h/IAM%5B11%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TYtoeN0E7XI/AAAAAAAAAfI/sFi56FotTeE/s1600-h/IAM%5B11%5D.jpg)
 
 ```
 Janis@Open My Ears Lord (2011-03-24 11:33:06)
@@ -22809,7 +22809,7 @@ Niki (2011-03-31 18:48:21)
 Thanks Wanda, I think I have the link working now :)
 [1]Wool’n’Nuts
 
-1. http://wool-n-nuts.blogspot.com/
+1. [http://wool-n-nuts.blogspot.com/](http://wool-n-nuts.blogspot.com/)
 Ella (2011-03-31 21:18:15)
 A creative reminder; Great Job Wanda!
 
@@ -22882,24 +22882,24 @@ Hard to believe it has been a year since I dived head first into the last A to Z
 a peek at my last years post for the letter A, which was about [13]availability. Sending out cheers to my
 fellow challengers.
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TZU3VdHEjtI/AAAAAAAAAfU/NJdxpspIPuQ/s1600-h/7637691_s2.jpg
-2. http://www.123rf.com/
-3. http://tossingitout.blogspot.com/
-4. http://lh5.ggpht.com/_2wfF2Ki6_qg/TZU3WvOxvpI/AAAAAAAAAfc/2aeDzJyarhY/s1600-h/Friends%20for%20the%
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TZU3VdHEjtI/AAAAAAAAAfU/NJdxpspIPuQ/s1600-h/7637691_s2.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TZU3VdHEjtI/AAAAAAAAAfU/NJdxpspIPuQ/s1600-h/7637691_s2.jpg)
+2. [http://www.123rf.com/](http://www.123rf.com/)
+3. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
+4. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TZU3WvOxvpI/AAAAAAAAAfc/2aeDzJyarhY/s1600-h/Friends%20for%20the%](http://lh5.ggpht.com/_2wfF2Ki6_qg/TZU3WvOxvpI/AAAAAAAAAfc/2aeDzJyarhY/s1600-h/Friends%20for%20the%)
 20Journey%20%28Yvonne%203-11%29%5B4%5D.jpg
-5. http://stuffcouldalwaysbeworse.blogspot.com/
-6. http://lh5.ggpht.com/_2wfF2Ki6_qg/TZU3X8iwk2I/AAAAAAAAAfk/NeTo93Ebc_Q/s1600-h/stylish%20blogger%20award%
+5. [http://stuffcouldalwaysbeworse.blogspot.com/](http://stuffcouldalwaysbeworse.blogspot.com/)
+6. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TZU3X8iwk2I/AAAAAAAAAfk/NeTo93Ebc_Q/s1600-h/stylish%20blogger%20award%](http://lh5.ggpht.com/_2wfF2Ki6_qg/TZU3X8iwk2I/AAAAAAAAAfk/NeTo93Ebc_Q/s1600-h/stylish%20blogger%20award%)
 20from%20Jackie%201-25-11%5B4%5D.jpg
-7. http://justbereal77.blogspot.com/
-8. http://lioneaglesoar.blogspot.com/
-9. http://lh3.ggpht.com/_2wfF2Ki6_qg/TZU3ad7oYZI/AAAAAAAAAfs/y020_Vvuv6w/s1600-h/inspiringblogaward%20%
+7. [http://justbereal77.blogspot.com/](http://justbereal77.blogspot.com/)
+8. [http://lioneaglesoar.blogspot.com/](http://lioneaglesoar.blogspot.com/)
+9. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TZU3ad7oYZI/AAAAAAAAAfs/y020_Vvuv6w/s1600-h/inspiringblogaward%20%](http://lh3.ggpht.com/_2wfF2Ki6_qg/TZU3ad7oYZI/AAAAAAAAAfs/y020_Vvuv6w/s1600-h/inspiringblogaward%20%)
 
 283-11%29%5B3%5D.jpg
 
-10. http://www.thefaithlounge.com/
-11. http://sharonsharinggod.blogspot.com/
-12. http://wealthofcharacter.blogspot.com/
-13. http://wateredsoul.blogspot.com/2010/04/ready-set-go.html
+10. [http://www.thefaithlounge.com/](http://www.thefaithlounge.com/)
+11. [http://sharonsharinggod.blogspot.com/](http://sharonsharinggod.blogspot.com/)
+12. [http://wealthofcharacter.blogspot.com/](http://wealthofcharacter.blogspot.com/)
+13. [http://wateredsoul.blogspot.com/2010/04/ready-set-go.html](http://wateredsoul.blogspot.com/2010/04/ready-set-go.html)
 
 ```
 bendedspoon (2011-04-01 05:53:51)
@@ -23063,7 +23063,7 @@ Penned Pebbles (2011-04-03 01:32:27)
 Great B post! One that I needed!! Thank you for stopping by my site. Blessings and happy A2Z!
 [1]Penned Pebbles
 
-1. http://pennedpebbles.wordpress.com/
+1. [http://pennedpebbles.wordpress.com/](http://pennedpebbles.wordpress.com/)
 
 Jingle (2011-04-03 02:31:19)
 love your B word,
@@ -23077,7 +23077,7 @@ Hi Wanda! Beautiful and inspiring blog! Thanks for the lovely comment. :)
 Melissa
 [1]Reflections on Writing
 
-1. http://melissakline.blogspot.com/
+1. [http://melissakline.blogspot.com/](http://melissakline.blogspot.com/)
 Patrina’s Pencil (2011-04-03 05:36:00)
 Excellent word. I love the way the message put it too. Plain language.
 
@@ -23145,7 +23145,7 @@ Now I know that life can throw some pretty difficult challenges our way and some
 cant see anything but doom and gloom. But it is at those times that I can pray, Lord open my eyes that I
 might see.
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TZmsmg7qFnI/AAAAAAAAAf0/NFAqpUdUdnY/s1600-h/09brandenburg%5B9%5D.jpg
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TZmsmg7qFnI/AAAAAAAAAf0/NFAqpUdUdnY/s1600-h/09brandenburg%5B9%5D.jpg](http://lh6.ggpht.com/_2wfF2Ki6_qg/TZmsmg7qFnI/AAAAAAAAAf0/NFAqpUdUdnY/s1600-h/09brandenburg%5B9%5D.jpg)
 
 ```
 Angela Felsted (2011-04-04 12:26:43)
@@ -23174,7 +23174,7 @@ Penned Pebbles (2011-04-04 14:08:07)
 Very encouraging C post. Thank you!
 [1]Penned Pebbles
 
-1. http://pennedpebbles.wordpress.com/
+1. [http://pennedpebbles.wordpress.com/](http://pennedpebbles.wordpress.com/)
 
 BLUEBUTTERFLY (2011-04-04 15:10:13)
 Glory Hallelujah!! Such an on-time word, which reminds me of some of my meditation from 2 Corinthians 5 this
@@ -23260,7 +23260,7 @@ Psalms 37:23 The steps of the godly are directed by the LORD. He delights in eve
 It is awesome when you think about it. The God who holds the universe together is concerned about the
 details of my life. No matter to trivial to Him. Im His daughter.
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TZumcqtWfQI/AAAAAAAAAf8/6O6vEUE3JAk/s1600-h/details%5B4%5D.jpg
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TZumcqtWfQI/AAAAAAAAAf8/6O6vEUE3JAk/s1600-h/details%5B4%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TZumcqtWfQI/AAAAAAAAAf8/6O6vEUE3JAk/s1600-h/details%5B4%5D.jpg)
 
 ```
 a sojourner (2011-04-06 00:12:33)
@@ -23327,7 +23327,7 @@ Bless Wanda and give her some REST!
 Peggy (over at [1]The Power of Your Love for WFW)
 ```
 
-1. http://wwwthepowerofyourlove.blogspot.com/2011/04/wfw-redemption.html
+1. [http://wwwthepowerofyourlove.blogspot.com/2011/04/wfw-redemption.html](http://wwwthepowerofyourlove.blogspot.com/2011/04/wfw-redemption.html)
 PatriciaW (2011-04-06 21:26:44)
 It’s good to remember He’s a detail-oriented God who sees the big picture too. Nice post.
 
@@ -23400,7 +23400,7 @@ order. Thanks for the inspiration!
 (my creative writing blog)
 ```
 
-1. http://fromsarahwithjoy.blogspot.com/
+1. [http://fromsarahwithjoy.blogspot.com/](http://fromsarahwithjoy.blogspot.com/)
 Lorena G. Sims (2011-04-06 17:55:33)
 This is such an encouraging words for me. Exiting is the new entering. Yes, we need to be alert all the time! Thank
 you Wanda.
@@ -23443,7 +23443,7 @@ What do you give the most focus? Wikipedia defines focus as selectively concentr
 environment while ignoring other things. When we spend most of our time tuned into what is wrong in the
 world, we easily miss all the good things that surrounds us every day.
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TZ0o-pc_oVI/AAAAAAAAAgE/w8s7yJnGKvw/s1600-h/focus%5B9%5D.jpg
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TZ0o-pc_oVI/AAAAAAAAAgE/w8s7yJnGKvw/s1600-h/focus%5B9%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TZ0o-pc_oVI/AAAAAAAAAgE/w8s7yJnGKvw/s1600-h/focus%5B9%5D.jpg)
 
 ```
 BARBIE (2011-04-07 06:53:31)
@@ -23537,10 +23537,10 @@ sizing myself up as coming up short. I so wish I had the gift of gab (as I call 
 encouragement like my sister but I was not graced with it. So I can either gripe about it while neglecting
 my own [3]gifts or I can get about the business of cheering them on while cultivating my gifts.
 
-1. http://lh5.ggpht.com/_2wfF2Ki6_qg/TZ8K117ulnI/AAAAAAAAAgM/ZL1u0nuZ7hQ/s1600-h/cohdraNKNgardntools5%5B6%5D.
+1. [http://lh5.ggpht.com/_2wfF2Ki6_qg/TZ8K117ulnI/AAAAAAAAAgM/ZL1u0nuZ7hQ/s1600-h/cohdraNKNgardntools5%5B6%5D.](http://lh5.ggpht.com/_2wfF2Ki6_qg/TZ8K117ulnI/AAAAAAAAAgM/ZL1u0nuZ7hQ/s1600-h/cohdraNKNgardntools5%5B6%5D.)
 jpg
-2. http://wateredsoul.blogspot.com/2011/01/broken-but-useable.html
-3. http://wateredsoul.blogspot.com/2010/07/lost-found.html
+2. [http://wateredsoul.blogspot.com/2011/01/broken-but-useable.html](http://wateredsoul.blogspot.com/2011/01/broken-but-useable.html)
+3. [http://wateredsoul.blogspot.com/2010/07/lost-found.html](http://wateredsoul.blogspot.com/2010/07/lost-found.html)
 
 ```
 Stuff could always be worse (2011-04-08 15:36:20)
@@ -23690,7 +23690,7 @@ Charmaine Clancy (2011-04-10 00:13:39)
 Very sweet poem :)
 [1]Wagging Tales - Blog for Writers
 
-1. http://clancytales.blogspot.com/
+1. [http://clancytales.blogspot.com/](http://clancytales.blogspot.com/)
 
 a sojourner (2011-04-10 01:29:37)
 yeah, i’m often thinking/worrying about the ”how” instead of remembering the Whom. thank you for the encourage-
@@ -23772,7 +23772,7 @@ Each of them no doubt had their own agenda that day. Perhaps expecting only to d
 but in the midst of their ordinary plans a life altering interruption occurred. At times the cleverly robed
 interruption is not really a nuisance but an invitation to a life beyond the confines of your own imagination.
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TaLrdLYFYlI/AAAAAAAAAgU/X4RLNeFjcis/s1600-h/PB270194%5B6%5D.jpg
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TaLrdLYFYlI/AAAAAAAAAgU/X4RLNeFjcis/s1600-h/PB270194%5B6%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TaLrdLYFYlI/AAAAAAAAAgU/X4RLNeFjcis/s1600-h/PB270194%5B6%5D.jpg)
 
 ```
 welcome to my world of poetry (2011-04-11 12:03:00)
@@ -23872,7 +23872,7 @@ Colossians 1:28-29
 [1]Gospel-driven Disciples
 ```
 
-1. http://gospeldrivendisciples.blogspot.com/
+1. [http://gospeldrivendisciples.blogspot.com/](http://gospeldrivendisciples.blogspot.com/)
 Angela Felsted (2011-04-12 12:47:54)
 I like your perspective!
 
@@ -23893,7 +23893,7 @@ the juice runs out.[1]
 
 Just as the OJ runs out so does my creative juices at times. How do you keep your juices flowing?
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TaTolM7Tm-I/AAAAAAAAAgc/n6Pe-90tjZs/s1600-h/Juice3.jpg
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TaTolM7Tm-I/AAAAAAAAAgc/n6Pe-90tjZs/s1600-h/Juice3.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/TaTolM7Tm-I/AAAAAAAAAgc/n6Pe-90tjZs/s1600-h/Juice3.jpg)
 
 ```
 welcome to my world of poetry (2011-04-13 08:23:44)
@@ -23941,7 +23941,7 @@ Taking time out and giving my body rest always helps inspiration to start flowin
 No one really likes a know it all. Acquiring knowledge is important but we must be watchful of how we use
 it. How are you using what you know? Does it make you feel superior to others or are you sharing it love?
 
-1. http://lh6.ggpht.com/_2wfF2Ki6_qg/TaWH5LcsQbI/AAAAAAAAAgk/7pJm7taAxZE/s1600-h/Knowledge%5B4%5D.png
+1. [http://lh6.ggpht.com/_2wfF2Ki6_qg/TaWH5LcsQbI/AAAAAAAAAgk/7pJm7taAxZE/s1600-h/Knowledge%5B4%5D.png](http://lh6.ggpht.com/_2wfF2Ki6_qg/TaWH5LcsQbI/AAAAAAAAAgk/7pJm7taAxZE/s1600-h/Knowledge%5B4%5D.png)
 
 ```
 Joanne Sher (2011-04-13 12:48:01)
@@ -24080,7 +24080,7 @@ I like this concept of having a legacy.
 Blessings and peace.
 [1]MTJ
 
-1. http://mythought-filledjourney.blogspot.com/
+1. [http://mythought-filledjourney.blogspot.com/](http://mythought-filledjourney.blogspot.com/)
 welcome to my world of poetry (2011-04-14 08:50:13)
 This may sound silly but the legacy I would leave behind is my own book as it;s mostly about my family and friends
 and it would be nice to have them remembered,
@@ -24143,7 +24143,7 @@ I should keep a journal but I’ve not for the most part.
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 *The Old Geezer (2011-04-15 17:11:54)
 What book would I leave behind?
 My marked up Bible.
@@ -24162,7 +24162,7 @@ and it just happens to start with the letter of the day. If you have an extra mi
 the Meadow. With that being said Ill meet you in the morning (hopefully) for the letter N. Have a marvelous
 weekend.
 
-1. http://roy.dayspring.com/
+1. [http://roy.dayspring.com/](http://roy.dayspring.com/)
 
 ```
 Ella (2011-04-16 02:22:08)
@@ -24213,11 +24213,11 @@ But the LORD’s plans stand firm forever; his intentions can never be shaken. P
 For the LORD loves justice, and he will never [4]abandon the godly. He will keep them safe forever, but the
 children of the wicked will perish. Psalm 37:28(NLT)
 
-1. http://wateredsoul.blogspot.com/2010/04/never-say-never.html
-2. http://wateredsoul.blogspot.com/2010/02/never-forsaken.html
+1. [http://wateredsoul.blogspot.com/2010/04/never-say-never.html](http://wateredsoul.blogspot.com/2010/04/never-say-never.html)
+2. [http://wateredsoul.blogspot.com/2010/02/never-forsaken.html](http://wateredsoul.blogspot.com/2010/02/never-forsaken.html)
 
-3. http://wateredsoul.blogspot.com/2010/02/never-forsaken-part-2.html
-4. http://wateredsoul.blogspot.com/2010/07/nobody-likes-me.html
+3. [http://wateredsoul.blogspot.com/2010/02/never-forsaken-part-2.html](http://wateredsoul.blogspot.com/2010/02/never-forsaken-part-2.html)
+4. [http://wateredsoul.blogspot.com/2010/07/nobody-likes-me.html](http://wateredsoul.blogspot.com/2010/07/nobody-likes-me.html)
 
 ```
 welcome to my world of poetry (2011-04-17 08:00:34)
@@ -24307,9 +24307,9 @@ overalls and looks a lot like work.-Thomas Alva Edison
 opportunity.”Arabian Proverb
 ```
 
-1. http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html
-2. http://wateredsoul.blogspot.com/2010/06/access-granted.html
-3. http://wateredsoul.blogspot.com/2010/06/access-granted.html
+1. [http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html](http://wateredsoul.blogspot.com/2010/04/open-to-opportunity.html)
+2. [http://wateredsoul.blogspot.com/2010/06/access-granted.html](http://wateredsoul.blogspot.com/2010/06/access-granted.html)
+3. [http://wateredsoul.blogspot.com/2010/06/access-granted.html](http://wateredsoul.blogspot.com/2010/06/access-granted.html)
 
 ```
 welcome to my world of poetry (2011-04-18 08:03:01)
@@ -24381,7 +24381,7 @@ Gregg Metcalf
 Colossians 1:28-29
 [1]Gospel-driven Disciples
 
-1. http://gospeldrivendisciples.blogspot.com/
+1. [http://gospeldrivendisciples.blogspot.com/](http://gospeldrivendisciples.blogspot.com/)
 
 Ella (2011-04-19 11:54:06)
 I like this one, like a new door to open, we have to be aware, observe and then be open to opportunity
@@ -24532,8 +24532,8 @@ You want what you don’t have, so you scheme and kill to get it. You are jealou
 you can’t possess it, so you fight and quarrel to take it away from them. And yet the reason you don’t have
 what you want is that you don’t ask God for it. James 4:2 NLT
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/Ta7XKwEOxPI/AAAAAAAAAgs/PXA9WnWzVfo/s1600-h/questions%5B2%5D.jpg
-2. http://www.fotopedia.com/
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/Ta7XKwEOxPI/AAAAAAAAAgs/PXA9WnWzVfo/s1600-h/questions%5B2%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/Ta7XKwEOxPI/AAAAAAAAAgs/PXA9WnWzVfo/s1600-h/questions%5B2%5D.jpg)
+2. [http://www.fotopedia.com/](http://www.fotopedia.com/)
 
 ```
 BLUEBUTTERFLY (2011-04-21 13:09:21)
@@ -24586,9 +24586,9 @@ But the LORD will redeem those who serve him. Everyone who trusts in him will be
 
 Yet they cannot redeem themselves from death by paying a ransom to God. Psalms 49:7
 
-1. http://dictionary.reference.com/browse/redeemed
-2. http://wateredsoul.blogspot.com/2010/04/re.html
-3. http://wateredsoul.blogspot.com/2010/03/revisit-tomb.html
+1. [http://dictionary.reference.com/browse/redeemed](http://dictionary.reference.com/browse/redeemed)
+2. [http://wateredsoul.blogspot.com/2010/04/re.html](http://wateredsoul.blogspot.com/2010/04/re.html)
+3. [http://wateredsoul.blogspot.com/2010/03/revisit-tomb.html](http://wateredsoul.blogspot.com/2010/03/revisit-tomb.html)
 
 ```
 Susie Swanson (2011-04-21 18:33:42)
@@ -24680,9 +24680,9 @@ showing that His reign knows no end
 [3]He rose that day that I may live again
 Wishing you a blessed Easter celebration!
 
-1. http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7NHKABNhCI/AAAAAAAAADU/6YQ34t68LEc/s1600/jesusonthecross02.jpg
-2. http://www.heartlight.org/
-3. http://wateredsoul.blogspot.com/2010/05/its-him-you-seek.html
+1. [http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7NHKABNhCI/AAAAAAAAADU/6YQ34t68LEc/s1600/jesusonthecross02.jpg](http://3.bp.blogspot.com/_2wfF2Ki6_qg/S7NHKABNhCI/AAAAAAAAADU/6YQ34t68LEc/s1600/jesusonthecross02.jpg)
+2. [http://www.heartlight.org/](http://www.heartlight.org/)
+3. [http://wateredsoul.blogspot.com/2010/05/its-him-you-seek.html](http://wateredsoul.blogspot.com/2010/05/its-him-you-seek.html)
 
 ```
 Kim @ Stuff could... (2011-04-22 18:08:59)
@@ -24765,8 +24765,8 @@ you. Have a wonderful weekend.
 
 The generous soul will be made rich, And he who waters will also be watered himself. Proverbs 11:25 NKJV
 
-1. http://wateredsoul.blogspot.com/2011/04/how-does-your-garden-grow.html
-2. http://wateredsoul.blogspot.com/2010/10/just-matter-of-moments.html
+1. [http://wateredsoul.blogspot.com/2011/04/how-does-your-garden-grow.html](http://wateredsoul.blogspot.com/2011/04/how-does-your-garden-grow.html)
+2. [http://wateredsoul.blogspot.com/2010/10/just-matter-of-moments.html](http://wateredsoul.blogspot.com/2010/10/just-matter-of-moments.html)
 
 ```
 Lisa (2011-04-23 15:06:10)
@@ -24934,7 +24934,7 @@ Nice to meet you on A to Z.
 Monti
 [1]NotesAlongTheWay
 
-1. http://marymontaguesikes.blogspot.com/
+1. [http://marymontaguesikes.blogspot.com/](http://marymontaguesikes.blogspot.com/)
 
 ginahyatt (2011-04-26 15:51:25)
 Wanda, I have come across many people over the years that hold to the ”unless” policy. Wow, I love how you brought
@@ -24976,10 +24976,10 @@ was in the valley that I caught new glimpses of God.
 Even when I walk through the dark valley of death, I will not be afraid, for you are close beside me. Your
 rod and your staff protect and comfort me. Psalms 23:4 NLT
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TbcCu4xcsLI/AAAAAAAAAhM/bGty66-s-ME/s1600-h/
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TbcCu4xcsLI/AAAAAAAAAhM/bGty66-s-ME/s1600-h/](http://lh3.ggpht.com/_2wfF2Ki6_qg/TbcCu4xcsLI/AAAAAAAAAhM/bGty66-s-ME/s1600-h/)
 geograph-131848-by-Keith-Havercroft%5B5%5D.jpg
-2. http://www.geograph.org.uk/profile/5189
-3. http://creativecommons.org/licenses/by-sa/2.0/
+2. [http://www.geograph.org.uk/profile/5189](http://www.geograph.org.uk/profile/5189)
+3. [http://creativecommons.org/licenses/by-sa/2.0/](http://creativecommons.org/licenses/by-sa/2.0/)
 
 ```
 Sharon Kirby (2011-04-26 18:51:45)
@@ -25038,7 +25038,7 @@ Monti
 [1]NotesAlongTheWay
 ```
 
-1. http://marymontaguesikes.blogspot.com/
+1. [http://marymontaguesikes.blogspot.com/](http://marymontaguesikes.blogspot.com/)
 Elizabeth West (2011-04-28 01:48:42)
 Thanks, Wanda, I needed that.
 
@@ -25048,7 +25048,7 @@ Thanks, Wanda, I needed that.
 
 A truly wise person uses few words; a person with understanding is even-tempered. Psalms 17:27 NLT
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TbggzpZccnI/AAAAAAAAAhU/EpUJHy6PQvg/s1600-h/Words%20Prov%2017-27a%5B4%
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TbggzpZccnI/AAAAAAAAAhU/EpUJHy6PQvg/s1600-h/Words%20Prov%2017-27a%5B4%](http://lh3.ggpht.com/_2wfF2Ki6_qg/TbggzpZccnI/AAAAAAAAAhU/EpUJHy6PQvg/s1600-h/Words%20Prov%2017-27a%5B4%)
 5D.png
 
 ```
@@ -25079,7 +25079,7 @@ Gregg Metcalf
 Colossians 1:28-29
 [1]Gospel-driven Disciples
 
-1. http://gospeldrivendisciples.blogspot.com/
+1. [http://gospeldrivendisciples.blogspot.com/](http://gospeldrivendisciples.blogspot.com/)
 
 Peggy (mazmagi) (2011-04-27 20:19:42)
 Blessings Wanda,
@@ -25113,7 +25113,7 @@ I want to be wise, but it is so hard to shut my mouth. I’m getting better at i
 a pro, or maybe I’ll just have forgotten what I was going to say in the first place. Either way, I’ll be wiser, right?
 [1]The Write Soil
 
-1. http://thewritesoil.blogspot.com/
+1. [http://thewritesoil.blogspot.com/](http://thewritesoil.blogspot.com/)
 
 Karen (2011-04-28 00:47:37)
 Amen...I really need to remember this the next time I feel the need to spout off...Lord, help me!
@@ -25179,7 +25179,7 @@ All I can say is Amen, Wanda, Amen!
 [1]Pam Williams
 ```
 
-1. http://encouragementforchristianwriters.blogspot.com/
+1. [http://encouragementforchristianwriters.blogspot.com/](http://encouragementforchristianwriters.blogspot.com/)
 Joanne Sher (2011-04-29 01:06:12)
 Great thoughts, Wanda. When I used to correct papers in my ”former life” as a teacher, I actually enjoyed using
 purple. But the red blood is the only thing that really crosses them out, isn’t it?
@@ -25322,7 +25322,7 @@ Elizabeth Mueller (2011-04-30 18:24:56)
 Wanda, we did it! Congratulations! I have an [1]award for you!!
 ```
 
-1. http://elizabethmueller.blogspot.com/2011/04/z-is-for.html
+1. [http://elizabethmueller.blogspot.com/2011/04/z-is-for.html](http://elizabethmueller.blogspot.com/2011/04/z-is-for.html)
 Donna Weaver (2011-04-30 19:28:25)
 Congrats on finished. Good feeling, isn’t it?
 
@@ -25354,7 +25354,7 @@ nuggets of truth. I will definitely keep you bookmarked so I can return in the f
 Thank you so much!
 [1]Pam Williams
 
-1. http://encouragementforchristianwriters.blogspot.com/
+1. [http://encouragementforchristianwriters.blogspot.com/](http://encouragementforchristianwriters.blogspot.com/)
 
 Connie Arnold (2011-05-01 23:12:14)
 You did great, Wanda! I’ve been reading your posts. Hope you’re getting some good ZZZs this weekend!
@@ -25398,7 +25398,7 @@ NLT
 
 Happy Word-Filled Wednesday
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/TcE8O297LsI/AAAAAAAAAho/P2OwaGYXyxU/s1600-h/Morning%20Psalm%2090-14%20%
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/TcE8O297LsI/AAAAAAAAAho/P2OwaGYXyxU/s1600-h/Morning%20Psalm%2090-14%20%](http://lh4.ggpht.com/_2wfF2Ki6_qg/TcE8O297LsI/AAAAAAAAAho/P2OwaGYXyxU/s1600-h/Morning%20Psalm%2090-14%20%)
 28negative%29%5B4%5D.jpg
 
 ```
@@ -25549,10 +25549,10 @@ ments. Now trying to get them to put the video up on the screen too. Words are l
 Thanks for the laugh, Shirley
 ```
 
-1. http://www.squidoo.com/anita-renfroe-lyrics-in-the-muthahood
+1. [http://www.squidoo.com/anita-renfroe-lyrics-in-the-muthahood](http://www.squidoo.com/anita-renfroe-lyrics-in-the-muthahood)
 Wanda (2011-05-06 19:08:54)
 I’m not sure what happened Kim but the direct link to the video is [1]here
-1. http://www.godtube.com/watch/?v=FBCBJ1NU
+1. [http://www.godtube.com/watch/?v=FBCBJ1NU](http://www.godtube.com/watch/?v=FBCBJ1NU)
 Wanda (2011-05-06 19:10:36)
 Thanks Shirley for sharing the link to the lyrics. I think most mothers would get a laugh from it. Hope you able to
 show it.
@@ -25614,9 +25614,9 @@ unbiased review.
 
 To read an excerpt, click [3]here
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/Tcfufe53NoI/AAAAAAAAAh0/utKZ_DoyCIw/s1600-h/Ann%20Tatlock%5B5%5D.jpg
-2. http://www.bethanyhouse.com/ME2/Audiences/Default.asp
-3. http://www.bethanyhouse.com/ME2/Audiences/dirmod.asp?sid=0477683E4046471488BD7BAC8DCFB004&nm=&type=
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/Tcfufe53NoI/AAAAAAAAAh0/utKZ_DoyCIw/s1600-h/Ann%20Tatlock%5B5%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/Tcfufe53NoI/AAAAAAAAAh0/utKZ_DoyCIw/s1600-h/Ann%20Tatlock%5B5%5D.jpg)
+2. [http://www.bethanyhouse.com/ME2/Audiences/Default.asp](http://www.bethanyhouse.com/ME2/Audiences/Default.asp)
+3. [http://www.bethanyhouse.com/ME2/Audiences/dirmod.asp?sid=0477683E4046471488BD7BAC8DCFB004&nm=&type=](http://www.bethanyhouse.com/ME2/Audiences/dirmod.asp?sid=0477683E4046471488BD7BAC8DCFB004&nm=&type=)
 media&mod=Media+Manager&mid=8E7ADACE794A4BDC91C037C7C03EB903&tier=3&rid=D89C14D3223C4514BD66B0AECC6E20D3
 
 ```
@@ -25709,9 +25709,9 @@ unbiased review.
 
 To read an excerpt, click [3]here
 
-1. http://lh4.ggpht.com/_2wfF2Ki6_qg/Tcfufe53NoI/AAAAAAAAAh0/utKZ_DoyCIw/s1600-h/Ann%20Tatlock%5B5%5D.jpg
-2. http://www.bethanyhouse.com/ME2/Audiences/Default.asp
-3. http://www.bethanyhouse.com/ME2/Audiences/dirmod.asp?sid=0477683E4046471488BD7BAC8DCFB004&nm=&type=
+1. [http://lh4.ggpht.com/_2wfF2Ki6_qg/Tcfufe53NoI/AAAAAAAAAh0/utKZ_DoyCIw/s1600-h/Ann%20Tatlock%5B5%5D.jpg](http://lh4.ggpht.com/_2wfF2Ki6_qg/Tcfufe53NoI/AAAAAAAAAh0/utKZ_DoyCIw/s1600-h/Ann%20Tatlock%5B5%5D.jpg)
+2. [http://www.bethanyhouse.com/ME2/Audiences/Default.asp](http://www.bethanyhouse.com/ME2/Audiences/Default.asp)
+3. [http://www.bethanyhouse.com/ME2/Audiences/dirmod.asp?sid=0477683E4046471488BD7BAC8DCFB004&nm=&type=](http://www.bethanyhouse.com/ME2/Audiences/dirmod.asp?sid=0477683E4046471488BD7BAC8DCFB004&nm=&type=)
 media&mod=Media+Manager&mid=8E7ADACE794A4BDC91C037C7C03EB903&tier=3&rid=D89C14D3223C4514BD66B0AECC6E20D3
 
 ```
@@ -25724,7 +25724,7 @@ your website will get insatnt traffic and massive increase in seo rankings just 
 [1]backlinks service
 ```
 
-1. http://xrumerservice.org/
+1. [http://xrumerservice.org/](http://xrumerservice.org/)
 Kim @ Stuff could... (2011-05-09 15:26:35)
 What a great review, sounds like an interesting book
 
@@ -25802,7 +25802,7 @@ Missed you and your nuggets of truth about Jesus, Wanda. So glad you are back.
 [1]Pam Williams
 ```
 
-1. http://encouragementforchristianwriters.blogspot.com/
+1. [http://encouragementforchristianwriters.blogspot.com/](http://encouragementforchristianwriters.blogspot.com/)
 Missie (2011-05-16 07:34:05)
 Welcome back! You were missed!
 
@@ -25971,7 +25971,7 @@ complete the work He has given us.
 
 Are you using the time wisely? Night is coming you know.
 
-1. http://lh3.ggpht.com/_2wfF2Ki6_qg/TdO8rVaqnUI/AAAAAAAAAh8/HIw1yzwfJBk/s1600-h/John%209-4%5B5%5D.jpg
+1. [http://lh3.ggpht.com/_2wfF2Ki6_qg/TdO8rVaqnUI/AAAAAAAAAh8/HIw1yzwfJBk/s1600-h/John%209-4%5B5%5D.jpg](http://lh3.ggpht.com/_2wfF2Ki6_qg/TdO8rVaqnUI/AAAAAAAAAh8/HIw1yzwfJBk/s1600-h/John%209-4%5B5%5D.jpg)
 
 ```
 Marta Benic· (2011-05-18 06:49:30)
@@ -26218,7 +26218,7 @@ Thanks for posting this. Blessings!
 [1]The Write Soil
 ```
 
-1. http://thewritesoil.blogspot.com/
+1. [http://thewritesoil.blogspot.com/](http://thewritesoil.blogspot.com/)
 Sharon (2011-05-28 03:05:57)
 I totally get this one. And yes, it’s hard when my actions don’t line up with my desires. It’s even harder when I not
 only want to DO better, I want to BE better. But, for both things, God is the answer.
@@ -26252,7 +26252,7 @@ Nope something far greater happened, Jesus chose me. Yes, me&Wanda.
 John 15:16 (NLT) You didnt choose me. I chose you. I appointed you to go and produce lasting fruit, so
 that the Father will give you whatever you ask for, using my name.
 
-1. http://lh3.ggpht.com/-lA7hxXQCAEs/TeBySo4Y2tI/AAAAAAAAAiE/n3K4ogZi6Yg/s1600-h/sw_fake_ballot_sa03045%
+1. [http://lh3.ggpht.com/-lA7hxXQCAEs/TeBySo4Y2tI/AAAAAAAAAiE/n3K4ogZi6Yg/s1600-h/sw_fake_ballot_sa03045%](http://lh3.ggpht.com/-lA7hxXQCAEs/TeBySo4Y2tI/AAAAAAAAAiE/n3K4ogZi6Yg/s1600-h/sw_fake_ballot_sa03045%)
 25255B5%25255D.jpg
 
 ```
@@ -26324,12 +26324,12 @@ You make known to me the path of life; you will fill me with joy in your presenc
 your right hand. Psalm 16:11
 Linking up with Joanne at [5]An Open Book for Monday Manna.
 
-1. http://wateredsoul.blogspot.com/2010/12/traveling-shoes.html
-2. http://wateredsoul.blogspot.com/2010/05/steps-along-way.html
-3. http://lh4.ggpht.com/-_mHGNuhTd4s/TeOlb7CVsOI/AAAAAAAAAiM/L46tOQtTqVQ/s1600-h/duns%252520castle%25255B4%
+1. [http://wateredsoul.blogspot.com/2010/12/traveling-shoes.html](http://wateredsoul.blogspot.com/2010/12/traveling-shoes.html)
+2. [http://wateredsoul.blogspot.com/2010/05/steps-along-way.html](http://wateredsoul.blogspot.com/2010/05/steps-along-way.html)
+3. [http://lh4.ggpht.com/-_mHGNuhTd4s/TeOlb7CVsOI/AAAAAAAAAiM/L46tOQtTqVQ/s1600-h/duns%252520castle%25255B4%](http://lh4.ggpht.com/-_mHGNuhTd4s/TeOlb7CVsOI/AAAAAAAAAiM/L46tOQtTqVQ/s1600-h/duns%252520castle%25255B4%)
 25255D.jpg
-4. http://wateredsoul.blogspot.com/2010/06/god-of-detours.html
-5. http://www.joannesher.com/
+4. [http://wateredsoul.blogspot.com/2010/06/god-of-detours.html](http://wateredsoul.blogspot.com/2010/06/god-of-detours.html)
+5. [http://www.joannesher.com/](http://www.joannesher.com/)
 
 ```
 LisaShaw (2011-05-30 14:31:53)
@@ -26517,7 +26517,7 @@ Happy Word-filled Wednesday!
 
 And thanks so much for your prayers for my sister, she is doing better but still in the hospital.
 
-1. http://lh3.ggpht.com/-PteTMTS122w/Te9pEp9FCxI/AAAAAAAAAiU/NUQftAuw9ws/s1600-h/Mountain%252520Surround%
+1. [http://lh3.ggpht.com/-PteTMTS122w/Te9pEp9FCxI/AAAAAAAAAiU/NUQftAuw9ws/s1600-h/Mountain%252520Surround%](http://lh3.ggpht.com/-PteTMTS122w/Te9pEp9FCxI/AAAAAAAAAiU/NUQftAuw9ws/s1600-h/Mountain%252520Surround%)
 25255B4%25255D.jpg
 
 ```
@@ -26651,8 +26651,8 @@ No matter what is come into your life at this time know that victory has already
 
 [2]
 
-1. http://www.joannesher.com/2011/06/already-won-monday-manna.html
-2. http://www.joannesher.com/
+1. [http://www.joannesher.com/2011/06/already-won-monday-manna.html](http://www.joannesher.com/2011/06/already-won-monday-manna.html)
+2. [http://www.joannesher.com/](http://www.joannesher.com/)
 
 ```
 welcome to my world of poetry (2011-06-13 13:31:51)
@@ -26713,7 +26713,7 @@ conversation.
 Blessings
 ```
 
-1. http://www.thefaithlounge.com/
+1. [http://www.thefaithlounge.com/](http://www.thefaithlounge.com/)
 
 **Life After Yes** {**Teaser Tuesday**} **(2011-06-14 08:00)**
 
@@ -26728,9 +26728,9 @@ Donnelley Rowley
 Teaser Tuesday is weekly book meme hosted by [2]Should Be Reading. Got an interesting quote from a book
 you read recently?
 
-1. http://lh6.ggpht.com/-9Gagkq7PyH4/Tfayfg2hTXI/AAAAAAAAAig/ufi5bXCDR9Q/s1600-h/Life%252520after%252520yes%
+1. [http://lh6.ggpht.com/-9Gagkq7PyH4/Tfayfg2hTXI/AAAAAAAAAig/ufi5bXCDR9Q/s1600-h/Life%252520after%252520yes%](http://lh6.ggpht.com/-9Gagkq7PyH4/Tfayfg2hTXI/AAAAAAAAAig/ufi5bXCDR9Q/s1600-h/Life%252520after%252520yes%)
 25255B3%25255D.jpg
-2. http://shouldbereading.wordpress.com/
+2. [http://shouldbereading.wordpress.com/](http://shouldbereading.wordpress.com/)
 
 ```
 welcome to my world of poetry (2011-06-14 16:23:29)
@@ -26787,9 +26787,9 @@ I guess he wasnt willing to give them up so he could be right. Some how he cons
 of being wrong.
 Stay tuned as I explore the cost he paid for loving when its wrong.
 
-1. http://lh5.ggpht.com/-9kfK0IQaKTs/TflvetDd-nI/AAAAAAAAAiw/XX1l0JTH0l4/s1600-h/loveyou_4650%25255B3%25255D.
+1. [http://lh5.ggpht.com/-9kfK0IQaKTs/TflvetDd-nI/AAAAAAAAAiw/XX1l0JTH0l4/s1600-h/loveyou_4650%25255B3%25255D.](http://lh5.ggpht.com/-9kfK0IQaKTs/TflvetDd-nI/AAAAAAAAAiw/XX1l0JTH0l4/s1600-h/loveyou_4650%25255B3%25255D.)
 jpg
-2. http://mrg.bz/YhucQn
+2. [http://mrg.bz/YhucQn](http://mrg.bz/YhucQn)
 
 ```
 welcome to my world of poetry (2011-06-16 12:36:02)
@@ -27057,7 +27057,7 @@ There are days that I feel feel tattered and worn like this old door. But as I s
 Deuteronomy 33, I was encouraged and invigorated knowing that God gives me strength equal to the days
 challenges.
 
-1. http://lh5.ggpht.com/-3GCwsEZzKKU/Tgtl9WfIeuI/AAAAAAAAAi4/Cp3tAdo-ymE/s1600-h/Strength-Deuteronomy%
+1. [http://lh5.ggpht.com/-3GCwsEZzKKU/Tgtl9WfIeuI/AAAAAAAAAi4/Cp3tAdo-ymE/s1600-h/Strength-Deuteronomy%](http://lh5.ggpht.com/-3GCwsEZzKKU/Tgtl9WfIeuI/AAAAAAAAAi4/Cp3tAdo-ymE/s1600-h/Strength-Deuteronomy%)
 25255B4%25255D.jpg
 
 ```
@@ -27130,7 +27130,7 @@ Lee
 [1]Tossing It Out
 ```
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 jackie (2011-07-01 11:36:09)
 Amen and Amen Wanda...Same experience with me. No matter how we might feel right now, God is still in control
 of everything!
@@ -27376,14 +27376,14 @@ stop listening. It’s often in our times of trials that God’s voice becomes a
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 
 Dawn M. Hamsher (2011-07-19 22:40:24)
 Oh, how we want to handle our own destinies. I need constant reminders to ask God what he wants for my life.
 Thank you, Wanda.
 [1]The Write Soil
 
-1. http://thewritesoil.blogspot.com/
+1. [http://thewritesoil.blogspot.com/](http://thewritesoil.blogspot.com/)
 
 A Stone Gatherer (2011-07-20 00:54:47)
 I so have done that! Glad that God was patient with me and that I hopefully am becoming a better student and
@@ -27436,7 +27436,7 @@ This is written as part of Five Minute Friday, where you just write without worr
 Visible links 1. [http://lh5.ggpht.com/-PBNZvZys26w/TimJu_7g7jI/AAAAAAAAAjo/q2Wj7Gu8zIM/s1600-h/toothbrushes%](http://lh5.ggpht.com/-PBNZvZys26w/TimJu_7g7jI/AAAAAAAAAjo/q2Wj7Gu8zIM/s1600-h/toothbrushes%)
 25255B8%25255D.jpg
 
-2. http://thegypsymama.com/category/five-minute-friday/
+2. [http://thegypsymama.com/category/five-minute-friday/](http://thegypsymama.com/category/five-minute-friday/)
 
 ```
 Sabrina (2011-07-22 14:49:15)
@@ -27522,7 +27522,7 @@ and I want to be free.
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 
 Shanda (2011-07-24 16:17:06)
 Great post. I definitely agree that all our things consume so much of our time that we do not go to God like we should
@@ -27551,9 +27551,9 @@ to God?
 
 Linking up with [2]Monday Manna, which is being hosted by Vonnie at [3]My Back Door.
 
-1. http://lh3.ggpht.com/-mtkj4JIHV7c/Ti1YagizdfI/AAAAAAAAAjw/VqR0hYMAd7g/s1600-h/DSCF0253%25255B8%25255D.jpg
-2. http://www.joannesher.com/
-3. http://mybackdoorministry.blogspot.com/
+1. [http://lh3.ggpht.com/-mtkj4JIHV7c/Ti1YagizdfI/AAAAAAAAAjw/VqR0hYMAd7g/s1600-h/DSCF0253%25255B8%25255D.jpg](http://lh3.ggpht.com/-mtkj4JIHV7c/Ti1YagizdfI/AAAAAAAAAjw/VqR0hYMAd7g/s1600-h/DSCF0253%25255B8%25255D.jpg)
+2. [http://www.joannesher.com/](http://www.joannesher.com/)
+3. [http://mybackdoorministry.blogspot.com/](http://mybackdoorministry.blogspot.com/)
 
 ```
 Donna Lynn Grace (2011-07-25 12:16:02)
@@ -27740,9 +27740,9 @@ to realize that you still have something of value to give to others?
 This post is being linked with [2]Monday Manna
 Photo Credit: [3]Morguefile
 
-1. http://lh3.ggpht.com/-UZuezglu5yc/TjadDrySphI/AAAAAAAAAj4/l8IA7M8blvE/s1600-h/Tear%25255B3%25255D.jpg
-2. http://www.joannesher.com/2011/08/seeds-to-sheaves-monday-manna.html
-3. http://mrg.bz/8Jngce
+1. [http://lh3.ggpht.com/-UZuezglu5yc/TjadDrySphI/AAAAAAAAAj4/l8IA7M8blvE/s1600-h/Tear%25255B3%25255D.jpg](http://lh3.ggpht.com/-UZuezglu5yc/TjadDrySphI/AAAAAAAAAj4/l8IA7M8blvE/s1600-h/Tear%25255B3%25255D.jpg)
+2. [http://www.joannesher.com/2011/08/seeds-to-sheaves-monday-manna.html](http://www.joannesher.com/2011/08/seeds-to-sheaves-monday-manna.html)
+3. [http://mrg.bz/8Jngce](http://mrg.bz/8Jngce)
 
 ```
 My daily walk in His grace! (2011-08-01 12:55:38)
@@ -27825,8 +27825,8 @@ and I are joining forces in a followup A to Z challenge. We’re going to visit 
 Z participants, and we hope you’ll join us!
 [2]Shannon @ The Warrior Muse
 
-1. http://kmdlifeisgood.blogspot.com/
-2. http://thewarriormuse.blogspot.com/
+1. [http://kmdlifeisgood.blogspot.com/](http://kmdlifeisgood.blogspot.com/)
+2. [http://thewarriormuse.blogspot.com/](http://thewarriormuse.blogspot.com/)
 
 Peaches Ledwidge (2011-08-03 12:51:27)
 I’m a ”crier” too. News, blogs, stories, I cry when I hear or read something sad. I even cry tears of joy.
@@ -27947,7 +27947,7 @@ might be to prepare for marriage. Because its often easier to say, Lets wait,
 Disclosure: I was provided a complimentary copy of the book by The B &B Media Group in exchanged for
 my unbiased review.
 
-1. http://lh4.ggpht.com/-7VlHcvt9uvo/TkFzme-hN0I/AAAAAAAAAkI/QelV8tph1CI/s1600-h/Young%252520%252526%
+1. [http://lh4.ggpht.com/-7VlHcvt9uvo/TkFzme-hN0I/AAAAAAAAAkI/QelV8tph1CI/s1600-h/Young%252520%252526%](http://lh4.ggpht.com/-7VlHcvt9uvo/TkFzme-hN0I/AAAAAAAAAkI/QelV8tph1CI/s1600-h/Young%252520%252526%)
 252520Love%25255B6%25255D.gif
 
 ```
@@ -27980,10 +27980,10 @@ I write like
 [2]Margaret Mitchell
 I Write Like by MÈmoires, [3]journal software. [4]**Analyze your writing!**
 
-1. http://iwl.me/
-2. http://iwl.me/w/ce65a7ad
-3. http://www.codingrobots.com/memoires/
-4. http://iwl.me/
+1. [http://iwl.me/](http://iwl.me/)
+2. [http://iwl.me/w/ce65a7ad](http://iwl.me/w/ce65a7ad)
+3. [http://www.codingrobots.com/memoires/](http://www.codingrobots.com/memoires/)
+4. [http://iwl.me/](http://iwl.me/)
 
 ```
 welcome to my world of poetry (2011-08-11 09:20:26)
@@ -28201,9 +28201,9 @@ IFRAME: [3]http://www.scribd.com/embeds/59613566/content?start page=1 &view mode
 Disclosures: I was provided a complimentary copy of this book from Bethany House Publisher in exchange
 for an unbiased review.
 
-1. http://lh6.ggpht.com/-5h3n15Lzx70/TlLP0zfQmUI/AAAAAAAAAkU/5W3GluvcwJ4/s1600-h/mccoy%25255B8%25255D.jpg
-2. http://www.scribd.com/doc/59613566
-3. http://www.scribd.com/embeds/59613566/content?start_page=1&view_mode=list
+1. [http://lh6.ggpht.com/-5h3n15Lzx70/TlLP0zfQmUI/AAAAAAAAAkU/5W3GluvcwJ4/s1600-h/mccoy%25255B8%25255D.jpg](http://lh6.ggpht.com/-5h3n15Lzx70/TlLP0zfQmUI/AAAAAAAAAkU/5W3GluvcwJ4/s1600-h/mccoy%25255B8%25255D.jpg)
+2. [http://www.scribd.com/doc/59613566](http://www.scribd.com/doc/59613566)
+3. [http://www.scribd.com/embeds/59613566/content?start_page=1&view_mode=list](http://www.scribd.com/embeds/59613566/content?start_page=1&view_mode=list)
 
 ```
 My daily walk in His grace! (2011-08-23 06:31:58)
@@ -28265,7 +28265,7 @@ would bring light to this area of my life. I pray for my brothers and sisters wh
 diminished expectations in areas of their lives. I pray that their faith would be stirred a new. In Jesus name,
 Amen.
 
-1. http://lh6.ggpht.com/-_AH48sUJmn0/TlT3gZJIKsI/AAAAAAAAAkc/ydMvNfXD15k/s1600-h/PICT3177%25255B3%25255D.jpg
+1. [http://lh6.ggpht.com/-_AH48sUJmn0/TlT3gZJIKsI/AAAAAAAAAkc/ydMvNfXD15k/s1600-h/PICT3177%25255B3%25255D.jpg](http://lh6.ggpht.com/-_AH48sUJmn0/TlT3gZJIKsI/AAAAAAAAAkc/ydMvNfXD15k/s1600-h/PICT3177%25255B3%25255D.jpg)
 
 ```
 BLUEBUTTERFLY (2011-08-24 14:30:40)
@@ -28359,7 +28359,7 @@ Are there some situations in your life that is attempting to hold you hostage an
 pain and despair. If so maybe its time you look at from a different perspective, so that you may be able to
 proclaim the enemy meant for your harm but God worked for your good.
 
-1. http://lh5.ggpht.com/-RWLltCPIBN4/TlxQ699hAvI/AAAAAAAAAkk/rVAvqEiTW0o/s1600-h/IMG_95536.jpg
+1. [http://lh5.ggpht.com/-RWLltCPIBN4/TlxQ699hAvI/AAAAAAAAAkk/rVAvqEiTW0o/s1600-h/IMG_95536.jpg](http://lh5.ggpht.com/-RWLltCPIBN4/TlxQ699hAvI/AAAAAAAAAkk/rVAvqEiTW0o/s1600-h/IMG_95536.jpg)
 
 Alida (2011-08-30 05:31:52)
 Love this! And I am so grateful that God works it all out for good.
@@ -28709,27 +28709,27 @@ _3 things in life that should never be lost:_
 
 _3 things in life that are most valuable:_
 
-1. PRAYER
-2 LOVE
-3. FAITH
+_1. PRAYER_
+_2 LOVE_
+_3. FAITH_
 
 _3 things in life that make a person:_
 
-1. HARD WORK
-2. SINCERITY
-3.COMMITMENT
+_1. HARD WORK_
+_2. SINCERITY_
+_3.COMMITMENT_
 
 _3 things in life that can destroy a person:_
 
-1. LUST
-2. PRIDE
-3. ANGER
+_1. LUST_
+_2. PRIDE_
+_3. ANGER_
 
 _3 things in life that are constant:_
 
-1. GOD
-2. CHANGE
-3. DEATH
+_1. GOD_
+_2. CHANGE_
+_3. DEATH_
 
 Reading this email reminded me of 1 Corinthians 13:13. May our lives be built upon that which is eternal.
 
@@ -28743,7 +28743,7 @@ the three is love. I Corinthians 13:13(The Message)
 
 [1]
 
-1. http://lh4.ggpht.com/-ZBiebadQY5U/ToBshk45MbI/AAAAAAAAAk8/MR6Sf3l5uHw/s1600-h/three%252520remain%25255B5%
+1. [http://lh4.ggpht.com/-ZBiebadQY5U/ToBshk45MbI/AAAAAAAAAk8/MR6Sf3l5uHw/s1600-h/three%252520remain%25255B5%](http://lh4.ggpht.com/-ZBiebadQY5U/ToBshk45MbI/AAAAAAAAAk8/MR6Sf3l5uHw/s1600-h/three%252520remain%25255B5%)
 25255D.jpg
 
 ```
@@ -28943,7 +28943,7 @@ friction.
 Lee
 [1]Tossing It Out
 
-1. http://tossingitout.blogspot.com/
+1. [http://tossingitout.blogspot.com/](http://tossingitout.blogspot.com/)
 
 Wanda (2011-10-04 00:11:16)
 Bluebutterfly, thanks for sharing your personal experience and words of wisdom.
@@ -29024,7 +29024,7 @@ which I dont believe is always the case in life.
 Disclosure: I received a complimentary copy for review purposes from The B &B Media group. Views and
 opinions expressed are my own.
 
-1. http://lh6.ggpht.com/-Pzh-oXvgDUE/TopzW7x8EeI/AAAAAAAAAlE/_ve2zyEutrY/s1600-h/image001%25255B3%25255D.jpg
+1. [http://lh6.ggpht.com/-Pzh-oXvgDUE/TopzW7x8EeI/AAAAAAAAAlE/_ve2zyEutrY/s1600-h/image001%25255B3%25255D.jpg](http://lh6.ggpht.com/-Pzh-oXvgDUE/TopzW7x8EeI/AAAAAAAAAlE/_ve2zyEutrY/s1600-h/image001%25255B3%25255D.jpg)
 
 ```
 Tracy (2011-10-04 10:21:07)
@@ -29080,8 +29080,8 @@ spare not, lengthen thy cords, and strengthen thy stakes; Isaiah 54:2 KJV
 
 Linking up with Nicole at [1]Coming Alive in Christ for His Word Friday. [2]
 
-1. http://comingaliveinchrist.blogspot.com/
-2. http://comingaliveinchrist.blogspot.com/p/his-word-friday.html
+1. [http://comingaliveinchrist.blogspot.com/](http://comingaliveinchrist.blogspot.com/)
+2. [http://comingaliveinchrist.blogspot.com/p/his-word-friday.html](http://comingaliveinchrist.blogspot.com/p/his-word-friday.html)
 
 ```
 Nicole (2011-10-07 14:00:25)
@@ -29166,7 +29166,7 @@ back to doing things Gods way that we find rest for our souls.
 At this very moment youve entered a crossroad, which path will you choose?
 This post is linked with [2]Monday Manna
 
-1. http://lh4.ggpht.com/-J7s9K4H3yas/TpL588JeSWI/AAAAAAAAAlM/S6VbPdiuFk8/s1600-h/Crossroads%25255B13%25255D.
+1. [http://lh4.ggpht.com/-J7s9K4H3yas/TpL588JeSWI/AAAAAAAAAlM/S6VbPdiuFk8/s1600-h/Crossroads%25255B13%25255D.](http://lh4.ggpht.com/-J7s9K4H3yas/TpL588JeSWI/AAAAAAAAAlM/S6VbPdiuFk8/s1600-h/Crossroads%25255B13%25255D.)
 jpg
 2. file://localhost/mnt/ext/blogbooker/tmp/4c1nyqhk/www.joannesher.com
 
@@ -29274,7 +29274,7 @@ allotted time but not to get stuck there. Lord I thank you for the ability to mo
 you that as we walk along lifes journey you are with us! We chose to place our confidence in You and in
 Your ability to guide us along the right paths for lives. In Jesus name, Amen.
 
-1. http://lh6.ggpht.com/-Sjsour23Ozc/TpgtCtCLGOI/AAAAAAAAAlU/RGHX0bjrOfA/s1600-h/11126484131_edited-1%
+1. [http://lh6.ggpht.com/-Sjsour23Ozc/TpgtCtCLGOI/AAAAAAAAAlU/RGHX0bjrOfA/s1600-h/11126484131_edited-1%](http://lh6.ggpht.com/-Sjsour23Ozc/TpgtCtCLGOI/AAAAAAAAAlU/RGHX0bjrOfA/s1600-h/11126484131_edited-1%)
 25255B6%25255D.jpg
 
 ```
@@ -29403,7 +29403,7 @@ be anxious for anything, God is able to be responsible for our lives and He will
 [1]HeARTworks
 ```
 
-1. http://patsypat.blogspot.com/
+1. [http://patsypat.blogspot.com/](http://patsypat.blogspot.com/)
 Stacy @ Heartprints of God (2011-10-20 00:53:19)
 Wanda,
 As I read your post, I was reminded of how God is all about ”new”. He re-creates us into new creations, and is
@@ -29443,9 +29443,9 @@ K Is it kind?
 
 Read the entire devotional over at [2]Girlfriends in God.
 
-1. http://lh5.ggpht.com/-_skIWplGdKw/Tp4bY-kfYBI/AAAAAAAAAlk/y6-0uJ2rFV0/s1600-h/592557_speak_love%25255B6%
+1. [http://lh5.ggpht.com/-_skIWplGdKw/Tp4bY-kfYBI/AAAAAAAAAlk/y6-0uJ2rFV0/s1600-h/592557_speak_love%25255B6%](http://lh5.ggpht.com/-_skIWplGdKw/Tp4bY-kfYBI/AAAAAAAAAlk/y6-0uJ2rFV0/s1600-h/592557_speak_love%25255B6%)
 25255D.jpg
-2. http://www.girlfriendsingod.com/2011/t-h-i-n-k/
+2. [http://www.girlfriendsingod.com/2011/t-h-i-n-k/](http://www.girlfriendsingod.com/2011/t-h-i-n-k/)
 
 ```
 Tracy (2011-10-19 09:21:08)
@@ -29534,7 +29534,7 @@ been playing for days on my car stereo. Sharing it with you.
 
 [EMBED]
 
-1. http://thegypsymama.com/2011/10/five-minute-friday-beyond/
+1. [http://thegypsymama.com/2011/10/five-minute-friday-beyond/](http://thegypsymama.com/2011/10/five-minute-friday-beyond/)
 
 ```
 Pam (2011-10-21 07:22:46)
@@ -29698,7 +29698,7 @@ see that He would bring new experiences, which would lead me back to hope, faith
 God is one who is in the details of our lives. He is in the midst of our everyday affairs and He can make
 sense of all the randomness.
 
-1. http://lh3.ggpht.com/-hmGNZXwA5j4/Tq_aTSZurJI/AAAAAAAAAmk/nWEhW_cO1YM/s1600-h/80602870%252520copy%25255B5%
+1. [http://lh3.ggpht.com/-hmGNZXwA5j4/Tq_aTSZurJI/AAAAAAAAAmk/nWEhW_cO1YM/s1600-h/80602870%252520copy%25255B5%](http://lh3.ggpht.com/-hmGNZXwA5j4/Tq_aTSZurJI/AAAAAAAAAmk/nWEhW_cO1YM/s1600-h/80602870%252520copy%25255B5%)
 25255D.jpg
 
 Kim @ Stuff could... (2011-11-01 12:40:10)
@@ -29756,7 +29756,7 @@ was reminded that its just what God feels about me. I am His beloved. You are H
 
 My beloved is mine, and I am his, Song of Solomon 2:16a
 
-1. http://www.sanctifiedtogether.com/
+1. [http://www.sanctifiedtogether.com/](http://www.sanctifiedtogether.com/)
 
 ```
 BLUEBUTTERFLY (2011-11-03 07:12:27)
@@ -29930,7 +29930,7 @@ next post about the four words that changed my walk with the Lord, it will help 
 Bless you
 ```
 
-1. http://www.thefaithlounge/
+1. [http://www.thefaithlounge/](http://www.thefaithlounge/)
 
 ```
 Pam (2011-11-07 20:56:12)
@@ -29984,8 +29984,8 @@ anything (because that happens to me a lot), remain consist in your acknowledgin
 
 Linking up with Tracy for [2]Winsome Wednesday.
 
-1. http://lh4.ggpht.com/-CfO7CVn4BE8/TrqHnJWtRsI/AAAAAAAAAps/syMhchTdCos/s1600-h/cookies_u%25255B6%25255D.jpg
-2. http://mydailywalkinhisgrace.blogspot.com/2011/11/winsome-wednesday-he-has-plan.html
+1. [http://lh4.ggpht.com/-CfO7CVn4BE8/TrqHnJWtRsI/AAAAAAAAAps/syMhchTdCos/s1600-h/cookies_u%25255B6%25255D.jpg](http://lh4.ggpht.com/-CfO7CVn4BE8/TrqHnJWtRsI/AAAAAAAAAps/syMhchTdCos/s1600-h/cookies_u%25255B6%25255D.jpg)
+2. [http://mydailywalkinhisgrace.blogspot.com/2011/11/winsome-wednesday-he-has-plan.html](http://mydailywalkinhisgrace.blogspot.com/2011/11/winsome-wednesday-he-has-plan.html)
 
 ```
 Karen (2011-11-09 08:42:29)
@@ -30184,9 +30184,9 @@ easily topple those outward growths. If you are not seeing enough growth above p
 the roots beneath. Are you fully anchored in the true sustenance of life?
 Joining [3]The Gypsy Mama for 5-Minute Friday. What images does the word grow bring to mind?
 
-1. http://wateredsoul.blogspot.com/2011/04/how-does-your-garden-grow.html
-2. http://wateredsoul.blogspot.com/2010/04/are-you-growing.html
-3. http://thegypsymama.com/
+1. [http://wateredsoul.blogspot.com/2011/04/how-does-your-garden-grow.html](http://wateredsoul.blogspot.com/2011/04/how-does-your-garden-grow.html)
+2. [http://wateredsoul.blogspot.com/2010/04/are-you-growing.html](http://wateredsoul.blogspot.com/2010/04/are-you-growing.html)
+3. [http://thegypsymama.com/](http://thegypsymama.com/)
 
 ```
 Lisa (2011-11-18 09:33:05)
@@ -30283,7 +30283,7 @@ that it wasnt our wisdom, strength, smarts, willpower alone that got us there.
 
 Joining Joanne at an [1]Open Book for Monday Manna.
 
-1. http://www.joannesher.com/
+1. [http://www.joannesher.com/](http://www.joannesher.com/)
 
 Carol Fleisher (2011-11-21 08:40:58)
 Great reminder to give God all the glory! :)
@@ -30505,7 +30505,7 @@ confident that He is orchestrating all things and that there is indeed a plan fo
 I can patiently wait on Him.
 ```
 
-1. http://wateredsoul.blogspot.com/2010/04/satisfaction-guaranteed.html
+1. [http://wateredsoul.blogspot.com/2010/04/satisfaction-guaranteed.html](http://wateredsoul.blogspot.com/2010/04/satisfaction-guaranteed.html)
 
 ```
 BLUEBUTTERFLY (2011-11-28 08:42:21)
@@ -30603,7 +30603,7 @@ but you are able to make us whole again. Make us whole in our inner man, in our 
 one another. We dont want to be limited by our pit experiences. May you get the glory out of our lives. In
 Jesus name. Amen.
 
-1. http://lh6.ggpht.com/-_dJU5siKmMg/TtYhm62sbQI/AAAAAAAAArI/Gk4DKbdgb38/s1600-h/P1040338%25255B4%25255D.jpg
+1. [http://lh6.ggpht.com/-_dJU5siKmMg/TtYhm62sbQI/AAAAAAAAArI/Gk4DKbdgb38/s1600-h/P1040338%25255B4%25255D.jpg](http://lh6.ggpht.com/-_dJU5siKmMg/TtYhm62sbQI/AAAAAAAAArI/Gk4DKbdgb38/s1600-h/P1040338%25255B4%25255D.jpg)
 
 ```
 Just Be Real (2011-11-30 07:04:17)
@@ -30683,8 +30683,8 @@ on my Lion t-shirt and let Him roar!
 Peggy
 ```
 
-1. http://www.youtube.com/watch?v=jsFidNxPoOk
-2. http://www.youtube.com/watch?v=iCyQj0RX3Ns
+1. [http://www.youtube.com/watch?v=jsFidNxPoOk](http://www.youtube.com/watch?v=jsFidNxPoOk)
+2. [http://www.youtube.com/watch?v=iCyQj0RX3Ns](http://www.youtube.com/watch?v=iCyQj0RX3Ns)
 Tracy (2011-12-05 02:21:12)
 Hi Wanda - this is a great post. i always look at Daniel’s den from the perspective of those who got thrown in after.
 But God’s might is definitely the headline here. Excellent. Great encouragement. I want to thank you too for linking
@@ -30725,9 +30725,9 @@ the words you find here activate faith, strength, courage, and love. I count it 
 community of bloggers here. You may never know how much your words, even though I have never heard
 your lovely voices, have fortified my steps along this journey.
 
-1. http://wateredsoul.blogspot.com/2011/10/think-before-you-speak.html
-2. http://wateredsoul.blogspot.com/2010/02/ear-mouth-connection.html
-3. http://wateredsoul.blogspot.com/2011/06/where-art-thou.html
+1. [http://wateredsoul.blogspot.com/2011/10/think-before-you-speak.html](http://wateredsoul.blogspot.com/2011/10/think-before-you-speak.html)
+2. [http://wateredsoul.blogspot.com/2010/02/ear-mouth-connection.html](http://wateredsoul.blogspot.com/2010/02/ear-mouth-connection.html)
+3. [http://wateredsoul.blogspot.com/2011/06/where-art-thou.html](http://wateredsoul.blogspot.com/2011/06/where-art-thou.html)
 
 ```
 Joanne Sher (2011-12-02 08:38:53)
@@ -30850,7 +30850,7 @@ like your teasers!
 
 What are you currently reading?
 
-1. http://lh4.ggpht.com/-VfRVgNhkqDM/Tt3_FUKZ77I/AAAAAAAAArY/pn7uMJzkFx0/s1600-h/Little%252520Faith%25255B3%
+1. [http://lh4.ggpht.com/-VfRVgNhkqDM/Tt3_FUKZ77I/AAAAAAAAArY/pn7uMJzkFx0/s1600-h/Little%252520Faith%25255B3%](http://lh4.ggpht.com/-VfRVgNhkqDM/Tt3_FUKZ77I/AAAAAAAAArY/pn7uMJzkFx0/s1600-h/Little%252520Faith%25255B3%)
 25255D.jpg
 
 ```
@@ -30904,7 +30904,7 @@ Jesus said to the people, ”I am the light of the world. If you follow me, you 
 darkness, because you will have the light that leads to life.”
 John 8:12 NLT
 
-1. http://lh6.ggpht.com/-1bucGlhDHPM/Tt9eKXy5O5I/AAAAAAAAAro/CdhH3yT2488/s512/Light%252520of%252520the%
+1. [http://lh6.ggpht.com/-1bucGlhDHPM/Tt9eKXy5O5I/AAAAAAAAAro/CdhH3yT2488/s512/Light%252520of%252520the%](http://lh6.ggpht.com/-1bucGlhDHPM/Tt9eKXy5O5I/AAAAAAAAAro/CdhH3yT2488/s512/Light%252520of%252520the%)
 252520World%25255B4%25255D.jpg?imgmax=800
 
 ```
@@ -30991,8 +30991,8 @@ There is a cleanser for every color that tries to shield us from His light.
 This post is being linked to [2]5-Minute Friday, where you simply write for 5 minutes without worrying if
 its right or not.
 
-1. http://lh4.ggpht.com/-oh9e_1mU360/TuID3tbrzBI/AAAAAAAAAr4/FaRAJc0cgGU/s1600-h/rainbCN%25255B6%25255D.jpg
-2. http://thegypsymama.com/2011/12/five-minute-friday-color/
+1. [http://lh4.ggpht.com/-oh9e_1mU360/TuID3tbrzBI/AAAAAAAAAr4/FaRAJc0cgGU/s1600-h/rainbCN%25255B6%25255D.jpg](http://lh4.ggpht.com/-oh9e_1mU360/TuID3tbrzBI/AAAAAAAAAr4/FaRAJc0cgGU/s1600-h/rainbCN%25255B6%25255D.jpg)
+2. [http://thegypsymama.com/2011/12/five-minute-friday-color/](http://thegypsymama.com/2011/12/five-minute-friday-color/)
 
 ```
 Taylor Sawyer (2011-12-09 07:13:40)
@@ -31117,8 +31117,8 @@ the Common English Bible.Any views or opinions expressed are my own.
 IFRAME: [3]https://docs.google.com/spreadsheet/embeddedform?formkey=dGJ0ME
 9pVjlub3d0QXhhYzNzSzhNdlE6MQ Loading...
 
-1. http://CommonEnglishBible.com/CEB/blogtour
-2. http://www.commonenglishbible.com/
+1. [http://CommonEnglishBible.com/CEB/blogtour](http://CommonEnglishBible.com/CEB/blogtour)
+2. [http://www.commonenglishbible.com/](http://www.commonenglishbible.com/)
 3. https://docs.google.com/spreadsheet/embeddedform?formkey=dGJ0ME9pVjlub3d0QXhhYzNzSzhNdlE6MQ
 
 ```
@@ -31218,9 +31218,9 @@ IFRAME: [4]https://docs.google.com/spreadsheet/embeddedform?formkey=dGJ0ME
 9pVjlub3d0QXhhYzNzSzhNdlE6MQ &ampampampampamp;lt;p &ampampampampamp;gt;Loading...
 &ampampampampamp;lt;/p &ampampampampamp;gt;
 
-1. http://lh5.ggpht.com/-oWhc65pkKvc/TuVko23MTEI/AAAAAAAAAsc/knrrH7R19Ps/s1600-h/shoot2%25255B5%25255D.jpg
-2. http://michellederusha.com/
-3. http://morguefile.com/archive/display/233426
+1. [http://lh5.ggpht.com/-oWhc65pkKvc/TuVko23MTEI/AAAAAAAAAsc/knrrH7R19Ps/s1600-h/shoot2%25255B5%25255D.jpg](http://lh5.ggpht.com/-oWhc65pkKvc/TuVko23MTEI/AAAAAAAAAsc/knrrH7R19Ps/s1600-h/shoot2%25255B5%25255D.jpg)
+2. [http://michellederusha.com/](http://michellederusha.com/)
+3. [http://morguefile.com/archive/display/233426](http://morguefile.com/archive/display/233426)
 4. https://docs.google.com/spreadsheet/embeddedform?formkey=dGJ0ME9pVjlub3d0QXhhYzNzSzhNdlE6MQ
 
 ```
@@ -31294,7 +31294,7 @@ Linda Hoye talks about adoption and writing memoirs on
 [1]Wrote By Rote
 ```
 
-1. http://wrotebyrote.blogspot.com/
+1. [http://wrotebyrote.blogspot.com/](http://wrotebyrote.blogspot.com/)
 Alida (2011-12-13 00:36:39)
 Love the acronym...easy to remember and yet, powerful!
 
@@ -31358,11 +31358,11 @@ combobulated by the un-comfortableness of the things being broken down or detach
 purposegrowth.
 Dont miss the Common English Bible giveaway [2]here.
 Joining [3]Word-Filled Wednesday and [4]Winsome Wednesday.
-1. http://lh4.ggpht.com/-euiO-NBq6SE/TuiaV2Go6KI/AAAAAAAAAss/IkYclFLHuF4/s1600-h/Dung-Luke%25252013-6%
+1. [http://lh4.ggpht.com/-euiO-NBq6SE/TuiaV2Go6KI/AAAAAAAAAss/IkYclFLHuF4/s1600-h/Dung-Luke%25252013-6%](http://lh4.ggpht.com/-euiO-NBq6SE/TuiaV2Go6KI/AAAAAAAAAss/IkYclFLHuF4/s1600-h/Dung-Luke%25252013-6%)
 25255B3%25255D.png
-2. http://wateredsoul.blogspot.com/2011/12/get-your-aim-right.html
-3. http://internetcafedevotions.com/
-4. http://mydailywalkinhisgrace.blogspot.com/
+2. [http://wateredsoul.blogspot.com/2011/12/get-your-aim-right.html](http://wateredsoul.blogspot.com/2011/12/get-your-aim-right.html)
+3. [http://internetcafedevotions.com/](http://internetcafedevotions.com/)
+4. [http://mydailywalkinhisgrace.blogspot.com/](http://mydailywalkinhisgrace.blogspot.com/)
 
 ```
 Cozy in Texas (2011-12-14 06:47:58)
@@ -31498,7 +31498,7 @@ Congratulations to Lisa Phelps on winning a copy of the Common English Bible giv
 selected via random.org. The giveaway is a part of the Thank You-Come Again-I Promise Blog Tour. To
 find other blogs participating in the tour visit [1]here.
 
-1. http://www.commonenglishbible.com/Connect/BlogTour/tabid/407/Default.aspx
+1. [http://www.commonenglishbible.com/Connect/BlogTour/tabid/407/Default.aspx](http://www.commonenglishbible.com/Connect/BlogTour/tabid/407/Default.aspx)
 
 ```
 welcome to my world of poetry (2011-12-16 16:30:56)
@@ -31552,8 +31552,8 @@ below. Winner will be announced Thursday, December 22.
 IFRAME: [3]https://docs.google.com/spreadsheet/embeddedform?formkey=dDhSUE 41VUlzcTJReDFD-
 WGduS1VZS1E6MQ Loading...
 
-1. http://www.joannesher.com/2011/12/pondering.html
-2. http://commonenglishbible.com/
+1. [http://www.joannesher.com/2011/12/pondering.html](http://www.joannesher.com/2011/12/pondering.html)
+2. [http://commonenglishbible.com/](http://commonenglishbible.com/)
 3. https://docs.google.com/spreadsheet/embeddedform?formkey=dDhSUE41VUlzcTJReDFDWGduS1VZS1E6MQ
 
 ```
@@ -31748,7 +31748,7 @@ Lee
 Lee
 ```
 
-1. http://wrotebyrote.blogspot.com/
+1. [http://wrotebyrote.blogspot.com/](http://wrotebyrote.blogspot.com/)
 Judy (2011-12-26 17:27:05)
 Merry Christmas to you Wanda!
 Blessings,
@@ -31809,17 +31809,17 @@ chestrates episodes of loss to get us back to places of praise, hope and love.
 Do you ever go back and re-read your own writing? Share a link to one of your own favorite posts
 from your blog.
 
-1. http://wateredsoul.blogspot.com/2011/01/headed-out-but.html
-2. http://wateredsoul.blogspot.com/2011/03/still-i-sing.html
-3. http://wateredsoul.com/2011/03/i-am/
-4. http://wateredsoul.blogspot.com/2011/04/choosing-to-see-chariots.html
-5. http://wateredsoul.blogspot.com/2011/07/but-what-about-brook.html
-6. http://wateredsoul.blogspot.com/2011/05/mission-complete.html
-7. http://wateredsoul.blogspot.com/2011/08/everybody-needs-stripper-in-their-life.html
-8. http://wateredsoul.blogspot.com/2011/10/embracing-farewell.html
-9. http://wateredsoul.com/2011/10/beyond-2/
-10. http://wateredsoul.blogspot.com/2011/11/road-back-to-judah.html
-11. http://wateredsoul.blogspot.com/2011/11/did-den-do-you-in.html
+1. [http://wateredsoul.blogspot.com/2011/01/headed-out-but.html](http://wateredsoul.blogspot.com/2011/01/headed-out-but.html)
+2. [http://wateredsoul.blogspot.com/2011/03/still-i-sing.html](http://wateredsoul.blogspot.com/2011/03/still-i-sing.html)
+3. [http://wateredsoul.com/2011/03/i-am/](http://wateredsoul.com/2011/03/i-am/)
+4. [http://wateredsoul.blogspot.com/2011/04/choosing-to-see-chariots.html](http://wateredsoul.blogspot.com/2011/04/choosing-to-see-chariots.html)
+5. [http://wateredsoul.blogspot.com/2011/07/but-what-about-brook.html](http://wateredsoul.blogspot.com/2011/07/but-what-about-brook.html)
+6. [http://wateredsoul.blogspot.com/2011/05/mission-complete.html](http://wateredsoul.blogspot.com/2011/05/mission-complete.html)
+7. [http://wateredsoul.blogspot.com/2011/08/everybody-needs-stripper-in-their-life.html](http://wateredsoul.blogspot.com/2011/08/everybody-needs-stripper-in-their-life.html)
+8. [http://wateredsoul.blogspot.com/2011/10/embracing-farewell.html](http://wateredsoul.blogspot.com/2011/10/embracing-farewell.html)
+9. [http://wateredsoul.com/2011/10/beyond-2/](http://wateredsoul.com/2011/10/beyond-2/)
+10. [http://wateredsoul.blogspot.com/2011/11/road-back-to-judah.html](http://wateredsoul.blogspot.com/2011/11/road-back-to-judah.html)
+11. [http://wateredsoul.blogspot.com/2011/11/did-den-do-you-in.html](http://wateredsoul.blogspot.com/2011/11/did-den-do-you-in.html)
 
 ```
 Pam (2011-12-27 18:34:20)
@@ -31938,7 +31938,7 @@ things remain the same. Your opportunity for an eve is not limited to December 3
 
 Wishing you a Happy & Prosperous New Year!
 
-1. http://wateredsoul.com/wp-content/uploads/2011/12/fireworks1_f.jpg
+1. [http://wateredsoul.com/wp-content/uploads/2011/12/fireworks1_f.jpg](http://wateredsoul.com/wp-content/uploads/2011/12/fireworks1_f.jpg)
 
 ```
 Joanne Sher (2011-12-31 10:02:35)
@@ -32023,9 +32023,9 @@ As for me and my household, we will serve the Lord. Joshua 24:15b
 A brand new verse is posted every other week. The challenge runs from January 1 to December 17. For
 more information or to join the challenge hop on over to [3]She Sparkles.
 
-1. http://www.cindybultema.blogspot.com/2011/12/scripture-memory-2012-come-join-us-part.html
-2. http://cindybultema.blogspot.com/
-3. http://cindybultema.blogspot.com/
+1. [http://www.cindybultema.blogspot.com/2011/12/scripture-memory-2012-come-join-us-part.html](http://www.cindybultema.blogspot.com/2011/12/scripture-memory-2012-come-join-us-part.html)
+2. [http://cindybultema.blogspot.com/](http://cindybultema.blogspot.com/)
+3. [http://cindybultema.blogspot.com/](http://cindybultema.blogspot.com/)
 
 ```
 Wanda (2012-01-02 18:43:40)
@@ -32143,8 +32143,8 @@ world to overwhelm me?
 
 How do you spend the beginning of your year?
 
-1. http://wateredsoul.com/wp-content/uploads/2012/01/marykbaird_P5050182.jpg
-2. http://wateredsoul.com/2011/12/standing-on-the-crux-of-eve.html
+1. [http://wateredsoul.com/wp-content/uploads/2012/01/marykbaird_P5050182.jpg](http://wateredsoul.com/wp-content/uploads/2012/01/marykbaird_P5050182.jpg)
+2. [http://wateredsoul.com/2011/12/standing-on-the-crux-of-eve.html](http://wateredsoul.com/2011/12/standing-on-the-crux-of-eve.html)
 
 ```
 Lorena Sims (2012-01-04 19:11:36)

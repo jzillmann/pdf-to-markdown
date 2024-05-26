@@ -11598,26 +11598,26 @@ Consumption. New York: Harper Business,
 ```
 
 2010.
-Boyle, James. The Public Domain: Enclosing the
-Commons of the Mind. New Haven: Yale
+Boyle, James. _The Public Domain: Enclosing the_
+_Commons of the Mind._ New Haven: Yale
 University Press, 2008.
-www.thepublicdomain.org/download/
+[www.thepublicdomain.org/download/](www.thepublicdomain.org/download/)
 (licensed under CC BY-NC-SA).
-Capra, Fritjof, and Ugo Mattei. The Ecology of
-Law: Toward a Legal System in Tune with
-Nature and Community. Oakland, CA: Ber-
+Capra, Fritjof, and Ugo Mattei. _The Ecology of_
+_Law: Toward a Legal System in Tune with_
+_Nature and Community_. Oakland, CA: Ber-
 rett-Koehler, 2015.
-Chesbrough, Henry. Open Business Models:
-How to Thrive in the New Innovation Land-
-scape. Boston: Harvard Business School
+Chesbrough, Henry. _Open Business Models:_
+_How to Thrive in the New Innovation Land-_
+_scape._ Boston: Harvard Business School
 Press, 2006.
-———. Open Innovation: The New Imperative
-for Creating and Profiting from Technology.
+———. _Open Innovation: The New Imperative_
+_for Creating and Profiting from Technology._
 Boston: Harvard Business Review Press,
 2006.
-City of Bologna. Regulation on Collaboration
-between Citizens and the City for the Care
-and Regeneration of Urban Commons.
+City of Bologna. _Regulation on Collaboration_
+_between Citizens and the City for the Care_
+_and Regeneration of Urban Commons._
 Translated by LabGov (LABoratory for the
 
 GOVernance of Commons). Bologna, Italy:
@@ -11683,43 +11683,43 @@ ers Drives Our Success. New York: Viking,
 ```
 
 2013.
-Haiven, Max. Crises of Imagination, Crises of
-Power: Capitalism, Creativity and the Com-
-mons. New York: Zed Books, 2014.
-Harris, Malcom, ed. Share or Die: Voices of the
-Get Lost Generation in the Age of Crisis. With
+Haiven, Max. _Crises of Imagination, Crises of_
+_Power: Capitalism, Creativity and the Com-_
+_mons._ New York: Zed Books, 2014.
+Harris, Malcom, ed. _Share or Die: Voices of the_
+_Get Lost Generation in the Age of Crisis._ With
 Neal Gorenflo. Gabriola Island, BC: New
 Society, 2012.
-Hermida, Alfred. Tell Everyone: Why We Share
-and Why It Matters. Toronto: Doubleday
+Hermida, Alfred. _Tell Everyone: Why We Share_
+_and Why It Matters._ Toronto: Doubleday
 Canada, 2014.
-Hyde, Lewis. Common as Air: Revolution, Art,
-and Ownership. New York: Farrar, Straus
+Hyde, Lewis. _Common as Air: Revolution, Art,_
+_and Ownership_. New York: Farrar, Straus
 and Giroux, 2010.
-———. The Gift: Creativity and the Artist in the
-Modern World. 2nd Vintage Books edition.
+———. _The Gift: Creativity and the Artist in the_
+_Modern World_. 2nd Vintage Books edition.
 New York: Vintage Books, 2007.
-Kelley, Tom, and David Kelley. Creative Confi-
-dence: Unleashing the Potential within Us All.
+Kelley, Tom, and David Kelley. _Creative Confi-_
+_dence: Unleashing the Potential within Us All._
 New York: Crown, 2013.
-Kelly, Marjorie. Owning Our Future: The Emerg-
-ing Ownership Revolution; Journeys to a
-Generative Economy. San Francisco:
+Kelly, Marjorie. _Owning Our Future: The Emerg-_
+_ing Ownership Revolution; Journeys to a_
+_Generative Economy_. San Francisco:
 Berrett-Koehler, 2012.
-Kleon, Austin. Show Your Work: 10 Ways to
-Share Your Creativity and Get Discovered.
+Kleon, Austin. _Show Your Work: 10 Ways to_
+_Share Your Creativity and Get Discovered._
 New York: Workman, 2014.
-———. Steal Like an Artist: 10 Things Nobody
-Told You about Being Creative. New York:
+———. _Steal Like an Artist: 10 Things Nobody_
+_Told You about Being Creative._ New York:
 Workman, 2012.
-Kramer, Bryan. Shareology: How Sharing Is
-Powering the Human Economy. New York:
+Kramer, Bryan. _Shareology: How Sharing Is_
+_Powering the Human Economy._ New York:
 Morgan James, 2016.
 Lee, David. “Inside Medium: An Attempt to
 Bring Civility to the Internet.” BBC News,
 March 3, 2016. www.bbc.com/news
 /technology-35709680
-Lessig, Lawrence. Remix: Making Art and Com-
+Lessig, Lawrence. _Remix: Making Art and Com-_
 
 _merce Thrive in the Hybrid Economy_. New
 York: Penguin Press, 2008.
@@ -11730,46 +11730,46 @@ Mason, Paul. _Postcapitalism: A Guide to Our Fu-_
 _ture._ New York: Farrar, Straus and Giroux,
 
 2015.
-New York Times Customer Insight Group. The
-Psychology of Sharing: Why Do People Share
-Online? New York: New York Times Cus-
+New York Times Customer Insight Group. _The_
+_Psychology of Sharing: Why Do People Share_
+_Online?_ New York: New York Times Cus-
 tomer Insight Group, 2011. www.iab.net
 /media/file/POSWhitePaper.pdf.
-Osterwalder, Alex, and Yves Pigneur. Business
-Model Generation. Hoboken, NJ: John Wiley
+Osterwalder, Alex, and Yves Pigneur. _Business_
+_Model Generation._ Hoboken, NJ: John Wiley
 and Sons, 2010. A preview of the book is
 available at strategyzer.com/books
 /business-model-generation.
 Osterwalder, Alex, Yves Pigneur, Greg Ber-
-narda, and Adam Smith. Value Proposition
-Design. Hoboken, NJ: John Wiley and Sons,
+narda, and Adam Smith. _Value Proposition_
+_Design._ Hoboken, NJ: John Wiley and Sons,
 2014. A preview of the book is available at
 strategyzer.com/books/value
 -proposition-design.
-Palmer, Amanda. The Art of Asking: Or How I
-Learned to Stop Worrying and Let People
-Help. New York: Grand Central, 2014.
-Pekel, Joris. Democratising the Rijksmuseum:
-Why Did the Rijksmuseum Make Available
-Their Highest Quality Material without
-Restrictions, and What Are the Results? The
+Palmer, Amanda. _The Art of Asking: Or How I_
+_Learned to Stop Worrying and Let People_
+_Help._ New York: Grand Central, 2014.
+Pekel, Joris. _Democratising the Rijksmuseum:_
+_Why Did the Rijksmuseum Make Available_
+_Their Highest Quality Material without_
+_Restrictions, and What Are the Results?_ The
 Hague, Netherlands: Europeana Founda-
 tion, 2014. pro.europeana.eu/publication
 /democratising-the-rijksmuseum (licensed
 under CC BY-SA).
-Ramos, José Maria, ed. The City as Commons: A
-Policy Reader. Melbourne, Australia: Com-
+Ramos, José Maria, ed. _The City as Commons: A_
+_Policy Reader._ Melbourne, Australia: Com-
 mons Transition Coalition, 2016. www
 .academia.edu/27143172/The_City_as
 _Commons_a_Policy_Reader (licensed
 under CC BY-NC-ND).
-Raymond, Eric S. The Cathedral and the Bazaar:
-Musings on Linux and Open Source by an Ac-
-cidental Revolutionary. Rev. ed. Sebastopol,
+Raymond, Eric S. _The Cathedral and the Bazaar:_
+_Musings on Linux and Open Source by an Ac-_
+_cidental Revolutionary_. Rev. ed. Sebastopol,
 CA: O’Reilly Media, 2001. See esp. “The
 Magic Cauldron.” www.catb.org/esr
 /writings/cathedral-bazaar/.
-Rries, Eric. The Lean Startup: How Today’s
+Rries, Eric. _The Lean Startup: How Today’s_
 
 ```
 Entrepreneurs Use Continuous Innovation to
@@ -11795,33 +11795,33 @@ Sharing Economy. New York: OR Books,
 ```
 
 2015.
-Stephany, Alex. The Business of Sharing: Mak-
-ing in the New Sharing Economy. New York:
+Stephany, Alex. _The Business of Sharing: Mak-_
+_ing in the New Sharing Economy._ New York:
 Palgrave Macmillan, 2015.
-Stepper, John. Working Out Loud: For a Better
-Career and Life. New York: Ikigai Press,
+Stepper, John. _Working Out Loud: For a Better_
+_Career and Life._ New York: Ikigai Press,
 2015.
-Sull, Donald, and Kathleen M. Eisenhardt. Sim-
-ple Rules: How to Thrive in a Complex World.
+Sull, Donald, and Kathleen M. Eisenhardt. _Sim-_
+_ple Rules: How to Thrive in a Complex World._
 Boston: Houghton Mifflin Harcourt, 2015.
-Sundararajan, Arun. The Sharing Economy: The
-End of Employment and the Rise of Crowd-
-Based Capitalism. Cambridge, MA: MIT
+Sundararajan, Arun. _The Sharing Economy: The_
+_End of Employment and the Rise of Crowd-_
+_Based Capitalism_. Cambridge, MA: MIT
 Press, 2016.
-Surowiecki, James. The Wisdom of Crowds. New
+Surowiecki, James. _The Wisdom of Crowds._ New
 York: Anchor Books, 2005.
-Tapscott, Don, and Alex Tapscott. Blockchain
-Revolution: How the Technology Behind
-Bitcoin Is Changing Money, Business, and the
-World. Toronto: Portfolio, 2016.
-Tharp, Twyla. The Creative Habit: Learn It and
-Use It for Life. With Mark Reiter. New York:
+Tapscott, Don, and Alex Tapscott. _Blockchain_
+_Revolution: How the Technology Behind_
+_Bitcoin Is Changing Money, Business, and the_
+_World._ Toronto: Portfolio, 2016.
+Tharp, Twyla. _The Creative Habit: Learn It and_
+_Use It for Life_. With Mark Reiter. New York:
 Simon and Schuster, 2006.
-Tkacz, Nathaniel. Wikipedia and the Politics of
-Openness. Chicago: University of Chicago
+Tkacz, Nathaniel. _Wikipedia and the Politics of_
+_Openness._ Chicago: University of Chicago
 Press, 2015.
 Van Abel, Bass, Lucas Evers, Roel Klaassen,
-and Peter Troxler, eds. Open Design Now:
+and Peter Troxler, eds. _Open Design Now:_
 
 _Why Design Cannot Remain Exclusive._ Am-
 sterdam: BIS Publishers, with Creative

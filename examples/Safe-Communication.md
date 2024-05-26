@@ -2338,7 +2338,7 @@ Appendix M: Summary of the six step improvement process for transfer of care
 
 **1**
 
-• Start out (page 10)
+• **Start out (page 10)**
 • Refer to existing policies and procedures for transfers of care in your organisation
 • Observe, measure and process map the current communication process
 • What does good look like? Compare your policy and communication process with the good practice checklist.
@@ -2346,7 +2346,7 @@ Appendix M: Summary of the six step improvement process for transfer of care
 
 **2**
 
-• Define and scope (page 13)
+• **Define and scope (page 13)**
 • Begin to answer the three questions of the model for improvement (Appendix C)
 • Set your project aim and scope and link this to your organisational big issues on a driver diagram (page 22)
 • Engage staff, patients, clients and residents using patient stories and evidence from useful resources
@@ -2355,12 +2355,12 @@ Appendix M: Summary of the six step improvement process for transfer of care
 
 **3**
 
-• Measure and understand (page 19)
+• **Measure and understand (page 19)**
 • Choose and define your outcomes and process measures, collect baseline data and display on run or SPC charts
 
 **4**
 
-• Design and plan (page 24)
+• **Design and plan (page 24)**
 • Design your standard transfer of care template and test using Plan Do Study Act (PDSA) cycles (Appendix I & J)
 • Use dot voting to define your minimum data set (Appendix G)
 • Select a standardised communication tool (e.g. SBAR) to organise your minimum data set
@@ -2369,7 +2369,7 @@ Appendix M: Summary of the six step improvement process for transfer of care
 
 **5**
 
-• Pilot and implement (page 34)
+• **Pilot and implement (page 34)**
 • Document your new standardised transfer of care process
 • Plan your tests for implementation using PDSA cycles. Plan training, measurement, resources & stakeholder
 engagement. (Appendix I & J)
@@ -2377,7 +2377,7 @@ engagement. (Appendix I & J)
 
 **6**
 
-• Sustain and share (page 38)
+• **Sustain and share (page 38)**
 • Use the sustainability guide to ensure your changes will be sustained
 • Celebrate and spread your success through conferences, posters, journal articles etc. (Appendix L)
 

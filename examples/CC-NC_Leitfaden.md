@@ -86,7 +86,7 @@ die das mit sich bringt, kennen nur wenige. Wikimedia Deutschland, Creative Comm
 und iRights.info wollen das mit dieser Broschüre ändern. Wir freuen uns über Kritik und Anregungen
 zu diesem Versuch und wünschen viele Aha-Momente beim Nachschlagen.
 
-#### John H. Weitzmann
+#### _John H. Weitzmann_
 
 CC DE Legal Project Lead
 
@@ -166,13 +166,13 @@ ten. Die Entscheidung für das NC-Modul sollte
 daher wohl überlegt sein.
 ```
 
-#### Stell dir eine Welt vor, in der
+#### _Stell dir eine Welt vor, in der_
 
-#### jeder Mensch an der Gesamtheit
+#### _jeder Mensch an der Gesamtheit_
 
-#### des Wissens teilhaben kann.
+#### _des Wissens teilhaben kann._
 
-#### Das ist unsere Mission.
+#### _Das ist unsere Mission._
 
 Wikimedia Foundation
 
@@ -1509,7 +1509,7 @@ gegebenen Freiheiten ist zu finden unter https://creati-
 vecommons.org/licenses/by-sa/3.0/de/
 ```
 
-### Paul Klimpel
+### _Paul Klimpel_
 
 ```
 Rechtsanwalt & Leiter iRightsLab Kultur

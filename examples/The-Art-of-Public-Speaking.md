@@ -1478,15 +1478,15 @@ _the nations of the earth, must come in God's appointed time!_
 —HENRY W. GRADY, The Race Problem.
 ```
 
-... I WOULD CALL HIM NAPOLEON, but Napoleon made his way
-to empire over broken oaths and through a sea of blood. This man
+... _I WOULD CALL HIM NAPOLEON_, but Napoleon made his way
+to empire _over broken oaths and through a sea of blood._ This man
 never broke his word. "No Retaliation" was his great motto and the
-rule of his life; AND THE LAST WORDS UTTERED TO HIS SON
-IN FRANCE WERE THESE: "My boy, you will one day go back to
-Santo Domingo; forget that France murdered your father." I
-WOULD CALL HIM CROMWELL, but Cromwell was only a
-soldier, and the state he founded went down with him into his grave.
-I WOULD CALL HIM WASHINGTON, but the great Virginian held
+rule of his life; _AND THE LAST WORDS UTTERED TO HIS SON_
+_IN FRANCE WERE THESE: "My boy, you will one day go back to_
+_Santo Domingo; forget that France murdered your father." I_
+_WOULD CALL HIM CROMWELL,_ but Cromwell _was only a_
+_soldier, and the state he founded went down with him into his grave._
+_I WOULD CALL HIM WASHINGTON,_ but the great Virginian _held_
 
 ```
 slaves. THIS MAN RISKED HIS EMPIRE rather than permit the
@@ -2921,14 +2921,18 @@ emphasis.
 
 can.
 
-4.	Do	the	same	for	the	rising	inflection.
-5.	How	does	the	voice	bend	in	expressing	( _a_ )	surprise?	( _b_ )	shame?	( _c_ )	hate?	( _d_ )
-formality?	( _e_ )	excitement?
-6.	Reread	some	sentence	several	times	and	by	using	different	inflections	change
-the	meaning	with	each	reading.
-7.	Note	the	inflections	employed	in	some	speech	or	conversation.	Were	they	the
-best	that	could	be	used	to	bring	out	the	meaning?	Criticise	and	illustrate.
-8.	Render	the	following	passages:
+[^4]:. Do the same for the rising inflection.
+
+[^5]:. How does the voice bend in expressing (_a_) surprise? (_b_) shame? (_c_) hate? (_d_)
+formality? (_e_) excitement?
+
+[^6]:. Reread some sentence several times and by using different inflections change
+the meaning with each reading.
+
+[^7]:. Note the inflections employed in some speech or conversation. Were they the
+best that could be used to bring out the meaning? Criticise and illustrate.
+
+[^8]:. Render the following passages:
 
 ```
 Has the gentleman done? Has he completely done?

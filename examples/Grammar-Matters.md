@@ -771,13 +771,13 @@ wash washes
  Nouns that end in y are formed two ways.
 ```
 
-1. When letter before y is a vowel, add s.
+1. When letter before **y** is a vowel, add **s.**
 valley valleys
 key keys
 boy boys
 day days
-2. Nouns ending with a consonant and y are formed by changing the y to an i
-and adding es.
+2. Nouns ending with a consonant and y are formed by changing the **y** to an **i**
+and adding **es.**
 city cities
 grocery groceries
 library libraries
@@ -787,13 +787,13 @@ blueberry blueberries
  Nouns that end in o are formed two ways.
 ```
 
-1. When the letter before the o is a vowel, add s. Musical terms ending in o are
-formed by adding an s.
+1. When the letter before the **o** is a vowel, add s. Musical terms ending in **o** are
+formed by adding an **s**.
 kilo kilos
 tempo tempos
 cello cellos
 
-2. When the letter before the o is a consonant, no standard rule applies. It is
+2. When the letter before the **o** is a consonant, no standard rule applies. It is
 helpful to memorize the plural forms of words you use regularly. If you are
 unsure, you should always check a current dictionary.
 potato potatoes
@@ -1358,7 +1358,7 @@ clear which noun the pronoun is replacing. When the pronoun does not match with 
 noun it is replacing, the sentence is very confusing. Using pronouns correctly means
 following these rules:
 
-1. The pronoun must have a clear antecedent. If the reader can‟t figure out what the
+1. **The pronoun must have a clear antecedent.** If the reader can‟t figure out what the
 pronoun is referring to, then the sentence is too vague.
 
 ```
@@ -1366,7 +1366,7 @@ pronoun is referring to, then the sentence is too vague.
  Mary told Sarah that she was in trouble. (Who is in trouble?)
 ```
 
-2. Pronouns must have the same number (singular or plural) as the antecedent. If
+2. **Pronouns must have the same number (singular or plural) as the antecedent.** If
 a pronoun is replacing a plural noun, then the pronoun also needs to be plural. Singular
 pronouns replace singular nouns.
 
@@ -1378,8 +1378,8 @@ antecedent, singular pronoun)
 plural pronoun)
 ```
 
-3. Pronouns must have the same gender (masculine, feminine, or neutral) as the
-antecedent. A masculine pronoun replaces a masculine noun. A feminine pronoun
+3. **Pronouns must have the same gender (masculine, feminine, or neutral) as the**
+**antecedent**. A masculine pronoun replaces a masculine noun. A feminine pronoun
 replaces a feminine noun. It is important that the pronoun agrees with the antecedent.
 
 ```
@@ -1571,11 +1571,11 @@ the action of the verb or be the object of the preposition.
 _Who_ is used as a subjective case pronoun, and _whom_ is used as an objective case
 pronoun. Still not 100 percent clear? There are a few tricks to make this easier.
 
-1. If who/whom follows a preposition, then the choice is always whom. To whom,
-at whom, for whom, from whom.
-2. Mentally replace the word who/whom in your sentence with he or him. If your
-sentence makes sense switching the word to he, then who is the correct choice. Both
-he and who are subjective case pronouns, so they work the same way. If your sentence
+1. **If who/whom follows a preposition, then the choice is always whom. To whom,**
+**at whom, for whom, from whom.**
+2. **Mentally replace the word who/whom in your sentence with he or him.** If your
+sentence makes sense switching the word to _he_, then _who_ is the correct choice. Both
+_he_ and _who_ are subjective case pronouns, so they work the same way. If your sentence
 
 makes sense switching the word to _him_, then _whom_ is the correct choice. Both _him_ and
 _whom_ are objective case pronouns, and they follow the same rules. It is easy to
@@ -1591,10 +1591,10 @@ remember that _him_ and _whom_ go together because they both end with the letter
 This trick doesn‟t work for every sentence. If it doesn‟t work for your sentence, the next
 trick will work.
 
-3. Who/Whom phrases are often questions. One trick to discovering whether to use who
-or whom is to just answer the question. If the answer could be he, then who is the
-correct choice for your sentence. If the answer could be him, then whom is the correct
-choice. If the sentence is not a question, you can isolate the who/whom phrase and
+3. _Who/Whom_ phrases are often questions. One trick to discovering whether to use _who_
+or _whom_ is to just answer the question. If the answer could be _he_, then _who_ is the
+correct choice for your sentence. If the answer could be _him_, then _whom_ is the correct
+choice. If the sentence is not a question, you can isolate the _who/whom_ phrase and
 read it as a question.
 
 ```
@@ -1949,7 +1949,7 @@ feel felt
 Why are participles important? Participles are important to learn because they are used
 three different ways.
 
-1. Participles combine with helping verbs to form verb phrases. Neither present
+1. **Participles combine with helping verbs to form verb phrases.** Neither present
 participles nor past participles can act as a verb in a sentence without helping verbs.
 Helping verbs are required for a participle to work as a verb.
 
@@ -1964,19 +1964,19 @@ the past participle of the verb blend.)
 participle of the verb study.)
 ```
 
-2. Present and past participles can also work as adjectives. Adjectives describe
+2. **Present and past participles can also work as adjectives.** Adjectives describe
 nouns or pronouns.
  Sarah enjoyed her swimming lessons. (The present participle swimming is
 describing the lessons.)
  The dripping faucet kept them awake. (The present participle dripping is
 describing the faucet.)
- The wrecked car was towed to the repair shop. (The past participle wrecked is
+ The **wrecked** car was towed to the repair shop. (The past participle _wrecked_ is
 describing the car.)
- The broken window was repaired quickly. (The past participle broken is
+ The **broken** window was repaired quickly. (The past participle _broken_ is
 describing the window.)
 
 3. Present participles can also work as nouns. When present participles are acting as a
-noun, they are called gerunds. A gerund might look like a verb, but it is acting like a
+noun, they are called **gerunds**. A gerund might look like a verb, but it is acting like a
 noun. Gerunds always end in -ing.
 
 ```

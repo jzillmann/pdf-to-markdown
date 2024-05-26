@@ -43,3 +43,11 @@ export function mergeFollowingNonTypedItems(type: TextType) {
 export function mergeFollowingNonTypedItemsWithSmallDistance(type: TextType) {
   return types('LIST', 'NUMBERED_LIST').includes(type);
 }
+
+// Discard token types like bold for certain text types
+export function discardTokenTypes(blockTypes: TextType[]) {
+  if (blockTypes.includes('CODE')) {
+    return true;
+  }
+  return false;
+}

@@ -1278,7 +1278,7 @@ Cr (tot)[mg/kg]
 
 _Feuchtig_
 
--
+_-_
 
 ```
 keit [%] > 20 1,0 81,7 2,6 1,6 0,2 2,0 3,0 3,7 6,6 1,4 1,7 3,0
@@ -1306,16 +1306,16 @@ C [%] > 20 68,680,248,067,0 79,091,669,5 69,5 55,248,162,141,4 48,571,123,9 84,9
 Grenzw
 ```
 
-.
+_._
 
 ```
 A B C D E F G H I M R100R75 R50 O
 ```
 
--R
-O
--C
-Q
+_-R_
+_O_
+_-C_
+_Q_
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
@@ -1468,7 +1468,7 @@ Cr (tot)[mg/kg]
 Feuchtig
 ```
 
--
+_-_
 
 ```
 keit [%] ≥ 20 1,8 2,2 2,6 3,6 1,5 1,5 1,5 1,0 1,9 2,2 2,5 1,7
@@ -1495,7 +1495,7 @@ C [%] > 20 75,4 79,2 68,9 67,7 48,7 47,3 85,5 90,2 68,3 69,0 29,5 29,6
 Grenzw
 ```
 
-.
+_._
 
 ```
 MSP550MSP700OSR550OSR700RH550RH700SWP550SWP700WSP550WSP700SS550SS700
@@ -1549,8 +1549,8 @@ PCB
 [ng/kg]0,2
 ```
 
--0,5
-<1 <1 <1 <1 <1 <1 <1 <1
+_-0,5_
+_<1 <1 <1 <1 <1 <1 <1 <1_
 
 ```
 ∑
@@ -1574,16 +1574,16 @@ Cd
 [mg/kg]1,4
 ```
 
--[^39]
-1,5 2,4 0,1 1,7 1,8 0,5 0,4 0,1 6,1 0,3 0,0 0,1 0,4 0,1 0,5 0,0
+_-_[^39]
+_1,5 2,4 0,1 1,7 1,8 0,5 0,4 0,1 6,1 0,3 0,0 0,1 0,4 0,1 0,5 0,0_
 
 ```
 Zn
 [mg/kg]200
 ```
 
--[^7000]
-478,1246,81316,9182,6263,184,0 397,4346,6586,2418,929,0 95,2 205,214,8 288,948,5
+_-_[^7000]
+_478,1246,81316,9182,6263,184,0 397,4346,6586,2418,929,0 95,2 205,214,8 288,948,5_
 
 ```
 Cu
@@ -1606,7 +1606,7 @@ Cr (tot)[mg/kg]64-
 Feuchtig
 ```
 
--
+_-_
 
 ```
 keit[%] -- 1,0 81,7 2,6 1,6 0,2 2,0 3,0 3,7 6,6 1,4 1,7 3,0
@@ -1633,10 +1633,10 @@ C [%] ≥ 10 68,6 80,2 48,0 67,0 79,0 91,6 69,5 69,5 55,2 48,1 62,1 41,4 48,5 71
 IBI A B C D E F G H I M R100R75 R50 O
 ```
 
--R
-O
--C
-Q
+_-R_
+_O_
+_-C_
+_Q_
 
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
@@ -1726,7 +1726,7 @@ Cr (tot)[mg/kg]
 
 _Feuchtig_
 
--
+_-_
 
 ```
 keit[%] -- 1,0 81,7 2,6 1,6 0,2 2,0 3,0 3,7 6,6 1,4 1,7 3,0
@@ -1753,10 +1753,10 @@ C [%] > 50 68,6 80,2 48,0 67,0 79,0 91,6 69,5 69,5 55,2 48,1 62,1 41,4 48,5 71,1
 EBC A B C D E F G H I M R100R75 R50 O
 ```
 
--R
-O
--C
-Q
+_-R_
+_O_
+_-C_
+_Q_
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
@@ -1847,7 +1847,7 @@ Cr (tot)[mg/kg]
 
 _Feuchtig_
 
--
+_-_
 
 ```
 keit[%] 1,0 81,7 2,6 1,6 0,2 2,0 3,0 3,7 6,6 1,4 1,7 3,0
@@ -1874,10 +1874,10 @@ C [%] 68,6 80,2 48,0 67,0 79,0 91,6 69,5 69,5 55,2 48,1 62,1 41,4 48,5 71,1 23,9
 BQMA B C D E F G H I M R100R75 R50 O
 ```
 
--R
-O
--C
-Q
+_-R_
+_O_
+_-C_
+_Q_
 
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
@@ -1924,18 +1924,18 @@ Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 _eines von folgenden Dekreten vorgesehenen Förderprogramms in Betrieb_
 _genommen wurden:_
 
-- Ministerialdekret vom 18. Dezember 2008 (allumfassender Tarif)
-- Ministerialdekret vom 6. Juli 2012 (FER-Dekret 2012)
-- Ministerialdekret vom 16. Juni 2016 (FER-Dekret 2016)
-Da die Untersuchungen im Laufe des Projekts ergeben haben, dass in Südtirol
-keine Anlagen ohne diese Förderprogramme in Betrieb genommen wurden,
-schien es unnötig, alternative und mit den aufgezählten nicht kumulative För-
-dermechanismen wie das Net-Metering (scambio sul posto) und die Abnahme
-zu einem festgesetzten Preis durch den Netzbetreiber (ritiro dedicato) in Be-
-tracht zu ziehen. Die berücksichtigten Tarife werden automatisch unter An-
-gabe des Zeitraums der offiziellen Inbetriebnahme der Anlage ausgewählt;
-jährliche Kürzungen werden in Betracht gezogen, sofern von den Bestimmun-
-gen vorgesehen.
+_- Ministerialdekret vom 18. Dezember 2008 (allumfassender Tarif)_
+_- Ministerialdekret vom 6. Juli 2012 (FER-Dekret 2012)_
+_- Ministerialdekret vom 16. Juni 2016 (FER-Dekret 2016)_
+_Da die Untersuchungen im Laufe des Projekts ergeben haben, dass in Südtirol_
+_keine Anlagen ohne diese Förderprogramme in Betrieb genommen wurden,_
+_schien es unnötig, alternative und mit den aufgezählten nicht kumulative För-_
+_dermechanismen wie das Net-Metering (scambio sul posto) und die Abnahme_
+_zu einem festgesetzten Preis durch den Netzbetreiber (ritiro dedicato) in Be-_
+_tracht zu ziehen. Die berücksichtigten Tarife werden automatisch unter An-_
+_gabe des Zeitraums der offiziellen Inbetriebnahme der Anlage ausgewählt;_
+_jährliche Kürzungen werden in Betracht gezogen, sofern von den Bestimmun-_
+_gen vorgesehen._
 
 4.3 Wirtschaftliche Analyse möglicher Optimierungseingriffe
 _Die Schwierigkeit, einen Zusammenhang zwischen den technischen Betriebs-_
@@ -1946,16 +1946,16 @@ _der erzeugten Kohle verhindert. Im Laufe des Projekts hat sich auch die Mög-_
 _lichkeit der Erprobung empirischer Optimierungslösungen als nicht praktika-_
 _bel erwiesen, und zwar aus verschiedenen Gründen:_
 
-- Mangelnde Möglichkeit einer Änderung der Betriebsparameter der Anla-
-gen infolge der Risiken in Verbindung mit einer Profitverringerung auf-
-grund der Ausscheidung aus dem Förderprogramm und mit den daraus
-entstehenden möglichen Schäden und Funktionsstörungen der Anlage;
-- Besonderheit des Genehmigungsverfahrens, das eine Betriebseignungsbe-
-wertung (seitens des Amts für Luft und Lärm) auf Grundlage eines genau
-definierten Projekts vorsieht, an dem im Laufe der technischen Lebens-
-dauer keine „bedeutenden/wesentlichen“ Änderungen vorgenommen
-werden dürfen, da ansonsten die Genehmigung verfällt. Daraus hat sich
-automatisch die mangelnde Möglichkeit der Durchführung relevanter Op-
+_- Mangelnde Möglichkeit einer Änderung der Betriebsparameter der Anla-_
+_gen infolge der Risiken in Verbindung mit einer Profitverringerung auf-_
+_grund der Ausscheidung aus dem Förderprogramm und mit den daraus_
+_entstehenden möglichen Schäden und Funktionsstörungen der Anlage;_
+_- Besonderheit des Genehmigungsverfahrens, das eine Betriebseignungsbe-_
+_wertung (seitens des Amts für Luft und Lärm) auf Grundlage eines genau_
+_definierten Projekts vorsieht, an dem im Laufe der technischen Lebens-_
+_dauer keine „bedeutenden/wesentlichen“ Änderungen vorgenommen_
+_werden dürfen, da ansonsten die Genehmigung verfällt. Daraus hat sich_
+_automatisch die mangelnde Möglichkeit der Durchführung relevanter Op-_
 
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
@@ -1967,23 +1967,23 @@ pus auszutauschen oder der Anlage neue Teile hinzuzufügen, z. B. durch
 Anwendung eines „Reformers“.
 ```
 
-- Mangelnde Bereitschaft der Anlagenbetreiber, „empirische“ Veränderun-
-gen, also Änderungen mit unsicherem Resultat, an der Anlage vorzuneh-
-men;
-- Mangelnde Bereitschaft der Partner, eine Laboreinrichtung mit marktähn-
-lichen Dimensionen zu suchen, in der Lösungen und Strategien zur Qua-
-litätsverbesserung der erzeugten Kohle frei erprobt werden können.
-Dies vorausgesetzt, wurde vereinbart, die wirtschaftliche Analyse einer mögli-
-chen Veränderung der Anlage, mit der die gewonnene Kohle von einem „Kos-
-tenpunkt“ (wegen ihrer schlechten Qualität und der daraus resultierenden Not-
-wendigkeit, als Abfall entsorgt zu werden) in eine „Ressource“ (also ein Pro-
-dukt, das auf dem Markt verkauft wird) verwandelt werden kann, mit einem
-„Rückwärtsansatz“ durchzuführen. Die wirtschaftliche Rückwärtsanalyse
-wurde wie folgt durchgeführt: nach Festsetzung von drei möglichen Verkaufs-
-preisen für die Kohle in Abhängigkeit ihrer aktuellen Marktnotierung im Agr-
-arbereich wurde der für Veränderungen an der Anlage verfügbare Höchstbe-
-trag (aus dem Kohleverkauf) berechnet, wobei als Abschreibungsdauer für die
-Investition die Restlebensdauer der Anlage zu Grunde gelegt wurde.
+_- Mangelnde Bereitschaft der Anlagenbetreiber, „empirische“ Veränderun-_
+_gen, also Änderungen mit unsicherem Resultat, an der Anlage vorzuneh-_
+_men;_
+_- Mangelnde Bereitschaft der Partner, eine Laboreinrichtung mit marktähn-_
+_lichen Dimensionen zu suchen, in der Lösungen und Strategien zur Qua-_
+_litätsverbesserung der erzeugten Kohle frei erprobt werden können._
+_Dies vorausgesetzt, wurde vereinbart, die wirtschaftliche Analyse einer mögli-_
+_chen Veränderung der Anlage, mit der die gewonnene Kohle von einem „Kos-_
+_tenpunkt“ (wegen ihrer schlechten Qualität und der daraus resultierenden Not-_
+_wendigkeit, als Abfall entsorgt zu werden) in eine „Ressource“ (also ein Pro-_
+_dukt, das auf dem Markt verkauft wird) verwandelt werden kann, mit einem_
+_„Rückwärtsansatz“ durchzuführen. Die wirtschaftliche Rückwärtsanalyse_
+_wurde wie folgt durchgeführt: nach Festsetzung von drei möglichen Verkaufs-_
+_preisen für die Kohle in Abhängigkeit ihrer aktuellen Marktnotierung im Agr-_
+_arbereich wurde der für Veränderungen an der Anlage verfügbare Höchstbe-_
+_trag (aus dem Kohleverkauf) berechnet, wobei als Abschreibungsdauer für die_
+_Investition die Restlebensdauer der Anlage zu Grunde gelegt wurde._
 
 4.4 Definition der Originalkonfiguration
 _Die wirtschaftliche Analyse der beiden Konfigurationen – Originalkonfigura-_
@@ -1996,9 +1996,9 @@ _Südtirol untersuchten Anlagen entsprechen. Bei der Definition der einzelnen_
 _Anlagenparameter in der „Originalkonfiguration“ wurden die im Folgenden_
 _erläuterten Betrachtungen angestellt._
 
-- Aus der Analyse der Vergasungsanlagen in Südtirol geht hervor, dass zwi-
-schen 2012 und 2015, unter dem damals sehr vorteilhaften Förderpro-
-gramm, 35 der 44 derzeit aktiven Holzvergasungsanlagen gebaut wurden.
+_- Aus der Analyse der Vergasungsanlagen in Südtirol geht hervor, dass zwi-_
+_schen 2012 und 2015, unter dem damals sehr vorteilhaften Förderpro-_
+_gramm, 35 der 44 derzeit aktiven Holzvergasungsanlagen gebaut wurden._
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
@@ -2007,19 +2007,19 @@ Aus diesem Grund wurde entschieden, der Analyse eine hypothetische
 Anlage, die 2013 in Betrieb genommen wurde, zu Grunde zu legen.
 ```
 
-- Auch die Wahl der Leistung dieser Anlage wurde unter Berücksichtigung
-der Eigenschaften der aktuell betriebenen Anlagen getroffen. Genauer ge-
-sagt fiel die Wahl auf eine aus zwei Modulen mit einer elektrischen Nenn-
-leistung von 45 kW und einer thermischen Nennleistung von 100 kW be-
-stehende Anlage (dies entspricht den Eigenschaften der meisten Anlagen).
-- Die übrigen für die Originalkonfiguration verwendeten technischen und
-wirtschaftlichen Parameter wurden ausgehend von den Durchschnitts-
-werten der bei der Untersuchung der Anlagen erhobenen Daten ermittelt;
-gleichzeitig wurde eine vergleichende Evaluierung der Parameter in Be-
-zug auf die Werte der einzelnen Anlagen, die eine ähnliche Leistung wie
-die des Projekts haben, durchgeführt.
-In Tabelle 15 sind die Werte der für die Charakterisierung der „Originalkon-
-figuration“ der Anlage gewählten Parameter aufgeführt.
+_- Auch die Wahl der Leistung dieser Anlage wurde unter Berücksichtigung_
+_der Eigenschaften der aktuell betriebenen Anlagen getroffen. Genauer ge-_
+_sagt fiel die Wahl auf eine aus zwei Modulen mit einer elektrischen Nenn-_
+_leistung von 45 kW und einer thermischen Nennleistung von 100 kW be-_
+_stehende Anlage (dies entspricht den Eigenschaften der meisten Anlagen)._
+_- Die übrigen für die Originalkonfiguration verwendeten technischen und_
+_wirtschaftlichen Parameter wurden ausgehend von den Durchschnitts-_
+_werten der bei der Untersuchung der Anlagen erhobenen Daten ermittelt;_
+_gleichzeitig wurde eine vergleichende Evaluierung der Parameter in Be-_
+_zug auf die Werte der einzelnen Anlagen, die eine ähnliche Leistung wie_
+_die des Projekts haben, durchgeführt._
+_In Tabelle_ [^1]:[^5]: _sind die Werte der für die Charakterisierung der „Originalkon-_
+_figuration“ der Anlage gewählten Parameter aufgeführt._
 
 4.5 Definition der „optimierten Konfiguration“
 _Die Analyse wurde unter Berücksichtigung eines Kohleverkaufspreises zwi-_
@@ -2027,19 +2027,19 @@ _schen 0 €/t und 500 €/t durchgeführt. Im Folgenden werden die Parameter un
 _die hypothetischen Betriebsmerkmale sowie die Gründe für deren Annahme_
 _erläutert._
 
-- „Investitionsjahr“: die Wahl des Jahres, in dem der Eingriff vorgenommen
-werden soll, wurde unter Berücksichtigung der folgenden beiden Fakto-
-ren getroffen:
-- Die meisten in der Region angesiedelten Anlagen wurden zwischen
-2013 und 2015 genehmigt (27 von 44 aktuell betriebenen Anlagen) und
-können daher die noch für weitere 13–15 Jahre vorgesehene Förderung
-in Anspruch nehmen;
-- vermutlich werden noch einige Jahre Forschung erforderlich sein, um
-potenzielle Änderungen an den Anlagen zur Verbesserung der Koh-
-lequalität zu ermitteln und zu entwickeln.
-- Eine Hypothese sieht vor, die Änderungen an der Anlage im 10. Betriebs-
-jahr vorzunehmen (in der Annahme, dass man in diesem Jahr bereits den
-aus der Anlagenoptimierung entstandenen Vorteil genießt); somit wurde
+_- „Investitionsjahr“: die Wahl des Jahres, in dem der Eingriff vorgenommen_
+_werden soll, wurde unter Berücksichtigung der folgenden beiden Fakto-_
+_ren getroffen:_
+_- Die meisten in der Region angesiedelten Anlagen wurden zwischen_
+_2013 und 2015 genehmigt (27 von 44 aktuell betriebenen Anlagen) und_
+_können daher die noch für weitere 13–15 Jahre vorgesehene Förderung_
+_in Anspruch nehmen;_
+_- vermutlich werden noch einige Jahre Forschung erforderlich sein, um_
+_potenzielle Änderungen an den Anlagen zur Verbesserung der Koh-_
+_lequalität zu ermitteln und zu entwickeln._
+_- Eine Hypothese sieht vor, die Änderungen an der Anlage im 10. Betriebs-_
+_jahr vorzunehmen (in der Annahme, dass man in diesem Jahr bereits den_
+_aus der Anlagenoptimierung entstandenen Vorteil genießt); somit wurde_
 
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
@@ -2051,10 +2051,10 @@ für die Optimierung der Anlage erwächst (unter Veranschlagung einer der
 Förderdauer entsprechenden Nutzungsdauer der Anlage von 20 Jahren).
 ```
 
-- Es wurde außerdem angenommen, dass ebenso viel elektrische und ther-
-mische Energie und Kohle erzeugt wird wie in der Anlage der Original-
-konfiguration.
-Tabelle 15 – Parameter der „Originalkonfiguration“ einer idealen Anlage mit repräsentativen
+_- Es wurde außerdem angenommen, dass ebenso viel elektrische und ther-_
+_mische Energie und Kohle erzeugt wird wie in der Anlage der Original-_
+_konfiguration._
+Tabelle [^15]: – Parameter der „Originalkonfiguration“ einer idealen Anlage mit repräsentativen
 Betriebsparametern
 
 _Element Wert Element Wert_
@@ -2123,27 +2123,27 @@ _Förderung [Jahre]_[^20]
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
-- Auf Grundlage des Marktpreises der Kohle in der Agrarbranche wurden
-vier verschiedene optimierte Anlagenkonfigurationen erstellt, die sich je-
-weils durch einen Verkaufszielpreis für die Kohle auf dem Markt kenn-
-zeichnen:
-- Optimierte Konfiguration 1 – Preis für die Kohleaufwertung = 0 €/t;
-- Optimierte Konfiguration 2 – Preis für die Kohleaufwertung = 100 €/t;
-- Optimierte Konfiguration 3 – Preis für die Kohleaufwertung = 200 €/t;
-- Optimierte Konfiguration 4 – Preis für die Kohleaufwertung = 500 €/t.
-- In der optimierten Konfiguration 1 wurde angenommen, dass die Qualität
-der Kohle nicht ausreicht, um in der Landwirtschaft genutzt werden zu
-können, aber dass die Kohle von der Anlage kostenfrei entsorgt werden
-kann (zum Beispiel als in der Baubranche wiederverwendbares Nebenpro-
-dukt). Hypothese 4 sieht hingegen den besten Fall vor, und zwar dass die
-Qualität der Kohle es ermöglicht, einen Verkaufspreis von 500 €/t zu erzie-
-len.
-Durchgeführt wurde eine Rückwärtsanalyse und daher bei Anwendung des
-Tools mit der Anlagenoptimierung verbundene Investitionskosten in Höhe
-von null Euro eingegeben. Der verfügbare Höchstbetrag für die Umsetzung
-der Änderungen an den Anlagen wurden daher für jede optimierte Konfigu-
-ration (von 1 bis 4) als Differenz zwischen dem nach 20 Betriebsjahren kumu-
-lierten Kapital in der optimierten und in der Originalkonfiguration errechnet.
+_- Auf Grundlage des Marktpreises der Kohle in der Agrarbranche wurden_
+_vier verschiedene optimierte Anlagenkonfigurationen erstellt, die sich je-_
+_weils durch einen Verkaufszielpreis für die Kohle auf dem Markt kenn-_
+_zeichnen:_
+_- Optimierte Konfiguration_ [^1]: _– Preis für die Kohleaufwertung = 0 €/t;_
+_- Optimierte Konfiguration_ [^2]: _– Preis für die Kohleaufwertung =_ [^100]: _€/t;_
+_- Optimierte Konfiguration_ [^3]: _– Preis für die Kohleaufwertung =_ [^200]: _€/t;_
+_- Optimierte Konfiguration_ [^4]: _– Preis für die Kohleaufwertung =_ [^500]: _€/t._
+_- In der optimierten Konfiguration 1 wurde angenommen, dass die Qualität_
+_der Kohle nicht ausreicht, um in der Landwirtschaft genutzt werden zu_
+_können, aber dass die Kohle von der Anlage kostenfrei entsorgt werden_
+_kann (zum Beispiel als in der Baubranche wiederverwendbares Nebenpro-_
+_dukt). Hypothese 4 sieht hingegen den besten Fall vor, und zwar dass die_
+_Qualität der Kohle es ermöglicht, einen Verkaufspreis von 500 €/t zu erzie-_
+_len._
+_Durchgeführt wurde eine Rückwärtsanalyse und daher bei Anwendung des_
+_Tools mit der Anlagenoptimierung verbundene Investitionskosten in Höhe_
+_von null Euro eingegeben. Der verfügbare Höchstbetrag für die Umsetzung_
+_der Änderungen an den Anlagen wurden daher für jede optimierte Konfigu-_
+_ration (von 1 bis 4) als Differenz zwischen dem nach 20 Betriebsjahren kumu-_
+_lierten Kapital in der optimierten und in der Originalkonfiguration errechnet._
 
 4.6 Ergebnisse der wirtschaftlichen Analyse
 _In Tabelle 16 und den Abbildungen 4 und 5 sind für jede optimierte Konfigu-_
@@ -2245,10 +2245,10 @@ _Zum besseren Verständnis der Resultate und in Bezug auf jede optimierte_
 _Konfiguration sind in Abbildung 6 die jährlichen Einnahmen der Anlagen_
 _aufgeführt, die zurückzuführen sind auf:_
 
-- Förderung und Verkauf der erzeugten elektrischen Energie
-- Verkauf der Wärmeenergie
-- Einsparung der Entsorgungskosten und/oder Verkauf der Kohle (in der
-Grafik bezeichnet als „Einnahmen aus der optimierten Konfiguration“).
+_- Förderung und Verkauf der erzeugten elektrischen Energie_
+_- Verkauf der Wärmeenergie_
+_- Einsparung der Entsorgungskosten und/oder Verkauf der Kohle (in der_
+_Grafik bezeichnet als „Einnahmen aus der optimierten Konfiguration“)._
 
 _Es wird deutlich, dass die mit der Anlagenoptimierung und dem Verkauf der_
 _qualitativ hochwertigeren Kohle verbundenen höheren Jahreseinnahmen_
@@ -2869,13 +2869,13 @@ Extraktion aus Holzrückständen
 _Zeit) weist eine charakteristische Form auf, die qualitativ durch Teilung des_
 _Signals in drei unterschiedliche Phasen erklärt werden kann:_
 
-- eine erste Phase, bestehend aus einer anfänglichen Verzögerungszeit,
-während der die erzeugte Wärmemenge unerheblich ist
-- eine zweite Phase, in welcher der Wärmefluss in Verbindung mit dem me-
-tabolischen Zellwachstum exponentiell ansteigt
-- eine dritte Phase, in der man eine schnelle Wärmeflussverringerung be-
-obachten kann, sobald der Sauerstoff oder die nötigen Nährstoffe abneh-
-men und das Wachstum der Mikroorganismen dadurch gehemmt wird.
+_- eine erste Phase, bestehend aus einer anfänglichen Verzögerungszeit,_
+_während der die erzeugte Wärmemenge unerheblich ist_
+_- eine zweite Phase, in welcher der Wärmefluss in Verbindung mit dem me-_
+_tabolischen Zellwachstum exponentiell ansteigt_
+_- eine dritte Phase, in der man eine schnelle Wärmeflussverringerung be-_
+_obachten kann, sobald der Sauerstoff oder die nötigen Nährstoffe abneh-_
+_men und das Wachstum der Mikroorganismen dadurch gehemmt wird._
 
 Abb. 2 –Während des Mikrobenwachstums von _S. thermophilus_ bei Vorhandensein von Sauerstoff
 mit einer Konzentration von 10⁷ log(KBE/ml) erzeugter Wärmefluss (durchgehende schwarze Linie).
@@ -3157,7 +3157,7 @@ _wurde zwischen dem Logarithmus der Mikrobenkonzentration und der Ver-_
 _zögerungszeit (_λ_) oder der Zeit beobachtet, zu welcher der höchste Wärme-_
 _fluss gemessen wurde (tp), mit Pearson- Koeffizienten von_
 
--0.995 bzw. -0,990 (n = 7, p = 0,01).
+_-0.995 bzw. -0,990 (n = 7, p = 0,01)._
 
 Tabelle 3 – Pearson-Korrelationsindex zwischen der mikrobiellen Anfangskonzentration und den
 thermokinetischen Parametern aus den Thermogrammen des Mikrobenwachstums. **Signifikante
@@ -3201,21 +3201,21 @@ tp
 (h)
 ```
 
--0,995** -0,625 -
+_-0,995** -0,625 -_
 
 ```
 Qtot
 (J)
 ```
 
--0,439 -0,358 0,402 -
+_-0,439 -0,358 0,402 -_
 
 ```
 tp
 (h)
 ```
 
--0,990** -0,600 0,993** 0,497 -
+_-0,990** -0,600 0,993** 0,497 -_
 
 ```
 Φmax
@@ -3325,7 +3325,7 @@ tp
 (μW)
 ```
 
-- 6,7 ± 0,1 4,8 ± 0,3 2,2 ± 0,4 6 ± 0,3 259 ± 11
+_- 6,7 ± 0,1 4,8 ± 0,3 2,2 ± 0,4 6 ± 0,3 259 ± 11_
 
 _Überkritisches_
 _Kohlendioxid_
@@ -3382,7 +3382,7 @@ tp
 (μW)
 ```
 
-- 6,0 ± 0,1 6,4 ± 0,3 2,8 ± 0,5 8 ± 1 229 ± 11
+_- 6,0 ± 0,1 6,4 ± 0,3 2,8 ± 0,5 8 ± 1 229 ± 11_
 
 _Überkritisches_
 _Kohlendioxid_
@@ -4076,12 +4076,12 @@ _dungen wie PAK, PCB, Dioxine und Schwermetalle sind vom Gesetz folgende_
 _Grenzwerte vorgegeben, (D. lgs., 29 aprile 2010, n. 75; D. lgs., 3 aprile 2006, n._
 _152), wobei TS für Trockensubstanz steht:_
 
-- PAK (Σ16 Moleküle) < 6 mg kg TS-[^1];
-- PCB < 0,06 mg kg TS-[^1];
-- Dioxine < 10 ng I-TEQ kg TS-[^1]
-- Cd < 1,5 mg kg TS-[^1];
-- Cr < 0,5 mg kg TS-[^1];
-- Zn < 500 mg kg TS-[^1]
+_- PAK (Σ16 Moleküle) < 6 mg kg TS-_[^1]_;_
+_- PCB < 0,06 mg kg TS-_[^1]_;_
+_- Dioxine < 10 ng I-TEQ kg TS-_[^1]
+_- Cd < 1,5 mg kg TS-_[^1]_;_
+_- Cr < 0,5 mg kg TS-_[^1]_;_
+_- Zn < 500 mg kg TS-_[^1]
 
 _Aus den Werten in Tabelle 2 ist klar ersichtlich, dass nur der PAK-Gehalt der_
 _Kohle der Technologie C unter dem Grenzwert lag (D. lgs., 3 aprile 2006, n._
@@ -4189,8 +4189,8 @@ der experimentellen Periode des Phytotoxizitätstests, der insgesamt fünf Woche
 der Umpflanzung der Sämlinge in die Gefäße dauerte; diese Gefäße enthielten den mit zwei
 verschiedenen Konzentrationen (2,5 = 8,5 gcharkgBoden
 
--1; 5 = 17 gcharkgBoden
--1) der drei verschiedenen
+-[^1]:; 5 = 17 gcharkgBoden
+-[^1]:) der drei verschiedenen
 Kohlenproben (F, B und H) versetzten Boden. Die Daten stellen die Mittelwerte ± SF
 (Standardfehler) von fünf unabhängigen Pflanzen für jede Behandlung dar. Verschiedene
 Buchstaben stehen für statistisch unterschiedliche Werte (P < 0,05)
@@ -4200,8 +4200,8 @@ der experimentellen Periode des Phytotoxizitätstests, der insgesamt fünf Woche
 der Umpflanzung der Sämlinge in die Gefäße dauerte; diese Gefäße enthielten den mit zwei
 verschiedenen Konzentrationen (2,5 = 8,5 gcharkgBoden
 
--1; 5 = 17 gcharkgBoden
--1) der drei verschiedenen
+-[^1]:; 5 = 17 gcharkgBoden
+-[^1]:) der drei verschiedenen
 Kohlenproben (F, B und H) versetzten Boden. Die Daten stellen die Mittelwerte ± SF
 (Standardfehler) von fünf unabhängigen Pflanzen für jede Behandlung dar. Verschiedene
 Buchstaben stehen für statistisch unterschiedliche Werte (P < 0,05)
@@ -4672,8 +4672,8 @@ lungen
 Wiederh.
 ```
 
-1. Moarhof Meran 46°40'2.7"N
-11°11'43.5"E
+_1. Moarhof Meran 46°40'2.7"N_
+_11°11'43.5"E_
 
 ```
 ~600 m Vitis vinifera cv.
@@ -4684,14 +4684,14 @@ Müller Thurgau
 N – C – B1 – B2
 ```
 
-– B1C – B2C
+_– B1C – B2C_
 
 ```
 4
 ```
 
-2. WeißplatterMeran 46°39'17.27"N
-11°11'28.49"E
+_2. WeißplatterMeran 46°39'17.27"N_
+_11°11'28.49"E_
 
 ```
 ~550 m Vitis vinifera cv.
@@ -4702,14 +4702,14 @@ Sauvignon Blanc
 N – C – B1 – B2
 ```
 
-– B1C – B2C
+_– B1C – B2C_
 
 ```
 4
 ```
 
-3. Block 65 Laimburg 46°23'23.16"N
-11°17'29.74"E
+_3. Block_ [^65]: _Laimburg 46°23'23.16"N_
+_11°17'29.74"E_
 
 ```
 ~225 m Malus domestica
@@ -6792,16 +6792,16 @@ _Der zunehmende Trockenstress, unter dem die Weinpflanzen litten, die über-_
 _haupt kein Wasser mehr erhielten, wurde durch Ermittlung folgender auf_
 _Blattebene gemessener physiologischer Parameter überwacht._
 
-- Wasserpotenzial des Stammes um 12 Uhr mittags (ΨMD, Werte in MPa),
-gemessen an einem Blatt pro Pflanze (drei Messungen pro Behandlung
-und pro Zeitraum). Die Messungen wurden mithilfe einer Druckkammer
-(Pump-up Pressure Chamber, PMS Instrument Comp. USA) in Abständen
-von 3-4 Tagen während beider Stresszyklen und während der späteren Er-
-holung nach der Bewässerung (Rewatering) vorgenommen.
-- Nettoassimilation von CO2(oder Nettofotosynthese, μmol/m[^2]s), gemessen
-an einem Blatt pro Pflanze (drei Messungen pro Behandlung und Zeit-
-raum). Für die Messungen wurde ein tragbarer Infrarot-Gasanalysator
-verwendet (LC-pro ADC, Hoddesdon Bioscientific, Ltd., UK).
+_- Wasserpotenzial des Stammes um 12 Uhr mittags (ΨMD, Werte in MPa),_
+_gemessen an einem Blatt pro Pflanze (drei Messungen pro Behandlung_
+_und pro Zeitraum). Die Messungen wurden mithilfe einer Druckkammer_
+_(Pump-up Pressure Chamber, PMS Instrument Comp. USA) in Abständen_
+_von 3-4 Tagen während beider Stresszyklen und während der späteren Er-_
+_holung nach der Bewässerung (Rewatering) vorgenommen._
+_- Nettoassimilation von CO_[^2]:_(oder Nettofotosynthese, μmol/m_[^2]_s), gemessen_
+_an einem Blatt pro Pflanze (drei Messungen pro Behandlung und Zeit-_
+_raum). Für die Messungen wurde ein tragbarer Infrarot-Gasanalysator_
+_verwendet (LC-pro ADC, Hoddesdon Bioscientific, Ltd., UK)._
 
 4.1.3 Statistische Analyse
 _Die Daten wurden mit der Software R durch Vergleich der Gruppen mittels_
@@ -8225,9 +8225,9 @@ _Liu, X., Zhang, A., Ji, C., Joseph, S., Bian, R., Li, L., ... Paz-Ferreiro, J. 
 _Biochar’s effect on crop productivity and the dependence on experimental_
 _conditions — a meta-analysis of literature data. Plant and Soil,_ [^373]:_(1), 583–_
 
-594. https://doi.org/10.1007/s11104-013-1806-x
-Lu, X., Li, Y., Wang, H., Singh, B. P., Hu, S., Luo, Y., ... Li, Y. (2019). Responses
-of soil greenhouse gas emissions to different application rates of biochar
+_594. https://doi.org/10.1007/s11104-_[^013]:_-_[^1806]:_-x_
+_Lu, X., Li, Y., Wang, H., Singh, B. P., Hu, S., Luo, Y., ... Li, Y. (2019). Responses_
+_of soil greenhouse gas emissions to different application rates of biochar_
 
 ```
 Wirkung des Zusatzes von Biochar zum Boden
@@ -8285,10 +8285,10 @@ _decomposition in two European short rotation coppices. GCB Bioenergy,_
 _Wang, J., Xiong, Z., & Kuzyakov, Y. (2016). Biochar stability in soil: meta-_
 _analysis of decomposition and priming effects. GCB Bioenergy,_ [^8]:_(3), 512–_
 
-523. https://doi.org/10.1111/gcbb.12266
-Zimmerman, A. R. (2010). Abiotic and Microbial Oxidation of Laboratory-
-Produced Black Carbon (Biochar). Environmental Science and Technology, 44,
-1295–1301. https://doi.org/10.1021/es903140c
+_523. https://doi.org/10.1111/gcbb.12266_
+_Zimmerman, A. R. (2010). Abiotic and Microbial Oxidation of Laboratory-_
+_Produced Black Carbon (Biochar). Environmental Science and Technology,_ [^44]:_,_
+[^1295]:_–1301. https://doi.org/10.1021/es903140c_
 
 ## Erzeugung und Nutzung von Biochar in Südtirol:
 
@@ -8484,7 +8484,7 @@ Transport der Biomasse mit Lkw und Bahn(innerhalb von Südtirol und aus
 Österreich, Polen und Slowenien)Sensibilitäts
 ```
 
--
+**-**
 
 ```
 analyse
@@ -8612,25 +8612,25 @@ _zum nächsten Prozess (Abb. 1)._
 
 _Im Folgenden werden die sieben untersuchten Szenarien vorgestellt:_
 
-- Szenario 1 – Aktuelle Situation: Evaluierung der aktuell in Südtirol ge-
-nutzten Vergasungsprozesse: die aktuelle Art und Herkunft der verwen-
-deten Biomasse, keine Extraktion von hochwertigen Verbindungen aus
-der Biomasse vor der Vergasung, die aktuellen Technologien der Verga-
-sungsanlagen, Entsorgung aller aus der Vergasung stammenden Produkte
-(Kohle, Asche, Teer) ohne Einsatz von Biochar auf landwirtschaftlichen
-Böden.
-- Szenario 2 – Aktuelle Situation + Extraktion von hochwertigen Verbindun-
-gen: ein Szenario mit den gleichen Voraussetzungen wie im Szenario 1,
-aber mit Extraktion hochwertiger Verbindungen (ätherische Öle) aus der
-Holzbiomasse vor der Vergasung. Aus dem Vergleich dieses Szenarios mit
-dem Szenario 1 kann die Wirkung des Extraktionsprozesses ätherischer
-Öle auf die Emissionen des CO2-Äquivalents und den Verbrauch fossiler
-Energiequellen ermittelt werden. Die Extraktion kann mit der Soxhlet-Me-
-thode oder mit überkritischem Kohlendioxid erfolgen.
-- Szenario 3 – Aktuelle Situation + Verbesserte Vergasung: ein Szenario mit
-den gleichen Voraussetzungen wie Szenario 1, aber mit dem Einsatz von
-Vergasungstechnologien, die in der Lage sind, ein für die Nutzung in der
-Landwirtschaft geeignetes Biochar zu produzieren, übereinstimmend mit
+_- Szenario 1 – Aktuelle Situation: Evaluierung der aktuell in Südtirol ge-_
+_nutzten Vergasungsprozesse: die aktuelle Art und Herkunft der verwen-_
+_deten Biomasse, keine Extraktion von hochwertigen Verbindungen aus_
+_der Biomasse vor der Vergasung, die aktuellen Technologien der Verga-_
+_sungsanlagen, Entsorgung aller aus der Vergasung stammenden Produkte_
+_(Kohle, Asche, Teer) ohne Einsatz von Biochar auf landwirtschaftlichen_
+_Böden._
+_- Szenario 2 – Aktuelle Situation + Extraktion von hochwertigen Verbindun-_
+_gen: ein Szenario mit den gleichen Voraussetzungen wie im Szenario 1,_
+_aber mit Extraktion hochwertiger Verbindungen (ätherische Öle) aus der_
+_Holzbiomasse vor der Vergasung. Aus dem Vergleich dieses Szenarios mit_
+_dem Szenario 1 kann die Wirkung des Extraktionsprozesses ätherischer_
+_Öle auf die Emissionen des CO2-Äquivalents und den Verbrauch fossiler_
+_Energiequellen ermittelt werden. Die Extraktion kann mit der Soxhlet-Me-_
+_thode oder mit überkritischem Kohlendioxid erfolgen._
+_- Szenario 3 – Aktuelle Situation + Verbesserte Vergasung: ein Szenario mit_
+_den gleichen Voraussetzungen wie Szenario 1, aber mit dem Einsatz von_
+_Vergasungstechnologien, die in der Lage sind, ein für die Nutzung in der_
+_Landwirtschaft geeignetes Biochar zu produzieren, übereinstimmend mit_
 
 Criscuoli, Panzacchi, Rossberg, Mwabonje, Cooper, Woods, Tonon
 
@@ -8640,35 +8640,35 @@ nen die Wirkungen der aktuell angewandten Vergasungstechnologien mit
 denen der verbesserten Technologien verglichen werden.
 ```
 
-- Szenario 4 – Aktuelle Situation + Extraktion von hochwertigen Verbindun-
-gen: ein Szenario mit den gleichen Voraussetzungen wie Szenario 3, aber
-mit zusätzlicher Extraktion hochwertiger Verbindungen (ätherische Öle)
-aus der Holzbiomasse vor der Vergasung.
-- Szenario 5 – Verbesserte Vergasung + Anwendung von Biochar auf land-
-wirtschaftlichen Böden (Weinberg): ein Szenario mit den gleichen Parame-
-tern wie Szenario 3, aber mit Anwendung von Biochar in den Weinbergen
-Südtirols. Statt entsorgt zu werden kann das Biochar dank der Nutzung
-verbesserter Vergasungstechnologien als Bodenverbesserungsmittel in
-der Landwirtschaft eingesetzt werden. Mit diesem Szenario können die
-Vorteile oder Umweltwirkungen gemessen werden, die entstehen, wenn
-das Biochar auf landwirtschaftlichen Böden eingesetzt wird, statt als Ab-
-fall entsorgt zu werden.
-- Szenario 6 – Verbesserte Vergasung + Anwendung von Biochar auf land-
-wirtschaftlichen Böden (Apfelplantage): ein Szenario mit den gleichen Pa-
-rametern wie Szenario 5, aber mit Verteilung von Biochar in den Apfel-
-plantagen statt in den Weinbergen Südtirols. Dieses Szenario dient zur Er-
-leichterung des Vergleichs der Wirkungen/Vorteile einer Anwendung von
-Biochar in den wichtigsten landwirtschaftlichen Kulturen Südtirols.
-- Szenario 7– Aktuelle Situation + Extraktion von hochwertigen Verbindun-
-gen + Anwendung vonBiochar in der Landwirtschaft: ein Szenario mit den
-gleichen Parametern wie Szenario 5, aber mit zusätzlicher Extraktion
-hochwertiger Verbindungen (ätherische Öle) aus der Holzbiomasse vor
-der Vergasung.
-- Dynamisches Szenario: ein Szenario, das von Mal zu Mal definiert wird, je
-nachdem, welche Hypothesen überprüft werden sollen. Das dynamische
-Szenario ist ein nützliches Mittel zur Bewertung der einzelnen Auswir-
-kungen aller Prozesse der Produktionskette und zur Umsetzung der Sen-
-sibilitätsanalysen.
+_- Szenario 4 – Aktuelle Situation + Extraktion von hochwertigen Verbindun-_
+_gen: ein Szenario mit den gleichen Voraussetzungen wie Szenario 3, aber_
+_mit zusätzlicher Extraktion hochwertiger Verbindungen (ätherische Öle)_
+_aus der Holzbiomasse vor der Vergasung._
+_- Szenario 5 – Verbesserte Vergasung + Anwendung von Biochar auf land-_
+_wirtschaftlichen Böden (Weinberg): ein Szenario mit den gleichen Parame-_
+_tern wie Szenario 3, aber mit Anwendung von Biochar in den Weinbergen_
+_Südtirols. Statt entsorgt zu werden kann das Biochar dank der Nutzung_
+_verbesserter Vergasungstechnologien als Bodenverbesserungsmittel in_
+_der Landwirtschaft eingesetzt werden. Mit diesem Szenario können die_
+_Vorteile oder Umweltwirkungen gemessen werden, die entstehen, wenn_
+_das Biochar auf landwirtschaftlichen Böden eingesetzt wird, statt als Ab-_
+_fall entsorgt zu werden._
+_- Szenario 6 – Verbesserte Vergasung + Anwendung von Biochar auf land-_
+_wirtschaftlichen Böden (Apfelplantage): ein Szenario mit den gleichen Pa-_
+_rametern wie Szenario 5, aber mit Verteilung von Biochar in den Apfel-_
+_plantagen statt in den Weinbergen Südtirols. Dieses Szenario dient zur Er-_
+_leichterung des Vergleichs der Wirkungen/Vorteile einer Anwendung von_
+_Biochar in den wichtigsten landwirtschaftlichen Kulturen Südtirols._
+_- Szenario 7– Aktuelle Situation + Extraktion von hochwertigen Verbindun-_
+_gen + Anwendung vonBiochar in der Landwirtschaft: ein Szenario mit den_
+_gleichen Parametern wie Szenario 5, aber mit zusätzlicher Extraktion_
+_hochwertiger Verbindungen (ätherische Öle) aus der Holzbiomasse vor_
+_der Vergasung._
+_- Dynamisches Szenario: ein Szenario, das von Mal zu Mal definiert wird, je_
+_nachdem, welche Hypothesen überprüft werden sollen. Das dynamische_
+_Szenario ist ein nützliches Mittel zur Bewertung der einzelnen Auswir-_
+_kungen aller Prozesse der Produktionskette und zur Umsetzung der Sen-_
+_sibilitätsanalysen._
 
 ```
 Erzeugung und Nutzung von Biochar in Südtirol
@@ -9044,11 +9044,11 @@ _In diesem Kapitel sind die Ergebnisse für die Anwendung einer Dosis Biochar_
 _von 25 Tonnen pro Hektar aufgeführt. Insbesondere wurde untersucht, wel-_
 _che Wirkung 25 t/ha Biochar auf folgende Aspekte haben:_
 
-- Einsatz von synthetischen Düngemitteln;
-- Einsatz von Bewässerung;
-- Kohlenstoffbindung im Boden;
-- Vom Boden ausgehende Treibhausgasemissionen: Distickstoffmonoxid
-(N2O) und Methan (CH4).
+_- Einsatz von synthetischen Düngemitteln;_
+_- Einsatz von Bewässerung;_
+_- Kohlenstoffbindung im Boden;_
+_- Vom Boden ausgehende Treibhausgasemissionen: Distickstoffmonoxid_
+_(N_[^2]:_O) und Methan (CH_[^4]:_)._
 
 _Die Wirkung von Biochar auf den Einsatz von Düngemitteln wurde auf_
 _Grundlage seiner chemischen Zusammensetzung (verfügbare Mengen an N,_
@@ -9268,8 +9268,8 @@ _gleicher Menge an erzeugtem Biochar (1.250 t/Jahr, funktionelle Einheit der_
 _LCA) deutlich höher aus. Demzufolge ist der Posten „Einsparung fossiler_
 _Energie durch Vergasung“ in Szenario 3 größer (-17.669,_[^09]: _t Öläquivalent und_
 
--52.458,81 t CO2eq) als in Szenario 1 (-6.554,09 t Öläquivalent und -19.700,04 t
-CO2eq).
+_-52.458,81 t CO_[^2]:_eq) als in Szenario 1 (-6.554,09 t Öläquivalent und -19.700,04 t_
+_CO_[^2]:_eq)._
 
 3.4 Szenario 4 – Verbesserte Vergasung + Extraktion
 hochwertiger Verbindungen
@@ -9820,17 +9820,17 @@ _Uzoma, K. C., Inoue, M., Andry, H., Zahoor, A., & Nishihara, E. (2011)._
 _Influence of biochar application on sandy soil hydraulic properties and_
 _nutrient retention. Journal of Food, Agriculture and Environment,_ [^9]:_, 1137–_
 
-1143. https://doi.org/10.1234/4.2011.2517
-Ventura, M. et al. (2015). Biochar mineralization and priming effect on SOM
-decomposition in two European short rotation coppices. GCB Bioenergy,
-7(5), 1150–1160. https://doi.org/10.1111/gcbb.12219
-Wang, J., Xiong, Z., & Kuzyakov, Y. (2016). Biochar stability in soil: meta-
-analysis of decomposition and priming effects. GCB Bioenergy, 8(3), 512–
-523. https://doi.org/10.1111/gcbb.12266
-Wernet, G., Bauer, C., Steubing, B., Reinhard, J., Moreno-Ruiz, E., & Weidema,
-B. (2016). The ecoinvent database version 3 (part I): overview and
-methodology. The International Journal of Life Cycle Assessment, 21, 1218–
-1230. https://doi.org/https://doi.org/10.1007/s11367-016-1087-8
+_1143. https://doi.org/10.1234/4.2011.2517_
+_Ventura, M. et al. (2015). Biochar mineralization and priming effect on SOM_
+_decomposition in two European short rotation coppices. GCB Bioenergy,_
+[^7]:_(5), 1150–1160. https://doi.org/10.1111/gcbb.12219_
+_Wang, J., Xiong, Z., & Kuzyakov, Y. (2016). Biochar stability in soil: meta-_
+_analysis of decomposition and priming effects. GCB Bioenergy,_ [^8]:_(3), 512–_
+_523. https://doi.org/10.1111/gcbb.12266_
+_Wernet, G., Bauer, C., Steubing, B., Reinhard, J., Moreno-Ruiz, E., & Weidema,_
+_B. (2016). The ecoinvent database version 3 (part I): overview and_
+_methodology. The International Journal of Life Cycle Assessment,_ [^21]:_, 1218–_
+_1230. https://doi.org/https://doi.org/10.1007/s11367-_[^016]:_-1087-8_
 
 ## Schlussfolgerungen
 

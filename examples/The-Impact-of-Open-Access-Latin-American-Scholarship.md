@@ -1,12 +1,12 @@
-### Andrew W. Mellon Foundation
+### _Andrew W. Mellon Foundation_
 
-### Grant 1711-05155
+### _Grant 1711-05155_
 
-### December 19, 2019
+### _December_ [^19]:_, 2019_
 
-### John Kiplinger
+### _John Kiplinger_
 
-### Valerie Yaw
+### _Valerie Yaw_
 
 # The Impact of Open Access
 
