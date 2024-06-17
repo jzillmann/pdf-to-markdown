@@ -138,3 +138,7 @@ export function majorityElement<T>(items: Item[], extract: (item: Item) => T): T
   }
   return extract(items[maj]);
 }
+
+export function isGreaterWithTolerance(num1: number, num2: number, tolerance = 0.01) {
+  return num1 - num2 > tolerance;
+}

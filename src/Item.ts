@@ -5,6 +5,7 @@ export default class Item {
   page: number;
   data: object;
   uuid: string;
+  listLevel = 0;
   tokenTypes: TokenType[] = [];
 
   constructor(page: number, data: object, tokenTypes: TokenType[] = [], uuid: string = uuidv4()) {

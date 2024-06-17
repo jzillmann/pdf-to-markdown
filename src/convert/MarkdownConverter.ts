@@ -61,20 +61,25 @@ export function lineToText(lineItems: Item[], blockTypes: TextType[]) {
   };
 
   let lastLineItem: Item = null;
-  lineItems.forEach((lineItem, lineIndex) => {
+  lineItems.forEach((lineItem, indexInLine) => {
     const words = toWords(lineItem.data['str']);
     words.forEach((word, wordIndex) => {
+      if (indexInLine === 0 && wordIndex === 0) {
+        if (lineItem.listLevel) {
+          word = ' '.repeat(lineItem.listLevel * 2) + word;
+        }
+      }
       const wordFormat = lineItem.tokenTypes[0]; // bold, oblique, footnote etc...
       if (openFormat && (!wordFormat || wordFormat !== openFormat)) {
         closeFormat();
       }
       if (
-        (wordIndex > 0 || lineIndex > 0) &&
+        (wordIndex > 0 || indexInLine > 0) &&
         !(wordFormat && attachWithoutWhitespace(wordFormat)) &&
         !isPunctationCharacter(word)
       ) {
         let insertWhitespace = true;
-        if (lineIndex > 0 && wordIndex == 0) {
+        if (indexInLine > 0 && wordIndex == 0) {
           const xDistance = lineItem.data['x'] - lastLineItem.data['x'] - lastLineItem.data['width'];
           if (xDistance < 2 && !lastLineItem.data['str']?.endsWith(' ') && !lineItem.data['str']?.startsWith(' ')) {
             insertWhitespace = false;
@@ -98,7 +103,7 @@ export function lineToText(lineItems: Item[], blockTypes: TextType[]) {
         text += word;
       }
     });
-    if (openFormat && (lineIndex == lineItems.length - 1 || firstFormat(lineItems[lineIndex + 1]) !== openFormat)) {
+    if (openFormat && (indexInLine == lineItems.length - 1 || firstFormat(lineItems[indexInLine + 1]) !== openFormat)) {
       closeFormat();
     }
     lastLineItem = lineItem;

@@ -3,7 +3,7 @@ import ItemResult from '../ItemResult';
 import ItemTransformer from './ItemTransformer';
 import TransformContext from './TransformContext';
 import LineItemMerger from '../debug/LineItemMerger';
-import { groupByBlock, groupByLine } from '../support/groupingUtils';
+import { groupByBlock, groupByLine, isGreaterWithTolerance } from '../support/groupingUtils';
 import { TextType, toBlockType } from '../text-types';
 import { isListItem, isNumberedListItem } from '../support/stringFunctions';
 
@@ -40,7 +40,7 @@ export default class DetectListLevels extends ItemTransformer {
           const x = firstItem.data['x'];
           if (lastItemX) {
             if (isLineItem) {
-              if (x > lastItemX) {
+              if (isGreaterWithTolerance(x, lastItemX)) {
                 currentLevel++;
                 xByLevel[x] = currentLevel;
               } else if (x < lastItemX) {
@@ -54,10 +54,10 @@ export default class DetectListLevels extends ItemTransformer {
             xByLevel[x] = 0;
           }
           if (currentLevel > 0) {
-            lineItems[0].data['str'] = ' '.repeat(currentLevel * 3) + lineItems[0].data['str'];
+            lineItems[0].listLevel = currentLevel;
             modifiedBlock = true;
             if (isOverflowLine) {
-              lineItems[0].data['str'] = '  ' + lineItems[0].data['str'];
+              // TODO mark line so it can be indented as well ?
             }
           }
           if (!isOverflowLine) {

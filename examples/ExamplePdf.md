@@ -105,17 +105,17 @@ Also los!
 Und Untergruppen:
 
 - Eintrag 1
-    - Sub Eintrag 1.1, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du
-       Zeile. Na los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann
-       es ja nicht. Also los!
-    - Sub Eintrag 1.
+  - Sub Eintrag 1.1, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du
+  Zeile. Na los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann
+  es ja nicht. Also los!
+  - Sub Eintrag 1.2
 - Eintrag 2
-    - Sub Eintrag 2.
+  - Sub Eintrag 2.1
 
 Und eine mit bullet’s:
 
-- Eintrage 1
-- Eintrage 2
+• Eintrage 1
+• Eintrage 2
 
 Gemixt:
 
@@ -147,27 +147,26 @@ Zwei aufeinander folgende Listen:
 - Zwote 1
 - Zwote 2
 
-
 Liste mit drei Levels:
 
 - Erster Level 1
-    - Zwoter Level 1.1, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du
-       Zeile. Na los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann
-       es ja nicht. Also los!
-       - 3ter Level 1.1.
-       - 3ter Level 1.1.2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche
-          du Zeile. Na los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden
-          kann es ja nicht. Also los!
-    - Zwoter Level 1.
-    - Zwoter Level 1.
-       - 3ter Level 1.3.
+  - Zwoter Level 1.1, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche du
+  Zeile. Na los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden kann
+  es ja nicht. Also los!
+    - 3ter Level 1.1.1
+    - 3ter Level 1.1.2, aber mit so langem Text, das er umbricht. Wirklich, wirklich lang. Breche
+    du Zeile. Na los. Na endlich. Vielleicht sollt ich das auf 3 Zeilen erweitern? Na ja, schaden
+    kann es ja nicht. Also los!
+  - Zwoter Level 1.2
+  - Zwoter Level 1.3
+    - 3ter Level 1.3.1
 - Erster Level 2
 
 Und nun nummeriert mit un-nummerierten Sub-Leveln:
 
 1. Eintrag 1
-    - Eintrag 1.
-    - Eintrag 1.
+  - Eintrag 1.1
+  - Eintrag 1.2
 2. Eintrag 2
 
 Und jetzt eine Liste, die übergangslos aus einem zwei-zeiligen Paragraphen folgt. Mal sehen ob
