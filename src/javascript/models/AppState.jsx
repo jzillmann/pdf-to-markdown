@@ -22,6 +22,7 @@ export default class AppState {
         this.renderFunction = options.renderFunction;
         this.mainView = View.UPLOAD;
         this.fileBuffer;
+        this.pdfFileName = null;
         this.metadata;
         this.pages = [];
         this.transformations ;
@@ -31,6 +32,7 @@ export default class AppState {
         this.storeFileBuffer = this.storeFileBuffer.bind(this);
         this.storePdfPages = this.storePdfPages.bind(this);
         this.switchMainView = this.switchMainView.bind(this);
+        this.reset = this.reset.bind(this);
     }
 
     render() {
@@ -38,8 +40,9 @@ export default class AppState {
     }
 
     // the uploaded pdf as file buffer
-    storeFileBuffer(fileBuffer) {
+    storeFileBuffer(fileBuffer, fileName) {
         this.fileBuffer = fileBuffer;
+        this.pdfFileName = fileName;
         this.mainView = View.LOADING;
         this.render()
     }
@@ -72,6 +75,16 @@ export default class AppState {
 
     switchMainView(view) {
         this.mainView = view;
+        this.render();
+    }
+
+    reset() {
+        this.fileBuffer = null;
+        this.pdfFileName = null;
+        this.metadata = null;
+        this.pages = [];
+        this.transformations = null;
+        this.mainView = View.UPLOAD;
         this.render();
     }
 

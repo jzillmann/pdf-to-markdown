@@ -12,10 +12,13 @@ export default class ResultView extends React.Component {
     static propTypes = {
         pages: React.PropTypes.array.isRequired,
         transformations: React.PropTypes.array.isRequired,
+        pdfFileName: React.PropTypes.string,
+        resetFunction: React.PropTypes.func.isRequired,
     };
 
     constructor(props) {
         super(props);
+        this.copyTimeoutId = null;
     }
 
     componentWillMount() {
@@ -40,8 +43,48 @@ export default class ResultView extends React.Component {
         });
         this.state = {
             preview: true,
-            text: text
+            text: text,
+            copied: false
         };
+    }
+
+    componentWillUnmount() {
+        if (this.copyTimeoutId) {
+            clearTimeout(this.copyTimeoutId);
+        }
+    }
+
+    handleCopy() {
+        if (this.copyTimeoutId) {
+            clearTimeout(this.copyTimeoutId);
+        }
+        navigator.clipboard.writeText(this.state.text)
+            .then(() => {
+                this.setState({ copied: true });
+                this.copyTimeoutId = setTimeout(() => {
+                    this.setState({ copied: false });
+                }, 2000);
+            })
+            .catch((err) => {
+                console.error('Failed to copy text:', err);
+            });
+    }
+
+    handleDownload() {
+        const blob = new Blob([this.state.text], { type: 'text/markdown' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+
+        const baseName = this.props.pdfFileName
+            ? this.props.pdfFileName.replace(/\.pdf$/i, '')
+            : 'document';
+        a.download = baseName + '.md';
+
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
     }
 
     switchToPreview() {
@@ -89,6 +132,19 @@ export default class ResultView extends React.Component {
                   </Button>
                   <Button onClick={ this.switchToPreview.bind(this) } className={ preview ? 'active' : '' }>
                     Preview
+                  </Button>
+                </ButtonGroup>
+                <ButtonGroup bsSize="medium">
+                  <Button onClick={ this.handleCopy.bind(this) }>
+                    { this.state.copied ? 'Copied!' : 'Copy' }
+                  </Button>
+                  <Button onClick={ this.handleDownload.bind(this) }>
+                    Download
+                  </Button>
+                </ButtonGroup>
+                <ButtonGroup bsSize="medium">
+                  <Button onClick={ this.props.resetFunction }>
+                    Clear
                   </Button>
                 </ButtonGroup>
               </ButtonToolbar>
