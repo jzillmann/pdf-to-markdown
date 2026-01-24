@@ -22,13 +22,14 @@ export default class UploadView extends React.Component {
             alert(`Maximum one file allowed to upload, but not ${files.length}!`)
             return
         }
+        const file = files[0];
         const reader = new FileReader();
         const uploadFunction = this.state.uploadPdfFunction;
         reader.onload = (evt) => {
             const fileBuffer = evt.target.result;
-            uploadFunction(new Uint8Array(fileBuffer));
+            uploadFunction(new Uint8Array(fileBuffer), file.name);
         };
-        reader.readAsArrayBuffer(files[0]);
+        reader.readAsArrayBuffer(file);
     }
 
     render() {
