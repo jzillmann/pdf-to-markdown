@@ -13,6 +13,7 @@ export default class ResultView extends React.Component {
         pages: React.PropTypes.array.isRequired,
         transformations: React.PropTypes.array.isRequired,
         pdfFileName: React.PropTypes.string,
+        resetFunction: React.PropTypes.func.isRequired,
     };
 
     constructor(props) {
@@ -139,6 +140,11 @@ export default class ResultView extends React.Component {
                   </Button>
                   <Button onClick={ this.handleDownload.bind(this) }>
                     Download
+                  </Button>
+                </ButtonGroup>
+                <ButtonGroup bsSize="medium">
+                  <Button onClick={ this.props.resetFunction }>
+                    Clear
                   </Button>
                 </ButtonGroup>
               </ButtonToolbar>

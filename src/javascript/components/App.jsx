@@ -29,7 +29,7 @@ export default class App extends React.Component {
             mainView = <LoadingView fileBuffer={ appState.fileBuffer } storePdfPagesFunction={ appState.storePdfPages } />
             break;
         case View.RESULT:
-            mainView = <ResultView pages={ appState.pages } transformations={ appState.transformations } pdfFileName={ appState.pdfFileName } />
+            mainView = <ResultView pages={ appState.pages } transformations={ appState.transformations } pdfFileName={ appState.pdfFileName } resetFunction={ appState.reset } />
             break;
         case View.DEBUG:
             mainView = <DebugView pages={ appState.pages } transformations={ appState.transformations } />
