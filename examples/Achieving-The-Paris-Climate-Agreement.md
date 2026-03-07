@@ -506,17 +506,17 @@ frameworks for the electricity, heating and cooling sectors as well as for the t
 port system. To develop a global plan, the authors combined various established
 computer models:
 
-• Generalized Equal Quantile Walk (GQW): This statistical method is used to
-complement the CO2 pathways with non-CO2 regional emissions for relevant
+- _Generalized Equal Quantile Walk (GQW)_: This statistical method is used to
+complement the CO[^2]: pathways with non-CO[^2]: regional emissions for relevant
 greenhouse gases (GHGs) and aerosols, based on a statistical analysis of the
 large number (~700) of multi-gas emission pathways underlying the recent IPCC
 Fifth Assessment Report and the recently published IPCC Special Report on
-1.5  °C.  The GQW method calculates the median non-CO2 gas emission levels
-every 5 years—conditional on the energy-related CO2 emission level percentile
+1.5  °C.  The GQW method calculates the median non-CO[^2]: gas emission levels
+every 5 years—conditional on the energy-related CO[^2]: emission level percentile
 of the “source” pathway. This method is a further development under this
 project—building on an earlier Equal Quantile Walk method—and is now better
 able to capture the emission dynamics of low-mitigation pathways.
-• _Land-based sequestration design_: A Monte Carlo analysis across temperate,
+- _Land-based sequestration design_: A Monte Carlo analysis across temperate,
 
 ```
 boreal, subtropical and tropical regions has been performed based on various
@@ -527,7 +527,7 @@ sequestration, which is not reliant on biomass plus sequestration and storage
 (bioenergy with carbon capture and storage, BECCS).
 ```
 
-• _Carbon cycle and climate modelling (Model for the Assessment of Greenhouse_
+- _Carbon cycle and climate modelling (Model for the Assessment of Greenhouse_
 _Gas-Induced Climate Change, MAGICC)_: This study uses the MAGICC climate
 model, which also underlies the classification used by both the IPCC Fifth
 Assessment Report and the IPCC Special Report on 1.5  °C in terms of the
@@ -543,7 +543,7 @@ it represents one of the most established reduced-complexity climate models in
 the international community.
 ```
 
-• _Renewable Resource Assessment [R]E-SPACE_: RE-SPACE is based on a
+- _Renewable Resource Assessment [R]E-SPACE_: RE-SPACE is based on a
 
 ```
 Geographic Information Systems (GIS) approach and provides maps of the solar
@@ -555,7 +555,7 @@ It also provides an overview of the existing electricity infrastructures for fos
 fuel and renewable sources.
 ```
 
-• _Transport model (TRAEM)_: The transport scenario model allows the
+- _Transport model (TRAEM)_: The transport scenario model allows the
 
 ```
 representation of long-term transport developments in a consistent and transparent
@@ -565,7 +565,7 @@ transport demand with powertrain-specific energy demands, using a passenger
 km (pkm) and tonne km (tkm) activity-based bottom-up approach.
 ```
 
-• _Energy system model (EM)_: The energy system model (a long-term energy
+- _Energy system model (EM)_: The energy system model (a long-term energy
 
 ```
 scenario model) is used as a mathematical accounting system for the energy
@@ -580,7 +580,7 @@ uncertain cost assumptions. However, an ex-post analysis of costs and investment
 shows the main economic effects of the pathways.
 ```
 
-• _Power system models [R]E 24/7_: Power system models simulate electricity
+- _Power system models [R]E 24/7_: Power system models simulate electricity
 
 ```
 systems on an hourly basis with geographic resolution to assess the requirements
@@ -1080,14 +1080,14 @@ increasing the efficiency at the MJ/pkm or MJ/tkm level will result from the fol
 
 ing measures:
 
-– Reductions in powertrain losses through more efficient motors, gears, power
+- Reductions in powertrain losses through more efficient motors, gears, power
 
 electronics, etc.
 
-– Reductions in aerodynamic drag
-– Reductions in vehicle mass through lightweighting
-– The use of smaller vehicles
-– Operational improvements (e.g. through automatic train operation, load factor
+- Reductions in aerodynamic drag
+- Reductions in vehicle mass through lightweighting
+- The use of smaller vehicles
+- Operational improvements (e.g. through automatic train operation, load factor
 
 improvements)
 
@@ -1307,13 +1307,13 @@ area available, all scenario-relevant regions and subregions were analysed with 
 
 with a defined set of constraints:
 
-– Residential and urban settlements
-– Infrastructure for transport (e.g. rail, roads)
-– Industrial areas
-– Intensive agricultural production land
-– Nature conservation areas and national parks
-– Wetlands and swamps
-– Closed grasslands (as the land-use type)
+- Residential and urban settlements
+- Infrastructure for transport (e.g. rail, roads)
+- Industrial areas
+- Intensive agricultural production land
+- Nature conservation areas and national parks
+- Wetlands and swamps
+- Closed grasslands (as the land-use type)
 
 ```
 In addition to this spatial analysis, the remaining available land areas were cor-
@@ -1587,7 +1587,7 @@ development of the final energy demand for bunkers according to the IEA World
 Energy Outlook 2017, Current Policies scenario. This will lead to a further increase
 in the demand for bunker fuels by 120% until 2050 compared with the base year
 
-2015. Because no substitution with “green” fuels is assumed, CO2 emissions will
+2015. Because no substitution with “green” fuels is assumed, CO[^2]: emissions will
 rise by the same order of magnitude. Although the use of hydrogen and electricity
 
 in aviation is technically feasible (at least for regional transport) and synthetic gas
@@ -2042,12 +2042,12 @@ more energy-sector jobs in the world as a whole at every stage of the projection
 Scenario, and, therefore, employment will increase faster. By 2050, both scenarios
 will create around 47 million jobs, so employment will be within similar ranges.
 
-• In 2025, there will be 30.9 million energy-sector jobs under the 5.0 °C Scenario,
+- In 2025, there will be 30.9 million energy-sector jobs under the 5.0 °C Scenario,
 45.5 million under the 2.0 °C Scenario and 52.3 million under the 1.5 °C.
-• In 2030, there will be 31.7 million energy-sector jobs under the 5.0 °C Scenario,
+- In 2030, there will be 31.7 million energy-sector jobs under the 5.0 °C Scenario,
 52.9  million under the 2.0  °C Scenario and 58.5  million under the 1.5  °C
 Scenario.
-• In 2050, there will be 29.9 million energy-sector jobs under the 5.0 °C Scenario,
+- In 2050, there will be 29.9 million energy-sector jobs under the 5.0 °C Scenario,
 48.7  million under the 2.0  °C Scenario and 46.3  million under the 1.5  °C
 Scenario.
 
@@ -4834,14 +4834,14 @@ to stay within a 2.0 °C and 1.5 °C global warming limit. The following model
 
 presented:
 
-• For the non-energy GHG emission pathways, the _Generalized Equal Quantile_
+- For the non-energy GHG emission pathways, the _Generalized Equal Quantile_
 
 ```
 Walk (GQW) method, the land-based sequestration design method and the
 Carbon cycle and climate (MAGICC) model.
 ```
 
-• For the energy pathways, a renewable energy resources assessment for space
+- For the energy pathways, a renewable energy resources assessment for space
 
 ```
 constrained environments ([R]E-SPACE, the transport scenario model (TRAEM),
@@ -4949,21 +4949,21 @@ S. Teske et al.
 27
 ```
 
-– A Road Map to 100 Percent Renewable Energy in 139 Countries by 2050, Mark
+- A Road Map to 100 Percent Renewable Energy in 139 Countries by 2050, Mark
 
 ```
 Jacobson, Charles Q.  Choi, Stanford Engineering, Stanford University, USA,
 2017 (Jacobson and Choi 2017);
 ```
 
-– Internet of Energy, A 100% Renewable Electricity System, Christian Breyer,
+- Internet of Energy, A 100% Renewable Electricity System, Christian Breyer,
 
 ```
 Neo Carbon Energy, Lappeenranta University of Technology, Finland, 2016
 (Breyer 2016; Breyer and Bogdanov 2018);
 ```
 
-– Energy [R]evolution—A sustainable World Energy Outlook 2015, Greenpeace
+- Energy [R]evolution—A sustainable World Energy Outlook 2015, Greenpeace
 
 ```
 International with the German Aerospace Centre (DLR), Institute of Engineering
@@ -5035,11 +5035,11 @@ To develop a global plan, the authors combined various established computer
 
 models:
 
-• Global GHG Model: The non-energy GHG emissions scenarios are calculated
+- Global GHG Model: The non-energy GHG emissions scenarios are calculated
 
 with the following models:
 
-– Generalized Equal Quantile Walk (GQW): This statistical method is used to
+- Generalized Equal Quantile Walk (GQW): This statistical method is used to
 complement the CO[^2]: pathways with the non-CO[^2]: regional emissions for the
 relevant GHGs and aerosols, based on a statistical analysis of the large num-
 ber (~700) of multi-gas emission pathways underlying the recent IPCC Fifth
@@ -5049,34 +5049,34 @@ every 5 years, conditional on the energy-related CO[^2]: emission level percent
 of the ‘source’ pathway. This method is further developed in this project—
 building on an earlier ‘Equal Quantile Walk’ method—and is now better able
 to capture the emission dynamics of low-mitigation pathways.
-– Land-based sequestration design: A Monte Carlo analysis across temperate,
+- Land-based sequestration design: A Monte Carlo analysis across temperate,
 boreal, subtropical, and tropical regions has been performed based on various
 literature-based estimates of sequestration rates, sequestration periods, and the
 areas available for a number of sequestration options. This approach can be seen
 as a quantified literature synthesis of the potential for land-based CO[^2]: sequestra-
 tion, which is not reliant on bioenergy with sequestration and storage (BECCS)
-– Carbon cycle and climate modelling (MAGICC): This study used the
+- Carbon cycle and climate modelling (MAGICC): This study used the
 MAGICC climate model, which also underlies the classification of both the
 IPCC Fifth Assessment Report and the IPCC Special Report on 1.5  °C in
 terms of the ability of various scenarios to limit the temperature increase to
 below 2.0  °C or 1.5  °C.  MAGICC is constantly evolving, but its core goes
 back to the 1980s, and it represents one of the most established reduced-
 complexity climate models in the international community.
-• Renewable Resource Assessment [R]E-SPACE: This is based on a Geographic
+- Renewable Resource Assessment [R]E-SPACE: This is based on a Geographic
 Information Systems (GIS) approach and provides maps of the solar and wind poten-
 tials in space-constrained environments. GIS attempts to emulate processes in the real
-world, at a single point in time or over an extended period (Goodchild 2005). The
+world, at a single point in time or over an extended period (Goodchild [^2005]:). The
 primary purpose of GIS mapping is to ascertain whether renewable energy resources
 (primarily solar and wind) are sufficiently available in each region. It also provides an
 overview of the existing electricity infrastructures for fossil fuel and renewable sources.
-• Transport model (TRAEM): The transport scenario model allows the representa-
+- Transport model (TRAEM): The transport scenario model allows the representa-
 tion of long-term transport developments in a consistent and transparent way.
 The model disaggregates transport into a set of different modes and calculates
 the final energy demand by multiplying the specific transport demand of each
 transport mode with the powertrain-specific energy demands, using passenger–
 km and tonne–km activity-based bottom-up approaches. The model applied is an
 accounting system, without system or ownership cost-optimization.
-• Energy system model (EM): The scenario model is a mathematical accounting
+- Energy system model (EM): The scenario model is a mathematical accounting
 system for the energy sector that applies different methodologies. It aims to
 
 ```
@@ -5102,7 +5102,7 @@ an ex-post analysis of costs and investments shows the main economic effects of
 the pathways.
 ```
 
-• Power system model [R]E 24/7: This simulates the electricity system on an
+- Power system model [R]E 24/7: This simulates the electricity system on an
 hourly basis and at geographic resolution to assess the requirements for infra-
 structure, such as grid connections, between different regions and electricity
 storages, depending on the demand profiles and power-generation characteristics
@@ -5741,40 +5741,40 @@ road, rail, aviation, and maritime passenger and freight transport modes.
 
 Road passenger transport modes include:
 
-– Light duty vehicles (cars): automobiles, vans and sports utility vehicles with
+- Light duty vehicles (cars): automobiles, vans and sports utility vehicles with
 up to eight seats for private transport, which are further distinguished into
 small, medium and large cars;
-– 2- and 3-wheel vehicles: includes rollers, motorbikes, and rickshaws;
-– Busses: urban, suburban, and long-distance buses and minibuses serving pub-
+- 2- and 3-wheel vehicles: includes rollers, motorbikes, and rickshaws;
+- Busses: urban, suburban, and long-distance buses and minibuses serving pub-
 lic and private-company transport services.
 
 Rail passenger:
 
-– Urban metro/light rail vehicles;
-– Regional/intercity trains;
-– High-speed trains.
+- Urban metro/light rail vehicles;
+- Regional/intercity trains;
+- High-speed trains.
 
 Aviation (passenger):
 
-– Small and medium aircrafts for domestic flights;
-– Medium and large aircrafts for international flights, distinguishing narrow-
+- Small and medium aircrafts for domestic flights;
+- Medium and large aircrafts for international flights, distinguishing narrow-
 body, wide-body, and regional jets.
 
 Road freight:
 
-– Light-duty trucks (< 3.5 t gross vehicle weight [GVW]);
-– Medium-duty trucks (3.5–15 t GVW);
-– Heavy-duty trucks (> 15 t GVW).
+- Light-duty trucks (< 3.5 t gross vehicle weight [GVW]);
+- Medium-duty trucks (3.5–15 t GVW);
+- Heavy-duty trucks (> 15 t GVW).
 
 Rail freight:
 
-– Ordinary freight, intermodal, and low-density high-value freight trains are
+- Ordinary freight, intermodal, and low-density high-value freight trains are
 distinguished.
 
 Navigation (freight):
 
-– Inland navigation;
-– Coastal ships for domestic navigation and maritime shipping are distinguished
+- Inland navigation;
+- Coastal ships for domestic navigation and maritime shipping are distinguished
 in the model.
 
 We assume that energy efficiency improves over time. The changes in the pow-
@@ -5833,20 +5833,20 @@ total energy consumption levels according to transport mode from statistical age
 
 cies, governmental and intergovernmental organizations, etc., including:
 
-– IEA Mobility Model;
-– OECD statistics;
-– World Bank Open Data;
-– National and supranational statistical bodies;
-– UIC IEA Railway Handbook;
-– UIC Railway Synopsis;
-– Railway operators data;
+- IEA Mobility Model;
+- OECD statistics;
+- World Bank Open Data;
+- National and supranational statistical bodies;
+- UIC IEA Railway Handbook;
+- UIC Railway Synopsis;
+- Railway operators data;
 
 [^3]: Methodology
 
 38
 
-– HBEFA (Handbuch Emissionsfaktoren);
-– EIA Open Data.
+- HBEFA (Handbuch Emissionsfaktoren);
+- EIA Open Data.
 
 However, statistical data are often unavailable or lack consistency with other
 
@@ -5919,7 +5919,7 @@ mi
 
 with:
 
-– SECFmi t
+- SECFmi t
 
 ```
 wr
@@ -5927,7 +5927,7 @@ wr
 mode m in world region wr at time step t [MJ/tkm]
 ```
 
-– SECPmi t
+- SECPmi t
 
 ```
 wr
@@ -5935,7 +5935,7 @@ wr
 mode m in world region wr at time step t [MJ/pkm]
 ```
 
-– TPFtmi
+- TPFtmi
 
 ```
 wr
@@ -5943,7 +5943,7 @@ wr
 region wr at time step t [tkm/a]
 ```
 
-– TPPtmi
+- TPPtmi
 
 ```
 wr
@@ -5951,7 +5951,7 @@ wr
 world region wr at time step t [pkm/a]
 ```
 
-– TTED(t): total transport (final) energy demand at time step _t_ [PJ/year]
+- TTED(t): total transport (final) energy demand at time step _t_ [PJ/year]
 
 The estimated plug-in hybrid electric vehicles, battery electric vehicles, and fuel-
 
@@ -5990,9 +5990,9 @@ Schlenzig [^1998]:). Mesap/PlaNet is an accounting framework that allows the cal
 tion of detailed and complete energy system balances, from demand to energy sup-
 ply, in 5-year steps up to 2050. The model consists of two independent modules:
 
-• a flow calculation module, which balances energy supply and demand annually,
+- a flow calculation module, which balances energy supply and demand annually,
 and
-• a cost calculation module for the calculation of the corresponding investment,
+- a cost calculation module for the calculation of the corresponding investment,
 generation, and fuel costs.
 
 The strength of the model framework is in its flexible and transparent modelling
@@ -6092,12 +6092,12 @@ ss ss
 
 with:
 
-• FDss,
+- FDss,
 fe(t): demand of (final) energy carrier _fe_ in sub-sector _ss_[^1]: at time step _t_ [PJ/
 year]
-• FDss,
+- FDss,
 fe(t): total demand of (final) energy carrier _fe_ at time step _t_ [PJ/year]
-• TFD(t): total final energy demand at time step _t_ [PJ/year]
+- TFD(t): total final energy demand at time step _t_ [PJ/year]
 
 [^1]:The sub-sectors include ‘heat’ and ‘non-heat electrical appliances’ in the sectors ‘Industry’ and
 ‘Residential and other’, aviation, road transport, navigation, rail transport, non-energy consump-
@@ -6113,9 +6113,9 @@ Sectors: Final energy
 demand
 ```
 
-•transport(seeTM)
-•industry
-•residential& service
+-transport(seeTM)
+-industry
+-residential& service
 etc.
 
 ```
@@ -6126,30 +6126,30 @@ power demand
 Heatingtechnologies:
 ```
 
-•directheating: fossil
+-directheating: fossil
 burner, biomass burner,
 heat pump, solar
 collectors, electric heat
-•district heating: CHP &
+-district heating: CHP &
 heat plants
 
 ```
 Power sector:
 ```
 
-•power plants: fossil,
+-power plants: fossil,
 nuclear, renewable
-•CHP plants: fossil, fuel cell
-•biomass, geothermal,
+-CHP plants: fossil, fuel cell
+-biomass, geothermal,
 
 ```
 Primary energy
 supply:
 ```
 
-•fossil: coal, gas, oil
-•nuclear
-•renewable:hydro,
+-fossil: coal, gas, oil
+-nuclear
+-renewable:hydro,
 wind, solar,
 biomass,
 geothermal, wave
@@ -6183,9 +6183,9 @@ LCOE
 Fuel production:
 ```
 
-•H[^2]:-production
-•biofuels
-•refineriesetc.
+-H[^2]:-production
+-biofuels
+-refineriesetc.
 
 ```
 fuel
@@ -6218,15 +6218,15 @@ S. Teske et al.
 41
 ```
 
-• UEDss(t): useful energy demand / transport services in sub-sector _ss_ at time step
+- UEDss(t): useful energy demand / transport services in sub-sector _ss_ at time step
 _t_ [PJ/year]
-• MSss
+- MSss
 et(t): market share of end-sector technology _et_ in sub-sector _ss_
 [dimensionless]
-• ηfe
+- ηfe
 et(t): efficiency of end-sector technology _et_ using energy carrier _fe_[^2]: at time step
 _t_ [dimensionless]
-• _t_: time step
+- _t_: time step
 
 The indices denote:
 
@@ -6265,26 +6265,26 @@ pe
 
 with
 
-• PDpe(t): total demand of (primary) energy carrier _pe_ at time step _t_ [PJ/year]
-• TPD(t): total primary energy demand at time step _t_ [PJ/year]
-• MSfe
+- PDpe(t): total demand of (primary) energy carrier _pe_ at time step _t_ [PJ/year]
+- TPD(t): total primary energy demand at time step _t_ [PJ/year]
+- MSfe
 ct(t): market share of conversion technology _ct_ in the generation of final
 energy carrier _fe_ [dimensionless]
-• ηfe
+- ηfe
 ct(t): efficiency of conversion technology[^3]: _ct_ using the final energy carrier _fe_ at
 time step _t_ [dimensionless]
 
 The indices denote:
 
-• _pe_: (primary) energy carrier
-• _ct_: conversion sector technology[^4]
+- _pe_: (primary) energy carrier
+- _ct_: conversion sector technology[^4]
 
 The drivers of energy consumption include forecasts of population growth, gross
 domestic product (GDP), and energy intensities. Specific energy intensities are
 assumed for:
 
-• electricity and heat consumption per person and per GDP;
-• the ratio of industrial heat demand to GDP;
+- electricity and heat consumption per person and per GDP;
+- the ratio of industrial heat demand to GDP;
 
 [^2]:Note that some technologies (e.g., electric heat pumps) require two energy carriers as inputs
 (electricity and environmental heat), with a specific efficiency for each energy carrier.
@@ -6296,8 +6296,8 @@ straints on efficiencies or market shares.
 
 42
 
-• demand for energy services, such as useful heat;
-• different transport modes based on the Transport Model (see Sect. 3.4).
+- demand for energy services, such as useful heat;
+- different transport modes based on the Transport Model (see Sect. 3.4).
 
 The model consists of a broad technology database across the heat, fuel, and
 power sectors, including sector coupling via combined heat and power (CHP),
@@ -6324,15 +6324,15 @@ lates the annual energy flows for a set of energy carriers.
 
 The main inputs of the Energy System Model are:
 
-• IEA World Energy Balances 2017 (IEA 2016a) for the calibration of the model
+- IEA World Energy Balances 2017 (IEA 2016a) for the calibration of the model
 
 for each world region in the years 2005–2015;
 
-• IEA World Energy Outlook 2016/2017 (IEA 2016b, 2017a) for the parameteriza-
+- IEA World Energy Outlook 2016/2017 (IEA 2016b, 2017a) for the parameteriza-
 
 tion of the model for the reference case (5.0 °C Scenario);
 
-• various studies and statistics used for the assumption of further specific values,
+- various studies and statistics used for the assumption of further specific values,
 
 ```
 such as the power-to-heat ratios of co-generation plants, coefficients of perfor-
@@ -6340,7 +6340,7 @@ mance of heat pumps, and the efficiency of hydrogen electrolysers and synthetic
 fuel production plants;
 ```
 
-• narratives and assumptions regarding the further development of demand and
+- narratives and assumptions regarding the further development of demand and
 
 ```
 supply technologies in line with the climate targets and by taking into account
@@ -6351,25 +6351,25 @@ tions and narratives are described in detail in Chap. 5, Sect. 4.
 
 The main outputs of the model are:
 
-• the final and primary energy demands, broken down by fuel, technology, and
+- the final and primary energy demands, broken down by fuel, technology, and
 
 ```
 energy sectors, as defined by the International Energy Agency (IEA)—industry,
 power generation, transport, and other (buildings, forestry, and fisheries);
 ```
 
-• the results broken down by the three main types of energy demand—electricity,
+- the results broken down by the three main types of energy demand—electricity,
 
 ```
 heating, and mobility (transport); specifically, the energy required, technology
 deployment, and financial investment for each of these energy demand types;
 ```
 
-• total energy budget, which is the total cost of energy for the whole power
+- total energy budget, which is the total cost of energy for the whole power
 
 system;
 
-• energy-related CO[^2]: emissions over the projected period.
+- energy-related CO[^2]: emissions over the projected period.
 
 ```
 S. Teske et al.
@@ -6671,17 +6671,17 @@ S. Teske et al.
 45
 ```
 
-• households;
-• industry and business; and
-• transport (public and individual electric mobility).
+- households;
+- industry and business; and
+- transport (public and individual electric mobility).
 
 Although each sector has its specific consumer groups and applications, the same
 
 set of parameters is used to calculate load curves:
 
-• electrical applications in use;
-• demand pattern (24 h);
-• efficiency progress (base year 2015) for 2020 until 2050, and individual effi-
+- electrical applications in use;
+- demand pattern (24 h);
+- efficiency progress (base year 2015) for 2020 until 2050, and individual effi-
 
 ciency input for each year.
 
@@ -6713,30 +6713,30 @@ The model differentiates nine household groups, with various degrees of electrif
 
 tion and equipment:
 
-• Rural—phase 1: Minimal electrification stage
-• Rural—phase 2: White goods are introduced and increase the overall demand
-• Rural—phase 3: Fully equipped western-standard household with electrical
+- Rural—phase 1: Minimal electrification stage
+- Rural—phase 2: White goods are introduced and increase the overall demand
+- Rural—phase 3: Fully equipped western-standard household with electrical
 
 cooking and air conditioning and electric vehicle(s)
 
-• Urban single: Single-person household with minimal equipment
-• Urban shared flat: 3–5 persons share one apartment; fully equipped western
+- Urban single: Single-person household with minimal equipment
+- Urban shared flat: 3–5 persons share one apartment; fully equipped western
 
 household, but without electric vehicles
 
-• Urban—Family 1: 2 adults and 2–3 children; middle income, middle western
+- Urban—Family 1: 2 adults and 2–3 children; middle income, middle western
 
 standard
 
-• Urban—Family 2: 2 adults and > 3 children and/or higher income, full western
+- Urban—Family 2: 2 adults and > 3 children and/or higher income, full western
 
 standard
 
-• Suburbia 1: average family, middle income, full equipment, high transport
+- Suburbia 1: average family, middle income, full equipment, high transport
 
 demand due to extensive commuting
 
-• Suburbia 2: High-income household, fully equipped, extremely high transport
+- Suburbia 2: High-income household, fully equipped, extremely high transport
 
 demand due to high-end vehicles and extensive commuting
 
@@ -6746,15 +6746,15 @@ demand due to high-end vehicles and extensive commuting
 
 The following electrical equipment and applications can be selected:
 
-• Lighting: 4 different light bulb types (LED, three efficiency classes of CFLs),
-• Cooking: 10 different cooking stoves (2+4 burners, electricity, gas, firewood)
-• Entertainment: 3 different efficiency levels of computers, TV, and radio types
-• White goods: 2 different efficiency levels each for washing machine, dryer,
+- Lighting: 4 different light bulb types (LED, three efficiency classes of CFLs),
+- Cooking: 10 different cooking stoves (2+4 burners, electricity, gas, firewood)
+- Entertainment: 3 different efficiency levels of computers, TV, and radio types
+- White goods: 2 different efficiency levels each for washing machine, dryer,
 
 fridge, freezer
 
-• Climatization: 2 different efficiency levels each for fan, air-conditioning
-• Water heating: A selection of direct electric, heat-pump, and solar heating
+- Climatization: 2 different efficiency levels each for fan, air-conditioning
+- Water heating: A selection of direct electric, heat-pump, and solar heating
 
 systems
 
@@ -6764,14 +6764,14 @@ The industrial sector is clustered into eight groups based on widely used statis
 
 categories:
 
-• Agriculture
-• Manufacturing
-• Mining
-• Iron and steel
-• Cement industry
-• Construction industry
-• Chemical industry
-• Service and trade
+- Agriculture
+- Manufacturing
+- Mining
+- Iron and steel
+- Cement industry
+- Construction industry
+- Chemical industry
+- Service and trade
 
 Each sector has a definite energy intensity in energy per dollar GDP (MJ/$GDP),
 which is been converted to electrical units (kW/$GDP) based on an estimated fuel
@@ -7422,12 +7422,12 @@ Several simplifications have been made to the [R]E 24/7 model for ease of com-
 putation and to accommodate the paucity of data and uncertainty about the future
 when designing the interconnector algorithms:
 
-– Interconnections between the project-defined regions are the only ones consid-
+- Interconnections between the project-defined regions are the only ones consid-
 ered, so all intra-regional interconnections or line constraints are excluded (‘_cop-_
 _per plate_’);
-– Optimal load flow is neglected because policy and price signals are considered to
+- Optimal load flow is neglected because policy and price signals are considered to
 be the factors dominating the international and inter-regional load flow;
-– Non-adjacent inter-regional interconnections are neglected for computational
+- Non-adjacent inter-regional interconnections are neglected for computational
 reasons, e.g., one region cannot buy power from a region with which it does not
 share a border.
 
@@ -7439,9 +7439,9 @@ The algorithm devised for the function of the interconnectors is based on three
 
 key pieces of information for each region in a cluster:
 
-– Excess generation capacity;
-– Unmet load;
-– Interconnection capacity with each adjacent region, both in and out.
+- Excess generation capacity;
+- Unmet load;
+- Interconnection capacity with each adjacent region, both in and out.
 
 The excess generation capacity and unmet load were calculated by running the
 
@@ -7549,26 +7549,26 @@ for each calculated scenario, e.g., the 5.0 °C (Sect. 5.1.1) and 2.0 °C Scen
 
 (Sect. 5.1.2),
 
-• the electrical and heating capacity that will be installed each year for each
+- the electrical and heating capacity that will be installed each year for each
 
 technology;
 
-• the primary energy demand for coal, gas, and biomass fuels in the electricity and
+- the primary energy demand for coal, gas, and biomass fuels in the electricity and
 
 heating sectors;
 
-• the amount of electricity generated per year from nuclear power, oil, and diesel.
+- the amount of electricity generated per year from nuclear power, oil, and diesel.
 
 for each technology:
 
-• ‘employment factors’, or the number of jobs per unit of capacity, separated into
+- ‘employment factors’, or the number of jobs per unit of capacity, separated into
 
 ```
 manufacturing, construction, operation, and maintenance, and per unit of pri-
 mary energy for fuel supply;
 ```
 
-• for the 2020, 2030, and 2050 calculations, a ‘decline factor’ for each technology,
+- for the 2020, 2030, and 2050 calculations, a ‘decline factor’ for each technology,
 
 ```
 which reduces the employment factors by a certain percentage per year. This
@@ -7578,14 +7578,14 @@ improve.
 
 for each region:
 
-• the percentage of local manufacturing and domestic fuel production in each
+- the percentage of local manufacturing and domestic fuel production in each
 
 ```
 region, to calculate the proportions of jobs in manufacturing and fuel production
 that occur in the region;
 ```
 
-• the percentage of world trade in coal and gas fuels, and traded renewable compo-
+- the percentage of world trade in coal and gas fuels, and traded renewable compo-
 
 nents that originates in each region.
 
@@ -12460,18 +12460,18 @@ implicit, narratives about how future economies and societies, and ultimately en
 systems, may develop under the overall objective of ‘deep and rapid decarbonisa-
 tion’ by 2050. These narratives depend on three main strategic pillars:
 
-• Efficiency improvement and demand reduction: stringent implementation of
+- Efficiency improvement and demand reduction: stringent implementation of
 technical and structural efficiency improvements in energy demand and supply.
 These will lead to a continuous reduction in both final and primary energy con-
 sumption. In the 1.5  °C Scenario, these measures must be supplemented with
 responsible energy consumption behaviour by the consumer.
-• Deployment of renewable energies: massive implementation of new technolo-
+- Deployment of renewable energies: massive implementation of new technolo-
 gies for the generation of power and heat in all sectors. These will include vari-
 able renewable energies from solar and wind, which have experienced
 considerable cost reductions in recent years, but also more expensive technolo-
 gies, such as large-scale geothermal and ocean energy, small hydro power, and
 CSP.
-• Sector coupling: stringent direct electrification of heating and transport technolo-
+- Sector coupling: stringent direct electrification of heating and transport technolo-
 gies in order to integrate renewable energy in the most efficient way. Because
 this strategy has its limitations, it will be complemented by the massive use of
 hydrogen (generated by electrolysis) or other synthetic energy carriers.
@@ -12526,7 +12526,7 @@ for energy conversion and infrastructure investment. The development of the futu
 
 global energy demand is determined by three key factors:
 
-• Population growth, which affects the number of people consuming energy or
+- Population growth, which affects the number of people consuming energy or
 
 ```
 using energy services. Associated with this, increasing access to energy services
@@ -12535,7 +12535,7 @@ factor, bearing in mind that this could mean power grid access or the implemen-
 tation of isolated, usually small-scale, local power systems.
 ```
 
-• Economic development, which is commonly measured as GDP. In general, GDP
+- Economic development, which is commonly measured as GDP. In general, GDP
 
 ```
 growth triggers an increase in energy demand, directly via additional industrial
@@ -12543,7 +12543,7 @@ activities and indirectly via an increase in private consumption arising from th
 higher incomes associated with a prospering economy.
 ```
 
-• Energy intensity, which is a measure of how much final energy is required in the
+- Energy intensity, which is a measure of how much final energy is required in the
 
 ```
 industrial sector to produce a unit of GDP. Efficiency measures help to reduce
@@ -14086,10 +14086,10 @@ For our transport scenario modelling, the global warming limits of 2.0  °C and
 1.5  °C were translated into transport CO[^2]: budgets. We structured our scenario
 designs around the following key CO[^2]:-reducing measures[^1]:
 
-• Powertrain electrification;
-• Enhancement of energy efficiency through technological development;
-• Use of bio-based and synthetically produced fuels;
-• Modal shifts (from high- to low-energy intensity modes) and overall reductions
+- Powertrain electrification;
+- Enhancement of energy efficiency through technological development;
+- Use of bio-based and synthetically produced fuels;
+- Modal shifts (from high- to low-energy intensity modes) and overall reductions
 
 in transport activity in energy-intensive transport modes.
 
@@ -14447,10 +14447,10 @@ transport, it offers a very powerful lever for decarbonisation. In terms of driv
 electrification, we cluster the world regions into three groups, according to the dif-
 fusion theory (Rogers [^2003]:):
 
-• _Innovators_: OECD North America (excluding Mexico), OECD Europe, OECD
+- _Innovators_: OECD North America (excluding Mexico), OECD Europe, OECD
 Pacific, and China
-• _Moderate_: Mexico, Non-OECD Asia, India, Eurasia, and Latin America
-• _Late adopters_: Africa and the Middle East.
+- _Moderate_: Mexico, Non-OECD Asia, India, Eurasia, and Latin America
+- _Late adopters_: Africa and the Middle East.
 
 Although this clustering is rough, it sufficiently mirrors the basic tendencies we
 modelled. The regions differ in the speed with which novel technologies, especially
@@ -15064,9 +15064,9 @@ in energy efficiency, and their implementation will steadily improve energy inte
 over time. Regardless of the types of powertrains and fuels used, efficiency improve-
 ments on the MJ/pkm or MJ/tkm level will result from (for example):
 
-• Reductions in powertrain losses through more-efficient motors, gears, power
+- Reductions in powertrain losses through more-efficient motors, gears, power
 electronics, etc.;
-• Reductions in aerodynamic drag;
+- Reductions in aerodynamic drag;
 
 ```
 0.00
@@ -15181,9 +15181,9 @@ J. Pagenkopf et al.
 141
 ```
 
-• Reductions in vehicle mass through light-weighting;
-• The use of smaller vehicles;
-• Operational improvements (e.g., through automatic train operation, load factor
+- Reductions in vehicle mass through light-weighting;
+- The use of smaller vehicles;
+- Operational improvements (e.g., through automatic train operation, load factor
 
 improvements).
 
@@ -17653,13 +17653,13 @@ The following land-use areas were excluded from the deployment of utility-scale
 
 solar photovoltaic (PV) and concentrated solar power plants:
 
-• Residential and urban settlements;
-• Infrastructure for transport (e.g., rail, roads);
-• Industrial areas;
-• Intensive agricultural production land;
-• Nature conservation areas and national parks;
-• Wetlands and swamps;
-• Closed grasslands (a land-use type) (GLC [^2000]:).
+- Residential and urban settlements;
+- Infrastructure for transport (e.g., rail, roads);
+- Industrial areas;
+- Intensive agricultural production land;
+- Nature conservation areas and national parks;
+- Wetlands and swamps;
+- Closed grasslands (a land-use type) (GLC [^2000]:).
 
 **7.2.2 Mapping Solar and Wind Potential**
 
@@ -17756,9 +17756,9 @@ The available areas (in square kilometres) are based on the space-constrained
 assumptions (see Sect. 2.1 in Chap. [^7]:). The installed capacities are calculated based
 on the following space requirements (Table 7.2):
 
-• Solar photovoltaic: 1 MW = 0.04 km[^2]
-• Concentrated solar power: 1 MW = 0.04 km[^2]
-• Onshore wind: 1 MW = 0.2 km[^2]
+- Solar photovoltaic: 1 MW = 0.04 km[^2]
+- Concentrated solar power: 1 MW = 0.04 km[^2]
+- Onshore wind: 1 MW = 0.2 km[^2]
 
 Note: Mapping Eurasia was not possible because the data files were
 incomplete.
@@ -22843,7 +22843,7 @@ nologies is around 45%. For this analysis, we created five different power plant
 
 categories based on their current usual operation times and areas of use:
 
-• **Limited dispatchable fossil and nuclear power plants**: coal, lignite, and
+- **Limited dispatchable fossil and nuclear power plants**: coal, lignite, and
 
 ```
 nuclear power plants with limited ability to respond to changes in demand. These
@@ -22854,7 +22854,7 @@ required. Limited dispatchable power plants cannot deliver these services and ar
 therefore being phased-out.
 ```
 
-• **Limited dispatchable renewable systems** are CSP plants with integrated stor-
+- **Limited dispatchable renewable systems** are CSP plants with integrated stor-
 
 ```
 age and co-generation systems with renewable fuels (including geothermal heat).
@@ -22863,11 +22863,11 @@ demand, but can still be used as dispatch power plants for ‘day ahead’
 planning.
 ```
 
-• **Dispatchable fossil fuel power plants** are gas power plants that have very quick
+- **Dispatchable fossil fuel power plants** are gas power plants that have very quick
 
 reaction times and therefore provide valid power system services.
 
-• **Dispatchable renewable power plants** are hydropower plants (although they
+- **Dispatchable renewable power plants** are hydropower plants (although they
 
 ```
 are dependent on the climatic conditions in the region where the plant is used),
@@ -22877,7 +22877,7 @@ load-balancing services and is vital for the stability of the power system, as s
 age systems, interconnections, and, if possible, demand-side management.
 ```
 
-• **Variable renewables** are solar PV plants, onshore and offshore wind farms, and
+- **Variable renewables** are solar PV plants, onshore and offshore wind farms, and
 
 ```
 ocean energy generators. A sub-category of ocean energy plants—tidal energy
@@ -73483,18 +73483,18 @@ tends to fall. The multipliers are shown in Table 10.3.
 Local employment factors were used where possible. These region-specific factors
 were:
 
-• _OECD Americas—_gas and coal fuel, photovoltaics (PV) and offshore wind (all
+- _OECD Americas—_gas and coal fuel, photovoltaics (PV) and offshore wind (all
 factors), and solar thermal power (construction and operation and maintenance
 (O&M)
-• _OECD Europe—_gas and coal fuel, offshore wind (all factors), solar thermal
+- _OECD Europe—_gas and coal fuel, offshore wind (all factors), solar thermal
 power (construction and O&M), and solar heating
-• _OECD Pacific—_gas and coal fuel
-• _Africa_—gas, coal, and biomass fuel
-• _China—_gas and coal fuel, and solar heating
-• _Eastern Europe/Eurasia—_gas and coal fuel
-• _Developing Asia_—coal fuel
-• _India_ – coal fuel and solar heating
-• _Latin America—_coal and biomass fuels, onshore wind (all factors), nuclear (con-
+- _OECD Pacific—_gas and coal fuel
+- _Africa_—gas, coal, and biomass fuel
+- _China—_gas and coal fuel, and solar heating
+- _Eastern Europe/Eurasia—_gas and coal fuel
+- _Developing Asia_—coal fuel
+- _India_ – coal fuel and solar heating
+- _Latin America—_coal and biomass fuels, onshore wind (all factors), nuclear (con-
 struction and O&M), large hydro (O&M), and small hydro (construction and
 O&M).
 
@@ -73563,15 +73563,15 @@ than in the 2.0 °C Scenario. By 2050, employment in te energy sector will be w
 
 the same range in both scenarios, at around 48–50 million jobs.
 
-• In 2025, there will be 29.6 million energy-sector jobs in the 5.0  °C Scenario,
+- In 2025, there will be 29.6 million energy-sector jobs in the 5.0  °C Scenario,
 
 42.3 million in the 2.0 °C Scenario, and 48.1 million in the 1.5 °C Scenario.
 
-• In 2030, there will be 30.3 million energy-sector jobs in the 5.0  °C Scenario,
+- In 2030, there will be 30.3 million energy-sector jobs in the 5.0  °C Scenario,
 
 49.2 million in the 2.0 °C Scenario, and 53.8 million in the 1.5 °C Scenario.
 
-• In 2050, there will be 29.6 million energy-sector jobs in the 5.0  °C Scenario,
+- In 2050, there will be 29.6 million energy-sector jobs in the 5.0  °C Scenario,
 
 50.4 million in the 2.0 °C Scenario, and 47.8 million in the 1.5 °C Scenario.
 
@@ -74500,10 +74500,10 @@ categories in the IRENA studies containe jobs that are of interest from a just
 transition perspective. Specifically, IRENA combines:
 ```
 
-• ‘Factory workers’ for solar PV and onshore and offshore wind
+- ‘Factory workers’ for solar PV and onshore and offshore wind
 manufacturing
-• ‘Ship crews’ for offshore wind construction and operation and maintenance
-• ‘Construction workers’ for solar PV, onshore wind farm construction, and
+- ‘Ship crews’ for offshore wind construction and operation and maintenance
+- ‘Construction workers’ for solar PV, onshore wind farm construction, and
 operation and maintenance.
 
 [^10]: Just Transition: Employment Projections for the 2.0 °C and 1.5 °C Scenarios
@@ -75296,7 +75296,7 @@ occupations, but much lower proportions of machinery operators and drivers.
 
 **10.3.1.1 Methodology and Limitations**
 
-• At the aggregate level, it is assumed that rising labour productivity over time will
+- At the aggregate level, it is assumed that rising labour productivity over time will
 
 ```
 reduce the labour intensity (i.e., less FTE/MW) that is applied in the construc-
@@ -75307,7 +75307,7 @@ of less-skilled jobs would fall as a result of mechanization. Therefore, the sha
 of less-skilled jobs is likely to be overestimated.
 ```
 
-• IRENA estimates a single global figure for each occupation, averaged from sur-
+- IRENA estimates a single global figure for each occupation, averaged from sur-
 
 ```
 veys of industry participants across different global markets. In practice, there
@@ -75320,7 +75320,7 @@ it is likely that the proportion of less-skilled jobs is overestimated for rich 
 mies and underestimated for less-developed economies.
 ```
 
-• The breakdown of the category of ‘construction workers’ is based on interviews
+- The breakdown of the category of ‘construction workers’ is based on interviews
 
 ```
 with some Australian solar and wind project managers. The project managers
@@ -77750,9 +77750,9 @@ Total
 Ship crew
 ```
 
-–
-–
-–
+-
+-
+-
 
 ```
 490,000
@@ -78926,9 +78926,9 @@ Total
 Ship crew
 ```
 
-–
-–
-–
+-
+-
+-
 
 ```
 355,791
@@ -83032,10 +83032,10 @@ effectively develop energy policy and its regulative interventions. The most imp
 
 tant interventions to accelerate the energy transition are:
 
-• Renewable energy targets and incentives for their deployment and expansion;
-• Internalization of external costs by carbon tax or surcharge;
-• Phase-out of fossil fuel subsidies;
-• Accelerated replacement of fossil and inefficient technologies.
+- Renewable energy targets and incentives for their deployment and expansion;
+- Internalization of external costs by carbon tax or surcharge;
+- Phase-out of fossil fuel subsidies;
+- Accelerated replacement of fossil and inefficient technologies.
 
 Renewable energy targets are vital to accelerate the deployment of renewable
 

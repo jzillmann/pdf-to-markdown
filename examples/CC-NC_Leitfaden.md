@@ -247,7 +247,7 @@ Source deshalb, weil Softwareentwickler nicht
 jedes Mal von vorne beginnen wollten, wenn
 ```
 
-###### DAS UNIVERSUM DES FREIEN WISSENS
+DAS UNIVERSUM DES FREIEN WISSENS
 
 Es gibt inzwischen viele Projekte, die es sich zum Ziel gesetzt haben, Freies Wissen zu
 fördern und zu verbreiten. Die Grafik zeigt nur einen Ausschnitt: In der der Online-Enzy-
@@ -289,9 +289,9 @@ dung dieser Lizenzen nur einige Rechte vorbehal-
 ten sein. So werden die jeweiligen Inhalte für die
 Nutzung durch die Allgemeinheit freigegeben.
 
-**Creative Commons steht nicht im Widerspruch
-zum geltenden Urheberrecht, sondern baut
-darauf auf.** Ohne das Urheberrecht würde die
+**Creative Commons steht nicht im Widerspruch**
+**zum geltenden Urheberrecht, sondern baut**
+**darauf auf.** Ohne das Urheberrecht würde die
 Freigabe gar nicht funktionieren. Urheberrecht-
 lich geschützte Inhalte, wie Filme, Musik, Texte,
 Bilder und so weiter, können durch eine solche
@@ -401,7 +401,7 @@ zulassen wollen. Einigen ist es besonders wichtig,
 dass ihr Werk unverändert bleibt und nicht ver-
 fälscht wird. Diese Kreativen können sich durch
 das Modul Keine Bearbeitung (abgekürzt ND
-– no derivatives) absichern und trotzdem andere
+- no derivatives) absichern und trotzdem andere
 Nutzungen ihres Werks erlauben.
 ```
 
@@ -490,7 +490,7 @@ NC-Bedingung unzulässig. Viele Blogger schal-
 ten Werbung, um ihre Server-Kosten zu decken
 oder sich einen Zuverdienst zu ermöglichen.
 Dadurch ist die Nutzung in diesen Blogs nicht
-– oder zumindest nicht mehr eindeutig – nicht-
+- oder zumindest nicht mehr eindeutig – nicht-
 kommerziell.
 
 ## 5
@@ -1010,7 +1010,7 @@ können. Solche Bildungseinrichtungen sind auf
 eigene Einnahmen angewiesen. Mit dieser Ori-
 entierung, eigene Einnahmen zu erzielen, ist ihre
 Tätigkeit auf eine geldwerte Vergütung gerichtet
-– und zwar in einem Maße, das nicht als vernach-
+- und zwar in einem Maße, das nicht als vernach-
 lässigbar gewertet werden kann.
 ```
 
@@ -1383,17 +1383,17 @@ bei Wikipedia folgendes:
 
 Die Namensnennung soll erfolgen:
 
-– durch einen Hyperlink (wenn möglich) oder
+- durch einen Hyperlink (wenn möglich) oder
 eine URL auf die Seite, zu der man beigetra-
 gen hat,
 
-– durch einen Hyperlink (wenn möglich) oder
+- durch einen Hyperlink (wenn möglich) oder
 eine URL auf eine alternative, stabile, frei
 zugängliche, lizenzkonforme Online-Kopie,
 welche die Autoren in einer zum ursprüngli-
 chen Text gleichwertigen Weise nennt, oder
 
-– durch eine Liste sämtlicher Autoren. Jede
+- durch eine Liste sämtlicher Autoren. Jede
 Autorenliste kann um sehr kleine oder irre-
 levante Beiträge gekürzt werden.
 
@@ -1457,7 +1457,7 @@ Herausgeber:
 Wikimedia Deutschland – Gesellschaft zur Förderung
 Freien Wissens e. V.
 Obentrautstr. 72, 10963 Berlin
-[http://www.wikimedia.de](http://www.wikimedia.de)
+[www.wikimedia.de](www.wikimedia.de)
 info@wikimedia.de
 +49(0)30-219 15 826-0
 

@@ -19,9 +19,9 @@ KEPLER (quoted in The Anatomy of Melancholy)
 
 ## MARTIANS
 
-### CHAPTER ONE
+CHAPTER ONE
 
-### THE EVE OF THE WAR
+THE EVE OF THE WAR
 
 No one would have believed in the last years of the
 nineteenth century that this world was being watched

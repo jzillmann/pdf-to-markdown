@@ -763,7 +763,7 @@ alms extorted from him : his love makes him
 
 willing to give ; and though there were no out
 
-•
+-
 
 ward obligation, his heart zvotild devise liberal
 
@@ -5569,7 +5569,7 @@ WE MUST RESIST THE TEMPTATIONS OF SIN,
 
 ## DRAW ON US.
 
-## 13 UT now, amongst those things which we
+## [^13]: UT now, amongst those things which we
 
 ```
 discover to be sinful, there will be some,

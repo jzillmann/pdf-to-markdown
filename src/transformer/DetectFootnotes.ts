@@ -47,6 +47,8 @@ export default class DetectFootnotes extends ItemTransformer {
           stash.push(item);
         }
       });
+
+      // TODO check whether or not footnotes and their links correspond (the numbers)
     });
 
     return {

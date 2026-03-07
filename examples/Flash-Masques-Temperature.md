@@ -48,12 +48,12 @@ Expérience : mesures de l’évolution de la température en fonction du temps 
 ordinaires à usage familial.
 
 Outils :
-• Un thermomètre de cuisine équipé d’une sonde (HABOR)
-• Une bouilloire électrique à la température non réglable (RUSSEL-HOBS)
-• 3 types de récipients sélectionnés : - une casserole inox,
+- Un thermomètre de cuisine équipé d’une sonde (HABOR)
+- Une bouilloire électrique à la température non réglable (RUSSEL-HOBS)
+- 3 types de récipients sélectionnés : - une casserole inox,
 - un saladier en porcelaine
 - un récipient plastique (Tupperware)
-• Un masque en tissu par récipient
+- Un masque en tissu par récipient
 
 Protocole de mesure :
 
@@ -104,10 +104,10 @@ départ pour tenir 30 mn est d’environ 75°C quelque soit le récipient.
 
 ```
 Conclusion
-• La garantie de conserver la température à 60°C pendant 30 mn comme préconisé dans le guide
+- La garantie de conserver la température à 60°C pendant 30 mn comme préconisé dans le guide
 de spécifications AFNOR S76-001 pour le lavage manuel des masques barrière en tissu, peut se
 faire dans n’importe quel récipient à condition de bien le couvrir.
-• Si vous avez une bouilloire électrique modulable, vous pouvez régler la température maximale à
+- Si vous avez une bouilloire électrique modulable, vous pouvez régler la température maximale à
 70°C.
 ```
 

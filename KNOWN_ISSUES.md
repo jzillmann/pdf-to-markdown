@@ -1,10 +1,27 @@
+# TODO now
+
+- [x] space between ```
+- [x] fett/kursiv in Listen
+- [x] einrückung listen (example.pdf)
+- [ ] list bullets sometimes invalid (Closed-Syllables.pdf)
+- [ ] langer list text einrückung
+- [ ] bindestriche ?
+- [ ] fett/kursiv über lines hinweg
+- [ ] links without http (e.g. CC-NC_Leitfaden.pdf)
+- [ ] not keeping paragraph separated (Closed-Syllables.pdf)
+- [ ] fett/kursiv detection (Grammar-Matters)
+- [ ] link screwup (Grammar-Matters)
+- [ ] eingerückter text unter listen mit ``` (Achieving-The-Paris-Climate-Agreement, "Mapping IRENA")
+- [ ] why heading (Achieving-The-Paris-Climate-Agreement, "Fig. 8.22")
+- [ ] Links not detected (St-Mary-Witney-Social-Audit.pdf, "UpMyStreet")
+
 # Known Issues
 
 - `IRENE NORTON, ne A ́ DLER` in Sherlock Holmes
 - double sided text: right side marked as code (e.g. CC-NC_Leitfaden.pdf)
 - upper/lowercas characters wrongly detected (e.g. CC-NC_Leitfaden.pdf)
 - footnotes which arnt footnotes (CC_License_Agreement_of_siMPle.pdf) but links (parser issue?)
-- alternating page layout => code detection (Life-Of-God-In-Soul-Of-Man.pdf)
+- alternating page layout => code detection (Life-Of-God-In-Soul-Of-Man.pdf, The-Man-Without-A-Body.pdf)
 - letters are screwed up often (Life-Of-God-In-Soul-Of-Man.pdf)
 - no TOC detection (Made-with-cc.pdf)
 

@@ -1155,17 +1155,17 @@ sharing software. In the 1980s, the free-soft-
 ware movement codified this practice of shar-
 ing into a set of principles and freedoms:
 
-• The freedom to run a software program as
+- The freedom to run a software program as
 you wish, for any purpose.
 
-• The freedom to study how a software pro-
+- The freedom to study how a software pro-
 gram works (because access to the source
 code has been freely given), and change it
 so it does your computing as you wish.
 
-• The freedom to redistribute copies.
+- The freedom to redistribute copies.
 
-• The freedom to distribute copies of your
+- The freedom to distribute copies of your
 modified versions to others.[^16]
 
 These principles and freedoms constitute a set
@@ -6846,22 +6846,22 @@ titative terms—with facts and figures—and
 in a way that is very student-focused. Lumen
 Learning helps colleges and universities—
 
-• replace expensive textbooks in high-enroll-
+- replace expensive textbooks in high-enroll-
 ment courses with OER;
 
-• provide enrolled students day one access
+- provide enrolled students day one access
 to Lumen’s fully customizable OER course
 materials through the institution’s learn-
 ing-management system;
 
 ```
-• measure improvements in student success
+- measure improvements in student success
 with metrics like passing rates, persistence,
 and course completion; and
 ```
 
 ```
-• collaborate with faculty to make ongoing
+- collaborate with faculty to make ongoing
 improvements to OER based on student
 success research.
 ```
@@ -7741,16 +7741,16 @@ Interviewee: Jeni Tennison, technical director
 Profile written by Paul Stacey
 ```
 
-• demonstrate the commercial value of open
+- demonstrate the commercial value of open
 government data and how open-data poli-
 cies affect this;
 
-• develop the economic benefits case and
+- develop the economic benefits case and
 business models for open data;
 
-• help UK businesses use open data; and
+- help UK businesses use open data; and
 
-• show how open data can improve public
+- show how open data can improve public
 services.[^1]
 
 ODI is very explicit about how it wants to
@@ -7862,14 +7862,14 @@ more toward commercial organizations.
 On the commercial side, the following value
 propositions seem to resonate:
 
-• Data-driven insights. Businesses need data
+- Data-driven insights. Businesses need data
 from outside their business to get more
 insight. Businesses can generate value and
 more effectively pursue their own goals if
 they open up their own data too. Big data
 is a hot topic.
 
-• Open innovation. Many large-scale enter-
+- Open innovation. Many large-scale enter-
 prises are aware they don’t innovate very
 well. One way they can innovate is to open
 up their data. ODI encourages them to do
@@ -7878,7 +7878,7 @@ lenges. The key is to invite other people to
 help while still maintaining organizational
 autonomy.
 
-• Corporate social responsibility. While this
+- Corporate social responsibility. While this
 resonates with businesses, ODI cautions
 against having it be the sole reason for
 making data open. If a business is just
@@ -7989,7 +7989,7 @@ dicators. Here are a few metrics as of April 27,
 ```
 
 ```
-• Total amount of cash investments unlocked
+- Total amount of cash investments unlocked
 in direct investments in ODI, competition
 funding, direct contracts, and partner-
 ships, and income that ODI nodes and ODI
@@ -7998,27 +7998,27 @@ ODI program: £44.5 million
 ```
 
 ```
-• Total number of active members and
+- Total number of active members and
 nodes across the globe: 1,350
 ```
 
 ```
-• Total sales since ODI began: £7.44 million
+- Total sales since ODI began: £7.44 million
 ```
 
 ```
-• Total number of unique people reached
+- Total number of unique people reached
 since ODI began, in person and online: 2.2
 million
 ```
 
 ```
-• Total Open Data Certificates created:
+- Total Open Data Certificates created:
 151,000
 ```
 
 ```
-• Total number of people trained by ODI and
+- Total number of people trained by ODI and
 its nodes since ODI began: 5,0805
 ```
 
@@ -8190,7 +8190,7 @@ rectly from a registered maker, they pay:
 ```
 
 ```
-• the manufacturing cost as set by the maker
+- the manufacturing cost as set by the maker
 (this covers material and labour costs for
 the product to be manufactured and any
 extra assembly costs charged by the mak-
@@ -8198,19 +8198,19 @@ er)
 ```
 
 ```
-• a design fee for the designer (a design fee
+- a design fee for the designer (a design fee
 that is paid to the designer every time their
 design is used)
 ```
 
 ```
-• a percentage fee to the Opendesk platform
+- a percentage fee to the Opendesk platform
 (this supports the infrastructure and ongo-
 ing development of the platform that helps
 us build out our marketplace)
 ```
 
-• a percentage fee to the channel through
+- a percentage fee to the channel through
 which the sale is made (at the moment this
 is Opendesk, but in the future we aim to
 open this up to third-party sellers who can
@@ -8218,19 +8218,19 @@ sell Opendesk products through their own
 channels—this covers sales and marketing
 fees for the relevant channel)
 
-• a local delivery service charge (the delivery
+- a local delivery service charge (the delivery
 is typically charged by the maker, but in
 some cases may be paid to a third-party
 delivery partner)
 
-• charges for any additional services the cus-
+- charges for any additional services the cus-
 tomer chooses, such as on-site assembly
 (additional services are discretionary—in
 many cases makers will be happy to quote
 for assembly on-site and designers may
 offer bespoke design options)
 
-• local sales taxes (variable by customer and
+- local sales taxes (variable by customer and
 maker location)[^3]
 
 They then go into detail how makers’ quotes
@@ -8250,26 +8250,26 @@ Percentage fees are always based on the un-
 derlying manufacturing cost and are typically
 apportioned as follows:
 
-• manufacturing cost: fabrication, finishing
+- manufacturing cost: fabrication, finishing
 and any other costs as set by the maker
 (excluding any services like delivery or on-
 site assembly)
 
-• design fee: 8 percent of the manufacturing
+- design fee: 8 percent of the manufacturing
 cost
 
 ```
-• platform fee: 12 percent of the manufac-
+- platform fee: 12 percent of the manufac-
 turing cost
 ```
 
 ```
-• channel fee: 18 percent of the manufactur-
+- channel fee: 18 percent of the manufactur-
 ing cost
 ```
 
 ```
-• sales tax: as applicable (depends on prod-
+- sales tax: as applicable (depends on prod-
 uct and location)
 ```
 
@@ -8352,12 +8352,12 @@ one:
 ```
 
 ```
-• charges a fee or makes a profit when mak-
+- charges a fee or makes a profit when mak-
 ing an Opendesk
 ```
 
 ```
-• sells (or bases a commercial service on) an
+- sells (or bases a commercial service on) an
 Opendesk
 ```
 
@@ -8370,21 +8370,21 @@ qualify as noncommercial:
 ```
 
 ```
-• you are an individual with your own CNC
+- you are an individual with your own CNC
 machine, or access to a shared CNC ma-
 chine, and will personally cut and make a
 few pieces of furniture yourself
 ```
 
 ```
-• you are a student (or teacher) and you use
+- you are a student (or teacher) and you use
 the design files for educational purposes
 or training (and do not intend to sell the
 resulting pieces)
 ```
 
 ```
-• you work for a charity and get furniture cut
+- you work for a charity and get furniture cut
 by volunteers, or by employees at a fab lab
 or maker space
 ```
@@ -8745,22 +8745,22 @@ achieved some impressive results. From the
 _OpenStax at a Glance_ fact sheet from their re-
 cent press kit:
 
-• Books published: 23
+- Books published: 23
 
-• Students who have used OpenStax: 1.6
+- Students who have used OpenStax: 1.6
 million
 
 ```
-• Money saved for students: $155 million
+- Money saved for students: $155 million
 ```
 
 ```
-• Money saved for students in the 2016/17
+- Money saved for students in the 2016/17
 academic year: $77 million
 ```
 
 ```
-• Schools that have used OpenStax: 2,668
+- Schools that have used OpenStax: 2,668
 (This number reflects all institutions using
 at least one OpenStax textbook. Out of
 2,668 schools, 517 are two-year colleges,
@@ -11614,11 +11614,11 @@ Press, 2006.
 ———. _Open Innovation: The New Imperative_
 _for Creating and Profiting from Technology._
 Boston: Harvard Business Review Press,
-2006.
-City of Bologna. _Regulation on Collaboration_
-_between Citizens and the City for the Care_
-_and Regeneration of Urban Commons._
-Translated by LabGov (LABoratory for the
+  2006.
+  City of Bologna. _Regulation on Collaboration_
+_  between Citizens and the City for the Care_
+_  and Regeneration of Urban Commons._
+  Translated by LabGov (LABoratory for the
 
 GOVernance of Commons). Bologna, Italy:
 City of Bologna, 2014). www.labgov.it

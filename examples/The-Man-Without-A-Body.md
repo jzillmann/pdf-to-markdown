@@ -1,9 +1,9 @@
 ```
 {from} THE {New York} SUN, SUNDAY, MARCH 25, 1877.
 ```
-## THE MAN WITHOUT A BODY
 
 ```
+THE MAN WITHOUT A BODY
 {by Edward Page Mitchell}
 ```
 

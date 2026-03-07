@@ -10,7 +10,9 @@ import {
   startSymbol,
   tokenToText,
 } from '../token-types';
+import { isListItemCharacter } from '../support/stringFunctions';
 
+const MARKDOWN_LIST_MARKERS = new Set(['-', '+', '*']);
 export default class MarkdownConverter implements Converter {
   convert(items: Item[]) {
     let content = '';
@@ -65,6 +67,10 @@ export function lineToText(lineItems: Item[], blockTypes: TextType[]) {
     const words = toWords(lineItem.data['str']);
     words.forEach((word, wordIndex) => {
       if (indexInLine === 0 && wordIndex === 0) {
+        if (isListItemCharacter(word) && !MARKDOWN_LIST_MARKERS.has(word)) {
+          word = '-'; // Unify to something markdown supports
+        }
+
         if (lineItem.listLevel) {
           word = ' '.repeat(lineItem.listLevel * 2) + word;
         }

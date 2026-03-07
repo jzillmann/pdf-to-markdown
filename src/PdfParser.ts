@@ -69,8 +69,12 @@ export default class PdfParser {
         return pdfjsDocument.getPage(index + 1).then((pdfjsPage: any) => {
           return pdfjsPage
             .getTextContent({
+              // TODO review those settings
               normalizeWhitespace: false,
               disableCombineTextItems: true,
+              // TODO are the above wrong and the below right ? see https://mozilla.github.io/pdf.js/api/draft/module-pdfjsLib.html
+              // includeMarkedContent: false,
+              // disableNormalization: false,
             })
             .then((textContent: any) => {
               const items = textContent.items.map((pdfjsItem: any) => new Item(index, pdfjsItem));

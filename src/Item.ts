@@ -1,6 +1,7 @@
 import { v4 as uuidv4 } from 'uuid';
 import { TokenType } from './token-types';
 
+// TODO rename to Token
 export default class Item {
   page: number;
   data: object;

@@ -10,10 +10,15 @@
 Garrett Hardin
 ```
 
+```
+At the end of a thoughtful article on
+```
 
-##### and,morespecifically,withtheidentifi-
+```
+the future of nuclear war, Wiesner and
+```
 
-##### cationanddiscussionofone ofthese.
+York (1) concluded that: "Both sides in
 
 ```
 the arms race are ... confronted by the

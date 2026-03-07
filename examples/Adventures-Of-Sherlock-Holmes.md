@@ -4246,8 +4246,9 @@ be in time for breakfast.”
 
 #### Adventure VII
 
+## The Adventure Of The Blue
 
-## The Adventure Of The Blue Carbuncle
+## Carbuncle
 
 ## I
 

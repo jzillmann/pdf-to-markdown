@@ -27,8 +27,8 @@ Intel Corporation$
 University of California, Irvine+
 {mbebenit,changm,franz}@uci.edu
 ```
-## Abstract
 
+Abstract
 Dynamic languages such as JavaScript are more difficult to com-
 pile than statically typed ones. Since no concrete type information
 is available, traditional compilers need to emit generic code that can
@@ -52,8 +52,7 @@ mance.
 
 Keywords JavaScript, just-in-time compilation, trace trees.
 
-## 1. Introduction
-
+1. Introduction
 Dynamic languagessuch as JavaScript, Python, and Ruby, are pop-
 ular since they are expressive, accessible to non-experts, and make
 deployment as easy as distributing a source file. They are used for
@@ -120,7 +119,7 @@ trace exits. If an exit becomes hot, the VM can record a branch
 trace starting at the exit to cover the new path. In this way, the VM
 records a trace tree covering all the hot paths through the loop.
 Nested loops can be difficult to optimize for tracing VMs. In
-a näıve implementation, inner loops would become hot first, and
+a na ̈ıve implementation, inner loops would become hot first, and
 the VM would start tracing there. When the inner loop exits, the
 VM would detect that a different branch was taken. The VM would
 try to record a branch trace, and find that the trace reaches not the
@@ -133,7 +132,7 @@ of unintended tail duplication, which can easily overflow the code
 cache. Alternatively, the VM could simply stop tracing, and give up
 on ever tracing outer loops.
 We solve the nested loop problem by recording nested trace
-trees. Our system traces the inner loop exactly as the näıve version.
+trees. Our system traces the inner loop exactly as the na ̈ıve version.
 The system stops extending the inner tree when it reaches an outer
 loop, but then it starts a new trace at the outer loop header. When
 the outer loop reaches the inner loop header, the system tries to call
@@ -1624,7 +1623,7 @@ passed a function object used to compute the replacement text.
 Our implementation currently does not trace functions called
 as replace functions. The run time of string-unpack-code is
 dominated by such a replace call.
-• Two programs trace well, but have a long compilation time.
+  • Two programs trace well, but have a long compilation time.
 
 ```
 access-nbodyforms a large number of traces (81).crypto-md5

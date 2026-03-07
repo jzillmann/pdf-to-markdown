@@ -8073,8 +8073,8 @@ weekend.
 Now for a lil [2]Linky Love
 
 • Still looking for some creative ideas for your celebration?
-– [3]Not Just a Mommy has some inspiring treat ideas
-– Visit [4]Frost Me for additional party ideas.
+**  –** [3]Not Just a Mommy has some inspiring treat ideas
+**  –** Visit [4]Frost Me for additional party ideas.
 • If unforgiveness has you chained, why not set yourself free? Ann Voskamps article entitled [5]The
 Work of All Children: How to Forgive Our Parents, offers some practical advice.
 • Im certainly glad to live in a free country and grateful to those who work to protect our freedom but
@@ -28697,15 +28697,15 @@ friends).
 
 _3 things in life that never come back when gone_
 
-1. TIME
-2. WORDS
-3. OPPORTUNITY
+_1. TIME_
+_2. WORDS_
+_3. OPPORTUNITY_
 
 _3 things in life that should never be lost:_
 
-1. PEACE
-2.HOPE
-3.HONESTY
+_1. PEACE_
+_2.HOPE_
+_3.HONESTY_
 
 _3 things in life that are most valuable:_
 

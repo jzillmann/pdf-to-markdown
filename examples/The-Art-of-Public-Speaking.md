@@ -10,8 +10,8 @@ Title: The Art of Public Speaking
 
 Author: Dale Carnagey (AKA Dale Carnegie) and J. Berg Esenwein
 
+Release Date: July [^1]:[^7]:, [^2]:[^0]:[^0]:[^5]: [EBook #[^1]:[^6]:[^3]:[^1]:[^7]:]
 
-Release	Date:	July	17,	2005	[EBook	#16317]
 Language: English
 
 *** START OF THIS PROJECT GUTENBERG EBOOK THE ART OF PUBLIC SPEAKING ***
@@ -1214,8 +1214,8 @@ are simple illustrations of the power of contrast.
 -----------------------------------
 (High pitch) |
 | I do not know."
------------------------------------
-(Low pitch)
+  -----------------------------------
+  (Low pitch)
 
 By such sudden change of pitch during a sermon Dr. Newell Dwight Hillis
 recently achieved great emphasis and suggested the gravity of the question he
@@ -2620,7 +2620,7 @@ THE IRREPRESSIBLE CONFLICT
 ```
 
 ... At last, the Republican party has appeared. It avows, now, as the
-Republican party of 1800 did, in one word, its faith and its works,
+Republican party of [^1]:[^8]:[^0]:[^0]: did, in one word, its faith and its works,
 "Equal and exact justice to all men." Even when it first entered the
 field, only half organized, it struck a blow which only just failed to
 secure complete and triumphant victory. In this, its second
@@ -2847,12 +2847,12 @@ And yet I told him dis-
 --------------------------
 (high) |
 | tinctly.
--------------------------
-(low)
-tinctly.
--------------------------
-| (high)
-And yet I told him dis- |
+  -------------------------
+  (low)
+  tinctly.
+  -------------------------
+  | (high)
+  And yet I told him dis- |
 -------------------------
 (low)
 
@@ -2913,11 +2913,16 @@ patient self-examination see how many shades of meaning may be expressed by
 inflection. This sort of common-sense practise will do you more good than a
 book of rules. _But don't forget to listen to your own voice._
 
-1.	In	your	own	words	define	(a)	cadence,	(b)	modulation,	(c)	inflection,	(d)
-emphasis.
-2.	Name	five	ways	of	destroying	monotony	and	gaining	effectiveness	in	speech.
-3.	What	states	of	mind	does	falling	inflection	signify?	Make	as	full	a	list	as	you
+```
+QUESTIONS AND EXERCISES
+```
 
+[^1]:. In your own words define (a) cadence, (b) modulation, (c) inflection, (d)
+emphasis.
+
+[^2]:. Name five ways of destroying monotony and gaining effectiveness in speech.
+
+[^3]:. What states of mind does falling inflection signify? Make as full a list as you
 
 can.
 
@@ -19933,10 +19938,10 @@ Voice, [^3]:[^2]:, [^1]:[^2]:[^4]:-[^1]:[^4]:[^4]:.
 VOLTAIRE, [^4]:.
 
 **W**
-WATTERSON,	HENRY,	 303 ,	402-403.
-WEBSTER,	DANIEL,	 2 ,	 73 ,	 103 ,	 109 ,	 201 ,	 278 ;
-				Eulogy	of,	by	Rufus	Choate,	464-469.
-WEED,	THURLOW,	 349.
+WATTERSON, HENRY, [^3]:[^0]:[^3]:, [^4]:[^0]:[^2]:-[^4]:[^0]:[^3]:.
+WEBSTER, DANIEL, [^2]:, [^7]:[^3]:, [^1]:[^0]:[^3]:, [^1]:[^0]:[^9]:, [^2]:[^0]:[^1]:, [^2]:[^7]:[^8]:;
+Eulogy of, by Rufus Choate, [^4]:[^6]:[^4]:-[^4]:[^6]:[^9]:.
+WEED, THURLOW, [^3]:[^4]:[^9]:.
 
 WENDELL, PROF. BARRETT, [^9]:[^3]:.
 WESCOTT, JOHN W., [^4]:[^2]:[^4]:-[^4]:[^2]:[^5]:.
@@ -20105,28 +20110,28 @@ unless you comply with paragraph [^1]:.E.[^8]: or [^1]:.E.[^9]:.
 access to or distributing Project Gutenberg-tm electronic works provided
 that
 
-- You pay a royalty fee of 20% of the gross profits you derive from
+- You pay a royalty fee of [^2]:[^0]:% of the gross profits you derive from
 the use of Project Gutenberg-tm works calculated using the method
 you already use to calculate your applicable taxes. The fee is
 owed to the owner of the Project Gutenberg-tm trademark, but he
 has agreed to donate royalties under this paragraph to the
 Project Gutenberg Literary Archive Foundation. Royalty payments
-must be paid within 60 days following each date on which you
+must be paid within [^6]:[^0]: days following each date on which you
 prepare (or are legally required to prepare) your periodic tax
 returns. Royalty payments should be clearly marked as such and
 sent to the Project Gutenberg Literary Archive Foundation at the
-address specified in Section 4, "Information about donations to
+address specified in Section [^4]:, "Information about donations to
 the Project Gutenberg Literary Archive Foundation."
 - You provide a full refund of any money paid by a user who notifies
-you in writing (or by e-mail) within 30 days of receipt that s/he
+you in writing (or by e-mail) within [^3]:[^0]: days of receipt that s/he
 does not agree to the terms of the full Project Gutenberg-tm
 License. You must require such a user to return or
 destroy all copies of the works possessed in a physical medium
 and discontinue all use of and all access to other copies of
 Project Gutenberg-tm works.
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
+- You provide, in accordance with paragraph [^1]:.F.[^3]:, a full refund of any
 money paid for a work or a replacement copy, if a defect in the
-electronic work is discovered and reported to you within 90 days
+electronic work is discovered and reported to you within [^9]:[^0]: days
 of receipt of the work.
 - You comply with all other terms of this agreement for free
 

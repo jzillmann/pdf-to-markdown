@@ -29,8 +29,8 @@ changed the entire meaning. Typos can sometimes form correctly spelled words
 with very different meanings.
 ```
 
-2. Correct grammar reveals the writer’s attention to detail, competency, and
-professionalism. If it seems like the writer is too distracted or sloppy to learn the rules
+**2. Correct grammar reveals the writer’s attention to detail, competency, and**
+**professionalism.** If it seems like the writer is too distracted or sloppy to learn the rules
 of grammar, it begs the question, where else are they distracted and sloppy. Your
 written words are representing you. You want the reader to focus on your message and
 not your mistakes.
@@ -50,7 +50,7 @@ Applicants who don’t think writing is important are likely to think lots of ot
 (important) things also aren’t important. After all, sloppy is as sloppy does.”
 ```
 
-3. In business writing you are representing your company and yourself. No
+**3. In business writing you are representing your company and yourself.** No
 company wants their employees to send out messages filled with grammar errors. It
 makes the company look sloppy and unprofessional. Studies have shown that a single
 spelling mistake on a website can cut online sales revenue in half. It might seem like a
@@ -66,13 +66,13 @@ doing this, you can emphasize your main point.
 
 #### Common Errors in Business Writing
 
-1. Effective writers should not depend on spell-check programs to catch all of the
-proofreading errors. Spell-check will catch spelling errors, typos, and basic grammar
+**1. Effective writers should not depend on spell-check programs to catch all of the**
+**proofreading errors.** Spell-check will catch spelling errors, typos, and basic grammar
 errors; however, it cannot replace concentrated proofreading. Spell-check only catches
 words that are not in the English language. If your typo happens to create a word in the
 English language, spell-check will not catch it. The meaning might be completely different.
 Spell-check does not know the difference between a person _definitely attending_ or
-_defiantly attending_ , between being stranded on a _desert island_ or a _dessert island_ , or
+_defiantly attending_, between being stranded on a _desert island_ or a _dessert island_, or
 between _my dear_ or _my deer_. Both options are spelled correctly, but they have
 dramatically different meanings.
 
@@ -80,8 +80,8 @@ Proofread your documents thoroughly. It is helpful to read your documents out lo
 read it in your head, you often read what you meant to say instead of the information you
 wrote. Have someone else proofread your document too.
 
-2. Effective writing should be comprehendible and enjoyable to your target
-audience. Have you ever become frustrated reading an instruction manual because the
+**2. Effective writing should be comprehendible and enjoyable to your target**
+**audience**. Have you ever become frustrated reading an instruction manual because the
 directions were confusing? Clearly, the writer did not accurately gauge the target
 audience. If the reader is throwing the manual down in frustration, then the writer has
 failed. How can you avoid this?
@@ -99,14 +99,14 @@ writing. Imagine receiving the following email from your manager, “OMG! U will
 makes the writer look amateurish and unprofessional.
 
 Article 1 - _Trackerpress:_ “Why is it important to use correct grammar?”
-[http://www.trackerpress.com/reference/why-is-correct-grammar-important.php](http://www.trackerpress.com/reference/why-is-correct-grammar-important.php)
+[http://www.trackerpress.com/reference/why-](http://www.trackerpress.com/reference/why-)is-correct-grammar-important.php
 
 Article 2 - _USA Today:_ “Wanna get hired? Work on your grammar
 [http://www.usatodayeducate.com/staging/index.php/career/wanna-get-hired-wo](http://www.usatodayeducate.com/staging/index.php/career/wanna-get-hired-wo)rk-on-
 your-grammar
 
 Article 3 - Huffington Post: “Kyle Wiens of iFixit Won‟t Hire the Grammatically Challenged”
-[http://www.huffingtonpost.com/2012/10/03/kyle-wiens-ifixit-grammar_n_1937902.html](http://www.huffingtonpost.com/2012/10/03/kyle-wiens-ifixit-grammar_n_1937902.html)
+[http://www.huffingtonpost.com/2012/10/03/kyle-wiens-ifixit-grammar_n_19379](http://www.huffingtonpost.com/2012/10/03/kyle-wiens-ifixit-grammar_n_19379)02.html
 
 #### The Eight Parts of Speech
 
@@ -972,7 +972,7 @@ Apostrophes have two purposes: to show possession and to show missing letters in
 contraction. Apostrophes never make nouns plural. How do you know where to use an
 apostrophe?
 
-1. Look for possessive words
+**1. Look for possessive words**
 Usually the nouns appear together in a sentence, and the first noun shows ownership.
 
 ```
@@ -981,7 +981,7 @@ Usually the nouns appear together in a sentence, and the first noun shows owners
  Hawaii‟s beaches
 ```
 
-2. Reverse the nouns
+**2. Reverse the nouns**
 If you are not sure if the nouns are possessive, try reversing the nouns. Use the second
 noun to make a prepositional phrase.
 
@@ -991,7 +991,7 @@ noun to make a prepositional phrase.
  The beaches of Hawaii
 ```
 
-3. Determine if the noun is singular or plural
+**3. Determine if the noun is singular or plural**
 People often get confused about where to put the apostrophe. It depends on two things:
 whether the noun is singular or plural and if the noun ends in s.
 
@@ -1966,9 +1966,9 @@ participle of the verb study.)
 
 2. **Present and past participles can also work as adjectives.** Adjectives describe
 nouns or pronouns.
- Sarah enjoyed her swimming lessons. (The present participle swimming is
+ Sarah enjoyed her **swimming** lessons. (The present participle _swimming_ is
 describing the lessons.)
- The dripping faucet kept them awake. (The present participle dripping is
+ The **dripping** faucet kept them awake. (The present participle _dripping_ is
 describing the faucet.)
  The **wrecked** car was towed to the repair shop. (The past participle _wrecked_ is
 describing the car.)
@@ -2358,8 +2358,8 @@ plural.)
 
 **Subjects joined by and are singular in only two cases.**
 
-1. When the subjects are preceded by the words each or every, the verb is singular.
-Think of it as each and every single thing.
+**1.** When the subjects are preceded by the words _each_ or _every_, the verb is singular.
+Think of it as each _and every single thing._
 
 ```
  Every student and instructor is eligible for a prize. (Think of the sentence as,
@@ -2368,7 +2368,7 @@ Think of it as each and every single thing.
 individual report and each individual check needs to be signed.”)
 ```
 
-2. When the subject joined by and represents a single person or thing, it is considered
+**2.** When the subject joined by and represents a single person or thing, it is considered
 singular. For example, macaroni and cheese is a singular noun. It refers to one dish.
 
 ```
@@ -2719,7 +2719,7 @@ adjectives. Coordinating adjectives need to be separated with commas. To test wh
 the adjectives need a comma separating them, run the sentence through the following
 test.
 
-1. Mentally add the word and between the adjectives. If the sentence still makes
+1. Mentally add the word _and_ between the adjectives. If the sentence still makes
 sense, then move on to the second rule.
 2. Mentally reverse the order of the adjectives. Does the sentence still make
 sense?
@@ -3168,7 +3168,7 @@ spoken, but they are different.
 1. Entering something
 2. Changing form
 3. Making contact
-In to can happen when using the preposition in, followed by the word to. These words
+**In to** can happen when using the preposition _in_, followed by the word _to_. These words
 can show up next to each other in a sentence.
 
 ```
@@ -4012,37 +4012,37 @@ than three digits.)
 
 #### Quick List of Comma Rules
 
-1. Use a comma to separate three or more items in a series.
+**1. Use a comma to separate three or more items in a series.**
  She likes apples, pears, bananas, and peaches.
-2. Use a comma with a coordinating conjunction (FANBOYS) to separate
-independent clauses.
+**2. Use a comma with a coordinating conjunction (FANBOYS) to separate**
+**independent clauses**.
  Fred likes to go out for dinner, but he also enjoys cooking dinner at home.
-3. Use a comma to separate an introductory dependent clause from the
-independent clause.
+**3. Use a comma to separate an introductory dependent clause from the**
+**independent clause.**
  Although it began to rain, we went for a walk around the neighborhood.
-5. Use commas to separate two or more adjectives that describe the same noun.
+**5. Use commas to separate two or more adjectives that describe the same noun.**
 Try inserting the word “and” between the adjectives and reverse the adjectives. If the
 sentence still makes sense, then a comma is needed between the adjectives.
  She is an intelligent, capable student. (She is a capable and intelligent student.)
-4. Use commas to set apart nonessential parenthetical elements in a sentence. It
+**4. Use commas to set apart nonessential parenthetical elements in a sentence.** It
 is considered nonessential if it can be removed and the sentence still makes sense.
  Fred is, without a doubt, the best cook in the family.
-5. Use commas to set apart elements in dates, geographical locations, addresses,
-and titles in names.
+**5. Use commas to set apart elements in dates, geographical locations, addresses,**
+**and titles in names.**
  Nancy Johnson, MD, moved to Paris, France, on July 15, 2013, to complete her
 residency.
-6. Use commas to separate a short quotation from the rest of the sentence.
+**6. Use commas to separate a short quotation from the rest of the sentence.**
  Mary asked, “Who wants to go to Hawaii in December?” “I do,” said Sarah.
-7. Use commas when necessary to prevent confusion.
+**7. Use commas when necessary to prevent confusion.**
  To Nancy, Kennedy was the most charismatic president.
-8. Use commas when directly addressing someone.
+**8. Use commas when directly addressing someone.**
  Let‟s eat, Grandma!
-9. Use a comma when separating introductory words, such as yes, well, no, and
-now.
+**9. Use a comma when separating introductory words, such as yes, well, no, and**
+**now.**
  Yes, I will be at the conference in Las Vegas.
-10. Use a comma to show contrasting statements.
+**10. Use a comma to show contrasting statements.**
  These are my shoes, not yours.
-11. Use a comma when unrelated numbers appear side by side in a sentence.
+**11. Use a comma when unrelated numbers appear side by side in a sentence.**
 
 ```
  By September 2014, 13 new cafes will be opening on campus.
@@ -4939,30 +4939,30 @@ reference to a treaty and does not name a specific treaty)
 
 **Quick List of Capitalization Rules**
 
-1. Capitalize the first letter of the first word in a sentence.
-2. Capitalize the pronoun I.
-3. Capitalize all proper nouns.
-4. Capitalize geographic locations.
-5. Capitalize celestial bodies. (Jupiter, Mars, Earth)
-6. Capitalize days, months, and holidays.
-7. Capitalize the names of specific newspapers, journals, books,
+**1. Capitalize the first letter of the first word in a sentence.**
+**2. Capitalize the pronoun I.**
+**3. Capitalize all proper nouns.**
+**4. Capitalize geographic locations.**
+**5. Capitalize celestial bodies. (Jupiter, Mars, Earth)**
+**6. Capitalize days, months, and holidays.**
+**7. Capitalize the names of specific newspapers, journals, books,**
 
 **and articles.**
 
-8. Capitalize formal titles (political, professional, military, nobility)
-that appear before someone’s name. If the title appears after the
+**8. Capitalize formal titles (political, professional, military, nobility)**
+**that appear before someone’s name.** If the title appears after the
 name, it is not capitalized.
-9. Capitalize family titles only if they precede a person’s name or
-when they are substituting for a person’s name.
-10. Capitalize specific religions and nationalities.
-11. Capitalize direction names if they are referring to a specific
-location.
-12. Capitalize the main words naming specific departments,
-divisions, agencies and committees.
-13. Capitalize the first word in a quotation.
-14. Capitalize the first word of each item in a vertical list.
-15. Capitalize the names of specific amendments, bills, laws, and
-treaties.
+**9. Capitalize family titles only if they precede a person’s name or**
+**when they are substituting for a person’s name.**
+**10. Capitalize specific religions and nationalities.**
+**11. Capitalize direction names if they are referring to a specific**
+**location.**
+**12. Capitalize the main words naming specific departments,**
+**divisions, agencies and committees.**
+**13. Capitalize the first word in a quotation.**
+**14. Capitalize the first word of each item in a vertical list.**
+**15. Capitalize the names of specific amendments, bills, laws, and**
+**treaties.**
 
 Chapter 13
 
@@ -5188,37 +5188,37 @@ rules regarding numbers.
 
 #### Quick Rules for Numbers
 
-1. When writing numbers as figures, use a comma to separate groups of three
-digits.
-2. The numbers one through ten are written as words. All numbers over ten are
-written as numerals.
-EXCEPTION: If numbers under ten and over ten are used together in the same
+**1. When writing numbers as figures, use a comma to separate groups of three**
+**digits**.
+**2. The numbers one through ten are written as words. All numbers over ten are**
+**written as numerals.**
+**EXCEPTION**: If numbers under ten and over ten are used together in the same
 sentence, use numerals for all numbers.
-3. Numbers that begin sentences are written out as words.
-EXCEPTION: If the written out number consists of more than two words, rewrite the
+**3. Numbers that begin sentences are written out as words.**
+**EXCEPTION**: If the written out number consists of more than two words, rewrite the
 entire sentence.
-EXCEPTION: It is acceptable to begin a sentence with a calendar year.
-4. Use numbers to express amounts of money.
-5. Use numbers (1, 2, 3) if the date follows the month.
-6. Use ordinal numbers (1st, 2nd, 3rd) if the date precedes the month.
-7. Use numerals for address numbers except for the number One.
-8. Street names numbered ten and below are written out as words (first, second,
-third).
-9. When two numbers appear side by side in a sentence, write the first number in
-words and second number as a numeral.
-10. Use numbers to express time with a.m. and p.m.
-11. Numbers or words can precede o’clock, in the morning, in the afternoon, or in
-the evening.
-12. Use numbers to express weights, measurements, and temperatures.
-13. Use a combination of numbers and words to express large numbers. It is
-easier to read as a combination.
-14. Use numbers to express percentages and spell out the word percent.
-15. Simple fractions are written as words when they can be expressed in two
-words and when it is the only fraction in a sentence.
-16. Use numbers to express long fractions, mixed fractions (whole numbers and
-fractions together), and multiple fractions within the same sentence.
+**EXCEPTION:** It is acceptable to begin a sentence with a calendar year.
+**4. Use numbers to express amounts of money.**
+**5. Use numbers (1, 2, 3) if the date follows the month**.
+**6. Use ordinal numbers (1st, 2nd, 3rd) if the date precedes the month.**
+**7. Use numerals for address numbers except for the number One**.
+**8. Street names numbered ten and below are written out as words (first, second,**
+**third)**.
+**9. When two numbers appear side by side in a sentence, write the first number in**
+**words and second number as a numeral.**
+**10. Use numbers to express time with a.m. and p.m.**
+**11. Numbers or words can precede o’clock, in the morning, in the afternoon, or in**
+**the evening.**
+**12. Use numbers to express weights, measurements, and temperatures.**
+**13. Use a combination of numbers and words to express large numbers. It is**
+**easier to read as a combination.**
+**14. Use numbers to express percentages and spell out the word percent.**
+**15. Simple fractions are written as words when they can be expressed in two**
+**words and when it is the only fraction in a sentence.**
+**16. Use numbers to express long fractions, mixed fractions (whole numbers and**
+**fractions together), and multiple fractions within the same sentence.**
 
-17. Use numbers to express grades, scores, and voting results.
+**17. Use numbers to express grades, scores, and voting results.**
 
 ## Commonly Confused Words and
 

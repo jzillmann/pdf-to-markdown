@@ -168,10 +168,10 @@ v. a URI or hyperlink to the Licensed Material to the extent reasonably practica
 Citing siMPle in academic papers:
 ```
 
-- Primpke, S., A. Dias, P., Gerdts, G., Anal. Methods 11, 2138–2147. (2019)
+- Primpke, S., A. Dias, P., Gerdts, G., Anal. Methods 11, [^2138]:–[^2147]:. (2019)
 - Liu, F., Olesen, K.B., Borregaard, A.R., Vollertsen, J., Sci. Total Environ. 671. (2019)
 - Raman database: Cabernard, L.; Roscher, L.; Lorenz, C.; Gerdts, G.; Primpke, S., Environmental Science
-& Technology 52 (22), 13279-13288 (2018)
+& Technology 52 (22), 13279-[^13288]: (2018)
 
 ```
 B. indicate if You modified the Licensed Material and retain an indication of any previous

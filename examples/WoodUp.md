@@ -39,7 +39,7 @@ E-ISBN 978-88-6046-180-3
 ```
 
 ```
-Dieser Band – Cover und Zitate ausgenommen – ist lizenziert unter der
+Dieser Band –Cover und Zitate ausgenommen – ist lizenziert unter der
 Creative Commons Attribuition-ShareAlike 4.0 International License.
 ```
 
@@ -47,6 +47,35 @@ Italienischer Originaltitel:
 WOOD-UP – Valorizzazione della filiera di gassificazione di biomasse legnose
 per l’energia, la fertilità del suolo e la mitigazione dei cambiamenti climatici
 
+## Einleitung
+
+**Giustino Tonon– Freie Universität Bozen**
+**Irene Criscuoli – Freie Universität Bozen**
+
+_Im vorliegenden Band werden die wichtigsten Ergebnisse aus dem Projekt_
+_WOOD-UP vorgestellt. Die Finanzierung des Projektes erfolgte zur Gänze aus_
+_Mitteln des Europäischen Fonds für regionale Entwicklung EFRE 2014–2020._
+_WOOD-UP wurde über einen Zeitraum von vier Jahren von der Freien Uni-_
+_versität Bozen gemeinsam mit dem Versuchszentrum Laimburg abgewickelt_
+_mit dem Anspruch, als Produkt- und Prozessinnovationsprojekt potentiell_
+_signifikante Auswirkungen auf Schlüsselbranchen der Südtiroler Wirtschaft_
+_zu erzielen. Das Hauptziel war dabei eine nach Grundsätzen wirtschaftlicher_
+_und ökologischer Nachhaltigkeit ausgerichtete Aufwertung der Südtiroler_
+_Produktionskette für die Pyrovergasung von Holzbiomasse. Insbesondere an-_
+_geregt wurde das Projekt durch den Umstand, dass Südtirol die europaweit_
+_größte Dichte an mit Holzbiomasse betriebenen Fernheizwerken besitzt; so ist_
+_Biomasse in Südtirol nach Wasserkraft die zweitwichtigste Energiequelle. Zu_
+_diesen Heizwerken gehört eine erhebliche Zahl kleiner und mittelgroßer Py-_
+_rovergasungsanlagen mit hohem Energieertrag, die für Investoren der Ener-_
+_giebranche besonders attraktiv sind, nicht zuletzt aufgrund der staatlichen_
+_Förderpolitik hinsichtlich der Energieerzeugung aus erneuerbaren Ressour-_
+_cen. Obwohl die gleichzeitige Erzeugung von Wärme und Strom in einer Py-_
+_rovergasungsanlage als nachhaltige Form der Energieerzeugung gilt, gibt es_
+_noch Schwächen in der Kraft-Wärme-Kopplung. Auf einige dieser Schwach-_
+_punkte hat sich das Projekt WOOD-UP konzentriert, um mögliche Ansätze für_
+_die Aufwertung der gesamten Produktionskette zu analysieren und vorzu-_
+_schlagen. Bei der Pyrovergasung fällt insbesondere ein kohlenstoffreiches,fes-_
+_tes Nebenerzeugnis (Kohle) an, das normalerweise als zu entsorgendes Ab-_
 
 Tonon, Criscuoli
 
@@ -119,12 +148,12 @@ _und wirtschaftlichen Nachhaltigkeit ermittelt werden._
 ## polygenerative Strukturierung
 
 **Daniele Basso– Freie Universität Bozen**
-**Eleonora Cordioli– FreieUniversität Bozen**
-**Elisa Bonadio– NOI Techpark Südtirol**
-**Francesco Patuzzi– Freie Universität Bozen**
-**Stefano Dal Savio– NOI Techpark Südtirol**
+**Eleonora Cordioli – Freie Universität Bozen**
+**Elisa Bonadio – NOI Techpark Südtirol**
+**Francesco Patuzzi – Freie Universität Bozen**
+**Stefano Dal Savio – NOI Techpark Südtirol**
 **Tanja Mimmo– Freie Universität Bozen**
-**Marco Baratieri– Freie Universität Bozen**
+**Marco Baratieri – Freie Universität Bozen**
 
 Abstract
 _Die Verbreitung kleiner Holzvergasungsanlagen hat in Südtirol im letzten Jahrzehnt_
@@ -290,20 +319,20 @@ _wurde Betreibern einzelner Anlagen, die sich zur Mitarbeit an diesem Projekt_
 _bereiterklärt haben, ein Fragebogen vorgelegt, um möglichst viele Informati-_
 _onen zu sammeln, insbesondere in Bezug auf:_
 
-- den Fluss der verwendeten Holzbiomasse
-- den Fluss der erzeugten Rückstände (Kohle)
-Es wurden also Informationen über die Art der verwendeten Biomasse (Hack-
-schnitzel, Pellets oder Briketts), deren Herkunft, die Eigenschaften des Mate-
-rials (z. B. Feuchtigkeit), den jährlichen Verbrauch der Anlage und die Kosten
-der verwendeten Rohstoffe gesammelt. Was die erzeugte Kohle anbelangt,
-wurden Informationen über die Art der Rückstände (trockene Kohle, feuchte
-Kohle, Asche oder Kondensflüssigkeiten), ihren Bestimmungszweck, die jähr-
-lich gewonnenen Mengen und die Entsorgungskosten (bzw. den Verkaufs-
-preis) gesammelt.
-Abgegeben wurden Fragebögen von 17 Anlagen, die repräsentativ für 10 der
-11 in Südtirol angewandten Technologien sind; dadurch erhielt man ein all-
-gemeines Bild von der Situation, das repräsentativ für die regionale Produk-
-tionskette der Holzvergasung ist.
+_- den Fluss der verwendeten Holzbiomasse_
+_- den Fluss der erzeugten Rückstände (Kohle)_
+_Es wurden also Informationen über die Art der verwendeten Biomasse (Hack-_
+_schnitzel, Pellets oder Briketts), deren Herkunft, die Eigenschaften des Mate-_
+_rials (z. B. Feuchtigkeit), den jährlichen Verbrauch der Anlage und die Kosten_
+_der verwendeten Rohstoffe gesammelt. Was die erzeugte Kohle anbelangt,_
+_wurden Informationen über die Art der Rückstände (trockene Kohle, feuchte_
+_Kohle, Asche oder Kondensflüssigkeiten), ihren Bestimmungszweck, die jähr-_
+_lich gewonnenen Mengen und die Entsorgungskosten (bzw. den Verkaufs-_
+_preis) gesammelt._
+_Abgegeben wurden Fragebögen von 17 Anlagen, die repräsentativ für 10 der_
+_11 in Südtirol angewandten Technologien sind; dadurch erhielt man ein all-_
+_gemeines Bild von der Situation, das repräsentativ für die regionale Produk-_
+_tionskette der Holzvergasung ist._
 
 2.2 Monitoring der Anlagen und Abschluss der Massen- und
 Energiebilanzen
@@ -1314,8 +1343,8 @@ A B C D E F G H I M R100R75 R50 O
 
 _-R_
 _O_
-_-C_
-_Q_
+_  -C_
+_  Q_
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
@@ -1635,8 +1664,8 @@ IBI A B C D E F G H I M R100R75 R50 O
 
 _-R_
 _O_
-_-C_
-_Q_
+_  -C_
+_  Q_
 
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
@@ -1755,8 +1784,8 @@ EBC A B C D E F G H I M R100R75 R50 O
 
 _-R_
 _O_
-_-C_
-_Q_
+_  -C_
+_  Q_
 
 Basso, Cordioli, Bonadio, Patuzzi, Dal Savio, Mimmo, Baratieri
 
@@ -1876,8 +1905,8 @@ BQMA B C D E F G H I M R100R75 R50 O
 
 _-R_
 _O_
-_-C_
-_Q_
+_  -C_
+_  Q_
 
 ```
 Neuester Stand der Technik der Vergasung von Holzbiomasse in Südtirol
@@ -2030,10 +2059,10 @@ _erläutert._
 _- „Investitionsjahr“: die Wahl des Jahres, in dem der Eingriff vorgenommen_
 _werden soll, wurde unter Berücksichtigung der folgenden beiden Fakto-_
 _ren getroffen:_
-_- Die meisten in der Region angesiedelten Anlagen wurden zwischen_
-_2013 und 2015 genehmigt (27 von 44 aktuell betriebenen Anlagen) und_
-_können daher die noch für weitere 13–15 Jahre vorgesehene Förderung_
-_in Anspruch nehmen;_
+_  - Die meisten in der Region angesiedelten Anlagen wurden zwischen_
+_  2013 und 2015 genehmigt (27 von 44 aktuell betriebenen Anlagen) und_
+_  können daher die noch für weitere 13–15 Jahre vorgesehene Förderung_
+_  in Anspruch nehmen;_
 _- vermutlich werden noch einige Jahre Forschung erforderlich sein, um_
 _potenzielle Änderungen an den Anlagen zur Verbesserung der Koh-_
 _lequalität zu ermitteln und zu entwickeln._
@@ -2127,7 +2156,7 @@ _- Auf Grundlage des Marktpreises der Kohle in der Agrarbranche wurden_
 _vier verschiedene optimierte Anlagenkonfigurationen erstellt, die sich je-_
 _weils durch einen Verkaufszielpreis für die Kohle auf dem Markt kenn-_
 _zeichnen:_
-_- Optimierte Konfiguration_ [^1]: _– Preis für die Kohleaufwertung = 0 €/t;_
+_  - Optimierte Konfiguration_ [^1]: _– Preis für die Kohleaufwertung = 0 €/t;_
 _- Optimierte Konfiguration_ [^2]: _– Preis für die Kohleaufwertung =_ [^100]: _€/t;_
 _- Optimierte Konfiguration_ [^3]: _– Preis für die Kohleaufwertung =_ [^200]: _€/t;_
 _- Optimierte Konfiguration_ [^4]: _– Preis für die Kohleaufwertung =_ [^500]: _€/t._
@@ -4190,10 +4219,10 @@ der Umpflanzung der Sämlinge in die Gefäße dauerte; diese Gefäße enthielten
 verschiedenen Konzentrationen (2,5 = 8,5 gcharkgBoden
 
 -[^1]:; 5 = 17 gcharkgBoden
--[^1]:) der drei verschiedenen
-Kohlenproben (F, B und H) versetzten Boden. Die Daten stellen die Mittelwerte ± SF
-(Standardfehler) von fünf unabhängigen Pflanzen für jede Behandlung dar. Verschiedene
-Buchstaben stehen für statistisch unterschiedliche Werte (P < 0,05)
+  -[^1]:) der drei verschiedenen
+  Kohlenproben (F, B und H) versetzten Boden. Die Daten stellen die Mittelwerte ± SF
+  (Standardfehler) von fünf unabhängigen Pflanzen für jede Behandlung dar. Verschiedene
+  Buchstaben stehen für statistisch unterschiedliche Werte (P < 0,05)
 
 Abb. 4 – Konzentrationen von Mikronährstoffen (mg g-[^1]) in den Blättern der Maispflanzen am Ende
 der experimentellen Periode des Phytotoxizitätstests, der insgesamt fünf Wochen ab dem Zeitpunkt
@@ -4201,10 +4230,10 @@ der Umpflanzung der Sämlinge in die Gefäße dauerte; diese Gefäße enthielten
 verschiedenen Konzentrationen (2,5 = 8,5 gcharkgBoden
 
 -[^1]:; 5 = 17 gcharkgBoden
--[^1]:) der drei verschiedenen
-Kohlenproben (F, B und H) versetzten Boden. Die Daten stellen die Mittelwerte ± SF
-(Standardfehler) von fünf unabhängigen Pflanzen für jede Behandlung dar. Verschiedene
-Buchstaben stehen für statistisch unterschiedliche Werte (P < 0,05)
+  -[^1]:) der drei verschiedenen
+  Kohlenproben (F, B und H) versetzten Boden. Die Daten stellen die Mittelwerte ± SF
+  (Standardfehler) von fünf unabhängigen Pflanzen für jede Behandlung dar. Verschiedene
+  Buchstaben stehen für statistisch unterschiedliche Werte (P < 0,05)
 
 Celletti, Borruso, Valentinuzzi,Basso,Patuzzi, Baratieri, Cesco, Mimmo
 

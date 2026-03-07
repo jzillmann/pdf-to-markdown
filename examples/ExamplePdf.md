@@ -37,29 +37,32 @@ Text-Version ist es schon stark sichtbar!
 Und jetzt[^4] einfach nochmal Text[^5] um die Fussnoten in zweistellige Bereiche[^6] vorranzutreiben!
 
 [^2]: Was immer auch ‘normal’ ist...
+
 [^3]: Nicht zu verwechseln mit ‘condimenta’. Meine Lateinkenntnisse sind zwar schon so alt das ich
 überhaupt keine Ahnung hab, aber zumindest hab ich jetzt eine mehrzeilige Fussnote!
-[^4]: Hier & Jetzt!
-[^5]: Nicht viel mehr als ein Satz.
-[^6]: Weil dann wird's komplizierter!
 
+[^4]: Hier & Jetzt!
+
+[^5]: Nicht viel mehr als ein Satz.
+
+[^6]: Weil dann wird's komplizierter!
 
 ## Schriftschnitt
 
 Etwas _kursiv_ ist auch nicht schlecht. **Fett** ist auch interessant. Und was ist mit
-**_FETTUNDKURSIV_**?
+**FETTUNDKURSIV**?
 
-Interessant wird's wenn _mehrere Wörter hintereinanderweg formatiert_ sind. Und _dann noch über
-Zeilenbrüche hinweg_.
+Interessant wird's wenn _mehrere Wörter hintereinanderweg formatiert_ sind. Und _dann noch über_
+_Zeilenbrüche hinweg_.
 
 Fies könnte es werden mit _abwechselnden_ **Formaten**. Und das ganze dann noch _über_ **mehrere**
 _Zeilen_ hinweg.
 
-Und weil es so schön ist, fangen wir jetzt in dieser Zeile mit einem Schriftschnitt, nämlich _kursiv an.
-Ziehen es über die gesamte zweite Zeile durch. Ist nicht ganz leicht, aber schaffen wir! Und lassen
-es dann Mitte_ der 3ten **Zeile** ausklingen.
+Und weil es so schön ist, fangen wir jetzt in dieser Zeile mit einem Schriftschnitt, nämlich _kursiv an._
+_Ziehen es über die gesamte zweite Zeile durch. Ist nicht ganz leicht, aber schaffen wir! Und lassen_
+_es dann Mitte_ der 3ten **Zeile** ausklingen.
 
-Und nun _kursiv_ Und **Fett** Zusammen _Ge_ **Mixt**. Ohne Leerzeichen...
+Und nun _kursiv_Und**Fett**Zusammen_Ge_**Mixt**. Ohne Leerzeichen...
 
 _Eine_ Zeile, die mit kursiv anfing und endet mit **fett.**
 
@@ -72,23 +75,23 @@ Eine Liste mit unterschiedlich formatierten Wörtern
 - Etwas **Fett**
 - Etwas Unterstrichen[^7]
 - Etwas Durchgestrichen
-- Und noch ein Link: [http://pdf2md.morethan.io](http://pdf2md.morethan.io)
+- Und noch ein Link: http://pdf2md.morethan.io
 
-Ne Zeile die _kursiv endet,
-und in ner_ (fast) _komplett lasziven, eh, kursiven Zeile endet._
+Ne Zeile die _kursiv endet,_
+_und in ner_ (fast) _komplett lasziven, eh, kursiven Zeile endet._
 
 **Etwas eher unwahrscheinliches. Zeile komplette fett.**
 _Zeile komplett kursiv._
 **Und wieder fett.**
 _Und_ **gemixt**.
 
-_Ein kompletter Absatz in kursiver Schriftform. Was will ich damit erreichen? Ich will es sehen,
-einfach nur sehen! Gibt sicher noch andere sehenswerte Sachen im Leben, aber JETZT,
-interessiert mich ein kursiver Text Block! ;)_
+_Ein kompletter Absatz in kursiver Schriftform. Was will ich damit erreichen? Ich will es sehen,_
+_einfach nur sehen! Gibt sicher noch andere sehenswerte Sachen im Leben, aber JETZT,_
+_interessiert mich ein kursiver Text Block! ;)_
 
 _Und ein folgender Absatz, auch kursiv!_
 
-_Und ein kursiver Setzt der einen eingeschlossen Link, nämlich [http://pdf2md.morethan.io,](http://pdf2md.morethan.io,) hat._
+_Und ein kursiver Setzt der einen eingeschlossen Link, nämlich http://pdf2md.morethan.io, hat._
 
 [^7]: Fussnote in einer Liste
 
@@ -114,8 +117,8 @@ Und Untergruppen:
 
 Und eine mit bullet’s:
 
-• Eintrage 1
-• Eintrage 2
+- Eintrage 1
+- Eintrage 2
 
 Gemixt:
 
@@ -214,7 +217,8 @@ abc
 ### Heading 2 II
 
 [^8]: Eine Überschrifts-Fussnote... so was gibts auch!
-[^9]: Wisse, dass ist eine Fussnote in einem Zitat!
-[^10]: Der Albert Einstein (Fussnote im Zitat, am Ende der Zeile)
 
+[^9]: Wisse, dass ist eine Fussnote in einem Zitat!
+
+[^10]: Der Albert Einstein (Fussnote im Zitat, am Ende der Zeile)
 

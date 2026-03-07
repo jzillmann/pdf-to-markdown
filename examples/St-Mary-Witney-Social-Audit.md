@@ -15,12 +15,12 @@ kindly been shared by Ian Meyrick.
 
 Other photos are by Catriona Robertson.
 
-_The social audit would not have been possible without the generous participation of
-the Rector, clergy, the Appeal Committee, key lay people within the parish of Witney
-and leading members of the wider community._
+_The social audit would not have been possible without the generous participation of_
+_the Rector, clergy, the Appeal Committee, key lay people within the parish of Witney_
+_and leading members of the wider community._
 
-_A Statement of Need has been compiled, alongside a Statement of Significance and
-an attractive Appeal pack, all of which are available from the parish office._
+_A Statement of Need has been compiled, alongside a Statement of Significance and_
+_an attractive Appeal pack, all of which are available from the parish office._
 
 Revd Toby Wright, Rector
 

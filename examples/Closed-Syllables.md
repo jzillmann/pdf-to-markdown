@@ -6,19 +6,15 @@ If you’re helping someone learn to read, you’re helping them unlock the conn
 printed word and the words we speak — the “sound/symbol” connection. This book is a compilation of
 lists of words which follow the predictable associations of letters, syllables and words to the sounds we
 use in speaking to each other.
-
 This book does not attempt to be a reading program. Recognizing words and patterns in sound/symbol
 associations is just one part of reading, though a critical one. This book is designed to be used as a
 reference so that you can:
-
 - Meet individual needs of students from a wide range of ages and backgrounds; VAT and TAX may be
 more appropriate examples of the short a sound for some students than CAT and FAN, which they may
 have memorized without learning the sounds associated with the letters.
 - Teach students that exceptions are also predictable, and there are usually many examples of each kind
 of exception. These are called special categories or special patterns.
-
 HOW THE LISTS ARE ORGANIZED
-
 Word lists are presented in the order they are taught in many structured, multisensory language
 programs:
 Syllable type 1: Closed syllables — short vowel sounds (TIN, EX, SPLAT)
